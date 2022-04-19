@@ -23,6 +23,9 @@ more like a toolbox for myself.
   WebAssembly runtime for Python
 - [pyodide/pyodide](https://github.com/pyodide/pyodide): Pyodide is a Python
   distribution for the browser and Node.js based on WebAssembly
+- [fermyon/spin](https://github.com/fermyon/spin): Spin is an open source
+  framework for building and running fast, secure, and composable cloud
+  microservices with WebAssembly
 
 ## Python
 
@@ -50,6 +53,31 @@ more like a toolbox for myself.
 - [nschloe/tuna](https://github.com/nschloe/tuna): 🐟 Python profile viewer
 - [benfred/py-spy](https://github.com/benfred/py-spy): Sampling profiler for
   Python programs
+- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer):
+  VizTracer is a low-overhead logging/debugging/profiling tool that can trace
+  and visualize your python code execution.
+- [bloomberg/memray](https://github.com/bloomberg/memray): Memray is a memory
+  profiler for Python
+
+### Typing
+
+- [beartype/beartype](https://github.com/beartype/beartype): Unbearably fast
+  O(1) runtime type-checking in pure Python.
+- [antonagestam/phantom-types](https://github.com/antonagestam/phantom-types):
+  👻 Phantom types for Python
+- [dry-python/returns](https://github.com/dry-python/returns): Make your
+  functions return something meaningful, typed, and safe!
+- [MaT1g3R/option](https://github.com/MaaT1g3R/option): Rust like Option and
+  Result types in Python
+- [alice-biometrics/meiga](https://github.com/alice-biometrics/meiga): 🧙 A
+  simple, typed and monad-based Result type for Python.
+
+### Misc
+
+- [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql): Simple SQL in
+  Python
+- [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write
+  Kubernetes operators in just a few lines of code
 
 ## C / Linux
 
@@ -77,6 +105,8 @@ more like a toolbox for myself.
   in Rust
 - [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust): Extremely fast
   tracing library for Rust
+- [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf): Website for
+  graphing performance of rustc
 
 ### Clients
 
@@ -87,6 +117,8 @@ more like a toolbox for myself.
 
 - [Keats/tera](https://github.com/Keats/tera): A template engine for Rust based
   on Jinja2/Django
+- [lazops/rustea](https://github.com/lazops/rustea): An easy-to-use TUI crate
+  for Rust, based off of the Elm architecture.
 
 ## Scala
 
@@ -94,6 +126,8 @@ more like a toolbox for myself.
   boilerplate-free library for loading configuration files
 - [scalatra/scalatra](https://github.com/scalatra/scalatra): Tiny Scala
   high-performance, async web framework, inspired by Sinatra
+- [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala):
+  Scala macros for compile-time generation of safe and ultra-fast JSON codecs
 
 ## Frontend / UI
 
@@ -106,3 +140,8 @@ more like a toolbox for myself.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui):
   Completely unstyled, fully accessible UI components, designed to integrate
   beautifully with Tailwind CSS. ([index](https://headlessui.dev/))
+
+### Visualization
+
+- [reaviz/reaviz](https://github.com/reaviz/reaviz): 📊 Data visualization
+  library for React (<reaviz.io>)
