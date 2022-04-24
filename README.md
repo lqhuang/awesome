@@ -58,6 +58,8 @@ more like a toolbox for myself.
   and visualize your python code execution.
 - [bloomberg/memray](https://github.com/bloomberg/memray): Memray is a memory
   profiler for Python
+- [P403n1x87/austin](https://github.com/P403n1x87/austin): Python frame stack
+  sampler for CPython
 
 ### Typing
 
@@ -87,6 +89,8 @@ more like a toolbox for myself.
   Linux.
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy): A UI for eBPF-based
   performance debugging
+- [magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects
+  and displays high-resolution traces of what a process is doing
 
 ## Rust
 
@@ -128,6 +132,14 @@ more like a toolbox for myself.
   high-performance, async web framework, inspired by Sinatra
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala):
   Scala macros for compile-time generation of safe and ultra-fast JSON codecs
+- [kamon-io/Kamon](https://github.com/kamon-io/Kamon): Distributed Tracing,
+  Metrics and Context Propagation for applications running on the JVM
+- [7mind/izumi](https://github.com/7mind/izumi): Productivity-oriented
+  collection of lightweight fancy stuff for Scala toolchain
+- [finagle/finch](https://github.com/finagle/finch): Scala combinator library
+  for building Finagle HTTP services
+- [scalapy/scalapy]https://github.com/scalapy/scalapy: Use the world of Python
+  from the comfort of Scala!
 
 ## Frontend / UI
 
