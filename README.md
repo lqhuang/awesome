@@ -27,6 +27,12 @@ more like a toolbox for myself.
   framework for building and running fast, secure, and composable cloud
   microservices with WebAssembly
 
+### Cloud
+
+- [localstack/localstack](https://github.com/localstack/localstack): 💻 A fully
+  functional local AWS cloud stack. Develop and test your cloud & Serverless
+  apps offline!
+
 ## Python
 
 ### Serialization
@@ -123,6 +129,11 @@ more like a toolbox for myself.
   on Jinja2/Django
 - [lazops/rustea](https://github.com/lazops/rustea): An easy-to-use TUI crate
   for Rust, based off of the Elm architecture.
+- [facebookincubator/superconsole](https://github.com/facebookincubator/superconsole):
+  The superconsole crate provides a handler and building blocks for powerful,
+  yet minimally intrusive TUIs. It is cross platform, supporting Windows 7+,
+  Linux, and MacOS. Rustaceans who want to create non-interactive TUIs can use
+  the component composition building block system to quickly deploy their code.
 
 ## Scala
 
@@ -138,8 +149,13 @@ more like a toolbox for myself.
   collection of lightweight fancy stuff for Scala toolchain
 - [finagle/finch](https://github.com/finagle/finch): Scala combinator library
   for building Finagle HTTP services
-- [scalapy/scalapy]https://github.com/scalapy/scalapy: Use the world of Python
+- [scalapy/scalapy](https://github.com/scalapy/scalapy): Use the world of Python
   from the comfort of Scala!
+- [almond-sh/almond](https://github.com/almond-sh/almond): A Scala kernel for
+  Jupyter ([index](https://almond.sh/))
+- [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer): Akka
+  extension and agent exposing application telemetry and events via
+  OpenTelemetry interface
 
 ## Frontend / UI
 
@@ -149,11 +165,24 @@ more like a toolbox for myself.
   and modern React UI library. ([index](https://nextui.org/))
 - [mantinedev/mantine](https://github.com/mantinedev/mantine/): React components
   library with native dark theme support ([index](https://mantine.dev/))
+
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui):
   Completely unstyled, fully accessible UI components, designed to integrate
   beautifully with Tailwind CSS. ([index](https://headlessui.dev/))
+- [reach/reach-ui](https://github.com/reach/reach-ui): The Accessible Foundation
+  for React Apps and Design Systems ([index](https://reach.tech/))
+- [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source
+  UI component library for building high-quality, accessible design systems and
+  web apps. Maintained by @modulz. ([index](https://radix-ui.com/))
+
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui): ⚡️ Simple,
+  Modular & Accessible UI Components for your React Applications
+  ([index](https://chakra-ui.com/))
+- [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra):The
+  most trendiest & innovative Open Source Admin Template for Chakra UI & React!
+  ([index](https://horizon-ui.com))
 
 ### Visualization
 
 - [reaviz/reaviz](https://github.com/reaviz/reaviz): 📊 Data visualization
-  library for React (<reaviz.io>)
+  library for React ([index](reaviz.io))
