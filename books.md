@@ -16,6 +16,8 @@
   Memory" [index](https://sysprog21.github.io/cpumemory-zhtw)
 - [jackwener/Readings-in-Database-Systems-5th-CN](https://github.com/jackwener/Readings-in-Database-Systems-5th-CN):
   Readings in Database Systems, 5th Edition 中文翻译
+- [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh):
+  手撸解释器教程《Crafting Interpreters》中文翻译
 
 ## Readings
 

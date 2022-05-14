@@ -44,6 +44,9 @@ more like a toolbox for myself.
   decoder and encoder written in C with Python bindings
 - [ijl/orjson](https://github.com/ijl/orjson): Fast, correct Python JSON library
   supporting dataclasses, datetimes, and numpy
+- [jcrist/msgspec](https://github.com/jcrist/msgspec): A fast and friendly
+  JSON/MessagePack library, with optional schema validation
+  ([index](https://jcristharif.com/msgspec/))
 
 ### Test / Mock
 
@@ -79,6 +82,18 @@ more like a toolbox for myself.
   Result types in Python
 - [alice-biometrics/meiga](https://github.com/alice-biometrics/meiga): 🧙 A
   simple, typed and monad-based Result type for Python.
+
+### Build tools
+
+- [project/pdm](https://github.com/pdm-project/pdm): A modern Python package
+  manager with PEP 582 support. ([index](https://pdm.fming.dev/))
+- [pypa/hatch](https://github.com/pypa/hatch): Modern, extensible Python project
+  management ([index](https://hatch.pypa.io/latest/))
+- [linkedin/shiv](https://github.com/linkedin/shiv): shiv is a command line
+  utility for building fully self contained Python zipapps as outlined in PEP
+  441, but with all their dependencies included.
+- [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin
+  that packs your packages into a zipapp
 
 ### Misc
 
