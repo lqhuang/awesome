@@ -32,6 +32,8 @@ more like a toolbox for myself.
 - [localstack/localstack](https://github.com/localstack/localstack): 💻 A fully
   functional local AWS cloud stack. Develop and test your cloud & Serverless
   apps offline!
+- [cloudflare/miniflare](https://github.com/cloudflare/miniflare): 🔥 Fully-local simulator for Cloudflare Workers
+- [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2): ⛅️ The CLI for Cloudflare Workers® 
 
 ## Python
 
