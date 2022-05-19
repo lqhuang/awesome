@@ -32,8 +32,10 @@ more like a toolbox for myself.
 - [localstack/localstack](https://github.com/localstack/localstack): 💻 A fully
   functional local AWS cloud stack. Develop and test your cloud & Serverless
   apps offline!
-- [cloudflare/miniflare](https://github.com/cloudflare/miniflare): 🔥 Fully-local simulator for Cloudflare Workers
-- [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2): ⛅️ The CLI for Cloudflare Workers® 
+- [cloudflare/miniflare](https://github.com/cloudflare/miniflare): 🔥
+  Fully-local simulator for Cloudflare Workers
+- [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2): ⛅️ The CLI
+  for Cloudflare Workers®
 
 ## Python
 
@@ -201,5 +203,7 @@ more like a toolbox for myself.
 
 ### Visualization
 
+- [airbnb/visx](https://github.com/airbnb/visx): 🐯 visx | visualization
+  components ([index](https://airbnb.io/visx))
 - [reaviz/reaviz](https://github.com/reaviz/reaviz): 📊 Data visualization
   library for React ([index](reaviz.io))
