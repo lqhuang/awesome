@@ -1,6 +1,27 @@
 # Open Source Book/Paper/Reading Collections
 
-## Books
+## Books (en)
+
+- [0xAX/linux-insides](https://github.com/0xAX/linux-insides): A little bit
+  about a linux kernel
+  ([gitbooks index](https://0xax.gitbooks.io/linux-insides/content/index.html))
+- [probml/pml-book](https://github.com/probml/pml-book): "Probabilistic Machine
+  Learning" - a book series by Kevin Murphy
+- [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io):
+  Companion webpage to the book "Mathematics For Machine Learning"
+  [pdf download](https://mml-book.com)
+- [winitzki/sofp](https://github.com/winitzki/sofp): A free book: "The Science
+  of Functional Programming"
+- [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers):
+  aka "Bayesian Methods for Hackers": An introduction to Bayesian methods +
+  probabilistic programming with a computation/understanding-first,
+  mathematics-second point of view. All in pure Python ;)
+  [page](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+- [AllenDowney/ThinkComplexity2](https://github.com/AllenDowney/ThinkComplexity2):
+  Book and code for Think Complexity, 2nd edition
+  [page](https://allendowney.github.io/ThinkComplexity2/)
+
+## Books (zh_cn)
 
 - [crazyangelo/Cathedral-and-Bazaar](https://github.com/crazyangelo/Cathedral-and-Bazaar):
   The Cathedral and the Bazaar 中文版
@@ -18,8 +39,17 @@
   Readings in Database Systems, 5th Edition 中文翻译
 - [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh):
   手撸解释器教程《Crafting Interpreters》中文翻译
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and
+  understand Docker&Container technologies, with real DevOps practice! (in
+  Chinese)
+- [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深
+  度学习》 邱锡鹏著 Neural Network and Deep Learning
+  [page](https://nndl.github.io/)
 
 ## Readings
 
 - [lw-lin/streaming-readings](https://github.com/lw-lin/streaming-readings):
   Streaming System 相关的论文读物
+- [qingsongedu/time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review):
+  A professionally curated list of awesome resources (paper, code, data, etc.)
+  on transformers in time series.

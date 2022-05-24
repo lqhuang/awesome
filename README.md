@@ -36,6 +36,14 @@ more like a toolbox for myself.
   Fully-local simulator for Cloudflare Workers
 - [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2): ⛅️ The CLI
   for Cloudflare Workers®
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit):
+  Cloud-native search engine for log management & analytics <quickwit.io>
+
+### Network
+
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive
+  TLS-capable intercepting HTTP proxy for penetration testers and software
+  developers. <https://mitmproxy.org/>
 
 ## Python
 
@@ -73,6 +81,11 @@ more like a toolbox for myself.
   profiler for Python
 - [P403n1x87/austin](https://github.com/P403n1x87/austin): Python frame stack
   sampler for CPython
+- [pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler): A
+  Python memory profiler for data processing and scientific computing
+  applications
+- [reloadware/reloadium](https://github.com/reloadware/reloadium): Advanced hot
+  reloading & profiling for Python
 
 ### Typing
 
@@ -98,6 +111,11 @@ more like a toolbox for myself.
   441, but with all their dependencies included.
 - [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin
   that packs your packages into a zipapp
+
+### Security
+
+- [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit): Audits
+  Python environments and dependency trees for known vulnerabilities
 
 ### Misc
 
@@ -153,6 +171,10 @@ more like a toolbox for myself.
   yet minimally intrusive TUIs. It is cross platform, supporting Windows 7+,
   Linux, and MacOS. Rustaceans who want to create non-interactive TUIs can use
   the component composition building block system to quickly deploy their code.
+- [zhiburt/tabled](https://github.com/zhiburt/tabled): An easy to use library
+  for pretty print tables of Rust structs and enums.
+- [tailhook/humantime](https://github.com/tailhook/humantime): A parser and
+  formatter for std::time::{SystemTime, Duration}
 
 ## Scala
 
