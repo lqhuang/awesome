@@ -45,7 +45,7 @@ more like a toolbox for myself.
 
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive
   TLS-capable intercepting HTTP proxy for penetration testers and software
-  developers. <https://mitmproxy.org/>
+  developers. <mitmproxy.org>
 
 ## Python
 
@@ -60,7 +60,7 @@ more like a toolbox for myself.
   supporting dataclasses, datetimes, and numpy
 - [jcrist/msgspec](https://github.com/jcrist/msgspec): A fast and friendly
   JSON/MessagePack library, with optional schema validation
-  ([index](https://jcristharif.com/msgspec/))
+  <jcristharif.com/msgspec>
 
 ### Test / Mock
 
@@ -105,9 +105,9 @@ more like a toolbox for myself.
 ### Build tools
 
 - [project/pdm](https://github.com/pdm-project/pdm): A modern Python package
-  manager with PEP 582 support. ([index](https://pdm.fming.dev/))
+  manager with PEP 582 support. <pdm.fming.dev>
 - [pypa/hatch](https://github.com/pypa/hatch): Modern, extensible Python project
-  management ([index](https://hatch.pypa.io/latest/))
+  management <hatch.pypa.io/latest>
 - [linkedin/shiv](https://github.com/linkedin/shiv): shiv is a command line
   utility for building fully self contained Python zipapps as outlined in PEP
   441, but with all their dependencies included.
@@ -195,39 +195,40 @@ more like a toolbox for myself.
 - [scalapy/scalapy](https://github.com/scalapy/scalapy): Use the world of Python
   from the comfort of Scala!
 - [almond-sh/almond](https://github.com/almond-sh/almond): A Scala kernel for
-  Jupyter ([index](https://almond.sh/))
+  Jupyter <almond.sh>
 - [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer): Akka
   extension and agent exposing application telemetry and events via
   OpenTelemetry interface
+- [tofu-tf/tofu](https://github.com/tofu-tf/tofu): Functional programming
+  toolbox <docs.tofu.tf>
 
 ## Frontend / UI
 
 ### Components library
 
 - [nextui-org/nextui](https://github.com/nextui-org/nextui): 🚀 Beautiful, fast
-  and modern React UI library. ([index](https://nextui.org/))
+  and modern React UI library. <nextui.org>
 - [mantinedev/mantine](https://github.com/mantinedev/mantine/): React components
-  library with native dark theme support ([index](https://mantine.dev/))
+  library with native dark theme support <mantine.dev>
 
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui):
   Completely unstyled, fully accessible UI components, designed to integrate
-  beautifully with Tailwind CSS. ([index](https://headlessui.dev/))
+  beautifully with Tailwind CSS. <headlessui.dev>
 - [reach/reach-ui](https://github.com/reach/reach-ui): The Accessible Foundation
-  for React Apps and Design Systems ([index](https://reach.tech/))
+  for React Apps and Design Systems <reach.tech>
 - [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source
   UI component library for building high-quality, accessible design systems and
-  web apps. Maintained by @modulz. ([index](https://radix-ui.com/))
+  web apps. Maintained by @modulz. <radix-ui.com>
 
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui): ⚡️ Simple,
-  Modular & Accessible UI Components for your React Applications
-  ([index](https://chakra-ui.com/))
+  Modular & Accessible UI Components for your React Applications <chakra-ui.com>
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra):The
   most trendiest & innovative Open Source Admin Template for Chakra UI & React!
-  ([index](https://horizon-ui.com))
+  <horizon-ui.com>
 
 ### Visualization
 
 - [airbnb/visx](https://github.com/airbnb/visx): 🐯 visx | visualization
-  components ([index](https://airbnb.io/visx))
+  components <airbnb.io/visx>
 - [reaviz/reaviz](https://github.com/reaviz/reaviz): 📊 Data visualization
-  library for React ([index](reaviz.io))
+  library for React <reaviz.io>
