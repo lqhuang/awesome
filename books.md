@@ -20,6 +20,8 @@
 - [AllenDowney/ThinkComplexity2](https://github.com/AllenDowney/ThinkComplexity2):
   Book and code for Think Complexity, 2nd edition
   [page](https://allendowney.github.io/ThinkComplexity2/)
+- [Uncurled](https://un.curl.dev/): everything I know and learned about running
+  and maintaining Open Source projects for three decades.
 
 ## Books (zh_cn)
 

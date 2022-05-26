@@ -38,6 +38,8 @@ more like a toolbox for myself.
   for Cloudflare Workers®
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit):
   Cloud-native search engine for log management & analytics <quickwit.io>
+- [supabase/supabase](https://github.com/supabase/supabase): The open source
+  Firebase alternative. <supabase.com>
 
 ### Network
 
