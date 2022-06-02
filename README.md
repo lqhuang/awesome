@@ -68,6 +68,8 @@ more like a toolbox for myself.
   HTTP interactions to simplify and speed up testing
 - [lundberg/respx](https://github.com/lundberg/respx): Mock HTTPX with awesome
   request patterns and response side effects 🦋
+- [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover): Near
+  Zero-Overhead Python Code Coverage
 
 ### Performance profile
 
@@ -113,6 +115,10 @@ more like a toolbox for myself.
   441, but with all their dependencies included.
 - [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin
   that packs your packages into a zipapp
+- [IBM/import-tracker](https://github.com/IBM/import-tracker): Python utility
+  for tracking third party dependencies within a library
+- [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
+  documentation theme for Sphinx
 
 ### Security
 
@@ -125,6 +131,13 @@ more like a toolbox for myself.
   Python
 - [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write
   Kubernetes operators in just a few lines of code
+- [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf): A Python library for
+  reading and writing PDF, powered by qpdf
+- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter):
+  A modern and customizable python UI-library based on Tkinter
+- [nyggus/rounder](https://github.com/nyggus/rounder): Python package for
+  rounding floats and complex numbers in complex Python objects.
+- [holoviz/panel](https://github.com/holoviz/panel):
 
 ## C / Linux
 
@@ -139,7 +152,7 @@ more like a toolbox for myself.
 
 ## Rust
 
-### Test suites
+### Build & test suites
 
 - [tokio-rs/loom](https://github.com/tokio-rs/loom): Concurrency permutation
   testing tool for Rust.
@@ -147,11 +160,15 @@ more like a toolbox for myself.
   for testing concurrent Rust code.
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest): A next-generation
   test runner for Rust.
+- [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand): Subcommand to
+  show result of macro expansion
 
 ### Performance profile
 
 - [tikv/minstant](https://github.com/tikv/minstant): Performant time measuring
   in Rust
+- [tikv/pprof-rs](https://github.com/tikv/pprof-rs): A Rust CPU profiler
+  implemented with the help of backtrace-rs
 - [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust): Extremely fast
   tracing library for Rust
 - [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf): Website for
@@ -161,6 +178,11 @@ more like a toolbox for myself.
 
 - [influxdata/rskafka](https://github.com/influxdata/rskafka): A minimal Rust
   client for Apache Kafka
+
+### SerDe
+
+- [rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization framework
+  for Rust
 
 ### Misc
 

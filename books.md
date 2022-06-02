@@ -22,6 +22,8 @@
   [page](https://allendowney.github.io/ThinkComplexity2/)
 - [Uncurled](https://un.curl.dev/): everything I know and learned about running
   and maintaining Open Source projects for three decades.
+- [bagder/http3-explained](https://github.com/bagder/http3-explained): A
+  document describing the HTTP/3 and QUIC protocols <http3-explained.haxx.se>
 
 ## Books (zh_cn)
 
