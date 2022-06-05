@@ -103,6 +103,8 @@ more like a toolbox for myself.
   Result types in Python
 - [alice-biometrics/meiga](https://github.com/alice-biometrics/meiga): 🧙 A
   simple, typed and monad-based Result type for Python.
+- [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python
+  to fast C extensions <https://mypyc.readthedocs.io/en/stable/index.html>
 
 ### Build tools
 
@@ -137,7 +139,8 @@ more like a toolbox for myself.
   A modern and customizable python UI-library based on Tkinter
 - [nyggus/rounder](https://github.com/nyggus/rounder): Python package for
   rounding floats and complex numbers in complex Python objects.
-- [holoviz/panel](https://github.com/holoviz/panel):
+- [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
+  dashboarding solution for Python
 
 ## C / Linux
 
@@ -162,6 +165,7 @@ more like a toolbox for myself.
   test runner for Rust.
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand): Subcommand to
   show result of macro expansion
+- [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker
 
 ### Performance profile
 
@@ -197,8 +201,13 @@ more like a toolbox for myself.
   the component composition building block system to quickly deploy their code.
 - [zhiburt/tabled](https://github.com/zhiburt/tabled): An easy to use library
   for pretty print tables of Rust structs and enums.
+- [fdehau/tui-rs](https://github.com/fdehau/tui-rs): Build terminal user
+  interfaces and dashboards using Rust
 - [tailhook/humantime](https://github.com/tailhook/humantime): A parser and
   formatter for std::time::{SystemTime, Duration}
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord): mirrord lets
+  you easily mirror traffic from your production environment to your development
+  environment.
 
 ## Scala
 
@@ -248,9 +257,32 @@ more like a toolbox for myself.
   most trendiest & innovative Open Source Admin Template for Chakra UI & React!
   <horizon-ui.com>
 
+- [wbkd/react-flow](https://github.com/wbkd/react-flow): Highly customizable
+  library for building interactive node-based UIs, editors, flow charts and
+  diagrams
+- [oslabs-beta/Svelvet](https://github.com/oslabs-beta/Svelvet): A lightweight
+  Svelte component library for building interactive node-based flow diagrams
+
 ### Visualization
 
 - [airbnb/visx](https://github.com/airbnb/visx): 🐯 visx | visualization
   components <airbnb.io/visx>
 - [reaviz/reaviz](https://github.com/reaviz/reaviz): 📊 Data visualization
   library for React <reaviz.io>
+
+## The curse of strong typing
+
+- [gcanti/fp-ts](https://github.com/gcanti/fp-ts): Functional programming in
+  TypeScript
+- [Effect-TS/core](https://github.com/Effect-TS/core): A Fully-fledged
+  functional effect system for typescript with a rich standard library
+
+- https://hackage.haskell.org/package/relude
+- https://hackage.haskell.org/package/unliftio
+- https://hackage.haskell.org/package/streamly
+- https://hackage.haskell.org/package/optics
+
+## Speed is everything
+
+- [google/highway](https://github.com/google/highway): Performance-portable,
+  length-agnostic SIMD with runtime dispatch
