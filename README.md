@@ -131,16 +131,23 @@ more like a toolbox for myself.
 
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql): Simple SQL in
   Python
+- [roman-right/beanie](https://github.com/roman-right/beanie): Asynchronous
+  Python ODM for MongoDB
+
 - [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write
   Kubernetes operators in just a few lines of code
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf): A Python library for
   reading and writing PDF, powered by qpdf
+
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter):
   A modern and customizable python UI-library based on Tkinter
-- [nyggus/rounder](https://github.com/nyggus/rounder): Python package for
-  rounding floats and complex numbers in complex Python objects.
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
   dashboarding solution for Python
+
+- [maxfischer2781/asyncstdlib](https://github.com/maxfischer2781/asyncstdlib):
+  the missing toolbox for an async world
+- [nyggus/rounder](https://github.com/nyggus/rounder): Python package for
+  rounding floats and complex numbers in complex Python objects.
 
 ## C / Linux
 
