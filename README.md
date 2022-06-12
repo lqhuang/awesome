@@ -40,6 +40,15 @@ more like a toolbox for myself.
   Cloud-native search engine for log management & analytics <quickwit.io>
 - [supabase/supabase](https://github.com/supabase/supabase): The open source
   Firebase alternative. <supabase.com>
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt):
+  Terragrunt is a thin wrapper for Terraform that provides extra tools for
+  working with multiple Terraform modules.
+- [octodns/octodns](https://github.com/octodns/octodns): Tools for managing DNS
+  across multiple providers
+- [snyk/driftctl](https://github.com/snyk/driftctl): Detect, track and alert on
+  infrastructure drift <driftctl.com/>
+- [camptocamp/terraboard](https://github.com/camptocamp/terraboard): 🌍 📋 A web
+  dashboard to inspect Terraform States <terraboard.io>
 
 ### Network
 
@@ -104,7 +113,7 @@ more like a toolbox for myself.
 - [alice-biometrics/meiga](https://github.com/alice-biometrics/meiga): 🧙 A
   simple, typed and monad-based Result type for Python.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python
-  to fast C extensions <https://mypyc.readthedocs.io/en/stable/index.html>
+  to fast C extensions <mypyc.readthedocs.io/en/stable/index.html>
 
 ### Build tools
 
@@ -126,6 +135,8 @@ more like a toolbox for myself.
 
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit): Audits
   Python environments and dependency trees for known vulnerabilities
+- [pyupio/safety](https://github.com/pyupio/safety): Safety checks your
+  installed dependencies for known security vulnerabilities
 
 ### Misc
 
@@ -133,6 +144,8 @@ more like a toolbox for myself.
   Python
 - [roman-right/beanie](https://github.com/roman-right/beanie): Asynchronous
   Python ODM for MongoDB
+- [art049/odmantic](https://github.com/art049/odmantic): Async ODM (Object
+  Document Mapper) for MongoDB based on python type hints
 
 - [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write
   Kubernetes operators in just a few lines of code
@@ -173,6 +186,8 @@ more like a toolbox for myself.
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand): Subcommand to
   show result of macro expansion
 - [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker
+- [lipanski/mockito](https://github.com/lipanski/mockito): HTTP mocking for
+  Rust!
 
 ### Performance profile
 
@@ -184,6 +199,10 @@ more like a toolbox for myself.
   tracing library for Rust
 - [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf): Website for
   graphing performance of rustc
+- [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph): Easy
+  flamegraphs for Rust projects and everything else, without Perl or pipes <3
+- [foniod/redbpf](https://github.com/foniod/redbpf): Rust library for building
+  and running BPF/eBPF modules
 
 ### Clients
 
