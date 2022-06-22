@@ -49,6 +49,10 @@ more like a toolbox for myself.
   infrastructure drift <driftctl.com/>
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard): 🌍 📋 A web
   dashboard to inspect Terraform States <terraboard.io>
+- [drivendataorg/cloudpathlib](https://github.com/drivendataorg/cloudpathlib):
+  Python pathlib-style classes for cloud storage services such as Amazon S3,
+  Azure Blob Storage, and Google Cloud Storage.
+  <https://cloudpathlib.drivendata.org>
 
 ### Network
 
@@ -126,8 +130,6 @@ more like a toolbox for myself.
   441, but with all their dependencies included.
 - [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin
   that packs your packages into a zipapp
-- [IBM/import-tracker](https://github.com/IBM/import-tracker): Python utility
-  for tracking third party dependencies within a library
 - [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
   documentation theme for Sphinx
 
@@ -138,7 +140,14 @@ more like a toolbox for myself.
 - [pyupio/safety](https://github.com/pyupio/safety): Safety checks your
   installed dependencies for known security vulnerabilities
 
-### Misc
+### Numerical and Data Science
+
+- [nyggus/rounder](https://github.com/nyggus/rounder): Python package for
+  rounding floats and complex numbers in complex Python objects.
+- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations):
+  Always know what to expect from your data. <https://docs.greatexpectations.io>
+
+### DB clients and SQL utils
 
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql): Simple SQL in
   Python
@@ -146,6 +155,20 @@ more like a toolbox for myself.
   Python ODM for MongoDB
 - [art049/odmantic](https://github.com/art049/odmantic): Async ODM (Object
   Document Mapper) for MongoDB based on python type hints
+
+### Featured libraries
+
+- [maxfischer2781/asyncstdlib](https://github.com/maxfischer2781/asyncstdlib):
+  the missing toolbox for an async world
+- [ethereum/lahja](https://github.com/ethereum/lahja): Lahja is a generic multi
+  process event bus implementation written in Python 3.6+ to enable lightweight
+  inter-process communication, based on non-blocking asyncio
+- [insitro/redun](https://github.com/insitro/redun): Yet another redundant
+  workflow engine <https://insitro.github.io/redun>
+- [NicolasLM/spinach](https://github.com/NicolasLM/spinach): Modern Redis task
+  queue for Python 3 <https://spinach.readthedocs.io>
+
+### Misc
 
 - [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write
   Kubernetes operators in just a few lines of code
@@ -157,11 +180,6 @@ more like a toolbox for myself.
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
   dashboarding solution for Python
 
-- [maxfischer2781/asyncstdlib](https://github.com/maxfischer2781/asyncstdlib):
-  the missing toolbox for an async world
-- [nyggus/rounder](https://github.com/nyggus/rounder): Python package for
-  rounding floats and complex numbers in complex Python objects.
-
 ## C / Linux
 
 ### Performance profile
@@ -172,6 +190,8 @@ more like a toolbox for myself.
   performance debugging
 - [magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects
   and displays high-resolution traces of what a process is doing
+- [KDAB/hotspot](https://github.com/KDAB/hotspot): The Linux perf GUI for
+  performance analysis.
 
 ## Rust
 
@@ -203,6 +223,11 @@ more like a toolbox for myself.
   flamegraphs for Rust projects and everything else, without Perl or pipes <3
 - [foniod/redbpf](https://github.com/foniod/redbpf): Rust library for building
   and running BPF/eBPF modules
+
+### Concurrency
+
+- [nikomatsakis/moro](https://github.com/nikomatsakis/moro): Experiments with
+  structured concurrency in Rust
 
 ### Clients
 
@@ -261,6 +286,11 @@ more like a toolbox for myself.
 
 ## Frontend / UI
 
+### Framework
+
+- [lucacasonato/fresh](https://github.com/lucacasonato/fresh): Preact, but super
+  edgy <https://fresh.deno.dev>
+
 ### Components library
 
 - [nextui-org/nextui](https://github.com/nextui-org/nextui): 🚀 Beautiful, fast
@@ -296,7 +326,9 @@ more like a toolbox for myself.
 - [reaviz/reaviz](https://github.com/reaviz/reaviz): 📊 Data visualization
   library for React <reaviz.io>
 
-## The curse of strong typing
+## My little corner
+
+### The curse of strong typing
 
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts): Functional programming in
   TypeScript
@@ -308,7 +340,20 @@ more like a toolbox for myself.
 - https://hackage.haskell.org/package/streamly
 - https://hackage.haskell.org/package/optics
 
-## Speed is everything
+### Speed is everything
 
 - [google/highway](https://github.com/google/highway): Performance-portable,
   length-agnostic SIMD with runtime dispatch
+- [https://github.com/xacrimon/dashmap](https://github.com/xacrimon/dashmap):
+  Blazing fast concurrent HashMap for Rust.
+
+### Database and OS
+
+- [readysettech/readyset](https://github.com/readysettech/readyset): ReadySet is
+  a lightweight SQL caching engine that helps developers enhance the performance
+  and scalability of existing applications. <https://readyset.io>
+
+### Machine learning
+
+- [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Development
+  environment for machine learning
