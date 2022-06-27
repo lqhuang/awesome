@@ -59,6 +59,14 @@ more like a toolbox for myself.
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive
   TLS-capable intercepting HTTP proxy for penetration testers and software
   developers. <mitmproxy.org>
+- [ehids/ecapture](https://github.com/ehids/ecapture): capture SSL/TLS text
+  content without CA cert using eBPF. supports Linux x86_64/Aarch64,
+  Android(GKI) Aarch64.
+
+### DevOps or Frameworks
+
+- [orchest/orchest](https://github.com/orchest/orchest): Build data pipelines,
+  the easy way 🛠️ <https://orchest.io/>
 
 ## Python
 
@@ -103,6 +111,8 @@ more like a toolbox for myself.
   applications
 - [reloadware/reloadium](https://github.com/reloadware/reloadium): Advanced hot
   reloading & profiling for Python
+- [python/pyperformance](https://github.com/python/pyperformance): Python
+  Performance Benchmark Suite <http://pyperformance.readthedocs.io/>
 
 ### Typing
 
@@ -170,10 +180,15 @@ more like a toolbox for myself.
 
 ### Misc
 
+- [microsoft/picologging](https://github.com/microsoft/picologging): An
+  optimized logging library for Python
+
 - [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write
   Kubernetes operators in just a few lines of code
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf): A Python library for
   reading and writing PDF, powered by qpdf
+- [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py): Type-safe and
+  powerful Python library to generate SVG files
 
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter):
   A modern and customizable python UI-library based on Tkinter
@@ -228,11 +243,20 @@ more like a toolbox for myself.
 
 - [nikomatsakis/moro](https://github.com/nikomatsakis/moro): Experiments with
   structured concurrency in Rust
+- [nbdd0121/stackful](https://github.com/nbdd0121/stackful): Free conversion
+  between async and sync in Rust
 
 ### Clients
 
 - [influxdata/rskafka](https://github.com/influxdata/rskafka): A minimal Rust
   client for Apache Kafka
+
+### Featured libraries
+
+- [japaric/heapless](https://github.com/japaric/heapless): Heapless, `static`
+  friendly data structures
+- [google/tarpc](https://github.com/google/tarpc): An RPC framework for Rust
+  with a focus on ease of use.
 
 ### SerDe
 
@@ -344,16 +368,28 @@ more like a toolbox for myself.
 
 - [google/highway](https://github.com/google/highway): Performance-portable,
   length-agnostic SIMD with runtime dispatch
-- [https://github.com/xacrimon/dashmap](https://github.com/xacrimon/dashmap):
-  Blazing fast concurrent HashMap for Rust.
+- [xacrimon/dashmap](https://github.com/xacrimon/dashmap): Blazing fast
+  concurrent HashMap for Rust.
+- [scylladb/seastar](https://github.com/scylladb/seastar): High performance
+  server-side application framework <http://seastar.io/>
 
 ### Database and OS
 
 - [readysettech/readyset](https://github.com/readysettech/readyset): ReadySet is
   a lightweight SQL caching engine that helps developers enhance the performance
   and scalability of existing applications. <https://readyset.io>
+- [jitsucom/jitsu](https://github.com/jitsucom/jitsu): Jitsu is an open-source
+  Segment alternative. Fully-scriptable data ingestion engine for modern data
+  teams. Set-up a real-time data pipeline in minutes, not days
+  <https://jitsu.com/>
 
 ### Machine learning
 
 - [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Development
   environment for machine learning
+- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox):
+
+### Distributed systems
+
+- [stateright/stateright](https://github.com/stateright/stateright): A model
+  checker for implementing distributed systems.
