@@ -257,6 +257,8 @@ more like a toolbox for myself.
   friendly data structures
 - [google/tarpc](https://github.com/google/tarpc): An RPC framework for Rust
   with a focus on ease of use.
+- [briansmith/ring](https://github.com/briansmith/ring): Safe, fast, small
+  crypto using Rust
 
 ### SerDe
 
