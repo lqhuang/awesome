@@ -177,6 +177,10 @@ more like a toolbox for myself.
   workflow engine <https://insitro.github.io/redun>
 - [NicolasLM/spinach](https://github.com/NicolasLM/spinach): Modern Redis task
   queue for Python 3 <https://spinach.readthedocs.io>
+- [asphalt-framework/asphalt](https://github.com/asphalt-framework/asphalt):
+  Asphalt application framework (core)
+- [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio):
+  Bridge between Rust async futures and Python asyncio
 
 ### Misc
 
