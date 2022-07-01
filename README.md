@@ -182,10 +182,16 @@ more like a toolbox for myself.
 - [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio):
   Bridge between Rust async futures and Python asyncio
 
-### Misc
+### Logging
 
 - [microsoft/picologging](https://github.com/microsoft/picologging): An
   optimized logging library for Python
+- [Delgan/loguru](https://github.com/Delgan/loguru): Python logging made
+  (stupidly) simple
+- [hynek/structlog](https://github.com/hynek/structlog): Structured Logging for
+  Python <https://www.structlog.org/>
+
+### Misc
 
 - [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write
   Kubernetes operators in just a few lines of code
