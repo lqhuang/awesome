@@ -49,6 +49,8 @@
 - [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深
   度学习》 邱锡鹏著 Neural Network and Deep Learning
   [page](https://nndl.github.io/)
+- [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google):
+  《Software Engineering at Google》的中文翻译版本
 
 ## Readings
 

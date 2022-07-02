@@ -53,6 +53,8 @@ more like a toolbox for myself.
   Python pathlib-style classes for cloud storage services such as Amazon S3,
   Azure Blob Storage, and Google Cloud Storage.
   <https://cloudpathlib.drivendata.org>
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream): Streaming
+  replication for SQLite. <https://litestream.io/>
 
 ### Network
 
@@ -181,6 +183,9 @@ more like a toolbox for myself.
   Asphalt application framework (core)
 - [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio):
   Bridge between Rust async futures and Python asyncio
+- [pgjones/hypercorn](https://github.com/pgjones/hypercorn): Hypercorn is an
+  ASGI Server based on Hyper libraries and inspired by Gunicorn.
+  <https://pgjones.gitlab.io/hypercorn/>
 
 ### Logging
 
@@ -321,6 +326,8 @@ more like a toolbox for myself.
   OpenTelemetry interface
 - [tofu-tf/tofu](https://github.com/tofu-tf/tofu): Functional programming
   toolbox <docs.tofu.tf>
+- [kitlangton/scala-update](https://github.com/kitlangton/scala-update): Update
+  your Scala dependencies interactively
 
 ## Frontend / UI
 
