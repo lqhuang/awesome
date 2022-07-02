@@ -255,6 +255,8 @@ more like a toolbox for myself.
   structured concurrency in Rust
 - [nbdd0121/stackful](https://github.com/nbdd0121/stackful): Free conversion
   between async and sync in Rust
+- [bytedance/monoio](https://github.com/bytedance/monoio): Rust async runtime
+  based on io-uring.
 
 ### Clients
 
