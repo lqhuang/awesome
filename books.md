@@ -24,6 +24,13 @@
   and maintaining Open Source projects for three decades.
 - [bagder/http3-explained](https://github.com/bagder/http3-explained): A
   document describing the HTTP/3 and QUIC protocols <http3-explained.haxx.se>
+- [lborb/book](https://github.com/lborb/book): The Little Book of Rust Books
+  <https://lborb.github.io/book/>
+- [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy):
+  An open-access book on numpy vectorization techniques, Nicolas P. Rougier,
+  2017 <http://www.labri.fr/perso/nrougier/from-python-to-numpy>
+- [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book):
+  An open access book on scientific visualization using python and matplotlib
 
 ## Books (zh_cn)
 
