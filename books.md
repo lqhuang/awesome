@@ -29,8 +29,11 @@
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy):
   An open-access book on numpy vectorization techniques, Nicolas P. Rougier,
   2017 <http://www.labri.fr/perso/nrougier/from-python-to-numpy>
-- [scientific-visualization-book](https://github.com/rougier/scientific-visualization-book):
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book):
   An open access book on scientific visualization using python and matplotlib
+  <https://www.labri.fr/perso/nrougier/scientific-visualization.html>
+- [Probabilistic Numerics](https://www.probabilistic-numerics.org/textbooks/)
+- [Learn TLA+](https://learntla.com/): https://github.com/hwayne/learntla-v2
 
 ## Books (zh_cn)
 

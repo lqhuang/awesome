@@ -57,6 +57,10 @@ more like a toolbox for myself.
   <https://cloudpathlib.drivendata.org>
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream): Streaming
   replication for SQLite. <https://litestream.io/>
+- [readysettech/readyset](https://github.com/readysettech/readyset): ReadySet is
+  a lightweight SQL caching engine written in Rust that helps developers enhance
+  the performance and scalability of existing applications. "Noria"
+  <https://readyset.io/>
 
 ### Network
 
@@ -150,6 +154,10 @@ more like a toolbox for myself.
   documentation theme for Sphinx
 - [frostming/monas](https://github.com/frostming/monas): Python monorepo made
   easy <https://monas.fming.dev/>
+- [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer): A modern Python
+  application packaging and distribution tool
+- [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone):
+  Produce redistributable builds of Python
 
 ### Security
 
