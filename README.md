@@ -262,6 +262,8 @@ more like a toolbox for myself.
   between async and sync in Rust
 - [bytedance/monoio](https://github.com/bytedance/monoio): Rust async runtime
   based on io-uring.
+- [jonhoo/bus](https://github.com/jonhoo/bus): Efficient, lock-free, bounded
+  Rust broadcast channel
 
 ### Clients
 
@@ -284,6 +286,11 @@ more like a toolbox for myself.
 
 ### Misc
 
+- [tailhook/humantime](https://github.com/tailhook/humantime): A parser and
+  formatter for std::time::{SystemTime, Duration}
+- [zhiburt/tabled](https://github.com/zhiburt/tabled): An easy to use library
+  for pretty print tables of Rust structs and enums.
+
 - [Keats/tera](https://github.com/Keats/tera): A template engine for Rust based
   on Jinja2/Django
 - [lazops/rustea](https://github.com/lazops/rustea): An easy-to-use TUI crate
@@ -293,12 +300,9 @@ more like a toolbox for myself.
   yet minimally intrusive TUIs. It is cross platform, supporting Windows 7+,
   Linux, and MacOS. Rustaceans who want to create non-interactive TUIs can use
   the component composition building block system to quickly deploy their code.
-- [zhiburt/tabled](https://github.com/zhiburt/tabled): An easy to use library
-  for pretty print tables of Rust structs and enums.
 - [fdehau/tui-rs](https://github.com/fdehau/tui-rs): Build terminal user
   interfaces and dashboards using Rust
-- [tailhook/humantime](https://github.com/tailhook/humantime): A parser and
-  formatter for std::time::{SystemTime, Duration}
+
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord): mirrord lets
   you easily mirror traffic from your production environment to your development
   environment.
@@ -333,8 +337,10 @@ more like a toolbox for myself.
 
 ### Framework
 
-- [lucacasonato/fresh](https://github.com/lucacasonato/fresh): Preact, but super
-  edgy <https://fresh.deno.dev>
+- [lucacasonato/fresh](https://github.com/denoland/fresh): The next-gen web
+  framework. <https://fresh.deno.dev>
+- [honojs/hono](https://github.com/honojs/hono): Ultrafast web framework for
+  Cloudflare Workers and Deno. Fast, but not only fast.
 
 ### Components library
 
@@ -408,7 +414,9 @@ more like a toolbox for myself.
 
 - [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Development
   environment for machine learning
-- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox):
+- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable
+  PyTrees and filtered transforms => neural networks in JAX.
+  <https://docs.kidger.site/equinox/>
 
 ### Distributed systems
 
