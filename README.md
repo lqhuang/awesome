@@ -186,6 +186,8 @@ more like a toolbox for myself.
 - [pgjones/hypercorn](https://github.com/pgjones/hypercorn): Hypercorn is an
   ASGI Server based on Hyper libraries and inspired by Gunicorn.
   <https://pgjones.gitlab.io/hypercorn/>
+- [ipython/traitlets](https://github.com/ipython/traitlets): A lightweight
+  Traits like module <https://traitlets.readthedocs.io/>
 
 ### Logging
 

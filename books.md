@@ -58,6 +58,9 @@
   [page](https://nndl.github.io/)
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google):
   《Software Engineering at Google》的中文翻译版本
+- [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models):
+  💘 帮助你建立良好的 JavaScript 心智模型
+  <https://sudongyuer.github.io/javascript-mental-models/>
 
 ## Readings
 
