@@ -159,6 +159,12 @@ more like a toolbox for myself.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations):
   Always know what to expect from your data. <https://docs.greatexpectations.io>
 
+### Prob
+
+- [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX
+  is a sampling library designed for ease of use, speed and modularity.
+  <https://blackjax-devs.github.io/blackjax/>
+
 ### DB clients and SQL utils
 
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql): Simple SQL in
@@ -377,7 +383,7 @@ more like a toolbox for myself.
 - [airbnb/visx](https://github.com/airbnb/visx): 🐯 visx | visualization
   components <airbnb.io/visx>
 - [reaviz/reaviz](https://github.com/reaviz/reaviz): 📊 Data visualization
-  library for React <reaviz.io>
+  library for React <reaviz.io> https://github.com/martinRenou/ipycanvas
 
 ## My little corner
 
@@ -424,3 +430,6 @@ more like a toolbox for myself.
 
 - [stateright/stateright](https://github.com/stateright/stateright): A model
   checker for implementing distributed systems.
+- [taskflow/taskflow](https://github.com/taskflow/taskflow): A General-purpose
+  Parallel and Heterogeneous Task Programming System
+  <https://taskflow.github.io/>
