@@ -26,6 +26,8 @@ more like a toolbox for myself.
 - [fermyon/spin](https://github.com/fermyon/spin): Spin is an open source
   framework for building and running fast, secure, and composable cloud
   microservices with WebAssembly
+- [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack): 📦✨ your
+  favorite rust -> wasm workflow tool! <https://rustwasm.github.io/wasm-pack/>
 
 ### Cloud
 
@@ -64,6 +66,8 @@ more like a toolbox for myself.
 - [ehids/ecapture](https://github.com/ehids/ecapture): capture SSL/TLS text
   content without CA cert using eBPF. supports Linux x86_64/Aarch64,
   Android(GKI) Aarch64.
+- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL,
+  but for gRPC: Command-line tool for interacting with gRPC servers
 
 ### DevOps or Frameworks
 
@@ -144,6 +148,8 @@ more like a toolbox for myself.
   that packs your packages into a zipapp
 - [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
   documentation theme for Sphinx
+- [frostming/monas](https://github.com/frostming/monas): Python monorepo made
+  easy <https://monas.fming.dev/>
 
 ### Security
 
@@ -349,6 +355,9 @@ more like a toolbox for myself.
   framework. <https://fresh.deno.dev>
 - [honojs/hono](https://github.com/honojs/hono): Ultrafast web framework for
   Cloudflare Workers and Deno. Fast, but not only fast.
+- [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript
+  runtime, bundler, transpiler and package manager – all in one.
+  <https://bun.sh/>
 
 ### Components library
 
@@ -425,6 +434,8 @@ more like a toolbox for myself.
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable
   PyTrees and filtered transforms => neural networks in JAX.
   <https://docs.kidger.site/equinox/>
+- [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and
+  runtime checking for shape and dtype of JAX arrays, and PyTrees.
 
 ### Distributed systems
 
@@ -433,3 +444,5 @@ more like a toolbox for myself.
 - [taskflow/taskflow](https://github.com/taskflow/taskflow): A General-purpose
   Parallel and Heterogeneous Task Programming System
   <https://taskflow.github.io/>
+- [unisonweb/unison](https://github.com/unisonweb/unison): A friendly
+  programming language from the future <https://www.unison-lang.org/>

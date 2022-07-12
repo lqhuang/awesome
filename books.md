@@ -61,6 +61,8 @@
 - [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models):
   💘 帮助你建立良好的 JavaScript 心智模型
   <https://sudongyuer.github.io/javascript-mental-models/>
+- [nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning):
+  learn how to use BPF/eBPF
 
 ## Readings
 
