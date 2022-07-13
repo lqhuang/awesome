@@ -403,10 +403,24 @@ more like a toolbox for myself.
 - [Effect-TS/core](https://github.com/Effect-TS/core): A Fully-fledged
   functional effect system for typescript with a rich standard library
 
-- https://hackage.haskell.org/package/relude
-- https://hackage.haskell.org/package/unliftio
-- https://hackage.haskell.org/package/streamly
-- https://hackage.haskell.org/package/optics
+- [kowainik/relude](https://github.com/kowainik/relude): 🌀 Safe, performant,
+  user-friendly and lightweight Haskell standard library
+  <https://kowainik.github.io/projects/relude>
+- [commercialhaskell/rio](https://github.com/commercialhaskell/rio): A standard
+  library for Haskell
+- [fpco/unliftio](https://github.com/fpco/unliftio): The MonadUnliftIO typeclass
+  for unlifting monads to IO
+- [composewell/streamly](https://github.com/composewell/streamly): Dataflow
+  programming and declarative concurrency <https://streamly.composewell.com/>
+- [well-typed/optics](https://github.com/well-typed/optics): Optics as an
+  abstract interface
+
+- [koka-lang/koka](https://github.com/koka-lang/koka): Koka language compiler
+  and interpreter <https://koka-lang.org/>
+- [typelevel/cats-effect](https://github.com/typelevel/cats-effect): The pure
+  asynchronous runtime for Scala <https://typelevel.org/cats-effect/>
+- [zio/zio](https://github.com/zio/zio): ZIO — A type-safe, composable library
+  for async and concurrent programming in Scala <https://zio.dev/>
 
 ### Speed is everything
 
