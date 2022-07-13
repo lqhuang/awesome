@@ -446,3 +446,5 @@ more like a toolbox for myself.
   <https://taskflow.github.io/>
 - [unisonweb/unison](https://github.com/unisonweb/unison): A friendly
   programming language from the future <https://www.unison-lang.org/>
+- [vitorenesduarte/fantoch](https://github.com/vitorenesduarte/fantoch):
+  framework for evaluating (planet-scale) consensus protocols
