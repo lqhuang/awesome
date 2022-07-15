@@ -226,7 +226,9 @@ more like a toolbox for myself.
   reading and writing PDF, powered by qpdf
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py): Type-safe and
   powerful Python library to generate SVG files
-
+- [lepture/mistune](https://github.com/lepture/mistune): A fast yet powerful
+  Python Markdown parser with renderers and plugins.
+  <http://mistune.readthedocs.io/>
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter):
   A modern and customizable python UI-library based on Tkinter
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
