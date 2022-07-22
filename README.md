@@ -302,6 +302,8 @@ more like a toolbox for myself.
   with a focus on ease of use.
 - [briansmith/ring](https://github.com/briansmith/ring): Safe, fast, small
   crypto using Rust
+- [moka-rs/moka](https://github.com/moka-rs/moka): A high performance concurrent
+  caching library for Rust
 
 ### SerDe
 
