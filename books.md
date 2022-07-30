@@ -25,7 +25,7 @@
 - [bagder/http3-explained](https://github.com/bagder/http3-explained): A
   document describing the HTTP/3 and QUIC protocols <http3-explained.haxx.se>
 - [lborb/book](https://github.com/lborb/book): The Little Book of Rust Books
-  <https://lborb.github.io/book/>
+  <https://lborb.github.io/book>
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy):
   An open-access book on numpy vectorization techniques, Nicolas P. Rougier,
   2017 <http://www.labri.fr/perso/nrougier/from-python-to-numpy>
@@ -63,9 +63,12 @@
   《Software Engineering at Google》的中文翻译版本
 - [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models):
   💘 帮助你建立良好的 JavaScript 心智模型
-  <https://sudongyuer.github.io/javascript-mental-models/>
+  <https://sudongyuer.github.io/javascript-mental-models>
 - [nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning):
   learn how to use BPF/eBPF
+- [lonegunmanb/introduction-terraform](https://github.com/lonegunmanb/introduction-terraform):
+  Introduction to terraform
+  <https://lonegunmanb.github.io/introduction-terraform>
 
 ## Readings
 

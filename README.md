@@ -10,6 +10,10 @@ more like a toolbox for myself.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier): Fast
   cross-platform HTTP benchmarking tool written in Go
 - [wg/wrk](https://github.com/wg/wrk): Modern HTTP benchmarking tool
+- [parca-dev/parca](https://github.com/parca-dev/parca): Continuous profiling
+  for analysis of CPU and memory usage, down to the line number and throughout
+  time. Saving infrastructure cost, improving performance, and increasing
+  reliability. <https://parca.dev/>
 
 ### WASM Runtime
 
@@ -57,10 +61,6 @@ more like a toolbox for myself.
   <https://cloudpathlib.drivendata.org>
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream): Streaming
   replication for SQLite. <https://litestream.io/>
-- [readysettech/readyset](https://github.com/readysettech/readyset): ReadySet is
-  a lightweight SQL caching engine written in Rust that helps developers enhance
-  the performance and scalability of existing applications. "Noria"
-  <https://readyset.io/>
 
 ### Network
 
@@ -72,6 +72,8 @@ more like a toolbox for myself.
   Android(GKI) Aarch64.
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL,
   but for gRPC: Command-line tool for interacting with gRPC servers
+- [ekzhang/bore](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool
+  for making tunnels to localhost <http://bore.pub/>
 
 ### DevOps or Frameworks
 
@@ -93,7 +95,7 @@ more like a toolbox for myself.
   JSON/MessagePack library, with optional schema validation
   <jcristharif.com/msgspec>
 
-### Test / Mock
+### Test / Mock / Coverage
 
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy): Automatically mock your
   HTTP interactions to simplify and speed up testing
@@ -101,6 +103,8 @@ more like a toolbox for myself.
   request patterns and response side effects 🦋
 - [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover): Near
   Zero-Overhead Python Code Coverage
+- [tonybaloney/wily](https://github.com/tonybaloney/wily): A Python application
+  for tracking, reporting on timing and complexity in Python code
 
 ### Performance profile
 
@@ -123,6 +127,9 @@ more like a toolbox for myself.
   reloading & profiling for Python
 - [python/pyperformance](https://github.com/python/pyperformance): Python
   Performance Benchmark Suite <http://pyperformance.readthedocs.io/>
+- [joerick/pyinstrument](https://github.com/joerick/pyinstrument): 🚴 Call stack
+  profiler for Python. Shows you why your code is slow!
+  <https://pyinstrument.readthedocs.io/>
 
 ### Typing
 
@@ -187,6 +194,8 @@ more like a toolbox for myself.
   Python ODM for MongoDB
 - [art049/odmantic](https://github.com/art049/odmantic): Async ODM (Object
   Document Mapper) for MongoDB based on python type hints
+- [tobymao/sqlglot](https://github.com/tobymao/sqlglot): Python SQL Parser and
+  Transpiler
 
 ### Featured libraries
 
@@ -233,6 +242,9 @@ more like a toolbox for myself.
   A modern and customizable python UI-library based on Tkinter
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
   dashboarding solution for Python
+- [nficano/humps](https://github.com/nficano/humps): Convert strings (and
+  dictionary keys) between snake case, camel case and pascal case in Python.
+  Inspired by Humps for Node <http://humps.readthedocs.io/>
 
 ## C / Linux
 
@@ -370,6 +382,9 @@ more like a toolbox for myself.
 - [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript
   runtime, bundler, transpiler and package manager – all in one.
   <https://bun.sh/>
+- [alpinejs/alpine](https://github.com/alpinejs/alpine): A rugged, minimal
+  framework for composing JavaScript behavior in your markup.
+  <https://alpinejs.dev/>
 
 ### Components library
 
@@ -401,6 +416,8 @@ more like a toolbox for myself.
 
 ### Visualization
 
+- [observablehq/plot](https://github.com/observablehq/plot): A concise API for
+  exploratory data visualization <https://observablehq.com/@observablehq/plot>
 - [airbnb/visx](https://github.com/airbnb/visx): 🐯 visx | visualization
   components <airbnb.io/visx>
 - [reaviz/reaviz](https://github.com/reaviz/reaviz): 📊 Data visualization
@@ -426,6 +443,11 @@ more like a toolbox for myself.
   programming and declarative concurrency <https://streamly.composewell.com/>
 - [well-typed/optics](https://github.com/well-typed/optics): Optics as an
   abstract interface
+- [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful):
+  An easy to use, fast extensible effects library with seamless integration with
+  the existing Haskell ecosystem.
+- [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress
+  effect system for Haskell 🚧
 
 - [koka-lang/koka](https://github.com/koka-lang/koka): Koka language compiler
   and interpreter <https://koka-lang.org/>
@@ -445,13 +467,18 @@ more like a toolbox for myself.
 
 ### Database and OS
 
+- [gluesql/gluesql](https://github.com/gluesql/gluesql): GlueSQL is quite
+  sticky, it attaches to anywhere.
 - [readysettech/readyset](https://github.com/readysettech/readyset): ReadySet is
-  a lightweight SQL caching engine that helps developers enhance the performance
-  and scalability of existing applications. <https://readyset.io>
+  a lightweight SQL caching engine written in Rust that helps developers enhance
+  the performance and scalability of existing applications. "Noria"
+  <https://readyset.io/>
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu): Jitsu is an open-source
   Segment alternative. Fully-scriptable data ingestion engine for modern data
   teams. Set-up a real-time data pipeline in minutes, not days
   <https://jitsu.com/>
+- [bytebase/bytebase](https://github.com/bytebase/bytebase): Safe database
+  schema change and version control for DevOps teams. <https://www.bytebase.com>
 
 ### Machine learning
 
