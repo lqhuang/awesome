@@ -7,6 +7,7 @@
   ([gitbooks index](https://0xax.gitbooks.io/linux-insides/content/index.html))
 - [probml/pml-book](https://github.com/probml/pml-book): "Probabilistic Machine
   Learning" - a book series by Kevin Murphy
+  https://probml.github.io/pml-book/book2.html
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io):
   Companion webpage to the book "Mathematics For Machine Learning"
   [pdf download](https://mml-book.com)
@@ -24,8 +25,6 @@
   and maintaining Open Source projects for three decades.
 - [bagder/http3-explained](https://github.com/bagder/http3-explained): A
   document describing the HTTP/3 and QUIC protocols <http3-explained.haxx.se>
-- [lborb/book](https://github.com/lborb/book): The Little Book of Rust Books
-  <https://lborb.github.io/book>
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy):
   An open-access book on numpy vectorization techniques, Nicolas P. Rougier,
   2017 <http://www.labri.fr/perso/nrougier/from-python-to-numpy>
@@ -72,8 +71,6 @@
 
 ## Readings
 
-- [lw-lin/streaming-readings](https://github.com/lw-lin/streaming-readings):
-  Streaming System 相关的论文读物
 - [qingsongedu/time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review):
   A professionally curated list of awesome resources (paper, code, data, etc.)
   on transformers in time series.

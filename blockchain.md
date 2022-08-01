@@ -15,6 +15,7 @@
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain):
   ⚡️Curated list of resources for the development and applications of
   blockchain.
+- [I Looked Into 34 Top Real-World Blockchain Projects So You Don’t Have To](https://weh.wtf/34-blockchain-projects.html)
 
 ## On-chain analysis
 
@@ -37,7 +38,7 @@
   execution tool
   <https://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans/>
 
-# Projects
+## Projects
 
 - [Handshake](https://handshake.org): Decentralized naming and certificate
   authority

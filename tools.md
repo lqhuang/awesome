@@ -15,9 +15,28 @@
 
 ## Enterprise access control
 
-https://indent.com/
+- [Indent](https://indent.com): On-demand access without the wait. Indent
+  provides team members with on-demand access to cloud apps and infrastructure
+  in seconds, not days.
+
+## DBA
+
+- [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord): mirrord lets
+  you easily mirror traffic from your production environment to your development
+  environment.
 
 ## How te a leader
 
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders):A
   framework for Engineering Managers
+
+## Treading frameworks
+
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch):
+  Easy to use open source fast database for search | Good alternative to
+  Elasticsearch now | Drop-in replacement for E in the ELK soon
+  <https://manticoresearch.com/>
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit):
+  Cloud-native search engine for log management & analytics <quickwit.io>
+
+https://github.com/Qovery/Replibyte
