@@ -67,6 +67,8 @@
   simple, typed and monad-based Result type for Python.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python
   to fast C extensions <mypyc.readthedocs.io/en/stable/index.html>
+- [nipunn1313/mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf): open
+  source tools to generate mypy stubs from protobufs
 
 ## Build tools
 
@@ -140,6 +142,12 @@
 - [ipython/traitlets](https://github.com/ipython/traitlets): A lightweight
   Traits like module <https://traitlets.readthedocs.io/>
 
+## Parser
+
+- [Instagram/LibCST](https://github.com/Instagram/LibCST): A concrete syntax
+  tree parser and serializer library for Python that preserves many aspects of
+  Python's abstract syntax tree
+
 ## Logging
 
 - [microsoft/picologging](https://github.com/microsoft/picologging): An
@@ -167,7 +175,6 @@
 - [nficano/humps](https://github.com/nficano/humps): Convert strings (and
   dictionary keys) between snake case, camel case and pascal case in Python.
   Inspired by Humps for Node <http://humps.readthedocs.io/>
-
 - [omry/omegaconf](https://github.com/omry/omegaconf): Flexible Python
   configuration system. The last one you will ever need.
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra): Hydra is

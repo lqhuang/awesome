@@ -69,6 +69,11 @@
   caching library for Rust
 - [kanidm/concread](https://github.com/kanidm/concread): Concurrently Readable
   Data Structures for Rust
+- [Cassy343/flashmap](https://github.com/Cassy343/flashmap): A lock-free,
+  partially wait-free, eventually consistent, concurrent hashmap.
+- [xacrimon/conc-map-bench](https://github.com/xacrimon/conc-map-bench):
+  conc-map-bench uses the bustle benchmarking harness. This is a port of the
+  well regarded libcuckoo benchmark.
 
 ## Clients
 
@@ -96,6 +101,16 @@
 
 - [rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization framework
   for Rust
+
+## Parser combinators
+
+- [zesterer/chumsky](https://github.com/zesterer/chumsky): A parser library for
+  humans with powerful error recovery.
+
+## Program analysis
+
+- [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra): Rust Memory
+  Safety & Undefined Behavior Detection
 
 ## Misc
 

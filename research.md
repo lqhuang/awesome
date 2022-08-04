@@ -10,3 +10,12 @@
 - [networkit/networkit](https://github.com/networkit/networkit): NetworKit is a
   growing open-source toolkit for large-scale network analysis.
   <https://networkit.github.io/>
+- [GraphBLAS/LAGraph](https://github.com/GraphBLAS/LAGraph): This is a library
+  plus a test harness for collecting algorithms that use the GraphBLAS. For test
+  coverage reports, see <https://graphblas.org/LAGraph/>.
+- [DrTimothyAldenDavis/GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS):
+  SuiteSparse:GraphBLAS: graph algorithms in the language of linear algebra. For
+  production: (default) STABLE branch. Code development: (non-default) MASTER
+  branch. video intro: https://youtu.be/Tj5y6d7FegI . The libgraphblas.so is
+  Apache2 licensed. The MATLAB interface is GNU GPL3. NOTE: PRs without signed
+  CONTRIBUTOR AGREEMENT can't be accepted.
