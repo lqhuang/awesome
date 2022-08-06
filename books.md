@@ -33,6 +33,13 @@
   <https://www.labri.fr/perso/nrougier/scientific-visualization.html>
 - [Probabilistic Numerics](https://www.probabilistic-numerics.org/textbooks/)
 - [Learn TLA+](https://learntla.com/): https://github.com/hwayne/learntla-v2
+- [The Internals Online Books](https://books.japila.pl/): Welcome to “The
+  Internals Of” Online Books project! 🤙 (Apache Spark, Spark Structured
+  Streaming, Apache Kafka, Apache Beam)
+- [Software Engineering Books](https://software-engineering-books.com/): I’ve
+  been a software engineer for over 10 years now, and I’ve successfully passed
+  through all stages of grief. I’m also an avid reader. This page contains my
+  collection of books that have helped me the most throughout my career.
 
 ## Books (zh_cn)
 

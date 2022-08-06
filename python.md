@@ -11,7 +11,7 @@
   supporting dataclasses, datetimes, and numpy
 - [jcrist/msgspec](https://github.com/jcrist/msgspec): A fast and friendly
   JSON/MessagePack library, with optional schema validation
-  <jcristharif.com/msgspec>
+  <https://jcristharif.com/msgspec>
 
 ## Test / Mock / Coverage
 
@@ -81,14 +81,14 @@
   441, but with all their dependencies included.
 - [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin
   that packs your packages into a zipapp
-- [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
-  documentation theme for Sphinx
 - [frostming/monas](https://github.com/frostming/monas): Python monorepo made
   easy <https://monas.fming.dev/>
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer): A modern Python
   application packaging and distribution tool
 - [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone):
   Produce redistributable builds of Python
+- [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
+  documentation theme for Sphinx
 
 ## Security
 
@@ -170,8 +170,6 @@
   <http://mistune.readthedocs.io/>
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter):
   A modern and customizable python UI-library based on Tkinter
-- [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
-  dashboarding solution for Python
 - [nficano/humps](https://github.com/nficano/humps): Convert strings (and
   dictionary keys) between snake case, camel case and pascal case in Python.
   Inspired by Humps for Node <http://humps.readthedocs.io/>
@@ -179,3 +177,11 @@
   configuration system. The last one you will ever need.
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra): Hydra is
   a framework for elegantly configuring complex applications <https://hydra.cc>
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams): 🎨 Diagram as
+  Code for prototyping cloud system architectures
+  <https://diagrams.mingrammer.com/>
+
+## Visualization
+
+- [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
+  dashboarding solution for Python

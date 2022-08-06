@@ -21,6 +21,12 @@
 
 - [deepeth/mars](https://github.com/deepeth/mars): The powerful analysis
   platform to explore and visualize data from blockchain.
+- [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node): Graph
+  Node indexes data from blockchains such as Ethereum and serves it over GraphQL
+  <https://thegraph.com/>
+- [ethereum/web3.py](https://github.com/ethereum/web3.py): A python interface
+  for interacting with the Ethereum blockchain and ecosystem.
+  <http://web3py.readthedocs.io/>
 
 ## Smart Contract Dev
 
@@ -34,9 +40,25 @@
   <https://tintinweb.github.io/smart-contract-sanctuary/>
 - [vyperlang/vyper](https://github.com/vyperlang/vyper): Pythonic Smart Contract
   Language for the EVM
+- [ethereum/fe](https://github.com/ethereum/fe): Emerging smart contract
+  language for the Ethereum blockchain. <https://fe-lang.org/>
 - [trailofbits/manticore](https://github.com/trailofbits/manticore): Symbolic
   execution tool
   <https://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans/>
+- [paritytech/ink](https://github.com/paritytech/ink): Parity's ink! to write
+  smart contracts.
+- [MystenLabs/sui](https://github.com/MystenLabs/sui): Sui, a next-generation
+  smart contract platform with high throughput, low latency, and an
+  asset-oriented programming model powered by the Move programming language
+
+## Implementation / node client
+
+- [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs):
+  Ethereum Proof-of-Stake Consensus Specifications
+- [ethereum/py-evm](https://github.com/ethereum/py-evm): A Python implementation
+  of the Ethereum Virtual Machine <https://py-evm.readthedocs.io/en/latest/>
+- [sigp/lighthouse](https://github.com/sigp/lighthouse): Ethereum consensus
+  client in Rust
 
 ## Projects
 

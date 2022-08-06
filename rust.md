@@ -12,20 +12,31 @@
   Rust.
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust): 🦀
   How to minimize Rust binary size 📦
+- [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog):
+  Educational blog posts for Rust beginners
 
-## Build & test suites
+## Build
 
+- [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker
+- [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand): Subcommand to
+  show result of macro expansion
+- [Kobzol/cargo-pgo](https://github.com/Kobzol/cargo-pgo): Cargo subcommand for
+  optimizing binaries with PGO and BOLT
+- [cross-rs/cross](https://github.com/cross-rs/cross): “Zero setup” cross
+  compilation and “cross testing” of Rust crates
+
+## Test suites
+
+- [nextest-rs/nextest](https://github.com/nextest-rs/nextest): A next-generation
+  test runner for Rust.
 - [tokio-rs/loom](https://github.com/tokio-rs/loom): Concurrency permutation
   testing tool for Rust.
 - [awslabs/shuttle](https://github.com/awslabs/shuttle): Shuttle is a library
   for testing concurrent Rust code.
-- [nextest-rs/nextest](https://github.com/nextest-rs/nextest): A next-generation
-  test runner for Rust.
-- [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand): Subcommand to
-  show result of macro expansion
-- [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker
 - [lipanski/mockito](https://github.com/lipanski/mockito): HTTP mocking for
   Rust!
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs):
+  Statistics-driven benchmarking library for Rust
 
 ## Performance profile
 
@@ -33,14 +44,19 @@
   in Rust
 - [tikv/pprof-rs](https://github.com/tikv/pprof-rs): A Rust CPU profiler
   implemented with the help of backtrace-rs
-- [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust): Extremely fast
-  tracing library for Rust
 - [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf): Website for
   graphing performance of rustc
+- [tokio-rs/tracing](https://github.com/tokio-rs/tracing): Application level
+  tracing for Rust. <https://tracing.rs/>
+- [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust): Extremely fast
+  tracing library for Rust
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph): Easy
   flamegraphs for Rust projects and everything else, without Perl or pipes <3
 - [foniod/redbpf](https://github.com/foniod/redbpf): Rust library for building
   and running BPF/eBPF modules
+- [aya-rs/aya](https://github.com/aya-rs/aya): Aya is an eBPF library for the
+  Rust programming language, built with a focus on developer experience and
+  operability. <https://aya-rs.dev/book/>
 
 ## IO
 
@@ -57,6 +73,10 @@
 
 ## Concurrency / High Performance / DS & Algorithms
 
+- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam): Tools for
+  concurrent programming in Rust
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon): Rayon: A data parallelism
+  library for Rust
 - [jonhoo/left-right](https://github.com/jonhoo/left-right): A lock-free,
   read-optimized, concurrency primitive.
 - [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast): Async
@@ -83,6 +103,8 @@
   with a focus on ease of use.
 - [cberner/redb](https://github.com/cberner/redb): An embedded key-value
   database in pure Rust
+- [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta
+  embedded databases
 
 ## Featured libraries
 
@@ -94,31 +116,55 @@
   single assignment cells and lazy statics without macros
 - [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder): Rust library
   for reading/writing numbers in big-endian and little-endian.
-- [zkat/miette](https://github.com/zkat/miette): Fancy upgrade to
-  `std::error::Error`.
+- [cloudflare/quiche](https://github.com/cloudflare/quiche): 🥧 Savoury
+  implementation of the QUIC transport protocol and HTTP/3
+  <https://docs.quic.tech/quiche/>
+- [apache/arrow-rs](https://github.com/apache/arrow-rs): Official Rust
+  implementation of Apache Arrow <https://arrow.apache.org/>
+- [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2):
+  Transmute-free Rust library to work with the Arrow format
 
 ## SerDe
 
 - [rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization framework
   for Rust
+- [tokio-rs/prost](https://github.com/tokio-rs/prost): PROST! a Protocol Buffers
+  implementation for the Rust Language
 
 ## Parser combinators
 
 - [zesterer/chumsky](https://github.com/zesterer/chumsky): A parser library for
   humans with powerful error recovery.
 
+## Numerical analysis
+
+- [dimforge/nalgebra](https://github.com/dimforge/nalgebra): Linear algebra
+  library for Rust. <https://nalgebra.org/>
+
 ## Program analysis
 
 - [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra): Rust Memory
   Safety & Undefined Behavior Detection
 
-## Misc
+## Utils
 
+- [zkat/miette](https://github.com/zkat/miette): Fancy upgrade to
+  `std::error::Error`.
+- [chronotope/chrono](https://github.com/chronotope/chrono): Date and time
+  library for Rust
 - [tailhook/humantime](https://github.com/tailhook/humantime): A parser and
-  formatter for std::time::{SystemTime, Duration}
+  formatter for `std::time::{SystemTime, Duration}`
+- [yescallop/fluent-uri-rs](https://github.com/yescallop/fluent-uri-rs): A fast,
+  easy URI parser that strictly adheres to IETF RFC 3986.
+- [j-tai/getargs](https://github.com/j-tai/getargs): A truly zero-cost argument
+  parser for Rust
+
+## Misc
 
 - [Keats/tera](https://github.com/Keats/tera): A template engine for Rust based
   on Jinja2/Django
+
+## TUI
 
 - [zhiburt/tabled](https://github.com/zhiburt/tabled): An easy to use library
   for pretty print tables of Rust structs and enums.
@@ -133,3 +179,11 @@
   interfaces and dashboards using Rust
 - [console-rs/indicatif](https://github.com/console-rs/indicatif): A command
   line progress reporting library for Rust
+
+## GUI
+
+- [slint-ui/slint](https://github.com/slint-ui/slint): Slint is a toolkit to
+  efficiently develop fluid graphical user interfaces for any display: embedded
+  devices and desktop applications. <https://slint-ui.com/>
+- [iced-rs/iced](https://github.com/iced-rs/iced): A cross-platform GUI library
+  for Rust, inspired by Elm <https://iced.rs/>

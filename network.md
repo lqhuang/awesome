@@ -19,6 +19,8 @@
 
 ## Tunnel
 
+- [cloudflare/boringtun](https://github.com/cloudflare/boringtun): Userspace
+  WireGuard® Implementation in Rust
 - [netbirdio/netbird](https://github.com/netbirdio/netbird): Connect your
   devices into a single secure private WireGuard®-based mesh network.
   <https://netbird.io/>
@@ -30,7 +32,6 @@
 - [tonarino/innernet](https://github.com/tonarino/innernet): A private network
   system that uses WireGuard under the hood.
   <https://blog.tonari.no/introducing-innernet>
-
 - [ntop/n2n](https://github.com/ntop/n2n): Peer-to-peer VPN
 - [omniedgeio/omniedge](https://github.com/omniedgeio/omniedge): OmniEdge is an
   Open source p2p layer 2 mesh VPN infrastructure, a traditional VPN, AWS VPC,

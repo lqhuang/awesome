@@ -67,3 +67,8 @@
 
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus): Friendly React-like
   GUI library for desktop, web, mobile, and more. <https://dioxuslabs.com/>
+
+## Design
+
+- [nealmckee/penumbra](https://github.com/nealmckee/penumbra): Penumbra Color
+  Theme

@@ -16,6 +16,8 @@ more like a toolbox for myself.
   reliability. <https://parca.dev/>
 - [grafana/k6](https://github.com/grafana/k6): A modern load testing tool, using
   Go and JavaScript - https://k6.io
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine): A command-line
+  benchmarking tool
 
 ### WASM Runtime
 
@@ -34,14 +36,9 @@ more like a toolbox for myself.
   microservices with WebAssembly
 - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack): 📦✨ your
   favorite rust -> wasm workflow tool! <https://rustwasm.github.io/wasm-pack/>
-
-### DevOps or Frameworks
-
-- [orchest/orchest](https://github.com/orchest/orchest): Build data pipelines,
-  the easy way 🛠️ <https://orchest.io/>
-- [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and open fair-code licensed
-  node based Workflow Automation Tool. Easily automate tasks across different
-  services. <https://n8n.io>
+- [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic):
+  Lunatic is an Erlang-inspired runtime for WebAssembly
+  <https://lunatic.solutions/>
 
 ## C / Linux
 
@@ -55,12 +52,13 @@ more like a toolbox for myself.
   and displays high-resolution traces of what a process is doing
 - [KDAB/hotspot](https://github.com/KDAB/hotspot): The Linux perf GUI for
   performance analysis.
-
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja): This is an
   online course where you can learn and master the skill of low-level
   performance analysis and tuning.
 - [grahamking/perf-ninja-rs](https://github.com/grahamking/perf-ninja-rs: Rust
   port of dendibakh/perf-ninja
+- [twitter/rezolus](https://github.com/twitter/rezolus): Systems performance
+  telemetry
 
 ## My little corner
 
@@ -90,10 +88,8 @@ more like a toolbox for myself.
 
 - [koka-lang/koka](https://github.com/koka-lang/koka): Koka language compiler
   and interpreter <https://koka-lang.org/>
-- [typelevel/cats-effect](https://github.com/typelevel/cats-effect): The pure
-  asynchronous runtime for Scala <https://typelevel.org/cats-effect/>
-- [zio/zio](https://github.com/zio/zio): ZIO — A type-safe, composable library
-  for async and concurrent programming in Scala <https://zio.dev/>
+- [Kindelia/HVM](https://github.com/Kindelia/HVM): A massively parallel, optimal
+  functional runtime in Rust
 
 ### Speed is everything
 
@@ -105,24 +101,6 @@ more like a toolbox for myself.
   server-side application framework <http://seastar.io/>
 - [userver-framework/userver](https://github.com/userver-framework/userver): The
   C++ Asynchronous Framework (beta) <https://userver.tech/>
-
-### Database and OS
-
-- [gluesql/gluesql](https://github.com/gluesql/gluesql): GlueSQL is quite
-  sticky, it attaches to anywhere.
-- [readysettech/readyset](https://github.com/readysettech/readyset): ReadySet is
-  a lightweight SQL caching engine written in Rust that helps developers enhance
-  the performance and scalability of existing applications. "Noria"
-  <https://readyset.io/>
-- [jitsucom/jitsu](https://github.com/jitsucom/jitsu): Jitsu is an open-source
-  Segment alternative. Fully-scriptable data ingestion engine for modern data
-  teams. Set-up a real-time data pipeline in minutes, not days
-  <https://jitsu.com/>
-- [bytebase/bytebase](https://github.com/bytebase/bytebase): Safe database
-  schema change and version control for DevOps teams. <https://www.bytebase.com>
-- [neondatabase/neon](https://github.com/neondatabase/neon): Neon: Serverless
-  Postgres. We separated storage and compute to offer autoscaling, branching,
-  and bottomless storage. <https://neon.tech/>
 
 ### Machine learning
 

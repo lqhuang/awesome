@@ -26,6 +26,10 @@
   <https://www.risingwave.dev/>
 - [thatdot/quine](https://github.com/thatdot/quine): Quine • a streaming graph •
   Slack: quine-io.slack.com <https://quine.io/>
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize):
+  The Fastest Way to Build the Fastest Data Products. Build data-intensive
+  applications and services in SQL — without pipelines or caches — using
+  materialized views that are always up-to-date. <https://materialize.com/>
 
 ### Pending to research / study
 
