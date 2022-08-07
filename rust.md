@@ -105,6 +105,8 @@
   database in pure Rust
 - [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta
   embedded databases
+- [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb):
+  rust wrapper for rocksdb
 
 ## Featured libraries
 
