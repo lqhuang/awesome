@@ -62,35 +62,6 @@ more like a toolbox for myself.
 
 ## My little corner
 
-### The curse of strong typing
-
-- [gcanti/fp-ts](https://github.com/gcanti/fp-ts): Functional programming in
-  TypeScript
-- [Effect-TS/core](https://github.com/Effect-TS/core): A Fully-fledged
-  functional effect system for typescript with a rich standard library
-
-- [kowainik/relude](https://github.com/kowainik/relude): 🌀 Safe, performant,
-  user-friendly and lightweight Haskell standard library
-  <https://kowainik.github.io/projects/relude>
-- [commercialhaskell/rio](https://github.com/commercialhaskell/rio): A standard
-  library for Haskell
-- [fpco/unliftio](https://github.com/fpco/unliftio): The MonadUnliftIO typeclass
-  for unlifting monads to IO
-- [composewell/streamly](https://github.com/composewell/streamly): Dataflow
-  programming and declarative concurrency <https://streamly.composewell.com/>
-- [well-typed/optics](https://github.com/well-typed/optics): Optics as an
-  abstract interface
-- [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful):
-  An easy to use, fast extensible effects library with seamless integration with
-  the existing Haskell ecosystem.
-- [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress
-  effect system for Haskell 🚧
-
-- [koka-lang/koka](https://github.com/koka-lang/koka): Koka language compiler
-  and interpreter <https://koka-lang.org/>
-- [Kindelia/HVM](https://github.com/Kindelia/HVM): A massively parallel, optimal
-  functional runtime in Rust
-
 ### Speed is everything
 
 - [google/highway](https://github.com/google/highway): Performance-portable,
@@ -104,8 +75,6 @@ more like a toolbox for myself.
 
 ### Machine learning
 
-- [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Development
-  environment for machine learning
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable
   PyTrees and filtered transforms => neural networks in JAX.
   <https://docs.kidger.site/equinox/>
