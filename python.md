@@ -27,6 +27,9 @@
   entire Python programs. Extract the structure, the frame, the skeleton of your
   project, to generate API documentation or find breaking changes in your API.
   <https://mkdocstrings.github.io/griffe>
+- [omarkohl/pytest-datafiles](https://github.com/omarkohl/pytest-datafiles):
+  pytest plugin to create a tmpdir containing a preconfigured set of files
+  and/or directories.
 
 ## Performance profile
 
@@ -94,10 +97,10 @@
   Produce redistributable builds of Python
 - [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
   documentation theme for Sphinx
-- [cruft/cruft](https://github.com/cruft/cruft/): Allows you to maintain all
-  the necessary cruft for packaging and building projects separate from the code
-  you intentionally write. Built on-top of, and fully compatible with,
-  CookieCutter. <https://cruft.github.io/cruft/>
+- [cruft/cruft](https://github.com/cruft/cruft/): Allows you to maintain all the
+  necessary cruft for packaging and building projects separate from the code you
+  intentionally write. Built on-top of, and fully compatible with, CookieCutter.
+  <https://cruft.github.io/cruft/>
 
 ## Security
 
@@ -189,6 +192,8 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams): 🎨 Diagram as
   Code for prototyping cloud system architectures
   <https://diagrams.mingrammer.com/>
+- [sdispater/tomlkit](https://github.com/sdispater/tomlkit): Style-preserving
+  TOML library for Python
 
 ## Visualization
 

@@ -56,6 +56,8 @@
   builds. <https://please.build/>
 - [pantsbuild/pants](https://github.com/pantsbuild/pants): The Pantsbuild
   developer workflow system <https://www.pantsbuild.org/>
+- [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build
+  system with a focus on speed <https://ninja-build.org/>
 
 ## Audit
 
@@ -101,6 +103,9 @@
 - [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox):
   Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of
   InfluxDB written in Rust on top of Apache Arrow.
+- [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB -
+  the open source, distributed, transactional key-value store
+  <https://www.foundationdb.org/>
 
 ## Modern Data Stack
 

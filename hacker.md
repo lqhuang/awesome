@@ -12,6 +12,10 @@
   static serving, uploading, searching, accessing control, webdav...
 - [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal
   session recorder 📹 <https://asciinema.org/>
+- [ellie/atuin](https://github.com/ellie/atuin): 🐢 Magical shell history
+  <https://atuin.sh/>
+- [bootandy/dust](https://github.com/bootandy/dust): A more intuitive version of
+  du in rust
 
 ## Software
 

@@ -50,6 +50,8 @@
   open-source, lightning-fast, and hyper-relevant search engine that fits
   effortlessly into your apps, websites, and workflow.
   <https://www.meilisearch.com/>
+- [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first schema
+  validation with static type inference <https://zod.dev/>
 
 ## Visualization
 
