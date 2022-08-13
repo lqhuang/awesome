@@ -19,6 +19,11 @@
 - [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress
   effect system for Haskell 🚧
 
+### Other good libs
+
+- [ndmitchell/shake](https://github.com/ndmitchell/shake): Shake build system
+  <http://shakebuild.com/>
+
 ## Typescript
 
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts): Functional programming in

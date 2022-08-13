@@ -18,12 +18,14 @@
 ## Build
 
 - [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker
+- [cross-rs/cross](https://github.com/cross-rs/cross): “Zero setup” cross
+  compilation and “cross testing” of Rust crates
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand): Subcommand to
   show result of macro expansion
 - [Kobzol/cargo-pgo](https://github.com/Kobzol/cargo-pgo): Cargo subcommand for
   optimizing binaries with PGO and BOLT
-- [cross-rs/cross](https://github.com/cross-rs/cross): “Zero setup” cross
-  compilation and “cross testing” of Rust crates
+- [RazrFalcon/cargo-bloat](https://github.com/RazrFalcon/cargo-bloat): Find out
+  what takes most of the space in your executable.
 
 ## Test suites
 

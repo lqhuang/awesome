@@ -66,16 +66,21 @@
 - [alice-biometrics/meiga](https://github.com/alice-biometrics/meiga): 🧙 A
   simple, typed and monad-based Result type for Python.
 - [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python
-  to fast C extensions <mypyc.readthedocs.io/en/stable/index.html>
+  to fast C extensions <https://mypyc.readthedocs.io>
 - [nipunn1313/mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf): open
   source tools to generate mypy stubs from protobufs
+
+## Linter
+
+- [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick): Enforce the same
+  settings on multiple projects <https://nitpick.readthedocs.io/>
 
 ## Build tools
 
 - [project/pdm](https://github.com/pdm-project/pdm): A modern Python package
-  manager with PEP 582 support. <pdm.fming.dev>
+  manager with PEP 582 support. <https://pdm.fming.dev>
 - [pypa/hatch](https://github.com/pypa/hatch): Modern, extensible Python project
-  management <hatch.pypa.io/latest>
+  management <https://hatch.pypa.io/latest>
 - [linkedin/shiv](https://github.com/linkedin/shiv): shiv is a command line
   utility for building fully self contained Python zipapps as outlined in PEP
   441, but with all their dependencies included.
@@ -89,6 +94,10 @@
   Produce redistributable builds of Python
 - [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
   documentation theme for Sphinx
+- [cruft/cruft](https://github.com/cruft/cruft/): Allows you to maintain all
+  the necessary cruft for packaging and building projects separate from the code
+  you intentionally write. Built on-top of, and fully compatible with,
+  CookieCutter. <https://cruft.github.io/cruft/>
 
 ## Security
 
@@ -147,6 +156,9 @@
 - [Instagram/LibCST](https://github.com/Instagram/LibCST): A concrete syntax
   tree parser and serializer library for Python that preserves many aspects of
   Python's abstract syntax tree
+- [lepture/mistune](https://github.com/lepture/mistune): A fast yet powerful
+  Python Markdown parser with renderers and plugins.
+  <http://mistune.readthedocs.io/>
 
 ## Logging
 
@@ -165,9 +177,6 @@
   reading and writing PDF, powered by qpdf
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py): Type-safe and
   powerful Python library to generate SVG files
-- [lepture/mistune](https://github.com/lepture/mistune): A fast yet powerful
-  Python Markdown parser with renderers and plugins.
-  <http://mistune.readthedocs.io/>
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter):
   A modern and customizable python UI-library based on Tkinter
 - [nficano/humps](https://github.com/nficano/humps): Convert strings (and

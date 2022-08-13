@@ -8,6 +8,8 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly
   alternative to 'find'
 - [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
+- [sigoden/dufs](https://github.com/sigoden/dufs): A file server that supports
+  static serving, uploading, searching, accessing control, webdav...
 - [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal
   session recorder 📹 <https://asciinema.org/>
 
@@ -23,8 +25,8 @@
 - [LanguageTool](https://languagetool.org): Instantly Enhance Your Writing
 - [padloc/padloc](https://github.com/padloc/padloc): A modern, open source
   password manager for individuals and teams. <https://padloc.app/>
-- [sigoden/dufs](https://github.com/sigoden/dufs): A file server that supports
-  static serving, uploading, searching, accessing control, webdav...
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's
+  main development repository <https://handbrake.fr/>
 
 ## HomeKit / IoT
 
