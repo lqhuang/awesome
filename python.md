@@ -12,6 +12,8 @@
 - [jcrist/msgspec](https://github.com/jcrist/msgspec): A fast and friendly
   JSON/MessagePack library, with optional schema validation
   <https://jcristharif.com/msgspec>
+- [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle): Extended
+  pickling support for Python objects
 
 ## Test / Mock / Coverage
 
