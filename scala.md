@@ -42,6 +42,10 @@
   GraphQL library for Scala <https://ghostdogpr.github.io/caliban/>
 - [dream11/zio-http](https://github.com/dream11/zio-http): A scala library to
   write Http apps. <https://dream11.github.io/zio-http>
+- [softwaremill/saft](https://github.com/softwaremill/saft): An implementation
+  of the Raft consensus algorithm, using the Scala language and a functional
+  effect system (zio). Currently, the goal of this project is educational, not
+  production usage.
 
 ## sbt plugins
 

@@ -35,6 +35,11 @@
   Console gives you a simple, interactive approach for gaining visibility into
   your topics, masking data, managing consumer groups, and exploring real-time
   data with time-travel debugging.
+- [novuhq/novu](https://github.com/novuhq/novu): 🚀 The open-source
+  notifications infrastructure. A fully-featured microservice to send SMS,
+  E-mail, Slack and Push notifications. Embeddable notification center for React
+  with real-time updates, content management, and much more...
+  <https://novu.co/>
 
 ## Pipelines / Workflow
 

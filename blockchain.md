@@ -15,6 +15,9 @@
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain):
   ⚡️Curated list of resources for the development and applications of
   blockchain.
+- [saeidshirazi/Awesome-Smart-Contract-Security](https://github.com/saeidshirazi/Awesome-Smart-Contract-Security):
+  A curated list of Smart Contract Security materials and resources For
+  Researchers
 - [I Looked Into 34 Top Real-World Blockchain Projects So You Don’t Have To](https://weh.wtf/34-blockchain-projects.html)
 
 ## On-chain analysis

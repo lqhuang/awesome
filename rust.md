@@ -72,9 +72,13 @@
   based on io-uring.
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring): An io_uring
   backed runtime for Rust
+- [microsoft/stackfuture](https://github.com/microsoft/stackfuture): A wrapper
+  around Rust futures that stores the future in space provided by the caller.
 
 ## Concurrency / High Performance / DS & Algorithms
 
+- [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd): The
+  testing ground for the future of portable SIMD in Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam): Tools for
   concurrent programming in Rust
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon): Rayon: A data parallelism
@@ -134,6 +138,8 @@
   for Rust
 - [tokio-rs/prost](https://github.com/tokio-rs/prost): PROST! a Protocol Buffers
   implementation for the Rust Language
+- [simd-lite/simd-json](https://github.com/simd-lite/simd-json): Rust port of
+  simdjson
 
 ## Parser combinators
 

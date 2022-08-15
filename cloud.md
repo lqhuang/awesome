@@ -6,6 +6,8 @@
   and exec
 - [tianon/gosu](https://github.com/tianon/gosu): Simple Go-based
   setuid+setgid+setgroups+exec
+- [oasislinux/oasis](https://github.com/oasislinux/oasis): a small
+  statically-linked linux system
 
 ## Cloud native
 
@@ -43,3 +45,6 @@
   changes in your infrastructure. ⚡️ <https://resoto.com/>
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard): 🌍 📋 A web
   dashboard to inspect Terraform States <https://terraboard.io>
+- [cycloidio/terracognita](https://github.com/cycloidio/terracognita): Reads
+  from existing public and private cloud providers (reverse Terraform) and
+  generates your infrastructure as code on Terraform configuration
