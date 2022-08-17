@@ -16,6 +16,8 @@
   <https://atuin.sh/>
 - [bootandy/dust](https://github.com/bootandy/dust): A more intuitive version of
   du in rust
+- [lra/mackup](https://github.com/lra/mackup): Keep your application settings in
+  sync (OS X/Linux)
 
 ## Software
 

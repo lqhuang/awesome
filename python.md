@@ -1,20 +1,5 @@
 # Python
 
-## Serialization
-
-- [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto):
-  Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async
-  gRPC
-- [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON
-  decoder and encoder written in C with Python bindings
-- [ijl/orjson](https://github.com/ijl/orjson): Fast, correct Python JSON library
-  supporting dataclasses, datetimes, and numpy
-- [jcrist/msgspec](https://github.com/jcrist/msgspec): A fast and friendly
-  JSON/MessagePack library, with optional schema validation
-  <https://jcristharif.com/msgspec>
-- [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle): Extended
-  pickling support for Python objects
-
 ## Test / Mock / Coverage
 
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy): Automatically mock your
@@ -156,6 +141,23 @@
 - [ipython/traitlets](https://github.com/ipython/traitlets): A lightweight
   Traits like module <https://traitlets.readthedocs.io/>
 
+## Serialization
+
+- [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto):
+  Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async
+  gRPC
+- [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON
+  decoder and encoder written in C with Python bindings
+- [ijl/orjson](https://github.com/ijl/orjson): Fast, correct Python JSON library
+  supporting dataclasses, datetimes, and numpy
+- [jcrist/msgspec](https://github.com/jcrist/msgspec): A fast and friendly
+  JSON/MessagePack library, with optional schema validation
+  <https://jcristharif.com/msgspec>
+- [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle): Extended
+  pickling support for Python objects
+- [sdispater/tomlkit](https://github.com/sdispater/tomlkit): Style-preserving
+  TOML library for Python
+
 ## Parser
 
 - [Instagram/LibCST](https://github.com/Instagram/LibCST): A concrete syntax
@@ -194,8 +196,10 @@
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams): 🎨 Diagram as
   Code for prototyping cloud system architectures
   <https://diagrams.mingrammer.com/>
-- [sdispater/tomlkit](https://github.com/sdispater/tomlkit): Style-preserving
-  TOML library for Python
+- [adamchainz/patchy](https://github.com/adamchainz/patchy): ⚓ Patch the inner
+  source of python functions at runtime.
+- [jazzband/tablib](https://github.com/jazzband/tablib): Python Module for
+  Tabular Datasets in XLS, CSV, JSON, YAML, &c. <https://tablib.readthedocs.io/>
 
 ## Visualization
 
