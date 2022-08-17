@@ -35,6 +35,8 @@
   toolbox <https://docs.tofu.tf>
 - [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria): Scala
   GraphQL implementation <https://sangria-graphql.github.io/>
+- [softwaremill/macwire](https://github.com/softwaremill/macwire): Lightweight
+  and Nonintrusive Scala Dependency Injection Library
 
 ## Extra ZIO eco-system
 
