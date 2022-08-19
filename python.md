@@ -17,6 +17,10 @@
 - [omarkohl/pytest-datafiles](https://github.com/omarkohl/pytest-datafiles):
   pytest plugin to create a tmpdir containing a preconfigured set of files
   and/or directories.
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis): Run
+  thousands of randomly generated test scenarios based on your API specification
+  and always be sure your API works as expected.
+  <https://schemathesis.readthedocs.io/>
 
 ## Performance profile
 

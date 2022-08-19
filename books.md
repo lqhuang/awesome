@@ -40,6 +40,8 @@
   been a software engineer for over 10 years now, and I’ve successfully passed
   through all stages of grief. I’m also an avid reader. This page contains my
   collection of books that have helped me the most throughout my career.
+- [Elements of Programming](http://elementsofprogramming.com/): Decomposing
+  programs into a system of algorithmic components
 
 ## Books (zh_cn)
 
