@@ -64,6 +64,14 @@
 - [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build
   system with a focus on speed <https://ninja-build.org/>
 
+## Pub/Sub
+
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh): zenoh unifies
+  data in motion, data in-use, data at rest and computations. It carefully
+  blends traditional pub/sub with geo-distributed storages, queries and
+  computations, while retaining a level of time and space efficiency that is
+  well beyond any of the mainstream stacks. <https://zenoh.io/>
+
 ## Audit
 
 - [libyear](https://libyear.com/): A **simple** measure of software dependency

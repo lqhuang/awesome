@@ -9,6 +9,11 @@
 - [oasislinux/oasis](https://github.com/oasislinux/oasis): a small
   statically-linked linux system
 
+## Routing
+
+- [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native
+  Application Proxy
+
 ## Cloud native
 
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare): 🔥
