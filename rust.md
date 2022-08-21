@@ -145,6 +145,8 @@
 
 - [zesterer/chumsky](https://github.com/zesterer/chumsky): A parser library for
   humans with powerful error recovery.
+- [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs):
+  Extensible SQL Lexer and Parser for Rust
 
 ## Numerical analysis
 
@@ -173,6 +175,9 @@
 
 - [Keats/tera](https://github.com/Keats/tera): A template engine for Rust based
   on Jinja2/Django
+- [salsa-rs/salsa](https://github.com/salsa-rs/salsa): A generic framework for
+  on-demand, incrementalized computation. Inspired by adapton, glimmer, and
+  rustc's query system. <https://salsa-rs.netlify.app/>
 
 ## TUI
 

@@ -144,8 +144,14 @@
   <https://pgjones.gitlab.io/hypercorn/>
 - [ipython/traitlets](https://github.com/ipython/traitlets): A lightweight
   Traits like module <https://traitlets.readthedocs.io/>
+- [deepmind/tree](https://github.com/deepmind/tree): tree is a library for
+  working with nested data structures <https://tree.readthedocs.io/>
+- [deepmind/fancyflags](https://github.com/deepmind/fancyflags): A Python
+  library for defining flat or nested dictionary flags.
+- [encode/broadcaster](https://github.com/encode/broadcaster): Broadcast
+  channels for async web apps. 📢
 
-## Serialization
+## Serialization & Validation
 
 - [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto):
   Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async
@@ -161,6 +167,9 @@
   pickling support for Python objects
 - [sdispater/tomlkit](https://github.com/sdispater/tomlkit): Style-preserving
   TOML library for Python
+- [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema):
+  An implementation of the JSON Schema specification for Python
+  <https://python-jsonschema.readthedocs.io/>
 
 ## Parser
 
