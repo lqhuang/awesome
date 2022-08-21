@@ -73,14 +73,6 @@ more like a toolbox for myself.
 - [userver-framework/userver](https://github.com/userver-framework/userver): The
   C++ Asynchronous Framework (beta) <https://userver.tech/>
 
-### Machine learning
-
-- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable
-  PyTrees and filtered transforms => neural networks in JAX.
-  <https://docs.kidger.site/equinox/>
-- [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and
-  runtime checking for shape and dtype of JAX arrays, and PyTrees.
-
 ### Distributed systems
 
 - [stateright/stateright](https://github.com/stateright/stateright): A model

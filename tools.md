@@ -92,8 +92,6 @@
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit):
   Cloud-native search engine for log management & analytics
   <https://quickwit.io>
-- [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Development
-  environment for machine learning
 
 ## New databases
 
