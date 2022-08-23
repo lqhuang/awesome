@@ -12,6 +12,9 @@
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs):
   A curated list of awesome things related to learning Zero-Knowledge Proofs
   (ZKP).
+- [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices):
+  A guide to smart contract security best practices
+  <https://consensys.github.io/smart-contract-best-practices/>
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain):
   ⚡️Curated list of resources for the development and applications of
   blockchain.
@@ -62,6 +65,15 @@
   of the Ethereum Virtual Machine <https://py-evm.readthedocs.io/en/latest/>
 - [sigp/lighthouse](https://github.com/sigp/lighthouse): Ethereum consensus
   client in Rust
+
+## Misc
+
+- [matter-labs/zksync](https://github.com/matter-labs/zksync): zkSync: trustless
+  scaling and privacy engine for Ethereum <https://zksync.io/>
+- [ConsenSys/mythril](https://github.com/ConsenSys/mythril): Security analysis
+  tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera,
+  Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
+  <https://mythx.io/>
 
 ## Projects
 
