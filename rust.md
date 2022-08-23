@@ -100,6 +100,8 @@
 - [xacrimon/conc-map-bench](https://github.com/xacrimon/conc-map-bench):
   conc-map-bench uses the bustle benchmarking harness. This is a port of the
   well regarded libcuckoo benchmark.
+- [SergioBenitez/state](https://github.com/SergioBenitez/state): A Rust library
+  for safe and effortless global and thread-local state management.
 
 ## Clients
 
@@ -147,6 +149,9 @@
   humans with powerful error recovery.
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs):
   Extensible SQL Lexer and Parser for Rust
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter): An
+  incremental parsing system for programming tools
+  <https://tree-sitter.github.io/>
 
 ## Numerical analysis
 

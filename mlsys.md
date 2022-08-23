@@ -12,6 +12,10 @@
   workloads. <https://ray.io/>
 - [dmlc/dlpack](https://github.com/dmlc/dlpack): common in-memory tensor
   structure <https://dmlc.github.io/dlpack/latest>
+- [aws/deep-learning-containers](https://github.com/aws/deep-learning-containers):
+  AWS Deep Learning Containers (DLCs) are a set of Docker images for training
+  and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
+  <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>
 
 ## Frameworks
 

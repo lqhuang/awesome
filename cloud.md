@@ -8,6 +8,15 @@
   setuid+setgid+setgroups+exec
 - [oasislinux/oasis](https://github.com/oasislinux/oasis): a small
   statically-linked linux system
+- [containrrr/watchtower](https://github.com/containrrr/watchtower): A process
+  for automating Docker container base image updates.
+  <https://containrrr.dev/watchtower/>
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers):
+  Kata Containers version 2.x repository. Kata Containers is an open source
+  project and community working to build a standard implementation of
+  lightweight Virtual Machines (VMs) that feel and perform like containers, but
+  provide the workload isolation and security advantages of VMs.
+  <https://katacontainers.io/ >
 
 ## Routing
 

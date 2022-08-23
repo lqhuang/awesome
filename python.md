@@ -123,6 +123,8 @@
   Document Mapper) for MongoDB based on python type hints
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot): Python SQL Parser and
   Transpiler
+- [mcfunley/pugsql](https://github.com/mcfunley/pugsql): A HugSQL-inspired
+  database library for Python <https://pugsql.org/>
 
 ## Featured libraries
 
@@ -206,6 +208,9 @@
   configuration system. The last one you will ever need.
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra): Hydra is
   a framework for elegantly configuring complex applications <https://hydra.cc>
+- [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic
+  plugins for Python applications. Mirror of code maintained at opendev.org.
+  <https://opendev.org/openstack/stevedore>
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams): 🎨 Diagram as
   Code for prototyping cloud system architectures
   <https://diagrams.mingrammer.com/>
@@ -218,3 +223,5 @@
 
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
   dashboarding solution for Python
+- [joouha/euporie](https://github.com/joouha/euporie): Jupyter notebooks in the
+  terminal <https://euporie.readthedocs.io/>

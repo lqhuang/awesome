@@ -1,6 +1,6 @@
 # Scala
 
-## Learn these you will rule the world
+## Learn these you rule the world
 
 - [typelevel/cats-effect](https://github.com/typelevel/cats-effect): The pure
   asynchronous runtime for Scala <https://typelevel.org/cats-effect/>
@@ -28,15 +28,23 @@
   from the comfort of Scala!
 - [almond-sh/almond](https://github.com/almond-sh/almond): A Scala kernel for
   Jupyter <almond.sh>
-- [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer): Akka
-  extension and agent exposing application telemetry and events via
-  OpenTelemetry interface
-- [tofu-tf/tofu](https://github.com/tofu-tf/tofu): Functional programming
-  toolbox <https://docs.tofu.tf>
 - [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria): Scala
   GraphQL implementation <https://sangria-graphql.github.io/>
 - [softwaremill/macwire](https://github.com/softwaremill/macwire): Lightweight
   and Nonintrusive Scala Dependency Injection Library
+
+## Akka
+
+- [paypal/squbs](https://github.com/paypal/squbs): Akka Streams & Akka HTTP for
+  Large-Scale Production Deployments <http://paypal.github.io/squbs>
+- [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer): Akka
+  extension and agent exposing application telemetry and events via
+  OpenTelemetry interface
+
+## Typelevel
+
+- [tofu-tf/tofu](https://github.com/tofu-tf/tofu): Functional programming
+  toolbox <https://docs.tofu.tf>
 
 ## Extra ZIO eco-system
 
@@ -49,10 +57,12 @@
   effect system (zio). Currently, the goal of this project is educational, not
   production usage.
 
-## sbt plugins
+## Build / sbt plugins
 
 - [spray/sbt-revolver](https://github.com/spray/sbt-revolver): An SBT plugin for
   dangerously fast development turnaround in Scala
+- [typelevel/scalac-options](https://github.com/typelevel/scalac-options): A
+  library for configuring scalac options
 
 ## Tools
 

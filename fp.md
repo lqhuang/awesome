@@ -23,6 +23,8 @@
 
 - [ndmitchell/shake](https://github.com/ndmitchell/shake): Shake build system
   <http://shakebuild.com/>
+- [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell):
+  Maintainable configuration files <https://dhall-lang.org/>
 
 ## Typescript
 

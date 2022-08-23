@@ -77,6 +77,7 @@
 - [lonegunmanb/introduction-terraform](https://github.com/lonegunmanb/introduction-terraform):
   Introduction to terraform
   <https://lonegunmanb.github.io/introduction-terraform>
+- [文科生也能懂的 Rust async 机制](https://blog.pan93.com/what-is-rust-async-cn/)
 
 ## Readings
 

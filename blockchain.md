@@ -1,3 +1,5 @@
+# Blockchain
+
 ## Books
 
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook):
@@ -9,6 +11,9 @@
 
 ## Readings
 
+- [Blockchain-zju/blockchainer-roadmap](https://github.com/Blockchain-zju/blockchainer-roadmap):
+  Roadmap of learning blockchain technology and business knowledge summarized by
+  ZJUBCA（浙大区块链协会总结的区块链知识学习路线）. Welcome to contribute!!!
 - [matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs):
   A curated list of awesome things related to learning Zero-Knowledge Proofs
   (ZKP).
@@ -68,6 +73,9 @@
 
 ## Misc
 
+- [tomusdrw/rust-web3](https://github.com/tomusdrw/rust-web3): Ethereum JSON-RPC
+  multi-transport client. Rust implementation of web3 library. ENS address:
+  rust-web3.eth
 - [matter-labs/zksync](https://github.com/matter-labs/zksync): zkSync: trustless
   scaling and privacy engine for Ethereum <https://zksync.io/>
 - [ConsenSys/mythril](https://github.com/ConsenSys/mythril): Security analysis
@@ -79,3 +87,9 @@
 
 - [Handshake](https://handshake.org): Decentralized naming and certificate
   authority
+
+## Wallets
+
+- [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo): Secure,
+  open source and community driven crypto wallet runs on all platforms and
+  trusted by millions. <https://onekey.so/>

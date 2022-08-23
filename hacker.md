@@ -18,6 +18,8 @@
   du in rust
 - [lra/mackup](https://github.com/lra/mackup): Keep your application settings in
   sync (OS X/Linux)
+- [extrawurst/gitui](https://github.com/extrawurst/gitui): Blazing 💥 fast
+  terminal-ui for git written in rust 🦀
 
 ## Software
 
@@ -33,6 +35,19 @@
   password manager for individuals and teams. <https://padloc.app/>
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's
   main development repository <https://handbrake.fr/>
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy):
+  Open-source tool to enforce privacy & security best-practices on Windows and
+  macOS, because privacy is sexy 🍑🍆 <https://privacy.sexy/>
+- [Typst](https://typst.app/): Compose papers faster: Focus on your text and let
+  Typst take care of layout and formatting.
+- [Inkdrop](https://www.inkdrop.app/): Organizing your Markdown notes made
+  simple.
+
+## Dev tools
+
+- [kampersanda/goodname](https://github.com/kampersanda/goodname): Tool to
+  assist you with cool naming of your methods and software
+  <https://kampersanda.github.io/goodname/>
 
 ## HomeKit / IoT
 
@@ -52,6 +67,8 @@
   工具。Mieru is a socks5 proxy to bypass censorship.
 - [eycorsican/leaf](https://github.com/eycorsican/leaf): A versatile and
   efficient proxy framework with nice features suitable for various use cases.
+- [bluejekyll/trust-dns](https://github.com/bluejekyll/trust-dns): A Rust based
+  DNS client, server, and resolver
 
 ## Misc
 
@@ -61,3 +78,5 @@
 - [naiba/nezha](https://github.com/naiba/nezha): :trollface: Self-hosted,
   lightweight server and website monitoring and O&M tool
   <https://ops.naibahq.com/>
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy
+  self-hosted monitoring tool <https://uptime.kuma.pet/>
