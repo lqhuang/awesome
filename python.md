@@ -165,6 +165,8 @@
 - [jcrist/msgspec](https://github.com/jcrist/msgspec): A fast and friendly
   JSON/MessagePack library, with optional schema validation
   <https://jcristharif.com/msgspec>
+- [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson): Python bindings for
+  the simdjson project. <https://pysimdjson.tkte.ch/>
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle): Extended
   pickling support for Python objects
 - [sdispater/tomlkit](https://github.com/sdispater/tomlkit): Style-preserving

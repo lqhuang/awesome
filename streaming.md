@@ -37,3 +37,5 @@
   processing framework. <https://vertexclique.github.io/callysto/>
 - [cda-group/arcon](https://github.com/cda-group/arcon): State-first Streaming
   Applications in Rust
+- [TomasMikula/libretto](https://github.com/TomasMikula/libretto): Declarative
+  concurrency and stream processing library for Scala

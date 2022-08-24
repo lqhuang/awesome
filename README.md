@@ -72,6 +72,8 @@ more like a toolbox for myself.
   server-side application framework <http://seastar.io/>
 - [userver-framework/userver](https://github.com/userver-framework/userver): The
   C++ Asynchronous Framework (beta) <https://userver.tech/>
+- [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A
+  collection of resources on modern C++ <https://awesomecpp.com/>
 
 ### Distributed systems
 
