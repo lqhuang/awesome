@@ -90,3 +90,5 @@ more like a toolbox for myself.
   lock-free and distributed stateful systems in Rust, assisted by TLA+
 - [tlaplus/DrTLAPlus](https://github.com/tlaplus/DrTLAPlus): Dr. TLA+ series -
   learn an algorithm and protocol, study a specification
+- [datafuselabs/openraft](https://github.com/datafuselabs/openraft): rust raft
+  with improvements

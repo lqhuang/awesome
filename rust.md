@@ -75,33 +75,38 @@
 - [microsoft/stackfuture](https://github.com/microsoft/stackfuture): A wrapper
   around Rust futures that stores the future in space provided by the caller.
 
-## Concurrency / High Performance / DS & Algorithms
+## Concurrency / High Performance
 
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon): Rayon: A data parallelism
+  library for Rust
+- [SergioBenitez/state](https://github.com/SergioBenitez/state): A Rust library
+  for safe and effortless global and thread-local state management.
+- [moka-rs/moka](https://github.com/moka-rs/moka): A high performance concurrent
+  caching library for Rust
+- [Cassy343/flashmap](https://github.com/Cassy343/flashmap): A lock-free,
+  partially wait-free, eventually consistent, concurrent hashmap.
+- [jonhoo/left-right](https://github.com/jonhoo/left-right): A lock-free,
+  read-optimized, concurrency primitive.
 - [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd): The
   testing ground for the future of portable SIMD in Rust
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam): Tools for
   concurrent programming in Rust
-- [rayon-rs/rayon](https://github.com/rayon-rs/rayon): Rayon: A data parallelism
-  library for Rust
-- [jonhoo/left-right](https://github.com/jonhoo/left-right): A lock-free,
-  read-optimized, concurrency primitive.
 - [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast): Async
   broadcast channels
 - [jonhoo/bus](https://github.com/jonhoo/bus): Efficient, lock-free, bounded
   Rust broadcast channel
+
+## DS & Algorithms
+
 - [japaric/heapless](https://github.com/japaric/heapless): Heapless, `static`
   friendly data structures
-- [moka-rs/moka](https://github.com/moka-rs/moka): A high performance concurrent
-  caching library for Rust
-- [kanidm/concread](https://github.com/kanidm/concread): Concurrently Readable
-  Data Structures for Rust
-- [Cassy343/flashmap](https://github.com/Cassy343/flashmap): A lock-free,
-  partially wait-free, eventually consistent, concurrent hashmap.
 - [xacrimon/conc-map-bench](https://github.com/xacrimon/conc-map-bench):
   conc-map-bench uses the bustle benchmarking harness. This is a port of the
   well regarded libcuckoo benchmark.
-- [SergioBenitez/state](https://github.com/SergioBenitez/state): A Rust library
-  for safe and effortless global and thread-local state management.
+- [kanidm/concread](https://github.com/kanidm/concread): Concurrently Readable
+  Data Structures for Rust
+- [bodil/im-rs](https://github.com/bodil/im-rs): Assorted immutable collection
+  datatypes for Rust <http://immutable.rs/>
 
 ## Clients
 
@@ -115,6 +120,8 @@
   embedded databases
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb):
   rust wrapper for rocksdb
+- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres): Native
+  PostgreSQL driver for the Rust programming language
 
 ## Featured libraries
 
@@ -126,6 +133,8 @@
   single assignment cells and lazy statics without macros
 - [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder): Rust library
   for reading/writing numbers in big-endian and little-endian.
+- [ParkMyCar/compact_str](https://github.com/ParkMyCar/compact_str): A memory
+  efficient string type that can store up to 24\* bytes on the stack
 - [cloudflare/quiche](https://github.com/cloudflare/quiche): 🥧 Savoury
   implementation of the QUIC transport protocol and HTTP/3
   <https://docs.quic.tech/quiche/>

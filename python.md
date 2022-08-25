@@ -75,23 +75,30 @@
   manager with PEP 582 support. <https://pdm.fming.dev>
 - [pypa/hatch](https://github.com/pypa/hatch): Modern, extensible Python project
   management <https://hatch.pypa.io/latest>
-- [linkedin/shiv](https://github.com/linkedin/shiv): shiv is a command line
-  utility for building fully self contained Python zipapps as outlined in PEP
-  441, but with all their dependencies included.
-- [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin
-  that packs your packages into a zipapp
 - [frostming/monas](https://github.com/frostming/monas): Python monorepo made
   easy <https://monas.fming.dev/>
-- [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer): A modern Python
-  application packaging and distribution tool
-- [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone):
-  Produce redistributable builds of Python
 - [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
   documentation theme for Sphinx
 - [cruft/cruft](https://github.com/cruft/cruft/): Allows you to maintain all the
   necessary cruft for packaging and building projects separate from the code you
   intentionally write. Built on-top of, and fully compatible with, CookieCutter.
   <https://cruft.github.io/cruft/>
+
+### Packaging
+
+- [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone):
+  Produce redistributable builds of Python
+- [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer): A modern Python
+  application packaging and distribution tool
+- [linkedin/shiv](https://github.com/linkedin/shiv): shiv is a command line
+  utility for building fully self contained Python zipapps as outlined in PEP
+  441, but with all their dependencies included.
+- [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin
+  that packs your packages into a zipapp
+- [pantsbuild/pex](https://github.com/pantsbuild/pex): A library and tool for
+  generating .pex (Python EXecutable) files
+- [conda/conda-pack](https://github.com/conda/conda-pack): Package conda
+  environments for redistribution <https://conda.github.io/conda-pack/>
 
 ## Security
 
