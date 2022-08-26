@@ -77,12 +77,17 @@
   management <https://hatch.pypa.io/latest>
 - [frostming/monas](https://github.com/frostming/monas): Python monorepo made
   easy <https://monas.fming.dev/>
-- [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
-  documentation theme for Sphinx
 - [cruft/cruft](https://github.com/cruft/cruft/): Allows you to maintain all the
   necessary cruft for packaging and building projects separate from the code you
   intentionally write. Built on-top of, and fully compatible with, CookieCutter.
   <https://cruft.github.io/cruft/>
+
+## Docs
+
+- [pycco-docs/pycco](https://github.com/pycco-docs/pycco): Literate-style
+  documentation generator. <https://pycco-docs.github.io/pycco/>
+- [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
+  documentation theme for Sphinx
 
 ### Packaging
 
