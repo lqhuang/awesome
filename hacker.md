@@ -20,6 +20,8 @@
   sync (OS X/Linux)
 - [extrawurst/gitui](https://github.com/extrawurst/gitui): Blazing 💥 fast
   terminal-ui for git written in rust 🦀
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox): Instant, easy,
+  predictable shells and containers.
 
 ## Software
 
@@ -42,12 +44,20 @@
   Typst take care of layout and formatting.
 - [Inkdrop](https://www.inkdrop.app/): Organizing your Markdown notes made
   simple.
+- [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown
+  as mindmaps with Markmap.
 
 ## Dev tools
 
 - [kampersanda/goodname](https://github.com/kampersanda/goodname): Tool to
   assist you with cool naming of your methods and software
   <https://kampersanda.github.io/goodname/>
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer):
+  Run compilers interactively from your web browser and interact with the
+  assembly <https://godbolt.org/>
+- [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer):
+  Decompiler Explorer! Compare tools on the forefront of static analysis, now in
+  your web browser! <https://dogbolt.org/>
 
 ## HomeKit / IoT
 

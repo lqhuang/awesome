@@ -42,6 +42,10 @@
   collection of books that have helped me the most throughout my career.
 - [Elements of Programming](http://elementsofprogramming.com/): Decomposing
   programs into a system of algorithmic components
+- [brazzy/floating-point-gui.de](https://github.com/brazzy/floating-point-gui.de):
+  Website that provides concise answers to common questions about floating-point
+  numbers. <http://floating-point-gui.de/>
+  [Chinese Trsanlation: 《关于浮点运算：作为程序员都应该了解什么？》](https://github.com/cnrv/floating-point-guide)
 
 ## Books (zh_cn)
 

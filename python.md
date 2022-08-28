@@ -164,6 +164,8 @@
   library for defining flat or nested dictionary flags.
 - [encode/broadcaster](https://github.com/encode/broadcaster): Broadcast
   channels for async web apps. 📢
+- [RaRe-Technologies/sqlitedict](https://github.com/RaRe-Technologies/sqlitedict):
+  Persistent dict, backed by sqlite3 and pickle, multithread-safe.
 
 ## Serialization & Validation
 
