@@ -46,6 +46,11 @@
   simple.
 - [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown
   as mindmaps with Markmap.
+- [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp):
+  The easiest way to install and switch between multiple versions of Xcode -
+  with a mouse click.
+- [exelban/stats](https://github.com/exelban/stats): macOS system monitor in
+  your menu bar
 
 ## Dev tools
 
@@ -58,6 +63,9 @@
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer):
   Decompiler Explorer! Compare tools on the forefront of static analysis, now in
   your web browser! <https://dogbolt.org/>
+- [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii
+  diagram scribbles into happy little SVG
+  <http://ivanceras.github.io/svgbob-editor/>
 
 ## HomeKit / IoT
 
@@ -79,6 +87,11 @@
   efficient proxy framework with nice features suitable for various use cases.
 - [bluejekyll/trust-dns](https://github.com/bluejekyll/trust-dns): A Rust based
   DNS client, server, and resolver
+- [mingcheng/socks5lb](https://github.com/mingcheng/socks5lb): A simple socks5
+  proxy load balance and transparent proxy
+- [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list):
+  Chinese-specific configuration to improve your favorite DNS server. Best
+  partner for chnroutes.
 
 ## Misc
 

@@ -184,6 +184,8 @@
   easy URI parser that strictly adheres to IETF RFC 3986.
 - [j-tai/getargs](https://github.com/j-tai/getargs): A truly zero-cost argument
   parser for Rust
+- [slog-rs/slog](https://github.com/slog-rs/slog): Structured, contextual,
+  extensible, composable logging for Rust
 
 ## Misc
 

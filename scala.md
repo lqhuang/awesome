@@ -11,6 +11,9 @@
 
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala):
   Scala macros for compile-time generation of safe and ultra-fast JSON codecs
+- [com-lihaoyi/upickle](https://github.com/com-lihaoyi/upickle): uPickle: a
+  simple, fast, dependency-free JSON & Binary (MessagePack) serialization
+  library for Scala <https://com-lihaoyi.github.io/upickle>
 
 ## Misc
 
@@ -32,6 +35,8 @@
   GraphQL implementation <https://sangria-graphql.github.io/>
 - [softwaremill/macwire](https://github.com/softwaremill/macwire): Lightweight
   and Nonintrusive Scala Dependency Injection Library
+- [milessabin/shapeless](https://github.com/milessabin/shapeless): Generic
+  programming for Scala
 
 ## Akka
 

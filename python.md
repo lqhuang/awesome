@@ -88,6 +88,11 @@
   documentation generator. <https://pycco-docs.github.io/pycco/>
 - [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
   documentation theme for Sphinx
+- [sphinx-contrib/emojicodes](https://github.com/sphinx-contrib/emojicodes): An
+  extension to use emoji codes in your Sphinx documentation! 😍
+  <https://sphinxemojicodes.readthedocs.io/>
+- [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki): Embed
+  PlantUML, DOT, etc. diagrams in your documentation using Kroki.
 
 ### Packaging
 

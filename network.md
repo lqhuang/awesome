@@ -1,5 +1,13 @@
 # Network
 
+## Readings
+
+- [syncsynchalt/illustrated-quic](https://github.com/syncsynchalt/illustrated-quic):
+  The Illustrated QUIC Connection: Every byte explained
+  <https://quic.xargs.org/>
+
+## Tools
+
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive
   TLS-capable intercepting HTTP proxy for penetration testers and software
   developers. <https://mitmproxy.org/>

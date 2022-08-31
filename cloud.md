@@ -17,6 +17,8 @@
   lightweight Virtual Machines (VMs) that feel and perform like containers, but
   provide the workload isolation and security advantages of VMs.
   <https://katacontainers.io/ >
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks): App source +
+  Nix packages + Docker = Image <https://nixpacks.com/>
 
 ## Routing
 

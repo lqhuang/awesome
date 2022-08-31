@@ -46,6 +46,10 @@
   Website that provides concise answers to common questions about floating-point
   numbers. <http://floating-point-gui.de/>
   [Chinese Trsanlation: 《关于浮点运算：作为程序员都应该了解什么？》](https://github.com/cnrv/floating-point-guide)
+- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design):
+  A booklet on machine learning systems design with exercises. NOT the repo for
+  the book "Designing Machine Learning Systems"
+  <https://huyenchip.com/machine-learning-systems-design/toc.html>
 
 ## Books (zh_cn)
 
