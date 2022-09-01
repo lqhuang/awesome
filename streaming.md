@@ -39,3 +39,5 @@
   Applications in Rust
 - [TomasMikula/libretto](https://github.com/TomasMikula/libretto): Declarative
   concurrency and stream processing library for Scala
+- [bytewax/bytewax](https://github.com/bytewax/bytewax): A Python framework for
+  building highly scalable dataflows. <https://docs.bytewax.io/>

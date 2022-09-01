@@ -50,6 +50,10 @@
   A booklet on machine learning systems design with exercises. NOT the repo for
   the book "Designing Machine Learning Systems"
   <https://huyenchip.com/machine-learning-systems-design/toc.html>
+- [graph-neural-networks/graph-neural-networks](https://github.com/graph-neural-networks/graph-neural-networks.github.io):
+  This repo is for hosting our GNN book titled "Graph Neural Networks:
+  Foundations, Frontiers, and Applications".
+  <https://graph-neural-networks.github.io/index.html>
 
 ## Books (zh_cn)
 

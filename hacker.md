@@ -12,6 +12,7 @@
   static serving, uploading, searching, accessing control, webdav...
 - [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal
   session recorder 📹 <https://asciinema.org/>
+- [asciinema/agg](https://github.com/asciinema/agg): asciinema gif generator
 - [ellie/atuin](https://github.com/ellie/atuin): 🐢 Magical shell history
   <https://atuin.sh/>
 - [bootandy/dust](https://github.com/bootandy/dust): A more intuitive version of
@@ -22,6 +23,7 @@
   terminal-ui for git written in rust 🦀
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox): Instant, easy,
   predictable shells and containers.
+- [exdx/dcp](https://github.com/exdx/dcp): docker cp made easy
 
 ## Software
 

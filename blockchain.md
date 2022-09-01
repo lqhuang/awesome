@@ -70,6 +70,8 @@
   of the Ethereum Virtual Machine <https://py-evm.readthedocs.io/en/latest/>
 - [sigp/lighthouse](https://github.com/sigp/lighthouse): Ethereum consensus
   client in Rust
+- [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs): Complete Ethereum &
+  Celo library and wallet implementation in Rust. https://docs.rs/ethers
 
 ## Misc
 

@@ -9,6 +9,8 @@
 - [substrait-io/substrait](https://github.com/substrait-io/substrait): A cross
   platform way to express data transformation, relational algebra, standardized
   record expression and plans. <https://substrait.io>
+- [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational
+  Database Management System (Educational) <https://15445.courses.cs.cmu.edu/>
 
 ## New databases
 
@@ -37,6 +39,13 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb): A scalable,
   distributed, collaborative, document-graph database, for the realtime web
   <https://surrealdb.com/>
+- [Pinecone](https://www.pinecone.io/): The Pinecone vector database makes it
+  easy to build high-performance vector search applications. Developer-friendly,
+  fully managed, and easily scalable without infrastructure hassles.
+- [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle): A distributed
+  financial accounting database designed for mission critical safety and
+  performance to power the future of financial services.
+  <https://www.tigerbeetle.com/>
 
 ## DBA
 
@@ -49,3 +58,5 @@
   schema change and version control for DevOps teams. <https://www.bytebase.com>
 - [zalando/patroni](https://github.com/zalando/patroni): A template for
   PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+- [levkk/pgcat](https://github.com/levkk/pgcat): PostgreSQL pooler with
+  sharding, load balancing and failover support.

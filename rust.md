@@ -64,16 +64,18 @@
 
 - [vertexclique/nuclei](https://github.com/vertexclique/nuclei): Proactive IO &
   Runtime system
-- [nikomatsakis/moro](https://github.com/nikomatsakis/moro): Experiments with
-  structured concurrency in Rust
 - [nbdd0121/stackful](https://github.com/nbdd0121/stackful): Free conversion
   between async and sync in Rust
 - [bytedance/monoio](https://github.com/bytedance/monoio): Rust async runtime
   based on io-uring.
+- [mgattozzi/whorl](https://github.com/mgattozzi/whorl): single file, std only,
+  async Rust executor
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring): An io_uring
   backed runtime for Rust
 - [microsoft/stackfuture](https://github.com/microsoft/stackfuture): A wrapper
   around Rust futures that stores the future in space provided by the caller.
+- [nikomatsakis/moro](https://github.com/nikomatsakis/moro): Experiments with
+  structured concurrency in Rust
 
 ## Concurrency / High Performance
 
@@ -95,6 +97,8 @@
   broadcast channels
 - [jonhoo/bus](https://github.com/jonhoo/bus): Efficient, lock-free, bounded
   Rust broadcast channel
+- [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3): the official Rust
+  and C implementations of the BLAKE3 cryptographic hash function
 
 ## DS & Algorithms
 
@@ -107,6 +111,8 @@
   Data Structures for Rust
 - [bodil/im-rs](https://github.com/bodil/im-rs): Assorted immutable collection
   datatypes for Rust <http://immutable.rs/>
+- [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs): A
+  better compressed bitset in Rust <https://docs.rs/roaring/>
 
 ## Clients
 
@@ -142,6 +148,8 @@
   implementation of Apache Arrow <https://arrow.apache.org/>
 - [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2):
   Transmute-free Rust library to work with the Arrow format
+- [alexcrichton/wait-timeout](https://github.com/alexcrichton/wait-timeout):
+  Waiting on a child process with a timeout in Rust
 
 ## SerDe
 

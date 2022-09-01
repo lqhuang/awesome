@@ -1,5 +1,12 @@
 # Python
 
+## Resources
+
+- [languages-that-compile-to-python](https://github.com/vindarel/languages-that-compile-to-python):
+  List of languages that compile to python
+- [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python):
+  A curated list of awesome things related to functional programming in Python.
+
 ## Test / Mock / Coverage
 
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy): Automatically mock your
@@ -21,6 +28,11 @@
   thousands of randomly generated test scenarios based on your API specification
   and always be sure your API works as expected.
   <https://schemathesis.readthedocs.io/>
+- [hamcrest/PyHamcrest](https://github.com/hamcrest/PyHamcrest): Hamcrest
+  matchers for Python <http://hamcrest.org/>
+- [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure): idiomatic
+  assertion toolkit with human-friendly failure messages, inspired by RSpec
+  Expectations and should.js <http://sure.readthedocs.io/en/latest/>
 
 ## Performance profile
 
@@ -63,11 +75,16 @@
   to fast C extensions <https://mypyc.readthedocs.io>
 - [nipunn1313/mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf): open
   source tools to generate mypy stubs from protobufs
+- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType): A Python
+  library that generates static type annotations by collecting runtime types
 
 ## Linter
 
 - [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick): Enforce the same
   settings on multiple projects <https://nitpick.readthedocs.io/>
+- [asottile/pyupgrade](https://github.com/asottile/pyupgrade): A tool (and
+  pre-commit hook) to automatically upgrade syntax for newer versions of the
+  language.
 
 ## Build tools
 
@@ -123,12 +140,30 @@
   rounding floats and complex numbers in complex Python objects.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations):
   Always know what to expect from your data. <https://docs.greatexpectations.io>
+- [sepandhaghighi/pycm](https://github.com/sepandhaghighi/pycm): Multi-class
+  confusion matrix library in Python <http://pycm.io/>
+- [vaexio/vaex](https://github.com/vaexio/vaex): Out-of-Core hybrid Apache
+  Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big
+  tabular data at a billion rows per second 🚀 <https://vaex.io/>
+- [facebookresearch/theseus](https://github.com/facebookresearch/theseus): A
+  library for differentiable nonlinear optimization
+  <https://sites.google.com/view/theseus-ai>
 
 ## Prob
 
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX
   is a sampling library designed for ease of use, speed and modularity.
   <https://blackjax-devs.github.io/blackjax/>
+
+## Web
+
+- [pgjones/hypercorn](https://github.com/pgjones/hypercorn): Hypercorn is an
+  ASGI Server based on Hyper libraries and inspired by Gunicorn.
+  <https://pgjones.gitlab.io/hypercorn/>
+- [python-hyper/hyperlink](https://github.com/python-hyper/hyperlink): 🔗
+  Immutable, Pythonic, correct URLs. <https://hyperlink.readthedocs.io/>
+- [encode/broadcaster](https://github.com/encode/broadcaster): Broadcast
+  channels for async web apps. 📢
 
 ## DB clients and SQL utils
 
@@ -158,19 +193,16 @@
   Asphalt application framework (core)
 - [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio):
   Bridge between Rust async futures and Python asyncio
-- [pgjones/hypercorn](https://github.com/pgjones/hypercorn): Hypercorn is an
-  ASGI Server based on Hyper libraries and inspired by Gunicorn.
-  <https://pgjones.gitlab.io/hypercorn/>
 - [ipython/traitlets](https://github.com/ipython/traitlets): A lightweight
   Traits like module <https://traitlets.readthedocs.io/>
 - [deepmind/tree](https://github.com/deepmind/tree): tree is a library for
   working with nested data structures <https://tree.readthedocs.io/>
 - [deepmind/fancyflags](https://github.com/deepmind/fancyflags): A Python
   library for defining flat or nested dictionary flags.
-- [encode/broadcaster](https://github.com/encode/broadcaster): Broadcast
-  channels for async web apps. 📢
 - [RaRe-Technologies/sqlitedict](https://github.com/RaRe-Technologies/sqlitedict):
   Persistent dict, backed by sqlite3 and pickle, multithread-safe.
+- [ethanfurman/aenum](https://github.com/ethanfurman/aenum): Advanced
+  Enumerations for Python
 
 ## Serialization & Validation
 
@@ -194,7 +226,7 @@
   An implementation of the JSON Schema specification for Python
   <https://python-jsonschema.readthedocs.io/>
 
-## Parser
+## Parsers / Compilers
 
 - [Instagram/LibCST](https://github.com/Instagram/LibCST): A concrete syntax
   tree parser and serializer library for Python that preserves many aspects of
@@ -202,6 +234,11 @@
 - [lepture/mistune](https://github.com/lepture/mistune): A fast yet powerful
   Python Markdown parser with renderers and plugins.
   <http://mistune.readthedocs.io/>
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka): Nuitka is a Python compiler
+  written in Python. It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5,
+  3.6, 3.7, 3.8, 3.9, and 3.10. You feed it your Python app, it does a lot of
+  clever things, and spits out an executable or extension module.
+  <http://nuitka.net/>
 
 ## Logging
 

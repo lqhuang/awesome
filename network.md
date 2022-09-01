@@ -5,6 +5,8 @@
 - [syncsynchalt/illustrated-quic](https://github.com/syncsynchalt/illustrated-quic):
   The Illustrated QUIC Connection: Every byte explained
   <https://quic.xargs.org/>
+- [https-dev/docs](https://github.com/https-dev/docs/blob/master/list-of-acme-servers.md):
+  List of ACME Servers
 
 ## Tools
 

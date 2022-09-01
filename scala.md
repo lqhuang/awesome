@@ -27,16 +27,14 @@
   collection of lightweight fancy stuff for Scala toolchain
 - [finagle/finch](https://github.com/finagle/finch): Scala combinator library
   for building Finagle HTTP services
-- [scalapy/scalapy](https://github.com/scalapy/scalapy): Use the world of Python
-  from the comfort of Scala!
-- [almond-sh/almond](https://github.com/almond-sh/almond): A Scala kernel for
-  Jupyter <almond.sh>
 - [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria): Scala
   GraphQL implementation <https://sangria-graphql.github.io/>
 - [softwaremill/macwire](https://github.com/softwaremill/macwire): Lightweight
   and Nonintrusive Scala Dependency Injection Library
 - [milessabin/shapeless](https://github.com/milessabin/shapeless): Generic
   programming for Scala
+- [optics-dev/monocle](https://github.com/optics-dev/monocle): Optics library
+  for Scala <https://www.optics.dev/Monocle/>
 
 ## Akka
 
@@ -51,7 +49,7 @@
 - [tofu-tf/tofu](https://github.com/tofu-tf/tofu): Functional programming
   toolbox <https://docs.tofu.tf>
 
-## Extra ZIO eco-system
+## ZIO
 
 - [ghostdogpr/caliban](https://github.com/ghostdogpr/caliban): Functional
   GraphQL library for Scala <https://ghostdogpr.github.io/caliban/>
@@ -73,3 +71,7 @@
 
 - [kitlangton/scala-update](https://github.com/kitlangton/scala-update): Update
   your Scala dependencies interactively
+- [scalapy/scalapy](https://github.com/scalapy/scalapy): Use the world of Python
+  from the comfort of Scala!
+- [almond-sh/almond](https://github.com/almond-sh/almond): A Scala kernel for
+  Jupyter <almond.sh>

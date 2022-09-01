@@ -42,6 +42,8 @@
 - [supabase/supabase](https://github.com/supabase/supabase): The open source
   Firebase alternative. Follow to stay updated about our public Beta.
   <https://supabase.com/>
+- [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs
+  Kubernetes <https://k8slens.dev/>
 
 ## Infrastructure as Code
 

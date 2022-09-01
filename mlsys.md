@@ -17,11 +17,6 @@
   and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
   <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>
 
-## Frameworks
-
-- [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Development
-  environment for machine learning
-
 ## Utils
 
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable
@@ -31,6 +26,8 @@
   Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and
   runtime checking for shape and dtype of JAX arrays, and PyTrees.
+- [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Development
+  environment for machine learning
 
 ## Happy toy
 
