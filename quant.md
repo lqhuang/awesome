@@ -1,6 +1,6 @@
 # Quant
 
-## Framework
+## Frameworks
 
 - [Blankly-Finance/Blankly](https://github.com/Blankly-Finance/Blankly): 🚀 💸
   Easily build, backtest and deploy your algo in just a few lines of code. Trade
@@ -30,12 +30,22 @@
 - [anfederico/gemini](https://github.com/anfederico/gemini): Backtesting for
   sleepless cryptocurrency markets
 
-## Portofolio
+## Portfolio
 
 - [quantopian/alphalens](https://github.com/quantopian/alphalens): Performance
   analysis of predictive (alpha) stock factors
 - [dcajasn/Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib): Portfolio
   Optimization and Quantitative Strategic Asset Allocation in Python
+
+## Indicators
+
+- [vollib/vollib](https://github.com/vollib/vollib): Fundamentally a swig/python
+  wrapper around Peter Jaeckel's lets_be_rational. lets_be_rational focuses
+  exclusively on Black76, while Vollib extends this to add support for
+  Black-Scholes and Black-Scholes-Merton. <http://www.vollib.org/>
+- [jasonstrimpel/volatility-trading](https://github.com/jasonstrimpel/volatility-trading):
+  A complete set of volatility estimators based on Euan Sinclair's Volatility
+  Trading
 
 ## API
 
