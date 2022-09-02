@@ -6,6 +6,12 @@
   single-threaded actor runtime
 - [Thomasdezeeuw/heph](https://github.com/Thomasdezeeuw/heph): Heph is an actor
   framework for Rust based on asynchronous functions.
+- [ray-project/ray](https://github.com/ray-project/ray): Ray is a unified
+  framework for scaling AI and Python applications. Ray consists of a core
+  distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML
+  workloads. <https://ray.io/>
+- [goodboy/tractor](https://github.com/goodboy/tractor): structured concurrent,
+  Python parallelism <https://tractor.readthedocs.io/>
 
 ## Streaming Systems
 
