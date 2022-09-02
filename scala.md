@@ -15,6 +15,11 @@
   simple, fast, dependency-free JSON & Binary (MessagePack) serialization
   library for Scala <https://com-lihaoyi.github.io/upickle>
 
+## Testing
+
+- [reibitto/be-kind-rewind](https://github.com/reibitto/be-kind-rewind): A VCR
+  testing library for Scala
+
 ## Misc
 
 - [pureconfig/pureconfig](https://github.com/pureconfig/pureconfig): A

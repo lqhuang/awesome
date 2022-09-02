@@ -11,6 +11,11 @@
   record expression and plans. <https://substrait.io>
 - [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational
   Database Management System (Educational) <https://15445.courses.cs.cmu.edu/>
+- [facebookincubator/velox](https://github.com/facebookincubator/velox): A C++
+  vectorized database acceleration library aimed to optimizing query engines and
+  data processing systems. <https://facebookincubator.github.io/velox/>
+- [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb): Pure Rust
+  LSM-tree based embedded storage engine
 
 ## New databases
 

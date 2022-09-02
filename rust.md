@@ -39,6 +39,10 @@
   Rust!
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs):
   Statistics-driven benchmarking library for Rust
+- [tokio-rs/turmoil](https://github.com/tokio-rs/turmoil): Turmoil is a
+  framework for developing and testing distributed systems. It provides
+  deterministic execution by running multiple concurrent hosts within a single
+  thread.
 
 ## Performance profile
 

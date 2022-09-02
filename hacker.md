@@ -68,6 +68,9 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii
   diagram scribbles into happy little SVG
   <http://ivanceras.github.io/svgbob-editor/>
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): 🔮
+  Seamlessly visualize your JSON data instantly into graphs; paste, import or
+  fetch!
 
 ## HomeKit / IoT
 

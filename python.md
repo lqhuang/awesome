@@ -203,6 +203,10 @@
   Persistent dict, backed by sqlite3 and pickle, multithread-safe.
 - [ethanfurman/aenum](https://github.com/ethanfurman/aenum): Advanced
   Enumerations for Python
+- [vxgmichel/aiostream](https://github.com/vxgmichel/aiostream): Generator-based
+  operators for asynchronous iteration <http://aiostream.readthedocs.io/>
+- [vxgmichel/aioconsole](https://github.com/vxgmichel/aioconsole): Asynchronous
+  console and interfaces for asyncio <http://aioconsole.readthedocs.io/>
 
 ## Serialization & Validation
 
