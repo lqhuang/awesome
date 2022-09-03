@@ -59,6 +59,8 @@ more like a toolbox for myself.
   port of dendibakh/perf-ninja
 - [twitter/rezolus](https://github.com/twitter/rezolus): Systems performance
   telemetry
+- [Mellanox/sockperf](https://github.com/Mellanox/sockperf): Network
+  Benchmarking Utility
 
 ## My little corner
 

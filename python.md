@@ -85,6 +85,8 @@
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade): A tool (and
   pre-commit hook) to automatically upgrade syntax for newer versions of the
   language.
+- [charliermarsh/ruff](https://github.com/charliermarsh/ruff): An extremely fast
+  Python linter, written in Rust.
 
 ## Build tools
 

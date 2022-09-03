@@ -154,6 +154,8 @@
   Transmute-free Rust library to work with the Arrow format
 - [alexcrichton/wait-timeout](https://github.com/alexcrichton/wait-timeout):
   Waiting on a child process with a timeout in Rust
+- [BurntSushi/bstr](https://github.com/BurntSushi/bstr): A string type for Rust
+  that is not required to be valid UTF-8.
 
 ## SerDe
 
