@@ -64,22 +64,39 @@
   Rust programming language, built with a focus on developer experience and
   operability. <https://aya-rs.dev/book/>
 
-## IO
+## Async IO
 
 - [vertexclique/nuclei](https://github.com/vertexclique/nuclei): Proactive IO &
   Runtime system
-- [nbdd0121/stackful](https://github.com/nbdd0121/stackful): Free conversion
-  between async and sync in Rust
 - [bytedance/monoio](https://github.com/bytedance/monoio): Rust async runtime
   based on io-uring.
 - [mgattozzi/whorl](https://github.com/mgattozzi/whorl): single file, std only,
   async Rust executor
 - [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring): An io_uring
   backed runtime for Rust
+- [nbdd0121/stackful](https://github.com/nbdd0121/stackful): Free conversion
+  between async and sync in Rust
+
+### Futures
+
+- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs): Zero-cost
+  asynchronous programming in Rust <https://rust-lang.github.io/futures-rs/>
+- [taiki-e/futures-async-stream](https://github.com/taiki-e/futures-async-stream):
+  Async stream for Rust and the futures crate.
+  <https://docs.rs/futures-async-stream>
+- [smol-rs/futures-lite](https://github.com/smol-rs/futures-lite): Futures,
+  streams, and async I/O combinators.
 - [microsoft/stackfuture](https://github.com/microsoft/stackfuture): A wrapper
   around Rust futures that stores the future in space provided by the caller.
+
+## Experimental features
+
+- [yoshuawuyts/tasky](https://github.com/yoshuawuyts/tasky): fluent async task
+  spawning experiments
+- [ringbahn/iou](https://github.com/ringbahn/iou): Rust interface to io_uring
 - [nikomatsakis/moro](https://github.com/nikomatsakis/moro): Experiments with
   structured concurrency in Rust
+- [nrc/ezio](https://github.com/nrc/ezio): Easy IO for Rust
 
 ## Concurrency / High Performance
 
@@ -87,36 +104,67 @@
   library for Rust
 - [SergioBenitez/state](https://github.com/SergioBenitez/state): A Rust library
   for safe and effortless global and thread-local state management.
-- [moka-rs/moka](https://github.com/moka-rs/moka): A high performance concurrent
-  caching library for Rust
-- [Cassy343/flashmap](https://github.com/Cassy343/flashmap): A lock-free,
-  partially wait-free, eventually consistent, concurrent hashmap.
 - [jonhoo/left-right](https://github.com/jonhoo/left-right): A lock-free,
   read-optimized, concurrency primitive.
 - [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd): The
   testing ground for the future of portable SIMD in Rust
-- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam): Tools for
-  concurrent programming in Rust
 - [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast): Async
   broadcast channels
 - [jonhoo/bus](https://github.com/jonhoo/bus): Efficient, lock-free, bounded
   Rust broadcast channel
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3): the official Rust
   and C implementations of the BLAKE3 cryptographic hash function
+- [komora-io/pagetable](https://github.com/komora-io/pagetable): wait-free
+  4-level 64-bit pagetable for contiguous low-contention concurrent metadata
 
 ## DS & Algorithms
 
+- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam): Tools for
+  concurrent programming in Rust
+- [moka-rs/moka](https://github.com/moka-rs/moka): A high performance concurrent
+  caching library for Rust
+- [al8n/stretto](https://github.com/al8n/stretto): Stretto is a Rust
+  implementation for
+  [Dgraph's ristretto](https://github.com/dgraph-io/ristretto). A high
+  performance memory-bound Rust cache.
 - [japaric/heapless](https://github.com/japaric/heapless): Heapless, `static`
   friendly data structures
-- [xacrimon/conc-map-bench](https://github.com/xacrimon/conc-map-bench):
-  conc-map-bench uses the bustle benchmarking harness. This is a port of the
-  well regarded libcuckoo benchmark.
 - [kanidm/concread](https://github.com/kanidm/concread): Concurrently Readable
   Data Structures for Rust
+- [ShisoftResearch/Lightning](https://github.com/ShisoftResearch/Lightning): A
+  set of lock-free data structures
 - [bodil/im-rs](https://github.com/bodil/im-rs): Assorted immutable collection
   datatypes for Rust <http://immutable.rs/>
 - [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs): A
   better compressed bitset in Rust <https://docs.rs/roaring/>
+- [matthieu-m/ghost-collections](https://github.com/matthieu-m/ghost-collections):
+  Safe collections written in stable Rust, based on `GhostCell` and `StaticRc`.
+- [komora-io/art](https://github.com/komora-io/art): Adaptive Radix Trie
+  implementation for fixed-length keys
+
+### CRDT
+
+- [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt): a collection of
+  well-tested, serializable CRDTs for Rust
+- [y-crdt/y-crdt](https://github.com/y-crdt/y-crdt): Rust port of Yjs
+  <https://docs.rs/yrs/>
+- [josephg/diamond-types](https://github.com/josephg/diamond-types): The world's
+  fastest CRDT. WIP.
+
+### Hashmap
+
+- [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown): Rust port of
+  Google's SwissTable hash map <https://rust-lang.github.io/hashbrown>
+- [xacrimon/conc-map-bench](https://github.com/xacrimon/conc-map-bench):
+  conc-map-bench uses the bustle benchmarking harness. This is a port of the
+  well regarded libcuckoo benchmark.
+- [Cassy343/flashmap](https://github.com/Cassy343/flashmap): A lock-free,
+  partially wait-free, eventually consistent, concurrent hashmap.
+- [robclu/leapfrog](https://github.com/robclu/leapfrog): Lock-free concurrent
+  and single-threaded hash map implementations using Leapfrog probing. Currently
+  the highest performance concurrent HashMap in Rust for certain use cases.
+- [xacrimon/dashmap](https://github.com/xacrimon/dashmap): Blazing fast
+  concurrent HashMap for Rust.
 
 ## Clients
 
@@ -232,3 +280,5 @@
   devices and desktop applications. <https://slint-ui.com/>
 - [iced-rs/iced](https://github.com/iced-rs/iced): A cross-platform GUI library
   for Rust, inspired by Elm <https://iced.rs/>
+- [emilk/egui](https://github.com/emilk/egui): egui: an easy-to-use immediate
+  mode GUI in Rust that runs on both web and native

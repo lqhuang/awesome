@@ -20,6 +20,8 @@
   but for gRPC: Command-line tool for interacting with gRPC servers
 - [ekzhang/bore](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool
   for making tunnels to localhost <http://bore.pub/>
+- [beyondcode/expose](https://github.com/beyondcode/expose): A beautiful, fully
+  open-source, tunneling service - written in pure PHP <https://expose.dev/>
 
 ## DNS
 

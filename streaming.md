@@ -1,31 +1,18 @@
 # Stream Everywhere
 
-## Actor
+Streaming Systems
 
-- [uazu/stakker](https://github.com/uazu/stakker): A lightweight low-level
-  single-threaded actor runtime
-- [Thomasdezeeuw/heph](https://github.com/Thomasdezeeuw/heph): Heph is an actor
-  framework for Rust based on asynchronous functions.
-- [ray-project/ray](https://github.com/ray-project/ray): Ray is a unified
-  framework for scaling AI and Python applications. Ray consists of a core
-  distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML
-  workloads. <https://ray.io/>
-- [goodboy/tractor](https://github.com/goodboy/tractor): structured concurrent,
-  Python parallelism <https://tractor.readthedocs.io/>
-
-## Streaming Systems
-
-### Books or readings
+## Books or readings
 
 - [lw-lin/streaming-readings](https://github.com/lw-lin/streaming-readings):
   Streaming System 相关的论文读物
 
-### Streamify
+## Streamify
 
 - [supabase/realtime](https://github.com/supabase/realtime): Listen to your to
   PostgreSQL database in realtime via websockets. Built with Elixir.
 
-### Frameworks
+## Frameworks
 
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave):
   RisingWave: the next-generation streaming database in the cloud.
@@ -37,7 +24,7 @@
   applications and services in SQL — without pipelines or caches — using
   materialized views that are always up-to-date. <https://materialize.com/>
 
-### Pending to research / study
+## Pending to research / study
 
 - [vertexclique/callysto](https://github.com/vertexclique/callysto): Stream
   processing framework. <https://vertexclique.github.io/callysto/>

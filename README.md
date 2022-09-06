@@ -68,29 +68,9 @@ more like a toolbox for myself.
 
 - [google/highway](https://github.com/google/highway): Performance-portable,
   length-agnostic SIMD with runtime dispatch
-- [xacrimon/dashmap](https://github.com/xacrimon/dashmap): Blazing fast
-  concurrent HashMap for Rust.
 - [scylladb/seastar](https://github.com/scylladb/seastar): High performance
   server-side application framework <http://seastar.io/>
 - [userver-framework/userver](https://github.com/userver-framework/userver): The
   C++ Asynchronous Framework (beta) <https://userver.tech/>
 - [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A
   collection of resources on modern C++ <https://awesomecpp.com/>
-
-### Distributed systems
-
-- [stateright/stateright](https://github.com/stateright/stateright): A model
-  checker for implementing distributed systems.
-- [taskflow/taskflow](https://github.com/taskflow/taskflow): A General-purpose
-  Parallel and Heterogeneous Task Programming System
-  <https://taskflow.github.io/>
-- [unisonweb/unison](https://github.com/unisonweb/unison): A friendly
-  programming language from the future <https://www.unison-lang.org/>
-- [vitorenesduarte/fantoch](https://github.com/vitorenesduarte/fantoch):
-  framework for evaluating (planet-scale) consensus protocols
-- [spacejam/tla-rust](https://github.com/spacejam/tla-rust): writing correct
-  lock-free and distributed stateful systems in Rust, assisted by TLA+
-- [tlaplus/DrTLAPlus](https://github.com/tlaplus/DrTLAPlus): Dr. TLA+ series -
-  learn an algorithm and protocol, study a specification
-- [datafuselabs/openraft](https://github.com/datafuselabs/openraft): rust raft
-  with improvements

@@ -40,6 +40,8 @@
   programming for Scala
 - [optics-dev/monocle](https://github.com/optics-dev/monocle): Optics library
   for Scala <https://www.optics.dev/Monocle/>
+- [arainko/ducktape](https://github.com/arainko/ducktape): The thing that glues
+  your code. Or is it duct 🤔
 
 ## Akka
 
@@ -48,6 +50,8 @@
 - [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer): Akka
   extension and agent exposing application telemetry and events via
   OpenTelemetry interface
+- [ing-bank/baker](https://github.com/ing-bank/baker): Orchestrate
+  microservice-based process flows <https://ing-bank.github.io/baker/>
 
 ## Typelevel
 

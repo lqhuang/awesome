@@ -6,9 +6,14 @@
   List of languages that compile to python
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python):
   A curated list of awesome things related to functional programming in Python.
+- [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi):
+  A curated list of awesome ASGI servers, frameworks, apps, libraries, and other
+  resources
 
 ## Test / Mock / Coverage
 
+- [wntrblm/nox](https://github.com/wntrblm/nox): Flexible test automation for
+  Python <https://nox.thea.codes/>
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy): Automatically mock your
   HTTP interactions to simplify and speed up testing
 - [lundberg/respx](https://github.com/lundberg/respx): Mock HTTPX with awesome
@@ -282,6 +287,9 @@
   source of python functions at runtime.
 - [jazzband/tablib](https://github.com/jazzband/tablib): Python Module for
   Tabular Datasets in XLS, CSV, JSON, YAML, &c. <https://tablib.readthedocs.io/>
+- [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress): A new
+  kind of Progress Bar, with real-time throughput, ETA, and very cool
+  animations!
 
 ## Visualization
 
@@ -289,3 +297,5 @@
   dashboarding solution for Python
 - [joouha/euporie](https://github.com/joouha/euporie): Jupyter notebooks in the
   terminal <https://euporie.readthedocs.io/>
+- [laixintao/jupyter-dot-kernel](https://github.com/laixintao/jupyter-dot-kernel):
+  📝Dot language kernel for jupyter.

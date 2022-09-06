@@ -97,6 +97,9 @@
 - [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list):
   Chinese-specific configuration to improve your favorite DNS server. Best
   partner for chnroutes.
+- [nadoo/glider](https://github.com/nadoo/glider): glider is a forward proxy
+  with multiple protocols support, and also a dns/dhcp server with ipset
+  management features(like dnsmasq).
 
 ## Misc
 
