@@ -223,6 +223,13 @@
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter): An
   incremental parsing system for programming tools
   <https://tree-sitter.github.io/>
+- [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan): Rowan is a
+  library for lossless syntax trees, inspired in part by Swift's libsyntax.
+
+## Web
+
+- [juhaku/utoipa](https://github.com/juhaku/utoipa): Simple, Fast, Code first
+  and Compile time generated OpenAPI documentation for Rust
 
 ## Numerical analysis
 

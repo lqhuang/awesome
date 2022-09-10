@@ -51,6 +51,9 @@
   financial accounting database designed for mission critical safety and
   performance to power the future of financial services.
   <https://www.tigerbeetle.com/>
+- [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb): An Open Source Distributed
+  Time Series Database with high performance, high compression ratio and high
+  usability. <https://www.cnosdb.com/>
 
 ## DBA
 

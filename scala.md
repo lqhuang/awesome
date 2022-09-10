@@ -52,6 +52,12 @@
   OpenTelemetry interface
 - [ing-bank/baker](https://github.com/ing-bank/baker): Orchestrate
   microservice-based process flows <https://ing-bank.github.io/baker/>
+- [awagen/kolibri](https://github.com/awagen/kolibri): Repository gathering all
+  projects of Kolibri. Kolibri provides a framework for concurrent, clusterable
+  multi-node executions. Its based on Akka, written in Scala. Initial use-case
+  job definitions focus on evaluations of search systems and examples of state
+  sharding. Given the flexibility of the implementation, more jobs are planned,
+  such as load... <https://awagen.github.io/kolibri/>
 
 ## Typelevel
 
@@ -62,6 +68,8 @@
 
 - [ghostdogpr/caliban](https://github.com/ghostdogpr/caliban): Functional
   GraphQL library for Scala <https://ghostdogpr.github.io/caliban/>
+- [devsisters/shardcake](https://github.com/devsisters/shardcake): Sharding and
+  location transparency for Scala <https://devsisters.github.io/shardcake/>
 - [dream11/zio-http](https://github.com/dream11/zio-http): A scala library to
   write Http apps. <https://dream11.github.io/zio-http>
 - [softwaremill/saft](https://github.com/softwaremill/saft): An implementation

@@ -54,6 +54,8 @@
   This repo is for hosting our GNN book titled "Graph Neural Networks:
   Foundations, Frontiers, and Applications".
   <https://graph-neural-networks.github.io/index.html>
+- [EffectOrientedProgramming/book](https://github.com/EffectOrientedProgramming/book):
+  Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2
 
 ## Books (zh_cn)
 

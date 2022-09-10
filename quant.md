@@ -15,6 +15,7 @@
   <https://kieran-mackle.github.io/AutoTrader/>
 - [lballabio/QuantLib](https://github.com/lballabio/QuantLib): The QuantLib C++
   library <http://quantlib.org/>
+- [enthought/pyql](https://github.com/enthought/pyql): Cython QuantLib wrappers
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot):
   Cryptocurrency trading bot using technical analysis based strategy with an
   advanced web interface <https://www.octobot.online/>
@@ -36,6 +37,10 @@
   analysis of predictive (alpha) stock factors
 - [dcajasn/Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib): Portfolio
   Optimization and Quantitative Strategic Asset Allocation in Python
+- [domokane/FinancePy](https://github.com/domokane/FinancePy): A Python Finance
+  Library that focuses on the pricing and risk-management of Financial
+  Derivatives, including fixed-income, equity, FX and credit derivatives.
+  <https://financepy.com/>
 
 ## Indicators
 

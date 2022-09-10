@@ -17,6 +17,17 @@
   and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
   <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>
 
+## Frameworks / Libraries
+
+- [flashlight/flashlight](https://github.com/flashlight/flashlight): A C++
+  standalone library for machine learning <https://fl.readthedocs.io/en/latest/>
+
+## Autodiff
+
+- [facebookresearch/shumai](https://github.com/facebookresearch/shumai): Fast
+  Differentiable Tensor Library in JavaScript and TypeScript with Bun +
+  Flashlight
+
 ## Utils
 
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable

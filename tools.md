@@ -9,7 +9,7 @@
 - [Keyfactor](https://www.keyfactor.com/): Find, control, and automate every
   machine identity with Keyfactor, the leader in crypto-agility and PKI
   as-a-Service.
-- [Github - hyperledger/fabric-ca](https://github.com/hyperledger/fabric-ca): a
+- [hyperledger/fabric-ca](https://github.com/hyperledger/fabric-ca): a
   Certificate Authority for Hyperledger Fabric. zh-cn:
   <https://hyperledgercn.github.io/hyperledgerDocs/ca-setup_zh>
 
@@ -18,6 +18,12 @@
 - [Indent](https://indent.com): On-demand access without the wait. Indent
   provides team members with on-demand access to cloud apps and infrastructure
   in seconds, not days.
+- [teamhanko/hanko](https://github.com/teamhanko/hanko): A passkey-first
+  approach to authentication that takes you on the journey beyond passwords. For
+  better security, conversion rates, and happier users. <https://hanko.io/>
+- [build-trust/ockam](https://github.com/build-trust/ockam): Orchestrate
+  end-to-end encryption, mutual authentication, key management, credential
+  management & authorization policy enforcement — at scale. <https://ockam.io/>
 
 ## Dev
 

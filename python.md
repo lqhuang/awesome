@@ -161,6 +161,14 @@
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX
   is a sampling library designed for ease of use, speed and modularity.
   <https://blackjax-devs.github.io/blackjax/>
+- [py-why/dowhy](https://github.com/py-why/dowhy): DoWhy is a Python library for
+  causal inference that supports explicit modeling and testing of causal
+  assumptions. DoWhy is based on a unified language for causal inference,
+  combining causal graphical models and potential outcomes frameworks.
+  <https://py-why.github.io/dowhy/>
+- [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy): Python Library for learning
+  (Structure and Parameter), inference (Probabilistic and Causal), and
+  simulations in Bayesian Networks. <https://pgmpy.org/>
 
 ## Web
 
@@ -214,6 +222,19 @@
   operators for asynchronous iteration <http://aiostream.readthedocs.io/>
 - [vxgmichel/aioconsole](https://github.com/vxgmichel/aioconsole): Asynchronous
   console and interfaces for asyncio <http://aioconsole.readthedocs.io/>
+- [hpyproject/hpy](https://github.com/hpyproject/hpy): HPy: a better API for
+  Python <https://hpyproject.org/>
+
+## Middleware
+
+- [wakatime/wakaq](https://github.com/wakatime/wakaq): Distributed background
+  task queue for Python backed by Redis, a super minimal Celery
+- [coleifer/huey](https://github.com/coleifer/huey): a little task queue for
+  python <https://huey.readthedocs.io/>
+- [closeio/tasktiger](https://github.com/closeio/tasktiger): Python task queue
+  using Redis
+- [rq/rq](https://github.com/rq/rq): Simple job queues for Python
+  <https://python-rq.org/>
 
 ## Serialization & Validation
 

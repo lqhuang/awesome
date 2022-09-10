@@ -22,12 +22,12 @@
   single-threaded actor runtime
 - [Thomasdezeeuw/heph](https://github.com/Thomasdezeeuw/heph): Heph is an actor
   framework for Rust based on asynchronous functions.
-- [ray-project/ray](https://github.com/ray-project/ray): Ray is a unified
-  framework for scaling AI and Python applications. Ray consists of a core
-  distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML
-  workloads. <https://ray.io/>
 - [goodboy/tractor](https://github.com/goodboy/tractor): structured concurrent,
   Python parallelism <https://tractor.readthedocs.io/>
 - [starcoinorg/xtor](https://github.com/starcoinorg/xtor): async actor framework
 - [ShisoftResearch/bifrost](https://github.com/ShisoftResearch/bifrost): Pure
   rust building block for distributed systems
+- [Zestors/zestors](https://github.com/Zestors/zestors): Zestors is a
+  message-centric actor framework for tokio. It builds on top of tiny-actor
+  while adding a layer of abstraction that allows for building more complex
+  systems.
