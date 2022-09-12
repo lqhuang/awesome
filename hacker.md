@@ -82,6 +82,10 @@
 
 ## Homelab
 
+- [meienberger/runtipi](https://github.com/meienberger/runtipi): ⛺️ Tipi is a
+  homeserver for everyone! One command setup, one click installs for your
+  favorites self-hosted apps. ✨
+
 ## Proxy
 
 - [macronut/phantomsocks](https://github.com/macronut/phantomsocks): A

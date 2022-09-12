@@ -133,6 +133,8 @@
   generating .pex (Python EXecutable) files
 - [conda/conda-pack](https://github.com/conda/conda-pack): Package conda
   environments for redistribution <https://conda.github.io/conda-pack/>
+- [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel): 🎡 Build Python
+  wheels for all the platforms on CI with minimal configuration.
 
 ## Security
 
@@ -155,6 +157,8 @@
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus): A
   library for differentiable nonlinear optimization
   <https://sites.google.com/view/theseus-ai>
+- [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx): A high performance
+  Python graph library implemented in Rust.
 
 ## Prob
 

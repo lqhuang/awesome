@@ -92,3 +92,10 @@
   from the comfort of Scala!
 - [almond-sh/almond](https://github.com/almond-sh/almond): A Scala kernel for
   Jupyter <almond.sh>
+
+## Stream
+
+- [TomasMikula/libretto](https://github.com/TomasMikula/libretto): Declarative
+  concurrency and stream processing library for Scala
+- [strymonas/strymonas](https://github.com/strymonas/strymonas): Fast streams
+  for Scala 3

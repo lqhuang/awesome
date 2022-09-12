@@ -24,11 +24,19 @@
 - [build-trust/ockam](https://github.com/build-trust/ockam): Orchestrate
   end-to-end encryption, mutual authentication, key management, credential
   management & authorization policy enforcement — at scale. <https://ockam.io/>
+- [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core,
+  language-agnostic, scalable authorization solution that makes user permissions
+  and authorization simple to implement and manage by writing context-aware
+  access control policies for your application resources. <https://cerbos.dev/>
+- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH):
+  ContainerSSH: Launch containers on demand <https://containerssh.io/>
 
 ## Dev
 
 - [quicktype/quicktype](https://github.com/quicktype/quicktype): Generate types
   and converters from JSON, Schema, and GraphQL <https://app.quicktype.io/>
+- [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS VMs on Apple
+  Silicon to use in CI and other automations
 
 ## DBA
 

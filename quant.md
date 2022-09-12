@@ -51,6 +51,12 @@
 - [jasonstrimpel/volatility-trading](https://github.com/jasonstrimpel/volatility-trading):
   A complete set of volatility estimators based on Euan Sinclair's Volatility
   Trading
+- [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading):
+  Python quantitative trading strategies including VIX Calculator, Pattern
+  Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle,
+  Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger
+  Bands, Parabolic SAR, Dual Thrust, Awesome, MACD
+  <https://je-suis-tm.github.io/quant-trading>
 
 ## API
 

@@ -141,6 +141,8 @@
   Safe collections written in stable Rust, based on `GhostCell` and `StaticRc`.
 - [komora-io/art](https://github.com/komora-io/art): Adaptive Radix Trie
   implementation for fixed-length keys
+- [Manishearth/elsa](https://github.com/Manishearth/elsa): Append-only
+  collections for Rust where borrows to entries can outlive insertions
 
 ### CRDT
 
