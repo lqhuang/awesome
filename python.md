@@ -275,6 +275,8 @@
   3.6, 3.7, 3.8, 3.9, and 3.10. You feed it your Python app, it does a lot of
   clever things, and spits out an executable or extension module.
   <http://nuitka.net/>
+- [erg-lang/erg](https://github.com/erg-lang/erg): A statically typed language
+  that can deeply improve the Python ecosystem <http://erg-lang.github.io/>
 
 ## Logging
 

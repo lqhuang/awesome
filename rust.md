@@ -26,6 +26,8 @@
   optimizing binaries with PGO and BOLT
 - [RazrFalcon/cargo-bloat](https://github.com/RazrFalcon/cargo-bloat): Find out
   what takes most of the space in your executable.
+- [dtolnay/cargo-tally](https://github.com/dtolnay/cargo-tally): Graph the
+  number of crates that depend on your crate over time
 
 ## Test suites
 
@@ -64,7 +66,33 @@
   Rust programming language, built with a focus on developer experience and
   operability. <https://aya-rs.dev/book/>
 
-## Async IO
+## Experimental features
+
+- [yoshuawuyts/tasky](https://github.com/yoshuawuyts/tasky): fluent async task
+  spawning experiments
+- [ringbahn/iou](https://github.com/ringbahn/iou): Rust interface to io_uring
+- [nikomatsakis/moro](https://github.com/nikomatsakis/moro): Experiments with
+  structured concurrency in Rust
+- [nrc/ezio](https://github.com/nrc/ezio): Easy IO for Rust
+
+## Concurrency / Parallelelism
+
+- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam): Tools for
+  concurrent programming in Rust
+- [rayon-rs/rayon](https://github.com/rayon-rs/rayon): Rayon: A data parallelism
+  library for Rust
+- [SergioBenitez/state](https://github.com/SergioBenitez/state): A Rust library
+  for safe and effortless global and thread-local state management.
+- [jonhoo/left-right](https://github.com/jonhoo/left-right): A lock-free,
+  read-optimized, concurrency primitive.
+- [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast): Async
+  broadcast channels
+- [jonhoo/bus](https://github.com/jonhoo/bus): Efficient, lock-free, bounded
+  Rust broadcast channel
+- [komora-io/pagetable](https://github.com/komora-io/pagetable): wait-free
+  4-level 64-bit pagetable for contiguous low-contention concurrent metadata
+
+### Async IO
 
 - [vertexclique/nuclei](https://github.com/vertexclique/nuclei): Proactive IO &
   Runtime system
@@ -89,38 +117,17 @@
 - [microsoft/stackfuture](https://github.com/microsoft/stackfuture): A wrapper
   around Rust futures that stores the future in space provided by the caller.
 
-## Experimental features
+## HPC / SIMD / Vectorization
 
-- [yoshuawuyts/tasky](https://github.com/yoshuawuyts/tasky): fluent async task
-  spawning experiments
-- [ringbahn/iou](https://github.com/ringbahn/iou): Rust interface to io_uring
-- [nikomatsakis/moro](https://github.com/nikomatsakis/moro): Experiments with
-  structured concurrency in Rust
-- [nrc/ezio](https://github.com/nrc/ezio): Easy IO for Rust
-
-## Concurrency / High Performance
-
-- [rayon-rs/rayon](https://github.com/rayon-rs/rayon): Rayon: A data parallelism
-  library for Rust
-- [SergioBenitez/state](https://github.com/SergioBenitez/state): A Rust library
-  for safe and effortless global and thread-local state management.
-- [jonhoo/left-right](https://github.com/jonhoo/left-right): A lock-free,
-  read-optimized, concurrency primitive.
-- [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd): The
-  testing ground for the future of portable SIMD in Rust
-- [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast): Async
-  broadcast channels
-- [jonhoo/bus](https://github.com/jonhoo/bus): Efficient, lock-free, bounded
-  Rust broadcast channel
+- [pikkr/pikkr](https://github.com/pikkr/pikkr): JSON parser which picks up
+  values directly without performing tokenization in Rust
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3): the official Rust
   and C implementations of the BLAKE3 cryptographic hash function
-- [komora-io/pagetable](https://github.com/komora-io/pagetable): wait-free
-  4-level 64-bit pagetable for contiguous low-contention concurrent metadata
+- [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd): The
+  testing ground for the future of portable SIMD in Rust
 
 ## DS & Algorithms
 
-- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam): Tools for
-  concurrent programming in Rust
 - [moka-rs/moka](https://github.com/moka-rs/moka): A high performance concurrent
   caching library for Rust
 - [al8n/stretto](https://github.com/al8n/stretto): Stretto is a Rust
@@ -281,6 +288,8 @@
   interfaces and dashboards using Rust
 - [console-rs/indicatif](https://github.com/console-rs/indicatif): A command
   line progress reporting library for Rust
+- [ad4mx/spinoff](https://github.com/ad4mx/spinoff): 💻 Simple Rust library for
+  displaying spinners in the terminal
 
 ## GUI
 

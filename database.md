@@ -16,6 +16,7 @@
   data processing systems. <https://facebookincubator.github.io/velox/>
 - [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb): Pure Rust
   LSM-tree based embedded storage engine
+- [tcdi/pgx](https://github.com/tcdi/pgx): Build Postgres Extensions with Rust!
 
 ## New databases
 
