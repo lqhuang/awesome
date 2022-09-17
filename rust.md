@@ -26,6 +26,11 @@
   optimizing binaries with PGO and BOLT
 - [RazrFalcon/cargo-bloat](https://github.com/RazrFalcon/cargo-bloat): Find out
   what takes most of the space in your executable.
+- [taiki-e/cargo-hack](https://github.com/taiki-e/cargo-hack): Cargo subcommand
+  to provide various options useful for testing and continuous integration.
+- [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv): 🦀 Find the
+  minimum supported Rust version (MSRV) for your project
+  <https://foresterre.github.io/cargo-msrv/>
 - [dtolnay/cargo-tally](https://github.com/dtolnay/cargo-tally): Graph the
   number of crates that depend on your crate over time
 

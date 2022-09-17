@@ -74,3 +74,5 @@ more like a toolbox for myself.
   C++ Asynchronous Framework (beta) <https://userver.tech/>
 - [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A
   collection of resources on modern C++ <https://awesomecpp.com/>
+- [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard
+  Library for Parallelism and Concurrency <https://hpx.stellar-group.org/>
