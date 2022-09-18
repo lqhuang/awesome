@@ -55,7 +55,7 @@
   sampler for CPython
 - [pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler): A
   Python memory profiler for data processing and scientific computing
-  applications
+  applications <https://pythonspeed.com/fil/>
 - [reloadware/reloadium](https://github.com/reloadware/reloadium): Advanced hot
   reloading & profiling for Python
 - [python/pyperformance](https://github.com/python/pyperformance): Python
@@ -286,6 +286,8 @@
   (stupidly) simple
 - [hynek/structlog](https://github.com/hynek/structlog): Structured Logging for
   Python <https://www.structlog.org/>
+- [itamarst/eliot](https://github.com/itamarst/eliot): Eliot: the logging system
+  that tells you _why_ it happened <https://eliot.readthedocs.io/>
 
 ## Misc
 

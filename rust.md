@@ -44,12 +44,16 @@
   for testing concurrent Rust code.
 - [lipanski/mockito](https://github.com/lipanski/mockito): HTTP mocking for
   Rust!
+- [asomers/mockall](https://github.com/asomers/mockall): A powerful mock object
+  library for Rust
 - [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs):
   Statistics-driven benchmarking library for Rust
 - [tokio-rs/turmoil](https://github.com/tokio-rs/turmoil): Turmoil is a
   framework for developing and testing distributed systems. It provides
   deterministic execution by running multiple concurrent hosts within a single
   thread.
+- [mitsuhiko/insta](https://github.com/mitsuhiko/insta): A snapshot testing
+  library for rust <https://insta.rs/>
 
 ## Performance profile
 

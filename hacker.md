@@ -53,6 +53,10 @@
   with a mouse click.
 - [exelban/stats](https://github.com/exelban/stats): macOS system monitor in
   your menu bar
+- [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed
+  for reading research papers and technical books. <https://sioyek.info/>
+- [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure
+  for absolutely everyone. <https://cal.com/>
 
 ## Dev tools
 
