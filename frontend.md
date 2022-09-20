@@ -42,6 +42,12 @@
   open-source HTML Dashboard UI Kit built on Bootstrap
   <https://preview.tabler.io/>
 
+## Channel
+
+- [yomorun/presencejs](https://github.com/yomorun/presencejs): @yomo/presencejs
+  ⚡️ made realtime web applications edge-aware by YoMo, WebTransport based,
+  provide fallback to WebSocket automatically. <https://presence.js.org/>
+
 ## Utils
 
 - [streamich/react-use](https://github.com/streamich/react-use): React Hooks —
@@ -52,6 +58,9 @@
   <https://www.meilisearch.com/>
 - [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first schema
   validation with static type inference <https://zod.dev/>
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase): A tiny, reactive
+  JavaScript library for structured state and tabular data.
+  <https://tinybase.org/>
 
 ## Visualization
 

@@ -92,6 +92,8 @@
   language.
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff): An extremely fast
   Python linter, written in Rust.
+- [fpgmaas/deptry](https://github.com/fpgmaas/deptry): A command line utility to
+  check for obsolete, missing and transitive dependencies in a Python project.
 
 ## Build tools
 
@@ -159,6 +161,8 @@
   <https://sites.google.com/view/theseus-ai>
 - [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx): A high performance
   Python graph library implemented in Rust.
+- [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft): Python DataFrame
+  for Complex Data
 
 ## Prob
 

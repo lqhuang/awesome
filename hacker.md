@@ -77,6 +77,8 @@
   fetch!
 - [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with
   Protocol Buffers. <https://buf.build/>
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation):
+  中国程序员容易发音错误的单词 <https://cpwp.netlify.app/>
 
 ## HomeKit / IoT
 

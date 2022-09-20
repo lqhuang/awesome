@@ -14,6 +14,8 @@
   How to minimize Rust binary size 📦
 - [pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog):
   Educational blog posts for Rust beginners
+- [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines): Rust
+  API guidelines https://rust-lang.github.io/api-guidelines/
 
 ## Build
 
@@ -263,6 +265,8 @@
 
 - [zkat/miette](https://github.com/zkat/miette): Fancy upgrade to
   `std::error::Error`.
+- [](https://github.com/yaahc/eyre): A trait object based error handling type
+  for easy idiomatic error handling and reporting in Rust applications
 - [chronotope/chrono](https://github.com/chronotope/chrono): Date and time
   library for Rust
 - [tailhook/humantime](https://github.com/tailhook/humantime): A parser and

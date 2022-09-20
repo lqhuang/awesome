@@ -56,6 +56,8 @@
   <https://graph-neural-networks.github.io/index.html>
 - [EffectOrientedProgramming/book](https://github.com/EffectOrientedProgramming/book):
   Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2
+- [kushaldas/lym](https://github.com/kushaldas/lym): Linux command line for you
+  and me <https://lym.readthedocs.io/en/latest/>
 
 ## Books (zh_cn)
 
