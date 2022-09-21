@@ -16,6 +16,9 @@
   Educational blog posts for Rust beginners
 - [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines): Rust
   API guidelines https://rust-lang.github.io/api-guidelines/
+- [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles):
+  This is an experimental repository working towards a set of principles for
+  Rust. <https://rustacean-principles.netlify.app/>
 
 ## Build
 
@@ -85,6 +88,7 @@
 - [nikomatsakis/moro](https://github.com/nikomatsakis/moro): Experiments with
   structured concurrency in Rust
 - [nrc/ezio](https://github.com/nrc/ezio): Easy IO for Rust
+- [withoutboats/propane](https://github.com/withoutboats/propane): generators
 
 ## Concurrency / Parallelelism
 
@@ -127,6 +131,11 @@
   streams, and async I/O combinators.
 - [microsoft/stackfuture](https://github.com/microsoft/stackfuture): A wrapper
   around Rust futures that stores the future in space provided by the caller.
+
+## FP in Rust
+
+- [bluss/either](https://github.com/bluss/either): The enum Either with variants
+  Left and Right is a general purpose sum type with two cases.
 
 ## HPC / SIMD / Vectorization
 
@@ -286,7 +295,7 @@
   on-demand, incrementalized computation. Inspired by adapton, glimmer, and
   rustc's query system. <https://salsa-rs.netlify.app/>
 
-## TUI
+### TUI
 
 - [zhiburt/tabled](https://github.com/zhiburt/tabled): An easy to use library
   for pretty print tables of Rust structs and enums.
@@ -304,7 +313,7 @@
 - [ad4mx/spinoff](https://github.com/ad4mx/spinoff): 💻 Simple Rust library for
   displaying spinners in the terminal
 
-## GUI
+### GUI
 
 - [slint-ui/slint](https://github.com/slint-ui/slint): Slint is a toolkit to
   efficiently develop fluid graphical user interfaces for any display: embedded

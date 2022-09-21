@@ -19,6 +19,11 @@
 - [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress
   effect system for Haskell 🚧
 
+### Web
+
+- [monadicsystems/okapi](https://github.com/monadicsystems/okapi): A web
+  microframework for Haskell based on monadic parsing <https://www.okapi.wiki/>
+
 ### Other good libs
 
 - [ndmitchell/shake](https://github.com/ndmitchell/shake): Shake build system

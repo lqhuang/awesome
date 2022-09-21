@@ -25,7 +25,7 @@
   predictable shells and containers.
 - [exdx/dcp](https://github.com/exdx/dcp): docker cp made easy
 
-## Software
+## Software / Services
 
 - [qarmin/czkawka](https://github.com/qarmin/czkawka): Multi functional app to
   find duplicates, empty folders, similar images etc.
@@ -57,6 +57,8 @@
   for reading research papers and technical books. <https://sioyek.info/>
 - [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure
   for absolutely everyone. <https://cal.com/>
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted
+  bookmark service
 
 ## Dev tools
 
