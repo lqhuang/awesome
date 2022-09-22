@@ -37,6 +37,9 @@
   and converters from JSON, Schema, and GraphQL <https://app.quicktype.io/>
 - [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS VMs on Apple
   Silicon to use in CI and other automations
+- [coroot/coroot](https://github.com/coroot/coroot): A monitoring and
+  troubleshooting tool for microservice architectures.
+  <https://coroot.com/docs/coroot-community-edition>
 
 ## DBA
 

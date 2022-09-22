@@ -10,80 +10,9 @@
   A curated list of awesome ASGI servers, frameworks, apps, libraries, and other
   resources
 
-## Test / Mock / Coverage
+## Toolchains
 
-- [wntrblm/nox](https://github.com/wntrblm/nox): Flexible test automation for
-  Python <https://nox.thea.codes/>
-- [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy): Automatically mock your
-  HTTP interactions to simplify and speed up testing
-- [lundberg/respx](https://github.com/lundberg/respx): Mock HTTPX with awesome
-  request patterns and response side effects 🦋
-- [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover): Near
-  Zero-Overhead Python Code Coverage
-- [tonybaloney/wily](https://github.com/tonybaloney/wily): A Python application
-  for tracking, reporting on timing and complexity in Python code
-- [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe): Signatures for
-  entire Python programs. Extract the structure, the frame, the skeleton of your
-  project, to generate API documentation or find breaking changes in your API.
-  <https://mkdocstrings.github.io/griffe>
-- [omarkohl/pytest-datafiles](https://github.com/omarkohl/pytest-datafiles):
-  pytest plugin to create a tmpdir containing a preconfigured set of files
-  and/or directories.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis): Run
-  thousands of randomly generated test scenarios based on your API specification
-  and always be sure your API works as expected.
-  <https://schemathesis.readthedocs.io/>
-- [hamcrest/PyHamcrest](https://github.com/hamcrest/PyHamcrest): Hamcrest
-  matchers for Python <http://hamcrest.org/>
-- [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure): idiomatic
-  assertion toolkit with human-friendly failure messages, inspired by RSpec
-  Expectations and should.js <http://sure.readthedocs.io/en/latest/>
-
-## Performance profile
-
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene): Scalene: a
-  high-performance, high-precision CPU, GPU, and memory profiler for Python
-- [nschloe/tuna](https://github.com/nschloe/tuna): 🐟 Python profile viewer
-- [benfred/py-spy](https://github.com/benfred/py-spy): Sampling profiler for
-  Python programs
-- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer):
-  VizTracer is a low-overhead logging/debugging/profiling tool that can trace
-  and visualize your python code execution.
-- [bloomberg/memray](https://github.com/bloomberg/memray): Memray is a memory
-  profiler for Python
-- [P403n1x87/austin](https://github.com/P403n1x87/austin): Python frame stack
-  sampler for CPython
-- [pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler): A
-  Python memory profiler for data processing and scientific computing
-  applications <https://pythonspeed.com/fil/>
-- [reloadware/reloadium](https://github.com/reloadware/reloadium): Advanced hot
-  reloading & profiling for Python
-- [python/pyperformance](https://github.com/python/pyperformance): Python
-  Performance Benchmark Suite <http://pyperformance.readthedocs.io/>
-- [joerick/pyinstrument](https://github.com/joerick/pyinstrument): 🚴 Call stack
-  profiler for Python. Shows you why your code is slow!
-  <https://pyinstrument.readthedocs.io/>
-
-## Typing
-
-- [beartype/beartype](https://github.com/beartype/beartype): Unbearably fast
-  O(1) runtime type-checking in pure Python.
-- [antonagestam/phantom-types](https://github.com/antonagestam/phantom-types):
-  👻 Phantom types for Python
-- [dry-python/returns](https://github.com/dry-python/returns): Make your
-  functions return something meaningful, typed, and safe!
-- [MaT1g3R/option](https://github.com/MaaT1g3R/option): Rust like Option and
-  Result types in Python
-- [alice-biometrics/meiga](https://github.com/alice-biometrics/meiga): 🧙 A
-  simple, typed and monad-based Result type for Python.
-- [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python
-  to fast C extensions <https://mypyc.readthedocs.io>
-- [nipunn1313/mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf): open
-  source tools to generate mypy stubs from protobufs
-- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType): A Python
-  library that generates static type annotations by collecting runtime types
-
-## Linter
+### Linter
 
 - [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick): Enforce the same
   settings on multiple projects <https://nitpick.readthedocs.io/>
@@ -95,7 +24,7 @@
 - [fpgmaas/deptry](https://github.com/fpgmaas/deptry): A command line utility to
   check for obsolete, missing and transitive dependencies in a Python project.
 
-## Build tools
+### Build tools
 
 - [project/pdm](https://github.com/pdm-project/pdm): A modern Python package
   manager with PEP 582 support. <https://pdm.fming.dev>
@@ -108,7 +37,7 @@
   intentionally write. Built on-top of, and fully compatible with, CookieCutter.
   <https://cruft.github.io/cruft/>
 
-## Docs
+### Docs
 
 - [pycco-docs/pycco](https://github.com/pycco-docs/pycco): Literate-style
   documentation generator. <https://pycco-docs.github.io/pycco/>
@@ -138,14 +67,98 @@
 - [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel): 🎡 Build Python
   wheels for all the platforms on CI with minimal configuration.
 
-## Security
+### Security
 
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit): Audits
   Python environments and dependency trees for known vulnerabilities
 - [pyupio/safety](https://github.com/pyupio/safety): Safety checks your
   installed dependencies for known security vulnerabilities
 
-## Numerical and Data Science
+### Test / Mock / Coverage
+
+- [wntrblm/nox](https://github.com/wntrblm/nox): Flexible test automation for
+  Python <https://nox.thea.codes/>
+- [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy): Automatically mock your
+  HTTP interactions to simplify and speed up testing
+- [lundberg/respx](https://github.com/lundberg/respx): Mock HTTPX with awesome
+  request patterns and response side effects 🦋
+- [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover): Near
+  Zero-Overhead Python Code Coverage
+- [tonybaloney/wily](https://github.com/tonybaloney/wily): A Python application
+  for tracking, reporting on timing and complexity in Python code
+- [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe): Signatures for
+  entire Python programs. Extract the structure, the frame, the skeleton of your
+  project, to generate API documentation or find breaking changes in your API.
+  <https://mkdocstrings.github.io/griffe>
+- [omarkohl/pytest-datafiles](https://github.com/omarkohl/pytest-datafiles):
+  pytest plugin to create a tmpdir containing a preconfigured set of files
+  and/or directories.
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis): Run
+  thousands of randomly generated test scenarios based on your API specification
+  and always be sure your API works as expected.
+  <https://schemathesis.readthedocs.io/>
+- [hamcrest/PyHamcrest](https://github.com/hamcrest/PyHamcrest): Hamcrest
+  matchers for Python <http://hamcrest.org/>
+- [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure): idiomatic
+  assertion toolkit with human-friendly failure messages, inspired by RSpec
+  Expectations and should.js <http://sure.readthedocs.io/en/latest/>
+
+### Performance profile
+
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene): Scalene: a
+  high-performance, high-precision CPU, GPU, and memory profiler for Python
+- [nschloe/tuna](https://github.com/nschloe/tuna): 🐟 Python profile viewer
+- [benfred/py-spy](https://github.com/benfred/py-spy): Sampling profiler for
+  Python programs
+- [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer):
+  VizTracer is a low-overhead logging/debugging/profiling tool that can trace
+  and visualize your python code execution.
+- [bloomberg/memray](https://github.com/bloomberg/memray): Memray is a memory
+  profiler for Python
+- [P403n1x87/austin](https://github.com/P403n1x87/austin): Python frame stack
+  sampler for CPython
+- [pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler): A
+  Python memory profiler for data processing and scientific computing
+  applications <https://pythonspeed.com/fil/>
+- [reloadware/reloadium](https://github.com/reloadware/reloadium): Advanced hot
+  reloading & profiling for Python
+- [python/pyperformance](https://github.com/python/pyperformance): Python
+  Performance Benchmark Suite <http://pyperformance.readthedocs.io/>
+- [joerick/pyinstrument](https://github.com/joerick/pyinstrument): 🚴 Call stack
+  profiler for Python. Shows you why your code is slow!
+  <https://pyinstrument.readthedocs.io/>
+
+## FP in Python
+
+- [cognitedata/Expression](https://github.com/cognitedata/Expression): Pragmatic
+  functional programming for Python inspired by F#
+- [dbrattli/aioreactive](https://github.com/dbrattli/aioreactive): Async/await
+  reactive tools for Python 3.9+
+
+### Typing
+
+- [beartype/beartype](https://github.com/beartype/beartype): Unbearably fast
+  O(1) runtime type-checking in pure Python.
+- [antonagestam/phantom-types](https://github.com/antonagestam/phantom-types):
+  👻 Phantom types for Python
+- [dry-python/returns](https://github.com/dry-python/returns): Make your
+  functions return something meaningful, typed, and safe!
+- [MaT1g3R/option](https://github.com/MaaT1g3R/option): Rust like Option and
+  Result types in Python
+- [alice-biometrics/meiga](https://github.com/alice-biometrics/meiga): 🧙 A
+  simple, typed and monad-based Result type for Python.
+- [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python
+  to fast C extensions <https://mypyc.readthedocs.io>
+- [nipunn1313/mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf): open
+  source tools to generate mypy stubs from protobufs
+- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType): A Python
+  library that generates static type annotations by collecting runtime types
+- [agronholm/typeguard](https://github.com/agronholm/typeguard): Run-time type
+  checker for Python
+
+## Domain libraries
+
+### Numerical and Data Science
 
 - [nyggus/rounder](https://github.com/nyggus/rounder): Python package for
   rounding floats and complex numbers in complex Python objects.
@@ -164,7 +177,7 @@
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft): Python DataFrame
   for Complex Data
 
-## Prob
+### Prob
 
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX
   is a sampling library designed for ease of use, speed and modularity.
@@ -178,7 +191,7 @@
   (Structure and Parameter), inference (Probabilistic and Causal), and
   simulations in Bayesian Networks. <https://pgmpy.org/>
 
-## Web
+### Web
 
 - [pgjones/hypercorn](https://github.com/pgjones/hypercorn): Hypercorn is an
   ASGI Server based on Hyper libraries and inspired by Gunicorn.
@@ -187,8 +200,10 @@
   Immutable, Pythonic, correct URLs. <https://hyperlink.readthedocs.io/>
 - [encode/broadcaster](https://github.com/encode/broadcaster): Broadcast
   channels for async web apps. 📢
+- [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib): A generic,
+  spec-compliant, thorough implementation of the OAuth request-signing logic
 
-## DB clients and SQL utils
+### DB clients and SQL utils
 
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql): Simple SQL in
   Python
@@ -200,6 +215,8 @@
   Transpiler
 - [mcfunley/pugsql](https://github.com/mcfunley/pugsql): A HugSQL-inspired
   database library for Python <https://pugsql.org/>
+- [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen): Automatic
+  model code generator for SQLAlchemy
 
 ## Featured libraries
 
@@ -210,8 +227,6 @@
   inter-process communication, based on non-blocking asyncio
 - [insitro/redun](https://github.com/insitro/redun): Yet another redundant
   workflow engine <https://insitro.github.io/redun>
-- [NicolasLM/spinach](https://github.com/NicolasLM/spinach): Modern Redis task
-  queue for Python 3 <https://spinach.readthedocs.io>
 - [asphalt-framework/asphalt](https://github.com/asphalt-framework/asphalt):
   Asphalt application framework (core)
 - [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio):
@@ -232,8 +247,10 @@
   console and interfaces for asyncio <http://aioconsole.readthedocs.io/>
 - [hpyproject/hpy](https://github.com/hpyproject/hpy): HPy: a better API for
   Python <https://hpyproject.org/>
+- [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python
+  module for decorators, wrappers and monkey patching.
 
-## Middleware
+### Middleware
 
 - [wakatime/wakaq](https://github.com/wakatime/wakaq): Distributed background
   task queue for Python backed by Redis, a super minimal Celery
@@ -241,10 +258,20 @@
   python <https://huey.readthedocs.io/>
 - [closeio/tasktiger](https://github.com/closeio/tasktiger): Python task queue
   using Redis
+- [NicolasLM/spinach](https://github.com/NicolasLM/spinach): Modern Redis task
+  queue for Python 3 <https://spinach.readthedocs.io>
 - [rq/rq](https://github.com/rq/rq): Simple job queues for Python
   <https://python-rq.org/>
+- [joanvila/aioredlock](https://github.com/joanvila/aioredlock): 🔒 The asyncio
+  implemetation of Redis distributed locks
+- [pika/pika](https://github.com/pika/pika): Pure Python RabbitMQ/AMQP 0-9-1
+  client library <https://pika.readthedocs.io/>
+- [celery/kombu](https://github.com/celery/kombu): Messaging library for Python.
+  <http://kombu.readthedocs.org/>
+- [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task
+  scheduling library for Python
 
-## Serialization & Validation
+### Serialization & Validation
 
 - [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto):
   Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async
@@ -265,6 +292,8 @@
 - [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema):
   An implementation of the JSON Schema specification for Python
   <https://python-jsonschema.readthedocs.io/>
+- [agronholm/cbor2](https://github.com/agronholm/cbor2): Pure Python CBOR
+  (de)serializer with extensive tag support
 
 ## Parsers / Compilers
 
@@ -282,7 +311,7 @@
 - [erg-lang/erg](https://github.com/erg-lang/erg): A statically typed language
   that can deeply improve the Python ecosystem <http://erg-lang.github.io/>
 
-## Logging
+### Logging
 
 - [microsoft/picologging](https://github.com/microsoft/picologging): An
   optimized logging library for Python
@@ -324,7 +353,7 @@
   kind of Progress Bar, with real-time throughput, ETA, and very cool
   animations!
 
-## Visualization
+### Visualization
 
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
   dashboarding solution for Python

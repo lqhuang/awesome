@@ -31,3 +31,5 @@
   message-centric actor framework for tokio. It builds on top of tiny-actor
   while adding a layer of abstraction that allows for building more complex
   systems.
+- [thespianpy/Thespian](https://github.com/thespianpy/Thespian): Python Actor
+  concurrency library

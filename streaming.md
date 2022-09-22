@@ -12,6 +12,15 @@ Streaming Systems
 - [supabase/realtime](https://github.com/supabase/realtime): Listen to your to
   PostgreSQL database in realtime via websockets. Built with Elixir.
 
+## Messaging libraries
+
+- [zeromq/libzmq](https://github.com/zeromq/libzmq): ZeroMQ core engine in C++,
+  implements ZMTP/3.1 <https://www.zeromq.org/>
+- [nanomsg/nng](https://github.com/nanomsg/nng): nanomsg-next-generation --
+  light-weight brokerless messaging
+- [codypiersall/pynng](https://github.com/codypiersall/pynng): Python bindings
+  for Nanomsg Next Generation. <https://pynng.readthedocs.io/>
+
 ## Frameworks
 
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave):
