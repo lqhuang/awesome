@@ -2,8 +2,13 @@
 
 ## Certificate Management
 
-- [smallstep](https://smallstep.com/): Automated Certificate Management for
-  DevOps
+- [smallstep/certificates](https://github.com/smallstep/certificates): 🛡️ A
+  private certificate authority (X.509 & SSH) & ACME server for secure automated
+  certificate management, so you can use TLS everywhere & SSO for SSH.
+  <https://smallstep.com/certificates>
+- [smallstep/cli](https://github.com/smallstep/cli): 🧰 A zero trust swiss army
+  knife for working with X509, OAuth, JWT, OATH OTP, etc.
+  <https://smallstep.com/cli>
 - [Sectigo certificate manager](https://sectigo.com/enterprise-solutions/certificate-manager):
   Automated Certificate Lifecycle Management for the Modern Enterprise
 - [Keyfactor](https://www.keyfactor.com/): Find, control, and automate every

@@ -66,3 +66,5 @@
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita): Reads
   from existing public and private cloud providers (reverse Terraform) and
   generates your infrastructure as code on Terraform configuration
+- [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec): Security scanner
+  for your Terraform code <https://aquasecurity.github.io/tfsec>

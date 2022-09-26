@@ -76,3 +76,5 @@ more like a toolbox for myself.
   collection of resources on modern C++ <https://awesomecpp.com/>
 - [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard
   Library for Parallelism and Concurrency <https://hpx.stellar-group.org/>
+- [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A
+  high-performance, concurrent hash table

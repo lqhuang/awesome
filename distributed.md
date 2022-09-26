@@ -33,3 +33,8 @@
   systems.
 - [thespianpy/Thespian](https://github.com/thespianpy/Thespian): Python Actor
   concurrency library
+
+## Serialization Protocl
+
+- [capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto
+  serialization/RPC system - core tools and C++ library <https://capnproto.org/>

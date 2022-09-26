@@ -22,6 +22,8 @@
   for making tunnels to localhost <http://bore.pub/>
 - [beyondcode/expose](https://github.com/beyondcode/expose): A beautiful, fully
   open-source, tunneling service - written in pure PHP <https://expose.dev/>
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl): Hurl, run
+  and test HTTP requests with plain text. <https://hurl.dev/>
 
 ## DNS
 

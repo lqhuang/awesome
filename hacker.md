@@ -95,6 +95,9 @@
 - [meienberger/runtipi](https://github.com/meienberger/runtipi): ⛺️ Tipi is a
   homeserver for everyone! One command setup, one click installs for your
   favorites self-hosted apps. ✨
+- [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm
+  is a self-hostable web productivity suite. It's implemented as a
+  security-hardened web app package manager. <https://sandstorm.io/>
 
 ## Proxy
 

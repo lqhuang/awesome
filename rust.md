@@ -38,6 +38,8 @@
   <https://foresterre.github.io/cargo-msrv/>
 - [dtolnay/cargo-tally](https://github.com/dtolnay/cargo-tally): Graph the
   number of crates that depend on your crate over time
+- [guppy-rs/guppy](https://github.com/guppy-rs/guppy): Track and query Cargo
+  dependency graphs.
 
 ## Test suites
 
@@ -59,6 +61,8 @@
   thread.
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta): A snapshot testing
   library for rust <https://insta.rs/>
+- [jonhoo/bustle](https://github.com/jonhoo/bustle): A benchmarking harness for
+  concurrent key-value collections
 
 ## Performance profile
 
@@ -89,6 +93,8 @@
   structured concurrency in Rust
 - [nrc/ezio](https://github.com/nrc/ezio): Easy IO for Rust
 - [withoutboats/propane](https://github.com/withoutboats/propane): generators
+- [yoshuawuyts/async-iterator](https://github.com/yoshuawuyts/async-iterator):
+  An async version of iterator
 
 ## Concurrency / Parallelelism
 
@@ -100,10 +106,10 @@
   for safe and effortless global and thread-local state management.
 - [jonhoo/left-right](https://github.com/jonhoo/left-right): A lock-free,
   read-optimized, concurrency primitive.
-- [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast): Async
-  broadcast channels
 - [jonhoo/bus](https://github.com/jonhoo/bus): Efficient, lock-free, bounded
   Rust broadcast channel
+- [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast): Async
+  broadcast channels
 - [komora-io/pagetable](https://github.com/komora-io/pagetable): wait-free
   4-level 64-bit pagetable for contiguous low-contention concurrent metadata
 
@@ -170,6 +176,8 @@
   implementation for fixed-length keys
 - [Manishearth/elsa](https://github.com/Manishearth/elsa): Append-only
   collections for Rust where borrows to entries can outlive insertions
+- [petgraph/petgraph](https://github.com/petgraph/petgraph): Graph data
+  structure library for Rust.
 
 ### CRDT
 
@@ -274,8 +282,9 @@
 
 - [zkat/miette](https://github.com/zkat/miette): Fancy upgrade to
   `std::error::Error`.
-- [](https://github.com/yaahc/eyre): A trait object based error handling type
-  for easy idiomatic error handling and reporting in Rust applications
+- [yaahc/eyre](https://github.com/yaahc/eyre): A trait object based error
+  handling type for easy idiomatic error handling and reporting in Rust
+  applications
 - [chronotope/chrono](https://github.com/chronotope/chrono): Date and time
   library for Rust
 - [tailhook/humantime](https://github.com/tailhook/humantime): A parser and
@@ -284,6 +293,8 @@
   easy URI parser that strictly adheres to IETF RFC 3986.
 - [j-tai/getargs](https://github.com/j-tai/getargs): A truly zero-cost argument
   parser for Rust
+- [pacak/bpaf](https://github.com/pacak/bpaf): Command line parser with
+  applicative interface
 - [slog-rs/slog](https://github.com/slog-rs/slog): Structured, contextual,
   extensible, composable logging for Rust
 
