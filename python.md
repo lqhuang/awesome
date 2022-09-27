@@ -270,6 +270,8 @@
   <http://kombu.readthedocs.org/>
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task
   scheduling library for Python
+- [Miksus/rocketry](https://github.com/Miksus/rocketry): Modern scheduling
+  library for Python <https://rocketry.readthedocs.io/>
 
 ### Serialization & Validation
 
