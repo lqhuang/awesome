@@ -1,7 +1,10 @@
 # Scala
 
-## Learn these you rule the world
+## Master these you rule the world
 
+- [akka/akka](https://github.com/akka/akka): Build highly concurrent,
+  distributed, and resilient message-driven applications on the JVM
+  <https://akka.io/>
 - [typelevel/cats-effect](https://github.com/typelevel/cats-effect): The pure
   asynchronous runtime for Scala <https://typelevel.org/cats-effect/>
 - [zio/zio](https://github.com/zio/zio): ZIO — A type-safe, composable library
@@ -58,6 +61,9 @@
   job definitions focus on evaluations of search systems and examples of state
   sharding. Given the flexibility of the implementation, more jobs are planned,
   such as load... <https://awagen.github.io/kolibri/>
+- [akka/akka-persistence-r2dbc](https://github.com/akka/akka-persistence-r2dbc):
+  R2DBC Plugin for Akka Persistence
+  <https://doc.akka.io/docs/akka-persistence-r2dbc/current/index.html>
 
 ## Typelevel
 
@@ -92,6 +98,12 @@
   from the comfort of Scala!
 - [almond-sh/almond](https://github.com/almond-sh/almond): A Scala kernel for
   Jupyter <almond.sh>
+- [seglo/kafka-lag-exporter](https://github.com/seglo/kafka-lag-exporter):
+  Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
+- [scala/scala-async](https://github.com/scala/scala-async): An asynchronous
+  programming facility for Scala
+- [rssh/dotty-cps-async](https://github.com/rssh/dotty-cps-async): experimental
+  CPS transformer for dotty
 
 ## Stream
 
