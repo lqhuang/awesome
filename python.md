@@ -202,6 +202,9 @@
   channels for async web apps. 📢
 - [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib): A generic,
   spec-compliant, thorough implementation of the OAuth request-signing logic
+- [lepture/authlib](https://github.com/lepture/authlib): The ultimate Python
+  library in building OAuth, OpenID Connect clients and servers.
+  JWS,JWE,JWK,JWA,JWT included. <https://authlib.org/>
 
 ### DB clients and SQL utils
 
