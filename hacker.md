@@ -62,6 +62,9 @@
 
 ## Dev tools
 
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose):
+  Process Compose is a simple and flexible scheduler and orchestrator to manage
+  non-containerized applications.
 - [kampersanda/goodname](https://github.com/kampersanda/goodname): Tool to
   assist you with cool naming of your methods and software
   <https://kampersanda.github.io/goodname/>
@@ -117,6 +120,8 @@
 - [nadoo/glider](https://github.com/nadoo/glider): glider is a forward proxy
   with multiple protocols support, and also a dns/dhcp server with ipset
   management features(like dnsmasq).
+- [hashicorp/yamux](https://github.com/hashicorp/yamux): Golang connection
+  multiplexing library
 
 ## Misc
 

@@ -68,3 +68,13 @@
   generates your infrastructure as code on Terraform configuration
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec): Security scanner
   for your Terraform code <https://aquasecurity.github.io/tfsec>
+- [picatz/terraform-google-nomad](https://github.com/picatz/terraform-google-nomad):
+  📗 Terraform Module for Nomad clusters with Consul on GCP
+- [turbot/steampipe](https://github.com/turbot/steampipe): Use SQL to instantly
+  query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB
+  required. <https://steampipe.io/>
+
+## Utils
+
+- [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane): 🔥
+  Blazing fast bulk data transfers between any cloud 🔥 <https://skyplane.org/>

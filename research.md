@@ -19,3 +19,7 @@
   branch. video intro: https://youtu.be/Tj5y6d7FegI . The libgraphblas.so is
   Apache2 licensed. The MATLAB interface is GNU GPL3. NOTE: PRs without signed
   CONTRIBUTOR AGREEMENT can't be accepted.
+- [alibaba/GraphScope](https://github.com/alibaba/GraphScope): 🔨 🍇 💻 🚀
+  GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿
+  里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
+  <https://graphscope.io/>

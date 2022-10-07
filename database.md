@@ -69,3 +69,7 @@
   PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [levkk/pgcat](https://github.com/levkk/pgcat): PostgreSQL pooler with
   sharding, load balancing and failover support.
+- [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman): Barman - Backup
+  and Recovery Manager for PostgreSQL <https://www.pgbarman.org/>
+- [yandex/odyssey](https://github.com/yandex/odyssey): Scalable PostgreSQL
+  connection pooler

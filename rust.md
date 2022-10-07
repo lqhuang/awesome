@@ -142,6 +142,8 @@
 
 - [bluss/either](https://github.com/bluss/either): The enum Either with variants
   Left and Right is a general purpose sum type with two cases.
+- [Pauan/rust-signals](https://github.com/Pauan/rust-signals): Zero-cost
+  functional reactive Signals for Rust
 
 ## HPC / SIMD / Vectorization
 
@@ -262,6 +264,8 @@
   <https://tree-sitter.github.io/>
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan): Rowan is a
   library for lossless syntax trees, inspired in part by Swift's libsyntax.
+- [egraphs-good/egg](https://github.com/egraphs-good/egg): egg is a flexible,
+  high-performance e-graph library <https://egraphs-good.github.io/>
 
 ## Web
 
@@ -285,6 +289,8 @@
 - [yaahc/eyre](https://github.com/yaahc/eyre): A trait object based error
   handling type for easy idiomatic error handling and reporting in Rust
   applications
+- [time-rs/time](https://github.com/time-rs/time): Simple time handling in Rust
+  <https://time-rs.github.io/>
 - [chronotope/chrono](https://github.com/chronotope/chrono): Date and time
   library for Rust
 - [tailhook/humantime](https://github.com/tailhook/humantime): A parser and
@@ -297,6 +303,8 @@
   applicative interface
 - [slog-rs/slog](https://github.com/slog-rs/slog): Structured, contextual,
   extensible, composable logging for Rust
+- [frozenlib/parse-display](https://github.com/frozenlib/parse-display):
+  Procedural macro to implement Display and FromStr using common settings.
 
 ## Misc
 

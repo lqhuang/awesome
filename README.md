@@ -61,6 +61,9 @@ more like a toolbox for myself.
   telemetry
 - [Mellanox/sockperf](https://github.com/Mellanox/sockperf): Network
   Benchmarking Utility
+- [google/perfetto](https://github.com/google/perfetto): Performance
+  instrumentation and tracing for Android, Linux and Chrome
+  <https://www.perfetto.dev/>
 
 ## My little corner
 

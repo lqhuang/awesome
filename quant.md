@@ -66,3 +66,6 @@
   Forex, Crypto, and More
 - [RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage): A
   python wrapper for Alpha Vantage API for financial data.
+- [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): This
+  is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices,
+  Currencies, Cryptocurrencies and Money Markets.

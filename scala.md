@@ -64,6 +64,9 @@
 - [akka/akka-persistence-r2dbc](https://github.com/akka/akka-persistence-r2dbc):
   R2DBC Plugin for Akka Persistence
   <https://doc.akka.io/docs/akka-persistence-r2dbc/current/index.html>
+- [endless4s/endless](https://github.com/endless4s/endless): Scala library to
+  describe event sourced entities using tagless-final algebras
+  <https://endless4s.github.io/>
 
 ## Typelevel
 

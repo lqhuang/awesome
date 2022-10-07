@@ -23,6 +23,10 @@
   Python linter, written in Rust.
 - [fpgmaas/deptry](https://github.com/fpgmaas/deptry): A command line utility to
   check for obsolete, missing and transitive dependencies in a Python project.
+- [dosisod/refurb](https://github.com/dosisod/refurb): A tool for refurbishing
+  and modernizing Python codebases
+- [MarcoGorelli/cython-lint](https://github.com/MarcoGorelli/cython-lint): Lint
+  Cython files
 
 ### Build tools
 
@@ -36,6 +40,8 @@
   necessary cruft for packaging and building projects separate from the code you
   intentionally write. Built on-top of, and fully compatible with, CookieCutter.
   <https://cruft.github.io/cruft/>
+- [buildinspace/peru](https://github.com/buildinspace/peru): a generic package
+  manager, for including other people's code in your projects
 
 ### Docs
 
@@ -252,6 +258,7 @@
   Python <https://hpyproject.org/>
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python
   module for decorators, wrappers and monkey patching.
+- [hynek/stamina](https://github.com/hynek/stamina): Easy mode for Tenacity.
 
 ### Middleware
 
@@ -357,6 +364,8 @@
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress): A new
   kind of Progress Bar, with real-time throughput, ETA, and very cool
   animations!
+- [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX
+  math description from Python functions.
 
 ### Visualization
 
@@ -366,3 +375,6 @@
   terminal <https://euporie.readthedocs.io/>
 - [laixintao/jupyter-dot-kernel](https://github.com/laixintao/jupyter-dot-kernel):
   📝Dot language kernel for jupyter.
+- [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz): Automatically
+  Visualize any dataset, any size with a single line of code. Created by Ram
+  Seshadri. Collaborators Welcome. Permission Granted upon Request.

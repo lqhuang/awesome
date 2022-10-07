@@ -73,6 +73,8 @@
 
 ## GUI
 
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight):
+  Next-generation HTML renderer for apps and games <https://ultralig.ht/>
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus): Friendly React-like
   GUI library for desktop, web, mobile, and more. <https://dioxuslabs.com/>
 
