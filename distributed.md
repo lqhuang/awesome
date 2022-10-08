@@ -33,6 +33,13 @@
   systems.
 - [thespianpy/Thespian](https://github.com/thespianpy/Thespian): Python Actor
   concurrency library
+- [riker-rs/riker](https://github.com/riker-rs/riker/): Easily build efficient,
+  highly concurrent and resilient applications. An Actor Framework for Rust.
+  <https://riker.rs/>
+- [quantmind/pulsar](https://github.com/quantmind/pulsar): Event driven
+  concurrent framework for Python
+- [haskell-distributed/distributed-process](https://github.com/haskell-distributed/distributed-process):
+  Cloud Haskell core library <http://haskell-distributed.github.io/>
 
 ## Serialization Protocl
 

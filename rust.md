@@ -108,10 +108,14 @@
   read-optimized, concurrency primitive.
 - [jonhoo/bus](https://github.com/jonhoo/bus): Efficient, lock-free, bounded
   Rust broadcast channel
-- [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast): Async
-  broadcast channels
 - [komora-io/pagetable](https://github.com/komora-io/pagetable): wait-free
   4-level 64-bit pagetable for contiguous low-contention concurrent metadata
+- [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast): Async
+  broadcast channels
+- [smol-rs/async-channel](https://github.com/smol-rs/async-channel): Async
+  multi-producer multi-consumer channel
+- [smol-rs/concurrent-queue](https://github.com/smol-rs/concurrent-queue):
+  Concurrent multi-producer multi-consumer queue
 
 ### Async IO
 
@@ -313,6 +317,8 @@
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa): A generic framework for
   on-demand, incrementalized computation. Inspired by adapton, glimmer, and
   rustc's query system. <https://salsa-rs.netlify.app/>
+- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs): a multi-language
+  bindings generator for rust <https://mozilla.github.io/uniffi-rs>
 
 ### TUI
 
