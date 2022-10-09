@@ -42,6 +42,12 @@ more like a toolbox for myself.
 
 ## C / Linux
 
+### Debug
+
+- [hugsy/gef](https://github.com/hugsy/gef): GEF (GDB Enhanced Features) - a
+  modern experience for GDB with advanced debugging capabilities for exploit
+  devs & reverse engineers on Linux <https://hugsy.github.io/gef>
+
 ### Performance profile
 
 - [koute/bytehound](https://github.com/koute/bytehound): A memory profiler for

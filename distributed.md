@@ -1,5 +1,7 @@
 # Distributed systems
 
+## System
+
 - [stateright/stateright](https://github.com/stateright/stateright): A model
   checker for implementing distributed systems.
 - [taskflow/taskflow](https://github.com/taskflow/taskflow): A General-purpose
@@ -45,3 +47,9 @@
 
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto
   serialization/RPC system - core tools and C++ library <https://capnproto.org/>
+
+## Distributed consensus
+
+- [andreev-io/little-raft](https://github.com/andreev-io/little-raft): The
+  lightest distributed consensus library. Run your own replicated state machine!
+  ❤️

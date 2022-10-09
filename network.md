@@ -30,6 +30,8 @@
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns):
   The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and
   Fly.io <https://rethinkdns.com/configure>
+- [bluejekyll/trust-dns](https://github.com/bluejekyll/trust-dns): A Rust based
+  DNS client, server, and resolver
 
 ## Tunnel
 

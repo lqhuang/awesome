@@ -63,6 +63,8 @@
   library for rust <https://insta.rs/>
 - [jonhoo/bustle](https://github.com/jonhoo/bustle): A benchmarking harness for
   concurrent key-value collections
+- [rust-fuzz/arbitrary](https://github.com/rust-fuzz/arbitrary): Generating
+  structured data from arbitrary, unstructured input.
 
 ## Performance profile
 

@@ -45,8 +45,6 @@
 - [coroot/coroot](https://github.com/coroot/coroot): A monitoring and
   troubleshooting tool for microservice architectures.
   <https://coroot.com/docs/coroot-community-edition>
-- [muety/wakapi](https://github.com/muety/wakapi): 📊 A minimalist, self-hosted
-  WakaTime-compatible backend for coding statistics <https://wakapi.dev/>
 
 ## DBA
 

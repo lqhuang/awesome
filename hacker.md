@@ -110,13 +110,16 @@
   工具。Mieru is a socks5 proxy to bypass censorship.
 - [eycorsican/leaf](https://github.com/eycorsican/leaf): A versatile and
   efficient proxy framework with nice features suitable for various use cases.
-- [bluejekyll/trust-dns](https://github.com/bluejekyll/trust-dns): A Rust based
-  DNS client, server, and resolver
 - [mingcheng/socks5lb](https://github.com/mingcheng/socks5lb): A simple socks5
   proxy load balance and transparent proxy
 - [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list):
   Chinese-specific configuration to improve your favorite DNS server. Best
   partner for chnroutes.
+- [SukkaW/Surge](https://github.com/SukkaW/Surge): 由 Sukka 搜集、整理、维护的、
+  个人自用的、仅适用于 Surge 的 Rule Snippet <https://ruleset.skk.moe>
+- [pymumu/smartdns](https://github.com/pymumu/smartdns): A local DNS server to
+  obtain the fastest website IP for the best Internet experience， 一个本地 DNS
+  服务器，获取最快的网站 IP，获得最佳上网体验。
 - [nadoo/glider](https://github.com/nadoo/glider): glider is a forward proxy
   with multiple protocols support, and also a dns/dhcp server with ipset
   management features(like dnsmasq).
@@ -133,3 +136,5 @@
   <https://ops.naibahq.com/>
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy
   self-hosted monitoring tool <https://uptime.kuma.pet/>
+- [muety/wakapi](https://github.com/muety/wakapi): 📊 A minimalist, self-hosted
+  WakaTime-compatible backend for coding statistics <https://wakapi.dev/>
