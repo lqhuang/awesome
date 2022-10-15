@@ -4,6 +4,11 @@
 
 - [Enhance your Postgres skills](https://www.crunchydata.com/developers/tutorials)
 
+## Books
+
+- [jackwener/Readings-in-Database-Systems-5th-CN](https://github.com/jackwener/Readings-in-Database-Systems-5th-CN):
+  Readings in Database Systems, 5th Edition 中文翻译
+
 ## Libraries for DB
 
 - [substrait-io/substrait](https://github.com/substrait-io/substrait): A cross

@@ -1,5 +1,10 @@
 # The Curse of Strong Typing
 
+## Books
+
+- [winitzki/sofp](https://github.com/winitzki/sofp): A free book: "The Science
+  of Functional Programming"
+
 ## Haskell
 
 - [kowainik/relude](https://github.com/kowainik/relude): 🌀 Safe, performant,
@@ -37,6 +42,8 @@
   TypeScript
 - [Effect-TS/core](https://github.com/Effect-TS/core): A Fully-fledged
   functional effect system for typescript with a rich standard library
+- [gigobyte/purify](https://github.com/gigobyte/purify): Functional programming
+  library for TypeScript <https://gigobyte.github.io/purify>
 
 ## Experimental languages
 

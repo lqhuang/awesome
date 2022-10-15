@@ -182,6 +182,8 @@
   Python graph library implemented in Rust.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft): Python DataFrame
   for Complex Data
+- [matthewwardrop/formulaic](https://github.com/matthewwardrop/formulaic): A
+  high-performance implementation of Wilkinson formulas for Python.
 
 ### Prob
 

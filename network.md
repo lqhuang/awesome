@@ -1,6 +1,16 @@
 # Network
 
-## Readings
+## Resources
+
+### Books
+
+- [Uncurled](https://un.curl.dev/): everything I know and learned about running
+  and maintaining Open Source projects for three decades.
+- [bagder/http3-explained](https://github.com/bagder/http3-explained): A
+  document describing the HTTP/3 and QUIC protocols
+  <https://http3-explained.haxx.se>
+
+### Readings
 
 - [syncsynchalt/illustrated-quic](https://github.com/syncsynchalt/illustrated-quic):
   The Illustrated QUIC Connection: Every byte explained

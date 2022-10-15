@@ -1,5 +1,13 @@
 # Distributed systems
 
+## Resources
+
+- [Learn TLA+](https://learntla.com/): https://github.com/hwayne/learntla-v2
+- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn): Raft 一致性算法论
+  文的中文翻译
+- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn):
+  Raft 博士论文的中文翻译
+
 ## System
 
 - [stateright/stateright](https://github.com/stateright/stateright): A model

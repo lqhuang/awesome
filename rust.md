@@ -4,6 +4,9 @@
 
 - [lborb/book](https://github.com/lborb/book): The Little Book of Rust Books
   <https://lborb.github.io/book>
+- [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust):
+  本书为《Programming Rust - Fast, Safe Systems Development》第 2 版的个人中文翻
+  译，仅供学习和交流使用，如有侵权请联系作者删除
 
 ## Readings / Tutorials
 
@@ -19,6 +22,8 @@
 - [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles):
   This is an experimental repository working towards a set of principles for
   Rust. <https://rustacean-principles.netlify.app/>
+- [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust):
+  About conncurrency programming via rust
 
 ## Build
 
@@ -210,6 +215,17 @@
   the highest performance concurrent HashMap in Rust for certain use cases.
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap): Blazing fast
   concurrent HashMap for Rust.
+
+### Functional style / Persistent
+
+- [prataprc/xorfilter](https://github.com/prataprc/xorfilter): Rust library
+  implementing xor-filters
+- [prataprc/cmap](https://github.com/prataprc/cmap): Concurrent Hash Array
+  Mapped Trie in Rust.
+- [prataprc/ppar](https://github.com/prataprc/ppar): Persistent / Immutable
+  array in Rust.
+- [prataprc/ppom](https://github.com/prataprc/ppom): Persisted Ordered Map in
+  Rust-lang
 
 ## Clients
 
