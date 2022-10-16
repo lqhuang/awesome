@@ -51,6 +51,10 @@
   Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2
 - [kushaldas/lym](https://github.com/kushaldas/lym): Linux command line for you
   and me <https://lym.readthedocs.io/en/latest/>
+- [liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY): Book of Elementary
+  Algorithms and Data structures
+- [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book
+  about math and programming.
 
 ## Books (zh_cn)
 
