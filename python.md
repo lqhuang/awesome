@@ -161,8 +161,16 @@
   library that generates static type annotations by collecting runtime types
 - [agronholm/typeguard](https://github.com/agronholm/typeguard): Run-time type
   checker for Python
+- [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping): It
+  automatically adds those types and inserts the right annotations.
 
 ## Domain libraries
+
+### ML System
+
+- [google/vizier](https://github.com/google/vizier): Python-based research
+  interface for blackbox and hyperparameter optimization, based on Google's
+  internal Vizier Service. <https://oss-vizier.readthedocs.io/>
 
 ### Numerical and Data Science
 
@@ -261,6 +269,8 @@
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python
   module for decorators, wrappers and monkey patching.
 - [hynek/stamina](https://github.com/hynek/stamina): Easy mode for Tenacity.
+- [explosion/cymem](https://github.com/explosion/cymem): 💥 Cython memory pool
+  for RAII-style memory management
 
 ### Middleware
 
@@ -380,3 +390,10 @@
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz): Automatically
   Visualize any dataset, any size with a single line of code. Created by Ram
   Seshadri. Collaborators Welcome. Permission Granted upon Request.
+- [datoviz/datoviz](https://github.com/datoviz/datoviz/): ⚡ High-performance
+  GPU interactive scientific data visualization with Vulkan
+  <https://datoviz.org/>
+- [pygfx/pygfx](https://github.com/pygfx/pygfx): Like ThreeJS but for Python and
+  based on wgpu <https://pygfx.readthedocs.io/>
+- [vispy/GSP](https://github.com/vispy/GSP): Graphic Server Protocol
+  <https://vispy.github.io/GSP/>

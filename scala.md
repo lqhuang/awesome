@@ -35,8 +35,6 @@
   collection of lightweight fancy stuff for Scala toolchain
 - [finagle/finch](https://github.com/finagle/finch): Scala combinator library
   for building Finagle HTTP services
-- [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria): Scala
-  GraphQL implementation <https://sangria-graphql.github.io/>
 - [softwaremill/macwire](https://github.com/softwaremill/macwire): Lightweight
   and Nonintrusive Scala Dependency Injection Library
 - [milessabin/shapeless](https://github.com/milessabin/shapeless): Generic
@@ -45,9 +43,15 @@
   for Scala <https://www.optics.dev/Monocle/>
 - [arainko/ducktape](https://github.com/arainko/ducktape): The thing that glues
   your code. Or is it duct 🤔
+- [lampepfl/dotty-macro-examples](https://github.com/lampepfl/dotty-macro-examples):
+  Various tasks solved via metaprogramming in Dotty
+- [raquo/Laminar](https://github.com/raquo/Laminar): Simple, expressive, and
+  safe UI library for Scala.js <https://laminar.dev/>
 
 ## Akka
 
+- [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria): Scala
+  GraphQL implementation <https://sangria-graphql.github.io/>
 - [paypal/squbs](https://github.com/paypal/squbs): Akka Streams & Akka HTTP for
   Large-Scale Production Deployments <http://paypal.github.io/squbs>
 - [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer): Akka

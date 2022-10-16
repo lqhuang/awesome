@@ -164,6 +164,8 @@
   and C implementations of the BLAKE3 cryptographic hash function
 - [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd): The
   testing ground for the future of portable SIMD in Rust
+- [google/zerocopy](https://github.com/google/zerocopy): Utilities for safe
+  zero-copy parsing and serialization.
 
 ## DS & Algorithms
 
