@@ -61,6 +61,8 @@
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase): A tiny, reactive
   JavaScript library for structured state and tabular data.
   <https://tinybase.org/>
+- [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies
+  and exports in your JS/TS project
 
 ## Visualization
 

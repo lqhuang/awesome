@@ -192,6 +192,8 @@
   for Complex Data
 - [matthewwardrop/formulaic](https://github.com/matthewwardrop/formulaic): A
   high-performance implementation of Wilkinson formulas for Python.
+- [nteract/papermill](https://github.com/nteract/papermill): 📚 Parameterize,
+  execute, and analyze notebooks <http://papermill.readthedocs.io/en/latest/>
 
 ### Prob
 
@@ -236,11 +238,11 @@
   database library for Python <https://pugsql.org/>
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen): Automatic
   model code generator for SQLAlchemy
+- [RaRe-Technologies/sqlitedict](https://github.com/RaRe-Technologies/sqlitedict):
+  Persistent dict, backed by sqlite3 and pickle, multithread-safe.
 
 ## Featured libraries
 
-- [maxfischer2781/asyncstdlib](https://github.com/maxfischer2781/asyncstdlib):
-  the missing toolbox for an async world
 - [ethereum/lahja](https://github.com/ethereum/lahja): Lahja is a generic multi
   process event bus implementation written in Python 3.6+ to enable lightweight
   inter-process communication, based on non-blocking asyncio
@@ -248,29 +250,48 @@
   workflow engine <https://insitro.github.io/redun>
 - [asphalt-framework/asphalt](https://github.com/asphalt-framework/asphalt):
   Asphalt application framework (core)
-- [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio):
-  Bridge between Rust async futures and Python asyncio
-- [ipython/traitlets](https://github.com/ipython/traitlets): A lightweight
-  Traits like module <https://traitlets.readthedocs.io/>
-- [deepmind/tree](https://github.com/deepmind/tree): tree is a library for
-  working with nested data structures <https://tree.readthedocs.io/>
-- [deepmind/fancyflags](https://github.com/deepmind/fancyflags): A Python
-  library for defining flat or nested dictionary flags.
-- [RaRe-Technologies/sqlitedict](https://github.com/RaRe-Technologies/sqlitedict):
-  Persistent dict, backed by sqlite3 and pickle, multithread-safe.
 - [ethanfurman/aenum](https://github.com/ethanfurman/aenum): Advanced
   Enumerations for Python
+- [hpyproject/hpy](https://github.com/hpyproject/hpy): HPy: a better API for
+  Python <https://hpyproject.org/>
+- [explosion/cymem](https://github.com/explosion/cymem): 💥 Cython memory pool
+  for RAII-style memory management
+
+### Utils
+
+- [deepmind/tree](https://github.com/deepmind/tree): tree is a library for
+  working with nested data structures <https://tree.readthedocs.io/>
+- [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python
+  module for decorators, wrappers and monkey patching.
+- [hynek/stamina](https://github.com/hynek/stamina): Easy mode for Tenacity.
+- [litl/backoff](https://github.com/litl/backoff): Python library providing
+  function decorators for configurable backoff and retry
+- [nficano/humps](https://github.com/nficano/humps): Convert strings (and
+  dictionary keys) between snake case, camel case and pascal case in Python.
+  Inspired by Humps for Node <http://humps.readthedocs.io/>
+
+### Configuration
+
+- [omry/omegaconf](https://github.com/omry/omegaconf): Flexible Python
+  configuration system. The last one you will ever need.
+- [facebookresearch/hydra](https://github.com/facebookresearch/hydra): Hydra is
+  a framework for elegantly configuring complex applications <https://hydra.cc>
+- [deepmind/fancyflags](https://github.com/deepmind/fancyflags): A Python
+  library for defining flat or nested dictionary flags.
+
+### AsyncIO
+
+- [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio):
+  Bridge between Rust async futures and Python asyncio
+- [oremanj/greenback](https://github.com/oremanj/greenback): Reenter an asyncio
+  or Trio event loop from synchronous code <https://greenback.readthedocs.io/>
+- [maxfischer2781/asyncstdlib](https://github.com/maxfischer2781/asyncstdlib):
+  the missing toolbox for an async world
 - [vxgmichel/aiostream](https://github.com/vxgmichel/aiostream): Generator-based
   operators for asynchronous iteration <http://aiostream.readthedocs.io/>
 - [vxgmichel/aioconsole](https://github.com/vxgmichel/aioconsole): Asynchronous
   console and interfaces for asyncio <http://aioconsole.readthedocs.io/>
-- [hpyproject/hpy](https://github.com/hpyproject/hpy): HPy: a better API for
-  Python <https://hpyproject.org/>
-- [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python
-  module for decorators, wrappers and monkey patching.
-- [hynek/stamina](https://github.com/hynek/stamina): Easy mode for Tenacity.
-- [explosion/cymem](https://github.com/explosion/cymem): 💥 Cython memory pool
-  for RAII-style memory management
+- [aio-libs/aiomonitor](https://github.com/aio-libs/aiomonitor):
 
 ### Middleware
 
@@ -319,7 +340,7 @@
 - [agronholm/cbor2](https://github.com/agronholm/cbor2): Pure Python CBOR
   (de)serializer with extensive tag support
 
-## Parsers / Compilers
+### Parsers / Compilers
 
 - [Instagram/LibCST](https://github.com/Instagram/LibCST): A concrete syntax
   tree parser and serializer library for Python that preserves many aspects of
@@ -356,16 +377,11 @@
   powerful Python library to generate SVG files
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter):
   A modern and customizable python UI-library based on Tkinter
-- [nficano/humps](https://github.com/nficano/humps): Convert strings (and
-  dictionary keys) between snake case, camel case and pascal case in Python.
-  Inspired by Humps for Node <http://humps.readthedocs.io/>
-- [omry/omegaconf](https://github.com/omry/omegaconf): Flexible Python
-  configuration system. The last one you will ever need.
-- [facebookresearch/hydra](https://github.com/facebookresearch/hydra): Hydra is
-  a framework for elegantly configuring complex applications <https://hydra.cc>
 - [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic
   plugins for Python applications. Mirror of code maintained at opendev.org.
   <https://opendev.org/openstack/stevedore>
+- [ipython/traitlets](https://github.com/ipython/traitlets): A lightweight
+  Traits like module <https://traitlets.readthedocs.io/>
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams): 🎨 Diagram as
   Code for prototyping cloud system architectures
   <https://diagrams.mingrammer.com/>
