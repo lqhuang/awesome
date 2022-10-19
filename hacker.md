@@ -24,6 +24,9 @@
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox): Instant, easy,
   predictable shells and containers.
 - [exdx/dcp](https://github.com/exdx/dcp): docker cp made easy
+- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen): Fast file
+  synchronization and network forwarding for remote development
+  <https://mutagen.io/>
 
 ## Software / Services
 

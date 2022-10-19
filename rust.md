@@ -123,6 +123,8 @@
   multi-producer multi-consumer channel
 - [smol-rs/concurrent-queue](https://github.com/smol-rs/concurrent-queue):
   Concurrent multi-producer multi-consumer queue
+- [fereidani/kanal](https://github.com/fereidani/kanal): Fastest sync and async
+  channel that Rust deserves
 
 ### Async IO
 
@@ -160,8 +162,6 @@
 
 - [pikkr/pikkr](https://github.com/pikkr/pikkr): JSON parser which picks up
   values directly without performing tokenization in Rust
-- [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3): the official Rust
-  and C implementations of the BLAKE3 cryptographic hash function
 - [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd): The
   testing ground for the future of portable SIMD in Rust
 - [google/zerocopy](https://github.com/google/zerocopy): Utilities for safe
@@ -247,7 +247,7 @@
 ## Featured libraries
 
 - [briansmith/ring](https://github.com/briansmith/ring): Safe, fast, small
-  crypto using Rust https://github.com/matklad/once_cell
+  crypto using Rust
 - [maciejhirsz/beef](https://github.com/maciejhirsz/beef): Faster, more compact
   implementation of `std::borrow::Cow`
 - [matklad/once_cell]https://github.com/matklad/once_cell: Rust library for
@@ -305,6 +305,11 @@
 
 - [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra): Rust Memory
   Safety & Undefined Behavior Detection
+- [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev): A
+  static verifier for Rust, based on the Viper verification infrastructure.
+  <http://prusti.org/>
+- [model-checking/kani](https://github.com/model-checking/kani): Kani Rust
+  Verifier <https://model-checking.github.io/kani>
 
 ## Utils
 
@@ -317,6 +322,8 @@
   <https://time-rs.github.io/>
 - [chronotope/chrono](https://github.com/chronotope/chrono): Date and time
   library for Rust
+- [nyx-space/hifitime](https://github.com/nyx-space/hifitime): A high fidelity
+  time management library in Rust
 - [tailhook/humantime](https://github.com/tailhook/humantime): A parser and
   formatter for `std::time::{SystemTime, Duration}`
 - [yescallop/fluent-uri-rs](https://github.com/yescallop/fluent-uri-rs): A fast,

@@ -47,6 +47,8 @@
   Various tasks solved via metaprogramming in Dotty
 - [raquo/Laminar](https://github.com/raquo/Laminar): Simple, expressive, and
   safe UI library for Scala.js <https://laminar.dev/>
+- [scalameta/mdoc](https://github.com/scalameta/mdoc): Typechecked markdown
+  documentation for Scala <https://scalameta.org/mdoc/>
 
 ## Akka
 
@@ -76,6 +78,9 @@
 
 - [tofu-tf/tofu](https://github.com/tofu-tf/tofu): Functional programming
   toolbox <https://docs.tofu.tf>
+- [typelevel/cats-tagless](https://github.com/typelevel/cats-tagless): Library
+  of utilities for tagless final encoded algebras
+  <https://typelevel.org/cats-tagless/>
 
 ## ZIO
 
