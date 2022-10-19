@@ -91,6 +91,16 @@
   Rust programming language, built with a focus on developer experience and
   operability. <https://aya-rs.dev/book/>
 
+## Program analysis
+
+- [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra): Rust Memory
+  Safety & Undefined Behavior Detection
+- [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev): A
+  static verifier for Rust, based on the Viper verification infrastructure.
+  <http://prusti.org/>
+- [model-checking/kani](https://github.com/model-checking/kani): Kani Rust
+  Verifier <https://model-checking.github.io/kani>
+
 ## Experimental features
 
 - [yoshuawuyts/tasky](https://github.com/yoshuawuyts/tasky): fluent async task
@@ -229,21 +239,6 @@
 - [prataprc/ppom](https://github.com/prataprc/ppom): Persisted Ordered Map in
   Rust-lang
 
-## Clients
-
-- [influxdata/rskafka](https://github.com/influxdata/rskafka): A minimal Rust
-  client for Apache Kafka
-- [google/tarpc](https://github.com/google/tarpc): An RPC framework for Rust
-  with a focus on ease of use.
-- [cberner/redb](https://github.com/cberner/redb): An embedded key-value
-  database in pure Rust
-- [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta
-  embedded databases
-- [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb):
-  rust wrapper for rocksdb
-- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres): Native
-  PostgreSQL driver for the Rust programming language
-
 ## Featured libraries
 
 - [briansmith/ring](https://github.com/briansmith/ring): Safe, fast, small
@@ -256,9 +251,6 @@
   for reading/writing numbers in big-endian and little-endian.
 - [ParkMyCar/compact_str](https://github.com/ParkMyCar/compact_str): A memory
   efficient string type that can store up to 24\* bytes on the stack
-- [cloudflare/quiche](https://github.com/cloudflare/quiche): 🥧 Savoury
-  implementation of the QUIC transport protocol and HTTP/3
-  <https://docs.quic.tech/quiche/>
 - [apache/arrow-rs](https://github.com/apache/arrow-rs): Official Rust
   implementation of Apache Arrow <https://arrow.apache.org/>
 - [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2):
@@ -268,7 +260,7 @@
 - [BurntSushi/bstr](https://github.com/BurntSushi/bstr): A string type for Rust
   that is not required to be valid UTF-8.
 
-## SerDe
+### SerDe
 
 - [rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization framework
   for Rust
@@ -277,7 +269,7 @@
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json): Rust port of
   simdjson
 
-## Parser combinators
+### Parser combinators
 
 - [zesterer/chumsky](https://github.com/zesterer/chumsky): A parser library for
   humans with powerful error recovery.
@@ -291,27 +283,7 @@
 - [egraphs-good/egg](https://github.com/egraphs-good/egg): egg is a flexible,
   high-performance e-graph library <https://egraphs-good.github.io/>
 
-## Web
-
-- [juhaku/utoipa](https://github.com/juhaku/utoipa): Simple, Fast, Code first
-  and Compile time generated OpenAPI documentation for Rust
-
-## Numerical analysis
-
-- [dimforge/nalgebra](https://github.com/dimforge/nalgebra): Linear algebra
-  library for Rust. <https://nalgebra.org/>
-
-## Program analysis
-
-- [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra): Rust Memory
-  Safety & Undefined Behavior Detection
-- [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev): A
-  static verifier for Rust, based on the Viper verification infrastructure.
-  <http://prusti.org/>
-- [model-checking/kani](https://github.com/model-checking/kani): Kani Rust
-  Verifier <https://model-checking.github.io/kani>
-
-## Utils
+### Utils
 
 - [zkat/miette](https://github.com/zkat/miette): Fancy upgrade to
   `std::error::Error`.
@@ -336,6 +308,43 @@
   extensible, composable logging for Rust
 - [frozenlib/parse-display](https://github.com/frozenlib/parse-display):
   Procedural macro to implement Display and FromStr using common settings.
+
+## Domain related
+
+### Network
+
+- [maidsafe/qp2p](https://github.com/maidsafe/qp2p): peer-to-peer communications
+  library for Rust based on QUIC protocol
+- [cloudflare/quiche](https://github.com/cloudflare/quiche): 🥧 Savoury
+  implementation of the QUIC transport protocol and HTTP/3
+  <https://docs.quic.tech/quiche/>
+- [quinn-rs/quinn](https://github.com/quinn-rs/quinn): Async-friendly QUIC
+  implementation in Rust
+- [google/tarpc](https://github.com/google/tarpc): An RPC framework for Rust
+  with a focus on ease of use.
+
+### Web
+
+- [juhaku/utoipa](https://github.com/juhaku/utoipa): Simple, Fast, Code first
+  and Compile time generated OpenAPI documentation for Rust
+
+### Numerical analysis
+
+- [dimforge/nalgebra](https://github.com/dimforge/nalgebra): Linear algebra
+  library for Rust. <https://nalgebra.org/>
+
+### Clients
+
+- [influxdata/rskafka](https://github.com/influxdata/rskafka): A minimal Rust
+  client for Apache Kafka
+- [cberner/redb](https://github.com/cberner/redb): An embedded key-value
+  database in pure Rust
+- [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta
+  embedded databases
+- [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb):
+  rust wrapper for rocksdb
+- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres): Native
+  PostgreSQL driver for the Rust programming language
 
 ## Misc
 
