@@ -9,6 +9,9 @@
 - [bagder/http3-explained](https://github.com/bagder/http3-explained): A
   document describing the HTTP/3 and QUIC protocols
   <https://http3-explained.haxx.se>
+- [beejjorgensen/bgnet](https://github.com/beejjorgensen/bgnet): Beej's Guide to
+  Network Programming source <https://beej.us/guide/bgnet/html/>
+  <https://beej-zhtw-gitbook.netdpi.net/>
 
 ### Readings
 

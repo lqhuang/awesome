@@ -2,9 +2,6 @@
 
 ## Books (en)
 
-- [0xAX/linux-insides](https://github.com/0xAX/linux-insides): A little bit
-  about a linux kernel
-  ([gitbooks index](https://0xax.gitbooks.io/linux-insides/content/index.html))
 - [probml/pml-book](https://github.com/probml/pml-book): "Probabilistic Machine
   Learning" - a book series by Kevin Murphy
   https://probml.github.io/pml-book/book2.html
@@ -79,8 +76,6 @@
 - [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models):
   💘 帮助你建立良好的 JavaScript 心智模型
   <https://sudongyuer.github.io/javascript-mental-models>
-- [nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning):
-  learn how to use BPF/eBPF
 - [lonegunmanb/introduction-terraform](https://github.com/lonegunmanb/introduction-terraform):
   Introduction to terraform
   <https://lonegunmanb.github.io/introduction-terraform>
