@@ -27,6 +27,8 @@
   and modernizing Python codebases
 - [MarcoGorelli/cython-lint](https://github.com/MarcoGorelli/cython-lint): Lint
   Cython files
+- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A SQL linter and
+  auto-formatter for Humans <https://docs.sqlfluff.com/en/stable/>
 
 ### Build tools
 

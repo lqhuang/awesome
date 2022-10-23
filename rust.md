@@ -337,6 +337,8 @@
 
 - [influxdata/rskafka](https://github.com/influxdata/rskafka): A minimal Rust
   client for Apache Kafka
+- [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite): Ergonomic bindings
+  to SQLite for Rust
 - [cberner/redb](https://github.com/cberner/redb): An embedded key-value
   database in pure Rust
 - [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta

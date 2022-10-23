@@ -41,3 +41,5 @@ Streaming Systems
   Applications in Rust
 - [bytewax/bytewax](https://github.com/bytewax/bytewax): A Python framework for
   building highly scalable dataflows. <https://docs.bytewax.io/>
+- [tyrchen/stream-operators](https://github.com/tyrchen/stream-operators):
+  selected rxjs operators implemented for standard Rust Stream

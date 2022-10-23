@@ -23,3 +23,8 @@
   GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿
   里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
   <https://graphscope.io/>
+
+## Optimization
+
+- [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): A
+  large scale non-linear optimization library <http://ceres-solver.org/>

@@ -62,6 +62,9 @@
   for absolutely everyone. <https://cal.com/>
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted
   bookmark service
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get
+  seamless remote access to any Linux device. Centralized SSH for the edge and
+  cloud computing
 
 ## Dev tools
 
@@ -87,6 +90,8 @@
   Protocol Buffers. <https://buf.build/>
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation):
   中国程序员容易发音错误的单词 <https://cpwp.netlify.app/>
+- [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally
+  🚀
 
 ## HomeKit / IoT
 

@@ -48,3 +48,6 @@
   PyTorch-like API
 - [geohot/tinygrad](https://github.com/geohot/tinygrad): You like pytorch? You
   like micrograd? You love tinygrad! ❤️
+- [pranftw/neograd](https://github.com/pranftw/neograd): A deep learning
+  framework created from scratch with Python and NumPy
+  <https://neograd.readthedocs.io/>

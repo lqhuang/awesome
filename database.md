@@ -60,6 +60,9 @@
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb): An Open Source Distributed
   Time Series Database with high performance, high compression ratio and high
   usability. <https://www.cnosdb.com/>
+- [milvus-io/milvus](https://github.com/milvus-io/milvus): Vector database for
+  scalable similarity search and AI applications. <https://milvus.io/>
+  <https://zilliz.com/>
 
 ## DBA
 

@@ -5,6 +5,16 @@
 - [winitzki/sofp](https://github.com/winitzki/sofp): A free book: "The Science
   of Functional Programming"
 
+## Effect system
+
+- [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio):Effects-based
+  direct-style IO for multicore OCaml
+- [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful):
+  An easy to use, fast extensible effects library with seamless integration with
+  the existing Haskell ecosystem.
+- [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress
+  effect system for Haskell 🚧
+
 ## Haskell
 
 - [kowainik/relude](https://github.com/kowainik/relude): 🌀 Safe, performant,
@@ -18,11 +28,6 @@
   programming and declarative concurrency <https://streamly.composewell.com/>
 - [well-typed/optics](https://github.com/well-typed/optics): Optics as an
   abstract interface
-- [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful):
-  An easy to use, fast extensible effects library with seamless integration with
-  the existing Haskell ecosystem.
-- [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress
-  effect system for Haskell 🚧
 
 ### Web
 
