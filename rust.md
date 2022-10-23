@@ -45,6 +45,7 @@
   number of crates that depend on your crate over time
 - [guppy-rs/guppy](https://github.com/guppy-rs/guppy): Track and query Cargo
   dependency graphs.
+- [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain): Concise GitHub Action for installing a Rust toolchain
 
 ## Test suites
 
@@ -212,6 +213,7 @@
   <https://docs.rs/yrs/>
 - [josephg/diamond-types](https://github.com/josephg/diamond-types): The world's
   fastest CRDT. WIP.
+- [maidsafe/crdt_tree](https://github.com/maidsafe/crdt_tree): A Conflict-free Replicated Data Type (CRDT) Tree written in Rust.
 
 ### Hashmap
 

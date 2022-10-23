@@ -24,7 +24,7 @@
   testing library for Scala
 
 ## Misc
-
+- [lloydmeta/enumeratum](https://github.com/lloydmeta/enumeratum): A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.
 - [pureconfig/pureconfig](https://github.com/pureconfig/pureconfig): A
   boilerplate-free library for loading configuration files
 - [scalatra/scalatra](https://github.com/scalatra/scalatra): Tiny Scala
