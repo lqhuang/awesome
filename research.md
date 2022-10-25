@@ -28,3 +28,11 @@
 
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): A
   large scale non-linear optimization library <http://ceres-solver.org/>
+
+---
+
+## Misc ??
+
+- [gpoore/minted](https://github.com/gpoore/minted): minted is a LaTeX package
+  that provides syntax highlighting using the Pygments library. Highlighted
+  source code can be customized using fancyvrb.

@@ -67,3 +67,6 @@
   Ngrok, DDNS alternative. No central server, easy to scale with less
   maintenance. What happens in intranet, stays in in intranet.
   <https://omniedge.io/>
+- [dndx/phantun](https://github.com/dndx/phantun): Transforms UDP stream into
+  (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT)
+  firewalls/NATs.
