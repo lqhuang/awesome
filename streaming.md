@@ -43,3 +43,5 @@ Streaming Systems
   building highly scalable dataflows. <https://docs.bytewax.io/>
 - [tyrchen/stream-operators](https://github.com/tyrchen/stream-operators):
   selected rxjs operators implemented for standard Rust Stream
+- [nerevu/riko](https://github.com/nerevu/riko): A Python stream processing
+  engine modeled after Yahoo! Pipes

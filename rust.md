@@ -45,7 +45,8 @@
   number of crates that depend on your crate over time
 - [guppy-rs/guppy](https://github.com/guppy-rs/guppy): Track and query Cargo
   dependency graphs.
-- [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain): Concise GitHub Action for installing a Rust toolchain
+- [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain): Concise
+  GitHub Action for installing a Rust toolchain
 
 ## Test suites
 
@@ -213,7 +214,8 @@
   <https://docs.rs/yrs/>
 - [josephg/diamond-types](https://github.com/josephg/diamond-types): The world's
   fastest CRDT. WIP.
-- [maidsafe/crdt_tree](https://github.com/maidsafe/crdt_tree): A Conflict-free Replicated Data Type (CRDT) Tree written in Rust.
+- [maidsafe/crdt_tree](https://github.com/maidsafe/crdt_tree): A Conflict-free
+  Replicated Data Type (CRDT) Tree written in Rust.
 
 ### Hashmap
 
@@ -334,6 +336,13 @@
 
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra): Linear algebra
   library for Rust. <https://nalgebra.org/>
+- [weld-project/weld](https://github.com/weld-project/weld): High-performance
+  runtime for data analytics applications <https://www.weld.rs/>
+- [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray): ndarray: an
+  N-dimensional array with array views, multidimensional slicing, and efficient
+  operations <https://docs.rs/ndarray/>
+- [rust-ml/linfa](https://github.com/rust-ml/linfa): A Rust machine learning
+  framework.
 
 ### Clients
 

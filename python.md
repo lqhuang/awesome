@@ -44,6 +44,8 @@
   <https://cruft.github.io/cruft/>
 - [buildinspace/peru](https://github.com/buildinspace/peru): a generic package
   manager, for including other people's code in your projects
+- [jazzband/pip-tools](https://github.com/jazzband/pip-tools): A set of tools to
+  keep your pinned Python dependencies fresh. <https://pip-tools.rtfd.io/>
 
 ### Docs
 
@@ -389,13 +391,15 @@
   <https://diagrams.mingrammer.com/>
 - [adamchainz/patchy](https://github.com/adamchainz/patchy): ⚓ Patch the inner
   source of python functions at runtime.
-- [jazzband/tablib](https://github.com/jazzband/tablib): Python Module for
-  Tabular Datasets in XLS, CSV, JSON, YAML, &c. <https://tablib.readthedocs.io/>
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress): A new
   kind of Progress Bar, with real-time throughput, ETA, and very cool
   animations!
 - [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX
   math description from Python functions.
+- [jazzband/tablib](https://github.com/jazzband/tablib): Python Module for
+  Tabular Datasets in XLS, CSV, JSON, YAML, &c. <https://tablib.readthedocs.io/>
+- [jazzband/prettytable](https://github.com/jazzband/prettytable): Display
+  tabular data in a visually appealing ASCII table format
 
 ### Visualization
 
