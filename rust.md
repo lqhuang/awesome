@@ -162,6 +162,7 @@
   streams, and async I/O combinators.
 - [microsoft/stackfuture](https://github.com/microsoft/stackfuture): A wrapper
   around Rust futures that stores the future in space provided by the caller.
+- [mkawalec/deluge](https://github.com/mkawalec/deluge): Deluge, not a stream
 
 ## FP in Rust
 

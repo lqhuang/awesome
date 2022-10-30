@@ -50,6 +50,8 @@
   concurrent framework for Python
 - [haskell-distributed/distributed-process](https://github.com/haskell-distributed/distributed-process):
   Cloud Haskell core library <http://haskell-distributed.github.io/>
+- [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae): Distributed
+  systems runtime daemon written in Rust. <https://aurae.io/>
 
 ## Serialization Protocl
 

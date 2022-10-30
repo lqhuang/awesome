@@ -84,11 +84,17 @@
 
 - [nealmckee/penumbra](https://github.com/nealmckee/penumbra): Penumbra Color
   Theme
+- [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css):
+  LaTeX.css is a CSS library that makes your website look like a LaTeX document
+  <https://latex.now.sh/>
 
 ## Build tools
 
-- [vercel/turborepo](https://github.com/vercel/turborepo): The High-performance
-  Build System for JavaScript & TypeScript Codebases <https://turborepo.org/>
+- [vercel/turbo](https://github.com/vercel/turbo): Incremental bundler and build
+  system optimized for JavaScript and TypeScript, written in Rust – including
+  Turborepo and Turbopack. <https://turbo.build/>
+- [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm
+  scripts to make them smarter and more efficient.
 
 ## Toolchains
 

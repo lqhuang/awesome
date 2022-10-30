@@ -58,6 +58,13 @@
   <https://sphinxemojicodes.readthedocs.io/>
 - [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki): Embed
   PlantUML, DOT, etc. diagrams in your documentation using Kroki.
+- [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe): Signatures for
+  entire Python programs. Extract the structure, the frame, the skeleton of your
+  project, to generate API documentation or find breaking changes in your API.
+  <https://mkdocstrings.github.io/griffe>
+- [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog): Automatic
+  Changelog generator using Jinja2 templates.
+  <https://pawamoy.github.io/git-changelog>
 
 ### Packaging
 
@@ -96,10 +103,6 @@
   Zero-Overhead Python Code Coverage
 - [tonybaloney/wily](https://github.com/tonybaloney/wily): A Python application
   for tracking, reporting on timing and complexity in Python code
-- [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe): Signatures for
-  entire Python programs. Extract the structure, the frame, the skeleton of your
-  project, to generate API documentation or find breaking changes in your API.
-  <https://mkdocstrings.github.io/griffe>
 - [omarkohl/pytest-datafiles](https://github.com/omarkohl/pytest-datafiles):
   pytest plugin to create a tmpdir containing a preconfigured set of files
   and/or directories.
@@ -212,6 +215,7 @@
 - [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy): Python Library for learning
   (Structure and Parameter), inference (Probabilistic and Causal), and
   simulations in Bayesian Networks. <https://pgmpy.org/>
+- [fmfn/BayesianOptimization](https://github.com/fmfn/BayesianOptimization): A Python implementation of global optimization with gaussian processes.
 
 ### Web
 

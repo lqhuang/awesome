@@ -27,6 +27,8 @@
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai): Fast
   Differentiable Tensor Library in JavaScript and TypeScript with Bun +
   Flashlight
+- [google/tangent](https://github.com/google/tangent): Source-to-Source
+  Debuggable Derivatives in Pure Python
 
 ## Utils
 

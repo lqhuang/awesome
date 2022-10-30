@@ -21,6 +21,8 @@
   Nix packages + Docker = Image <https://nixpacks.com/>
 - [google/gvisor](https://github.com/google/gvisor): Application Kernel for
   Containers <https://gvisor.dev/>
+- [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage
+  and performance characteristics of running containers.
 
 ## Routing
 

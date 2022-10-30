@@ -30,6 +30,8 @@
   research. <https://vectorbt.dev/>
 - [anfederico/gemini](https://github.com/anfederico/gemini): Backtesting for
   sleepless cryptocurrency markets
+- [pmorissette/bt](https://github.com/pmorissette/bt): bt - flexible backtesting
+  for Python <http://pmorissette.github.io/bt>
 
 ## Portfolio
 
@@ -41,6 +43,8 @@
   Library that focuses on the pricing and risk-management of Financial
   Derivatives, including fixed-income, equity, FX and credit derivatives.
   <https://financepy.com/>
+- [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats): Portfolio
+  analytics for quants, written in Python
 
 ## Indicators
 
@@ -57,6 +61,11 @@
   Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger
   Bands, Parabolic SAR, Dual Thrust, Awesome, MACD
   <https://je-suis-tm.github.io/quant-trading>
+- [pmorissette/ffn](https://github.com/pmorissette/ffn): ffn - a financial
+  function library for Python <http://pmorissette.github.io/ffn>
+- [federicomariamassari/willowtree](https://github.com/federicomariamassari/willowtree):
+  Robust and flexible Python implementation of the willow tree lattice for
+  derivatives pricing.
 
 ## API
 
