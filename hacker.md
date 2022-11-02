@@ -92,6 +92,8 @@
   中国程序员容易发音错误的单词 <https://cpwp.netlify.app/>
 - [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally
   🚀
+- [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest
+  tool
 
 ## HomeKit / IoT
 

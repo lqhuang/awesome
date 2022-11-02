@@ -215,7 +215,8 @@
 - [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy): Python Library for learning
   (Structure and Parameter), inference (Probabilistic and Causal), and
   simulations in Bayesian Networks. <https://pgmpy.org/>
-- [fmfn/BayesianOptimization](https://github.com/fmfn/BayesianOptimization): A Python implementation of global optimization with gaussian processes.
+- [fmfn/BayesianOptimization](https://github.com/fmfn/BayesianOptimization): A
+  Python implementation of global optimization with gaussian processes.
 
 ### Web
 
@@ -248,6 +249,8 @@
   model code generator for SQLAlchemy
 - [RaRe-Technologies/sqlitedict](https://github.com/RaRe-Technologies/sqlitedict):
   Persistent dict, backed by sqlite3 and pickle, multithread-safe.
+- [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils): Python CLI
+  utility and library for manipulating SQLite databases
 
 ## Featured libraries
 
@@ -423,3 +426,5 @@
   based on wgpu <https://pygfx.readthedocs.io/>
 - [vispy/GSP](https://github.com/vispy/GSP): Graphic Server Protocol
   <https://vispy.github.io/GSP/>
+- [simonw/datasette](https://github.com/simonw/datasette): An open source
+  multi-tool for exploring and publishing data <https://datasette.io/>
