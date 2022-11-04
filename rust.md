@@ -83,6 +83,8 @@
   graphing performance of rustc
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing): Application level
   tracing for Rust. <https://tracing.rs/>
+- [tokio-rs/async-backtrace](https://github.com/tokio-rs/async-backtrace):
+  Efficient, logical 'stack' traces of async functions.
 - [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust): Extremely fast
   tracing library for Rust
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph): Easy
@@ -170,6 +172,9 @@
   Left and Right is a general purpose sum type with two cases.
 - [Pauan/rust-signals](https://github.com/Pauan/rust-signals): Zero-cost
   functional reactive Signals for Rust
+- [lloydmeta/frunk](https://github.com/lloydmeta/frunk): Funktional generic
+  type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric,
+  Validated, Monoid and friends. <https://beachape.com/frunk/>
 
 ## HPC / SIMD / Vectorization
 
@@ -200,6 +205,8 @@
   better compressed bitset in Rust <https://docs.rs/roaring/>
 - [matthieu-m/ghost-collections](https://github.com/matthieu-m/ghost-collections):
   Safe collections written in stable Rust, based on `GhostCell` and `StaticRc`.
+- [uazu/qcell](https://github.com/uazu/qcell): Statically-checked alternatives
+  to RefCell and RwLock
 - [komora-io/art](https://github.com/komora-io/art): Adaptive Radix Trie
   implementation for fixed-length keys
 - [Manishearth/elsa](https://github.com/Manishearth/elsa): Append-only
@@ -295,6 +302,8 @@
 - [yaahc/eyre](https://github.com/yaahc/eyre): A trait object based error
   handling type for easy idiomatic error handling and reporting in Rust
   applications
+- [shepmaster/snafu](https://github.com/shepmaster/snafu): Easily assign
+  underlying errors into domain-specific errors while adding context
 - [time-rs/time](https://github.com/time-rs/time): Simple time handling in Rust
   <https://time-rs.github.io/>
 - [chronotope/chrono](https://github.com/chronotope/chrono): Date and time
@@ -309,10 +318,10 @@
   parser for Rust
 - [pacak/bpaf](https://github.com/pacak/bpaf): Command line parser with
   applicative interface
-- [slog-rs/slog](https://github.com/slog-rs/slog): Structured, contextual,
-  extensible, composable logging for Rust
 - [frozenlib/parse-display](https://github.com/frozenlib/parse-display):
   Procedural macro to implement Display and FromStr using common settings.
+- [slog-rs/slog](https://github.com/slog-rs/slog): Structured, contextual,
+  extensible, composable logging for Rust
 
 ## Domain related
 

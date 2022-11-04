@@ -428,3 +428,6 @@
   <https://vispy.github.io/GSP/>
 - [simonw/datasette](https://github.com/simonw/datasette): An open source
   multi-tool for exploring and publishing data <https://datasette.io/>
+- [datapane/datapane](https://github.com/datapane/datapane): Datapane is the
+  easiest way to create data science reports from Python.
+  <https://datapane.com/>

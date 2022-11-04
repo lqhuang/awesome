@@ -46,6 +46,12 @@
   troubleshooting tool for microservice architectures.
   <https://coroot.com/docs/coroot-community-edition>
 
+## IT Ops
+
+- [netbox-community/netbox](https://github.com/netbox-community/netbox): The
+  premiere source of truth powering network automation. Open source under
+  Apache 2. <https://netbox.dev/>
+
 ## DBA
 
 - [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda

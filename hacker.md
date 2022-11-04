@@ -65,6 +65,8 @@
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get
   seamless remote access to any Linux device. Centralized SSH for the edge and
   cloud computing
+- [simple-login/app](https://github.com/simple-login/app): The SimpleLogin
+  back-end <https://simplelogin.io/>
 
 ## Dev tools
 
@@ -94,6 +96,8 @@
   🚀
 - [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest
   tool
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub): Typed interactions
+  with the GitHub API v3 <https://pygithub.readthedocs.io/>
 
 ## HomeKit / IoT
 
@@ -151,3 +155,5 @@
   self-hosted monitoring tool <https://uptime.kuma.pet/>
 - [muety/wakapi](https://github.com/muety/wakapi): 📊 A minimalist, self-hosted
   WakaTime-compatible backend for coding statistics <https://wakapi.dev/>
+- [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Free uptime monitor
+  and status page powered by GitHub <https://upptime.js.org/>
