@@ -2,6 +2,8 @@
 
 ## cli
 
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line):
+  Master the command line, in one page
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm): Intercept any
   risky patterns (default or defined by you) and prompt you a small challenge
   for double verification
@@ -67,6 +69,8 @@
   cloud computing
 - [simple-login/app](https://github.com/simple-login/app): The SimpleLogin
   back-end <https://simplelogin.io/>
+- [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely
+  encrypted backups in the cloud!
 
 ## Dev tools
 
@@ -96,8 +100,6 @@
   🚀
 - [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest
   tool
-- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub): Typed interactions
-  with the GitHub API v3 <https://pygithub.readthedocs.io/>
 
 ## HomeKit / IoT
 

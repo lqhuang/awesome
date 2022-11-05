@@ -24,7 +24,10 @@
   testing library for Scala
 
 ## Misc
-- [lloydmeta/enumeratum](https://github.com/lloydmeta/enumeratum): A type-safe, reflection-free, powerful enumeration implementation for Scala with exhaustive pattern match warnings and helpful integrations.
+
+- [lloydmeta/enumeratum](https://github.com/lloydmeta/enumeratum): A type-safe,
+  reflection-free, powerful enumeration implementation for Scala with exhaustive
+  pattern match warnings and helpful integrations.
 - [pureconfig/pureconfig](https://github.com/pureconfig/pureconfig): A
   boilerplate-free library for loading configuration files
 - [scalatra/scalatra](https://github.com/scalatra/scalatra): Tiny Scala
@@ -116,6 +119,9 @@
   programming facility for Scala
 - [rssh/dotty-cps-async](https://github.com/rssh/dotty-cps-async): experimental
   CPS transformer for dotty
+- [scalalandio/chimney](https://github.com/scalalandio/chimney): Scala library
+  for boilerplate-free, type-safe data transformations
+  <https://scalalandio.github.io/chimney/>
 
 ## Stream
 

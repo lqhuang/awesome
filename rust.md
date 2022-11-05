@@ -24,6 +24,8 @@
   Rust. <https://rustacean-principles.netlify.app/>
 - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust):
   About conncurrency programming via rust
+- [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison):
+  A comparison of some web frameworks and libs written in Rust
 
 ## Build
 
@@ -43,6 +45,8 @@
   <https://foresterre.github.io/cargo-msrv/>
 - [dtolnay/cargo-tally](https://github.com/dtolnay/cargo-tally): Graph the
   number of crates that depend on your crate over time
+- [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny): ❌
+  Cargo plugin for linting your dependencies 🦀
 - [guppy-rs/guppy](https://github.com/guppy-rs/guppy): Track and query Cargo
   dependency graphs.
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain): Concise

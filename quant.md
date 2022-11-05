@@ -19,6 +19,14 @@
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot):
   Cryptocurrency trading bot using technical analysis based strategy with an
   advanced web interface <https://www.octobot.online/>
+- [microsoft/qlib](https://github.com/microsoft/qlib): Qlib is an AI-oriented
+  quantitative investment platform, which aims to realize the potential, empower
+  the research, and create the value of AI technologies in quantitative
+  investment. With Qlib, you can easily try your ideas to create better Quant
+  investment strategies. An increasing number of SOTA Quant research
+  works/papers are released in Qlib. <https://qlib.readthedocs.io/en/latest/>
+- [gbeced/pyalgotrade](https://github.com/gbeced/pyalgotrade): Python
+  Algorithmic Trading Library <http://gbeced.github.io/pyalgotrade/>
 
 ## Backtesting
 
@@ -32,6 +40,9 @@
   sleepless cryptocurrency markets
 - [pmorissette/bt](https://github.com/pmorissette/bt): bt - flexible backtesting
   for Python <http://pmorissette.github.io/bt>
+- [cuemacro/finmarketpy](https://github.com/cuemacro/finmarketpy): Python
+  library for backtesting trading strategies & analyzing financial markets
+  (formerly pythalesians) <http://www.cuemacro.com/>
 
 ## Portfolio
 
@@ -45,6 +56,10 @@
   <https://financepy.com/>
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats): Portfolio
   analytics for quants, written in Python
+- [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt):
+  Financial portfolio optimisation in python, including classical efficient
+  frontier, Black-Litterman, Hierarchical Risk Parity
+  <https://pyportfolioopt.readthedocs.io/>
 
 ## Indicators
 

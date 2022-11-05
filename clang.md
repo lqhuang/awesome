@@ -15,6 +15,9 @@
 - [hugsy/gef](https://github.com/hugsy/gef): GEF (GDB Enhanced Features) - a
   modern experience for GDB with advanced debugging capabilities for exploit
   devs & reverse engineers on Linux <https://hugsy.github.io/gef>
+- [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog): Nanolog is an
+  extremely performant nanosecond scale logging system for C++ that exposes a
+  simple printf-like API.
 
 ## Performance profile
 
@@ -42,3 +45,5 @@
 ## System programming
 
 - [google/brotli](https://github.com/google/brotli): Brotli compression format
+- [madler/pigz](https://github.com/madler/pigz): A parallel implementation of
+  gzip for modern multi-processor, multi-core machines. <http://zlib.net/pigz/>

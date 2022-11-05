@@ -62,9 +62,13 @@
   entire Python programs. Extract the structure, the frame, the skeleton of your
   project, to generate API documentation or find breaking changes in your API.
   <https://mkdocstrings.github.io/griffe>
+- [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc): API Documentation for
+  Python Projects <https://pdoc.dev/>
 - [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog): Automatic
   Changelog generator using Jinja2 templates.
   <https://pawamoy.github.io/git-changelog>
+- [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints):
+  Type hints support for the Sphinx autodoc extension
 
 ### Packaging
 
@@ -147,6 +151,8 @@
   functional programming for Python inspired by F#
 - [dbrattli/aioreactive](https://github.com/dbrattli/aioreactive): Async/await
   reactive tools for Python 3.9+
+- [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent):
+  Persistent/Immutable/Functional data structures for Python
 
 ### Typing
 
@@ -170,6 +176,10 @@
   checker for Python
 - [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping): It
   automatically adds those types and inserts the right annotations.
+- [glyph/DateType](https://github.com/glyph/DateType): A type wrapper for the
+  standard library `datetime` that supplies stricter checks, such as making
+  'datetime' not substitutable for 'date', and separating out Naive and Aware
+  datetimes into separate, mutually-incompatible types.
 
 ## Domain libraries
 
@@ -201,6 +211,9 @@
   high-performance implementation of Wilkinson formulas for Python.
 - [nteract/papermill](https://github.com/nteract/papermill): 📚 Parameterize,
   execute, and analyze notebooks <http://papermill.readthedocs.io/en/latest/>
+- [nalepae/pandarallel](https://github.com/nalepae/pandarallel): A simple and
+  efficient tool to parallelize Pandas operations on all available CPUs
+  <https://nalepae.github.io/pandarallel>
 
 ### Prob
 
@@ -251,6 +264,16 @@
   Persistent dict, backed by sqlite3 and pickle, multithread-safe.
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils): Python CLI
   utility and library for manipulating SQLite databases
+- [marsupialtail/quokka](https://github.com/marsupialtail/quokka): Open source
+  SQL engine in Python <https://marsupialtail.github.io/quokka/>
+
+### API clients
+
+- [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub): Typed interactions
+  with the GitHub API v3 <https://pygithub.readthedocs.io/>
+- [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit): The modern,
+  all-batteries-included GitHub SDK for Python, including rest api, graphql,
+  webhooks, like octokit!
 
 ## Featured libraries
 
@@ -267,6 +290,8 @@
   Python <https://hpyproject.org/>
 - [explosion/cymem](https://github.com/explosion/cymem): 💥 Cython memory pool
   for RAII-style memory management
+- [glyph/automat](https://github.com/glyph/automat): Self-service finite-state
+  machines for the programmer on the go.
 
 ### Utils
 
