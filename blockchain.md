@@ -72,6 +72,8 @@
   client in Rust
 - [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs): Complete Ethereum &
   Celo library and wallet implementation in Rust. https://docs.rs/ethers
+- [a16z/helios](https://github.com/a16z/helios): A fast, secure, and portable
+  light client for Ethereum
 
 ## Misc
 

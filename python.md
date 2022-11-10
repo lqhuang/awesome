@@ -180,6 +180,8 @@
   standard library `datetime` that supplies stricter checks, such as making
   'datetime' not substitutable for 'date', and separating out Naive and Aware
   datetimes into separate, mutually-incompatible types.
+- [wesselb/plum](https://github.com/wesselb/plum): Multiple dispatch in Python
+  <https://wesselb.github.io/plum>
 
 ## Domain libraries
 
@@ -197,29 +199,36 @@
   Always know what to expect from your data. <https://docs.greatexpectations.io>
 - [sepandhaghighi/pycm](https://github.com/sepandhaghighi/pycm): Multi-class
   confusion matrix library in Python <http://pycm.io/>
-- [vaexio/vaex](https://github.com/vaexio/vaex): Out-of-Core hybrid Apache
-  Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big
-  tabular data at a billion rows per second 🚀 <https://vaex.io/>
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus): A
   library for differentiable nonlinear optimization
   <https://sites.google.com/view/theseus-ai>
+- [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy): A Python-embedded modeling
+  language for convex optimization problems. <https://www.cvxpy.org/>
 - [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx): A high performance
   Python graph library implemented in Rust.
+- [vaexio/vaex](https://github.com/vaexio/vaex): Out-of-Core hybrid Apache
+  Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big
+  tabular data at a billion rows per second 🚀 <https://vaex.io/>
+- [ibis-project/ibis](https://github.com/ibis-project/ibis): Expressive
+  analytics in Python at any scale. <http://ibis-project.org/>
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft): Python DataFrame
   for Complex Data
+- [nalepae/pandarallel](https://github.com/nalepae/pandarallel): A simple and
+  efficient tool to parallelize Pandas operations on all available CPUs
+  <https://nalepae.github.io/pandarallel>
 - [matthewwardrop/formulaic](https://github.com/matthewwardrop/formulaic): A
   high-performance implementation of Wilkinson formulas for Python.
 - [nteract/papermill](https://github.com/nteract/papermill): 📚 Parameterize,
   execute, and analyze notebooks <http://papermill.readthedocs.io/en/latest/>
-- [nalepae/pandarallel](https://github.com/nalepae/pandarallel): A simple and
-  efficient tool to parallelize Pandas operations on all available CPUs
-  <https://nalepae.github.io/pandarallel>
 
 ### Prob
 
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX
   is a sampling library designed for ease of use, speed and modularity.
   <https://blackjax-devs.github.io/blackjax/>
+- [thomaspinder/GPJax](https://github.com/thomaspinder/GPJax): A didactic
+  Gaussian process package for researchers in Jax.
+  <https://gpjax.readthedocs.io/en/latest/>
 - [py-why/dowhy](https://github.com/py-why/dowhy): DoWhy is a Python library for
   causal inference that supports explicit modeling and testing of causal
   assumptions. DoWhy is based on a unified language for causal inference,

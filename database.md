@@ -63,6 +63,9 @@
 - [milvus-io/milvus](https://github.com/milvus-io/milvus): Vector database for
   scalable similarity search and AI applications. <https://milvus.io/>
   <https://zilliz.com/>
+- [cozodb/cozo](https://github.com/cozodb/cozo): A general-purpose,
+  transactional, relational database that uses Datalog and focuses on graph data
+  and algorithms
 
 ## DBA
 
@@ -81,3 +84,5 @@
   and Recovery Manager for PostgreSQL <https://www.pgbarman.org/>
 - [yandex/odyssey](https://github.com/yandex/odyssey): Scalable PostgreSQL
   connection pooler
+- [thevahidal/soul](https://github.com/thevahidal/soul): 🕉 A SQLite REST and
+  realtime server

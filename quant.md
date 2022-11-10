@@ -27,6 +27,8 @@
   works/papers are released in Qlib. <https://qlib.readthedocs.io/en/latest/>
 - [gbeced/pyalgotrade](https://github.com/gbeced/pyalgotrade): Python
   Algorithmic Trading Library <http://gbeced.github.io/pyalgotrade/>
+- [idanya/algo-trader](https://github.com/idanya/algo-trader): Trading bot with
+  support for realtime trading, backtesting, custom strategies and much more.
 
 ## Backtesting
 

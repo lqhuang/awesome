@@ -52,7 +52,7 @@
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain): Concise
   GitHub Action for installing a Rust toolchain
 
-## Test suites
+### Test suites
 
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest): A next-generation
   test runner for Rust.
@@ -77,7 +77,7 @@
 - [rust-fuzz/arbitrary](https://github.com/rust-fuzz/arbitrary): Generating
   structured data from arbitrary, unstructured input.
 
-## Performance profile
+### Performance profile
 
 - [tikv/minstant](https://github.com/tikv/minstant): Performant time measuring
   in Rust
@@ -99,7 +99,7 @@
   Rust programming language, built with a focus on developer experience and
   operability. <https://aya-rs.dev/book/>
 
-## Program analysis
+### Program analysis
 
 - [sslab-gatech/Rudra](https://github.com/sslab-gatech/Rudra): Rust Memory
   Safety & Undefined Behavior Detection
@@ -143,6 +143,8 @@
   Concurrent multi-producer multi-consumer queue
 - [fereidani/kanal](https://github.com/fereidani/kanal): Fastest sync and async
   channel that Rust deserves
+- [mvdnes/spin-rs](https://github.com/mvdnes/spin-rs): Spin-based
+  synchronization primitives
 
 ### Async IO
 
@@ -179,6 +181,8 @@
 - [lloydmeta/frunk](https://github.com/lloydmeta/frunk): Funktional generic
   type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric,
   Validated, Monoid and friends. <https://beachape.com/frunk/>
+- [Manishearth/elsa](https://github.com/Manishearth/elsa): Append-only
+  collections for Rust where borrows to entries can outlive insertions
 
 ## HPC / SIMD / Vectorization
 
@@ -320,6 +324,8 @@
   easy URI parser that strictly adheres to IETF RFC 3986.
 - [j-tai/getargs](https://github.com/j-tai/getargs): A truly zero-cost argument
   parser for Rust
+- [google/argh](https://github.com/google/argh): Rust derive-based argument
+  parsing optimized for code size
 - [pacak/bpaf](https://github.com/pacak/bpaf): Command line parser with
   applicative interface
 - [frozenlib/parse-display](https://github.com/frozenlib/parse-display):
@@ -357,6 +363,8 @@
   operations <https://docs.rs/ndarray/>
 - [rust-ml/linfa](https://github.com/rust-ml/linfa): A Rust machine learning
   framework.
+- [coreylowman/dfdx](https://github.com/coreylowman/dfdx): Deep learning in
+  Rust, with shape checked tensors and neural networks
 
 ### Clients
 

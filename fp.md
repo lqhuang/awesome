@@ -4,6 +4,8 @@
 
 - [winitzki/sofp](https://github.com/winitzki/sofp): A free book: "The Science
   of Functional Programming"
+- [Steve Awodey's GitHub pages](https://awodey.github.io/): _Homotopy Type
+  Theory: Univalent Foundations of Mathematics_ and _Category Theory_
 
 ## Effect system
 
@@ -14,6 +16,17 @@
   the existing Haskell ecosystem.
 - [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress
   effect system for Haskell 🚧
+
+## PL
+
+- [jwiegley/category-theory](https://github.com/jwiegley/category-theory): An
+  axiom-free formalization of category theory in Coq for personal study and
+  practical work
+- [Category Theory in Coq](http://www.megacz.com/berkeley/coq-categories/): This
+  is a quick page I've thrown together for my Coq library formalizing basic
+  category theory. The development follows Steve Awodey's book on category
+  theory; the files are named after chapters and subchapters of that book for
+  easy reference.
 
 ## Haskell
 

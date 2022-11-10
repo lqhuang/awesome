@@ -50,6 +50,10 @@
   <https://coroot.com/docs/coroot-community-edition>
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3):
   Volatility 3.0 development <http://volatilityfoundation.org/>
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator):
+  OpenAPI Generator allows generation of API client libraries (SDK generation),
+  server stubs, documentation and configuration automatically given an OpenAPI
+  Spec (v2, v3) <https://openapi-generator.tech/>
 
 ## IT Ops
 
@@ -82,6 +86,8 @@
 - [dagster-io/dagster](https://github.com/dagster-io/dagster): An orchestration
   platform for the development, production, and observation of data assets.
   <https://dagster.io/>
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai): 🧙 A modern replacement
+  for Airflow. <https://www.mage.ai/>
 
 ## Build systems
 

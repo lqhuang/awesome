@@ -9,6 +9,9 @@
   ([gitbooks index](https://0xax.gitbooks.io/linux-insides/content/index.html))
 - [nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning):
   learn how to use BPF/eBPF
+- [A Tour of C++ (Third edition)](https://www.stroustrup.com/tour3.html): a
+  brief tour of the C++ Programming language and its standard library for
+  experienced programmers.
 
 ## Debug
 

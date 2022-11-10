@@ -32,6 +32,8 @@
 
 ## Software / Services
 
+- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows
+  alt-tab on macOS <https://alt-tab-macos.netlify.app/>
 - [qarmin/czkawka](https://github.com/qarmin/czkawka): Multi functional app to
   find duplicates, empty folders, similar images etc.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive):
@@ -111,6 +113,8 @@
 - [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon):
   Argon is a clean HTML5 theme for OpenWrt LuCI. Users may setup their own
   favorite logins, including beautiful pics and customized mp4 videos.
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push
+  notifications to your phone or desktop using PUT/POST <https://ntfy.sh/>
 
 ## Homelab
 

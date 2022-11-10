@@ -52,6 +52,7 @@
   Cloud Haskell core library <http://haskell-distributed.github.io/>
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae): Distributed
   systems runtime daemon written in Rust. <https://aurae.io/>
+- [rkuhn/acto](https://github.com/rkuhn/acto): Actor library for Rust
 
 ## Serialization Protocl
 
