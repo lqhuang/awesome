@@ -254,6 +254,8 @@
 - [lepture/authlib](https://github.com/lepture/authlib): The ultimate Python
   library in building OAuth, OpenID Connect clients and servers.
   JWS,JWE,JWK,JWA,JWT included. <https://authlib.org/>
+- [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py):
+  Bringing WebSockets, Http/Https High Peformance servers for PyPy3 and Python3
 
 ### DB clients and SQL utils
 

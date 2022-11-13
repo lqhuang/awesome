@@ -74,6 +74,10 @@
   Celo library and wallet implementation in Rust. https://docs.rs/ethers
 - [a16z/helios](https://github.com/a16z/helios): A fast, secure, and portable
   light client for Ethereum
+- [ledgerwatch/erigon](https://github.com/ledgerwatch/erigon): Ethereum
+  implementation on the efficiency frontier
+- [wmitsuda/otterscan](https://github.com/wmitsuda/otterscan): A blazingly fast,
+  local, Ethereum block explorer built on top of Erigon
 
 ## Misc
 

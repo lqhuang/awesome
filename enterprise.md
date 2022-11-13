@@ -54,12 +54,19 @@
   OpenAPI Generator allows generation of API client libraries (SDK generation),
   server stubs, documentation and configuration automatically given an OpenAPI
   Spec (v2, v3) <https://openapi-generator.tech/>
+- [argilla-io/argilla](https://github.com/argilla-io/argilla): ✨ Open-source
+  tool for data-centric NLP. Argilla helps domain experts and data teams to
+  build better NLP datasets in less time. <https://docs.argilla.io/>
 
 ## IT Ops
 
 - [netbox-community/netbox](https://github.com/netbox-community/netbox): The
   premiere source of truth powering network automation. Open source under
   Apache 2. <https://netbox.dev/>
+- [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra): pyinfra automates
+  infrastructure super fast at massive scale. It can be used for ad-hoc command
+  execution, service deployment, configuration management and more.
+  <https://pyinfra.com/>
 
 ## DBA
 

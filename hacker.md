@@ -163,3 +163,6 @@
   WakaTime-compatible backend for coding statistics <https://wakapi.dev/>
 - [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Free uptime monitor
   and status page powered by GitHub <https://upptime.js.org/>
+- [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid): A collection of
+  cheatsheets for using Mermaid diagrams on GitHub and elsewhere
+  <https://blog.jakelee.co.uk/using-mermaid-for-diagrams-on-github/>

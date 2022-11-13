@@ -247,6 +247,8 @@
   the highest performance concurrent HashMap in Rust for certain use cases.
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap): Blazing fast
   concurrent HashMap for Rust.
+- [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map):
+  Lock-free linearizable map.
 
 ### Functional style / Persistent
 

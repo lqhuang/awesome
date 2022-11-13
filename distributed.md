@@ -53,6 +53,13 @@
 - [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae): Distributed
   systems runtime daemon written in Rust. <https://aurae.io/>
 - [rkuhn/acto](https://github.com/rkuhn/acto): Actor library for Rust
+- [mdeloof/statig](https://github.com/mdeloof/statig): Hierarchical state
+  machines for designing event-driven systems <https://crates.io/crates/statig>
+
+## Middleware
+
+- [v6d-io/v6d](https://github.com/v6d-io/v6d): vineyard (v6d): an in-memory
+  immutable data manager. (Project under CNCF, TAG-Storage) <https://v6d.io/>
 
 ## Serialization Protocl
 
