@@ -80,6 +80,12 @@
   Introduction to terraform
   <https://lonegunmanb.github.io/introduction-terraform>
 - [文科生也能懂的 Rust async 机制](https://blog.pan93.com/what-is-rust-async-cn/)
+- [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh): 《Machine
+  Learning Systems: Design and Implementation》- Chinese Version
+  <https://openmlsys.github.io/>
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中
+  文读者、能运行、可讨论。中英文版被 60 个国家的 400 所大学用于教学。
+  <http://zh.d2l.ai/>
 
 ## Readings
 
