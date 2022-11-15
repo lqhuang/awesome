@@ -190,6 +190,9 @@
 - [google/vizier](https://github.com/google/vizier): Python-based research
   interface for blackbox and hyperparameter optimization, based on Google's
   internal Vizier Service. <https://oss-vizier.readthedocs.io/>
+- [google-research/torchsde](https://github.com/google-research/torchsde):
+  Differentiable SDE solvers with GPU support and efficient sensitivity
+  analysis.
 
 ### Numerical and Data Science
 
@@ -223,12 +226,6 @@
 
 ### Prob
 
-- [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX
-  is a sampling library designed for ease of use, speed and modularity.
-  <https://blackjax-devs.github.io/blackjax/>
-- [thomaspinder/GPJax](https://github.com/thomaspinder/GPJax): A didactic
-  Gaussian process package for researchers in Jax.
-  <https://gpjax.readthedocs.io/en/latest/>
 - [py-why/dowhy](https://github.com/py-why/dowhy): DoWhy is a Python library for
   causal inference that supports explicit modeling and testing of causal
   assumptions. DoWhy is based on a unified language for causal inference,

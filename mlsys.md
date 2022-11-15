@@ -30,15 +30,47 @@
 - [google/tangent](https://github.com/google/tangent): Source-to-Source
   Debuggable Derivatives in Pure Python
 
-## Utils
+## Jax eco
 
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable
   PyTrees and filtered transforms => neural networks in JAX.
   <https://docs.kidger.site/equinox/>
-- [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping):
-  Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and
   runtime checking for shape and dtype of JAX arrays, and PyTrees.
+- [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX
+  is a sampling library designed for ease of use, speed and modularity.
+  <https://blackjax-devs.github.io/blackjax/>
+- [thomaspinder/GPJax](https://github.com/thomaspinder/GPJax): A didactic
+  Gaussian process package for researchers in Jax.
+  <https://gpjax.readthedocs.io/en/latest/>
+- [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax): Numerical
+  differential equation solvers in JAX. Autodifferentiable and GPU-capable.
+  <https://docs.kidger.site/diffrax/>
+- [probml/dynamax](https://github.com/probml/dynamax): State Space Models
+  library in JAX <https://probml.github.io/dynamax/>
+- [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro): Probabilistic
+  programming with NumPy powered by JAX for autograd and JIT compilation to
+  GPU/TPU/CPU. <https://num.pyro.ai/>
+- [jax-ml/oryx](https://github.com/jax-ml/oryx): Oryx is a library for
+  probabilistic programming and deep learning built on top of Jax.
+  <https://tensorflow.org/probability/oryx>
+- [deepmind/distrax](https://github.com/deepmind/distrax): Distrax is a
+  lightweight library of probability distributions and bijectors. It acts as a
+  JAX-native reimplementation of a subset of TensorFlow Probability (TFP,
+  https://www.tensorflow.org/probability), with some new features and emphasis
+  on extensibility.
+- [deepmind/jraph](https://github.com/deepmind/jraph): A Graph Neural Network
+  Library in Jax <https://jraph.readthedocs.io/en/latest/>
+- [google/flax](https://github.com/google/flax): Flax is a neural network
+  library for JAX that is designed for flexibility.
+  <https://flax.readthedocs.io/>
+- [google/trax](https://github.com/google/trax): Trax — Deep Learning with Clear
+  Code and Speed
+
+## Utils
+
+- [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping):
+  Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Development
   environment for machine learning
 
