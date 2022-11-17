@@ -67,6 +67,22 @@
 - [google/trax](https://github.com/google/trax): Trax — Deep Learning with Clear
   Code and Speed
 
+## Workflow pipeline
+
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow): Machine Learning
+  Toolkit for Kubernetes
+- [mlflow/mlflow](https://github.com/mlflow/mlflow): Open source platform for
+  the machine learning lifecycle
+- [Netflix/metaflow](https://github.com/Netflix/metaflow): 🚀 Build and manage
+  real-life data science projects with ease! <https://metaflow.org/>
+- [bentoml/BentoML](https://github.com/bentoml/BentoML): Unified Model Serving
+  Framework 🍱 <https://bentoml.com>
+- [bentoml/Yatai](https://github.com/bentoml/Yatai): Model Deployment at Scale
+  on Kubernetes 🦄️ <https://bentoml.com/>
+- [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core): An MLOps
+  framework to package, deploy, monitor and manage thousands of production
+  machine learning models
+
 ## Utils
 
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping):

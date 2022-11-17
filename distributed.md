@@ -71,3 +71,6 @@
 - [andreev-io/little-raft](https://github.com/andreev-io/little-raft): The
   lightest distributed consensus library. Run your own replicated state machine!
   ❤️
+- [efficient/epaxos](https://github.com/efficient/epaxos): EPaxos is an
+  efficient, leaderless replication protocol
+  <http://efficient.github.io/epaxos/>

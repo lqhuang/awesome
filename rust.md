@@ -171,6 +171,8 @@
 - [microsoft/stackfuture](https://github.com/microsoft/stackfuture): A wrapper
   around Rust futures that stores the future in space provided by the caller.
 - [mkawalec/deluge](https://github.com/mkawalec/deluge): Deluge, not a stream
+- [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency):
+  Concurrency extensions for Future
 
 ## FP in Rust
 

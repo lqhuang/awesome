@@ -40,3 +40,6 @@
   source code can be customized using fancyvrb.
 - [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint): 📝 A nicely
   formatted LaTeX preprint template
+- [citation-js/citation-js](https://github.com/citation-js/citation-js): Core
+  functionality of Citation.js, as well as the original plugins (CSL, BibTeX,
+  RIS, DOI, Wikidata, and BibJSON) <https://citation.js.org/>

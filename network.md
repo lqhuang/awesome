@@ -37,6 +37,10 @@
   open-source, tunneling service - written in pure PHP <https://expose.dev/>
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl): Hurl, run
   and test HTTP requests with plain text. <https://hurl.dev/>
+- [googleforgames/quilkin](https://github.com/googleforgames/quilkin): Quilkin
+  is a non-transparent UDP proxy specifically designed for use with large scale
+  multiplayer dedicated game server deployments, to ensure security, access
+  control, telemetry data, metrics and more.
 
 ## DNS
 

@@ -124,6 +124,9 @@
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm
   is a self-hostable web productivity suite. It's implemented as a
   security-hardened web app package manager. <https://sandstorm.io/>
+- [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle): A simple,
+  distributed task scheduler and runner with a web based UI.
+  <http://cronicle.net/>
 
 ## Proxy
 

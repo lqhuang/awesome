@@ -20,6 +20,10 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert): A simple
   zero-config tool to make locally trusted development certificates with any
   names you'd like. <https://mkcert.dev/>
+- [soulteary/certs-maker](https://github.com/soulteary/certs-maker): Tiny, easy
+  SSL self-signed tools, ~3MB Size. Generate a self-hosted/dev certificate
+  through configuration.
+  <https://soulteary.com/2021/02/06/how-to-make-and-use-a-self-signed-certificate.html>
 
 ## Enterprise access control
 
@@ -57,6 +61,8 @@
 - [argilla-io/argilla](https://github.com/argilla-io/argilla): ✨ Open-source
   tool for data-centric NLP. Argilla helps domain experts and data teams to
   build better NLP datasets in less time. <https://docs.argilla.io/>
+- [facebook/sapling](https://github.com/facebook/sapling): A Scalable,
+  User-Friendly Source Control System.
 
 ## IT Ops
 

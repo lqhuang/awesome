@@ -46,6 +46,9 @@
   manager, for including other people's code in your projects
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools): A set of tools to
   keep your pinned Python dependencies fresh. <https://pip-tools.rtfd.io/>
+- [trailofbits/abi3audit](https://github.com/trailofbits/abi3audit): Scans
+  Python packages for abi3 violations and inconsistencies
+  <https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/>
 
 ### Docs
 
