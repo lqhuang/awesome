@@ -79,13 +79,13 @@
   Produce redistributable builds of Python
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer): A modern Python
   application packaging and distribution tool
+- [pantsbuild/pex](https://github.com/pantsbuild/pex): A library and tool for
+  generating .pex (Python EXecutable) files
 - [linkedin/shiv](https://github.com/linkedin/shiv): shiv is a command line
   utility for building fully self contained Python zipapps as outlined in PEP
   441, but with all their dependencies included.
 - [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin
   that packs your packages into a zipapp
-- [pantsbuild/pex](https://github.com/pantsbuild/pex): A library and tool for
-  generating .pex (Python EXecutable) files
 - [conda/conda-pack](https://github.com/conda/conda-pack): Package conda
   environments for redistribution <https://conda.github.io/conda-pack/>
 - [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel): 🎡 Build Python
@@ -362,6 +362,8 @@
   scheduling library for Python
 - [Miksus/rocketry](https://github.com/Miksus/rocketry): Modern scheduling
   library for Python <https://rocketry.readthedocs.io/>
+- [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq): Distributed
+  task queue with full async support
 
 ### Serialization & Validation
 

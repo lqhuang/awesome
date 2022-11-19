@@ -63,6 +63,10 @@
   build better NLP datasets in less time. <https://docs.argilla.io/>
 - [facebook/sapling](https://github.com/facebook/sapling): A Scalable,
   User-Friendly Source Control System.
+- [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible
+  JSON/YAML linter for creating automated style guides, with baked in support
+  for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
+  <https://stoplight.io/spectral>
 
 ## IT Ops
 

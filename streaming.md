@@ -45,3 +45,5 @@ Streaming Systems
   selected rxjs operators implemented for standard Rust Stream
 - [nerevu/riko](https://github.com/nerevu/riko): A Python stream processing
   engine modeled after Yahoo! Pipes
+- [Lightflus/lightflus](https://github.com/Lightflus/lightflus): A Lightweight,
+  Cloud-Native Stateful Distributed Dataflow Engine

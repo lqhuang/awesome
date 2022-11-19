@@ -48,6 +48,8 @@
   <https://supabase.com/>
 - [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs
   Kubernetes <https://k8slens.dev/>
+- [zappa/Zappa](https://github.com/zappa/Zappa): Serverless Python
+  <https://github.com/zappa/Zappa>
 
 ## Infrastructure as Code
 

@@ -422,3 +422,8 @@
   for Rust, inspired by Elm <https://iced.rs/>
 - [emilk/egui](https://github.com/emilk/egui): egui: an easy-to-use immediate
   mode GUI in Rust that runs on both web and native
+- [makepad/makepad](https://github.com/makepad/makepad): Makepad is a creative
+  software development platform for Rust that compiles to wasm/webGL, osx/metal,
+  windows/dx11 linux/opengl < Makepad is a creative software development
+  platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11
+  linux/opengl <http://makepad.dev/>
