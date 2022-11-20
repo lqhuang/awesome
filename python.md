@@ -185,6 +185,10 @@
   datetimes into separate, mutually-incompatible types.
 - [wesselb/plum](https://github.com/wesselb/plum): Multiple dispatch in Python
   <https://wesselb.github.io/plum>
+- [mrocklin/multipledispatch](https://github.com/mrocklin/multipledispatch):
+  Multiple dispatch <https://multiple-dispatch.readthedocs.io/en/latest/>
+- [mkorpela/overrides](https://github.com/mkorpela/overrides/): A decorator to
+  automatically detect mismatch when overriding a method
 
 ## Domain libraries
 

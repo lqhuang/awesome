@@ -84,6 +84,8 @@
 - [typelevel/cats-tagless](https://github.com/typelevel/cats-tagless): Library
   of utilities for tagless final encoded algebras
   <https://typelevel.org/cats-tagless/>
+- [typelevel/cats-effect-cps](https://github.com/typelevel/cats-effect-cps): An
+  incubator project for async/await syntax support for Cats Effect
 
 ## ZIO
 

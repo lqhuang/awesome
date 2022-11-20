@@ -221,8 +221,6 @@
   implementation for fixed-length keys
 - [Manishearth/elsa](https://github.com/Manishearth/elsa): Append-only
   collections for Rust where borrows to entries can outlive insertions
-- [petgraph/petgraph](https://github.com/petgraph/petgraph): Graph data
-  structure library for Rust.
 
 ### CRDT
 
@@ -262,6 +260,13 @@
   array in Rust.
 - [prataprc/ppom](https://github.com/prataprc/ppom): Persisted Ordered Map in
   Rust-lang
+
+### Graph
+
+- [petgraph/petgraph](https://github.com/petgraph/petgraph): Graph data
+  structure library for Rust.
+- [s1ck/graph](https://github.com/s1ck/graph): A library for high-performant
+  graph algorithms.
 
 ## Featured libraries
 
