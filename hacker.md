@@ -73,6 +73,8 @@
   back-end <https://simplelogin.io/>
 - [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely
   encrypted backups in the cloud!
+- [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a
+  full-fledged code editor for iPad <https://code.thebaselab.com/>
 
 ## Dev tools
 

@@ -86,6 +86,10 @@
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中
   文读者、能运行、可讨论。中英文版被 60 个国家的 400 所大学用于教学。
   <http://zh.d2l.ai/>
+- [Visualize-ML/Book3_Fundamentals-of-Mathematics](https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics):
+  《数学要素》，清华社五审五校中；Github 稿件基本稳定，欢迎提意见，会及时修改
+- [xuxiaodong/usingcli-book](https://github.com/xuxiaodong/usingcli-book): 像黑
+  客一样使用命令行 <https://selfhostedserver.com/usingcli-book>
 
 ## Readings
 

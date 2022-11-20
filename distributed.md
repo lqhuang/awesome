@@ -7,6 +7,9 @@
   文的中文翻译
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn):
   Raft 博士论文的中文翻译
+- [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list):
+  A list of papers about distributed consensus.
+  <https://heidihoward.github.io/distributed-consensus-reading-list/>
 
 ## System
 

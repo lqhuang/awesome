@@ -32,6 +32,11 @@
 - [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker
 - [cross-rs/cross](https://github.com/cross-rs/cross): “Zero setup” cross
   compilation and “cross testing” of Rust crates
+- [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain): Concise
+  GitHub Action for installing a Rust toolchain
+
+### Cargo plugins
+
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand): Subcommand to
   show result of macro expansion
 - [Kobzol/cargo-pgo](https://github.com/Kobzol/cargo-pgo): Cargo subcommand for
@@ -49,8 +54,6 @@
   Cargo plugin for linting your dependencies 🦀
 - [guppy-rs/guppy](https://github.com/guppy-rs/guppy): Track and query Cargo
   dependency graphs.
-- [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain): Concise
-  GitHub Action for installing a Rust toolchain
 
 ### Test suites
 
