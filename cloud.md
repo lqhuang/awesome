@@ -23,6 +23,9 @@
   Containers <https://gvisor.dev/>
 - [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage
   and performance characteristics of running containers.
+- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs): Automatically
+  set GOMAXPROCS to match Linux container CPU quota.
+  <https://godoc.org/go.uber.org/automaxprocs>
 
 ## Routing
 

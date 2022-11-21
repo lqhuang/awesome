@@ -41,6 +41,15 @@
   programming and declarative concurrency <https://streamly.composewell.com/>
 - [well-typed/optics](https://github.com/well-typed/optics): Optics as an
   abstract interface
+- [chshersh/dr-cabal](https://github.com/chshersh/dr-cabal): 📊 Haskell
+  dependencies build times profiler
+
+### CLI
+
+- [chshersh/iris](https://github.com/chshersh/iris): 🌈 Haskell CLI Framework
+  supporting Command Line Interface Guidelines
+- [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative):
+  Applicative option parser
 
 ### Web
 

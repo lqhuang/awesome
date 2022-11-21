@@ -2,6 +2,9 @@
 
 ## cli
 
+- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines):
+  A guide to help you write better command-line programs, taking traditional
+  UNIX principles and updating them for the modern day. <https://clig.dev/>
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line):
   Master the command line, in one page
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm): Intercept any
@@ -29,6 +32,8 @@
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen): Fast file
   synchronization and network forwarding for remote development
   <https://mutagen.io/>
+- [chshersh/tool-sync](https://github.com/chshersh/tool-sync): 🧰 Download
+  pre-built binaries of all your favourite tools with a single command
 
 ## Software / Services
 
