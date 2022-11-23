@@ -368,6 +368,8 @@
   library for Python <https://rocketry.readthedocs.io/>
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq): Distributed
   task queue with full async support
+- [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq): A fast and reliable
+  background task processing library for Python 3. <https://dramatiq.io/>
 
 ### Serialization & Validation
 

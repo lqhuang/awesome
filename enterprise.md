@@ -67,6 +67,9 @@
   JSON/YAML linter for creating automated style guides, with baked in support
   for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
   <https://stoplight.io/spectral>
+- [Kong/insomnia](https://github.com/Kong/insomnia): The open-source,
+  cross-platform API client for GraphQL, REST, WebSockets and gRPC.
+  <https://insomnia.rest/>
 
 ## IT Ops
 

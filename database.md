@@ -1,21 +1,28 @@
 # Database
 
-## Entry level tutorials
+## Resources
+
+### Entry level tutorials
 
 - [Enhance your Postgres skills](https://www.crunchydata.com/developers/tutorials)
 
-## Books
+### Books
 
 - [jackwener/Readings-in-Database-Systems-5th-CN](https://github.com/jackwener/Readings-in-Database-Systems-5th-CN):
   Readings in Database Systems, 5th Edition 中文翻译
+
+### Practices
+
+- [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational
+  Database Management System (Educational) <https://15445.courses.cs.cmu.edu/>
+- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb): Distributed SQL
+  database in Rust, written as a learning project
 
 ## Libraries for DB
 
 - [substrait-io/substrait](https://github.com/substrait-io/substrait): A cross
   platform way to express data transformation, relational algebra, standardized
   record expression and plans. <https://substrait.io>
-- [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational
-  Database Management System (Educational) <https://15445.courses.cs.cmu.edu/>
 - [facebookincubator/velox](https://github.com/facebookincubator/velox): A C++
   vectorized database acceleration library aimed to optimizing query engines and
   data processing systems. <https://facebookincubator.github.io/velox/>

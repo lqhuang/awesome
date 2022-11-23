@@ -41,6 +41,9 @@
 - [tabler/tabler](https://github.com/tabler/tabler): Tabler is free and
   open-source HTML Dashboard UI Kit built on Bootstrap
   <https://preview.tabler.io/>
+- [Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements): 𝙃𝙪𝙜𝙚
+  collection of Tailwind components, sections and templates 😎 - FREE for
+  commercial use <https://tailwind-elements.com/>
 
 ## Channel
 

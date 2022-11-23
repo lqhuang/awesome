@@ -54,11 +54,28 @@
   Cargo plugin for linting your dependencies 🦀
 - [guppy-rs/guppy](https://github.com/guppy-rs/guppy): Track and query Cargo
   dependency graphs.
+- [killercup/cargo-edit](https://github.com/killercup/cargo-edit): A utility for
+  managing cargo dependencies from the command line.
+  <http://killercup.github.io/cargo-edit/>
+- [cargo-watch](https://github.com/watchexec/cargo-watch): Watches over your
+  Cargo project's source. <https://watchexec.github.io/#cargo-watch>
+- [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release): Cargo
+  subcommand `release`: everything about releasing a rust crate.
+- [rust-lang/rustfix](https://github.com/rust-lang/rustfix): Automatically apply
+  the suggestions made by rustc
+- [rustsec/rustsec](https://github.com/rustsec/rustsec): RustSec API & Tooling.
+  Including `cargo-audit` <https://rustsec.org/>
+- [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate):
+  cargo, make me a project <https://cargo-generate.github.io/cargo-generate>
+- [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef): A
+  cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 
 ### Test suites
 
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest): A next-generation
   test runner for Rust.
+- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin): A code coverage
+  tool for Rust projects
 - [tokio-rs/loom](https://github.com/tokio-rs/loom): Concurrency permutation
   testing tool for Rust.
 - [awslabs/shuttle](https://github.com/awslabs/shuttle): Shuttle is a library
@@ -188,6 +205,8 @@
   Validated, Monoid and friends. <https://beachape.com/frunk/>
 - [Manishearth/elsa](https://github.com/Manishearth/elsa): Append-only
   collections for Rust where borrows to entries can outlive insertions
+- [liquid-rust/flux](https://github.com/liquid-rust/flux): Refinement Types for
+  Rust
 
 ## HPC / SIMD / Vectorization
 
@@ -377,6 +396,10 @@
   framework.
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx): Deep learning in
   Rust, with shape checked tensors and neural networks
+- [sarah-ek/faer-rs](https://github.com/sarah-ek/faer-rs): `faer` is a
+  collection of crates that implement low level linear algebra routines in pure
+  Rust. The aim is to eventually provide a fully featured library for linear
+  algebra with focus on portability, correctness, and performance.
 
 ### Clients
 

@@ -106,6 +106,10 @@
   dangerously fast development turnaround in Scala
 - [typelevel/scalac-options](https://github.com/typelevel/scalac-options): A
   library for configuring scalac options
+- [typelevel/sbt-tpolecat](https://github.com/typelevel/sbt-tpolecat): scalac
+  options for the enlightened
+- [ghik/zerowaste](https://github.com/ghik/zerowaste): Scala compiler plugin to
+  detect unused expressions
 
 ## Tools
 
