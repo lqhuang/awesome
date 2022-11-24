@@ -73,6 +73,8 @@
 - [cozodb/cozo](https://github.com/cozodb/cozo): A general-purpose,
   transactional, relational database that uses Datalog and focuses on graph data
   and algorithms
+- [HydrasDB/hydra](https://github.com/HydrasDB/hydra): The open source Snowflake
+  alternative. OLAP Postgres
 
 ## DBA
 
@@ -93,3 +95,7 @@
   connection pooler
 - [thevahidal/soul](https://github.com/thevahidal/soul): 🕉 A SQLite REST and
   realtime server
+- [ankane/pghero](https://github.com/ankane/pghero): A performance dashboard for
+  Postgres
+- [wal-g/wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for
+  databases in the Cloud

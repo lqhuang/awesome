@@ -78,3 +78,5 @@
   and interpreter <https://koka-lang.org/>
 - [Kindelia/HVM](https://github.com/Kindelia/HVM): A massively parallel, optimal
   functional runtime in Rust
+- [google-research/dex-lang](https://github.com/google-research/dex-lang):
+  Research language for array processing in the Haskell/ML family
