@@ -13,8 +13,6 @@
 
 ## System
 
-- [stateright/stateright](https://github.com/stateright/stateright): A model
-  checker for implementing distributed systems.
 - [taskflow/taskflow](https://github.com/taskflow/taskflow): A General-purpose
   Parallel and Heterogeneous Task Programming System
   <https://taskflow.github.io/>
@@ -73,6 +71,13 @@
   framework for evaluating (planet-scale) consensus protocols
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft): rust raft
   with improvements
+
+## Correctness
+
+- [stateright/stateright](https://github.com/stateright/stateright): A model
+  checker for implementing distributed systems.
+- [madsim-rs/madsim](https://github.com/madsim-rs/madsim):Magical Deterministic
+  Simulator for distributed systems in Rust.
 
 ## Formal verification
 
