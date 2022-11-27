@@ -136,6 +136,10 @@
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle): A simple,
   distributed task scheduler and runner with a web based UI.
   <http://cronicle.net/>
+- [sshguard/sshguard](https://bitbucket.org/sshguard/sshguard/): SSHGuard
+  protects hosts from brute-force attacks against SSH and other services. It
+  aggregates system logs and blocks repeat offenders using one of several
+  firewall backends. <https://www.sshguard.net>
 
 ## Proxy
 
