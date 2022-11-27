@@ -8,10 +8,12 @@
   Cloudflare Workers and Deno. Fast, but not only fast.
 - [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript
   runtime, bundler, transpiler and package manager – all in one.
-  <https://bun.sh/>
+  <https://bun.sh>
 - [alpinejs/alpine](https://github.com/alpinejs/alpine): A rugged, minimal
   framework for composing JavaScript behavior in your markup.
-  <https://alpinejs.dev/>
+  <https://alpinejs.dev>
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app): The best way
+  to start a full-stack, typesafe Next.js app <https://create.t3.gg>
 
 ## Components library
 
@@ -49,7 +51,7 @@
 
 - [yomorun/presencejs](https://github.com/yomorun/presencejs): @yomo/presencejs
   ⚡️ made realtime web applications edge-aware by YoMo, WebTransport based,
-  provide fallback to WebSocket automatically. <https://presence.js.org/>
+  provide fallback to WebSocket automatically. <https://presence.js.org>
 
 ## Utils
 
@@ -58,14 +60,16 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): An
   open-source, lightning-fast, and hyper-relevant search engine that fits
   effortlessly into your apps, websites, and workflow.
-  <https://www.meilisearch.com/>
+  <https://www.meilisearch.com>
 - [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first schema
-  validation with static type inference <https://zod.dev/>
+  validation with static type inference <https://zod.dev>
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase): A tiny, reactive
   JavaScript library for structured state and tabular data.
-  <https://tinybase.org/>
+  <https://tinybase.org>
 - [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies
   and exports in your JS/TS project
+- [statelyai/xstate](https://github.com/statelyai/xstate):State machines and
+  statecharts for the modern web. <https://xstate.js.org/docs>
 
 ## Visualization
 
@@ -79,9 +83,9 @@
 ## GUI
 
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight):
-  Next-generation HTML renderer for apps and games <https://ultralig.ht/>
+  Next-generation HTML renderer for apps and games <https://ultralig.ht>
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus): Friendly React-like
-  GUI library for desktop, web, mobile, and more. <https://dioxuslabs.com/>
+  GUI library for desktop, web, mobile, and more. <https://dioxuslabs.com>
 
 ## Design
 
@@ -89,20 +93,20 @@
   Theme
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css):
   LaTeX.css is a CSS library that makes your website look like a LaTeX document
-  <https://latex.now.sh/>
+  <https://latex.now.sh>
 
 ## Build tools
 
 - [vercel/turbo](https://github.com/vercel/turbo): Incremental bundler and build
   system optimized for JavaScript and TypeScript, written in Rust – including
-  Turborepo and Turbopack. <https://turbo.build/>
+  Turborepo and Turbopack. <https://turbo.build>
 - [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm
   scripts to make them smarter and more efficient.
 
 ## Toolchains
 
 - [volta-cli/volta](https://github.com/volta-cli/volta): Volta: JS Toolchains as
-  Code. ⚡ <https://volta.sh/>
+  Code. ⚡ <https://volta.sh>
 - [tj/n](https://github.com/tj/n): Node version management
 - [Schniz/fnm](https://github.com/Schniz/fnm): 🚀 Fast and simple Node.js
-  version manager, built in Rust <https://fnm.vercel.app/>
+  version manager, built in Rust <https://fnm.vercel.app>

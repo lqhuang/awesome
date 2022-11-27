@@ -53,6 +53,9 @@
   Kubernetes <https://k8slens.dev/>
 - [zappa/Zappa](https://github.com/zappa/Zappa): Serverless Python
   <https://github.com/zappa/Zappa>
+- [kumahq/kuma](https://github.com/kumahq/kuma): 🐻 The multi-zone service mesh
+  for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
+  <https://kuma.io/install>
 
 ## Infrastructure as Code
 
