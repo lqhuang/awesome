@@ -230,6 +230,9 @@
   high-performance implementation of Wilkinson formulas for Python.
 - [nteract/papermill](https://github.com/nteract/papermill): 📚 Parameterize,
   execute, and analyze notebooks <http://papermill.readthedocs.io/en/latest/>
+- [pyjanitor-devs/pyjanitor](https://github.com/pyjanitor-devs/pyjanitor): Clean
+  APIs for data cleaning. Python implementation of R package Janitor
+  <https://pyjanitor-devs.github.io/pyjanitor>
 
 ### Prob
 

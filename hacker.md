@@ -109,6 +109,8 @@
   🚀
 - [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest
   tool
+- [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative,
+  Reproducible, and Composable Developer Environments <https://devenv.sh/>
 
 ## HomeKit / IoT
 

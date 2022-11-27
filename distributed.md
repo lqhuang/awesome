@@ -20,14 +20,6 @@
   <https://taskflow.github.io/>
 - [unisonweb/unison](https://github.com/unisonweb/unison): A friendly
   programming language from the future <https://www.unison-lang.org/>
-- [vitorenesduarte/fantoch](https://github.com/vitorenesduarte/fantoch):
-  framework for evaluating (planet-scale) consensus protocols
-- [spacejam/tla-rust](https://github.com/spacejam/tla-rust): writing correct
-  lock-free and distributed stateful systems in Rust, assisted by TLA+
-- [tlaplus/DrTLAPlus](https://github.com/tlaplus/DrTLAPlus): Dr. TLA+ series -
-  learn an algorithm and protocol, study a specification
-- [datafuselabs/openraft](https://github.com/datafuselabs/openraft): rust raft
-  with improvements
 
 ## Actor
 
@@ -77,3 +69,16 @@
 - [efficient/epaxos](https://github.com/efficient/epaxos): EPaxos is an
   efficient, leaderless replication protocol
   <http://efficient.github.io/epaxos/>
+- [vitorenesduarte/fantoch](https://github.com/vitorenesduarte/fantoch):
+  framework for evaluating (planet-scale) consensus protocols
+- [datafuselabs/openraft](https://github.com/datafuselabs/openraft): rust raft
+  with improvements
+
+## Formal verification
+
+- [spacejam/tla-rust](https://github.com/spacejam/tla-rust): writing correct
+  lock-free and distributed stateful systems in Rust, assisted by TLA+
+- [tlaplus/DrTLAPlus](https://github.com/tlaplus/DrTLAPlus): Dr. TLA+ series -
+  learn an algorithm and protocol, study a specification
+- [Vanlightly/vsr-tlaplus](https://github.com/Vanlightly/vsr-tlaplus): TLA+
+  specifications related to Viewstamped Replication

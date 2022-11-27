@@ -21,6 +21,8 @@
 
 - [flashlight/flashlight](https://github.com/flashlight/flashlight): A C++
   standalone library for machine learning <https://fl.readthedocs.io/en/latest/>
+- [microsoft/torchscale](https://github.com/microsoft/torchscale): Transformers
+  at any scale <https://aka.ms/nlpagi>
 
 ## Autodiff
 

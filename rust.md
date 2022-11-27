@@ -74,8 +74,8 @@
 
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest): A next-generation
   test runner for Rust.
-- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin): A code coverage
-  tool for Rust projects
+- [risingwavelabs/nexmark-rs](https://github.com/risingwavelabs/nexmark-rs):Nexmark
+  event generator in Rust.
 - [tokio-rs/loom](https://github.com/tokio-rs/loom): Concurrency permutation
   testing tool for Rust.
 - [awslabs/shuttle](https://github.com/awslabs/shuttle): Shuttle is a library
@@ -96,6 +96,8 @@
   concurrent key-value collections
 - [rust-fuzz/arbitrary](https://github.com/rust-fuzz/arbitrary): Generating
   structured data from arbitrary, unstructured input.
+- [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin): A code coverage
+  tool for Rust projects
 
 ### Performance profile
 
