@@ -205,6 +205,8 @@
 
 - [nyggus/rounder](https://github.com/nyggus/rounder): Python package for
   rounding floats and complex numbers in complex Python objects.
+- [matthewwardrop/formulaic](https://github.com/matthewwardrop/formulaic): A
+  high-performance implementation of Wilkinson formulas for Python.
 - [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations):
   Always know what to expect from your data. <https://docs.greatexpectations.io>
 - [sepandhaghighi/pycm](https://github.com/sepandhaghighi/pycm): Multi-class
@@ -216,6 +218,11 @@
   language for convex optimization problems. <https://www.cvxpy.org/>
 - [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx): A high performance
   Python graph library implemented in Rust.
+- [nteract/papermill](https://github.com/nteract/papermill): 📚 Parameterize,
+  execute, and analyze notebooks <http://papermill.readthedocs.io/en/latest/>
+
+### Pandas Ecosystem
+
 - [vaexio/vaex](https://github.com/vaexio/vaex): Out-of-Core hybrid Apache
   Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big
   tabular data at a billion rows per second 🚀 <https://vaex.io/>
@@ -226,13 +233,11 @@
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel): A simple and
   efficient tool to parallelize Pandas operations on all available CPUs
   <https://nalepae.github.io/pandarallel>
-- [matthewwardrop/formulaic](https://github.com/matthewwardrop/formulaic): A
-  high-performance implementation of Wilkinson formulas for Python.
-- [nteract/papermill](https://github.com/nteract/papermill): 📚 Parameterize,
-  execute, and analyze notebooks <http://papermill.readthedocs.io/en/latest/>
 - [pyjanitor-devs/pyjanitor](https://github.com/pyjanitor-devs/pyjanitor): Clean
   APIs for data cleaning. Python implementation of R package Janitor
   <https://pyjanitor-devs.github.io/pyjanitor>
+- [has2k1/plydata](https://github.com/has2k1/plydata): A grammar for data
+  manipulation in Python <https://plydata.readthedocs.io/en/stable/>
 
 ### Prob
 
