@@ -150,6 +150,8 @@
 
 ## FP in Python
 
+- [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python
+  to fast C extensions <https://mypyc.readthedocs.io>
 - [cognitedata/Expression](https://github.com/cognitedata/Expression): Pragmatic
   functional programming for Python inspired by F#
 - [dbrattli/aioreactive](https://github.com/dbrattli/aioreactive): Async/await
@@ -161,6 +163,19 @@
 
 - [beartype/beartype](https://github.com/beartype/beartype): Unbearably fast
   O(1) runtime type-checking in pure Python.
+- [nipunn1313/mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf): open
+  source tools to generate mypy stubs from protobufs
+- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType): A Python
+  library that generates static type annotations by collecting runtime types
+- [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping): It
+  automatically adds those types and inserts the right annotations.
+- [glyph/DateType](https://github.com/glyph/DateType): A type wrapper for the
+  standard library `datetime` that supplies stricter checks, such as making
+  'datetime' not substitutable for 'date', and separating out Naive and Aware
+  datetimes into separate, mutually-incompatible types.
+
+### Featured
+
 - [antonagestam/phantom-types](https://github.com/antonagestam/phantom-types):
   👻 Phantom types for Python
 - [dry-python/returns](https://github.com/dry-python/returns): Make your
@@ -169,26 +184,19 @@
   Result types in Python
 - [alice-biometrics/meiga](https://github.com/alice-biometrics/meiga): 🧙 A
   simple, typed and monad-based Result type for Python.
-- [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python
-  to fast C extensions <https://mypyc.readthedocs.io>
-- [nipunn1313/mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf): open
-  source tools to generate mypy stubs from protobufs
-- [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType): A Python
-  library that generates static type annotations by collecting runtime types
 - [agronholm/typeguard](https://github.com/agronholm/typeguard): Run-time type
   checker for Python
-- [JelleZijlstra/autotyping](https://github.com/JelleZijlstra/autotyping): It
-  automatically adds those types and inserts the right annotations.
-- [glyph/DateType](https://github.com/glyph/DateType): A type wrapper for the
-  standard library `datetime` that supplies stricter checks, such as making
-  'datetime' not substitutable for 'date', and separating out Naive and Aware
-  datetimes into separate, mutually-incompatible types.
 - [wesselb/plum](https://github.com/wesselb/plum): Multiple dispatch in Python
   <https://wesselb.github.io/plum>
 - [mrocklin/multipledispatch](https://github.com/mrocklin/multipledispatch):
   Multiple dispatch <https://multiple-dispatch.readthedocs.io/en/latest/>
 - [mkorpela/overrides](https://github.com/mkorpela/overrides/): A decorator to
   automatically detect mismatch when overriding a method
+
+### Functional style libraries
+
+- [pytoolz/toolz](https://github.com/pytoolz/toolz): A functional standard
+  library for Python. <http://toolz.readthedocs.org/>
 
 ## Domain libraries
 

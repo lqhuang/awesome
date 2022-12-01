@@ -86,6 +86,8 @@
   <https://typelevel.org/cats-tagless/>
 - [typelevel/cats-effect-cps](https://github.com/typelevel/cats-effect-cps): An
   incubator project for async/await syntax support for Cats Effect
+- [tpolecat/natchez](https://github.com/tpolecat/natchez): functional tracing
+  for cats
 
 ## ZIO
 
