@@ -43,9 +43,11 @@
 - [tabler/tabler](https://github.com/tabler/tabler): Tabler is free and
   open-source HTML Dashboard UI Kit built on Bootstrap
   <https://preview.tabler.io/>
-- [Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements): 𝙃𝙪𝙜𝙚
-  collection of Tailwind components, sections and templates 😎 - FREE for
+- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements):
+  𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for
   commercial use <https://tailwind-elements.com/>
+- [lit/lit](https://github.com/lit/lit/): Lit is a simple library for building
+  fast, lightweight web components. <https://lit.dev/>
 
 ## Channel
 
@@ -110,3 +112,8 @@
 - [tj/n](https://github.com/tj/n): Node version management
 - [Schniz/fnm](https://github.com/Schniz/fnm): 🚀 Fast and simple Node.js
   version manager, built in Rust <https://fnm.vercel.app>
+
+## SSG
+
+- [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build
+  on top of Notion and NextJS, deployed on Vercel. <https://nobelium.js.org/>

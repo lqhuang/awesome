@@ -7,6 +7,9 @@
 - [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust):
   本书为《Programming Rust - Fast, Safe Systems Development》第 2 版的个人中文翻
   译，仅供学习和交流使用，如有侵权请联系作者删除
+- [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust):
+  A free book about developing secure and robust systems software.
+  <https://highassurance.rs/>
 
 ## Readings / Tutorials
 
@@ -26,6 +29,8 @@
   About conncurrency programming via rust
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison):
   A comparison of some web frameworks and libs written in Rust
+- [Possible Rust](https://www.possiblerust.com/): Learning what’s possible in
+  Rust.
 
 ## Build
 
@@ -167,6 +172,8 @@
   channel that Rust deserves
 - [mvdnes/spin-rs](https://github.com/mvdnes/spin-rs): Spin-based
   synchronization primitives
+- [mitsuhiko/fragile](https://github.com/mitsuhiko/fragile): Utility wrapper to
+  send non send types to other threads safely
 
 ### Async IO
 
@@ -430,6 +437,8 @@
 
 ### TUI
 
+- [Marwes/pretty.rs](https://github.com/Marwes/pretty.rs): Wadler-style
+  pretty-printing combinators in Rust
 - [zhiburt/tabled](https://github.com/zhiburt/tabled): An easy to use library
   for pretty print tables of Rust structs and enums.
 - [lazops/rustea](https://github.com/lazops/rustea): An easy-to-use TUI crate

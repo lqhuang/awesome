@@ -31,6 +31,10 @@
   Flashlight
 - [google/tangent](https://github.com/google/tangent): Source-to-Source
   Debuggable Derivatives in Pure Python
+- [aesara-devs/aesara](https://github.com/aesara-devs/aesara): Aesara is a
+  Python library for defining, optimizing, and efficiently evaluating
+  mathematical expressions involving multi-dimensional arrays.
+  <https://aesara.readthedocs.io/>
 
 ## Jax eco
 
@@ -68,6 +72,10 @@
   <https://flax.readthedocs.io/>
 - [google/trax](https://github.com/google/trax): Trax — Deep Learning with Clear
   Code and Speed
+- [dm-haiku](https://github.com/deepmind/dm-haiku): JAX-based neural network
+  library <https://dm-haiku.readthedocs.io/>
+- [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax):
+  Model parallel transformers in JAX and Haiku
 
 ## Workflow pipeline
 

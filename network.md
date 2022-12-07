@@ -34,6 +34,9 @@
 - [ehids/ecapture](https://github.com/ehids/ecapture): capture SSL/TLS text
   content without CA cert using eBPF. supports Linux x86_64/Aarch64,
   Android(GKI) Aarch64.
+- [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army
+  knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
+  <https://www.bettercap.org/>
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL,
   but for gRPC: Command-line tool for interacting with gRPC servers
 - [ekzhang/bore](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool
@@ -69,7 +72,7 @@
 
 - [dndx/phantun](https://github.com/dndx/phantun): Transforms UDP stream into
   (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT)
-  firewalls/NATs.
+  firewalls/NATs. https://github.com/meh/rust-tun
 - [cjdelisle/cjdns](https://github.com/cjdelisle/cjdns): An encrypted IPv6
   network using public-key cryptography for address allocation and a distributed
   hash table for routing.

@@ -9,6 +9,9 @@
 - [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi):
   A curated list of awesome ASGI servers, frameworks, apps, libraries, and other
   resources
+- [MoserMichael/python-obj-system](https://github.com/MoserMichael/python-obj-system):
+  Tutorials on advanced python topics, and literate programming framework to
+  write them (see README.md)
 
 ## Toolchains
 
@@ -122,6 +125,9 @@
 - [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure): idiomatic
   assertion toolkit with human-friendly failure messages, inspired by RSpec
   Expectations and should.js <http://sure.readthedocs.io/en/latest/>
+- [starlite-api/pydantic-factories](https://github.com/starlite-api/pydantic-factories):
+  Simple and powerful mock data generation using pydantic or dataclasses
+  <https://starlite-api.github.io/pydantic-factories/>
 
 ### Performance profile
 
@@ -186,6 +192,9 @@
   simple, typed and monad-based Result type for Python.
 - [agronholm/typeguard](https://github.com/agronholm/typeguard): Run-time type
   checker for Python
+- [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict): Provides
+  runtime validation of attributes specified in Python 'attr'-based data
+  classes.
 - [wesselb/plum](https://github.com/wesselb/plum): Multiple dispatch in Python
   <https://wesselb.github.io/plum>
 - [mrocklin/multipledispatch](https://github.com/mrocklin/multipledispatch):
@@ -228,6 +237,9 @@
   Python graph library implemented in Rust.
 - [nteract/papermill](https://github.com/nteract/papermill): 📚 Parameterize,
   execute, and analyze notebooks <http://papermill.readthedocs.io/en/latest/>
+- [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python):
+  An implementation of chunked, compressed, N-dimensional arrays for Python.
+  <http://zarr.readthedocs.io/>
 
 ### Pandas Ecosystem
 
@@ -276,6 +288,9 @@
   JWS,JWE,JWK,JWA,JWT included. <https://authlib.org/>
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py):
   Bringing WebSockets, Http/Https High Peformance servers for PyPy3 and Python3
+- [starlite-api/starlite](https://github.com/starlite-api/starlite): Light,
+  Flexible and Extensible ASGI API framework
+  <https://starlite-api.github.io/starlite/>
 
 ### DB clients and SQL utils
 
@@ -336,6 +351,8 @@
 - [nficano/humps](https://github.com/nficano/humps): Convert strings (and
   dictionary keys) between snake case, camel case and pascal case in Python.
   Inspired by Humps for Node <http://humps.readthedocs.io/>
+- [aio-libs/yarl](https://github.com/aio-libs/yarl): Yet another URL library
+  <https://yarl.readthedocs.io/>
 
 ### Configuration
 
@@ -345,6 +362,9 @@
   a framework for elegantly configuring complex applications <https://hydra.cc>
 - [deepmind/fancyflags](https://github.com/deepmind/fancyflags): A Python
   library for defining flat or nested dictionary flags.
+- [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs): A
+  small Python module for determining appropriate platform-specific dirs, e.g. a
+  "user data dir". <https://platformdirs.readthedocs.io/>
 
 ### AsyncIO
 
@@ -451,8 +471,9 @@
 - [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic
   plugins for Python applications. Mirror of code maintained at opendev.org.
   <https://opendev.org/openstack/stevedore>
-- [ipython/traitlets](https://github.com/ipython/traitlets): A lightweight
-  Traits like module <https://traitlets.readthedocs.io/>
+- [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui): Python TUI
+  framework with mouse support, modular widget system, customizable and rapid
+  terminal markup language and more! <https://ptg.bczsalba.com/>
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams): 🎨 Diagram as
   Code for prototyping cloud system architectures
   <https://diagrams.mingrammer.com/>
@@ -467,6 +488,8 @@
   Tabular Datasets in XLS, CSV, JSON, YAML, &c. <https://tablib.readthedocs.io/>
 - [jazzband/prettytable](https://github.com/jazzband/prettytable): Display
   tabular data in a visually appealing ASCII table format
+- [reloadware/reloadium](https://github.com/reloadware/reloadium): Advanced Hot
+  Reloading & Profiling for Python <https://reloadium.io/>
 
 ### Visualization
 

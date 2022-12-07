@@ -18,6 +18,8 @@ more like a toolbox for myself.
   Go and JavaScript - https://k6.io
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine): A command-line
   benchmarking tool
+- [intel/PerfSpect](https://github.com/intel/PerfSpect): system performance
+  characterization tool based on linux perf
 
 ### WASM Runtime
 
@@ -39,6 +41,8 @@ more like a toolbox for myself.
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic):
   Lunatic is an Erlang-inspired runtime for WebAssembly
   <https://lunatic.solutions/>
+- [extism/extism](https://github.com/extism/extism): Extend anything with
+  WebAssembly. <https://extism.org/>
 
 ## My little corner
 

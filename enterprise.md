@@ -70,6 +70,8 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia): The open-source,
   cross-platform API client for GraphQL, REST, WebSockets and gRPC.
   <https://insomnia.rest/>
+- [biscuit-auth/biscuit](https://github.com/biscuit-auth/biscuit): delegated,
+  decentralized, capabilities based authorization token
 
 ## IT Ops
 
@@ -80,6 +82,13 @@
   infrastructure super fast at massive scale. It can be used for ad-hoc command
   execution, service deployment, configuration management and more.
   <https://pyinfra.com/>
+- [Atlassian - statuspage](https://www.atlassian.com/software/statuspage): Build
+  trust with every incident
+- [instatus](https://instatus.com/): A GIANT LEAP FOR STATUS PAGES
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy
+  self-hosted monitoring tool <https://uptime.kuma.pet/>
+- [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Free uptime monitor
+  and status page powered by GitHub <https://upptime.js.org/>
 
 ## DBA
 
@@ -93,6 +102,9 @@
   E-mail, Slack and Push notifications. Embeddable notification center for React
   with real-time updates, content management, and much more...
   <https://novu.co/>
+- [datafold/data-diff](https://github.com/datafold/data-diff): Efficiently diff
+  data in or across relational databases
+  <https://www.datafold.com/blog/open-source-data-diff>
 
 ## Pipelines / Workflow
 

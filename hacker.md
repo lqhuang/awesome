@@ -18,6 +18,8 @@
 - [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal
   session recorder 📹 <https://asciinema.org/>
 - [asciinema/agg](https://github.com/asciinema/agg): asciinema gif generator
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs): Your CLI home video
+  recorder 📼
 - [ellie/atuin](https://github.com/ellie/atuin): 🐢 Magical shell history
   <https://atuin.sh/>
 - [bootandy/dust](https://github.com/bootandy/dust): A more intuitive version of
@@ -34,11 +36,11 @@
   <https://mutagen.io/>
 - [chshersh/tool-sync](https://github.com/chshersh/tool-sync): 🧰 Download
   pre-built binaries of all your favourite tools with a single command
+- [dalance/procs](https://github.com/dalance/procs): A modern replacement for ps
+  written in Rust
 
 ## Software / Services
 
-- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows
-  alt-tab on macOS <https://alt-tab-macos.netlify.app/>
 - [qarmin/czkawka](https://github.com/qarmin/czkawka): Multi functional app to
   find duplicates, empty folders, similar images etc.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive):
@@ -49,22 +51,16 @@
 - [LanguageTool](https://languagetool.org): Instantly Enhance Your Writing
 - [padloc/padloc](https://github.com/padloc/padloc): A modern, open source
   password manager for individuals and teams. <https://padloc.app/>
-- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake's
-  main development repository <https://handbrake.fr/>
-- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy):
-  Open-source tool to enforce privacy & security best-practices on Windows and
-  macOS, because privacy is sexy 🍑🍆 <https://privacy.sexy/>
+- [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake is a
+  open-source tool, built by volunteers, for converting video from nearly any
+  format to a selection of modern, widely supported codecs.
+  <https://handbrake.fr/>
 - [Typst](https://typst.app/): Compose papers faster: Focus on your text and let
   Typst take care of layout and formatting.
 - [Inkdrop](https://www.inkdrop.app/): Organizing your Markdown notes made
   simple.
 - [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown
   as mindmaps with Markmap.
-- [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp):
-  The easiest way to install and switch between multiple versions of Xcode -
-  with a mouse click.
-- [exelban/stats](https://github.com/exelban/stats): macOS system monitor in
-  your menu bar
 - [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed
   for reading research papers and technical books. <https://sioyek.info/>
 - [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure
@@ -78,8 +74,24 @@
   back-end <https://simplelogin.io/>
 - [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely
   encrypted backups in the cloud!
+
+### macOS / iPadOS
+
+- [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows
+  alt-tab on macOS <https://alt-tab-macos.netlify.app/>
+- [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp):
+  The easiest way to install and switch between multiple versions of Xcode -
+  with a mouse click.
+- [exelban/stats](https://github.com/exelban/stats): macOS system monitor in
+  your menu bar
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a
   full-fledged code editor for iPad <https://code.thebaselab.com/>
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock
+  your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra
+  brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots
+  more! <https://betterdisplay.pro/>
+- [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager
+  for macOS <https://maccy.app/>
 
 ## Dev tools
 
@@ -89,12 +101,6 @@
 - [kampersanda/goodname](https://github.com/kampersanda/goodname): Tool to
   assist you with cool naming of your methods and software
   <https://kampersanda.github.io/goodname/>
-- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer):
-  Run compilers interactively from your web browser and interact with the
-  assembly <https://godbolt.org/>
-- [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer):
-  Decompiler Explorer! Compare tools on the forefront of static analysis, now in
-  your web browser! <https://dogbolt.org/>
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii
   diagram scribbles into happy little SVG
   <http://ivanceras.github.io/svgbob-editor/>
@@ -103,14 +109,17 @@
   fetch!
 - [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with
   Protocol Buffers. <https://buf.build/>
-- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation):
-  中国程序员容易发音错误的单词 <https://cpwp.netlify.app/>
 - [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally
   🚀
 - [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest
   tool
 - [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative,
   Reproducible, and Composable Developer Environments <https://devenv.sh/>
+- [naiba/nezha](https://github.com/naiba/nezha): :trollface: Self-hosted,
+  lightweight server and website monitoring and O&M tool
+  <https://ops.naibahq.com/>
+- [muety/wakapi](https://github.com/muety/wakapi): 📊 A minimalist, self-hosted
+  WakaTime-compatible backend for coding statistics <https://wakapi.dev/>
 
 ## HomeKit / IoT
 
@@ -164,21 +173,35 @@
   management features(like dnsmasq).
 - [hashicorp/yamux](https://github.com/hashicorp/yamux): Golang connection
   multiplexing library
-
-## Misc
-
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自
   选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支
   持其他 CDN / 网站 IP ~
-- [naiba/nezha](https://github.com/naiba/nezha): :trollface: Self-hosted,
-  lightweight server and website monitoring and O&M tool
-  <https://ops.naibahq.com/>
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy
-  self-hosted monitoring tool <https://uptime.kuma.pet/>
-- [muety/wakapi](https://github.com/muety/wakapi): 📊 A minimalist, self-hosted
-  WakaTime-compatible backend for coding statistics <https://wakapi.dev/>
-- [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Free uptime monitor
-  and status page powered by GitHub <https://upptime.js.org/>
+
+## Misc
+
+- [jgm/djot](https://github.com/jgm/djot): A light markup language
+  <https://djot.net/>
 - [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid): A collection of
   cheatsheets for using Mermaid diagrams on GitHub and elsewhere
   <https://blog.jakelee.co.uk/using-mermaid-for-diagrams-on-github/>
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation):
+  中国程序员容易发音错误的单词 <https://cpwp.netlify.app/>
+- [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English):
+  专为程序员编写的英语学习指南 v1.2
+  <https://a-programmers-guide-to-english.harryyu.me/>
+- [llwslc/grammar-club](https://github.com/llwslc/grammar-club): 《语法俱乐部》-
+  旋元佑 <https://llwslc.github.io/grammar-club/>
+- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner): 为键
+  盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English
+  muscle memory training software designed for keyboard workers
+  <https://qwerty.kaiyi.cool/>
+- [zhaoolee/ins](https://github.com/zhaoolee/ins): 🍭 互联网从业者的灵感数据库，
+  无广告，Github Actions 自动检测网站访问速度
+
+## Security / Privacy
+
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy):
+  Open-source tool to enforce privacy & security best-practices on Windows and
+  macOS, because privacy is sexy 🍑🍆 <https://privacy.sexy/>
+- [privacytoolsIO/privacy-tools](https://github.com/privacytoolsIO/privacy-tools):
+  Suggestions and Discussions for PrivacyTools.io <https://www.privacytools.io>
