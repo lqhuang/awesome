@@ -72,6 +72,10 @@
   <https://insomnia.rest/>
 - [biscuit-auth/biscuit](https://github.com/biscuit-auth/biscuit): delegated,
   decentralized, capabilities based authorization token
+- [tweag/nickel](https://github.com/tweag/nickel): Better configuration for less
+  <https://nickel-lang.org>
+- [grafana/phlare](https://github.com/grafana/phlare): 🔥 horizontally-scalable,
+  highly-available, multi-tenant continuous profiling aggregation system
 
 ## IT Ops
 

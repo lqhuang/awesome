@@ -22,6 +22,8 @@
   Educational blog posts for Rust beginners
 - [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines): Rust
   API guidelines https://rust-lang.github.io/api-guidelines/
+- [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge): Information
+  useful to people contributing to Rust <https://forge.rust-lang.org/>
 - [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles):
   This is an experimental repository working towards a set of principles for
   Rust. <https://rustacean-principles.netlify.app/>
@@ -319,6 +321,8 @@
   Waiting on a child process with a timeout in Rust
 - [BurntSushi/bstr](https://github.com/BurntSushi/bstr): A string type for Rust
   that is not required to be valid UTF-8.
+- [udoprog/bittle](https://github.com/udoprog/bittle): Zero-cost bitsets over
+  native Rust types
 
 ### SerDe
 
