@@ -35,6 +35,9 @@
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra):The
   most trendiest & innovative Open Source Admin Template for Chakra UI & React!
   <https://horizon-ui.com>
+- [adobe/react-spectrum](https://github.com/adobe/react-spectrum): A collection
+  of libraries and tools that help you build adaptive, accessible, and robust
+  user experiences. <https://react-spectrum.adobe.com/>
 - [wbkd/react-flow](https://github.com/wbkd/react-flow): Highly customizable
   library for building interactive node-based UIs, editors, flow charts and
   diagrams
@@ -81,6 +84,9 @@
   components <https://airbnb.io/visx>
 - [reaviz/reaviz](https://github.com/reaviz/reaviz): 📊 Data visualization
   library for React <https://reaviz.io>
+- [f5/unovis](https://github.com/f5/unovis): Modular data visualization
+  framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
+  <https://unovis.dev/>
 
 ## GUI
 

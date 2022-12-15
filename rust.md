@@ -33,6 +33,7 @@
   A comparison of some web frameworks and libs written in Rust
 - [Possible Rust](https://www.possiblerust.com/): Learning what’s possible in
   Rust.
+- [文科生也能懂的 Rust async 机制](https://blog.pan93.com/what-is-rust-async-cn/)
 
 ## Build
 
@@ -254,6 +255,9 @@
   implementation for fixed-length keys
 - [Manishearth/elsa](https://github.com/Manishearth/elsa): Append-only
   collections for Rust where borrows to entries can outlive insertions
+- [asynchronics/st3](https://github.com/asynchronics/st3): Very fast lock-free,
+  bounded, work-stealing queues with FIFO stealing and LIFO or FIFO semantic for
+  the worker thread.
 
 ### CRDT
 
@@ -395,6 +399,8 @@
 
 - [juhaku/utoipa](https://github.com/juhaku/utoipa): Simple, Fast, Code first
   and Compile time generated OpenAPI documentation for Rust
+- [cloudwego/motore](https://github.com/cloudwego/motore): Async middleware
+  abstraction powered by GAT and TAIT.
 
 ### Numerical analysis
 

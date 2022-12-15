@@ -24,6 +24,9 @@
   SSL self-signed tools, ~3MB Size. Generate a self-hosted/dev certificate
   through configuration.
   <https://soulteary.com/2021/02/06/how-to-make-and-use-a-self-signed-certificate.html>
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager):
+  Automatically provision and manage TLS certificates in Kubernetes
+  <https://cert-manager.io/>
 
 ## Enterprise access control
 
@@ -42,6 +45,10 @@
   access control policies for your application resources. <https://cerbos.dev/>
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH):
   ContainerSSH: Launch containers on demand <https://containerssh.io/>
+- [logto-io/logto](https://github.com/logto-io/logto): 🧑‍🚀 Logto helps you build
+  the sign-in, auth, and user identity within minutes. We provide an OIDC-based
+  identity service and the end-user experience with username, phone number,
+  email, and social sign-in, for web and native apps. <https://logto.io/>
 
 ## Dev
 
@@ -70,6 +77,8 @@
 - [Kong/insomnia](https://github.com/Kong/insomnia): The open-source,
   cross-platform API client for GraphQL, REST, WebSockets and gRPC.
   <https://insomnia.rest/>
+- [getezy/ezy](https://github.com/getezy/ezy): 🔥 GUI client for gRPC/gRPC-Web
+  <https://getezy.dev/>
 - [biscuit-auth/biscuit](https://github.com/biscuit-auth/biscuit): delegated,
   decentralized, capabilities based authorization token
 - [tweag/nickel](https://github.com/tweag/nickel): Better configuration for less
@@ -148,6 +157,9 @@
 - [libyear](https://libyear.com/): A **simple** measure of software dependency
   freshness. It is a **single number** telling you how up-to-date your
   dependencies are.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate): Universal
+  dependency update tool that fits into your workflows.
+  <https://renovatebot.com/>
 
 ## How te a leader
 
@@ -173,3 +185,6 @@
 - [metabase/metabase](https://github.com/metabase/metabase): The simplest,
   fastest way to get business intelligence and analytics to everyone in your
   company 😋 <https://metabase.com/>
+- [evidence-dev/evidence](https://github.com/evidence-dev/evidence): Evidence
+  enables analysts to deliver a polished business intelligence system using SQL
+  and markdown <https://evidence.dev/>

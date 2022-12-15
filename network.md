@@ -67,6 +67,8 @@
   resolves to 127.0.0.1.
 - [Corollarium/localtls](https://github.com/Corollarium/localtls): DNS server
   for providing TLS to webservices on local addresses
+- [ogham/dog](https://github.com/ogham/dog): A command-line DNS client.
+  <https://dns.lookup.dog/>
 
 ## Tunnel
 
@@ -95,6 +97,8 @@
   SSO/MFA and simple access controls. <https://netbird.io/>
 - [tailscale/tailscale](https://github.com/tailscale/tailscale): The easiest,
   most secure way to use WireGuard and 2FA. <https://tailscale.com/>
+- [tailscale/golink](https://github.com/tailscale/golink): A private shortlink
+  service for tailnets
 - [gravitl/netmaker](https://github.com/gravitl/netmaker): Netmaker makes
   networks with WireGuard. Netmaker automates fast, secure, and distributed
   virtual networks. <https://netmaker.io/>

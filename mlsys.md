@@ -4,8 +4,6 @@
 
 - [Epistimio/orion](https://github.com/Epistimio/orion): Asynchronous
   Distributed Hyperparameter Optimization. <https://orion.readthedocs.io/>
-- [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler stack
-  for cpu, gpu and specialized accelerators <https://tvm.apache.org/>
 - [ray-project/ray](https://github.com/ray-project/ray): Ray is a unified
   framework for scaling AI and Python applications. Ray consists of a core
   distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML
@@ -17,12 +15,20 @@
   and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
   <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>
 
-## Frameworks / Libraries
+## Inference engine / large-scale deployment
 
 - [flashlight/flashlight](https://github.com/flashlight/flashlight): A C++
   standalone library for machine learning <https://fl.readthedocs.io/en/latest/>
 - [microsoft/torchscale](https://github.com/microsoft/torchscale): Transformers
   at any scale <https://aka.ms/nlpagi>
+- [webonnx/wonnx](https://github.com/webonnx/wonnx): A GPU-accelerated ONNX
+  inference run-time written 100% in Rust, ready for the web
+
+## Compiler
+
+- [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler stack
+  for cpu, gpu and specialized accelerators <https://tvm.apache.org/>
+- (https://github.com/openai/triton):
 
 ## Autodiff
 
@@ -92,6 +98,9 @@
 - [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core): An MLOps
   framework to package, deploy, monitor and manage thousands of production
   machine learning models
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot): SkyPilot is
+  a framework for easily running machine learning workloads on any cloud through
+  a unified interface. <https://skypilot.readthedocs.io/>
 
 ## Utils
 
@@ -99,6 +108,16 @@
   Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Development
   environment for machine learning
+- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run
+  Docker containers leveraging NVIDIA GPUs
+- [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple,
+  safe way to store and distribute tensors
+
+## Misc
+
+- [allenai/RL4LMs](https://github.com/allenai/RL4LMs): A modular RL library to
+  fine-tune language models to human preferences
+  <https://rl4lms.apps.allenai.org/>
 
 ## Happy toy
 
@@ -111,3 +130,6 @@
 - [pranftw/neograd](https://github.com/pranftw/neograd): A deep learning
   framework created from scratch with Python and NumPy
   <https://neograd.readthedocs.io/>
+- [mohammadpz/pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward):
+  Implementation of Hinton's forward-forward (FF) algorithm - an alternative to
+  back-propagation

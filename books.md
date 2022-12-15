@@ -58,8 +58,6 @@
 - [crazyangelo/Cathedral-and-Bazaar](https://github.com/crazyangelo/Cathedral-and-Bazaar):
   The Cathedral and the Bazaar 中文版
   [index](http://crazyangelo.github.io/Cathedral-and-Bazaar/)
-- [Cpp-Club/Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh): Chinese
-  translation of Bjarne Stroustrup's HOPL4 paper
 - [sysprog21/cpumemory-zhtw](https://github.com/sysprog21/cpumemory-zhtw):
   Traditional Chinese translation of "What Every Programmer Should Know About
   Memory" [index](https://sysprog21.github.io/cpumemory-zhtw)
@@ -79,7 +77,6 @@
 - [lonegunmanb/introduction-terraform](https://github.com/lonegunmanb/introduction-terraform):
   Introduction to terraform
   <https://lonegunmanb.github.io/introduction-terraform>
-- [文科生也能懂的 Rust async 机制](https://blog.pan93.com/what-is-rust-async-cn/)
 - [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh): 《Machine
   Learning Systems: Design and Implementation》- Chinese Version
   <https://openmlsys.github.io/>

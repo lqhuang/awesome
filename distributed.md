@@ -10,6 +10,7 @@
 - [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list):
   A list of papers about distributed consensus.
   <https://heidihoward.github.io/distributed-consensus-reading-list/>
+- [CS525 UIUC SP21: Reading List](https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/)
 
 ## System
 

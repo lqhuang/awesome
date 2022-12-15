@@ -15,6 +15,11 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
 - [sigoden/dufs](https://github.com/sigoden/dufs): A file server that supports
   static serving, uploading, searching, accessing control, webdav...
+- [svenstaro/miniserve](https://github.com/svenstaro/miniserve): 🌟 For when you
+  really just want to serve some files over HTTP right now!
+- [rejetto/hfs](https://github.com/rejetto/hfs/): HFS is a web file server to
+  run on your computer. Share folders or even a single file thanks to the
+  virtual file system. <https://telegram.dog/hfsusers>
 - [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal
   session recorder 📹 <https://asciinema.org/>
 - [asciinema/agg](https://github.com/asciinema/agg): asciinema gif generator
@@ -22,8 +27,12 @@
   recorder 📼
 - [ellie/atuin](https://github.com/ellie/atuin): 🐢 Magical shell history
   <https://atuin.sh/>
+- [blicky/ncdu](https://g.blicky.net/ncdu.git): Ncdu (NCurses Disk Usage) is a
+  disk usage analyzer with an ncurses interface. <https://dev.yorhel.nl/ncdu>
 - [bootandy/dust](https://github.com/bootandy/dust): A more intuitive version of
   du in rust
+- [Byron/dua-cli](https://github.com/Byron/dua-cli): View disk space usage and
+  delete unwanted data, fast.
 - [lra/mackup](https://github.com/lra/mackup): Keep your application settings in
   sync (OS X/Linux)
 - [extrawurst/gitui](https://github.com/extrawurst/gitui): Blazing 💥 fast
@@ -38,6 +47,9 @@
   pre-built binaries of all your favourite tools with a single command
 - [dalance/procs](https://github.com/dalance/procs): A modern replacement for ps
   written in Rust
+- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker):
+  Nosey Parker is a command-line program that finds secrets and sensitive
+  information in textual data and Git history.
 
 ## Software / Services
 
@@ -55,6 +67,8 @@
   open-source tool, built by volunteers, for converting video from nearly any
   format to a selection of modern, widely supported codecs.
   <https://handbrake.fr/>
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut): The swiss army
+  knife of lossless video/audio editing <https://mifi.no/losslesscut/>
 - [Typst](https://typst.app/): Compose papers faster: Focus on your text and let
   Typst take care of layout and formatting.
 - [Inkdrop](https://www.inkdrop.app/): Organizing your Markdown notes made
@@ -74,6 +88,12 @@
   back-end <https://simplelogin.io/>
 - [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely
   encrypted backups in the cloud!
+- [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by
+  GitHub Discussions. :octocat: 💬 💎 <https://giscus.app/>
+- [djyde/cusdis](https://github.com/djyde/cusdis): lightweight, privacy-friendly
+  alternative to Disqus. <https://cusdis.com/>
+- [Pixcall](https://pixcall.com/): 助力个人和团队以更好的方式管理图片、视频、文
+  档等数字资产
 
 ### macOS / iPadOS
 
@@ -92,9 +112,25 @@
   more! <https://betterdisplay.pro/>
 - [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager
   for macOS <https://maccy.app/>
+- [Shottr](https://shottr.cc/): Shottr is a small, fast, human-sized screenshot
+  app built for those who care about pixels. It was crafted with Swift,
+  optimized for M1, and is distributed for free.
+- [Skim](https://skim-app.sourceforge.io/): Skim is a PDF reader and note-taker
+  for OS X. It is designed to help you read and annotate scientific papers in
+  PDF, but is also great for viewing any PDF file.
+- [sicreative/BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow):
+  View MacOS and IOS battery Information
+- [NTFS Disk by Omi](https://omiapps.com/product/1585757563): Best NTFS Disk
+  Manager on Mac App Store
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve):
+  DaVinci Resolve is the world’s only solution that combines editing, color
+  correction, visual effects, motion graphics and audio post production all in
+  one software tool!
 
 ## Dev tools
 
+- [z-shell/zi](https://github.com/z-shell/zi): ✨ A Swiss Army Knife for Zsh -
+  Unix Shell <https://wiki.zshell.dev/>
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose):
   Process Compose is a simple and flexible scheduler and orchestrator to manage
   non-containerized applications.
@@ -133,6 +169,9 @@
   favorite logins, including beautiful pics and customized mp4 videos.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push
   notifications to your phone or desktop using PUT/POST <https://ntfy.sh/>
+- [khuedoan/homelab](https://github.com/khuedoan/homelab): Modern self-hosting
+  infrastructure, fully automated from empty disk to operating services with a
+  single command. <https://homelab.khuedoan.com/>
 
 ## Homelab
 

@@ -31,6 +31,12 @@
 - [google/or-tools](https://github.com/google/or-tools): Google's Operations
   Research tools <https://developers.google.com/optimization/>
 
+## PDE / ODE
+
+- [microsoft/pdearena](https://github.com/microsoft/pdearena): A modern,
+  scalable, and easy to use PDE Surrogate Benchmarking Framework.
+  <https://microsoft.github.io/pdearena/>
+
 ---
 
 ## Misc ??

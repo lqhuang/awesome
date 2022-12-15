@@ -1,6 +1,10 @@
 # C / Linux
 
+Though Cpp definitely is not Clang, I still put them here without new page.
+
 ## Resources
+
+### Readings
 
 - [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc): Beej's Guide to C
   Programming source <https://beej.us/guide/bgc/html/split/>
@@ -9,10 +13,25 @@
   ([gitbooks index](https://0xax.gitbooks.io/linux-insides/content/index.html))
 - [nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning):
   learn how to use BPF/eBPF
+- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
+
+### Books
+
 - [A Tour of C++ (Third edition)](https://www.stroustrup.com/tour3.html): a
   brief tour of the C++ Programming language and its standard library for
   experienced programmers.
-- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
+- [xiaoweiChen/The-Art-of-Writing-Efficient-Programs](https://github.com/xiaoweiChen/The-Art-of-Writing-Efficient-Programs):
+  《The Art of Writing Efficient Programs》的非专业个人翻译
+- [xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019](https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019):
+  📖 作为对《C++ Concurrency in Action - SECOND EDITION》的中文翻译。
+- [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed):
+  C++11/14/17/20 multithreading, involving operating system principles and
+  concurrent programming technology.
+  <https://downdemo.github.io/Cpp-Concurrency-in-Action-2ed/>
+- [xiaoweiChen/Modern-CMake-for-Cpp](https://github.com/xiaoweiChen/Modern-CMake-for-Cpp):
+  《Modern CMake for C++》的非专业个人翻译
+- [Cpp-Club/Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh): Chinese
+  translation of Bjarne Stroustrup's HOPL4 paper
 
 ## Debug
 

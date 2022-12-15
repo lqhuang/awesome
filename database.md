@@ -74,7 +74,7 @@
   transactional, relational database that uses Datalog and focuses on graph data
   and algorithms
 - [HydrasDB/hydra](https://github.com/HydrasDB/hydra): The open source Snowflake
-  alternative. OLAP Postgres
+  alternative. OLAP Postgres <https://hydra.so/>
 
 ## DBA
 

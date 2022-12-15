@@ -13,6 +13,13 @@
   Tutorials on advanced python topics, and literate programming framework to
   write them (see README.md)
 
+## Future?
+
+- [faster-cpython/ideas](https://github.com/faster-cpython/ideas):Discussion and
+  work tracker for Faster CPython project.
+- [ericsnowcurrently/multi-core-python](https://github.com/ericsnowcurrently/multi-core-python):
+  Enabling CPython multi-core parallelism via subinterpreters.
+
 ## Toolchains
 
 ### Linter
@@ -240,6 +247,9 @@
 - [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python):
   An implementation of chunked, compressed, N-dimensional arrays for Python.
   <http://zarr.readthedocs.io/>
+- [docarray/docarray](https://github.com/docarray/docarray): 🧬 The data
+  structure for unstructured multimodal data · Neural Search · Vector Search ·
+  Document Store <https://docarray.jina.ai/>
 
 ### Pandas Ecosystem
 
@@ -271,6 +281,9 @@
   simulations in Bayesian Networks. <https://pgmpy.org/>
 - [fmfn/BayesianOptimization](https://github.com/fmfn/BayesianOptimization): A
   Python implementation of global optimization with gaussian processes.
+- [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy): A Python package
+  for causal inference in quasi-experimental settings
+  <https://causalpy.readthedocs.io/>
 
 ### Web
 
@@ -291,6 +304,8 @@
 - [starlite-api/starlite](https://github.com/starlite-api/starlite): Light,
   Flexible and Extensible ASGI API framework
   <https://starlite-api.github.io/starlite/>
+- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone): Web apps in
+  pure Python. <https://pynecone.io/>
 
 ### DB clients and SQL utils
 
@@ -353,6 +368,8 @@
   Inspired by Humps for Node <http://humps.readthedocs.io/>
 - [aio-libs/yarl](https://github.com/aio-libs/yarl): Yet another URL library
   <https://yarl.readthedocs.io/>
+- [T-baby/pondpond](https://github.com/T-baby/pondpond): Pond is a high
+  performance object-pooling library for Python <https://qin.news/pond>
 
 ### Configuration
 
@@ -431,7 +448,7 @@
 - [agronholm/cbor2](https://github.com/agronholm/cbor2): Pure Python CBOR
   (de)serializer with extensive tag support
 
-### Parsers / Compilers
+### Parsers
 
 - [Instagram/LibCST](https://github.com/Instagram/LibCST): A concrete syntax
   tree parser and serializer library for Python that preserves many aspects of
@@ -439,13 +456,6 @@
 - [lepture/mistune](https://github.com/lepture/mistune): A fast yet powerful
   Python Markdown parser with renderers and plugins.
   <http://mistune.readthedocs.io/>
-- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka): Nuitka is a Python compiler
-  written in Python. It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5,
-  3.6, 3.7, 3.8, 3.9, and 3.10. You feed it your Python app, it does a lot of
-  clever things, and spits out an executable or extension module.
-  <http://nuitka.net/>
-- [erg-lang/erg](https://github.com/erg-lang/erg): A statically typed language
-  that can deeply improve the Python ecosystem <http://erg-lang.github.io/>
 
 ### Logging
 
@@ -457,6 +467,19 @@
   Python <https://www.structlog.org/>
 - [itamarst/eliot](https://github.com/itamarst/eliot): Eliot: the logging system
   that tells you _why_ it happened <https://eliot.readthedocs.io/>
+
+## Compilers
+
+- [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka): Nuitka is a Python compiler
+  written in Python. It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5,
+  3.6, 3.7, 3.8, 3.9, and 3.10. You feed it your Python app, it does a lot of
+  clever things, and spits out an executable or extension module.
+  <http://nuitka.net/>
+- [erg-lang/erg](https://github.com/erg-lang/erg): A statically typed language
+  that can deeply improve the Python ecosystem <http://erg-lang.github.io/>
+- [exaloop/codon](https://github.com/exaloop/codon): A high-performance,
+  zero-overhead, extensible Python compiler using LLVM
+  <https://docs.exaloop.io/codon>
 
 ## Misc
 
