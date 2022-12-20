@@ -51,6 +51,8 @@
   control, telemetry data, metrics and more.
 - [wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full mesh
   configuration generator.
+- [traviscross/mtr](https://github.com/traviscross/mtr): Official repository for
+  mtr, a network diagnostic tool <http://www.bitwizard.nl/mtr/>
 
 ## DNS
 

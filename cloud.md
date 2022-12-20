@@ -56,6 +56,10 @@
 - [kumahq/kuma](https://github.com/kumahq/kuma): 🐻 The multi-zone service mesh
   for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
   <https://kuma.io/install>
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler): Autoscaling
+  components for Kubernetes
+- [karmada-io/karmada](https://github.com/karmada-io/karmada): Open,
+  Multi-Cloud, Multi-Cluster Kubernetes Orchestration <https://karmada.io/>
 
 ## Infrastructure as Code
 
@@ -88,6 +92,10 @@
 - [bytebase/dbcost](https://github.com/bytebase/dbcost): The simple pricing
   calculator and comparison tool for the cloud databases.
   <https://www.dbcost.com/>
+- [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra): pyinfra automates
+  infrastructure super fast at massive scale. It can be used for ad-hoc command
+  execution, service deployment, configuration management and more.
+  <https://pyinfra.com/>
 
 ## Utils
 

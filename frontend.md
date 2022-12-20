@@ -14,6 +14,8 @@
   <https://alpinejs.dev>
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app): The best way
   to start a full-stack, typesafe Next.js app <https://create.t3.gg>
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood): The App Framework
+  for Startups <https://redwoodjs.com/>
 
 ## Components library
 
@@ -75,6 +77,9 @@
   and exports in your JS/TS project
 - [statelyai/xstate](https://github.com/statelyai/xstate):State machines and
   statecharts for the modern web. <https://xstate.js.org/docs>
+- [ajv-validator/ajv](https://github.com/ajv-validator/ajv): The fastest JSON
+  schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON
+  Type Definition (RFC8927) <https://ajv.js.org/>
 
 ## Visualization
 

@@ -37,44 +37,56 @@
   for real-time analytics. <https://databend.rs/> (clickhouse in rust?)
 - [gluesql/gluesql](https://github.com/gluesql/gluesql): GlueSQL is quite
   sticky, it attaches to anywhere.
-- [readysettech/readyset](https://github.com/readysettech/readyset): ReadySet is
-  a lightweight SQL caching engine written in Rust that helps developers enhance
-  the performance and scalability of existing applications. "Noria"
-  <https://readyset.io/>
-- [jitsucom/jitsu](https://github.com/jitsucom/jitsu): Jitsu is an open-source
-  Segment alternative. Fully-scriptable data ingestion engine for modern data
-  teams. Set-up a real-time data pipeline in minutes, not days
-  <https://jitsu.com/>
-- [neondatabase/neon](https://github.com/neondatabase/neon): Neon: Serverless
-  Postgres. We separated storage and compute to offer autoscaling, branching,
-  and bottomless storage. <https://neon.tech/>
-- [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox):
-  Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of
-  InfluxDB written in Rust on top of Apache Arrow.
-- [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB -
-  the open source, distributed, transactional key-value store
-  <https://www.foundationdb.org/>
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb): A scalable,
-  distributed, collaborative, document-graph database, for the realtime web
-  <https://surrealdb.com/>
-- [Pinecone](https://www.pinecone.io/): The Pinecone vector database makes it
-  easy to build high-performance vector search applications. Developer-friendly,
-  fully managed, and easily scalable without infrastructure hassles.
 - [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle): A distributed
   financial accounting database designed for mission critical safety and
   performance to power the future of financial services.
   <https://www.tigerbeetle.com/>
+
+### Timeseries & Graph
+
+- [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox):
+  Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of
+  InfluxDB written in Rust on top of Apache Arrow.
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb): An Open Source Distributed
   Time Series Database with high performance, high compression ratio and high
   usability. <https://www.cnosdb.com/>
-- [milvus-io/milvus](https://github.com/milvus-io/milvus): Vector database for
-  scalable similarity search and AI applications. <https://milvus.io/>
-  <https://zilliz.com/>
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb): A scalable,
+  distributed, collaborative, document-graph database, for the realtime web
+  <https://surrealdb.com/>
 - [cozodb/cozo](https://github.com/cozodb/cozo): A general-purpose,
   transactional, relational database that uses Datalog and focuses on graph data
   and algorithms
+
+### KV
+
+- [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB -
+  the open source, distributed, transactional key-value store
+  <https://www.foundationdb.org/>
+
+### Vector
+
+- [Pinecone](https://www.pinecone.io/): The Pinecone vector database makes it
+  easy to build high-performance vector search applications. Developer-friendly,
+  fully managed, and easily scalable without infrastructure hassles.
+- [milvus-io/milvus](https://github.com/milvus-io/milvus): Vector database for
+  scalable similarity search and AI applications. <https://milvus.io/>
+  <https://zilliz.com/>
+
+### Postgres
+
+- [readysettech/readyset](https://github.com/readysettech/readyset): ReadySet is
+  a lightweight SQL caching engine written in Rust that helps developers enhance
+  the performance and scalability of existing applications. "Noria"
+  <https://readyset.io/>
+- [neondatabase/neon](https://github.com/neondatabase/neon): Neon: Serverless
+  Postgres. We separated storage and compute to offer autoscaling, branching,
+  and bottomless storage. <https://neon.tech/>
 - [HydrasDB/hydra](https://github.com/HydrasDB/hydra): The open source Snowflake
   alternative. OLAP Postgres <https://hydra.so/>
+- [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator):
+  Production PostgreSQL for Kubernetes, from high availability Postgres clusters
+  to full-scale database-as-a-service.
+  <https://access.crunchydata.com/documentation/postgres-operator/v5/>
 
 ## DBA
 
@@ -99,3 +111,6 @@
   Postgres
 - [wal-g/wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for
   databases in the Cloud
+- [datafold/data-diff](https://github.com/datafold/data-diff): Efficiently diff
+  data in or across relational databases
+  <https://www.datafold.com/blog/open-source-data-diff>

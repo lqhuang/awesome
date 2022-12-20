@@ -92,7 +92,9 @@
 - [scalapy/scalapy](https://github.com/scalapy/scalapy): Use the world of Python
   from the comfort of Scala!
 - [almond-sh/almond](https://github.com/almond-sh/almond): A Scala kernel for
-  Jupyter <almond.sh>
+  Jupyter <https://almond.sh/>
+- [polynote/polynote](https://github.com/polynote/polynote): A better notebook
+  for Scala (and more) <https://polynote.org/>
 - [seglo/kafka-lag-exporter](https://github.com/seglo/kafka-lag-exporter):
   Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
 - [lampepfl/dotty-macro-examples](https://github.com/lampepfl/dotty-macro-examples):

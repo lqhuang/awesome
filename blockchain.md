@@ -61,6 +61,9 @@
 - [MystenLabs/sui](https://github.com/MystenLabs/sui): Sui, a next-generation
   smart contract platform with high throughput, low latency, and an
   asset-oriented programming model powered by the Move programming language
+- [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat): Hardhat
+  is a development environment to compile, deploy, test, and debug your Ethereum
+  software. Get Solidity stack traces & console.log. <https://hardhat.org/>
 
 ## Implementation / node client
 

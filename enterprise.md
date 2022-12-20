@@ -49,8 +49,14 @@
   the sign-in, auth, and user identity within minutes. We provide an OIDC-based
   identity service and the end-user experience with username, phone number,
   email, and social sign-in, for web and native apps. <https://logto.io/>
+- [Infisical/infisical](https://github.com/Infisical/infisical): ♾ Infisical is
+  an open-source, end-to-end encrypted tool to sync environment variables across
+  your team and infrastructure. <https://infisical.com/>
+- [openfga/openfga](https://github.com/openfga/openfga): A high performance and
+  flexible authorization/permission engine built for developers and inspired by
+  Google Zanzibar <https://openfga.dev/>
 
-## Dev
+## Dev tools
 
 - [quicktype/quicktype](https://github.com/quicktype/quicktype): Generate types
   and converters from JSON, Schema, and GraphQL <https://app.quicktype.io/>
@@ -86,15 +92,11 @@
 - [grafana/phlare](https://github.com/grafana/phlare): 🔥 horizontally-scalable,
   highly-available, multi-tenant continuous profiling aggregation system
 
-## IT Ops
+## DevOps
 
 - [netbox-community/netbox](https://github.com/netbox-community/netbox): The
   premiere source of truth powering network automation. Open source under
   Apache 2. <https://netbox.dev/>
-- [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra): pyinfra automates
-  infrastructure super fast at massive scale. It can be used for ad-hoc command
-  execution, service deployment, configuration management and more.
-  <https://pyinfra.com/>
 - [Atlassian - statuspage](https://www.atlassian.com/software/statuspage): Build
   trust with every incident
 - [instatus](https://instatus.com/): A GIANT LEAP FOR STATUS PAGES
@@ -102,9 +104,11 @@
   self-hosted monitoring tool <https://uptime.kuma.pet/>
 - [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Free uptime monitor
   and status page powered by GitHub <https://upptime.js.org/>
-
-## DBA
-
+- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages):
+  Awesome list of status page open source software, services and public status
+  pages of major internet companies
+- [getsentry/sentry](https://github.com/getsentry/sentry): Developer-first error
+  tracking and performance monitoring <https://sentry.io/>
 - [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda
   Console is a developer-friendly UI for managing your Kafka/Redpanda workloads.
   Console gives you a simple, interactive approach for gaining visibility into
@@ -115,9 +119,10 @@
   E-mail, Slack and Push notifications. Embeddable notification center for React
   with real-time updates, content management, and much more...
   <https://novu.co/>
-- [datafold/data-diff](https://github.com/datafold/data-diff): Efficiently diff
-  data in or across relational databases
-  <https://www.datafold.com/blog/open-source-data-diff>
+- [jitsucom/jitsu](https://github.com/jitsucom/jitsu): Jitsu is an open-source
+  Segment alternative. Fully-scriptable data ingestion engine for modern data
+  teams. Set-up a real-time data pipeline in minutes, not days
+  <https://jitsu.com/>
 
 ## Pipelines / Workflow
 
@@ -133,6 +138,10 @@
   <https://dagster.io/>
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai): 🧙 A modern replacement
   for Airflow. <https://www.mage.ai/>
+- [uber/cadence](https://github.com/uber/cadence): Cadence is a distributed,
+  scalable, durable, and highly available orchestration engine to execute
+  asynchronous long-running business logic in a scalable and resilient way.
+  <https://cadenceworkflow.io/>
 
 ## Build systems
 

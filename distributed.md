@@ -19,6 +19,9 @@
   <https://taskflow.github.io/>
 - [unisonweb/unison](https://github.com/unisonweb/unison): A friendly
   programming language from the future <https://www.unison-lang.org/>
+- [hypertrace/hypertrace](https://github.com/hypertrace/hypertrace): An open
+  source distributed tracing & observability platform
+  <https://www.hypertrace.org/>
 
 ## Actor
 

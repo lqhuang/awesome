@@ -101,6 +101,9 @@
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot): SkyPilot is
   a framework for easily running machine learning workloads on any cloud through
   a unified interface. <https://skypilot.readthedocs.io/>
+- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course): A
+  project-based course on the foundations of MLOps to responsibly develop,
+  deploy and maintain ML. <https://madewithml.com/>
 
 ## Utils
 

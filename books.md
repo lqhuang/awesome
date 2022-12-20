@@ -2,6 +2,8 @@
 
 ## Books (en)
 
+https://web.stanford.edu/~boyd/cvxbook/
+
 - [probml/pml-book](https://github.com/probml/pml-book): "Probabilistic Machine
   Learning" - a book series by Kevin Murphy
   https://probml.github.io/pml-book/book2.html

@@ -12,6 +12,9 @@
 - [MoserMichael/python-obj-system](https://github.com/MoserMichael/python-obj-system):
   Tutorials on advanced python topics, and literate programming framework to
   write them (see README.md)
+- [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python):
+  Practical Python Programming (course by @dabeaz)
+  <https://dabeaz-course.github.io/practical-python>
 
 ## Future?
 
@@ -59,6 +62,8 @@
 - [trailofbits/abi3audit](https://github.com/trailofbits/abi3audit): Scans
   Python packages for abi3 violations and inconsistencies
   <https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/>
+- [R9295/panoptisch](https://github.com/R9295/panoptisch): A recursive
+  dependency scanner for Python projects
 
 ### Docs
 
@@ -224,6 +229,8 @@
 - [google-research/torchsde](https://github.com/google-research/torchsde):
   Differentiable SDE solvers with GPU support and efficient sensitivity
   analysis.
+- [openai/tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast BPE
+  tokeniser for use with OpenAI's models.
 
 ### Numerical and Data Science
 
@@ -250,6 +257,8 @@
 - [docarray/docarray](https://github.com/docarray/docarray): 🧬 The data
   structure for unstructured multimodal data · Neural Search · Vector Search ·
   Document Store <https://docarray.jina.ai/>
+- [fastai/nbdev](https://github.com/fastai/nbdev): Create delightful software
+  with Jupyter Notebooks <https://nbdev.fast.ai/>
 
 ### Pandas Ecosystem
 
@@ -306,6 +315,8 @@
   <https://starlite-api.github.io/starlite/>
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone): Web apps in
   pure Python. <https://pynecone.io/>
+- [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep): Fast ASGI web
+  framework for Python <https://www.neoteroi.dev/blacksheep/>
 
 ### DB clients and SQL utils
 
@@ -537,3 +548,5 @@
 - [datapane/datapane](https://github.com/datapane/datapane): Datapane is the
   easiest way to create data science reports from Python.
   <https://datapane.com/>
+- [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila): Generative
+  Art Generator <https://www.samila.site/>

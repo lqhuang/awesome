@@ -42,6 +42,8 @@
   compilation and “cross testing” of Rust crates
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain): Concise
   GitHub Action for installing a Rust toolchain
+- [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache): A GitHub Action
+  that implements smart caching for rust/cargo projects
 
 ### Cargo plugins
 
@@ -58,6 +60,8 @@
   <https://foresterre.github.io/cargo-msrv/>
 - [dtolnay/cargo-tally](https://github.com/dtolnay/cargo-tally): Graph the
   number of crates that depend on your crate over time
+- [regexident/cargo-modules](https://github.com/regexident/cargo-modules):
+  Render your crate's module/item structure as a tree or graph
 - [EmbarkStudios/cargo-deny](https://github.com/EmbarkStudios/cargo-deny): ❌
   Cargo plugin for linting your dependencies 🦀
 - [guppy-rs/guppy](https://github.com/guppy-rs/guppy): Track and query Cargo
@@ -117,6 +121,8 @@
   graphing performance of rustc
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing): Application level
   tracing for Rust. <https://tracing.rs/>
+- [probe-rs/log-viewer](https://github.com/probe-rs/log-viewer): View tokio
+  tracing JSON logs interactively and with proper hierarchies
 - [tokio-rs/async-backtrace](https://github.com/tokio-rs/async-backtrace):
   Efficient, logical 'stack' traces of async functions.
 - [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust): Extremely fast
@@ -258,6 +264,8 @@
 - [asynchronics/st3](https://github.com/asynchronics/st3): Very fast lock-free,
   bounded, work-stealing queues with FIFO stealing and LIFO or FIFO semantic for
   the worker thread.
+- [MnO2/cedarwood](https://github.com/MnO2/cedarwood): Efficiently-updatable
+  double-array trie in Rust (ported from cedar)
 
 ### CRDT
 
@@ -380,6 +388,8 @@
   Procedural macro to implement Display and FromStr using common settings.
 - [slog-rs/slog](https://github.com/slog-rs/slog): Structured, contextual,
   extensible, composable logging for Rust
+- [nushell/reedline](https://github.com/nushell/reedline): A readline
+  replacement written in Rust
 
 ## Domain related
 
@@ -439,6 +449,8 @@
 
 - [Keats/tera](https://github.com/Keats/tera): A template engine for Rust based
   on Jinja2/Django
+- [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja): MiniJinja is a
+  powerful but minimal dependency template engine for Rust
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa): A generic framework for
   on-demand, incrementalized computation. Inspired by adapton, glimmer, and
   rustc's query system. <https://salsa-rs.netlify.app/>
