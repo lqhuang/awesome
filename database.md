@@ -78,6 +78,9 @@
   a lightweight SQL caching engine written in Rust that helps developers enhance
   the performance and scalability of existing applications. "Noria"
   <https://readyset.io/>
+- [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db): YugabyteDB -
+  the cloud native distributed SQL database for mission-critical applications.
+  <https://www.yugabyte.com/>
 - [neondatabase/neon](https://github.com/neondatabase/neon): Neon: Serverless
   Postgres. We separated storage and compute to offer autoscaling, branching,
   and bottomless storage. <https://neon.tech/>

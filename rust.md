@@ -335,6 +335,8 @@
   that is not required to be valid UTF-8.
 - [udoprog/bittle](https://github.com/udoprog/bittle): Zero-cost bitsets over
   native Rust types
+- [dtolnay/efg](https://github.com/dtolnay/efg): Conditional compilation using
+  boolean expression syntax, rather than any(), all(), not()
 
 ### SerDe
 
@@ -429,6 +431,8 @@
   collection of crates that implement low level linear algebra routines in pure
   Rust. The aim is to eventually provide a fully featured library for linear
   algebra with focus on portability, correctness, and performance.
+- [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs): Rust bindings
+  for the C++ api of PyTorch.
 
 ### Clients
 

@@ -191,9 +191,18 @@
   ELT
 - [dbt](https://www.getdbt.com/): Transforming data. Transforming teams. dbt™
   helps data teams work like software engineers—to ship trusted data, faster.
-- [metabase/metabase](https://github.com/metabase/metabase): The simplest,
-  fastest way to get business intelligence and analytics to everyone in your
-  company 😋 <https://metabase.com/>
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence): Evidence
   enables analysts to deliver a polished business intelligence system using SQL
   and markdown <https://evidence.dev/>
+
+### Visualize frontend / BI
+
+- [metabase/metabase](https://github.com/metabase/metabase): The simplest,
+  fastest way to get business intelligence and analytics to everyone in your
+  company 😋 <https://metabase.com/>
+- [getredash/redash](https://github.com/getredash/redash): Make Your Company
+  Data Driven. Connect to any data source, easily visualize, dashboard and share
+  your data. <http://redash.io/>
+- [apache/superset](https://github.com/apache/superset): Apache Superset is a
+  Data Visualization and Data Exploration Platform
+  <https://superset.apache.org/>

@@ -29,6 +29,9 @@
 - [rejetto/hfs](https://github.com/rejetto/hfs/): HFS is a web file server to
   run on your computer. Share folders or even a single file thanks to the
   virtual file system. <https://telegram.dog/hfsusers>
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless): jless
+  is a command-line JSON viewer designed for reading, exploring, and searching
+  through JSON data. <https://jless.io/>
 - [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal
   session recorder 📹 <https://asciinema.org/>
 - [asciinema/agg](https://github.com/asciinema/agg): asciinema gif generator
@@ -231,6 +234,8 @@
   <https://djot.net/>
 - [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid): A collection of
   cheatsheets for using Mermaid diagrams on GitHub and elsewhere
+- [terrastruct/d2](https://github.com/terrastruct/d2): D2 is a modern diagram
+  scripting language that turns text to diagrams. <https://d2lang.com/>
   <https://blog.jakelee.co.uk/using-mermaid-for-diagrams-on-github/>
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation):
   中国程序员容易发音错误的单词 <https://cpwp.netlify.app/>

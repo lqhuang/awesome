@@ -23,6 +23,9 @@
   at any scale <https://aka.ms/nlpagi>
 - [webonnx/wonnx](https://github.com/webonnx/wonnx): A GPU-accelerated ONNX
   inference run-time written 100% in Rust, ready for the web
+- [microsoft/DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII): MII
+  makes low-latency and high-throughput inference possible, powered by
+  DeepSpeed.
 
 ## Compiler
 
