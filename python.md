@@ -317,6 +317,8 @@
   pure Python. <https://pynecone.io/>
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep): Fast ASGI web
   framework for Python <https://www.neoteroi.dev/blacksheep/>
+- [preludeorg/vertebrae](https://github.com/preludeorg/vertebrae): A
+  security-focused app framework for Python micro services
 
 ### DB clients and SQL utils
 

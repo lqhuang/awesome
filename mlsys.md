@@ -1,6 +1,6 @@
 # ML Systems
 
-## Production ready
+## Framework
 
 - [Epistimio/orion](https://github.com/Epistimio/orion): Asynchronous
   Distributed Hyperparameter Optimization. <https://orion.readthedocs.io/>
@@ -14,6 +14,12 @@
   AWS Deep Learning Containers (DLCs) are a set of Docker images for training
   and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
   <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>
+- [facebookresearch/xformers](https://github.com/facebookresearch/xformers):
+  Hackable and optimized Transformers building blocks, supporting a composable
+  construction. <https://facebookresearch.github.io/xformers/>
+- [tensor-compiler/taco](https://github.com/tensor-compiler/taco): The Tensor
+  Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs
+  <http://tensor-compiler.org/>
 
 ## Inference engine / large-scale deployment
 
@@ -85,6 +91,8 @@
   library <https://dm-haiku.readthedocs.io/>
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax):
   Model parallel transformers in JAX and Haiku
+- [probml/sts-jax](https://github.com/probml/sts-jax): Structural Time Series in
+  JAX
 
 ## Workflow pipeline
 

@@ -29,6 +29,10 @@
 - [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb): Pure Rust
   LSM-tree based embedded storage engine
 - [tcdi/pgx](https://github.com/tcdi/pgx): Build Postgres Extensions with Rust!
+- [sqlbench-ds](https://github.com/sql-benchmarks/sqlbench-ds): SQL Benchmark
+  derived from TPC-DS
+- [apache/arrow-ballista](https://github.com/apache/arrow-ballista): Apache
+  Arrow Ballista Distributed Query Engine <https://arrow.apache.org/ballista>
 
 ## New databases
 

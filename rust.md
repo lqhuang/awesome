@@ -10,6 +10,8 @@
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust):
   A free book about developing secure and robust systems software.
   <https://highassurance.rs/>
+- [nnethercote/perf-book](https://github.com/nnethercote/perf-book): The Rust
+  Performance Book
 
 ## Readings / Tutorials
 
@@ -134,6 +136,8 @@
 - [aya-rs/aya](https://github.com/aya-rs/aya): Aya is an eBPF library for the
   Rust programming language, built with a focus on developer experience and
   operability. <https://aya-rs.dev/book/>
+- [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs): Heap profiling
+  and ad hoc profiling for Rust programs.
 
 ### Program analysis
 
@@ -266,6 +270,8 @@
   the worker thread.
 - [MnO2/cedarwood](https://github.com/MnO2/cedarwood): Efficiently-updatable
   double-array trie in Rust (ported from cedar)
+- [hawkw/sharded-slab](https://github.com/hawkw/sharded-slab): a lock-free
+  concurrent slab (experimental)
 
 ### CRDT
 
@@ -392,6 +398,8 @@
   extensible, composable logging for Rust
 - [nushell/reedline](https://github.com/nushell/reedline): A readline
   replacement written in Rust
+- [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs): DEFLATE, gzip,
+  and zlib bindings for Rust
 
 ## Domain related
 

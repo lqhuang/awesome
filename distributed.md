@@ -75,6 +75,8 @@
   framework for evaluating (planet-scale) consensus protocols
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft): rust raft
   with improvements
+- [carllerche/mini-raft](https://github.com/carllerche/mini-raft): An
+  implementation of Raft in Rust.
 
 ## Correctness
 

@@ -62,6 +62,8 @@
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker):
   Nosey Parker is a command-line program that finds secrets and sensitive
   information in textual data and Git history.
+- [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running
+  program to a new terminal
 
 ## Software / Services
 
@@ -73,8 +75,6 @@
 - [elkowar/eww](https://github.com/elkowar/eww): ElKowars wacky widgets
   <https://elkowar.github.io/eww>
 - [LanguageTool](https://languagetool.org): Instantly Enhance Your Writing
-- [padloc/padloc](https://github.com/padloc/padloc): A modern, open source
-  password manager for individuals and teams. <https://padloc.app/>
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake is a
   open-source tool, built by volunteers, for converting video from nearly any
   format to a selection of modern, widely supported codecs.
@@ -89,6 +89,17 @@
   as mindmaps with Markmap.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed
   for reading research papers and technical books. <https://sioyek.info/>
+- [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely
+  encrypted backups in the cloud!
+- [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by
+  GitHub Discussions. :octocat: 💬 💎 <https://giscus.app/>
+- [djyde/cusdis](https://github.com/djyde/cusdis): lightweight, privacy-friendly
+  alternative to Disqus. <https://cusdis.com/>
+- [Pixcall](https://pixcall.com/): 助力个人和团队以更好的方式管理图片、视频、文
+  档等数字资产
+
+### Self-hosted
+
 - [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure
   for absolutely everyone. <https://cal.com/>
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted
@@ -98,14 +109,9 @@
   cloud computing
 - [simple-login/app](https://github.com/simple-login/app): The SimpleLogin
   back-end <https://simplelogin.io/>
-- [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely
-  encrypted backups in the cloud!
-- [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by
-  GitHub Discussions. :octocat: 💬 💎 <https://giscus.app/>
-- [djyde/cusdis](https://github.com/djyde/cusdis): lightweight, privacy-friendly
-  alternative to Disqus. <https://cusdis.com/>
-- [Pixcall](https://pixcall.com/): 助力个人和团队以更好的方式管理图片、视频、文
-  档等数字资产
+- [microfeed/microfeed](https://github.com/microfeed/microfeed): a lightweight
+  cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents,
+  and curated urls. <https://www.microfeed.org/>
 
 ### macOS / iPadOS
 
@@ -138,6 +144,13 @@
   DaVinci Resolve is the world’s only solution that combines editing, color
   correction, visual effects, motion graphics and audio post production all in
   one software tool!
+
+### Vault / Passwords
+
+- [padloc/padloc](https://github.com/padloc/padloc): A modern, open source
+  password manager for individuals and teams. <https://padloc.app/>
+- [lesspass/lesspass](https://github.com/lesspass/lesspass): 🔑 stateless open
+  source password manager <https://www.lesspass.com/>
 
 ## Dev tools
 
@@ -227,6 +240,8 @@
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自
   选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支
   持其他 CDN / 网站 IP ~
+- [gwen001/cloudflare-origin-ip](https://github.com/gwen001/cloudflare-origin-ip):
+  Try to find the origin IP of a webapp protected by Cloudflare.
 
 ## Misc
 

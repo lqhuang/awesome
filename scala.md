@@ -12,7 +12,7 @@
 
 ## Build
 
-## Sbt plugins
+### Sbt plugins
 
 - [spray/sbt-revolver](https://github.com/spray/sbt-revolver): An SBT plugin for
   dangerously fast development turnaround in Scala
@@ -40,8 +40,6 @@
 - [lloydmeta/enumeratum](https://github.com/lloydmeta/enumeratum): A type-safe,
   reflection-free, powerful enumeration implementation for Scala with exhaustive
   pattern match warnings and helpful integrations.
-- [pureconfig/pureconfig](https://github.com/pureconfig/pureconfig): A
-  boilerplate-free library for loading configuration files
 - [7mind/izumi](https://github.com/7mind/izumi): Productivity-oriented
   collection of lightweight fancy stuff for Scala toolchain
 
@@ -61,6 +59,8 @@
 - [com-lihaoyi/upickle](https://github.com/com-lihaoyi/upickle): uPickle: a
   simple, fast, dependency-free JSON & Binary (MessagePack) serialization
   library for Scala <https://com-lihaoyi.github.io/upickle>
+- [pureconfig/pureconfig](https://github.com/pureconfig/pureconfig): A
+  boilerplate-free library for loading configuration files
 - [typelevel/fabric](https://github.com/typelevel/fabric): Object-Notation
   Abstraction for JSON, binary, HOCON, etc.
 

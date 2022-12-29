@@ -119,6 +119,8 @@
   E-mail, Slack and Push notifications. Embeddable notification center for React
   with real-time updates, content management, and much more...
   <https://novu.co/>
+- [svix/svix-webhooks](https://github.com/svix/svix-webhooks): The
+  enterprise-ready webhooks service 🦀 <https://www.svix.com/>
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu): Jitsu is an open-source
   Segment alternative. Fully-scriptable data ingestion engine for modern data
   teams. Set-up a real-time data pipeline in minutes, not days
@@ -206,3 +208,9 @@
 - [apache/superset](https://github.com/apache/superset): Apache Superset is a
   Data Visualization and Data Exploration Platform
   <https://superset.apache.org/>
+
+## Logging / Metrics / APM
+
+- [keyval-dev/odigos](https://github.com/keyval-dev/odigos): Fix Production
+  Issues Faster 🔎. Get distributed traces, metrics and logs for any application
+  in minutes. No code changes needed! <https://keyval.dev/>
