@@ -53,6 +53,8 @@
 
 ## Jax eco
 
+- [openxla/xla](https://github.com/openxla/xla): A community-driven and modular
+  open source compiler for ML.
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable
   PyTrees and filtered transforms => neural networks in JAX.
   <https://docs.kidger.site/equinox/>

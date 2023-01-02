@@ -82,6 +82,8 @@
   for building Finagle HTTP services
 - [raquo/Laminar](https://github.com/raquo/Laminar): Simple, expressive, and
   safe UI library for Scala.js <https://laminar.dev/>
+- [PurpleKingdomGames/tyrian](https://github.com/PurpleKingdomGames/tyrian):
+  Elm-inspired Scala UI library. <https://tyrian.indigoengine.io/>
 - [scalameta/mdoc](https://github.com/scalameta/mdoc): Typechecked markdown
   documentation for Scala <https://scalameta.org/mdoc/>
 

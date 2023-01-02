@@ -112,8 +112,6 @@
   and Recovery Manager for PostgreSQL <https://www.pgbarman.org/>
 - [yandex/odyssey](https://github.com/yandex/odyssey): Scalable PostgreSQL
   connection pooler
-- [thevahidal/soul](https://github.com/thevahidal/soul): 🕉 A SQLite REST and
-  realtime server
 - [ankane/pghero](https://github.com/ankane/pghero): A performance dashboard for
   Postgres
 - [wal-g/wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for
@@ -121,3 +119,12 @@
 - [datafold/data-diff](https://github.com/datafold/data-diff): Efficiently diff
   data in or across relational databases
   <https://www.datafold.com/blog/open-source-data-diff>
+
+## In a SQL way
+
+- [thevahidal/soul](https://github.com/thevahidal/soul): 🕉 A SQLite REST and
+  realtime server
+- [splitgraph/seafowl](https://github.com/splitgraph/seafowl): Analytical
+  database for data-driven Web applications <https://seafowl.io/>
+- [osquery/osquery](https://github.com/osquery/osquery): SQL powered operating
+  system instrumentation, monitoring, and analytics. <https://osquery.io/>

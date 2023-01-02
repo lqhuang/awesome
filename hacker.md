@@ -112,6 +112,12 @@
 - [microfeed/microfeed](https://github.com/microfeed/microfeed): a lightweight
   cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents,
   and curated urls. <https://www.microfeed.org/>
+- [wagtail/wagtail](https://github.com/wagtail/wagtail): A Django content
+  management system focused on flexibility and user experience
+  <https://wagtail.org/>
+- [strapi/strapi](https://github.com/strapi/strapi): 🚀 Strapi is the leading
+  open-source headless CMS. It’s 100% JavaScript, fully customizable and
+  developer-first. <https://strapi.io/>
 
 ### macOS / iPadOS
 
@@ -176,11 +182,11 @@
   tool
 - [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative,
   Reproducible, and Composable Developer Environments <https://devenv.sh/>
-- [naiba/nezha](https://github.com/naiba/nezha): :trollface: Self-hosted,
-  lightweight server and website monitoring and O&M tool
-  <https://ops.naibahq.com/>
 - [muety/wakapi](https://github.com/muety/wakapi): 📊 A minimalist, self-hosted
   WakaTime-compatible backend for coding statistics <https://wakapi.dev/>
+- [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter):
+  ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+  <https://dotenv-linter.github.io/>
 
 ## HomeKit / IoT
 

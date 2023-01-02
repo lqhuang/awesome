@@ -55,6 +55,8 @@
 - [openfga/openfga](https://github.com/openfga/openfga): A high performance and
   flexible authorization/permission engine built for developers and inspired by
   Google Zanzibar <https://openfga.dev/>
+- [kanidm/kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure
+  and fast identity management platform
 
 ## Dev tools
 
@@ -97,18 +99,6 @@
 - [netbox-community/netbox](https://github.com/netbox-community/netbox): The
   premiere source of truth powering network automation. Open source under
   Apache 2. <https://netbox.dev/>
-- [Atlassian - statuspage](https://www.atlassian.com/software/statuspage): Build
-  trust with every incident
-- [instatus](https://instatus.com/): A GIANT LEAP FOR STATUS PAGES
-- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy
-  self-hosted monitoring tool <https://uptime.kuma.pet/>
-- [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Free uptime monitor
-  and status page powered by GitHub <https://upptime.js.org/>
-- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages):
-  Awesome list of status page open source software, services and public status
-  pages of major internet companies
-- [getsentry/sentry](https://github.com/getsentry/sentry): Developer-first error
-  tracking and performance monitoring <https://sentry.io/>
 - [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda
   Console is a developer-friendly UI for managing your Kafka/Redpanda workloads.
   Console gives you a simple, interactive approach for gaining visibility into
@@ -126,7 +116,7 @@
   teams. Set-up a real-time data pipeline in minutes, not days
   <https://jitsu.com/>
 
-## Pipelines / Workflow
+### Pipelines / Workflow
 
 - [orchest/orchest](https://github.com/orchest/orchest): Build data pipelines,
   the easy way 🛠️ <https://orchest.io/>
@@ -144,6 +134,43 @@
   scalable, durable, and highly available orchestration engine to execute
   asynchronous long-running business logic in a scalable and resilient way.
   <https://cadenceworkflow.io/>
+
+### Uptime / Monitoring
+
+- [Atlassian - statuspage](https://www.atlassian.com/software/statuspage): Build
+  trust with every incident
+- [instatus](https://instatus.com/): A GIANT LEAP FOR STATUS PAGES
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy
+  self-hosted monitoring tool <https://uptime.kuma.pet/>
+- [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Free uptime monitor
+  and status page powered by GitHub <https://upptime.js.org/>
+- [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages):
+  Awesome list of status page open source software, services and public status
+  pages of major internet companies
+- [naiba/nezha](https://github.com/naiba/nezha): :trollface: Self-hosted,
+  lightweight server and website monitoring and O&M tool
+  <https://ops.naibahq.com/>
+
+### Logging / Metrics / APM
+
+- [keyval-dev/odigos](https://github.com/keyval-dev/odigos): Fix Production
+  Issues Faster 🔎. Get distributed traces, metrics and logs for any application
+  in minutes. No code changes needed! <https://keyval.dev/>
+- [getsentry/sentry](https://github.com/getsentry/sentry): Developer-first error
+  tracking and performance monitoring <https://sentry.io/>
+
+### Logger search and analytics
+
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch):
+  Easy to use open source fast database for search | Good alternative to
+  Elasticsearch now | Drop-in replacement for E in the ELK soon
+  <https://manticoresearch.com/>
+- [parseablehq/parseable](https://github.com/parseablehq/parseable):
+  Lightweight, high performance, cloud native alternative to Elasticsearch.
+  <https://parseable.io/>
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit):
+  Cloud-native search engine for log management & analytics
+  <https://quickwit.io>
 
 ## Build systems
 
@@ -177,16 +204,6 @@
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders):A
   framework for Engineering Managers
 
-## Treading frameworks
-
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch):
-  Easy to use open source fast database for search | Good alternative to
-  Elasticsearch now | Drop-in replacement for E in the ELK soon
-  <https://manticoresearch.com/>
-- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit):
-  Cloud-native search engine for log management & analytics
-  <https://quickwit.io>
-
 ## Modern Data Stack
 
 - [现代数据栈: 一些深入的思考](https://zhuanlan.zhihu.com/p/551722728): ETL ->
@@ -208,9 +225,3 @@
 - [apache/superset](https://github.com/apache/superset): Apache Superset is a
   Data Visualization and Data Exploration Platform
   <https://superset.apache.org/>
-
-## Logging / Metrics / APM
-
-- [keyval-dev/odigos](https://github.com/keyval-dev/odigos): Fix Production
-  Issues Faster 🔎. Get distributed traces, metrics and logs for any application
-  in minutes. No code changes needed! <https://keyval.dev/>
