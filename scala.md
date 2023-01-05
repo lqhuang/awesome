@@ -27,6 +27,11 @@
 
 - [reibitto/be-kind-rewind](https://github.com/reibitto/be-kind-rewind): A VCR
   testing library for Scala
+- [disneystreaming/weaver-test](https://github.com/disneystreaming/weaver-test):
+  A test framework that runs everything in parallel.
+  <https://disneystreaming.github.io/weaver-test/>
+- [etorreborre/specs2](https://github.com/etorreborre/specs2):Software
+  Specifications for Scala <https://etorreborre.github.io/specs2/>
 
 ## Featured
 
