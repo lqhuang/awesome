@@ -26,6 +26,8 @@
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs): Automatically
   set GOMAXPROCS to match Linux container CPU quota.
   <https://godoc.org/go.uber.org/automaxprocs>
+- [chainguard-images/images](https://github.com/chainguard-images/images):
+  Public Chainguard Images <https://chainguard.dev/chainguard-images>
 
 ## Routing
 
@@ -44,8 +46,6 @@
   Python pathlib-style classes for cloud storage services such as Amazon S3,
   Azure Blob Storage, and Google Cloud Storage.
   <https://cloudpathlib.drivendata.org>
-- [benbjohnson/litestream](https://github.com/benbjohnson/litestream): Streaming
-  replication for SQLite. <https://litestream.io/>
 - [supabase/supabase](https://github.com/supabase/supabase): The open source
   Firebase alternative. Follow to stay updated about our public Beta.
   <https://supabase.com/>

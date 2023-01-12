@@ -340,6 +340,9 @@
   utility and library for manipulating SQLite databases
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka): Open source
   SQL engine in Python <https://marsupialtail.github.io/quokka/>
+- [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py):
+  Prisma Client Python is an auto-generated and fully type-safe database client
+  designed for ease of use <https://prisma-client-py.readthedocs.io/>
 
 ### API clients
 
@@ -526,6 +529,9 @@
   tabular data in a visually appealing ASCII table format
 - [reloadware/reloadium](https://github.com/reloadware/reloadium): Advanced Hot
   Reloading & Profiling for Python <https://reloadium.io/>
+- [wireservice/csvkit](https://github.com/wireservice/csvkit): A suite of
+  utilities for converting to and working with CSV, the king of tabular file
+  formats. <http://csvkit.rtfd.org/>
 
 ### Visualization
 

@@ -1,5 +1,11 @@
 # Scala
 
+## Resources
+
+### Reading
+
+- [A practical guide to error handling in Scala Cats and Cats Effect](https://softwaremill.com/practical-guide-to-error-handling-in-scala-cats-and-cats-effect/)
+
 ## Master these you rule the world
 
 - [akka/akka](https://github.com/akka/akka): Build highly concurrent,
@@ -165,10 +171,6 @@
   location transparency for Scala <https://devsisters.github.io/shardcake/>
 - [dream11/zio-http](https://github.com/dream11/zio-http): A scala library to
   write Http apps. <https://dream11.github.io/zio-http>
-- [softwaremill/saft](https://github.com/softwaremill/saft): An implementation
-  of the Raft consensus algorithm, using the Scala language and a functional
-  effect system (zio). Currently, the goal of this project is educational, not
-  production usage.
 
 ## Stream / Effect systems / Experiments
 

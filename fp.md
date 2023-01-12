@@ -16,6 +16,7 @@
   the existing Haskell ecosystem.
 - [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress
   effect system for Haskell 🚧
+- [Effect Handlers for WebAssembly](https://wasmfx.dev/)
 
 ## PL
 

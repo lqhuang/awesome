@@ -12,6 +12,9 @@
   <https://highassurance.rs/>
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book): The Rust
   Performance Book
+- [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks):
+  Code examples, data structures, and links from my book, Rust Atomics and
+  Locks. <https://marabos.nl/atomics/>
 
 ## Readings / Tutorials
 
@@ -187,6 +190,9 @@
   synchronization primitives
 - [mitsuhiko/fragile](https://github.com/mitsuhiko/fragile): Utility wrapper to
   send non send types to other threads safely
+- [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot): Compact and
+  efficient synchronization primitives for Rust. Also provides an API for
+  creating custom synchronization primitives.
 
 ### Async IO
 
@@ -200,6 +206,9 @@
   backed runtime for Rust
 - [nbdd0121/stackful](https://github.com/nbdd0121/stackful): Free conversion
   between async and sync in Rust
+- [DataDog/glommio](https://github.com/DataDog/glommio): Glommio is a
+  thread-per-core crate that makes writing highly parallel asynchronous
+  applications in a thread-per-core architecture easier for rustaceans.
 
 ### Futures
 
@@ -272,6 +281,8 @@
   double-array trie in Rust (ported from cedar)
 - [hawkw/sharded-slab](https://github.com/hawkw/sharded-slab): a lock-free
   concurrent slab (experimental)
+- [Amanieu/intrusive-rs](https://github.com/Amanieu/intrusive-rs): Intrusive
+  collections for Rust
 
 ### CRDT
 
@@ -400,6 +411,8 @@
   replacement written in Rust
 - [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs): DEFLATE, gzip,
   and zlib bindings for Rust
+- [assert-rs/trycmd](https://github.com/assert-rs/trycmd): Snapshot testing for
+  a herd of CLI tests
 
 ## Domain related
 

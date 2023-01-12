@@ -5,6 +5,8 @@
 ### Entry level tutorials
 
 - [Enhance your Postgres skills](https://www.crunchydata.com/developers/tutorials)
+- [Generating lots of test data with Postgres, fast and faster](https://kmoppel.github.io/2022-12-23-generating-lots-of-test-data-with-postgres-fast-and-faster/)
+- [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
 
 ### Books
 
@@ -15,6 +17,8 @@
 
 - [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational
   Database Management System (Educational) <https://15445.courses.cs.cmu.edu/>
+- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight): An
+  OLAP database system for educational purpose
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb): Distributed SQL
   database in Rust, written as a learning project
 
@@ -45,6 +49,10 @@
   financial accounting database designed for mission critical safety and
   performance to power the future of financial services.
   <https://www.tigerbeetle.com/>
+- [superfly/litefs](https://github.com/superfly/litefs): FUSE-based file system
+  for replicating SQLite databases across a cluster of machines
+- [benbjohnson/litestream](https://github.com/benbjohnson/litestream): Streaming
+  replication for SQLite. <https://litestream.io/>
 
 ### Timeseries & Graph
 
@@ -94,6 +102,8 @@
   Production PostgreSQL for Kubernetes, from high availability Postgres clusters
   to full-scale database-as-a-service.
   <https://access.crunchydata.com/documentation/postgres-operator/v5/>
+- [sorintlab/stolon](https://github.com/sorintlab/stolon): PostgreSQL cloud
+  native High Availability and more. <https://talk.stolon.io/>
 
 ## DBA
 

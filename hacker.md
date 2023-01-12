@@ -91,12 +91,17 @@
   for reading research papers and technical books. <https://sioyek.info/>
 - [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely
   encrypted backups in the cloud!
+- [borgbackup/borg](https://github.com/borgbackup/borg): Deduplicating archiver
+  with compression and authenticated encryption. <https://www.borgbackup.org/>
 - [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by
   GitHub Discussions. :octocat: 💬 💎 <https://giscus.app/>
 - [djyde/cusdis](https://github.com/djyde/cusdis): lightweight, privacy-friendly
   alternative to Disqus. <https://cusdis.com/>
 - [Pixcall](https://pixcall.com/): 助力个人和团队以更好的方式管理图片、视频、文
   档等数字资产
+- [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists):
+  Check if an email address exists without sending any email, written in Rust.
+  Comes with a ⚙️ HTTP backend. <https://reacher.email/>
 
 ### Self-hosted
 
@@ -118,6 +123,8 @@
 - [strapi/strapi](https://github.com/strapi/strapi): 🚀 Strapi is the leading
   open-source headless CMS. It’s 100% JavaScript, fully customizable and
   developer-first. <https://strapi.io/>
+- [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered
+  Photos App for the Decentralized Web 🌈💎✨ <https://photoprism.app/>
 
 ### macOS / iPadOS
 
@@ -187,6 +194,8 @@
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter):
   ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
   <https://dotenv-linter.github.io/>
+- [tstack/lnav](https://github.com/tstack/lnav): Log file navigator
+  <http://lnav.org/>
 
 ## HomeKit / IoT
 

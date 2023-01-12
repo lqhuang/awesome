@@ -19,6 +19,8 @@
 
 ## Components library
 
+### Framework library
+
 - [nextui-org/nextui](https://github.com/nextui-org/nextui): 🚀 Beautiful, fast
   and modern React UI library. <https://nextui.org>
 - [mantinedev/mantine](https://github.com/mantinedev/mantine/): React components
@@ -45,14 +47,23 @@
   diagrams
 - [oslabs-beta/Svelvet](https://github.com/oslabs-beta/Svelvet): A lightweight
   Svelte component library for building interactive node-based flow diagrams
+- [lit/lit](https://github.com/lit/lit/): Lit is a simple library for building
+  fast, lightweight web components. <https://lit.dev/>
+
+### Components
+
 - [tabler/tabler](https://github.com/tabler/tabler): Tabler is free and
   open-source HTML Dashboard UI Kit built on Bootstrap
   <https://preview.tabler.io/>
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements):
   𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for
   commercial use <https://tailwind-elements.com/>
-- [lit/lit](https://github.com/lit/lit/): Lit is a simple library for building
-  fast, lightweight web components. <https://lit.dev/>
+- [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template):
+  Simple Light is a free landing page template built on top of TailwindCSS and
+  fully coded in React. <https://simple.cruip.com/>
+- [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for
+  building powerful tables & datagrids for TS/JS - React-Table, Vue-Table,
+  Solid-Table, Svelte-Table <https://tanstack.com/table>
 
 ## Channel
 
@@ -115,6 +126,8 @@
   Turborepo and Turbopack. <https://turbo.build>
 - [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm
   scripts to make them smarter and more efficient.
+- [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js):
+  quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com/>
 
 ## Toolchains
 

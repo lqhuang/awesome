@@ -53,6 +53,8 @@
   configuration generator.
 - [traviscross/mtr](https://github.com/traviscross/mtr): Official repository for
   mtr, a network diagnostic tool <http://www.bitwizard.nl/mtr/>
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Cross-platform
+  application to monitor your network traffic with ease
 
 ## DNS
 

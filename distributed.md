@@ -11,6 +11,9 @@
   A list of papers about distributed consensus.
   <https://heidihoward.github.io/distributed-consensus-reading-list/>
 - [CS525 UIUC SP21: Reading List](https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/)
+- [Flexible Paxos](https://fpaxos.github.io/): Flexible Paxos is the simple
+  observation that it is not necessary to require all quorums in Paxos to
+  intersect.
 
 ## System
 
@@ -22,6 +25,8 @@
 - [hypertrace/hypertrace](https://github.com/hypertrace/hypertrace): An open
   source distributed tracing & observability platform
   <https://www.hypertrace.org/>
+- [lnx-search/datacake](https://github.com/lnx-search/datacake): Tooling for
+  creating your own distributed systems.
 
 ## Actor
 
@@ -31,6 +36,8 @@
   framework for Rust based on asynchronous functions.
 - [goodboy/tractor](https://github.com/goodboy/tractor): structured concurrent,
   Python parallelism <https://tractor.readthedocs.io/>
+- [Chumper/pyctor](https://github.com/Chumper/pyctor): A Python Actor Framework
+  based on trio
 - [starcoinorg/xtor](https://github.com/starcoinorg/xtor): async actor framework
 - [ShisoftResearch/bifrost](https://github.com/ShisoftResearch/bifrost): Pure
   rust building block for distributed systems
@@ -77,6 +84,12 @@
   with improvements
 - [carllerche/mini-raft](https://github.com/carllerche/mini-raft): An
   implementation of Raft in Rust.
+- [zowens/paxos-rs](https://github.com/zowens/paxos-rs): Paxos implementation in
+  Rust
+- [softwaremill/saft](https://github.com/softwaremill/saft): An implementation
+  of the Raft consensus algorithm, using the Scala language and a functional
+  effect system (zio). Currently, the goal of this project is educational, not
+  production usage.
 
 ## Correctness
 

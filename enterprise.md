@@ -57,6 +57,9 @@
   Google Zanzibar <https://openfga.dev/>
 - [kanidm/kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure
   and fast identity management platform
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer
+  是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
+  <http://www.jumpserver.org/>
 
 ## Dev tools
 
@@ -104,6 +107,12 @@
   Console gives you a simple, interactive approach for gaining visibility into
   your topics, masking data, managing consumer groups, and exploring real-time
   data with time-travel debugging.
+- [aiven/karapace](https://github.com/aiven/karapace): Karapace - Your Apache
+  Kafka® essentials in one tool <https://karapace.io/>
+- [aiven/klaw](https://github.com/aiven/klaw): Klaw, the latest OS tool by
+  Aiven, helps enterprises cope with Apache Kafka(r) topics, schema registry and
+  connectors governance by introducing roles/authorizations to users of various
+  teams of an org. <https://www.klaw-project.io/>
 - [novuhq/novu](https://github.com/novuhq/novu): 🚀 The open-source
   notifications infrastructure. A fully-featured microservice to send SMS,
   E-mail, Slack and Push notifications. Embeddable notification center for React
@@ -225,3 +234,6 @@
 - [apache/superset](https://github.com/apache/superset): Apache Superset is a
   Data Visualization and Data Exploration Platform
   <https://superset.apache.org/>
+- [usefathom/fathom](https://github.com/usefathom/fathom): Fathom Lite. Simple,
+  privacy-focused website analytics. Built with Golang & Preact.
+  <https://usefathom.com/>

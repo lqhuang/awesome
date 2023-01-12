@@ -27,6 +27,7 @@
   A curated list of Smart Contract Security materials and resources For
   Researchers
 - [I Looked Into 34 Top Real-World Blockchain Projects So You Don’t Have To](https://weh.wtf/34-blockchain-projects.html)
+- [DApp 构建指南 —— 01 准备篇](https://caos.me/dapp--01)
 
 ## On-chain analysis
 

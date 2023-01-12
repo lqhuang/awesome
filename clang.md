@@ -14,6 +14,8 @@ Though Cpp definitely is not Clang, I still put them here without new page.
 - [nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning):
   learn how to use BPF/eBPF
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
+- [C++ reference](https://en.cppreference.com/w/)
+- [C reference](https://en.cppreference.com/w/c)
 
 ### Books
 
@@ -32,6 +34,8 @@ Though Cpp definitely is not Clang, I still put them here without new page.
   《Modern CMake for C++》的非专业个人翻译
 - [Cpp-Club/Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh): Chinese
   translation of Bjarne Stroustrup's HOPL4 paper
+- [Learn C++](https://www.learncpp.com/): LearnCpp.com is a free website devoted
+  to teaching you how to program in C++.
 
 ## Debug
 

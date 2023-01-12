@@ -10,6 +10,8 @@ more like a toolbox for myself.
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier): Fast
   cross-platform HTTP benchmarking tool written in Go
 - [wg/wrk](https://github.com/wg/wrk): Modern HTTP benchmarking tool
+- [lnx-search/rewrk](https://github.com/lnx-search/rewrk): A more modern http
+  framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks.
 - [parca-dev/parca](https://github.com/parca-dev/parca): Continuous profiling
   for analysis of CPU and memory usage, down to the line number and throughout
   time. Saving infrastructure cost, improving performance, and increasing
@@ -52,6 +54,9 @@ more like a toolbox for myself.
   length-agnostic SIMD with runtime dispatch
 - [scylladb/seastar](https://github.com/scylladb/seastar): High performance
   server-side application framework <http://seastar.io/>
+- [mratsim/weave](https://github.com/mratsim/weave): A state-of-the-art
+  multithreading runtime: message-passing based, fast, scalable, ultra-low
+  overhead
 - [userver-framework/userver](https://github.com/userver-framework/userver): The
   C++ Asynchronous Framework (beta) <https://userver.tech/>
 - [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A
