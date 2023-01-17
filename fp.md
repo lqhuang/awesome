@@ -17,6 +17,8 @@
 - [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress
   effect system for Haskell 🚧
 - [Effect Handlers for WebAssembly](https://wasmfx.dev/)
+- [JeanHuguesdeRaigniac/effects-landscape](https://github.com/JeanHuguesdeRaigniac/effects-landscape):
+  Effects libraries in Haskell
 
 ## PL
 
@@ -63,6 +65,8 @@
   <http://shakebuild.com/>
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell):
   Maintainable configuration files <https://dhall-lang.org/>
+- [diagrams/diagrams](https://github.com/diagrams/diagrams): Embedded
+  domain-specific language for declarative vector graphics (wrapper package)
 
 ## Typescript
 

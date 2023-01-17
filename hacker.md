@@ -262,11 +262,6 @@
 
 - [jgm/djot](https://github.com/jgm/djot): A light markup language
   <https://djot.net/>
-- [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid): A collection of
-  cheatsheets for using Mermaid diagrams on GitHub and elsewhere
-- [terrastruct/d2](https://github.com/terrastruct/d2): D2 is a modern diagram
-  scripting language that turns text to diagrams. <https://d2lang.com/>
-  <https://blog.jakelee.co.uk/using-mermaid-for-diagrams-on-github/>
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation):
   中国程序员容易发音错误的单词 <https://cpwp.netlify.app/>
 - [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English):
@@ -280,6 +275,30 @@
   <https://qwerty.kaiyi.cool/>
 - [zhaoolee/ins](https://github.com/zhaoolee/ins): 🍭 互联网从业者的灵感数据库，
   无广告，Github Actions 自动检测网站访问速度
+
+### Code as Graph
+
+- [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid): A collection of
+  cheatsheets for using Mermaid diagrams on GitHub and elsewhere
+- [terrastruct/d2](https://github.com/terrastruct/d2): D2 is a modern diagram
+  scripting language that turns text to diagrams. <https://d2lang.com/>
+  <https://blog.jakelee.co.uk/using-mermaid-for-diagrams-on-github/>
+- [sonyxperiadev/dataflow](https://github.com/sonyxperiadev/dataflow): Render
+  graphs using a declarative markup.
+  <https://hackage.haskell.org/package/dataflow>
+- [structurizr](https://github.com/structurizr): Visualise and document your
+  software architecture with the C4 model <https://structurizr.com/>
+- [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML):
+  C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a
+  simple way of describing and communicate software architectures
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams): 🎨 Diagram as
+  Code for prototyping cloud system architectures
+  <https://diagrams.mingrammer.com/>
+- [yuzutech/kroki](https://github.com/yuzutech/kroki): Creates diagrams from
+  textual descriptions! <https://kroki.io/>
+- [penrose/penrose](https://github.com/penrose/penrose): Create beautiful
+  diagrams just by typing mathematical notation in plain text.
+  <https://penrose.cs.cmu.edu/>
 
 ## Security / Privacy
 

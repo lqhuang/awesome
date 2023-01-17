@@ -513,9 +513,6 @@
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui): Python TUI
   framework with mouse support, modular widget system, customizable and rapid
   terminal markup language and more! <https://ptg.bczsalba.com/>
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams): 🎨 Diagram as
-  Code for prototyping cloud system architectures
-  <https://diagrams.mingrammer.com/>
 - [adamchainz/patchy](https://github.com/adamchainz/patchy): ⚓ Patch the inner
   source of python functions at runtime.
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress): A new
