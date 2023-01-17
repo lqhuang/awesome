@@ -64,6 +64,9 @@
   <https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/>
 - [R9295/panoptisch](https://github.com/R9295/panoptisch): A recursive
   dependency scanner for Python projects
+- [copier-org/copier](https://github.com/copier-org/copier/): Library and
+  command-line utility for rendering projects templates.
+  <https://readthedocs.org/projects/copier/>
 
 ### Docs
 
@@ -191,6 +194,8 @@
   standard library `datetime` that supplies stricter checks, such as making
   'datetime' not substitutable for 'date', and separating out Naive and Aware
   datetimes into separate, mutually-incompatible types.
+- [sqlalchemy/sqlalchemy2-stubs](https://github.com/sqlalchemy/sqlalchemy2-stubs):
+  PEP-484 typing stubs for SQLAlchemy 1.4
 
 ### Featured
 
@@ -308,6 +313,8 @@
 - [lepture/authlib](https://github.com/lepture/authlib): The ultimate Python
   library in building OAuth, OpenID Connect clients and servers.
   JWS,JWE,JWK,JWA,JWT included. <https://authlib.org/>
+- [mpdavis/python-jose](https://github.com/mpdavis/python-jose): A JOSE
+  implementation in Python
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py):
   Bringing WebSockets, Http/Https High Peformance servers for PyPy3 and Python3
 - [starlite-api/starlite](https://github.com/starlite-api/starlite): Light,
@@ -319,6 +326,8 @@
   framework for Python <https://www.neoteroi.dev/blacksheep/>
 - [preludeorg/vertebrae](https://github.com/preludeorg/vertebrae): A
   security-focused app framework for Python micro services
+- [sansyrox/robyn](https://github.com/sansyrox/robyn): Robyn is a fast and
+  extensible async python web server with a rust runtime <https://robyn.tech/>
 
 ### DB clients and SQL utils
 
@@ -343,6 +352,8 @@
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py):
   Prisma Client Python is an auto-generated and fully type-safe database client
   designed for ease of use <https://prisma-client-py.readthedocs.io/>
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic): A database
+  migrations tool for SQLAlchemy.
 
 ### API clients
 
@@ -369,6 +380,12 @@
   for RAII-style memory management
 - [glyph/automat](https://github.com/glyph/automat): Self-service finite-state
   machines for the programmer on the go.
+- [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers):
+  Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
+  <http://www.grantjenks.com/docs/sortedcontainers/>
+- [GraiaProject/BroadcastControl](https://github.com/GraiaProject/BroadcastControl):
+  a high performance, highly customizable, elegantly designed event system based
+  on asyncio
 
 ### Utils
 
@@ -464,15 +481,6 @@
 - [agronholm/cbor2](https://github.com/agronholm/cbor2): Pure Python CBOR
   (de)serializer with extensive tag support
 
-### Parsers
-
-- [Instagram/LibCST](https://github.com/Instagram/LibCST): A concrete syntax
-  tree parser and serializer library for Python that preserves many aspects of
-  Python's abstract syntax tree
-- [lepture/mistune](https://github.com/lepture/mistune): A fast yet powerful
-  Python Markdown parser with renderers and plugins.
-  <http://mistune.readthedocs.io/>
-
 ### Logging
 
 - [microsoft/picologging](https://github.com/microsoft/picologging): An
@@ -496,6 +504,16 @@
 - [exaloop/codon](https://github.com/exaloop/codon): A high-performance,
   zero-overhead, extensible Python compiler using LLVM
   <https://docs.exaloop.io/codon>
+
+### Parsers
+
+- [Instagram/LibCST](https://github.com/Instagram/LibCST): A concrete syntax
+  tree parser and serializer library for Python that preserves many aspects of
+  Python's abstract syntax tree
+- [lepture/mistune](https://github.com/lepture/mistune): A fast yet powerful
+  Python Markdown parser with renderers and plugins.
+  <http://mistune.readthedocs.io/>
+- [dabeaz/sly](https://github.com/dabeaz/sly): Sly Lex Yacc
 
 ## Misc
 

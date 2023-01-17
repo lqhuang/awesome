@@ -363,6 +363,8 @@
   implementation for the Rust Language
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json): Rust port of
   simdjson
+- [PSeitz/serde_json_borrow](https://github.com/PSeitz/serde_json_borrow): Fast
+  JSON deserialization on borrowed data
 
 ### Parser combinators
 

@@ -89,13 +89,18 @@
 - [turbot/steampipe](https://github.com/turbot/steampipe): Use SQL to instantly
   query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB
   required. <https://steampipe.io/>
-- [bytebase/dbcost](https://github.com/bytebase/dbcost): The simple pricing
-  calculator and comparison tool for the cloud databases.
-  <https://www.dbcost.com/>
 - [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra): pyinfra automates
   infrastructure super fast at massive scale. It can be used for ad-hoc command
   execution, service deployment, configuration management and more.
   <https://pyinfra.com/>
+
+## Pricing
+
+- [bytebase/dbcost](https://github.com/bytebase/dbcost): The simple pricing
+  calculator and comparison tool for the cloud databases.
+  <https://www.dbcost.com/>
+- [uselotus/lotus](https://github.com/uselotus/lotus): Open Source Pricing &
+  Packaging Infrastructure <https://www.uselotus.io/>
 
 ## Utils
 

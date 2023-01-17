@@ -78,6 +78,13 @@ Though Cpp definitely is not Clang, I still put them here without new page.
   and numbers for estimating system's performance from first-principles
   <https://www.youtube.com/watch?v=IxkSlnrRFqc>
 
+## OS level
+
+- [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie): An
+  educational software system of a tiny self-compiling C compiler, a tiny
+  self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
+  <http://selfie.cs.uni-salzburg.at/>
+
 ## System programming
 
 - [google/brotli](https://github.com/google/brotli): Brotli compression format
