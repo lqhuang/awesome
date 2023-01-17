@@ -191,6 +191,12 @@
 - [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build
   system with a focus on speed <https://ninja-build.org/>
 
+### GitHub Action
+
+- [docker/metadata-action](https://github.com/docker/metadata-action): GitHub
+  Action to extract metadata (tags, labels) from Git reference and GitHub events
+  for Docker
+
 ## Pub/Sub
 
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh): zenoh unifies
@@ -210,13 +216,11 @@
 
 ## How te a leader
 
-- [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders):A
+- [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders): A
   framework for Engineering Managers
 
 ## Modern Data Stack
 
-- [现代数据栈: 一些深入的思考](https://zhuanlan.zhihu.com/p/551722728): ETL ->
-  ELT
 - [dbt](https://www.getdbt.com/): Transforming data. Transforming teams. dbt™
   helps data teams work like software engineers—to ship trusted data, faster.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence): Evidence

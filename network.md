@@ -25,6 +25,9 @@
 
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun): Userspace
   WireGuard® Implementation in Rust
+- [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap): the
+  LIBpcap interface to various kernel packet capture mechanism
+  <https://www.tcpdump.org/>
 
 ## Tools
 
@@ -39,22 +42,22 @@
   <https://www.bettercap.org/>
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL,
   but for gRPC: Command-line tool for interacting with gRPC servers
-- [ekzhang/bore](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool
-  for making tunnels to localhost <http://bore.pub/>
 - [beyondcode/expose](https://github.com/beyondcode/expose): A beautiful, fully
   open-source, tunneling service - written in pure PHP <https://expose.dev/>
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl): Hurl, run
   and test HTTP requests with plain text. <https://hurl.dev/>
-- [googleforgames/quilkin](https://github.com/googleforgames/quilkin): Quilkin
-  is a non-transparent UDP proxy specifically designed for use with large scale
-  multiplayer dedicated game server deployments, to ensure security, access
-  control, telemetry data, metrics and more.
 - [wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full mesh
   configuration generator.
 - [traviscross/mtr](https://github.com/traviscross/mtr): Official repository for
   mtr, a network diagnostic tool <http://www.bitwizard.nl/mtr/>
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Cross-platform
   application to monitor your network traffic with ease
+- [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng): A Swiss
+  army knife for your daily Linux network plumbing. <http://netsniff-ng.org/>
+- [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump): the
+  TCPdump network dissector <https://www.tcpdump.org/>
+- [droe/sslsplit](https://github.com/droe/sslsplit): Transparent SSL/TLS
+  interception <https://www.roe.ch/SSLsplit>
 
 ## DNS
 
@@ -85,6 +88,12 @@
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go):
   An experiment in scalable routing as an encrypted IPv6 overlay network
   <https://yggdrasil-network.github.io/>
+- [googleforgames/quilkin](https://github.com/googleforgames/quilkin): Quilkin
+  is a non-transparent UDP proxy specifically designed for use with large scale
+  multiplayer dedicated game server deployments, to ensure security, access
+  control, telemetry data, metrics and more.
+- [ekzhang/bore](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool
+  for making tunnels to localhost <http://bore.pub/>
 
 ### Mesh network
 
