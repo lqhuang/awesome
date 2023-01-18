@@ -94,6 +94,8 @@ Though Cpp definitely is not Clang, I still put them here without new page.
   in-place stable adaptive rotate mergesort / quicksort.
 - [Blosc/c-blosc2](https://github.com/Blosc/c-blosc2): A fast, compressed,
   persistent binary data store library for C. <https://www.blosc.org/>
+- [NVIDIA/thrust](https://github.com/NVIDIA/thrust): The C++ parallel algorithms
+  library.
 
 ## ???
 

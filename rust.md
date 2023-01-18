@@ -115,6 +115,8 @@
   structured data from arbitrary, unstructured input.
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin): A code coverage
   tool for Rust projects
+- [rust-analyzer/expect-test](https://github.com/rust-analyzer/expect-test):
+  Minimalistic snapshot testing for Rust.
 
 ### Performance profile
 
@@ -354,6 +356,16 @@
   native Rust types
 - [dtolnay/efg](https://github.com/dtolnay/efg): Conditional compilation using
   boolean expression syntax, rather than any(), all(), not()
+
+## Middleware
+
+- [eclipse-iceoryx/iceoryx](https://github.com/eclipse-iceoryx/iceoryx): Eclipse
+  iceoryx™ - true zero-copy inter-process-communication <https://iceoryx.io/>
+- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh): zenoh unifies
+  data in motion, data in-use, data at rest and computations. It carefully
+  blends traditional pub/sub with geo-distributed storages, queries and
+  computations, while retaining a level of time and space efficiency that is
+  well beyond any of the mainstream stacks. <https://zenoh.io/>
 
 ### SerDe
 

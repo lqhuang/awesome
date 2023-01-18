@@ -27,6 +27,9 @@
   <https://www.hypertrace.org/>
 - [lnx-search/datacake](https://github.com/lnx-search/datacake): Tooling for
   creating your own distributed systems.
+- [dora-rs/dora](https://github.com/dora-rs/dora): dora goal is to be a low
+  latency, composable, and distributed data flow.
+  <https://dora-rs.github.io/dora>
 
 ## Actor
 

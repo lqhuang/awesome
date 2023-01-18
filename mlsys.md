@@ -33,11 +33,18 @@
   makes low-latency and high-throughput inference possible, powered by
   DeepSpeed.
 
-## Compiler
+## Compiler / Low level
 
 - [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler stack
   for cpu, gpu and specialized accelerators <https://tvm.apache.org/>
-- (https://github.com/openai/triton):
+- [openai/triton](https://github.com/openai/triton): Development repository for
+  the Triton language and compiler
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass): CUDA Templates for Linear
+  Algebra Subroutines
+- [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT): NVIDIA® TensorRT™, an
+  SDK for high-performance deep learning inference, includes a deep learning
+  inference optimizer and runtime that delivers low latency and high throughput
+  for inference applications. <https://developer.nvidia.com/tensorrt>
 
 ## Autodiff
 

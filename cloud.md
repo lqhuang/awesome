@@ -93,6 +93,9 @@
   infrastructure super fast at massive scale. It can be used for ad-hoc command
   execution, service deployment, configuration management and more.
   <https://pyinfra.com/>
+- [pulumi/pulumi](https://github.com/pulumi/pulumi): Pulumi - Universal
+  Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+  <https://www.pulumi.com/>
 
 ## Pricing
 

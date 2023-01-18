@@ -197,14 +197,6 @@
   Action to extract metadata (tags, labels) from Git reference and GitHub events
   for Docker
 
-## Pub/Sub
-
-- [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh): zenoh unifies
-  data in motion, data in-use, data at rest and computations. It carefully
-  blends traditional pub/sub with geo-distributed storages, queries and
-  computations, while retaining a level of time and space efficiency that is
-  well beyond any of the mainstream stacks. <https://zenoh.io/>
-
 ## Audit
 
 - [libyear](https://libyear.com/): A **simple** measure of software dependency
