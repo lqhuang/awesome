@@ -65,3 +65,6 @@ more like a toolbox for myself.
   Library for Parallelism and Concurrency <https://hpx.stellar-group.org/>
 - [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A
   high-performance, concurrent hash table
+- [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd): C++ wrappers
+  for SIMD intrinsics and parallelized, optimized mathematical functions (SSE,
+  AVX, AVX512, NEON, SVE))

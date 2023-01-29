@@ -1,5 +1,22 @@
 # Research
 
+## Resources
+
+- [dair-ai/ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained):
+  Explanation to key concepts in ML
+- [ascendho/Linear-Algebra-and-Its-Applications](https://github.com/ascendho/Linear-Algebra-and-Its-Applications):
+  Linear Algebra and Its Application(5th version)《线性代数及其应用》案例学习、
+  项目、应用、练习题、代码、笔记、教材等
+  <https://ascendho.github.io/Linear-Algebra-and-Its-Applications/>
+- [illustrated-machine-learning/illustrated-machine-learning.github.io](https://github.com/illustrated-machine-learning/illustrated-machine-learning.github.io):
+  Website containing illustrations about Machine Learning theory!
+  <https://illustrated-machine-learning.github.io/>
+- [soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet):
+  Classical equations and diagrams in machine learning <http://soulmachine.me/>
+- [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows):
+- [francois-rozet/zuko](https://github.com/francois-rozet/zuko): Normalizing
+  flows in PyTorch <https://zuko.readthedocs.io/>
+
 ## Graph
 
 - [rapidsai/cugraph](https://github.com/rapidsai/cugraph): cuGraph - RAPIDS

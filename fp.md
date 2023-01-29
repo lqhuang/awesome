@@ -7,6 +7,10 @@
 - [Steve Awodey's GitHub pages](https://awodey.github.io/): _Homotopy Type
   Theory: Univalent Foundations of Mathematics_ and _Category Theory_
 
+### Resources
+
+- [stevana/armstrong-distributed-systems](https://github.com/stevana/armstrong-distributed-systems)
+
 ## Effect system
 
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio):Effects-based

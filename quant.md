@@ -1,5 +1,12 @@
 # Quant
 
+## Resources
+
+- [wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading):
+  A curated list of insanely awesome libraries, packages and resources for
+  systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化
+  交易 | 量化投资 <https://wangzhe3224.github.io/awesome-systematic-trading>
+
 ## Frameworks
 
 - [Blankly-Finance/Blankly](https://github.com/Blankly-Finance/Blankly): 🚀 💸
@@ -13,6 +20,9 @@
   Python-based development platform for automated trading systems - from
   backtesting to optimisation to livetrading.
   <https://kieran-mackle.github.io/AutoTrader/>
+- [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade):
+  An open source reinforcement learning framework for training, evaluating, and
+  deploying robust trading agents. <https://discord.gg/ZZ7BGWh>
 - [lballabio/QuantLib](https://github.com/lballabio/QuantLib): The QuantLib C++
   library <http://quantlib.org/>
 - [enthought/pyql](https://github.com/enthought/pyql): Cython QuantLib wrappers
@@ -83,6 +93,9 @@
 - [federicomariamassari/willowtree](https://github.com/federicomariamassari/willowtree):
   Robust and flexible Python implementation of the willow tree lattice for
   derivatives pricing.
+- [bukosabino/ta](https://github.com/bukosabino/ta): Technical Analysis Library
+  using Pandas and Numpy
+  <https://technical-analysis-library-in-python.readthedocs.io/en/latest/>
 
 ## API
 
@@ -95,3 +108,16 @@
 - [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): This
   is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices,
   Currencies, Cryptocurrencies and Money Markets.
+- [bmoscon/cryptofeed](https://github.com/bmoscon/cryptofeed): Cryptocurrency
+  Exchange Websocket Data Feed Handler
+
+## Low level library
+
+- [databento/dbz](https://github.com/databento/dbz): Databento Binary Encoding
+  (DBZ) - Fast message encoding and storage format for market data
+
+## Timeseries
+
+- [benibaeumle/Learning-Shapelets](https://github.com/benibaeumle/Learning-Shapelets):
+  A PyTorch implementation of learning shapelets from the paper Grabocka et al.,
+  „Learning Time-Series Shapelets“.

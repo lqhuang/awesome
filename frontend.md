@@ -49,6 +49,8 @@
   Svelte component library for building interactive node-based flow diagrams
 - [lit/lit](https://github.com/lit/lit/): Lit is a simple library for building
   fast, lightweight web components. <https://lit.dev/>
+- [daisyui/react-daisyui](https://github.com/daisyui/react-daisyui): daisyUI
+  components built with React 🌼
 
 ### Components
 
@@ -64,6 +66,19 @@
 - [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for
   building powerful tables & datagrids for TS/JS - React-Table, Vue-Table,
   Solid-Table, Svelte-Table <https://tanstack.com/table>
+
+### CSS Style
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui): ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
+   The most popular, free and open-source Tailwind CSS component library
+  <https://daisyui.com/>
+- [andybrewer/mvp](https://github.com/andybrewer/mvp/): MVP.css — Minimalist
+  classless CSS stylesheet for HTML elements <https://andybrewer.github.io/mvp/>
+- [Mokshit06/typewind](https://github.com/Mokshit06/typewind): The safety of
+  Typescript with the magic of Tailwind. <https://typewind.vercel.app/>
+- [macaron-css/macaron](https://github.com/macaron-css/macaron): Typesafe
+  CSS-in-JS with zero runtime, colocation, maximum safety and productivity
+  <https://macaron.js.org/>
 
 ## Channel
 

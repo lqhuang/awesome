@@ -15,6 +15,9 @@
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python):
   Practical Python Programming (course by @dabeaz)
   <https://dabeaz-course.github.io/practical-python>
+- [pypackaging-native/pypackaging-native](https://github.com/pypackaging-native/pypackaging-native):
+  A collection of content about key Python packaging topics and issues for
+  projects using native code <https://pypackaging-native.github.io/>
 
 ## Future?
 
@@ -243,8 +246,6 @@
   rounding floats and complex numbers in complex Python objects.
 - [matthewwardrop/formulaic](https://github.com/matthewwardrop/formulaic): A
   high-performance implementation of Wilkinson formulas for Python.
-- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations):
-  Always know what to expect from your data. <https://docs.greatexpectations.io>
 - [sepandhaghighi/pycm](https://github.com/sepandhaghighi/pycm): Multi-class
   confusion matrix library in Python <http://pycm.io/>
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus): A
@@ -282,6 +283,13 @@
   <https://pyjanitor-devs.github.io/pyjanitor>
 - [has2k1/plydata](https://github.com/has2k1/plydata): A grammar for data
   manipulation in Python <https://plydata.readthedocs.io/en/stable/>
+- [dask/dask](https://github.com/dask/dask): Parallel computing with task
+  scheduling <https://dask.org/>
+- [modin-project/modin](https://github.com/modin-project/modin): Modin: Scale
+  your Pandas workflows by changing a single line of code
+  <http://modin.readthedocs.io/>
+- [rapidsai/cudf](https://github.com/rapidsai/cudf): cuDF - GPU DataFrame
+  Library <http://rapids.ai/>
 
 ### Prob
 
@@ -328,6 +336,8 @@
   security-focused app framework for Python micro services
 - [sansyrox/robyn](https://github.com/sansyrox/robyn): Robyn is a fast and
   extensible async python web server with a rust runtime <https://robyn.tech/>
+- [emmett-framework/granian](https://github.com/emmett-framework/granian): A
+  Rust HTTP server for Python applications
 
 ### DB clients and SQL utils
 
@@ -380,12 +390,19 @@
   for RAII-style memory management
 - [glyph/automat](https://github.com/glyph/automat): Self-service finite-state
   machines for the programmer on the go.
-- [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers):
-  Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
-  <http://www.grantjenks.com/docs/sortedcontainers/>
 - [GraiaProject/BroadcastControl](https://github.com/GraiaProject/BroadcastControl):
   a high performance, highly customizable, elegantly designed event system based
   on asyncio
+
+### High-level data structures
+
+- [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers):
+  Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
+  <http://www.grantjenks.com/docs/sortedcontainers/>
+- [hydro-project/katara](https://github.com/hydro-project/katara): Synthesize
+  CRDTs from classic data types with verified lifting!
+- [kenbyte/rbloom](https://github.com/kenbyte/rbloom): A fast, simple and
+  lightweight Bloom filter library for Python, fully implemented in Rust.
 
 ### Utils
 
@@ -403,6 +420,8 @@
   <https://yarl.readthedocs.io/>
 - [T-baby/pondpond](https://github.com/T-baby/pondpond): Pond is a high
   performance object-pooling library for Python <https://qin.news/pond>
+- [keleshev/schema](https://github.com/keleshev/schema): Schema validation just
+  got Pythonic
 
 ### Configuration
 
@@ -429,6 +448,8 @@
 - [vxgmichel/aioconsole](https://github.com/vxgmichel/aioconsole): Asynchronous
   console and interfaces for asyncio <http://aioconsole.readthedocs.io/>
 - [aio-libs/aiomonitor](https://github.com/aio-libs/aiomonitor):
+- [aio-libs/async-lru](https://github.com/aio-libs/async-lru): Simple LRU cache
+  for asyncio
 
 ### Middleware
 
@@ -542,8 +563,6 @@
   Tabular Datasets in XLS, CSV, JSON, YAML, &c. <https://tablib.readthedocs.io/>
 - [jazzband/prettytable](https://github.com/jazzband/prettytable): Display
   tabular data in a visually appealing ASCII table format
-- [reloadware/reloadium](https://github.com/reloadware/reloadium): Advanced Hot
-  Reloading & Profiling for Python <https://reloadium.io/>
 - [wireservice/csvkit](https://github.com/wireservice/csvkit): A suite of
   utilities for converting to and working with CSV, the king of tabular file
   formats. <http://csvkit.rtfd.org/>
@@ -573,3 +592,5 @@
   <https://datapane.com/>
 - [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila): Generative
   Art Generator <https://www.samila.site/>
+- [lux-org/lux](https://github.com/lux-org/lux): Automatically visualize your
+  pandas dataframe via a single print! 📊 💡

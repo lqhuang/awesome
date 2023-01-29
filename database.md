@@ -49,10 +49,19 @@
   financial accounting database designed for mission critical safety and
   performance to power the future of financial services.
   <https://www.tigerbeetle.com/>
+
+### SQLite
+
 - [superfly/litefs](https://github.com/superfly/litefs): FUSE-based file system
   for replicating SQLite databases across a cluster of machines
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream): Streaming
   replication for SQLite. <https://litestream.io/>
+- [canonical/dqlite](https://github.com/canonical/dqlite): Embeddable,
+  replicated and fault tolerant SQL engine. <https://dqlite.io/>
+- [rqlite/rqlite](https://github.com/rqlite/rqlite): The lightweight,
+  distributed relational database built on SQLite <https://rqlite.io/>
+- [libsql/libsql](https://github.com/libsql/libsql): libSQL is a fork of SQLite
+  that is both Open Source, and Open Contributions. <https://libsql.org/>
 
 ### Timeseries & Graph
 
@@ -105,6 +114,11 @@
 - [sorintlab/stolon](https://github.com/sorintlab/stolon): PostgreSQL cloud
   native High Availability and more. <https://talk.stolon.io/>
 
+### In-memory
+
+- [Rustixir/darkbird](https://github.com/Rustixir/darkbird): High concurrency,
+  Real time, In-memory storage inspired by erlang mnesia
+
 ## DBA
 
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord): mirrord lets
@@ -114,6 +128,11 @@
   database with real data ⚡️ <https://www.replibyte.com/>
 - [bytebase/bytebase](https://github.com/bytebase/bytebase): Safe database
   schema change and version control for DevOps teams. <https://www.bytebase.com>
+- [wal-g/wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for
+  databases in the Cloud
+- [datafold/data-diff](https://github.com/datafold/data-diff): Efficiently diff
+  data in or across relational databases
+  <https://www.datafold.com/blog/open-source-data-diff>
 - [zalando/patroni](https://github.com/zalando/patroni): A template for
   PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [levkk/pgcat](https://github.com/levkk/pgcat): PostgreSQL pooler with
@@ -124,11 +143,8 @@
   connection pooler
 - [ankane/pghero](https://github.com/ankane/pghero): A performance dashboard for
   Postgres
-- [wal-g/wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for
-  databases in the Cloud
-- [datafold/data-diff](https://github.com/datafold/data-diff): Efficiently diff
-  data in or across relational databases
-  <https://www.datafold.com/blog/open-source-data-diff>
+- [aiven/pgtracer](https://github.com/aiven/pgtracer): Tracing tools for
+  PostgreSQL, using eBPF
 
 ## In a SQL way
 

@@ -30,6 +30,8 @@
 - [dora-rs/dora](https://github.com/dora-rs/dora): dora goal is to be a low
   latency, composable, and distributed data flow.
   <https://dora-rs.github.io/dora>
+- [hydro-project/hydroflow](https://github.com/hydro-project/hydroflow): Hydro's
+  low-level dataflow runtime <https://hydro-project.github.io/hydroflow/>
 
 ## Actor
 
@@ -57,11 +59,13 @@
   concurrent framework for Python
 - [haskell-distributed/distributed-process](https://github.com/haskell-distributed/distributed-process):
   Cloud Haskell core library <http://haskell-distributed.github.io/>
-- [aurae-runtime/aurae](https://github.com/aurae-runtime/aurae): Distributed
-  systems runtime daemon written in Rust. <https://aurae.io/>
 - [rkuhn/acto](https://github.com/rkuhn/acto): Actor library for Rust
 - [mdeloof/statig](https://github.com/mdeloof/statig): Hierarchical state
   machines for designing event-driven systems <https://crates.io/crates/statig>
+- [asynchronics/asynchronix](https://github.com/asynchronics/asynchronix):
+  High-performance asynchronous computation framework for system simulation
+- [LeonHartley/Coerce-rs](https://github.com/LeonHartley/Coerce-rs): Actor
+  runtime and distributed systems framework for Rust
 
 ## Middleware
 
@@ -93,6 +97,8 @@
   of the Raft consensus algorithm, using the Scala language and a functional
   effect system (zio). Currently, the goal of this project is educational, not
   production usage.
+- [canonical/raft](https://github.com/canonical/raft): C implementation of the
+  Raft consensus protocol <https://raft.readthedocs.io/>
 
 ## Correctness
 

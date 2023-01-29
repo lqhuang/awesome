@@ -1,9 +1,24 @@
 # ML Systems
 
+## Resources
+
+- [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook):
+  A playbook for systematically maximizing the performance of deep learning
+  models.
+- [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem):
+  Deep Learning System core principles introduction.
+- [microsoft/AI-System](https://github.com/microsoft/AI-System): System for AI
+  Education Resource. <https://microsoft.github.io/AI-System/>
+- [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh): 《Machine
+  Learning Systems: Design and Implementation》- Chinese Version
+  <https://openmlsys.github.io/>
+
 ## Framework
 
 - [Epistimio/orion](https://github.com/Epistimio/orion): Asynchronous
   Distributed Hyperparameter Optimization. <https://orion.readthedocs.io/>
+- [optuna/optuna](https://github.com/optuna/optuna): A hyperparameter
+  optimization framework <https://optuna.org/>
 - [ray-project/ray](https://github.com/ray-project/ray): Ray is a unified
   framework for scaling AI and Python applications. Ray consists of a core
   distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML
@@ -20,6 +35,15 @@
 - [tensor-compiler/taco](https://github.com/tensor-compiler/taco): The Tensor
   Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs
   <http://tensor-compiler.org/>
+- [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor): C++ tensors
+  with broadcasting and lazy computing
+- [rapidsai/cuml](https://github.com/rapidsai/cuml): cuML - RAPIDS Machine
+  Learning Library
+
+## Network implementation
+
+- [hwchase17/langchain](https://github.com/hwchase17/langchain): ⚡ Building
+  applications with LLMs through composability ⚡
 
 ## Inference engine / large-scale deployment
 
@@ -32,6 +56,9 @@
 - [microsoft/DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII): MII
   makes low-latency and high-throughput inference possible, powered by
   DeepSpeed.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning): Deep
+  learning framework to train, deploy, and ship AI products Lightning fast.
+  <https://lightning.ai/>
 
 ## Compiler / Low level
 
@@ -102,6 +129,8 @@
   Model parallel transformers in JAX and Haiku
 - [probml/sts-jax](https://github.com/probml/sts-jax): Structural Time Series in
   JAX
+- [ASEM000/kernex](https://github.com/ASEM000/kernex): Stencil computations in
+  JAX
 
 ## Workflow pipeline
 
@@ -124,6 +153,8 @@
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course): A
   project-based course on the foundations of MLOps to responsibly develop,
   deploy and maintain ML. <https://madewithml.com/>
+- [sematic-ai/sematic](https://github.com/sematic-ai/sematic): An open-source ML
+  pipeline development platform
 
 ## Utils
 
@@ -135,6 +166,10 @@
   Docker containers leveraging NVIDIA GPUs
 - [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple,
   safe way to store and distribute tensors
+- [pytorch/torcharrow](https://github.com/pytorch/torcharrow): A Pandas-inspired
+  DataFrame library for SQL-like transformation with Pythonic and
+  imperative-style API. Typical use case includes data preprocessing in ML
+  models.
 
 ## Misc
 

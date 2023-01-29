@@ -32,6 +32,8 @@ Streaming Systems
   The Fastest Way to Build the Fastest Data Products. Build data-intensive
   applications and services in SQL — without pipelines or caches — using
   materialized views that are always up-to-date. <https://materialize.com/>
+- [bytewax/bytewax](https://github.com/bytewax/bytewax): A Python framework for
+  building highly scalable dataflows. <https://docs.bytewax.io/>
 
 ## Pending to research / study
 
@@ -39,8 +41,6 @@ Streaming Systems
   processing framework. <https://vertexclique.github.io/callysto/>
 - [cda-group/arcon](https://github.com/cda-group/arcon): State-first Streaming
   Applications in Rust
-- [bytewax/bytewax](https://github.com/bytewax/bytewax): A Python framework for
-  building highly scalable dataflows. <https://docs.bytewax.io/>
 - [tyrchen/stream-operators](https://github.com/tyrchen/stream-operators):
   selected rxjs operators implemented for standard Rust Stream
 - [nerevu/riko](https://github.com/nerevu/riko): A Python stream processing

@@ -13,6 +13,8 @@
   curated list of shell commands and tools specific to macOS.
 - [awesome-command-line-apps](https://git.herrbischoff.com/awesome-command-line-apps/about/):
   A curated list of useful command line apps, in celebration of the TUI.
+- [xuxiaodong/usingcli-book](https://github.com/xuxiaodong/usingcli-book): 像黑
+  客一样使用命令行 <https://selfhostedserver.com/usingcli-book>
 
 ### command
 
@@ -64,6 +66,8 @@
   information in textual data and Git history.
 - [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running
   program to a new terminal
+- [ouch-org/ouch](https://github.com/ouch-org/ouch): Painless compression and
+  decompression for your terminal
 
 ## Software / Services
 
@@ -164,6 +168,15 @@
   password manager for individuals and teams. <https://padloc.app/>
 - [lesspass/lesspass](https://github.com/lesspass/lesspass): 🔑 stateless open
   source password manager <https://www.lesspass.com/>
+- [Bitwarden](https://github.com/bitwarden): Open source password management
+  solutions for individuals, teams, and business organizations.
+  <https://bitwarden.com/>
+- [Passwordless](https://github.com/passwordless): Use open source and modern
+  browser standards to build FIDO2 Webauthn applications for end users.
+  <https://passwordless.dev/>
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden):
+  Unofficial Bitwarden compatible server written in Rust, formerly known as
+  bitwarden_rs
 
 ## Dev tools
 
@@ -212,6 +225,9 @@
 - [khuedoan/homelab](https://github.com/khuedoan/homelab): Modern self-hosting
   infrastructure, fully automated from empty disk to operating services with a
   single command. <https://homelab.khuedoan.com/>
+- [unpoller/unpoller](https://github.com/unpoller/unpoller): Application:
+  Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB
+  or Prometheus <https://unpoller.com/>
 
 ## Homelab
 
@@ -257,6 +273,10 @@
   持其他 CDN / 网站 IP ~
 - [gwen001/cloudflare-origin-ip](https://github.com/gwen001/cloudflare-origin-ip):
   Try to find the origin IP of a webapp protected by Cloudflare.
+- [OwO-Network/nexttrace-enhanced](https://github.com/OwO-Network/nexttrace-enhanced):
+  An open source visual route tracking CLI tool (Enhanced Edition)
+- [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace): An open source visual
+  route tracking CLI tool <https://trace.ac/>
 
 ## Misc
 

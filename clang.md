@@ -96,6 +96,15 @@ Though Cpp definitely is not Clang, I still put them here without new page.
   persistent binary data store library for C. <https://www.blosc.org/>
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust): The C++ parallel algorithms
   library.
+- [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A
+  family of header-only, very fast and memory-friendly hashmap and btree
+  containers. <https://greg7mdp.github.io/parallel-hashmap/>
+- [Amanieu/asyncplusplus](https://github.com/Amanieu/asyncplusplus): Async++
+  concurrency framework for C++11
+- [mitchellh/libxev](https://github.com/mitchellh/libxev): libxev is a
+  cross-platform, high-performance event loop that provides abstractions for
+  non-blocking IO, timers, events, and more and works on Linux (io_uring or
+  epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
 
 ## ???
 
@@ -105,3 +114,5 @@ Though Cpp definitely is not Clang, I still put them here without new page.
   C code type-safe and eliminate entire classes of errors. Checked C does not
   address use-after-free errors.
   <https://www.microsoft.com/en-us/research/project/checked-c/>
+- [diffblue/cbmc](https://github.com/diffblue/cbmc): C Bounded Model Checker
+  <https://diffblue.github.io/cbmc>

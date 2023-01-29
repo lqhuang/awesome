@@ -1,5 +1,11 @@
 # Cloud
 
+## Resources
+
+- [lonegunmanb/introduction-terraform](https://github.com/lonegunmanb/introduction-terraform):
+  Introduction to terraform
+  <https://lonegunmanb.github.io/introduction-terraform>
+
 ## Container
 
 - [ncopa/su-exec](https://github.com/ncopa/su-exec): switch user and group id
@@ -28,6 +34,8 @@
   <https://godoc.org/go.uber.org/automaxprocs>
 - [chainguard-images/images](https://github.com/chainguard-images/images):
   Public Chainguard Images <https://chainguard.dev/chainguard-images>
+- [internetarchive/hind](https://github.com/internetarchive/hind):
+  Hashistack-IN-Docker (single container with nomad + consul + caddy)
 
 ## Routing
 
@@ -49,17 +57,22 @@
 - [supabase/supabase](https://github.com/supabase/supabase): The open source
   Firebase alternative. Follow to stay updated about our public Beta.
   <https://supabase.com/>
-- [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs
-  Kubernetes <https://k8slens.dev/>
 - [zappa/Zappa](https://github.com/zappa/Zappa): Serverless Python
   <https://github.com/zappa/Zappa>
+
+## K8S
+
+- [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs
+  Kubernetes <https://k8slens.dev/>
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler): Autoscaling
+  components for Kubernetes
 - [kumahq/kuma](https://github.com/kumahq/kuma): 🐻 The multi-zone service mesh
   for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
   <https://kuma.io/install>
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler): Autoscaling
-  components for Kubernetes
 - [karmada-io/karmada](https://github.com/karmada-io/karmada): Open,
   Multi-Cloud, Multi-Cluster Kubernetes Orchestration <https://karmada.io/>
+- [pixie-io/pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native
+  Application Observability <https://px.dev/>
 
 ## Infrastructure as Code
 
@@ -96,6 +109,8 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi): Pulumi - Universal
   Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
   <https://www.pulumi.com/>
+- [klothoplatform/klotho](https://github.com/klothoplatform/klotho): Klotho - a
+  CLI tool that transforms plain code into cloud native code <https://klo.dev/>
 
 ## Pricing
 
@@ -104,6 +119,8 @@
   <https://www.dbcost.com/>
 - [uselotus/lotus](https://github.com/uselotus/lotus): Open Source Pricing &
   Packaging Infrastructure <https://www.uselotus.io/>
+- [juspay/hyperswitch](https://github.com/juspay/hyperswitch): An Open Source
+  Financial Switch to make Payments fast, reliable and affordable
 
 ## Utils
 

@@ -6,6 +6,14 @@
 
 - [A practical guide to error handling in Scala Cats and Cats Effect](https://softwaremill.com/practical-guide-to-error-handling-in-scala-cats-and-cats-effect/)
 
+### Exercises
+
+- [superruzafa/visual-scala-reference](https://github.com/superruzafa/visual-scala-reference):
+  Visual Scala Reference <https://superruzafa.github.io/visual-scala-reference>
+- [Scala Exercises](https://www.scala-exercises.org/): Scala Exercises is an
+  Open Source project for learning different technologies based in the Scala
+  Programming Language.
+
 ## Master these you rule the world
 
 - [akka/akka](https://github.com/akka/akka): Build highly concurrent,
@@ -62,6 +70,9 @@
   programming for Scala
 - [arainko/ducktape](https://github.com/arainko/ducktape): The thing that glues
   your code. Or is it duct 🤔
+- [epfl-lara/stainless](https://github.com/epfl-lara/stainless): Verification
+  framework and tool for higher-order Scala programs
+  <https://stainless.epfl.ch/>
 
 ### Serialization
 
@@ -171,6 +182,8 @@
   location transparency for Scala <https://devsisters.github.io/shardcake/>
 - [dream11/zio-http](https://github.com/dream11/zio-http): A scala library to
   write Http apps. <https://dream11.github.io/zio-http>
+- [tailcallhq/zio-compose](https://github.com/tailcallhq/zio-compose): A Scala
+  DSL to write type-safe programs for distributed computing
 
 ## Stream / Effect systems / Experiments
 

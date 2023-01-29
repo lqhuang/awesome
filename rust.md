@@ -4,6 +4,7 @@
 
 - [lborb/book](https://github.com/lborb/book): The Little Book of Rust Books
   <https://lborb.github.io/book>
+- [sger/RustBooks](https://github.com/sger/RustBooks): List of Rust books
 - [MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust):
   本书为《Programming Rust - Fast, Safe Systems Development》第 2 版的个人中文翻
   译，仅供学习和交流使用，如有侵权请联系作者删除
@@ -86,6 +87,8 @@
   cargo, make me a project <https://cargo-generate.github.io/cargo-generate>
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef): A
   cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
+- [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make): Rust task
+  runner and build tool. <https://sagiegurari.github.io/cargo-make/>
 
 ### Test suites
 
@@ -165,6 +168,9 @@
 - [withoutboats/propane](https://github.com/withoutboats/propane): generators
 - [yoshuawuyts/async-iterator](https://github.com/yoshuawuyts/async-iterator):
   An async version of iterator
+- [rust-lang/types-team](https://github.com/rust-lang/types-team): Home of the
+  "types team", affiliated with the compiler and lang teams.
+  <https://rust-lang.github.io/types-team/>
 
 ## Concurrency / Parallelelism
 
@@ -172,8 +178,6 @@
   concurrent programming in Rust
 - [rayon-rs/rayon](https://github.com/rayon-rs/rayon): Rayon: A data parallelism
   library for Rust
-- [SergioBenitez/state](https://github.com/SergioBenitez/state): A Rust library
-  for safe and effortless global and thread-local state management.
 - [jonhoo/left-right](https://github.com/jonhoo/left-right): A lock-free,
   read-optimized, concurrency primitive.
 - [jonhoo/bus](https://github.com/jonhoo/bus): Efficient, lock-free, bounded
@@ -188,13 +192,22 @@
   Concurrent multi-producer multi-consumer queue
 - [fereidani/kanal](https://github.com/fereidani/kanal): Fastest sync and async
   channel that Rust deserves
-- [mvdnes/spin-rs](https://github.com/mvdnes/spin-rs): Spin-based
-  synchronization primitives
 - [mitsuhiko/fragile](https://github.com/mitsuhiko/fragile): Utility wrapper to
   send non send types to other threads safely
+
+### Lock & synchronization
+
+- [SergioBenitez/state](https://github.com/SergioBenitez/state): A Rust library
+  for safe and effortless global and thread-local state management.
+- [mvdnes/spin-rs](https://github.com/mvdnes/spin-rs): Spin-based
+  synchronization primitives
 - [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot): Compact and
   efficient synchronization primitives for Rust. Also provides an API for
   creating custom synchronization primitives.
+- [kprotty/usync](https://github.com/kprotty/usync): Small, fast,
+  synchronization primitives
+- [m-ou-se/atomic-wait](https://github.com/m-ou-se/atomic-wait): Cross-platform
+  atomic wait and wake (aka futex) functionality for Rust.
 
 ### Async IO
 
@@ -240,6 +253,7 @@
   collections for Rust where borrows to entries can outlive insertions
 - [liquid-rust/flux](https://github.com/liquid-rust/flux): Refinement Types for
   Rust
+- [orium/rpds](https://github.com/orium/rpds): Rust Persistent Data Structures
 
 ## HPC / SIMD / Vectorization
 
@@ -356,6 +370,8 @@
   native Rust types
 - [dtolnay/efg](https://github.com/dtolnay/efg): Conditional compilation using
   boolean expression syntax, rather than any(), all(), not()
+- [thomcc/rust-typed-arena](https://github.com/thomcc/rust-typed-arena): The
+  arena, a fast but limited type of allocator
 
 ## Middleware
 
@@ -373,8 +389,12 @@
   for Rust
 - [tokio-rs/prost](https://github.com/tokio-rs/prost): PROST! a Protocol Buffers
   implementation for the Rust Language
+- [serde-rs/json](https://github.com/serde-rs/json): Strongly typed JSON library
+  for Rust
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json): Rust port of
   simdjson
+- [khonsulabs/justjson](https://github.com/khonsulabs/justjson): An efficient
+  JSON Value parser
 - [PSeitz/serde_json_borrow](https://github.com/PSeitz/serde_json_borrow): Fast
   JSON deserialization on borrowed data
 

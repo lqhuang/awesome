@@ -76,19 +76,11 @@ https://web.stanford.edu/~boyd/cvxbook/
 - [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models):
   💘 帮助你建立良好的 JavaScript 心智模型
   <https://sudongyuer.github.io/javascript-mental-models>
-- [lonegunmanb/introduction-terraform](https://github.com/lonegunmanb/introduction-terraform):
-  Introduction to terraform
-  <https://lonegunmanb.github.io/introduction-terraform>
-- [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh): 《Machine
-  Learning Systems: Design and Implementation》- Chinese Version
-  <https://openmlsys.github.io/>
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中
   文读者、能运行、可讨论。中英文版被 60 个国家的 400 所大学用于教学。
   <http://zh.d2l.ai/>
 - [Visualize-ML/Book3_Fundamentals-of-Mathematics](https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics):
   《数学要素》，清华社五审五校中；Github 稿件基本稳定，欢迎提意见，会及时修改
-- [xuxiaodong/usingcli-book](https://github.com/xuxiaodong/usingcli-book): 像黑
-  客一样使用命令行 <https://selfhostedserver.com/usingcli-book>
 
 ## Readings
 

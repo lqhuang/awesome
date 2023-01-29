@@ -60,6 +60,12 @@
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer
   是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
   <http://www.jumpserver.org/>
+- [greenpau/caddy-security](https://github.com/greenpau/caddy-security): 🔐
+  Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy
+  v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0
+  (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App
+  Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐
+  <https://authp.github.io/>
 
 ## Dev tools
 
@@ -143,6 +149,8 @@
   scalable, durable, and highly available orchestration engine to execute
   asynchronous long-running business logic in a scalable and resilient way.
   <https://cadenceworkflow.io/>
+- [temporalio/temporal](https://github.com/temporalio/temporal): Temporal
+  service <https://docs.temporal.io/>
 
 ### Uptime / Monitoring
 
@@ -159,6 +167,9 @@
 - [naiba/nezha](https://github.com/naiba/nezha): :trollface: Self-hosted,
   lightweight server and website monitoring and O&M tool
   <https://ops.naibahq.com/>
+- [Better Stack](https://betterstack.com/): Reliability is the ultimate feature.
+- [Oh Dear](https://ohdear.app/): the all-in-one monitoring tool for your entire
+  website
 
 ### Logging / Metrics / APM
 
@@ -167,6 +178,11 @@
   in minutes. No code changes needed! <https://keyval.dev/>
 - [getsentry/sentry](https://github.com/getsentry/sentry): Developer-first error
   tracking and performance monitoring <https://sentry.io/>
+- [SigNoz/signoz](https://github.com/SigNoz/signoz): SigNoz is an open-source
+  APM. It helps developers monitor their applications & troubleshoot problems,
+  an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source
+  Application Performance Monitoring (APM) & Observability tool
+  <https://signoz.io/>
 
 ### Logger search and analytics
 
@@ -180,6 +196,12 @@
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit):
   Cloud-native search engine for log management & analytics
   <https://quickwit.io>
+- [usefathom/fathom](https://github.com/usefathom/fathom): Fathom Lite. Simple,
+  privacy-focused website analytics. Built with Golang & Preact.
+  <https://usefathom.com/>
+- [plausible/analytics](https://github.com/plausible/analytics): Simple,
+  open-source, lightweight (< 1 KB) and privacy-friendly web analytics
+  alternative to Google Analytics. <https://plausible.io/>
 
 ## Build systems
 
@@ -190,6 +212,9 @@
   developer workflow system <https://www.pantsbuild.org/>
 - [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build
   system with a focus on speed <https://ninja-build.org/>
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix):
+  An unofficial, opinionated, gentle introduction to Nix (@NixOS) from
+  Determinate Systems <https://zero-to-nix.com/>
 
 ### GitHub Action
 
@@ -230,6 +255,20 @@
 - [apache/superset](https://github.com/apache/superset): Apache Superset is a
   Data Visualization and Data Exploration Platform
   <https://superset.apache.org/>
-- [usefathom/fathom](https://github.com/usefathom/fathom): Fathom Lite. Simple,
-  privacy-focused website analytics. Built with Golang & Preact.
-  <https://usefathom.com/>
+- [Kanaries/Rath](https://github.com/Kanaries/Rath): Automated data exploratory
+  analysis and visualization tools. <https://kanaries.net/>
+
+### Data quality
+
+- [awslabs/deequ](https://github.com/awslabs/deequ): Deequ is a library built on
+  top of Apache Spark for defining "unit tests for data", which measure data
+  quality in large datasets.
+- [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations):
+  Always know what to expect from your data. <https://docs.greatexpectations.io>
+- [unionai-oss/pandera](https://github.com/unionai-oss/pandera): A light-weight,
+  flexible, and expressive statistical data testing library
+  <https://www.union.ai/pandera>
+- [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks): Tests for
+  Continuous Validation of ML Models & Data. Deepchecks is a Python package for
+  comprehensively validating your machine learning models and data with minimal
+  effort. <https://docs.deepchecks.com/>

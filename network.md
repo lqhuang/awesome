@@ -42,10 +42,13 @@
   <https://www.bettercap.org/>
 - [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL,
   but for gRPC: Command-line tool for interacting with gRPC servers
-- [beyondcode/expose](https://github.com/beyondcode/expose): A beautiful, fully
-  open-source, tunneling service - written in pure PHP <https://expose.dev/>
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl): Hurl, run
   and test HTTP requests with plain text. <https://hurl.dev/>
+- [secdev/scapy](https://github.com/secdev/scapy): Scapy: the Python-based
+  interactive packet manipulation program & library. Supports Python 2 &
+  Python 3. <https://scapy.net/>
+- [beyondcode/expose](https://github.com/beyondcode/expose): A beautiful, fully
+  open-source, tunneling service - written in pure PHP <https://expose.dev/>
 - [wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full mesh
   configuration generator.
 - [traviscross/mtr](https://github.com/traviscross/mtr): Official repository for
@@ -58,6 +61,43 @@
   TCPdump network dissector <https://www.tcpdump.org/>
 - [droe/sslsplit](https://github.com/droe/sslsplit): Transparent SSL/TLS
   interception <https://www.roe.ch/SSLsplit>
+- [ktbyers/netmiko](https://github.com/ktbyers/netmiko): Multi-vendor library to
+  simplify Paramiko SSH connections to network devices
+- [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native
+  Python SSHv2 protocol library. <http://paramiko.org/>
+
+### Analysis
+
+- [nfstream/nfstream](https://github.com/nfstream/nfstream): NFStream: a
+  Flexible Network Data Analysis Framework. <https://www.nfstream.org/>
+
+### Observability
+
+- [netenglabs/suzieq](https://github.com/netenglabs/suzieq): Using network
+  observability to operate and design healthier networks
+  <https://www.stardustsystems.net/suzieq/>
+- [batfish/batfish](https://github.com/batfish/batfish): Batfish is a network
+  configuration analysis tool that can find bugs and guarantee the correctness
+  of (planned or current) network configurations. It enables network engineers
+  to rapidly and safely evolve their network, without fear of outages or
+  security breaches. <http://www.batfish.org/>
+- [ivre/ivre](https://github.com/ivre/ivre): Network recon framework. Build your
+  own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye /
+  Censys and GreyNoise, run your Passive DNS service, collect and analyse
+  network intelligence from your sensors, and much more! <>
+- [ntop/ntopng](https://github.com/ntop/ntopng): Web-based Traffic and Security
+  Network Traffic Monitoring <http://www.ntop.org/>
+- [akvorado/akvorado](https://github.com/akvorado/akvorado): Flow collector,
+  enricher and visualizer <https://demo.akvorado.net/>
+
+### RouterOS Automation?
+
+- [napalm-automation/napalm](https://github.com/napalm-automation/napalm):
+  Network Automation and Programmability Abstraction Layer with Multivendor
+  support <https://napalm.readthedocs.io/>
+- [nornir-automation/nornir](https://github.com/nornir-automation/nornir):
+  Pluggable multi-threaded framework with inventory management to help operate
+  collections of devices <https://nornir.readthedocs.io/>
 
 ## DNS
 
