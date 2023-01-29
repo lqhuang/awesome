@@ -106,6 +106,11 @@
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv): The fastest JSON
   schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON
   Type Definition (RFC8927) <https://ajv.js.org/>
+- [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable
+  date-time library alternative to Moment.js with the same modern API
+  <https://day.js.org/>
+- [moment/luxon](https://github.com/moment/luxon): ⏱ A library for working with
+  dates and times in JS <https://moment.github.io/luxon>
 
 ## Visualization
 
@@ -118,6 +123,20 @@
 - [f5/unovis](https://github.com/f5/unovis): Modular data visualization
   framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
   <https://unovis.dev/>
+- [chartjs/Chart.js](https://github.com/chartjs/Chart.js): Simple HTML5 Charts
+  using the `<canvas>` tag <https://www.chartjs.org/>
+- [plouc/nivo](https://github.com/plouc/nivo): nivo provides a rich set of
+  dataviz components, built on top of the awesome d3 and React libraries
+  <https://nivo.rocks/>
+- [highcharts/highcharts](https://github.com/highcharts/highcharts): Highcharts
+  JS, the JavaScript charting framework <https://www.highcharts.com/>
+- [leeoniya/uPlot](https://github.com/leeoniya/uPlot): 📈 A small, fast chart
+  for time series, lines, areas, ohlc & bars
+- [chartist-js/chartist](https://github.com/chartist-js/chartist): Simple
+  responsive charts
+- [FormidableLabs/victory](https://github.com/FormidableLabs/victory): A
+  collection of composable React components for building interactive data
+  visualizations <https://formidable.com/open-source/victory/>
 
 ## GUI
 
@@ -133,6 +152,8 @@
 - [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css):
   LaTeX.css is a CSS library that makes your website look like a LaTeX document
   <https://latex.now.sh>
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥 Make
+  videos programmatically with React <https://remotion.dev/>
 
 ## Build tools
 
