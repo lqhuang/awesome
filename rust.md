@@ -310,6 +310,8 @@
   fastest CRDT. WIP.
 - [maidsafe/crdt_tree](https://github.com/maidsafe/crdt_tree): A Conflict-free
   Replicated Data Type (CRDT) Tree written in Rust.
+- [automerge/automerge-rs](https://github.com/automerge/automerge-rs): Rust
+  implementation of automerge
 
 ### Hashmap
 
@@ -370,8 +372,13 @@
   native Rust types
 - [dtolnay/efg](https://github.com/dtolnay/efg): Conditional compilation using
   boolean expression syntax, rather than any(), all(), not()
+
+### Meomory
+
 - [thomcc/rust-typed-arena](https://github.com/thomcc/rust-typed-arena): The
   arena, a fast but limited type of allocator
+- [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo): A fast bump allocation
+  arena for Rust
 
 ## Middleware
 

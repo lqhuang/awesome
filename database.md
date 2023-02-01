@@ -37,6 +37,8 @@
   derived from TPC-DS
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista): Apache
   Arrow Ballista Distributed Query Engine <https://arrow.apache.org/ballista>
+- [marsupialtail/quokka](https://github.com/marsupialtail/quokka): Open source
+  SQL engine in Python <https://marsupialtail.github.io/quokka/>
 
 ## New databases
 

@@ -34,6 +34,10 @@ Streaming Systems
   materialized views that are always up-to-date. <https://materialize.com/>
 - [bytewax/bytewax](https://github.com/bytewax/bytewax): A Python framework for
   building highly scalable dataflows. <https://docs.bytewax.io/>
+- [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow):
+  A modular implementation of timely dataflow in Rust
+- [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow):
+  An implementation of differential dataflow using timely dataflow on Rust.
 
 ## Pending to research / study
 

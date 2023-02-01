@@ -89,3 +89,5 @@
   functional runtime in Rust
 - [google-research/dex-lang](https://github.com/google-research/dex-lang):
   Research language for array processing in the Haskell/ML family
+- [unisonweb/unison](https://github.com/unisonweb/unison): A friendly
+  programming language from the future <https://unison-lang.org/>

@@ -94,15 +94,13 @@
   open-source, lightning-fast, and hyper-relevant search engine that fits
   effortlessly into your apps, websites, and workflow.
   <https://www.meilisearch.com>
-- [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first schema
-  validation with static type inference <https://zod.dev>
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase): A tiny, reactive
   JavaScript library for structured state and tabular data.
   <https://tinybase.org>
 - [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies
   and exports in your JS/TS project
-- [statelyai/xstate](https://github.com/statelyai/xstate):State machines and
-  statecharts for the modern web. <https://xstate.js.org/docs>
+- [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first schema
+  validation with static type inference <https://zod.dev>
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv): The fastest JSON
   schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON
   Type Definition (RFC8927) <https://ajv.js.org/>
@@ -111,6 +109,16 @@
   <https://day.js.org/>
 - [moment/luxon](https://github.com/moment/luxon): ⏱ A library for working with
   dates and times in JS <https://moment.github.io/luxon>
+- [pmndrs/zustand](https://github.com/pmndrs/zustand): 🐻 Bear necessities for
+  state management in React <https://zustand-demo.pmnd.rs/>
+- [pmndrs/jotai](https://github.com/pmndrs/jotai): 👻 Primitive and flexible
+  state management for React <https://jotai.org/>
+- [statelyai/xstate](https://github.com/statelyai/xstate):State machines and
+  statecharts for the modern web. <https://xstate.js.org/docs>
+- [immerjs/immer](https://github.com/immerjs/immer): Create the next immutable
+  state by mutating the current one <https://immerjs.github.io/immer/>
+- [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build
+  and send emails using React <https://react.email/>
 
 ## Visualization
 

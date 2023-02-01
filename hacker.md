@@ -129,6 +129,9 @@
   developer-first. <https://strapi.io/>
 - [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered
   Photos App for the Decentralized Web 🌈💎✨ <https://photoprism.app/>
+- [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee): A great looking and
+  easy-to-use photo-management-system you can run on your server, to manage and
+  share photos. <https://lycheeorg.github.io/>
 
 ### macOS / iPadOS
 

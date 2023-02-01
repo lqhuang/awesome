@@ -15,20 +15,12 @@
 
 ## Framework
 
-- [Epistimio/orion](https://github.com/Epistimio/orion): Asynchronous
-  Distributed Hyperparameter Optimization. <https://orion.readthedocs.io/>
-- [optuna/optuna](https://github.com/optuna/optuna): A hyperparameter
-  optimization framework <https://optuna.org/>
 - [ray-project/ray](https://github.com/ray-project/ray): Ray is a unified
   framework for scaling AI and Python applications. Ray consists of a core
   distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML
   workloads. <https://ray.io/>
 - [dmlc/dlpack](https://github.com/dmlc/dlpack): common in-memory tensor
   structure <https://dmlc.github.io/dlpack/latest>
-- [aws/deep-learning-containers](https://github.com/aws/deep-learning-containers):
-  AWS Deep Learning Containers (DLCs) are a set of Docker images for training
-  and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
-  <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers):
   Hackable and optimized Transformers building blocks, supporting a composable
   construction. <https://facebookresearch.github.io/xformers/>
@@ -39,13 +31,29 @@
   with broadcasting and lazy computing
 - [rapidsai/cuml](https://github.com/rapidsai/cuml): cuML - RAPIDS Machine
   Learning Library
+- [google-research/torchsde](https://github.com/google-research/torchsde):
+  Differentiable SDE solvers with GPU support and efficient sensitivity
+  analysis.
 
-## Network implementation
+### Feature engineering / Optimization
+
+- [alteryx/featuretools](https://github.com/alteryx/featuretools): An open
+  source python library for automated feature engineering
+  <https://www.featuretools.com/>
+- [optuna/optuna](https://github.com/optuna/optuna): A hyperparameter
+  optimization framework <https://optuna.org/>
+- [Epistimio/orion](https://github.com/Epistimio/orion): Asynchronous
+  Distributed Hyperparameter Optimization. <https://orion.readthedocs.io/>
+- [google/vizier](https://github.com/google/vizier): Python-based research
+  interface for blackbox and hyperparameter optimization, based on Google's
+  internal Vizier Service. <https://oss-vizier.readthedocs.io/>
+
+### Network implementation
 
 - [hwchase17/langchain](https://github.com/hwchase17/langchain): ⚡ Building
   applications with LLMs through composability ⚡
 
-## Inference engine / large-scale deployment
+### Inference engine / large-scale deployment
 
 - [flashlight/flashlight](https://github.com/flashlight/flashlight): A C++
   standalone library for machine learning <https://fl.readthedocs.io/en/latest/>
@@ -164,12 +172,18 @@
   environment for machine learning
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run
   Docker containers leveraging NVIDIA GPUs
+- [aws/deep-learning-containers](https://github.com/aws/deep-learning-containers):
+  AWS Deep Learning Containers (DLCs) are a set of Docker images for training
+  and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
+  <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>
 - [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple,
   safe way to store and distribute tensors
 - [pytorch/torcharrow](https://github.com/pytorch/torcharrow): A Pandas-inspired
   DataFrame library for SQL-like transformation with Pythonic and
   imperative-style API. Typical use case includes data preprocessing in ML
   models.
+- [openai/tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast BPE
+  tokeniser for use with OpenAI's models.
 
 ## Misc
 

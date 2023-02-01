@@ -102,6 +102,10 @@
   <https://nickel-lang.org>
 - [grafana/phlare](https://github.com/grafana/phlare): 🔥 horizontally-scalable,
   highly-available, multi-tenant continuous profiling aggregation system
+- [markdoc/markdoc](https://github.com/markdoc/markdoc): A powerful, flexible,
+  Markdown-based authoring framework. <https://markdoc.dev/>
+- [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes): A
+  document management system
 
 ## DevOps
 

@@ -5,6 +5,9 @@
 ### Reading
 
 - [A practical guide to error handling in Scala Cats and Cats Effect](https://softwaremill.com/practical-guide-to-error-handling-in-scala-cats-and-cats-effect/)
+- [slouc/concurrency-in-scala-with-ce](https://github.com/slouc/concurrency-in-scala-with-ce):
+  Introduction to concepts of asynchronous and concurrent programming in Scala,
+  based on the Cats Effect library.
 
 ### Exercises
 
@@ -61,6 +64,8 @@
   pattern match warnings and helpful integrations.
 - [7mind/izumi](https://github.com/7mind/izumi): Productivity-oriented
   collection of lightweight fancy stuff for Scala toolchain
+- [wix/greyhound](https://github.com/wix/greyhound): Greyhound - Rich Kafka
+  client library
 
 ### Types
 

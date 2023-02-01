@@ -5,6 +5,8 @@
 - [lonegunmanb/introduction-terraform](https://github.com/lonegunmanb/introduction-terraform):
   Introduction to terraform
   <https://lonegunmanb.github.io/introduction-terraform>
+- [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform):
+  Curated list of resources on HashiCorp's Terraform
 
 ## Container
 

@@ -229,17 +229,6 @@
 
 ## Domain libraries
 
-### ML System
-
-- [google/vizier](https://github.com/google/vizier): Python-based research
-  interface for blackbox and hyperparameter optimization, based on Google's
-  internal Vizier Service. <https://oss-vizier.readthedocs.io/>
-- [google-research/torchsde](https://github.com/google-research/torchsde):
-  Differentiable SDE solvers with GPU support and efficient sensitivity
-  analysis.
-- [openai/tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast BPE
-  tokeniser for use with OpenAI's models.
-
 ### Numerical and Data Science
 
 - [nyggus/rounder](https://github.com/nyggus/rounder): Python package for
@@ -357,8 +346,6 @@
   Persistent dict, backed by sqlite3 and pickle, multithread-safe.
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils): Python CLI
   utility and library for manipulating SQLite databases
-- [marsupialtail/quokka](https://github.com/marsupialtail/quokka): Open source
-  SQL engine in Python <https://marsupialtail.github.io/quokka/>
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py):
   Prisma Client Python is an auto-generated and fully type-safe database client
   designed for ease of use <https://prisma-client-py.readthedocs.io/>
@@ -422,6 +409,8 @@
   performance object-pooling library for Python <https://qin.news/pond>
 - [keleshev/schema](https://github.com/keleshev/schema): Schema validation just
   got Pythonic
+- [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle): A
+  Python module to customize the process title
 
 ### Configuration
 
@@ -535,6 +524,12 @@
   Python Markdown parser with renderers and plugins.
   <http://mistune.readthedocs.io/>
 - [dabeaz/sly](https://github.com/dabeaz/sly): Sly Lex Yacc
+- [lark-parser/lark](https://github.com/lark-parser/lark): Lark is a parsing
+  toolkit for Python, built with a focus on ergonomics, performance and
+  modularity.
+- [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser):
+  An extended commonmark compliant parser, with bridges to docutils/sphinx
+  <https://myst-parser.readthedocs.io/>
 
 ## Misc
 
