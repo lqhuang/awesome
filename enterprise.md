@@ -134,6 +134,12 @@
   Segment alternative. Fully-scriptable data ingestion engine for modern data
   teams. Set-up a real-time data pipeline in minutes, not days
   <https://jitsu.com/>
+- [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev): ✨
+  Trigger.dev is an open-source platform that makes it easy for developers to
+  create event-driven background tasks directly in their code.
+  <https://trigger.dev/>
+- [backstage/backstage](https://github.com/backstage/backstage): Backstage is an
+  open platform for building developer portals <https://backstage.io/>
 
 ### Pipelines / Workflow
 

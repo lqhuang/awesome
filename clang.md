@@ -103,8 +103,9 @@ Though Cpp definitely is not Clang, I still put them here without new page.
   concurrency framework for C++11
 - [mitchellh/libxev](https://github.com/mitchellh/libxev): libxev is a
   cross-platform, high-performance event loop that provides abstractions for
-  non-blocking IO, timers, events, and more and works on Linux (io_uring or
+  non-blocking IO, timers, events, and more and works on Linux (io\_uring or
   epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
+- [rsms/llvmbox](https://github.com/rsms/llvmbox):  Self contained, fully static llvm tools & libs
 
 ## ???
 

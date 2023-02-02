@@ -39,6 +39,9 @@
   Algorithmic Trading Library <http://gbeced.github.io/pyalgotrade/>
 - [idanya/algo-trader](https://github.com/idanya/algo-trader): Trading bot with
   support for realtime trading, backtesting, custom strategies and much more.
+- [mhallsmoore/qstrader](https://github.com/mhallsmoore/qstrader):
+  QuantStart.com - QSTrader backtesting simulation engine.
+  <https://www.quantstart.com/qstrader/>
 
 ## Backtesting
 

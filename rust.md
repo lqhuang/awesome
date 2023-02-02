@@ -77,6 +77,8 @@
   <http://killercup.github.io/cargo-edit/>
 - [cargo-watch](https://github.com/watchexec/cargo-watch): Watches over your
   Cargo project's source. <https://watchexec.github.io/#cargo-watch>
+- [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist): 📦 shippable
+  application packaging for Rust
 - [crate-ci/cargo-release](https://github.com/crate-ci/cargo-release): Cargo
   subcommand `release`: everything about releasing a rust crate.
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix): Automatically apply
