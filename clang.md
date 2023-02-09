@@ -1,7 +1,5 @@
 # C / Linux
 
-Though Cpp definitely is not Clang, I still put them here without new page.
-
 ## Resources
 
 ### Readings
@@ -16,6 +14,9 @@ Though Cpp definitely is not Clang, I still put them here without new page.
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 - [C++ reference](https://en.cppreference.com/w/)
 - [C reference](https://en.cppreference.com/w/c)
+- [Clang documentation](https://clang.llvm.org/docs/)
+- [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools):
+  Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 
 ### Books
 
@@ -37,7 +38,26 @@ Though Cpp definitely is not Clang, I still put them here without new page.
 - [Learn C++](https://www.learncpp.com/): LearnCpp.com is a free website devoted
   to teaching you how to program in C++.
 
-## Debug
+## Toolchain
+
+### Analyzer
+
+- [Valgrind](https://valgrind.org/): Valgrind is an instrumentation framework
+  for building dynamic analysis tools. There are Valgrind tools that can
+  automatically detect many memory management and threading bugs, and profile
+  your programs in detail.
+- [Valgrind's Tool Suite](https://valgrind.org/info/tools.html): The Valgrind
+  distribution includes the following debugging and profiling tools: Memcheck,
+  Cachegrind, Callgrind, Massif, Helgrind, DRD, DHAT, etc ...
+- [Helgrind](https://valgrind.org/docs/manual/hg-manual.html): a thread error
+  detector
+- [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer,
+  ThreadSanitizer, MemorySanitizer
+- [Clang Static Analyzer](https://clang-analyzer.llvm.org/): The Clang Static
+  Analyzer is a source code analysis tool that finds bugs in C, C++, and
+  Objective-C programs. <https://clang.llvm.org/docs/ClangStaticAnalyzer.html>
+
+### Debug
 
 - [hugsy/gef](https://github.com/hugsy/gef): GEF (GDB Enhanced Features) - a
   modern experience for GDB with advanced debugging capabilities for exploit
@@ -52,7 +72,7 @@ Though Cpp definitely is not Clang, I still put them here without new page.
   Decompiler Explorer! Compare tools on the forefront of static analysis, now in
   your web browser! <https://dogbolt.org/>
 
-## Performance profile
+### Performance profile
 
 - [koute/bytehound](https://github.com/koute/bytehound): A memory profiler for
   Linux.
@@ -103,9 +123,11 @@ Though Cpp definitely is not Clang, I still put them here without new page.
   concurrency framework for C++11
 - [mitchellh/libxev](https://github.com/mitchellh/libxev): libxev is a
   cross-platform, high-performance event loop that provides abstractions for
-  non-blocking IO, timers, events, and more and works on Linux (io\_uring or
+  non-blocking IO, timers, events, and more and works on Linux (io_uring or
   epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
-- [rsms/llvmbox](https://github.com/rsms/llvmbox):  Self contained, fully static llvm tools & libs
+- [rsms/llvmbox](https://github.com/rsms/llvmbox): Self contained, fully static
+  llvm tools & libs
+- [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker
 
 ## ???
 
