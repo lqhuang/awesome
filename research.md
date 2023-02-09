@@ -14,8 +14,18 @@
 - [soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet):
   Classical equations and diagrams in machine learning <http://soulmachine.me/>
 - [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows):
-- [francois-rozet/zuko](https://github.com/francois-rozet/zuko): Normalizing
-  flows in PyTorch <https://zuko.readthedocs.io/>
+  Awesome resources on normalizing flows.
+- [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer):
+  An annotated implementation of the Transformer paper.
+  <http://nlp.seas.harvard.edu/annotated-transformer>
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations):
+  🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side
+  notes 📝; including transformers (original, xl, switch, feedback, vit, ...),
+  optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮
+  reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+  <https://nn.labml.ai/>
+- [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic): A
+  technical report on convolution arithmetic in the context of deep learning
 
 ## Graph
 
@@ -41,22 +51,13 @@
   里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习
   <https://graphscope.io/>
 
-## Optimization
-
-- [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): A
-  large scale non-linear optimization library <http://ceres-solver.org/>
-- [google/or-tools](https://github.com/google/or-tools): Google's Operations
-  Research tools <https://developers.google.com/optimization/>
-
 ## PDE / ODE
 
 - [microsoft/pdearena](https://github.com/microsoft/pdearena): A modern,
   scalable, and easy to use PDE Surrogate Benchmarking Framework.
   <https://microsoft.github.io/pdearena/>
 
----
-
-## Misc ??
+## Misc
 
 - [gpoore/minted](https://github.com/gpoore/minted): minted is a LaTeX package
   that provides syntax highlighting using the Pygments library. Highlighted

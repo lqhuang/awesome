@@ -43,6 +43,9 @@
 
 - [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native
   Application Proxy
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager):
+  Docker container for managing Nginx proxy hosts with a simple, powerful
+  interface <https://nginxproxymanager.com/>
 
 ## Cloud native
 

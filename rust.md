@@ -43,7 +43,6 @@
 
 ## Build
 
-- [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker
 - [cross-rs/cross](https://github.com/cross-rs/cross): “Zero setup” cross
   compilation and “cross testing” of Rust crates
 - [dtolnay/rust-toolchain](https://github.com/dtolnay/rust-toolchain): Concise
@@ -366,6 +365,9 @@
   implementation of Apache Arrow <https://arrow.apache.org/>
 - [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2):
   Transmute-free Rust library to work with the Arrow format
+- [eto-ai/lance](https://github.com/eto-ai/lance): Alternative to Parquet. 100x
+  faster for random access, automatic versioning, optimized for computer vision,
+  bioinformatics, spatial and ML data. Apache Arrow and DuckDB compatible.
 - [alexcrichton/wait-timeout](https://github.com/alexcrichton/wait-timeout):
   Waiting on a child process with a timeout in Rust
 - [BurntSushi/bstr](https://github.com/BurntSushi/bstr): A string type for Rust
@@ -420,6 +422,9 @@
   library for lossless syntax trees, inspired in part by Swift's libsyntax.
 - [egraphs-good/egg](https://github.com/egraphs-good/egg): egg is a flexible,
   high-performance e-graph library <https://egraphs-good.github.io/>
+- [hellux/jotdown](https://github.com/hellux/jotdown): A Djot parser library
+- [matklad/djot-rs](https://github.com/matklad/djot-rs): An experimental Rust
+  implementation of the Djot light markup language.
 
 ### Utils
 
@@ -456,6 +461,8 @@
   and zlib bindings for Rust
 - [assert-rs/trycmd](https://github.com/assert-rs/trycmd): Snapshot testing for
   a herd of CLI tests
+- [Keats/validator](https://github.com/Keats/validator): Simple validation for
+  Rust structs
 
 ## Domain related
 

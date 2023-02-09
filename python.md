@@ -174,6 +174,9 @@
 
 ## FP in Python
 
+- [python/typing](https://github.com/python/typing): Python static typing home.
+  Hosts the documentation and a user help forum.
+  <https://typing.readthedocs.io/>
 - [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python
   to fast C extensions <https://mypyc.readthedocs.io>
 - [cognitedata/Expression](https://github.com/cognitedata/Expression): Pragmatic
@@ -237,11 +240,6 @@
   high-performance implementation of Wilkinson formulas for Python.
 - [sepandhaghighi/pycm](https://github.com/sepandhaghighi/pycm): Multi-class
   confusion matrix library in Python <http://pycm.io/>
-- [facebookresearch/theseus](https://github.com/facebookresearch/theseus): A
-  library for differentiable nonlinear optimization
-  <https://sites.google.com/view/theseus-ai>
-- [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy): A Python-embedded modeling
-  language for convex optimization problems. <https://www.cvxpy.org/>
 - [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx): A high performance
   Python graph library implemented in Rust.
 - [nteract/papermill](https://github.com/nteract/papermill): 📚 Parameterize,
@@ -359,6 +357,9 @@
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit): The modern,
   all-batteries-included GitHub SDK for Python, including rest api, graphql,
   webhooks, like octokit!
+- [guilatrova/gracy](https://github.com/guilatrova/gracy): Gracy helps you
+  handle failures, logging, retries, throttling, and tracking for all your HTTP
+  interactions.
 
 ## Featured libraries
 
@@ -411,6 +412,11 @@
   got Pythonic
 - [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle): A
   Python module to customize the process title
+- [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task
+  scheduling library for Python
+- [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data
+  operator (and CLI), for all your declarative restructuring needs. Got data?
+  Glom it! ☄️ <https://glom.readthedocs.io/>
 
 ### Configuration
 
@@ -458,8 +464,6 @@
   client library <https://pika.readthedocs.io/>
 - [celery/kombu](https://github.com/celery/kombu): Messaging library for Python.
   <http://kombu.readthedocs.org/>
-- [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task
-  scheduling library for Python
 - [Miksus/rocketry](https://github.com/Miksus/rocketry): Modern scheduling
   library for Python <https://rocketry.readthedocs.io/>
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq): Distributed

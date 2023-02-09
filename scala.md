@@ -27,6 +27,11 @@
 - [zio/zio](https://github.com/zio/zio): ZIO — A type-safe, composable library
   for async and concurrent programming in Scala <https://zio.dev/>
 
+### Benchmark
+
+- [marcinzh/effect-zoo](https://github.com/marcinzh/effect-zoo): Effect Zoo for
+  Scala
+
 ## Build
 
 ### Sbt plugins
@@ -161,6 +166,8 @@
 
 ### Typelevel
 
+- [atnos-org/eff](https://github.com/atnos-org/eff): Eff monad for cats
+  <https://atnos-org.github.io/eff>
 - [tofu-tf/tofu](https://github.com/tofu-tf/tofu): Functional programming
   toolbox <https://docs.tofu.tf>
 - [typelevel/cats-tagless](https://github.com/typelevel/cats-tagless): Library
@@ -198,3 +205,5 @@
   for Scala 3
 - [fwbrasil/kyo](https://github.com/fwbrasil/kyo): High-performance composable
   effects for Scala 3
+- [marcinzh/turbolift](https://github.com/marcinzh/turbolift): Algebraic Effects
+  for Scala 3 <https://marcinzh.github.io/turbolift/>

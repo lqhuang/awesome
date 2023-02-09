@@ -35,11 +35,8 @@
   Differentiable SDE solvers with GPU support and efficient sensitivity
   analysis.
 
-### Feature engineering / Optimization
+### Optimization
 
-- [alteryx/featuretools](https://github.com/alteryx/featuretools): An open
-  source python library for automated feature engineering
-  <https://www.featuretools.com/>
 - [optuna/optuna](https://github.com/optuna/optuna): A hyperparameter
   optimization framework <https://optuna.org/>
 - [Epistimio/orion](https://github.com/Epistimio/orion): Asynchronous
@@ -47,9 +44,27 @@
 - [google/vizier](https://github.com/google/vizier): Python-based research
   interface for blackbox and hyperparameter optimization, based on Google's
   internal Vizier Service. <https://oss-vizier.readthedocs.io/>
+- [leopard-ai/betty](https://github.com/leopard-ai/betty): Betty: an automatic
+  differentiation library for generalized meta-learning and multilevel
+  optimization <https://leopard-ai.github.io/betty/>
+- [facebookresearch/theseus](https://github.com/facebookresearch/theseus): A
+  library for differentiable nonlinear optimization
+  <https://sites.google.com/view/theseus-ai>
+- [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy): A Python-embedded modeling
+  language for convex optimization problems. <https://www.cvxpy.org/>
+- [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): A
+  large scale non-linear optimization library <http://ceres-solver.org/>
+- [google/or-tools](https://github.com/google/or-tools): Google's Operations
+  Research tools <https://developers.google.com/optimization/>
 
 ### Network implementation
 
+- [francois-rozet/zuko](https://github.com/francois-rozet/zuko): Normalizing
+  flows in PyTorch <https://zuko.readthedocs.io/>
+- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq): Repo
+  for external large-scale work
+- [deepmind/alphatensor](https://github.com/deepmind/alphatensor): Discovering
+  faster matrix multiplication algorithms with reinforcement learning
 - [hwchase17/langchain](https://github.com/hwchase17/langchain): ⚡ Building
   applications with LLMs through composability ⚡
 
@@ -67,6 +82,25 @@
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning): Deep
   learning framework to train, deploy, and ship AI products Lightning fast.
   <https://lightning.ai/>
+
+### Libraries
+
+- [pytorch/functorch](https://github.com/pytorch/functorch): functorch is
+  JAX-like composable function transforms for PyTorch.
+  <https://pytorch.org/functorch/>
+- [pytorch/torcharrow](https://github.com/pytorch/torcharrow): A Pandas-inspired
+  DataFrame library for SQL-like transformation with Pythonic and
+  imperative-style API. Typical use case includes data preprocessing in ML
+  models.
+- [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning
+  operations reinvented (for pytorch, tensorflow, jax and others)
+  <https://einops.rocks/>
+- [dmlc/dlpack](https://github.com/dmlc/dlpack): common in-memory tensor
+  structure <https://dmlc.github.io/dlpack/latest>
+- [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple,
+  safe way to store and distribute tensors
+- [google/pyglove](https://github.com/google/pyglove): Manipulating Python
+  Programs
 
 ## Compiler / Low level
 
@@ -93,15 +127,13 @@
   mathematical expressions involving multi-dimensional arrays.
   <https://aesara.readthedocs.io/>
 
-## Jax eco
+## Jax ecology
 
 - [openxla/xla](https://github.com/openxla/xla): A community-driven and modular
   open source compiler for ML.
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable
   PyTrees and filtered transforms => neural networks in JAX.
   <https://docs.kidger.site/equinox/>
-- [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and
-  runtime checking for shape and dtype of JAX arrays, and PyTrees.
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX
   is a sampling library designed for ease of use, speed and modularity.
   <https://blackjax-devs.github.io/blackjax/>
@@ -126,6 +158,9 @@
   on extensibility.
 - [deepmind/jraph](https://github.com/deepmind/jraph): A Graph Neural Network
   Library in Jax <https://jraph.readthedocs.io/en/latest/>
+- [vicariousinc/PGMax](https://github.com/vicariousinc/PGMax): Loopy belief
+  propagation for factor graphs on discrete variables, in JAX!
+  <https://pgmax.readthedocs.io/>
 - [google/flax](https://github.com/google/flax): Flax is a neural network
   library for JAX that is designed for flexibility.
   <https://flax.readthedocs.io/>
@@ -168,6 +203,8 @@
 
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping):
   Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
+- [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and
+  runtime checking for shape and dtype of JAX arrays, and PyTrees.
 - [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Development
   environment for machine learning
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run
@@ -176,14 +213,11 @@
   AWS Deep Learning Containers (DLCs) are a set of Docker images for training
   and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
   <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>
-- [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple,
-  safe way to store and distribute tensors
-- [pytorch/torcharrow](https://github.com/pytorch/torcharrow): A Pandas-inspired
-  DataFrame library for SQL-like transformation with Pythonic and
-  imperative-style API. Typical use case includes data preprocessing in ML
-  models.
 - [openai/tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast BPE
   tokeniser for use with OpenAI's models.
+- [alteryx/featuretools](https://github.com/alteryx/featuretools): An open
+  source python library for automated feature engineering
+  <https://www.featuretools.com/>
 
 ## Misc
 

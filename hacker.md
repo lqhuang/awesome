@@ -68,6 +68,8 @@
   program to a new terminal
 - [ouch-org/ouch](https://github.com/ouch-org/ouch): Painless compression and
   decompression for your terminal
+- [solidiquis/erdtree](https://github.com/solidiquis/erdtree): A multi-threaded
+  file-tree visualizer and disk usage analyzer.
 
 ## Software / Services
 
@@ -132,6 +134,9 @@
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee): A great looking and
   easy-to-use photo-management-system you can run on your server, to manage and
   share photos. <https://lycheeorg.github.io/>
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore): Omnivore is
+  a complete, open source read-it-later solution for people who like reading.
+  <https://omnivore.app/>
 
 ### macOS / iPadOS
 

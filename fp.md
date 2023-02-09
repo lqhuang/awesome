@@ -10,6 +10,8 @@
 ### Resources
 
 - [stevana/armstrong-distributed-systems](https://github.com/stevana/armstrong-distributed-systems)
+- [darrenjw/fp-ssc-course](https://github.com/darrenjw/fp-ssc-course): An
+  introduction to functional programming for scalable statistical computing
 
 ## Effect system
 

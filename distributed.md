@@ -33,7 +33,7 @@
 - [hydro-project/hydroflow](https://github.com/hydro-project/hydroflow): Hydro's
   low-level dataflow runtime <https://hydro-project.github.io/hydroflow/>
 
-## Actor
+## Actor frameworks
 
 - [uazu/stakker](https://github.com/uazu/stakker): A lightweight low-level
   single-threaded actor runtime
@@ -106,6 +106,11 @@
   checker for implementing distributed systems.
 - [madsim-rs/madsim](https://github.com/madsim-rs/madsim):Magical Deterministic
   Simulator for distributed systems in Rust.
+- [shadow/shadow](https://github.com/shadow/shadow): Shadow is a discrete-event
+  network simulator that directly executes real application code, enabling you
+  to simulate distributed systems with thousands of network-connected processes
+  in realistic and scalable private network experiments using your laptop,
+  desktop, or server running Linux. <https://shadow.github.io/>
 
 ## Formal verification
 

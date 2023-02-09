@@ -102,10 +102,19 @@
   <https://nickel-lang.org>
 - [grafana/phlare](https://github.com/grafana/phlare): 🔥 horizontally-scalable,
   highly-available, multi-tenant continuous profiling aggregation system
+
+## Documents
+
 - [markdoc/markdoc](https://github.com/markdoc/markdoc): A powerful, flexible,
   Markdown-based authoring framework. <https://markdoc.dev/>
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes): A
   document management system
+- [shuding/nextra](https://github.com/shuding/nextra): Simple, powerful and
+  flexible site generation framework with everything you love from Next.js.
+  <https://nextra.site/>
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack): A
+  platform to create documentation/wiki content built with PHP & Laravel
+  <https://www.bookstackapp.com/>
 
 ## DevOps
 
@@ -225,6 +234,8 @@
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix):
   An unofficial, opinionated, gentle introduction to Nix (@NixOS) from
   Determinate Systems <https://zero-to-nix.com/>
+- [tweag/jupyenv](https://github.com/tweag/jupyenv): Declarative and
+  reproducible Jupyter environments - powered by Nix <https://jupyenv.io/>
 
 ### GitHub Action
 

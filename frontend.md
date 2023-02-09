@@ -51,6 +51,8 @@
   fast, lightweight web components. <https://lit.dev/>
 - [daisyui/react-daisyui](https://github.com/daisyui/react-daisyui): daisyUI
   components built with React 🌼
+- [tremorlabs/tremor](https://github.com/tremorlabs/tremor): The react library
+  to build dashboards fast. <https://tremor.so/>
 
 ### Components
 
