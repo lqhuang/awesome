@@ -566,3 +566,5 @@
   windows/dx11 linux/opengl < Makepad is a creative software development
   platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11
   linux/opengl <http://makepad.dev/>
+- [linebender/xilem](https://github.com/linebender/xilem): An experimental Rust
+  native UI framework

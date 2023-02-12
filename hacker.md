@@ -263,14 +263,8 @@
   efficient proxy framework with nice features suitable for various use cases.
 - [mingcheng/socks5lb](https://github.com/mingcheng/socks5lb): A simple socks5
   proxy load balance and transparent proxy
-- [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list):
-  Chinese-specific configuration to improve your favorite DNS server. Best
-  partner for chnroutes.
 - [SukkaW/Surge](https://github.com/SukkaW/Surge): 由 Sukka 搜集、整理、维护的、
   个人自用的、仅适用于 Surge 的 Rule Snippet <https://ruleset.skk.moe>
-- [pymumu/smartdns](https://github.com/pymumu/smartdns): A local DNS server to
-  obtain the fastest website IP for the best Internet experience， 一个本地 DNS
-  服务器，获取最快的网站 IP，获得最佳上网体验。
 - [nadoo/glider](https://github.com/nadoo/glider): glider is a forward proxy
   with multiple protocols support, and also a dns/dhcp server with ipset
   management features(like dnsmasq).
@@ -285,6 +279,17 @@
   An open source visual route tracking CLI tool (Enhanced Edition)
 - [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace): An open source visual
   route tracking CLI tool <https://trace.ac/>
+
+### DNS
+
+- [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list):
+  Chinese-specific configuration to improve your favorite DNS server. Best
+  partner for chnroutes.
+- [pymumu/smartdns](https://github.com/pymumu/smartdns): A local DNS server to
+  obtain the fastest website IP for the best Internet experience， 一个本地 DNS
+  服务器，获取最快的网站 IP，获得最佳上网体验。
+- [errantmind/faf-dns-proxy](https://github.com/errantmind/faf-dns-proxy): A
+  DNS-over-TLS (DoT) Proxy, Engineered for Speed
 
 ## Misc
 

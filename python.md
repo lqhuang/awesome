@@ -129,6 +129,9 @@
   request patterns and response side effects 🦋
 - [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover): Near
   Zero-Overhead Python Code Coverage
+- [econchick/interrogate](https://github.com/econchick/interrogate): Explain
+  yourself! Interrogate a codebase for docstring coverage.
+  <https://interrogate.readthedocs.io/>
 - [tonybaloney/wily](https://github.com/tonybaloney/wily): A Python application
   for tracking, reporting on timing and complexity in Python code
 - [omarkohl/pytest-datafiles](https://github.com/omarkohl/pytest-datafiles):

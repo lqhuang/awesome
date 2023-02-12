@@ -1,5 +1,11 @@
 # Cryptograph
 
+## Tools
+
+- [life4/enc](https://github.com/life4/enc): 🔑🔒 A modern and friendly CLI
+  alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign
+  text and files, and more.
+
 ## Libraries
 
 - [wbond/oscrypto](https://github.com/wbond/oscrypto): Compiler-free Python

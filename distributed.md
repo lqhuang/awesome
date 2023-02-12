@@ -14,6 +14,13 @@
 - [Flexible Paxos](https://fpaxos.github.io/): Flexible Paxos is the simple
   observation that it is not necessary to require all quorums in Paxos to
   intersect.
+- [mwhittaker/consistency_in_distributed_systems](https://github.com/mwhittaker/consistency_in_distributed_systems):
+  Distributed Systems Consistency Reading Group
+  <https://mwhittaker.github.io/consistency_in_distributed_systems>
+- [mwhittaker's review of paper](https://mwhittaker.github.io/papers/): 📄 Paper
+  Summaries <https://mwhittaker.github.io/papers/>
+- [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/):
+  Curated list of resources on testing distributed systems
 
 ## System
 
@@ -99,6 +106,9 @@
   production usage.
 - [canonical/raft](https://github.com/canonical/raft): C implementation of the
   Raft consensus protocol <https://raft.readthedocs.io/>
+- [mwhittaker/frankenpaxos](https://github.com/mwhittaker/frankenpaxos): A
+  collection of state machine replication protocols
+  <https://mwhittaker.github.io/frankenpaxos/>
 
 ## Correctness
 

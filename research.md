@@ -26,6 +26,7 @@
   <https://nn.labml.ai/>
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic): A
   technical report on convolution arithmetic in the context of deep learning
+- [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 
 ## Graph
 
