@@ -21,11 +21,11 @@
 
 - [akka/akka](https://github.com/akka/akka): Build highly concurrent,
   distributed, and resilient message-driven applications on the JVM
-  <https://akka.io/>
+  <https://akka.io>
 - [typelevel/cats-effect](https://github.com/typelevel/cats-effect): The pure
-  asynchronous runtime for Scala <https://typelevel.org/cats-effect/>
+  asynchronous runtime for Scala <https://typelevel.org/cats-effect>
 - [zio/zio](https://github.com/zio/zio): ZIO — A type-safe, composable library
-  for async and concurrent programming in Scala <https://zio.dev/>
+  for async and concurrent programming in Scala <https://zio.dev>
 
 ### Benchmark
 
@@ -51,19 +51,19 @@
   testing library for Scala
 - [disneystreaming/weaver-test](https://github.com/disneystreaming/weaver-test):
   A test framework that runs everything in parallel.
-  <https://disneystreaming.github.io/weaver-test/>
+  <https://disneystreaming.github.io/weaver-test>
 - [etorreborre/specs2](https://github.com/etorreborre/specs2):Software
-  Specifications for Scala <https://etorreborre.github.io/specs2/>
+  Specifications for Scala <https://etorreborre.github.io/specs2>
 
 ## Featured
 
 - [softwaremill/macwire](https://github.com/softwaremill/macwire): Lightweight
   and Nonintrusive Scala Dependency Injection Library
 - [optics-dev/monocle](https://github.com/optics-dev/monocle): Optics library
-  for Scala <https://www.optics.dev/Monocle/>
+  for Scala <https://www.optics.dev/Monocle>
 - [scalalandio/chimney](https://github.com/scalalandio/chimney): Scala library
   for boilerplate-free, type-safe data transformations
-  <https://scalalandio.github.io/chimney/>
+  <https://scalalandio.github.io/chimney>
 - [lloydmeta/enumeratum](https://github.com/lloydmeta/enumeratum): A type-safe,
   reflection-free, powerful enumeration implementation for Scala with exhaustive
   pattern match warnings and helpful integrations.
@@ -75,14 +75,13 @@
 ### Types
 
 - [Iltotore/iron](https://github.com/Iltotore/iron): Strong type constraints for
-  Scala <https://iltotore.github.io/iron/docs/>
+  Scala <https://iltotore.github.io/iron/docs>
 - [milessabin/shapeless](https://github.com/milessabin/shapeless): Generic
   programming for Scala
 - [arainko/ducktape](https://github.com/arainko/ducktape): The thing that glues
   your code. Or is it duct 🤔
 - [epfl-lara/stainless](https://github.com/epfl-lara/stainless): Verification
-  framework and tool for higher-order Scala programs
-  <https://stainless.epfl.ch/>
+  framework and tool for higher-order Scala programs <https://stainless.epfl.ch>
 
 ### Serialization
 
@@ -113,11 +112,11 @@
 - [finagle/finch](https://github.com/finagle/finch): Scala combinator library
   for building Finagle HTTP services
 - [raquo/Laminar](https://github.com/raquo/Laminar): Simple, expressive, and
-  safe UI library for Scala.js <https://laminar.dev/>
+  safe UI library for Scala.js <https://laminar.dev>
 - [PurpleKingdomGames/tyrian](https://github.com/PurpleKingdomGames/tyrian):
-  Elm-inspired Scala UI library. <https://tyrian.indigoengine.io/>
+  Elm-inspired Scala UI library. <https://tyrian.indigoengine.io>
 - [scalameta/mdoc](https://github.com/scalameta/mdoc): Typechecked markdown
-  documentation for Scala <https://scalameta.org/mdoc/>
+  documentation for Scala <https://scalameta.org/mdoc>
 
 ### Tools
 
@@ -126,9 +125,9 @@
 - [scalapy/scalapy](https://github.com/scalapy/scalapy): Use the world of Python
   from the comfort of Scala!
 - [almond-sh/almond](https://github.com/almond-sh/almond): A Scala kernel for
-  Jupyter <https://almond.sh/>
+  Jupyter <https://almond.sh>
 - [polynote/polynote](https://github.com/polynote/polynote): A better notebook
-  for Scala (and more) <https://polynote.org/>
+  for Scala (and more) <https://polynote.org>
 - [seglo/kafka-lag-exporter](https://github.com/seglo/kafka-lag-exporter):
   Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
 - [lampepfl/dotty-macro-examples](https://github.com/lampepfl/dotty-macro-examples):
@@ -143,26 +142,26 @@
 ### Akka
 
 - [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria): Scala
-  GraphQL implementation <https://sangria-graphql.github.io/>
+  GraphQL implementation <https://sangria-graphql.github.io>
 - [paypal/squbs](https://github.com/paypal/squbs): Akka Streams & Akka HTTP for
   Large-Scale Production Deployments <http://paypal.github.io/squbs>
 - [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer): Akka
   extension and agent exposing application telemetry and events via
   OpenTelemetry interface
 - [ing-bank/baker](https://github.com/ing-bank/baker): Orchestrate
-  microservice-based process flows <https://ing-bank.github.io/baker/>
+  microservice-based process flows <https://ing-bank.github.io/baker>
 - [awagen/kolibri](https://github.com/awagen/kolibri): Repository gathering all
   projects of Kolibri. Kolibri provides a framework for concurrent, clusterable
   multi-node executions. Its based on Akka, written in Scala. Initial use-case
   job definitions focus on evaluations of search systems and examples of state
   sharding. Given the flexibility of the implementation, more jobs are planned,
-  such as load... <https://awagen.github.io/kolibri/>
+  such as load... <https://awagen.github.io/kolibri>
 - [akka/akka-persistence-r2dbc](https://github.com/akka/akka-persistence-r2dbc):
   R2DBC Plugin for Akka Persistence
   <https://doc.akka.io/docs/akka-persistence-r2dbc/current/index.html>
 - [endless4s/endless](https://github.com/endless4s/endless): Scala library to
   describe event sourced entities using tagless-final algebras
-  <https://endless4s.github.io/>
+  <https://endless4s.github.io>
 
 ### Typelevel
 
@@ -172,7 +171,7 @@
   toolbox <https://docs.tofu.tf>
 - [typelevel/cats-tagless](https://github.com/typelevel/cats-tagless): Library
   of utilities for tagless final encoded algebras
-  <https://typelevel.org/cats-tagless/>
+  <https://typelevel.org/cats-tagless>
 - [higherkindness/droste](https://github.com/higherkindness/droste): recursion
   schemes for cats; to iterate is human, to recurse, divine
 - [typelevel/kittens](https://github.com/typelevel/kittens): Automatic type
@@ -189,9 +188,9 @@
 ### ZIO
 
 - [ghostdogpr/caliban](https://github.com/ghostdogpr/caliban): Functional
-  GraphQL library for Scala <https://ghostdogpr.github.io/caliban/>
+  GraphQL library for Scala <https://ghostdogpr.github.io/caliban>
 - [devsisters/shardcake](https://github.com/devsisters/shardcake): Sharding and
-  location transparency for Scala <https://devsisters.github.io/shardcake/>
+  location transparency for Scala <https://devsisters.github.io/shardcake>
 - [dream11/zio-http](https://github.com/dream11/zio-http): A scala library to
   write Http apps. <https://dream11.github.io/zio-http>
 - [tailcallhq/zio-compose](https://github.com/tailcallhq/zio-compose): A Scala
@@ -206,4 +205,4 @@
 - [fwbrasil/kyo](https://github.com/fwbrasil/kyo): High-performance composable
   effects for Scala 3
 - [marcinzh/turbolift](https://github.com/marcinzh/turbolift): Algebraic Effects
-  for Scala 3 <https://marcinzh.github.io/turbolift/>
+  for Scala 3 <https://marcinzh.github.io/turbolift>

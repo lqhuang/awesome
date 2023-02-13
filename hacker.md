@@ -6,7 +6,7 @@
 
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines):
   A guide to help you write better command-line programs, taking traditional
-  UNIX principles and updating them for the modern day. <https://clig.dev/>
+  UNIX principles and updating them for the modern day. <https://clig.dev>
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line):
   Master the command line, in one page
 - [awesome-macos-command-line](https://git.herrbischoff.com/awesome-macos-command-line/about/):A
@@ -33,14 +33,14 @@
   virtual file system. <https://telegram.dog/hfsusers>
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless): jless
   is a command-line JSON viewer designed for reading, exploring, and searching
-  through JSON data. <https://jless.io/>
+  through JSON data. <https://jless.io>
 - [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal
-  session recorder 📹 <https://asciinema.org/>
+  session recorder 📹 <https://asciinema.org>
 - [asciinema/agg](https://github.com/asciinema/agg): asciinema gif generator
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs): Your CLI home video
   recorder 📼
 - [ellie/atuin](https://github.com/ellie/atuin): 🐢 Magical shell history
-  <https://atuin.sh/>
+  <https://atuin.sh>
 - [blicky/ncdu](https://g.blicky.net/ncdu.git): Ncdu (NCurses Disk Usage) is a
   disk usage analyzer with an ncurses interface. <https://dev.yorhel.nl/ncdu>
 - [bootandy/dust](https://github.com/bootandy/dust): A more intuitive version of
@@ -56,7 +56,7 @@
 - [exdx/dcp](https://github.com/exdx/dcp): docker cp made easy
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen): Fast file
   synchronization and network forwarding for remote development
-  <https://mutagen.io/>
+  <https://mutagen.io>
 - [chshersh/tool-sync](https://github.com/chshersh/tool-sync): 🧰 Download
   pre-built binaries of all your favourite tools with a single command
 - [dalance/procs](https://github.com/dalance/procs): A modern replacement for ps
@@ -84,9 +84,9 @@
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake is a
   open-source tool, built by volunteers, for converting video from nearly any
   format to a selection of modern, widely supported codecs.
-  <https://handbrake.fr/>
+  <https://handbrake.fr>
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut): The swiss army
-  knife of lossless video/audio editing <https://mifi.no/losslesscut/>
+  knife of lossless video/audio editing <https://mifi.no/losslesscut>
 - [Typst](https://typst.app/): Compose papers faster: Focus on your text and let
   Typst take care of layout and formatting.
 - [Inkdrop](https://www.inkdrop.app/): Organizing your Markdown notes made
@@ -94,67 +94,67 @@
 - [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown
   as mindmaps with Markmap.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed
-  for reading research papers and technical books. <https://sioyek.info/>
+  for reading research papers and technical books. <https://sioyek.info>
 - [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely
   encrypted backups in the cloud!
 - [borgbackup/borg](https://github.com/borgbackup/borg): Deduplicating archiver
-  with compression and authenticated encryption. <https://www.borgbackup.org/>
+  with compression and authenticated encryption. <https://www.borgbackup.org>
 - [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by
-  GitHub Discussions. :octocat: 💬 💎 <https://giscus.app/>
+  GitHub Discussions. :octocat: 💬 💎 <https://giscus.app>
 - [djyde/cusdis](https://github.com/djyde/cusdis): lightweight, privacy-friendly
-  alternative to Disqus. <https://cusdis.com/>
+  alternative to Disqus. <https://cusdis.com>
 - [Pixcall](https://pixcall.com/): 助力个人和团队以更好的方式管理图片、视频、文
   档等数字资产
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists):
   Check if an email address exists without sending any email, written in Rust.
-  Comes with a ⚙️ HTTP backend. <https://reacher.email/>
+  Comes with a ⚙️ HTTP backend. <https://reacher.email>
 
 ### Self-hosted
 
 - [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure
-  for absolutely everyone. <https://cal.com/>
+  for absolutely everyone. <https://cal.com>
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted
   bookmark service
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get
   seamless remote access to any Linux device. Centralized SSH for the edge and
   cloud computing
 - [simple-login/app](https://github.com/simple-login/app): The SimpleLogin
-  back-end <https://simplelogin.io/>
+  back-end <https://simplelogin.io>
 - [microfeed/microfeed](https://github.com/microfeed/microfeed): a lightweight
   cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents,
-  and curated urls. <https://www.microfeed.org/>
+  and curated urls. <https://www.microfeed.org>
 - [wagtail/wagtail](https://github.com/wagtail/wagtail): A Django content
   management system focused on flexibility and user experience
-  <https://wagtail.org/>
+  <https://wagtail.org>
 - [strapi/strapi](https://github.com/strapi/strapi): 🚀 Strapi is the leading
   open-source headless CMS. It’s 100% JavaScript, fully customizable and
-  developer-first. <https://strapi.io/>
+  developer-first. <https://strapi.io>
 - [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered
-  Photos App for the Decentralized Web 🌈💎✨ <https://photoprism.app/>
+  Photos App for the Decentralized Web 🌈💎✨ <https://photoprism.app>
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee): A great looking and
   easy-to-use photo-management-system you can run on your server, to manage and
-  share photos. <https://lycheeorg.github.io/>
+  share photos. <https://lycheeorg.github.io>
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore): Omnivore is
   a complete, open source read-it-later solution for people who like reading.
-  <https://omnivore.app/>
+  <https://omnivore.app>
 
 ### macOS / iPadOS
 
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows
-  alt-tab on macOS <https://alt-tab-macos.netlify.app/>
+  alt-tab on macOS <https://alt-tab-macos.netlify.app>
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp):
   The easiest way to install and switch between multiple versions of Xcode -
   with a mouse click.
 - [exelban/stats](https://github.com/exelban/stats): macOS system monitor in
   your menu bar
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a
-  full-fledged code editor for iPad <https://code.thebaselab.com/>
+  full-fledged code editor for iPad <https://code.thebaselab.com>
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock
   your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra
   brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots
-  more! <https://betterdisplay.pro/>
+  more! <https://betterdisplay.pro>
 - [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager
-  for macOS <https://maccy.app/>
+  for macOS <https://maccy.app>
 - [Shottr](https://shottr.cc/): Shottr is a small, fast, human-sized screenshot
   app built for those who care about pixels. It was crafted with Swift,
   optimized for M1, and is distributed for free.
@@ -173,15 +173,15 @@
 ### Vault / Passwords
 
 - [padloc/padloc](https://github.com/padloc/padloc): A modern, open source
-  password manager for individuals and teams. <https://padloc.app/>
+  password manager for individuals and teams. <https://padloc.app>
 - [lesspass/lesspass](https://github.com/lesspass/lesspass): 🔑 stateless open
-  source password manager <https://www.lesspass.com/>
+  source password manager <https://www.lesspass.com>
 - [Bitwarden](https://github.com/bitwarden): Open source password management
   solutions for individuals, teams, and business organizations.
-  <https://bitwarden.com/>
+  <https://bitwarden.com>
 - [Passwordless](https://github.com/passwordless): Use open source and modern
   browser standards to build FIDO2 Webauthn applications for end users.
-  <https://passwordless.dev/>
+  <https://passwordless.dev>
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden):
   Unofficial Bitwarden compatible server written in Rust, formerly known as
   bitwarden_rs
@@ -189,53 +189,53 @@
 ## Dev tools
 
 - [z-shell/zi](https://github.com/z-shell/zi): ✨ A Swiss Army Knife for Zsh -
-  Unix Shell <https://wiki.zshell.dev/>
+  Unix Shell <https://wiki.zshell.dev>
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose):
   Process Compose is a simple and flexible scheduler and orchestrator to manage
   non-containerized applications.
 - [kampersanda/goodname](https://github.com/kampersanda/goodname): Tool to
   assist you with cool naming of your methods and software
-  <https://kampersanda.github.io/goodname/>
+  <https://kampersanda.github.io/goodname>
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii
   diagram scribbles into happy little SVG
-  <http://ivanceras.github.io/svgbob-editor/>
+  <http://ivanceras.github.io/svgbob-editor>
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): 🔮
   Seamlessly visualize your JSON data instantly into graphs; paste, import or
   fetch!
 - [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with
-  Protocol Buffers. <https://buf.build/>
+  Protocol Buffers. <https://buf.build>
 - [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally
   🚀
 - [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest
   tool
 - [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative,
-  Reproducible, and Composable Developer Environments <https://devenv.sh/>
+  Reproducible, and Composable Developer Environments <https://devenv.sh>
 - [muety/wakapi](https://github.com/muety/wakapi): 📊 A minimalist, self-hosted
-  WakaTime-compatible backend for coding statistics <https://wakapi.dev/>
+  WakaTime-compatible backend for coding statistics <https://wakapi.dev>
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter):
   ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-  <https://dotenv-linter.github.io/>
+  <https://dotenv-linter.github.io>
 - [tstack/lnav](https://github.com/tstack/lnav): Log file navigator
-  <http://lnav.org/>
+  <http://lnav.org>
 
 ## HomeKit / IoT
 
 - [homebridge/homebridge](https://github.com/homebridge/homebridge): HomeKit
-  support for the impatient. <https://homebridge.io/>
+  support for the impatient. <https://homebridge.io>
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant):
   A curated list of amazingly awesome Home Assistant resources.
-  <https://awesome-ha.com/>
+  <https://awesome-ha.com>
 - [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon):
   Argon is a clean HTML5 theme for OpenWrt LuCI. Users may setup their own
   favorite logins, including beautiful pics and customized mp4 videos.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push
-  notifications to your phone or desktop using PUT/POST <https://ntfy.sh/>
+  notifications to your phone or desktop using PUT/POST <https://ntfy.sh>
 - [khuedoan/homelab](https://github.com/khuedoan/homelab): Modern self-hosting
   infrastructure, fully automated from empty disk to operating services with a
-  single command. <https://homelab.khuedoan.com/>
+  single command. <https://homelab.khuedoan.com>
 - [unpoller/unpoller](https://github.com/unpoller/unpoller): Application:
   Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB
-  or Prometheus <https://unpoller.com/>
+  or Prometheus <https://unpoller.com>
 
 ## Homelab
 
@@ -244,10 +244,10 @@
   favorites self-hosted apps. ✨
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm
   is a self-hostable web productivity suite. It's implemented as a
-  security-hardened web app package manager. <https://sandstorm.io/>
+  security-hardened web app package manager. <https://sandstorm.io>
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle): A simple,
   distributed task scheduler and runner with a web based UI.
-  <http://cronicle.net/>
+  <http://cronicle.net>
 - [sshguard/sshguard](https://bitbucket.org/sshguard/sshguard/): SSHGuard
   protects hosts from brute-force attacks against SSH and other services. It
   aggregates system logs and blocks repeat offenders using one of several
@@ -278,7 +278,7 @@
 - [OwO-Network/nexttrace-enhanced](https://github.com/OwO-Network/nexttrace-enhanced):
   An open source visual route tracking CLI tool (Enhanced Edition)
 - [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace): An open source visual
-  route tracking CLI tool <https://trace.ac/>
+  route tracking CLI tool <https://trace.ac>
 
 ### DNS
 
@@ -294,18 +294,18 @@
 ## Misc
 
 - [jgm/djot](https://github.com/jgm/djot): A light markup language
-  <https://djot.net/>
+  <https://djot.net>
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation):
-  中国程序员容易发音错误的单词 <https://cpwp.netlify.app/>
+  中国程序员容易发音错误的单词 <https://cpwp.netlify.app>
 - [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English):
   专为程序员编写的英语学习指南 v1.2
-  <https://a-programmers-guide-to-english.harryyu.me/>
+  <https://a-programmers-guide-to-english.harryyu.me>
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club): 《语法俱乐部》-
-  旋元佑 <https://llwslc.github.io/grammar-club/>
+  旋元佑 <https://llwslc.github.io/grammar-club>
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner): 为键
   盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English
   muscle memory training software designed for keyboard workers
-  <https://qwerty.kaiyi.cool/>
+  <https://qwerty.kaiyi.cool>
 - [zhaoolee/ins](https://github.com/zhaoolee/ins): 🍭 互联网从业者的灵感数据库，
   无广告，Github Actions 自动检测网站访问速度
 
@@ -314,29 +314,29 @@
 - [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid): A collection of
   cheatsheets for using Mermaid diagrams on GitHub and elsewhere
 - [terrastruct/d2](https://github.com/terrastruct/d2): D2 is a modern diagram
-  scripting language that turns text to diagrams. <https://d2lang.com/>
-  <https://blog.jakelee.co.uk/using-mermaid-for-diagrams-on-github/>
+  scripting language that turns text to diagrams. <https://d2lang.com>
+  <https://blog.jakelee.co.uk/using-mermaid-for-diagrams-on-github>
 - [sonyxperiadev/dataflow](https://github.com/sonyxperiadev/dataflow): Render
   graphs using a declarative markup.
   <https://hackage.haskell.org/package/dataflow>
 - [structurizr](https://github.com/structurizr): Visualise and document your
-  software architecture with the C4 model <https://structurizr.com/>
+  software architecture with the C4 model <https://structurizr.com>
 - [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML):
   C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a
   simple way of describing and communicate software architectures
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams): 🎨 Diagram as
   Code for prototyping cloud system architectures
-  <https://diagrams.mingrammer.com/>
+  <https://diagrams.mingrammer.com>
 - [yuzutech/kroki](https://github.com/yuzutech/kroki): Creates diagrams from
-  textual descriptions! <https://kroki.io/>
+  textual descriptions! <https://kroki.io>
 - [penrose/penrose](https://github.com/penrose/penrose): Create beautiful
   diagrams just by typing mathematical notation in plain text.
-  <https://penrose.cs.cmu.edu/>
+  <https://penrose.cs.cmu.edu>
 
 ## Security / Privacy
 
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy):
   Open-source tool to enforce privacy & security best-practices on Windows and
-  macOS, because privacy is sexy 🍑🍆 <https://privacy.sexy/>
+  macOS, because privacy is sexy 🍑🍆 <https://privacy.sexy>
 - [privacytoolsIO/privacy-tools](https://github.com/privacytoolsIO/privacy-tools):
   Suggestions and Discussions for PrivacyTools.io <https://www.privacytools.io>

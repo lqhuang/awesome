@@ -15,7 +15,7 @@
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app): The best way
   to start a full-stack, typesafe Next.js app <https://create.t3.gg>
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood): The App Framework
-  for Startups <https://redwoodjs.com/>
+  for Startups <https://redwoodjs.com>
 
 ## Components library
 
@@ -41,30 +41,30 @@
   <https://horizon-ui.com>
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum): A collection
   of libraries and tools that help you build adaptive, accessible, and robust
-  user experiences. <https://react-spectrum.adobe.com/>
+  user experiences. <https://react-spectrum.adobe.com>
 - [wbkd/react-flow](https://github.com/wbkd/react-flow): Highly customizable
   library for building interactive node-based UIs, editors, flow charts and
   diagrams
 - [oslabs-beta/Svelvet](https://github.com/oslabs-beta/Svelvet): A lightweight
   Svelte component library for building interactive node-based flow diagrams
 - [lit/lit](https://github.com/lit/lit/): Lit is a simple library for building
-  fast, lightweight web components. <https://lit.dev/>
+  fast, lightweight web components. <https://lit.dev>
 - [daisyui/react-daisyui](https://github.com/daisyui/react-daisyui): daisyUI
   components built with React 🌼
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor): The react library
-  to build dashboards fast. <https://tremor.so/>
+  to build dashboards fast. <https://tremor.so>
 
 ### Components
 
 - [tabler/tabler](https://github.com/tabler/tabler): Tabler is free and
   open-source HTML Dashboard UI Kit built on Bootstrap
-  <https://preview.tabler.io/>
+  <https://preview.tabler.io>
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements):
   𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for
-  commercial use <https://tailwind-elements.com/>
+  commercial use <https://tailwind-elements.com>
 - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template):
   Simple Light is a free landing page template built on top of TailwindCSS and
-  fully coded in React. <https://simple.cruip.com/>
+  fully coded in React. <https://simple.cruip.com>
 - [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for
   building powerful tables & datagrids for TS/JS - React-Table, Vue-Table,
   Solid-Table, Svelte-Table <https://tanstack.com/table>
@@ -73,14 +73,14 @@
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui): ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
    The most popular, free and open-source Tailwind CSS component library
-  <https://daisyui.com/>
+  <https://daisyui.com>
 - [andybrewer/mvp](https://github.com/andybrewer/mvp/): MVP.css — Minimalist
-  classless CSS stylesheet for HTML elements <https://andybrewer.github.io/mvp/>
+  classless CSS stylesheet for HTML elements <https://andybrewer.github.io/mvp>
 - [Mokshit06/typewind](https://github.com/Mokshit06/typewind): The safety of
-  Typescript with the magic of Tailwind. <https://typewind.vercel.app/>
+  Typescript with the magic of Tailwind. <https://typewind.vercel.app>
 - [macaron-css/macaron](https://github.com/macaron-css/macaron): Typesafe
   CSS-in-JS with zero runtime, colocation, maximum safety and productivity
-  <https://macaron.js.org/>
+  <https://macaron.js.org>
 
 ## Channel
 
@@ -105,22 +105,22 @@
   validation with static type inference <https://zod.dev>
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv): The fastest JSON
   schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON
-  Type Definition (RFC8927) <https://ajv.js.org/>
+  Type Definition (RFC8927) <https://ajv.js.org>
 - [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable
   date-time library alternative to Moment.js with the same modern API
-  <https://day.js.org/>
+  <https://day.js.org>
 - [moment/luxon](https://github.com/moment/luxon): ⏱ A library for working with
   dates and times in JS <https://moment.github.io/luxon>
 - [pmndrs/zustand](https://github.com/pmndrs/zustand): 🐻 Bear necessities for
-  state management in React <https://zustand-demo.pmnd.rs/>
+  state management in React <https://zustand-demo.pmnd.rs>
 - [pmndrs/jotai](https://github.com/pmndrs/jotai): 👻 Primitive and flexible
-  state management for React <https://jotai.org/>
+  state management for React <https://jotai.org>
 - [statelyai/xstate](https://github.com/statelyai/xstate):State machines and
   statecharts for the modern web. <https://xstate.js.org/docs>
 - [immerjs/immer](https://github.com/immerjs/immer): Create the next immutable
-  state by mutating the current one <https://immerjs.github.io/immer/>
+  state by mutating the current one <https://immerjs.github.io/immer>
 - [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build
-  and send emails using React <https://react.email/>
+  and send emails using React <https://react.email>
 
 ## Visualization
 
@@ -132,21 +132,21 @@
   library for React <https://reaviz.io>
 - [f5/unovis](https://github.com/f5/unovis): Modular data visualization
   framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript
-  <https://unovis.dev/>
+  <https://unovis.dev>
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js): Simple HTML5 Charts
-  using the `<canvas>` tag <https://www.chartjs.org/>
+  using the `<canvas>` tag <https://www.chartjs.org>
 - [plouc/nivo](https://github.com/plouc/nivo): nivo provides a rich set of
   dataviz components, built on top of the awesome d3 and React libraries
-  <https://nivo.rocks/>
+  <https://nivo.rocks>
 - [highcharts/highcharts](https://github.com/highcharts/highcharts): Highcharts
-  JS, the JavaScript charting framework <https://www.highcharts.com/>
+  JS, the JavaScript charting framework <https://www.highcharts.com>
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot): 📈 A small, fast chart
   for time series, lines, areas, ohlc & bars
 - [chartist-js/chartist](https://github.com/chartist-js/chartist): Simple
   responsive charts
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory): A
   collection of composable React components for building interactive data
-  visualizations <https://formidable.com/open-source/victory/>
+  visualizations <https://formidable.com/open-source/victory>
 
 ## GUI
 
@@ -163,7 +163,7 @@
   LaTeX.css is a CSS library that makes your website look like a LaTeX document
   <https://latex.now.sh>
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥 Make
-  videos programmatically with React <https://remotion.dev/>
+  videos programmatically with React <https://remotion.dev>
 
 ## Build tools
 
@@ -173,7 +173,7 @@
 - [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm
   scripts to make them smarter and more efficient.
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js):
-  quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com/>
+  quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
 
 ## Toolchains
 
@@ -186,4 +186,4 @@
 ## SSG
 
 - [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build
-  on top of Notion and NextJS, deployed on Vercel. <https://nobelium.js.org/>
+  on top of Notion and NextJS, deployed on Vercel. <https://nobelium.js.org>

@@ -36,7 +36,7 @@ https://web.stanford.edu/~boyd/cvxbook/
   programs into a system of algorithmic components
 - [brazzy/floating-point-gui.de](https://github.com/brazzy/floating-point-gui.de):
   Website that provides concise answers to common questions about floating-point
-  numbers. <http://floating-point-gui.de/>
+  numbers. <http://floating-point-gui.de>
   [Chinese Trsanlation: 《关于浮点运算：作为程序员都应该了解什么？》](https://github.com/cnrv/floating-point-guide)
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design):
   A booklet on machine learning systems design with exercises. NOT the repo for
@@ -49,7 +49,7 @@ https://web.stanford.edu/~boyd/cvxbook/
 - [EffectOrientedProgramming/book](https://github.com/EffectOrientedProgramming/book):
   Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2
 - [kushaldas/lym](https://github.com/kushaldas/lym): Linux command line for you
-  and me <https://lym.readthedocs.io/en/latest/>
+  and me <https://lym.readthedocs.io/en/latest>
 - [liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY): Book of Elementary
   Algorithms and Data structures
 - [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book
@@ -78,7 +78,7 @@ https://web.stanford.edu/~boyd/cvxbook/
   <https://sudongyuer.github.io/javascript-mental-models>
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中
   文读者、能运行、可讨论。中英文版被 60 个国家的 400 所大学用于教学。
-  <http://zh.d2l.ai/>
+  <http://zh.d2l.ai>
 - [Visualize-ML/Book3_Fundamentals-of-Mathematics](https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics):
   《数学要素》，清华社五审五校中；Github 稿件基本稳定，欢迎提意见，会及时修改
 

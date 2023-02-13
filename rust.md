@@ -10,12 +10,12 @@
   译，仅供学习和交流使用，如有侵权请联系作者删除
 - [tnballo/high-assurance-rust](https://github.com/tnballo/high-assurance-rust):
   A free book about developing secure and robust systems software.
-  <https://highassurance.rs/>
+  <https://highassurance.rs>
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book): The Rust
   Performance Book
 - [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks):
   Code examples, data structures, and links from my book, Rust Atomics and
-  Locks. <https://marabos.nl/atomics/>
+  Locks. <https://marabos.nl/atomics>
 
 ## Readings / Tutorials
 
@@ -29,10 +29,10 @@
 - [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines): Rust
   API guidelines https://rust-lang.github.io/api-guidelines/
 - [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge): Information
-  useful to people contributing to Rust <https://forge.rust-lang.org/>
+  useful to people contributing to Rust <https://forge.rust-lang.org>
 - [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles):
   This is an experimental repository working towards a set of principles for
-  Rust. <https://rustacean-principles.netlify.app/>
+  Rust. <https://rustacean-principles.netlify.app>
 - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust):
   About conncurrency programming via rust
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison):
@@ -62,7 +62,7 @@
   to provide various options useful for testing and continuous integration.
 - [foresterre/cargo-msrv](https://github.com/foresterre/cargo-msrv): 🦀 Find the
   minimum supported Rust version (MSRV) for your project
-  <https://foresterre.github.io/cargo-msrv/>
+  <https://foresterre.github.io/cargo-msrv>
 - [dtolnay/cargo-tally](https://github.com/dtolnay/cargo-tally): Graph the
   number of crates that depend on your crate over time
 - [regexident/cargo-modules](https://github.com/regexident/cargo-modules):
@@ -73,7 +73,7 @@
   dependency graphs.
 - [killercup/cargo-edit](https://github.com/killercup/cargo-edit): A utility for
   managing cargo dependencies from the command line.
-  <http://killercup.github.io/cargo-edit/>
+  <http://killercup.github.io/cargo-edit>
 - [cargo-watch](https://github.com/watchexec/cargo-watch): Watches over your
   Cargo project's source. <https://watchexec.github.io/#cargo-watch>
 - [axodotdev/cargo-dist](https://github.com/axodotdev/cargo-dist): 📦 shippable
@@ -83,13 +83,13 @@
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix): Automatically apply
   the suggestions made by rustc
 - [rustsec/rustsec](https://github.com/rustsec/rustsec): RustSec API & Tooling.
-  Including `cargo-audit` <https://rustsec.org/>
+  Including `cargo-audit` <https://rustsec.org>
 - [cargo-generate/cargo-generate](https://github.com/cargo-generate/cargo-generate):
   cargo, make me a project <https://cargo-generate.github.io/cargo-generate>
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef): A
   cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make): Rust task
-  runner and build tool. <https://sagiegurari.github.io/cargo-make/>
+  runner and build tool. <https://sagiegurari.github.io/cargo-make>
 
 ### Test suites
 
@@ -112,7 +112,7 @@
   deterministic execution by running multiple concurrent hosts within a single
   thread.
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta): A snapshot testing
-  library for rust <https://insta.rs/>
+  library for rust <https://insta.rs>
 - [jonhoo/bustle](https://github.com/jonhoo/bustle): A benchmarking harness for
   concurrent key-value collections
 - [rust-fuzz/arbitrary](https://github.com/rust-fuzz/arbitrary): Generating
@@ -131,7 +131,7 @@
 - [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf): Website for
   graphing performance of rustc
 - [tokio-rs/tracing](https://github.com/tokio-rs/tracing): Application level
-  tracing for Rust. <https://tracing.rs/>
+  tracing for Rust. <https://tracing.rs>
 - [probe-rs/log-viewer](https://github.com/probe-rs/log-viewer): View tokio
   tracing JSON logs interactively and with proper hierarchies
 - [tokio-rs/async-backtrace](https://github.com/tokio-rs/async-backtrace):
@@ -144,7 +144,7 @@
   and running BPF/eBPF modules
 - [aya-rs/aya](https://github.com/aya-rs/aya): Aya is an eBPF library for the
   Rust programming language, built with a focus on developer experience and
-  operability. <https://aya-rs.dev/book/>
+  operability. <https://aya-rs.dev/book>
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs): Heap profiling
   and ad hoc profiling for Rust programs.
 
@@ -154,7 +154,7 @@
   Safety & Undefined Behavior Detection
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev): A
   static verifier for Rust, based on the Viper verification infrastructure.
-  <http://prusti.org/>
+  <http://prusti.org>
 - [model-checking/kani](https://github.com/model-checking/kani): Kani Rust
   Verifier <https://model-checking.github.io/kani>
 
@@ -171,7 +171,7 @@
   An async version of iterator
 - [rust-lang/types-team](https://github.com/rust-lang/types-team): Home of the
   "types team", affiliated with the compiler and lang teams.
-  <https://rust-lang.github.io/types-team/>
+  <https://rust-lang.github.io/types-team>
 
 ## Concurrency / Parallelelism
 
@@ -229,7 +229,7 @@
 ### Futures
 
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs): Zero-cost
-  asynchronous programming in Rust <https://rust-lang.github.io/futures-rs/>
+  asynchronous programming in Rust <https://rust-lang.github.io/futures-rs>
 - [taiki-e/futures-async-stream](https://github.com/taiki-e/futures-async-stream):
   Async stream for Rust and the futures crate.
   <https://docs.rs/futures-async-stream>
@@ -249,7 +249,7 @@
   functional reactive Signals for Rust
 - [lloydmeta/frunk](https://github.com/lloydmeta/frunk): Funktional generic
   type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric,
-  Validated, Monoid and friends. <https://beachape.com/frunk/>
+  Validated, Monoid and friends. <https://beachape.com/frunk>
 - [Manishearth/elsa](https://github.com/Manishearth/elsa): Append-only
   collections for Rust where borrows to entries can outlive insertions
 - [liquid-rust/flux](https://github.com/liquid-rust/flux): Refinement Types for
@@ -280,9 +280,9 @@
 - [ShisoftResearch/Lightning](https://github.com/ShisoftResearch/Lightning): A
   set of lock-free data structures
 - [bodil/im-rs](https://github.com/bodil/im-rs): Assorted immutable collection
-  datatypes for Rust <http://immutable.rs/>
+  datatypes for Rust <http://immutable.rs>
 - [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs): A
-  better compressed bitset in Rust <https://docs.rs/roaring/>
+  better compressed bitset in Rust <https://docs.rs/roaring>
 - [matthieu-m/ghost-collections](https://github.com/matthieu-m/ghost-collections):
   Safe collections written in stable Rust, based on `GhostCell` and `StaticRc`.
 - [uazu/qcell](https://github.com/uazu/qcell): Statically-checked alternatives
@@ -306,7 +306,7 @@
 - [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt): a collection of
   well-tested, serializable CRDTs for Rust
 - [y-crdt/y-crdt](https://github.com/y-crdt/y-crdt): Rust port of Yjs
-  <https://docs.rs/yrs/>
+  <https://docs.rs/yrs>
 - [josephg/diamond-types](https://github.com/josephg/diamond-types): The world's
   fastest CRDT. WIP.
 - [maidsafe/crdt_tree](https://github.com/maidsafe/crdt_tree): A Conflict-free
@@ -362,7 +362,7 @@
 - [ParkMyCar/compact_str](https://github.com/ParkMyCar/compact_str): A memory
   efficient string type that can store up to 24\* bytes on the stack
 - [apache/arrow-rs](https://github.com/apache/arrow-rs): Official Rust
-  implementation of Apache Arrow <https://arrow.apache.org/>
+  implementation of Apache Arrow <https://arrow.apache.org>
 - [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2):
   Transmute-free Rust library to work with the Arrow format
 - [eto-ai/lance](https://github.com/eto-ai/lance): Alternative to Parquet. 100x
@@ -387,12 +387,12 @@
 ## Middleware
 
 - [eclipse-iceoryx/iceoryx](https://github.com/eclipse-iceoryx/iceoryx): Eclipse
-  iceoryx™ - true zero-copy inter-process-communication <https://iceoryx.io/>
+  iceoryx™ - true zero-copy inter-process-communication <https://iceoryx.io>
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh): zenoh unifies
   data in motion, data in-use, data at rest and computations. It carefully
   blends traditional pub/sub with geo-distributed storages, queries and
   computations, while retaining a level of time and space efficiency that is
-  well beyond any of the mainstream stacks. <https://zenoh.io/>
+  well beyond any of the mainstream stacks. <https://zenoh.io>
 
 ### SerDe
 
@@ -419,11 +419,11 @@
   Extensible SQL Lexer and Parser for Rust
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter): An
   incremental parsing system for programming tools
-  <https://tree-sitter.github.io/>
+  <https://tree-sitter.github.io>
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan): Rowan is a
   library for lossless syntax trees, inspired in part by Swift's libsyntax.
 - [egraphs-good/egg](https://github.com/egraphs-good/egg): egg is a flexible,
-  high-performance e-graph library <https://egraphs-good.github.io/>
+  high-performance e-graph library <https://egraphs-good.github.io>
 - [hellux/jotdown](https://github.com/hellux/jotdown): A Djot parser library
 - [matklad/djot-rs](https://github.com/matklad/djot-rs): An experimental Rust
   implementation of the Djot light markup language.
@@ -438,7 +438,7 @@
 - [shepmaster/snafu](https://github.com/shepmaster/snafu): Easily assign
   underlying errors into domain-specific errors while adding context
 - [time-rs/time](https://github.com/time-rs/time): Simple time handling in Rust
-  <https://time-rs.github.io/>
+  <https://time-rs.github.io>
 - [chronotope/chrono](https://github.com/chronotope/chrono): Date and time
   library for Rust
 - [nyx-space/hifitime](https://github.com/nyx-space/hifitime): A high fidelity
@@ -474,7 +474,7 @@
   library for Rust based on QUIC protocol
 - [cloudflare/quiche](https://github.com/cloudflare/quiche): 🥧 Savoury
   implementation of the QUIC transport protocol and HTTP/3
-  <https://docs.quic.tech/quiche/>
+  <https://docs.quic.tech/quiche>
 - [quinn-rs/quinn](https://github.com/quinn-rs/quinn): Async-friendly QUIC
   implementation in Rust
 - [google/tarpc](https://github.com/google/tarpc): An RPC framework for Rust
@@ -490,12 +490,12 @@
 ### Numerical analysis
 
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra): Linear algebra
-  library for Rust. <https://nalgebra.org/>
+  library for Rust. <https://nalgebra.org>
 - [weld-project/weld](https://github.com/weld-project/weld): High-performance
-  runtime for data analytics applications <https://www.weld.rs/>
+  runtime for data analytics applications <https://www.weld.rs>
 - [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray): ndarray: an
   N-dimensional array with array views, multidimensional slicing, and efficient
-  operations <https://docs.rs/ndarray/>
+  operations <https://docs.rs/ndarray>
 - [rust-ml/linfa](https://github.com/rust-ml/linfa): A Rust machine learning
   framework.
 - [coreylowman/dfdx](https://github.com/coreylowman/dfdx): Deep learning in
@@ -530,7 +530,7 @@
   powerful but minimal dependency template engine for Rust
 - [salsa-rs/salsa](https://github.com/salsa-rs/salsa): A generic framework for
   on-demand, incrementalized computation. Inspired by adapton, glimmer, and
-  rustc's query system. <https://salsa-rs.netlify.app/>
+  rustc's query system. <https://salsa-rs.netlify.app>
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs): a multi-language
   bindings generator for rust <https://mozilla.github.io/uniffi-rs>
 
@@ -558,15 +558,15 @@
 
 - [slint-ui/slint](https://github.com/slint-ui/slint): Slint is a toolkit to
   efficiently develop fluid graphical user interfaces for any display: embedded
-  devices and desktop applications. <https://slint-ui.com/>
+  devices and desktop applications. <https://slint-ui.com>
 - [iced-rs/iced](https://github.com/iced-rs/iced): A cross-platform GUI library
-  for Rust, inspired by Elm <https://iced.rs/>
+  for Rust, inspired by Elm <https://iced.rs>
 - [emilk/egui](https://github.com/emilk/egui): egui: an easy-to-use immediate
   mode GUI in Rust that runs on both web and native
 - [makepad/makepad](https://github.com/makepad/makepad): Makepad is a creative
   software development platform for Rust that compiles to wasm/webGL, osx/metal,
   windows/dx11 linux/opengl < Makepad is a creative software development
   platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11
-  linux/opengl <http://makepad.dev/>
+  linux/opengl <http://makepad.dev>
 - [linebender/xilem](https://github.com/linebender/xilem): An experimental Rust
   native UI framework

@@ -18,7 +18,7 @@
   statically-linked linux system
 - [containrrr/watchtower](https://github.com/containrrr/watchtower): A process
   for automating Docker container base image updates.
-  <https://containrrr.dev/watchtower/>
+  <https://containrrr.dev/watchtower>
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers):
   Kata Containers version 2.x repository. Kata Containers is an open source
   project and community working to build a standard implementation of
@@ -26,9 +26,9 @@
   provide the workload isolation and security advantages of VMs.
   <https://katacontainers.io/ >
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks): App source +
-  Nix packages + Docker = Image <https://nixpacks.com/>
+  Nix packages + Docker = Image <https://nixpacks.com>
 - [google/gvisor](https://github.com/google/gvisor): Application Kernel for
-  Containers <https://gvisor.dev/>
+  Containers <https://gvisor.dev>
 - [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage
   and performance characteristics of running containers.
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs): Automatically
@@ -45,7 +45,7 @@
   Application Proxy
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager):
   Docker container for managing Nginx proxy hosts with a simple, powerful
-  interface <https://nginxproxymanager.com/>
+  interface <https://nginxproxymanager.com>
 
 ## Cloud native
 
@@ -61,23 +61,23 @@
   <https://cloudpathlib.drivendata.org>
 - [supabase/supabase](https://github.com/supabase/supabase): The open source
   Firebase alternative. Follow to stay updated about our public Beta.
-  <https://supabase.com/>
+  <https://supabase.com>
 - [zappa/Zappa](https://github.com/zappa/Zappa): Serverless Python
   <https://github.com/zappa/Zappa>
 
 ## K8S
 
 - [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs
-  Kubernetes <https://k8slens.dev/>
+  Kubernetes <https://k8slens.dev>
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler): Autoscaling
   components for Kubernetes
 - [kumahq/kuma](https://github.com/kumahq/kuma): 🐻 The multi-zone service mesh
   for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project.
   <https://kuma.io/install>
 - [karmada-io/karmada](https://github.com/karmada-io/karmada): Open,
-  Multi-Cloud, Multi-Cluster Kubernetes Orchestration <https://karmada.io/>
+  Multi-Cloud, Multi-Cluster Kubernetes Orchestration <https://karmada.io>
 - [pixie-io/pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native
-  Application Observability <https://px.dev/>
+  Application Observability <https://px.dev>
 
 ## Infrastructure as Code
 
@@ -91,10 +91,10 @@
   Terragrunt is a thin wrapper for Terraform that provides extra tools for
   working with multiple Terraform modules.
 - [snyk/driftctl](https://github.com/snyk/driftctl): Detect, track and alert on
-  infrastructure drift <https://driftctl.com/>
+  infrastructure drift <https://driftctl.com>
 - [someengineering/resoto](https://github.com/someengineering/resoto): Resoto
   creates an inventory of your cloud, provides deep visibility, and reacts to
-  changes in your infrastructure. ⚡️ <https://resoto.com/>
+  changes in your infrastructure. ⚡️ <https://resoto.com>
 - [camptocamp/terraboard](https://github.com/camptocamp/terraboard): 🌍 📋 A web
   dashboard to inspect Terraform States <https://terraboard.io>
 - [cycloidio/terracognita](https://github.com/cycloidio/terracognita): Reads
@@ -106,28 +106,28 @@
   📗 Terraform Module for Nomad clusters with Consul on GCP
 - [turbot/steampipe](https://github.com/turbot/steampipe): Use SQL to instantly
   query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB
-  required. <https://steampipe.io/>
+  required. <https://steampipe.io>
 - [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra): pyinfra automates
   infrastructure super fast at massive scale. It can be used for ad-hoc command
   execution, service deployment, configuration management and more.
-  <https://pyinfra.com/>
+  <https://pyinfra.com>
 - [pulumi/pulumi](https://github.com/pulumi/pulumi): Pulumi - Universal
   Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-  <https://www.pulumi.com/>
+  <https://www.pulumi.com>
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho): Klotho - a
-  CLI tool that transforms plain code into cloud native code <https://klo.dev/>
+  CLI tool that transforms plain code into cloud native code <https://klo.dev>
 
 ## Pricing
 
 - [bytebase/dbcost](https://github.com/bytebase/dbcost): The simple pricing
   calculator and comparison tool for the cloud databases.
-  <https://www.dbcost.com/>
+  <https://www.dbcost.com>
 - [uselotus/lotus](https://github.com/uselotus/lotus): Open Source Pricing &
-  Packaging Infrastructure <https://www.uselotus.io/>
+  Packaging Infrastructure <https://www.uselotus.io>
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch): An Open Source
   Financial Switch to make Payments fast, reliable and affordable
 
 ## Utils
 
 - [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane): 🔥
-  Blazing fast bulk data transfers between any cloud 🔥 <https://skyplane.org/>
+  Blazing fast bulk data transfers between any cloud 🔥 <https://skyplane.org>

@@ -47,7 +47,7 @@
 - [fpco/unliftio](https://github.com/fpco/unliftio): The MonadUnliftIO typeclass
   for unlifting monads to IO
 - [composewell/streamly](https://github.com/composewell/streamly): Dataflow
-  programming and declarative concurrency <https://streamly.composewell.com/>
+  programming and declarative concurrency <https://streamly.composewell.com>
 - [well-typed/optics](https://github.com/well-typed/optics): Optics as an
   abstract interface
 - [chshersh/dr-cabal](https://github.com/chshersh/dr-cabal): 📊 Haskell
@@ -63,14 +63,14 @@
 ### Web
 
 - [monadicsystems/okapi](https://github.com/monadicsystems/okapi): A web
-  microframework for Haskell based on monadic parsing <https://www.okapi.wiki/>
+  microframework for Haskell based on monadic parsing <https://www.okapi.wiki>
 
 ### Other good libs
 
 - [ndmitchell/shake](https://github.com/ndmitchell/shake): Shake build system
-  <http://shakebuild.com/>
+  <http://shakebuild.com>
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell):
-  Maintainable configuration files <https://dhall-lang.org/>
+  Maintainable configuration files <https://dhall-lang.org>
 - [diagrams/diagrams](https://github.com/diagrams/diagrams): Embedded
   domain-specific language for declarative vector graphics (wrapper package)
 
@@ -86,10 +86,10 @@
 ## Experimental languages
 
 - [koka-lang/koka](https://github.com/koka-lang/koka): Koka language compiler
-  and interpreter <https://koka-lang.org/>
+  and interpreter <https://koka-lang.org>
 - [Kindelia/HVM](https://github.com/Kindelia/HVM): A massively parallel, optimal
   functional runtime in Rust
 - [google-research/dex-lang](https://github.com/google-research/dex-lang):
   Research language for array processing in the Haskell/ML family
 - [unisonweb/unison](https://github.com/unisonweb/unison): A friendly
-  programming language from the future <https://unison-lang.org/>
+  programming language from the future <https://unison-lang.org>

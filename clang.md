@@ -5,7 +5,7 @@
 ### Readings
 
 - [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc): Beej's Guide to C
-  Programming source <https://beej.us/guide/bgc/html/split/>
+  Programming source <https://beej.us/guide/bgc/html/split>
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides): A little bit
   about a linux kernel
   ([gitbooks index](https://0xax.gitbooks.io/linux-insides/content/index.html))
@@ -30,7 +30,7 @@
 - [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed):
   C++11/14/17/20 multithreading, involving operating system principles and
   concurrent programming technology.
-  <https://downdemo.github.io/Cpp-Concurrency-in-Action-2ed/>
+  <https://downdemo.github.io/Cpp-Concurrency-in-Action-2ed>
 - [xiaoweiChen/Modern-CMake-for-Cpp](https://github.com/xiaoweiChen/Modern-CMake-for-Cpp):
   《Modern CMake for C++》的非专业个人翻译
 - [Cpp-Club/Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh): Chinese
@@ -67,10 +67,10 @@
   simple printf-like API.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer):
   Run compilers interactively from your web browser and interact with the
-  assembly <https://godbolt.org/>
+  assembly <https://godbolt.org>
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer):
   Decompiler Explorer! Compare tools on the forefront of static analysis, now in
-  your web browser! <https://dogbolt.org/>
+  your web browser! <https://dogbolt.org>
 
 ### Performance profile
 
@@ -93,7 +93,7 @@
   Benchmarking Utility
 - [google/perfetto](https://github.com/google/perfetto): Performance
   instrumentation and tracing for Android, Linux and Chrome
-  <https://www.perfetto.dev/>
+  <https://www.perfetto.dev>
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math): Techniques
   and numbers for estimating system's performance from first-principles
   <https://www.youtube.com/watch?v=IxkSlnrRFqc>
@@ -103,22 +103,22 @@
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie): An
   educational software system of a tiny self-compiling C compiler, a tiny
   self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor.
-  <http://selfie.cs.uni-salzburg.at/>
+  <http://selfie.cs.uni-salzburg.at>
 
 ## System programming
 
 - [google/brotli](https://github.com/google/brotli): Brotli compression format
 - [madler/pigz](https://github.com/madler/pigz): A parallel implementation of
-  gzip for modern multi-processor, multi-core machines. <http://zlib.net/pigz/>
+  gzip for modern multi-processor, multi-core machines. <http://zlib.net/pigz>
 - [scandum/blitsort](https://github.com/scandum/blitsort): Blitsort is an
   in-place stable adaptive rotate mergesort / quicksort.
 - [Blosc/c-blosc2](https://github.com/Blosc/c-blosc2): A fast, compressed,
-  persistent binary data store library for C. <https://www.blosc.org/>
+  persistent binary data store library for C. <https://www.blosc.org>
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust): The C++ parallel algorithms
   library.
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A
   family of header-only, very fast and memory-friendly hashmap and btree
-  containers. <https://greg7mdp.github.io/parallel-hashmap/>
+  containers. <https://greg7mdp.github.io/parallel-hashmap>
 - [Amanieu/asyncplusplus](https://github.com/Amanieu/asyncplusplus): Async++
   concurrency framework for C++11
 - [mitchellh/libxev](https://github.com/mitchellh/libxev): libxev is a
@@ -136,6 +136,6 @@
   compiler to be type-safe. The goal is to let people easily make their existing
   C code type-safe and eliminate entire classes of errors. Checked C does not
   address use-after-free errors.
-  <https://www.microsoft.com/en-us/research/project/checked-c/>
+  <https://www.microsoft.com/en-us/research/project/checked-c>
 - [diffblue/cbmc](https://github.com/diffblue/cbmc): C Bounded Model Checker
   <https://diffblue.github.io/cbmc>

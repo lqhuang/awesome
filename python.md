@@ -17,7 +17,7 @@
   <https://dabeaz-course.github.io/practical-python>
 - [pypackaging-native/pypackaging-native](https://github.com/pypackaging-native/pypackaging-native):
   A collection of content about key Python packaging topics and issues for
-  projects using native code <https://pypackaging-native.github.io/>
+  projects using native code <https://pypackaging-native.github.io>
 
 ## Future?
 
@@ -31,7 +31,7 @@
 ### Linter
 
 - [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick): Enforce the same
-  settings on multiple projects <https://nitpick.readthedocs.io/>
+  settings on multiple projects <https://nitpick.readthedocs.io>
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade): A tool (and
   pre-commit hook) to automatically upgrade syntax for newer versions of the
   language.
@@ -44,7 +44,7 @@
 - [MarcoGorelli/cython-lint](https://github.com/MarcoGorelli/cython-lint): Lint
   Cython files
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A SQL linter and
-  auto-formatter for Humans <https://docs.sqlfluff.com/en/stable/>
+  auto-formatter for Humans <https://docs.sqlfluff.com/en/stable>
 
 ### Build tools
 
@@ -53,33 +53,33 @@
 - [pypa/hatch](https://github.com/pypa/hatch): Modern, extensible Python project
   management <https://hatch.pypa.io/latest>
 - [frostming/monas](https://github.com/frostming/monas): Python monorepo made
-  easy <https://monas.fming.dev/>
+  easy <https://monas.fming.dev>
 - [cruft/cruft](https://github.com/cruft/cruft/): Allows you to maintain all the
   necessary cruft for packaging and building projects separate from the code you
   intentionally write. Built on-top of, and fully compatible with, CookieCutter.
-  <https://cruft.github.io/cruft/>
+  <https://cruft.github.io/cruft>
 - [buildinspace/peru](https://github.com/buildinspace/peru): a generic package
   manager, for including other people's code in your projects
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools): A set of tools to
-  keep your pinned Python dependencies fresh. <https://pip-tools.rtfd.io/>
+  keep your pinned Python dependencies fresh. <https://pip-tools.rtfd.io>
 - [trailofbits/abi3audit](https://github.com/trailofbits/abi3audit): Scans
   Python packages for abi3 violations and inconsistencies
-  <https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit/>
+  <https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit>
 - [R9295/panoptisch](https://github.com/R9295/panoptisch): A recursive
   dependency scanner for Python projects
 - [copier-org/copier](https://github.com/copier-org/copier/): Library and
   command-line utility for rendering projects templates.
-  <https://readthedocs.org/projects/copier/>
+  <https://readthedocs.org/projects/copier>
 
 ### Docs
 
 - [pycco-docs/pycco](https://github.com/pycco-docs/pycco): Literate-style
-  documentation generator. <https://pycco-docs.github.io/pycco/>
+  documentation generator. <https://pycco-docs.github.io/pycco>
 - [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
   documentation theme for Sphinx
 - [sphinx-contrib/emojicodes](https://github.com/sphinx-contrib/emojicodes): An
   extension to use emoji codes in your Sphinx documentation! 😍
-  <https://sphinxemojicodes.readthedocs.io/>
+  <https://sphinxemojicodes.readthedocs.io>
 - [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki): Embed
   PlantUML, DOT, etc. diagrams in your documentation using Kroki.
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe): Signatures for
@@ -87,7 +87,7 @@
   project, to generate API documentation or find breaking changes in your API.
   <https://mkdocstrings.github.io/griffe>
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc): API Documentation for
-  Python Projects <https://pdoc.dev/>
+  Python Projects <https://pdoc.dev>
 - [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog): Automatic
   Changelog generator using Jinja2 templates.
   <https://pawamoy.github.io/git-changelog>
@@ -108,7 +108,7 @@
 - [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin
   that packs your packages into a zipapp
 - [conda/conda-pack](https://github.com/conda/conda-pack): Package conda
-  environments for redistribution <https://conda.github.io/conda-pack/>
+  environments for redistribution <https://conda.github.io/conda-pack>
 - [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel): 🎡 Build Python
   wheels for all the platforms on CI with minimal configuration.
 
@@ -122,7 +122,7 @@
 ### Test / Mock / Coverage
 
 - [wntrblm/nox](https://github.com/wntrblm/nox): Flexible test automation for
-  Python <https://nox.thea.codes/>
+  Python <https://nox.thea.codes>
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy): Automatically mock your
   HTTP interactions to simplify and speed up testing
 - [lundberg/respx](https://github.com/lundberg/respx): Mock HTTPX with awesome
@@ -131,7 +131,7 @@
   Zero-Overhead Python Code Coverage
 - [econchick/interrogate](https://github.com/econchick/interrogate): Explain
   yourself! Interrogate a codebase for docstring coverage.
-  <https://interrogate.readthedocs.io/>
+  <https://interrogate.readthedocs.io>
 - [tonybaloney/wily](https://github.com/tonybaloney/wily): A Python application
   for tracking, reporting on timing and complexity in Python code
 - [omarkohl/pytest-datafiles](https://github.com/omarkohl/pytest-datafiles):
@@ -140,15 +140,15 @@
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis): Run
   thousands of randomly generated test scenarios based on your API specification
   and always be sure your API works as expected.
-  <https://schemathesis.readthedocs.io/>
+  <https://schemathesis.readthedocs.io>
 - [hamcrest/PyHamcrest](https://github.com/hamcrest/PyHamcrest): Hamcrest
-  matchers for Python <http://hamcrest.org/>
+  matchers for Python <http://hamcrest.org>
 - [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure): idiomatic
   assertion toolkit with human-friendly failure messages, inspired by RSpec
-  Expectations and should.js <http://sure.readthedocs.io/en/latest/>
+  Expectations and should.js <http://sure.readthedocs.io/en/latest>
 - [starlite-api/pydantic-factories](https://github.com/starlite-api/pydantic-factories):
   Simple and powerful mock data generation using pydantic or dataclasses
-  <https://starlite-api.github.io/pydantic-factories/>
+  <https://starlite-api.github.io/pydantic-factories>
 
 ### Performance profile
 
@@ -166,20 +166,19 @@
   sampler for CPython
 - [pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler): A
   Python memory profiler for data processing and scientific computing
-  applications <https://pythonspeed.com/fil/>
+  applications <https://pythonspeed.com/fil>
 - [reloadware/reloadium](https://github.com/reloadware/reloadium): Advanced hot
   reloading & profiling for Python
 - [python/pyperformance](https://github.com/python/pyperformance): Python
-  Performance Benchmark Suite <http://pyperformance.readthedocs.io/>
+  Performance Benchmark Suite <http://pyperformance.readthedocs.io>
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument): 🚴 Call stack
   profiler for Python. Shows you why your code is slow!
-  <https://pyinstrument.readthedocs.io/>
+  <https://pyinstrument.readthedocs.io>
 
 ## FP in Python
 
 - [python/typing](https://github.com/python/typing): Python static typing home.
-  Hosts the documentation and a user help forum.
-  <https://typing.readthedocs.io/>
+  Hosts the documentation and a user help forum. <https://typing.readthedocs.io>
 - [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python
   to fast C extensions <https://mypyc.readthedocs.io>
 - [cognitedata/Expression](https://github.com/cognitedata/Expression): Pragmatic
@@ -224,14 +223,14 @@
 - [wesselb/plum](https://github.com/wesselb/plum): Multiple dispatch in Python
   <https://wesselb.github.io/plum>
 - [mrocklin/multipledispatch](https://github.com/mrocklin/multipledispatch):
-  Multiple dispatch <https://multiple-dispatch.readthedocs.io/en/latest/>
+  Multiple dispatch <https://multiple-dispatch.readthedocs.io/en/latest>
 - [mkorpela/overrides](https://github.com/mkorpela/overrides/): A decorator to
   automatically detect mismatch when overriding a method
 
 ### Functional style libraries
 
 - [pytoolz/toolz](https://github.com/pytoolz/toolz): A functional standard
-  library for Python. <http://toolz.readthedocs.org/>
+  library for Python. <http://toolz.readthedocs.org>
 
 ## Domain libraries
 
@@ -242,27 +241,27 @@
 - [matthewwardrop/formulaic](https://github.com/matthewwardrop/formulaic): A
   high-performance implementation of Wilkinson formulas for Python.
 - [sepandhaghighi/pycm](https://github.com/sepandhaghighi/pycm): Multi-class
-  confusion matrix library in Python <http://pycm.io/>
+  confusion matrix library in Python <http://pycm.io>
 - [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx): A high performance
   Python graph library implemented in Rust.
 - [nteract/papermill](https://github.com/nteract/papermill): 📚 Parameterize,
-  execute, and analyze notebooks <http://papermill.readthedocs.io/en/latest/>
+  execute, and analyze notebooks <http://papermill.readthedocs.io/en/latest>
 - [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python):
   An implementation of chunked, compressed, N-dimensional arrays for Python.
-  <http://zarr.readthedocs.io/>
+  <http://zarr.readthedocs.io>
 - [docarray/docarray](https://github.com/docarray/docarray): 🧬 The data
   structure for unstructured multimodal data · Neural Search · Vector Search ·
-  Document Store <https://docarray.jina.ai/>
+  Document Store <https://docarray.jina.ai>
 - [fastai/nbdev](https://github.com/fastai/nbdev): Create delightful software
-  with Jupyter Notebooks <https://nbdev.fast.ai/>
+  with Jupyter Notebooks <https://nbdev.fast.ai>
 
 ### Pandas Ecosystem
 
 - [vaexio/vaex](https://github.com/vaexio/vaex): Out-of-Core hybrid Apache
   Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big
-  tabular data at a billion rows per second 🚀 <https://vaex.io/>
+  tabular data at a billion rows per second 🚀 <https://vaex.io>
 - [ibis-project/ibis](https://github.com/ibis-project/ibis): Expressive
-  analytics in Python at any scale. <http://ibis-project.org/>
+  analytics in Python at any scale. <http://ibis-project.org>
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft): Python DataFrame
   for Complex Data
 - [nalepae/pandarallel](https://github.com/nalepae/pandarallel): A simple and
@@ -272,14 +271,14 @@
   APIs for data cleaning. Python implementation of R package Janitor
   <https://pyjanitor-devs.github.io/pyjanitor>
 - [has2k1/plydata](https://github.com/has2k1/plydata): A grammar for data
-  manipulation in Python <https://plydata.readthedocs.io/en/stable/>
+  manipulation in Python <https://plydata.readthedocs.io/en/stable>
 - [dask/dask](https://github.com/dask/dask): Parallel computing with task
-  scheduling <https://dask.org/>
+  scheduling <https://dask.org>
 - [modin-project/modin](https://github.com/modin-project/modin): Modin: Scale
   your Pandas workflows by changing a single line of code
-  <http://modin.readthedocs.io/>
+  <http://modin.readthedocs.io>
 - [rapidsai/cudf](https://github.com/rapidsai/cudf): cuDF - GPU DataFrame
-  Library <http://rapids.ai/>
+  Library <http://rapids.ai>
 
 ### Prob
 
@@ -287,45 +286,45 @@
   causal inference that supports explicit modeling and testing of causal
   assumptions. DoWhy is based on a unified language for causal inference,
   combining causal graphical models and potential outcomes frameworks.
-  <https://py-why.github.io/dowhy/>
+  <https://py-why.github.io/dowhy>
 - [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy): Python Library for learning
   (Structure and Parameter), inference (Probabilistic and Causal), and
-  simulations in Bayesian Networks. <https://pgmpy.org/>
+  simulations in Bayesian Networks. <https://pgmpy.org>
 - [fmfn/BayesianOptimization](https://github.com/fmfn/BayesianOptimization): A
   Python implementation of global optimization with gaussian processes.
 - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy): A Python package
   for causal inference in quasi-experimental settings
-  <https://causalpy.readthedocs.io/>
+  <https://causalpy.readthedocs.io>
 
 ### Web
 
 - [pgjones/hypercorn](https://github.com/pgjones/hypercorn): Hypercorn is an
   ASGI Server based on Hyper libraries and inspired by Gunicorn.
-  <https://pgjones.gitlab.io/hypercorn/>
+  <https://pgjones.gitlab.io/hypercorn>
 - [python-hyper/hyperlink](https://github.com/python-hyper/hyperlink): 🔗
-  Immutable, Pythonic, correct URLs. <https://hyperlink.readthedocs.io/>
+  Immutable, Pythonic, correct URLs. <https://hyperlink.readthedocs.io>
 - [encode/broadcaster](https://github.com/encode/broadcaster): Broadcast
   channels for async web apps. 📢
 - [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib): A generic,
   spec-compliant, thorough implementation of the OAuth request-signing logic
 - [lepture/authlib](https://github.com/lepture/authlib): The ultimate Python
   library in building OAuth, OpenID Connect clients and servers.
-  JWS,JWE,JWK,JWA,JWT included. <https://authlib.org/>
+  JWS,JWE,JWK,JWA,JWT included. <https://authlib.org>
 - [mpdavis/python-jose](https://github.com/mpdavis/python-jose): A JOSE
   implementation in Python
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py):
   Bringing WebSockets, Http/Https High Peformance servers for PyPy3 and Python3
 - [starlite-api/starlite](https://github.com/starlite-api/starlite): Light,
   Flexible and Extensible ASGI API framework
-  <https://starlite-api.github.io/starlite/>
+  <https://starlite-api.github.io/starlite>
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone): Web apps in
-  pure Python. <https://pynecone.io/>
+  pure Python. <https://pynecone.io>
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep): Fast ASGI web
-  framework for Python <https://www.neoteroi.dev/blacksheep/>
+  framework for Python <https://www.neoteroi.dev/blacksheep>
 - [preludeorg/vertebrae](https://github.com/preludeorg/vertebrae): A
   security-focused app framework for Python micro services
 - [sansyrox/robyn](https://github.com/sansyrox/robyn): Robyn is a fast and
-  extensible async python web server with a rust runtime <https://robyn.tech/>
+  extensible async python web server with a rust runtime <https://robyn.tech>
 - [emmett-framework/granian](https://github.com/emmett-framework/granian): A
   Rust HTTP server for Python applications
 
@@ -340,7 +339,7 @@
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot): Python SQL Parser and
   Transpiler
 - [mcfunley/pugsql](https://github.com/mcfunley/pugsql): A HugSQL-inspired
-  database library for Python <https://pugsql.org/>
+  database library for Python <https://pugsql.org>
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen): Automatic
   model code generator for SQLAlchemy
 - [RaRe-Technologies/sqlitedict](https://github.com/RaRe-Technologies/sqlitedict):
@@ -349,14 +348,14 @@
   utility and library for manipulating SQLite databases
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py):
   Prisma Client Python is an auto-generated and fully type-safe database client
-  designed for ease of use <https://prisma-client-py.readthedocs.io/>
+  designed for ease of use <https://prisma-client-py.readthedocs.io>
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic): A database
   migrations tool for SQLAlchemy.
 
 ### API clients
 
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub): Typed interactions
-  with the GitHub API v3 <https://pygithub.readthedocs.io/>
+  with the GitHub API v3 <https://pygithub.readthedocs.io>
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit): The modern,
   all-batteries-included GitHub SDK for Python, including rest api, graphql,
   webhooks, like octokit!
@@ -376,7 +375,7 @@
 - [ethanfurman/aenum](https://github.com/ethanfurman/aenum): Advanced
   Enumerations for Python
 - [hpyproject/hpy](https://github.com/hpyproject/hpy): HPy: a better API for
-  Python <https://hpyproject.org/>
+  Python <https://hpyproject.org>
 - [explosion/cymem](https://github.com/explosion/cymem): 💥 Cython memory pool
   for RAII-style memory management
 - [glyph/automat](https://github.com/glyph/automat): Self-service finite-state
@@ -389,7 +388,7 @@
 
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers):
   Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
-  <http://www.grantjenks.com/docs/sortedcontainers/>
+  <http://www.grantjenks.com/docs/sortedcontainers>
 - [hydro-project/katara](https://github.com/hydro-project/katara): Synthesize
   CRDTs from classic data types with verified lifting!
 - [kenbyte/rbloom](https://github.com/kenbyte/rbloom): A fast, simple and
@@ -398,7 +397,7 @@
 ### Utils
 
 - [deepmind/tree](https://github.com/deepmind/tree): tree is a library for
-  working with nested data structures <https://tree.readthedocs.io/>
+  working with nested data structures <https://tree.readthedocs.io>
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python
   module for decorators, wrappers and monkey patching.
 - [hynek/stamina](https://github.com/hynek/stamina): Easy mode for Tenacity.
@@ -406,9 +405,9 @@
   function decorators for configurable backoff and retry
 - [nficano/humps](https://github.com/nficano/humps): Convert strings (and
   dictionary keys) between snake case, camel case and pascal case in Python.
-  Inspired by Humps for Node <http://humps.readthedocs.io/>
+  Inspired by Humps for Node <http://humps.readthedocs.io>
 - [aio-libs/yarl](https://github.com/aio-libs/yarl): Yet another URL library
-  <https://yarl.readthedocs.io/>
+  <https://yarl.readthedocs.io>
 - [T-baby/pondpond](https://github.com/T-baby/pondpond): Pond is a high
   performance object-pooling library for Python <https://qin.news/pond>
 - [keleshev/schema](https://github.com/keleshev/schema): Schema validation just
@@ -419,7 +418,7 @@
   scheduling library for Python
 - [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data
   operator (and CLI), for all your declarative restructuring needs. Got data?
-  Glom it! ☄️ <https://glom.readthedocs.io/>
+  Glom it! ☄️ <https://glom.readthedocs.io>
 
 ### Configuration
 
@@ -431,20 +430,20 @@
   library for defining flat or nested dictionary flags.
 - [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs): A
   small Python module for determining appropriate platform-specific dirs, e.g. a
-  "user data dir". <https://platformdirs.readthedocs.io/>
+  "user data dir". <https://platformdirs.readthedocs.io>
 
 ### AsyncIO
 
 - [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio):
   Bridge between Rust async futures and Python asyncio
 - [oremanj/greenback](https://github.com/oremanj/greenback): Reenter an asyncio
-  or Trio event loop from synchronous code <https://greenback.readthedocs.io/>
+  or Trio event loop from synchronous code <https://greenback.readthedocs.io>
 - [maxfischer2781/asyncstdlib](https://github.com/maxfischer2781/asyncstdlib):
   the missing toolbox for an async world
 - [vxgmichel/aiostream](https://github.com/vxgmichel/aiostream): Generator-based
-  operators for asynchronous iteration <http://aiostream.readthedocs.io/>
+  operators for asynchronous iteration <http://aiostream.readthedocs.io>
 - [vxgmichel/aioconsole](https://github.com/vxgmichel/aioconsole): Asynchronous
-  console and interfaces for asyncio <http://aioconsole.readthedocs.io/>
+  console and interfaces for asyncio <http://aioconsole.readthedocs.io>
 - [aio-libs/aiomonitor](https://github.com/aio-libs/aiomonitor):
 - [aio-libs/async-lru](https://github.com/aio-libs/async-lru): Simple LRU cache
   for asyncio
@@ -454,25 +453,25 @@
 - [wakatime/wakaq](https://github.com/wakatime/wakaq): Distributed background
   task queue for Python backed by Redis, a super minimal Celery
 - [coleifer/huey](https://github.com/coleifer/huey): a little task queue for
-  python <https://huey.readthedocs.io/>
+  python <https://huey.readthedocs.io>
 - [closeio/tasktiger](https://github.com/closeio/tasktiger): Python task queue
   using Redis
 - [NicolasLM/spinach](https://github.com/NicolasLM/spinach): Modern Redis task
   queue for Python 3 <https://spinach.readthedocs.io>
 - [rq/rq](https://github.com/rq/rq): Simple job queues for Python
-  <https://python-rq.org/>
+  <https://python-rq.org>
 - [joanvila/aioredlock](https://github.com/joanvila/aioredlock): 🔒 The asyncio
   implemetation of Redis distributed locks
 - [pika/pika](https://github.com/pika/pika): Pure Python RabbitMQ/AMQP 0-9-1
-  client library <https://pika.readthedocs.io/>
+  client library <https://pika.readthedocs.io>
 - [celery/kombu](https://github.com/celery/kombu): Messaging library for Python.
-  <http://kombu.readthedocs.org/>
+  <http://kombu.readthedocs.org>
 - [Miksus/rocketry](https://github.com/Miksus/rocketry): Modern scheduling
-  library for Python <https://rocketry.readthedocs.io/>
+  library for Python <https://rocketry.readthedocs.io>
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq): Distributed
   task queue with full async support
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq): A fast and reliable
-  background task processing library for Python 3. <https://dramatiq.io/>
+  background task processing library for Python 3. <https://dramatiq.io>
 
 ### Serialization & Validation
 
@@ -487,14 +486,14 @@
   JSON/MessagePack library, with optional schema validation
   <https://jcristharif.com/msgspec>
 - [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson): Python bindings for
-  the simdjson project. <https://pysimdjson.tkte.ch/>
+  the simdjson project. <https://pysimdjson.tkte.ch>
 - [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle): Extended
   pickling support for Python objects
 - [sdispater/tomlkit](https://github.com/sdispater/tomlkit): Style-preserving
   TOML library for Python
 - [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema):
   An implementation of the JSON Schema specification for Python
-  <https://python-jsonschema.readthedocs.io/>
+  <https://python-jsonschema.readthedocs.io>
 - [agronholm/cbor2](https://github.com/agronholm/cbor2): Pure Python CBOR
   (de)serializer with extensive tag support
 
@@ -505,9 +504,9 @@
 - [Delgan/loguru](https://github.com/Delgan/loguru): Python logging made
   (stupidly) simple
 - [hynek/structlog](https://github.com/hynek/structlog): Structured Logging for
-  Python <https://www.structlog.org/>
+  Python <https://www.structlog.org>
 - [itamarst/eliot](https://github.com/itamarst/eliot): Eliot: the logging system
-  that tells you _why_ it happened <https://eliot.readthedocs.io/>
+  that tells you _why_ it happened <https://eliot.readthedocs.io>
 
 ## Compilers
 
@@ -515,9 +514,9 @@
   written in Python. It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5,
   3.6, 3.7, 3.8, 3.9, and 3.10. You feed it your Python app, it does a lot of
   clever things, and spits out an executable or extension module.
-  <http://nuitka.net/>
+  <http://nuitka.net>
 - [erg-lang/erg](https://github.com/erg-lang/erg): A statically typed language
-  that can deeply improve the Python ecosystem <http://erg-lang.github.io/>
+  that can deeply improve the Python ecosystem <http://erg-lang.github.io>
 - [exaloop/codon](https://github.com/exaloop/codon): A high-performance,
   zero-overhead, extensible Python compiler using LLVM
   <https://docs.exaloop.io/codon>
@@ -529,14 +528,14 @@
   Python's abstract syntax tree
 - [lepture/mistune](https://github.com/lepture/mistune): A fast yet powerful
   Python Markdown parser with renderers and plugins.
-  <http://mistune.readthedocs.io/>
+  <http://mistune.readthedocs.io>
 - [dabeaz/sly](https://github.com/dabeaz/sly): Sly Lex Yacc
 - [lark-parser/lark](https://github.com/lark-parser/lark): Lark is a parsing
   toolkit for Python, built with a focus on ergonomics, performance and
   modularity.
 - [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser):
   An extended commonmark compliant parser, with bridges to docutils/sphinx
-  <https://myst-parser.readthedocs.io/>
+  <https://myst-parser.readthedocs.io>
 
 ## Misc
 
@@ -553,7 +552,7 @@
   <https://opendev.org/openstack/stevedore>
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui): Python TUI
   framework with mouse support, modular widget system, customizable and rapid
-  terminal markup language and more! <https://ptg.bczsalba.com/>
+  terminal markup language and more! <https://ptg.bczsalba.com>
 - [adamchainz/patchy](https://github.com/adamchainz/patchy): ⚓ Patch the inner
   source of python functions at runtime.
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress): A new
@@ -562,19 +561,19 @@
 - [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX
   math description from Python functions.
 - [jazzband/tablib](https://github.com/jazzband/tablib): Python Module for
-  Tabular Datasets in XLS, CSV, JSON, YAML, &c. <https://tablib.readthedocs.io/>
+  Tabular Datasets in XLS, CSV, JSON, YAML, &c. <https://tablib.readthedocs.io>
 - [jazzband/prettytable](https://github.com/jazzband/prettytable): Display
   tabular data in a visually appealing ASCII table format
 - [wireservice/csvkit](https://github.com/wireservice/csvkit): A suite of
   utilities for converting to and working with CSV, the king of tabular file
-  formats. <http://csvkit.rtfd.org/>
+  formats. <http://csvkit.rtfd.org>
 
 ### Visualization
 
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
   dashboarding solution for Python
 - [joouha/euporie](https://github.com/joouha/euporie): Jupyter notebooks in the
-  terminal <https://euporie.readthedocs.io/>
+  terminal <https://euporie.readthedocs.io>
 - [laixintao/jupyter-dot-kernel](https://github.com/laixintao/jupyter-dot-kernel):
   📝Dot language kernel for jupyter.
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz): Automatically
@@ -582,17 +581,16 @@
   Seshadri. Collaborators Welcome. Permission Granted upon Request.
 - [datoviz/datoviz](https://github.com/datoviz/datoviz/): ⚡ High-performance
   GPU interactive scientific data visualization with Vulkan
-  <https://datoviz.org/>
+  <https://datoviz.org>
 - [pygfx/pygfx](https://github.com/pygfx/pygfx): Like ThreeJS but for Python and
-  based on wgpu <https://pygfx.readthedocs.io/>
+  based on wgpu <https://pygfx.readthedocs.io>
 - [vispy/GSP](https://github.com/vispy/GSP): Graphic Server Protocol
-  <https://vispy.github.io/GSP/>
+  <https://vispy.github.io/GSP>
 - [simonw/datasette](https://github.com/simonw/datasette): An open source
-  multi-tool for exploring and publishing data <https://datasette.io/>
+  multi-tool for exploring and publishing data <https://datasette.io>
 - [datapane/datapane](https://github.com/datapane/datapane): Datapane is the
-  easiest way to create data science reports from Python.
-  <https://datapane.com/>
+  easiest way to create data science reports from Python. <https://datapane.com>
 - [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila): Generative
-  Art Generator <https://www.samila.site/>
+  Art Generator <https://www.samila.site>
 - [lux-org/lux](https://github.com/lux-org/lux): Automatically visualize your
   pandas dataframe via a single print! 📊 💡

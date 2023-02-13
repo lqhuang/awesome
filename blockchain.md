@@ -4,10 +4,10 @@
 
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook):
   Blockchain dark forest selfguard handbook. Master these, master the security
-  of your cryptocurrency. <https://darkhandbook.io/>
+  of your cryptocurrency. <https://darkhandbook.io>
 - [laalaguer/ethereum-compass](https://github.com/laalaguer/ethereum-compass):
   《以太坊的指南针》 一本写给普通人看的以太坊区块链技术书。A Book of Ethereum in
-  Chinese. <http://ethbook.abyteahead.com/>
+  Chinese. <http://ethbook.abyteahead.com>
 
 ## Readings
 
@@ -19,7 +19,7 @@
   (ZKP).
 - [ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices):
   A guide to smart contract security best practices
-  <https://consensys.github.io/smart-contract-best-practices/>
+  <https://consensys.github.io/smart-contract-best-practices>
 - [yjjnls/awesome-blockchain](https://github.com/yjjnls/awesome-blockchain):
   ⚡️Curated list of resources for the development and applications of
   blockchain.
@@ -35,28 +35,28 @@
   platform to explore and visualize data from blockchain.
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node): Graph
   Node indexes data from blockchains such as Ethereum and serves it over GraphQL
-  <https://thegraph.com/>
+  <https://thegraph.com>
 - [ethereum/web3.py](https://github.com/ethereum/web3.py): A python interface
   for interacting with the Ethereum blockchain and ecosystem.
-  <http://web3py.readthedocs.io/>
+  <http://web3py.readthedocs.io>
 
 ## Smart Contract Dev
 
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry): Foundry is a
   blazing fast, portable and modular toolkit for Ethereum application
-  development written in Rust. <https://getfoundry.sh/>
+  development written in Rust. <https://getfoundry.sh>
 - [transmissions11/solmate](https://github.com/transmissions11/solmate): Modern,
   opinionated, and gas optimized building blocks for smart contract development.
 - [tintinweb/smart-contract-sanctuary](https://github.com/tintinweb/smart-contract-sanctuary):
   🐦🌴🌴🌴🦕 A home for ethereum smart contracts. 🏠
-  <https://tintinweb.github.io/smart-contract-sanctuary/>
+  <https://tintinweb.github.io/smart-contract-sanctuary>
 - [vyperlang/vyper](https://github.com/vyperlang/vyper): Pythonic Smart Contract
   Language for the EVM
 - [ethereum/fe](https://github.com/ethereum/fe): Emerging smart contract
-  language for the Ethereum blockchain. <https://fe-lang.org/>
+  language for the Ethereum blockchain. <https://fe-lang.org>
 - [trailofbits/manticore](https://github.com/trailofbits/manticore): Symbolic
   execution tool
-  <https://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans/>
+  <https://blog.trailofbits.com/2017/04/27/manticore-symbolic-execution-for-humans>
 - [paritytech/ink](https://github.com/paritytech/ink): Parity's ink! to write
   smart contracts.
 - [MystenLabs/sui](https://github.com/MystenLabs/sui): Sui, a next-generation
@@ -64,14 +64,14 @@
   asset-oriented programming model powered by the Move programming language
 - [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat): Hardhat
   is a development environment to compile, deploy, test, and debug your Ethereum
-  software. Get Solidity stack traces & console.log. <https://hardhat.org/>
+  software. Get Solidity stack traces & console.log. <https://hardhat.org>
 
 ## Implementation / node client
 
 - [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs):
   Ethereum Proof-of-Stake Consensus Specifications
 - [ethereum/py-evm](https://github.com/ethereum/py-evm): A Python implementation
-  of the Ethereum Virtual Machine <https://py-evm.readthedocs.io/en/latest/>
+  of the Ethereum Virtual Machine <https://py-evm.readthedocs.io/en/latest>
 - [sigp/lighthouse](https://github.com/sigp/lighthouse): Ethereum consensus
   client in Rust
 - [gakonst/ethers-rs](https://github.com/gakonst/ethers-rs): Complete Ethereum &
@@ -89,11 +89,11 @@
   multi-transport client. Rust implementation of web3 library. ENS address:
   rust-web3.eth
 - [matter-labs/zksync](https://github.com/matter-labs/zksync): zkSync: trustless
-  scaling and privacy engine for Ethereum <https://zksync.io/>
+  scaling and privacy engine for Ethereum <https://zksync.io>
 - [ConsenSys/mythril](https://github.com/ConsenSys/mythril): Security analysis
   tool for EVM bytecode. Supports smart contracts built for Ethereum, Hedera,
   Quorum, Vechain, Roostock, Tron and other EVM-compatible blockchains.
-  <https://mythx.io/>
+  <https://mythx.io>
 
 ## Projects
 
@@ -104,4 +104,4 @@
 
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo): Secure,
   open source and community driven crypto wallet runs on all platforms and
-  trusted by millions. <https://onekey.so/>
+  trusted by millions. <https://onekey.so>

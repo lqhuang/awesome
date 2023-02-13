@@ -9,7 +9,7 @@
   Raft 博士论文的中文翻译
 - [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list):
   A list of papers about distributed consensus.
-  <https://heidihoward.github.io/distributed-consensus-reading-list/>
+  <https://heidihoward.github.io/distributed-consensus-reading-list>
 - [CS525 UIUC SP21: Reading List](https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/)
 - [Flexible Paxos](https://fpaxos.github.io/): Flexible Paxos is the simple
   observation that it is not necessary to require all quorums in Paxos to
@@ -18,7 +18,7 @@
   Distributed Systems Consistency Reading Group
   <https://mwhittaker.github.io/consistency_in_distributed_systems>
 - [mwhittaker's review of paper](https://mwhittaker.github.io/papers/): 📄 Paper
-  Summaries <https://mwhittaker.github.io/papers/>
+  Summaries <https://mwhittaker.github.io/papers>
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/):
   Curated list of resources on testing distributed systems
 
@@ -26,19 +26,19 @@
 
 - [taskflow/taskflow](https://github.com/taskflow/taskflow): A General-purpose
   Parallel and Heterogeneous Task Programming System
-  <https://taskflow.github.io/>
+  <https://taskflow.github.io>
 - [unisonweb/unison](https://github.com/unisonweb/unison): A friendly
-  programming language from the future <https://www.unison-lang.org/>
+  programming language from the future <https://www.unison-lang.org>
 - [hypertrace/hypertrace](https://github.com/hypertrace/hypertrace): An open
   source distributed tracing & observability platform
-  <https://www.hypertrace.org/>
+  <https://www.hypertrace.org>
 - [lnx-search/datacake](https://github.com/lnx-search/datacake): Tooling for
   creating your own distributed systems.
 - [dora-rs/dora](https://github.com/dora-rs/dora): dora goal is to be a low
   latency, composable, and distributed data flow.
   <https://dora-rs.github.io/dora>
 - [hydro-project/hydroflow](https://github.com/hydro-project/hydroflow): Hydro's
-  low-level dataflow runtime <https://hydro-project.github.io/hydroflow/>
+  low-level dataflow runtime <https://hydro-project.github.io/hydroflow>
 
 ## Actor frameworks
 
@@ -46,10 +46,6 @@
   single-threaded actor runtime
 - [Thomasdezeeuw/heph](https://github.com/Thomasdezeeuw/heph): Heph is an actor
   framework for Rust based on asynchronous functions.
-- [goodboy/tractor](https://github.com/goodboy/tractor): structured concurrent,
-  Python parallelism <https://tractor.readthedocs.io/>
-- [Chumper/pyctor](https://github.com/Chumper/pyctor): A Python Actor Framework
-  based on trio
 - [starcoinorg/xtor](https://github.com/starcoinorg/xtor): async actor framework
 - [ShisoftResearch/bifrost](https://github.com/ShisoftResearch/bifrost): Pure
   rust building block for distributed systems
@@ -57,15 +53,13 @@
   message-centric actor framework for tokio. It builds on top of tiny-actor
   while adding a layer of abstraction that allows for building more complex
   systems.
-- [thespianpy/Thespian](https://github.com/thespianpy/Thespian): Python Actor
-  concurrency library
 - [riker-rs/riker](https://github.com/riker-rs/riker/): Easily build efficient,
   highly concurrent and resilient applications. An Actor Framework for Rust.
-  <https://riker.rs/>
+  <https://riker.rs>
 - [quantmind/pulsar](https://github.com/quantmind/pulsar): Event driven
   concurrent framework for Python
 - [haskell-distributed/distributed-process](https://github.com/haskell-distributed/distributed-process):
-  Cloud Haskell core library <http://haskell-distributed.github.io/>
+  Cloud Haskell core library <http://haskell-distributed.github.io>
 - [rkuhn/acto](https://github.com/rkuhn/acto): Actor library for Rust
 - [mdeloof/statig](https://github.com/mdeloof/statig): Hierarchical state
   machines for designing event-driven systems <https://crates.io/crates/statig>
@@ -77,12 +71,12 @@
 ## Middleware
 
 - [v6d-io/v6d](https://github.com/v6d-io/v6d): vineyard (v6d): an in-memory
-  immutable data manager. (Project under CNCF, TAG-Storage) <https://v6d.io/>
+  immutable data manager. (Project under CNCF, TAG-Storage) <https://v6d.io>
 
 ## Serialization Protocl
 
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto
-  serialization/RPC system - core tools and C++ library <https://capnproto.org/>
+  serialization/RPC system - core tools and C++ library <https://capnproto.org>
 
 ## Distributed consensus
 
@@ -90,8 +84,7 @@
   lightest distributed consensus library. Run your own replicated state machine!
   ❤️
 - [efficient/epaxos](https://github.com/efficient/epaxos): EPaxos is an
-  efficient, leaderless replication protocol
-  <http://efficient.github.io/epaxos/>
+  efficient, leaderless replication protocol <http://efficient.github.io/epaxos>
 - [vitorenesduarte/fantoch](https://github.com/vitorenesduarte/fantoch):
   framework for evaluating (planet-scale) consensus protocols
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft): rust raft
@@ -105,10 +98,10 @@
   effect system (zio). Currently, the goal of this project is educational, not
   production usage.
 - [canonical/raft](https://github.com/canonical/raft): C implementation of the
-  Raft consensus protocol <https://raft.readthedocs.io/>
+  Raft consensus protocol <https://raft.readthedocs.io>
 - [mwhittaker/frankenpaxos](https://github.com/mwhittaker/frankenpaxos): A
   collection of state machine replication protocols
-  <https://mwhittaker.github.io/frankenpaxos/>
+  <https://mwhittaker.github.io/frankenpaxos>
 
 ## Correctness
 
@@ -120,7 +113,7 @@
   network simulator that directly executes real application code, enabling you
   to simulate distributed systems with thousands of network-connected processes
   in realistic and scalable private network experiments using your laptop,
-  desktop, or server running Linux. <https://shadow.github.io/>
+  desktop, or server running Linux. <https://shadow.github.io>
 
 ## Formal verification
 
