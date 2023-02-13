@@ -400,6 +400,8 @@
   for Rust
 - [tokio-rs/prost](https://github.com/tokio-rs/prost): PROST! a Protocol Buffers
   implementation for the Rust Language
+- [tafia/quick-protobuf](https://github.com/tafia/quick-protobuf): A rust
+  implementation of protobuf parser
 - [serde-rs/json](https://github.com/serde-rs/json): Strongly typed JSON library
   for Rust
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json): Rust port of

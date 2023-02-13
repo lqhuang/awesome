@@ -34,6 +34,8 @@
 - [google-research/torchsde](https://github.com/google-research/torchsde):
   Differentiable SDE solvers with GPU support and efficient sensitivity
   analysis.
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): In-Database Machine
+  Learning <http://mindsdb.com/>
 
 ### Optimization
 
