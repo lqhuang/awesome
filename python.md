@@ -397,8 +397,6 @@
 
 ### Utils
 
-- [deepmind/tree](https://github.com/deepmind/tree): tree is a library for
-  working with nested data structures <https://tree.readthedocs.io>
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python
   module for decorators, wrappers and monkey patching.
 - [hynek/stamina](https://github.com/hynek/stamina): Easy mode for Tenacity.

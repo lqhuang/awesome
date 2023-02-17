@@ -84,6 +84,8 @@
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning): Deep
   learning framework to train, deploy, and ship AI products Lightning fast.
   <https://lightning.ai>
+- [alpa-projects/alpa](https://github.com/alpa-projects/alpa): Training and
+  serving large-scale neural networks <https://alpa.ai/>
 
 ### Libraries
 
@@ -103,6 +105,10 @@
   safe way to store and distribute tensors
 - [google/pyglove](https://github.com/google/pyglove): Manipulating Python
   Programs
+- [deepmind/tree](https://github.com/deepmind/tree): tree is a library for
+  working with nested data structures <https://tree.readthedocs.io>
+- [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses):
+  Pytrees + dataclasses ❤️
 
 ## Compiler / Low level
 
@@ -153,13 +159,6 @@
 - [jax-ml/oryx](https://github.com/jax-ml/oryx): Oryx is a library for
   probabilistic programming and deep learning built on top of Jax.
   <https://tensorflow.org/probability/oryx>
-- [deepmind/distrax](https://github.com/deepmind/distrax): Distrax is a
-  lightweight library of probability distributions and bijectors. It acts as a
-  JAX-native reimplementation of a subset of TensorFlow Probability (TFP,
-  https://www.tensorflow.org/probability), with some new features and emphasis
-  on extensibility.
-- [deepmind/jraph](https://github.com/deepmind/jraph): A Graph Neural Network
-  Library in Jax <https://jraph.readthedocs.io/en/latest>
 - [vicariousinc/PGMax](https://github.com/vicariousinc/PGMax): Loopy belief
   propagation for factor graphs on discrete variables, in JAX!
   <https://pgmax.readthedocs.io>
@@ -168,14 +167,40 @@
   <https://flax.readthedocs.io>
 - [google/trax](https://github.com/google/trax): Trax — Deep Learning with Clear
   Code and Speed
-- [dm-haiku](https://github.com/deepmind/dm-haiku): JAX-based neural network
-  library <https://dm-haiku.readthedocs.io>
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax):
   Model parallel transformers in JAX and Haiku
 - [probml/sts-jax](https://github.com/probml/sts-jax): Structural Time Series in
   JAX
 - [ASEM000/kernex](https://github.com/ASEM000/kernex): Stencil computations in
   JAX
+- [metaopt/optree](https://github.com/metaopt/optree): OpTree: Optimized PyTree
+  Utilities <https://optree.readthedocs.io>
+
+### DeepMind specialization
+
+- [Using JAX to accelerate our research](https://www.deepmind.com/blog/using-jax-to-accelerate-our-research)
+- [deepmind/jax](https://github.com/deepmind/jax): DeepMind JAX Ecosystem
+- [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku): JAX-based neural
+  network library <https://dm-haiku.readthedocs.io>
+- [deepmind/optax](https://github.com/deepmind/optax): Optax is a gradient
+  processing and optimization library for JAX. <https://optax.readthedocs.io>
+- [deepmind/rlax](https://github.com/deepmind/rlax): RLax (pronounced "relax")
+  is a library built on top of JAX that exposes useful building blocks for
+  implementing reinforcement learning agents. <https://rlax.readthedocs.io>
+- [deepmind/chex](https://github.com/deepmind/chex): Chex is a library of
+  utilities for helping to write reliable JAX code.
+  <https://chex.readthedocs.io>
+- [deepmind/jraph](https://github.com/deepmind/jraph): A Graph Neural Network
+  Library in Jax <https://jraph.readthedocs.io/en/latest>
+- [deepmind/mctx](https://github.com/deepmind/mctx): Monte Carlo tree search in
+  JAX
+- [deepmind/distrax](https://github.com/deepmind/distrax): Distrax is a
+  lightweight library of probability distributions and bijectors. It acts as a
+  JAX-native reimplementation of a subset of TensorFlow Probability (TFP,
+  https://www.tensorflow.org/probability), with some new features and emphasis
+  on extensibility.
+- [deepmind/PGMax](https://github.com/deepmind/PGMax): Loopy belief propagation
+  for factor graphs on discrete variables in JAX
 
 ## Workflow pipeline
 
@@ -220,6 +245,13 @@
 - [alteryx/featuretools](https://github.com/alteryx/featuretools): An open
   source python library for automated feature engineering
   <https://www.featuretools.com>
+- [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop): An interactive
+  NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process
+  management. <https://nvitop.readthedocs.io/>
+- [Syllo/nvtop](https://github.com/Syllo/nvtop): GPUs process monitoring for
+  AMD, Intel and NVIDIA
+- [wookayin/gpustat](https://github.com/wookayin/gpustat): 📊 A simple
+  command-line utility for querying and monitoring GPU status
 
 ## Misc
 

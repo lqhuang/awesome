@@ -21,6 +21,12 @@ Streaming Systems
 - [codypiersall/pynng](https://github.com/codypiersall/pynng): Python bindings
   for Nanomsg Next Generation. <https://pynng.readthedocs.io>
 
+### Queue
+
+- [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor): High
+  Performance Inter-Thread Messaging Library
+  <http://lmax-exchange.github.io/disruptor/>
+
 ## Frameworks
 
 - [singularity-data/risingwave](https://github.com/singularity-data/risingwave):
@@ -38,6 +44,10 @@ Streaming Systems
   A modular implementation of timely dataflow in Rust
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow):
   An implementation of differential dataflow using timely dataflow on Rust.
+- [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast): Open-source
+  distributed computation and storage platform. Real-time Stream Processing
+  Unconference. Save Your Spot https://hazelcast.com/lp/unconference/
+  <https://www.hazelcast.com/>
 
 ## Pending to research / study
 
