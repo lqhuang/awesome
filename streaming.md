@@ -48,8 +48,10 @@ Streaming Systems
   distributed computation and storage platform. Real-time Stream Processing
   Unconference. Save Your Spot https://hazelcast.com/lp/unconference/
   <https://www.hazelcast.com/>
+- [python-streamz/streamz](https://github.com/python-streamz/streamz): Real-time
+  stream processing for python <https://streamz.readthedocs.io/en/latest/>
 
-## Pending to research / study
+## Toy projects
 
 - [vertexclique/callysto](https://github.com/vertexclique/callysto): Stream
   processing framework. <https://vertexclique.github.io/callysto>

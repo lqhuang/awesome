@@ -162,6 +162,9 @@
   <https://trigger.dev>
 - [backstage/backstage](https://github.com/backstage/backstage): Backstage is an
   open platform for building developer portals <https://backstage.io>
+- [kubeshop/tracetest](https://github.com/kubeshop/tracetest): Tracetest -
+  Generate end-to-end tests automatically from your traces. For QA, Dev, & Ops.
+  <https://tracetest.io/>
 
 ### Pipelines / Workflow
 

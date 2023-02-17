@@ -6,6 +6,15 @@
   A curated list of insanely awesome libraries, packages and resources for
   systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化
   交易 | 量化投资 <https://wangzhe3224.github.io/awesome-systematic-trading>
+- [chrisconlan/algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python):
+  Source code for Algorithmic Trading with Python (2020) by Chris Conlan
+- [cure-lab/Awesome-time-series](https://github.com/cure-lab/Awesome-time-series):
+  A comprehensive survey on the time series domains
+
+### Books
+
+- [Causality, Probability, and Time](http://www.skleinberg.org/causality_book/index.html):
+  Simulated financial time series -> <http://www.skleinberg.org/data.html>
 
 ## Frameworks
 
@@ -124,3 +133,5 @@
 - [benibaeumle/Learning-Shapelets](https://github.com/benibaeumle/Learning-Shapelets):
   A PyTorch implementation of learning shapelets from the paper Grabocka et al.,
   „Learning Time-Series Shapelets“.
+- [](https://github.com/yuezhihan/ts2vec): A universal time series
+  representation learning framework <https://arxiv.org/abs/2106.10466>

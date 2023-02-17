@@ -593,3 +593,7 @@
   Art Generator <https://www.samila.site>
 - [lux-org/lux](https://github.com/lux-org/lux): Automatically visualize your
   pandas dataframe via a single print! 📊 💡
+- [moshi4/pyCirclize](https://github.com/moshi4/pyCirclize): Circular
+  visualization in Python (Circos Plot, Chord Diagram)
+  <https://moshi4.github.io/pyCirclize>
+- [ponnhide/pyCircos](https://github.com/ponnhide/pyCircos): python Circos
