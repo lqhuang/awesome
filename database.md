@@ -12,6 +12,8 @@
 
 - [jackwener/Readings-in-Database-Systems-5th-CN](https://github.com/jackwener/Readings-in-Database-Systems-5th-CN):
   Readings in Database Systems, 5th Edition 中文翻译
+- [Use The Index, Luke!](https://use-the-index-luke.com/): A site explaining SQL
+  indexing to developers—no crap about administration.
 
 ### Practices
 

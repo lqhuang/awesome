@@ -116,8 +116,9 @@
 
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit): Audits
   Python environments and dependency trees for known vulnerabilities
-- [pyupio/safety](https://github.com/pyupio/safety): Safety checks your
-  installed dependencies for known security vulnerabilities
+- [pyupio/safety](https://github.com/pyupio/safety): Safety checks Python
+  dependencies for known security vulnerabilities and suggests the proper
+  remediations for vulnerabilities detected. <https://pyup.io/safety>
 
 ### Test / Mock / Coverage
 

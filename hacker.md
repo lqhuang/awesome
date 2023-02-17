@@ -91,8 +91,6 @@
   Typst take care of layout and formatting.
 - [Inkdrop](https://www.inkdrop.app/): Organizing your Markdown notes made
   simple.
-- [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown
-  as mindmaps with Markmap.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed
   for reading research papers and technical books. <https://sioyek.info>
 - [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely
@@ -108,6 +106,8 @@
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists):
   Check if an email address exists without sending any email, written in Rust.
   Comes with a ⚙️ HTTP backend. <https://reacher.email>
+- [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source
+  Continuous File Synchronization <https://forum.syncthing.net>
 
 ### Self-hosted
 
@@ -137,6 +137,8 @@
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore): Omnivore is
   a complete, open source read-it-later solution for people who like reading.
   <https://omnivore.app>
+- [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown
+  as mindmaps with Markmap.
 
 ### macOS / iPadOS
 
