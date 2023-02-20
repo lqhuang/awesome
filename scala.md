@@ -137,6 +137,17 @@
 - [rssh/dotty-cps-async](https://github.com/rssh/dotty-cps-async): experimental
   CPS transformer for dotty
 
+## Stream / Effect systems / Experiments
+
+- [TomasMikula/libretto](https://github.com/TomasMikula/libretto): Declarative
+  concurrency and stream processing library for Scala
+- [strymonas/strymonas](https://github.com/strymonas/strymonas): Fast streams
+  for Scala 3
+- [fwbrasil/kyo](https://github.com/fwbrasil/kyo): High-performance composable
+  effects for Scala 3
+- [marcinzh/turbolift](https://github.com/marcinzh/turbolift): Algebraic Effects
+  for Scala 3 <https://marcinzh.github.io/turbolift>
+
 ## War of eco systems
 
 ### Akka
@@ -196,13 +207,15 @@
 - [tailcallhq/zio-compose](https://github.com/tailcallhq/zio-compose): A Scala
   DSL to write type-safe programs for distributed computing
 
-## Stream / Effect systems / Experiments
+## Could we make Scala great again?
 
-- [TomasMikula/libretto](https://github.com/TomasMikula/libretto): Declarative
-  concurrency and stream processing library for Scala
-- [strymonas/strymonas](https://github.com/strymonas/strymonas): Fast streams
-  for Scala 3
-- [fwbrasil/kyo](https://github.com/fwbrasil/kyo): High-performance composable
-  effects for Scala 3
-- [marcinzh/turbolift](https://github.com/marcinzh/turbolift): Algebraic Effects
-  for Scala 3 <https://marcinzh.github.io/turbolift>
+## for Data Intensive System
+
+- [Kotlin/multik](https://github.com/Kotlin/multik): Multidimensional array
+  library for Kotlin. <https://kotlin.github.io/multik/>
+- [Kotlin/dataframe](https://github.com/Kotlin/dataframe): Structured data
+  processing in Kotlin <https://kotlin.github.io/dataframe/>
+- [haifengl/smile](https://github.com/haifengl/smile): Statistical Machine
+  Intelligence & Learning Engine <https://haifengl.github.io/>
+- [SciProgCentre/kmath](https://github.com/SciProgCentre/kmath): Kotlin
+  mathematics extensions library
