@@ -40,6 +40,14 @@
 
 ## Toolchain
 
+### Build
+
+- [rsms/llvmbox](https://github.com/rsms/llvmbox): Self contained, fully static
+  llvm tools & libs
+- [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker
+- [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source
+  C/C++ package manager <https://conan.io>
+
 ### Analyzer
 
 - [Valgrind](https://valgrind.org/): Valgrind is an instrumentation framework
@@ -125,9 +133,6 @@
   cross-platform, high-performance event loop that provides abstractions for
   non-blocking IO, timers, events, and more and works on Linux (io_uring or
   epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
-- [rsms/llvmbox](https://github.com/rsms/llvmbox): Self contained, fully static
-  llvm tools & libs
-- [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker
 
 ## ???
 

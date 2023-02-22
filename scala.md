@@ -8,6 +8,8 @@
 - [slouc/concurrency-in-scala-with-ce](https://github.com/slouc/concurrency-in-scala-with-ce):
   Introduction to concepts of asynchronous and concurrent programming in Scala,
   based on the Cats Effect library.
+- [EffectOrientedProgramming/book](https://github.com/EffectOrientedProgramming/book):
+  Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2
 
 ### Exercises
 

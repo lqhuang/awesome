@@ -164,6 +164,10 @@
   <https://latex.now.sh>
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥 Make
   videos programmatically with React <https://remotion.dev>
+- [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars):
+  Boring avatars is a tiny JavaScript React library that generates custom,
+  SVG-based avatars from any username and color palette.
+  <https://boringavatars.com/>
 
 ## Build tools
 

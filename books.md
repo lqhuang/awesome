@@ -2,8 +2,6 @@
 
 ## Books (en)
 
-https://web.stanford.edu/~boyd/cvxbook/
-
 - [probml/pml-book](https://github.com/probml/pml-book): "Probabilistic Machine
   Learning" - a book series by Kevin Murphy
   https://probml.github.io/pml-book/book2.html
@@ -38,22 +36,14 @@ https://web.stanford.edu/~boyd/cvxbook/
   Website that provides concise answers to common questions about floating-point
   numbers. <http://floating-point-gui.de>
   [Chinese Trsanlation: 《关于浮点运算：作为程序员都应该了解什么？》](https://github.com/cnrv/floating-point-guide)
-- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design):
-  A booklet on machine learning systems design with exercises. NOT the repo for
-  the book "Designing Machine Learning Systems"
-  <https://huyenchip.com/machine-learning-systems-design/toc.html>
 - [graph-neural-networks/graph-neural-networks](https://github.com/graph-neural-networks/graph-neural-networks.github.io):
   This repo is for hosting our GNN book titled "Graph Neural Networks:
   Foundations, Frontiers, and Applications".
   <https://graph-neural-networks.github.io/index.html>
-- [EffectOrientedProgramming/book](https://github.com/EffectOrientedProgramming/book):
-  Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2
-- [kushaldas/lym](https://github.com/kushaldas/lym): Linux command line for you
-  and me <https://lym.readthedocs.io/en/latest>
-- [liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY): Book of Elementary
-  Algorithms and Data structures
-- [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book
-  about math and programming.
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/): A MOOC on
+  convex optimization, CVX101. If you register for it, you can access all the
+  course materials. More material can be found at the web sites for EE364A
+  (Stanford) or EE236B (UCLA), and our own web pages.
 
 ## Books (zh_cn)
 
@@ -81,9 +71,5 @@ https://web.stanford.edu/~boyd/cvxbook/
   <http://zh.d2l.ai>
 - [Visualize-ML/Book3_Fundamentals-of-Mathematics](https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics):
   《数学要素》，清华社五审五校中；Github 稿件基本稳定，欢迎提意见，会及时修改
-
-## Readings
-
-- [qingsongedu/time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review):
-  A professionally curated list of awesome resources (paper, code, data, etc.)
-  on transformers in time series.
+- [johnlui/PPHC](https://github.com/johnlui/PPHC): 📙《高并发的哲学原理》开源图
+  书

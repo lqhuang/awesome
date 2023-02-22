@@ -51,6 +51,8 @@
 - [mhallsmoore/qstrader](https://github.com/mhallsmoore/qstrader):
   QuantStart.com - QSTrader backtesting simulation engine.
   <https://www.quantstart.com/qstrader>
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse): An advanced crypto
+  trading bot written in Python <https://jesse.trade/>
 
 ## Backtesting
 
@@ -133,5 +135,8 @@
 - [benibaeumle/Learning-Shapelets](https://github.com/benibaeumle/Learning-Shapelets):
   A PyTorch implementation of learning shapelets from the paper Grabocka et al.,
   „Learning Time-Series Shapelets“.
-- [](https://github.com/yuezhihan/ts2vec): A universal time series
-  representation learning framework <https://arxiv.org/abs/2106.10466>
+- [yuezhihan/ts2vec](https://github.com/yuezhihan/ts2vec): A universal time
+  series representation learning framework <https://arxiv.org/abs/2106.10466>
+- [qingsongedu/time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review):
+  A professionally curated list of awesome resources (paper, code, data, etc.)
+  on transformers in time series.

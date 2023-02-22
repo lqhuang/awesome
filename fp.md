@@ -6,6 +6,12 @@
   of Functional Programming"
 - [Steve Awodey's GitHub pages](https://awodey.github.io/): _Homotopy Type
   Theory: Univalent Foundations of Mathematics_ and _Category Theory_
+- [liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY): Book of Elementary
+  Algorithms and Data structures
+- [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book
+  about math and programming.
+- [Trebor-Huang/history](https://github.com/Trebor-Huang/history): History of
+  type theory (Chinese).
 
 ### Resources
 

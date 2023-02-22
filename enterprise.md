@@ -247,6 +247,9 @@
   developer workflow system <https://www.pantsbuild.org>
 - [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build
   system with a focus on speed <https://ninja-build.org>
+- [moonrepo/moon](https://github.com/moonrepo/moon): A task runner and repo
+  management tool for the web ecosystem, written in Rust.
+  <https://moonrepo.dev/>
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix):
   An unofficial, opinionated, gentle introduction to Nix (@NixOS) from
   Determinate Systems <https://zero-to-nix.com>

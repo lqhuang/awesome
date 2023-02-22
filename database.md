@@ -35,6 +35,8 @@
 - [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb): Pure Rust
   LSM-tree based embedded storage engine
 - [tcdi/pgx](https://github.com/tcdi/pgx): Build Postgres Extensions with Rust!
+- [sunng87/pgwire](https://github.com/sunng87/pgwire): PostgreSQL wire protocol
+  implemented as a rust library.
 - [sqlbench-ds](https://github.com/sql-benchmarks/sqlbench-ds): SQL Benchmark
   derived from TPC-DS
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista): Apache

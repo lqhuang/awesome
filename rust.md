@@ -40,6 +40,8 @@
 - [Possible Rust](https://www.possiblerust.com/): Learning what’s possible in
   Rust.
 - [文科生也能懂的 Rust async 机制](https://blog.pan93.com/what-is-rust-async-cn/)
+- [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning): A bunch of
+  links to blog posts, articles, videos, etc for learning Rust
 
 ## Build
 

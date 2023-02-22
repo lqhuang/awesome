@@ -12,6 +12,10 @@
 - [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh): 《Machine
   Learning Systems: Design and Implementation》- Chinese Version
   <https://openmlsys.github.io>
+- [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design):
+  A booklet on machine learning systems design with exercises. NOT the repo for
+  the book "Designing Machine Learning Systems"
+  <https://huyenchip.com/machine-learning-systems-design/toc.html>
 
 ## Framework
 

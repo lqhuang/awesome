@@ -71,6 +71,7 @@
   Yet another actor crate for rust. This crate exists specifically to answer
   quickwit needs. The API may change in the future.
   [Video: Building an actor library for Quickwit's indexing pipeline](https://fosdem.org/2023/schedule/event/building_an_actor_library_for_quickwits_indexing_pipeline/)
+- [slawlor/ractor](https://github.com/slawlor/ractor): Rust actor framework
 
 ## Middleware
 
