@@ -84,6 +84,9 @@
   your code. Or is it duct 🤔
 - [epfl-lara/stainless](https://github.com/epfl-lara/stainless): Verification
   framework and tool for higher-order Scala programs <https://stainless.epfl.ch>
+- [softwaremill/magnolia](https://github.com/softwaremill/magnolia): Easy, fast,
+  transparent generic derivation of typeclass instances
+  <https://softwaremill.com/open-source/>
 
 ### Serialization
 

@@ -140,3 +140,5 @@
 - [qingsongedu/time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review):
   A professionally curated list of awesome resources (paper, code, data, etc.)
   on transformers in time series.
+- [thuml/Time-Series-Library](https://github.com/thuml/Time-Series-Library): A
+  Library for Advanced Deep Time Series Models.

@@ -12,6 +12,9 @@
   about math and programming.
 - [Trebor-Huang/history](https://github.com/Trebor-Huang/history): History of
   type theory (Chinese).
+- [typeclasses/haskell-phrasebook](https://github.com/typeclasses/haskell-phrasebook):
+  The Haskell Phrasebook: a quick intro to Haskell via small annotated example
+  programs <https://typeclasses.com/phrasebook>
 
 ### Resources
 

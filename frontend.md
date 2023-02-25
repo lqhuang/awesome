@@ -68,6 +68,8 @@
 - [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for
   building powerful tables & datagrids for TS/JS - React-Table, Vue-Table,
   Solid-Table, Svelte-Table <https://tanstack.com/table>
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated
+  toast component for React. <https://sonner.emilkowal.ski/>
 
 ### CSS Style
 

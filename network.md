@@ -133,6 +133,9 @@
   control, telemetry data, metrics and more.
 - [ekzhang/bore](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool
   for making tunnels to localhost <http://bore.pub>
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling):
+  List of ngrok alternatives and other ngrok-like tunneling software and
+  services. Focus on self-hosting.
 
 ### Mesh network
 

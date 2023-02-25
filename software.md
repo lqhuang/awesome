@@ -110,6 +110,11 @@
 - [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown
   as mindmaps with Markmap.
 
+### Email
+
+- [mjl-/mox](https://github.com/mjl-/mox): modern full-featured open source
+  secure mail server for low-maintenance self-hosted email
+
 ### Vault / Passwords
 
 - [padloc/padloc](https://github.com/padloc/padloc): A modern, open source

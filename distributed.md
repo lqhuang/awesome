@@ -77,6 +77,11 @@
 
 - [v6d-io/v6d](https://github.com/v6d-io/v6d): vineyard (v6d): an in-memory
   immutable data manager. (Project under CNCF, TAG-Storage) <https://v6d.io>
+- [pelikan-io/pelikan](https://github.com/pelikan-io/pelikan): Pelikan is a
+  framework for building local or distributed caches. It comes with a highly
+  extensible architecture, best-in-class performance, and superb operational
+  ergonomics. You can use it to replace most of Memcached or a subset of Redis
+  features. <https://pelikan.io/>
 
 ## Serialization Protocl
 
