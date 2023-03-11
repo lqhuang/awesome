@@ -19,6 +19,8 @@
   The Illustrated QUIC Connection: Every byte explained <https://quic.xargs.org>
 - [https-dev/docs](https://github.com/https-dev/docs/blob/master/list-of-acme-servers.md):
   List of ACME Servers
+- [clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking):
+  A curated list of awesome networking libraries, resources and shiny things
 
 ## Libraries
 
@@ -27,6 +29,8 @@
 - [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap): the
   LIBpcap interface to various kernel packet capture mechanism
   <https://www.tcpdump.org>
+- [microsoft/snocat](https://github.com/microsoft/snocat): Streaming Network
+  Overlay Connection Arbitration Tunnel
 
 ## Tools
 
@@ -64,6 +68,8 @@
   simplify Paramiko SSH connections to network devices
 - [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native
   Python SSHv2 protocol library. <http://paramiko.org>
+- [vergoh/vnstat](https://github.com/vergoh/vnstat): vnStat - a network traffic
+  monitor for Linux and BSD
 
 ### Analysis
 
@@ -133,9 +139,17 @@
   control, telemetry data, metrics and more.
 - [ekzhang/bore](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool
   for making tunnels to localhost <http://bore.pub>
+- [rapiz1/rathole](https://github.com/rapiz1/rathole): A lightweight and
+  high-performance reverse proxy for NAT traversal, written in Rust. An
+  alternative to frp and ngrok.
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling):
   List of ngrok alternatives and other ngrok-like tunneling software and
   services. Focus on self-hosting.
+- [openconnect/ocserv](https://gitlab.com/openconnect/ocserv/): Engine for
+  secure and scalable VPN infrastructure https://ocserv.gitlab.io/www/
+- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass): Rosenpass is a
+  formally verified, post-quantum secure VPN that uses WireGuard to transport
+  the actual data. <https://rosenpass.eu/>
 
 ### Mesh network
 

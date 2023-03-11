@@ -29,6 +29,12 @@
 - [How GPT3 Works - Visualizations and Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 - [learn-anything/research-papers](https://github.com/learn-anything/research-papers):
   Awesome Research Papers
+- [mli/paper-reading](https://github.com/mli/paper-reading): 深度学习经典、新论
+  文逐段精读
+- [dataflowr/notebooks](https://github.com/dataflowr/notebooks): code for deep
+  learning courses <http://www.dataflowr.com/>
+- [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning):
+  List of papers studying machine learning through the lens of category theory
 
 ## Graph
 

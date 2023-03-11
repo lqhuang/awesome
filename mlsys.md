@@ -25,12 +25,6 @@
   workloads. <https://ray.io>
 - [dmlc/dlpack](https://github.com/dmlc/dlpack): common in-memory tensor
   structure <https://dmlc.github.io/dlpack/latest>
-- [facebookresearch/xformers](https://github.com/facebookresearch/xformers):
-  Hackable and optimized Transformers building blocks, supporting a composable
-  construction. <https://facebookresearch.github.io/xformers>
-- [tensor-compiler/taco](https://github.com/tensor-compiler/taco): The Tensor
-  Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs
-  <http://tensor-compiler.org>
 - [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor): C++ tensors
   with broadcasting and lazy computing
 - [rapidsai/cuml](https://github.com/rapidsai/cuml): cuML - RAPIDS Machine
@@ -62,9 +56,15 @@
   large scale non-linear optimization library <http://ceres-solver.org>
 - [google/or-tools](https://github.com/google/or-tools): Google's Operations
   Research tools <https://developers.google.com/optimization>
+- [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch): 🦁
+  Lion, new optimizer discovered by Google Brain using genetic algorithms that
+  is purportedly better than Adam(w), in Pytorch
 
 ### Network implementation
 
+- [facebookresearch/xformers](https://github.com/facebookresearch/xformers):
+  Hackable and optimized Transformers building blocks, supporting a composable
+  construction. <https://facebookresearch.github.io/xformers>
 - [francois-rozet/zuko](https://github.com/francois-rozet/zuko): Normalizing
   flows in PyTorch <https://zuko.readthedocs.io>
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq): Repo
@@ -90,6 +90,10 @@
   <https://lightning.ai>
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa): Training and
   serving large-scale neural networks <https://alpa.ai/>
+- [mli/transformers-benchmarks](https://github.com/mli/transformers-benchmarks):
+  real Transformer TeraFLOPS on various GPUs
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen): Running large
+  language models on a single GPU for throughput-oriented scenarios.
 
 ### Libraries
 
@@ -126,6 +130,13 @@
   SDK for high-performance deep learning inference, includes a deep learning
   inference optimizer and runtime that delivers low latency and high throughput
   for inference applications. <https://developer.nvidia.com/tensorrt>
+- [openxla/xla](https://github.com/openxla/xla): A machine learning compiler for
+  GPUs, CPUs, and ML accelerators
+  - News:
+    [OpenXLA is available now to accelerate and simplify machine learning](https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html)
+- [tensor-compiler/taco](https://github.com/tensor-compiler/taco): The Tensor
+  Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs
+  <http://tensor-compiler.org>
 
 ## Autodiff
 
@@ -206,7 +217,7 @@
 - [deepmind/PGMax](https://github.com/deepmind/PGMax): Loopy belief propagation
   for factor graphs on discrete variables in JAX
 
-## Workflow pipeline
+## Workflow pipeline / MLOps
 
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow): Machine Learning
   Toolkit for Kubernetes
@@ -229,6 +240,8 @@
   deploy and maintain ML. <https://madewithml.com>
 - [sematic-ai/sematic](https://github.com/sematic-ai/sematic): An open-source ML
   pipeline development platform
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain): Your open-source
+  ML monitoring and refinement toolkit. <https://uptrain.ai/>
 
 ## Utils
 
@@ -277,3 +290,13 @@
 - [mohammadpz/pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward):
   Implementation of Hinton's forward-forward (FF) algorithm - an alternative to
   back-propagation
+
+## GPT
+
+- [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker):
+  Make bilingual epub books Using AI translate
+- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index): LlamaIndex (GPT
+  Index) is a project that provides a central interface to connect your LLM's
+  with external data. <https://gpt-index.readthedocs.io/en/latest/>
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples
+  and guides for using the OpenAI API

@@ -40,16 +40,43 @@ Streaming Systems
   materialized views that are always up-to-date. <https://materialize.com>
 - [bytewax/bytewax](https://github.com/bytewax/bytewax): A Python framework for
   building highly scalable dataflows. <https://docs.bytewax.io>
+- [quixio/quix-streams](https://github.com/quixio/quix-streams): Quix Streams -
+  A library for telemetry data streaming. Python Stream Processing
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow):
   A modular implementation of timely dataflow in Rust
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow):
   An implementation of differential dataflow using timely dataflow on Rust.
+- [jamii/dida](https://github.com/jamii/dida): Differential dataflow for mere
+  mortals
 - [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast): Open-source
   distributed computation and storage platform. Real-time Stream Processing
   Unconference. Save Your Spot https://hazelcast.com/lp/unconference/
   <https://www.hazelcast.com/>
 - [python-streamz/streamz](https://github.com/python-streamz/streamz): Real-time
   stream processing for python <https://streamz.readthedocs.io/en/latest/>
+
+## Kafka
+
+- [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda
+  Console is a developer-friendly UI for managing your Kafka/Redpanda workloads.
+  Console gives you a simple, interactive approach for gaining visibility into
+  your topics, masking data, managing consumer groups, and exploring real-time
+  data with time-travel debugging.
+- [aiven/karapace](https://github.com/aiven/karapace): Karapace - Your Apache
+  Kafka® essentials in one tool <https://karapace.io>
+- [linkedin/Burrow](https://github.com/linkedin/Burrow): Kafka Consumer Lag
+  Checking
+- [linkedin/kafka-monitor](https://github.com/linkedin/kafka-monitor): Xinfra
+  Monitor monitors the availability of Kafka clusters by producing synthetic
+  workloads using end-to-end pipelines to obtain derived vital statistics - E2E
+  latency, service produce/consume availability, offsets commit availability &
+  latency, message loss rate and more.
+  <https://engineering.linkedin.com/blog/2016/05/open-sourcing-kafka-monitor>
+- [aiven/klaw](https://github.com/aiven/klaw): Klaw, the latest OS tool by
+  Aiven, helps enterprises cope with Apache Kafka(r) topics, schema registry and
+  connectors governance by introducing roles/authorizations to users of various
+  teams of an org. <https://www.klaw-project.io>
+- [](https://github.com/strimzi/strimzi-kafka-operator): <https://strimzi.io/>
 
 ## Toy projects
 

@@ -70,6 +70,8 @@
 - [copier-org/copier](https://github.com/copier-org/copier/): Library and
   command-line utility for rendering projects templates.
   <https://readthedocs.org/projects/copier>
+- [njsmith/posy](https://github.com/njsmith/posy): The goal is for posy to act
+  as a kind of high-level frontend to python
 
 ### Docs
 
@@ -150,6 +152,8 @@
 - [starlite-api/pydantic-factories](https://github.com/starlite-api/pydantic-factories):
   Simple and powerful mock data generation using pydantic or dataclasses
   <https://starlite-api.github.io/pydantic-factories>
+- [mongomock/mongomock](https://github.com/mongomock/mongomock): Small library
+  for mocking pymongo collection objects for testing purposes
 
 ### Performance profile
 
@@ -175,6 +179,8 @@
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument): 🚴 Call stack
   profiler for Python. Shows you why your code is slow!
   <https://pyinstrument.readthedocs.io>
+- [realpython/codetiming](https://github.com/realpython/codetiming): A flexible,
+  customizable timer for your Python code
 
 ## FP in Python
 
@@ -205,6 +211,8 @@
   datetimes into separate, mutually-incompatible types.
 - [sqlalchemy/sqlalchemy2-stubs](https://github.com/sqlalchemy/sqlalchemy2-stubs):
   PEP-484 typing stubs for SQLAlchemy 1.4
+- [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types):
+  Reusable constraint types to use with typing.Annotated
 
 ### Featured
 
@@ -230,7 +238,7 @@
 
 ### Functional style libraries
 
-- [pytoolz/toolz](https://github.com/pytoolz/toolz): A functional standard
+- 🌟 [pytoolz/toolz](https://github.com/pytoolz/toolz): A functional standard
   library for Python. <http://toolz.readthedocs.org>
 
 ## Domain libraries
@@ -255,6 +263,10 @@
   Document Store <https://docarray.jina.ai>
 - [fastai/nbdev](https://github.com/fastai/nbdev): Create delightful software
   with Jupyter Notebooks <https://nbdev.fast.ai>
+- [markovmodel/PyEMMA](https://github.com/markovmodel/PyEMMA): 🚂 Python API for
+  Emma's Markov Model Algorithms 🚂 <http://pyemma.org/>
+- [pybrain/pybrain](https://github.com/pybrain/pybrain): PyBrain -- the Python
+  Machine Learning Library <http://pybrain.org>
 
 ### Pandas Ecosystem
 
@@ -280,6 +292,8 @@
   <http://modin.readthedocs.io>
 - [rapidsai/cudf](https://github.com/rapidsai/cudf): cuDF - GPU DataFrame
   Library <http://rapids.ai>
+- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker): PyGWalker: Turn
+  your pandas dataframe into a Tableau-style User Interface for visual analysis
 
 ### Prob
 
@@ -328,6 +342,14 @@
   extensible async python web server with a rust runtime <https://robyn.tech>
 - [emmett-framework/granian](https://github.com/emmett-framework/granian): A
   Rust HTTP server for Python applications
+- [falconry/falcon](https://github.com/falconry/falcon): The no-magic web data
+  plane API and microservices framework for Python developers, with a focus on
+  reliability, correctness, and performance at scale.
+  <https://falcon.readthedocs.io/en/stable/>
+- [unum-cloud/ujrpc](https://github.com/unum-cloud/ujrpc): Up to 100x Faster
+  FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings
+- 🌟 [django/asgiref](https://github.com/django/asgiref): ASGI specification and
+  utilities <https://asgi.readthedocs.io/en/latest>
 
 ### DB clients and SQL utils
 
@@ -394,6 +416,13 @@
   CRDTs from classic data types with verified lifting!
 - [kenbyte/rbloom](https://github.com/kenbyte/rbloom): A fast, simple and
   lightweight Bloom filter library for Python, fully implemented in Rust.
+- [OldPanda/bloomfilter-py](https://github.com/OldPanda/bloomfilter-py): Yet
+  another Bloomfilter implementation in Python, compatible with Java's Guava
+  library
+- [Yiling-J/theine](https://github.com/Yiling-J/theine): high performance
+  in-memory cache
+- [Yiling-J/cacheme](https://github.com/Yiling-J/cacheme): Asyncio cache
+  framework for Python
 
 ### Utils
 
@@ -433,7 +462,7 @@
 
 ### AsyncIO
 
-- [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio):
+- 🌟 [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio):
   Bridge between Rust async futures and Python asyncio
 - [oremanj/greenback](https://github.com/oremanj/greenback): Reenter an asyncio
   or Trio event loop from synchronous code <https://greenback.readthedocs.io>
@@ -481,12 +510,12 @@
   decoder and encoder written in C with Python bindings
 - [ijl/orjson](https://github.com/ijl/orjson): Fast, correct Python JSON library
   supporting dataclasses, datetimes, and numpy
-- [jcrist/msgspec](https://github.com/jcrist/msgspec): A fast and friendly
+- 🌟 [jcrist/msgspec](https://github.com/jcrist/msgspec): A fast and friendly
   JSON/MessagePack library, with optional schema validation
   <https://jcristharif.com/msgspec>
 - [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson): Python bindings for
   the simdjson project. <https://pysimdjson.tkte.ch>
-- [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle): Extended
+- 🌟 [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle): Extended
   pickling support for Python objects
 - [sdispater/tomlkit](https://github.com/sdispater/tomlkit): Style-preserving
   TOML library for Python
@@ -498,12 +527,12 @@
 
 ### Logging
 
-- [microsoft/picologging](https://github.com/microsoft/picologging): An
+- 🌟 [microsoft/picologging](https://github.com/microsoft/picologging): An
   optimized logging library for Python
 - [Delgan/loguru](https://github.com/Delgan/loguru): Python logging made
   (stupidly) simple
-- [hynek/structlog](https://github.com/hynek/structlog): Structured Logging for
-  Python <https://www.structlog.org>
+- 🌟 [hynek/structlog](https://github.com/hynek/structlog): Structured Logging
+  for Python <https://www.structlog.org>
 - [itamarst/eliot](https://github.com/itamarst/eliot): Eliot: the logging system
   that tells you _why_ it happened <https://eliot.readthedocs.io>
 
@@ -519,6 +548,9 @@
 - [exaloop/codon](https://github.com/exaloop/codon): A high-performance,
   zero-overhead, extensible Python compiler using LLVM
   <https://docs.exaloop.io/codon>
+- [pyston/pyston](https://github.com/pyston/pyston): A faster and
+  highly-compatible implementation of the Python programming language.
+  <https://www.pyston.org/>
 
 ### Parsers
 
@@ -535,6 +567,10 @@
 - [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser):
   An extended commonmark compliant parser, with bridges to docutils/sphinx
   <https://myst-parser.readthedocs.io>
+- 🌟
+  [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py):
+  Markdown parser, done right. 100% CommonMark support, extensions, syntax
+  plugins & high speed. Now in Python! <https://markdown-it-py.readthedocs.io/>
 
 ## Misc
 
@@ -597,3 +633,5 @@
   visualization in Python (Circos Plot, Chord Diagram)
   <https://moshi4.github.io/pyCirclize>
 - [ponnhide/pyCircos](https://github.com/ponnhide/pyCircos): python Circos
+- [lgienapp/aquarel](https://github.com/lgienapp/aquarel): Styling matplotlib
+  made easy

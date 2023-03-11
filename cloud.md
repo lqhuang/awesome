@@ -7,6 +7,14 @@
   <https://lonegunmanb.github.io/introduction-terraform>
 - [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform):
   Curated list of resources on HashiCorp's Terraform
+- [huataihuang/cloud-atlas](https://github.com/huataihuang/cloud-atlas): 云计算
+  指南 <https://cloud-atlas.readthedocs.io>
+
+## OS
+
+- [unikraft/unikraft](https://github.com/unikraft/unikraft): Unikraft is an
+  automated system for building specialized OSes known as unikernels. Unikraft
+  can be configured to be POSIX-compliant. <http://unikraft.org/>
 
 ## Container
 
@@ -14,6 +22,8 @@
   and exec
 - [tianon/gosu](https://github.com/tianon/gosu): Simple Go-based
   setuid+setgid+setgroups+exec
+- [krallin/tini](https://github.com/krallin/tini): A tiny but valid `init` for
+  containers
 - [oasislinux/oasis](https://github.com/oasislinux/oasis): a small
   statically-linked linux system
 - [containrrr/watchtower](https://github.com/containrrr/watchtower): A process
@@ -38,6 +48,8 @@
   Public Chainguard Images <https://chainguard.dev/chainguard-images>
 - [internetarchive/hind](https://github.com/internetarchive/hind):
   Hashistack-IN-Docker (single container with nomad + consul + caddy)
+- [containers/conmon](https://github.com/containers/conmon): An OCI container
+  runtime monitor.
 
 ## Routing
 
@@ -64,11 +76,21 @@
   <https://supabase.com>
 - [zappa/Zappa](https://github.com/zappa/Zappa): Serverless Python
   <https://github.com/zappa/Zappa>
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver): Programming
+  framework for writing and deploying cloud applications.
+  <https://serviceweaver.dev>
+- [mrsked/mrsk](https://github.com/mrsked/mrsk): Deploy web apps anywhere.
+  <https://mrsk.dev/>
 
 ## K8S
 
 - [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs
   Kubernetes <https://k8slens.dev>
+- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook):
+  Kubernetes 中文指南/云原生应用架构实战手册
+  <https://jimmysong.io/kubernetes-handbook>
+- [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage
+  Your Clusters In Style! <https://k9scli.io/>
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler): Autoscaling
   components for Kubernetes
 - [kumahq/kuma](https://github.com/kumahq/kuma): 🐻 The multi-zone service mesh
@@ -78,6 +100,11 @@
   Multi-Cloud, Multi-Cluster Kubernetes Orchestration <https://karmada.io>
 - [pixie-io/pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native
   Application Observability <https://px.dev>
+
+## Could Foundry
+
+- [one2nc/cloudlens](https://github.com/one2nc/cloudlens): k9s like CLI for AWS
+  <https://one2n.gitbook.io/docs/>
 
 ## Infrastructure as Code
 

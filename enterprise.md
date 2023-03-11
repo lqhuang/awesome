@@ -135,17 +135,6 @@
 - [netbox-community/netbox](https://github.com/netbox-community/netbox): The
   premiere source of truth powering network automation. Open source under
   Apache 2. <https://netbox.dev>
-- [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda
-  Console is a developer-friendly UI for managing your Kafka/Redpanda workloads.
-  Console gives you a simple, interactive approach for gaining visibility into
-  your topics, masking data, managing consumer groups, and exploring real-time
-  data with time-travel debugging.
-- [aiven/karapace](https://github.com/aiven/karapace): Karapace - Your Apache
-  Kafka® essentials in one tool <https://karapace.io>
-- [aiven/klaw](https://github.com/aiven/klaw): Klaw, the latest OS tool by
-  Aiven, helps enterprises cope with Apache Kafka(r) topics, schema registry and
-  connectors governance by introducing roles/authorizations to users of various
-  teams of an org. <https://www.klaw-project.io>
 - [novuhq/novu](https://github.com/novuhq/novu): 🚀 The open-source
   notifications infrastructure. A fully-featured microservice to send SMS,
   E-mail, Slack and Push notifications. Embeddable notification center for React
@@ -247,6 +236,8 @@
   developer workflow system <https://www.pantsbuild.org>
 - [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build
   system with a focus on speed <https://ninja-build.org>
+- [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build
+  System <http://mesonbuild.com/>
 - [moonrepo/moon](https://github.com/moonrepo/moon): A task runner and repo
   management tool for the web ecosystem, written in Rust.
   <https://moonrepo.dev/>
@@ -262,7 +253,9 @@
   Action to extract metadata (tags, labels) from Git reference and GitHub events
   for Docker
 
-## Audit
+## Security
+
+### Audit
 
 - [libyear](https://libyear.com/): A **simple** measure of software dependency
   freshness. It is a **single number** telling you how up-to-date your
@@ -270,6 +263,11 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate): Universal
   dependency update tool that fits into your workflows.
   <https://renovatebot.com>
+
+### Web
+
+- [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass): Check
+  your WAF before an attacker does this one <https://nemesida-waf.com/>
 
 ## How te a leader
 
@@ -283,6 +281,9 @@
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence): Evidence
   enables analysts to deliver a polished business intelligence system using SQL
   and markdown <https://evidence.dev>
+- [airbytehq/airbyte](https://github.com/airbytehq/airbyte): Data integration
+  platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
+  <https://airbyte.com/>
 
 ### Visualize frontend / BI
 

@@ -33,6 +33,8 @@
   with compression and authenticated encryption. <https://www.borgbackup.org>
 - [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source
   Continuous File Synchronization <https://forum.syncthing.net>
+- [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source
+  KVM (switch) software
 
 ### macOS / iPadOS
 
@@ -68,6 +70,8 @@
   DaVinci Resolve is the world’s only solution that combines editing, color
   correction, visual effects, motion graphics and audio post production all in
   one software tool!
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive): Store SSH
+  keys in the Secure Enclave
 
 ## Services
 
@@ -112,8 +116,24 @@
 
 ### Email
 
+- [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized):
+  mailcow: dockerized - 🐮 + 🐋 = 💕 <https://mailcow.email/>
 - [mjl-/mox](https://github.com/mjl-/mox): modern full-featured open source
   secure mail server for low-maintenance self-hosted email
+- [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail): The
+  Roundcube Webmail suite <https://roundcube.net>
+- [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail):
+  Simple, modern & fast web-based email client <http://rainloop.net>
+- [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox):
+  Mail-in-a-Box helps individuals take back control of their email by defining a
+  one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
+  <https://mailinabox.email>
+- [iredmail/iRedMail](https://github.com/iredmail/iRedMail): Full-featured, open
+  source mail server solution for mainstream Linux/BSD distributions.
+  <https://www.iredmail.org>
+- [poste.io](https://poste.io): SMTP + IMAP + POP3 + Antispam + Antivirus with
+  Web administration + Web email ... on your server in ~5 minutes
+  <https://hub.docker.com/r/analogic/poste.io>
 
 ### Vault / Passwords
 

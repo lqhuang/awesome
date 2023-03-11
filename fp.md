@@ -82,6 +82,9 @@
   Maintainable configuration files <https://dhall-lang.org>
 - [diagrams/diagrams](https://github.com/diagrams/diagrams): Embedded
   domain-specific language for declarative vector graphics (wrapper package)
+- 🌟 [deadpendency/deadpendency](https://github.com/deadpendency/deadpendency):
+  Check if my repo's dependencies are dead (projects)!
+  <https://deadpendency.com/>
 
 ## Typescript
 
@@ -102,3 +105,6 @@
   Research language for array processing in the Haskell/ML family
 - [unisonweb/unison](https://github.com/unisonweb/unison): A friendly
   programming language from the future <https://unison-lang.org>
+- [effekt-lang/effekt](https://github.com/effekt-lang/effekt): A research
+  language with effect handlers and lightweight effect polymorphism
+  <https://effekt-lang.org/>

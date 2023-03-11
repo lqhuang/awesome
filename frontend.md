@@ -2,7 +2,7 @@
 
 ## Framework
 
-- [lucacasonato/fresh](https://github.com/denoland/fresh): The next-gen web
+- [denoland/fresh](https://github.com/denoland/fresh): The next-gen web
   framework. <https://fresh.deno.dev>
 - [honojs/hono](https://github.com/honojs/hono): Ultrafast web framework for
   Cloudflare Workers and Deno. Fast, but not only fast.
@@ -19,7 +19,13 @@
 
 ## Components library
 
-### Framework library
+- [framer/motion](https://github.com/framer/motion): Open source,
+  production-ready animation and gesture library for React
+  <https://framer.com/motion>
+- [pmndrs/react-spring](https://github.com/pmndrs/react-spring): ✌️ A spring
+  physics based React animation library <http://www.react-spring.dev>
+
+### Components framework
 
 - [nextui-org/nextui](https://github.com/nextui-org/nextui): 🚀 Beautiful, fast
   and modern React UI library. <https://nextui.org>
@@ -42,23 +48,32 @@
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum): A collection
   of libraries and tools that help you build adaptive, accessible, and robust
   user experiences. <https://react-spectrum.adobe.com>
-- [wbkd/react-flow](https://github.com/wbkd/react-flow): Highly customizable
-  library for building interactive node-based UIs, editors, flow charts and
-  diagrams
 - [oslabs-beta/Svelvet](https://github.com/oslabs-beta/Svelvet): A lightweight
   Svelte component library for building interactive node-based flow diagrams
-- [lit/lit](https://github.com/lit/lit/): Lit is a simple library for building
+- [lit/lit](https://github.com/lit/lit): Lit is a simple library for building
   fast, lightweight web components. <https://lit.dev>
 - [daisyui/react-daisyui](https://github.com/daisyui/react-daisyui): daisyUI
   components built with React 🌼
+- [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui): Clean, modern
+  and beautiful Tailwind CSS components. <https://ripple-ui.com>
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor): The react library
   to build dashboards fast. <https://tremor.so>
-
-### Components
-
 - [tabler/tabler](https://github.com/tabler/tabler): Tabler is free and
   open-source HTML Dashboard UI Kit built on Bootstrap
   <https://preview.tabler.io>
+- [konstaui/konsta](https://github.com/konstaui/konsta): Mobile UI components
+  made with Tailwind CSS <https://konstaui.com>
+- [microsoft/fast](https://github.com/microsoft/fast): The adaptive interface
+  system for modern web experiences. <https://www.fast.design>
+
+### Components
+
+- [wbkd/react-flow](https://github.com/wbkd/react-flow): Highly customizable
+  library for building interactive node-based UIs, editors, flow charts and
+  diagrams
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over
+  3400 free MIT-licensed high-quality SVG icons for you to use in your web
+  projects. <https://tabler-icons.io>
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements):
   𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for
   commercial use <https://tailwind-elements.com>
@@ -69,7 +84,7 @@
   building powerful tables & datagrids for TS/JS - React-Table, Vue-Table,
   Solid-Table, Svelte-Table <https://tanstack.com/table>
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated
-  toast component for React. <https://sonner.emilkowal.ski/>
+  toast component for React. <https://sonner.emilkowal.ski>
 
 ### CSS Style
 
@@ -83,6 +98,11 @@
 - [macaron-css/macaron](https://github.com/macaron-css/macaron): Typesafe
   CSS-in-JS with zero runtime, colocation, maximum safety and productivity
   <https://macaron.js.org>
+- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants):
+  🦄 Tailwindcss first-class variant API <https://tailwind-variants.org>
+- [tw-in-js/twind](https://github.com/tw-in-js/twind): The smallest, fastest,
+  most feature complete Tailwind-in-JS solution in existence.
+  <https://twind.style>
 
 ## Channel
 
@@ -119,10 +139,16 @@
   state management for React <https://jotai.org>
 - [statelyai/xstate](https://github.com/statelyai/xstate):State machines and
   statecharts for the modern web. <https://xstate.js.org/docs>
-- [immerjs/immer](https://github.com/immerjs/immer): Create the next immutable
-  state by mutating the current one <https://immerjs.github.io/immer>
+- 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next
+  immutable state by mutating the current one <https://immerjs.github.io/immer>
 - [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build
   and send emails using React <https://react.email>
+- [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone):
+  Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
+- [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun
+  JavaScript file upload library <https://pqina.nl/filepond>
+- [aidenybai/million](https://github.com/aidenybai/million): 🔟🔼6️⃣ An extremely
+  fast virtual DOM that makes React up to 70% faster! <https://millionjs.org>
 
 ## Visualization
 
@@ -149,6 +175,8 @@
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory): A
   collection of composable React components for building interactive data
   visualizations <https://formidable.com/open-source/victory>
+- [TanStack/react-charts](https://github.com/TanStack/react-charts): ⚛️ Simple,
+  immersive & interactive charts for React <https://react-charts.tanstack.com>
 
 ## GUI
 
@@ -156,6 +184,9 @@
   Next-generation HTML renderer for apps and games <https://ultralig.ht>
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus): Friendly React-like
   GUI library for desktop, web, mobile, and more. <https://dioxuslabs.com>
+- [expo/expo](https://github.com/expo/expo): An open-source platform for making
+  universal native apps with React. Expo runs on Android, iOS, and the web.
+  <https://docs.expo.dev>
 
 ## Design
 
@@ -169,7 +200,7 @@
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars):
   Boring avatars is a tiny JavaScript React library that generates custom,
   SVG-based avatars from any username and color palette.
-  <https://boringavatars.com/>
+  <https://boringavatars.com>
 
 ## Build tools
 

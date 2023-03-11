@@ -17,6 +17,8 @@
   客一样使用命令行 <https://selfhostedserver.com/usingcli-book>
 - [kushaldas/lym](https://github.com/kushaldas/lym): Linux command line for you
   and me <https://lym.readthedocs.io/en/latest>
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet
+  you need <https://cheat.sh/>
 
 ### command
 
@@ -51,8 +53,6 @@
   delete unwanted data, fast.
 - [lra/mackup](https://github.com/lra/mackup): Keep your application settings in
   sync (OS X/Linux)
-- [extrawurst/gitui](https://github.com/extrawurst/gitui): Blazing 💥 fast
-  terminal-ui for git written in rust 🦀
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox): Instant, easy,
   predictable shells and containers.
 - [exdx/dcp](https://github.com/exdx/dcp): docker cp made easy
@@ -72,6 +72,29 @@
   decompression for your terminal
 - [solidiquis/erdtree](https://github.com/solidiquis/erdtree): A multi-threaded
   file-tree visualizer and disk usage analyzer.
+- [mptre/yank](https://github.com/mptre/yank): Yank terminal output to clipboard
+- [skywind3000/z.lua](https://github.com/skywind3000/z.lua): ⚡ A new cd command
+  that helps you navigate faster by learning your habits.
+- [veeso/termscp](https://github.com/veeso/termscp): 🖥 A feature rich terminal
+  UI file transfer and explorer with support for SCP/SFTP/FTP/S3
+  <https://termscp.veeso.dev/>
+- [peco/peco](https://github.com/peco/peco): Simplistic interactive filtering
+  tool
+
+### Monitor
+
+- [nicolargo/glances](https://github.com/nicolargo/glances): Glances an Eye on
+  your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows
+  operating systems. <http://nicolargo.github.io/glances/>
+- [bcicen/ctop](https://github.com/bcicen/ctop): Top-like interface for
+  container metrics <https://ctop.sh/>
+- [ClementTsang/bottom](https://github.com/ClementTsang/bottom): Yet another
+  cross-platform graphical process/system monitor.
+  <https://clementtsang.github.io/bottom>
+- [aristocratos/btop](https://github.com/aristocratos/btop): A monitor of
+  resources
+- [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress
+  and monitoring utility <https://amanusk.github.io/s-tui>
 
 ## Dev tools
 
@@ -139,6 +162,16 @@
   protects hosts from brute-force attacks against SSH and other services. It
   aggregates system logs and blocks repeat offenders using one of several
   firewall backends. <https://www.sshguard.net>
+- [Lissy93/dashy](https://github.com/Lissy93/dashy): 🚀 A self-hostable personal
+  dashboard built for you. Includes status-checking, widgets, themes, icon
+  packs, a UI editor and tons more! <https://dashy.to>
+- [Kea DHCP](https://www.isc.org/kea/): Modern, open source DHCPv4 & DHCPv6
+  server
+- [coredns/coredns](https://github.com/coredns/coredns): CoreDNS is a DNS server
+  that chains plugins <https://coredns.io/>
+- [mdlayher/corerad](https://github.com/mdlayher/corerad): CoreRAD is an
+  extensible and observable IPv6 Neighbor Discovery Protocol router
+  advertisement daemon. Apache 2.0 Licensed. <https://corerad.net>
 
 ## Proxy
 
@@ -155,6 +188,10 @@
 - [nadoo/glider](https://github.com/nadoo/glider): glider is a forward proxy
   with multiple protocols support, and also a dns/dhcp server with ipset
   management features(like dnsmasq).
+- [apernet/hysteria](https://github.com/apernet/hysteria): Hysteria is a
+  feature-packed proxy & relay tool optimized for lossy, unstable connections
+  (e.g. satellite networks, congested public Wi-Fi, connecting to foreign
+  servers from China) <https://hysteria.network/>
 - [hashicorp/yamux](https://github.com/hashicorp/yamux): Golang connection
   multiplexing library
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自

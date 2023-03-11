@@ -110,6 +110,13 @@
 - [kamon-io/Kamon](https://github.com/kamon-io/Kamon): Distributed Tracing,
   Metrics and Context Propagation for applications running on the JVM
 
+### Clients
+
+- [tpolecat/skunk](https://github.com/tpolecat/skunk): A data access library for
+  Scala + Postgres.
+- [armanbilge/porcupine](https://github.com/armanbilge/porcupine):
+  Skunk-inspired library for SQLite on JVM, Node.js, and Native
+
 ### Misc
 
 - [scalatra/scalatra](https://github.com/scalatra/scalatra): Tiny Scala
@@ -200,6 +207,14 @@
   library for Scala based on Cats-Effect
 - [trace4cats/trace4cats](https://github.com/trace4cats/trace4cats): Distributed
   app tracing implementation in pure scala using cats-effect
+- [bkirwi/decline](https://github.com/bkirwi/decline): A composable command-line
+  parser for Scala. <https://ben.kirw.in/decline/>
+- [typelevel/toolkit](https://github.com/typelevel/toolkit): Quickstart your
+  next app with the Typelevel Toolkit!
+- [cb372/cats-retry](https://github.com/cb372/cats-retry): A library for
+  retrying actions that can fail. <https://cb372.github.io/cats-retry/>
+- [fd4s/fs2-kafka](https://github.com/fd4s/fs2-kafka): Functional Kafka Streams
+  for Scala <https://fd4s.github.io/fs2-kafka>
 
 ### ZIO
 

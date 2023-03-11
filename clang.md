@@ -2,6 +2,10 @@
 
 ## Resources
 
+- [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list
+  of awesome C++ (or C) frameworks, libraries, resources, and shiny things.
+  Inspired by awesome-... stuff. <http://fffaraz.github.io/awesome-cpp/>
+
 ### Readings
 
 - [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc): Beej's Guide to C
@@ -17,6 +21,14 @@
 - [Clang documentation](https://clang.llvm.org/docs/)
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools):
   Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+- [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The
+  C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best
+  practices about coding in C++
+  <http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines>
+- [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices):
+  Collaborative Collection of C++ Best Practices. This online resource is part
+  of Jason Turner's collection of C++ Best Practices resources. See README.md
+  for more information.
 
 ### Books
 
@@ -133,6 +145,10 @@
   cross-platform, high-performance event loop that provides abstractions for
   non-blocking IO, timers, events, and more and works on Linux (io_uring or
   epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
+- [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a
+  compact general purpose allocator with excellent performance.
+- [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux
+  IO analysis, networking, monitoring, and more
 
 ## ???
 

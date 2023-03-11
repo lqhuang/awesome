@@ -8,8 +8,13 @@
   交易 | 量化投资 <https://wangzhe3224.github.io/awesome-systematic-trading>
 - [chrisconlan/algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python):
   Source code for Algorithmic Trading with Python (2020) by Chris Conlan
-- [cure-lab/Awesome-time-series](https://github.com/cure-lab/Awesome-time-series):
-  A comprehensive survey on the time series domains
+- [nickmccullum/algorithmic-trading-python](https://github.com/nickmccullum/algorithmic-trading-python):
+  The repository for freeCodeCamp's YouTube course, Algorithmic Trading in
+  Python
+- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)::
+  🔬 A curated list of awesome machine learning strategies & tools in financial
+  market.
+  <https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4>
 
 ### Books
 
@@ -53,6 +58,9 @@
   <https://www.quantstart.com/qstrader>
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse): An advanced crypto
   trading bot written in Python <https://jesse.trade/>
+- [bmpi-dev/invest-alchemy](https://github.com/bmpi-dev/invest-alchemy): Invest
+  Alchemy is a trading assistant focused on ETF portfolios.
+  <https://money.bmpi.dev/>
 
 ## Backtesting
 
@@ -132,13 +140,41 @@
 
 ## Timeseries
 
+- [facebookresearch/Kats](https://github.com/facebookresearch/Kats): Kats, a kit
+  to analyze time series data, a lightweight, easy-to-use, generalizable, and
+  extendable framework to perform time series analysis, from understanding the
+  key statistics and characteristics, detecting change points and anomalies, to
+  forecasting future trends.
+- [linkedin/greykite](https://github.com/linkedin/greykite): A flexible,
+  intuitive and fast forecasting library
+- [predict-idlab/tsdownsample](https://github.com/predict-idlab/tsdownsample):
+  High-performance time series downsampling algorithms for visualization
+- [predict-idlab/plotly-resampler](https://github.com/predict-idlab/plotly-resampler):
+  Visualize large time series data with plotly.py
+  <https://predict-idlab.github.io/plotly-resampler>
+- [olivercliff/pyspi](https://github.com/olivercliff/pyspi): Comparative
+  analysis of pairwise interactions in multivariate time series.
+  <https://pyspi-toolkit.readthedocs.io/en/latest>
+- [deeptime-ml/deeptime](https://github.com/deeptime-ml/deeptime): Python
+  library for analysis of time series data including dimensionality reduction,
+  clustering, and Markov model estimation <https://deeptime-ml.github.io/>
+
+### Research
+
 - [benibaeumle/Learning-Shapelets](https://github.com/benibaeumle/Learning-Shapelets):
   A PyTorch implementation of learning shapelets from the paper Grabocka et al.,
   „Learning Time-Series Shapelets“.
 - [yuezhihan/ts2vec](https://github.com/yuezhihan/ts2vec): A universal time
   series representation learning framework <https://arxiv.org/abs/2106.10466>
+- [cure-lab/Awesome-time-series](https://github.com/cure-lab/Awesome-time-series):
+  A comprehensive survey on the time series domains
 - [qingsongedu/time-series-transformers-review](https://github.com/qingsongedu/time-series-transformers-review):
   A professionally curated list of awesome resources (paper, code, data, etc.)
   on transformers in time series.
 - [thuml/Time-Series-Library](https://github.com/thuml/Time-Series-Library): A
   Library for Advanced Deep Time Series Models.
+- [lixus7/Time-Series-Works-Conferences](https://github.com/lixus7/Time-Series-Works-Conferences):
+  Time-Series Work Summary in CS Top Conferences (NIPS, ICML, ICLR, KDD, AAAI,
+  etc.)
+- [zzw-zwzhang/Awesome-of-Time-Series-Augmentation](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Augmentation):
+  A curated list of time series augmentation resources.

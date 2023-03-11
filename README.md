@@ -67,4 +67,7 @@ more like a toolbox for myself.
   high-performance, concurrent hash table
 - [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd): C++ wrappers
   for SIMD intrinsics and parallelized, optimized mathematical functions (SSE,
-  AVX, AVX512, NEON, SVE))
+  AVX, AVX512, NEON, SVE)
+- [simdutf/simdutf](https://github.com/simdutf/simdutf): Unicode routines (UTF8,
+  UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON,
+  AVX-512. Part of Node.js. <https://simdutf.github.io/simdutf>

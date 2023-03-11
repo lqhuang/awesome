@@ -15,6 +15,16 @@
 - [Use The Index, Luke!](https://use-the-index-luke.com/): A site explaining SQL
   indexing to developers—no crap about administration.
 
+### Readings
+
+- [rxin/db-readings](https://github.com/rxin/db-readings): Readings in Databases
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning):
+  A list of learning materials to understand databases internals
+- [Sunt-ing/database-system-readings](https://github.com/Sunt-ing/database-system-readings):
+  😋 A curated reading list about database systems
+- [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev):
+  Awesome materials about database development.
+
 ### Practices
 
 - [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational
@@ -46,6 +56,10 @@
 
 ## New databases
 
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase): OceanBase is an
+  enterprise distributed relational database with high availability, high
+  performance, horizontal scalability, and compatibility with SQL standards.
+  <https://open.oceanbase.com/>
 - [datafuselabs/databend](https://github.com/datafuselabs/databend): A modern
   Elasticity and Performance cloud data warehouse, activate your object storage
   for real-time analytics. <https://databend.rs> (clickhouse in rust?)
@@ -56,7 +70,7 @@
   performance to power the future of financial services.
   <https://www.tigerbeetle.com>
 
-### SQLite
+### Novel SQLite
 
 - [superfly/litefs](https://github.com/superfly/litefs): FUSE-based file system
   for replicating SQLite databases across a cluster of machines
@@ -68,6 +82,13 @@
   distributed relational database built on SQLite <https://rqlite.io>
 - [libsql/libsql](https://github.com/libsql/libsql): libSQL is a fork of SQLite
   that is both Open Source, and Open Contributions. <https://libsql.org>
+- [losfair/mvsqlite](https://github.com/losfair/mvsqlite): Distributed, MVCC
+  SQLite that runs on FoundationDB. <https://mvsqlite-docs.univalence.me>
+- [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite): Convergent,
+  Replicated SQLite. Multi-writer and CRDT support for SQLite <https://vlcn.io/>
+- [Expensify/Bedrock](https://github.com/Expensify/Bedrock): Rock solid
+  distributed database specializing in active/active automatic failover and WAN
+  replication <https://bedrockdb.com>
 
 ### Timeseries & Graph
 
@@ -151,6 +172,8 @@
   Postgres
 - [aiven/pgtracer](https://github.com/aiven/pgtracer): Tracing tools for
   PostgreSQL, using eBPF
+- [centerofci/mathesar](https://github.com/centerofci/mathesar): Web application
+  providing an intuitive user experience to databases. <https://mathesar.org>
 
 ## In a SQL way
 

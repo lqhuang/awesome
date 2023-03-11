@@ -13,9 +13,20 @@
   <https://highassurance.rs>
 - [nnethercote/perf-book](https://github.com/nnethercote/perf-book): The Rust
   Performance Book
-- [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks):
+- [rust-cli/book](https://github.com/rust-cli/book): Documentation on how to use
+  the Rust Programming Language to develop commandline applications
+  <https://rust-cli.github.io/book/index.html>
+- 🌟
+  [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks):
   Code examples, data structures, and links from my book, Rust Atomics and
   Locks. <https://marabos.nl/atomics>
+- [cognitive-engineering-lab/rust-book](https://github.com/cognitive-engineering-lab/rust-book):
+  The Rust Programming Language: Experimental Edition
+  <https://rust-book.cs.brown.edu>
+- [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library):
+  本书主要对 RUST 的标准库代码进行分析，并试图给出 RUST 标准库代码的分析脉络
+  。This project try to give a venation of how reading the RUST standard library
+  source code.
 
 ## Readings / Tutorials
 
@@ -51,6 +62,8 @@
   GitHub Action for installing a Rust toolchain
 - [Swatinem/rust-cache](https://github.com/Swatinem/rust-cache): A GitHub Action
   that implements smart caching for rust/cargo projects
+- [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs): Rust library for build
+  scripts to compile C/C++ code into a Rust library
 
 ### Cargo plugins
 
@@ -174,6 +187,9 @@
 - [rust-lang/types-team](https://github.com/rust-lang/types-team): Home of the
   "types team", affiliated with the compiler and lang teams.
   <https://rust-lang.github.io/types-team>
+- [rust-lang/async-fundamentals-initiative](https://github.com/rust-lang/async-fundamentals-initiative):
+  async fundamentals initiative
+  <https://rust-lang.github.io/async-fundamentals-initiative/>
 
 ## Concurrency / Parallelelism
 
@@ -227,6 +243,8 @@
 - [DataDog/glommio](https://github.com/DataDog/glommio): Glommio is a
   thread-per-core crate that makes writing highly parallel asynchronous
   applications in a thread-per-core architecture easier for rustaceans.
+- [Maaarcocr/picol](https://github.com/Maaarcocr/picol): a small and single
+  threaded async runtime built on top of io-uring
 
 ### Futures
 
@@ -262,7 +280,7 @@
 
 - [pikkr/pikkr](https://github.com/pikkr/pikkr): JSON parser which picks up
   values directly without performing tokenization in Rust
-- [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd): The
+- 🌟 [rust-lang/portable-simd](https://github.com/rust-lang/portable-simd): The
   testing ground for the future of portable SIMD in Rust
 - [google/zerocopy](https://github.com/google/zerocopy): Utilities for safe
   zero-copy parsing and serialization.
@@ -277,13 +295,13 @@
   performance memory-bound Rust cache.
 - [japaric/heapless](https://github.com/japaric/heapless): Heapless, `static`
   friendly data structures
-- [kanidm/concread](https://github.com/kanidm/concread): Concurrently Readable
-  Data Structures for Rust
+- 🌟 [kanidm/concread](https://github.com/kanidm/concread): Concurrently
+  Readable Data Structures for Rust
 - [ShisoftResearch/Lightning](https://github.com/ShisoftResearch/Lightning): A
   set of lock-free data structures
 - [bodil/im-rs](https://github.com/bodil/im-rs): Assorted immutable collection
   datatypes for Rust <http://immutable.rs>
-- [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs): A
+- 🌟 [RoaringBitmap/roaring-rs](https://github.com/RoaringBitmap/roaring-rs): A
   better compressed bitset in Rust <https://docs.rs/roaring>
 - [matthieu-m/ghost-collections](https://github.com/matthieu-m/ghost-collections):
   Safe collections written in stable Rust, based on `GhostCell` and `StaticRc`.
@@ -330,7 +348,7 @@
   the highest performance concurrent HashMap in Rust for certain use cases.
 - [xacrimon/dashmap](https://github.com/xacrimon/dashmap): Blazing fast
   concurrent HashMap for Rust.
-- [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map):
+- 🌟 [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map):
   Lock-free linearizable map.
 
 ### Functional style / Persistent
@@ -357,7 +375,7 @@
   crypto using Rust
 - [maciejhirsz/beef](https://github.com/maciejhirsz/beef): Faster, more compact
   implementation of `std::borrow::Cow`
-- [matklad/once_cell]https://github.com/matklad/once_cell: Rust library for
+- 🌟 [matklad/once_cell]https://github.com/matklad/once_cell: Rust library for
   single assignment cells and lazy statics without macros
 - [BurntSushi/byteorder](https://github.com/BurntSushi/byteorder): Rust library
   for reading/writing numbers in big-endian and little-endian.
@@ -365,15 +383,15 @@
   efficient string type that can store up to 24\* bytes on the stack
 - [apache/arrow-rs](https://github.com/apache/arrow-rs): Official Rust
   implementation of Apache Arrow <https://arrow.apache.org>
-- [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2):
+- 🌟 [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2):
   Transmute-free Rust library to work with the Arrow format
 - [eto-ai/lance](https://github.com/eto-ai/lance): Alternative to Parquet. 100x
   faster for random access, automatic versioning, optimized for computer vision,
   bioinformatics, spatial and ML data. Apache Arrow and DuckDB compatible.
 - [alexcrichton/wait-timeout](https://github.com/alexcrichton/wait-timeout):
   Waiting on a child process with a timeout in Rust
-- [BurntSushi/bstr](https://github.com/BurntSushi/bstr): A string type for Rust
-  that is not required to be valid UTF-8.
+- 🌟 [BurntSushi/bstr](https://github.com/BurntSushi/bstr): A string type for
+  Rust that is not required to be valid UTF-8.
 - [udoprog/bittle](https://github.com/udoprog/bittle): Zero-cost bitsets over
   native Rust types
 - [dtolnay/efg](https://github.com/dtolnay/efg): Conditional compilation using
@@ -412,9 +430,13 @@
   JSON Value parser
 - [PSeitz/serde_json_borrow](https://github.com/PSeitz/serde_json_borrow): Fast
   JSON deserialization on borrowed data
+- [datafuselabs/jsonb](https://github.com/datafuselabs/jsonb): JSONB implement
+  in rust
 
 ### Parser combinators
 
+- [pest-parser/pest](https://github.com/pest-parser/pest): The Elegant Parser
+  <https://pest.rs/>
 - [zesterer/chumsky](https://github.com/zesterer/chumsky): A parser library for
   humans with powerful error recovery.
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs):
@@ -432,8 +454,10 @@
 
 ### Utils
 
-- [zkat/miette](https://github.com/zkat/miette): Fancy upgrade to
+- 🌟 [zkat/miette](https://github.com/zkat/miette): Fancy upgrade to
   `std::error::Error`.
+- [rust-cli/human-panic](https://github.com/rust-cli/human-panic): 😱 Panic
+  messages for humans.
 - [yaahc/eyre](https://github.com/yaahc/eyre): A trait object based error
   handling type for easy idiomatic error handling and reporting in Rust
   applications
@@ -457,7 +481,7 @@
   applicative interface
 - [frozenlib/parse-display](https://github.com/frozenlib/parse-display):
   Procedural macro to implement Display and FromStr using common settings.
-- [slog-rs/slog](https://github.com/slog-rs/slog): Structured, contextual,
+- 🌟 [slog-rs/slog](https://github.com/slog-rs/slog): Structured, contextual,
   extensible, composable logging for Rust
 - [nushell/reedline](https://github.com/nushell/reedline): A readline
   replacement written in Rust
@@ -467,6 +491,14 @@
   a herd of CLI tests
 - [Keats/validator](https://github.com/Keats/validator): Simple validation for
   Rust structs
+- [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8):
+  SIMD-accelerated UTF-8 validation for Rust.
+- 🌟 [smol-rs/fastrand](https://github.com/smol-rs/fastrand): A simple and fast
+  random number generator
+- [Xuanwo/backon](https://github.com/Xuanwo/backon): Retry with backoff without
+  effort.
+- [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree):
+  Instrument await-tree for actor-based applications.
 
 ## Domain related
 
@@ -508,6 +540,8 @@
   algebra with focus on portability, correctness, and performance.
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs): Rust bindings
   for the C++ api of PyTorch.
+- [burn-rs/burn](https://github.com/burn-rs/burn): BURN: Burn Unstoppable Rusty
+  Neurons <https://burn-rs.github.io/>
 
 ### Clients
 
@@ -517,7 +551,7 @@
   to SQLite for Rust
 - [cberner/redb](https://github.com/cberner/redb): An embedded key-value
   database in pure Rust
-- [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta
+- 🌟 [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta
   embedded databases
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb):
   rust wrapper for rocksdb
@@ -535,6 +569,8 @@
   rustc's query system. <https://salsa-rs.netlify.app>
 - [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs): a multi-language
   bindings generator for rust <https://mozilla.github.io/uniffi-rs>
+- [nvzqz/fruity](https://github.com/nvzqz/fruity): Rusty bindings for Apple
+  libraries
 
 ### TUI
 

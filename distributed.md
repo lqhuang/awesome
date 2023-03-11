@@ -21,6 +21,13 @@
   Summaries <https://mwhittaker.github.io/papers>
 - [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/):
   Curated list of resources on testing distributed systems
+- [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems):
+  A curated list to learn about distributed systems
+
+### Books
+
+- [Distributed Systems](https://www.distributed-systems.net/): M. van Steen and
+  A.S. Tanenbaum, Distributed Systems, 4th ed., distributed-systems.net, 2023.
 
 ## System
 
