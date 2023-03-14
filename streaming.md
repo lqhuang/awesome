@@ -1,4 +1,4 @@
-# Stream Everywhere
+# Streams Everywhere
 
 Streaming Systems
 
@@ -7,10 +7,18 @@ Streaming Systems
 - [lw-lin/streaming-readings](https://github.com/lw-lin/streaming-readings):
   Streaming System 相关的论文读物
 
+### Resources
+
+- [EDA VISUALS](https://serverlessland.com/event-driven-architecture/visuals):
+  Small bite sized visuals about event-driven architectures
+
 ## Streamify
 
 - [supabase/realtime](https://github.com/supabase/realtime): Listen to your to
   PostgreSQL database in realtime via websockets. Built with Elixir.
+- [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog): Discover,
+  Explore and Document your Event Driven Architectures powered by Markdown.
+  <https://eventcatalog.dev>
 
 ## Messaging libraries
 
@@ -55,7 +63,21 @@ Streaming Systems
 - [python-streamz/streamz](https://github.com/python-streamz/streamz): Real-time
   stream processing for python <https://streamz.readthedocs.io/en/latest/>
 
-## Kafka
+## Message Queue
+
+- [nats-io/nats-server](https://github.com/nats-io/nats-server):
+  High-Performance server for NATS.io, the cloud and edge native messaging
+  system. <https://nats.io/>
+- [memphisdev/memphis](https://github.com/memphisdev/memphis): Next-Generation
+  Real-Time Data Processing Platform <https://docs.memphis.dev/>
+- [cloudevents/spec](https://github.com/cloudevents/spec): CloudEvents
+  Specification <https://cloudevents.io/>
+- [vanus-labs/vanus](https://github.com/vanus-labs/vanus): Vanus is a
+  Serverless, event streaming system with processing capabilities. It easily
+  connects SaaS, Cloud Services, and Databases to help users build next-gen
+  Event-driven Applications. <https://docs.vanus.ai/>
+
+### Kafka
 
 - [redpanda-data/console](https://github.com/redpanda-data/console): Redpanda
   Console is a developer-friendly UI for managing your Kafka/Redpanda workloads.
@@ -76,7 +98,8 @@ Streaming Systems
   Aiven, helps enterprises cope with Apache Kafka(r) topics, schema registry and
   connectors governance by introducing roles/authorizations to users of various
   teams of an org. <https://www.klaw-project.io>
-- [](https://github.com/strimzi/strimzi-kafka-operator): <https://strimzi.io/>
+- [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator):
+  Apache Kafka® running on Kubernetes <https://strimzi.io/>
 
 ## Toy projects
 

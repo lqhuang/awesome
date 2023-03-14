@@ -9,7 +9,7 @@
   virtual distributed filesystem written in Rust.
 - [elkowar/eww](https://github.com/elkowar/eww): ElKowars wacky widgets
   <https://elkowar.github.io/eww>
-- [LanguageTool](https://languagetool.org): Instantly Enhance Your Writing
+- 🌟 [LanguageTool](https://languagetool.org): Instantly Enhance Your Writing
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake is a
   open-source tool, built by volunteers, for converting video from nearly any
   format to a selection of modern, widely supported codecs.
@@ -53,9 +53,9 @@
   more! <https://betterdisplay.pro>
 - [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager
   for macOS <https://maccy.app>
-- [Shottr](https://shottr.cc/): Shottr is a small, fast, human-sized screenshot
-  app built for those who care about pixels. It was crafted with Swift,
-  optimized for M1, and is distributed for free.
+- 🌟 [Shottr](https://shottr.cc/): Shottr is a small, fast, human-sized
+  screenshot app built for those who care about pixels. It was crafted with
+  Swift, optimized for M1, and is distributed for free.
 - [Skim](https://skim-app.sourceforge.io/): Skim is a PDF reader and note-taker
   for OS X. It is designed to help you read and annotate scientific papers in
   PDF, but is also great for viewing any PDF file.

@@ -127,6 +127,8 @@
 
 ## System programming
 
+- [Memory Deep Dive: Memory Subsystem Bandwidth](https://frankdenneman.nl/2015/02/19/memory-deep-dive-memory-subsystem-bandwidth/)
+- [Introduction 2016 NUMA Deep Dive Series](https://frankdenneman.nl/2016/07/06/introduction-2016-numa-deep-dive-series/)
 - [google/brotli](https://github.com/google/brotli): Brotli compression format
 - [madler/pigz](https://github.com/madler/pigz): A parallel implementation of
   gzip for modern multi-processor, multi-core machines. <http://zlib.net/pigz>
@@ -149,6 +151,24 @@
   compact general purpose allocator with excellent performance.
 - [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux
   IO analysis, networking, monitoring, and more
+
+## SIMD
+
+- [google/highway](https://github.com/google/highway): Performance-portable,
+  length-agnostic SIMD with runtime dispatch
+- [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd): C++ wrappers
+  for SIMD intrinsics and parallelized, optimized mathematical functions (SSE,
+  AVX, AVX512, NEON, SVE)
+- [simdutf/simdutf](https://github.com/simdutf/simdutf): Unicode routines (UTF8,
+  UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON,
+  AVX-512. Part of Node.js. <https://simdutf.github.io/simdutf>
+- [VcDevel/std-simd](https://github.com/VcDevel/std-simd):
+  std::experimental::simd for GCC [ISO/IEC TS 19570:2018]
+- [mattkretz/wg21-papers](https://github.com/mattkretz/wg21-papers): my papers
+  to WG21 — the C++ committee
+- [simd-everywhere/simde](https://github.com/simd-everywhere/simde):
+  Implementations of SIMD instruction sets for systems which don't natively
+  support them. <https://simd-everywhere.github.io/blog>
 
 ## ???
 

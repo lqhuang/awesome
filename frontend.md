@@ -24,13 +24,16 @@
   <https://framer.com/motion>
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring): ✌️ A spring
   physics based React animation library <http://www.react-spring.dev>
+- [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations):
+  React-useanimations is a collection of free animated open source icons for
+  React.js. <http://react.useanimations.com>
 
 ### Components framework
 
 - [nextui-org/nextui](https://github.com/nextui-org/nextui): 🚀 Beautiful, fast
   and modern React UI library. <https://nextui.org>
-- [mantinedev/mantine](https://github.com/mantinedev/mantine/): React components
-  library with native dark theme support <https://mantine.dev>
+- 🌟 [mantinedev/mantine](https://github.com/mantinedev/mantine/): React
+  components library with native dark theme support <https://mantine.dev>
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui):
   Completely unstyled, fully accessible UI components, designed to integrate
   beautifully with Tailwind CSS. <https://headlessui.dev>
@@ -65,6 +68,8 @@
   made with Tailwind CSS <https://konstaui.com>
 - [microsoft/fast](https://github.com/microsoft/fast): The adaptive interface
   system for modern web experiences. <https://www.fast.design>
+- [refinedev/refine](https://github.com/refinedev/refine): Build your
+  React-based CRUD applications, without constraints. <https://refine.dev/>
 
 ### Components
 
@@ -85,6 +90,8 @@
   Solid-Table, Svelte-Table <https://tanstack.com/table>
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated
   toast component for React. <https://sonner.emilkowal.ski>
+- [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic): A React
+  tiling window manager <https://nomcopter.github.io/react-mosaic/>
 
 ### CSS Style
 
@@ -149,12 +156,14 @@
   JavaScript file upload library <https://pqina.nl/filepond>
 - [aidenybai/million](https://github.com/aidenybai/million): 🔟🔼6️⃣ An extremely
   fast virtual DOM that makes React up to 70% faster! <https://millionjs.org>
+- [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that
+  helps you debug components.
 
 ## Visualization
 
 - [observablehq/plot](https://github.com/observablehq/plot): A concise API for
   exploratory data visualization <https://observablehq.com/@observablehq/plot>
-- [airbnb/visx](https://github.com/airbnb/visx): 🐯 visx | visualization
+- 🌟 [airbnb/visx](https://github.com/airbnb/visx): 🐯 visx | visualization
   components <https://airbnb.io/visx>
 - [reaviz/reaviz](https://github.com/reaviz/reaviz): 📊 Data visualization
   library for React <https://reaviz.io>

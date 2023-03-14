@@ -105,6 +105,8 @@
   cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make): Rust task
   runner and build tool. <https://sagiegurari.github.io/cargo-make>
+- [japaric/cargo-call-stack](https://github.com/japaric/cargo-call-stack): Whole
+  program static stack analysis
 
 ### Test suites
 
@@ -499,6 +501,8 @@
   effort.
 - [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree):
   Instrument await-tree for actor-based applications.
+- [dermesser/memoize](https://github.com/dermesser/memoize): Macro for
+  auto-memoizing Rust functions.
 
 ## Domain related
 

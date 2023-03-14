@@ -50,8 +50,6 @@ more like a toolbox for myself.
 
 ### Speed is everything
 
-- [google/highway](https://github.com/google/highway): Performance-portable,
-  length-agnostic SIMD with runtime dispatch
 - [scylladb/seastar](https://github.com/scylladb/seastar): High performance
   server-side application framework <http://seastar.io>
 - [mratsim/weave](https://github.com/mratsim/weave): A state-of-the-art
@@ -65,9 +63,3 @@ more like a toolbox for myself.
   Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
 - [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A
   high-performance, concurrent hash table
-- [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd): C++ wrappers
-  for SIMD intrinsics and parallelized, optimized mathematical functions (SSE,
-  AVX, AVX512, NEON, SVE)
-- [simdutf/simdutf](https://github.com/simdutf/simdutf): Unicode routines (UTF8,
-  UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON,
-  AVX-512. Part of Node.js. <https://simdutf.github.io/simdutf>

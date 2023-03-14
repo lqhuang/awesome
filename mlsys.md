@@ -73,6 +73,10 @@
   faster matrix multiplication algorithms with reinforcement learning
 - [hwchase17/langchain](https://github.com/hwchase17/langchain): ⚡ Building
   applications with LLMs through composability ⚡
+- [facebookresearch/llama](https://github.com/facebookresearch/llama): Inference
+  code for LLaMA models
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): Port of
+  Facebook's LLaMA model in C/C++
 
 ### Inference engine / large-scale deployment
 

@@ -157,6 +157,8 @@
 
 ### Pipelines / Workflow
 
+- [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline):
+  A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [orchest/orchest](https://github.com/orchest/orchest): Build data pipelines,
   the easy way 🛠️ <https://orchest.io>
 - [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and open fair-code licensed
@@ -223,7 +225,7 @@
 - [usefathom/fathom](https://github.com/usefathom/fathom): Fathom Lite. Simple,
   privacy-focused website analytics. Built with Golang & Preact.
   <https://usefathom.com>
-- [plausible/analytics](https://github.com/plausible/analytics): Simple,
+- 🌟 [plausible/analytics](https://github.com/plausible/analytics): Simple,
   open-source, lightweight (< 1 KB) and privacy-friendly web analytics
   alternative to Google Analytics. <https://plausible.io>
 
@@ -234,7 +236,7 @@
   builds. <https://please.build>
 - [pantsbuild/pants](https://github.com/pantsbuild/pants): The Pantsbuild
   developer workflow system <https://www.pantsbuild.org>
-- [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build
+- 🌟 [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build
   system with a focus on speed <https://ninja-build.org>
 - [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build
   System <http://mesonbuild.com/>

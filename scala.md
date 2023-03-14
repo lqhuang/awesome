@@ -61,14 +61,10 @@
 
 - [softwaremill/macwire](https://github.com/softwaremill/macwire): Lightweight
   and Nonintrusive Scala Dependency Injection Library
+- [yakivy/jam](https://github.com/yakivy/jam): Incredibly simple DI Scala
+  library.
 - [optics-dev/monocle](https://github.com/optics-dev/monocle): Optics library
   for Scala <https://www.optics.dev/Monocle>
-- [scalalandio/chimney](https://github.com/scalalandio/chimney): Scala library
-  for boilerplate-free, type-safe data transformations
-  <https://scalalandio.github.io/chimney>
-- [lloydmeta/enumeratum](https://github.com/lloydmeta/enumeratum): A type-safe,
-  reflection-free, powerful enumeration implementation for Scala with exhaustive
-  pattern match warnings and helpful integrations.
 - [7mind/izumi](https://github.com/7mind/izumi): Productivity-oriented
   collection of lightweight fancy stuff for Scala toolchain
 - [wix/greyhound](https://github.com/wix/greyhound): Greyhound - Rich Kafka
@@ -76,17 +72,19 @@
 
 ### Types
 
+- [fthomas/refined](https://github.com/fthomas/refined): Refinement types for
+  Scala
 - [Iltotore/iron](https://github.com/Iltotore/iron): Strong type constraints for
   Scala <https://iltotore.github.io/iron/docs>
-- [milessabin/shapeless](https://github.com/milessabin/shapeless): Generic
-  programming for Scala
-- [arainko/ducktape](https://github.com/arainko/ducktape): The thing that glues
-  your code. Or is it duct 🤔
+- [scalalandio/chimney](https://github.com/scalalandio/chimney): Scala library
+  for boilerplate-free, type-safe data transformations
+  <https://scalalandio.github.io/chimney>
+- 🌟 [arainko/ducktape](https://github.com/arainko/ducktape): Automatic and
+  customizable compile time transformations between similar case classes and
+  sealed traits/enums, essentially a thing that glues your code. Scala 3 only.
+  Or is it duct 🤔
 - [epfl-lara/stainless](https://github.com/epfl-lara/stainless): Verification
   framework and tool for higher-order Scala programs <https://stainless.epfl.ch>
-- [softwaremill/magnolia](https://github.com/softwaremill/magnolia): Easy, fast,
-  transparent generic derivation of typeclass instances
-  <https://softwaremill.com/open-source/>
 
 ### Serialization
 
@@ -129,6 +127,9 @@
   Elm-inspired Scala UI library. <https://tyrian.indigoengine.io>
 - [scalameta/mdoc](https://github.com/scalameta/mdoc): Typechecked markdown
   documentation for Scala <https://scalameta.org/mdoc>
+- [com-lihaoyi/PPrint](https://github.com/com-lihaoyi/PPrint): Pretty-printing
+  value, types and type-signatures in Scala
+  <https://com-lihaoyi.github.io/PPrint/>
 
 ### Tools
 

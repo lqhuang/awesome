@@ -139,6 +139,8 @@
   control, telemetry data, metrics and more.
 - [ekzhang/bore](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool
   for making tunnels to localhost <http://bore.pub>
+- [pgrok/pgrok](https://github.com/pgrok/pgrok): Poor man's ngrok - a
+  multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding
 - [rapiz1/rathole](https://github.com/rapiz1/rathole): A lightweight and
   high-performance reverse proxy for NAT traversal, written in Rust. An
   alternative to frp and ngrok.

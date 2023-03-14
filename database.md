@@ -53,6 +53,8 @@
   Arrow Ballista Distributed Query Engine <https://arrow.apache.org/ballista>
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka): Open source
   SQL engine in Python <https://marsupialtail.github.io/quokka>
+- [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source vector
+  similarity search for Postgres
 
 ## New databases
 
