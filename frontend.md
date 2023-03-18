@@ -55,8 +55,6 @@
   Svelte component library for building interactive node-based flow diagrams
 - [lit/lit](https://github.com/lit/lit): Lit is a simple library for building
   fast, lightweight web components. <https://lit.dev>
-- [daisyui/react-daisyui](https://github.com/daisyui/react-daisyui): daisyUI
-  components built with React 🌼
 - [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui): Clean, modern
   and beautiful Tailwind CSS components. <https://ripple-ui.com>
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor): The react library
@@ -70,6 +68,24 @@
   system for modern web experiences. <https://www.fast.design>
 - [refinedev/refine](https://github.com/refinedev/refine): Build your
   React-based CRUD applications, without constraints. <https://refine.dev/>
+
+### CSS Style
+
+- 🌟 [saadeghi/daisyui](https://github.com/saadeghi/daisyui): ⭐️ ⭐️ ⭐️ ⭐️
+  ⭐️  The most popular, free and open-source Tailwind CSS component library
+  <https://daisyui.com>
+- [andybrewer/mvp](https://github.com/andybrewer/mvp/): MVP.css — Minimalist
+  classless CSS stylesheet for HTML elements <https://andybrewer.github.io/mvp>
+- [Mokshit06/typewind](https://github.com/Mokshit06/typewind): The safety of
+  Typescript with the magic of Tailwind. <https://typewind.vercel.app>
+- [macaron-css/macaron](https://github.com/macaron-css/macaron): Typesafe
+  CSS-in-JS with zero runtime, colocation, maximum safety and productivity
+  <https://macaron.js.org>
+- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants):
+  🦄 Tailwindcss first-class variant API <https://tailwind-variants.org>
+- [tw-in-js/twind](https://github.com/tw-in-js/twind): The smallest, fastest,
+  most feature complete Tailwind-in-JS solution in existence.
+  <https://twind.style>
 
 ### Components
 
@@ -92,24 +108,14 @@
   toast component for React. <https://sonner.emilkowal.ski>
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic): A React
   tiling window manager <https://nomcopter.github.io/react-mosaic/>
-
-### CSS Style
-
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui): ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
-   The most popular, free and open-source Tailwind CSS component library
-  <https://daisyui.com>
-- [andybrewer/mvp](https://github.com/andybrewer/mvp/): MVP.css — Minimalist
-  classless CSS stylesheet for HTML elements <https://andybrewer.github.io/mvp>
-- [Mokshit06/typewind](https://github.com/Mokshit06/typewind): The safety of
-  Typescript with the magic of Tailwind. <https://typewind.vercel.app>
-- [macaron-css/macaron](https://github.com/macaron-css/macaron): Typesafe
-  CSS-in-JS with zero runtime, colocation, maximum safety and productivity
-  <https://macaron.js.org>
-- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants):
-  🦄 Tailwindcss first-class variant API <https://tailwind-variants.org>
-- [tw-in-js/twind](https://github.com/tw-in-js/twind): The smallest, fastest,
-  most feature complete Tailwind-in-JS solution in existence.
-  <https://twind.style>
+- [remirror/remirror](https://github.com/remirror/remirror): ProseMirror toolkit
+  for React 🎉 <https://remirror.io>
+- [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build
+  and send emails using React <https://react.email>
+- [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone):
+  Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
+- [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun
+  JavaScript file upload library <https://pqina.nl/filepond>
 
 ## Channel
 
@@ -148,16 +154,12 @@
   statecharts for the modern web. <https://xstate.js.org/docs>
 - 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next
   immutable state by mutating the current one <https://immerjs.github.io/immer>
-- [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build
-  and send emails using React <https://react.email>
-- [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone):
-  Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
-- [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun
-  JavaScript file upload library <https://pqina.nl/filepond>
 - [aidenybai/million](https://github.com/aidenybai/million): 🔟🔼6️⃣ An extremely
   fast virtual DOM that makes React up to 70% faster! <https://millionjs.org>
 - [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that
   helps you debug components.
+- [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your
+  i18n localization with AI
 
 ## Visualization
 
@@ -210,6 +212,10 @@
   Boring avatars is a tiny JavaScript React library that generates custom,
   SVG-based avatars from any username and color palette.
   <https://boringavatars.com>
+- 🌟
+  [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks):
+  System font stack CSS organized by typeface classification for every modern
+  operating system
 
 ## Build tools
 

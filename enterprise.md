@@ -177,6 +177,9 @@
   <https://cadenceworkflow.io>
 - [temporalio/temporal](https://github.com/temporalio/temporal): Temporal
   service <https://docs.temporal.io>
+- [ploomber/ploomber](https://github.com/ploomber/ploomber): The fastest ⚡️ way
+  to build data pipelines. Develop iteratively, deploy anywhere. ☁️
+  <https://ploomber.io>
 
 ### Uptime / Monitoring
 
@@ -299,6 +302,11 @@
   Data Visualization and Data Exploration Platform <https://superset.apache.org>
 - [Kanaries/Rath](https://github.com/Kanaries/Rath): Automated data exploratory
   analysis and visualization tools. <https://kanaries.net>
+
+### Data governance
+
+- [whylabs/whylogs](https://github.com/whylabs/whylogs): The open standard for
+  data logging <https://whylogs.readthedocs.io>
 
 ### Data quality
 

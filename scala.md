@@ -18,6 +18,8 @@
 - [Scala Exercises](https://www.scala-exercises.org/): Scala Exercises is an
   Open Source project for learning different technologies based in the Scala
   Programming Language.
+- [lauris/awesome-scala](https://github.com/lauris/awesome-scala): A community
+  driven list of useful Scala libraries, frameworks and software.
 
 ## Master these you rule the world
 
@@ -149,6 +151,8 @@
   programming facility for Scala
 - [rssh/dotty-cps-async](https://github.com/rssh/dotty-cps-async): experimental
   CPS transformer for dotty
+- [sbt/sbt-dynver](https://github.com/sbt/sbt-dynver): An sbt plugin to
+  dynamically set your version from git
 
 ## Stream / Effect systems / Experiments
 

@@ -80,6 +80,9 @@
   <https://termscp.veeso.dev/>
 - [peco/peco](https://github.com/peco/peco): Simplistic interactive filtering
   tool
+- [johnkerl/miller](https://github.com/johnkerl/miller): Miller is like awk,
+  sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular
+  JSON <https://miller.readthedocs.io/>
 
 ### Monitor
 
@@ -127,6 +130,12 @@
   <https://dotenv-linter.github.io>
 - [tstack/lnav](https://github.com/tstack/lnav): Log file navigator
   <http://lnav.org>
+- 🌟 [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An
+  infographics generator with 30+ plugins and 300+ options to display stats
+  about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+  <https://metrics.lecoq.io>
+- [nedbat/watchgha](https://github.com/nedbat/watchgha): Live display of current
+  GitHub action runs
 
 ## HomeKit / IoT
 

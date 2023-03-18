@@ -98,6 +98,8 @@
   real Transformer TeraFLOPS on various GPUs
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen): Running large
   language models on a single GPU for throughput-oriented scenarios.
+- [openai/evals](https://github.com/openai/evals): Evals is a framework for
+  evaluating OpenAI models and an open-source registry of benchmarks.
 
 ### Libraries
 

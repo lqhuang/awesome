@@ -105,7 +105,7 @@
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja): This is an
   online course where you can learn and master the skill of low-level
   performance analysis and tuning.
-- [grahamking/perf-ninja-rs](https://github.com/grahamking/perf-ninja-rs: Rust
+- [grahamking/perf-ninja-rs](https://github.com/grahamking/perf-ninja-rs): Rust
   port of dendibakh/perf-ninja
 - [twitter/rezolus](https://github.com/twitter/rezolus): Systems performance
   telemetry

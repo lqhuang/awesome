@@ -43,8 +43,9 @@
   and modernizing Python codebases
 - [MarcoGorelli/cython-lint](https://github.com/MarcoGorelli/cython-lint): Lint
   Cython files
-- [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A SQL linter and
-  auto-formatter for Humans <https://docs.sqlfluff.com/en/stable>
+- 🌟 [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A modular SQL
+  linter and auto-formatter with support for multiple dialects and templated
+  code. <https://www.sqlfluff.com>
 
 ### Build tools
 
@@ -294,6 +295,13 @@
   Library <http://rapids.ai>
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker): PyGWalker: Turn
   your pandas dataframe into a Tableau-style User Interface for visual analysis
+- [fugue-project/fugue](https://github.com/fugue-project/fugue): A unified
+  interface for distributed computing. Fugue executes SQL, Python, and Pandas
+  code on Spark, Dask and Ray without any rewrites.
+  <https://fugue-tutorials.readthedocs.io/>
+- [static-frame/static-frame](https://github.com/static-frame/static-frame):
+  Immutable and grow-only Pandas-like DataFrames with a more explicit and
+  consistent interface. <https://static-frame.readthedocs.io>
 
 ### Prob
 
@@ -325,6 +333,8 @@
 - [lepture/authlib](https://github.com/lepture/authlib): The ultimate Python
   library in building OAuth, OpenID Connect clients and servers.
   JWS,JWE,JWK,JWA,JWT included. <https://authlib.org>
+- 🌟 [pyca/bcrypt](https://github.com/pyca/bcrypt): Modern(-ish) password
+  hashing for your software and your servers
 - [mpdavis/python-jose](https://github.com/mpdavis/python-jose): A JOSE
   implementation in Python
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py):

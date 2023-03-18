@@ -62,6 +62,10 @@ Streaming Systems
   <https://www.hazelcast.com/>
 - [python-streamz/streamz](https://github.com/python-streamz/streamz): Real-time
   stream processing for python <https://streamz.readthedocs.io/en/latest/>
+- [tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime):
+  Tremor is an event- or stream-processing system. It is designed to perform
+  well for high-volumetric data both in terms of consumption of memory and CPU
+  resources and in terms of latency. <https://www.tremor.rs/>
 
 ## Message Queue
 
@@ -113,3 +117,9 @@ Streaming Systems
   engine modeled after Yahoo! Pipes
 - [Lightflus/lightflus](https://github.com/Lightflus/lightflus): A Lightweight,
   Cloud-Native Stateful Distributed Dataflow Engine
+
+## Testing
+
+- [MaterializeInc/datagen](https://github.com/MaterializeInc/datagen): Generate
+  authentic looking mock data based on a SQL, JSON or Avro schema and produce to
+  Kafka in JSON or Avro format.

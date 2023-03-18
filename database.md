@@ -176,6 +176,8 @@
   PostgreSQL, using eBPF
 - [centerofci/mathesar](https://github.com/centerofci/mathesar): Web application
   providing an intuitive user experience to databases. <https://mathesar.org>
+- [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres
+  DB instance for your unit tests
 
 ## In a SQL way
 

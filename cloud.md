@@ -15,6 +15,8 @@
 - [unikraft/unikraft](https://github.com/unikraft/unikraft): Unikraft is an
   automated system for building specialized OSes known as unikernels. Unikraft
   can be configured to be POSIX-compliant. <http://unikraft.org/>
+- 🌟 [canonical/cloud-init](https://github.com/canonical/cloud-init): Official
+  upstream for the cloud-init: cloud instance initialization <instance>
 
 ## Container
 

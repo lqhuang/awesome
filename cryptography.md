@@ -16,3 +16,6 @@
   with a focus on performance and a pythonic API
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3): the official Rust
   and C implementations of the BLAKE3 cryptographic hash function
+- [pyca/cryptography](https://github.com/pyca/cryptography): cryptography is a
+  package designed to expose cryptographic primitives and recipes to Python
+  developers. <https://cryptography.io>

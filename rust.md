@@ -489,6 +489,8 @@
   replacement written in Rust
 - [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs): DEFLATE, gzip,
   and zlib bindings for Rust
+- [rust-lang/stacker](https://github.com/rust-lang/stacker): Manual segmented
+  stacks for Rust
 - [assert-rs/trycmd](https://github.com/assert-rs/trycmd): Snapshot testing for
   a herd of CLI tests
 - [Keats/validator](https://github.com/Keats/validator): Simple validation for
