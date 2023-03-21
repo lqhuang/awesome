@@ -239,6 +239,10 @@
 
 ### Functional style libraries
 
+- 🌟
+  [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools):
+  More routines for operating on iterables, beyond itertools
+  <https://more-itertools.rtfd.io>
 - 🌟 [pytoolz/toolz](https://github.com/pytoolz/toolz): A functional standard
   library for Python. <http://toolz.readthedocs.org>
 

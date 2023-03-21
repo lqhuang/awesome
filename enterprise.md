@@ -327,3 +327,8 @@
 
 - [BloopAI/bloop](https://github.com/BloopAI/bloop): bloop is a fast code search
   engine written in Rust. <https://bloop.ai>
+- [qdrant/qdrant](https://github.com/qdrant/qdrant): Qdrant - Vector Search
+  Engine and Database for the next generation of AI applications. Also available
+  in the cloud https://cloud.qdrant.io/ <https://qdrant.tech>
+- [GerevAI/gerev](https://github.com/GerevAI/gerev): ChatGPT Workplace Search
+  Engine

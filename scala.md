@@ -87,6 +87,8 @@
   Or is it duct 🤔
 - [epfl-lara/stainless](https://github.com/epfl-lara/stainless): Verification
   framework and tool for higher-order Scala programs <https://stainless.epfl.ch>
+- [earldouglas/linear-scala](https://github.com/earldouglas/linear-scala):
+  Linear types in Scala
 
 ### Serialization
 

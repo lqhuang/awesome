@@ -306,3 +306,13 @@
   with external data. <https://gpt-index.readthedocs.io/en/latest/>
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples
   and guides for using the OpenAI API
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide):
+  🐙 Guides, papers, lecture, and resources for prompt engineering
+  <https://www.promptingguide.ai>
+- [shibing624/text2vec](https://github.com/shibing624/text2vec): text2vec, text
+  to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了
+  Word2Vec、RankBM25、Sentence-BERT、CoSENT 等文本表征、文本相似度计算模型，开箱
+  即用。
+- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): A cross-platform
+  desktop application for ChatGPT API (OpenAI API), also a prompt debugging and
+  management tool. <https://chatboxapp.xyz>

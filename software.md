@@ -74,6 +74,10 @@
   keys in the Secure Enclave
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an
   alternative app store for non-jailbroken iOS devices. <https://altstore.io>
+- [Aiko](https://sindresorhus.com/aiko): AI-powered audio transcription
+- [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz): Buzz transcribes
+  and translates audio offline on your personal computer. Powered by OpenAI's
+  Whisper.
 
 ## Services
 
