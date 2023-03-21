@@ -15,6 +15,9 @@
 - [typeclasses/haskell-phrasebook](https://github.com/typeclasses/haskell-phrasebook):
   The Haskell Phrasebook: a quick intro to Haskell via small annotated example
   programs <https://typeclasses.com/phrasebook>
+- [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated):
+  A book about category theory
+  <https://abuseofnotation.github.io/category-theory-illustrated/>
 
 ### Resources
 

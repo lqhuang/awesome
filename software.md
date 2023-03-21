@@ -72,6 +72,8 @@
   one software tool!
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive): Store SSH
   keys in the Secure Enclave
+- [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an
+  alternative app store for non-jailbroken iOS devices. <https://altstore.io>
 
 ## Services
 

@@ -322,3 +322,8 @@
   Continuous Validation of ML Models & Data. Deepchecks is a Python package for
   comprehensively validating your machine learning models and data with minimal
   effort. <https://docs.deepchecks.com>
+
+## AI-ng
+
+- [BloopAI/bloop](https://github.com/BloopAI/bloop): bloop is a fast code search
+  engine written in Rust. <https://bloop.ai>

@@ -166,16 +166,16 @@
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer):
   VizTracer is a low-overhead logging/debugging/profiling tool that can trace
   and visualize your python code execution.
-- [bloomberg/memray](https://github.com/bloomberg/memray): Memray is a memory
+- 🌟 [bloomberg/memray](https://github.com/bloomberg/memray): Memray is a memory
   profiler for Python
-- [P403n1x87/austin](https://github.com/P403n1x87/austin): Python frame stack
+- 🌟 [P403n1x87/austin](https://github.com/P403n1x87/austin): Python frame stack
   sampler for CPython
 - [pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler): A
   Python memory profiler for data processing and scientific computing
   applications <https://pythonspeed.com/fil>
 - [reloadware/reloadium](https://github.com/reloadware/reloadium): Advanced hot
   reloading & profiling for Python
-- [python/pyperformance](https://github.com/python/pyperformance): Python
+- 🌟 [python/pyperformance](https://github.com/python/pyperformance): Python
   Performance Benchmark Suite <http://pyperformance.readthedocs.io>
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument): 🚴 Call stack
   profiler for Python. Shows you why your code is slow!
