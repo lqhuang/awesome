@@ -72,6 +72,15 @@
 - [wix/greyhound](https://github.com/wix/greyhound): Greyhound - Rich Kafka
   client library
 
+### Experiments
+
+- [scala/scala-async](https://github.com/scala/scala-async): An asynchronous
+  programming facility for Scala
+- [rssh/dotty-cps-async](https://github.com/rssh/dotty-cps-async): experimental
+  CPS transformer for dotty
+- [lampepfl/async](https://github.com/lampepfl/async): A strawman for a
+  low-level async library in Scala 3
+
 ### Types
 
 - [fthomas/refined](https://github.com/fthomas/refined): Refinement types for
@@ -134,6 +143,8 @@
 - [com-lihaoyi/PPrint](https://github.com/com-lihaoyi/PPrint): Pretty-printing
   value, types and type-signatures in Scala
   <https://com-lihaoyi.github.io/PPrint/>
+- [scala-native/scala-native-cli](https://github.com/scala-native/scala-native-cli):
+  Command Line Interface for Scala Native
 
 ### Tools
 
@@ -149,12 +160,10 @@
   Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
 - [lampepfl/dotty-macro-examples](https://github.com/lampepfl/dotty-macro-examples):
   Various tasks solved via metaprogramming in Dotty
-- [scala/scala-async](https://github.com/scala/scala-async): An asynchronous
-  programming facility for Scala
-- [rssh/dotty-cps-async](https://github.com/rssh/dotty-cps-async): experimental
-  CPS transformer for dotty
 - [sbt/sbt-dynver](https://github.com/sbt/sbt-dynver): An sbt plugin to
   dynamically set your version from git
+- [wartremover/wartremover](https://github.com/wartremover/wartremover):
+  Flexible Scala code linting tool <https://www.wartremover.org>
 
 ## Stream / Effect systems / Experiments
 

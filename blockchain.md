@@ -42,6 +42,8 @@
 
 ## Smart Contract Dev
 
+- [hyperledger/solang](https://github.com/hyperledger/solang): Solidity Compiler
+  for Solana and Substrate <https://solang.readthedocs.io/en/latest>
 - [foundry-rs/foundry](https://github.com/foundry-rs/foundry): Foundry is a
   blazing fast, portable and modular toolkit for Ethereum application
   development written in Rust. <https://getfoundry.sh>

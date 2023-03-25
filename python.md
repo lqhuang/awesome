@@ -325,22 +325,6 @@
 
 ### Web
 
-- [pgjones/hypercorn](https://github.com/pgjones/hypercorn): Hypercorn is an
-  ASGI Server based on Hyper libraries and inspired by Gunicorn.
-  <https://pgjones.gitlab.io/hypercorn>
-- [python-hyper/hyperlink](https://github.com/python-hyper/hyperlink): 🔗
-  Immutable, Pythonic, correct URLs. <https://hyperlink.readthedocs.io>
-- [encode/broadcaster](https://github.com/encode/broadcaster): Broadcast
-  channels for async web apps. 📢
-- [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib): A generic,
-  spec-compliant, thorough implementation of the OAuth request-signing logic
-- [lepture/authlib](https://github.com/lepture/authlib): The ultimate Python
-  library in building OAuth, OpenID Connect clients and servers.
-  JWS,JWE,JWK,JWA,JWT included. <https://authlib.org>
-- 🌟 [pyca/bcrypt](https://github.com/pyca/bcrypt): Modern(-ish) password
-  hashing for your software and your servers
-- [mpdavis/python-jose](https://github.com/mpdavis/python-jose): A JOSE
-  implementation in Python
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py):
   Bringing WebSockets, Http/Https High Peformance servers for PyPy3 and Python3
 - [starlite-api/starlite](https://github.com/starlite-api/starlite): Light,
@@ -364,6 +348,29 @@
   FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings
 - 🌟 [django/asgiref](https://github.com/django/asgiref): ASGI specification and
   utilities <https://asgi.readthedocs.io/en/latest>
+- [spec-first/connexion](https://github.com/spec-first/connexion):
+  Swagger/OpenAPI First framework for Python on top of Flask with automatic
+  endpoint validation & OAuth2 support
+  <https://connexion.readthedocs.io/en/latest>
+
+#### Web utils
+
+- [pgjones/hypercorn](https://github.com/pgjones/hypercorn): Hypercorn is an
+  ASGI Server based on Hyper libraries and inspired by Gunicorn.
+  <https://pgjones.gitlab.io/hypercorn>
+- [python-hyper/hyperlink](https://github.com/python-hyper/hyperlink): 🔗
+  Immutable, Pythonic, correct URLs. <https://hyperlink.readthedocs.io>
+- [encode/broadcaster](https://github.com/encode/broadcaster): Broadcast
+  channels for async web apps. 📢
+- [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib): A generic,
+  spec-compliant, thorough implementation of the OAuth request-signing logic
+- [lepture/authlib](https://github.com/lepture/authlib): The ultimate Python
+  library in building OAuth, OpenID Connect clients and servers.
+  JWS,JWE,JWK,JWA,JWT included. <https://authlib.org>
+- 🌟 [pyca/bcrypt](https://github.com/pyca/bcrypt): Modern(-ish) password
+  hashing for your software and your servers
+- [mpdavis/python-jose](https://github.com/mpdavis/python-jose): A JOSE
+  implementation in Python
 
 ### DB clients and SQL utils
 

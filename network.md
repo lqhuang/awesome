@@ -26,6 +26,15 @@
 
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun): Userspace
   WireGuard® Implementation in Rust
+- [cloudflare/quiche](https://github.com/cloudflare/quiche): 🥧 Savoury
+  implementation of the QUIC transport protocol and HTTP/3
+  <https://docs.quic.tech/quiche>
+- [google/quiche](https://github.com/google/quiche): QUICHE stands for QUIC,
+  Http, Etc. It is Google's production-ready implementation of QUIC, HTTP/2,
+  HTTP/3, and related protocols and tools. It powers Google's servers, Chromium,
+  Envoy, and other projects. It is actively developed and maintained.
+- 🌟 [quinn-rs/quinn](https://github.com/quinn-rs/quinn): Async-friendly QUIC
+  implementation in Rust
 - [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap): the
   LIBpcap interface to various kernel packet capture mechanism
   <https://www.tcpdump.org>

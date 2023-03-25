@@ -192,6 +192,8 @@
 - [rust-lang/async-fundamentals-initiative](https://github.com/rust-lang/async-fundamentals-initiative):
   async fundamentals initiative
   <https://rust-lang.github.io/async-fundamentals-initiative/>
+- [nikomatsakis/duchess](https://github.com/nikomatsakis/duchess): Experiments
+  with Java-Rust interop
 
 ## Concurrency / Parallelelism
 
@@ -276,7 +278,8 @@
   collections for Rust where borrows to entries can outlive insertions
 - [liquid-rust/flux](https://github.com/liquid-rust/flux): Refinement Types for
   Rust
-- [orium/rpds](https://github.com/orium/rpds): Rust Persistent Data Structures
+- [ZettaScaleLabs/stabby](https://github.com/ZettaScaleLabs/stabby): A Stable
+  ABI for Rust with compact sum-types
 
 ## HPC / SIMD / Vectorization
 
@@ -363,6 +366,7 @@
   array in Rust.
 - [prataprc/ppom](https://github.com/prataprc/ppom): Persisted Ordered Map in
   Rust-lang
+- [orium/rpds](https://github.com/orium/rpds): Rust Persistent Data Structures
 
 ### Graph
 
@@ -453,6 +457,8 @@
 - [hellux/jotdown](https://github.com/hellux/jotdown): A Djot parser library
 - [matklad/djot-rs](https://github.com/matklad/djot-rs): An experimental Rust
   implementation of the Djot light markup language.
+- [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop): LR(1) parser generator
+  for Rust <http://lalrpop.github.io/lalrpop>
 
 ### Utils
 
@@ -505,6 +511,8 @@
   Instrument await-tree for actor-based applications.
 - [dermesser/memoize](https://github.com/dermesser/memoize): Macro for
   auto-memoizing Rust functions.
+- [gluon-lang/gluon](https://github.com/gluon-lang/gluon): A static, type
+  inferred and embeddable language written in Rust. <https://gluon-lang.org>
 
 ## Domain related
 
@@ -512,11 +520,6 @@
 
 - [maidsafe/qp2p](https://github.com/maidsafe/qp2p): peer-to-peer communications
   library for Rust based on QUIC protocol
-- [cloudflare/quiche](https://github.com/cloudflare/quiche): 🥧 Savoury
-  implementation of the QUIC transport protocol and HTTP/3
-  <https://docs.quic.tech/quiche>
-- [quinn-rs/quinn](https://github.com/quinn-rs/quinn): Async-friendly QUIC
-  implementation in Rust
 - [google/tarpc](https://github.com/google/tarpc): An RPC framework for Rust
   with a focus on ease of use.
 

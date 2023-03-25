@@ -199,6 +199,8 @@
 - [Better Stack](https://betterstack.com/): Reliability is the ultimate feature.
 - [Oh Dear](https://ohdear.app/): the all-in-one monitoring tool for your entire
   website
+- [TwiN/gatus](https://github.com/TwiN/gatus): ⛑ Automated developer-oriented
+  status page <https://gatus.io>
 
 ### Logging / Metrics / APM
 
@@ -212,6 +214,9 @@
   an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source
   Application Performance Monitoring (APM) & Observability tool
   <https://signoz.io>
+- [Autometrics](https://github.com/autometrics-dev): Autometrics is a set of
+  open source libraries that make it fun and easy to understand the performance
+  of your code in production.
 
 ### Logger search and analytics
 

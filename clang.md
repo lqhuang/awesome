@@ -29,6 +29,9 @@
   Collaborative Collection of C++ Best Practices. This online resource is part
   of Jason Turner's collection of C++ Best Practices resources. See README.md
   for more information.
+- [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp): Modern
+  concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule
+  them all
 
 ### Books
 

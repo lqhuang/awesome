@@ -100,6 +100,10 @@
   language models on a single GPU for throughput-oriented scenarios.
 - [openai/evals](https://github.com/openai/evals): Evals is a framework for
   evaluating OpenAI models and an open-source registry of benchmarks.
+- [NolanoOrg/cformers](https://github.com/NolanoOrg/cformers): SoTA Transformers
+  with C-backend for fast inference on your CPU.
+- [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn): Lightning fast
+  C++/CUDA neural network framework
 
 ### Libraries
 

@@ -36,12 +36,12 @@
 
 ## Libraries for DB
 
-- [substrait-io/substrait](https://github.com/substrait-io/substrait): A cross
-  platform way to express data transformation, relational algebra, standardized
-  record expression and plans. <https://substrait.io>
-- [facebookincubator/velox](https://github.com/facebookincubator/velox): A C++
-  vectorized database acceleration library aimed to optimizing query engines and
-  data processing systems. <https://facebookincubator.github.io/velox>
+- 🌟 [substrait-io/substrait](https://github.com/substrait-io/substrait): A
+  cross platform way to express data transformation, relational algebra,
+  standardized record expression and plans. <https://substrait.io>
+- 🌟 [facebookincubator/velox](https://github.com/facebookincubator/velox): A
+  C++ vectorized database acceleration library aimed to optimizing query engines
+  and data processing systems. <https://facebookincubator.github.io/velox>
 - [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb): Pure Rust
   LSM-tree based embedded storage engine
 - [tcdi/pgx](https://github.com/tcdi/pgx): Build Postgres Extensions with Rust!
@@ -65,9 +65,9 @@
 - [datafuselabs/databend](https://github.com/datafuselabs/databend): A modern
   Elasticity and Performance cloud data warehouse, activate your object storage
   for real-time analytics. <https://databend.rs> (clickhouse in rust?)
-- [gluesql/gluesql](https://github.com/gluesql/gluesql): GlueSQL is quite
+- 🌟 [gluesql/gluesql](https://github.com/gluesql/gluesql): GlueSQL is quite
   sticky, it attaches to anywhere.
-- [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle): A distributed
+- 🌟 [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle): A distributed
   financial accounting database designed for mission critical safety and
   performance to power the future of financial services.
   <https://www.tigerbeetle.com>
@@ -109,7 +109,7 @@
 
 ### KV
 
-- [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB -
+- 🌟 [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB -
   the open source, distributed, transactional key-value store
   <https://www.foundationdb.org>
 
