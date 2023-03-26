@@ -81,7 +81,7 @@
 - [microsoft/DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII): MII
   makes low-latency and high-throughput inference possible, powered by
   DeepSpeed.
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning): Deep
+- 🌟 [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning): Deep
   learning framework to train, deploy, and ship AI products Lightning fast.
   <https://lightning.ai>
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa): Training and
@@ -96,6 +96,9 @@
   with C-backend for fast inference on your CPU.
 - [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn): Lightning fast
   C++/CUDA neural network framework
+- 🌟 [pytorch/TensorRT](https://github.com/pytorch/TensorRT):
+  PyTorch/TorchScript/FX compiler for NVIDIA GPUs using TensorRT
+  <https://pytorch.org/TensorRT>
 
 ### Libraries
 
@@ -124,8 +127,8 @@
 
 - [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler stack
   for cpu, gpu and specialized accelerators <https://tvm.apache.org>
-- [openai/triton](https://github.com/openai/triton): Development repository for
-  the Triton language and compiler
+- 🌟 [openai/triton](https://github.com/openai/triton): Development repository
+  for the Triton language and compiler
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass): CUDA Templates for Linear
   Algebra Subroutines
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT): NVIDIA® TensorRT™, an

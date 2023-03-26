@@ -78,5 +78,7 @@
   RIS, DOI, Wikidata, and BibJSON) <https://citation.js.org>
 - [typst/typst](https://github.com/typst/typst): A new markup-based typesetting
   system that is powerful and easy to learn. <https://typst.app>
+- [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new
+  language server for Typst, plus a VS Code extension
 - [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX
   math description from Python functions.
