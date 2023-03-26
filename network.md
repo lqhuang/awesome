@@ -6,7 +6,7 @@
 
 - [Uncurled](https://un.curl.dev/): everything I know and learned about running
   and maintaining Open Source projects for three decades.
-- [bagder/http3-explained](https://github.com/bagder/http3-explained): A
+- 🌟 [bagder/http3-explained](https://github.com/bagder/http3-explained): A
   document describing the HTTP/3 and QUIC protocols
   <https://http3-explained.haxx.se>
 - [beejjorgensen/bgnet](https://github.com/beejjorgensen/bgnet): Beej's Guide to
@@ -26,29 +26,20 @@
 
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun): Userspace
   WireGuard® Implementation in Rust
-- [cloudflare/quiche](https://github.com/cloudflare/quiche): 🥧 Savoury
-  implementation of the QUIC transport protocol and HTTP/3
-  <https://docs.quic.tech/quiche>
-- [google/quiche](https://github.com/google/quiche): QUICHE stands for QUIC,
-  Http, Etc. It is Google's production-ready implementation of QUIC, HTTP/2,
-  HTTP/3, and related protocols and tools. It powers Google's servers, Chromium,
-  Envoy, and other projects. It is actively developed and maintained.
-- 🌟 [quinn-rs/quinn](https://github.com/quinn-rs/quinn): Async-friendly QUIC
-  implementation in Rust
-- [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap): the
-  LIBpcap interface to various kernel packet capture mechanism
+- 🌟 [the-tcpdump-group/libpcap](https://github.com/the-tcpdump-group/libpcap):
+  the LIBpcap interface to various kernel packet capture mechanism
   <https://www.tcpdump.org>
 - [microsoft/snocat](https://github.com/microsoft/snocat): Streaming Network
   Overlay Connection Arbitration Tunnel
 
 ## Tools
 
-- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive
-  TLS-capable intercepting HTTP proxy for penetration testers and software
-  developers. <https://mitmproxy.org>
-- [ehids/ecapture](https://github.com/ehids/ecapture): capture SSL/TLS text
-  content without CA cert using eBPF. supports Linux x86_64/Aarch64,
-  Android(GKI) Aarch64.
+- 🌟 [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An
+  interactive TLS-capable intercepting HTTP proxy for penetration testers and
+  software developers. <https://mitmproxy.org>
+- 🌟 [gojue/ecapture](https://github.com/gojue/ecapture): capture SSL/TLS text
+  content without CA cert using eBPF. supports Linux/Android x86_64/Aarch64.
+  <https://ecapture.cc>
 - [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army
   knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks.
   <https://www.bettercap.org>
@@ -67,10 +58,11 @@
   mtr, a network diagnostic tool <http://www.bitwizard.nl/mtr>
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Cross-platform
   application to monitor your network traffic with ease
-- [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng): A Swiss
-  army knife for your daily Linux network plumbing. <http://netsniff-ng.org>
-- [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump): the
-  TCPdump network dissector <https://www.tcpdump.org>
+- 🌟 [netsniff-ng/netsniff-ng](https://github.com/netsniff-ng/netsniff-ng): A
+  Swiss army knife for your daily Linux network plumbing.
+  <http://netsniff-ng.org>
+- 🌟 [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump):
+  the TCPdump network dissector <https://www.tcpdump.org>
 - [droe/sslsplit](https://github.com/droe/sslsplit): Transparent SSL/TLS
   interception <https://www.roe.ch/SSLsplit>
 - [ktbyers/netmiko](https://github.com/ktbyers/netmiko): Multi-vendor library to

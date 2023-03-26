@@ -35,8 +35,8 @@
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade): A tool (and
   pre-commit hook) to automatically upgrade syntax for newer versions of the
   language.
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff): An extremely fast
-  Python linter, written in Rust.
+- 🌟 [charliermarsh/ruff](https://github.com/charliermarsh/ruff): An extremely
+  fast Python linter, written in Rust.
 - [fpgmaas/deptry](https://github.com/fpgmaas/deptry): A command line utility to
   check for obsolete, missing and transitive dependencies in a Python project.
 - [dosisod/refurb](https://github.com/dosisod/refurb): A tool for refurbishing
@@ -185,10 +185,11 @@
 
 ## FP in Python
 
-- [python/typing](https://github.com/python/typing): Python static typing home.
-  Hosts the documentation and a user help forum. <https://typing.readthedocs.io>
-- [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python
-  to fast C extensions <https://mypyc.readthedocs.io>
+- 🌟 [python/typing](https://github.com/python/typing): Python static typing
+  home. Hosts the documentation and a user help forum.
+  <https://typing.readthedocs.io>
+- 🌟 [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated
+  Python to fast C extensions <https://mypyc.readthedocs.io>
 - [cognitedata/Expression](https://github.com/cognitedata/Expression): Pragmatic
   functional programming for Python inspired by F#
 - [dbrattli/aioreactive](https://github.com/dbrattli/aioreactive): Async/await
@@ -403,7 +404,7 @@
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit): The modern,
   all-batteries-included GitHub SDK for Python, including rest api, graphql,
   webhooks, like octokit!
-- [guilatrova/gracy](https://github.com/guilatrova/gracy): Gracy helps you
+- 🌟 [guilatrova/gracy](https://github.com/guilatrova/gracy): Gracy helps you
   handle failures, logging, retries, throttling, and tracking for all your HTTP
   interactions.
 
@@ -487,7 +488,8 @@
   Bridge between Rust async futures and Python asyncio
 - [oremanj/greenback](https://github.com/oremanj/greenback): Reenter an asyncio
   or Trio event loop from synchronous code <https://greenback.readthedocs.io>
-- [maxfischer2781/asyncstdlib](https://github.com/maxfischer2781/asyncstdlib):
+- 🌟
+  [maxfischer2781/asyncstdlib](https://github.com/maxfischer2781/asyncstdlib):
   the missing toolbox for an async world
 - [vxgmichel/aiostream](https://github.com/vxgmichel/aiostream): Generator-based
   operators for asynchronous iteration <http://aiostream.readthedocs.io>
@@ -548,12 +550,12 @@
 
 ### Logging
 
+- 🌟 [hynek/structlog](https://github.com/hynek/structlog): Structured Logging
+  for Python <https://www.structlog.org>
 - 🌟 [microsoft/picologging](https://github.com/microsoft/picologging): An
   optimized logging library for Python
 - [Delgan/loguru](https://github.com/Delgan/loguru): Python logging made
   (stupidly) simple
-- 🌟 [hynek/structlog](https://github.com/hynek/structlog): Structured Logging
-  for Python <https://www.structlog.org>
 - [itamarst/eliot](https://github.com/itamarst/eliot): Eliot: the logging system
   that tells you _why_ it happened <https://eliot.readthedocs.io>
 
@@ -614,8 +616,6 @@
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress): A new
   kind of Progress Bar, with real-time throughput, ETA, and very cool
   animations!
-- [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX
-  math description from Python functions.
 - [jazzband/tablib](https://github.com/jazzband/tablib): Python Module for
   Tabular Datasets in XLS, CSV, JSON, YAML, &c. <https://tablib.readthedocs.io>
 - [jazzband/prettytable](https://github.com/jazzband/prettytable): Display

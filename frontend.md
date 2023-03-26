@@ -203,7 +203,7 @@
 
 - [nealmckee/penumbra](https://github.com/nealmckee/penumbra): Penumbra Color
   Theme
-- [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css):
+- 🌟 [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css):
   LaTeX.css is a CSS library that makes your website look like a LaTeX document
   <https://latex.now.sh>
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥 Make

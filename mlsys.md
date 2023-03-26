@@ -67,16 +67,8 @@
   construction. <https://facebookresearch.github.io/xformers>
 - [francois-rozet/zuko](https://github.com/francois-rozet/zuko): Normalizing
   flows in PyTorch <https://zuko.readthedocs.io>
-- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq): Repo
-  for external large-scale work
 - [deepmind/alphatensor](https://github.com/deepmind/alphatensor): Discovering
   faster matrix multiplication algorithms with reinforcement learning
-- [hwchase17/langchain](https://github.com/hwchase17/langchain): ⚡ Building
-  applications with LLMs through composability ⚡
-- [facebookresearch/llama](https://github.com/facebookresearch/llama): Inference
-  code for LLaMA models
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): Port of
-  Facebook's LLaMA model in C/C++
 
 ### Inference engine / large-scale deployment
 
@@ -300,23 +292,3 @@
 - [mohammadpz/pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward):
   Implementation of Hinton's forward-forward (FF) algorithm - an alternative to
   back-propagation
-
-## GPT
-
-- [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker):
-  Make bilingual epub books Using AI translate
-- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index): LlamaIndex (GPT
-  Index) is a project that provides a central interface to connect your LLM's
-  with external data. <https://gpt-index.readthedocs.io/en/latest/>
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples
-  and guides for using the OpenAI API
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide):
-  🐙 Guides, papers, lecture, and resources for prompt engineering
-  <https://www.promptingguide.ai>
-- [shibing624/text2vec](https://github.com/shibing624/text2vec): text2vec, text
-  to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了
-  Word2Vec、RankBM25、Sentence-BERT、CoSENT 等文本表征、文本相似度计算模型，开箱
-  即用。
-- [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): A cross-platform
-  desktop application for ChatGPT API (OpenAI API), also a prompt debugging and
-  management tool. <https://chatboxapp.xyz>

@@ -76,3 +76,7 @@
 - [citation-js/citation-js](https://github.com/citation-js/citation-js): Core
   functionality of Citation.js, as well as the original plugins (CSL, BibTeX,
   RIS, DOI, Wikidata, and BibJSON) <https://citation.js.org>
+- [typst/typst](https://github.com/typst/typst): A new markup-based typesetting
+  system that is powerful and easy to learn. <https://typst.app>
+- [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX
+  math description from Python functions.

@@ -112,9 +112,13 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii
   diagram scribbles into happy little SVG
   <http://ivanceras.github.io/svgbob-editor>
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): 🔮
-  Seamlessly visualize your JSON data instantly into graphs; paste, import or
-  fetch!
+- 🌟 [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com):
+  ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON
+  visualization solution. <https://jsoncrack.com>
+- [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web):
+  JSON Hero is an open-source, beautiful JSON explorer for the web that lets you
+  browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the
+  Trigger.dev team. <https://jsonhero.io/>
 - [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with
   Protocol Buffers. <https://buf.build>
 - [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally
@@ -136,6 +140,9 @@
   <https://metrics.lecoq.io>
 - [nedbat/watchgha](https://github.com/nedbat/watchgha): Live display of current
   GitHub action runs
+- 🌟
+  [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes):
+  A collection of useful .gitattributes templates
 
 ## HomeKit / IoT
 

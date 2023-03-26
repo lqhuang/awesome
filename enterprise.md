@@ -45,27 +45,34 @@
   access control policies for your application resources. <https://cerbos.dev>
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH):
   ContainerSSH: Launch containers on demand <https://containerssh.io>
-- [logto-io/logto](https://github.com/logto-io/logto): 🧑‍🚀 Logto helps you build
-  the sign-in, auth, and user identity within minutes. We provide an OIDC-based
-  identity service and the end-user experience with username, phone number,
-  email, and social sign-in, for web and native apps. <https://logto.io>
 - [Infisical/infisical](https://github.com/Infisical/infisical): ♾ Infisical is
   an open-source, end-to-end encrypted tool to sync environment variables across
   your team and infrastructure. <https://infisical.com>
-- [openfga/openfga](https://github.com/openfga/openfga): A high performance and
-  flexible authorization/permission engine built for developers and inspired by
-  Google Zanzibar <https://openfga.dev>
 - [kanidm/kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure
   and fast identity management platform
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer
   是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
   <http://www.jumpserver.org>
+
+### To User
+
+- [logto-io/logto](https://github.com/logto-io/logto): 🧑‍🚀 Logto helps you build
+  the sign-in, auth, and user identity within minutes. We provide an OIDC-based
+  identity service and the end-user experience with username, phone number,
+  email, and social sign-in, for web and native apps. <https://logto.io>
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security): 🔐
   Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy
   v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0
   (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App
   Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐
   <https://authp.github.io>
+- [Clerk](https://github.com/clerkinc): More than authentication - Complete user
+  management <https://clerk.dev/>
+- [Auth0](https://github.com/auth0): Next.js SDK for signing in with Auth0
+  <https://auth0.com>
+- [openfga/openfga](https://github.com/openfga/openfga): A high performance and
+  flexible authorization/permission engine built for developers and inspired by
+  Google Zanzibar <https://openfga.dev>
 - [ory/kratos](https://github.com/ory/kratos): Next-gen identity server (think
   Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP,
   WebAuthn, profile management, identity schemas, social sign in, registration,
@@ -96,9 +103,6 @@
   OpenAPI Generator allows generation of API client libraries (SDK generation),
   server stubs, documentation and configuration automatically given an OpenAPI
   Spec (v2, v3) <https://openapi-generator.tech>
-- [argilla-io/argilla](https://github.com/argilla-io/argilla): ✨ Open-source
-  tool for data-centric NLP. Argilla helps domain experts and data teams to
-  build better NLP datasets in less time. <https://docs.argilla.io>
 - [facebook/sapling](https://github.com/facebook/sapling): A Scalable,
   User-Friendly Source Control System.
 - [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible

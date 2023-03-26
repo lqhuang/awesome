@@ -46,6 +46,9 @@
   <https://dora-rs.github.io/dora>
 - [hydro-project/hydroflow](https://github.com/hydro-project/hydroflow): Hydro's
   low-level dataflow runtime <https://hydro-project.github.io/hydroflow>
+- [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus): YTsaurus is a
+  scalable and fault-tolerant open-source big data platform.
+  <https://ytsaurus.tech>
 
 ## Actor frameworks
 

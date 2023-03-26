@@ -53,6 +53,8 @@
 - [文科生也能懂的 Rust async 机制](https://blog.pan93.com/what-is-rust-async-cn/)
 - [ctjhoa/rust-learning](https://github.com/ctjhoa/rust-learning): A bunch of
   links to blog posts, articles, videos, etc for learning Rust
+- [tfpk/lifetimekata](https://github.com/tfpk/lifetimekata/): An exploration of
+  lifetimes in Rust. <https://tfpk.github.io/lifetimekata>
 
 ## Build
 
@@ -197,10 +199,10 @@
 
 ## Concurrency / Parallelelism
 
-- [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam): Tools for
-  concurrent programming in Rust
-- [rayon-rs/rayon](https://github.com/rayon-rs/rayon): Rayon: A data parallelism
-  library for Rust
+- 🌟 [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam): Tools
+  for concurrent programming in Rust
+- 🌟 [rayon-rs/rayon](https://github.com/rayon-rs/rayon): Rayon: A data
+  parallelism library for Rust
 - [jonhoo/left-right](https://github.com/jonhoo/left-right): A lock-free,
   read-optimized, concurrency primitive.
 - [jonhoo/bus](https://github.com/jonhoo/bus): Efficient, lock-free, bounded
@@ -224,13 +226,13 @@
   for safe and effortless global and thread-local state management.
 - [mvdnes/spin-rs](https://github.com/mvdnes/spin-rs): Spin-based
   synchronization primitives
-- [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot): Compact and
+- 🌟 [Amanieu/parking_lot](https://github.com/Amanieu/parking_lot): Compact and
   efficient synchronization primitives for Rust. Also provides an API for
   creating custom synchronization primitives.
 - [kprotty/usync](https://github.com/kprotty/usync): Small, fast,
   synchronization primitives
-- [m-ou-se/atomic-wait](https://github.com/m-ou-se/atomic-wait): Cross-platform
-  atomic wait and wake (aka futex) functionality for Rust.
+- 🌟 [m-ou-se/atomic-wait](https://github.com/m-ou-se/atomic-wait):
+  Cross-platform atomic wait and wake (aka futex) functionality for Rust.
 
 ### Async IO
 
@@ -351,7 +353,7 @@
 - [robclu/leapfrog](https://github.com/robclu/leapfrog): Lock-free concurrent
   and single-threaded hash map implementations using Leapfrog probing. Currently
   the highest performance concurrent HashMap in Rust for certain use cases.
-- [xacrimon/dashmap](https://github.com/xacrimon/dashmap): Blazing fast
+- 🌟 [xacrimon/dashmap](https://github.com/xacrimon/dashmap): Blazing fast
   concurrent HashMap for Rust.
 - 🌟 [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map):
   Lock-free linearizable map.
@@ -441,7 +443,7 @@
 
 ### Parser combinators
 
-- [pest-parser/pest](https://github.com/pest-parser/pest): The Elegant Parser
+- 🌟 [pest-parser/pest](https://github.com/pest-parser/pest): The Elegant Parser
   <https://pest.rs/>
 - [zesterer/chumsky](https://github.com/zesterer/chumsky): A parser library for
   humans with powerful error recovery.
@@ -452,7 +454,7 @@
   <https://tree-sitter.github.io>
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan): Rowan is a
   library for lossless syntax trees, inspired in part by Swift's libsyntax.
-- [egraphs-good/egg](https://github.com/egraphs-good/egg): egg is a flexible,
+- 🌟 [egraphs-good/egg](https://github.com/egraphs-good/egg): egg is a flexible,
   high-performance e-graph library <https://egraphs-good.github.io>
 - [hellux/jotdown](https://github.com/hellux/jotdown): A Djot parser library
 - [matklad/djot-rs](https://github.com/matklad/djot-rs): An experimental Rust
@@ -501,7 +503,7 @@
   a herd of CLI tests
 - [Keats/validator](https://github.com/Keats/validator): Simple validation for
   Rust structs
-- [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8):
+- 🌟 [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8):
   SIMD-accelerated UTF-8 validation for Rust.
 - 🌟 [smol-rs/fastrand](https://github.com/smol-rs/fastrand): A simple and fast
   random number generator

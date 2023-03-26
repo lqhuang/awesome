@@ -91,6 +91,8 @@
 - [Expensify/Bedrock](https://github.com/Expensify/Bedrock): Rock solid
   distributed database specializing in active/active automatic failover and WAN
   replication <https://bedrockdb.com>
+- [SQLite Cloud](https://sqlitecloud.io/): Cloud-share any SQLite database in no
+  time
 
 ### Timeseries & Graph
 
@@ -178,6 +180,8 @@
   providing an intuitive user experience to databases. <https://mathesar.org>
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres
   DB instance for your unit tests
+- [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema):
+  PostgreSQL extension providing JSON Schema validation
 
 ## In a SQL way
 

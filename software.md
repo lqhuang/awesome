@@ -16,8 +16,6 @@
   <https://handbrake.fr>
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut): The swiss army
   knife of lossless video/audio editing <https://mifi.no/losslesscut>
-- [Typst](https://typst.app/): Compose papers faster: Focus on your text and let
-  Typst take care of layout and formatting.
 - [Inkdrop](https://www.inkdrop.app/): Organizing your Markdown notes made
   simple.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed
@@ -91,8 +89,8 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted):
   A list of Free Software network services and web applications which can be
   hosted on your own servers
-- [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure
-  for absolutely everyone. <https://cal.com>
+- 🌟 [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling
+  infrastructure for absolutely everyone. <https://cal.com>
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted
   bookmark service
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get
@@ -119,6 +117,8 @@
   <https://omnivore.app>
 - [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown
   as mindmaps with Markmap.
+- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot): FauxPilot - an
+  open-source GitHub Copilot server
 
 ### Email
 
