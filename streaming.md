@@ -80,6 +80,9 @@ Streaming Systems
   Serverless, event streaming system with processing capabilities. It easily
   connects SaaS, Cloud Services, and Databases to help users build next-gen
   Event-driven Applications. <https://docs.vanus.ai/>
+- [apache/eventmesh](https://github.com/apache/eventmesh): EventMesh is a new
+  generation serverless event middleware for building distributed event-driven
+  applications. <https://eventmesh.apache.org>
 
 ### Kafka
 

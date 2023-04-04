@@ -164,6 +164,8 @@
   dynamically set your version from git
 - [wartremover/wartremover](https://github.com/wartremover/wartremover):
   Flexible Scala code linting tool <https://www.wartremover.org>
+- [makingthematrix/signals3](https://github.com/makingthematrix/signals3): A
+  lightweight event streaming library for Scala 3
 
 ## Stream / Effect systems / Experiments
 
@@ -231,6 +233,8 @@
   retrying actions that can fail. <https://cb372.github.io/cats-retry/>
 - [fd4s/fs2-kafka](https://github.com/fd4s/fs2-kafka): Functional Kafka Streams
   for Scala <https://fd4s.github.io/fs2-kafka>
+- [typelevel/scalacheck-effect](https://github.com/typelevel/scalacheck-effect):
+  Effectful property testing built on ScalaCheck
 
 ### ZIO
 

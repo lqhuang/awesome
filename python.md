@@ -168,6 +168,8 @@
   and visualize your python code execution.
 - 🌟 [bloomberg/memray](https://github.com/bloomberg/memray): Memray is a memory
   profiler for Python
+- [bloomberg/pystack](https://github.com/bloomberg/pystack): 🔍 🐍 Like pstack
+  but for Python! <https://bloomberg.github.io/pystack>
 - 🌟 [P403n1x87/austin](https://github.com/P403n1x87/austin): Python frame stack
   sampler for CPython
 - [pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler): A
@@ -331,8 +333,6 @@
 - [starlite-api/starlite](https://github.com/starlite-api/starlite): Light,
   Flexible and Extensible ASGI API framework
   <https://starlite-api.github.io/starlite>
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone): Web apps in
-  pure Python. <https://pynecone.io>
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep): Fast ASGI web
   framework for Python <https://www.neoteroi.dev/blacksheep>
 - [preludeorg/vertebrae](https://github.com/preludeorg/vertebrae): A
@@ -559,6 +559,14 @@
 - [itamarst/eliot](https://github.com/itamarst/eliot): Eliot: the logging system
   that tells you _why_ it happened <https://eliot.readthedocs.io>
 
+### Bindings
+
+- [wjakob/nanobind](https://github.com/wjakob/nanobind): nanobind: tiny and
+  efficient C++/Python bindings
+- pyo3: Rust bindings for Python
+- [pybind/pybind11](https://github.com/pybind/pybind11): Seamless operability
+  between C++11 and Python <https://pybind11.readthedocs.io>
+
 ## Compilers
 
 - [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka): Nuitka is a Python compiler
@@ -603,8 +611,6 @@
   reading and writing PDF, powered by qpdf
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py): Type-safe and
   powerful Python library to generate SVG files
-- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter):
-  A modern and customizable python UI-library based on Tkinter
 - [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic
   plugins for Python applications. Mirror of code maintained at opendev.org.
   <https://opendev.org/openstack/stevedore>
@@ -623,8 +629,12 @@
 - [wireservice/csvkit](https://github.com/wireservice/csvkit): A suite of
   utilities for converting to and working with CSV, the king of tabular file
   formats. <http://csvkit.rtfd.org>
+- 🌟 [fatiando/pooch](https://github.com/fatiando/pooch): A friend to fetch your
+  data files <https://www.fatiando.org/pooch>
 
 ### Visualization
+
+#### Graph
 
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
   dashboarding solution for Python
@@ -656,3 +666,19 @@
 - [ponnhide/pyCircos](https://github.com/ponnhide/pyCircos): python Circos
 - [lgienapp/aquarel](https://github.com/lgienapp/aquarel): Styling matplotlib
   made easy
+
+#### GUI
+
+- [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter):
+  A modern and customizable python UI-library based on Tkinter
+- [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets):
+  A fluent design widgets library based on PyQt5
+
+#### HTML
+
+- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone): Web apps in
+  pure Python. <https://pynecone.io>
+- [pycob/pyvibe](https://github.com/pycob/pyvibe): Generate styled HTML pages
+  from Python <https://www.pyvibe.com>
+- [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui): Create web-based
+  interfaces with Python. The nice way. <https://nicegui.io>

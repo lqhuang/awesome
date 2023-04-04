@@ -6,9 +6,18 @@
   [WojciechMula/pyahocorasick](https://github.com/WojciechMula/pyahocorasick):
   Python module (C extension and plain python) implementing Aho-Corasick
   algorithm
+- 🌟 [BurntSushi/aho-corasick](https://github.com/BurntSushi/aho-corasick): A
+  fast implementation of Aho-Corasick in Rust.
 - [argilla-io/argilla](https://github.com/argilla-io/argilla): ✨ Open-source
   tool for data-centric NLP. Argilla helps domain experts and data teams to
   build better NLP datasets in less time. <https://docs.argilla.io>
+- [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library
+  for efficient similarity search and clustering of dense vectors.
+  <https://faiss.ai>
+- [nomic-ai/nomic](https://github.com/nomic-ai/nomic): Interact with Massive
+  Embedding and Text Datasets in Your Web Browser <https://atlas.nomic.ai>
+- [chroma-core/chroma](https://github.com/chroma-core/chroma): the open source
+  embedding database <https://www.trychroma.com>
 
 ## Network Implementations
 
@@ -36,6 +45,8 @@
   fine-tunes the GPT-J 6B model on the Alpaca dataset using a Databricks
   notebook.
   <https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html>
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to
+  connect LLMs with ML community
 
 ## ChatGPT
 
@@ -76,12 +87,14 @@
 - [promptslab/Promptify](https://github.com/promptslab/Promptify): Prompt
   Engineering | Use GPT or other prompt based models to get structured output.
   Join our discord for Prompt-Engineering, LLMs and other latest research
-- [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts): This
-  repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts):
+  This repo includes ChatGPT prompt curation to use ChatGPT better.
   <https://prompts.chat/>
-- [awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh):
+- [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh):
   ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
   <https://chatguide.plexpt.com/>
+- [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt):
+  免费 Prompt Engineering 教程 <https://learningprompt.wiki>
 
 ### ChatGPT Web UI
 
@@ -101,3 +114,6 @@
   deployment scripts.
 - [Leizhenpeng/ChatGPT-PerfectUI](https://github.com/Leizhenpeng/ChatGPT-PerfectUI):
   ✨ 用 Vue3 + Vite + Tailwindcss 复刻 ChatGPT！体验一模一样的 web-app！✨
+- [ljsabc/Fujisaki](https://github.com/ljsabc/Fujisaki): An ongoing (fast
+  prototyping) project to create your own doppelgänger based on your Twitter
+  archive and LoRA+Alpaca

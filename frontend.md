@@ -6,7 +6,7 @@
   framework. <https://fresh.deno.dev>
 - [honojs/hono](https://github.com/honojs/hono): Ultrafast web framework for
   Cloudflare Workers and Deno. Fast, but not only fast.
-- [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript
+- 🌟 [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript
   runtime, bundler, transpiler and package manager – all in one.
   <https://bun.sh>
 - [alpinejs/alpine](https://github.com/alpinejs/alpine): A rugged, minimal
@@ -68,6 +68,9 @@
   system for modern web experiences. <https://www.fast.design>
 - [refinedev/refine](https://github.com/refinedev/refine): Build your
   React-based CRUD applications, without constraints. <https://refine.dev/>
+- [themesberg/flowbite](https://github.com/themesberg/flowbite): The most
+  popular and open-source library of Tailwind CSS components
+  <https://flowbite.com>
 
 ### CSS Style
 
@@ -101,7 +104,7 @@
 - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template):
   Simple Light is a free landing page template built on top of TailwindCSS and
   fully coded in React. <https://simple.cruip.com>
-- [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for
+- 🌟 [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for
   building powerful tables & datagrids for TS/JS - React-Table, Vue-Table,
   Solid-Table, Svelte-Table <https://tanstack.com/table>
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated
@@ -116,6 +119,10 @@
   Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
 - [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun
   JavaScript file upload library <https://pqina.nl/filepond>
+- 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown):
+  Markdown component for React <https://remarkjs.github.io/react-markdown>
+- [Himself65/rich-data](https://github.com/Himself65/rich-data): Data Viewer
+  <https://rich-data.dev>
 
 ## Channel
 
@@ -160,6 +167,8 @@
   helps you debug components.
 - [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your
   i18n localization with AI
+- [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run
+  Python code in your React apps. <https://elilambnz.github.io/react-py>
 
 ## Visualization
 

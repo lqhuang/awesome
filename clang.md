@@ -146,7 +146,9 @@
   containers. <https://greg7mdp.github.io/parallel-hashmap>
 - [Amanieu/asyncplusplus](https://github.com/Amanieu/asyncplusplus): Async++
   concurrency framework for C++11
-- [mitchellh/libxev](https://github.com/mitchellh/libxev): libxev is a
+- [netcan/asyncio](https://github.com/netcan/asyncio): asyncio is a c++20
+  library to write concurrent code using the async/await syntax.
+- 🌟 [mitchellh/libxev](https://github.com/mitchellh/libxev): libxev is a
   cross-platform, high-performance event loop that provides abstractions for
   non-blocking IO, timers, events, and more and works on Linux (io_uring or
   epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.

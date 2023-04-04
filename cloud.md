@@ -43,6 +43,8 @@
   Containers <https://gvisor.dev>
 - [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage
   and performance characteristics of running containers.
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless):
+  🥑 Language focused docker images, minus the operating system.
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs): Automatically
   set GOMAXPROCS to match Linux container CPU quota.
   <https://godoc.org/go.uber.org/automaxprocs>
@@ -52,6 +54,13 @@
   Hashistack-IN-Docker (single container with nomad + consul + caddy)
 - [containers/conmon](https://github.com/containers/conmon): An OCI container
   runtime monitor.
+- [rancher/rancher](https://github.com/rancher/rancher): Complete container
+  management platform <http://rancher.com>
+- [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
+  <https://k3s.io>
+- [orsinium-labs/docked](https://github.com/orsinium-labs/docked): A friendly
+  and safe alternative to Dockefile. Write Docker images using the full power of
+  Python. <https://docked.orsinium.dev>
 
 ## Routing
 

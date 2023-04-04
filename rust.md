@@ -282,6 +282,8 @@
   Rust
 - [ZettaScaleLabs/stabby](https://github.com/ZettaScaleLabs/stabby): A Stable
   ABI for Rust with compact sum-types
+- [rosefromthedead/effing-mad](https://github.com/rosefromthedead/effing-mad):
+  Algebraic effects for Rust
 
 ## HPC / SIMD / Vectorization
 
@@ -503,6 +505,7 @@
   a herd of CLI tests
 - [Keats/validator](https://github.com/Keats/validator): Simple validation for
   Rust structs
+- [jprochazk/garde](https://github.com/jprochazk/garde): Validation library
 - 🌟 [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8):
   SIMD-accelerated UTF-8 validation for Rust.
 - 🌟 [smol-rs/fastrand](https://github.com/smol-rs/fastrand): A simple and fast
@@ -515,6 +518,7 @@
   auto-memoizing Rust functions.
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon): A static, type
   inferred and embeddable language written in Rust. <https://gluon-lang.org>
+- [xfbs/imstr](https://github.com/xfbs/imstr): Immutable strings, in Rust.
 
 ## Domain related
 

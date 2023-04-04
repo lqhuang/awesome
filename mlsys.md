@@ -99,6 +99,8 @@
 - 🌟 [pytorch/TensorRT](https://github.com/pytorch/TensorRT):
   PyTorch/TorchScript/FX compiler for NVIDIA GPUs using TensorRT
   <https://pytorch.org/TensorRT>
+- 🌟 [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion):
+  Stable Diffusion with Core ML on Apple Silicon
 
 ### Libraries
 
@@ -262,6 +264,8 @@
   AWS Deep Learning Containers (DLCs) are a set of Docker images for training
   and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
   <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>
+- [replicate/cog](https://github.com/replicate/cog): Containers for machine
+  learning
 - [openai/tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast BPE
   tokeniser for use with OpenAI's models.
 - [alteryx/featuretools](https://github.com/alteryx/featuretools): An open

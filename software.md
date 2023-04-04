@@ -36,6 +36,8 @@
 
 ### macOS / iPadOS
 
+- [orbstack/orbstack](https://github.com/orbstack/orbstack): Fast, light, simple
+  Docker containers & Linux machines for macOS <https://orbstack.dev>
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows
   alt-tab on macOS <https://alt-tab-macos.netlify.app>
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp):
@@ -76,6 +78,11 @@
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz): Buzz transcribes
   and translates audio offline on your personal computer. Powered by OpenAI's
   Whisper.
+- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle): Move and resize
+  windows on macOS with keyboard shortcuts and snap areas
+  <https://rectangleapp.com>
+- [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion):
+  Run Stable Diffusion on Mac natively
 
 ## Services
 

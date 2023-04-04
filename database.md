@@ -53,8 +53,10 @@
   Arrow Ballista Distributed Query Engine <https://arrow.apache.org/ballista>
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka): Open source
   SQL engine in Python <https://marsupialtail.github.io/quokka>
-- [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source vector
-  similarity search for Postgres
+- 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source
+  vector similarity search for Postgres
+- 🌟 [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python):
+  pgvector support for Python
 
 ## New databases
 
@@ -182,6 +184,10 @@
   DB instance for your unit tests
 - [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema):
   PostgreSQL extension providing JSON Schema validation
+- [supabase/postgres](https://github.com/supabase/postgres): Unmodified Postgres
+  with some useful plugins
+- [Vonng/pigsty](https://github.com/Vonng/pigsty): PostgreSQL in Great STYle,
+  Battery-Included Free RDS Alternative! <https://pigsty.cc>
 
 ## In a SQL way
 

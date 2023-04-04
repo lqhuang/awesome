@@ -13,8 +13,6 @@
   <https://illustrated-machine-learning.github.io>
 - [soulmachine/machine-learning-cheat-sheet](https://github.com/soulmachine/machine-learning-cheat-sheet):
   Classical equations and diagrams in machine learning <http://soulmachine.me>
-- [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows):
-  Awesome resources on normalizing flows.
 - [harvardnlp/annotated-transformer](https://github.com/harvardnlp/annotated-transformer):
   An annotated implementation of the Transformer paper.
   <http://nlp.seas.harvard.edu/annotated-transformer>
@@ -35,6 +33,13 @@
   learning courses <http://www.dataflowr.com/>
 - [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning):
   List of papers studying machine learning through the lens of category theory
+
+## Approaches
+
+- [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows):
+  Awesome resources on normalizing flows.
+- [lmcinnes/umap](https://github.com/lmcinnes/umap): Uniform Manifold
+  Approximation and Projection
 
 ## Graph
 

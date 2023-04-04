@@ -14,7 +14,7 @@
 - [Keyfactor](https://www.keyfactor.com/): Find, control, and automate every
   machine identity with Keyfactor, the leader in crypto-agility and PKI
   as-a-Service.
-- [hyperledger/fabric-ca](https://github.com/hyperledger/fabric-ca): a
+- [hyperledger/fabric-ca](https://github.com/hyperledger/fabric-ca): a`
   Certificate Authority for Hyperledger Fabric. zh-cn:
   <https://hyperledgercn.github.io/hyperledgerDocs/ca-setup_zh>
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert): A simple
@@ -133,6 +133,9 @@
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack): A
   platform to create documentation/wiki content built with PHP & Laravel
   <https://www.bookstackapp.com>
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs):
+  A modern, high customizable, responsive Jekyll theme for documentation with
+  built-in search. <https://just-the-docs.github.io/just-the-docs>
 
 ## DevOps
 
@@ -205,6 +208,8 @@
   website
 - [TwiN/gatus](https://github.com/TwiN/gatus): ⛑ Automated developer-oriented
   status page <https://gatus.io>
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks): A
+  cron monitoring tool written in Python & Django <https://healthchecks.io>
 
 ### Logging / Metrics / APM
 
@@ -266,6 +271,12 @@
 - [docker/metadata-action](https://github.com/docker/metadata-action): GitHub
   Action to extract metadata (tags, labels) from Git reference and GitHub events
   for Docker
+- [rhysd/actionlint](https://github.com/rhysd/actionlint): :octocat: Static
+  checker for GitHub Actions workflow files <https://rhysd.github.io/actionlint>
+- [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally
+  🚀
+- [nedbat/watchgha](https://github.com/nedbat/watchgha): Live display of current
+  GitHub action runs
 
 ## Security
 
@@ -283,10 +294,14 @@
 - [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass): Check
   your WAF before an attacker does this one <https://nemesida-waf.com/>
 
-## How te a leader
+## How te a leader / Career
 
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders): A
   framework for Engineering Managers
+- [lazyparser/minimalist-team-leader](https://github.com/lazyparser/minimalist-team-leader):
+  极简主义团队管理操作手册
+- [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook):
+  🏂🏻 程序员海外工作/英文面试手册
 
 ## Modern Data Stack
 

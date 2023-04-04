@@ -83,6 +83,8 @@
 - [johnkerl/miller](https://github.com/johnkerl/miller): Miller is like awk,
   sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular
   JSON <https://miller.readthedocs.io/>
+- [zwpaper/dilu](https://github.com/zwpaper/dilu): A colorful CLI client with
+  icons for accessing data via OpenDAL
 
 ### Monitor
 
@@ -121,8 +123,6 @@
   Trigger.dev team. <https://jsonhero.io/>
 - [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with
   Protocol Buffers. <https://buf.build>
-- [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally
-  🚀
 - [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest
   tool
 - [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative,
@@ -138,11 +138,11 @@
   infographics generator with 30+ plugins and 300+ options to display stats
   about your GitHub account and render them as SVG, Markdown, PDF or JSON!
   <https://metrics.lecoq.io>
-- [nedbat/watchgha](https://github.com/nedbat/watchgha): Live display of current
-  GitHub action runs
 - 🌟
   [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes):
   A collection of useful .gitattributes templates
+- 🌟 [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your
+  project. 🌐 Share with the world! <http://socialify.git.ci>
 
 ## HomeKit / IoT
 

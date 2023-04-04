@@ -77,6 +77,8 @@
 - [cuemacro/finmarketpy](https://github.com/cuemacro/finmarketpy): Python
   library for backtesting trading strategies & analyzing financial markets
   (formerly pythalesians) <http://www.cuemacro.com>
+- [refraction-ray/xalpha](https://github.com/refraction-ray/xalpha): 基金投资管
+  理回测引擎
 
 ## Portfolio
 
