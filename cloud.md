@@ -154,6 +154,10 @@
   <https://www.pulumi.com>
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho): Klotho - a
   CLI tool that transforms plain code into cloud native code <https://klo.dev>
+- [finos/compliant-financial-infrastructure](https://github.com/finos/compliant-financial-infrastructure):
+  Compliant Financial Infrastructure accelerates the development, deployment and
+  adoption of services provided for AWS, Azure and Google in a way that meets
+  existing regulatory and internal security controls.
 
 ## Pricing
 

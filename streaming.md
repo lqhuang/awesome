@@ -66,6 +66,8 @@ Streaming Systems
   Tremor is an event- or stream-processing system. It is designed to perform
   well for high-volumetric data both in terms of consumption of memory and CPU
   resources and in terms of latency. <https://www.tremor.rs/>
+- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo): Arroyo is a
+  distributed stream processing engine written in Rust <https://arroyo.dev/>
 
 ## Message Queue
 

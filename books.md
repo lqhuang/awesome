@@ -36,10 +36,6 @@
   Website that provides concise answers to common questions about floating-point
   numbers. <http://floating-point-gui.de>
   [Chinese Trsanlation: 《关于浮点运算：作为程序员都应该了解什么？》](https://github.com/cnrv/floating-point-guide)
-- [graph-neural-networks/graph-neural-networks](https://github.com/graph-neural-networks/graph-neural-networks.github.io):
-  This repo is for hosting our GNN book titled "Graph Neural Networks:
-  Foundations, Frontiers, and Applications".
-  <https://graph-neural-networks.github.io/index.html>
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/): A MOOC on
   convex optimization, CVX101. If you register for it, you can access all the
   course materials. More material can be found at the web sites for EE364A

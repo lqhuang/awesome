@@ -248,6 +248,9 @@
 
 - [yunabe/tslab](https://github.com/yunabe/tslab): Interactive JavaScript and
   TypeScript programming with Jupyter
+- [instantpage/instant.page](https://github.com/instantpage/instant.page): Make
+  your site’s pages instant in 1 minute and improve your conversion rate by 1%
+  <https://instant.page>
 
 ## SSG
 

@@ -69,6 +69,10 @@
   flows in PyTorch <https://zuko.readthedocs.io>
 - [deepmind/alphatensor](https://github.com/deepmind/alphatensor): Discovering
   faster matrix multiplication algorithms with reinforcement learning
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything):
+  The repository provides code for running inference with the SegmentAnything
+  Model (SAM), links for downloading the trained model checkpoints, and example
+  notebooks that show how to use the model.
 
 ### Inference engine / large-scale deployment
 
@@ -144,6 +148,8 @@
 - [tensor-compiler/taco](https://github.com/tensor-compiler/taco): The Tensor
   Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs
   <http://tensor-compiler.org>
+- [google/XNNPACK](https://github.com/google/XNNPACK): High-efficiency
+  floating-point neural network inference operators for mobile, server, and Web
 
 ## Autodiff
 

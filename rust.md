@@ -264,7 +264,8 @@
 - [microsoft/stackfuture](https://github.com/microsoft/stackfuture): A wrapper
   around Rust futures that stores the future in space provided by the caller.
 - [mkawalec/deluge](https://github.com/mkawalec/deluge): Deluge, not a stream
-- [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency):
+- 🌟
+  [yoshuawuyts/futures-concurrency](https://github.com/yoshuawuyts/futures-concurrency):
   Concurrency extensions for Future
 
 ## FP in Rust
@@ -329,6 +330,8 @@
   concurrent slab (experimental)
 - [Amanieu/intrusive-rs](https://github.com/Amanieu/intrusive-rs): Intrusive
   collections for Rust
+- [petgraph/petgraph](https://github.com/petgraph/petgraph): Graph data
+  structure library for Rust.
 
 ### CRDT
 
@@ -371,13 +374,6 @@
 - [prataprc/ppom](https://github.com/prataprc/ppom): Persisted Ordered Map in
   Rust-lang
 - [orium/rpds](https://github.com/orium/rpds): Rust Persistent Data Structures
-
-### Graph
-
-- [petgraph/petgraph](https://github.com/petgraph/petgraph): Graph data
-  structure library for Rust.
-- [s1ck/graph](https://github.com/s1ck/graph): A library for high-performant
-  graph algorithms.
 
 ## Featured libraries
 

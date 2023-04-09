@@ -203,6 +203,8 @@
 
 - [beartype/beartype](https://github.com/beartype/beartype): Unbearably fast
   O(1) runtime type-checking in pure Python.
+- [agronholm/typeguard](https://github.com/agronholm/typeguard): Run-time type
+  checker for Python
 - [nipunn1313/mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf): open
   source tools to generate mypy stubs from protobufs
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType): A Python
@@ -228,8 +230,6 @@
   Result types in Python
 - [alice-biometrics/meiga](https://github.com/alice-biometrics/meiga): 🧙 A
   simple, typed and monad-based Result type for Python.
-- [agronholm/typeguard](https://github.com/agronholm/typeguard): Run-time type
-  checker for Python
 - [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict): Provides
   runtime validation of attributes specified in Python 'attr'-based data
   classes.
@@ -259,8 +259,6 @@
   high-performance implementation of Wilkinson formulas for Python.
 - [sepandhaghighi/pycm](https://github.com/sepandhaghighi/pycm): Multi-class
   confusion matrix library in Python <http://pycm.io>
-- [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx): A high performance
-  Python graph library implemented in Rust.
 - [nteract/papermill](https://github.com/nteract/papermill): 📚 Parameterize,
   execute, and analyze notebooks <http://papermill.readthedocs.io/en/latest>
 - [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python):
@@ -469,6 +467,8 @@
 - [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data
   operator (and CLI), for all your declarative restructuring needs. Got data?
   Glom it! ☄️ <https://glom.readthedocs.io>
+- [kiorky/croniter](https://github.com/kiorky/croniter): croniter provides
+  iteration for the datetime object with a cron like format.
 
 ### Configuration
 
@@ -634,7 +634,7 @@
 
 ### Visualization
 
-#### Graph
+#### Chart
 
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
   dashboarding solution for Python
@@ -645,17 +645,10 @@
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz): Automatically
   Visualize any dataset, any size with a single line of code. Created by Ram
   Seshadri. Collaborators Welcome. Permission Granted upon Request.
-- [datoviz/datoviz](https://github.com/datoviz/datoviz/): ⚡ High-performance
-  GPU interactive scientific data visualization with Vulkan
-  <https://datoviz.org>
 - [pygfx/pygfx](https://github.com/pygfx/pygfx): Like ThreeJS but for Python and
   based on wgpu <https://pygfx.readthedocs.io>
 - [vispy/GSP](https://github.com/vispy/GSP): Graphic Server Protocol
   <https://vispy.github.io/GSP>
-- [simonw/datasette](https://github.com/simonw/datasette): An open source
-  multi-tool for exploring and publishing data <https://datasette.io>
-- [datapane/datapane](https://github.com/datapane/datapane): Datapane is the
-  easiest way to create data science reports from Python. <https://datapane.com>
 - [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila): Generative
   Art Generator <https://www.samila.site>
 - [lux-org/lux](https://github.com/lux-org/lux): Automatically visualize your

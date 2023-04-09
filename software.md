@@ -83,6 +83,8 @@
   <https://rectangleapp.com>
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion):
   Run Stable Diffusion on Mac natively
+- [objective-see/LuLu](https://github.com/objective-see/LuLu): LuLu is the free
+  macOS firewall
 
 ## Services
 
