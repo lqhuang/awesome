@@ -18,6 +18,10 @@
   Embedding and Text Datasets in Your Web Browser <https://atlas.nomic.ai>
 - [chroma-core/chroma](https://github.com/chroma-core/chroma): the open source
   embedding database <https://www.trychroma.com>
+- 🌟 [openai/tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast
+  BPE tokeniser for use with OpenAI's models.
+- [bytedance/lightseq](https://github.com/bytedance/lightseq): LightSeq: A High
+  Performance Library for Sequence Processing and Generation
 
 ## Network Implementations
 
@@ -41,9 +45,9 @@
   to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了
   Word2Vec、RankBM25、Sentence-BERT、CoSENT 等文本表征、文本相似度计算模型，开箱
   即用。
-- [databrickslabs/dolly](https://github.com/databrickslabs/dolly): Dolly
-  fine-tunes the GPT-J 6B model on the Alpaca dataset using a Databricks
-  notebook.
+- [databrickslabs/dolly](https://github.com/databrickslabs/dolly): Databricks’
+  Dolly, a large language model trained on the Databricks Machine Learning
+  Platform
   <https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html>
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to
   connect LLMs with ML community
@@ -78,6 +82,14 @@
   ChatGPT App in seconds. <https://open-gpt.app>
 - [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy):
   A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
+- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache): GPTCache is a
+  library for creating semantic cache to store responses from LLM queries.
+  <https://gptcache.readthedocs.io>
+- [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit):
+  OpenChatKit provides a powerful, open-source base to create both specialized
+  and general purpose chatbots for various applications. The kit includes an
+  instruction-tuned language models, a moderation model, and an extensible
+  retrieval system for including up-to-date responses from custom repositories.
 
 ### ChatGPT Prompts
 

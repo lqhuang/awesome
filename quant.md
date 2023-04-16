@@ -61,6 +61,8 @@
 - [bmpi-dev/invest-alchemy](https://github.com/bmpi-dev/invest-alchemy): Invest
   Alchemy is a trading assistant focused on ETF portfolios.
   <https://money.bmpi.dev/>
+- [dcaoyuan/aiotrade](https://github.com/dcaoyuan/aiotrade): An All in One Trade
+  Platform
 
 ## Backtesting
 

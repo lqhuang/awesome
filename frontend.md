@@ -1,5 +1,7 @@
 # Frontend / UI
 
+Major in React ecosystem, but also include other frameworks and libraries.
+
 ## Framework
 
 - [denoland/fresh](https://github.com/denoland/fresh): The next-gen web
@@ -123,6 +125,10 @@
   Markdown component for React <https://remarkjs.github.io/react-markdown>
 - [Himself65/rich-data](https://github.com/Himself65/rich-data): Data Viewer
   <https://rich-data.dev>
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono): 🕑
+  Modern Timeline Component for React <https://react-chrono.prabhumurthy.com/>
+- [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso): The most
+  powerful virtual list component for React <https://virtuoso.dev/>
 
 ## Channel
 

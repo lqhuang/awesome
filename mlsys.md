@@ -23,17 +23,14 @@
   framework for scaling AI and Python applications. Ray consists of a core
   distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML
   workloads. <https://ray.io>
-- [dmlc/dlpack](https://github.com/dmlc/dlpack): common in-memory tensor
-  structure <https://dmlc.github.io/dlpack/latest>
-- [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor): C++ tensors
-  with broadcasting and lazy computing
-- [rapidsai/cuml](https://github.com/rapidsai/cuml): cuML - RAPIDS Machine
-  Learning Library
 - [google-research/torchsde](https://github.com/google-research/torchsde):
   Differentiable SDE solvers with GPU support and efficient sensitivity
   analysis.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): In-Database Machine
   Learning <http://mindsdb.com>
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed is a
+  deep learning optimization library that makes distributed training and
+  inference easy, efficient, and effective. <https://www.deepspeed.ai/>
 
 ### Optimization
 
@@ -80,8 +77,6 @@
   standalone library for machine learning <https://fl.readthedocs.io/en/latest>
 - [microsoft/torchscale](https://github.com/microsoft/torchscale): Transformers
   at any scale <https://aka.ms/nlpagi>
-- [webonnx/wonnx](https://github.com/webonnx/wonnx): A GPU-accelerated ONNX
-  inference run-time written 100% in Rust, ready for the web
 - [microsoft/DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII): MII
   makes low-latency and high-throughput inference possible, powered by
   DeepSpeed.
@@ -105,31 +100,12 @@
   <https://pytorch.org/TensorRT>
 - 🌟 [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion):
   Stable Diffusion with Core ML on Apple Silicon
+- [webonnx/wonnx](https://github.com/webonnx/wonnx): A GPU-accelerated ONNX
+  inference run-time written 100% in Rust, ready for the web
+- 🌟 [ggerganov/ggml](https://github.com/ggerganov/ggml): Tensor library for
+  machine learning
 
-### Libraries
-
-- [pytorch/functorch](https://github.com/pytorch/functorch): functorch is
-  JAX-like composable function transforms for PyTorch.
-  <https://pytorch.org/functorch>
-- [pytorch/torcharrow](https://github.com/pytorch/torcharrow): A Pandas-inspired
-  DataFrame library for SQL-like transformation with Pythonic and
-  imperative-style API. Typical use case includes data preprocessing in ML
-  models.
-- [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning
-  operations reinvented (for pytorch, tensorflow, jax and others)
-  <https://einops.rocks>
-- [dmlc/dlpack](https://github.com/dmlc/dlpack): common in-memory tensor
-  structure <https://dmlc.github.io/dlpack/latest>
-- [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple,
-  safe way to store and distribute tensors
-- [google/pyglove](https://github.com/google/pyglove): Manipulating Python
-  Programs
-- [deepmind/tree](https://github.com/deepmind/tree): tree is a library for
-  working with nested data structures <https://tree.readthedocs.io>
-- [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses):
-  Pytrees + dataclasses ❤️
-
-## Compiler / Low level
+## Tensor inference / Compiler / Low level
 
 - [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler stack
   for cpu, gpu and specialized accelerators <https://tvm.apache.org>
@@ -162,6 +138,8 @@
   Python library for defining, optimizing, and efficiently evaluating
   mathematical expressions involving multi-dimensional arrays.
   <https://aesara.readthedocs.io>
+- [google/autobound](https://github.com/google/autobound): AutoBound
+  automatically computes upper and lower bounds on functions.
 
 ## Jax ecology
 
@@ -256,12 +234,39 @@
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain): Your open-source
   ML monitoring and refinement toolkit. <https://uptrain.ai/>
 
-## Utils
+## Libraries
 
+- [dmlc/dlpack](https://github.com/dmlc/dlpack): common in-memory tensor
+  structure <https://dmlc.github.io/dlpack/latest>
+- [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor): C++ tensors
+  with broadcasting and lazy computing
+- [rapidsai/cuml](https://github.com/rapidsai/cuml): cuML - RAPIDS Machine
+  Learning Library
+- [pytorch/functorch](https://github.com/pytorch/functorch): functorch is
+  JAX-like composable function transforms for PyTorch.
+  <https://pytorch.org/functorch>
+- [pytorch/torcharrow](https://github.com/pytorch/torcharrow): A Pandas-inspired
+  DataFrame library for SQL-like transformation with Pythonic and
+  imperative-style API. Typical use case includes data preprocessing in ML
+  models.
+- [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple,
+  safe way to store and distribute tensors
+- [google/pyglove](https://github.com/google/pyglove): Manipulating Python
+  Programs
+- [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning
+  operations reinvented (for pytorch, tensorflow, jax and others)
+  <https://einops.rocks>
+- [deepmind/tree](https://github.com/deepmind/tree): tree is a library for
+  working with nested data structures <https://tree.readthedocs.io>
+- [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses):
+  Pytrees + dataclasses ❤️
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping):
   Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and
   runtime checking for shape and dtype of JAX arrays, and PyTrees.
+
+## Utils
+
 - [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Development
   environment for machine learning
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run
@@ -272,8 +277,6 @@
   <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>
 - [replicate/cog](https://github.com/replicate/cog): Containers for machine
   learning
-- [openai/tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast BPE
-  tokeniser for use with OpenAI's models.
 - [alteryx/featuretools](https://github.com/alteryx/featuretools): An open
   source python library for automated feature engineering
   <https://www.featuretools.com>

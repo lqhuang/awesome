@@ -48,6 +48,10 @@
   options for the enlightened
 - [ghik/zerowaste](https://github.com/ghik/zerowaste): Scala compiler plugin to
   detect unused expressions
+- [sbt/sbt-dynver](https://github.com/sbt/sbt-dynver): An sbt plugin to
+  dynamically set your version from git
+- [sbt/sbt-license-report](https://github.com/sbt/sbt-license-report): Report on
+  licenses used in an sbt project.
 
 ### Testing
 
@@ -160,12 +164,12 @@
   Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
 - [lampepfl/dotty-macro-examples](https://github.com/lampepfl/dotty-macro-examples):
   Various tasks solved via metaprogramming in Dotty
-- [sbt/sbt-dynver](https://github.com/sbt/sbt-dynver): An sbt plugin to
-  dynamically set your version from git
 - [wartremover/wartremover](https://github.com/wartremover/wartremover):
   Flexible Scala code linting tool <https://www.wartremover.org>
 - [makingthematrix/signals3](https://github.com/makingthematrix/signals3): A
   lightweight event streaming library for Scala 3
+- [oyvindberg/tui-scala](https://github.com/oyvindberg/tui-scala): Beautiful
+  Text-based User Interfaces for Scala
 
 ## Stream / Effect systems / Experiments
 
@@ -235,6 +239,8 @@
   for Scala <https://fd4s.github.io/fs2-kafka>
 - [typelevel/scalacheck-effect](https://github.com/typelevel/scalacheck-effect):
   Effectful property testing built on ScalaCheck
+- [armanbilge/calico](https://github.com/armanbilge/calico): Pure, reactive UI
+  library for Scala.js <https://armanbilge.github.io/calico>
 
 ### ZIO
 

@@ -34,18 +34,27 @@
 - [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning):
   List of papers studying machine learning through the lens of category theory
 
-## Approaches
+## Novel approaches
 
 - [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows):
   Awesome resources on normalizing flows.
 - [lmcinnes/umap](https://github.com/lmcinnes/umap): Uniform Manifold
   Approximation and Projection
 
-## PDE / ODE
+### Workshop
+
+- [Differentiable Almost Everything: Differentiable Relaxations, Algorithms, Operators, and Simulators](https://differentiable.xyz)
+- [Structured Probabilistic Inference and Generative Modeling](https://icml.cc/virtual/2023/workshop/21469)
+
+### PDE / ODE
 
 - [microsoft/pdearena](https://github.com/microsoft/pdearena): A modern,
   scalable, and easy to use PDE Surrogate Benchmarking Framework.
   <https://microsoft.github.io/pdearena>
+- 🌟
+  [Zymrael/awesome-neural-ode](https://github.com/Zymrael/awesome-neural-ode): A
+  collection of resources regarding the interplay between differential
+  equations, deep learning, dynamical systems, control and numerical methods.
 
 ## Misc
 

@@ -19,6 +19,10 @@ Streaming Systems
 - [boyney123/eventcatalog](https://github.com/boyney123/eventcatalog): Discover,
   Explore and Document your Event Driven Architectures powered by Markdown.
   <https://eventcatalog.dev>
+- [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb): The open-source
+  database for the realtime web. <https://rethinkdb.com/>
+- [pubkey/rxdb](https://github.com/pubkey/rxdb): A fast, offline-first, reactive
+  database for JavaScript Applications <https://rxdb.info>
 
 ## Messaging libraries
 
@@ -122,6 +126,9 @@ Streaming Systems
   engine modeled after Yahoo! Pipes
 - [Lightflus/lightflus](https://github.com/Lightflus/lightflus): A Lightweight,
   Cloud-Native Stateful Distributed Dataflow Engine
+- 📝 [Adapton/adapton.rust](https://github.com/Adapton/adapton.rust):
+  General-purpose abstractions for incremental computing, in Rust
+  <http://adapton.org>
 
 ## Testing
 

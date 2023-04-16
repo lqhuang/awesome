@@ -92,6 +92,11 @@
   <https://serviceweaver.dev>
 - [mrsked/mrsk](https://github.com/mrsked/mrsk): Deploy web apps anywhere.
   <https://mrsk.dev/>
+- [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse): FUSE-based file
+  system backed by Amazon S3
+- [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" -
+  Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi,
+  Google Cloud Storage, Yandex Files <https://rclone.org>
 
 ## K8S
 

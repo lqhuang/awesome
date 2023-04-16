@@ -125,7 +125,7 @@
 
 ### Test / Mock / Coverage
 
-- [wntrblm/nox](https://github.com/wntrblm/nox): Flexible test automation for
+- 🌟 [wntrblm/nox](https://github.com/wntrblm/nox): Flexible test automation for
   Python <https://nox.thea.codes>
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy): Automatically mock your
   HTTP interactions to simplify and speed up testing
@@ -155,6 +155,9 @@
   <https://starlite-api.github.io/pydantic-factories>
 - [mongomock/mongomock](https://github.com/mongomock/mongomock): Small library
   for mocking pymongo collection objects for testing purposes
+- [orsinium-labs/pytypest](https://github.com/orsinium-labs/pytypest): Testing
+  framework that empowers pytest (with better fixtures and parametrization)
+  <https://pytypest.orsinium.dev>
 
 ### Performance profile
 
@@ -198,6 +201,8 @@
   reactive tools for Python 3.9+
 - [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent):
   Persistent/Immutable/Functional data structures for Python
+- 📝 [orsinium-labs/eff](https://github.com/orsinium-labs/eff): Python library
+  to work with algebraic effects
 
 ### Typing
 
@@ -429,7 +434,10 @@
 
 ### High-level data structures
 
-- [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers):
+- [DanielStutzbach/blist](https://github.com/DanielStutzbach/blist): A list-like
+  type with better asymptotic performance and similar performance on small lists
+- 🌟
+  [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers):
   Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
   <http://www.grantjenks.com/docs/sortedcontainers>
 - [hydro-project/katara](https://github.com/hydro-project/katara): Synthesize
@@ -467,7 +475,7 @@
 - [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data
   operator (and CLI), for all your declarative restructuring needs. Got data?
   Glom it! ☄️ <https://glom.readthedocs.io>
-- [kiorky/croniter](https://github.com/kiorky/croniter): croniter provides
+- 🌟 [kiorky/croniter](https://github.com/kiorky/croniter): croniter provides
   iteration for the datetime object with a cron like format.
 
 ### Configuration
@@ -517,12 +525,13 @@
   client library <https://pika.readthedocs.io>
 - [celery/kombu](https://github.com/celery/kombu): Messaging library for Python.
   <http://kombu.readthedocs.org>
-- [Miksus/rocketry](https://github.com/Miksus/rocketry): Modern scheduling
+- 🌟 [Miksus/rocketry](https://github.com/Miksus/rocketry): Modern scheduling
   library for Python <https://rocketry.readthedocs.io>
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq): Distributed
   task queue with full async support
-- [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq): A fast and reliable
-  background task processing library for Python 3. <https://dramatiq.io>
+- 🌟 [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq): A fast and
+  reliable background task processing library for Python 3.
+  <https://dramatiq.io>
 
 ### Serialization & Validation
 
@@ -582,6 +591,9 @@
 - [pyston/pyston](https://github.com/pyston/pyston): A faster and
   highly-compatible implementation of the Python programming language.
   <https://www.pyston.org/>
+- [shedskin/shedskin](https://github.com/shedskin/shedskin): Shed Skin is a
+  restricted-Python-to-C++ compiler. Read the introduction below to learn about
+  the restrictions. <https://shedskin.github.io>
 
 ### Parsers
 
@@ -666,6 +678,9 @@
   A modern and customizable python UI-library based on Tkinter
 - [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets):
   A fluent design widgets library based on PyQt5
+- [rerun-io/rerun](https://github.com/rerun-io/rerun): Log images, point clouds,
+  etc, and visualize them effortlessly. Built in Rust using egui
+  <https://rerun.io>
 
 #### HTML
 

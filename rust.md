@@ -402,6 +402,8 @@
   native Rust types
 - [dtolnay/efg](https://github.com/dtolnay/efg): Conditional compilation using
   boolean expression syntax, rather than any(), all(), not()
+- 🌟 [taiki-e/pin-project](https://github.com/taiki-e/pin-project): A crate for
+  safe and ergonomic pin-projection.
 
 ### Meomory
 
@@ -438,6 +440,8 @@
   JSON deserialization on borrowed data
 - [datafuselabs/jsonb](https://github.com/datafuselabs/jsonb): JSONB implement
   in rust
+- [koute/speedy](https://github.com/koute/speedy): A fast binary serialization
+  framework
 
 ### Parser combinators
 
@@ -582,6 +586,8 @@
   bindings generator for rust <https://mozilla.github.io/uniffi-rs>
 - [nvzqz/fruity](https://github.com/nvzqz/fruity): Rusty bindings for Apple
   libraries
+- [duchess-rs/duchess](https://github.com/duchess-rs/duchess): Experiments with
+  Java-Rust interop <https://duchess-rs.github.io/duchess>
 
 ### TUI
 

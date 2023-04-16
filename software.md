@@ -16,14 +16,14 @@
   <https://handbrake.fr>
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut): The swiss army
   knife of lossless video/audio editing <https://mifi.no/losslesscut>
-- [Inkdrop](https://www.inkdrop.app/): Organizing your Markdown notes made
+- [Inkdrop](https://www.inkdrop.app): Organizing your Markdown notes made
   simple.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed
   for reading research papers and technical books. <https://sioyek.info>
 - [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely
   encrypted backups in the cloud!
-- [Pixcall](https://pixcall.com/): 助力个人和团队以更好的方式管理图片、视频、文
-  档等数字资产
+- [Pixcall](https://pixcall.com): 助力个人和团队以更好的方式管理图片、视频、文档
+  等数字资产
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists):
   Check if an email address exists without sending any email, written in Rust.
   Comes with a ⚙️ HTTP backend. <https://reacher.email>
@@ -34,8 +34,13 @@
 - [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source
   KVM (switch) software
 
-### macOS / iPadOS
+## macOS / iPadOS
 
+### Open Source
+
+- [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos): A BSD-based OS
+  project that aims to provide an experience like and some compatibility with
+  macOS (formerly known as airyxOS) <https://www.ravynos.com>
 - [orbstack/orbstack](https://github.com/orbstack/orbstack): Fast, light, simple
   Docker containers & Linux machines for macOS <https://orbstack.dev>
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows
@@ -53,28 +58,15 @@
   more! <https://betterdisplay.pro>
 - [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager
   for macOS <https://maccy.app>
-- 🌟 [Shottr](https://shottr.cc/): Shottr is a small, fast, human-sized
-  screenshot app built for those who care about pixels. It was crafted with
-  Swift, optimized for M1, and is distributed for free.
-- [Skim](https://skim-app.sourceforge.io/): Skim is a PDF reader and note-taker
-  for OS X. It is designed to help you read and annotate scientific papers in
-  PDF, but is also great for viewing any PDF file.
 - [sicreative/BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow):
   View MacOS and IOS battery Information
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth): Mac app that shows
   all open files, directories, sockets, pipes and devices in use by all running
   processes. Nice GUI for lsof. <https://sveinbjorn.org/sloth>
-- [NTFS Disk by Omi](https://omiapps.com/product/1585757563): Best NTFS Disk
-  Manager on Mac App Store
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve):
-  DaVinci Resolve is the world’s only solution that combines editing, color
-  correction, visual effects, motion graphics and audio post production all in
-  one software tool!
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive): Store SSH
   keys in the Secure Enclave
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an
   alternative app store for non-jailbroken iOS devices. <https://altstore.io>
-- [Aiko](https://sindresorhus.com/aiko): AI-powered audio transcription
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz): Buzz transcribes
   and translates audio offline on your personal computer. Powered by OpenAI's
   Whisper.
@@ -85,6 +77,39 @@
   Run Stable Diffusion on Mac natively
 - [objective-see/LuLu](https://github.com/objective-see/LuLu): LuLu is the free
   macOS firewall
+- [superhighfives/pika](https://github.com/superhighfives/pika): An open-source
+  colour picker app for macOS <https://superhighfives.com/pika>
+
+### Free / Paid
+
+- 🌟 [TopNotch](https://topnotch.app): Makes the notch disappear like a 🥷
+- [CleanShot X](https://cleanshot.com): Capture your Mac’s screen like a pro.
+- 🌟 [Shottr](https://shottr.cc): Shottr is a small, fast, human-sized
+  screenshot app built for those who care about pixels. It was crafted with
+  Swift, optimized for M1, and is distributed for free.
+- [Skim](https://skim-app.sourceforge.io): Skim is a PDF reader and note-taker
+  for OS X. It is designed to help you read and annotate scientific papers in
+  PDF, but is also great for viewing any PDF file.
+- [Sensei](https://cindori.com/sensei): Sensei is the ultimate app for
+  optimizing your Mac. Featuring a wide range of advanced cleaning and
+  monitoring features, it's never been easier to maximize your Mac performance.
+  <https://cindori.com/sensei>
+- [NTFS Disk by Omi](https://omiapps.com/product/1585757563): Best NTFS Disk
+  Manager on Mac App Store
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve):
+  DaVinci Resolve is the world’s only solution that combines editing, color
+  correction, visual effects, motion graphics and audio post production all in
+  one software tool!
+- [Aiko](https://sindresorhus.com/aiko): AI-powered audio transcription
+- [MacGPT](https://www.macgpt.com): ChatGPT on your Mac and Menubar
+- [Dropover](https://dropoverapp.com): Effortless Drag & Drop on your Mac
+- [Battery Buddy](https://batterybuddy.app): It’s like the default battery
+  indicator in your menu bar, but cute.
+- [minimal.](https://minimal.app): increase focus. write beautifully. A
+  meditation-inspired writing app designed for iPhone, iPad, and Mac.
+- [Batteries for Mac](https://www.fadel.io/batteries): Track all your devices'
+  batteries from your Mac.
+- [Shrugs.app](https://shrugs.app): Integrate macOS into your Slack experience.
 
 ## Services
 
@@ -149,6 +174,10 @@
 - [poste.io](https://poste.io): SMTP + IMAP + POP3 + Antispam + Antivirus with
   Web administration + Web email ... on your server in ~5 minutes
   <https://hub.docker.com/r/analogic/poste.io>
+- [grommunio/gromox](https://github.com/grommunio/gromox): Groupware server
+  backend for the grommunio Distribution, supporting MAPI/HTTP, RPC/HTTP, IMAP,
+  POP3 protocols, PHP-MAPI bindings, and import from PST/OST/MSG/TNEF,
+  EML/ICAL/VCF, KDB <https://gromox.com>
 
 ### Vault / Passwords
 
