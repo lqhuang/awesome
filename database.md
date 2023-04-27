@@ -44,11 +44,10 @@
   and data processing systems. <https://facebookincubator.github.io/velox>
 - [Fullstop000/wickdb](https://github.com/Fullstop000/wickdb): Pure Rust
   LSM-tree based embedded storage engine
-- [tcdi/pgx](https://github.com/tcdi/pgx): Build Postgres Extensions with Rust!
+- [tcdi/pgrx](https://github.com/tcdi/pgrx): Build Postgres Extensions with
+  Rust!
 - [sunng87/pgwire](https://github.com/sunng87/pgwire): PostgreSQL wire protocol
   implemented as a rust library.
-- [sqlbench-ds](https://github.com/sql-benchmarks/sqlbench-ds): SQL Benchmark
-  derived from TPC-DS
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista): Apache
   Arrow Ballista Distributed Query Engine <https://arrow.apache.org/ballista>
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka): Open source
@@ -113,18 +112,26 @@
 
 ### KV
 
+- 🌟 [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta
+  embedded databases
 - 🌟 [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB -
   the open source, distributed, transactional key-value store
   <https://www.foundationdb.org>
 
 ### Vector
 
+- [qdrant/qdrant](https://github.com/qdrant/qdrant): Qdrant - Vector Database
+  for the next generation of AI applications <https://qdrant.tech>
 - [Pinecone](https://www.pinecone.io/): The Pinecone vector database makes it
   easy to build high-performance vector search applications. Developer-friendly,
   fully managed, and easily scalable without infrastructure hassles.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus): Vector database for
   scalable similarity search and AI applications. <https://milvus.io>
   <https://zilliz.com>
+- [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB): A hyper-fast local
+  vector database for use with LLM Agents.
+- [chroma-core/chroma](https://github.com/chroma-core/chroma): the AI-native
+  open-source embedding database <https://www.trychroma.com>
 
 ### Postgres
 
@@ -146,13 +153,15 @@
   <https://access.crunchydata.com/documentation/postgres-operator/v5>
 - [sorintlab/stolon](https://github.com/sorintlab/stolon): PostgreSQL cloud
   native High Availability and more. <https://talk.stolon.io>
+- [CoreDB-io/coredb](https://github.com/CoreDB-io/coredb): Postgres for
+  Everything <http://coredb.io>
 
 ### In-memory
 
 - [Rustixir/darkbird](https://github.com/Rustixir/darkbird): High concurrency,
   Real time, In-memory storage inspired by erlang mnesia
 
-## DBA
+## DBA or Extensions
 
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord): mirrord lets
   you easily mirror traffic from your production environment to your development
@@ -166,6 +175,11 @@
 - [datafold/data-diff](https://github.com/datafold/data-diff): Efficiently diff
   data in or across relational databases
   <https://www.datafold.com/blog/open-source-data-diff>
+- [centerofci/mathesar](https://github.com/centerofci/mathesar): Web application
+  providing an intuitive user experience to databases. <https://mathesar.org>
+
+### PG
+
 - [zalando/patroni](https://github.com/zalando/patroni): A template for
   PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [levkk/pgcat](https://github.com/levkk/pgcat): PostgreSQL pooler with
@@ -178,8 +192,6 @@
   Postgres
 - [aiven/pgtracer](https://github.com/aiven/pgtracer): Tracing tools for
   PostgreSQL, using eBPF
-- [centerofci/mathesar](https://github.com/centerofci/mathesar): Web application
-  providing an intuitive user experience to databases. <https://mathesar.org>
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres
   DB instance for your unit tests
 - [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema):
@@ -188,6 +200,31 @@
   with some useful plugins
 - [Vonng/pigsty](https://github.com/Vonng/pigsty): PostgreSQL in Great STYle,
   Battery-Included Free RDS Alternative! <https://pigsty.cc>
+- 🌟 [supabase/dbdev](https://github.com/supabase/dbdev): Database Package
+  Registry for Postgres <https://database.dev>
+- [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman): Partition
+  management extension for PostgreSQL
+- [postgrespro/aqo](https://github.com/postgrespro/aqo): Adaptive query
+  optimization for PostgreSQL
+- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs): Vector
+  database plugin for Postgres, written in Rust
+
+### SQLite
+
+- [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of
+  SQLite extensions
+
+## Benchmark
+
+- [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench): ClickBench:
+  a Benchmark For Analytical Databases <https://benchmark.clickhouse.com/>
+- [qdrant/vector-db-benchmark](https://github.com/qdrant/vector-db-benchmark):
+  <https://qdrant.tech/benchmarks>
+- [duckdblabs/db-benchmark](https://github.com/duckdblabs/db-benchmark):
+  reproducible benchmark of database-like ops
+  <https://duckdblabs.github.io/db-benchmark/>
+- [sqlbench-ds](https://github.com/sql-benchmarks/sqlbench-ds): SQL Benchmark
+  derived from TPC-DS
 
 ## In a SQL way
 

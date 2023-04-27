@@ -15,6 +15,9 @@
   🔬 A curated list of awesome machine learning strategies & tools in financial
   market.
   <https://medium.com/@zousongqi0213/how-people-use-ai-in-finance-59f0a7512b4>
+- [edarchimbaud/awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading):
+  A curated list of awesome libraries, packages, strategies, books, blogs,
+  tutorials for systematic trading.
 
 ### Books
 
@@ -63,6 +66,9 @@
   <https://money.bmpi.dev/>
 - [dcaoyuan/aiotrade](https://github.com/dcaoyuan/aiotrade): An All in One Trade
   Platform
+- [asyncalgotrading/aat](https://github.com/asyncalgotrading/aat): Asynchronous,
+  event-driven algorithmic trading in Python and C++
+  <https://aat.readthedocs.io/>
 
 ## Backtesting
 
@@ -122,6 +128,8 @@
 - [bukosabino/ta](https://github.com/bukosabino/ta): Technical Analysis Library
   using Pandas and Numpy
   <https://technical-analysis-library-in-python.readthedocs.io/en/latest>
+- [streamlet-dev/greeks](https://github.com/streamlet-dev/greeks): Derivatives
+  models written with the Tributary data flow library
 
 ## API
 

@@ -44,6 +44,11 @@
   comprehensively validating your machine learning models and data with minimal
   effort. <https://docs.deepchecks.com>
 
+## Data Observability
+
+- [metaplane](https://www.metaplane.dev/): Be the first to know about everything
+  that happens in your data pipelines.
+
 ## Vis
 
 - [datoviz/datoviz](https://github.com/datoviz/datoviz/): ⚡ High-performance

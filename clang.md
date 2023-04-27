@@ -120,6 +120,8 @@
 - [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math): Techniques
   and numbers for estimating system's performance from first-principles
   <https://www.youtube.com/watch?v=IxkSlnrRFqc>
+- [namhyung/uftrace](https://github.com/namhyung/uftrace): Function graph tracer
+  for C/C++/Rust <https://uftrace.github.io/slide>
 
 ## OS level
 

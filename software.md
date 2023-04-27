@@ -79,6 +79,10 @@
   macOS firewall
 - [superhighfives/pika](https://github.com/superhighfives/pika): An open-source
   colour picker app for macOS <https://superhighfives.com/pika>
+- [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS
+  utility that helps hide menu bar icons <https://d.foundation/opensource>
+- [MacPass/MacPass](https://github.com/MacPass/MacPass): A native macOS KeePass
+  client <https://macpassapp.org>
 
 ### Free / Paid
 

@@ -66,6 +66,9 @@
 
 - [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native
   Application Proxy
+- [apache/trafficserver](https://github.com/apache/trafficserver): Apache
+  Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2
+  compliant caching proxy server. <https://trafficserver.apache.org>
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager):
   Docker container for managing Nginx proxy hosts with a simple, powerful
   interface <https://nginxproxymanager.com>
@@ -87,6 +90,8 @@
   <https://supabase.com>
 - [zappa/Zappa](https://github.com/zappa/Zappa): Serverless Python
   <https://github.com/zappa/Zappa>
+- [lagonapp/lagon](https://github.com/lagonapp/lagon): Deploy Serverless
+  Functions at the Edge. Current status: Alpha <https://lagon.app/>
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver): Programming
   framework for writing and deploying cloud applications.
   <https://serviceweaver.dev>
@@ -124,6 +129,29 @@
 
 ## Infrastructure as Code
 
+### Framework
+
+- [pulumi/pulumi](https://github.com/pulumi/pulumi): Pulumi - Universal
+  Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+  <https://www.pulumi.com>
+- [crossplane/crossplane](https://github.com/crossplane/crossplane): Cloud
+  Native Control Planes <https://crossplane.io/>
+- [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra): pyinfra automates
+  infrastructure super fast at massive scale. It can be used for ad-hoc command
+  execution, service deployment, configuration management and more.
+  <https://pyinfra.com>
+
+### Services
+
+- [Argonaut](https://www.argonaut.dev/): End to end deployments to AWS and GCP
+  in minutes - Collaborate on software infra with a fully managed Kubernetes
+  PaaS, automated CI, and terraform with prebuilt AWS and GCP modules.
+- [Gruntwork.io](https://www.gruntwork.io/): Your entire infrastructure. Defined
+  as code. In about a day. We get you running on AWS with Docker and you get
+  100% of the code.
+
+### Utils
+
 - [servian/aws-auto-cleanup](https://github.com/servian/aws-auto-cleanup):
   Programmatically delete AWS resources based on an allowlist and time to live
   (TTL) settings
@@ -150,13 +178,6 @@
 - [turbot/steampipe](https://github.com/turbot/steampipe): Use SQL to instantly
   query your cloud services (AWS, Azure, GCP and more). Open source CLI. No DB
   required. <https://steampipe.io>
-- [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra): pyinfra automates
-  infrastructure super fast at massive scale. It can be used for ad-hoc command
-  execution, service deployment, configuration management and more.
-  <https://pyinfra.com>
-- [pulumi/pulumi](https://github.com/pulumi/pulumi): Pulumi - Universal
-  Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
-  <https://www.pulumi.com>
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho): Klotho - a
   CLI tool that transforms plain code into cloud native code <https://klo.dev>
 - [finos/compliant-financial-infrastructure](https://github.com/finos/compliant-financial-infrastructure):

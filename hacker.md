@@ -143,6 +143,10 @@
   A collection of useful .gitattributes templates
 - 🌟 [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your
   project. 🌐 Share with the world! <http://socialify.git.ci>
+- 🌟 [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh): 💻📖 对开发
+  人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns
+  that developers will find useful.)
+- [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate):
 
 ## HomeKit / IoT
 

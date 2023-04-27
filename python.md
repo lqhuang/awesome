@@ -46,6 +46,8 @@
 - 🌟 [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A modular SQL
   linter and auto-formatter with support for multiple dialects and templated
   code. <https://www.sqlfluff.com>
+- [SourceCode-AI/aura](https://github.com/SourceCode-AI/aura): Python source
+  code auditing and static analysis on a large scale
 
 ### Build tools
 
@@ -53,6 +55,8 @@
   manager with PEP 582 support. <https://pdm.fming.dev>
 - [pypa/hatch](https://github.com/pypa/hatch): Modern, extensible Python project
   management <https://hatch.pypa.io/latest>
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye): Rye is Armin's personal
+  one-stop-shop for all his Python needs.
 - [frostming/monas](https://github.com/frostming/monas): Python monorepo made
   easy <https://monas.fming.dev>
 - [cruft/cruft](https://github.com/cruft/cruft/): Allows you to maintain all the
@@ -99,7 +103,8 @@
 
 ### Packaging
 
-- [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone):
+- 🌟
+  [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone):
   Produce redistributable builds of Python
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer): A modern Python
   application packaging and distribution tool
@@ -187,6 +192,8 @@
   <https://pyinstrument.readthedocs.io>
 - [realpython/codetiming](https://github.com/realpython/codetiming): A flexible,
   customizable timer for your Python code
+- 📝 [njsmith/perpetuo](https://github.com/njsmith/perpetuo): Stall tracking for
+  Python's GIL and Trio tasks
 
 ## FP in Python
 
@@ -197,10 +204,6 @@
   Python to fast C extensions <https://mypyc.readthedocs.io>
 - [cognitedata/Expression](https://github.com/cognitedata/Expression): Pragmatic
   functional programming for Python inspired by F#
-- [dbrattli/aioreactive](https://github.com/dbrattli/aioreactive): Async/await
-  reactive tools for Python 3.9+
-- [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent):
-  Persistent/Immutable/Functional data structures for Python
 - 📝 [orsinium-labs/eff](https://github.com/orsinium-labs/eff): Python library
   to work with algebraic effects
 
@@ -253,6 +256,13 @@
   <https://more-itertools.rtfd.io>
 - 🌟 [pytoolz/toolz](https://github.com/pytoolz/toolz): A functional standard
   library for Python. <http://toolz.readthedocs.org>
+- 🌟 [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional): Python
+  library for creating data pipelines with chain functional programming
+  <http://pyfunctional.pedro.ai>
+- [dbrattli/aioreactive](https://github.com/dbrattli/aioreactive): Async/await
+  reactive tools for Python 3.9+
+- [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent):
+  Persistent/Immutable/Functional data structures for Python
 
 ## Domain libraries
 
@@ -312,6 +322,9 @@
 - [static-frame/static-frame](https://github.com/static-frame/static-frame):
   Immutable and grow-only Pandas-like DataFrames with a more explicit and
   consistent interface. <https://static-frame.readthedocs.io>
+- [h2oai/datatable](https://github.com/h2oai/datatable): A Python package for
+  manipulating 2-dimensional tabular data structures
+  <https://datatable.readthedocs.io>
 
 ### Prob
 
@@ -328,6 +341,8 @@
 - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy): A Python package
   for causal inference in quasi-experimental settings
   <https://causalpy.readthedocs.io>
+- [pydata/patsy](https://github.com/pydata/patsy): Describing statistical models
+  in Python using symbolic formulas <https://patsy.readthedocs.io>
 
 ### Web
 
@@ -456,7 +471,7 @@
 
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python
   module for decorators, wrappers and monkey patching.
-- [hynek/stamina](https://github.com/hynek/stamina): Easy mode for Tenacity.
+- 🌟 [hynek/stamina](https://github.com/hynek/stamina): Good retries made easy.
 - [litl/backoff](https://github.com/litl/backoff): Python library providing
   function decorators for configurable backoff and retry
 - [nficano/humps](https://github.com/nficano/humps): Convert strings (and
@@ -489,6 +504,9 @@
 - [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs): A
   small Python module for determining appropriate platform-specific dirs, e.g. a
   "user data dir". <https://platformdirs.readthedocs.io>
+- [hynek/environ-config](https://github.com/hynek/environ-config): Python
+  Application Configuration With Environment Variables
+  <https://environ-config.readthedocs.io/>
 
 ### AsyncIO
 
@@ -551,7 +569,8 @@
   pickling support for Python objects
 - [sdispater/tomlkit](https://github.com/sdispater/tomlkit): Style-preserving
   TOML library for Python
-- [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema):
+- 🌟
+  [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema):
   An implementation of the JSON Schema specification for Python
   <https://python-jsonschema.readthedocs.io>
 - [agronholm/cbor2](https://github.com/agronholm/cbor2): Pure Python CBOR
@@ -671,6 +690,8 @@
 - [ponnhide/pyCircos](https://github.com/ponnhide/pyCircos): python Circos
 - [lgienapp/aquarel](https://github.com/lgienapp/aquarel): Styling matplotlib
   made easy
+- [lmcinnes/glasbey](https://github.com/lmcinnes/glasbey): Algorithmically
+  create or extend categorical colour palettes
 
 #### GUI
 

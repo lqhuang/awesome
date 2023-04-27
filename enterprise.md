@@ -194,6 +194,17 @@
   to build data pipelines. Develop iteratively, deploy anywhere. ☁️
   <https://ploomber.io>
 
+### HPC Cluster manager / Job Scheduler
+
+- [SchedMD/slurm](https://github.com/SchedMD/slurm): Slurm: A Highly Scalable
+  Workload Manager <https://slurm.schedmd.com>
+- [openpbs/openpbs](https://github.com/openpbs/openpbs): An HPC workload manager
+  and job scheduler for desktops, clusters, and clouds.
+  <https://www.openpbs.org/>
+- [spack/spack](https://github.com/spack/spack): A flexible package manager that
+  supports multiple versions, configurations, platforms, and compilers.
+  <https://spack.io>
+
 ### Uptime / Monitoring
 
 - [Atlassian - statuspage](https://www.atlassian.com/software/statuspage): Build
@@ -232,6 +243,9 @@
 - [Autometrics](https://github.com/autometrics-dev): Autometrics is a set of
   open source libraries that make it fun and easy to understand the performance
   of your code in production.
+- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics):
+  VictoriaMetrics: fast, cost-effective monitoring solution and time series
+  database <https://victoriametrics.com>
 
 ### Logger search and analytics
 
@@ -289,6 +303,12 @@
   makes it a breeze to manage multiple GitHub Actions runners in ephemeral
   virtual machines on a single host machine. The benefits are that runners can
   run in parallel, and each job runs in an isolated environment.
+- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery): Automatically
+  review and improve your Python code. ⭐ this repo and Sourcery Starbot will
+  send you a PR. Or install our CLI to improve your code locally
+  <https://sourcery.ai>
+- [BuildJet: For GitHub Actions](https://buildjet.com/for-github-actions): Make
+  GitHub Actions Faster. Managed performance runners for Github Actions.
 
 ## Security
 
@@ -314,13 +334,12 @@
   极简主义团队管理操作手册
 - [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook):
   🏂🏻 程序员海外工作/英文面试手册
+- [github/opensource.guide](https://github.com/github/opensource.guide): 📚
+  Community guides for open source creators <https://opensource.guide/>
 
 ## AI-ng
 
 - [BloopAI/bloop](https://github.com/BloopAI/bloop): bloop is a fast code search
   engine written in Rust. <https://bloop.ai>
-- [qdrant/qdrant](https://github.com/qdrant/qdrant): Qdrant - Vector Search
-  Engine and Database for the next generation of AI applications. Also available
-  in the cloud https://cloud.qdrant.io/ <https://qdrant.tech>
 - [GerevAI/gerev](https://github.com/GerevAI/gerev): ChatGPT Workplace Search
   Engine

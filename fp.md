@@ -64,6 +64,8 @@
   abstract interface
 - [chshersh/dr-cabal](https://github.com/chshersh/dr-cabal): 📊 Haskell
   dependencies build times profiler
+- [ekmett/structs](https://github.com/ekmett/structs): Exploring how to make a
+  strict imperative universe in the GHC runtime system.
 
 ### CLI
 
@@ -93,8 +95,9 @@
 
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts): Functional programming in
   TypeScript
-- [Effect-TS/core](https://github.com/Effect-TS/core): A Fully-fledged
-  functional effect system for typescript with a rich standard library
+- [Effect-TS/effect](https://github.com/Effect-TS/effect): A fully-fledged
+  functional effect system for TypeScript with a rich standard library
+  <https://effect-ts.github.io/effect>
 - [gigobyte/purify](https://github.com/gigobyte/purify): Functional programming
   library for TypeScript <https://gigobyte.github.io/purify>
 

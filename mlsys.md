@@ -70,6 +70,8 @@
   The repository provides code for running inference with the SegmentAnything
   Model (SAM), links for downloading the trained model checkpoints, and example
   notebooks that show how to use the model.
+- [google/maxtext](https://github.com/google/maxtext): A simple, performant and
+  scalable Jax LLM!
 
 ### Inference engine / large-scale deployment
 
@@ -104,6 +106,10 @@
   inference run-time written 100% in Rust, ready for the web
 - 🌟 [ggerganov/ggml](https://github.com/ggerganov/ggml): Tensor library for
   machine learning
+- [mosecorg/mosec](https://github.com/mosecorg/mosec): A high-performance
+  serving framework for ML models, offers dynamic batching and multi-stage
+  pipeline to fully exploit your compute machine
+  <https://mosecorg.github.io/mosec/>
 
 ## Tensor inference / Compiler / Low level
 
@@ -126,6 +132,37 @@
   <http://tensor-compiler.org>
 - [google/XNNPACK](https://github.com/google/XNNPACK): High-efficiency
   floating-point neural network inference operators for mobile, server, and Web
+
+## Platform framework / Workflow pipeline / MLOps
+
+- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow): Machine Learning
+  Toolkit for Kubernetes
+- [mlflow/mlflow](https://github.com/mlflow/mlflow): Open source platform for
+  the machine learning lifecycle
+- [Netflix/metaflow](https://github.com/Netflix/metaflow): 🚀 Build and manage
+  real-life data science projects with ease! <https://metaflow.org>
+- [bentoml/BentoML](https://github.com/bentoml/BentoML): Unified Model Serving
+  Framework 🍱 <https://bentoml.com>
+- [bentoml/Yatai](https://github.com/bentoml/Yatai): Model Deployment at Scale
+  on Kubernetes 🦄️ <https://bentoml.com>
+- [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core): An MLOps
+  framework to package, deploy, monitor and manage thousands of production
+  machine learning models
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot): SkyPilot is
+  a framework for easily running machine learning workloads on any cloud through
+  a unified interface. <https://skypilot.readthedocs.io>
+- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course): A
+  project-based course on the foundations of MLOps to responsibly develop,
+  deploy and maintain ML. <https://madewithml.com>
+- [sematic-ai/sematic](https://github.com/sematic-ai/sematic): An open-source ML
+  pipeline development platform
+- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain): Your open-source
+  ML monitoring and refinement toolkit. <https://uptrain.ai/>
+- [microsoft/SynapseML](https://github.com/microsoft/SynapseML): Simple and
+  Distributed Machine Learning <http://aka.ms/spark>
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a
+  Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your
+  Generative LLM, CV and Tabular Models <https://docs.arize.com/phoenix>
 
 ## Autodiff
 
@@ -207,32 +244,6 @@
   on extensibility.
 - [deepmind/PGMax](https://github.com/deepmind/PGMax): Loopy belief propagation
   for factor graphs on discrete variables in JAX
-
-## Workflow pipeline / MLOps
-
-- [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow): Machine Learning
-  Toolkit for Kubernetes
-- [mlflow/mlflow](https://github.com/mlflow/mlflow): Open source platform for
-  the machine learning lifecycle
-- [Netflix/metaflow](https://github.com/Netflix/metaflow): 🚀 Build and manage
-  real-life data science projects with ease! <https://metaflow.org>
-- [bentoml/BentoML](https://github.com/bentoml/BentoML): Unified Model Serving
-  Framework 🍱 <https://bentoml.com>
-- [bentoml/Yatai](https://github.com/bentoml/Yatai): Model Deployment at Scale
-  on Kubernetes 🦄️ <https://bentoml.com>
-- [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core): An MLOps
-  framework to package, deploy, monitor and manage thousands of production
-  machine learning models
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot): SkyPilot is
-  a framework for easily running machine learning workloads on any cloud through
-  a unified interface. <https://skypilot.readthedocs.io>
-- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course): A
-  project-based course on the foundations of MLOps to responsibly develop,
-  deploy and maintain ML. <https://madewithml.com>
-- [sematic-ai/sematic](https://github.com/sematic-ai/sematic): An open-source ML
-  pipeline development platform
-- [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain): Your open-source
-  ML monitoring and refinement toolkit. <https://uptrain.ai/>
 
 ## Libraries
 

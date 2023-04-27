@@ -38,7 +38,7 @@
 
 - [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows):
   Awesome resources on normalizing flows.
-- [lmcinnes/umap](https://github.com/lmcinnes/umap): Uniform Manifold
+- 🌟 [lmcinnes/umap](https://github.com/lmcinnes/umap): Uniform Manifold
   Approximation and Projection
 
 ### Workshop

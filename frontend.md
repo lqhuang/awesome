@@ -18,6 +18,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   to start a full-stack, typesafe Next.js app <https://create.t3.gg>
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood): The App Framework
   for Startups <https://redwoodjs.com>
+- [trpc/trpc](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing.
+  End-to-end typesafe APIs made easy. <https://trpc.io>
 
 ## Components library
 
@@ -40,10 +42,14 @@ Major in React ecosystem, but also include other frameworks and libraries.
   Completely unstyled, fully accessible UI components, designed to integrate
   beautifully with Tailwind CSS. <https://headlessui.dev>
 - [reach/reach-ui](https://github.com/reach/reach-ui): The Accessible Foundation
-  for React Apps and Design Systems <https://reach.tech>
+  for React Apps and Design Systems <https://reach.tech> #design-system
 - [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source
   UI component library for building high-quality, accessible design systems and
-  web apps. Maintained by @modulz. <https://radix-ui.com>
+  web apps. Maintained by @modulz. <https://radix-ui.com> #design-system
+- [patternfly/patternfly](https://github.com/patternfly/patternfly): This repo
+  contains core (HTML/CSS) implementation for PatternFly. Issues related to
+  CSS/HTML and layout should be filed here. <https://patternfly.org/>
+  #design-system
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui): ⚡️ Simple,
   Modular & Accessible UI Components for your React Applications
   <https://chakra-ui.com>
@@ -130,12 +136,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso): The most
   powerful virtual list component for React <https://virtuoso.dev/>
 
-## Channel
-
-- [yomorun/presencejs](https://github.com/yomorun/presencejs): @yomo/presencejs
-  ⚡️ made realtime web applications edge-aware by YoMo, WebTransport based,
-  provide fallback to WebSocket automatically. <https://presence.js.org>
-
 ## Utils
 
 - [streamich/react-use](https://github.com/streamich/react-use): React Hooks —
@@ -175,6 +175,14 @@ Major in React ecosystem, but also include other frameworks and libraries.
   i18n localization with AI
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run
   Python code in your React apps. <https://elilambnz.github.io/react-py>
+- 🌟 [steven-tey/precedent](https://github.com/steven-tey/precedent): An
+  opinionated collection of components, hooks, and utilities for your Next.js
+  project. <https://precedent.dev>
+- [yomorun/presencejs](https://github.com/yomorun/presencejs): @yomo/presencejs
+  ⚡️ made realtime web applications edge-aware by YoMo, WebTransport based,
+  provide fallback to WebSocket automatically. <https://presence.js.org>
+- [quicktype/quicktype](https://github.com/quicktype/quicktype): Generate types
+  and converters from JSON, Schema, and GraphQL <https://app.quicktype.io>
 
 ## Visualization
 

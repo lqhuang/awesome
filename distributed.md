@@ -122,6 +122,9 @@
 - [mwhittaker/frankenpaxos](https://github.com/mwhittaker/frankenpaxos): A
   collection of state machine replication protocols
   <https://mwhittaker.github.io/frankenpaxos>
+- [tigerbeetledb/viewstamped-replication-made-famous](https://github.com/tigerbeetledb/viewstamped-replication-made-famous):
+  A $20k consensus challenge based on TigerBeetle's implementation of the
+  pioneering Viewstamped Replication protocol.
 
 ## Correctness
 

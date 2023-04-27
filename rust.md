@@ -109,6 +109,8 @@
   runner and build tool. <https://sagiegurari.github.io/cargo-make>
 - [japaric/cargo-call-stack](https://github.com/japaric/cargo-call-stack): Whole
   program static stack analysis
+- [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall):
+  Binary installation for rust projects
 
 ### Test suites
 
@@ -196,6 +198,8 @@
   <https://rust-lang.github.io/async-fundamentals-initiative/>
 - [nikomatsakis/duchess](https://github.com/nikomatsakis/duchess): Experiments
   with Java-Rust interop
+- [google/rust-deadlock-avoidance](https://github.com/google/rust-deadlock-avoidance):
+  Experiments with preventing deadlocks using the Rust type system.
 
 ## Concurrency / Parallelelism
 
@@ -412,7 +416,7 @@
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo): A fast bump allocation
   arena for Rust
 
-## Middleware
+### Middleware
 
 - [eclipse-iceoryx/iceoryx](https://github.com/eclipse-iceoryx/iceoryx): Eclipse
   iceoryx™ - true zero-copy inter-process-communication <https://iceoryx.io>
@@ -442,6 +446,8 @@
   in rust
 - [koute/speedy](https://github.com/koute/speedy): A fast binary serialization
   framework
+- [bincode-org/bincode](https://github.com/bincode-org/bincode): A binary
+  encoder / decoder implementation in Rust.
 
 ### Parser combinators
 
@@ -535,6 +541,8 @@
   and Compile time generated OpenAPI documentation for Rust
 - [cloudwego/motore](https://github.com/cloudwego/motore): Async middleware
   abstraction powered by GAT and TAIT.
+- [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee): Rust JSON-RPC
+  library on top of async/await
 
 ### Numerical analysis
 
@@ -566,8 +574,6 @@
   to SQLite for Rust
 - [cberner/redb](https://github.com/cberner/redb): An embedded key-value
   database in pure Rust
-- 🌟 [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta
-  embedded databases
 - [rust-rocksdb/rust-rocksdb](https://github.com/rust-rocksdb/rust-rocksdb):
   rust wrapper for rocksdb
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres): Native

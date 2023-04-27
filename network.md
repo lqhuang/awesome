@@ -4,7 +4,7 @@
 
 ### Books
 
-- [Uncurled](https://un.curl.dev/): everything I know and learned about running
+- [Uncurled](https://un.curl.dev): everything I know and learned about running
   and maintaining Open Source projects for three decades.
 - 🌟 [bagder/http3-explained](https://github.com/bagder/http3-explained): A
   document describing the HTTP/3 and QUIC protocols
@@ -148,8 +148,8 @@
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling):
   List of ngrok alternatives and other ngrok-like tunneling software and
   services. Focus on self-hosting.
-- [openconnect/ocserv](https://gitlab.com/openconnect/ocserv/): Engine for
-  secure and scalable VPN infrastructure https://ocserv.gitlab.io/www/
+- [openconnect/ocserv](https://gitlab.com/openconnect/ocserv): Engine for secure
+  and scalable VPN infrastructure https://ocserv.gitlab.io/www/
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass): Rosenpass is a
   formally verified, post-quantum secure VPN that uses WireGuard to transport
   the actual data. <https://rosenpass.eu/>
@@ -174,11 +174,22 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker): Netmaker makes
   networks with WireGuard. Netmaker automates fast, secure, and distributed
   virtual networks. <https://netmaker.io>
+- [madacluster/netmaker-terraform-provider](https://github.com/madacluster/netmaker-terraform-provider):
+  Terraform Provider Netmaker
 - [juanfont/headscale](https://github.com/juanfont/headscale): An open source,
   self-hosted implementation of the Tailscale control server
+- [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui): A
+  web frontend for the headscale Tailscale-compatible coordination server
 - [tonarino/innernet](https://github.com/tonarino/innernet): A private network
   system that uses WireGuard under the hood.
   <https://blog.tonari.no/introducing-innernet>
 - [firezone/firezone](https://github.com/firezone/firezone): WireGuard®-based
   VPN server and firewall <https://firezone.dev>
 - https://www.tinc-vpn.org/
+
+## Online tools / Services
+
+- [Censys](https://search.censys.io)
+- [ipinfo.io](https://ipinfo.io)
+- [Is using HTTP3?](https://http3.is)
+- [HTTP/3 Check](https://http3check.net)

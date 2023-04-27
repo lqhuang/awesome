@@ -51,6 +51,12 @@
   <https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html>
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to
   connect LLMs with ML community
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm): Bringing large-language
+  models and chat to web browsers. Everything runs inside the browser with no
+  server support. <https://mlc.ai/web-llm>
+- [microsoft/semantic-kernels](https://github.com/microsoft/semantic-kernels):
+  Integrate cutting-edge LLM technology quickly and easily into your apps
+  <https://aka.ms/semantic-kernel>
 
 ## ChatGPT
 
@@ -91,9 +97,16 @@
   instruction-tuned language models, a moderation model, and an extensible
   retrieval system for including up-to-date responses from custom repositories.
 
+### Clients
+
+- [cequence-io/openai-scala-client](https://github.com/cequence-io/openai-scala-client):
+  Scala client for OpenAI API
+- [softwaremill/sttp-openai](https://github.com/softwaremill/sttp-openai)
+
 ### ChatGPT Prompts
 
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide):
+- 🌟
+  [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide):
   🐙 Guides, papers, lecture, and resources for prompt engineering
   <https://www.promptingguide.ai>
 - [jevantang/chatgpt-prompts](https://github.com/jevantang/chatgpt-prompts): 分

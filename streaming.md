@@ -23,21 +23,20 @@ Streaming Systems
   database for the realtime web. <https://rethinkdb.com/>
 - [pubkey/rxdb](https://github.com/pubkey/rxdb): A fast, offline-first, reactive
   database for JavaScript Applications <https://rxdb.info>
+- 📝 [janestreet/incremental](https://github.com/janestreet/incremental): A
+  library for incremental computations
 
-## Messaging libraries
+### DAG
 
-- [zeromq/libzmq](https://github.com/zeromq/libzmq): ZeroMQ core engine in C++,
-  implements ZMTP/3.1 <https://www.zeromq.org>
-- [nanomsg/nng](https://github.com/nanomsg/nng): nanomsg-next-generation --
-  light-weight brokerless messaging
-- [codypiersall/pynng](https://github.com/codypiersall/pynng): Python bindings
-  for Nanomsg Next Generation. <https://pynng.readthedocs.io>
-
-### Queue
-
-- [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor): High
-  Performance Inter-Thread Messaging Library
-  <http://lmax-exchange.github.io/disruptor/>
+- [yahoo/graphkit](https://github.com/yahoo/graphkit): A lightweight Python
+  module for creating and running ordered graphs of computations.
+- 📝 [streamlet-dev/tributary](https://github.com/streamlet-dev/tributary):
+  Streaming reactive and dataflow graphs in Python
+- [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton): A scalable
+  general purpose micro-framework for defining dataflows. You can use it to
+  build dataframes, numpy matrices, python objects, ML models, etc. Embed
+  Hamilton anywhere python runs, e.g. spark, airflow, jupyter, fastapi, python
+  scripts, etc. <https://hamilton.readthedocs.io/en/latest>
 
 ## Frameworks
 
@@ -73,7 +72,23 @@ Streaming Systems
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo): Arroyo is a
   distributed stream processing engine written in Rust <https://arroyo.dev/>
 
-## Message Queue
+## Messaging
+
+### libraries
+
+- [zeromq/libzmq](https://github.com/zeromq/libzmq): ZeroMQ core engine in C++,
+  implements ZMTP/3.1 <https://www.zeromq.org>
+- [nanomsg/nng](https://github.com/nanomsg/nng): nanomsg-next-generation --
+  light-weight brokerless messaging
+- [codypiersall/pynng](https://github.com/codypiersall/pynng): Python bindings
+  for Nanomsg Next Generation. <https://pynng.readthedocs.io>
+- [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor): High
+  Performance Inter-Thread Messaging Library
+  <http://lmax-exchange.github.io/disruptor/>
+- 📝 [shipt/py-volley](https://github.com/shipt/py-volley): Lightweight,
+  pluggable messaging in Python
+
+### Queue
 
 - [nats-io/nats-server](https://github.com/nats-io/nats-server):
   High-Performance server for NATS.io, the cloud and edge native messaging
