@@ -24,6 +24,8 @@
 - [stevana/armstrong-distributed-systems](https://github.com/stevana/armstrong-distributed-systems)
 - [darrenjw/fp-ssc-course](https://github.com/darrenjw/fp-ssc-course): An
   introduction to functional programming for scalable statistical computing
+- [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan):
+  📜 Haskell course info, plan, video lectures, slides
 
 ## Effect system
 
@@ -37,6 +39,9 @@
 - [Effect Handlers for WebAssembly](https://wasmfx.dev/)
 - [JeanHuguesdeRaigniac/effects-landscape](https://github.com/JeanHuguesdeRaigniac/effects-landscape):
   Effects libraries in Haskell
+- 🌟
+  [fused-effects/fused-effects](https://github.com/fused-effects/fused-effects):
+  A fast, flexible, fused effect system for Haskell #zio
 
 ## PL
 

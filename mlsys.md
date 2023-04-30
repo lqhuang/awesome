@@ -72,6 +72,11 @@
   notebooks that show how to use the model.
 - [google/maxtext](https://github.com/google/maxtext): A simple, performant and
   scalable Jax LLM!
+- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax):
+  This repository contains optimised JAX code for OpenAI's Whisper Model,
+  largely built on the 🤗 Hugging Face Transformers Whisper implementation.
+  Compared to OpenAI's PyTorch code, Whisper JAX runs over 70x faster, making it
+  the fastest Whisper implementation available.
 
 ### Inference engine / large-scale deployment
 

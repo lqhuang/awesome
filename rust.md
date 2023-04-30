@@ -418,6 +418,8 @@
 
 ### Middleware
 
+- [sfackler/r2d2](https://github.com/sfackler/r2d2): A generic connection pool
+  for Rust
 - [eclipse-iceoryx/iceoryx](https://github.com/eclipse-iceoryx/iceoryx): Eclipse
   iceoryx™ - true zero-copy inter-process-communication <https://iceoryx.io>
 - [eclipse-zenoh/zenoh](https://github.com/eclipse-zenoh/zenoh): zenoh unifies
@@ -448,6 +450,7 @@
   framework
 - [bincode-org/bincode](https://github.com/bincode-org/bincode): A binary
   encoder / decoder implementation in Rust.
+- [ron-rs/ron](https://github.com/ron-rs/ron): Rusty Object Notation
 
 ### Parser combinators
 

@@ -25,6 +25,10 @@
   work tracker for Faster CPython project.
 - [ericsnowcurrently/multi-core-python](https://github.com/ericsnowcurrently/multi-core-python):
   Enabling CPython multi-core parallelism via subinterpreters.
+- [ericsnowcurrently/cpython](https://github.com/ericsnowcurrently/cpython):
+  Eric Snow's fork of CPython.
+- [jsbueno/extrainterpreters](https://github.com/jsbueno/extrainterpreters):
+  Utilities for using Python's PEP 554 subinterpreters
 
 ## Toolchains
 
@@ -446,6 +450,8 @@
 - [GraiaProject/BroadcastControl](https://github.com/GraiaProject/BroadcastControl):
   a high performance, highly customizable, elegantly designed event system based
   on asyncio
+- [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with
+  regular expressions <https://trrex.readthedocs.io/en/latest/>
 
 ### High-level data structures
 
@@ -692,6 +698,9 @@
   made easy
 - [lmcinnes/glasbey](https://github.com/lmcinnes/glasbey): Algorithmically
   create or extend categorical colour palettes
+- 🌟 [csgoh/roadmapper](https://github.com/csgoh/roadmapper): Roadmapper - A
+  Roadmap as Code (Rac) python library. Generate professional roadmap diagram
+  using python code.
 
 #### GUI
 

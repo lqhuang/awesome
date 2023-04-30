@@ -33,6 +33,9 @@
   Continuous File Synchronization <https://forum.syncthing.net>
 - [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source
   KVM (switch) software
+- [fireyy/caricare](https://github.com/fireyy/caricare): A simple cross-platform
+  desktop application for S3-Compatible Object Storage. Built in Rust using
+  egui.
 
 ## macOS / iPadOS
 

@@ -57,6 +57,8 @@
 - [microsoft/semantic-kernels](https://github.com/microsoft/semantic-kernels):
   Integrate cutting-edge LLM technology quickly and easily into your apps
   <https://aka.ms/semantic-kernel>
+- ❔ [Xpitfire/symbolicai](https://github.com/Xpitfire/symbolicai):
+  Compositional Differentiable Programming Library
 
 ## ChatGPT
 

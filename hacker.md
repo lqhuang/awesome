@@ -146,28 +146,16 @@
 - 🌟 [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh): 💻📖 对开发
   人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns
   that developers will find useful.)
+- [LawRefBook/Laws](https://github.com/LawRefBook/Laws)
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate):
-
-## HomeKit / IoT
-
-- [homebridge/homebridge](https://github.com/homebridge/homebridge): HomeKit
-  support for the impatient. <https://homebridge.io>
-- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant):
-  A curated list of amazingly awesome Home Assistant resources.
-  <https://awesome-ha.com>
-- [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon):
-  Argon is a clean HTML5 theme for OpenWrt LuCI. Users may setup their own
-  favorite logins, including beautiful pics and customized mp4 videos.
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push
-  notifications to your phone or desktop using PUT/POST <https://ntfy.sh>
-- [khuedoan/homelab](https://github.com/khuedoan/homelab): Modern self-hosting
-  infrastructure, fully automated from empty disk to operating services with a
-  single command. <https://homelab.khuedoan.com>
-- [unpoller/unpoller](https://github.com/unpoller/unpoller): Application:
-  Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB
-  or Prometheus <https://unpoller.com>
+- 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC
+  <https://manfred.life/quicssh>
+- [moul/assh](https://github.com/moul/assh): 💻 make your ssh client smarter
+  <https://manfred.life/assh>
 
 ## Homelab
+
+### Services
 
 - [meienberger/runtipi](https://github.com/meienberger/runtipi): ⛺️ Tipi is a
   homeserver for everyone! One command setup, one click installs for your
@@ -192,6 +180,32 @@
 - [mdlayher/corerad](https://github.com/mdlayher/corerad): CoreRAD is an
   extensible and observable IPv6 Neighbor Discovery Protocol router
   advertisement daemon. Apache 2.0 Licensed. <https://corerad.net>
+- [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi): Raspberry Pi
+  & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github
+  Action / Daily Update)
+- [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates):
+  🚢 400+ 1-click Portainer app templates <https://portainer-templates.as93.net>
+- [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny): Hard Drive S.M.A.R.T
+  Monitoring, Historical Trends & Real World Failure Thresholds
+
+### HomeKit / IoT
+
+- [homebridge/homebridge](https://github.com/homebridge/homebridge): HomeKit
+  support for the impatient. <https://homebridge.io>
+- [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant):
+  A curated list of amazingly awesome Home Assistant resources.
+  <https://awesome-ha.com>
+- [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon):
+  Argon is a clean HTML5 theme for OpenWrt LuCI. Users may setup their own
+  favorite logins, including beautiful pics and customized mp4 videos.
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push
+  notifications to your phone or desktop using PUT/POST <https://ntfy.sh>
+- [khuedoan/homelab](https://github.com/khuedoan/homelab): Modern self-hosting
+  infrastructure, fully automated from empty disk to operating services with a
+  single command. <https://homelab.khuedoan.com>
+- [unpoller/unpoller](https://github.com/unpoller/unpoller): Application:
+  Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB
+  or Prometheus <https://unpoller.com>
 
 ## Proxy
 

@@ -1,5 +1,7 @@
 # Modern Data Stack
 
+## ELT / ETL
+
 - [dbt](https://www.getdbt.com/): Transforming data. Transforming teams. dbt™
   helps data teams work like software engineers—to ship trusted data, faster.
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence): Evidence
@@ -8,6 +10,9 @@
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte): Data integration
   platform for ELT pipelines from APIs, databases & files to warehouses & lakes.
   <https://airbyte.com/>
+- [meltano/meltano](https://github.com/meltano/meltano): Extract & Load with joy
+  — CLI & version control for ELT without limitations. No more black box. Let
+  your creativity flow. <https://meltano.com>
 
 ## Visualize frontend / BI
 

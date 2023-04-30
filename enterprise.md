@@ -55,6 +55,11 @@
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer
   是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
   <http://www.jumpserver.org>
+- [moul/sshportal](https://github.com/moul/sshportal): 🎩 simple, fun and
+  transparent SSH (and telnet) bastion server <https://manfred.life/sshportal>
+- [Apache Guacamole](https://guacamole.incubator.apache.org/): Apache Guacamole
+  is a clientless remote desktop gateway. It supports standard protocols like
+  VNC, RDP, and SSH.
 
 ### To User
 
@@ -72,6 +77,8 @@
   management <https://clerk.dev/>
 - [Auth0](https://github.com/auth0): Next.js SDK for signing in with Auth0
   <https://auth0.com>
+- [NangoHQ/nango](https://github.com/NangoHQ/nango): Get OAuth tokens for APIs -
+  fast & secure. <https://www.nango.dev>
 - [openfga/openfga](https://github.com/openfga/openfga): A high performance and
   flexible authorization/permission engine built for developers and inspired by
   Google Zanzibar <https://openfga.dev>
@@ -142,6 +149,8 @@
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs):
   A modern, high customizable, responsive Jekyll theme for documentation with
   built-in search. <https://just-the-docs.github.io/just-the-docs>
+- [Linen](https://www.linen.dev/): Sync your Slack and Discord conversations to
+  Linen and get SEO benefits while reducing customer support load
 
 ## DevOps
 
@@ -246,6 +255,9 @@
 - [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics):
   VictoriaMetrics: fast, cost-effective monitoring solution and time series
   database <https://victoriametrics.com>
+- [highlight/highlight](https://github.com/highlight/highlight): highlight.io:
+  The open source, full-stack monitoring platform. Error monitoring, session
+  replay, logging and more. <https://app.highlight.io>
 
 ### Logger search and analytics
 

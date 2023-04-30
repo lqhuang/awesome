@@ -122,6 +122,13 @@
 - [pixie-io/pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native
   Application Observability <https://px.dev>
 
+## Infrastructure less
+
+- [fly.io](fly.io)
+- [Railway]()
+- [Modal](https://modal.com/): End-to-end cloud compute. Model inference, batch
+  jobs, task queues, web apps and more. All without your own infrastructure.
+
 ## Could Foundry
 
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens): k9s like CLI for AWS
@@ -185,7 +192,7 @@
   adoption of services provided for AWS, Azure and Google in a way that meets
   existing regulatory and internal security controls.
 
-## Pricing
+### Pricing
 
 - [bytebase/dbcost](https://github.com/bytebase/dbcost): The simple pricing
   calculator and comparison tool for the cloud databases.

@@ -103,9 +103,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow): Highly customizable
   library for building interactive node-based UIs, editors, flow charts and
   diagrams
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over
-  3400 free MIT-licensed high-quality SVG icons for you to use in your web
-  projects. <https://tabler-icons.io>
+
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements):
   𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for
   commercial use <https://tailwind-elements.com>
@@ -222,7 +220,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   universal native apps with React. Expo runs on Android, iOS, and the web.
   <https://docs.expo.dev>
 
-## Design
+## Design / Resources
 
 - [nealmckee/penumbra](https://github.com/nealmckee/penumbra): Penumbra Color
   Theme
@@ -239,6 +237,16 @@ Major in React ecosystem, but also include other frameworks and libraries.
   [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks):
   System font stack CSS organized by typeface classification for every modern
   operating system
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over
+  3400 free MIT-licensed high-quality SVG icons for you to use in your web
+  projects. <https://tabler-icons.io>
+- [antfu/icones](https://github.com/antfu/icones): ⚡️ Icon Explorer with
+  Instant searching, powered by Iconify <https://icones.js.org/>
+- [iconify/iconify](https://github.com/iconify/iconify): Universal icon
+  framework. One syntax for FontAwesome, Material Design Icons, DashIcons,
+  Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+
+  icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!
+  <https://iconify.design>
 
 ## Build tools
 
@@ -249,6 +257,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
   scripts to make them smarter and more efficient.
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js):
   quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
+
+## WASM in Web
+
+- [grain-lang/grain](https://github.com/grain-lang/grain): The Grain compiler
+  toolchain and CLI. Home of the modern web staple. 🌾 <https://grain-lang.org>
 
 ## Toolchains
 
