@@ -121,6 +121,8 @@
   JSON Hero is an open-source, beautiful JSON explorer for the web that lets you
   browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the
   Trigger.dev team. <https://jsonhero.io/>
+- [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv): Directory-based
+  environments
 - [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with
   Protocol Buffers. <https://buf.build>
 - [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest
@@ -187,6 +189,8 @@
   🚢 400+ 1-click Portainer app templates <https://portainer-templates.as93.net>
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny): Hard Drive S.M.A.R.T
   Monitoring, Historical Trends & Real World Failure Thresholds
+- [stagit](https://git.codemadness.org/stagit/file/README.html): static git page
+  generator
 
 ### HomeKit / IoT
 
@@ -242,6 +246,9 @@
   script one key easy configurator and installer
 - [hq450/fancyss](https://github.com/hq450/fancyss): fancyss is a project
   providing tools to across the GFW on asuswrt/merlin based router.
+- [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls): A proxy to expose
+  real tls handshake to the firewall
+  <https://www.ihcblog.com/a-better-tls-obfs-proxy>
 
 ### DNS
 
@@ -303,3 +310,6 @@
   macOS, because privacy is sexy 🍑🍆 <https://privacy.sexy>
 - [privacytoolsIO/privacy-tools](https://github.com/privacytoolsIO/privacy-tools):
   Suggestions and Discussions for PrivacyTools.io <https://www.privacytools.io>
+- [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org):
+  Protect your data against global mass surveillance programs.
+  <https://www.privacyguides.org>

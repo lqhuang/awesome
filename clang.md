@@ -156,8 +156,10 @@
   epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a
   compact general purpose allocator with excellent performance.
-- [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux
-  IO analysis, networking, monitoring, and more
+- 🌟 [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based
+  Linux IO analysis, networking, monitoring, and more
+- 🌟 [uNetworking/uSockets](https://github.com/uNetworking/uSockets): Miniscule
+  cross-platform eventing, networking & crypto for async applications
 
 ## SIMD
 

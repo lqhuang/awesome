@@ -79,8 +79,6 @@
   Fully-local simulator for Cloudflare Workers
 - [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2): ⛅️ The CLI
   for Cloudflare Workers®
-- [octodns/octodns](https://github.com/octodns/octodns): Tools for managing DNS
-  across multiple providers
 - [drivendataorg/cloudpathlib](https://github.com/drivendataorg/cloudpathlib):
   Python pathlib-style classes for cloud storage services such as Amazon S3,
   Azure Blob Storage, and Google Cloud Storage.
@@ -124,10 +122,15 @@
 
 ## Infrastructure less
 
-- [fly.io](fly.io)
-- [Railway]()
+- [Fly](https://fly.io): Deploy app servers close to your users
+- [Railway](https://railway.app):Render is a unified cloud to build and run all
+  your apps and websites with free TLS certificates, a global CDN, DDoS
+  protection, private networks, and auto deploys from Git.
 - [Modal](https://modal.com/): End-to-end cloud compute. Model inference, batch
   jobs, task queues, web apps and more. All without your own infrastructure.
+- [Render](https://render.com): Render is a unified cloud to build and run all
+  your apps and websites with free TLS certificates, a global CDN, DDoS
+  protection, private networks, and auto deploys from Git.
 
 ## Could Foundry
 
@@ -206,3 +209,9 @@
 
 - [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane): 🔥
   Blazing fast bulk data transfers between any cloud 🔥 <https://skyplane.org>
+- 🌟 [octodns/octodns](https://github.com/octodns/octodns): Tools for managing
+  DNS across multiple providers
+- [libdns/libdns](https://github.com/libdns/libdns): Core interfaces for
+  universal DNS record manipulation across providers
+- [go-acme/lego](https://github.com/go-acme/lego): Let's Encrypt/ACME client and
+  library written in Go <https://go-acme.github.io/lego/>

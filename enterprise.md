@@ -47,9 +47,6 @@
   access control policies for your application resources. <https://cerbos.dev>
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH):
   ContainerSSH: Launch containers on demand <https://containerssh.io>
-- [Infisical/infisical](https://github.com/Infisical/infisical): ♾ Infisical is
-  an open-source, end-to-end encrypted tool to sync environment variables across
-  your team and infrastructure. <https://infisical.com>
 - [kanidm/kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure
   and fast identity management platform
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer
@@ -60,6 +57,12 @@
 - [Apache Guacamole](https://guacamole.incubator.apache.org/): Apache Guacamole
   is a clientless remote desktop gateway. It supports standard protocols like
   VNC, RDP, and SSH.
+- [Infisical/infisical](https://github.com/Infisical/infisical): ♾ Infisical is
+  an open-source, end-to-end encrypted tool to sync environment variables across
+  your team and infrastructure. <https://infisical.com>
+- [configu/configu](https://github.com/configu/configu): a simple, modern, and
+  generic standard for managing and collaborating software configurations ⚙️✨.
+  <https://configu.com/>
 
 ### To User
 

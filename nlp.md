@@ -59,6 +59,10 @@
   <https://aka.ms/semantic-kernel>
 - ❔ [Xpitfire/symbolicai](https://github.com/Xpitfire/symbolicai):
   Compositional Differentiable Programming Library
+- 📝 [1rgs/jsonformer](https://github.com/1rgs/jsonformer): A Bulletproof Way to
+  Generate Structured JSON from Language Models
+- [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json):
+  Structured and typehinted GPT responses in Python
 
 ## ChatGPT
 

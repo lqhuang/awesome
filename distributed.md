@@ -125,6 +125,8 @@
 - [tigerbeetledb/viewstamped-replication-made-famous](https://github.com/tigerbeetledb/viewstamped-replication-made-famous):
   A $20k consensus challenge based on TigerBeetle's implementation of the
   pioneering Viewstamped Replication protocol.
+- [haraldng/omnipaxos](https://github.com/haraldng/omnipaxos): OmniPaxos is a
+  distributed log implemented as a Rust library. <https://omnipaxos.com/>
 
 ## Correctness
 

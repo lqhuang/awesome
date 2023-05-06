@@ -55,10 +55,10 @@
   your menu bar
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a
   full-fledged code editor for iPad <https://code.thebaselab.com>
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock
-  your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra
-  brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots
-  more! <https://betterdisplay.pro>
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl):
+  🖥 Control your display's brightness & volume on your Mac as if it was a native
+  Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native
+  macOS OSDs. <https://monitorcontrol.app/>
 - [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager
   for macOS <https://maccy.app>
 - [sicreative/BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow):
@@ -100,7 +100,12 @@
 - [Sensei](https://cindori.com/sensei): Sensei is the ultimate app for
   optimizing your Mac. Featuring a wide range of advanced cleaning and
   monitoring features, it's never been easier to maximize your Mac performance.
-  <https://cindori.com/sensei>
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock
+  your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra
+  brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots
+  more! <https://betterdisplay.pro>
+- [alin23/Lunar](https://github.com/alin23/Lunar): Intelligent adaptive
+  brightness for your external monitors <https://lunar.fyi>
 - [NTFS Disk by Omi](https://omiapps.com/product/1585757563): Best NTFS Disk
   Manager on Mac App Store
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve):
@@ -117,6 +122,13 @@
 - [Batteries for Mac](https://www.fadel.io/batteries): Track all your devices'
   batteries from your Mac.
 - [Shrugs.app](https://shrugs.app): Integrate macOS into your Slack experience.
+- [Sip](https://sipapp.io/): A better Color Picker for your Mac.
+- [BetterTouchTool](https://folivora.ai/): BetterTouchTool is a great, feature
+  packed app that allows you to customize various input devices on your Mac.
+- 🌟 [Swish](https://highlyopinionated.co/swish/): Insanely great window
+  management
+- 🌟 [GPG Suite](https://gpgtools.org/): One simple package with everything you
+  need, to protect your emails and files.
 
 ## Services
 
@@ -142,12 +154,6 @@
 - [microfeed/microfeed](https://github.com/microfeed/microfeed): a lightweight
   cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents,
   and curated urls. <https://www.microfeed.org>
-- [wagtail/wagtail](https://github.com/wagtail/wagtail): A Django content
-  management system focused on flexibility and user experience
-  <https://wagtail.org>
-- [strapi/strapi](https://github.com/strapi/strapi): 🚀 Strapi is the leading
-  open-source headless CMS. It’s 100% JavaScript, fully customizable and
-  developer-first. <https://strapi.io>
 - [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered
   Photos App for the Decentralized Web 🌈💎✨ <https://photoprism.app>
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee): A great looking and
@@ -160,6 +166,9 @@
   as mindmaps with Markmap.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot): FauxPilot - an
   open-source GitHub Copilot server
+- [matrix-org/dendrite](https://github.com/matrix-org/dendrite): Dendrite is a
+  second-generation Matrix homeserver written in Go!
+  <https://matrix-org.github.io/dendrite/>
 
 ### Email
 

@@ -22,6 +22,8 @@ more like a toolbox for myself.
   benchmarking tool
 - [intel/PerfSpect](https://github.com/intel/PerfSpect): system performance
   characterization tool based on linux perf
+- [baidu/dperf](https://github.com/baidu/dperf): dperf is a DPDK based 100Gbps
+  network performance and load testing software.
 
 ### WASM Runtime
 

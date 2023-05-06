@@ -103,7 +103,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [wbkd/react-flow](https://github.com/wbkd/react-flow): Highly customizable
   library for building interactive node-based UIs, editors, flow charts and
   diagrams
-
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements):
   𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for
   commercial use <https://tailwind-elements.com>
@@ -119,6 +118,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
   tiling window manager <https://nomcopter.github.io/react-mosaic/>
 - [remirror/remirror](https://github.com/remirror/remirror): ProseMirror toolkit
   for React 🎉 <https://remirror.io>
+- [editablejs/editable](https://github.com/editablejs/editable): Editable is an
+  extensible rich text editor framework that uses custom renderers for
+  rendering, instead of the contenteditable attribute, thus avoiding
+  compatibility issues across browsers and platforms. It focuses on stability,
+  controllability, and performance. <https://docs.editablejs.com/>
 - [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build
   and send emails using React <https://react.email>
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone):
@@ -133,8 +137,16 @@ Major in React ecosystem, but also include other frameworks and libraries.
   Modern Timeline Component for React <https://react-chrono.prabhumurthy.com/>
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso): The most
   powerful virtual list component for React <https://virtuoso.dev/>
+- 🌟
+  [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer):
+  Simple React Component That Makes Titles More Readable
+  <https://react-wrap-balancer.vercel.app/>
+- [vercel/satori](https://github.com/vercel/satori): Enlightened library to
+  convert HTML and CSS to SVG <https://og-playground.vercel.app/>
+- [bhch/react-json-form](https://github.com/bhch/react-json-form): JSON editing
+  made easy using form inputs. <https://bhch.github.io/react-json-form>
 
-## Utils
+## Functional libraries
 
 - [streamich/react-use](https://github.com/streamich/react-use): React Hooks —
   👍 <http://streamich.github.io/react-use>
@@ -147,11 +159,28 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://tinybase.org>
 - [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies
   and exports in your JS/TS project
+
+### SerDe / Schema
+
 - [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first schema
   validation with static type inference <https://zod.dev>
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv): The fastest JSON
   schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON
   Type Definition (RFC8927) <https://ajv.js.org>
+- [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct): A
+  simple and composable way to validate data in JavaScript (and TypeScript).
+  <https://docs.superstructjs.org/>
+- [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema
+  validation
+- [tskj/typescript-json-decoder](https://github.com/tskj/typescript-json-decoder):
+  Json Decoder for Typescript
+- [gcanti/io-ts](https://github.com/gcanti/io-ts): Runtime type system for IO
+  decoding/encoding <https://gcanti.github.io/io-ts/>
+- [Effect-TS/schema](https://github.com/Effect-TS/schema): Modeling the schema
+  of data structures as first-class values <https://effect-ts.github.io/schema>
+
+### Date
+
 - [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable
   date-time library alternative to Moment.js with the same modern API
   <https://day.js.org>
@@ -265,11 +294,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ## Toolchains
 
-- [volta-cli/volta](https://github.com/volta-cli/volta): Volta: JS Toolchains as
-  Code. ⚡ <https://volta.sh>
+- [nodenv/nodenv](https://github.com/nodenv/nodenv): Manage multiple NodeJS
+  versions.
 - [tj/n](https://github.com/tj/n): Node version management
 - [Schniz/fnm](https://github.com/Schniz/fnm): 🚀 Fast and simple Node.js
   version manager, built in Rust <https://fnm.vercel.app>
+- [volta-cli/volta](https://github.com/volta-cli/volta): Volta: JS Toolchains as
+  Code. ⚡ <https://volta.sh>
 
 ## Misc
 
