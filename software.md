@@ -36,6 +36,16 @@
 - [fireyy/caricare](https://github.com/fireyy/caricare): A simple cross-platform
   desktop application for S3-Compatible Object Storage. Built in Rust using
   egui.
+- 🌟
+  [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker):
+  Make bilingual epub books Using AI translate
+- [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin):
+  A Calibre plugin to translate ebook into a specified language.
+  <https://bookfere.com/post/1057.html>
+- 🌟
+  [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate):
+  Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
+  <https://immersive-translate.owenyoung.com/>
 
 ## macOS / iPadOS
 
@@ -86,6 +96,8 @@
   utility that helps hide menu bar icons <https://d.foundation/opensource>
 - [MacPass/MacPass](https://github.com/MacPass/MacPass): A native macOS KeePass
   client <https://macpassapp.org>
+- [actuallymentor/battery](https://github.com/actuallymentor/battery): CLI for
+  managing the battery charging status for M1 Macs
 
 ### Free / Paid
 
@@ -129,6 +141,8 @@
   management
 - 🌟 [GPG Suite](https://gpgtools.org/): One simple package with everything you
   need, to protect your emails and files.
+- [AlDente - Charge Limiter](https://apphousekitchen.com/): The ALL-IN-ONE
+  charge Limiter App for MacBooks.
 
 ## Services
 

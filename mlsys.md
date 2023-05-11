@@ -77,6 +77,11 @@
   largely built on the 🤗 Hugging Face Transformers Whisper implementation.
   Compared to OpenAI's PyTorch code, Whisper JAX runs over 70x faster, making it
   the fastest Whisper implementation available.
+- [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor):
+  Library of deep learning models and datasets designed to make deep learning
+  more accessible and accelerate ML research.
+- 🌟 [google/trax](https://github.com/google/trax): Trax — Deep Learning with
+  Clear Code and Speed
 
 ### Inference engine / large-scale deployment
 

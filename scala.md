@@ -20,6 +20,10 @@
   Programming Language.
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala): A community
   driven list of useful Scala libraries, frameworks and software.
+- [Zelenya/fs2-guide](https://github.com/Zelenya/fs2-guide): Interactive dive
+  into fs2
+- [YannMoisan/hands-on-cats](https://github.com/YannMoisan/hands-on-cats):
+  Discover cats by coding a few simple exercises
 
 ## Master these you rule the world
 
@@ -52,6 +56,14 @@
   dynamically set your version from git
 - [sbt/sbt-license-report](https://github.com/sbt/sbt-license-report): Report on
   licenses used in an sbt project.
+- [thesamet/sbt-protoc](https://github.com/thesamet/sbt-protoc): SBT plugin for
+  generating code from Protocol Buffer using protoc
+- [sbt/sbt-ci-release](https://github.com/sbt/sbt-ci-release): sbt plugin to
+  automate Sonatype releases from GitHub Actions
+- [sbt/sbt-github-actions](https://github.com/sbt/sbt-github-actions): An sbt
+  plugin which makes it easier to build with GitHub Actions
+- [sbt/sbt-header](https://github.com/sbt/sbt-header): sbt-header is an sbt
+  plugin for creating file headers, e.g. copyright headers
 
 ### Testing
 
@@ -84,6 +96,8 @@
   CPS transformer for dotty
 - [lampepfl/async](https://github.com/lampepfl/async): A strawman for a
   low-level async library in Scala 3
+- [sideeffffect/scala-rust-interop](https://github.com/sideeffffect/scala-rust-interop):
+  Scala <-> Rust interop
 
 ### Types
 
@@ -98,7 +112,7 @@
   customizable compile time transformations between similar case classes and
   sealed traits/enums, essentially a thing that glues your code. Scala 3 only.
   Or is it duct 🤔
-- [epfl-lara/stainless](https://github.com/epfl-lara/stainless): Verification
+- 🌟 [epfl-lara/stainless](https://github.com/epfl-lara/stainless): Verification
   framework and tool for higher-order Scala programs <https://stainless.epfl.ch>
 - [earldouglas/linear-scala](https://github.com/earldouglas/linear-scala):
   Linear types in Scala
@@ -170,6 +184,8 @@
   lightweight event streaming library for Scala 3
 - [oyvindberg/tui-scala](https://github.com/oyvindberg/tui-scala): Beautiful
   Text-based User Interfaces for Scala
+- [scala/toolkit](https://github.com/scala/toolkit): The batteries-included
+  Scala
 
 ## Stream / Effect systems / Experiments
 
@@ -244,6 +260,8 @@
 
 ### ZIO
 
+- [ghostdogpr/zio-cheatsheet](https://github.com/ghostdogpr/zio-cheatsheet): ZIO
+  Cheat Sheet
 - [ghostdogpr/caliban](https://github.com/ghostdogpr/caliban): Functional
   GraphQL library for Scala <https://ghostdogpr.github.io/caliban>
 - [devsisters/shardcake](https://github.com/devsisters/shardcake): Sharding and

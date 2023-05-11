@@ -167,6 +167,8 @@
 - [orsinium-labs/pytypest](https://github.com/orsinium-labs/pytypest): Testing
   framework that empowers pytest (with better fixtures and parametrization)
   <https://pytypest.orsinium.dev>
+- [typeddjango/pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins):
+  pytest plugin for testing mypy types, stubs, and plugins
 
 ### Performance profile
 
@@ -213,6 +215,9 @@
 
 ### Typing
 
+- [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing):
+  Collection of awesome Python types, stubs, plugins, and tools to work with
+  them.
 - [beartype/beartype](https://github.com/beartype/beartype): Unbearably fast
   O(1) runtime type-checking in pure Python.
 - [agronholm/typeguard](https://github.com/agronholm/typeguard): Run-time type

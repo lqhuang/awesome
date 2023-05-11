@@ -13,6 +13,9 @@
 - [meltano/meltano](https://github.com/meltano/meltano): Extract & Load with joy
   — CLI & version control for ELT without limitations. No more black box. Let
   your creativity flow. <https://meltano.com>
+- 🌟 [roapi/roapi](https://github.com/roapi/roapi): Create full-fledged APIs for
+  slowly moving datasets without writing a single line of code.
+  <https://roapi.github.io/docs>
 
 ## Visualize frontend / BI
 

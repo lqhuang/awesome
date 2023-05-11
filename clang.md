@@ -15,6 +15,8 @@
   ([gitbooks index](https://0xax.gitbooks.io/linux-insides/content/index.html))
 - [nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning):
   learn how to use BPF/eBPF
+- [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners): The
+  beginner's guide to eBPF
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 - [C++ reference](https://en.cppreference.com/w/)
 - [C reference](https://en.cppreference.com/w/c)

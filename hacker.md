@@ -145,11 +145,6 @@
   A collection of useful .gitattributes templates
 - 🌟 [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your
   project. 🌐 Share with the world! <http://socialify.git.ci>
-- 🌟 [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh): 💻📖 对开发
-  人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns
-  that developers will find useful.)
-- [LawRefBook/Laws](https://github.com/LawRefBook/Laws)
-- [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate):
 - 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC
   <https://manfred.life/quicssh>
 - [moul/assh](https://github.com/moul/assh): 💻 make your ssh client smarter
@@ -249,6 +244,10 @@
 - [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls): A proxy to expose
   real tls handshake to the firewall
   <https://www.ihcblog.com/a-better-tls-obfs-proxy>
+- [zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng): chinadns 重构增强版，
+  支持黑白名单，ipset/nftset
+- [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建
+  SS/SSR/V2Ray/Trojan/Socks5 透明代理的 Shell 脚本
 
 ### DNS
 
@@ -278,6 +277,10 @@
   <https://qwerty.kaiyi.cool>
 - [zhaoolee/ins](https://github.com/zhaoolee/ins): 🍭 互联网从业者的灵感数据库，
   无广告，Github Actions 自动检测网站访问速度
+- 🌟 [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh): 💻📖 对开发
+  人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns
+  that developers will find useful.)
+- [LawRefBook/Laws](https://github.com/LawRefBook/Laws)
 
 ### Code as Graph
 

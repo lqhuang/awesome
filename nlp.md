@@ -31,6 +31,8 @@
   code for LLaMA models
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp): Port of
   Facebook's LLaMA model in C/C++
+- [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder):
+  Home of StarCoder: fine-tuning & inference!
 
 ## LLM
 
@@ -128,6 +130,8 @@
   <https://chatguide.plexpt.com/>
 - [thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt):
   免费 Prompt Engineering 教程 <https://learningprompt.wiki>
+- [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers):
+  吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版
 
 ### ChatGPT Web UI
 

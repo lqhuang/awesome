@@ -107,3 +107,5 @@
 - [OneKeyHQ/app-monorepo](https://github.com/OneKeyHQ/app-monorepo): Secure,
   open source and community driven crypto wallet runs on all platforms and
   trusted by millions. <https://onekey.so>
+- [monero-project/monero](https://github.com/monero-project/monero): Monero: the
+  secure, private, untraceable cryptocurrency <https://getmonero.org/>
