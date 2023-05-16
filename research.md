@@ -72,3 +72,6 @@
   language server for Typst, plus a VS Code extension
 - [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX
   math description from Python functions.
+- [papis/papis](https://github.com/papis/papis): Powerful and highly extensible
+  command-line based document and bibliography manager.
+  <http://papis.readthedocs.io/en/latest/>

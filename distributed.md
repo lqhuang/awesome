@@ -127,6 +127,9 @@
   pioneering Viewstamped Replication protocol.
 - [haraldng/omnipaxos](https://github.com/haraldng/omnipaxos): OmniPaxos is a
   distributed log implemented as a Rust library. <https://omnipaxos.com/>
+- [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft): A Redis Module
+  that make it possible to create a consistent Raft cluster from multiple Redis
+  instances. <https://desktop.github.com>
 
 ## Correctness
 

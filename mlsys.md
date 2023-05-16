@@ -72,6 +72,8 @@
   notebooks that show how to use the model.
 - [google/maxtext](https://github.com/google/maxtext): A simple, performant and
   scalable Jax LLM!
+- [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax):
+  Model parallel transformers in JAX and Haiku <https://desktop.github.com>
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax):
   This repository contains optimised JAX code for OpenAI's Whisper Model,
   largely built on the 🤗 Hugging Face Transformers Whisper implementation.
@@ -82,6 +84,10 @@
   more accessible and accelerate ML research.
 - 🌟 [google/trax](https://github.com/google/trax): Trax — Deep Learning with
   Clear Code and Speed
+- [NVIDIA-Merlin/Merlin](https://github.com/NVIDIA-Merlin/Merlin): NVIDIA Merlin
+  is an open source library providing end-to-end GPU-accelerated recommender
+  systems, from feature engineering and preprocessing to training deep learning
+  models and running inference in production. <https://desktop.github.com>
 
 ### Inference engine / large-scale deployment
 
@@ -120,6 +126,9 @@
   serving framework for ML models, offers dynamic batching and multi-stage
   pipeline to fully exploit your compute machine
   <https://mosecorg.github.io/mosec/>
+- [iqiyi/xgboost-serving](https://github.com/iqiyi/xgboost-serving): A flexible,
+  high-performance serving system for machine learning models
+  <https://desktop.github.com>
 
 ## Tensor inference / Compiler / Low level
 
@@ -198,9 +207,8 @@
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX
   is a sampling library designed for ease of use, speed and modularity.
   <https://blackjax-devs.github.io/blackjax>
-- [thomaspinder/GPJax](https://github.com/thomaspinder/GPJax): A didactic
-  Gaussian process package for researchers in Jax.
-  <https://gpjax.readthedocs.io/en/latest>
+- [JaxGaussianProcesses/GPJax](https://github.com/JaxGaussianProcesses/GPJax):
+  Gaussian processes in JAX. <https://docs.jaxgaussianprocesses.com/>
 - [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax): Numerical
   differential equation solvers in JAX. Autodifferentiable and GPU-capable.
   <https://docs.kidger.site/diffrax>

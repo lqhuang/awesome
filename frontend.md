@@ -76,7 +76,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   system for modern web experiences. <https://www.fast.design>
 - [refinedev/refine](https://github.com/refinedev/refine): Build your
   React-based CRUD applications, without constraints. <https://refine.dev/>
-- [themesberg/flowbite](https://github.com/themesberg/flowbite): The most
+- 🌟 [themesberg/flowbite](https://github.com/themesberg/flowbite): The most
   popular and open-source library of Tailwind CSS components
   <https://flowbite.com>
 
@@ -97,6 +97,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [tw-in-js/twind](https://github.com/tw-in-js/twind): The smallest, fastest,
   most feature complete Tailwind-in-JS solution in existence.
   <https://twind.style>
+- [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract):
+  Zero-runtime Stylesheets-in-TypeScript <https://vanilla-extract.style>
+- [stitchesjs/stitches](https://github.com/stitchesjs/stitches): CSS-in-JS with
+  near-zero runtime, SSR, multi-variant support, and a best-in-class developer
+  experience. <https://stitches.dev>
 
 ### Components
 
@@ -143,8 +148,23 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://react-wrap-balancer.vercel.app/>
 - [vercel/satori](https://github.com/vercel/satori): Enlightened library to
   convert HTML and CSS to SVG <https://og-playground.vercel.app/>
+- [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form):
+  📋 React Hooks for form state management and validation (Web + React Native)
+  <https://react-hook-form.com>
+- [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in
+  React, without the tears 😭 <https://formik.org>
 - [bhch/react-json-form](https://github.com/bhch/react-json-form): JSON editing
   made easy using form inputs. <https://bhch.github.io/react-json-form>
+- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys): A tiny (~400
+  B) & modern library for keybindings. <https://jamiebuilds.github.io/tinykeys/>
+- [DiiiaZoTe/next-route-visualizer](https://github.com/DiiiaZoTe/next-route-visualizer):
+  <https://next-route-visualizer.vercel.app>
+- [bkrem/react-d3-tree](https://github.com/bkrem/react-d3-tree): 🌳 React
+  component to create interactive D3 tree graphs
+  <https://bkrem.github.io/react-d3-tree>
+- [Oblosys/react-lifecycle-visualizer](https://github.com/Oblosys/react-lifecycle-visualizer):
+  Real-time visualizer for React lifecycle methods
+  <https://codesandbox.io/s/github/Oblosys/react-lifecycle-visualizer/tree/master/examples/parent-child-demo?file=/src/samples/New.js>
 
 ## Functional libraries
 
@@ -239,15 +259,15 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [TanStack/react-charts](https://github.com/TanStack/react-charts): ⚛️ Simple,
   immersive & interactive charts for React <https://react-charts.tanstack.com>
 
-## GUI
+## Not only Web
 
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight):
   Next-generation HTML renderer for apps and games <https://ultralig.ht>
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus): Friendly React-like
   GUI library for desktop, web, mobile, and more. <https://dioxuslabs.com>
-- [expo/expo](https://github.com/expo/expo): An open-source platform for making
-  universal native apps with React. Expo runs on Android, iOS, and the web.
-  <https://docs.expo.dev>
+- 🌟 [expo/expo](https://github.com/expo/expo): An open-source platform for
+  making universal native apps with React. Expo runs on Android, iOS, and the
+  web. <https://docs.expo.dev>
 
 ## Design / Resources
 
@@ -309,8 +329,27 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [instantpage/instant.page](https://github.com/instantpage/instant.page): Make
   your site’s pages instant in 1 minute and improve your conversion rate by 1%
   <https://instant.page>
+- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react):
+  🛡️ ⚛️ A simple, scalable, and powerful architecture for building production
+  ready React applications.
+- [Orillusion/orillusion](https://github.com/Orillusion/orillusion): Orillusion
+  is a pure Web3D rendering engine which is fully developed based on the WebGPU
+  standard. <https://www.orillusion.com>
 
 ## SSG
 
 - [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build
   on top of Notion and NextJS, deployed on Vercel. <https://nobelium.js.org>
+
+## SSR
+
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio): The fast, flexible,
+  and elegant library for parsing and manipulating HTML and XML.
+  <https://cheerio.js.org/>
+- [xmldom/xmldom](https://github.com/xmldom/xmldom): A pure JavaScript W3C
+  standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.
+- [fb55/htmlparser2](https://github.com/fb55/htmlparser2): The fast & forgiving
+  HTML and XML parser <https://feedic.com/htmlparser2>
+- [inikulin/parse5](https://github.com/inikulin/parse5): HTML
+  parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka
+  HTML5)-compliant.

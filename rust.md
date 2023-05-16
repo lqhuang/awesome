@@ -111,6 +111,8 @@
   program static stack analysis
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall):
   Binary installation for rust projects
+- [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef): A
+  cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 
 ### Test suites
 
@@ -597,6 +599,9 @@
   bindings generator for rust <https://mozilla.github.io/uniffi-rs>
 - [nvzqz/fruity](https://github.com/nvzqz/fruity): Rusty bindings for Apple
   libraries
+- [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao): Rust bindings for
+  AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
+  <https://desktop.github.com>
 - [duchess-rs/duchess](https://github.com/duchess-rs/duchess): Experiments with
   Java-Rust interop <https://duchess-rs.github.io/duchess>
 

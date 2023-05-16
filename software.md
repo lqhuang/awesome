@@ -46,6 +46,8 @@
   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate):
   Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
   <https://immersive-translate.owenyoung.com/>
+- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible
+  <https://docs.rsshub.app>
 
 ## macOS / iPadOS
 

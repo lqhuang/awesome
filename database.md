@@ -52,10 +52,12 @@
   Arrow Ballista Distributed Query Engine <https://arrow.apache.org/ballista>
 - [marsupialtail/quokka](https://github.com/marsupialtail/quokka): Open source
   SQL engine in Python <https://marsupialtail.github.io/quokka>
-- 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source
-  vector similarity search for Postgres
-- 🌟 [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python):
-  pgvector support for Python
+- 🌟 [apache/calcite](https://github.com/apache/calcite): Apache Calcite is a
+  dynamic data management framework. . It provides an industry standard SQL
+  parser and validator, a customisable optimizer with pluggable rules and cost
+  functions, logical and physical algebraic operators, various transformation
+  algorithms from SQL to algebra (and the opposite).
+  <https://calcite.apache.org/>
 
 ## New databases
 
@@ -117,6 +119,9 @@
 - 🌟 [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB -
   the open source, distributed, transactional key-value store
   <https://www.foundationdb.org>
+- [microsoft/FASTER](https://github.com/microsoft/FASTER): Fast persistent
+  recoverable log and key-value store + cache, in C# and C++.
+  <https://aka.ms/FASTER>
 
 ### Vector
 
@@ -206,7 +211,11 @@
   management extension for PostgreSQL
 - [postgrespro/aqo](https://github.com/postgrespro/aqo): Adaptive query
   optimization for PostgreSQL
-- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs): Vector
+- 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source
+  vector similarity search for Postgres
+- 🌟 [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python):
+  pgvector support for Python
+- 🌟 [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs): Vector
   database plugin for Postgres, written in Rust
 
 ### SQLite

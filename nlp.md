@@ -11,9 +11,6 @@
 - [argilla-io/argilla](https://github.com/argilla-io/argilla): ✨ Open-source
   tool for data-centric NLP. Argilla helps domain experts and data teams to
   build better NLP datasets in less time. <https://docs.argilla.io>
-- [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library
-  for efficient similarity search and clustering of dense vectors.
-  <https://faiss.ai>
 - [nomic-ai/nomic](https://github.com/nomic-ai/nomic): Interact with Massive
   Embedding and Text Datasets in Your Web Browser <https://atlas.nomic.ai>
 - [chroma-core/chroma](https://github.com/chroma-core/chroma): the open source
@@ -22,6 +19,22 @@
   BPE tokeniser for use with OpenAI's models.
 - [bytedance/lightseq](https://github.com/bytedance/lightseq): LightSeq: A High
   Performance Library for Sequence Processing and Generation
+
+## Embedding Search (ANN)
+
+- [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library
+  for efficient similarity search and clustering of dense vectors.
+  <https://faiss.ai>
+- [spotify/annoy](https://github.com/spotify/annoy): Approximate Nearest
+  Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+- [matsui528/rii](https://github.com/matsui528/rii): Fast and memory-efficient
+  ANN with a subset-search functionality
+- [microsoft/DiskANN](https://github.com/microsoft/DiskANN): Graph-structured
+  Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor
+  Search
+- [unum-cloud/usearch](https://github.com/unum-cloud/usearch): Smaller & Faster
+  Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram
+  <https://unum-cloud.github.io/usearch/>
 
 ## Network Implementations
 
@@ -33,6 +46,11 @@
   Facebook's LLaMA model in C/C++
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder):
   Home of StarCoder: fine-tuning & inference!
+- [rustformers/llm](https://github.com/rustformers/llm): Run inference for Large
+  Language Models on CPU, with Rust 🦀🚀🦙
+- [declare-lab/flan-alpaca](https://github.com/declare-lab/flan-alpaca): This
+  repository contains code for extending the Stanford Alpaca synthetic
+  instruction tuning to existing instruction-tuned models such as Flan-T5.
 
 ## LLM
 

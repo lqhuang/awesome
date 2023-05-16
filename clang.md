@@ -96,6 +96,10 @@
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer):
   Decompiler Explorer! Compare tools on the forefront of static analysis, now in
   your web browser! <https://dogbolt.org>
+- [catchorg/Catch2](https://github.com/catchorg/Catch2): A modern, C++-native,
+  test framework for unit-tests, TDD and BDD - using C++14, C++17 and later
+  (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+  <https://discord.gg/4CWS9zD>
 
 ### Performance profile
 
@@ -162,6 +166,9 @@
   Linux IO analysis, networking, monitoring, and more
 - 🌟 [uNetworking/uSockets](https://github.com/uNetworking/uSockets): Miniscule
   cross-platform eventing, networking & crypto for async applications
+- [facebook/CacheLib](https://github.com/facebook/CacheLib): Pluggable
+  in-process caching engine to build and scale high performance services
+  <https://www.cachelib.org>
 
 ## SIMD
 

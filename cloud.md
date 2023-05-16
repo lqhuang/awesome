@@ -61,6 +61,8 @@
 - [orsinium-labs/docked](https://github.com/orsinium-labs/docked): A friendly
   and safe alternative to Dockefile. Write Docker images using the full power of
   Python. <https://docked.orsinium.dev>
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The
+  lazier way to manage everything docker
 
 ## Routing
 

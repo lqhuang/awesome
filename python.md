@@ -18,6 +18,8 @@
 - [pypackaging-native/pypackaging-native](https://github.com/pypackaging-native/pypackaging-native):
   A collection of content about key Python packaging topics and issues for
   projects using native code <https://pypackaging-native.github.io>
+- [Chang-LeHung/dive-into-cpython](https://github.com/Chang-LeHung/dive-into-cpython):
+  dive into cpython source code
 
 ## Future?
 
@@ -334,6 +336,9 @@
 - [h2oai/datatable](https://github.com/h2oai/datatable): A Python package for
   manipulating 2-dimensional tabular data structures
   <https://datatable.readthedocs.io>
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai): Pandas AI is a
+  Python library that integrates generative artificial intelligence capabilities
+  into Pandas, making dataframes conversational
 
 ### Prob
 
@@ -434,6 +439,9 @@
 - 🌟 [guilatrova/gracy](https://github.com/guilatrova/gracy): Gracy helps you
   handle failures, logging, retries, throttling, and tracking for all your HTTP
   interactions.
+- [aiogram/aiogram](https://github.com/aiogram/aiogram): aiogram is a modern and
+  fully asynchronous framework for Telegram Bot API written in Python using
+  asyncio <https://aiogram.dev>
 
 ## Featured libraries
 
@@ -725,3 +733,6 @@
   from Python <https://www.pyvibe.com>
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui): Create web-based
   interfaces with Python. The nice way. <https://nicegui.io>
+- [widgetti/solara](https://github.com/widgetti/solara): A Pure Python,
+  React-style Framework for Scaling Your Jupyter and Web Apps
+  <https://solara.dev>

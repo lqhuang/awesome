@@ -99,6 +99,10 @@
   "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST
   APIs, newSQL, and an easy and granular permission language. Supports ACL,
   RBAC, and other access models. <https://www.ory.sh>
+- [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source Identity
+  and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin
+  and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
+  <https://casdoor.org>
 
 ## Dev tools
 
@@ -324,6 +328,9 @@
   <https://sourcery.ai>
 - [BuildJet: For GitHub Actions](https://buildjet.com/for-github-actions): Make
   GitHub Actions Faster. Managed performance runners for Github Actions.
+- 🌟 [renovatebot/renovate](https://github.com/renovatebot/renovate): Universal
+  dependency update tool that fits into your workflows.
+  <https://renovatebot.com>
 
 ## Security
 
@@ -332,9 +339,6 @@
 - [libyear](https://libyear.com/): A **simple** measure of software dependency
   freshness. It is a **single number** telling you how up-to-date your
   dependencies are.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate): Universal
-  dependency update tool that fits into your workflows.
-  <https://renovatebot.com>
 
 ### Web
 
@@ -358,3 +362,5 @@
   engine written in Rust. <https://bloop.ai>
 - [GerevAI/gerev](https://github.com/GerevAI/gerev): ChatGPT Workplace Search
   Engine
+- [suno-ai/bark](https://github.com/suno-ai/bark): 🔊 Text-Prompted Generative
+  Audio Model <https://desktop.github.com>

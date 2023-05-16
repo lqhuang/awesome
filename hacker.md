@@ -85,6 +85,10 @@
   JSON <https://miller.readthedocs.io/>
 - [zwpaper/dilu](https://github.com/zwpaper/dilu): A colorful CLI client with
   icons for accessing data via OpenDAL
+- [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file
+  manager
+- [Zoxc/crusader](https://github.com/Zoxc/crusader): A network bandwidth and
+  latency tester. <https://desktop.github.com>
 
 ### Monitor
 
@@ -248,6 +252,9 @@
   支持黑白名单，ipset/nftset
 - [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建
   SS/SSR/V2Ray/Trojan/Socks5 透明代理的 Shell 脚本
+- [nadoo/glider](https://github.com/nadoo/glider): glider is a forward proxy
+  with multiple protocols support, and also a dns/dhcp server with ipset
+  management features(like dnsmasq).
 
 ### DNS
 
@@ -281,6 +288,8 @@
   人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns
   that developers will find useful.)
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws)
+- [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo): A fast bump allocation
+  arena for Rust <https://docs.rs/bumpalo>
 
 ### Code as Graph
 

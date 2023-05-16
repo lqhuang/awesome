@@ -53,6 +53,9 @@
   category theory. The development follows Steve Awodey's book on category
   theory; the files are named after chapters and subchapters of that book for
   easy reference.
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep): ⚡A fast and
+  polyglot tool for code searching, linting, rewriting at large scale. Written
+  in Rust <https://ast-grep.github.io>
 
 ## Haskell
 

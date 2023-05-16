@@ -163,6 +163,8 @@
   <https://com-lihaoyi.github.io/PPrint/>
 - [scala-native/scala-native-cli](https://github.com/scala-native/scala-native-cli):
   Command Line Interface for Scala Native
+- https://github.com/vpavkin/dtc
+- https://github.com/cquiroz/scala-java-time
 
 ### Tools
 
