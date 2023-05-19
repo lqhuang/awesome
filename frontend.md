@@ -23,15 +23,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ## Components library
 
-- [framer/motion](https://github.com/framer/motion): Open source,
-  production-ready animation and gesture library for React
-  <https://framer.com/motion>
-- [pmndrs/react-spring](https://github.com/pmndrs/react-spring): ✌️ A spring
-  physics based React animation library <http://www.react-spring.dev>
-- [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations):
-  React-useanimations is a collection of free animated open source icons for
-  React.js. <http://react.useanimations.com>
-
 ### Components framework
 
 - [nextui-org/nextui](https://github.com/nextui-org/nextui): 🚀 Beautiful, fast
@@ -148,6 +139,16 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://react-wrap-balancer.vercel.app/>
 - [vercel/satori](https://github.com/vercel/satori): Enlightened library to
   convert HTML and CSS to SVG <https://og-playground.vercel.app/>
+- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys): A tiny (~400
+  B) & modern library for keybindings. <https://jamiebuilds.github.io/tinykeys/>
+- [DiiiaZoTe/next-route-visualizer](https://github.com/DiiiaZoTe/next-route-visualizer):
+  <https://next-route-visualizer.vercel.app>
+- [Oblosys/react-lifecycle-visualizer](https://github.com/Oblosys/react-lifecycle-visualizer):
+  Real-time visualizer for React lifecycle methods
+  <https://codesandbox.io/s/github/Oblosys/react-lifecycle-visualizer/tree/master/examples/parent-child-demo?file=/src/samples/New.js>
+
+### Form
+
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form):
   📋 React Hooks for form state management and validation (Web + React Native)
   <https://react-hook-form.com>
@@ -155,16 +156,20 @@ Major in React ecosystem, but also include other frameworks and libraries.
   React, without the tears 😭 <https://formik.org>
 - [bhch/react-json-form](https://github.com/bhch/react-json-form): JSON editing
   made easy using form inputs. <https://bhch.github.io/react-json-form>
-- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys): A tiny (~400
-  B) & modern library for keybindings. <https://jamiebuilds.github.io/tinykeys/>
-- [DiiiaZoTe/next-route-visualizer](https://github.com/DiiiaZoTe/next-route-visualizer):
-  <https://next-route-visualizer.vercel.app>
-- [bkrem/react-d3-tree](https://github.com/bkrem/react-d3-tree): 🌳 React
-  component to create interactive D3 tree graphs
-  <https://bkrem.github.io/react-d3-tree>
-- [Oblosys/react-lifecycle-visualizer](https://github.com/Oblosys/react-lifecycle-visualizer):
-  Real-time visualizer for React lifecycle methods
-  <https://codesandbox.io/s/github/Oblosys/react-lifecycle-visualizer/tree/master/examples/parent-child-demo?file=/src/samples/New.js>
+
+### Animation
+
+- [framer/motion](https://github.com/framer/motion): Open source,
+  production-ready animation and gesture library for React
+  <https://framer.com/motion>
+- [pmndrs/react-spring](https://github.com/pmndrs/react-spring): ✌️ A spring
+  physics based React animation library <http://www.react-spring.dev>
+- [motiondivision/motionone](https://github.com/motiondivision/motionone): A new
+  animation library, built on the Web Animations API for the smallest filesize
+  and the fastest performance. <https://motion.dev>
+- [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations):
+  React-useanimations is a collection of free animated open source icons for
+  React.js. <http://react.useanimations.com>
 
 ## Functional libraries
 
@@ -179,6 +184,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://tinybase.org>
 - [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies
   and exports in your JS/TS project
+- [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript
+  library that translates Cron expressions into human readable descriptions
+  <http://bradymholt.github.io/cRonstrue/>
 
 ### SerDe / Schema
 
@@ -258,6 +266,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   visualizations <https://formidable.com/open-source/victory>
 - [TanStack/react-charts](https://github.com/TanStack/react-charts): ⚛️ Simple,
   immersive & interactive charts for React <https://react-charts.tanstack.com>
+- [bkrem/react-d3-tree](https://github.com/bkrem/react-d3-tree): 🌳 React
+  component to create interactive D3 tree graphs
+  <https://bkrem.github.io/react-d3-tree>
 
 ## Not only Web
 

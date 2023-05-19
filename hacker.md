@@ -87,8 +87,8 @@
   icons for accessing data via OpenDAL
 - [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file
   manager
-- [Zoxc/crusader](https://github.com/Zoxc/crusader): A network bandwidth and
-  latency tester. <https://desktop.github.com>
+- [thetacom/hexabyte](https://github.com/thetacom/hexabyte): A modern, modular,
+  and robust TUI hex editor. <http://io.thetacom.info/hexabyte/>
 
 ### Monitor
 

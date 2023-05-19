@@ -511,6 +511,9 @@
   Glom it! ☄️ <https://glom.readthedocs.io>
 - 🌟 [kiorky/croniter](https://github.com/kiorky/croniter): croniter provides
   iteration for the datetime object with a cron like format.
+- [ZechCodes/Bevy](https://github.com/ZechCodes/Bevy): A dependency injection
+  framework for Python! Bevy's primary goal is to help you write amazing code
+  with less effort. <https://blog.zech.codes/bevy-v2>
 
 ### Configuration
 

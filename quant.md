@@ -135,7 +135,7 @@
 
 - [Alpaca Finance](https://www.alpacafinance.org/): Alpaca Finance is the
   largest lending protocol allowing leveraged yield farming on BNB Chain.
-- [Polygon](https://polygon.io/): Financial Market Data Platform Stock APIs,
+- 🌟 [Polygon](https://polygon.io/): Financial Market Data Platform Stock APIs,
   Forex, Crypto, and More
 - [RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage): A
   python wrapper for Alpha Vantage API for financial data.

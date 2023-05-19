@@ -24,6 +24,9 @@
   into fs2
 - [YannMoisan/hands-on-cats](https://github.com/YannMoisan/hands-on-cats):
   Discover cats by coding a few simple exercises
+- [akbashev/Distributed-Actors-in-Action](https://github.com/akbashev/Distributed-Actors-in-Action):
+  Port of Akka in Action examples to Swift Distributed Actors
+  <https://www.youtube.com/watch?v=7erJ1DV_Tlo>
 
 ## Master these you rule the world
 
@@ -87,6 +90,8 @@
   collection of lightweight fancy stuff for Scala toolchain
 - [wix/greyhound](https://github.com/wix/greyhound): Greyhound - Rich Kafka
   client library
+- [scalapb-json/scalapb-circe](https://github.com/scalapb-json/scalapb-circe):
+  Json/Protobuf convertors for ScalaPB use circe
 
 ### Experiments
 

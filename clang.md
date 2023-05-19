@@ -54,6 +54,8 @@
   translation of Bjarne Stroustrup's HOPL4 paper
 - [Learn C++](https://www.learncpp.com/): LearnCpp.com is a free website devoted
   to teaching you how to program in C++.
+- [lkimuk/the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp):
+  The Book of Modern C++ (in Chinese)
 
 ## Toolchain
 
@@ -64,6 +66,11 @@
 - [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker
 - [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source
   C/C++ package manager <https://conan.io>
+- [cpp-best-practices/cmake_template](https://github.com/cpp-best-practices/cmake_template):
+  This is a C++ Best Practices GitHub template for getting up and running with
+  C++ quickly.
+- [cginternals/cmake-init](https://github.com/cginternals/cmake-init): Template
+  for reliable, cross-platform C++ project setup using cmake.
 
 ### Analyzer
 

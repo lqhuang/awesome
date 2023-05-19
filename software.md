@@ -226,3 +226,5 @@
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden):
   Unofficial Bitwarden compatible server written in Rust, formerly known as
   bitwarden_rs
+- [Buttercup](https://github.com/buttercup): Buttercup credentials management
+  application

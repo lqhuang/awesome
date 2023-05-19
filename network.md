@@ -56,8 +56,8 @@
   Python 3. <https://scapy.net>
 - [beyondcode/expose](https://github.com/beyondcode/expose): A beautiful, fully
   open-source, tunneling service - written in pure PHP <https://expose.dev>
-- [wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full mesh
-  configuration generator.
+- [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full
+  mesh configuration generator.
 - [traviscross/mtr](https://github.com/traviscross/mtr): Official repository for
   mtr, a network diagnostic tool <http://www.bitwizard.nl/mtr>
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Cross-platform
@@ -75,6 +75,8 @@
   Python SSHv2 protocol library. <http://paramiko.org>
 - [vergoh/vnstat](https://github.com/vergoh/vnstat): vnStat - a network traffic
   monitor for Linux and BSD
+- [Zoxc/crusader](https://github.com/Zoxc/crusader): A network bandwidth and
+  latency tester. <https://desktop.github.com>
 
 ### Analysis
 

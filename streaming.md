@@ -53,6 +53,7 @@ Streaming Systems
   building highly scalable dataflows. <https://docs.bytewax.io>
 - [quixio/quix-streams](https://github.com/quixio/quix-streams): Quix Streams -
   A library for telemetry data streaming. Python Stream Processing
+  <https://quix.io/>
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow):
   A modular implementation of timely dataflow in Rust
 - [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow):

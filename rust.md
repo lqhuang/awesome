@@ -257,6 +257,8 @@
   applications in a thread-per-core architecture easier for rustaceans.
 - [Maaarcocr/picol](https://github.com/Maaarcocr/picol): a small and single
   threaded async runtime built on top of io-uring
+- 📝 [notgull/unsend](https://github.com/notgull/unsend): Thread-unsafe async
+  runtime
 
 ### Futures
 
@@ -523,7 +525,7 @@
   random number generator
 - [Xuanwo/backon](https://github.com/Xuanwo/backon): Retry with backoff without
   effort.
-- [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree):
+- 📝 [risingwavelabs/await-tree](https://github.com/risingwavelabs/await-tree):
   Instrument await-tree for actor-based applications.
 - [dermesser/memoize](https://github.com/dermesser/memoize): Macro for
   auto-memoizing Rust functions.
