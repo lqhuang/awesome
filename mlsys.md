@@ -73,7 +73,7 @@
 - [google/maxtext](https://github.com/google/maxtext): A simple, performant and
   scalable Jax LLM!
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax):
-  Model parallel transformers in JAX and Haiku <https://desktop.github.com>
+  Model parallel transformers in JAX and Haiku
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax):
   This repository contains optimised JAX code for OpenAI's Whisper Model,
   largely built on the 🤗 Hugging Face Transformers Whisper implementation.
@@ -87,7 +87,7 @@
 - [NVIDIA-Merlin/Merlin](https://github.com/NVIDIA-Merlin/Merlin): NVIDIA Merlin
   is an open source library providing end-to-end GPU-accelerated recommender
   systems, from feature engineering and preprocessing to training deep learning
-  models and running inference in production. <https://desktop.github.com>
+  models and running inference in production.
 
 ### Inference engine / large-scale deployment
 
@@ -128,7 +128,6 @@
   <https://mosecorg.github.io/mosec/>
 - [iqiyi/xgboost-serving](https://github.com/iqiyi/xgboost-serving): A flexible,
   high-performance serving system for machine learning models
-  <https://desktop.github.com>
 
 ## Tensor inference / Compiler / Low level
 

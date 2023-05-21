@@ -13,6 +13,11 @@
   curated list of shell commands and tools specific to macOS.
 - [awesome-command-line-apps](https://git.herrbischoff.com/awesome-command-line-apps/about/):
   A curated list of useful command line apps, in celebration of the TUI.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated
+  list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired
+  by awesome-php.
+- 🌟 [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A
+  collection of modern/faster/saner alternatives to common unix commands.
 - [xuxiaodong/usingcli-book](https://github.com/xuxiaodong/usingcli-book): 像黑
   客一样使用命令行 <https://selfhostedserver.com/usingcli-book>
 - [kushaldas/lym](https://github.com/kushaldas/lym): Linux command line for you
@@ -61,8 +66,8 @@
   <https://mutagen.io>
 - [chshersh/tool-sync](https://github.com/chshersh/tool-sync): 🧰 Download
   pre-built binaries of all your favourite tools with a single command
-- [dalance/procs](https://github.com/dalance/procs): A modern replacement for ps
-  written in Rust
+- 🌟 [dalance/procs](https://github.com/dalance/procs): A modern replacement for
+  ps written in Rust
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker):
   Nosey Parker is a command-line program that finds secrets and sensitive
   information in textual data and Git history.
@@ -151,8 +156,6 @@
   project. 🌐 Share with the world! <http://socialify.git.ci>
 - 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC
   <https://manfred.life/quicssh>
-- [moul/assh](https://github.com/moul/assh): 💻 make your ssh client smarter
-  <https://manfred.life/assh>
 
 ## Homelab
 

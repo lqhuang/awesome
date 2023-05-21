@@ -236,6 +236,8 @@
 - [naiba/nezha](https://github.com/naiba/nezha): :trollface: Self-hosted,
   lightweight server and website monitoring and O&M tool
   <https://ops.naibahq.com>
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 现代化、开源的
+  Linux 服务器运维管理面板。 <https://1panel.cn/>
 - [Better Stack](https://betterstack.com/): Reliability is the ultimate feature.
 - [Oh Dear](https://ohdear.app/): the all-in-one monitoring tool for your entire
   website
@@ -243,6 +245,8 @@
   status page <https://gatus.io>
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks): A
   cron monitoring tool written in Python & Django <https://healthchecks.io>
+- [Crisp Status](https://crisp.chat/en/status): A public status page to alert
+  users when something goes wrong.
 
 ### Logging / Metrics / APM
 
@@ -259,12 +263,21 @@
 - [Autometrics](https://github.com/autometrics-dev): Autometrics is a set of
   open source libraries that make it fun and easy to understand the performance
   of your code in production.
-- [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics):
-  VictoriaMetrics: fast, cost-effective monitoring solution and time series
-  database <https://victoriametrics.com>
 - [highlight/highlight](https://github.com/highlight/highlight): highlight.io:
   The open source, full-stack monitoring platform. Error monitoring, session
   replay, logging and more. <https://app.highlight.io>
+- 🌟
+  [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics):
+  VictoriaMetrics: fast, cost-effective monitoring solution and time series
+  database <https://victoriametrics.com>
+- 🌟 [fluent/fluent-bit](https://github.com/fluent/fluent-bit): Fast and
+  Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
+  <https://fluentbit.io>
+- 🌟 [vectordotdev/vector](https://github.com/vectordotdev/vector): A
+  high-performance observability data pipeline. <https://vector.dev>
+- [megaease/easeprobe](https://github.com/megaease/easeprobe): A simple,
+  standalone, and lightweight tool that can do health/status checking, written
+  in Go.
 
 ### Logger search and analytics
 
@@ -278,8 +291,8 @@
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit):
   Cloud-native search engine for log management & analytics
   <https://quickwit.io>
-- [usefathom/fathom](https://github.com/usefathom/fathom): Fathom Lite. Simple,
-  privacy-focused website analytics. Built with Golang & Preact.
+- 🌟 [usefathom/fathom](https://github.com/usefathom/fathom): Fathom Lite.
+  Simple, privacy-focused website analytics. Built with Golang & Preact.
   <https://usefathom.com>
 - 🌟 [plausible/analytics](https://github.com/plausible/analytics): Simple,
   open-source, lightweight (< 1 KB) and privacy-friendly web analytics
@@ -356,6 +369,11 @@
 - [github/opensource.guide](https://github.com/github/opensource.guide): 📚
   Community guides for open source creators <https://opensource.guide/>
 
+## Billing
+
+- [getlago/lago](https://github.com/getlago/lago): Open Source Metering and
+  Usage Based Billing <https://www.getlago.com>
+
 ## AI-ng
 
 - [BloopAI/bloop](https://github.com/BloopAI/bloop): bloop is a fast code search
@@ -363,4 +381,4 @@
 - [GerevAI/gerev](https://github.com/GerevAI/gerev): ChatGPT Workplace Search
   Engine
 - [suno-ai/bark](https://github.com/suno-ai/bark): 🔊 Text-Prompted Generative
-  Audio Model <https://desktop.github.com>
+  Audio Model

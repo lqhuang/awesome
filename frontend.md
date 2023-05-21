@@ -346,6 +346,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion): Orillusion
   is a pure Web3D rendering engine which is fully developed based on the WebGPU
   standard. <https://www.orillusion.com>
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app):
+  A modified web browser that helps in responsive web development. A web
+  developer's must have dev-tool. <https://responsively.app>
 
 ## SSG
 

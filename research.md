@@ -33,6 +33,8 @@
   learning courses <http://www.dataflowr.com/>
 - [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning):
   List of papers studying machine learning through the lens of category theory
+- [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial):
+  《李宏毅深度学习教程》
 
 ## Novel approaches
 

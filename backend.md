@@ -11,6 +11,12 @@
 - [cylexVEVO/turso-dashboard](https://github.com/cylexVEVO/turso-dashboard):
   Simple dashboard for managing your Turso databases.
 
+## Serverless DB
+
+- [supabase/supabase](https://github.com/supabase/supabase): The open source
+  Firebase alternative. Follow to stay updated about our public Beta.
+  <https://supabase.com>
+
 ## CMS
 
 - [wagtail/wagtail](https://github.com/wagtail/wagtail): A Django content

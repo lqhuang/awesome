@@ -71,6 +71,8 @@
   C++ quickly.
 - [cginternals/cmake-init](https://github.com/cginternals/cmake-init): Template
   for reliable, cross-platform C++ project setup using cmake.
+- [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp): Abseil Common
+  Libraries (C++) <https://abseil.io>
 
 ### Analyzer
 
@@ -135,6 +137,8 @@
   <https://www.youtube.com/watch?v=IxkSlnrRFqc>
 - [namhyung/uftrace](https://github.com/namhyung/uftrace): Function graph tracer
   for C/C++/Rust <https://uftrace.github.io/slide>
+- 🌟 [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based
+  Linux IO analysis, networking, monitoring, and more
 
 ## OS level
 
@@ -169,13 +173,16 @@
   epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a
   compact general purpose allocator with excellent performance.
-- 🌟 [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based
-  Linux IO analysis, networking, monitoring, and more
 - 🌟 [uNetworking/uSockets](https://github.com/uNetworking/uSockets): Miniscule
   cross-platform eventing, networking & crypto for async applications
 - [facebook/CacheLib](https://github.com/facebook/CacheLib): Pluggable
   in-process caching engine to build and scale high performance services
   <https://www.cachelib.org>
+
+## GPU
+
+- [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire): ArrayFire: a
+  general purpose GPU library. <https://arrayfire.com>
 
 ## SIMD
 

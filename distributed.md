@@ -23,6 +23,16 @@
   Curated list of resources on testing distributed systems
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems):
   A curated list to learn about distributed systems
+- [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems):
+  《Patterns of Distributed Systems》中文版
+- [drmingdrmer/consensus-essence](https://github.com/drmingdrmer/consensus-essence):
+  distributed consensus protocol's bugs, flaws, deceptive traps, improvements
+- [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos): A
+  consensus that unifies paxos, raft, 2pc, etc.
+- [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus):
+  Awesome list for Paxos and friends
+- [ept/ddia-references](https://github.com/ept/ddia-references): Literature
+  references for “Designing Data-Intensive Applications”
 
 ### Books
 
@@ -100,36 +110,53 @@
 
 ## Distributed consensus
 
-- [andreev-io/little-raft](https://github.com/andreev-io/little-raft): The
-  lightest distributed consensus library. Run your own replicated state machine!
-  ❤️
+### Viewstamped Replication
+
+- [tigerbeetledb/viewstamped-replication-made-famous](https://github.com/tigerbeetledb/viewstamped-replication-made-famous):
+  A $20k consensus challenge based on TigerBeetle's implementation of the
+  pioneering Viewstamped Replication protocol.
+
+### Paxos
+
+- [mwhittaker/frankenpaxos](https://github.com/mwhittaker/frankenpaxos): A
+  collection of state machine replication protocols
+  <https://mwhittaker.github.io/frankenpaxos>
+- [haraldng/omnipaxos](https://github.com/haraldng/omnipaxos): OmniPaxos is a
+  distributed log implemented as a Rust library. <https://omnipaxos.com/>
 - [efficient/epaxos](https://github.com/efficient/epaxos): EPaxos is an
   efficient, leaderless replication protocol <http://efficient.github.io/epaxos>
 - [vitorenesduarte/fantoch](https://github.com/vitorenesduarte/fantoch):
   framework for evaluating (planet-scale) consensus protocols
+- [zowens/paxos-rs](https://github.com/zowens/paxos-rs): Paxos implementation in
+  Rust
+
+### Raft
+
+- [lni/dragonboat](https://github.com/lni/dragonboat): A feature complete and
+  high performance multi-group Raft library in Go.
+- [tikv/raft-rs](https://github.com/tikv/raft-rs): Raft distributed consensus
+  algorithm implemented in Rust.
+- [async-raft/async-raft](https://github.com/async-raft/async-raft): An
+  implementation of the Raft distributed consensus protocol using the Tokio
+  framework. <https://async-raft.github.io/async-raft>
+- [andreev-io/little-raft](https://github.com/andreev-io/little-raft): The
+  lightest distributed consensus library. Run your own replicated state machine!
+  ❤️
 - [datafuselabs/openraft](https://github.com/datafuselabs/openraft): rust raft
   with improvements
 - [carllerche/mini-raft](https://github.com/carllerche/mini-raft): An
   implementation of Raft in Rust.
-- [zowens/paxos-rs](https://github.com/zowens/paxos-rs): Paxos implementation in
-  Rust
 - [softwaremill/saft](https://github.com/softwaremill/saft): An implementation
   of the Raft consensus algorithm, using the Scala language and a functional
   effect system (zio). Currently, the goal of this project is educational, not
   production usage.
+- [ariskk/zio-raft](https://github.com/ariskk/zio-raft): An Implementation of
+  Raft using ZIO in Scala
 - [canonical/raft](https://github.com/canonical/raft): C implementation of the
   Raft consensus protocol <https://raft.readthedocs.io>
-- [mwhittaker/frankenpaxos](https://github.com/mwhittaker/frankenpaxos): A
-  collection of state machine replication protocols
-  <https://mwhittaker.github.io/frankenpaxos>
-- [tigerbeetledb/viewstamped-replication-made-famous](https://github.com/tigerbeetledb/viewstamped-replication-made-famous):
-  A $20k consensus challenge based on TigerBeetle's implementation of the
-  pioneering Viewstamped Replication protocol.
-- [haraldng/omnipaxos](https://github.com/haraldng/omnipaxos): OmniPaxos is a
-  distributed log implemented as a Rust library. <https://omnipaxos.com/>
 - [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft): A Redis Module
   that make it possible to create a consistent Raft cluster from multiple Redis
-  instances. <https://desktop.github.com>
+  instances.
 
 ## Correctness
 

@@ -55,6 +55,9 @@
   links to blog posts, articles, videos, etc for learning Rust
 - [tfpk/lifetimekata](https://github.com/tfpk/lifetimekata/): An exploration of
   lifetimes in Rust. <https://tfpk.github.io/lifetimekata>
+- [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns): A
+  catalogue of Rust design patterns, anti-patterns and idioms
+  <https://rust-unofficial.github.io/patterns/>
 
 ## Build
 
@@ -490,7 +493,7 @@
   underlying errors into domain-specific errors while adding context
 - [time-rs/time](https://github.com/time-rs/time): Simple time handling in Rust
   <https://time-rs.github.io>
-- [chronotope/chrono](https://github.com/chronotope/chrono): Date and time
+- 🌟 [chronotope/chrono](https://github.com/chronotope/chrono): Date and time
   library for Rust
 - [nyx-space/hifitime](https://github.com/nyx-space/hifitime): A high fidelity
   time management library in Rust
@@ -603,7 +606,6 @@
   libraries
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao): Rust bindings for
   AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
-  <https://desktop.github.com>
 - [duchess-rs/duchess](https://github.com/duchess-rs/duchess): Experiments with
   Java-Rust interop <https://duchess-rs.github.io/duchess>
 

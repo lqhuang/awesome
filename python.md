@@ -20,6 +20,9 @@
   projects using native code <https://pypackaging-native.github.io>
 - [Chang-LeHung/dive-into-cpython](https://github.com/Chang-LeHung/dive-into-cpython):
   dive into cpython source code
+- [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals): Dive
+  into CPython internals, trying to illustrate every detail of CPython
+  implementation
 
 ## Future?
 
@@ -285,16 +288,12 @@
   high-performance implementation of Wilkinson formulas for Python.
 - [sepandhaghighi/pycm](https://github.com/sepandhaghighi/pycm): Multi-class
   confusion matrix library in Python <http://pycm.io>
-- [nteract/papermill](https://github.com/nteract/papermill): 📚 Parameterize,
-  execute, and analyze notebooks <http://papermill.readthedocs.io/en/latest>
 - [zarr-developers/zarr-python](https://github.com/zarr-developers/zarr-python):
   An implementation of chunked, compressed, N-dimensional arrays for Python.
   <http://zarr.readthedocs.io>
 - [docarray/docarray](https://github.com/docarray/docarray): 🧬 The data
   structure for unstructured multimodal data · Neural Search · Vector Search ·
   Document Store <https://docarray.jina.ai>
-- [fastai/nbdev](https://github.com/fastai/nbdev): Create delightful software
-  with Jupyter Notebooks <https://nbdev.fast.ai>
 - [markovmodel/PyEMMA](https://github.com/markovmodel/PyEMMA): 🚂 Python API for
   Emma's Markov Model Algorithms 🚂 <http://pyemma.org/>
 - [pybrain/pybrain](https://github.com/pybrain/pybrain): PyBrain -- the Python
@@ -339,6 +338,22 @@
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai): Pandas AI is a
   Python library that integrates generative artificial intelligence capabilities
   into Pandas, making dataframes conversational
+
+### Jupyter ecosystem
+
+- [nteract/papermill](https://github.com/nteract/papermill): 📚 Parameterize,
+  execute, and analyze notebooks <http://papermill.readthedocs.io/en/latest>
+- [fastai/nbdev](https://github.com/fastai/nbdev): Create delightful software
+  with Jupyter Notebooks <https://nbdev.fast.ai>
+- [joouha/euporie](https://github.com/joouha/euporie): Jupyter notebooks in the
+  terminal <https://euporie.readthedocs.io>
+- [laixintao/jupyter-dot-kernel](https://github.com/laixintao/jupyter-dot-kernel):
+  📝Dot language kernel for jupyter.
+- [jupyter-server/jupyter-scheduler](https://github.com/jupyter-server/jupyter-scheduler):
+  Run Jupyter notebooks as jobs <https://jupyter-scheduler.readthedocs.io>
+- [mwouts/jupytext](https://github.com/mwouts/jupytext): Jupyter Notebooks as
+  Markdown Documents, Julia, Python or R scripts
+  <https://jupytext.readthedocs.io>
 
 ### Prob
 
@@ -635,6 +650,8 @@
 - [shedskin/shedskin](https://github.com/shedskin/shedskin): Shed Skin is a
   restricted-Python-to-C++ compiler. Read the introduction below to learn about
   the restrictions. <https://shedskin.github.io>
+- [evhub/coconut](https://github.com/evhub/coconut): Simple, elegant, Pythonic
+  functional programming. <http://coconut-lang.org>
 
 ### Parsers
 
@@ -691,10 +708,6 @@
 
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
   dashboarding solution for Python
-- [joouha/euporie](https://github.com/joouha/euporie): Jupyter notebooks in the
-  terminal <https://euporie.readthedocs.io>
-- [laixintao/jupyter-dot-kernel](https://github.com/laixintao/jupyter-dot-kernel):
-  📝Dot language kernel for jupyter.
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz): Automatically
   Visualize any dataset, any size with a single line of code. Created by Ram
   Seshadri. Collaborators Welcome. Permission Granted upon Request.

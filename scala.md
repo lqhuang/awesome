@@ -10,6 +10,8 @@
   based on the Cats Effect library.
 - [EffectOrientedProgramming/book](https://github.com/EffectOrientedProgramming/book):
   Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2
+- [alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices):
+  A collection of Scala best practices
 
 ### Exercises
 

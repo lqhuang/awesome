@@ -123,6 +123,13 @@
   recoverable log and key-value store + cache, in C# and C++.
   <https://aka.ms/FASTER>
 
+### Cache
+
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly): A modern
+  replacement for Redis and Memcached <https://dragonflydb.io/>
+- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB): A Multithreaded Fork of
+  Redis <https://keydb.dev>
+
 ### Vector
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant): Qdrant - Vector Database
@@ -142,8 +149,10 @@
 
 - [readysettech/readyset](https://github.com/readysettech/readyset): ReadySet is
   a lightweight SQL caching engine written in Rust that helps developers enhance
-  the performance and scalability of existing applications. "Noria"
+  the performance and scalability of existing applications.
   <https://readyset.io>
+  - [mit-pdos/noria](https://github.com/mit-pdos/noria): Fast web applications
+    through dynamic, partially-stateful dataflow
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db): YugabyteDB -
   the cloud native distributed SQL database for mission-critical applications.
   <https://www.yugabyte.com>

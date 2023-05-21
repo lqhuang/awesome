@@ -74,22 +74,21 @@
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager):
   Docker container for managing Nginx proxy hosts with a simple, powerful
   interface <https://nginxproxymanager.com>
+- 🌟
+  [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io):
+  ⚙️ NGINX config generator on steroids 💉 <https://do.co/nginxconfig>
+- [denji/nginx-tuning](https://github.com/denji/nginx-tuning): NGINX tuning for
+  best performance <https://git.io/vSvsq>
 
 ## Cloud native
 
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare): 🔥
   Fully-local simulator for Cloudflare Workers
-- [cloudflare/wrangler2](https://github.com/cloudflare/wrangler2): ⛅️ The CLI
-  for Cloudflare Workers®
 - [drivendataorg/cloudpathlib](https://github.com/drivendataorg/cloudpathlib):
   Python pathlib-style classes for cloud storage services such as Amazon S3,
   Azure Blob Storage, and Google Cloud Storage.
   <https://cloudpathlib.drivendata.org>
-- [supabase/supabase](https://github.com/supabase/supabase): The open source
-  Firebase alternative. Follow to stay updated about our public Beta.
-  <https://supabase.com>
 - [zappa/Zappa](https://github.com/zappa/Zappa): Serverless Python
-  <https://github.com/zappa/Zappa>
 - [lagonapp/lagon](https://github.com/lagonapp/lagon): Deploy Serverless
   Functions at the Edge. Current status: Alpha <https://lagon.app/>
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver): Programming
@@ -99,9 +98,6 @@
   <https://mrsk.dev/>
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse): FUSE-based file
   system backed by Amazon S3
-- [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" -
-  Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi,
-  Google Cloud Storage, Yandex Files <https://rclone.org>
 
 ## K8S
 
@@ -217,3 +213,14 @@
   universal DNS record manipulation across providers
 - [go-acme/lego](https://github.com/go-acme/lego): Let's Encrypt/ACME client and
   library written in Go <https://go-acme.github.io/lego/>
+- [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" -
+  Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi,
+  Google Cloud Storage, Yandex Files <https://rclone.org>
+
+## Serverless
+
+- [robertcepa/toucan-js](https://github.com/robertcepa/toucan-js): Cloudflare
+  Workers client for Sentry
+- [Logflare/logflare](https://github.com/Logflare/logflare): Never get surprised
+  by a logging bill again. Centralized structured logging for Cloudflare,
+  Vercel, Elixir and Javascript. <https://logflare.app>

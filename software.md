@@ -100,6 +100,11 @@
   client <https://macpassapp.org>
 - [actuallymentor/battery](https://github.com/actuallymentor/battery): CLI for
   managing the battery charging status for M1 Macs
+- [coteditor/CotEditor](https://github.com/coteditor/CotEditor): Lightweight
+  Plain-Text Editor for macOS <https://coteditor.com>
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): CodeEdit App
+  for macOS – Elevate your code editing experience. Open source, free forever.
+  <https://codeedit.app>
 
 ### Free / Paid
 
@@ -185,6 +190,8 @@
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite): Dendrite is a
   second-generation Matrix homeserver written in Go!
   <https://matrix-org.github.io/dendrite/>
+- [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️
+  Streaming torrent client for the web <https://webtorrent.io>
 
 ### Email
 

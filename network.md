@@ -76,7 +76,7 @@
 - [vergoh/vnstat](https://github.com/vergoh/vnstat): vnStat - a network traffic
   monitor for Linux and BSD
 - [Zoxc/crusader](https://github.com/Zoxc/crusader): A network bandwidth and
-  latency tester. <https://desktop.github.com>
+  latency tester.
 
 ### Analysis
 
