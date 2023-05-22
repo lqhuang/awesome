@@ -561,6 +561,8 @@
 - [aio-libs/aiomonitor](https://github.com/aio-libs/aiomonitor):
 - [aio-libs/async-lru](https://github.com/aio-libs/async-lru): Simple LRU cache
   for asyncio
+- 📝 [Tinche/quattro](https://github.com/Tinche/quattro): Better control of your
+  asyncio tasks
 
 ### Middleware
 

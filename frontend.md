@@ -146,6 +146,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Oblosys/react-lifecycle-visualizer](https://github.com/Oblosys/react-lifecycle-visualizer):
   Real-time visualizer for React lifecycle methods
   <https://codesandbox.io/s/github/Oblosys/react-lifecycle-visualizer/tree/master/examples/parent-child-demo?file=/src/samples/New.js>
+- [zxch3n/tidy](https://github.com/zxch3n/tidy): A tree visualization tool
+  written in Rust
 
 ### Form
 

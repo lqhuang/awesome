@@ -35,6 +35,8 @@
   <https://www.tcpdump.org>
 - [microsoft/snocat](https://github.com/microsoft/snocat): Streaming Network
   Overlay Connection Arbitration Tunnel
+- [libpnet/libpnet](https://github.com/libpnet/libpnet): Cross-platform, low
+  level networking using the Rust programming language.
 
 ## Tools
 

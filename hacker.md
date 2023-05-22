@@ -156,6 +156,8 @@
   project. 🌐 Share with the world! <http://socialify.git.ci>
 - 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC
   <https://manfred.life/quicssh>
+- [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly
+  rewrite git repository history (filter-branch replacement)
 
 ## Homelab
 

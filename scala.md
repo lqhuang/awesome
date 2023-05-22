@@ -195,6 +195,8 @@
   Text-based User Interfaces for Scala
 - [scala/toolkit](https://github.com/scala/toolkit): The batteries-included
   Scala
+- [earldouglas/sbt-lit](https://github.com/earldouglas/sbt-lit): Literate
+  programming with sbt
 
 ## Stream / Effect systems / Experiments
 
