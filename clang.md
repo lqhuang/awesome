@@ -137,7 +137,7 @@
 - [google/perfetto](https://github.com/google/perfetto): Performance
   instrumentation and tracing for Android, Linux and Chrome
   <https://www.perfetto.dev>
-- [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math): Techniques
+- 🌟 [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math): Techniques
   and numbers for estimating system's performance from first-principles
   <https://www.youtube.com/watch?v=IxkSlnrRFqc>
 - [namhyung/uftrace](https://github.com/namhyung/uftrace): Function graph tracer

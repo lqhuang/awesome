@@ -148,6 +148,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://codesandbox.io/s/github/Oblosys/react-lifecycle-visualizer/tree/master/examples/parent-child-demo?file=/src/samples/New.js>
 - [zxch3n/tidy](https://github.com/zxch3n/tidy): A tree visualization tool
   written in Rust
+- [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit):
+  A lightweight magic-move library for configurable layout transitions
 
 ### Form
 

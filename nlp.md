@@ -83,6 +83,8 @@
   Generate Structured JSON from Language Models
 - [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json):
   Structured and typehinted GPT responses in Python
+- [microsoft/guidance](https://github.com/microsoft/guidance): A guidance
+  language for controlling large language models.
 
 ## ChatGPT
 

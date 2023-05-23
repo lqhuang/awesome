@@ -158,6 +158,9 @@
   <https://manfred.life/quicssh>
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly
   rewrite git repository history (filter-branch replacement)
+- [tweag/topiary](https://github.com/tweag/topiary): Topiary aims to be a
+  uniform formatter for simple languages, as part of the Tree-sitter ecosystem.
+  <https://topiary.tweag.io/>
 
 ## Homelab
 
@@ -274,8 +277,6 @@
 
 ## Misc
 
-- [jgm/djot](https://github.com/jgm/djot): A light markup language
-  <https://djot.net>
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation):
   中国程序员容易发音错误的单词 <https://cpwp.netlify.app>
 - [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English):
@@ -293,11 +294,13 @@
   人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns
   that developers will find useful.)
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws)
-- [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo): A fast bump allocation
-  arena for Rust <https://docs.rs/bumpalo>
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): 人教版
+  小学到大学数学
 
 ### Code as Graph
 
+- [jgm/djot](https://github.com/jgm/djot): A light markup language
+  <https://djot.net>
 - [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid): A collection of
   cheatsheets for using Mermaid diagrams on GitHub and elsewhere
 - [terrastruct/d2](https://github.com/terrastruct/d2): D2 is a modern diagram

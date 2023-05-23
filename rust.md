@@ -58,6 +58,8 @@
 - [rust-unofficial/patterns](https://github.com/rust-unofficial/patterns): A
   catalogue of Rust design patterns, anti-patterns and idioms
   <https://rust-unofficial.github.io/patterns/>
+- [politrons/FunctionalRust](https://github.com/politrons/FunctionalRust):
+  Examples of functional programing in Rust
 
 ## Build
 

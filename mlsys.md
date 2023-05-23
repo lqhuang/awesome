@@ -62,6 +62,8 @@
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers):
   Hackable and optimized Transformers building blocks, supporting a composable
   construction. <https://facebookresearch.github.io/xformers>
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq):
+  Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [francois-rozet/zuko](https://github.com/francois-rozet/zuko): Normalizing
   flows in PyTorch <https://zuko.readthedocs.io>
 - [deepmind/alphatensor](https://github.com/deepmind/alphatensor): Discovering
