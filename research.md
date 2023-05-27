@@ -35,6 +35,7 @@
   List of papers studying machine learning through the lens of category theory
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial):
   《李宏毅深度学习教程》
+- [强化学习 100 题 - by 斎藤 康毅 (Koki Saitoh)](https://p100.koki-saitoh.com/zh-CN)
 
 ## Novel approaches
 

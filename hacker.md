@@ -263,6 +263,9 @@
 - [nadoo/glider](https://github.com/nadoo/glider): glider is a forward proxy
   with multiple protocols support, and also a dns/dhcp server with ipset
   management features(like dnsmasq).
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit): Run a
+  VPN with global exit nodes with fly.io, tailscale and github!
+  <https://news.ycombinator.com/item?id=36064305>
 
 ### DNS
 

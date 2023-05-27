@@ -224,3 +224,5 @@
 - [Logflare/logflare](https://github.com/Logflare/logflare): Never get surprised
   by a logging bill again. Centralized structured logging for Cloudflare,
   Vercel, Elixir and Javascript. <https://logflare.app>
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs): Write
+  Cloudflare Workers in 100% Rust via WebAssembly

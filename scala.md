@@ -268,6 +268,8 @@
   Effectful property testing built on ScalaCheck
 - [armanbilge/calico](https://github.com/armanbilge/calico): Pure, reactive UI
   library for Scala.js <https://armanbilge.github.io/calico>
+- 🌟 [LEGO/woof](https://github.com/LEGO/woof): A pure Scala 3 logging library
+  with no reflection
 
 ### ZIO
 

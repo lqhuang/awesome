@@ -34,13 +34,12 @@ Major in React ecosystem, but also include other frameworks and libraries.
   beautifully with Tailwind CSS. <https://headlessui.dev>
 - [reach/reach-ui](https://github.com/reach/reach-ui): The Accessible Foundation
   for React Apps and Design Systems <https://reach.tech> #design-system
-- [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source
-  UI component library for building high-quality, accessible design systems and
-  web apps. Maintained by @modulz. <https://radix-ui.com> #design-system
+- 🌟 [radix-ui/primitives](https://github.com/radix-ui/primitives): An
+  open-source UI component library for building high-quality, accessible design
+  systems and web apps. Maintained by @modulz. <https://radix-ui.com>
 - [patternfly/patternfly](https://github.com/patternfly/patternfly): This repo
   contains core (HTML/CSS) implementation for PatternFly. Issues related to
   CSS/HTML and layout should be filed here. <https://patternfly.org/>
-  #design-system
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui): ⚡️ Simple,
   Modular & Accessible UI Components for your React Applications
   <https://chakra-ui.com>
@@ -54,8 +53,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
   Svelte component library for building interactive node-based flow diagrams
 - [lit/lit](https://github.com/lit/lit): Lit is a simple library for building
   fast, lightweight web components. <https://lit.dev>
-- [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui): Clean, modern
-  and beautiful Tailwind CSS components. <https://ripple-ui.com>
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor): The react library
   to build dashboards fast. <https://tremor.so>
 - [tabler/tabler](https://github.com/tabler/tabler): Tabler is free and
@@ -70,12 +67,16 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [themesberg/flowbite](https://github.com/themesberg/flowbite): The most
   popular and open-source library of Tailwind CSS components
   <https://flowbite.com>
+- [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components
+  built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
 
 ### CSS Style
 
 - 🌟 [saadeghi/daisyui](https://github.com/saadeghi/daisyui): ⭐️ ⭐️ ⭐️ ⭐️
   ⭐️  The most popular, free and open-source Tailwind CSS component library
   <https://daisyui.com>
+- [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui): Clean, modern
+  and beautiful Tailwind CSS components. <https://ripple-ui.com>
 - [andybrewer/mvp](https://github.com/andybrewer/mvp/): MVP.css — Minimalist
   classless CSS stylesheet for HTML elements <https://andybrewer.github.io/mvp>
 - [Mokshit06/typewind](https://github.com/Mokshit06/typewind): The safety of
@@ -174,6 +175,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations):
   React-useanimations is a collection of free animated open source icons for
   React.js. <http://react.useanimations.com>
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥 Make
+  videos programmatically with React <https://remotion.dev>
+- [Tencent/libpag](https://github.com/Tencent/libpag): The official rendering
+  library for PAG (Portable Animated Graphics) files that renders After Effects
+  animations natively across multiple platforms. <https://pag.art>
+- [rive-app/rive-react](https://github.com/rive-app/rive-react): React runtime
+  for Rive <https://rive-app.github.io/rive-react>
 
 ## Functional libraries
 
@@ -191,11 +199,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript
   library that translates Cron expressions into human readable descriptions
   <http://bradymholt.github.io/cRonstrue/>
+- [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that
+  helps you debug components.
 
 ### SerDe / Schema
 
-- [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first schema
-  validation with static type inference <https://zod.dev>
+- 🌟 [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first
+  schema validation with static type inference <https://zod.dev>
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv): The fastest JSON
   schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON
   Type Definition (RFC8927) <https://ajv.js.org>
@@ -208,8 +218,22 @@ Major in React ecosystem, but also include other frameworks and libraries.
   Json Decoder for Typescript
 - [gcanti/io-ts](https://github.com/gcanti/io-ts): Runtime type system for IO
   decoding/encoding <https://gcanti.github.io/io-ts/>
-- [Effect-TS/schema](https://github.com/Effect-TS/schema): Modeling the schema
-  of data structures as first-class values <https://effect-ts.github.io/schema>
+- 🌟 [Effect-TS/schema](https://github.com/Effect-TS/schema): Modeling the
+  schema of data structures as first-class values
+  <https://effect-ts.github.io/schema>
+
+## Parser
+
+- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio): The fast, flexible,
+  and elegant library for parsing and manipulating HTML and XML.
+  <https://cheerio.js.org/>
+- [xmldom/xmldom](https://github.com/xmldom/xmldom): A pure JavaScript W3C
+  standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.
+- [fb55/htmlparser2](https://github.com/fb55/htmlparser2): The fast & forgiving
+  HTML and XML parser <https://feedic.com/htmlparser2>
+- [inikulin/parse5](https://github.com/inikulin/parse5): HTML
+  parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka
+  HTML5)-compliant.
 
 ### Date
 
@@ -218,6 +242,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://day.js.org>
 - [moment/luxon](https://github.com/moment/luxon): ⏱ A library for working with
   dates and times in JS <https://moment.github.io/luxon>
+
+### State management
+
 - [pmndrs/zustand](https://github.com/pmndrs/zustand): 🐻 Bear necessities for
   state management in React <https://zustand-demo.pmnd.rs>
 - [pmndrs/jotai](https://github.com/pmndrs/jotai): 👻 Primitive and flexible
@@ -226,22 +253,25 @@ Major in React ecosystem, but also include other frameworks and libraries.
   statecharts for the modern web. <https://xstate.js.org/docs>
 - 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next
   immutable state by mutating the current one <https://immerjs.github.io/immer>
-- [aidenybai/million](https://github.com/aidenybai/million): 🔟🔼6️⃣ An extremely
-  fast virtual DOM that makes React up to 70% faster! <https://millionjs.org>
-- [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that
-  helps you debug components.
+
+### Templates
+
+- 🌟 [steven-tey/precedent](https://github.com/steven-tey/precedent): An
+  opinionated collection of components, hooks, and utilities for your Next.js
+  project. <https://precedent.dev>
+- 🌟 [shadcn/taxonomy](https://github.com/shadcn/taxonomy): An open source
+  application built using the new router, server components and everything new
+  in Next.js 13. <https://tx.shadcn.com>
+
+### Uncategorised
+
 - [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your
   i18n localization with AI
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run
   Python code in your React apps. <https://elilambnz.github.io/react-py>
-- 🌟 [steven-tey/precedent](https://github.com/steven-tey/precedent): An
-  opinionated collection of components, hooks, and utilities for your Next.js
-  project. <https://precedent.dev>
 - [yomorun/presencejs](https://github.com/yomorun/presencejs): @yomo/presencejs
   ⚡️ made realtime web applications edge-aware by YoMo, WebTransport based,
   provide fallback to WebSocket automatically. <https://presence.js.org>
-- [quicktype/quicktype](https://github.com/quicktype/quicktype): Generate types
-  and converters from JSON, Schema, and GraphQL <https://app.quicktype.io>
 
 ## Visualization
 
@@ -291,8 +321,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css):
   LaTeX.css is a CSS library that makes your website look like a LaTeX document
   <https://latex.now.sh>
-- [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥 Make
-  videos programmatically with React <https://remotion.dev>
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars):
   Boring avatars is a tiny JavaScript React library that generates custom,
   SVG-based avatars from any username and color palette.
@@ -353,21 +381,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app):
   A modified web browser that helps in responsive web development. A web
   developer's must have dev-tool. <https://responsively.app>
+- [aidenybai/million](https://github.com/aidenybai/million): 🔟🔼6️⃣ An extremely
+  fast virtual DOM that makes React up to 70% faster! <https://millionjs.org>
 
 ## SSG
 
 - [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build
   on top of Notion and NextJS, deployed on Vercel. <https://nobelium.js.org>
-
-## SSR
-
-- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio): The fast, flexible,
-  and elegant library for parsing and manipulating HTML and XML.
-  <https://cheerio.js.org/>
-- [xmldom/xmldom](https://github.com/xmldom/xmldom): A pure JavaScript W3C
-  standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.
-- [fb55/htmlparser2](https://github.com/fb55/htmlparser2): The fast & forgiving
-  HTML and XML parser <https://feedic.com/htmlparser2>
-- [inikulin/parse5](https://github.com/inikulin/parse5): HTML
-  parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka
-  HTML5)-compliant.

@@ -751,6 +751,6 @@
   from Python <https://www.pyvibe.com>
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui): Create web-based
   interfaces with Python. The nice way. <https://nicegui.io>
-- [widgetti/solara](https://github.com/widgetti/solara): A Pure Python,
+- 🌟 [widgetti/solara](https://github.com/widgetti/solara): A Pure Python,
   React-style Framework for Scaling Your Jupyter and Web Apps
   <https://solara.dev>

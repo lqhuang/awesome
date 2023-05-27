@@ -152,6 +152,8 @@
   <http://tensor-compiler.org>
 - [google/XNNPACK](https://github.com/google/XNNPACK): High-efficiency
   floating-point neural network inference operators for mobile, server, and Web
+- 🌟 [geohot/tinygrad](https://github.com/geohot/tinygrad): You like pytorch?
+  You like micrograd? You love tinygrad! ❤️ <https://tinygrad.org/>
 
 ## Platform framework / Workflow pipeline / MLOps
 
@@ -330,8 +332,6 @@
 - [karpathy/micrograd](https://github.com/karpathy/micrograd): A tiny
   scalar-valued autograd engine and a neural net library on top of it with
   PyTorch-like API
-- [geohot/tinygrad](https://github.com/geohot/tinygrad): You like pytorch? You
-  like micrograd? You love tinygrad! ❤️
 - [pranftw/neograd](https://github.com/pranftw/neograd): A deep learning
   framework created from scratch with Python and NumPy
   <https://neograd.readthedocs.io>

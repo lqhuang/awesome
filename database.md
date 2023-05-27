@@ -58,6 +58,9 @@
   functions, logical and physical algebraic operators, various transformation
   algorithms from SQL to algebra (and the opposite).
   <https://calcite.apache.org/>
+- [penberg/mvcc-rs](https://github.com/penberg/mvcc-rs): Optimistic
+  multi-version concurrency control (MVCC) for main memory databases, written in
+  Rust.
 
 ## New databases
 
@@ -74,6 +77,8 @@
   financial accounting database designed for mission critical safety and
   performance to power the future of financial services.
   <https://www.tigerbeetle.com>
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB): A truly Open Source
+  MongoDB alternative <https://www.ferretdb.io>
 
 ### Novel SQLite
 

@@ -48,6 +48,11 @@
   <https://immersive-translate.owenyoung.com/>
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible
   <https://docs.rsshub.app>
+- [raphamorim/rio](https://github.com/raphamorim/rio): A hardware-accelerated
+  GPU terminal emulator powered by WebGPU, focusing to run in desktops and
+  browsers. <https://raphamorim.io/rio>
+- [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box):
+  server status & toolbox app using Flutter
 
 ## macOS / iPadOS
 
@@ -105,6 +110,8 @@
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit): CodeEdit App
   for macOS – Elevate your code editing experience. Open source, free forever.
   <https://codeedit.app>
+- [SlidePilot/SlidePilot-macOS](https://github.com/SlidePilot/SlidePilot-macOS):
+  Ultimate PDF Presentation Tool for macOS 🖥
 
 ### Free / Paid
 

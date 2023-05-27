@@ -170,10 +170,8 @@
   with real-time updates, content management, and much more... <https://novu.co>
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks): The
   enterprise-ready webhooks service 🦀 <https://www.svix.com>
-- [jitsucom/jitsu](https://github.com/jitsucom/jitsu): Jitsu is an open-source
-  Segment alternative. Fully-scriptable data ingestion engine for modern data
-  teams. Set-up a real-time data pipeline in minutes, not days
-  <https://jitsu.com>
+- [frain-dev/convoy](https://github.com/frain-dev/convoy): Open Source Webhooks
+  Gateway; For both incoming & outgoing events. <https://getconvoy.io>
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev): ✨
   Trigger.dev is an open-source platform that makes it easy for developers to
   create event-driven background tasks directly in their code.
@@ -183,6 +181,10 @@
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest): Tracetest -
   Generate end-to-end tests automatically from your traces. For QA, Dev, & Ops.
   <https://tracetest.io/>
+- [Testcontainers](https://github.com/testcontainers): Testcontainers is an open
+  source framework for providing throwaway, lightweight instances of databases,
+  message brokers, web browsers, or just about anything that can run in a Docker
+  container.
 
 ### Pipelines / Workflow
 
@@ -281,6 +283,10 @@
 
 ### Logger search and analytics
 
+- [jitsucom/jitsu](https://github.com/jitsucom/jitsu): Jitsu is an open-source
+  Segment alternative. Fully-scriptable data ingestion engine for modern data
+  teams. Set-up a real-time data pipeline in minutes, not days
+  <https://jitsu.com>
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch):
   Easy to use open source fast database for search | Good alternative to
   Elasticsearch now | Drop-in replacement for E in the ELK soon

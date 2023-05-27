@@ -85,6 +85,10 @@
   Structured and typehinted GPT responses in Python
 - [microsoft/guidance](https://github.com/microsoft/guidance): A guidance
   language for controlling large language models.
+- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts):
+  Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem
+  Solving with Large Language Models that Elevates Model Reasoning by atleast
+  70% <https://discord.gg/qUtxnK2NMf>
 
 ## ChatGPT
 
