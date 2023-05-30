@@ -65,3 +65,8 @@ more like a toolbox for myself.
   Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
 - [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A
   high-performance, concurrent hash table
+
+## Similar awesome
+
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome
+  lists about all kinds of interesting topics

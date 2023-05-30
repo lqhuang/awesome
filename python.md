@@ -57,6 +57,8 @@
   code. <https://www.sqlfluff.com>
 - [SourceCode-AI/aura](https://github.com/SourceCode-AI/aura): Python source
   code auditing and static analysis on a large scale
+- [vitsalis/PyCG](https://github.com/vitsalis/PyCG): Static Python call graph
+  generator
 
 ### Build tools
 

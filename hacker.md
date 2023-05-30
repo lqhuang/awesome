@@ -266,6 +266,9 @@
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit): Run a
   VPN with global exit nodes with fly.io, tailscale and github!
   <https://news.ycombinator.com/item?id=36064305>
+- [juewuy/ShellClash](https://github.com/juewuy/ShellClash): One-click
+  deployment and management of Clash services using Shell scripts in Linux
+  environment
 
 ### DNS
 

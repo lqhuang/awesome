@@ -175,11 +175,11 @@
 - [netbirdio/netbird](https://github.com/netbirdio/netbird): Connect your
   devices into a single secure private WireGuard®-based mesh network with
   SSO/MFA and simple access controls. <https://netbird.io>
-- [tailscale/tailscale](https://github.com/tailscale/tailscale): The easiest,
+- 🌟 [tailscale/tailscale](https://github.com/tailscale/tailscale): The easiest,
   most secure way to use WireGuard and 2FA. <https://tailscale.com>
 - [tailscale/golink](https://github.com/tailscale/golink): A private shortlink
   service for tailnets
-- [gravitl/netmaker](https://github.com/gravitl/netmaker): Netmaker makes
+- 🌟 [gravitl/netmaker](https://github.com/gravitl/netmaker): Netmaker makes
   networks with WireGuard. Netmaker automates fast, secure, and distributed
   virtual networks. <https://netmaker.io>
 - [madacluster/netmaker-terraform-provider](https://github.com/madacluster/netmaker-terraform-provider):
@@ -201,3 +201,4 @@
 - [ipinfo.io](https://ipinfo.io)
 - [Is using HTTP3?](https://http3.is)
 - [HTTP/3 Check](https://http3check.net)
+- [IPLeak.net](https://ipleak.net)

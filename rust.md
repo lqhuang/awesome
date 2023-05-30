@@ -647,3 +647,5 @@
   linux/opengl <http://makepad.dev>
 - [linebender/xilem](https://github.com/linebender/xilem): An experimental Rust
   native UI framework
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus): Friendly React-like
+  GUI library for desktop, web, mobile, and more. <https://dioxuslabs.com>

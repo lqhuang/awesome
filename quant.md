@@ -18,6 +18,9 @@
 - [edarchimbaud/awesome-systematic-trading](https://github.com/edarchimbaud/awesome-systematic-trading):
   A curated list of awesome libraries, packages, strategies, books, blogs,
   tutorials for systematic trading.
+- [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance): 150+
+  quantitative finance Python programs to help you gather, manipulate, and
+  analyze stock market data
 
 ### Books
 
@@ -151,6 +154,9 @@
 
 - [databento/dbz](https://github.com/databento/dbz): Databento Binary Encoding
   (DBZ) - Fast message encoding and storage format for market data
+- [man-group/ArcticDB](https://github.com/man-group/ArcticDB): ArcticDB is a
+  high performance, serverless DataFrame database built for the Python Data
+  Science ecosystem. <http://arcticdb.io>
 
 ## Timeseries
 

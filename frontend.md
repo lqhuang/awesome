@@ -182,6 +182,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   animations natively across multiple platforms. <https://pag.art>
 - [rive-app/rive-react](https://github.com/rive-app/rive-react): React runtime
   for Rive <https://rive-app.github.io/rive-react>
+- [airbnb/lottie-web](https://github.com/airbnb/lottie-web): Render After
+  Effects animations natively on Web, Android and iOS, and React Native.
+  <http://airbnb.io/lottie>
 
 ## Functional libraries
 
@@ -308,11 +311,37 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight):
   Next-generation HTML renderer for apps and games <https://ultralig.ht>
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus): Friendly React-like
-  GUI library for desktop, web, mobile, and more. <https://dioxuslabs.com>
 - 🌟 [expo/expo](https://github.com/expo/expo): An open-source platform for
   making universal native apps with React. Expo runs on Android, iOS, and the
   web. <https://docs.expo.dev>
+- [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler):
+  Declarative API exposing platform native touch and gesture system to React
+  Native. <https://docs.swmansion.com/react-native-gesture-handler/>
+- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated):
+  React Native's Animated library reimplemented
+  <https://docs.swmansion.com/react-native-reanimated/>
+- [software-mansion/react-native-screens](https://github.com/software-mansion/react-native-screens):
+  Native navigation primitives for your React Native app.
+- [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation):
+  Routing and navigation for your React Native apps
+  <https://reactnavigation.org>
+- [infinitered/ignite](https://github.com/infinitered/ignite): Infinite Red's
+  battle-tested React Native project boilerplate, along with a CLI,
+  component/model generators, and more!
+- [callstack/react-native-paper](https://github.com/callstack/react-native-paper):
+  Material Design for React Native (Android & iOS)
+  <https://reactnativepaper.com>
+- [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view):
+  React Native wrapper for the Android ViewPager and iOS UIPageViewController.
+- [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library):
+  🦉 Simple and complete React Native testing utilities that encourage good
+  testing practices. <https://callstack.github.io/react-native-testing-library/>
+- [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten):
+  💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode
+  <https://akveo.github.io/react-native-ui-kitten/>
+- [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib): UI
+  Components Library for React Native
+  <https://wix.github.io/react-native-ui-lib/>
 
 ## Design / Resources
 

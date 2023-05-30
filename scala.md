@@ -234,6 +234,9 @@
 - [endless4s/endless](https://github.com/endless4s/endless): Scala library to
   describe event sourced entities using tagless-final algebras
   <https://endless4s.github.io>
+- [scredis/scredis](https://github.com/scredis/scredis): Non-blocking,
+  ultra-fast Scala Redis client built on top of Akka IO.
+  <https://scredis.github.io/scredis/>
 
 ### Typelevel
 
@@ -266,6 +269,10 @@
   for Scala <https://fd4s.github.io/fs2-kafka>
 - [typelevel/scalacheck-effect](https://github.com/typelevel/scalacheck-effect):
   Effectful property testing built on ScalaCheck
+- [typelevel/cats-effect-testing](https://github.com/typelevel/cats-effect-testing):
+  Integration between cats-effect and test frameworks
+- [typelevel/munit-cats-effect](https://github.com/typelevel/munit-cats-effect):
+  Integration library for MUnit & cats-effect
 - [armanbilge/calico](https://github.com/armanbilge/calico): Pure, reactive UI
   library for Scala.js <https://armanbilge.github.io/calico>
 - 🌟 [LEGO/woof](https://github.com/LEGO/woof): A pure Scala 3 logging library

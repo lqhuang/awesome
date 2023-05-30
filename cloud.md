@@ -50,13 +50,11 @@
   <https://godoc.org/go.uber.org/automaxprocs>
 - [chainguard-images/images](https://github.com/chainguard-images/images):
   Public Chainguard Images <https://chainguard.dev/chainguard-images>
-- [internetarchive/hind](https://github.com/internetarchive/hind):
-  Hashistack-IN-Docker (single container with nomad + consul + caddy)
 - [containers/conmon](https://github.com/containers/conmon): An OCI container
   runtime monitor.
 - [rancher/rancher](https://github.com/rancher/rancher): Complete container
   management platform <http://rancher.com>
-- [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
+- 🌟 [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes
   <https://k3s.io>
 - [orsinium-labs/docked](https://github.com/orsinium-labs/docked): A friendly
   and safe alternative to Dockefile. Write Docker images using the full power of
@@ -202,6 +200,14 @@
   Packaging Infrastructure <https://www.uselotus.io>
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch): An Open Source
   Financial Switch to make Payments fast, reliable and affordable
+
+### Tech Stack
+
+- [internetarchive/hind](https://github.com/internetarchive/hind):
+  Hashistack-IN-Docker (single container with nomad + consul + caddy)
+- [theztd/startup-infra-docker](https://github.com/theztd/startup-infra-docker):
+  Easy managable infrastructure for small devops teams or startups (based on
+  ansible, nomadproject, docker, prometheus)
 
 ## Utils
 

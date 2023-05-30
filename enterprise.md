@@ -76,10 +76,17 @@
   (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App
   Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐
   <https://authp.github.io>
-- [Clerk](https://github.com/clerkinc): More than authentication - Complete user
-  management <https://clerk.dev/>
-- [Auth0](https://github.com/auth0): Next.js SDK for signing in with Auth0
+- [WorkOS](https://github.com/workos): WorkOS is a set of building blocks for
+  quickly adding enterprise features to your app. You’ll be shipping quickly
+  with a market-proven solution for your customers. <https://workos.com/>
+- 🌟 [Clerk](https://github.com/clerkinc): More than authentication - Complete
+  user management <https://clerk.dev/>
+- 🌟 [Auth0](https://github.com/auth0): Next.js SDK for signing in with Auth0
   <https://auth0.com>
+- 🌟 [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source
+  Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered
+  by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and
+  OpenAI ChatGPT <https://casdoor.org>
 - [NangoHQ/nango](https://github.com/NangoHQ/nango): Get OAuth tokens for APIs -
   fast & secure. <https://www.nango.dev>
 - [openfga/openfga](https://github.com/openfga/openfga): A high performance and
@@ -99,10 +106,6 @@
   "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST
   APIs, newSQL, and an easy and granular permission language. Supports ACL,
   RBAC, and other access models. <https://www.ory.sh>
-- [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source Identity
-  and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin
-  and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT
-  <https://casdoor.org>
 
 ## Dev tools
 
@@ -158,6 +161,9 @@
   built-in search. <https://just-the-docs.github.io/just-the-docs>
 - [Linen](https://www.linen.dev/): Sync your Slack and Discord conversations to
   Linen and get SEO benefits while reducing customer support load
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant):
+  Contributor License Agreement assistant (CLA assistant)
+  <https://cla-assistant.io>
 
 ## DevOps
 
@@ -323,6 +329,8 @@
   Determinate Systems <https://zero-to-nix.com>
 - [tweag/jupyenv](https://github.com/tweag/jupyenv): Declarative and
   reproducible Jupyter environments - powered by Nix <https://jupyenv.io>
+- [buildpacks/pack](https://github.com/buildpacks/pack): CLI for building apps
+  using Cloud Native Buildpacks <https://buildpacks.io>
 
 ### GitHub Action
 
@@ -350,6 +358,15 @@
 - 🌟 [renovatebot/renovate](https://github.com/renovatebot/renovate): Universal
   dependency update tool that fits into your workflows.
   <https://renovatebot.com>
+- [googleapis/release-please](https://github.com/googleapis/release-please):
+  generate release PRs based on the conventionalcommits.org spec
+  <https://www.conventionalcommits.org>
+- [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish):
+  The blessed GitHub Action, for publishing your 📦 distribution files to PyPI:
+  https://github.com/marketplace/actions/pypi-publish
+  <https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/>
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated
+  list of awesome actions to use on GitHub <https://desktop.github.com>
 
 ## Security
 

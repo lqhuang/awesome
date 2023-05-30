@@ -129,6 +129,9 @@ Streaming Systems
   teams of an org. <https://www.klaw-project.io>
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator):
   Apache Kafka® running on Kubernetes <https://strimzi.io/>
+- [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry):
+  Confluent Schema Registry for Kafka
+  <https://docs.confluent.io/current/schema-registry/docs/index.html>
 
 ## Toy projects
 

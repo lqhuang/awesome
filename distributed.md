@@ -27,8 +27,6 @@
   《Patterns of Distributed Systems》中文版
 - [drmingdrmer/consensus-essence](https://github.com/drmingdrmer/consensus-essence):
   distributed consensus protocol's bugs, flaws, deceptive traps, improvements
-- [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos): A
-  consensus that unifies paxos, raft, 2pc, etc.
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus):
   Awesome list for Paxos and friends
 - [ept/ddia-references](https://github.com/ept/ddia-references): Literature
@@ -129,6 +127,8 @@
   framework for evaluating (planet-scale) consensus protocols
 - [zowens/paxos-rs](https://github.com/zowens/paxos-rs): Paxos implementation in
   Rust
+- [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos): A
+  consensus that unifies paxos, raft, 2pc, etc.
 
 ### Raft
 

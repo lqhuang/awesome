@@ -118,8 +118,12 @@
   for OpenAPI tokenizers <https://tiktokenizer.vercel.app>
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt): Create your own
   ChatGPT App in seconds. <https://open-gpt.app>
-- [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy):
+- 🌟
+  [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy):
   A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
+- 🌟 [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy):
+  Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure
+  OpenAI API request. Support GPT-4.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache): GPTCache is a
   library for creating semantic cache to store responses from LLM queries.
   <https://gptcache.readthedocs.io>

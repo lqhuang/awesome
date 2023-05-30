@@ -7,6 +7,8 @@
 - [Enhance your Postgres skills](https://www.crunchydata.com/developers/tutorials)
 - [Generating lots of test data with Postgres, fast and faster](https://kmoppel.github.io/2022-12-23-generating-lots-of-test-data-with-postgres-fast-and-faster/)
 - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
+- [alextanhongpin/database-design](https://github.com/alextanhongpin/database-design):
+  Ideas on better database design
 
 ### Books
 
@@ -189,6 +191,8 @@
   database with real data ⚡️ <https://www.replibyte.com>
 - [bytebase/bytebase](https://github.com/bytebase/bytebase): Safe database
   schema change and version control for DevOps teams. <https://www.bytebase.com>
+- [flyway/flyway](https://github.com/flyway/flyway): Flyway by Redgate •
+  Database Migrations Made Easy. <https://flywaydb.org>
 - [wal-g/wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for
   databases in the Cloud
 - [datafold/data-diff](https://github.com/datafold/data-diff): Efficiently diff
@@ -196,6 +200,17 @@
   <https://www.datafold.com/blog/open-source-data-diff>
 - [centerofci/mathesar](https://github.com/centerofci/mathesar): Web application
   providing an intuitive user experience to databases. <https://mathesar.org>
+- [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools):
+  Everything that makes working with databases easier
+
+### ERD
+
+- [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler): Open-source
+  data modeling tool designed for PostgreSQL. No more typing DDL commands. Let
+  pgModeler do the work for you! <https://pgmodeler.io>
+- [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt): Next-Gen ERD:
+  Design, Explore, Document and Analyze your database
+  <https://azimutt.app?ref=github-repo>
 
 ### PG
 
@@ -231,6 +246,7 @@
   pgvector support for Python
 - 🌟 [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs): Vector
   database plugin for Postgres, written in Rust
+- 🌟 [PostgreSQL Configurator](https://pgconfigurator.cybertec-postgresql.com)
 
 ### SQLite
 
