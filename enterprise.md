@@ -198,14 +198,14 @@
   A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
 - [orchest/orchest](https://github.com/orchest/orchest): Build data pipelines,
   the easy way 🛠️ <https://orchest.io>
-- [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and open fair-code licensed
-  node based Workflow Automation Tool. Easily automate tasks across different
-  services. <https://n8n.io>
+- 🌟 [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and open fair-code
+  licensed node based Workflow Automation Tool. Easily automate tasks across
+  different services. <https://n8n.io>
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): The easiest way to
   automate your data <https://prefect.io>
-- [dagster-io/dagster](https://github.com/dagster-io/dagster): An orchestration
-  platform for the development, production, and observation of data assets.
-  <https://dagster.io>
+- 🌟 [dagster-io/dagster](https://github.com/dagster-io/dagster): An
+  orchestration platform for the development, production, and observation of
+  data assets. <https://dagster.io>
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai): 🧙 A modern replacement
   for Airflow. <https://www.mage.ai>
 - [uber/cadence](https://github.com/uber/cadence): Cadence is a distributed,

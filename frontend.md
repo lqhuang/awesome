@@ -25,21 +25,36 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ### Components framework
 
+- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui):
+  Completely unstyled, fully accessible UI components, designed to integrate
+  beautifully with Tailwind CSS. <https://headlessui.dev>
+- [patternfly/patternfly](https://github.com/patternfly/patternfly): This repo
+  contains core (HTML/CSS) implementation for PatternFly. Issues related to
+  CSS/HTML and layout should be filed here. <https://patternfly.org/>
+- [lit/lit](https://github.com/lit/lit): Lit is a simple library for building
+  fast, lightweight web components. <https://lit.dev>
+- [tabler/tabler](https://github.com/tabler/tabler): Tabler is free and
+  open-source HTML Dashboard UI Kit built on Bootstrap
+  <https://preview.tabler.io>
+- [konstaui/konsta](https://github.com/konstaui/konsta): Mobile UI components
+  made with Tailwind CSS <https://konstaui.com>
+- [microsoft/fast](https://github.com/microsoft/fast): The adaptive interface
+  system for modern web experiences. <https://www.fast.design>
+- 🌟 [themesberg/flowbite](https://github.com/themesberg/flowbite): The most
+  popular and open-source library of Tailwind CSS components
+  <https://flowbite.com>
+
+#### React
+
 - [nextui-org/nextui](https://github.com/nextui-org/nextui): 🚀 Beautiful, fast
   and modern React UI library. <https://nextui.org>
 - 🌟 [mantinedev/mantine](https://github.com/mantinedev/mantine/): React
   components library with native dark theme support <https://mantine.dev>
-- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui):
-  Completely unstyled, fully accessible UI components, designed to integrate
-  beautifully with Tailwind CSS. <https://headlessui.dev>
 - [reach/reach-ui](https://github.com/reach/reach-ui): The Accessible Foundation
   for React Apps and Design Systems <https://reach.tech> #design-system
 - 🌟 [radix-ui/primitives](https://github.com/radix-ui/primitives): An
   open-source UI component library for building high-quality, accessible design
   systems and web apps. Maintained by @modulz. <https://radix-ui.com>
-- [patternfly/patternfly](https://github.com/patternfly/patternfly): This repo
-  contains core (HTML/CSS) implementation for PatternFly. Issues related to
-  CSS/HTML and layout should be filed here. <https://patternfly.org/>
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui): ⚡️ Simple,
   Modular & Accessible UI Components for your React Applications
   <https://chakra-ui.com>
@@ -49,26 +64,21 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum): A collection
   of libraries and tools that help you build adaptive, accessible, and robust
   user experiences. <https://react-spectrum.adobe.com>
-- [oslabs-beta/Svelvet](https://github.com/oslabs-beta/Svelvet): A lightweight
-  Svelte component library for building interactive node-based flow diagrams
-- [lit/lit](https://github.com/lit/lit): Lit is a simple library for building
-  fast, lightweight web components. <https://lit.dev>
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor): The react library
   to build dashboards fast. <https://tremor.so>
-- [tabler/tabler](https://github.com/tabler/tabler): Tabler is free and
-  open-source HTML Dashboard UI Kit built on Bootstrap
-  <https://preview.tabler.io>
-- [konstaui/konsta](https://github.com/konstaui/konsta): Mobile UI components
-  made with Tailwind CSS <https://konstaui.com>
-- [microsoft/fast](https://github.com/microsoft/fast): The adaptive interface
-  system for modern web experiences. <https://www.fast.design>
 - [refinedev/refine](https://github.com/refinedev/refine): Build your
   React-based CRUD applications, without constraints. <https://refine.dev/>
-- 🌟 [themesberg/flowbite](https://github.com/themesberg/flowbite): The most
-  popular and open-source library of Tailwind CSS components
-  <https://flowbite.com>
 - [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components
   built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
+
+#### Svelte
+
+- [oslabs-beta/Svelvet](https://github.com/oslabs-beta/Svelvet): A lightweight
+  Svelte component library for building interactive node-based flow diagrams
+- [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte):
+  shadcn/ui, but for Svelte. <https://shadcn-svelte.com>
+- [TGlide/radix-svelte](https://github.com/TGlide/radix-svelte): A port of Radix
+  UI for Svelte <https://www.radix-svelte.com/>
 
 ### CSS Style
 
@@ -84,8 +94,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [macaron-css/macaron](https://github.com/macaron-css/macaron): Typesafe
   CSS-in-JS with zero runtime, colocation, maximum safety and productivity
   <https://macaron.js.org>
-- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants):
-  🦄 Tailwindcss first-class variant API <https://tailwind-variants.org>
 - [tw-in-js/twind](https://github.com/tw-in-js/twind): The smallest, fastest,
   most feature complete Tailwind-in-JS solution in existence.
   <https://twind.style>
@@ -94,6 +102,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [stitchesjs/stitches](https://github.com/stitchesjs/stitches): CSS-in-JS with
   near-zero runtime, SSR, multi-variant support, and a best-in-class developer
   experience. <https://stitches.dev>
+- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants):
+  🦄 Tailwindcss first-class variant API <https://tailwind-variants.org>
+- 🌟 [joe-bell/cva](https://github.com/joe-bell/cva): Class Variance Authority
+  <https://cva.style>
+- 🌟 [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge): Merge
+  Tailwind CSS classes without style conflicts
+  <https://npmjs.com/package/tailwind-merge>
 
 ### Components
 
