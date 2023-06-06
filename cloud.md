@@ -61,6 +61,9 @@
   Python. <https://docked.orsinium.dev>
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The
   lazier way to manage everything docker
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker): 🐳
+  A curated list of Docker resources and projects
+  <https://awesome-docker.netlify.app>
 
 ## Routing
 

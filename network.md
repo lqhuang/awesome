@@ -37,6 +37,7 @@
   Overlay Connection Arbitration Tunnel
 - [libpnet/libpnet](https://github.com/libpnet/libpnet): Cross-platform, low
   level networking using the Rust programming language.
+- [DPDK/dpdk](https://github.com/DPDK/dpdk): Data Plane Development Kit
 
 ## Tools
 

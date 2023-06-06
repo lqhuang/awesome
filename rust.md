@@ -27,6 +27,9 @@
   本书主要对 RUST 的标准库代码进行分析，并试图给出 RUST 标准库代码的分析脉络
   。This project try to give a venation of how reading the RUST standard library
   source code.
+- [night-cruise/async-rust](https://github.com/night-cruise/async-rust): 这是一
+  本电子书，旨在介绍 Rust 中 async/await 语法和异步运行时的原理和工作机制。
+  <https://night-cruise.github.io/async-rust/>
 
 ## Readings / Tutorials
 
@@ -298,6 +301,8 @@
   ABI for Rust with compact sum-types
 - [rosefromthedead/effing-mad](https://github.com/rosefromthedead/effing-mad):
   Algebraic effects for Rust
+- [rxRust/rxRust](https://github.com/rxRust/rxRust): Rust implementation of
+  Reactive Extensions.
 
 ## HPC / SIMD / Vectorization
 

@@ -130,6 +130,10 @@
   <https://mosecorg.github.io/mosec/>
 - [iqiyi/xgboost-serving](https://github.com/iqiyi/xgboost-serving): A flexible,
   high-performance serving system for machine learning models
+- [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate):
+  AITemplate is a Python framework which renders neural network into high
+  performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU)
+  and MatrixCore (AMD GPU) inference.
 
 ## Tensor inference / Compiler / Low level
 
@@ -185,6 +189,9 @@
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a
   Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your
   Generative LLM, CV and Tabular Models <https://docs.arize.com/phoenix>
+- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot): SkyPilot is
+  a framework for easily running machine learning workloads on any cloud through
+  a unified interface. <https://skypilot.readthedocs.io>
 
 ## Autodiff
 

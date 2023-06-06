@@ -94,8 +94,8 @@ Streaming Systems
 - [nats-io/nats-server](https://github.com/nats-io/nats-server):
   High-Performance server for NATS.io, the cloud and edge native messaging
   system. <https://nats.io/>
-- [memphisdev/memphis](https://github.com/memphisdev/memphis): Next-Generation
-  Real-Time Data Processing Platform <https://docs.memphis.dev/>
+- 🌟 [memphisdev/memphis](https://github.com/memphisdev/memphis):
+  Next-Generation Real-Time Data Processing Platform <https://docs.memphis.dev/>
 - [cloudevents/spec](https://github.com/cloudevents/spec): CloudEvents
   Specification <https://cloudevents.io/>
 - [vanus-labs/vanus](https://github.com/vanus-labs/vanus): Vanus is a

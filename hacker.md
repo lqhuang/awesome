@@ -92,6 +92,8 @@
   icons for accessing data via OpenDAL
 - [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file
   manager
+- [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto): ranger-like terminal
+  file manager written in Rust
 - [thetacom/hexabyte](https://github.com/thetacom/hexabyte): A modern, modular,
   and robust TUI hex editor. <http://io.thetacom.info/hexabyte/>
 
@@ -112,8 +114,8 @@
 
 ## Dev tools
 
-- [z-shell/zi](https://github.com/z-shell/zi): ✨ A Swiss Army Knife for Zsh -
-  Unix Shell <https://wiki.zshell.dev>
+- 🌟 [z-shell/zi](https://github.com/z-shell/zi): ✨ A Swiss Army Knife for
+  Zsh - Unix Shell <https://wiki.zshell.dev>
 - [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose):
   Process Compose is a simple and flexible scheduler and orchestrator to manage
   non-containerized applications.
@@ -132,8 +134,6 @@
   Trigger.dev team. <https://jsonhero.io/>
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv): Directory-based
   environments
-- [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with
-  Protocol Buffers. <https://buf.build>
 - [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest
   tool
 - [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative,
@@ -161,6 +161,13 @@
 - [tweag/topiary](https://github.com/tweag/topiary): Topiary aims to be a
   uniform formatter for simple languages, as part of the Tree-sitter ecosystem.
   <https://topiary.tweag.io/>
+- 🌟
+  [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth):
+  A Git credential helper that securely authenticates to GitHub, GitLab and
+  BitBucket using OAuth.
+  <https://pkg.go.dev/github.com/hickford/git-credential-oauth>
+- [zealdocs/zeal](https://github.com/zealdocs/zeal): Offline documentation
+  browser inspired by Dash <https://zealdocs.org>
 
 ## Homelab
 
@@ -217,6 +224,11 @@
 - [unpoller/unpoller](https://github.com/unpoller/unpoller): Application:
   Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB
   or Prometheus <https://unpoller.com>
+- [thunder439/QNASMINI](https://github.com/thunder439/QNASMINI): QNAS MINI 是 6
+  盘位 2.5 寸 NAS
+- [workerforce/unifi-ddns](https://github.com/workerforce/unifi-ddns):
+  Cloudflare DDNS (Dynamic DNS) support for UniFi OS
+  <https://workerforce.github.io/unifi-ddns/>
 
 ## Proxy
 
@@ -302,6 +314,8 @@
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws)
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): 人教版
   小学到大学数学
+- [public-apis/public-apis](https://github.com/public-apis/public-apis): A
+  collective list of free APIs <http://public-apis.org>
 
 ### Code as Graph
 

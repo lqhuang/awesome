@@ -340,6 +340,8 @@
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai): Pandas AI is a
   Python library that integrates generative artificial intelligence capabilities
   into Pandas, making dataframes conversational
+- [mljar/mercury](https://github.com/mljar/mercury): Build Web Apps in Jupyter
+  Notebook with Python only <https://RunMercury.com>
 
 ### Jupyter ecosystem
 
@@ -421,6 +423,10 @@
   hashing for your software and your servers
 - [mpdavis/python-jose](https://github.com/mpdavis/python-jose): A JOSE
   implementation in Python
+- 📝 [Lancetnik/Propan](https://github.com/Lancetnik/Propan): Propan is a
+  powerful and easy-to-use Python framework for building asynchronous web
+  services that interact with Any MQ Broker
+  <https://lancetnik.github.io/Propan/>
 
 ### DB clients and SQL utils
 
@@ -531,6 +537,8 @@
 - [ZechCodes/Bevy](https://github.com/ZechCodes/Bevy): A dependency injection
   framework for Python! Bevy's primary goal is to help you write amazing code
   with less effort. <https://blog.zech.codes/bevy-v2>
+- [mivade/argparse_dataclass](https://github.com/mivade/argparse_dataclass):
+  Declarative CLIs with argparse and dataclasses
 
 ### Configuration
 
@@ -565,6 +573,8 @@
   for asyncio
 - 📝 [Tinche/quattro](https://github.com/Tinche/quattro): Better control of your
   asyncio tasks
+- [oremanj/aioguest](https://github.com/oremanj/aioguest): Run asyncio and
+  another event loop in the same thread
 
 ### Middleware
 
@@ -747,12 +757,14 @@
 
 #### HTML
 
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone): Web apps in
-  pure Python. <https://pynecone.io>
+- 🌟 [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone): Web apps
+  in pure Python. <https://pynecone.io>
 - [pycob/pyvibe](https://github.com/pycob/pyvibe): Generate styled HTML pages
   from Python <https://www.pyvibe.com>
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui): Create web-based
   interfaces with Python. The nice way. <https://nicegui.io>
-- 🌟 [widgetti/solara](https://github.com/widgetti/solara): A Pure Python,
+- [widgetti/solara](https://github.com/widgetti/solara): A Pure Python,
   React-style Framework for Scaling Your Jupyter and Web Apps
   <https://solara.dev>
+- 🌟 [reactive-python/reactpy](https://github.com/reactive-python/reactpy): It's
+  React, but in Python <https://reactpy.dev>

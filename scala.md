@@ -94,6 +94,8 @@
   client library
 - [scalapb-json/scalapb-circe](https://github.com/scalapb-json/scalapb-circe):
   Json/Protobuf convertors for ScalaPB use circe
+- [j-mie6/parsley](https://github.com/j-mie6/parsley): A fast and modern parser
+  combinator library for Scala
 
 ### Experiments
 
@@ -135,11 +137,14 @@
   boilerplate-free library for loading configuration files
 - [typelevel/fabric](https://github.com/typelevel/fabric): Object-Notation
   Abstraction for JSON, binary, HOCON, etc.
+- [jwt-scala/jwt-scala](https://github.com/jwt-scala/jwt-scala): JWT support for
+  Scala. Bonus extensions for Play, Play JSON, Json4s, Circe, uPickle, Spray and
+  Argonaut <https://jwt-scala.github.io/jwt-scala/>
 
 ### Logging
 
-- [outr/scribe](https://github.com/outr/scribe): The fastest logging library in
-  the world. Built from scratch in Scala and programmatically configurable.
+- 🌟 [outr/scribe](https://github.com/outr/scribe): The fastest logging library
+  in the world. Built from scratch in Scala and programmatically configurable.
 
 ### Tracing
 
@@ -237,6 +242,8 @@
 - [scredis/scredis](https://github.com/scredis/scredis): Non-blocking,
   ultra-fast Scala Redis client built on top of Akka IO.
   <https://scredis.github.io/scredis/>
+- [hseeberger/akka-http-json](https://github.com/hseeberger/akka-http-json):
+  Integrate some of the best JSON libs in Scala with Akka HTTP
 
 ### Typelevel
 
@@ -277,6 +284,12 @@
   library for Scala.js <https://armanbilge.github.io/calico>
 - 🌟 [LEGO/woof](https://github.com/LEGO/woof): A pure Scala 3 logging library
   with no reflection
+- [evolution-gaming/scache](https://github.com/evolution-gaming/scache): Cache
+  in Scala with cats-effect
+- [mockito/mockito-scala](https://github.com/mockito/mockito-scala): Mockito for
+  Scala language <http://mockito.org>
+- [http4s/http4s-armeria](https://github.com/http4s/http4s-armeria): Armeria
+  backend for http4s
 
 ### ZIO
 
@@ -290,6 +303,8 @@
   write Http apps. <https://dream11.github.io/zio-http>
 - [tailcallhq/zio-compose](https://github.com/tailcallhq/zio-compose): A Scala
   DSL to write type-safe programs for distributed computing
+- [hmemcpy/zio-clippy](https://github.com/hmemcpy/zio-clippy): A Scala compiler
+  plugin for better ZIO type mismatch errors.
 
 ## Could we make Scala great again?
 

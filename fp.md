@@ -18,6 +18,9 @@
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated):
   A book about category theory
   <https://abuseofnotation.github.io/category-theory-illustrated/>
+- [haskellfoundation/hs-opt-handbook.github.io](https://github.com/haskellfoundation/hs-opt-handbook.github.io):
+  The Haskell Optimization Handbook
+  <https://haskell.foundation/hs-opt-handbook.github.io/>
 
 ### Resources
 
@@ -122,3 +125,7 @@
 - [effekt-lang/effekt](https://github.com/effekt-lang/effekt): A research
   language with effect handlers and lightweight effect polymorphism
   <https://effekt-lang.org/>
+- [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind): A next-gen
+  functional language <https://kindelia.org/>
+- [inko-lang/inko](https://github.com/inko-lang/inko): A language for building
+  concurrent software with confidence <http://inko-lang.org/>

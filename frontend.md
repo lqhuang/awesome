@@ -2,6 +2,14 @@
 
 Major in React ecosystem, but also include other frameworks and libraries.
 
+## Resources
+
+- [enaqx/awesome-react](https://github.com/enaqx/awesome-react): A collection of
+  awesome things regarding React ecosystem
+- [ericdiviney/react-handbook](https://github.com/ericdiviney/react-handbook):
+  ⚛🤌 Modern approaches to architecture and feature development for
+  production-ready React apps. <https://reacthandbook.dev>
+
 ## Framework
 
 - [denoland/fresh](https://github.com/denoland/fresh): The next-gen web
@@ -20,6 +28,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
   for Startups <https://redwoodjs.com>
 - [trpc/trpc](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing.
   End-to-end typesafe APIs made easy. <https://trpc.io>
+- [refinedev/refine](https://github.com/refinedev/refine): Build your
+  React-based CRUD applications, without constraints. <https://refine.dev>
+- [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework
+  <https://waku.gg>
 
 ## Components library
 
@@ -43,6 +55,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [themesberg/flowbite](https://github.com/themesberg/flowbite): The most
   popular and open-source library of Tailwind CSS components
   <https://flowbite.com>
+- [ariakit/ariakit](https://github.com/ariakit/ariakit): Toolkit for building
+  accessible web apps with React <https://ariakit.org>
 
 #### React
 
@@ -68,7 +82,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   to build dashboards fast. <https://tremor.so>
 - [refinedev/refine](https://github.com/refinedev/refine): Build your
   React-based CRUD applications, without constraints. <https://refine.dev/>
-- [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components
+- 🌟 [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components
   built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
 
 #### Svelte
@@ -82,6 +96,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ### CSS Style
 
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips):
+  ⚡️ A collection of tips to help take your CSS skills pro 🦾
 - 🌟 [saadeghi/daisyui](https://github.com/saadeghi/daisyui): ⭐️ ⭐️ ⭐️ ⭐️
   ⭐️  The most popular, free and open-source Tailwind CSS component library
   <https://daisyui.com>
@@ -205,6 +221,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [streamich/react-use](https://github.com/streamich/react-use): React Hooks —
   👍 <http://streamich.github.io/react-use>
+- [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done
+  right. For Browser, SSR, and React Server Components. <https://foxact.skk.moe>
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks): A collection of
+  modern, server-safe React hooks – from the ui.dev team <https://usehooks.com>
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): An
   open-source, lightning-fast, and hyper-relevant search engine that fits
   effortlessly into your apps, websites, and workflow.
@@ -240,7 +260,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   schema of data structures as first-class values
   <https://effect-ts.github.io/schema>
 
-## Parser
+### Parser
 
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio): The fast, flexible,
   and elegant library for parsing and manipulating HTML and XML.
@@ -280,6 +300,16 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [shadcn/taxonomy](https://github.com/shadcn/taxonomy): An open source
   application built using the new router, server components and everything new
   in Next.js 13. <https://tx.shadcn.com>
+- [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise): 💼 An
+  enterprise-grade Next.js boilerplate for high-performance, maintainable apps.
+  Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing
+  tools, and more to accelerate your development.
+  <https://next-enterprise.vercel.app>
+
+### Backend
+
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm):
+  TypeScript ORM that feels like writing SQL <https://orm.drizzle.team>
 
 ### Uncategorised
 

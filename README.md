@@ -70,3 +70,5 @@ more like a toolbox for myself.
 
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome
   lists about all kinds of interesting topics
+- [zserge/awfice](https://github.com/zserge/awfice): The world smallest office
+  suite

@@ -63,6 +63,9 @@
 - [configu/configu](https://github.com/configu/configu): a simple, modern, and
   generic standard for managing and collaborating software configurations ⚙️✨.
   <https://configu.com/>
+- [keycloak/keycloak](https://github.com/keycloak/keycloak): Open Source
+  Identity and Access Management For Modern Applications and Services
+  <https://www.keycloak.org>
 
 ### To User
 
@@ -143,6 +146,8 @@
   Docker-powered stateless API for PDF files. <https://gotenberg.dev>
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF
   documents using web technologies
+- [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with
+  Protocol Buffers. <https://buf.build>
 
 ## Documents
 
@@ -191,6 +196,12 @@
   source framework for providing throwaway, lightweight instances of databases,
   message brokers, web browsers, or just about anything that can run in a Docker
   container.
+- [documenso/documenso](https://github.com/documenso/documenso): Document
+  Signing as it should be - open and shaped by its community.
+  <https://documenso.com>
+- [makeplane/plane](https://github.com/makeplane/plane): 🔥 🔥 🔥 Open Source
+  JIRA, Linear and Height Alternative. Plane helps you track your issues, epics,
+  and product roadmaps in the simplest way possible. <http://plane.so>
 
 ### Pipelines / Workflow
 
@@ -389,8 +400,14 @@
   极简主义团队管理操作手册
 - [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook):
   🏂🏻 程序员海外工作/英文面试手册
+
+### Open Source & Community
+
 - [github/opensource.guide](https://github.com/github/opensource.guide): 📚
   Community guides for open source creators <https://opensource.guide/>
+- [polarsource/polar](https://github.com/polarsource/polar): Polar gives open
+  source maintainers a better and funded backlog based on what drives the most
+  impact within their community. <https://polar.sh>
 
 ## Billing
 

@@ -147,6 +147,8 @@
   meditation-inspired writing app designed for iPhone, iPad, and Mac.
 - [Batteries for Mac](https://www.fadel.io/batteries): Track all your devices'
   batteries from your Mac.
+- 🌟 [AlDente - Charge Limiter](https://apphousekitchen.com/): The ALL-IN-ONE
+  charge Limiter App for MacBooks.
 - [Shrugs.app](https://shrugs.app): Integrate macOS into your Slack experience.
 - [Sip](https://sipapp.io/): A better Color Picker for your Mac.
 - [BetterTouchTool](https://folivora.ai/): BetterTouchTool is a great, feature
@@ -155,8 +157,10 @@
   management
 - 🌟 [GPG Suite](https://gpgtools.org/): One simple package with everything you
   need, to protect your emails and files.
-- [AlDente - Charge Limiter](https://apphousekitchen.com/): The ALL-IN-ONE
-  charge Limiter App for MacBooks.
+- 🌟 [Contexts 3](https://contexts.co/): Radically simpler & faster window
+  switcher
+- 🌟 [Input Source Pro](https://inputsource.pro/): Switch and track your input
+  sources with ease ✨
 
 ## Services
 

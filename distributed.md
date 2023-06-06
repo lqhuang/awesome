@@ -31,6 +31,8 @@
   Awesome list for Paxos and friends
 - [ept/ddia-references](https://github.com/ept/ddia-references): Literature
   references for “Designing Data-Intensive Applications”
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability):
+  The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 
 ### Books
 

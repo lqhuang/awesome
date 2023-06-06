@@ -35,6 +35,8 @@
 - [unum-cloud/usearch](https://github.com/unum-cloud/usearch): Smaller & Faster
   Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram
   <https://unum-cloud.github.io/usearch/>
+- [marqo-ai/marqo](https://github.com/marqo-ai/marqo): Vector search for humans.
+  <https://www.marqo.ai/>
 
 ## Network Implementations
 
@@ -85,10 +87,13 @@
   Structured and typehinted GPT responses in Python
 - [microsoft/guidance](https://github.com/microsoft/guidance): A guidance
   language for controlling large language models.
-- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts):
+- 🌟 [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts):
   Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem
   Solving with Large Language Models that Elevates Model Reasoning by atleast
   70% <https://discord.gg/qUtxnK2NMf>
+- [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm):
+  Seamlessly integrate powerful language models like ChatGPT into scikit-learn
+  for enhanced text analysis tasks.
 
 ## ChatGPT
 
@@ -160,6 +165,8 @@
   免费 Prompt Engineering 教程 <https://learningprompt.wiki>
 - [datawhalechina/prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers):
   吴恩达《ChatGPT Prompt Engineering for Developers》课程中文版
+- [Illumine-Labs/GreatMaster](https://github.com/Illumine-Labs/GreatMaster):
+  Master, help us to awaken and enlighten. 大师，我悟了。
 
 ### ChatGPT Web UI
 
@@ -182,3 +189,13 @@
 - [ljsabc/Fujisaki](https://github.com/ljsabc/Fujisaki): An ongoing (fast
   prototyping) project to create your own doppelgänger based on your Twitter
   archive and LoRA+Alpaca
+- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone): ChatGPT
+  interface with better UI <https://g4f.ai>
+
+## Software / tools
+
+- [SevaSk/ecoute](https://github.com/SevaSk/ecoute): Ecoute is a live
+  transcription tool that provides real-time transcripts for both the user's
+  microphone input (You) and the user's speakers output (Speaker) in a textbox.
+  It also generates a suggested response using OpenAI's GPT-3.5 for the user to
+  say based on the live transcription of the conversation.
