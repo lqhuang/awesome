@@ -30,6 +30,8 @@
 - [night-cruise/async-rust](https://github.com/night-cruise/async-rust): 这是一
   本电子书，旨在介绍 Rust 中 async/await 语法和异步运行时的原理和工作机制。
   <https://night-cruise.github.io/async-rust/>
+- [Effective Rust](https://www.lurklurk.org/effective-rust/cover.html): 35
+  Specific Ways to Improve Your Rust Code
 
 ## Readings / Tutorials
 

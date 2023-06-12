@@ -94,6 +94,10 @@
 - [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm):
   Seamlessly integrate powerful language models like ChatGPT into scikit-learn
   for enhanced text analysis tasks.
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI):
+  <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework.
+  Enabling developers to build, manage & run useful autonomous agents quickly
+  and reliably. <https://superagi.com/>
 
 ## ChatGPT
 
@@ -123,20 +127,25 @@
   for OpenAPI tokenizers <https://tiktokenizer.vercel.app>
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt): Create your own
   ChatGPT App in seconds. <https://open-gpt.app>
+- [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit):
+  OpenChatKit provides a powerful, open-source base to create both specialized
+  and general purpose chatbots for various applications. The kit includes an
+  instruction-tuned language models, a moderation model, and an extensible
+  retrieval system for including up-to-date responses from custom repositories.
+- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache): GPTCache is a
+  library for creating semantic cache to store responses from LLM queries.
+  <https://gptcache.readthedocs.io>
+
+### Proxy or Transform
+
 - 🌟
   [haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy):
   A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service
 - 🌟 [stulzq/azure-openai-proxy](https://github.com/stulzq/azure-openai-proxy):
   Azure OpenAI Service Proxy. Convert OpenAI official API request to Azure
   OpenAI API request. Support GPT-4.
-- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache): GPTCache is a
-  library for creating semantic cache to store responses from LLM queries.
-  <https://gptcache.readthedocs.io>
-- [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit):
-  OpenChatKit provides a powerful, open-source base to create both specialized
-  and general purpose chatbots for various applications. The kit includes an
-  instruction-tuned language models, a moderation model, and an extensible
-  retrieval system for including up-to-date responses from custom repositories.
+- [mirrors2/opencatd-open](https://github.com/mirrors2/opencatd-open):
+  opencatd-open 是 OpenCat 团队版的开源实现 <https://opencatd.zeabur.app>
 
 ### Clients
 

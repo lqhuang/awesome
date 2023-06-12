@@ -183,6 +183,12 @@
 - [facebook/CacheLib](https://github.com/facebook/CacheLib): Pluggable
   in-process caching engine to build and scale high performance services
   <https://www.cachelib.org>
+- [ned14/quickcpplib](https://github.com/ned14/quickcpplib): Eliminate all the
+  tedious hassle when making state-of-the-art C++ 14 - 23 libraries!
+- [soasis/text](https://github.com/soasis/text): A spicy text library for C++
+  that has the explicit goal of enabling the entire ecosystem to share in proper
+  forward progress towards a bright Unicode future.
+  <https://ztdtext.readthedocs.io/en/latest/>
 
 ## GPU
 

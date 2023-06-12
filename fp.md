@@ -29,6 +29,8 @@
   introduction to functional programming for scalable statistical computing
 - [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan):
   📜 Haskell course info, plan, video lectures, slides
+- [graninas/functional-declarative-design-methodology](https://github.com/graninas/functional-declarative-design-methodology):
+  Article: Functional Declarative Design
 
 ## Effect system
 

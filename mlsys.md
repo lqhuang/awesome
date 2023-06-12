@@ -189,9 +189,6 @@
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a
   Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your
   Generative LLM, CV and Tabular Models <https://docs.arize.com/phoenix>
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot): SkyPilot is
-  a framework for easily running machine learning workloads on any cloud through
-  a unified interface. <https://skypilot.readthedocs.io>
 
 ## Autodiff
 
@@ -209,6 +206,8 @@
 
 ## Jax ecology
 
+- [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax): JAX - A
+  curated list of resources https://github.com/google/jax
 - [openxla/xla](https://github.com/openxla/xla): A community-driven and modular
   open source compiler for ML.
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable
@@ -238,14 +237,15 @@
   <https://flax.readthedocs.io>
 - [google/trax](https://github.com/google/trax): Trax — Deep Learning with Clear
   Code and Speed
-- [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax):
-  Model parallel transformers in JAX and Haiku
 - [probml/sts-jax](https://github.com/probml/sts-jax): Structural Time Series in
   JAX
 - [ASEM000/kernex](https://github.com/ASEM000/kernex): Stencil computations in
   JAX
 - [metaopt/optree](https://github.com/metaopt/optree): OpTree: Optimized PyTree
   Utilities <https://optree.readthedocs.io>
+- [ott-jax/ott](https://github.com/ott-jax/ott): Optimal Transport tools
+  implemented with the JAX framework, to get auto-diff, parallel and jit-able
+  computations. <https://ott-jax.readthedocs.io>
 
 ### DeepMind specialization
 

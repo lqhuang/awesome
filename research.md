@@ -78,3 +78,5 @@
 - [papis/papis](https://github.com/papis/papis): Powerful and highly extensible
   command-line based document and bibliography manager.
   <http://papis.readthedocs.io/en/latest/>
+- [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX): 《简单粗
+  暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.

@@ -366,6 +366,8 @@
   <https://sourcery.ai>
 - [BuildJet: For GitHub Actions](https://buildjet.com/for-github-actions): Make
   GitHub Actions Faster. Managed performance runners for Github Actions.
+- [Actuated](https://actuated.dev/): Fast and secure GitHub Actions on your own
+  infrastructure.
 - 🌟 [renovatebot/renovate](https://github.com/renovatebot/renovate): Universal
   dependency update tool that fits into your workflows.
   <https://renovatebot.com>

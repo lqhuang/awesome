@@ -5,6 +5,8 @@
 - [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook):
   Blockchain dark forest selfguard handbook. Master these, master the security
   of your cryptocurrency. <https://darkhandbook.io>
+- [slowmist/Knowledge-Base](https://github.com/slowmist/Knowledge-Base):
+  Knowledge Base 慢雾安全团队知识库 <https://slowmist.com>
 - [laalaguer/ethereum-compass](https://github.com/laalaguer/ethereum-compass):
   《以太坊的指南针》 一本写给普通人看的以太坊区块链技术书。A Book of Ethereum in
   Chinese. <http://ethbook.abyteahead.com>
@@ -28,6 +30,8 @@
   Researchers
 - [I Looked Into 34 Top Real-World Blockchain Projects So You Don’t Have To](https://weh.wtf/34-blockchain-projects.html)
 - [DApp 构建指南 —— 01 准备篇](https://caos.me/dapp--01)
+- [WTF 学院](https://www.wtf.academy/): 面向 Web2 开发者的 Web3 开源学院学习，贡
+  献，并获得链上技术认证
 
 ## On-chain analysis
 

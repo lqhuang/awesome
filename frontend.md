@@ -87,8 +87,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 #### Svelte
 
-- [oslabs-beta/Svelvet](https://github.com/oslabs-beta/Svelvet): A lightweight
-  Svelte component library for building interactive node-based flow diagrams
+- [open-source-labs/Svelvet](https://github.com/open-source-labs/Svelvet): 🎛 A
+  Svelte library for building dynamic, infinitely customizable node-based user
+  interfaces and flowcharts <https://svelvet.io>
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte):
   shadcn/ui, but for Svelte. <https://shadcn-svelte.com>
 - [TGlide/radix-svelte](https://github.com/TGlide/radix-svelte): A port of Radix
@@ -457,6 +458,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   developer's must have dev-tool. <https://responsively.app>
 - [aidenybai/million](https://github.com/aidenybai/million): 🔟🔼6️⃣ An extremely
   fast virtual DOM that makes React up to 70% faster! <https://millionjs.org>
+- 🌟 [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser,
+  mangler and compressor toolkit for ES6+ <https://terser.org>
 
 ## SSG
 
