@@ -88,6 +88,8 @@ Streaming Systems
   <http://lmax-exchange.github.io/disruptor/>
 - 📝 [shipt/py-volley](https://github.com/shipt/py-volley): Lightweight,
   pluggable messaging in Python
+- [df308/x9](https://github.com/df308/x9): high performance message passing
+  library
 
 ### Queue
 

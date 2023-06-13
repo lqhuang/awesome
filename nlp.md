@@ -53,6 +53,11 @@
 - [declare-lab/flan-alpaca](https://github.com/declare-lab/flan-alpaca): This
   repository contains code for extending the Stanford Alpaca synthetic
   instruction tuning to existing instruction-tuned models such as Flan-T5.
+- [chancefocus/PIXIU](https://github.com/chancefocus/PIXIU): This repository
+  introduces PIXIU, an open-source resource featuring the first financial large
+  language models (LLMs), instruction tuning data, and evaluation benchmarks to
+  holistically assess financial LLMs. Our goal is to continually push forward
+  the open-source development of financial artificial intelligence (AI).
 
 ## LLM
 
@@ -98,6 +103,9 @@
   <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework.
   Enabling developers to build, manage & run useful autonomous agents quickly
   and reliably. <https://superagi.com/>
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for
+  operating large language models(LLMs) in production. Fine-tune, serve, deploy,
+  and monitor any LLMs with ease.
 
 ## ChatGPT
 

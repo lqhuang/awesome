@@ -118,6 +118,11 @@
 - [cozodb/cozo](https://github.com/cozodb/cozo): A general-purpose,
   transactional, relational database that uses Datalog and focuses on graph data
   and algorithms
+- [TuGraph-family/tugraph-db](https://github.com/TuGraph-family/tugraph-db):
+  TuGraph is a high performance graph database. <https://tugraph.org>
+- [memgraph/memgraph](https://github.com/memgraph/memgraph): Open-source graph
+  database, built for real-time streaming data, compatible with Neo4j.
+  <https://memgraph.com>
 
 ### KV
 

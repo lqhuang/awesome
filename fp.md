@@ -31,6 +31,10 @@
   📜 Haskell course info, plan, video lectures, slides
 - [graninas/functional-declarative-design-methodology](https://github.com/graninas/functional-declarative-design-methodology):
   Article: Functional Declarative Design
+- 🌟 [damianfral/ghcaniuse](https://github.com/damianfral/ghcaniuse): GHC
+  language extensions table <https://damianfral.github.io/ghcaniuse/>
+- [nuprl/10PL](https://github.com/nuprl/10PL): 10 papers that all PhD students
+  in programming languages ought to know, for some value of 10
 
 ## Effect system
 

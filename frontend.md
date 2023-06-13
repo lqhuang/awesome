@@ -460,6 +460,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   fast virtual DOM that makes React up to 70% faster! <https://millionjs.org>
 - 🌟 [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser,
   mangler and compressor toolkit for ES6+ <https://terser.org>
+- [akd-io/create-next-stack](https://github.com/akd-io/create-next-stack):
+  Create Next Stack is a website and CLI tool used to easily set up the
+  boilerplate of new Next.js apps. <https://www.create-next-stack.com>
 
 ## SSG
 

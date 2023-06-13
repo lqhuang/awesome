@@ -149,6 +149,9 @@
   Currencies, Cryptocurrencies and Money Markets.
 - [bmoscon/cryptofeed](https://github.com/bmoscon/cryptofeed): Cryptocurrency
   Exchange Websocket Data Feed Handler
+- [ThetaData-API/thetadata-python](https://github.com/ThetaData-API/thetadata-python):
+  Real-time & historical data API for US stocks and options
+  <https://thetadata.net>
 
 ## Low level library
 

@@ -23,6 +23,8 @@
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals): Dive
   into CPython internals, trying to illustrate every detail of CPython
   implementation
+- [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研
+  究员 Anthony Shaw 的《CPython Internals》中文翻译
 
 ## Future?
 
@@ -451,6 +453,8 @@
   designed for ease of use <https://prisma-client-py.readthedocs.io>
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic): A database
   migrations tool for SQLAlchemy.
+- [influxdata/flightsql-dbapi](https://github.com/influxdata/flightsql-dbapi):
+  DB API 2 interface for Flight SQL with SQLAlchemy extras.
 
 ### API clients
 
