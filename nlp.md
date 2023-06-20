@@ -19,6 +19,8 @@
   BPE tokeniser for use with OpenAI's models.
 - [bytedance/lightseq](https://github.com/bytedance/lightseq): LightSeq: A High
   Performance Library for Sequence Processing and Generation
+- [vercel-labs/ai](https://github.com/vercel-labs/ai): Build AI-powered
+  applications with React, Svelte, and Vue <https://sdk.vercel.ai/docs>
 
 ## Embedding Search (ANN)
 
@@ -58,6 +60,14 @@
   language models (LLMs), instruction tuning data, and evaluation benchmarks to
   holistically assess financial LLMs. Our goal is to continually push forward
   the open-source development of financial artificial intelligence (AI).
+- [salesforce/jaxformer](https://github.com/salesforce/jaxformer): Minimal
+  library to train LLMs on TPU in JAX with pjit().
+- [vllm-project/vllm](https://github.com/vllm-project/vllm): A high-throughput
+  and memory-efficient inference and serving engine for LLMs
+  <https://vllm.readthedocs.io>
+- [openlm-research/open_llama](https://github.com/openlm-research/open_llama):
+  OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA
+  7B trained on the RedPajama dataset
 
 ## LLM
 
@@ -66,6 +76,9 @@
 - 🌟 [logspace-ai/langflow](https://github.com/logspace-ai/langflow): ⛓️
   LangFlow is a UI for LangChain, designed with react-flow to provide an
   effortless way to experiment and prototype flows.
+- 🌟 [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer):
+  Specify what you want it to build, the AI asks for clarification, and then
+  builds it.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM):
   Awesome-LLM: a curated list of Large Language Model
 - [shibing624/text2vec](https://github.com/shibing624/text2vec): text2vec, text
@@ -106,6 +119,8 @@
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for
   operating large language models(LLMs) in production. Fine-tune, serve, deploy,
   and monitor any LLMs with ease.
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla): Gorilla: An
+  API store for LLMs <https://gorilla.cs.berkeley.edu/>
 
 ## ChatGPT
 
@@ -143,6 +158,9 @@
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache): GPTCache is a
   library for creating semantic cache to store responses from LLM queries.
   <https://gptcache.readthedocs.io>
+- [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT):
+  Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon
+  release the trained model.
 
 ### Proxy or Transform
 

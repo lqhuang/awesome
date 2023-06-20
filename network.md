@@ -38,6 +38,8 @@
 - [libpnet/libpnet](https://github.com/libpnet/libpnet): Cross-platform, low
   level networking using the Rust programming language.
 - [DPDK/dpdk](https://github.com/DPDK/dpdk): Data Plane Development Kit
+- [real-logic/aeron](https://github.com/real-logic/aeron): Efficient reliable
+  UDP unicast, UDP multicast, and IPC message transport
 
 ## Tools
 

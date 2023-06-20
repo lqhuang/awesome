@@ -178,6 +178,12 @@
   <https://pytypest.orsinium.dev>
 - [typeddjango/pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins):
   pytest plugin for testing mypy types, stubs, and plugins
+- 🌟 [behave/behave](https://github.com/behave/behave): BDD, Python style.
+- [robotframework/robotframework](https://github.com/robotframework/robotframework):
+  Generic automation framework for acceptance testing and RPA
+  <http://robotframework.org>
+- [barseghyanartur/faker-file](https://github.com/barseghyanartur/faker-file):
+  Create files with fake data. In many formats. With no efforts.
 
 ### Performance profile
 
@@ -394,9 +400,9 @@
   extensible async python web server with a rust runtime <https://robyn.tech>
 - [emmett-framework/granian](https://github.com/emmett-framework/granian): A
   Rust HTTP server for Python applications
-- [falconry/falcon](https://github.com/falconry/falcon): The no-magic web data
-  plane API and microservices framework for Python developers, with a focus on
-  reliability, correctness, and performance at scale.
+- 📝 [falconry/falcon](https://github.com/falconry/falcon): The no-magic web
+  data plane API and microservices framework for Python developers, with a focus
+  on reliability, correctness, and performance at scale.
   <https://falcon.readthedocs.io/en/stable/>
 - [unum-cloud/ujrpc](https://github.com/unum-cloud/ujrpc): Up to 100x Faster
   FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings
@@ -455,6 +461,8 @@
   migrations tool for SQLAlchemy.
 - [influxdata/flightsql-dbapi](https://github.com/influxdata/flightsql-dbapi):
   DB API 2 interface for Flight SQL with SQLAlchemy extras.
+- [nalgeon/sqlean.py](https://github.com/nalgeon/sqlean.py): Python's sqlite3 +
+  extensions
 
 ### API clients
 

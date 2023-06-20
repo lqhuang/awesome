@@ -66,6 +66,11 @@
 - [keycloak/keycloak](https://github.com/keycloak/keycloak): Open Source
   Identity and Access Management For Modern Applications and Services
   <https://www.keycloak.org>
+- [permitio/opal](https://github.com/permitio/opal): Policy and data
+  administration, distribution, and real-time updates on top of Policy Agents
+  (OPA, Cedar, ...) <https://opal.ac>
+- [cedar-policy/cedar](https://github.com/cedar-policy/cedar): Core
+  implementation of the Cedar language <https://www.cedarpolicy.com>
 
 ### To User
 
@@ -148,6 +153,10 @@
   documents using web technologies
 - [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with
   Protocol Buffers. <https://buf.build>
+- [Sketch Systems](https://sketch.systems): Explore how your product should
+  work, before building it. Sketch.systems helps software designers think about
+  complex product behavior. Sketch out states, add prototypes, and clarify
+  questions quickly.
 
 ## Documents
 
@@ -266,6 +275,8 @@
   cron monitoring tool written in Python & Django <https://healthchecks.io>
 - [Crisp Status](https://crisp.chat/en/status): A public status page to alert
   users when something goes wrong.
+- [keephq/keep](https://github.com/keephq/keep): Open source alerts management
+  platform <https://www.keephq.dev>
 
 ### Logging / Metrics / APM
 

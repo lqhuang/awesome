@@ -96,6 +96,8 @@
   Json/Protobuf convertors for ScalaPB use circe
 - [j-mie6/parsley](https://github.com/j-mie6/parsley): A fast and modern parser
   combinator library for Scala
+- [AugustNagro/magnum](https://github.com/AugustNagro/magnum): A 'new look' for
+  database access in Scala
 
 ### Experiments
 
@@ -157,6 +159,8 @@
   Scala + Postgres.
 - [armanbilge/porcupine](https://github.com/armanbilge/porcupine):
   Skunk-inspired library for SQLite on JVM, Node.js, and Native
+- [postgresql-async/postgresql-async](https://github.com/postgresql-async/postgresql-async):
+  Async, Netty based, database drivers for PostgreSQL and MySQL written in Scala
 
 ### Misc
 

@@ -183,6 +183,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
   written in Rust
 - [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit):
   A lightweight magic-move library for configurable layout transitions
+- [sampotts/plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and
+  Vimeo player <https://plyr.io>
+- [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer): 🍭 Wow, such a lovely
+  HTML5 danmaku video player <https://dplayer.diygod.dev>
 
 ### Form
 

@@ -207,6 +207,8 @@
   providing an intuitive user experience to databases. <https://mathesar.org>
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools):
   Everything that makes working with databases easier
+- [PostHog/HouseWatch](https://github.com/PostHog/HouseWatch): Open source tool
+  for monitoring and managing ClickHouse clusters
 
 ### ERD
 

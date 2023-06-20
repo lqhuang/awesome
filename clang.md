@@ -23,6 +23,11 @@
 - [Clang documentation](https://clang.llvm.org/docs/)
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools):
   Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+- [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book):
+  Official repository for the BPF Performance Tools book
+- [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial):
+  Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习
+  eBPF，包含性能、网络、安全等多种应用场景 <https://tutorial.eunomia.dev/>
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The
   C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best
   practices about coding in C++

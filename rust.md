@@ -173,6 +173,7 @@
   tracing library for Rust
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph): Easy
   flamegraphs for Rust projects and everything else, without Perl or pipes <3
+- [jonhoo/inferno](https://github.com/jonhoo/inferno): A Rust port of FlameGraph
 - [foniod/redbpf](https://github.com/foniod/redbpf): Rust library for building
   and running BPF/eBPF modules
 - [aya-rs/aya](https://github.com/aya-rs/aya): Aya is an eBPF library for the

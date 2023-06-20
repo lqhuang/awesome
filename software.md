@@ -95,8 +95,8 @@
   <https://rectangleapp.com>
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion):
   Run Stable Diffusion on Mac natively
-- [objective-see/LuLu](https://github.com/objective-see/LuLu): LuLu is the free
-  macOS firewall
+- 🌟 [objective-see/LuLu](https://github.com/objective-see/LuLu): LuLu is the
+  free macOS firewall
 - [superhighfives/pika](https://github.com/superhighfives/pika): An open-source
   colour picker app for macOS <https://superhighfives.com/pika>
 - [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS
@@ -161,6 +161,8 @@
   switcher
 - 🌟 [Input Source Pro](https://inputsource.pro/): Switch and track your input
   sources with ease ✨
+- 🌟 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html):
+  Makes these Internet connections visible and puts you back in control!
 
 ## Services
 

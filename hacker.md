@@ -205,6 +205,8 @@
   Monitoring, Historical Trends & Real World Failure Thresholds
 - [stagit](https://git.codemadness.org/stagit/file/README.html): static git page
   generator
+- [zrepl/zrepl](https://github.com/zrepl/zrepl): One-stop ZFS backup &
+  replication solution <https://zrepl.github.io>
 
 ### HomeKit / IoT
 

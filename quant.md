@@ -160,6 +160,8 @@
 - [man-group/ArcticDB](https://github.com/man-group/ArcticDB): ArcticDB is a
   high performance, serverless DataFrame database built for the Python Data
   Science ecosystem. <http://arcticdb.io>
+- [timkpaine/finance-enums](https://github.com/timkpaine/finance-enums):
+  Standard Financial Enumerations
 
 ## Timeseries
 

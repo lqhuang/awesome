@@ -186,9 +186,9 @@
   ML monitoring and refinement toolkit. <https://uptrain.ai/>
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML): Simple and
   Distributed Machine Learning <http://aka.ms/spark>
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a
-  Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your
-  Generative LLM, CV and Tabular Models <https://docs.arize.com/phoenix>
+- 🌟 [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix): ML Observability
+  in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune
+  your Generative LLM, CV and Tabular Models <https://docs.arize.com/phoenix>
 
 ## Autodiff
 
@@ -213,6 +213,8 @@
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable
   PyTrees and filtered transforms => neural networks in JAX.
   <https://docs.kidger.site/equinox>
+- [stanford-crfm/levanter](https://github.com/stanford-crfm/levanter): Legibile,
+  Scalable, Reproducible Foundation Models with Named Tensors and Jax
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX
   is a sampling library designed for ease of use, speed and modularity.
   <https://blackjax-devs.github.io/blackjax>
