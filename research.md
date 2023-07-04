@@ -80,3 +80,7 @@
   <http://papis.readthedocs.io/en/latest/>
 - [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX): 《简单粗
   暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
+- [jlegewie/zotfile](https://github.com/jlegewie/zotfile): Zotero plugin to
+  manage your attachments: automatically rename, move, and attach PDFs (or other
+  files) to Zotero items, sync PDFs from your Zotero library to your (mobile)
+  PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.

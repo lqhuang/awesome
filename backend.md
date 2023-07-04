@@ -36,3 +36,9 @@
   WunderGraph is a Backend for Frontend Framework to optimize frontend,
   fullstack and backend developer workflows through API Composition.
   <https://wundergraph.com>
+
+## Identifier generator
+
+- snowflake
+- [jetpack-io/typeid](https://github.com/jetpack-io/typeid): Type-safe,
+  K-sortable, globally unique identifier inspired by Stripe IDs

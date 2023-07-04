@@ -124,7 +124,7 @@
   inference run-time written 100% in Rust, ready for the web
 - 🌟 [ggerganov/ggml](https://github.com/ggerganov/ggml): Tensor library for
   machine learning
-- [mosecorg/mosec](https://github.com/mosecorg/mosec): A high-performance
+- 🌟📝 [mosecorg/mosec](https://github.com/mosecorg/mosec): A high-performance
   serving framework for ML models, offers dynamic batching and multi-stage
   pipeline to fully exploit your compute machine
   <https://mosecorg.github.io/mosec/>
@@ -134,6 +134,13 @@
   AITemplate is a Python framework which renders neural network into high
   performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU)
   and MatrixCore (AMD GPU) inference.
+- [tensorchord/inference-benchmark](https://github.com/tensorchord/inference-benchmark):
+  WIP Benchmark for machine learning model online serving (LLM, embedding,
+  Stable-Diffusion, Whisper)
+- 📝
+  [triton-inference-server/pytriton](https://github.com/triton-inference-server/pytriton):
+  PyTriton is a Flask/FastAPI-like interface that simplifies Triton's deployment
+  in Python environments. <https://triton-inference-server.github.io/pytriton/>
 
 ## Tensor inference / Compiler / Low level
 
@@ -305,6 +312,12 @@
   Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and
   runtime checking for shape and dtype of JAX arrays, and PyTrees.
+- [pytorch/kineto](https://github.com/pytorch/kineto): A CPU+GPU Profiling
+  library that provides access to timeline traces and hardware performance
+  counters.
+- [mosaicml/streaming](https://github.com/mosaicml/streaming): A Data Streaming
+  Library for Efficient Neural Network Training
+  <https://streaming.docs.mosaicml.com>
 
 ## Utils
 

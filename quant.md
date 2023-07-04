@@ -21,6 +21,12 @@
 - [shashankvemuri/Finance](https://github.com/shashankvemuri/Finance): 150+
   quantitative finance Python programs to help you gather, manipulate, and
   analyze stock market data
+- [0xNF/lawsofinsidertrading.com](https://github.com/0xNF/lawsofinsidertrading.com):
+  Matt Levine's Laws of Insider Trading, webified
+  <https://lawsofinsidertrading.com>
+- [firmai/financial-machine-learning](https://github.com/firmai/financial-machine-learning):
+  A curated list of practical financial machine learning tools and applications.
+  <https://www.ml-quant.com/>
 
 ### Books
 
@@ -152,6 +158,9 @@
 - [ThetaData-API/thetadata-python](https://github.com/ThetaData-API/thetadata-python):
   Real-time & historical data API for US stocks and options
   <https://thetadata.net>
+- [Databento](https://databento.com/): Pay as you go for market data. Live and
+  historical data direct from colocation facilities. Customize and get instant
+  pricing.
 
 ## Low level library
 
@@ -183,6 +192,8 @@
 - [deeptime-ml/deeptime](https://github.com/deeptime-ml/deeptime): Python
   library for analysis of time series data including dimensionality reduction,
   clustering, and Markov model estimation <https://deeptime-ml.github.io/>
+- [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon): A unified framework
+  for machine learning with time series <https://aeon-toolkit.org/>
 
 ### Research
 
@@ -203,3 +214,6 @@
   etc.)
 - [zzw-zwzhang/Awesome-of-Time-Series-Augmentation](https://github.com/zzw-zwzhang/Awesome-of-Time-Series-Augmentation):
   A curated list of time series augmentation resources.
+- [qingsongedu/awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers):
+  A professional list of Papers, Tutorials, and Surveys on AI for Time Series in
+  top AI conferences and journals.

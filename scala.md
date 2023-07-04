@@ -69,6 +69,8 @@
   plugin which makes it easier to build with GitHub Actions
 - [sbt/sbt-header](https://github.com/sbt/sbt-header): sbt-header is an sbt
   plugin for creating file headers, e.g. copyright headers
+- [ThoughtWorksInc/sbt-best-practice](https://github.com/ThoughtWorksInc/sbt-best-practice):
+  Configure common build settings for a Scala project
 
 ### Testing
 
@@ -109,6 +111,9 @@
   low-level async library in Scala 3
 - [sideeffffect/scala-rust-interop](https://github.com/sideeffffect/scala-rust-interop):
   Scala <-> Rust interop
+- [softwaremill/ox](https://github.com/softwaremill/ox): Developer-friendly
+  structured concurrency library for the JVM
+  <https://softwaremill.community/c/ox/12>
 
 ### Types
 
@@ -127,6 +132,8 @@
   framework and tool for higher-order Scala programs <https://stainless.epfl.ch>
 - [earldouglas/linear-scala](https://github.com/earldouglas/linear-scala):
   Linear types in Scala
+- [scala-ts/scala-ts](https://github.com/scala-ts/scala-ts): 🔧 Scala datamodel
+  transpiler <https://scala-ts.github.io/scala-ts>
 
 ### Serialization
 
@@ -322,3 +329,6 @@
   Intelligence & Learning Engine <https://haifengl.github.io/>
 - [SciProgCentre/kmath](https://github.com/SciProgCentre/kmath): Kotlin
   mathematics extensions library
+- [dragonfly-ai/vector](https://github.com/dragonfly-ai/vector): A Scala.js
+  Vector and Math library for image processing, scientific/information
+  visualization, and game development.

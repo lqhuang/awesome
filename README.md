@@ -12,6 +12,8 @@ more like a toolbox for myself.
 - [wg/wrk](https://github.com/wg/wrk): Modern HTTP benchmarking tool
 - [lnx-search/rewrk](https://github.com/lnx-search/rewrk): A more modern http
   framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks.
+- [hatoo/oha](https://github.com/hatoo/oha): Ohayou(おはよう), HTTP load
+  generator, inspired by rakyll/hey with tui animation.
 - [parca-dev/parca](https://github.com/parca-dev/parca): Continuous profiling
   for analysis of CPU and memory usage, down to the line number and throughout
   time. Saving infrastructure cost, improving performance, and increasing

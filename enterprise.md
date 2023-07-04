@@ -117,10 +117,6 @@
 
 ## Dev tools
 
-- [quicktype/quicktype](https://github.com/quicktype/quicktype): Generate types
-  and converters from JSON, Schema, and GraphQL <https://app.quicktype.io>
-- [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS VMs on Apple
-  Silicon to use in CI and other automations
 - [coroot/coroot](https://github.com/coroot/coroot): A monitoring and
   troubleshooting tool for microservice architectures.
   <https://coroot.com/docs/coroot-community-edition>
@@ -141,6 +137,8 @@
   <https://insomnia.rest>
 - [getezy/ezy](https://github.com/getezy/ezy): 🔥 GUI client for gRPC/gRPC-Web
   <https://getezy.dev>
+- [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with
+  Protocol Buffers. <https://buf.build>
 - [biscuit-auth/biscuit](https://github.com/biscuit-auth/biscuit): delegated,
   decentralized, capabilities based authorization token
 - [tweag/nickel](https://github.com/tweag/nickel): Better configuration for less
@@ -151,14 +149,24 @@
   Docker-powered stateless API for PDF files. <https://gotenberg.dev>
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF
   documents using web technologies
-- [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with
-  Protocol Buffers. <https://buf.build>
 - [Sketch Systems](https://sketch.systems): Explore how your product should
   work, before building it. Sketch.systems helps software designers think about
   complex product behavior. Sketch out states, add prototypes, and clarify
   questions quickly.
 
-## Documents
+### Dev dnvironments
+
+- [jetpack-io/devbox](https://github.com/jetpack-io/devbox): Instant, easy,
+  predictable shells and containers.
+- [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Reproducible
+  development environment for AI/ML <https://envd.tensorchord.ai/>
+- [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative,
+  Reproducible, and Composable Developer Environments <https://devenv.sh>
+- [loft-sh/devpod](https://github.com/loft-sh/devpod): Codespaces but
+  open-source, client-only and unopinionated: Works with any IDE and lets you
+  use any cloud, kubernetes or just localhost docker. <https://devpod.sh>
+
+### Documents
 
 - [markdoc/markdoc](https://github.com/markdoc/markdoc): A powerful, flexible,
   Markdown-based authoring framework. <https://markdoc.dev>
@@ -179,7 +187,7 @@
   Contributor License Agreement assistant (CLA assistant)
   <https://cla-assistant.io>
 
-## DevOps
+### DevOps
 
 - [netbox-community/netbox](https://github.com/netbox-community/netbox): The
   premiere source of truth powering network automation. Open source under
@@ -211,6 +219,8 @@
 - [makeplane/plane](https://github.com/makeplane/plane): 🔥 🔥 🔥 Open Source
   JIRA, Linear and Height Alternative. Plane helps you track your issues, epics,
   and product roadmaps in the simplest way possible. <http://plane.so>
+- [liblaber/sdk-code-gen](https://github.com/liblaber/sdk-code-gen): LibLab.com
+  SDK Code Generator <https://liblab.com>
 
 ### Pipelines / Workflow
 
@@ -308,6 +318,13 @@
 - [megaease/easeprobe](https://github.com/megaease/easeprobe): A simple,
   standalone, and lightweight tool that can do health/status checking, written
   in Go.
+- [facebookincubator/dynolog](https://github.com/facebookincubator/dynolog):
+  Dynolog is a telemetry daemon for performance monitoring and tracing. It
+  exports metrics from different components in the system like the linux kernel,
+  CPU, disks, Intel PT, GPUs etc. Dynolog also integrates with pytorch and can
+  trigger traces for distributed training applications.
+- [SnellerInc/sneller](https://github.com/SnellerInc/sneller): World's fastest
+  log analysis: λ + SQL + JSON + S3 <https://sneller.io>
 
 ### Logger search and analytics
 
@@ -351,11 +368,11 @@
   Determinate Systems <https://zero-to-nix.com>
 - [tweag/jupyenv](https://github.com/tweag/jupyenv): Declarative and
   reproducible Jupyter environments - powered by Nix <https://jupyenv.io>
-- [buildpacks/pack](https://github.com/buildpacks/pack): CLI for building apps
-  using Cloud Native Buildpacks <https://buildpacks.io>
 
 ### GitHub Action
 
+- [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS VMs on Apple
+  Silicon to use in CI and other automations
 - [docker/metadata-action](https://github.com/docker/metadata-action): GitHub
   Action to extract metadata (tags, labels) from Git reference and GitHub events
   for Docker
@@ -391,6 +408,8 @@
   <https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/>
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated
   list of awesome actions to use on GitHub <https://desktop.github.com>
+- [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions):
+  GitHub token permissions Monitor and Advisor actions
 
 ## Security
 

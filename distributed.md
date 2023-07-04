@@ -33,6 +33,9 @@
   references for “Designing Data-Intensive Applications”
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability):
   The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects):
+  🚀 List of distributed system projects for inspiration and learning to build
+  distributed services from real world examples
 
 ### Books
 
@@ -171,6 +174,8 @@
   to simulate distributed systems with thousands of network-connected processes
   in realistic and scalable private network experiments using your laptop,
   desktop, or server running Linux. <https://shadow.github.io>
+- [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom): A workbench for
+  writing toy implementations of distributed systems.
 
 ## Formal verification
 

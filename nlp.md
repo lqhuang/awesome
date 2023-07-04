@@ -68,6 +68,8 @@
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama):
   OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA
   7B trained on the RedPajama dataset
+- [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B): ChatGLM2-6B: An
+  Open Bilingual Chat LLM | 开源双语对话语言模型
 
 ## LLM
 
@@ -121,6 +123,8 @@
   and monitor any LLMs with ease.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla): Gorilla: An
   API store for LLMs <https://gorilla.cs.berkeley.edu/>
+- [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain):
+  😎 Awesome list of tools and projects with the awesome LangChain framework
 
 ## ChatGPT
 
@@ -158,9 +162,13 @@
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache): GPTCache is a
   library for creating semantic cache to store responses from LLM queries.
   <https://gptcache.readthedocs.io>
+- [AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP):
+  Democratizing Internet-scale financial data.
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT):
   Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon
   release the trained model.
+- 🌟 [Illumine-Labs/RustChat](https://github.com/Illumine-Labs/RustChat): Rust
+  Daily Learning and Work Assistant
 
 ### Proxy or Transform
 

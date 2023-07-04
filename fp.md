@@ -21,6 +21,9 @@
 - [haskellfoundation/hs-opt-handbook.github.io](https://github.com/haskellfoundation/hs-opt-handbook.github.io):
   The Haskell Optimization Handbook
   <https://haskell.foundation/hs-opt-handbook.github.io/>
+- [lazear/types-and-programming-languages](https://github.com/lazear/types-and-programming-languages):
+  Exercises from Benjamin Pierce's "Types and Programming Languages" textbook +
+  extras!
 
 ### Resources
 

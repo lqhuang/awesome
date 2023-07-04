@@ -25,6 +25,9 @@
   implementation
 - [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研
   究员 Anthony Shaw 的《CPython Internals》中文翻译
+- [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject):
+  An Awesome List of projects using the pyproject.toml Python configuration
+  file.
 
 ## Future?
 
@@ -70,8 +73,10 @@
   management <https://hatch.pypa.io/latest>
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye): Rye is Armin's personal
   one-stop-shop for all his Python needs.
-- [frostming/monas](https://github.com/frostming/monas): Python monorepo made
-  easy <https://monas.fming.dev>
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi): Package management made
+  easy <https://prefix.dev>
+- [mamba-org/rattler](https://github.com/mamba-org/rattler): Rust crates to work
+  with the Conda ecosystem.
 - [cruft/cruft](https://github.com/cruft/cruft/): Allows you to maintain all the
   necessary cruft for packaging and building projects separate from the code you
   intentionally write. Built on-top of, and fully compatible with, CookieCutter.
@@ -90,6 +95,27 @@
   <https://readthedocs.org/projects/copier>
 - [njsmith/posy](https://github.com/njsmith/posy): The goal is for posy to act
   as a kind of high-level frontend to python
+
+### Packaging
+
+- 🌟
+  [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone):
+  Produce redistributable builds of Python
+- [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer): A modern Python
+  application packaging and distribution tool
+- [pantsbuild/pex](https://github.com/pantsbuild/pex): A library and tool for
+  generating .pex (Python EXecutable) files
+- [linkedin/shiv](https://github.com/linkedin/shiv): shiv is a command line
+  utility for building fully self contained Python zipapps as outlined in PEP
+  441, but with all their dependencies included.
+- [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin
+  that packs your packages into a zipapp
+- [conda/conda-pack](https://github.com/conda/conda-pack): Package conda
+  environments for redistribution <https://conda.github.io/conda-pack>
+- [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel): 🎡 Build Python
+  wheels for all the platforms on CI with minimal configuration.
+- 🌟 [pyupio/dparse](https://github.com/pyupio/dparse): A parser for Python
+  dependency files
 
 ### Docs
 
@@ -113,25 +139,6 @@
   <https://pawamoy.github.io/git-changelog>
 - [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints):
   Type hints support for the Sphinx autodoc extension
-
-### Packaging
-
-- 🌟
-  [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone):
-  Produce redistributable builds of Python
-- [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer): A modern Python
-  application packaging and distribution tool
-- [pantsbuild/pex](https://github.com/pantsbuild/pex): A library and tool for
-  generating .pex (Python EXecutable) files
-- [linkedin/shiv](https://github.com/linkedin/shiv): shiv is a command line
-  utility for building fully self contained Python zipapps as outlined in PEP
-  441, but with all their dependencies included.
-- [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin
-  that packs your packages into a zipapp
-- [conda/conda-pack](https://github.com/conda/conda-pack): Package conda
-  environments for redistribution <https://conda.github.io/conda-pack>
-- [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel): 🎡 Build Python
-  wheels for all the platforms on CI with minimal configuration.
 
 ### Security
 
@@ -184,6 +191,10 @@
   <http://robotframework.org>
 - [barseghyanartur/faker-file](https://github.com/barseghyanartur/faker-file):
   Create files with fake data. In many formats. With no efforts.
+- [ClearcodeHQ/pytest-postgresql](https://github.com/ClearcodeHQ/pytest-postgresql):
+  This is a pytest plugin, that enables you to test your code that relies on a
+  running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL
+  process and client.
 
 ### Performance profile
 
@@ -657,6 +668,8 @@
 - pyo3: Rust bindings for Python
 - [pybind/pybind11](https://github.com/pybind/pybind11): Seamless operability
   between C++11 and Python <https://pybind11.readthedocs.io>
+- [Suzhou-Tongyuan/jnumpy](https://github.com/Suzhou-Tongyuan/jnumpy): Writing
+  Python C extensions in Julia within 5 minutes.
 
 ## Compilers
 
@@ -727,6 +740,8 @@
   formats. <http://csvkit.rtfd.org>
 - 🌟 [fatiando/pooch](https://github.com/fatiando/pooch): A friend to fetch your
   data files <https://www.fatiando.org/pooch>
+- [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum): Plumbum: Shell
+  Combinators <https://plumbum.readthedocs.io>
 
 ### Visualization
 
@@ -761,6 +776,8 @@
 
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter):
   A modern and customizable python UI-library based on Tkinter
+- [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer):
+  An easy and fast way to create a Python GUI 🐍
 - [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets):
   A fluent design widgets library based on PyQt5
 - [rerun-io/rerun](https://github.com/rerun-io/rerun): Log images, point clouds,

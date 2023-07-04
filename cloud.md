@@ -80,6 +80,11 @@
   ⚙️ NGINX config generator on steroids 💉 <https://do.co/nginxconfig>
 - [denji/nginx-tuning](https://github.com/denji/nginx-tuning): NGINX tuning for
   best performance <https://git.io/vSvsq>
+- [facebookincubator/katran](https://github.com/facebookincubator/katran): A
+  high performance layer 4 load balancer
+- [projectcontour/contour](https://github.com/projectcontour/contour): Contour
+  is a Kubernetes ingress controller using Envoy proxy.
+  <https://projectcontour.io>
 
 ## Cloud native
 
@@ -99,6 +104,10 @@
   <https://mrsk.dev/>
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse): FUSE-based file
   system backed by Amazon S3
+- [buildpacks/pack](https://github.com/buildpacks/pack): CLI for building apps
+  using Cloud Native Buildpacks <https://buildpacks.io>
+- [pivotal/kpack](https://github.com/pivotal/kpack): Kubernetes Native Container
+  Build Service
 
 ## K8S
 
@@ -118,6 +127,14 @@
   Multi-Cloud, Multi-Cluster Kubernetes Orchestration <https://karmada.io>
 - [pixie-io/pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native
   Application Observability <https://px.dev>
+- [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s): A simple, extensible Python
+  client library for Kubernetes that feels familiar for folks who already know
+  how to use kubectl <https://kr8s.org>
+
+## Hashicorp
+
+- [hashicorp/nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler):
+  Nomad Autoscaler brings autoscaling to your Nomad workloads.
 
 ## Infrastructure less
 

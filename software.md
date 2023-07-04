@@ -16,6 +16,10 @@
   <https://handbrake.fr>
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut): The swiss army
   knife of lossless video/audio editing <https://mifi.no/losslesscut>
+- 🌟 [mltframework/shotcut](https://github.com/mltframework/shotcut):
+  cross-platform (Qt), open-source (GPLv3) video editor
+  <https://www.shotcut.org>
+  - Open source alternative to Adode Pr
 - [Inkdrop](https://www.inkdrop.app): Organizing your Markdown notes made
   simple.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed
@@ -58,6 +62,8 @@
 
 ### Open Source
 
+- [dsully/macos-defaults](https://github.com/dsully/macos-defaults): A tool for
+  managing macOS defaults declaratively via YAML files.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos): A BSD-based OS
   project that aims to provide an experience like and some compatibility with
   macOS (formerly known as airyxOS) <https://www.ravynos.com>
@@ -112,6 +118,8 @@
   <https://codeedit.app>
 - [SlidePilot/SlidePilot-macOS](https://github.com/SlidePilot/SlidePilot-macOS):
   Ultimate PDF Presentation Tool for macOS 🖥
+- [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The
+  mouse and trackpad utility for Mac. <https://linearmouse.app>
 
 ### Free / Paid
 
@@ -163,6 +171,8 @@
   sources with ease ✨
 - 🌟 [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html):
   Makes these Internet connections visible and puts you back in control!
+- [Klack](https://tryklack.com/): Satisfying sound with every keystroke Download
+  for Mac
 
 ## Services
 
@@ -170,6 +180,9 @@
   GitHub Discussions. :octocat: 💬 💎 <https://giscus.app>
 - [djyde/cusdis](https://github.com/djyde/cusdis): lightweight, privacy-friendly
   alternative to Disqus. <https://cusdis.com>
+- [XPoet/picx](https://github.com/XPoet/picx): 🏞️ PicX 是一款基于 GitHub API 开
+  发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。
+  <https://picx.xpoet.cn>
 
 ### Self-hosted services
 
@@ -190,6 +203,9 @@
   and curated urls. <https://www.microfeed.org>
 - [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered
   Photos App for the Decentralized Web 🌈💎✨ <https://photoprism.app>
+- [immich-app/immich](https://github.com/immich-app/immich): Self-hosted photo
+  and video backup solution directly from your mobile phone.
+  <https://immich.app>
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee): A great looking and
   easy-to-use photo-management-system you can run on your server, to manage and
   share photos. <https://lycheeorg.github.io>
@@ -230,6 +246,9 @@
   backend for the grommunio Distribution, supporting MAPI/HTTP, RPC/HTTP, IMAP,
   POP3 protocols, PHP-MAPI bindings, and import from PST/OST/MSG/TNEF,
   EML/ICAL/VCF, KDB <https://gromox.com>
+- [Skiff Mail](https://skiff.com/mail): Skiff Mail protects your inbox by
+  keeping your messages end-to-end encrypted. That means that no one but you has
+  access to your data.
 
 ### Vault / Passwords
 
@@ -248,3 +267,6 @@
   bitwarden_rs
 - [Buttercup](https://github.com/buttercup): Buttercup credentials management
   application
+- [hashicorp/vault](https://github.com/hashicorp/vault): A tool for secrets
+  management, encryption as a service, and privileged access management
+  <https://www.vaultproject.io/>

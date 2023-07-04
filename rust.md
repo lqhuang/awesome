@@ -306,6 +306,8 @@
   Algebraic effects for Rust
 - [rxRust/rxRust](https://github.com/rxRust/rxRust): Rust implementation of
   Reactive Extensions.
+- [greyblake/nutype](https://github.com/greyblake/nutype): Rust newtype with
+  guarantees 🇺🇦 🦀
 
 ## HPC / SIMD / Vectorization
 
@@ -383,6 +385,8 @@
   concurrent HashMap for Rust.
 - 🌟 [komora-io/concurrent-map](https://github.com/komora-io/concurrent-map):
   Lock-free linearizable map.
+- [datenlord/lockfree-cuckoohash](https://github.com/datenlord/lockfree-cuckoohash):
+  A rust implementation of lock free cuckoo hashmap
 
 ### Functional style / Persistent
 

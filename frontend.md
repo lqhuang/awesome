@@ -356,6 +356,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [bkrem/react-d3-tree](https://github.com/bkrem/react-d3-tree): 🌳 React
   component to create interactive D3 tree graphs
   <https://bkrem.github.io/react-d3-tree>
+- [holtzy/react-graph-gallery](https://github.com/holtzy/react-graph-gallery): A
+  set of graph examples showing how to make react and d3.js work together
+  <https://www.react-graph-gallery.com>
 
 ## Not only Web
 
@@ -392,6 +395,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib): UI
   Components Library for React Native
   <https://wix.github.io/react-native-ui-lib/>
+- [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet):
+  SwiftUI 2.0 Cheat Sheet
+- [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia):
+  High-performance React Native Graphics using Skia
+  <https://shopify.github.io/react-native-skia>
+- [React Native 中文网](https://reactnative.cn/)
+- [React Native](https://reactnative.dev/)
 
 ## Design / Resources
 

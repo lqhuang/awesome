@@ -58,8 +58,6 @@
   delete unwanted data, fast.
 - [lra/mackup](https://github.com/lra/mackup): Keep your application settings in
   sync (OS X/Linux)
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox): Instant, easy,
-  predictable shells and containers.
 - [exdx/dcp](https://github.com/exdx/dcp): docker cp made easy
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen): Fast file
   synchronization and network forwarding for remote development
@@ -96,6 +94,8 @@
   file manager written in Rust
 - [thetacom/hexabyte](https://github.com/thetacom/hexabyte): A modern, modular,
   and robust TUI hex editor. <http://io.thetacom.info/hexabyte/>
+- 🌟 [binpash/try](https://github.com/binpash/try): "Do, or do not. There is no
+  try." We're setting out to change that: `try cmd` and commit---or not.
 
 ### Monitor
 
@@ -125,6 +125,8 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii
   diagram scribbles into happy little SVG
   <http://ivanceras.github.io/svgbob-editor>
+- [quicktype/quicktype](https://github.com/quicktype/quicktype): Generate types
+  and converters from JSON, Schema, and GraphQL <https://app.quicktype.io>
 - 🌟 [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com):
   ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON
   visualization solution. <https://jsoncrack.com>
@@ -136,8 +138,6 @@
   environments
 - [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest
   tool
-- [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative,
-  Reproducible, and Composable Developer Environments <https://devenv.sh>
 - [muety/wakapi](https://github.com/muety/wakapi): 📊 A minimalist, self-hosted
   WakaTime-compatible backend for coding statistics <https://wakapi.dev>
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter):

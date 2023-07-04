@@ -194,6 +194,8 @@
   that has the explicit goal of enabling the entire ecosystem to share in proper
   forward progress towards a bright Unicode future.
   <https://ztdtext.readthedocs.io/en/latest/>
+- [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools):
+  Implementation of python itertools and builtin iteration functions for C++17
 
 ## GPU
 

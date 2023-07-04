@@ -75,7 +75,7 @@ Streaming Systems
 
 ## Messaging
 
-### libraries
+### Libraries
 
 - [zeromq/libzmq](https://github.com/zeromq/libzmq): ZeroMQ core engine in C++,
   implements ZMTP/3.1 <https://www.zeromq.org>
@@ -91,7 +91,7 @@ Streaming Systems
 - [df308/x9](https://github.com/df308/x9): high performance message passing
   library
 
-### Queue
+### Queues / PubSub
 
 - [nats-io/nats-server](https://github.com/nats-io/nats-server):
   High-Performance server for NATS.io, the cloud and edge native messaging
@@ -107,6 +107,8 @@ Streaming Systems
 - [apache/eventmesh](https://github.com/apache/eventmesh): EventMesh is a new
   generation serverless event middleware for building distributed event-driven
   applications. <https://eventmesh.apache.org>
+- [AutoMQ/elastic-stream](https://github.com/AutoMQ/elastic-stream): The first
+  truly cloud-native MQ storage engine for messaging and streaming.
 
 ### Kafka
 

@@ -186,6 +186,8 @@
 
 - [Rustixir/darkbird](https://github.com/Rustixir/darkbird): High concurrency,
   Real time, In-memory storage inspired by erlang mnesia
+- [chdb-io/chdb](https://github.com/chdb-io/chdb): chDB is an embedded OLAP SQL
+  Engine powered by ClickHouse
 
 ## DBA or Extensions
 
@@ -259,6 +261,8 @@
 
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of
   SQLite extensions
+- [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry
+  <https://sqlpkg.org>
 
 ## Benchmark
 
