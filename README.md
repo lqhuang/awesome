@@ -3,6 +3,38 @@
 Remind me about those not that familiar, less used but valued utils/tools. It's
 more like a toolbox for myself.
 
+## Structure of this repo
+
+- hacker-life
+  - [hacker](./hacker-life/hacker.md)
+  - [network](./hacker-life/network.md)
+  - [software](./hacker-life/software.md)
+- languages
+  - [clang](./languages/clang.md)
+  - [python](./languages/python.md)
+  - [rust](./languages/rust.md)
+  - [scala](./languages/scala.md)
+  - [swift](./languages/swift.md)
+- long-game
+  - [database](./long-game/database.md)
+  - [distributed](./long-game/distributed.md)
+  - [fp](./long-game/fp.md)
+  - [mlsys](./long-game/mlsys.md)
+  - [research](./long-game/research.md)
+  - [streaming](./long-game/streaming.md)
+- topics
+  - [backend](./topics/backend.md)
+  - [blockchain](./topics/blockchain.md)
+  - [cloud](./topics/cloud.md)
+  - [cryptography](./topics/cryptography.md)
+  - [datastack](./topics/datastack.md)
+  - [enterprise](./topics/enterprise.md)
+  - [frontend](./topics/frontend.md)
+  - [generative-ai](./topics/generative-ai.md)
+  - [graph](./topics/graph.md)
+  - [nlp](./topics/nlp.md)
+  - [quant](./topics/quant.md)
+
 ## General tools
 
 ### Benchmark
