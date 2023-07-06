@@ -42,3 +42,5 @@
 - snowflake
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid): Type-safe,
   K-sortable, globally unique identifier inspired by Stripe IDs
+- [rs/xid](https://github.com/rs/xid): xid is a globally unique id generator
+  thought for the web

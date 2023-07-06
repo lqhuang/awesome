@@ -26,9 +26,6 @@
   into fs2
 - [YannMoisan/hands-on-cats](https://github.com/YannMoisan/hands-on-cats):
   Discover cats by coding a few simple exercises
-- [akbashev/Distributed-Actors-in-Action](https://github.com/akbashev/Distributed-Actors-in-Action):
-  Port of Akka in Action examples to Swift Distributed Actors
-  <https://www.youtube.com/watch?v=7erJ1DV_Tlo>
 
 ## Master these you rule the world
 
@@ -168,6 +165,8 @@
   Skunk-inspired library for SQLite on JVM, Node.js, and Native
 - [postgresql-async/postgresql-async](https://github.com/postgresql-async/postgresql-async):
   Async, Netty based, database drivers for PostgreSQL and MySQL written in Scala
+- [ReactiveMongo/ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo):
+  🍃 Non-blocking, Reactive MongoDB Driver for Scala <http://reactivemongo.org>
 
 ### Misc
 

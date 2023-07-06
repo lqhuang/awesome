@@ -256,6 +256,10 @@
 - 🌟 [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs): Vector
   database plugin for Postgres, written in Rust
 - 🌟 [PostgreSQL Configurator](https://pgconfigurator.cybertec-postgresql.com)
+- [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4): pgAdmin is
+  the most popular and feature rich Open Source administration and development
+  platform for PostgreSQL, the most advanced Open Source database in the world.
+  <https://www.pgadmin.org>
 
 ### SQLite
 

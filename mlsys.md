@@ -56,6 +56,10 @@
 - [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch): 🦁
   Lion, new optimizer discovered by Google Brain using genetic algorithms that
   is purportedly better than Adam(w), in Pytorch
+- 🌟 [metaopt/torchopt](https://github.com/metaopt/torchopt): TorchOpt is an
+  efficient library for differentiable optimization built upon PyTorch.
+  <https://torchopt.readthedocs.io>
+  - [Introducing TorchOpt: A High-Performance Differentiable Optimization Library for PyTorch](https://medium.com/pytorch/introducing-torchopt-a-high-performance-differentiable-optimization-library-for-pytorch-37c4c0ef6ae1)
 
 ### Network implementation
 
@@ -246,6 +250,8 @@
   <https://flax.readthedocs.io>
 - [google/trax](https://github.com/google/trax): Trax — Deep Learning with Clear
   Code and Speed
+- [google/jaxopt](https://github.com/google/jaxopt): Hardware accelerated,
+  batchable and differentiable optimizers in JAX. <https://jaxopt.github.io>
 - [probml/sts-jax](https://github.com/probml/sts-jax): Structural Time Series in
   JAX
 - [ASEM000/kernex](https://github.com/ASEM000/kernex): Stencil computations in

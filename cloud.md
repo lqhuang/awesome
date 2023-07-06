@@ -9,6 +9,12 @@
   Curated list of resources on HashiCorp's Terraform
 - [huataihuang/cloud-atlas](https://github.com/huataihuang/cloud-atlas): 云计算
   指南 <https://cloud-atlas.readthedocs.io>
+- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker): 🐳
+  A curated list of Docker resources and projects
+  <https://awesome-docker.netlify.app>
+- [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes):
+  A curated list for awesome kubernetes sources 🚢🎉
+  <https://ramitsurana.github.io/awesome-kubernetes>
 
 ## OS
 
@@ -61,9 +67,6 @@
   Python. <https://docked.orsinium.dev>
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The
   lazier way to manage everything docker
-- [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker): 🐳
-  A curated list of Docker resources and projects
-  <https://awesome-docker.netlify.app>
 
 ## Routing
 

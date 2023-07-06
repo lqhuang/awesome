@@ -395,8 +395,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib): UI
   Components Library for React Native
   <https://wix.github.io/react-native-ui-lib/>
-- [SimpleBoilerplates/SwiftUI-Cheat-Sheet](https://github.com/SimpleBoilerplates/SwiftUI-Cheat-Sheet):
-  SwiftUI 2.0 Cheat Sheet
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia):
   High-performance React Native Graphics using Skia
   <https://shopify.github.io/react-native-skia>
@@ -428,6 +426,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+
   icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components!
   <https://iconify.design>
+- [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG, PNG &
+  Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000
+  glyphs <https://css.gg>
 
 ## Build tools
 

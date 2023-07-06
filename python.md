@@ -121,8 +121,11 @@
 
 - [pycco-docs/pycco](https://github.com/pycco-docs/pycco): Literate-style
   documentation generator. <https://pycco-docs.github.io/pycco>
-- [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
+- 🌟 [pradyunsg/furo](https://github.com/pradyunsg/furo): A clean customizable
   documentation theme for Sphinx
+- 🌟 [lepture/shibuya](https://github.com/lepture/shibuya): A responsive, good
+  looking with modern design documentation theme for Sphinx
+  <https://shibuya.lepture.com>
 - [sphinx-contrib/emojicodes](https://github.com/sphinx-contrib/emojicodes): An
   extension to use emoji codes in your Sphinx documentation! 😍
   <https://sphinxemojicodes.readthedocs.io>
@@ -217,6 +220,8 @@
   applications <https://pythonspeed.com/fil>
 - [reloadware/reloadium](https://github.com/reloadware/reloadium): Advanced hot
   reloading & profiling for Python
+- [circus-tent/circus](https://github.com/circus-tent/circus): A Process &
+  Socket Manager built with zmq <http://circus.readthedocs.org/>
 - 🌟 [python/pyperformance](https://github.com/python/pyperformance): Python
   Performance Benchmark Suite <http://pyperformance.readthedocs.io>
 - [joerick/pyinstrument](https://github.com/joerick/pyinstrument): 🚴 Call stack
@@ -691,6 +696,9 @@
   the restrictions. <https://shedskin.github.io>
 - [evhub/coconut](https://github.com/evhub/coconut): Simple, elegant, Pythonic
   functional programming. <http://coconut-lang.org>
+- [facebookincubator/cinder](https://github.com/facebookincubator/cinder):
+  Cinder is Meta's internal performance-oriented production version of CPython.
+  <https://trycinder.com>
 
 ### Parsers
 

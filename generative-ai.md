@@ -1,4 +1,4 @@
-# Breeding Generative AI
+# Bleeding Generative AI
 
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui):
   Stable Diffusion web UI
@@ -13,3 +13,6 @@
   Photorealistic Worlds using Procedural Generation <https://infinigen.org>
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN): Official Code for
   DragGAN (SIGGRAPH 2023) <https://vcai.mpi-inf.mpg.de/projects/DragGAN/>
+- [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models):
+  A collection of resources and papers on Diffusion Models
+  <https://diff-usion.github.io/Awesome-Diffusion-Models/>
