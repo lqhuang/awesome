@@ -17,9 +17,9 @@
 
 - [syncsynchalt/illustrated-quic](https://github.com/syncsynchalt/illustrated-quic):
   The Illustrated QUIC Connection: Every byte explained <https://quic.xargs.org>
-- [cangSDARM/illustrate](https://github.com/cangSDARM/illustrate): illustrate
-  QUIC, TLS 1.2, TLS 1.3, DTLS 中文翻译
-  <https://cangsdarm.github.io/illustrate/>
+  - [cangSDARM/illustrate](https://github.com/cangSDARM/illustrate): illustrate
+    QUIC, TLS 1.2, TLS 1.3, DTLS 中文翻译
+    <https://cangsdarm.github.io/illustrate/>
 - [https-dev/docs](https://github.com/https-dev/docs/blob/master/list-of-acme-servers.md):
   List of ACME Servers
 - [clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking):
@@ -61,8 +61,6 @@
   Python 3. <https://scapy.net>
 - [beyondcode/expose](https://github.com/beyondcode/expose): A beautiful, fully
   open-source, tunneling service - written in pure PHP <https://expose.dev>
-- [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full
-  mesh configuration generator.
 - [traviscross/mtr](https://github.com/traviscross/mtr): Official repository for
   mtr, a network diagnostic tool <http://www.bitwizard.nl/mtr>
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Cross-platform
@@ -175,9 +173,6 @@
   <https://omniedge.io>
 - [slackhq/nebula](https://github.com/slackhq/nebula): A scalable overlay
   networking tool with a focus on performance, simplicity and security
-- [netbirdio/netbird](https://github.com/netbirdio/netbird): Connect your
-  devices into a single secure private WireGuard®-based mesh network with
-  SSO/MFA and simple access controls. <https://netbird.io>
 - 🌟 [tailscale/tailscale](https://github.com/tailscale/tailscale): The easiest,
   most secure way to use WireGuard and 2FA. <https://tailscale.com>
 - [tailscale/golink](https://github.com/tailscale/golink): A private shortlink
@@ -191,12 +186,18 @@
   self-hosted implementation of the Tailscale control server
 - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui): A
   web frontend for the headscale Tailscale-compatible coordination server
-- [tonarino/innernet](https://github.com/tonarino/innernet): A private network
-  system that uses WireGuard under the hood.
-  <https://blog.tonari.no/introducing-innernet>
-- [firezone/firezone](https://github.com/firezone/firezone): WireGuard®-based
+- 🌟 [firezone/firezone](https://github.com/firezone/firezone): WireGuard®-based
   VPN server and firewall <https://firezone.dev>
-- https://www.tinc-vpn.org/
+- [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full
+  mesh configuration generator.
+- Seems good, but they use a custom client cli, which wouldn't be my choice, at
+  least.
+  - [netbirdio/netbird](https://github.com/netbirdio/netbird): Connect your
+    devices into a single secure private WireGuard®-based mesh network with
+    SSO/MFA and simple access controls. <https://netbird.io>
+  - [tonarino/innernet](https://github.com/tonarino/innernet): A private network
+    system that uses WireGuard under the hood.
+    <https://blog.tonari.no/introducing-innernet>
 
 ## Online tools / Services
 

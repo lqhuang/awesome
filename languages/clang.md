@@ -61,6 +61,13 @@
   to teaching you how to program in C++.
 - [lkimuk/the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp):
   The Book of Modern C++ (in Chinese)
+- [brazzy/floating-point-gui.de](https://github.com/brazzy/floating-point-gui.de):
+  Website that provides concise answers to common questions about floating-point
+  numbers. <http://floating-point-gui.de>
+  - [Chinese Trsanlation: 《关于浮点运算：作为程序员都应该了解什么？》](https://github.com/cnrv/floating-point-guide)
+- [sysprog21/cpumemory-zhtw](https://github.com/sysprog21/cpumemory-zhtw):
+  Traditional Chinese translation of "What Every Programmer Should Know About
+  Memory" <https://sysprog21.github.io/cpumemory-zhtw>
 
 ## Toolchain
 
@@ -196,6 +203,8 @@
   <https://ztdtext.readthedocs.io/en/latest/>
 - [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools):
   Implementation of python itertools and builtin iteration functions for C++17
+- [TartanLlama/expected](https://github.com/TartanLlama/expected): C++11/14/17
+  std::expected with functional-style extensions <https://tl.tartanllama.xyz>
 
 ## GPU
 

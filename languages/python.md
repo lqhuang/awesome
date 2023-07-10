@@ -28,6 +28,12 @@
 - [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject):
   An Awesome List of projects using the pyproject.toml Python configuration
   file.
+- [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy):
+  An open-access book on numpy vectorization techniques, Nicolas P. Rougier,
+  2017 <http://www.labri.fr/perso/nrougier/from-python-to-numpy>
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book):
+  An open access book on scientific visualization using python and matplotlib
+  <https://www.labri.fr/perso/nrougier/scientific-visualization.html>
 
 ## Future?
 
@@ -675,6 +681,12 @@
   between C++11 and Python <https://pybind11.readthedocs.io>
 - [Suzhou-Tongyuan/jnumpy](https://github.com/Suzhou-Tongyuan/jnumpy): Writing
   Python C extensions in Julia within 5 minutes.
+- [PyO3/pyo3](https://github.com/PyO3/pyo3): Rust bindings for the Python
+  interpreter <https://pyo3.rs>
+- [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython): Rust <->
+  Python bindings
+- [mityax/rustimport](https://github.com/mityax/rustimport): Import Rust source
+  files directly from Python!
 
 ## Compilers
 

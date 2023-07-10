@@ -1,4 +1,19 @@
-# Fullstack
+# Backend and Services
+
+## Resources
+
+- [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc):
+  A curated list of useful resources for gRPC
+- [johnlui/PPHC](https://github.com/johnlui/PPHC): 📙《高并发的哲学原理》开源图
+  书
+- [Software Engineering Books](https://software-engineering-books.com/): I’ve
+  been a software engineer for over 10 years now, and I’ve successfully passed
+  through all stages of grief. I’m also an avid reader. This page contains my
+  collection of books that have helped me the most throughout my career.
+- [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google):
+  《Software Engineering at Google》的中文翻译版本
+- [fusionauth/webauthn.wtf](https://github.com/fusionauth/webauthn.wtf): The
+  webauthn.wtf website <https://webauthn.wtf/>
 
 ## Middleware
 

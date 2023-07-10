@@ -24,6 +24,10 @@
 - [lazear/types-and-programming-languages](https://github.com/lazear/types-and-programming-languages):
   Exercises from Benjamin Pierce's "Types and Programming Languages" textbook +
   extras!
+- [Elements of Programming](http://elementsofprogramming.com/): Decomposing
+  programs into a system of algorithmic components
+- [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh):
+  手撸解释器教程《Crafting Interpreters》中文翻译
 
 ### Resources
 
@@ -98,6 +102,15 @@
 
 - [monadicsystems/okapi](https://github.com/monadicsystems/okapi): A web
   microframework for Haskell based on monadic parsing <https://www.okapi.wiki>
+- [reflex-frp/reflex](https://github.com/reflex-frp/reflex): Interactive
+  programs without callbacks or side-effects. Functional Reactive Programming
+  (FRP) uses composable events and time-varying values to describe interactive
+  systems as pure functions. Just like other pure functional code, functional
+  reactive code is easier to get right on the first try, maintain, and reuse.
+  <https://reflex-frp.org>
+- [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk):
+  Functional reactive web and mobile applications, with batteries included.
+  <https://reflex-frp.org>
 
 ### Other good libs
 

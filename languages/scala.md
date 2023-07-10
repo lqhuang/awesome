@@ -97,6 +97,8 @@
   combinator library for Scala
 - [AugustNagro/magnum](https://github.com/AugustNagro/magnum): A 'new look' for
   database access in Scala
+- [raquo/Airstream](https://github.com/raquo/Airstream): State propagation and
+  event streams with mandatory ownership and no glitches
 
 ### Experiments
 

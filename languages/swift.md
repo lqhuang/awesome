@@ -10,6 +10,9 @@
 
 ## SwiftUI
 
+- [simonbs/Runestone](https://github.com/simonbs/Runestone): 📝 Performant plain
+  text editor for iOS with syntax highlighting, line numbers, invisible
+  characters and much more.
 - [jtrivedi/Wave](https://github.com/jtrivedi/Wave): Wave is a spring-based
   animation engine for iOS and macOS that makes it easy to create fluid,
   interruptible animations that feel great. <https://wave-jtrivedi.structure.sh>

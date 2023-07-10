@@ -424,7 +424,7 @@
 - [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass): Check
   your WAF before an attacker does this one <https://nemesida-waf.com/>
 
-## How te a leader / Career
+## Career
 
 - [jorgef/engineeringladders](https://github.com/jorgef/engineeringladders): A
   framework for Engineering Managers
@@ -432,6 +432,9 @@
   极简主义团队管理操作手册
 - [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook):
   🏂🏻 程序员海外工作/英文面试手册
+- [crazyangelo/Cathedral-and-Bazaar](https://github.com/crazyangelo/Cathedral-and-Bazaar):
+  The Cathedral and the Bazaar 中文版
+  <http://crazyangelo.github.io/Cathedral-and-Bazaar>
 
 ### Open Source & Community
 

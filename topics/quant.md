@@ -6,8 +6,6 @@
   A curated list of insanely awesome libraries, packages and resources for
   systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more | 量化
   交易 | 量化投资 <https://wangzhe3224.github.io/awesome-systematic-trading>
-- [chrisconlan/algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python):
-  Source code for Algorithmic Trading with Python (2020) by Chris Conlan
 - [nickmccullum/algorithmic-trading-python](https://github.com/nickmccullum/algorithmic-trading-python):
   The repository for freeCodeCamp's YouTube course, Algorithmic Trading in
   Python
@@ -32,6 +30,11 @@
 
 - [Causality, Probability, and Time](http://www.skleinberg.org/causality_book/index.html):
   Simulated financial time series -> <http://www.skleinberg.org/data.html>
+- [chrisconlan/algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python):
+  Source code for Algorithmic Trading with Python (2020) by Chris Conlan
+- [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading):
+  Code for Machine Learning for Algorithmic Trading, 2nd edition.
+  <https://ml4trading.io>
 
 ## Frameworks
 
@@ -56,11 +59,13 @@
   Cryptocurrency trading bot using technical analysis based strategy with an
   advanced web interface <https://www.octobot.online>
 - [microsoft/qlib](https://github.com/microsoft/qlib): Qlib is an AI-oriented
-  quantitative investment platform, which aims to realize the potential, empower
-  the research, and create the value of AI technologies in quantitative
-  investment. With Qlib, you can easily try your ideas to create better Quant
-  investment strategies. An increasing number of SOTA Quant research
-  works/papers are released in Qlib. <https://qlib.readthedocs.io/en/latest>
+  quantitative investment platform that aims to realize the potential, empower
+  research, and create value using AI technologies in quantitative investment,
+  from exploring ideas to implementing productions. Qlib supports diverse
+  machine learning modeling paradigms. including supervised learning, market
+  dynamics modeling, and RL. <https://qlib.readthedocs.io/en/latest>
+  - [Universal Trading for Order Execution with Oracle Policy Distillation](https://arxiv.org/abs/2103.10860)
+  - [DDG-DA: Data Distribution Generation for Predictable Concept Drift Adaptation](https://arxiv.org/abs/2201.04038)
 - [gbeced/pyalgotrade](https://github.com/gbeced/pyalgotrade): Python
   Algorithmic Trading Library <http://gbeced.github.io/pyalgotrade>
 - [idanya/algo-trader](https://github.com/idanya/algo-trader): Trading bot with
@@ -161,6 +166,7 @@
 - [Databento](https://databento.com/): Pay as you go for market data. Live and
   historical data direct from colocation facilities. Customize and get instant
   pricing.
+- [API Vault](https://apivault.dev/): Your Gateway To A World Of Public APIs.
 
 ## Low level library
 

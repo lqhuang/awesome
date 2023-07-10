@@ -31,6 +31,9 @@
   analysis and visualization tools. <https://kanaries.net>
 - [quadratichq/quadratic](https://github.com/quadratichq/quadratic): Quadratic |
   Technical Spreadsheet <https://quadratichq.com>
+- [directus/directus](https://github.com/directus/directus): The Modern Data
+  Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data
+  collaboration app for any SQL database. <https://directus.io>
 
 ## Data governance
 

@@ -20,6 +20,8 @@
   [m-ou-se/rust-atomics-and-locks](https://github.com/m-ou-se/rust-atomics-and-locks):
   Code examples, data structures, and links from my book, Rust Atomics and
   Locks. <https://marabos.nl/atomics>
+  - [rustcc/Rust_Atomics_and_Locks](https://github.com/rustcc/Rust_Atomics_and_Locks):
+    Rust Atomics and Locks （中文翻译）
 - [cognitive-engineering-lab/rust-book](https://github.com/cognitive-engineering-lab/rust-book):
   The Rust Programming Language: Experimental Edition
   <https://rust-book.cs.brown.edu>
@@ -123,6 +125,8 @@
   Binary installation for rust projects
 - [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef): A
   cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
+- [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks):
+  Scan your Rust crate for semver violations.
 
 ### Test suites
 
@@ -387,6 +391,12 @@
   Lock-free linearizable map.
 - [datenlord/lockfree-cuckoohash](https://github.com/datenlord/lockfree-cuckoohash):
   A rust implementation of lock free cuckoo hashmap
+- [bluss/indexmap](https://github.com/bluss/indexmap): A hash table with
+  consistent order and fast iteration; access items by key or sequence index
+- [brurucy/indexset](https://github.com/brurucy/indexset): A pure-Rust(with zero
+  dependencies) two-level dynamic b-tree. This crate implements a compact set
+  data structure that preserves insertion order and allows lookups of entries by
+  value or sorted order position.
 
 ### Functional style / Persistent
 
@@ -429,6 +439,10 @@
   boolean expression syntax, rather than any(), all(), not()
 - 🌟 [taiki-e/pin-project](https://github.com/taiki-e/pin-project): A crate for
   safe and ergonomic pin-projection.
+- 🌟 [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync): Rust
+  library for concurrent data access, using memory-mapped files, zero-copy
+  deserialization, and wait-free synchronization.
+  - [Every Request, Every Microsecond: Scalable machine learning at Cloudflare](https://blog.cloudflare.com/scalable-machine-learning-at-cloudflare/)
 
 ### Meomory
 

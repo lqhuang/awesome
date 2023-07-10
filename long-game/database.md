@@ -241,7 +241,7 @@
   PostgreSQL extension providing JSON Schema validation
 - [supabase/postgres](https://github.com/supabase/postgres): Unmodified Postgres
   with some useful plugins
-- [Vonng/pigsty](https://github.com/Vonng/pigsty): PostgreSQL in Great STYle,
+- 🌟 [Vonng/pigsty](https://github.com/Vonng/pigsty): PostgreSQL in Great STYle,
   Battery-Included Free RDS Alternative! <https://pigsty.cc>
 - 🌟 [supabase/dbdev](https://github.com/supabase/dbdev): Database Package
   Registry for Postgres <https://database.dev>
@@ -260,6 +260,8 @@
   the most popular and feature rich Open Source administration and development
   platform for PostgreSQL, the most advanced Open Source database in the world.
   <https://www.pgadmin.org>
+- [zalando/spilo](https://github.com/zalando/spilo): Highly available elephant
+  herd: HA PostgreSQL cluster using Docker
 
 ### SQLite
 

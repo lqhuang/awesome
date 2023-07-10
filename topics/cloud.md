@@ -15,6 +15,9 @@
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes):
   A curated list for awesome kubernetes sources 🚢🎉
   <https://ramitsurana.github.io/awesome-kubernetes>
+- [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and
+  understand Docker&Container technologies, with real DevOps practice! (in
+  Chinese)
 
 ## OS
 
@@ -67,6 +70,8 @@
   Python. <https://docked.orsinium.dev>
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The
   lazier way to manage everything docker
+- [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner):
+  Delete untagged image refs in Google Container Registry or Artifact Registry
 
 ## Routing
 

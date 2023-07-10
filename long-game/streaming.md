@@ -6,6 +6,9 @@ Streaming Systems
 
 - [lw-lin/streaming-readings](https://github.com/lw-lin/streaming-readings):
   Streaming System 相关的论文读物
+- [The Internals Online Books](https://books.japila.pl/): Welcome to “The
+  Internals Of” Online Books project! 🤙 (Apache Spark, Spark Structured
+  Streaming, Apache Kafka, Apache Beam)
 
 ### Resources
 
@@ -72,6 +75,8 @@ Streaming Systems
   resources and in terms of latency. <https://www.tremor.rs/>
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo): Arroyo is a
   distributed stream processing engine written in Rust <https://arroyo.dev/>
+- 📝 [cda-group/arcon](https://github.com/cda-group/arcon): State-first
+  Streaming Applications in Rust <https://cda-group.github.io/arcon>
 
 ## Messaging
 
@@ -141,8 +146,6 @@ Streaming Systems
 
 - [vertexclique/callysto](https://github.com/vertexclique/callysto): Stream
   processing framework. <https://vertexclique.github.io/callysto>
-- [cda-group/arcon](https://github.com/cda-group/arcon): State-first Streaming
-  Applications in Rust
 - [tyrchen/stream-operators](https://github.com/tyrchen/stream-operators):
   selected rxjs operators implemented for standard Rust Stream
 - [nerevu/riko](https://github.com/nerevu/riko): A Python stream processing

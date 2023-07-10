@@ -2,13 +2,18 @@
 
 ## Resources
 
+### Tutorials
+
 - [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook):
   A playbook for systematically maximizing the performance of deep learning
   models.
-- [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem):
-  Deep Learning System core principles introduction.
 - [microsoft/AI-System](https://github.com/microsoft/AI-System): System for AI
   Education Resource. <https://microsoft.github.io/AI-System>
+
+### Books
+
+- [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem):
+  Deep Learning System core principles introduction.
 - [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh): 《Machine
   Learning Systems: Design and Implementation》- Chinese Version
   <https://openmlsys.github.io>
@@ -16,6 +21,9 @@
   A booklet on machine learning systems design with exercises. NOT the repo for
   the book "Designing Machine Learning Systems"
   <https://huyenchip.com/machine-learning-systems-design/toc.html>
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中
+  文读者、能运行、可讨论。中英文版被 60 个国家的 400 所大学用于教学。
+  <http://zh.d2l.ai>
 
 ## Framework
 
@@ -278,8 +286,8 @@
   <https://chex.readthedocs.io>
 - [deepmind/jraph](https://github.com/deepmind/jraph): A Graph Neural Network
   Library in Jax <https://jraph.readthedocs.io/en/latest>
-- [deepmind/mctx](https://github.com/deepmind/mctx): Monte Carlo tree search in
-  JAX
+- 🌟 [deepmind/mctx](https://github.com/deepmind/mctx): Monte Carlo tree search
+  in JAX
 - [deepmind/distrax](https://github.com/deepmind/distrax): Distrax is a
   lightweight library of probability distributions and bijectors. It acts as a
   JAX-native reimplementation of a subset of TensorFlow Probability (TFP,
@@ -305,6 +313,9 @@
   models.
 - [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple,
   safe way to store and distribute tensors
+- [huggingface/evaluate](https://github.com/huggingface/evaluate): 🤗 Evaluate:
+  A library for easily evaluating machine learning models and datasets.
+  <https://huggingface.co/docs/evaluate>
 - [google/pyglove](https://github.com/google/pyglove): Manipulating Python
   Programs
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning

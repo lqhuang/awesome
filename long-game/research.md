@@ -37,6 +37,34 @@
   《李宏毅深度学习教程》
 - [强化学习 100 题 - by 斎藤 康毅 (Koki Saitoh)](https://p100.koki-saitoh.com/zh-CN)
 
+## Books
+
+- [probml/pml-book](https://github.com/probml/pml-book): "Probabilistic Machine
+  Learning" - a book series by Kevin Murphy
+  https://probml.github.io/pml-book/book2.html
+- [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io):
+  Companion webpage to the book "Mathematics For Machine Learning"
+  [pdf download](https://mml-book.com)
+- [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers):
+  aka "Bayesian Methods for Hackers": An introduction to Bayesian methods +
+  probabilistic programming with a computation/understanding-first,
+  mathematics-second point of view. All in pure Python ;)
+  - [page](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+- [AllenDowney/ThinkComplexity2](https://github.com/AllenDowney/ThinkComplexity2):
+  Book and code for Think Complexity, 2nd edition
+  - [page](https://allendowney.github.io/ThinkComplexity2/)
+- [Probabilistic Numerics](https://www.probabilistic-numerics.org/textbooks/)
+- [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/): A MOOC on
+  convex optimization, CVX101. If you register for it, you can access all the
+  course materials. More material can be found at the web sites for EE364A
+  (Stanford) or EE236B (UCLA), and our own web pages.
+- 🌟 [udlbook/udlbook](https://github.com/udlbook/udlbook): Understanding Deep
+  Learning - Simon J.D. Prince
+- [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深
+  度学习》 邱锡鹏著 Neural Network and Deep Learning <https://nndl.github.io/>
+- [Visualize-ML/Book3_Fundamentals-of-Mathematics](https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics):
+  《数学要素》，清华社五审五校中；Github 稿件基本稳定，欢迎提意见，会及时修改
+
 ## Novel approaches
 
 - [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows):
