@@ -348,6 +348,9 @@
 - 🌟 [plausible/analytics](https://github.com/plausible/analytics): Simple,
   open-source, lightweight (< 1 KB) and privacy-friendly web analytics
   alternative to Google Analytics. <https://plausible.io>
+- [PostHog/posthog](https://github.com/PostHog/posthog): 🦔 PostHog provides
+  open-source product analytics, session recording, feature flagging and a/b
+  testing that you can self-host. <https://posthog.com>
 
 ## Build systems
 

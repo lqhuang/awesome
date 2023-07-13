@@ -190,6 +190,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
   Vimeo player <https://plyr.io>
 - [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer): 🍭 Wow, such a lovely
   HTML5 danmaku video player <https://dplayer.diygod.dev>
+- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player):
+  JavaScript player library / DASH & HLS client / MSE-EME player
+  - [WINOFFRG/limeplay](https://github.com/WINOFFRG/limeplay): ⭐ NEW: Modern
+    Headless UI Library for Media Player (Shaka Player & HTML5) in React
+    <https://limeplay.me>
 - [JedWatson/react-select](https://github.com/JedWatson/react-select): The
   Select Component for React.js <https://react-select.com/>
 

@@ -28,6 +28,10 @@
   programs into a system of algorithmic components
 - [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh):
   手撸解释器教程《Crafting Interpreters》中文翻译
+- [Haskell for Readers](https://haskell-for-readers.nomeata.de/): Welcome to the
+  lecture series “Haskell for Readers”. This workshop is uniquely tailored to
+  those who need to read, rather than write Haskell code: auditors, scientists,
+  managers, testers etc.
 
 ### Resources
 
@@ -123,6 +127,8 @@
 - 🌟 [deadpendency/deadpendency](https://github.com/deadpendency/deadpendency):
   Check if my repo's dependencies are dead (projects)!
   <https://deadpendency.com/>
+- [tweag/capability](https://github.com/tweag/capability): Extensional
+  capabilities and deriving combinators
 
 ## Typescript
 

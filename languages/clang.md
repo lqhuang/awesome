@@ -205,6 +205,8 @@
   Implementation of python itertools and builtin iteration functions for C++17
 - [TartanLlama/expected](https://github.com/TartanLlama/expected): C++11/14/17
   std::expected with functional-style extensions <https://tl.tartanllama.xyz>
+- [tcbrindle/flux](https://github.com/tcbrindle/flux): A C++20 library for
+  sequence-orientated programming <https://tristanbrindle.com/flux/>
 
 ## GPU
 

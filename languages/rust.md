@@ -312,6 +312,8 @@
   Reactive Extensions.
 - [greyblake/nutype](https://github.com/greyblake/nutype): Rust newtype with
   guarantees 🇺🇦 🦀
+- [stepchowfun/typical](https://github.com/stepchowfun/typical): Data
+  interchange with algebraic data types.
 
 ## HPC / SIMD / Vectorization
 
@@ -563,6 +565,8 @@
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon): A static, type
   inferred and embeddable language written in Rust. <https://gluon-lang.org>
 - [xfbs/imstr](https://github.com/xfbs/imstr): Immutable strings, in Rust.
+- [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions):
+  Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
 
 ## Domain related
 

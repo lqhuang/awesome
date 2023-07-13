@@ -106,3 +106,6 @@ more like a toolbox for myself.
   lists about all kinds of interesting topics
 - [zserge/awfice](https://github.com/zserge/awfice): The world smallest office
   suite
+- [best-of-lists/best-of](https://github.com/best-of-lists/best-of): 🏆 Discover
+  best-of lists with awesome open-source projects on all kinds of topics.
+  <https://best-of.org>

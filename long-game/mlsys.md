@@ -269,6 +269,8 @@
 - [ott-jax/ott](https://github.com/ott-jax/ott): Optimal Transport tools
   implemented with the JAX framework, to get auto-diff, parallel and jit-able
   computations. <https://ott-jax.readthedocs.io>
+- [Autodesk/XLB](https://github.com/Autodesk/XLB): XLB: Accelerated Lattice
+  Boltzmann (XLB) based on JAX for Physics-based ML
 
 ### DeepMind specialization
 
