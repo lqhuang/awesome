@@ -81,6 +81,9 @@
   <https://www.tigerbeetle.com>
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB): A truly Open Source
   MongoDB alternative <https://www.ferretdb.io>
+- [orioledb/orioledb](https://github.com/orioledb/orioledb): OrioleDB – building
+  a modern cloud-native storage engine (... and solving some PostgreSQL wicked
+  problems)  🇺🇦
 
 ### Novel SQLite
 
@@ -253,10 +256,11 @@
   optimization for PostgreSQL
 - 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source
   vector similarity search for Postgres
-- 🌟 [pgvector/pgvector-python](https://github.com/pgvector/pgvector-python):
-  pgvector support for Python
 - 🌟 [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs): Vector
   database plugin for Postgres, written in Rust
+- 🌟 [neondatabase/pg_embedding](https://github.com/neondatabase/pg_embedding):
+  Hierarchical Navigable Small World (HNSW) algorithm for vector similarity
+  search in PostgreSQL
 - 🌟 [PostgreSQL Configurator](https://pgconfigurator.cybertec-postgresql.com)
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4): pgAdmin is
   the most popular and feature rich Open Source administration and development

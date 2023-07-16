@@ -148,6 +148,8 @@
   <https://pawamoy.github.io/git-changelog>
 - [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints):
   Type hints support for the Sphinx autodoc extension
+- [readthedocs-examples/awesome-read-the-docs](https://github.com/readthedocs-examples/awesome-read-the-docs):
+  A curated list of awesome Read the Docs projects <https://readthedocs.org/>
 
 ### Security
 
@@ -204,10 +206,13 @@
   This is a pytest plugin, that enables you to test your code that relies on a
   running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL
   process and client.
+- [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory):
+  Simple and powerful factories for mock data generation
+  <https://polyfactory.litestar.dev/>
 
 ### Performance profile
 
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene): Scalene: a
+- 🌟 [plasma-umass/scalene](https://github.com/plasma-umass/scalene): Scalene: a
   high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [nschloe/tuna](https://github.com/nschloe/tuna): 🐟 Python profile viewer
 - [benfred/py-spy](https://github.com/benfred/py-spy): Sampling profiler for
@@ -237,6 +242,9 @@
   customizable timer for your Python code
 - 📝 [njsmith/perpetuo](https://github.com/njsmith/perpetuo): Stall tracking for
   Python's GIL and Trio tasks
+- [mbryant/FunctionTrace](https://gitlab.com/mbryant/functiontrace): A graphical
+  Python profiler that provides a clear view of your application's execution
+  while being both low-overhead and easy to use. <https://functiontrace.com/>
 
 ## FP in Python
 
@@ -434,6 +442,9 @@
   Swagger/OpenAPI First framework for Python on top of Flask with automatic
   endpoint validation & OAuth2 support
   <https://connexion.readthedocs.io/en/latest>
+- 🌟 [litestar-org/litestar](https://github.com/litestar-org/litestar): Light,
+  Flexible and Extensible ASGI API framework | Effortlessly Build Performant
+  APIs <https://litestar.dev/>
 
 #### Web utils
 
@@ -553,6 +564,8 @@
 - [nficano/humps](https://github.com/nficano/humps): Convert strings (and
   dictionary keys) between snake case, camel case and pascal case in Python.
   Inspired by Humps for Node <http://humps.readthedocs.io>
+- [jpvanhal/inflection](https://github.com/jpvanhal/inflection): A port of Ruby
+  on Rails' inflector to Python <https://inflection.readthedocs.io>
 - [aio-libs/yarl](https://github.com/aio-libs/yarl): Yet another URL library
   <https://yarl.readthedocs.io>
 - [T-baby/pondpond](https://github.com/T-baby/pondpond): Pond is a high

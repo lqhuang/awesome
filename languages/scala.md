@@ -217,6 +217,8 @@
 
 ## Stream / Effect systems / Experiments
 
+- 🌟 [atnos-org/eff](https://github.com/atnos-org/eff): Eff monad for cats
+  <https://atnos-org.github.io/eff>
 - [TomasMikula/libretto](https://github.com/TomasMikula/libretto): Declarative
   concurrency and stream processing library for Scala
 - [strymonas/strymonas](https://github.com/strymonas/strymonas): Fast streams
@@ -259,8 +261,6 @@
 
 ### Typelevel
 
-- [atnos-org/eff](https://github.com/atnos-org/eff): Eff monad for cats
-  <https://atnos-org.github.io/eff>
 - [tofu-tf/tofu](https://github.com/tofu-tf/tofu): Functional programming
   toolbox <https://docs.tofu.tf>
 - [typelevel/cats-tagless](https://github.com/typelevel/cats-tagless): Library

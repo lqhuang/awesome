@@ -125,6 +125,8 @@
   API store for LLMs <https://gorilla.cs.berkeley.edu/>
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain):
   😎 Awesome list of tools and projects with the awesome LangChain framework
+- [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw): 中文法律大
+  模型 <https://chatlaw.cloud/lawchat/>
 
 ## ChatGPT
 

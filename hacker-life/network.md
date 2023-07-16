@@ -80,6 +80,8 @@
   monitor for Linux and BSD
 - [Zoxc/crusader](https://github.com/Zoxc/crusader): A network bandwidth and
   latency tester.
+- [Mellanox/sockperf](https://github.com/Mellanox/sockperf): Network
+  Benchmarking Utility
 
 ### Analysis
 

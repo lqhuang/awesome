@@ -158,7 +158,7 @@
   <https://manfred.life/quicssh>
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly
   rewrite git repository history (filter-branch replacement)
-- [tweag/topiary](https://github.com/tweag/topiary): Topiary aims to be a
+- 🌟 [tweag/topiary](https://github.com/tweag/topiary): Topiary aims to be a
   uniform formatter for simple languages, as part of the Tree-sitter ecosystem.
   <https://topiary.tweag.io/>
 - 🌟
@@ -355,3 +355,7 @@
 - [privacyguides/privacyguides.org](https://github.com/privacyguides/privacyguides.org):
   Protect your data against global mass surveillance programs.
   <https://www.privacyguides.org>
+- [/e/ Foundation](https://e.foundation/e-os/): /e/OS is a complete, fully
+  “deGoogled”, mobile ecosystem
+- [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server):
+  An evolving how-to guide for securing a Linux server.

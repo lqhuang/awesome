@@ -57,6 +57,8 @@
   browsers. <https://raphamorim.io/rio>
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box):
   server status & toolbox app using Flutter
+- 🌟 [Waydroid](https://waydro.id/): A container-based approach to boot a full
+  Android system on a regular GNU/Linux system like Ubuntu.
 
 ## macOS / iPadOS
 
@@ -120,6 +122,11 @@
   Ultimate PDF Presentation Tool for macOS 🖥
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The
   mouse and trackpad utility for Mac. <https://linearmouse.app>
+- [redcanaryco/mac-monitor](https://github.com/redcanaryco/mac-monitor): Red
+  Canary Mac Monitor is an advanced, stand-alone system monitoring tool
+  tailor-made for macOS security research. Beginning with Endpoint Security
+  (ES), it collects and enriches system events, displaying them graphically,
+  with an expansive feature set designed to reduce noise.
 
 ### Free / Paid
 
@@ -221,6 +228,11 @@
   <https://matrix-org.github.io/dendrite/>
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️
   Streaming torrent client for the web <https://webtorrent.io>
+- [jesec/flood](https://github.com/jesec/flood): A modern web UI for various
+  torrent clients with a Node.js backend and React frontend.
+  <https://flood.js.org>
+- [formbricks/formbricks](https://github.com/formbricks/formbricks): Open Source
+  Surveys & Experience Management Solution <https://formbricks.com>
 
 ### Email
 

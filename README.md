@@ -22,6 +22,7 @@ more like a toolbox for myself.
   - [mlsys](./long-game/mlsys.md)
   - [research](./long-game/research.md)
   - [streaming](./long-game/streaming.md)
+  - [system](./long-game/system.md)
 - topics
   - [backend](./topics/backend.md)
   - [blockchain](./topics/blockchain.md)

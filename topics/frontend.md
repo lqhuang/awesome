@@ -97,6 +97,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   shadcn/ui, but for Svelte. <https://shadcn-svelte.com>
 - [TGlide/radix-svelte](https://github.com/TGlide/radix-svelte): A port of Radix
   UI for Svelte <https://www.radix-svelte.com/>
+- [pngwn/MDsveX](https://github.com/pngwn/MDsveX): A markdown preprocessor for
+  Svelte. <https://mdsvex.pngwn.io>
 
 ### CSS Style
 
@@ -234,6 +236,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ## Functional libraries
 
+### Misc
+
 - [streamich/react-use](https://github.com/streamich/react-use): React Hooks —
   👍 <http://streamich.github.io/react-use>
 - [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done
@@ -295,6 +299,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://day.js.org>
 - [moment/luxon](https://github.com/moment/luxon): ⏱ A library for working with
   dates and times in JS <https://moment.github.io/luxon>
+- 🌟 [jakubroztocil/rrule](https://github.com/jakubroztocil/rrule): JavaScript
+  library for working with recurrence rules for calendar dates as defined in the
+  iCalendar RFC and more. <https://jakubroztocil.github.io/rrule>
 
 ### State management
 

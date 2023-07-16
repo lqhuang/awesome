@@ -36,6 +36,7 @@
 - [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects):
   🚀 List of distributed system projects for inspiration and learning to build
   distributed services from real world examples
+- [TigerBeetle Simulator](https://sim.tigerbeetle.com/)
 
 ### Books
 

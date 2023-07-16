@@ -438,6 +438,8 @@
 - [crazyangelo/Cathedral-and-Bazaar](https://github.com/crazyangelo/Cathedral-and-Bazaar):
   The Cathedral and the Bazaar 中文版
   <http://crazyangelo.github.io/Cathedral-and-Bazaar>
+- [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology):
+  一人公司方法论
 
 ### Open Source & Community
 

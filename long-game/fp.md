@@ -1,6 +1,6 @@
 # The Curse of Strong Typing
 
-## Books
+## Books & Readings
 
 - [winitzki/sofp](https://github.com/winitzki/sofp): A free book: "The Science
   of Functional Programming"
@@ -32,6 +32,10 @@
   lecture series “Haskell for Readers”. This workshop is uniquely tailored to
   those who need to read, rather than write Haskell code: auditors, scientists,
   managers, testers etc.
+- [Extensible Effects](https://okmij.org/ftp/Haskell/extensible/): an
+  alternative to Monad Transformers
+  - [paper: Freer Monads, More Extensible Effects](https://okmij.org/ftp/Haskell/extensible/more.pdf)
+  - [paper: Extensible Effects](https://legacy.cs.indiana.edu/~sabry/papers/exteff.pdf)
 
 ### Resources
 
@@ -46,6 +50,11 @@
   language extensions table <https://damianfral.github.io/ghcaniuse/>
 - [nuprl/10PL](https://github.com/nuprl/10PL): 10 papers that all PhD students
   in programming languages ought to know, for some value of 10
+- [google/haskell-trainings](https://github.com/google/haskell-trainings):
+  Haskell 101 and 102: slides and codelabs
+- [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell): 👩‍🏫 👨‍🏫
+  Learn Haskell basics in 4 pull requests
+  <https://kowainik.github.io/projects/learn4haskell>
 
 ## Effect system
 
@@ -61,7 +70,8 @@
   Effects libraries in Haskell
 - 🌟
   [fused-effects/fused-effects](https://github.com/fused-effects/fused-effects):
-  A fast, flexible, fused effect system for Haskell #zio
+  A fast, flexible, fused effect system for Haskell
+  - ZIO is inspired by fused-effects
 
 ## PL
 
@@ -90,10 +100,13 @@
   programming and declarative concurrency <https://streamly.composewell.com>
 - [well-typed/optics](https://github.com/well-typed/optics): Optics as an
   abstract interface
-- [chshersh/dr-cabal](https://github.com/chshersh/dr-cabal): 📊 Haskell
-  dependencies build times profiler
 - [ekmett/structs](https://github.com/ekmett/structs): Exploring how to make a
   strict imperative universe in the GHC runtime system.
+- [ekmett/ad](https://github.com/ekmett/ad): Automatic Differentiation
+  <http://hackage.haskell.org/package/ad>
+- [ekmett/trifecta](https://github.com/ekmett/trifecta): Parser combinators with
+  highlighting, slicing, layout, literate comments, Clang-style diagnostics and
+  the kitchen sink <http://ekmett.github.com/trifecta/>
 
 ### CLI
 
@@ -118,6 +131,8 @@
 
 ### Other good libs
 
+- [chshersh/dr-cabal](https://github.com/chshersh/dr-cabal): 📊 Haskell
+  dependencies build times profiler
 - [ndmitchell/shake](https://github.com/ndmitchell/shake): Shake build system
   <http://shakebuild.com>
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell):
@@ -129,6 +144,8 @@
   <https://deadpendency.com/>
 - [tweag/capability](https://github.com/tweag/capability): Extensional
   capabilities and deriving combinators
+- [patrickt/fastsum](https://github.com/patrickt/fastsum): A fast open-union
+  type, suitable for 100+ contained alternatives.
 
 ## Typescript
 

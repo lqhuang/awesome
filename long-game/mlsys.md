@@ -9,6 +9,7 @@
   models.
 - [microsoft/AI-System](https://github.com/microsoft/AI-System): System for AI
   Education Resource. <https://microsoft.github.io/AI-System>
+- [ML system design: 200 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 
 ### Books
 
@@ -39,6 +40,9 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed is a
   deep learning optimization library that makes distributed training and
   inference easy, efficient, and effective. <https://www.deepspeed.ai/>
+- [keras-team/keras-core](https://github.com/keras-team/keras-core): A
+  multi-backend implementation of the Keras API, with support for TensorFlow,
+  JAX, and PyTorch.
 
 ### Optimization
 
@@ -102,6 +106,9 @@
   is an open source library providing end-to-end GPU-accelerated recommender
   systems, from feature engineering and preprocessing to training deep learning
   models and running inference in production.
+- 🌟
+  [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention):
+  Fast and memory-efficient exact attention
 
 ### Inference engine / large-scale deployment
 
