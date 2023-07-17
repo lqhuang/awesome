@@ -36,6 +36,8 @@
   alternative to Monad Transformers
   - [paper: Freer Monads, More Extensible Effects](https://okmij.org/ftp/Haskell/extensible/more.pdf)
   - [paper: Extensible Effects](https://legacy.cs.indiana.edu/~sabry/papers/exteff.pdf)
+- [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP): The Dao of
+  Functional Programming
 
 ### Resources
 
@@ -137,8 +139,6 @@
   <http://shakebuild.com>
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell):
   Maintainable configuration files <https://dhall-lang.org>
-- [diagrams/diagrams](https://github.com/diagrams/diagrams): Embedded
-  domain-specific language for declarative vector graphics (wrapper package)
 - 🌟 [deadpendency/deadpendency](https://github.com/deadpendency/deadpendency):
   Check if my repo's dependencies are dead (projects)!
   <https://deadpendency.com/>

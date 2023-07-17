@@ -341,7 +341,9 @@
   <https://diagrams.mingrammer.com>
 - [yuzutech/kroki](https://github.com/yuzutech/kroki): Creates diagrams from
   textual descriptions! <https://kroki.io>
-- [penrose/penrose](https://github.com/penrose/penrose): Create beautiful
+- [diagrams/diagrams](https://github.com/diagrams/diagrams): Embedded
+  domain-specific language for declarative vector graphics (wrapper package)
+- 🌟 [penrose/penrose](https://github.com/penrose/penrose): Create beautiful
   diagrams just by typing mathematical notation in plain text.
   <https://penrose.cs.cmu.edu>
 

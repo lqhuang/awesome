@@ -36,6 +36,20 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework
   <https://waku.gg>
 
+### Templates
+
+- 🌟 [steven-tey/precedent](https://github.com/steven-tey/precedent): An
+  opinionated collection of components, hooks, and utilities for your Next.js
+  project. <https://precedent.dev>
+- 🌟 [shadcn/taxonomy](https://github.com/shadcn/taxonomy): An open source
+  application built using the new router, server components and everything new
+  in Next.js 13. <https://tx.shadcn.com>
+- [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise): 💼 An
+  enterprise-grade Next.js boilerplate for high-performance, maintainable apps.
+  Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing
+  tools, and more to accelerate your development.
+  <https://next-enterprise.vercel.app>
+
 ## Components library
 
 ### Components framework
@@ -313,20 +327,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
   statecharts for the modern web. <https://xstate.js.org/docs>
 - 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next
   immutable state by mutating the current one <https://immerjs.github.io/immer>
-
-### Templates
-
-- 🌟 [steven-tey/precedent](https://github.com/steven-tey/precedent): An
-  opinionated collection of components, hooks, and utilities for your Next.js
-  project. <https://precedent.dev>
-- 🌟 [shadcn/taxonomy](https://github.com/shadcn/taxonomy): An open source
-  application built using the new router, server components and everything new
-  in Next.js 13. <https://tx.shadcn.com>
-- [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise): 💼 An
-  enterprise-grade Next.js boilerplate for high-performance, maintainable apps.
-  Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing
-  tools, and more to accelerate your development.
-  <https://next-enterprise.vercel.app>
 
 ### Backend
 

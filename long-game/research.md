@@ -64,6 +64,8 @@
   度学习》 邱锡鹏著 Neural Network and Deep Learning <https://nndl.github.io/>
 - [Visualize-ML/Book3_Fundamentals-of-Mathematics](https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics):
   《数学要素》，清华社五审五校中；Github 稿件基本稳定，欢迎提意见，会及时修改
+- [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra):
+  Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 
 ## Novel approaches
 

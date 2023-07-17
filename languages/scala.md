@@ -68,6 +68,8 @@
   plugin for creating file headers, e.g. copyright headers
 - [ThoughtWorksInc/sbt-best-practice](https://github.com/ThoughtWorksInc/sbt-best-practice):
   Configure common build settings for a Scala project
+- [sbt/sbt-unidoc](https://github.com/sbt/sbt-unidoc): sbt plugin to create a
+  unified Scaladoc or Javadoc API document across multiple subprojects.
 
 ### Testing
 
@@ -99,6 +101,10 @@
   database access in Scala
 - [raquo/Airstream](https://github.com/raquo/Airstream): State propagation and
   event streams with mandatory ownership and no glitches
+- [pathikrit/better-files](https://github.com/pathikrit/better-files): Simple,
+  safe and intuitive Scala I/O <https://pathikrit.github.io/better-files/>
+- [agourlay/cornichon](https://github.com/agourlay/cornichon): Scala DSL for
+  testing HTTP JSON API <http://agourlay.github.io/cornichon>
 
 ### Experiments
 
@@ -182,6 +188,8 @@
   Elm-inspired Scala UI library. <https://tyrian.indigoengine.io>
 - [scalameta/mdoc](https://github.com/scalameta/mdoc): Typechecked markdown
   documentation for Scala <https://scalameta.org/mdoc>
+- [oyvindberg/tui-scala](https://github.com/oyvindberg/tui-scala): Beautiful
+  Text-based User Interfaces for Scala
 - [com-lihaoyi/PPrint](https://github.com/com-lihaoyi/PPrint): Pretty-printing
   value, types and type-signatures in Scala
   <https://com-lihaoyi.github.io/PPrint/>
@@ -208,12 +216,12 @@
   Flexible Scala code linting tool <https://www.wartremover.org>
 - [makingthematrix/signals3](https://github.com/makingthematrix/signals3): A
   lightweight event streaming library for Scala 3
-- [oyvindberg/tui-scala](https://github.com/oyvindberg/tui-scala): Beautiful
-  Text-based User Interfaces for Scala
 - [scala/toolkit](https://github.com/scala/toolkit): The batteries-included
   Scala
 - [earldouglas/sbt-lit](https://github.com/earldouglas/sbt-lit): Literate
   programming with sbt
+- [lightbend/mima](https://github.com/lightbend/mima): A tool for catching
+  binary incompatibility in Scala
 
 ## Stream / Effect systems / Experiments
 

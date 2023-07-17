@@ -127,6 +127,9 @@
   😎 Awesome list of tools and projects with the awesome LangChain framework
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw): 中文法律大
   模型 <https://chatlaw.cloud/lawchat/>
+- [danswer-ai/danswer](https://github.com/danswer-ai/danswer): Ask Questions in
+  natural language and get Answers backed by private sources. Connects to tools
+  like Slack, GitHub, Confluence, etc. <https://docs.danswer.dev/>
 
 ## ChatGPT
 
