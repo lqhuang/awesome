@@ -67,6 +67,8 @@
   <https://rust-unofficial.github.io/patterns/>
 - [politrons/FunctionalRust](https://github.com/politrons/FunctionalRust):
   Examples of functional programing in Rust
+- 🌟 [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs): A
+  community guide to the Rust ecosystem <https://blessed.rs>
 
 ## Build
 
@@ -609,6 +611,8 @@
   for the C++ api of PyTorch.
 - [burn-rs/burn](https://github.com/burn-rs/burn): BURN: Burn Unstoppable Rusty
   Neurons <https://burn-rs.github.io/>
+- [LaurentMazare/candle](https://github.com/LaurentMazare/candle): Minimalist ML
+  framework for Rust
 
 ### Clients
 
@@ -640,6 +644,8 @@
   AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 - [duchess-rs/duchess](https://github.com/duchess-rs/duchess): Experiments with
   Java-Rust interop <https://duchess-rs.github.io/duchess>
+- [yuankunzhang/charming](https://github.com/yuankunzhang/charming): A
+  visualization library for Rust
 
 ### TUI
 

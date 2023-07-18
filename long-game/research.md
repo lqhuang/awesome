@@ -17,9 +17,9 @@
   An annotated implementation of the Transformer paper.
   <http://nlp.seas.harvard.edu/annotated-transformer>
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations):
-  🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side
+  🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side
   notes 📝; including transformers (original, xl, switch, feedback, vit, ...),
-  optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮
+  optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮
   reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
   <https://nn.labml.ai>
 - [vdumoulin/conv_arithmetic](https://github.com/vdumoulin/conv_arithmetic): A

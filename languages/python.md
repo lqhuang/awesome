@@ -1,6 +1,8 @@
 # Python
 
-## Resources
+## Collections
+
+### Resources
 
 - [languages-that-compile-to-python](https://github.com/vindarel/languages-that-compile-to-python):
   List of languages that compile to python
@@ -9,12 +11,20 @@
 - [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi):
   A curated list of awesome ASGI servers, frameworks, apps, libraries, and other
   resources
+- [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject):
+  An Awesome List of projects using the pyproject.toml Python configuration
+  file.
+
+### Readings
+
 - [MoserMichael/python-obj-system](https://github.com/MoserMichael/python-obj-system):
   Tutorials on advanced python topics, and literate programming framework to
   write them (see README.md)
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python):
   Practical Python Programming (course by @dabeaz)
   <https://dabeaz-course.github.io/practical-python>
+- [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery):
+  Advanced Python Mastery (course by @dabeaz)
 - [pypackaging-native/pypackaging-native](https://github.com/pypackaging-native/pypackaging-native):
   A collection of content about key Python packaging topics and issues for
   projects using native code <https://pypackaging-native.github.io>
@@ -25,9 +35,9 @@
   implementation
 - [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研
   究员 Anthony Shaw 的《CPython Internals》中文翻译
-- [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject):
-  An Awesome List of projects using the pyproject.toml Python configuration
-  file.
+
+### Books
+
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy):
   An open-access book on numpy vectorization techniques, Nicolas P. Rougier,
   2017 <http://www.labri.fr/perso/nrougier/from-python-to-numpy>

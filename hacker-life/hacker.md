@@ -231,6 +231,8 @@
 - [workerforce/unifi-ddns](https://github.com/workerforce/unifi-ddns):
   Cloudflare DDNS (Dynamic DNS) support for UniFi OS
   <https://workerforce.github.io/unifi-ddns/>
+- [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate): A
+  self-hosted data logger for your Tesla 🚘 <https://docs.teslamate.org>
 
 ## Proxy
 
