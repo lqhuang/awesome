@@ -96,14 +96,14 @@
   and robust TUI hex editor. <http://io.thetacom.info/hexabyte/>
 - 🌟 [binpash/try](https://github.com/binpash/try): "Do, or do not. There is no
   try." We're setting out to change that: `try cmd` and commit---or not.
+- 🌟 [pvolok/mprocs](https://github.com/pvolok/mprocs): Run multiple commands in
+  parallel
 
 ### Monitor
 
 - [nicolargo/glances](https://github.com/nicolargo/glances): Glances an Eye on
   your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows
   operating systems. <http://nicolargo.github.io/glances/>
-- [bcicen/ctop](https://github.com/bcicen/ctop): Top-like interface for
-  container metrics <https://ctop.sh/>
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom): Yet another
   cross-platform graphical process/system monitor.
   <https://clementtsang.github.io/bottom>
@@ -168,6 +168,11 @@
   <https://pkg.go.dev/github.com/hickford/git-credential-oauth>
 - [zealdocs/zeal](https://github.com/zealdocs/zeal): Offline documentation
   browser inspired by Dash <https://zealdocs.org>
+- [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly
+  rewrite git repository history (filter-branch replacement)
+- [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner): Removes
+  large or troublesome blobs like git-filter-branch does, but faster. And
+  written in Scala <https://rtyley.github.io/bfg-repo-cleaner/>
 
 ## Homelab
 

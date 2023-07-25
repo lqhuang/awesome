@@ -64,10 +64,17 @@
 - [orsinium-labs/docked](https://github.com/orsinium-labs/docked): A friendly
   and safe alternative to Dockefile. Write Docker images using the full power of
   Python. <https://docked.orsinium.dev>
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The
-  lazier way to manage everything docker
 - [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner):
   Delete untagged image refs in Google Container Registry or Artifact Registry
+- [uber/kraken](https://github.com/uber/kraken): P2P Docker registry capable of
+  distributing TBs of data in seconds
+
+### CLI
+
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The
+  lazier way to manage everything docker
+- [bcicen/ctop](https://github.com/bcicen/ctop): Top-like interface for
+  container metrics <https://ctop.sh/>
 
 ## Routing
 
@@ -143,6 +150,8 @@
 - [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s): A simple, extensible Python
   client library for Kubernetes that feels familiar for folks who already know
   how to use kubectl <https://kr8s.org>
+- 🌟 [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm): Aggregator for
+  issues filed against kubeadm
 
 ## Hashicorp
 

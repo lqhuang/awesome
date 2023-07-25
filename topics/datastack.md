@@ -1,5 +1,15 @@
 # Modern Data Stack
 
+## Data Format
+
+- parquet
+- arrow
+- [lancedb/lance](https://github.com/lancedb/lance): Modern columnar data format
+  for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code
+  for 100x faster random access, vector index, and data versioning. Compatible
+  with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..
+  <https://lancedb.github.io/lance/>
+
 ## ELT / ETL
 
 - [dbt](https://www.getdbt.com/): Transforming data. Transforming teams. dbt™

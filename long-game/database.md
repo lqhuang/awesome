@@ -26,15 +26,12 @@
   😋 A curated reading list about database systems
 - [huachaohuang/awesome-dbdev](https://github.com/huachaohuang/awesome-dbdev):
   Awesome materials about database development.
+- [erikgrinaker/readings](https://github.com/erikgrinaker/readings): Interesting
+  readings and talks on computer science
 
-### Practices
+### Talks
 
-- [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational
-  Database Management System (Educational) <https://15445.courses.cs.cmu.edu>
-- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight): An
-  OLAP database system for educational purpose
-- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb): Distributed SQL
-  database in Rust, written as a learning project
+- [The Dutch Seminar on Data Systems Design](https://dsdsd.da.cwi.nl/)
 
 ## Libraries for DB
 
@@ -63,6 +60,15 @@
 - [penberg/mvcc-rs](https://github.com/penberg/mvcc-rs): Optimistic
   multi-version concurrency control (MVCC) for main memory databases, written in
   Rust.
+
+### Practices
+
+- [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational
+  Database Management System (Educational) <https://15445.courses.cs.cmu.edu>
+- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight): An
+  OLAP database system for educational purpose
+- [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb): Distributed SQL
+  database in Rust, written as a learning project
 
 ## New databases
 

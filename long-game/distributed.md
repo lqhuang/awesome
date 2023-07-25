@@ -37,6 +37,7 @@
   🚀 List of distributed system projects for inspiration and learning to build
   distributed services from real world examples
 - [TigerBeetle Simulator](https://sim.tigerbeetle.com/)
+- [stevana/armstrong-distributed-systems](https://github.com/stevana/armstrong-distributed-systems)
 
 ### Books
 

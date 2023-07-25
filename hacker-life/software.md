@@ -59,6 +59,8 @@
   server status & toolbox app using Flutter
 - 🌟 [Waydroid](https://waydro.id/): A container-based approach to boot a full
   Android system on a regular GNU/Linux system like Ubuntu.
+- [subhra74/xdm](https://github.com/subhra74/xdm): Powerfull download
+  accelerator and video downloader <https://xtremedownloadmanager.com/>
 
 ## macOS / iPadOS
 
@@ -180,6 +182,8 @@
   Makes these Internet connections visible and puts you back in control!
 - [Klack](https://tryklack.com/): Satisfying sound with every keystroke Download
   for Mac
+- [Homerow](https://www.homerow.app/): Keyboard shortcuts for every button in
+  macOS
 
 ## Services
 
@@ -282,3 +286,5 @@
 - [hashicorp/vault](https://github.com/hashicorp/vault): A tool for secrets
   management, encryption as a service, and privileged access management
   <https://www.vaultproject.io/>
+- 🌟 [getsops/sops](https://github.com/getsops/sops): Simple and flexible tool
+  for managing secrets

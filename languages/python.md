@@ -128,7 +128,7 @@
   that packs your packages into a zipapp
 - [conda/conda-pack](https://github.com/conda/conda-pack): Package conda
   environments for redistribution <https://conda.github.io/conda-pack>
-- [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel): 🎡 Build Python
+- 🌟 [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel): 🎡 Build Python
   wheels for all the platforms on CI with minimal configuration.
 - 🌟 [pyupio/dparse](https://github.com/pyupio/dparse): A parser for Python
   dependency files
@@ -470,6 +470,8 @@
 - [lepture/authlib](https://github.com/lepture/authlib): The ultimate Python
   library in building OAuth, OpenID Connect clients and servers.
   JWS,JWE,JWK,JWA,JWT included. <https://authlib.org>
+- [authlib/joserfc](https://github.com/authlib/joserfc): Implementations of JOSE
+  RFCs in Python <https://jose.authlib.org>
 - 🌟 [pyca/bcrypt](https://github.com/pyca/bcrypt): Modern(-ish) password
   hashing for your software and your servers
 - [mpdavis/python-jose](https://github.com/mpdavis/python-jose): A JOSE
@@ -596,6 +598,8 @@
   with less effort. <https://blog.zech.codes/bevy-v2>
 - [mivade/argparse_dataclass](https://github.com/mivade/argparse_dataclass):
   Declarative CLIs with argparse and dataclasses
+- [larryhastings/appeal](https://github.com/larryhastings/appeal): Command-line
+  parsing library for Python 3.
 
 ### Configuration
 
@@ -683,6 +687,9 @@
   <https://python-jsonschema.readthedocs.io>
 - [agronholm/cbor2](https://github.com/agronholm/cbor2): Pure Python CBOR
   (de)serializer with extensive tag support
+- 📝 [tomerfiliba-org/rpyc](https://github.com/tomerfiliba-org/rpyc): RPyC
+  (Remote Python Call) - A transparent and symmetric RPC library for python
+  <http://rpyc.readthedocs.org>
 
 ### Logging
 

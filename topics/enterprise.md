@@ -1,33 +1,5 @@
 # Enterprise-grade tools
 
-## Certificate Management
-
-- [smallstep/certificates](https://github.com/smallstep/certificates): 🛡️ A
-  private certificate authority (X.509 & SSH) & ACME server for secure automated
-  certificate management, so you can use TLS everywhere & SSO for SSH.
-  <https://smallstep.com/certificates>
-- [smallstep/cli](https://github.com/smallstep/cli): 🧰 A zero trust swiss army
-  knife for working with X509, OAuth, JWT, OATH OTP, etc.
-  <https://smallstep.com/cli>
-- [Sectigo certificate manager](https://sectigo.com/enterprise-solutions/certificate-manager):
-  Automated Certificate Lifecycle Management for the Modern Enterprise
-- [Keyfactor](https://www.keyfactor.com/): Find, control, and automate every
-  machine identity with Keyfactor, the leader in crypto-agility and PKI
-  as-a-Service.
-- [hyperledger/fabric-ca](https://github.com/hyperledger/fabric-ca): a`
-  Certificate Authority for Hyperledger Fabric. zh-cn:
-  <https://hyperledgercn.github.io/hyperledgerDocs/ca-setup_zh>
-- [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert): A simple
-  zero-config tool to make locally trusted development certificates with any
-  names you'd like. <https://mkcert.dev>
-- [soulteary/certs-maker](https://github.com/soulteary/certs-maker): Tiny, easy
-  SSL self-signed tools, ~3MB Size. Generate a self-hosted/dev certificate
-  through configuration.
-  <https://soulteary.com/2021/02/06/how-to-make-and-use-a-self-signed-certificate.html>
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager):
-  Automatically provision and manage TLS certificates in Kubernetes
-  <https://cert-manager.io>
-
 ## Enterprise access control
 
 ### To team
@@ -216,6 +188,12 @@
 - [documenso/documenso](https://github.com/documenso/documenso): Document
   Signing as it should be - open and shaped by its community.
   <https://documenso.com>
+- 🌟 [docusealco/docuseal](https://github.com/docusealco/docuseal): Open source
+  DocuSign alternative. Create, fill, and sign digital documents ✍️
+  <http://www.docuseal.co>
+- [DocuSign](https://www.docusign.com/): The way the world agrees. More than a
+  million customers and a billion users trust DocuSign with their critical and
+  essential agreements.
 - [makeplane/plane](https://github.com/makeplane/plane): 🔥 🔥 🔥 Open Source
   JIRA, Linear and Height Alternative. Plane helps you track your issues, epics,
   and product roadmaps in the simplest way possible. <http://plane.so>
@@ -287,6 +265,8 @@
   users when something goes wrong.
 - [keephq/keep](https://github.com/keephq/keep): Open source alerts management
   platform <https://www.keephq.dev>
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus): The
+  open-source status page <https://openstatus.dev>
 
 ### Logging / Metrics / APM
 

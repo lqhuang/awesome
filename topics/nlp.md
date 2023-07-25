@@ -21,6 +21,9 @@
   Performance Library for Sequence Processing and Generation
 - [vercel-labs/ai](https://github.com/vercel-labs/ai): Build AI-powered
   applications with React, Svelte, and Vue <https://sdk.vercel.ai/docs>
+- [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui):
+  A gradio web UI for running Large Language Models like LLaMA, llama.cpp,
+  GPT-J, Pythia, OPT, and GALACTICA.
 
 ## Embedding Search (ANN)
 
@@ -39,6 +42,9 @@
   <https://unum-cloud.github.io/usearch/>
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo): Vector search for humans.
   <https://www.marqo.ai/>
+- [nmslib/hnswlib](https://github.com/nmslib/hnswlib): Header-only C++/python
+  library for fast approximate nearest neighbors
+  <https://github.com/nmslib/hnswlib>
 
 ## Network Implementations
 
@@ -130,6 +136,11 @@
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer): Ask Questions in
   natural language and get Answers backed by private sources. Connects to tools
   like Slack, GitHub, Confluence, etc. <https://docs.danswer.dev/>
+- 🌟 [microsoft/TypeChat](https://github.com/microsoft/TypeChat): TypeChat is a
+  library that makes it easy to build natural language interfaces using types.
+  <https://microsoft.github.io/TypeChat/>
+- [lvwerra/trl](https://github.com/lvwerra/trl): Train transformer language
+  models with reinforcement learning. <http://hf.co/docs/trl>
 
 ## ChatGPT
 

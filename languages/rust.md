@@ -256,6 +256,8 @@
   synchronization primitives
 - 🌟 [m-ou-se/atomic-wait](https://github.com/m-ou-se/atomic-wait):
   Cross-platform atomic wait and wake (aka futex) functionality for Rust.
+- [smol-rs/async-lock](https://github.com/smol-rs/async-lock): Async
+  synchronization primitives
 
 ### Async IO
 
@@ -317,7 +319,7 @@
 - [stepchowfun/typical](https://github.com/stepchowfun/typical): Data
   interchange with algebraic data types.
 
-## HPC / SIMD / Vectorization
+## HPC / SIMD / Vectorization / GPU
 
 - [pikkr/pikkr](https://github.com/pikkr/pikkr): JSON parser which picks up
   values directly without performing tokenization in Rust
@@ -325,6 +327,15 @@
   testing ground for the future of portable SIMD in Rust
 - [google/zerocopy](https://github.com/google/zerocopy): Utilities for safe
   zero-copy parsing and serialization.
+- [Rust-GPU/Rust-CUDA](https://github.com/Rust-GPU/Rust-CUDA): Ecosystem of
+  libraries and tools for writing and executing fast GPU code fully in Rust.
+- [EmbarkStudios/rust-gpu](https://github.com/EmbarkStudios/rust-gpu): 🐉 Making
+  Rust a first-class language and ecosystem for GPU shaders 🚧
+  <https://shader.rs>
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu): Cross-platform, safe, pure-rust
+  graphics api. <https://wgpu.rs>
+- [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust): Rust
+  wrapper for ArrayFire
 
 ## DS & Algorithms
 
@@ -430,9 +441,6 @@
   implementation of Apache Arrow <https://arrow.apache.org>
 - 🌟 [jorgecarleitao/arrow2](https://github.com/jorgecarleitao/arrow2):
   Transmute-free Rust library to work with the Arrow format
-- [eto-ai/lance](https://github.com/eto-ai/lance): Alternative to Parquet. 100x
-  faster for random access, automatic versioning, optimized for computer vision,
-  bioinformatics, spatial and ML data. Apache Arrow and DuckDB compatible.
 - [alexcrichton/wait-timeout](https://github.com/alexcrichton/wait-timeout):
   Waiting on a child process with a timeout in Rust
 - 🌟 [BurntSushi/bstr](https://github.com/BurntSushi/bstr): A string type for
@@ -666,6 +674,8 @@
   line progress reporting library for Rust
 - [ad4mx/spinoff](https://github.com/ad4mx/spinoff): 💻 Simple Rust library for
   displaying spinners in the terminal
+- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui): Rust library to
+  build rich terminal user interfaces (TUIs) and dashboards
 
 ### GUI
 

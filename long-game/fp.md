@@ -1,5 +1,7 @@
 # The Curse of Strong Typing
 
+## Resources
+
 ## Books & Readings
 
 - [winitzki/sofp](https://github.com/winitzki/sofp): A free book: "The Science
@@ -28,37 +30,38 @@
   programs into a system of algorithmic components
 - [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh):
   手撸解释器教程《Crafting Interpreters》中文翻译
-- [Haskell for Readers](https://haskell-for-readers.nomeata.de/): Welcome to the
-  lecture series “Haskell for Readers”. This workshop is uniquely tailored to
-  those who need to read, rather than write Haskell code: auditors, scientists,
-  managers, testers etc.
+- [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP): The Dao of
+  Functional Programming
 - [Extensible Effects](https://okmij.org/ftp/Haskell/extensible/): an
   alternative to Monad Transformers
   - [paper: Freer Monads, More Extensible Effects](https://okmij.org/ftp/Haskell/extensible/more.pdf)
   - [paper: Extensible Effects](https://legacy.cs.indiana.edu/~sabry/papers/exteff.pdf)
-- [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP): The Dao of
-  Functional Programming
 
-### Resources
+### Tutorials
 
-- [stevana/armstrong-distributed-systems](https://github.com/stevana/armstrong-distributed-systems)
 - [darrenjw/fp-ssc-course](https://github.com/darrenjw/fp-ssc-course): An
   introduction to functional programming for scalable statistical computing
 - [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan):
   📜 Haskell course info, plan, video lectures, slides
 - [graninas/functional-declarative-design-methodology](https://github.com/graninas/functional-declarative-design-methodology):
   Article: Functional Declarative Design
-- 🌟 [damianfral/ghcaniuse](https://github.com/damianfral/ghcaniuse): GHC
-  language extensions table <https://damianfral.github.io/ghcaniuse/>
 - [nuprl/10PL](https://github.com/nuprl/10PL): 10 papers that all PhD students
   in programming languages ought to know, for some value of 10
+- [Haskell for Readers](https://haskell-for-readers.nomeata.de/): Welcome to the
+  lecture series “Haskell for Readers”. This workshop is uniquely tailored to
+  those who need to read, rather than write Haskell code: auditors, scientists,
+  managers, testers etc.
 - [google/haskell-trainings](https://github.com/google/haskell-trainings):
   Haskell 101 and 102: slides and codelabs
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell): 👩‍🏫 👨‍🏫
   Learn Haskell basics in 4 pull requests
   <https://kowainik.github.io/projects/learn4haskell>
 
-## Effect system
+### Talks
+
+- [Structuring effectful programs](https://bobkonf.de/2023/loeh.html)
+
+## Effect systems
 
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio):Effects-based
   direct-style IO for multicore OCaml
@@ -91,6 +94,8 @@
 
 ## Haskell
 
+- 🌟 [damianfral/ghcaniuse](https://github.com/damianfral/ghcaniuse): GHC
+  language extensions table <https://damianfral.github.io/ghcaniuse/>
 - [kowainik/relude](https://github.com/kowainik/relude): 🌀 Safe, performant,
   user-friendly and lightweight Haskell standard library
   <https://kowainik.github.io/projects/relude>

@@ -154,6 +154,8 @@
   std::expected with functional-style extensions <https://tl.tartanllama.xyz>
 - [tcbrindle/flux](https://github.com/tcbrindle/flux): A C++20 library for
   sequence-orientated programming <https://tristanbrindle.com/flux/>
+- [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once
+  run-anywhere c library
 
 ## GPU
 

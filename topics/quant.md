@@ -83,6 +83,9 @@
 - [asyncalgotrading/aat](https://github.com/asyncalgotrading/aat): Asynchronous,
   event-driven algorithmic trading in Python and C++
   <https://aat.readthedocs.io/>
+- 📝
+  [Melelery/c-binance-future-quant](https://github.com/Melelery/c-binance-future-quant):
+  low-cost, high-efficiency, easy-to-implement
 
 ## Backtesting
 
@@ -118,6 +121,10 @@
   Financial portfolio optimisation in python, including classical efficient
   frontier, Black-Litterman, Hierarchical Risk Parity
   <https://pyportfolioopt.readthedocs.io>
+- [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab):
+  MlFinLab helps portfolio managers and traders who want to leverage the power
+  of machine learning by providing reproducible, interpretable, and easy to use
+  tools.
 
 ## Indicators
 
@@ -200,6 +207,9 @@
   clustering, and Markov model estimation <https://deeptime-ml.github.io/>
 - [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon): A unified framework
   for machine learning with time series <https://aeon-toolkit.org/>
+- [descendant-ai/functime](https://github.com/descendant-ai/functime):
+  Time-series machine learning and embeddings at scale.
+  <https://docs.functime.ai>
 
 ### Research
 
@@ -223,3 +233,5 @@
 - [qingsongedu/awesome-AI-for-time-series-papers](https://github.com/qingsongedu/awesome-AI-for-time-series-papers):
   A professional list of Papers, Tutorials, and Surveys on AI for Time Series in
   top AI conferences and journals.
+- [Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading): Algorithmic
+  trading with deep learning experiments

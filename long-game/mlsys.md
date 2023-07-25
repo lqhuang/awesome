@@ -97,6 +97,8 @@
   largely built on the 🤗 Hugging Face Transformers Whisper implementation.
   Compared to OpenAI's PyTorch code, Whisper JAX runs over 70x faster, making it
   the fastest Whisper implementation available.
+- [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper):
+  Faster Whisper transcription with CTranslate2
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor):
   Library of deep learning models and datasets designed to make deep learning
   more accessible and accelerate ML research.
@@ -106,9 +108,10 @@
   is an open source library providing end-to-end GPU-accelerated recommender
   systems, from feature engineering and preprocessing to training deep learning
   models and running inference in production.
-- 🌟
-  [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention):
+- 🌟 [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention):
   Fast and memory-efficient exact attention
+- [karpathy/llama2.c](https://github.com/karpathy/llama2.c): Inference Llama 2
+  in one file of pure C
 
 ### Inference engine / large-scale deployment
 
@@ -278,6 +281,8 @@
   computations. <https://ott-jax.readthedocs.io>
 - [Autodesk/XLB](https://github.com/Autodesk/XLB): XLB: Accelerated Lattice
   Boltzmann (XLB) based on JAX for Physics-based ML
+- [xl0/lovely-jax](https://github.com/xl0/lovely-jax): JAX Arrays for human
+  consumption <https://xl0.github.io/lovely-jax>
 
 ### DeepMind specialization
 

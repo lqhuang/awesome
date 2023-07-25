@@ -14,6 +14,12 @@ Streaming Systems
 
 - [EDA VISUALS](https://serverlessland.com/event-driven-architecture/visuals):
   Small bite sized visuals about event-driven architectures
+- [bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets):
+  A list of publicly available datasets with real-time data maintained by the
+  team at bytewax.io <https://bytewax.io>
+- [Event-driven Utopia](https://www.eventdrivenutopia.com/): Learn to Build
+  Event-driven Applications
+  - [Medium: Dunith Dhanushka](https://dunith.medium.com/)
 
 ## Streamify
 

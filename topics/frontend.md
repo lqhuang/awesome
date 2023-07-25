@@ -15,13 +15,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ## Framework
 
+- 🌟 [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript
+  runtime, bundler, transpiler and package manager – all in one.
+  <https://bun.sh>
 - [denoland/fresh](https://github.com/denoland/fresh): The next-gen web
   framework. <https://fresh.deno.dev>
 - [honojs/hono](https://github.com/honojs/hono): Ultrafast web framework for
   Cloudflare Workers and Deno. Fast, but not only fast.
-- 🌟 [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript
-  runtime, bundler, transpiler and package manager – all in one.
-  <https://bun.sh>
 - [alpinejs/alpine](https://github.com/alpinejs/alpine): A rugged, minimal
   framework for composing JavaScript behavior in your markup.
   <https://alpinejs.dev>
@@ -35,6 +35,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   React-based CRUD applications, without constraints. <https://refine.dev>
 - [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework
   <https://waku.gg>
+- 🌟 [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js):
+  Reactivity without the framework <https://arrow-js.com>
 
 ### Templates
 
@@ -211,6 +213,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [WINOFFRG/limeplay](https://github.com/WINOFFRG/limeplay): ⭐ NEW: Modern
     Headless UI Library for Media Player (Shaka Player & HTML5) in React
     <https://limeplay.me>
+- [bytedance/xgplayer](https://github.com/bytedance/xgplayer): A HTML5 video
+  player with a parser that saves traffic <https://h5player.bytedance.com/>
 - [JedWatson/react-select](https://github.com/JedWatson/react-select): The
   Select Component for React.js <https://react-select.com/>
 
@@ -495,6 +499,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [akd-io/create-next-stack](https://github.com/akd-io/create-next-stack):
   Create Next Stack is a website and CLI tool used to easily set up the
   boilerplate of new Next.js apps. <https://www.create-next-stack.com>
+- [perfsee/perfsee](https://github.com/perfsee/perfsee): a set of tools for
+  measuring and debugging performance of frontend applications
+  <https://perfsee.com>
 
 ## SSG
 
