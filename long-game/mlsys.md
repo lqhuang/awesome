@@ -112,6 +112,8 @@
   Fast and memory-efficient exact attention
 - [karpathy/llama2.c](https://github.com/karpathy/llama2.c): Inference Llama 2
   in one file of pure C
+- [ayaka14732/llama-2-jax](https://github.com/ayaka14732/llama-2-jax): JAX
+  implementation of the Llama 2 model
 
 ### Inference engine / large-scale deployment
 
@@ -176,8 +178,8 @@
   SDK for high-performance deep learning inference, includes a deep learning
   inference optimizer and runtime that delivers low latency and high throughput
   for inference applications. <https://developer.nvidia.com/tensorrt>
-- [openxla/xla](https://github.com/openxla/xla): A machine learning compiler for
-  GPUs, CPUs, and ML accelerators
+- 🌟 [openxla/xla](https://github.com/openxla/xla): A machine learning compiler
+  for GPUs, CPUs, and ML accelerators
   - News:
     [OpenXLA is available now to accelerate and simplify machine learning](https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html)
 - [tensor-compiler/taco](https://github.com/tensor-compiler/taco): The Tensor
@@ -187,6 +189,8 @@
   floating-point neural network inference operators for mobile, server, and Web
 - 🌟 [geohot/tinygrad](https://github.com/geohot/tinygrad): You like pytorch?
   You like micrograd? You love tinygrad! ❤️ <https://tinygrad.org/>
+- [LaurentMazare/xla-rs](https://github.com/LaurentMazare/xla-rs):
+  Experimentation using the xla compiler from rust
 
 ## Platform framework / Workflow pipeline / MLOps
 
@@ -237,8 +241,6 @@
 
 - [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax): JAX - A
   curated list of resources https://github.com/google/jax
-- [openxla/xla](https://github.com/openxla/xla): A community-driven and modular
-  open source compiler for ML.
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable
   PyTrees and filtered transforms => neural networks in JAX.
   <https://docs.kidger.site/equinox>

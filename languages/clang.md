@@ -54,7 +54,8 @@
 
 - [rsms/llvmbox](https://github.com/rsms/llvmbox): Self contained, fully static
   llvm tools & libs
-- [rui314/mold](https://github.com/rui314/mold): mold: A Modern Linker
+- 🌟 [rui314/mold](https://github.com/rui314/mold): mold: Mold: A Modern Linker
+  🦠
 - [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source
   C/C++ package manager <https://conan.io>
 - [cpp-best-practices/cmake_template](https://github.com/cpp-best-practices/cmake_template):
@@ -135,8 +136,6 @@
   cross-platform, high-performance event loop that provides abstractions for
   non-blocking IO, timers, events, and more and works on Linux (io_uring or
   epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
-- [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a
-  compact general purpose allocator with excellent performance.
 - 🌟 [uNetworking/uSockets](https://github.com/uNetworking/uSockets): Miniscule
   cross-platform eventing, networking & crypto for async applications
 - [facebook/CacheLib](https://github.com/facebook/CacheLib): Pluggable
@@ -156,6 +155,17 @@
   sequence-orientated programming <https://tristanbrindle.com/flux/>
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once
   run-anywhere c library
+- [foonathan/type_safe](https://github.com/foonathan/type_safe): Zero overhead
+  utilities for preventing bugs at compile time
+  <https://type_safe.foonathan.net>
+
+## Memory allocator
+
+- [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a
+  compact general purpose allocator with excellent performance.
+- [foonathan/memory](https://github.com/foonathan/memory): STL compatible C++
+  memory allocator library using a new RawAllocator concept that is similar to
+  an Allocator but easier to use and write. <https://memory.foonathan.net>
 
 ## GPU
 
@@ -179,6 +189,13 @@
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde):
   Implementations of SIMD instruction sets for systems which don't natively
   support them. <https://simd-everywhere.github.io/blog>
+
+## Utils
+
+- [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI): 💻 C++
+  Functional Terminal User Interface. ❤️
+- [intel/hyperscan](https://github.com/intel/hyperscan): High-performance
+  regular expression matching library <https://www.hyperscan.io>
 
 ## ???
 

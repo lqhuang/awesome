@@ -161,6 +161,8 @@ Streaming Systems
 - 📝 [Adapton/adapton.rust](https://github.com/Adapton/adapton.rust):
   General-purpose abstractions for incremental computing, in Rust
   <http://adapton.org>
+- [tradewelltech/beavers](https://github.com/tradewelltech/beavers): Python
+  stream processing
 
 ## Testing
 

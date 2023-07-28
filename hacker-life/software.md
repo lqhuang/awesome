@@ -33,7 +33,7 @@
   Comes with a ⚙️ HTTP backend. <https://reacher.email>
 - [borgbackup/borg](https://github.com/borgbackup/borg): Deduplicating archiver
   with compression and authenticated encryption. <https://www.borgbackup.org>
-- [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source
+- 🌟 [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source
   Continuous File Synchronization <https://forum.syncthing.net>
 - [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source
   KVM (switch) software
@@ -50,8 +50,6 @@
   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate):
   Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
   <https://immersive-translate.owenyoung.com/>
-- [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible
-  <https://docs.rsshub.app>
 - [raphamorim/rio](https://github.com/raphamorim/rio): A hardware-accelerated
   GPU terminal emulator powered by WebGPU, focusing to run in desktops and
   browsers. <https://raphamorim.io/rio>
@@ -61,6 +59,11 @@
   Android system on a regular GNU/Linux system like Ubuntu.
 - [subhra74/xdm](https://github.com/subhra74/xdm): Powerfull download
   accelerator and video downloader <https://xtremedownloadmanager.com/>
+- [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - Free and
+  Open Source AI Image Upscaler for Linux, MacOS and Windows built with
+  Linux-First philosophy. <https://upscayl.org>
+- 🌟 [files-community/Files](https://github.com/files-community/Files): Building
+  the best file manager experience for Windows <https://files.community>
 
 ## macOS / iPadOS
 
@@ -129,6 +132,11 @@
   tailor-made for macOS security research. Beginning with Endpoint Security
   (ES), it collects and enriches system events, displaying them graphically,
   with an expansive feature set designed to reduce noise.
+- 🌟
+  [Schlaubischlump/LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator):
+  MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator
+  device location. WatchOS and TvOS are partially supported.
+  <https://schlaubischlump.github.io/LocationSimulator/>
 
 ### Free / Paid
 
@@ -184,6 +192,8 @@
   for Mac
 - [Homerow](https://www.homerow.app/): Keyboard shortcuts for every button in
   macOS
+- [QSpace](https://qspace.awehunt.com/zh-cn/index.html): 一款简洁高效的多窗格文
+  件管理器，灵活且实用！
 
 ## Services
 
@@ -204,6 +214,8 @@
   infrastructure for absolutely everyone. <https://cal.com>
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted
   bookmark service
+- 🌟 [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible
+  <https://docs.rsshub.app>
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get
   seamless remote access to any Linux device. Centralized SSH for the edge and
   cloud computing

@@ -169,6 +169,9 @@
 - [Render](https://render.com): Render is a unified cloud to build and run all
   your apps and websites with free TLS certificates, a global CDN, DDoS
   protection, private networks, and auto deploys from Git.
+- [Replicate](https://replicate.com/): Machine learning doesn’t need to be so
+  hard. Run models in the cloud at scale.
+  - good looking landing page 😆
 
 ## Could Foundry
 

@@ -24,6 +24,10 @@
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui):
   A gradio web UI for running Large Language Models like LLaMA, llama.cpp,
   GPT-J, Pythia, OPT, and GALACTICA.
+- [shibing624/text2vec](https://github.com/shibing624/text2vec): text2vec, text
+  to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了
+  Word2Vec、RankBM25、Sentence-BERT、CoSENT 等文本表征、文本相似度计算模型，开箱
+  即用。
 
 ## Embedding Search (ANN)
 
@@ -76,47 +80,36 @@
   7B trained on the RedPajama dataset
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B): ChatGLM2-6B: An
   Open Bilingual Chat LLM | 开源双语对话语言模型
-
-## LLM
-
-- 🌟 [hwchase17/langchain](https://github.com/hwchase17/langchain): ⚡ Building
-  applications with LLMs through composability ⚡
-- 🌟 [logspace-ai/langflow](https://github.com/logspace-ai/langflow): ⛓️
-  LangFlow is a UI for LangChain, designed with react-flow to provide an
-  effortless way to experiment and prototype flows.
-- 🌟 [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer):
-  Specify what you want it to build, the AI asks for clarification, and then
-  builds it.
-- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM):
-  Awesome-LLM: a curated list of Large Language Model
-- [shibing624/text2vec](https://github.com/shibing624/text2vec): text2vec, text
-  to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了
-  Word2Vec、RankBM25、Sentence-BERT、CoSENT 等文本表征、文本相似度计算模型，开箱
-  即用。
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly): Databricks’
   Dolly, a large language model trained on the Databricks Machine Learning
   Platform
   <https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html>
-- [microsoft/JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to
-  connect LLMs with ML community
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm): Bringing large-language
   models and chat to web browsers. Everything runs inside the browser with no
   server support. <https://mlc.ai/web-llm>
+- [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw): 中文法律大
+  模型 <https://chatlaw.cloud/lawchat/>
+- [lvwerra/trl](https://github.com/lvwerra/trl): Train transformer language
+  models with reinforcement learning. <http://hf.co/docs/trl>
+- [a16z-infra/cog-llama-template](https://github.com/a16z-infra/cog-llama-template):
+  LLaMA Cog template
+
+## LLM
+
+- [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM):
+  Awesome-LLM: a curated list of Large Language Model
 - [microsoft/semantic-kernels](https://github.com/microsoft/semantic-kernels):
   Integrate cutting-edge LLM technology quickly and easily into your apps
   <https://aka.ms/semantic-kernel>
-- ❔ [Xpitfire/symbolicai](https://github.com/Xpitfire/symbolicai):
-  Compositional Differentiable Programming Library
-- 📝 [1rgs/jsonformer](https://github.com/1rgs/jsonformer): A Bulletproof Way to
-  Generate Structured JSON from Language Models
-- [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json):
-  Structured and typehinted GPT responses in Python
 - [microsoft/guidance](https://github.com/microsoft/guidance): A guidance
   language for controlling large language models.
-- 🌟 [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts):
-  Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem
-  Solving with Large Language Models that Elevates Model Reasoning by atleast
-  70% <https://discord.gg/qUtxnK2NMf>
+- [microsoft/JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to
+  connect LLMs with ML community
+- 🌟 [microsoft/TypeChat](https://github.com/microsoft/TypeChat): TypeChat is a
+  library that makes it easy to build natural language interfaces using types.
+  <https://microsoft.github.io/TypeChat/>
+- ❔ [Xpitfire/symbolicai](https://github.com/Xpitfire/symbolicai):
+  Compositional Differentiable Programming Library
 - [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm):
   Seamlessly integrate powerful language models like ChatGPT into scikit-learn
   for enhanced text analysis tasks.
@@ -129,18 +122,39 @@
   and monitor any LLMs with ease.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla): Gorilla: An
   API store for LLMs <https://gorilla.cs.berkeley.edu/>
-- [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain):
-  😎 Awesome list of tools and projects with the awesome LangChain framework
-- [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw): 中文法律大
-  模型 <https://chatlaw.cloud/lawchat/>
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer): Ask Questions in
   natural language and get Answers backed by private sources. Connects to tools
   like Slack, GitHub, Confluence, etc. <https://docs.danswer.dev/>
-- 🌟 [microsoft/TypeChat](https://github.com/microsoft/TypeChat): TypeChat is a
-  library that makes it easy to build natural language interfaces using types.
-  <https://microsoft.github.io/TypeChat/>
-- [lvwerra/trl](https://github.com/lvwerra/trl): Train transformer language
-  models with reinforcement learning. <http://hf.co/docs/trl>
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI): 🤖 Self-hosted,
+  community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI
+  running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative.
+  No GPU required. LocalAI is an API to run ggml compatible models: llama,
+  gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly,
+  starcoder, and many other <https://localai.io>
+
+## LLM Agents / Chains / Composability
+
+- 🌟 [hwchase17/langchain](https://github.com/hwchase17/langchain): ⚡ Building
+  applications with LLMs through composability ⚡
+- 🌟 [logspace-ai/langflow](https://github.com/logspace-ai/langflow): ⛓️
+  LangFlow is a UI for LangChain, designed with react-flow to provide an
+  effortless way to experiment and prototype flows.
+- 🌟 [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer):
+  Specify what you want it to build, the AI asks for clarification, and then
+  builds it.
+- 📝 [1rgs/jsonformer](https://github.com/1rgs/jsonformer): A Bulletproof Way to
+  Generate Structured JSON from Language Models
+- [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json):
+  Structured and typehinted GPT responses in Python
+- 🌟 [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts):
+  Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem
+  Solving with Large Language Models that Elevates Model Reasoning by atleast
+  70% <https://discord.gg/qUtxnK2NMf>
+- [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain):
+  😎 Awesome list of tools and projects with the awesome LangChain framework
+- [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori): A
+  reactive runtime for building durable AI agents
+  <https://docs.thousandbirds.ai>
 
 ## ChatGPT
 

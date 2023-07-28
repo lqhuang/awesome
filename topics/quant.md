@@ -86,6 +86,10 @@
 - 📝
   [Melelery/c-binance-future-quant](https://github.com/Melelery/c-binance-future-quant):
   low-cost, high-efficiency, easy-to-implement
+- [QuantConnect/Lean](https://github.com/QuantConnect/Lean): Lean Algorithmic
+  Trading Engine by QuantConnect (Python, C#) <https://lean.io>
+  - [QuantConnect Datasets](https://www.quantconnect.com/datasets)
+  - [QuantConnect DOcs: Writing Algorithms](https://www.quantconnect.com/docs/v2/writing-algorithms)
 
 ## Backtesting
 

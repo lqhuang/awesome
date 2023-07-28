@@ -761,6 +761,8 @@
   [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py):
   Markdown parser, done right. 100% CommonMark support, extensions, syntax
   plugins & high speed. Now in Python! <https://markdown-it-py.readthedocs.io/>
+- 🌟 [xdslproject/xdsl](https://github.com/xdslproject/xdsl): A Python Compiler
+  Design Toolkit
 
 ## Misc
 
@@ -793,9 +795,9 @@
 - [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum): Plumbum: Shell
   Combinators <https://plumbum.readthedocs.io>
 
-### Visualization
+## Visualization
 
-#### Chart
+### Chart
 
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and
   dashboarding solution for Python
@@ -821,8 +823,10 @@
 - 🌟 [csgoh/roadmapper](https://github.com/csgoh/roadmapper): Roadmapper - A
   Roadmap as Code (Rac) python library. Generate professional roadmap diagram
   using python code.
+- 🌟 [marcomusy/vedo](https://github.com/marcomusy/vedo): A python module for
+  scientific analysis of 3D data based on VTK and Numpy <https://vedo.embl.es>
 
-#### GUI
+### GUI
 
 - [TomSchimansky/CustomTkinter](https://github.com/TomSchimansky/CustomTkinter):
   A modern and customizable python UI-library based on Tkinter
@@ -834,10 +838,10 @@
   etc, and visualize them effortlessly. Built in Rust using egui
   <https://rerun.io>
 
-#### HTML
+### HTML
 
-- 🌟 [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone): Web apps
-  in pure Python. <https://pynecone.io>
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex): 🕸 Web apps in pure
+  Python 🐍 <https://reflex.dev>
 - [pycob/pyvibe](https://github.com/pycob/pyvibe): Generate styled HTML pages
   from Python <https://www.pyvibe.com>
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui): Create web-based
@@ -847,3 +851,5 @@
   <https://solara.dev>
 - 🌟 [reactive-python/reactpy](https://github.com/reactive-python/reactpy): It's
   React, but in Python <https://reactpy.dev>
+- [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx):
+  A curated list of things related to python-based web development using htmx

@@ -12,6 +12,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models):
   💘 帮助你建立良好的 JavaScript 心智模型
   <https://sudongyuer.github.io/javascript-mental-models>
+- [BetaSu/just-react](https://github.com/BetaSu/just-react): 「React 技术揭秘」
+  一本自顶向下的 React 源码分析书 <https://react.iamkasong.com/>
 
 ## Framework
 
@@ -266,6 +268,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   open-source, lightning-fast, and hyper-relevant search engine that fits
   effortlessly into your apps, websites, and workflow.
   <https://www.meilisearch.com>
+- [oramasearch/orama](https://github.com/oramasearch/orama): 🌌 Fast, in-memory,
+  typo-tolerant, full-text search engine written in TypeScript.
+  <https://docs.oramasearch.com>
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase): A tiny, reactive
   JavaScript library for structured state and tabular data.
   <https://tinybase.org>
@@ -450,6 +455,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG, PNG &
   Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000
   glyphs <https://css.gg>
+- 🌟 [Snow Dashboard UI Kit](https://snow.byewind.com): An advanced Dashboard /
+  SaaS UI kit and design system for Figma. It can help you quickly build
+  Dashboard, SaaS and other projects, and has a very good user experience.
+  - paid required
 
 ## Build tools
 

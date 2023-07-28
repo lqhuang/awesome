@@ -78,9 +78,6 @@
 - [mptre/yank](https://github.com/mptre/yank): Yank terminal output to clipboard
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua): ⚡ A new cd command
   that helps you navigate faster by learning your habits.
-- [veeso/termscp](https://github.com/veeso/termscp): 🖥 A feature rich terminal
-  UI file transfer and explorer with support for SCP/SFTP/FTP/S3
-  <https://termscp.veeso.dev/>
 - [peco/peco](https://github.com/peco/peco): Simplistic interactive filtering
   tool
 - [johnkerl/miller](https://github.com/johnkerl/miller): Miller is like awk,
@@ -88,16 +85,28 @@
   JSON <https://miller.readthedocs.io/>
 - [zwpaper/dilu](https://github.com/zwpaper/dilu): A colorful CLI client with
   icons for accessing data via OpenDAL
+- 🌟 [binpash/try](https://github.com/binpash/try): "Do, or do not. There is no
+  try." We're setting out to change that: `try cmd` and commit---or not.
+- 🌟 [pvolok/mprocs](https://github.com/pvolok/mprocs): Run multiple commands in
+  parallel
+- 🌟 [charmbracelet/gum](https://github.com/charmbracelet/gum): A tool for
+  glamorous shell scripts 🎀
+
+### TUI applications
+
+- 🌟 [veeso/termscp](https://github.com/veeso/termscp): 🖥 A feature rich
+  terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3
+  <https://termscp.veeso.dev/>
 - [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file
   manager
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto): ranger-like terminal
   file manager written in Rust
 - [thetacom/hexabyte](https://github.com/thetacom/hexabyte): A modern, modular,
   and robust TUI hex editor. <http://io.thetacom.info/hexabyte/>
-- 🌟 [binpash/try](https://github.com/binpash/try): "Do, or do not. There is no
-  try." We're setting out to change that: `try cmd` and commit---or not.
-- 🌟 [pvolok/mprocs](https://github.com/pvolok/mprocs): Run multiple commands in
-  parallel
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash): A beautiful CLI dashboard
+  for GitHub 🚀 <https://dlvhdr.github.io/gh-dash>
+- 🌟 [charmbracelet/wish](https://github.com/charmbracelet/wish): Make SSH apps,
+  just like that! 💫
 
 ### Monitor
 
@@ -290,6 +299,8 @@
 - [juewuy/ShellClash](https://github.com/juewuy/ShellClash): One-click
   deployment and management of Clash services using Shell scripts in Linux
   environment
+- [misakaio/chnroutes2](https://github.com/misakaio/chnroutes2): Better
+  aggregated chnroutes
 
 ### DNS
 
@@ -325,6 +336,12 @@
   小学到大学数学
 - [public-apis/public-apis](https://github.com/public-apis/public-apis): A
   collective list of free APIs <http://public-apis.org>
+- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks):
+  经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持
+  epub、mobi、pdf 格式, 每周更新
+- 🌟 [djyde/notepal](https://github.com/djyde/notepal): A simple tool to
+  import/export your book note <https://notepal.randysoft.org>
+  - export WeBook to Readwise
 
 ### Code as Graph
 
