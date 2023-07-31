@@ -120,6 +120,9 @@ Streaming Systems
   applications. <https://eventmesh.apache.org>
 - [AutoMQ/elastic-stream](https://github.com/AutoMQ/elastic-stream): The first
   truly cloud-native MQ storage engine for messaging and streaming.
+- 📝 [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq): A modern
+  high-performance open source message queuing system
+  <https://bloomberg.github.io/blazingmq/>
 
 ### Kafka
 

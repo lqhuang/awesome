@@ -208,3 +208,4 @@
 - [Is using HTTP3?](https://http3.is)
 - [HTTP/3 Check](https://http3check.net)
 - [IPLeak.net](https://ipleak.net)
+- [Globalping](https://www.jsdelivr.com/globalping)

@@ -80,6 +80,8 @@
   that implements smart caching for rust/cargo projects
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs): Rust library for build
   scripts to compile C/C++ code into a Rust library
+- [rust-lang/cfg-if](https://github.com/rust-lang/cfg-if): A if/elif-like macro
+  for Rust #[cfg] statements
 
 ### Cargo plugins
 
@@ -531,6 +533,9 @@
   applications
 - [shepmaster/snafu](https://github.com/shepmaster/snafu): Easily assign
   underlying errors into domain-specific errors while adding context
+- [taiki-e/easytime](https://github.com/taiki-e/easytime): Providing wrapper
+  types for safely performing panic-free checked arithmetic on instants and
+  durations. <https://docs.rs/easytime>
 - [time-rs/time](https://github.com/time-rs/time): Simple time handling in Rust
   <https://time-rs.github.io>
 - 🌟 [chronotope/chrono](https://github.com/chronotope/chrono): Date and time
@@ -577,6 +582,8 @@
 - [xfbs/imstr](https://github.com/xfbs/imstr): Immutable strings, in Rust.
 - [rust-pretty-assertions/rust-pretty-assertions](https://github.com/rust-pretty-assertions/rust-pretty-assertions):
   Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
+- [RustCrypto/hashes](https://github.com/RustCrypto/hashes): Collection of
+  cryptographic hash functions written in pure Rust
 
 ## Domain related
 
@@ -654,6 +661,8 @@
   Java-Rust interop <https://duchess-rs.github.io/duchess>
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming): A
   visualization library for Rust
+- [TheDan64/inkwell](https://github.com/TheDan64/inkwell): It's a New Kind of
+  Wrapper for Exposing LLVM (Safely) <https://thedan64.github.io/inkwell/>
 
 ### TUI
 

@@ -36,6 +36,9 @@
   alternative to Monad Transformers
   - [paper: Freer Monads, More Extensible Effects](https://okmij.org/ftp/Haskell/extensible/more.pdf)
   - [paper: Extensible Effects](https://legacy.cs.indiana.edu/~sabry/papers/exteff.pdf)
+- [jpvillaisaza/cain](https://github.com/jpvillaisaza/cain): Category theory
+  applied to functional programming (undergraduate project)
+  <https://jpvillaisaza.co/cain/cain.pdf>
 
 ### Tutorials
 

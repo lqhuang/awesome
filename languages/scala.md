@@ -280,12 +280,16 @@
   class derivation for Cats
 - [typelevel/cats-effect-cps](https://github.com/typelevel/cats-effect-cps): An
   incubator project for async/await syntax support for Cats Effect
+- [typelevel/log4cats](https://github.com/typelevel/log4cats): Logging Tools For
+  Interaction with cats-effect <https://typelevel.org/log4cats/>
+- 🌟 [LEGO/woof](https://github.com/LEGO/woof): A pure Scala 3 logging library
+  with no reflection
 - [tpolecat/natchez](https://github.com/tpolecat/natchez): functional tracing
   for cats
 - [typelevel/otel4s](https://github.com/typelevel/otel4s): An OpenTelemetry
   library for Scala based on Cats-Effect
-- [trace4cats/trace4cats](https://github.com/trace4cats/trace4cats): Distributed
-  app tracing implementation in pure scala using cats-effect
+- 🌟 [trace4cats/trace4cats](https://github.com/trace4cats/trace4cats):
+  Distributed app tracing implementation in pure scala using cats-effect
 - [bkirwi/decline](https://github.com/bkirwi/decline): A composable command-line
   parser for Scala. <https://ben.kirw.in/decline/>
 - [typelevel/toolkit](https://github.com/typelevel/toolkit): Quickstart your
@@ -302,8 +306,6 @@
   Integration library for MUnit & cats-effect
 - [armanbilge/calico](https://github.com/armanbilge/calico): Pure, reactive UI
   library for Scala.js <https://armanbilge.github.io/calico>
-- 🌟 [LEGO/woof](https://github.com/LEGO/woof): A pure Scala 3 logging library
-  with no reflection
 - [evolution-gaming/scache](https://github.com/evolution-gaming/scache): Cache
   in Scala with cats-effect
 - [mockito/mockito-scala](https://github.com/mockito/mockito-scala): Mockito for

@@ -598,6 +598,9 @@
   with less effort. <https://blog.zech.codes/bevy-v2>
 - [mivade/argparse_dataclass](https://github.com/mivade/argparse_dataclass):
   Declarative CLIs with argparse and dataclasses
+- [pradyunsg/diagnostic](https://github.com/pradyunsg/diagnostic): `diagnostic`
+  makes it easier to build command line tools with great error reporting.
+  <https://diagnostic.readthedocs.io/en/latest/>
 - [larryhastings/appeal](https://github.com/larryhastings/appeal): Command-line
   parsing library for Python 3.
 
@@ -825,6 +828,9 @@
   using python code.
 - 🌟 [marcomusy/vedo](https://github.com/marcomusy/vedo): A python module for
   scientific analysis of 3D data based on VTK and Numpy <https://vedo.embl.es>
+- 🌟 [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix): Data
+  visualisation and ray tracing in Python based on OptiX 7.7 framework.
+  <https://rnd.team/plotoptix>
 
 ### GUI
 

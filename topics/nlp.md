@@ -131,6 +131,9 @@
   No GPU required. LocalAI is an API to run ggml compatible models: llama,
   gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly,
   starcoder, and many other <https://localai.io>
+- [langgenius/dify](https://github.com/langgenius/dify): One API for plugins and
+  datasets, one interface for prompt engineering and visual operation, all for
+  creating powerful AI applications. <https://dify.ai>
 
 ## LLM Agents / Chains / Composability
 

@@ -94,12 +94,14 @@
   <https://coroot.com/docs/coroot-community-edition>
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3):
   Volatility 3.0 development <http://volatilityfoundation.org>
+- [facebook/sapling](https://github.com/facebook/sapling): A Scalable,
+  User-Friendly Source Control System.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator):
   OpenAPI Generator allows generation of API client libraries (SDK generation),
   server stubs, documentation and configuration automatically given an OpenAPI
   Spec (v2, v3) <https://openapi-generator.tech>
-- [facebook/sapling](https://github.com/facebook/sapling): A Scalable,
-  User-Friendly Source Control System.
+- [muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock): OpenAPI
+  mock server with random data generation
 - [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible
   JSON/YAML linter for creating automated style guides, with baked in support
   for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
@@ -199,6 +201,10 @@
   and product roadmaps in the simplest way possible. <http://plane.so>
 - [liblaber/sdk-code-gen](https://github.com/liblaber/sdk-code-gen): LibLab.com
   SDK Code Generator <https://liblab.com>
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises):
+  Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git,
+  Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic,
+  Network, Virtualization. DevOps Interview Questions
 
 ### Pipelines / Workflow
 

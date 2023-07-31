@@ -168,6 +168,18 @@
 - [chroma-core/chroma](https://github.com/chroma-core/chroma): the AI-native
   open-source embedding database <https://www.trychroma.com>
 
+🌟 You may don't need a vector database, just use a vector index library:
+
+- [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source vector
+  similarity search for Postgres
+- [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs): Vector
+  database plugin for Postgres, written in Rust
+- [neondatabase/pg_embedding](https://github.com/neondatabase/pg_embedding):
+  Hierarchical Navigable Small World (HNSW) algorithm for vector similarity
+  search in PostgreSQL
+- [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss): A SQLite extension
+  for efficient vector search, based on Faiss!
+
 ### Postgres
 
 - [readysettech/readyset](https://github.com/readysettech/readyset): ReadySet is
@@ -260,13 +272,6 @@
   management extension for PostgreSQL
 - [postgrespro/aqo](https://github.com/postgrespro/aqo): Adaptive query
   optimization for PostgreSQL
-- 🌟 [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source
-  vector similarity search for Postgres
-- 🌟 [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs): Vector
-  database plugin for Postgres, written in Rust
-- 🌟 [neondatabase/pg_embedding](https://github.com/neondatabase/pg_embedding):
-  Hierarchical Navigable Small World (HNSW) algorithm for vector similarity
-  search in PostgreSQL
 - 🌟 [PostgreSQL Configurator](https://pgconfigurator.cybertec-postgresql.com)
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4): pgAdmin is
   the most popular and feature rich Open Source administration and development

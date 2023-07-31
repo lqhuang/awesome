@@ -23,14 +23,10 @@
   Curated list of resources on testing distributed systems
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems):
   A curated list to learn about distributed systems
-- [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems):
-  《Patterns of Distributed Systems》中文版
 - [drmingdrmer/consensus-essence](https://github.com/drmingdrmer/consensus-essence):
   distributed consensus protocol's bugs, flaws, deceptive traps, improvements
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus):
   Awesome list for Paxos and friends
-- [ept/ddia-references](https://github.com/ept/ddia-references): Literature
-  references for “Designing Data-Intensive Applications”
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability):
   The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects):
@@ -38,11 +34,20 @@
   distributed services from real world examples
 - [TigerBeetle Simulator](https://sim.tigerbeetle.com/)
 - [stevana/armstrong-distributed-systems](https://github.com/stevana/armstrong-distributed-systems)
+- [ept/ddia-references](https://github.com/ept/ddia-references): Literature
+  references for “Designing Data-Intensive Applications”
+- [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia): DDIA 逐章精读
+  <https://ddia.qtmuniao.com>
 
 ### Books
 
 - [Distributed Systems](https://www.distributed-systems.net/): M. van Steen and
   A.S. Tanenbaum, Distributed Systems, 4th ed., distributed-systems.net, 2023.
+- [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book):This
+  is a book about the programming constructs we use to build distributed
+  systems. <http://dist-prog-book.com/chapter/2/futures.html>
+- [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems):
+  《Patterns of Distributed Systems》中文版
 
 ## System
 
