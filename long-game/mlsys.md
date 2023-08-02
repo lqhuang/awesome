@@ -142,8 +142,6 @@
 - 🌟 [pytorch/TensorRT](https://github.com/pytorch/TensorRT):
   PyTorch/TorchScript/FX compiler for NVIDIA GPUs using TensorRT
   <https://pytorch.org/TensorRT>
-- 🌟 [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion):
-  Stable Diffusion with Core ML on Apple Silicon
 - [webonnx/wonnx](https://github.com/webonnx/wonnx): A GPU-accelerated ONNX
   inference run-time written 100% in Rust, ready for the web
 - 🌟 [ggerganov/ggml](https://github.com/ggerganov/ggml): Tensor library for

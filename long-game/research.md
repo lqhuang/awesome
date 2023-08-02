@@ -69,6 +69,12 @@
   《数学要素》，清华社五审五校中；Github 稿件基本稳定，欢迎提意见，会及时修改
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra):
   Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
+- [Linear Algebra Done Right](https://linear.axler.net/): This best-selling
+  textbook for a second course in linear algebra is aimed at undergraduate math
+  majors and graduate students. The novel approach taken here banishes
+  determinants to the end of the book. The text focuses on the central goal of
+  linear algebra: understanding the structure of linear operators on
+  finite-dimensional vector spaces.
 
 ## Novel approaches
 

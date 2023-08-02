@@ -14,6 +14,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://sudongyuer.github.io/javascript-mental-models>
 - [BetaSu/just-react](https://github.com/BetaSu/just-react): 「React 技术揭秘」
   一本自顶向下的 React 源码分析书 <https://react.iamkasong.com/>
+- [gibbok/typescript-book](https://github.com/gibbok/typescript-book): The
+  Concise TypeScript Book: A Concise Guide to Effective Development in
+  TypeScript. Free and Open Source.
 
 ## Framework
 
@@ -101,6 +104,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   user experiences. <https://react-spectrum.adobe.com>
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor): The react library
   to build dashboards fast. <https://tremor.so>
+- [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js): Build
+  interactive dashboards in minutes. <https://gridstackjs.com/>
 - [refinedev/refine](https://github.com/refinedev/refine): Build your
   React-based CRUD applications, without constraints. <https://refine.dev/>
 - 🌟 [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components

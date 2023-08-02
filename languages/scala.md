@@ -70,6 +70,8 @@
   Configure common build settings for a Scala project
 - [sbt/sbt-unidoc](https://github.com/sbt/sbt-unidoc): sbt plugin to create a
   unified Scaladoc or Javadoc API document across multiple subprojects.
+- [portable-scala/sbt-crossproject](https://github.com/portable-scala/sbt-crossproject):
+  Cross-platform compilation support for sbt.
 
 ### Testing
 
@@ -105,6 +107,9 @@
   safe and intuitive Scala I/O <https://pathikrit.github.io/better-files/>
 - [agourlay/cornichon](https://github.com/agourlay/cornichon): Scala DSL for
   testing HTTP JSON API <http://agourlay.github.io/cornichon>
+- [mjakubowski84/parquet4s](https://github.com/mjakubowski84/parquet4s): Read
+  and write Parquet in Scala. Use Scala classes as schema. No need to start a
+  cluster. <https://mjakubowski84.github.io/parquet4s/>
 
 ### Experiments
 
