@@ -32,30 +32,39 @@
 - [apple/swift-evolution](https://github.com/apple/swift-evolution): This
   maintains proposals for changes and user-visible enhancements to the Swift
   Programming Language. <https://www.swift.org/swift-evolution/>
+- [apple/swift-package-manager](https://github.com/apple/swift-package-manager):
+  The Package Manager for the Swift Programming Language
+- [apple/swift-foundation](https://github.com/apple/swift-foundation): The
+  Foundation project
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation):
   The Foundation Project, providing core utilities, internationalization, and OS
   independence <http://swift.org>
-- [apple/swift-package-manager](https://github.com/apple/swift-package-manager):
-  The Package Manager for the Swift Programming Language
+- [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest):
+  The XCTest Project, A Swift core library for providing unit test support
+  <http://swift.org>
+- [apple/swift-log](https://github.com/apple/swift-log): A Logging API for Swift
+  <https://apple.github.io/swift-log/>
+- [apple/swift-metrics](https://github.com/apple/swift-metrics): Metrics API for
+  Swift <https://apple.github.io/swift-metrics/>
 - [apple/swift-markdown](https://github.com/apple/swift-markdown): A Swift
   package for parsing, building, editing, and analyzing Markdown documents.
   <https://apple.github.io/swift-markdown/documentation/markdown>
-- [apple/swift-atomics](https://github.com/apple/swift-atomics): Low-level
-  atomic operations for Swift
 - [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp): Language Server
   Protocol implementation for Swift and C-based languages
 - [apple/swift-nio](https://github.com/apple/swift-nio): Event-driven network
   application framework for high performance protocol servers & clients,
   non-blocking. <https://swiftpackageindex.com/apple/swift-nio/documentation>
-- [apple/swift-crypto](https://github.com/apple/swift-crypto): Open-source
-  implementation of a substantial portion of the API of Apple CryptoKit suitable
-  for use on Linux platforms. <https://apple.github.io/swift-crypto>
 - [apple/swift-driver](https://github.com/apple/swift-driver): Swift compiler
   driver reimplementation in Swift
-- [apple/swift-numerics](https://github.com/apple/swift-numerics): Advanced
-  mathematical types and functions for Swift
 - [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms):
   Async Algorithms for Swift
+- [apple/swift-format](https://github.com/apple/swift-format): Formatting
+  technology for Swift source code
+- [apple/swift-system](https://github.com/apple/swift-system): Low-level system
+  calls and types for Swift
+- [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors):
+  Peer-to-peer cluster implementation for Swift Distributed Actors
+  <https://apple.github.io/swift-distributed-actors/>
 
 ## Toolchains
 
