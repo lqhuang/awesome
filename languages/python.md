@@ -455,6 +455,8 @@
 - 🌟 [litestar-org/litestar](https://github.com/litestar-org/litestar): Light,
   Flexible and Extensible ASGI API framework | Effortlessly Build Performant
   APIs <https://litestar.dev/>
+- [emmett-framework/emmett](https://github.com/emmett-framework/emmett): The web
+  framework for inventors
 
 #### Web utils
 

@@ -4,6 +4,8 @@
   Stable Diffusion with Core ML on Apple Silicon
   - [huggingface/swift-coreml-diffusers](https://github.com/huggingface/swift-coreml-diffusers):
     Swift app demonstrating Core ML Stable Diffusion
+  - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion):
+    Run Stable Diffusion on Mac natively
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui):
   Stable Diffusion web UI
 - [canisminor1990/sd-webui-lobe-theme](https://github.com/canisminor1990/sd-webui-lobe-theme):
