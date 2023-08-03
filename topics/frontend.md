@@ -224,6 +224,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   player with a parser that saves traffic <https://h5player.bytedance.com/>
 - [JedWatson/react-select](https://github.com/JedWatson/react-select): The
   Select Component for React.js <https://react-select.com/>
+- 🌟 [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote):
+  Load mdx content from anywhere through getStaticProps in next.js
 
 ### Form
 
