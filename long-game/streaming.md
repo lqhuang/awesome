@@ -166,6 +166,8 @@ Streaming Systems
   <http://adapton.org>
 - [tradewelltech/beavers](https://github.com/tradewelltech/beavers): Python
   stream processing
+- 📝 [jamii/dida](https://github.com/jamii/dida): Differential dataflow for mere
+  mortals
 
 ## Testing
 

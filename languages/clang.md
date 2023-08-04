@@ -25,6 +25,9 @@
 - [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp): Modern
   concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule
   them all
+- [Learn Makefiles](https://makefiletutorial.com/): With the tastiest examples
+- [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile):
+  跟我一起写 Makefile 重制版 <https://seisman.github.io/how-to-write-makefile/>
 
 ### Books
 

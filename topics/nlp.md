@@ -267,6 +267,14 @@
   archive and LoRA+Alpaca
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone): ChatGPT
   interface with better UI <https://g4f.ai>
+- [serge-chat/serge](https://github.com/serge-chat/serge): A web interface for
+  chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use
+  API. <https://serge.chat>
+- [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar): 🎙️🤖Create,
+  Customize and Talk to your AI Character/Companion in Realtime (All in One
+  Codebase!). Have a natural seamless conversation with AI everywhere (mobile,
+  web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector
+  DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 <https://RealChar.ai/>
 
 ## Software / tools
 

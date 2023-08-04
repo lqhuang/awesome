@@ -209,3 +209,4 @@
 - [HTTP/3 Check](https://http3check.net)
 - [IPLeak.net](https://ipleak.net)
 - [Globalping](https://www.jsdelivr.com/globalping)
+- [Web Check](https://web-check.xyz/)
