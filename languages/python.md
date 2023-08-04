@@ -348,6 +348,9 @@
   Emma's Markov Model Algorithms 🚂 <http://pyemma.org/>
 - [pybrain/pybrain](https://github.com/pybrain/pybrain): PyBrain -- the Python
   Machine Learning Library <http://pybrain.org>
+- 🌟 [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive): 📈
+  Adaptive: parallel active learning of mathematical functions
+  <http://adaptive.readthedocs.io/>
 
 ### Pandas Ecosystem
 
@@ -590,6 +593,8 @@
   Python module to customize the process title
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task
   scheduling library for Python
+- [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling
+  for humans. <https://schedule.readthedocs.io/>
 - [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data
   operator (and CLI), for all your declarative restructuring needs. Got data?
   Glom it! ☄️ <https://glom.readthedocs.io>

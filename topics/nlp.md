@@ -202,6 +202,8 @@
   release the trained model.
 - 🌟 [Illumine-Labs/RustChat](https://github.com/Illumine-Labs/RustChat): Rust
   Daily Learning and Work Assistant
+- 🌟 [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt): 🤖
+  Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼
 
 ### Proxy or Transform
 

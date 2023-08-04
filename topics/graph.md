@@ -46,6 +46,7 @@
   Python graph library implemented in Rust.
 - [s1ck/graph](https://github.com/s1ck/graph): A library for high-performant
   graph algorithms.
+- 🌟 [higra/Higra](https://github.com/higra/Higra): Hierarchical Graph Analysis
 
 ## Vis
 

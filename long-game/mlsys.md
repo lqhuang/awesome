@@ -10,6 +10,9 @@
 - [microsoft/AI-System](https://github.com/microsoft/AI-System): System for AI
   Education Resource. <https://microsoft.github.io/AI-System>
 - [ML system design: 200 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
+- [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml): 📚 Papers &
+  tech blogs by companies sharing their work on data science & machine learning
+  in production.
 
 ### Books
 
@@ -43,6 +46,8 @@
 - [keras-team/keras-core](https://github.com/keras-team/keras-core): A
   multi-backend implementation of the Keras API, with support for TensorFlow,
   JAX, and PyTorch.
+- [online-ml/river](https://github.com/online-ml/river): 🌊 Online machine
+  learning in Python <https://riverml.xyz>
 
 ### Optimization
 

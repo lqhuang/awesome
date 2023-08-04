@@ -63,6 +63,8 @@
   user management <https://clerk.dev/>
 - 🌟 [Auth0](https://github.com/auth0): Next.js SDK for signing in with Auth0
   <https://auth0.com>
+- 🌟 [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth):
+  Authentication for the Web. <https://authjs.dev>
 - 🌟 [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source
   Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered
   by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and
@@ -426,6 +428,9 @@
   <http://crazyangelo.github.io/Cathedral-and-Bazaar>
 - [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology):
   一人公司方法论
+- [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto): A curated and
+  opinionated list of resources for Chief Technology Officers, with the emphasis
+  on startups
 
 ### Open Source & Community
 

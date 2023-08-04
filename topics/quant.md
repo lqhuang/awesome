@@ -35,21 +35,26 @@
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading):
   Code for Machine Learning for Algorithmic Trading, 2nd edition.
   <https://ml4trading.io>
+- 🌟
+  [BlackArbsCEO/Adv_Fin_ML_Exercises](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises):
+  Experimental solutions to selected exercises from the book [Advances in
+  Financial Machine Learning by Marcos Lopez De Prado]
 
 ## Frameworks
 
-- [Blankly-Finance/Blankly](https://github.com/Blankly-Finance/Blankly): 🚀 💸
-  Easily build, backtest and deploy your algo in just a few lines of code. Trade
-  stocks, cryptos, and forex across exchanges w/ one package.
+- 🌟 [Blankly-Finance/Blankly](https://github.com/Blankly-Finance/Blankly): 🚀
+  💸 Easily build, backtest and deploy your algo in just a few lines of code.
+  Trade stocks, cryptos, and forex across exchanges w/ one package.
   <https://package.blankly.finance>
-- [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant): Python
+- 🌟 [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant): Python
   toolkit for quantitative finance
   <https://developer.gs.com/discover/products/gs-quant>
-- [kieran-mackle/AutoTrader](https://github.com/kieran-mackle/AutoTrader): A
+- 🌟 [kieran-mackle/AutoTrader](https://github.com/kieran-mackle/AutoTrader): A
   Python-based development platform for automated trading systems - from
   backtesting to optimisation to livetrading.
   <https://kieran-mackle.github.io/AutoTrader>
-- [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade):
+- 🌟
+  [tensortrade-org/tensortrade](https://github.com/tensortrade-org/tensortrade):
   An open source reinforcement learning framework for training, evaluating, and
   deploying robust trading agents. <https://discord.gg/ZZ7BGWh>
 - [lballabio/QuantLib](https://github.com/lballabio/QuantLib): The QuantLib C++
@@ -58,7 +63,7 @@
 - [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot):
   Cryptocurrency trading bot using technical analysis based strategy with an
   advanced web interface <https://www.octobot.online>
-- [microsoft/qlib](https://github.com/microsoft/qlib): Qlib is an AI-oriented
+- 🌟 [microsoft/qlib](https://github.com/microsoft/qlib): Qlib is an AI-oriented
   quantitative investment platform that aims to realize the potential, empower
   research, and create value using AI technologies in quantitative investment,
   from exploring ideas to implementing productions. Qlib supports diverse
@@ -90,6 +95,12 @@
   Trading Engine by QuantConnect (Python, C#) <https://lean.io>
   - [QuantConnect Datasets](https://www.quantconnect.com/datasets)
   - [QuantConnect DOcs: Writing Algorithms](https://www.quantconnect.com/docs/v2/writing-algorithms)
+- 📝
+  [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot):
+  This is a fully functioning Binance trading bot that measures the volatility
+  of every coin on Binance and places trades with the highest gaining coins If
+  you like this project consider donating though the Brave browser to allow me
+  to continuously improve the script.
 
 ## Backtesting
 
@@ -139,7 +150,7 @@
 - [jasonstrimpel/volatility-trading](https://github.com/jasonstrimpel/volatility-trading):
   A complete set of volatility estimators based on Euan Sinclair's Volatility
   Trading
-- [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading):
+- 📝 [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading):
   Python quantitative trading strategies including VIX Calculator, Pattern
   Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle,
   Shooting Star, London Breakout, Heikin-Ashi, Pair Trading, RSI, Bollinger
@@ -178,6 +189,8 @@
   historical data direct from colocation facilities. Customize and get instant
   pricing.
 - [API Vault](https://apivault.dev/): Your Gateway To A World Of Public APIs.
+- [cuemacro/findatapy](https://github.com/cuemacro/findatapy): Python library to
+  download market data via Bloomberg, Eikon, Quandl, Yahoo etc.
 
 ## Low level library
 
@@ -214,6 +227,15 @@
 - [descendant-ai/functime](https://github.com/descendant-ai/functime):
   Time-series machine learning and embeddings at scale.
   <https://docs.functime.ai>
+- 🌟
+  [AIStream-Peelout/flow-forecast](https://github.com/AIStream-Peelout/flow-forecast):
+  Deep learning PyTorch library for time series forecasting, classification, and
+  anomaly detection (originally for flood forecasting).
+  <https://flow-forecast.atlassian.net/wiki/spaces/FF/overview>
+- 🌟 [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai): Time series
+  Timeseries Deep Learning Machine Learning Pytorch fastai | State-of-the-art
+  Deep Learning library for Time Series and Sequences in Pytorch / fastai
+  <https://timeseriesai.github.io/tsai/>
 
 ### Research
 
