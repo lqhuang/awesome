@@ -22,3 +22,8 @@
 - [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models):
   A collection of resources and papers on Diffusion Models
   <https://diff-usion.github.io/Awesome-Diffusion-Models/>
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft):
+  Audiocraft is a library for audio processing and generation with deep
+  learning. It features the state-of-the-art EnCodec audio compressor /
+  tokenizer, along with MusicGen, a simple and controllable music generation LM
+  with textual and melodic conditioning. <https://desktop.github.com>

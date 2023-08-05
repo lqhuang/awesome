@@ -68,6 +68,9 @@
   Delete untagged image refs in Google Container Registry or Artifact Registry
 - [uber/kraken](https://github.com/uber/kraken): P2P Docker registry capable of
   distributing TBs of data in seconds
+- 🌟 [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust): Horust is
+  a supervisor / init system written in rust and designed to run inside
+  containers. <https://federicoponzi.github.io/Horust/>
 
 ### CLI
 

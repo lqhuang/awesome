@@ -111,6 +111,8 @@
   <https://readthedocs.org/projects/copier>
 - [njsmith/posy](https://github.com/njsmith/posy): The goal is for posy to act
   as a kind of high-level frontend to python
+- 🌟 [furkanonder/beetrace](https://github.com/furkanonder/beetrace): Trace your
+  python process line by line with low overhead! <https://desktop.github.com>
 
 ### Packaging
 

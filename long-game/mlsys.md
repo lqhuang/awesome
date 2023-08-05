@@ -168,6 +168,22 @@
   [triton-inference-server/pytriton](https://github.com/triton-inference-server/pytriton):
   PyTriton is a Flask/FastAPI-like interface that simplifies Triton's deployment
   in Python environments. <https://triton-inference-server.github.io/pytriton/>
+- [triton-inference-server/server](https://github.com/triton-inference-server/server):
+  The Triton Inference Server provides an optimized cloud and edge inferencing
+  solution.
+  <https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html>
+- [kserve/kserve](https://github.com/kserve/kserve): Standardized Serverless ML
+  Inference Platform on Kubernetes <https://kserve.github.io/website/>
+- 📝 [ModelTC/lightllm](https://github.com/ModelTC/lightllm): LightLLM is a
+  Python-based LLM (Large Language Model) inference and serving framework,
+  notable for its lightweight design, easy scalability, and high-speed
+  performance. <https://desktop.github.com>
+- [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer):
+  Transformer related optimization, including BERT, GPT
+  <https://desktop.github.com>
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference):
+  Large Language Model Text Generation Inference
+  <https://huggingface.github.io/text-generation-inference/>
 
 ## Tensor inference / Compiler / Low level
 

@@ -162,6 +162,8 @@
   tool for Rust projects
 - [rust-analyzer/expect-test](https://github.com/rust-analyzer/expect-test):
   Minimalistic snapshot testing for Rust.
+- [proptest-rs/proptest](https://github.com/proptest-rs/proptest):
+  Hypothesis-like property testing for Rust
 
 ### Performance profile
 
