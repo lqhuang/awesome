@@ -201,6 +201,8 @@
   <http://prusti.org>
 - [model-checking/kani](https://github.com/model-checking/kani): Kani Rust
   Verifier <https://model-checking.github.io/kani>
+- [rustfoundation/painter](https://github.com/rustfoundation/painter): Library
+  and tools for managing ecosystem wide call graphs and llvm-ir analysis
 
 ## Experimental features
 
@@ -378,6 +380,8 @@
   collections for Rust
 - [petgraph/petgraph](https://github.com/petgraph/petgraph): Graph data
   structure library for Rust.
+- [drifting-in-space/aper](https://github.com/drifting-in-space/aper): A Rust
+  data structure library built on state machines. <https://aper.dev/>
 
 ### CRDT
 
@@ -481,6 +485,8 @@
 
 ### SerDe
 
+- [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark):
+  Benchmarks for rust serialization frameworks
 - [rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization framework
   for Rust
 - [tokio-rs/prost](https://github.com/tokio-rs/prost): PROST! a Protocol Buffers
