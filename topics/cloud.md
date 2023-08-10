@@ -122,6 +122,9 @@
   using Cloud Native Buildpacks <https://buildpacks.io>
 - [pivotal/kpack](https://github.com/pivotal/kpack): Kubernetes Native Container
   Build Service
+- [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3): A simple,
+  high-throughput file client for mounting an Amazon S3 bucket as a local file
+  system.
 
 ## K8S
 
@@ -155,6 +158,10 @@
   how to use kubectl <https://kr8s.org>
 - 🌟 [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm): Aggregator for
   issues filed against kubeadm
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets):
+  External Secrets Operator reads information from a third-party service like
+  AWS Secrets Manager and automatically injects the values as Kubernetes
+  Secrets. <https://external-secrets.io/main>
 
 ## Hashicorp
 
@@ -175,6 +182,9 @@
 - [Replicate](https://replicate.com/): Machine learning doesn’t need to be so
   hard. Run models in the cloud at scale.
   - good looking landing page 😆
+- [Mosaic ML](https://www.mosaicml.com/): Generative AI For All. Easily train
+  and deploy generative AI models on your data, in your secure environment.
+  - I love this landing page, too 😅
 
 ## Could Foundry
 
@@ -238,6 +248,8 @@
   Compliant Financial Infrastructure accelerates the development, deployment and
   adoption of services provided for AWS, Azure and Google in a way that meets
   existing regulatory and internal security controls.
+- [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui): Terraform
+  textual UI
 
 ### Pricing
 

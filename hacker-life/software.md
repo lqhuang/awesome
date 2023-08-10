@@ -57,6 +57,8 @@
   server status & toolbox app using Flutter
 - 🌟 [Waydroid](https://waydro.id/): A container-based approach to boot a full
   Android system on a regular GNU/Linux system like Ubuntu.
+- 🌟 [Blend OS](https://blendos.co/): The only operating system you'll ever
+  need. A seamless blend of all Linux distributions, Android apps and web apps.
 - [subhra74/xdm](https://github.com/subhra74/xdm): Powerfull download
   accelerator and video downloader <https://xtremedownloadmanager.com/>
 - [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - Free and
@@ -64,6 +66,9 @@
   Linux-First philosophy. <https://upscayl.org>
 - 🌟 [files-community/Files](https://github.com/files-community/Files): Building
   the best file manager experience for Windows <https://files.community>
+- [darktable-org/darktable](https://github.com/darktable-org/darktable):
+  darktable is an open source photography workflow application and raw developer
+  <https://www.darktable.org>
 
 ## macOS / iPadOS
 

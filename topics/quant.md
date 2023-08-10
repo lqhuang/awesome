@@ -25,6 +25,9 @@
 - [firmai/financial-machine-learning](https://github.com/firmai/financial-machine-learning):
   A curated list of practical financial machine learning tools and applications.
   <https://www.ml-quant.com/>
+- [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods):
+  Collection of notebooks about quantitative finance, with interactive python
+  code.
 
 ### Books
 

@@ -72,6 +72,8 @@
   unified Scaladoc or Javadoc API document across multiple subprojects.
 - [portable-scala/sbt-crossproject](https://github.com/portable-scala/sbt-crossproject):
   Cross-platform compilation support for sbt.
+- [sbt/sbt-multi-jvm](https://github.com/sbt/sbt-multi-jvm): Multi-JVM testing
+  in sbt
 
 ### Testing
 
@@ -124,6 +126,8 @@
 - [softwaremill/ox](https://github.com/softwaremill/ox): Developer-friendly
   structured concurrency library for the JVM
   <https://softwaremill.community/c/ox/12>
+- [jrudolph/llama2.scala](https://github.com/jrudolph/llama2.scala): Inference
+  Llama 2 in one file of hideous Scala (A port of llama2.c from Andrej Karpathy)
 
 ### Types
 

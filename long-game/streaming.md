@@ -83,6 +83,8 @@ Streaming Systems
   distributed stream processing engine written in Rust <https://arroyo.dev/>
 - 📝 [cda-group/arcon](https://github.com/cda-group/arcon): State-first
   Streaming Applications in Rust <https://cda-group.github.io/arcon>
+- [Timeplus](https://www.timeplus.com): Unlock streaming data value now.
+  - not an open source software
 
 ## Messaging
 

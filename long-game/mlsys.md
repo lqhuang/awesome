@@ -134,12 +134,8 @@
   <https://lightning.ai>
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa): Training and
   serving large-scale neural networks <https://alpa.ai/>
-- [mli/transformers-benchmarks](https://github.com/mli/transformers-benchmarks):
-  real Transformer TeraFLOPS on various GPUs
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen): Running large
   language models on a single GPU for throughput-oriented scenarios.
-- [openai/evals](https://github.com/openai/evals): Evals is a framework for
-  evaluating OpenAI models and an open-source registry of benchmarks.
 - [NolanoOrg/cformers](https://github.com/NolanoOrg/cformers): SoTA Transformers
   with C-backend for fast inference on your CPU.
 - [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn): Lightning fast
@@ -161,9 +157,6 @@
   AITemplate is a Python framework which renders neural network into high
   performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU)
   and MatrixCore (AMD GPU) inference.
-- [tensorchord/inference-benchmark](https://github.com/tensorchord/inference-benchmark):
-  WIP Benchmark for machine learning model online serving (LLM, embedding,
-  Stable-Diffusion, Whisper)
 - 📝
   [triton-inference-server/pytriton](https://github.com/triton-inference-server/pytriton):
   PyTriton is a Flask/FastAPI-like interface that simplifies Triton's deployment
@@ -184,6 +177,24 @@
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference):
   Large Language Model Text Generation Inference
   <https://huggingface.github.io/text-generation-inference/>
+
+### Benchmark
+
+- [mli/transformers-benchmarks](https://github.com/mli/transformers-benchmarks):
+  real Transformer TeraFLOPS on various GPUs
+- [openai/evals](https://github.com/openai/evals): Evals is a framework for
+  evaluating OpenAI models and an open-source registry of benchmarks.
+- [tensorchord/inference-benchmark](https://github.com/tensorchord/inference-benchmark):
+  WIP Benchmark for machine learning model online serving (LLM, embedding,
+  Stable-Diffusion, Whisper)
+- [mlcommons/algorithmic-efficiency](https://github.com/mlcommons/algorithmic-efficiency):
+  MLCommons Algorithmic Efficiency is a benchmark and competition measuring
+  neural network training speedups due to algorithmic improvements in both
+  training algorithms and models.
+  <https://mlcommons.org/en/groups/research-algorithms/>
+- [mlcommons/inference](https://github.com/mlcommons/inference): Reference
+  implementations of MLPerf™ inference benchmarks
+  <https://mlcommons.org/en/groups/inference>
 
 ## Tensor inference / Compiler / Low level
 
@@ -330,6 +341,8 @@
   on extensibility.
 - [deepmind/PGMax](https://github.com/deepmind/PGMax): Loopy belief propagation
   for factor graphs on discrete variables in JAX
+- [deepmind/synjax](https://github.com/deepmind/synjax): SynJax is a neural
+  network library for JAX structured probability distributions.
 
 ## Libraries
 

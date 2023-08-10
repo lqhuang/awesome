@@ -221,6 +221,8 @@
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory):
   Simple and powerful factories for mock data generation
   <https://polyfactory.litestar.dev/>
+- [simplistix/sybil](https://github.com/simplistix/sybil): Automated testing for
+  the examples in your documentation. <https://sybil.readthedocs.io/en/latest/>
 
 ### Performance profile
 
@@ -775,6 +777,8 @@
   plugins & high speed. Now in Python! <https://markdown-it-py.readthedocs.io/>
 - 🌟 [xdslproject/xdsl](https://github.com/xdslproject/xdsl): A Python Compiler
   Design Toolkit
+- [mishamsk/pyoak](https://github.com/mishamsk/pyoak): Library for building and
+  working with arbitrary ASTs on top dataclasses
 
 ## Misc
 

@@ -86,13 +86,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [nextui-org/nextui](https://github.com/nextui-org/nextui): 🚀 Beautiful, fast
   and modern React UI library. <https://nextui.org>
-- 🌟 [mantinedev/mantine](https://github.com/mantinedev/mantine/): React
-  components library with native dark theme support <https://mantine.dev>
+- [mantinedev/mantine](https://github.com/mantinedev/mantine/): React components
+  library with native dark theme support <https://mantine.dev>
 - [reach/reach-ui](https://github.com/reach/reach-ui): The Accessible Foundation
   for React Apps and Design Systems <https://reach.tech> #design-system
-- 🌟 [radix-ui/primitives](https://github.com/radix-ui/primitives): An
-  open-source UI component library for building high-quality, accessible design
-  systems and web apps. Maintained by @modulz. <https://radix-ui.com>
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui): ⚡️ Simple,
   Modular & Accessible UI Components for your React Applications
   <https://chakra-ui.com>
@@ -108,6 +105,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
   interactive dashboards in minutes. <https://gridstackjs.com/>
 - [refinedev/refine](https://github.com/refinedev/refine): Build your
   React-based CRUD applications, without constraints. <https://refine.dev/>
+- 🌟 [radix-ui/primitives](https://github.com/radix-ui/primitives): An
+  open-source UI component library for building high-quality, accessible design
+  systems and web apps. Maintained by @modulz. <https://radix-ui.com>
+- 🌟 [radix-ui/themes](https://github.com/radix-ui/themes): Radix Themes is an
+  open-source component library optimized for fast development, easy
+  maintenance, and accessibility. Maintained by @workos.
+  <https://radix-ui.com/themes>
 - 🌟 [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components
   built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
 
@@ -226,6 +230,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   Select Component for React.js <https://react-select.com/>
 - 🌟 [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote):
   Load mdx content from anywhere through getStaticProps in next.js
+- 🌟 [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js): A
+  light-weight, no-dependency, vanilla JavaScript engine to drive the user's
+  focus across the page <https://driverjs.com>
 
 ### Form
 

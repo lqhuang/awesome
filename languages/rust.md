@@ -191,6 +191,9 @@
   operability. <https://aya-rs.dev/book>
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs): Heap profiling
   and ad hoc profiling for Rust programs.
+- [davidbarsky/tracing-tree](https://github.com/davidbarsky/tracing-tree):
+  Instrument your application with tracing and get tree-structured summaries of
+  your application activity with timing information on the console
 
 ### Program analysis
 
@@ -248,6 +251,7 @@
   channel that Rust deserves
 - [mitsuhiko/fragile](https://github.com/mitsuhiko/fragile): Utility wrapper to
   send non send types to other threads safely
+  https://github.com/Marthog/rust-stm
 
 ### Lock & synchronization
 
@@ -634,7 +638,7 @@
   for the C++ api of PyTorch.
 - [burn-rs/burn](https://github.com/burn-rs/burn): BURN: Burn Unstoppable Rusty
   Neurons <https://burn-rs.github.io/>
-- [LaurentMazare/candle](https://github.com/LaurentMazare/candle): Minimalist ML
+- [huggingface/candle](https://github.com/huggingface/candle): Minimalist ML
   framework for Rust
 
 ### Clients
@@ -685,8 +689,6 @@
   yet minimally intrusive TUIs. It is cross platform, supporting Windows 7+,
   Linux, and MacOS. Rustaceans who want to create non-interactive TUIs can use
   the component composition building block system to quickly deploy their code.
-- [fdehau/tui-rs](https://github.com/fdehau/tui-rs): Build terminal user
-  interfaces and dashboards using Rust
 - [console-rs/indicatif](https://github.com/console-rs/indicatif): A command
   line progress reporting library for Rust
 - [ad4mx/spinoff](https://github.com/ad4mx/spinoff): 💻 Simple Rust library for

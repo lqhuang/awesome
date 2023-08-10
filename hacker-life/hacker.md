@@ -91,6 +91,7 @@
   parallel
 - 🌟 [charmbracelet/gum](https://github.com/charmbracelet/gum): A tool for
   glamorous shell scripts 🎀
+- 🌟 [rs/dnstrace](https://github.com/rs/dnstrace): DNS resolution tracing tool
 
 ### TUI applications
 
