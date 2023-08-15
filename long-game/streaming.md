@@ -125,6 +125,8 @@ Streaming Systems
 - 📝 [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq): A modern
   high-performance open source message queuing system
   <https://bloomberg.github.io/blazingmq/>
+- [tembo-io/pgmq](https://github.com/tembo-io/pgmq): A lightweight message
+  queue. Like AWS SQS and RSMQ but on Postgres.
 
 ### Kafka
 

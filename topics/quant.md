@@ -194,6 +194,8 @@
 - [API Vault](https://apivault.dev/): Your Gateway To A World Of Public APIs.
 - [cuemacro/findatapy](https://github.com/cuemacro/findatapy): Python library to
   download market data via Bloomberg, Eikon, Quandl, Yahoo etc.
+- [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit):
+  Transparent and Efficient Financial Analysis <https://www.jeroenbouma.com/>
 
 ## Low level library
 

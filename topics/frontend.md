@@ -17,6 +17,18 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book): The
   Concise TypeScript Book: A Concise Guide to Effective Development in
   TypeScript. Free and Open Source.
+- 🌟
+  [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/):
+  A guide that teaches professional developers how to transform component
+  libraries into design systems and set up the production infrastructure used by
+  leading frontend teams.
+- [UI Testing Handbook](https://storybook.js.org/tutorials/ui-testing-handbook/):
+  A guide that highlights UI testing strategies used by scaled front-end teams.
+  You'll learn to verify everything from visual appearance to logic and even
+  detect integration issues. Along the way, we'll demonstrate how you can reduce
+  bugs by automatically running your tests.
+- 🌟 [Patterns.dev](https://www.patterns.dev/): Improve how you architect
+  webapps
 
 ## Framework
 
@@ -483,6 +495,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   scripts to make them smarter and more efficient.
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js):
   quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
+- [npmgraph](https://npmgraph.js.org/)
 
 ## WASM in Web
 

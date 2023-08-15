@@ -88,7 +88,7 @@
 - [Differentiable Almost Everything: Differentiable Relaxations, Algorithms, Operators, and Simulators](https://differentiable.xyz)
 - [Structured Probabilistic Inference and Generative Modeling](https://icml.cc/virtual/2023/workshop/21469)
 
-### PDE / ODE
+### PDE / ODE / SDE
 
 - [microsoft/pdearena](https://github.com/microsoft/pdearena): A modern,
   scalable, and easy to use PDE Surrogate Benchmarking Framework.

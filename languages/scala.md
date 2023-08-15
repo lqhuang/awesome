@@ -231,6 +231,8 @@
   programming with sbt
 - [lightbend/mima](https://github.com/lightbend/mima): A tool for catching
   binary incompatibility in Scala
+- [andyglow/scala-jsonschema](https://github.com/andyglow/scala-jsonschema):
+  Scala JSON Schema
 
 ## Stream / Effect systems / Experiments
 
@@ -275,6 +277,8 @@
   <https://scredis.github.io/scredis/>
 - [hseeberger/akka-http-json](https://github.com/hseeberger/akka-http-json):
   Integrate some of the best JSON libs in Scala with Akka HTTP
+- [lightbend-labs/scala-logging](https://github.com/lightbend-labs/scala-logging):
+  Convenient and performant logging library for Scala wrapping SLF4J.
 
 ### Typelevel
 
@@ -321,6 +325,8 @@
   Scala language <http://mockito.org>
 - [http4s/http4s-armeria](https://github.com/http4s/http4s-armeria): Armeria
   backend for http4s
+- [typelevel/cats-parse](https://github.com/typelevel/cats-parse): A parsing
+  library for the cats ecosystem
 
 ### ZIO
 

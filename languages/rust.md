@@ -572,6 +572,8 @@
   replacement written in Rust
 - [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs): DEFLATE, gzip,
   and zlib bindings for Rust
+- 🌟 [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix): Safe
+  Rust bindings to POSIX-ish APIs
 - [rust-lang/stacker](https://github.com/rust-lang/stacker): Manual segmented
   stacks for Rust
 - [assert-rs/trycmd](https://github.com/assert-rs/trycmd): Snapshot testing for

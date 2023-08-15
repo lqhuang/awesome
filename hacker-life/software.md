@@ -142,6 +142,8 @@
   MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator
   device location. WatchOS and TvOS are partially supported.
   <https://schlaubischlump.github.io/LocationSimulator/>
+- [milanvarady/Applite](https://github.com/milanvarady/Applite): User-friendly
+  GUI macOS application for Homebrew Casks <https://aerolite.dev/applite>
 
 ### Free / Paid
 

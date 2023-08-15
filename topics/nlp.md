@@ -28,6 +28,9 @@
   to vector. 文本向量表征工具，把文本转化为向量矩阵，实现了
   Word2Vec、RankBM25、Sentence-BERT、CoSENT 等文本表征、文本相似度计算模型，开箱
   即用。
+- [sloria/textblob](https://github.com/sloria/textblob): Simple, Pythonic, text
+  processing--Sentiment analysis, part-of-speech tagging, noun phrase
+  extraction, translation, and more. <https://textblob.readthedocs.io/>
 
 ## Embedding Search (ANN)
 
@@ -200,6 +203,9 @@
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT):
   Data-Centric FinGPT. Open-source for open finance! Revolutionize 🔥 We'll soon
   release the trained model.
+- [llSourcell/DoctorGPT](https://github.com/llSourcell/DoctorGPT): DoctorGPT is
+  an LLM that can pass the US Medical Licensing Exam. It works offline, it's
+  cross-platform, & your health data stays private.
 - 🌟 [Illumine-Labs/RustChat](https://github.com/Illumine-Labs/RustChat): Rust
   Daily Learning and Work Assistant
 - 🌟 [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt): 🤖

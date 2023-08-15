@@ -355,6 +355,8 @@
 - 🌟 [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive): 📈
   Adaptive: parallel active learning of mathematical functions
   <http://adaptive.readthedocs.io/>
+- [openmc-dev/openmc](https://github.com/openmc-dev/openmc): OpenMC Monte Carlo
+  Code <https://docs.openmc.org>
 
 ### Pandas Ecosystem
 
@@ -755,6 +757,8 @@
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder):
   Cinder is Meta's internal performance-oriented production version of CPython.
   <https://trycinder.com>
+- [lcompilers/lpython](https://github.com/lcompilers/lpython): Python compiler
+  <https://lpython.org/>
 
 ### Parsers
 
@@ -810,6 +814,9 @@
   data files <https://www.fatiando.org/pooch>
 - [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum): Plumbum: Shell
   Combinators <https://plumbum.readthedocs.io>
+- [beeware/briefcase](https://github.com/beeware/briefcase): Tools to support
+  converting a Python project into a standalone native application.
+  <https://briefcase.readthedocs.io/>
 
 ## Visualization
 

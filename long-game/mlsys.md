@@ -13,6 +13,9 @@
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml): 📚 Papers &
   tech blogs by companies sharing their work on data science & machine learning
   in production.
+- [mit-han-lab/parallel-computing-tutorial](https://github.com/mit-han-lab/parallel-computing-tutorial):
+  This repository introduces several optimization techniques that can be applied
+  to improve the parallelism of matrix multiplication.
 
 ### Books
 
@@ -48,6 +51,8 @@
   JAX, and PyTorch.
 - [online-ml/river](https://github.com/online-ml/river): 🌊 Online machine
   learning in Python <https://riverml.xyz>
+- 🌟 [geohot/tinygrad](https://github.com/geohot/tinygrad): You like pytorch?
+  You like micrograd? You love tinygrad! ❤️ <https://tinygrad.org/>
 
 ### Optimization
 
@@ -119,6 +124,9 @@
   in one file of pure C
 - [ayaka14732/llama-2-jax](https://github.com/ayaka14732/llama-2-jax): JAX
   implementation of the Llama 2 model
+- [explosion/curated-transformers](https://github.com/explosion/curated-transformers):
+  🤖 A PyTorch library of curated Transformer models and their composable
+  components
 
 ### Inference engine / large-scale deployment
 
@@ -196,31 +204,34 @@
   implementations of MLPerf™ inference benchmarks
   <https://mlcommons.org/en/groups/inference>
 
-## Tensor inference / Compiler / Low level
+## Tensor inference
 
-- [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler stack
-  for cpu, gpu and specialized accelerators <https://tvm.apache.org>
-- 🌟 [openai/triton](https://github.com/openai/triton): Development repository
-  for the Triton language and compiler
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass): CUDA Templates for Linear
   Algebra Subroutines
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT): NVIDIA® TensorRT™, an
   SDK for high-performance deep learning inference, includes a deep learning
   inference optimizer and runtime that delivers low latency and high throughput
   for inference applications. <https://developer.nvidia.com/tensorrt>
+- [google/XNNPACK](https://github.com/google/XNNPACK): High-efficiency
+  floating-point neural network inference operators for mobile, server, and Web
+
+## Compiler
+
+- 🌟 [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler
+  stack for cpu, gpu and specialized accelerators <https://tvm.apache.org>
+- 🌟 [openai/triton](https://github.com/openai/triton): Development repository
+  for the Triton language and compiler
 - 🌟 [openxla/xla](https://github.com/openxla/xla): A machine learning compiler
   for GPUs, CPUs, and ML accelerators
   - News:
     [OpenXLA is available now to accelerate and simplify machine learning](https://opensource.googleblog.com/2023/03/openxla-is-ready-to-accelerate-and-simplify-ml-development.html)
+- 🌟 [openxla/stablehlo](https://github.com/openxla/stablehlo): Backward
+  compatible ML compute opset inspired by HLO/MHLO
+- [LaurentMazare/xla-rs](https://github.com/LaurentMazare/xla-rs):
+  Experimentation using the xla compiler from rust
 - [tensor-compiler/taco](https://github.com/tensor-compiler/taco): The Tensor
   Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs
   <http://tensor-compiler.org>
-- [google/XNNPACK](https://github.com/google/XNNPACK): High-efficiency
-  floating-point neural network inference operators for mobile, server, and Web
-- 🌟 [geohot/tinygrad](https://github.com/geohot/tinygrad): You like pytorch?
-  You like micrograd? You love tinygrad! ❤️ <https://tinygrad.org/>
-- [LaurentMazare/xla-rs](https://github.com/LaurentMazare/xla-rs):
-  Experimentation using the xla compiler from rust
 
 ## Platform framework / Workflow pipeline / MLOps
 
