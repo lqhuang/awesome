@@ -129,6 +129,9 @@
   work, before building it. Sketch.systems helps software designers think about
   complex product behavior. Sketch out states, add prototypes, and clarify
   questions quickly.
+- [recap-build/recap](https://github.com/recap-build/recap): Read and write
+  schemas from web service, databases, and schema registries in a standard
+  format <https://recap.build>
 
 ### Dev dnvironments
 

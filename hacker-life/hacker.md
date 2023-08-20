@@ -185,6 +185,8 @@
   written in Scala <https://rtyley.github.io/bfg-repo-cleaner/>
 - [standardebooks/tools](https://github.com/standardebooks/tools): The Standard
   Ebooks toolset for producing our ebook files.
+- [Finb/Bark](https://github.com/Finb/Bark): Bark is an iOS App which allows you
+  to push custom notifications to your iPhone <https://bark.day.app>
 
 ## Homelab
 
@@ -373,6 +375,9 @@
 - 🌟 [penrose/penrose](https://github.com/penrose/penrose): Create beautiful
   diagrams just by typing mathematical notation in plain text.
   <https://penrose.cs.cmu.edu>
+- [google/typograms](https://github.com/google/typograms): Typograms (short for
+  typographic diagrams) is a lightweight image format (text/typogram) useful for
+  defining simple diagrams in technical documentation
 
 ## Security / Privacy
 

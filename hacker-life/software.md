@@ -201,6 +201,7 @@
   macOS
 - [QSpace](https://qspace.awehunt.com/zh-cn/index.html): 一款简洁高效的多窗格文
   件管理器，灵活且实用！
+- [WhaleDeck](https://whaledeck.io/): Streamline Your Docker Management
 
 ## Services
 

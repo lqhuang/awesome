@@ -357,6 +357,9 @@
   <http://adaptive.readthedocs.io/>
 - [openmc-dev/openmc](https://github.com/openmc-dev/openmc): OpenMC Monte Carlo
   Code <https://docs.openmc.org>
+- [dynamicslab/pysindy](https://github.com/dynamicslab/pysindy): A package for
+  the sparse identification of nonlinear dynamical systems from data
+  <https://pysindy.readthedocs.io/en/latest/>
 
 ### Pandas Ecosystem
 
@@ -382,8 +385,9 @@
   <http://modin.readthedocs.io>
 - [rapidsai/cudf](https://github.com/rapidsai/cudf): cuDF - GPU DataFrame
   Library <http://rapids.ai>
-- [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker): PyGWalker: Turn
-  your pandas dataframe into a Tableau-style User Interface for visual analysis
+- 🌟 [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker): PyGWalker:
+  Turn your pandas dataframe into a Tableau-style User Interface for visual
+  analysis
 - [fugue-project/fugue](https://github.com/fugue-project/fugue): A unified
   interface for distributed computing. Fugue executes SQL, Python, and Pandas
   code on Spark, Dask and Ray without any rewrites.
@@ -556,6 +560,8 @@
   on asyncio
 - [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with
   regular expressions <https://trrex.readthedocs.io/en/latest/>
+- [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire): A Python package
+  for easy multiprocessing, but faster than multiprocessing
 
 ### High-level data structures
 

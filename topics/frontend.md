@@ -29,6 +29,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   bugs by automatically running your tests.
 - 🌟 [Patterns.dev](https://www.patterns.dev/): Improve how you architect
   webapps
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners):
+  24 Lessons, 12 Weeks, Get Started as a Web Developer
+  <https://microsoft.github.io/Web-Dev-For-Beginners/>
 
 ## Framework
 
@@ -411,6 +414,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [holtzy/react-graph-gallery](https://github.com/holtzy/react-graph-gallery): A
   set of graph examples showing how to make react and d3.js work together
   <https://www.react-graph-gallery.com>
+- [magjac/d3-graphviz](https://github.com/magjac/d3-graphviz): Graphviz DOT
+  rendering and animated transitions using D3
 
 ## Not only Web
 
@@ -543,3 +548,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build
   on top of Notion and NextJS, deployed on Vercel. <https://nobelium.js.org>
+
+## Testing suites
+
+- [Chromatic](https://www.chromatic.com/): Ship UIs faster by automating grunt
+  work. Chromatic automates visual & interaction tests for Storybook. Connect
+  CI/CD and Figma workflows to streamline stakeholder sign-off. Generate
+  versioned component docs.

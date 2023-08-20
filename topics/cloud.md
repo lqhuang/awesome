@@ -185,6 +185,8 @@
 - [Mosaic ML](https://www.mosaicml.com/): Generative AI For All. Easily train
   and deploy generative AI models on your data, in your secure environment.
   - I love this landing page, too 😅
+- [Octoml](https://octoml.ai/): OctoAI is world-class compute infrastructure for
+  tuning and running models that wow your users.
 
 ## Could Foundry
 

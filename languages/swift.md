@@ -24,6 +24,12 @@
 - [nalexn/clean-architecture-swiftui](https://github.com/nalexn/clean-architecture-swiftui):
   SwiftUI sample app using Clean Architecture. Examples of working with CoreData
   persistence, networking, dependency injection, unit testing, and more.
+- [SwiftUI Cookbook by Kodeco](https://www.kodeco.com/books/swiftui-cookbook):
+  The SwiftUI Cookbook is a reference for common patterns for creating user
+  interfaces in SwiftUI that you can quickly refer to while coding.
+- [Swift Cookbook by Kodeco](https://www.kodeco.com/books/swift-cookbook): The
+  Swift Cookbook is a collection of common Swift language idioms and best
+  practices that you can quickly refer to while coding.
 
 ## Apple
 

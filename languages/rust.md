@@ -69,6 +69,9 @@
   Examples of functional programing in Rust
 - 🌟 [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs): A
   community guide to the Rust ecosystem <https://blessed.rs>
+- 🌟
+  [ibraheemdev/too-many-web-servers](https://github.com/ibraheemdev/too-many-web-servers):
+  https://ibraheem.ca/posts/too-many-web-servers/
 
 ## Build
 

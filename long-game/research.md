@@ -42,9 +42,6 @@
 
 ## Books
 
-- [probml/pml-book](https://github.com/probml/pml-book): "Probabilistic Machine
-  Learning" - a book series by Kevin Murphy
-  https://probml.github.io/pml-book/book2.html
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io):
   Companion webpage to the book "Mathematics For Machine Learning"
   [pdf download](https://mml-book.com)
@@ -56,6 +53,11 @@
 - [AllenDowney/ThinkComplexity2](https://github.com/AllenDowney/ThinkComplexity2):
   Book and code for Think Complexity, 2nd edition
   - [page](https://allendowney.github.io/ThinkComplexity2/)
+- 🌟 [probml/pml-book](https://github.com/probml/pml-book): "Probabilistic
+  Machine Learning" - a book series by Kevin Murphy
+  - [Book 0: "Machine Learning: A Probabilistic Perspective" (2012)](https://probml.github.io/pml-book/book0.html)
+  - [Book 1: "Probabilistic Machine Learning: An Introduction" (2022)](https://probml.github.io/pml-book/book1.html)
+  - [Book 2: "Probabilistic Machine Learning: Advanced Topics" (2023)](https://probml.github.io/pml-book/book2.html)
 - [Probabilistic Numerics](https://www.probabilistic-numerics.org/textbooks/)
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/): A MOOC on
   convex optimization, CVX101. If you register for it, you can access all the
@@ -69,7 +71,7 @@
   《数学要素》，清华社五审五校中；Github 稿件基本稳定，欢迎提意见，会及时修改
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra):
   Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
-- [Linear Algebra Done Right](https://linear.axler.net/): This best-selling
+- 🌟 [Linear Algebra Done Right](https://linear.axler.net/): This best-selling
   textbook for a second course in linear algebra is aimed at undergraduate math
   majors and graduate students. The novel approach taken here banishes
   determinants to the end of the book. The text focuses on the central goal of
