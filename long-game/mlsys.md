@@ -82,6 +82,8 @@
   efficient library for differentiable optimization built upon PyTorch.
   <https://torchopt.readthedocs.io>
   - [Introducing TorchOpt: A High-Performance Differentiable Optimization Library for PyTorch](https://medium.com/pytorch/introducing-torchopt-a-high-performance-differentiable-optimization-library-for-pytorch-37c4c0ef6ae1)
+- [pytorch/botorch](https://github.com/pytorch/botorch): Bayesian optimization
+  in PyTorch <https://botorch.org/>
 
 ### Network implementation
 
@@ -436,3 +438,5 @@
 - [mohammadpz/pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward):
   Implementation of Hinton's forward-forward (FF) algorithm - an alternative to
   back-propagation
+- [tinygrad/teenygrad](https://github.com/tinygrad/teenygrad): If tinygrad
+  wasn't small enough for you...

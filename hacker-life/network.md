@@ -133,6 +133,12 @@
   for providing TLS to webservices on local addresses
 - [ogham/dog](https://github.com/ogham/dog): A command-line DNS client.
   <https://dns.lookup.dog>
+- [zu1k/nali](https://github.com/zu1k/nali): An offline tool for querying IP
+  geographic information and CDN provider. 一个查询 IP 地理信息和 CDN 服务提供商
+  的离线终端工具. <https://github.com/zu1k/nali>
+- [devanshbatham/DNSleuth](https://github.com/devanshbatham/DNSleuth): DNSleuth
+  sniffs DNS packets, i.e, allowing you to spy on the DNS queries your machine
+  is making
 
 ## Tunnel
 
@@ -200,6 +206,8 @@
   - [tonarino/innernet](https://github.com/tonarino/innernet): A private network
     system that uses WireGuard under the hood.
     <https://blog.tonari.no/introducing-innernet>
+- [openziti/zrok](https://github.com/openziti/zrok): Geo-scale, next-generation
+  sharing platform built on top of OpenZiti. <https://zrok.io>
 
 ## Online tools / Services
 

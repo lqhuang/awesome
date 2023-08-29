@@ -39,6 +39,9 @@
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base): 图解计算机网
   络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机
   基础知识，让天下没有难懂的八股文！🚀 <https://xiaolincoding.com>
+- 🌟
+  [graykode/distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need):
+  The basic distribution probability Tutorial for Deep Learning Researchers
 
 ## Books
 
@@ -49,7 +52,7 @@
   aka "Bayesian Methods for Hackers": An introduction to Bayesian methods +
   probabilistic programming with a computation/understanding-first,
   mathematics-second point of view. All in pure Python ;)
-  - [page](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+  <http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/>
 - [AllenDowney/ThinkComplexity2](https://github.com/AllenDowney/ThinkComplexity2):
   Book and code for Think Complexity, 2nd edition
   - [page](https://allendowney.github.io/ThinkComplexity2/)
@@ -100,6 +103,11 @@
   collection of resources regarding the interplay between differential
   equations, deep learning, dynamical systems, control and numerical methods.
 
+### Unknown future
+
+- [qutip/qutip](https://github.com/qutip/qutip): QuTiP: Quantum Toolbox in
+  Python <https://qutip.org>
+
 ## Misc
 
 - [gpoore/minted](https://github.com/gpoore/minted): minted is a LaTeX package
@@ -125,3 +133,7 @@
   manage your attachments: automatically rename, move, and attach PDFs (or other
   files) to Zotero items, sync PDFs from your Zotero library to your (mobile)
   PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
+- [standardebooks/tools](https://github.com/standardebooks/tools): The Standard
+  Ebooks toolset for producing our ebook files.
+- [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook):
+  Elegant LaTeX Template for Books

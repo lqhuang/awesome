@@ -658,6 +658,8 @@
   rust wrapper for rocksdb
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres): Native
   PostgreSQL driver for the Rust programming language
+- [foundationdb-rs/foundationdb-rs](https://github.com/foundationdb-rs/foundationdb-rs):
+  FoundationDB Rust client api <https://crates.io/crates/foundationdb>
 
 ## Misc
 

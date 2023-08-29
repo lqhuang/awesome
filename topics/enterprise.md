@@ -171,7 +171,7 @@
 - [netbox-community/netbox](https://github.com/netbox-community/netbox): The
   premiere source of truth powering network automation. Open source under
   Apache 2. <https://netbox.dev>
-- [novuhq/novu](https://github.com/novuhq/novu): 🚀 The open-source
+- 🌟 [novuhq/novu](https://github.com/novuhq/novu): 🚀 The open-source
   notifications infrastructure. A fully-featured microservice to send SMS,
   E-mail, Slack and Push notifications. Embeddable notification center for React
   with real-time updates, content management, and much more... <https://novu.co>
@@ -276,7 +276,7 @@
   users when something goes wrong.
 - [keephq/keep](https://github.com/keephq/keep): Open source alerts management
   platform <https://www.keephq.dev>
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus): The
+- 🌟 [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus): The
   open-source status page <https://openstatus.dev>
 
 ### Logging / Metrics / APM

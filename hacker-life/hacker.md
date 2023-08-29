@@ -92,6 +92,8 @@
 - 🌟 [charmbracelet/gum](https://github.com/charmbracelet/gum): A tool for
   glamorous shell scripts 🎀
 - 🌟 [rs/dnstrace](https://github.com/rs/dnstrace): DNS resolution tracing tool
+- [wilfred/difftastic](https://github.com/wilfred/difftastic): a structural diff
+  that understands syntax 🟥🟩 <https://difftastic.wilfred.me.uk/>
 
 ### TUI applications
 
@@ -132,9 +134,6 @@
 - [kampersanda/goodname](https://github.com/kampersanda/goodname): Tool to
   assist you with cool naming of your methods and software
   <https://kampersanda.github.io/goodname>
-- [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii
-  diagram scribbles into happy little SVG
-  <http://ivanceras.github.io/svgbob-editor>
 - [quicktype/quicktype](https://github.com/quicktype/quicktype): Generate types
   and converters from JSON, Schema, and GraphQL <https://app.quicktype.io>
 - 🌟 [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com):
@@ -159,34 +158,69 @@
   infographics generator with 30+ plugins and 300+ options to display stats
   about your GitHub account and render them as SVG, Markdown, PDF or JSON!
   <https://metrics.lecoq.io>
-- 🌟
-  [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes):
-  A collection of useful .gitattributes templates
+- [zealdocs/zeal](https://github.com/zealdocs/zeal): Offline documentation
+  browser inspired by Dash <https://zealdocs.org>
 - 🌟 [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your
   project. 🌐 Share with the world! <http://socialify.git.ci>
 - 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC
   <https://manfred.life/quicssh>
-- [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly
-  rewrite git repository history (filter-branch replacement)
 - 🌟 [tweag/topiary](https://github.com/tweag/topiary): Topiary aims to be a
   uniform formatter for simple languages, as part of the Tree-sitter ecosystem.
   <https://topiary.tweag.io/>
+- [Finb/Bark](https://github.com/Finb/Bark): Bark is an iOS App which allows you
+  to push custom notifications to your iPhone <https://bark.day.app>
+- [axodotdev/oranda](https://github.com/axodotdev/oranda): 🎁 generate beautiful
+  landing pages for your developer tools <https://opensource.axo.dev/oranda/>
+
+### Git
+
+- 🌟
+  [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes):
+  A collection of useful .gitattributes templates
 - 🌟
   [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth):
   A Git credential helper that securely authenticates to GitHub, GitLab and
   BitBucket using OAuth.
   <https://pkg.go.dev/github.com/hickford/git-credential-oauth>
-- [zealdocs/zeal](https://github.com/zealdocs/zeal): Offline documentation
-  browser inspired by Dash <https://zealdocs.org>
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly
   rewrite git repository history (filter-branch replacement)
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner): Removes
   large or troublesome blobs like git-filter-branch does, but faster. And
   written in Scala <https://rtyley.github.io/bfg-repo-cleaner/>
-- [standardebooks/tools](https://github.com/standardebooks/tools): The Standard
-  Ebooks toolset for producing our ebook files.
-- [Finb/Bark](https://github.com/Finb/Bark): Bark is an iOS App which allows you
-  to push custom notifications to your iPhone <https://bark.day.app>
+
+### Code as Graph
+
+- [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii
+  diagram scribbles into happy little SVG
+  <http://ivanceras.github.io/svgbob-editor>
+- [jgm/djot](https://github.com/jgm/djot): A light markup language
+  <https://djot.net>
+- [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid): A collection of
+  cheatsheets for using Mermaid diagrams on GitHub and elsewhere
+- [terrastruct/d2](https://github.com/terrastruct/d2): D2 is a modern diagram
+  scripting language that turns text to diagrams. <https://d2lang.com>
+  <https://blog.jakelee.co.uk/using-mermaid-for-diagrams-on-github>
+- [sonyxperiadev/dataflow](https://github.com/sonyxperiadev/dataflow): Render
+  graphs using a declarative markup.
+  <https://hackage.haskell.org/package/dataflow>
+- [structurizr](https://github.com/structurizr): Visualise and document your
+  software architecture with the C4 model <https://structurizr.com>
+- [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML):
+  C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a
+  simple way of describing and communicate software architectures
+- [mingrammer/diagrams](https://github.com/mingrammer/diagrams): 🎨 Diagram as
+  Code for prototyping cloud system architectures
+  <https://diagrams.mingrammer.com>
+- [yuzutech/kroki](https://github.com/yuzutech/kroki): Creates diagrams from
+  textual descriptions! <https://kroki.io>
+- [diagrams/diagrams](https://github.com/diagrams/diagrams): Embedded
+  domain-specific language for declarative vector graphics (wrapper package)
+- 🌟 [penrose/penrose](https://github.com/penrose/penrose): Create beautiful
+  diagrams just by typing mathematical notation in plain text.
+  <https://penrose.cs.cmu.edu>
+- [google/typograms](https://github.com/google/typograms): Typograms (short for
+  typographic diagrams) is a lightweight image format (text/typogram) useful for
+  defining simple diagrams in technical documentation
 
 ## Homelab
 
@@ -226,6 +260,14 @@
   generator
 - [zrepl/zrepl](https://github.com/zrepl/zrepl): One-stop ZFS backup &
   replication solution <https://zrepl.github.io>
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr): fork of
+  overseerr for jellyfin support
+- [khuedoan/homelab](https://github.com/khuedoan/homelab): Modern self-hosting
+  infrastructure, fully automated from empty disk to operating services with a
+  single command. <https://homelab.khuedoan.com>
+- 🌟 [benphelps/homepage](https://github.com/benphelps/homepage): A highly
+  customizable homepage (or startpage / application dashboard) with Docker and
+  service API integrations.
 
 ### HomeKit / IoT
 
@@ -239,9 +281,6 @@
   favorite logins, including beautiful pics and customized mp4 videos.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push
   notifications to your phone or desktop using PUT/POST <https://ntfy.sh>
-- [khuedoan/homelab](https://github.com/khuedoan/homelab): Modern self-hosting
-  infrastructure, fully automated from empty disk to operating services with a
-  single command. <https://homelab.khuedoan.com>
 - [unpoller/unpoller](https://github.com/unpoller/unpoller): Application:
   Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB
   or Prometheus <https://unpoller.com>
@@ -306,6 +345,10 @@
   environment
 - [misakaio/chnroutes2](https://github.com/misakaio/chnroutes2): Better
   aggregated chnroutes
+- [cppla/ServerStatus](https://github.com/cppla/ServerStatus): 云探针、多服务器
+  探针、云监控、多服务器云监控，演示： <https://tz.cloudcpp.com>
+- [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust): ✨ Rust 版
+  ServerStatus 探针、威力加强版 <https://ssr.rs/>
 
 ### DNS
 
@@ -315,6 +358,8 @@
 - [pymumu/smartdns](https://github.com/pymumu/smartdns): A local DNS server to
   obtain the fastest website IP for the best Internet experience， 一个本地 DNS
   服务器，获取最快的网站 IP，获得最佳上网体验。
+- [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns): 一个 DNS 转发
+  器
 - [errantmind/faf-dns-proxy](https://github.com/errantmind/faf-dns-proxy): A
   DNS-over-TLS (DoT) Proxy, Engineered for Speed
 
@@ -347,37 +392,6 @@
 - 🌟 [djyde/notepal](https://github.com/djyde/notepal): A simple tool to
   import/export your book note <https://notepal.randysoft.org>
   - export WeBook to Readwise
-
-### Code as Graph
-
-- [jgm/djot](https://github.com/jgm/djot): A light markup language
-  <https://djot.net>
-- [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid): A collection of
-  cheatsheets for using Mermaid diagrams on GitHub and elsewhere
-- [terrastruct/d2](https://github.com/terrastruct/d2): D2 is a modern diagram
-  scripting language that turns text to diagrams. <https://d2lang.com>
-  <https://blog.jakelee.co.uk/using-mermaid-for-diagrams-on-github>
-- [sonyxperiadev/dataflow](https://github.com/sonyxperiadev/dataflow): Render
-  graphs using a declarative markup.
-  <https://hackage.haskell.org/package/dataflow>
-- [structurizr](https://github.com/structurizr): Visualise and document your
-  software architecture with the C4 model <https://structurizr.com>
-- [plantuml-stdlib/C4-PlantUML](https://github.com/plantuml-stdlib/C4-PlantUML):
-  C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a
-  simple way of describing and communicate software architectures
-- [mingrammer/diagrams](https://github.com/mingrammer/diagrams): 🎨 Diagram as
-  Code for prototyping cloud system architectures
-  <https://diagrams.mingrammer.com>
-- [yuzutech/kroki](https://github.com/yuzutech/kroki): Creates diagrams from
-  textual descriptions! <https://kroki.io>
-- [diagrams/diagrams](https://github.com/diagrams/diagrams): Embedded
-  domain-specific language for declarative vector graphics (wrapper package)
-- 🌟 [penrose/penrose](https://github.com/penrose/penrose): Create beautiful
-  diagrams just by typing mathematical notation in plain text.
-  <https://penrose.cs.cmu.edu>
-- [google/typograms](https://github.com/google/typograms): Typograms (short for
-  typographic diagrams) is a lightweight image format (text/typogram) useful for
-  defining simple diagrams in technical documentation
 
 ## Security / Privacy
 

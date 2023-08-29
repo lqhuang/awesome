@@ -112,6 +112,11 @@
 - [mjakubowski84/parquet4s](https://github.com/mjakubowski84/parquet4s): Read
   and write Parquet in Scala. Use Scala classes as schema. No need to start a
   cluster. <https://mjakubowski84.github.io/parquet4s/>
+- [theiterators/http4s-stir](https://github.com/theiterators/http4s-stir):
+  http4s-stir offers Pekko HTTP-style (Akka HTTP-style) DSL directives for
+  http4s using cats-effect's IO as an effect system
+- 🌟 [softwaremill/quicklens](https://github.com/softwaremill/quicklens): Modify
+  deeply nested case class fields <https://softwaremill.com/open-source/>
 
 ### Experiments
 
@@ -131,18 +136,18 @@
 
 ### Types
 
-- [fthomas/refined](https://github.com/fthomas/refined): Refinement types for
+- 🌟 [fthomas/refined](https://github.com/fthomas/refined): Refinement types for
   Scala
 - [Iltotore/iron](https://github.com/Iltotore/iron): Strong type constraints for
   Scala <https://iltotore.github.io/iron/docs>
-- [scalalandio/chimney](https://github.com/scalalandio/chimney): Scala library
-  for boilerplate-free, type-safe data transformations
+- 🌟 [scalalandio/chimney](https://github.com/scalalandio/chimney): Scala
+  library for boilerplate-free, type-safe data transformations
   <https://scalalandio.github.io/chimney>
 - 🌟 [arainko/ducktape](https://github.com/arainko/ducktape): Automatic and
   customizable compile time transformations between similar case classes and
   sealed traits/enums, essentially a thing that glues your code. Scala 3 only.
   Or is it duct 🤔
-- 🌟 [epfl-lara/stainless](https://github.com/epfl-lara/stainless): Verification
+- [epfl-lara/stainless](https://github.com/epfl-lara/stainless): Verification
   framework and tool for higher-order Scala programs <https://stainless.epfl.ch>
 - [earldouglas/linear-scala](https://github.com/earldouglas/linear-scala):
   Linear types in Scala
@@ -156,7 +161,7 @@
 - [com-lihaoyi/upickle](https://github.com/com-lihaoyi/upickle): uPickle: a
   simple, fast, dependency-free JSON & Binary (MessagePack) serialization
   library for Scala <https://com-lihaoyi.github.io/upickle>
-- [pureconfig/pureconfig](https://github.com/pureconfig/pureconfig): A
+- 🌟 [pureconfig/pureconfig](https://github.com/pureconfig/pureconfig): A
   boilerplate-free library for loading configuration files
 - [typelevel/fabric](https://github.com/typelevel/fabric): Object-Notation
   Abstraction for JSON, binary, HOCON, etc.

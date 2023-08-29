@@ -144,6 +144,10 @@
   <https://schlaubischlump.github.io/LocationSimulator/>
 - [milanvarady/Applite](https://github.com/milanvarady/Applite): User-friendly
   GUI macOS application for Homebrew Casks <https://aerolite.dev/applite>
+- [moseeking/squirrel](https://github.com/moseeking/squirrel): 🖌Soothing pastel
+  theme for Squirrel(Rime for MacOS)
+- 🌟 [ninxsoft/Mist](https://github.com/ninxsoft/Mist): A Mac utility that
+  automatically downloads macOS Firmwares / Installers.
 
 ### Free / Paid
 

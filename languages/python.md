@@ -295,6 +295,8 @@
   PEP-484 typing stubs for SQLAlchemy 1.4
 - [annotated-types/annotated-types](https://github.com/annotated-types/annotated-types):
   Reusable constraint types to use with typing.Annotated
+- [klausweiss/typing-protocol-intersection](https://github.com/klausweiss/typing-protocol-intersection):
+  Protocols intersection for mypy
 
 ### Featured
 
@@ -327,6 +329,8 @@
 - 🌟 [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional): Python
   library for creating data pipelines with chain functional programming
   <http://pyfunctional.pedro.ai>
+- 🌟 [Suor/funcy](https://github.com/Suor/funcy): A fancy and practical
+  functional tools
 - [dbrattli/aioreactive](https://github.com/dbrattli/aioreactive): Async/await
   reactive tools for Python 3.9+
 - [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent):
@@ -470,6 +474,9 @@
   APIs <https://litestar.dev/>
 - [emmett-framework/emmett](https://github.com/emmett-framework/emmett): The web
   framework for inventors
+- [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users):
+  Ready-to-use and customizable users management for FastAPI
+  <https://fastapi-users.github.io/fastapi-users/>
 
 #### Web utils
 

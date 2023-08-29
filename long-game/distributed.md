@@ -38,6 +38,10 @@
   references for “Designing Data-Intensive Applications”
 - [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia): DDIA 逐章精读
   <https://ddia.qtmuniao.com>
+- [JEPSEN Analyses](https://jepsen.io/analyses): Since 2013, Jepsen has analyzed
+  over two dozen databases, coordination services, and queues—and we’ve found
+  replica divergence, data loss, stale reads, read skew, lock conflicts, and
+  much more. Here’s every analysis we’ve published.
 
 ### Books
 
@@ -102,6 +106,9 @@
   quickwit needs. The API may change in the future.
   [Video: Building an actor library for Quickwit's indexing pipeline](https://fosdem.org/2023/schedule/event/building_an_actor_library_for_quickwits_indexing_pipeline/)
 - [slawlor/ractor](https://github.com/slawlor/ractor): Rust actor framework
+- [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework):
+  An Open Source Implementation of the Actor Model in C++
+  <http://actor-framework.org/>
 
 ## Middleware
 
@@ -148,6 +155,13 @@
   high performance multi-group Raft library in Go.
 - [tikv/raft-rs](https://github.com/tikv/raft-rs): Raft distributed consensus
   algorithm implemented in Rust.
+- [tisonkun/mephisto](https://github.com/tisonkun/mephisto): Mephisto is derived
+  from `tikv/raft-rs`
+  - Replace `slog` with `tracing`.
+  - Replace `datadriven` with `goldenfiles`.
+  - Replace `rust-protobuf` and `protobuf-build` with `prost`.
+  - Merge `raft-proto` into `mephisto` crate.
+  - Stub implementations of Raft stores.
 - [async-raft/async-raft](https://github.com/async-raft/async-raft): An
   implementation of the Raft distributed consensus protocol using the Tokio
   framework. <https://async-raft.github.io/async-raft>
@@ -183,6 +197,8 @@
   desktop, or server running Linux. <https://shadow.github.io>
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom): A workbench for
   writing toy implementations of distributed systems.
+- 🌟 [dranov/protocol-bugs-list](https://github.com/dranov/protocol-bugs-list):
+  List of bugs found in distributed protocols
 
 ## Formal verification
 

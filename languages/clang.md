@@ -22,9 +22,6 @@
   Collaborative Collection of C++ Best Practices. This online resource is part
   of Jason Turner's collection of C++ Best Practices resources. See README.md
   for more information.
-- [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp): Modern
-  concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule
-  them all
 - [Learn Makefiles](https://makefiletutorial.com/): With the tastiest examples
 - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile):
   跟我一起写 Makefile 重制版 <https://seisman.github.io/how-to-write-makefile/>
@@ -50,6 +47,9 @@
   to teaching you how to program in C++.
 - [lkimuk/the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp):
   The Book of Modern C++ (in Chinese)
+- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese):
+  《Effective Modern C++》- 完成翻译
+  <https://cntransgroup.github.io/EffectiveModernCppChinese/>
 
 ## Toolchain
 
@@ -86,6 +86,15 @@
   Analyzer is a source code analysis tool that finds bugs in C, C++, and
   Objective-C programs. <https://clang.llvm.org/docs/ClangStaticAnalyzer.html>
 
+### Test suites
+
+- 🌟 [catchorg/Catch2](https://github.com/catchorg/Catch2): A modern,
+  C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17
+  and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
+  <https://discord.gg/4CWS9zD>
+- [google/googletest](https://github.com/google/googletest): GoogleTest - Google
+  Testing and Mocking Framework <https://google.github.io/googletest/>
+
 ### Debug
 
 - [hugsy/gef](https://github.com/hugsy/gef): GEF (GDB Enhanced Features) - a
@@ -100,10 +109,6 @@
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer):
   Decompiler Explorer! Compare tools on the forefront of static analysis, now in
   your web browser! <https://dogbolt.org>
-- 🌟 [catchorg/Catch2](https://github.com/catchorg/Catch2): A modern,
-  C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17
-  and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
-  <https://discord.gg/4CWS9zD>
 - [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux):
   Procmon is a Linux reimagining of the classic Procmon tool from the
   Sysinternals suite of tools for Windows. Procmon provides a convenient and
@@ -161,6 +166,12 @@
 - [foonathan/type_safe](https://github.com/foonathan/type_safe): Zero overhead
   utilities for preventing bugs at compile time
   <https://type_safe.foonathan.net>
+- [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp): Modern
+  concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule
+  them all
+- 🌟 [skypjack/uvw](https://github.com/skypjack/uvw): Header-only, event based,
+  tiny and easy to use libuv wrapper in modern C++ - now available as also
+  shared/static library!
 
 ## Memory allocator
 

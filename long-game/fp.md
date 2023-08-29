@@ -39,6 +39,10 @@
 - [jpvillaisaza/cain](https://github.com/jpvillaisaza/cain): Category theory
   applied to functional programming (undergraduate project)
   <https://jpvillaisaza.co/cain/cain.pdf>
+- [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf):
+  Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX
+  source
+  <https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/>
 
 ### Tutorials
 
@@ -182,3 +186,5 @@
   functional language <https://kindelia.org/>
 - [inko-lang/inko](https://github.com/inko-lang/inko): A language for building
   concurrent software with confidence <http://inko-lang.org/>
+- [austral/austral](https://github.com/austral/austral): Systems language with
+  linear types and capability-based security. <https://austral-lang.org/>

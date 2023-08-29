@@ -137,6 +137,9 @@
 - [langgenius/dify](https://github.com/langgenius/dify): One API for plugins and
   datasets, one interface for prompt engineering and visual operation, all for
   creating powerful AI applications. <https://dify.ai>
+- [microsoft/lida](https://github.com/microsoft/lida): Automatic Generation of
+  Visualizations and Infographics using Large Language Models
+  <https://microsoft.github.io/lida/>
 
 ## LLM Agents / Chains / Composability
 

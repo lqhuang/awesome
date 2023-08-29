@@ -104,6 +104,8 @@
   of every coin on Binance and places trades with the highest gaining coins If
   you like this project consider donating though the Brave browser to allow me
   to continuously improve the script.
+- [quantmind/quantflow](https://github.com/quantmind/quantflow): Quantitative
+  finance and derivative pricing <https://quantmind.github.io/quantflow/>
 
 ## Backtesting
 

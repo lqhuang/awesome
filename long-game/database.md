@@ -49,8 +49,6 @@
   implemented as a rust library.
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista): Apache
   Arrow Ballista Distributed Query Engine <https://arrow.apache.org/ballista>
-- [marsupialtail/quokka](https://github.com/marsupialtail/quokka): Open source
-  SQL engine in Python <https://marsupialtail.github.io/quokka>
 - 🌟 [apache/calcite](https://github.com/apache/calcite): Apache Calcite is a
   dynamic data management framework. . It provides an industry standard SQL
   parser and validator, a customisable optimizer with pluggable rules and cost
@@ -60,6 +58,12 @@
 - [penberg/mvcc-rs](https://github.com/penberg/mvcc-rs): Optimistic
   multi-version concurrency control (MVCC) for main memory databases, written in
   Rust.
+- 📝 [marsupialtail/quokka](https://github.com/marsupialtail/quokka): Making
+  data lake work for time series <https://marsupialtail.github.io/quokka/>
+- [kayak/pypika](https://github.com/kayak/pypika): PyPika is a python SQL query
+  builder that exposes the full richness of the SQL language using a syntax that
+  reflects the resulting query. PyPika excels at all sorts of SQL queries but is
+  especially useful for data analysis. <http://pypika.readthedocs.io/en/latest/>
 
 ### Practices
 
@@ -132,14 +136,19 @@
 - [memgraph/memgraph](https://github.com/memgraph/memgraph): Open-source graph
   database, built for real-time streaming data, compatible with Neo4j.
   <https://memgraph.com>
+- [Netflix/atlas/blob/main/build.sbt](https://github.com/Netflix/atlas/blob/main/build.sbt):
+  In-memory dimensional time series database.
 
 ### KV
 
-- 🌟 [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta
-  embedded databases
+- 🌟 [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that
+  provides an embeddable, persistent key-value store for fast storage.
+  <http://rocksdb.org>
 - 🌟 [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB -
   the open source, distributed, transactional key-value store
   <https://www.foundationdb.org>
+- 🌟 [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta
+  embedded databases
 - [microsoft/FASTER](https://github.com/microsoft/FASTER): Fast persistent
   recoverable log and key-value store + cache, in C# and C++.
   <https://aka.ms/FASTER>

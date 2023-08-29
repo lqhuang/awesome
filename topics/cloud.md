@@ -262,6 +262,9 @@
   Packaging Infrastructure <https://www.uselotus.io>
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch): An Open Source
   Financial Switch to make Payments fast, reliable and affordable
+- [The Duckbill Group](https://www.duckbillgroup.com/): If your AWS bill keeps
+  rising — and your blood pressure is doing the same — then you should be
+  working with our team of cloud cost management experts.
 
 ### Tech Stack
 

@@ -282,6 +282,12 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web): Render After
   Effects animations natively on Web, Android and iOS, and React Native.
   <http://airbnb.io/lottie>
+- [formkit/auto-animate](https://github.com/formkit/auto-animate): A
+  zero-config, drop-in animation utility that adds smooth transitions to your
+  web app. You can use it with React, Vue, or any other JavaScript application.
+  <https://auto-animate.formkit.com>
+- [barbajs/barba](https://github.com/barbajs/barba): Create badass, fluid and
+  smooth transitions between your website’s pages. <https://barba.js.org/>
 
 ## Functional libraries
 
@@ -354,6 +360,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [jakubroztocil/rrule](https://github.com/jakubroztocil/rrule): JavaScript
   library for working with recurrence rules for calendar dates as defined in the
   iCalendar RFC and more. <https://jakubroztocil.github.io/rrule>
+- [Hexagon/croner](https://github.com/Hexagon/croner): Trigger functions or
+  evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most
+  features. Node. Deno. Bun. Browser. <https://croner.56k.guru>
 
 ### State management
 
@@ -457,6 +466,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://shopify.github.io/react-native-skia>
 - [React Native 中文网](https://reactnative.cn/)
 - [React Native](https://reactnative.dev/)
+- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript): ⚡
+  Empowering JavaScript with native platform APIs. ✨ Best of all worlds
+  (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular,
+  Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose,
+  Flutter and you name it compatible. <https://nativescript.org/>
 
 ## Design / Resources
 
@@ -501,6 +515,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js):
   quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
 - [npmgraph](https://npmgraph.js.org/)
+- 🌟 [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill): Speed up your
+  package installation process, reduce your disk usage, and extend the lifespan
+  of your precious SSD.
 
 ## WASM in Web
 
@@ -543,11 +560,15 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [perfsee/perfsee](https://github.com/perfsee/perfsee): a set of tools for
   measuring and debugging performance of frontend applications
   <https://perfsee.com>
+- [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics):
+  simple statistics for node & browser javascript <http://simplestatistics.org/>
 
 ## SSG
 
 - [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build
   on top of Notion and NextJS, deployed on Vercel. <https://nobelium.js.org>
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own
+  second brain and digital garden for free <https://quartz.jzhao.xyz/>
 
 ## Testing suites
 
