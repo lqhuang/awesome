@@ -320,6 +320,8 @@
 
 ### Functional style libraries
 
+- [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python):
+  A curated list of awesome things related to functional programming in Python.
 - 🌟
   [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools):
   More routines for operating on iterables, beyond itertools
@@ -530,6 +532,10 @@
   DB API 2 interface for Flight SQL with SQLAlchemy extras.
 - [nalgeon/sqlean.py](https://github.com/nalgeon/sqlean.py): Python's sqlite3 +
   extensions
+- [memgraph/gqlalchemy](https://github.com/memgraph/gqlalchemy): GQLAlchemy is a
+  library developed with the purpose of assisting in writing and running queries
+  on Memgraph. GQLAlchemy supports high-level connection to Memgraph as well as
+  modular query builder.
 
 ### API clients
 

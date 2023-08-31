@@ -14,6 +14,9 @@
   《Software Engineering at Google》的中文翻译版本
 - [fusionauth/webauthn.wtf](https://github.com/fusionauth/webauthn.wtf): The
   webauthn.wtf website <https://webauthn.wtf/>
+- [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd): A curated
+  list of Domain-Driven Design (DDD), Command Query Responsibility Segregation
+  (CQRS), Event Sourcing, and Event Storming resources
 
 ## Middleware
 

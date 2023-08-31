@@ -85,6 +85,8 @@
   scripts to compile C/C++ code into a Rust library
 - [rust-lang/cfg-if](https://github.com/rust-lang/cfg-if): A if/elif-like macro
   for Rust #[cfg] statements
+- [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild): Cross compile
+  rust to any platform
 
 ### Cargo plugins
 

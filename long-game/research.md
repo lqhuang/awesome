@@ -31,6 +31,10 @@
   文逐段精读
 - [dataflowr/notebooks](https://github.com/dataflowr/notebooks): code for deep
   learning courses <http://www.dataflowr.com/>
+- [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook): 📄 🇨🇳 📃 论
+  文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System,
+  Virtualization, Machine Learning) 目前不再以 Markdown 文件的方式维护，转到
+  issue 页面进行，也欢迎到这个 issue 中分享您认为值得一读的 paper
 - [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning):
   List of papers studying machine learning through the lens of category theory
 - [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial):

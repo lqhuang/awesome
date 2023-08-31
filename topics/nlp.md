@@ -140,6 +140,12 @@
 - [microsoft/lida](https://github.com/microsoft/lida): Automatic Generation of
   Visualizations and Infographics using Large Language Models
   <https://microsoft.github.io/lida/>
+- [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM): Family of
+  instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and
+  WizardMath
+- [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper): Use
+  ChatGPT to summarize the arXiv papers. 全流程加速科研，利用 chatgpt 进行论文全
+  文总结+专业翻译+润色+审稿+审稿回复 <https://chatwithpaper.org>
 
 ## LLM Agents / Chains / Composability
 

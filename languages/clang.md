@@ -180,6 +180,9 @@
 - [foonathan/memory](https://github.com/foonathan/memory): STL compatible C++
   memory allocator library using a new RawAllocator concept that is similar to
   an Allocator but easier to use and write. <https://memory.foonathan.net>
+- [mjansson/rpmalloc](https://github.com/mjansson/rpmalloc): Public domain cross
+  platform lock free thread caching 16-byte aligned memory allocator implemented
+  in C
 
 ## GPU
 

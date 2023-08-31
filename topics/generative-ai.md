@@ -21,6 +21,8 @@
 - [diff-usion/Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models):
   A collection of resources and papers on Diffusion Models
   <https://diff-usion.github.io/Awesome-Diffusion-Models/>
+- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion):
+  High-Resolution Image Synthesis with Latent Diffusion Models
 
 ## Misc
 
