@@ -84,6 +84,10 @@
   <https://disneystreaming.github.io/weaver-test>
 - [etorreborre/specs2](https://github.com/etorreborre/specs2):Software
   Specifications for Scala <https://etorreborre.github.io/specs2>
+- [gatling/gatling](https://github.com/gatling/gatling): Modern Load Testing as
+  Code <https://gatling.io>
+- [gatling/gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin):
+  Gatling Plugin for SBT <https://gatling.io>
 
 ## Featured
 

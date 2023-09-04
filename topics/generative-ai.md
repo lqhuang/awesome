@@ -23,6 +23,9 @@
   <https://diff-usion.github.io/Awesome-Diffusion-Models/>
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion):
   High-Resolution Image Synthesis with Latent Diffusion Models
+- [SDWebImage/SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI):
+  SwiftUI Image loading and Animation framework powered by SDWebImage
+  <https://sdwebimage.github.io/SDWebImageSwiftUI>
 
 ## Misc
 

@@ -218,3 +218,6 @@
 - [IPLeak.net](https://ipleak.net)
 - [Globalping](https://www.jsdelivr.com/globalping)
 - [Web Check](https://web-check.xyz/)
+- [KeyCDN tools](https://tools.keycdn.com)
+- [Tabserve](https://tabserve.dev/): A secure & fast HTTPS URL for localhost
+  using your browser as a reverse proxy.

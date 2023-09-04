@@ -101,7 +101,7 @@
 
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM):
   Awesome-LLM: a curated list of Large Language Model
-- [microsoft/semantic-kernels](https://github.com/microsoft/semantic-kernels):
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel):
   Integrate cutting-edge LLM technology quickly and easily into your apps
   <https://aka.ms/semantic-kernel>
 - [microsoft/guidance](https://github.com/microsoft/guidance): A guidance

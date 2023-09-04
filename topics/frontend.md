@@ -425,6 +425,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://www.react-graph-gallery.com>
 - [magjac/d3-graphviz](https://github.com/magjac/d3-graphviz): Graphviz DOT
   rendering and animated transitions using D3
+- [YYsuni/react18-json-view](https://github.com/YYsuni/react18-json-view): JSON
+  viewer for react18 <https://jv.yysuni.com/>
 
 ## Not only Web
 

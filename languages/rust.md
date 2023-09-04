@@ -684,6 +684,10 @@
   visualization library for Rust
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell): It's a New Kind of
   Wrapper for Exposing LLVM (Safely) <https://thedan64.github.io/inkwell/>
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee): ⚡ Fast, async,
+  stream-based link checker written in Rust. Finds broken URLs and mail
+  addresses inside Markdown, HTML, reStructuredText, websites and more!
+  <https://lychee.cli.rs>
 
 ### TUI
 

@@ -141,3 +141,6 @@
   Ebooks toolset for producing our ebook files.
 - [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook):
   Elegant LaTeX Template for Books
+- [facebookresearch/nougat](https://github.com/facebookresearch/nougat):
+  Implementation of Nougat Neural Optical Understanding for Academic Documents
+  <https://facebookresearch.github.io/nougat/>

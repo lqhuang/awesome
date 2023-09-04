@@ -328,6 +328,13 @@
   Boltzmann (XLB) based on JAX for Physics-based ML
 - [xl0/lovely-jax](https://github.com/xl0/lovely-jax): JAX Arrays for human
   consumption <https://xl0.github.io/lovely-jax>
+- [google/paxml](https://github.com/google/paxml): Pax is a Jax-based machine
+  learning framework for training large scale models. Pax allows for advanced
+  and fully configurable experimentation and parallelization, and has
+  demonstrated industry leading model flop utilization rates.
+- [apple/axlearn](https://github.com/apple/axlearn): AXLearn is a library built
+  on top of JAX and XLA to support development of large-scale deep learning
+  models.
 
 ### DeepMind specialization
 
