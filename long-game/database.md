@@ -28,6 +28,8 @@
   Awesome materials about database development.
 - [erikgrinaker/readings](https://github.com/erikgrinaker/readings): Interesting
   readings and talks on computer science
+- [Qiaolin-Yu/paper-reading](https://github.com/Qiaolin-Yu/paper-reading): A
+  list of papers I have read.
 
 ### Talks
 
@@ -136,8 +138,8 @@
 - [memgraph/memgraph](https://github.com/memgraph/memgraph): Open-source graph
   database, built for real-time streaming data, compatible with Neo4j.
   <https://memgraph.com>
-- [Netflix/atlas/blob/main/build.sbt](https://github.com/Netflix/atlas/blob/main/build.sbt):
-  In-memory dimensional time series database.
+- [Netflix/atlas](https://github.com/Netflix/atlas): In-memory dimensional time
+  series database.
 
 ### KV
 
@@ -288,6 +290,13 @@
   <https://www.pgadmin.org>
 - [zalando/spilo](https://github.com/zalando/spilo): Highly available elephant
   herd: HA PostgreSQL cluster using Docker
+- [tembo-io/pgmq](https://github.com/tembo-io/pgmq): A lightweight message
+  queue. Like AWS SQS and RSMQ but on Postgres.
+  - [Anatomy of a Postgres extension written in Rust: pgmq](https://tembo.io/blog/postgres-extension-in-rust-pgmq)
+- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp): A Language
+  Server for Postgres <https://supabase.com>
+- [ChenHuajun/pg_roaringbitmap](https://github.com/ChenHuajun/pg_roaringbitmap):
+  RoaringBitmap extension for PostgreSQL
 
 ### SQLite
 

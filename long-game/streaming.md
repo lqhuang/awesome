@@ -85,6 +85,9 @@ Streaming Systems
   Streaming Applications in Rust <https://cda-group.github.io/arcon>
 - [Timeplus](https://www.timeplus.com): Unlock streaming data value now.
   - not an open source software
+- [infinyon/fluvio](https://github.com/infinyon/fluvio): Kafka + Flink in Rust +
+  WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming
+  platform powered by Rust and Web Assembly. <https://www.fluvio.io/>
 
 ## Messaging
 

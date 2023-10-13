@@ -20,6 +20,19 @@
   - [grahamking/perf-ninja-rs](https://github.com/grahamking/perf-ninja-rs):
     Rust port of dendibakh/perf-ninja
 
+## Linux Tuning
+
+- [Linux Performance](https://www.brendangregg.com/linuxperf.html): Brendan
+  Gregg's homepage
+- [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters):
+  Learn where some of the network sysctl variables fit into the Linux/Kernel
+  network flow. Translations: 🇷🇺
+  <https://github.com/leandromoreira/linux-network-performance-parameters>
+- [intel/PerfSpect](https://github.com/intel/PerfSpect): system performance
+  characterization tool based on linux perf
+- [baidu/dperf](https://github.com/baidu/dperf): dperf is a DPDK based 100Gbps
+  network performance and load testing software.
+
 ## BPF
 
 - [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book):
@@ -32,6 +45,11 @@
   Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习
   eBPF，包含性能、网络、安全等多种应用场景 <https://tutorial.eunomia.dev/>
 - [DavadDi/bpf_study](https://github.com/DavadDi/bpf_study): bpf 学习仓库
+
+## Serialization Protocl
+
+- [capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto
+  serialization/RPC system - core tools and C++ library <https://capnproto.org>
 
 ## Performance profile
 
@@ -57,3 +75,26 @@
   for C/C++/Rust <https://uftrace.github.io/slide>
 - 🌟 [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based
   Linux IO analysis, networking, monitoring, and more
+
+## WASM Runtime
+
+- [wasm3/wasm3](https://github.com/wasm3/wasm3): 🚀 The fastest WebAssembly
+  interpreter, and the most universal runtime
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime):
+  Standalone JIT-style runtime for WebAssembly, using Cranelift
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer): 🚀 The leading
+  WebAssembly Runtime supporting WASI and Emscripten
+- [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python): 🐍🕸
+  WebAssembly runtime for Python
+- [pyodide/pyodide](https://github.com/pyodide/pyodide): Pyodide is a Python
+  distribution for the browser and Node.js based on WebAssembly
+- [fermyon/spin](https://github.com/fermyon/spin): Spin is an open source
+  framework for building and running fast, secure, and composable cloud
+  microservices with WebAssembly
+- [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack): 📦✨ your
+  favorite rust -> wasm workflow tool! <https://rustwasm.github.io/wasm-pack>
+- [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic):
+  Lunatic is an Erlang-inspired runtime for WebAssembly
+  <https://lunatic.solutions>
+- [extism/extism](https://github.com/extism/extism): Extend anything with
+  WebAssembly. <https://extism.org>

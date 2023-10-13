@@ -1,8 +1,6 @@
 # The Curse of Strong Typing
 
-## Resources
-
-## Books & Readings
+## Books
 
 - [winitzki/sofp](https://github.com/winitzki/sofp): A free book: "The Science
   of Functional Programming"
@@ -12,8 +10,6 @@
   Elementary Algorithms and Data structures
 - 🌟 [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book
   about math and programming.
-- [Trebor-Huang/history](https://github.com/Trebor-Huang/history): History of
-  type theory (Chinese).
 - [typeclasses/haskell-phrasebook](https://github.com/typeclasses/haskell-phrasebook):
   The Haskell Phrasebook: a quick intro to Haskell via small annotated example
   programs <https://typeclasses.com/phrasebook>
@@ -32,10 +28,6 @@
   手撸解释器教程《Crafting Interpreters》中文翻译
 - [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP): The Dao of
   Functional Programming
-- [Extensible Effects](https://okmij.org/ftp/Haskell/extensible/): an
-  alternative to Monad Transformers
-  - [paper: Freer Monads, More Extensible Effects](https://okmij.org/ftp/Haskell/extensible/more.pdf)
-  - [paper: Extensible Effects](https://legacy.cs.indiana.edu/~sabry/papers/exteff.pdf)
 - [jpvillaisaza/cain](https://github.com/jpvillaisaza/cain): Category theory
   applied to functional programming (undergraduate project)
   <https://jpvillaisaza.co/cain/cain.pdf>
@@ -43,6 +35,21 @@
   Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX
   source
   <https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/>
+- [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/):Lean
+  is an interactive theorem prover developed at Microsoft Research, based on
+  dependent type theory. Dependent type theory unites the worlds of programs and
+  proofs; thus, Lean is also a programming language.
+
+## Readings & Resources
+
+- [Trebor-Huang/history](https://github.com/Trebor-Huang/history): History of
+  type theory (Chinese).
+- [Extensible Effects](https://okmij.org/ftp/Haskell/extensible/): an
+  alternative to Monad Transformers
+  - [paper: Freer Monads, More Extensible Effects](https://okmij.org/ftp/Haskell/extensible/more.pdf)
+  - [paper: Extensible Effects](https://legacy.cs.indiana.edu/~sabry/papers/exteff.pdf)
+- [Kerodon](https://kerodon.net): an online resource for homotopy-coherent
+  mathematics
 
 ### Tutorials
 
@@ -63,6 +70,8 @@
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell): 👩‍🏫 👨‍🏫
   Learn Haskell basics in 4 pull requests
   <https://kowainik.github.io/projects/learn4haskell>
+- [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book):
+  Getting started with static program analysis. 静态程序分析入门教程。
 
 ### Talks
 
@@ -116,11 +125,13 @@
   abstract interface
 - [ekmett/structs](https://github.com/ekmett/structs): Exploring how to make a
   strict imperative universe in the GHC runtime system.
-- [ekmett/ad](https://github.com/ekmett/ad): Automatic Differentiation
-  <http://hackage.haskell.org/package/ad>
 - [ekmett/trifecta](https://github.com/ekmett/trifecta): Parser combinators with
   highlighting, slicing, layout, literate comments, Clang-style diagnostics and
   the kitchen sink <http://ekmett.github.com/trifecta/>
+- 🌟 [ekmett/ad](https://github.com/ekmett/ad): Automatic Differentiation
+  <http://hackage.haskell.org/package/ad>
+- 🌟 [google/mlir-hs](https://github.com/google/mlir-hs): Haskell bindings for
+  MLIR
 
 ### CLI
 
@@ -128,6 +139,8 @@
   supporting Command Line Interface Guidelines
 - [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative):
   Applicative option parser
+- [tweag/ormolu](https://github.com/tweag/ormolu): A formatter for Haskell
+  source code <https://ormolu-live.tweag.io>
 
 ### Web
 
@@ -175,6 +188,10 @@
   and interpreter <https://koka-lang.org>
 - [Kindelia/HVM](https://github.com/Kindelia/HVM): A massively parallel, optimal
   functional runtime in Rust
+- [HigherOrderCO/hvm-core](https://github.com/HigherOrderCO/hvm-core): No
+  description, website, or topics provided.
+- [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind): A next-gen
+  functional language <https://kindelia.org/>
 - [google-research/dex-lang](https://github.com/google-research/dex-lang):
   Research language for array processing in the Haskell/ML family
 - [unisonweb/unison](https://github.com/unisonweb/unison): A friendly
@@ -182,8 +199,6 @@
 - [effekt-lang/effekt](https://github.com/effekt-lang/effekt): A research
   language with effect handlers and lightweight effect polymorphism
   <https://effekt-lang.org/>
-- [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind): A next-gen
-  functional language <https://kindelia.org/>
 - [inko-lang/inko](https://github.com/inko-lang/inko): A language for building
   concurrent software with confidence <http://inko-lang.org/>
 - [austral/austral](https://github.com/austral/austral): Systems language with

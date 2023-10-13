@@ -172,6 +172,11 @@
 - 🌟 [skypjack/uvw](https://github.com/skypjack/uvw): Header-only, event based,
   tiny and easy to use libuv wrapper in modern C++ - now available as also
   shared/static library!
+- [randombit/botan](https://github.com/randombit/botan): Cryptography Toolkit
+  <https://botan.randombit.net>
+- [openucx/ucx](https://github.com/openucx/ucx): Unified Communication X
+  (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
+  <http://www.openucx.org>
 
 ## Memory allocator
 
@@ -213,6 +218,8 @@
   Functional Terminal User Interface. ❤️
 - [intel/hyperscan](https://github.com/intel/hyperscan): High-performance
   regular expression matching library <https://www.hyperscan.io>
+- 🌟 [p-ranav/argparse](https://github.com/p-ranav/argparse): Argument Parser
+  for Modern C++
 
 ## ???
 

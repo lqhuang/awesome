@@ -11,9 +11,6 @@
   A list of papers about distributed consensus.
   <https://heidihoward.github.io/distributed-consensus-reading-list>
 - [CS525 UIUC SP21: Reading List](https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/)
-- [Flexible Paxos](https://fpaxos.github.io/): Flexible Paxos is the simple
-  observation that it is not necessary to require all quorums in Paxos to
-  intersect.
 - [mwhittaker/consistency_in_distributed_systems](https://github.com/mwhittaker/consistency_in_distributed_systems):
   Distributed Systems Consistency Reading Group
   <https://mwhittaker.github.io/consistency_in_distributed_systems>
@@ -120,11 +117,6 @@
   ergonomics. You can use it to replace most of Memcached or a subset of Redis
   features. <https://pelikan.io/>
 
-## Serialization Protocl
-
-- [capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto
-  serialization/RPC system - core tools and C++ library <https://capnproto.org>
-
 ## Distributed consensus
 
 ### Viewstamped Replication
@@ -142,12 +134,20 @@
   distributed log implemented as a Rust library. <https://omnipaxos.com/>
 - [efficient/epaxos](https://github.com/efficient/epaxos): EPaxos is an
   efficient, leaderless replication protocol <http://efficient.github.io/epaxos>
+  - ? mencius & fast mencius
+- [Flexible Paxos](https://fpaxos.github.io/): Flexible Paxos is the simple
+  observation that it is not necessary to require all quorums in Paxos to
+  intersect.
+- [UWSysLab/NOPaxos](https://github.com/UWSysLab/NOPaxos): NOPaxos consensus
+  protocol <http://syslab.cs.washington.edu/research/codesigned-distsys/>
 - [vitorenesduarte/fantoch](https://github.com/vitorenesduarte/fantoch):
   framework for evaluating (planet-scale) consensus protocols
 - [zowens/paxos-rs](https://github.com/zowens/paxos-rs): Paxos implementation in
   Rust
 - [openacid/abstract-paxos](https://github.com/openacid/abstract-paxos): A
   consensus that unifies paxos, raft, 2pc, etc.
+- [denizalti/paxosmmc](https://github.com/denizalti/paxosmmc): Paxos Made
+  Moderately Complex
 
 ### Raft
 
@@ -199,6 +199,9 @@
   writing toy implementations of distributed systems.
 - 🌟 [dranov/protocol-bugs-list](https://github.com/dranov/protocol-bugs-list):
   List of bugs found in distributed protocols
+- [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy): ⏰ 🔥 A TCP proxy
+  to simulate network and system conditions for chaos and resiliency testing
+  <https://github.com/shopify/toxiproxy>
 
 ## Formal verification
 
@@ -208,3 +211,7 @@
   learn an algorithm and protocol, study a specification
 - [Vanlightly/vsr-tlaplus](https://github.com/Vanlightly/vsr-tlaplus): TLA+
   specifications related to Viewstamped Replication
+- [informalsystems/quint](https://github.com/informalsystems/quint): Quint is a
+  tool for _understanding_. It is an executable specification language with
+  design and tooling focused on usability. It is based on the Temporal Logic of
+  Actions

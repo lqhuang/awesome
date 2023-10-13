@@ -16,6 +16,11 @@
 - [mit-han-lab/parallel-computing-tutorial](https://github.com/mit-han-lab/parallel-computing-tutorial):
   This repository introduces several optimization techniques that can be applied
   to improve the parallelism of matrix multiplication.
+- [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter):
+  Everything you want to know about Google Cloud TPU
+- [stas00/ml-engineering](https://github.com/stas00/ml-engineering): Machine
+  Learning Engineering Guides and Tools
+  <https://stasosphere.com/machine-learning/>
 
 ### Books
 
@@ -53,6 +58,10 @@
   learning in Python <https://riverml.xyz>
 - 🌟 [geohot/tinygrad](https://github.com/geohot/tinygrad): You like pytorch?
   You like micrograd? You love tinygrad! ❤️ <https://tinygrad.org/>
+- [intelligent-machine-learning/dlrover](https://github.com/intelligent-machine-learning/dlrover):
+  DLRover: An Automatic Distributed Deep Learning System
+- [thu-ml/tianshou](https://github.com/thu-ml/tianshou): An elegant PyTorch deep
+  reinforcement learning library. <https://tianshou.readthedocs.io>
 
 ### Optimization
 
@@ -126,6 +135,8 @@
   in one file of pure C
 - [ayaka14732/llama-2-jax](https://github.com/ayaka14732/llama-2-jax): JAX
   implementation of the Llama 2 model
+- [tairov/llama2.mojo](https://github.com/tairov/llama2.mojo): Inference Llama 2
+  in one file of pure 🔥
 - [explosion/curated-transformers](https://github.com/explosion/curated-transformers):
   🤖 A PyTorch library of curated Transformer models and their composable
   components
@@ -287,6 +298,9 @@
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable
   PyTrees and filtered transforms => neural networks in JAX.
   <https://docs.kidger.site/equinox>
+- [patrick-kidger/optimistix](https://github.com/patrick-kidger/optimistix):
+  Nonlinear optimisation (root-finding, least squares, ...) in JAX+Equinox.
+  <https://docs.kidger.site/optimistix>
 - [stanford-crfm/levanter](https://github.com/stanford-crfm/levanter): Legibile,
   Scalable, Reproducible Foundation Models with Named Tensors and Jax
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX

@@ -317,6 +317,24 @@
 - [SnellerInc/sneller](https://github.com/SnellerInc/sneller): World's fastest
   log analysis: λ + SQL + JSON + S3 <https://sneller.io>
 
+### Benchmark
+
+- [codesenberg/bombardier](https://github.com/codesenberg/bombardier): Fast
+  cross-platform HTTP benchmarking tool written in Go
+- [wg/wrk](https://github.com/wg/wrk): Modern HTTP benchmarking tool
+- [lnx-search/rewrk](https://github.com/lnx-search/rewrk): A more modern http
+  framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks.
+- [hatoo/oha](https://github.com/hatoo/oha): Ohayou(おはよう), HTTP load
+  generator, inspired by rakyll/hey with tui animation.
+- [parca-dev/parca](https://github.com/parca-dev/parca): Continuous profiling
+  for analysis of CPU and memory usage, down to the line number and throughout
+  time. Saving infrastructure cost, improving performance, and increasing
+  reliability. <https://parca.dev>
+- [grafana/k6](https://github.com/grafana/k6): A modern load testing tool, using
+  Go and JavaScript - https://k6.io
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine): A command-line
+  benchmarking tool
+
 ### Logger search and analytics
 
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu): Jitsu is an open-source
@@ -342,6 +360,8 @@
 - [PostHog/posthog](https://github.com/PostHog/posthog): 🦔 PostHog provides
   open-source product analytics, session recording, feature flagging and a/b
   testing that you can self-host. <https://posthog.com>
+- 🌟 [steven-tey/dub](https://github.com/steven-tey/dub): An open-source link
+  shortener with built-in analytics + free custom domains. <https://dub.co>
 
 ## Build systems
 
@@ -400,8 +420,8 @@
   The blessed GitHub Action, for publishing your 📦 distribution files to PyPI:
   https://github.com/marketplace/actions/pypi-publish
   <https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/>
-- [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated
-  list of awesome actions to use on GitHub <https://desktop.github.com>
+- 🌟 [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A
+  curated list of awesome actions to use on GitHub <https://desktop.github.com>
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions):
   GitHub token permissions Monitor and Advisor actions
 
@@ -434,6 +454,9 @@
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto): A curated and
   opinionated list of resources for Chief Technology Officers, with the emphasis
   on startups
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer):
+  Learn how to design large-scale systems. Prep for the system design interview.
+  Includes Anki flashcards.
 
 ### Open Source & Community
 

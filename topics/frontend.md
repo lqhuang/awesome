@@ -35,9 +35,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ## Framework
 
-- 🌟 [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript
-  runtime, bundler, transpiler and package manager – all in one.
-  <https://bun.sh>
 - [denoland/fresh](https://github.com/denoland/fresh): The next-gen web
   framework. <https://fresh.deno.dev>
 - [honojs/hono](https://github.com/honojs/hono): Ultrafast web framework for
@@ -45,14 +42,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine): A rugged, minimal
   framework for composing JavaScript behavior in your markup.
   <https://alpinejs.dev>
-- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app): The best way
-  to start a full-stack, typesafe Next.js app <https://create.t3.gg>
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood): The App Framework
-  for Startups <https://redwoodjs.com>
 - [trpc/trpc](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing.
   End-to-end typesafe APIs made easy. <https://trpc.io>
-- [refinedev/refine](https://github.com/refinedev/refine): Build your
-  React-based CRUD applications, without constraints. <https://refine.dev>
 - [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework
   <https://waku.gg>
 - 🌟 [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js):
@@ -60,6 +51,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ### Templates
 
+- [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app): The best way
+  to start a full-stack, typesafe Next.js app <https://create.t3.gg>
 - 🌟 [steven-tey/precedent](https://github.com/steven-tey/precedent): An
   opinionated collection of components, hooks, and utilities for your Next.js
   project. <https://precedent.dev>
@@ -71,6 +64,22 @@ Major in React ecosystem, but also include other frameworks and libraries.
   Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing
   tools, and more to accelerate your development.
   <https://next-enterprise.vercel.app>
+- [akd-io/create-next-stack](https://github.com/akd-io/create-next-stack):
+  Create Next Stack is a website and CLI tool used to easily set up the
+  boilerplate of new Next.js apps. <https://www.create-next-stack.com>
+- [stacksjs/stacks](https://github.com/stacksjs/stacks): ⚛️ Type-safe full-stack
+  framework for Artisans. Develop modern clouds, apps & framework-agnostic
+  libraries, faster. <https://stacksjs.org>
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood): The App Framework
+  for Startups <https://redwoodjs.com>
+- [refinedev/refine](https://github.com/refinedev/refine): Build your
+  React-based CRUD applications, without constraints. <https://refine.dev>
+- [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog):
+  This is a Next.js, Tailwind CSS blogging starter template. Comes out of the
+  box configured with the latest technologies to make technical writing a
+  breeze. Easily configurable and customizable. Perfect as a replacement to
+  existing Jekyll and Hugo individual blogs.
+  <https://tailwind-nextjs-starter-blog.vercel.app/>
 
 ## Components library
 
@@ -248,6 +257,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js): A
   light-weight, no-dependency, vanilla JavaScript engine to drive the user's
   focus across the page <https://driverjs.com>
+- [prevwong/craft.js](https://github.com/prevwong/craft.js): 🚀 A React
+  Framework for building extensible drag and drop page editors
+  <https://craft.js.org>
 
 ### Form
 
@@ -427,6 +439,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
   rendering and animated transitions using D3
 - [YYsuni/react18-json-view](https://github.com/YYsuni/react18-json-view): JSON
   viewer for react18 <https://jv.yysuni.com/>
+- [processing/p5.js](https://github.com/processing/p5.js): p5.js is a
+  client-side JS platform that empowers artists, designers, students, and anyone
+  to learn to code and express themselves creatively on the web. It is based on
+  the core principles of Processing. http://twitter.com/p5xjs —
+  <http://p5js.org/>
 
 ## Not only Web
 
@@ -535,6 +552,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   version manager, built in Rust <https://fnm.vercel.app>
 - [volta-cli/volta](https://github.com/volta-cli/volta): Volta: JS Toolchains as
   Code. ⚡ <https://volta.sh>
+- 🌟 [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript
+  runtime, bundler, transpiler and package manager – all in one.
+  <https://bun.sh>
 
 ## Misc
 
@@ -556,14 +576,20 @@ Major in React ecosystem, but also include other frameworks and libraries.
   fast virtual DOM that makes React up to 70% faster! <https://millionjs.org>
 - 🌟 [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser,
   mangler and compressor toolkit for ES6+ <https://terser.org>
-- [akd-io/create-next-stack](https://github.com/akd-io/create-next-stack):
-  Create Next Stack is a website and CLI tool used to easily set up the
-  boilerplate of new Next.js apps. <https://www.create-next-stack.com>
 - [perfsee/perfsee](https://github.com/perfsee/perfsee): a set of tools for
   measuring and debugging performance of frontend applications
   <https://perfsee.com>
 - [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics):
   simple statistics for node & browser javascript <http://simplestatistics.org/>
+- [google/model-viewer](https://github.com/google/model-viewer): Easily display
+  interactive 3D models on the web and in AR! <https://modelviewer.dev>
+- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle): A
+  React-based library for creating sleek presentations using JSX syntax that
+  gives you the ability to live demo your code.
+  <http://formidable.com/open-source/spectacle/>
+- [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages): CLI
+  to build and develop Next.js apps for Cloudflare Pages
+  <https://www.npmjs.com/package/@cloudflare/next-on-pages>
 
 ## SSG
 

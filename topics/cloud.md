@@ -99,6 +99,10 @@
 - [projectcontour/contour](https://github.com/projectcontour/contour): Contour
   is a Kubernetes ingress controller using Envoy proxy.
   <https://projectcontour.io>
+- [nginx/unit](https://github.com/nginx/unit): NGINX Unit - universal web app
+  server - a lightweight and versatile open source server that simplifies the
+  application stack by natively executing application code across eight
+  different programming language runtimes. <https://unit.nginx.org>
 
 ## Cloud native
 
@@ -167,6 +171,10 @@
 
 - [hashicorp/nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler):
   Nomad Autoscaler brings autoscaling to your Nomad workloads.
+- [cosmonic/netreap](https://github.com/cosmonic/netreap): A Cilium controller
+  implementation for Nomad <https://netreap.io>
+- [terraform-linters/tflint](https://github.com/terraform-linters/tflint): A
+  Pluggable Terraform Linter
 
 ## Infrastructure less
 
@@ -297,3 +305,6 @@
   Vercel, Elixir and Javascript. <https://logflare.app>
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs): Write
   Cloudflare Workers in 100% Rust via WebAssembly
+- [SukkaW/dashflare](https://github.com/SukkaW/dashflare): An unofficial
+  Cloudflare dashboard built on top of Cloudflare API.
+  <https://dashflare.skk.moe>

@@ -28,6 +28,9 @@
 - [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods):
   Collection of notebooks about quantitative finance, with interactive python
   code.
+- [hugo2046/QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook): 量化研
+  究-券商金工研报复现
+  <https://www.joinquant.com/user/9df4817f9c39c67ea27e97be2b182d1c>
 
 ### Books
 
@@ -106,6 +109,9 @@
   to continuously improve the script.
 - [quantmind/quantflow](https://github.com/quantmind/quantflow): Quantitative
   finance and derivative pricing <https://quantmind.github.io/quantflow/>
+- [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster):
+  TradeMaster is an open-source platform for quantitative trading empowered by
+  reinforcement learning 🔥 ⚡ 🌈
 
 ## Backtesting
 
@@ -268,3 +274,7 @@
   top AI conferences and journals.
 - [Rachnog/Deep-Trading](https://github.com/Rachnog/Deep-Trading): Algorithmic
   trading with deep learning experiments
+- [MetaGLM/FinGLM](https://github.com/MetaGLM/FinGLM): 📃 FinGLM: 致力于构建一个
+  开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。
+- [ProsusAI/finBERT](https://github.com/ProsusAI/finBERT): Financial Sentiment
+  Analysis with BERT

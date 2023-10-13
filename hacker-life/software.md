@@ -69,6 +69,16 @@
 - [darktable-org/darktable](https://github.com/darktable-org/darktable):
   darktable is an open source photography workflow application and raw developer
   <https://www.darktable.org>
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io):
+  The best and simplest free open source website change detection, restock
+  monitor and notification service. Restock Monitor, change detection. Designed
+  for simplicity - Simply monitor which websites had a text change for free.
+  Free Open source web page change detection, Website defacement monitoring,
+  Price change and Price Drop notification <https://changedetection.io>
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): Your One-Stop Publication
+  Workbench <https://www.zettlr.com>
+- [sagemath/sage](https://github.com/sagemath/sage): Main repository of
+  SageMath. Now open for Issues and Pull Requests. <https://www.sagemath.org>
 
 ## macOS / iPadOS
 
@@ -148,6 +158,11 @@
   theme for Squirrel(Rime for MacOS)
 - 🌟 [ninxsoft/Mist](https://github.com/ninxsoft/Mist): A Mac utility that
   automatically downloads macOS Firmwares / Installers.
+- [zenangst/Gray](https://github.com/zenangst/Gray): 🌓 Tailor your macOS Mojave
+  experience <https://github.com/zenangst>
+- [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget):
+  Open source AppStore sales monitor with widget
+  <https://apps.apple.com/de/app/ac-widget/id1562025981>
 
 ### Free / Paid
 
@@ -206,6 +221,15 @@
 - [QSpace](https://qspace.awehunt.com/zh-cn/index.html): 一款简洁高效的多窗格文
   件管理器，灵活且实用！
 - [WhaleDeck](https://whaledeck.io/): Streamline Your Docker Management
+- 🌟 [Yomu EBook Reader](https://www.yomu-reader.com): An independent reader for
+  book lovers.
+- [HabitKit](https://www.habitkit.app/): The coolest way to track your habits
+  and streaks. Build new habits by tracking your progress in awesome tile-based
+  grid charts and try to fill the squares everyday.
+- [Liftbear Workout Log](https://www.liftbear.app/): The easiest way to track
+  your workouts and sessions. Building an impressive physique requires
+  progressive overload over time. Liftbear helps you keeping track of weights,
+  reps, exercises and much more.
 
 ## Services
 

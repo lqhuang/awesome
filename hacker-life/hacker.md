@@ -1,129 +1,5 @@
 # Control your work flow
 
-## CLI
-
-### Resources
-
-- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines):
-  A guide to help you write better command-line programs, taking traditional
-  UNIX principles and updating them for the modern day. <https://clig.dev>
-- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line):
-  Master the command line, in one page
-- [awesome-macos-command-line](https://git.herrbischoff.com/awesome-macos-command-line/about/):A
-  curated list of shell commands and tools specific to macOS.
-- [awesome-command-line-apps](https://git.herrbischoff.com/awesome-command-line-apps/about/):
-  A curated list of useful command line apps, in celebration of the TUI.
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated
-  list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired
-  by awesome-php.
-- 🌟 [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A
-  collection of modern/faster/saner alternatives to common unix commands.
-- [xuxiaodong/usingcli-book](https://github.com/xuxiaodong/usingcli-book): 像黑
-  客一样使用命令行 <https://selfhostedserver.com/usingcli-book>
-- [kushaldas/lym](https://github.com/kushaldas/lym): Linux command line for you
-  and me <https://lym.readthedocs.io/en/latest>
-- [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet
-  you need <https://cheat.sh/>
-
-### command
-
-- [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm): Intercept any
-  risky patterns (default or defined by you) and prompt you a small challenge
-  for double verification
-- [sharkdp/fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly
-  alternative to 'find'
-- [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
-- [sigoden/dufs](https://github.com/sigoden/dufs): A file server that supports
-  static serving, uploading, searching, accessing control, webdav...
-- [svenstaro/miniserve](https://github.com/svenstaro/miniserve): 🌟 For when you
-  really just want to serve some files over HTTP right now!
-- [rejetto/hfs](https://github.com/rejetto/hfs/): HFS is a web file server to
-  run on your computer. Share folders or even a single file thanks to the
-  virtual file system. <https://telegram.dog/hfsusers>
-- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless): jless
-  is a command-line JSON viewer designed for reading, exploring, and searching
-  through JSON data. <https://jless.io>
-- [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal
-  session recorder 📹 <https://asciinema.org>
-- [asciinema/agg](https://github.com/asciinema/agg): asciinema gif generator
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs): Your CLI home video
-  recorder 📼
-- [ellie/atuin](https://github.com/ellie/atuin): 🐢 Magical shell history
-  <https://atuin.sh>
-- [blicky/ncdu](https://g.blicky.net/ncdu.git): Ncdu (NCurses Disk Usage) is a
-  disk usage analyzer with an ncurses interface. <https://dev.yorhel.nl/ncdu>
-- [bootandy/dust](https://github.com/bootandy/dust): A more intuitive version of
-  du in rust
-- [Byron/dua-cli](https://github.com/Byron/dua-cli): View disk space usage and
-  delete unwanted data, fast.
-- [lra/mackup](https://github.com/lra/mackup): Keep your application settings in
-  sync (OS X/Linux)
-- [exdx/dcp](https://github.com/exdx/dcp): docker cp made easy
-- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen): Fast file
-  synchronization and network forwarding for remote development
-  <https://mutagen.io>
-- [chshersh/tool-sync](https://github.com/chshersh/tool-sync): 🧰 Download
-  pre-built binaries of all your favourite tools with a single command
-- 🌟 [dalance/procs](https://github.com/dalance/procs): A modern replacement for
-  ps written in Rust
-- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker):
-  Nosey Parker is a command-line program that finds secrets and sensitive
-  information in textual data and Git history.
-- [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running
-  program to a new terminal
-- [ouch-org/ouch](https://github.com/ouch-org/ouch): Painless compression and
-  decompression for your terminal
-- [solidiquis/erdtree](https://github.com/solidiquis/erdtree): A multi-threaded
-  file-tree visualizer and disk usage analyzer.
-- [mptre/yank](https://github.com/mptre/yank): Yank terminal output to clipboard
-- [skywind3000/z.lua](https://github.com/skywind3000/z.lua): ⚡ A new cd command
-  that helps you navigate faster by learning your habits.
-- [peco/peco](https://github.com/peco/peco): Simplistic interactive filtering
-  tool
-- [johnkerl/miller](https://github.com/johnkerl/miller): Miller is like awk,
-  sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular
-  JSON <https://miller.readthedocs.io/>
-- [zwpaper/dilu](https://github.com/zwpaper/dilu): A colorful CLI client with
-  icons for accessing data via OpenDAL
-- 🌟 [binpash/try](https://github.com/binpash/try): "Do, or do not. There is no
-  try." We're setting out to change that: `try cmd` and commit---or not.
-- 🌟 [pvolok/mprocs](https://github.com/pvolok/mprocs): Run multiple commands in
-  parallel
-- 🌟 [charmbracelet/gum](https://github.com/charmbracelet/gum): A tool for
-  glamorous shell scripts 🎀
-- 🌟 [rs/dnstrace](https://github.com/rs/dnstrace): DNS resolution tracing tool
-- [wilfred/difftastic](https://github.com/wilfred/difftastic): a structural diff
-  that understands syntax 🟥🟩 <https://difftastic.wilfred.me.uk/>
-
-### TUI applications
-
-- 🌟 [veeso/termscp](https://github.com/veeso/termscp): 🖥 A feature rich
-  terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3
-  <https://termscp.veeso.dev/>
-- [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file
-  manager
-- [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto): ranger-like terminal
-  file manager written in Rust
-- [thetacom/hexabyte](https://github.com/thetacom/hexabyte): A modern, modular,
-  and robust TUI hex editor. <http://io.thetacom.info/hexabyte/>
-- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash): A beautiful CLI dashboard
-  for GitHub 🚀 <https://dlvhdr.github.io/gh-dash>
-- 🌟 [charmbracelet/wish](https://github.com/charmbracelet/wish): Make SSH apps,
-  just like that! 💫
-
-### Monitor
-
-- [nicolargo/glances](https://github.com/nicolargo/glances): Glances an Eye on
-  your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows
-  operating systems. <http://nicolargo.github.io/glances/>
-- [ClementTsang/bottom](https://github.com/ClementTsang/bottom): Yet another
-  cross-platform graphical process/system monitor.
-  <https://clementtsang.github.io/bottom>
-- [aristocratos/btop](https://github.com/aristocratos/btop): A monitor of
-  resources
-- [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress
-  and monitoring utility <https://amanusk.github.io/s-tui>
-
 ## Dev tools
 
 - 🌟 [z-shell/zi](https://github.com/z-shell/zi): ✨ A Swiss Army Knife for
@@ -171,6 +47,10 @@
   to push custom notifications to your iPhone <https://bark.day.app>
 - [axodotdev/oranda](https://github.com/axodotdev/oranda): 🎁 generate beautiful
   landing pages for your developer tools <https://opensource.axo.dev/oranda/>
+- [NixOS/nix](https://github.com/NixOS/nix): Nix, the purely functional package
+  manager <https://nixos.org/>
+  - [Welcome to nix.dev](https://nix.dev/): nix.dev is the home of official
+    documentation for the Nix ecosystem.
 
 ### Git
 
@@ -292,77 +172,6 @@
 - [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate): A
   self-hosted data logger for your Tesla 🚘 <https://docs.teslamate.org>
 
-## Proxy
-
-- [macronut/phantomsocks](https://github.com/macronut/phantomsocks): A
-  cross-platform proxy client/server for Linux/Windows/macOS
-- [enfein/mieru](https://github.com/enfein/mieru): 見える是一款 socks5 网络代理
-  工具。Mieru is a socks5 proxy to bypass censorship.
-- [eycorsican/leaf](https://github.com/eycorsican/leaf): A versatile and
-  efficient proxy framework with nice features suitable for various use cases.
-- [mingcheng/socks5lb](https://github.com/mingcheng/socks5lb): A simple socks5
-  proxy load balance and transparent proxy
-- [SukkaW/Surge](https://github.com/SukkaW/Surge): 由 Sukka 搜集、整理、维护的、
-  个人自用的、仅适用于 Surge 的 Rule Snippet <https://ruleset.skk.moe>
-- [nadoo/glider](https://github.com/nadoo/glider): glider is a forward proxy
-  with multiple protocols support, and also a dns/dhcp server with ipset
-  management features(like dnsmasq).
-- [apernet/hysteria](https://github.com/apernet/hysteria): Hysteria is a
-  feature-packed proxy & relay tool optimized for lossy, unstable connections
-  (e.g. satellite networks, congested public Wi-Fi, connecting to foreign
-  servers from China) <https://hysteria.network/>
-- [hashicorp/yamux](https://github.com/hashicorp/yamux): Golang connection
-  multiplexing library
-- [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest): 🌩「自
-  选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支
-  持其他 CDN / 网站 IP ~
-- [gwen001/cloudflare-origin-ip](https://github.com/gwen001/cloudflare-origin-ip):
-  Try to find the origin IP of a webapp protected by Cloudflare.
-- [OwO-Network/nexttrace-enhanced](https://github.com/OwO-Network/nexttrace-enhanced):
-  An open source visual route tracking CLI tool (Enhanced Edition)
-- [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace): An open source visual
-  route tracking CLI tool <https://trace.ac>
-- [iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv):
-  [Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ)
-  script one key easy configurator and installer
-- [hq450/fancyss](https://github.com/hq450/fancyss): fancyss is a project
-  providing tools to across the GFW on asuswrt/merlin based router.
-- [ihciah/shadow-tls](https://github.com/ihciah/shadow-tls): A proxy to expose
-  real tls handshake to the firewall
-  <https://www.ihcblog.com/a-better-tls-obfs-proxy>
-- [zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng): chinadns 重构增强版，
-  支持黑白名单，ipset/nftset
-- [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy): 搭建
-  SS/SSR/V2Ray/Trojan/Socks5 透明代理的 Shell 脚本
-- [nadoo/glider](https://github.com/nadoo/glider): glider is a forward proxy
-  with multiple protocols support, and also a dns/dhcp server with ipset
-  management features(like dnsmasq).
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit): Run a
-  VPN with global exit nodes with fly.io, tailscale and github!
-  <https://news.ycombinator.com/item?id=36064305>
-- [juewuy/ShellClash](https://github.com/juewuy/ShellClash): One-click
-  deployment and management of Clash services using Shell scripts in Linux
-  environment
-- [misakaio/chnroutes2](https://github.com/misakaio/chnroutes2): Better
-  aggregated chnroutes
-- [cppla/ServerStatus](https://github.com/cppla/ServerStatus): 云探针、多服务器
-  探针、云监控、多服务器云监控，演示： <https://tz.cloudcpp.com>
-- [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust): ✨ Rust 版
-  ServerStatus 探针、威力加强版 <https://ssr.rs/>
-
-### DNS
-
-- [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list):
-  Chinese-specific configuration to improve your favorite DNS server. Best
-  partner for chnroutes.
-- [pymumu/smartdns](https://github.com/pymumu/smartdns): A local DNS server to
-  obtain the fastest website IP for the best Internet experience， 一个本地 DNS
-  服务器，获取最快的网站 IP，获得最佳上网体验。
-- [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns): 一个 DNS 转发
-  器
-- [errantmind/faf-dns-proxy](https://github.com/errantmind/faf-dns-proxy): A
-  DNS-over-TLS (DoT) Proxy, Engineered for Speed
-
 ## Misc
 
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation):
@@ -392,6 +201,9 @@
 - 🌟 [djyde/notepal](https://github.com/djyde/notepal): A simple tool to
   import/export your book note <https://notepal.randysoft.org>
   - export WeBook to Readwise
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
+  ⚡ Dynamically generated stats for your github readmes
+  <https://github-readme-stats.vercel.app>
 
 ## Security / Privacy
 

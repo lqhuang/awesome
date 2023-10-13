@@ -99,16 +99,14 @@
   for Scala <https://www.optics.dev/Monocle>
 - [7mind/izumi](https://github.com/7mind/izumi): Productivity-oriented
   collection of lightweight fancy stuff for Scala toolchain
-- [wix/greyhound](https://github.com/wix/greyhound): Greyhound - Rich Kafka
-  client library
 - [scalapb-json/scalapb-circe](https://github.com/scalapb-json/scalapb-circe):
   Json/Protobuf convertors for ScalaPB use circe
 - [j-mie6/parsley](https://github.com/j-mie6/parsley): A fast and modern parser
   combinator library for Scala
-- [AugustNagro/magnum](https://github.com/AugustNagro/magnum): A 'new look' for
-  database access in Scala
 - [raquo/Airstream](https://github.com/raquo/Airstream): State propagation and
   event streams with mandatory ownership and no glitches
+- [devlaam/Leucine](https://github.com/devlaam/Leucine): Small x-platform actor
+  framework
 - [pathikrit/better-files](https://github.com/pathikrit/better-files): Simple,
   safe and intuitive Scala I/O <https://pathikrit.github.io/better-files/>
 - [agourlay/cornichon](https://github.com/agourlay/cornichon): Scala DSL for
@@ -119,8 +117,10 @@
 - [theiterators/http4s-stir](https://github.com/theiterators/http4s-stir):
   http4s-stir offers Pekko HTTP-style (Akka HTTP-style) DSL directives for
   http4s using cats-effect's IO as an effect system
-- 🌟 [softwaremill/quicklens](https://github.com/softwaremill/quicklens): Modify
-  deeply nested case class fields <https://softwaremill.com/open-source/>
+- [kzmake/uuid7s](https://github.com/kzmake/uuid7s): UUID version 7 in Scala
+- [wvlet/airframe](https://github.com/wvlet/airframe): Essential Building Blocks
+  for Scala <https://wvlet.org/airframe>
+  - ulid
 
 ### Experiments
 
@@ -147,16 +147,25 @@
 - 🌟 [scalalandio/chimney](https://github.com/scalalandio/chimney): Scala
   library for boilerplate-free, type-safe data transformations
   <https://scalalandio.github.io/chimney>
+- 🌟 [softwaremill/quicklens](https://github.com/softwaremill/quicklens): Modify
+  deeply nested case class fields <https://softwaremill.com/open-source/>
 - 🌟 [arainko/ducktape](https://github.com/arainko/ducktape): Automatic and
   customizable compile time transformations between similar case classes and
   sealed traits/enums, essentially a thing that glues your code. Scala 3 only.
   Or is it duct 🤔
-- [epfl-lara/stainless](https://github.com/epfl-lara/stainless): Verification
-  framework and tool for higher-order Scala programs <https://stainless.epfl.ch>
 - [earldouglas/linear-scala](https://github.com/earldouglas/linear-scala):
   Linear types in Scala
 - [scala-ts/scala-ts](https://github.com/scala-ts/scala-ts): 🔧 Scala datamodel
   transpiler <https://scala-ts.github.io/scala-ts>
+
+### Formal verification
+
+- [epfl-lara/stainless](https://github.com/epfl-lara/stainless): Verification
+  framework and tool for higher-order Scala programs <https://stainless.epfl.ch>
+- [uuverifiers/eldarica](https://github.com/uuverifiers/eldarica): The Eldarica
+  model checker
+- [uclid-org/uclid](https://github.com/uclid-org/uclid): UCLID5: formal
+  modeling, verification, and synthesis of computational systems
 
 ### Serialization
 
@@ -189,32 +198,29 @@
   Scala + Postgres.
 - [armanbilge/porcupine](https://github.com/armanbilge/porcupine):
   Skunk-inspired library for SQLite on JVM, Node.js, and Native
+- [AugustNagro/magnum](https://github.com/AugustNagro/magnum): A 'new look' for
+  database access in Scala
 - [postgresql-async/postgresql-async](https://github.com/postgresql-async/postgresql-async):
   Async, Netty based, database drivers for PostgreSQL and MySQL written in Scala
 - [ReactiveMongo/ReactiveMongo](https://github.com/ReactiveMongo/ReactiveMongo):
   🍃 Non-blocking, Reactive MongoDB Driver for Scala <http://reactivemongo.org>
+- [leviysoft/oolong](https://github.com/leviysoft/oolong): Compile-time query
+  generation for document stores
+- [wix/greyhound](https://github.com/wix/greyhound): Greyhound - Rich Kafka
+  client library
+- [fd4s/fs2-kafka](https://github.com/fd4s/fs2-kafka): Functional Kafka Streams
+  for Scala <https://fd4s.github.io/fs2-kafka>
+- [Banno/kafka4s](https://github.com/Banno/kafka4s): Functional programming with
+  Kafka and Scala <https://banno.github.io/kafka4s>
 
-### Misc
+### CLI
 
-- [scalatra/scalatra](https://github.com/scalatra/scalatra): Tiny Scala
-  high-performance, async web framework, inspired by Sinatra
-- [finagle/finch](https://github.com/finagle/finch): Scala combinator library
-  for building Finagle HTTP services
-- [raquo/Laminar](https://github.com/raquo/Laminar): Simple, expressive, and
-  safe UI library for Scala.js <https://laminar.dev>
-- [PurpleKingdomGames/tyrian](https://github.com/PurpleKingdomGames/tyrian):
-  Elm-inspired Scala UI library. <https://tyrian.indigoengine.io>
-- [scalameta/mdoc](https://github.com/scalameta/mdoc): Typechecked markdown
-  documentation for Scala <https://scalameta.org/mdoc>
-- [oyvindberg/tui-scala](https://github.com/oyvindberg/tui-scala): Beautiful
-  Text-based User Interfaces for Scala
-- [com-lihaoyi/PPrint](https://github.com/com-lihaoyi/PPrint): Pretty-printing
-  value, types and type-signatures in Scala
-  <https://com-lihaoyi.github.io/PPrint/>
 - [scala-native/scala-native-cli](https://github.com/scala-native/scala-native-cli):
   Command Line Interface for Scala Native
-- https://github.com/vpavkin/dtc
-- https://github.com/cquiroz/scala-java-time
+- [bkirwi/decline](https://github.com/bkirwi/decline): A composable command-line
+  parser for Scala. <https://ben.kirw.in/decline/>
+- [alexarchambault/case-app](https://github.com/alexarchambault/case-app):
+  Type-level & seamless command-line argument parsing for Scala
 
 ### Tools
 
@@ -242,6 +248,30 @@
   binary incompatibility in Scala
 - [andyglow/scala-jsonschema](https://github.com/andyglow/scala-jsonschema):
   Scala JSON Schema
+
+### Misc
+
+- [scalatra/scalatra](https://github.com/scalatra/scalatra): Tiny Scala
+  high-performance, async web framework, inspired by Sinatra
+- [finagle/finch](https://github.com/finagle/finch): Scala combinator library
+  for building Finagle HTTP services
+- [raquo/Laminar](https://github.com/raquo/Laminar): Simple, expressive, and
+  safe UI library for Scala.js <https://laminar.dev>
+- [PurpleKingdomGames/tyrian](https://github.com/PurpleKingdomGames/tyrian):
+  Elm-inspired Scala UI library. <https://tyrian.indigoengine.io>
+- [scalameta/mdoc](https://github.com/scalameta/mdoc): Typechecked markdown
+  documentation for Scala <https://scalameta.org/mdoc>
+- [oyvindberg/tui-scala](https://github.com/oyvindberg/tui-scala): Beautiful
+  Text-based User Interfaces for Scala
+- [com-lihaoyi/PPrint](https://github.com/com-lihaoyi/PPrint): Pretty-printing
+  value, types and type-signatures in Scala
+  <https://com-lihaoyi.github.io/PPrint/>
+- [JD557/interim](https://github.com/JD557/interim): Immediate mode GUI in pure
+  Scala
+- [ScalablyTyped/Converter](https://github.com/ScalablyTyped/Converter):
+  Typescript to Scala.js converter <https://scalablytyped.org>
+- https://github.com/vpavkin/dtc
+- https://github.com/cquiroz/scala-java-time
 
 ## Stream / Effect systems / Experiments
 
@@ -312,14 +342,10 @@
   library for Scala based on Cats-Effect
 - 🌟 [trace4cats/trace4cats](https://github.com/trace4cats/trace4cats):
   Distributed app tracing implementation in pure scala using cats-effect
-- [bkirwi/decline](https://github.com/bkirwi/decline): A composable command-line
-  parser for Scala. <https://ben.kirw.in/decline/>
 - [typelevel/toolkit](https://github.com/typelevel/toolkit): Quickstart your
   next app with the Typelevel Toolkit!
 - [cb372/cats-retry](https://github.com/cb372/cats-retry): A library for
   retrying actions that can fail. <https://cb372.github.io/cats-retry/>
-- [fd4s/fs2-kafka](https://github.com/fd4s/fs2-kafka): Functional Kafka Streams
-  for Scala <https://fd4s.github.io/fs2-kafka>
 - [typelevel/scalacheck-effect](https://github.com/typelevel/scalacheck-effect):
   Effectful property testing built on ScalaCheck
 - [typelevel/cats-effect-testing](https://github.com/typelevel/cats-effect-testing):

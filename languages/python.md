@@ -260,7 +260,7 @@
   Python profiler that provides a clear view of your application's execution
   while being both low-overhead and easy to use. <https://functiontrace.com/>
 
-## FP in Python
+## Type System in Python
 
 - 🌟 [python/typing](https://github.com/python/typing): Python static typing
   home. Hosts the documentation and a user help forum.
@@ -337,6 +337,8 @@
   reactive tools for Python 3.9+
 - [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent):
   Persistent/Immutable/Functional data structures for Python
+- [cgarciae/pypeln](https://github.com/cgarciae/pypeln): Concurrent data
+  pipelines in Python >>> <https://cgarciae.github.io/pypeln>
 
 ## Domain libraries
 
@@ -453,6 +455,8 @@
   <https://starlite-api.github.io/starlite>
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep): Fast ASGI web
   framework for Python <https://www.neoteroi.dev/blacksheep>
+- [AliRn76/Panther](https://github.com/AliRn76/Panther): Fast & Friendly Python
+  Web Framework <https://pantherpy.github.io>
 - [preludeorg/vertebrae](https://github.com/preludeorg/vertebrae): A
   security-focused app framework for Python micro services
 - [sansyrox/robyn](https://github.com/sansyrox/robyn): Robyn is a fast and
@@ -504,6 +508,8 @@
   powerful and easy-to-use Python framework for building asynchronous web
   services that interact with Any MQ Broker
   <https://lancetnik.github.io/Propan/>
+- [krptn/krypton](https://github.com/krptn/krypton): Data encryption at rest and
+  IAM for Python <https://www.krptn.dev/>
 
 ### DB clients and SQL utils
 

@@ -146,6 +146,10 @@
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper): Use
   ChatGPT to summarize the arXiv papers. 全流程加速科研，利用 chatgpt 进行论文全
   文总结+专业翻译+润色+审稿+审稿回复 <https://chatwithpaper.org>
+- [SpursGoZmy/Tabular-LLM](https://github.com/SpursGoZmy/Tabular-LLM): 本项目旨
+  在收集开源的表格智能任务数据集（比如表格问答、表格-文本生成等），将原始数据整
+  理为指令微调格式的数据并微调 LLM，进而增强 LLM 对于表格数据的理解，最终构建出
+  专门面向表格智能任务的大型语言模型。
 
 ## LLM Agents / Chains / Composability
 
@@ -170,6 +174,9 @@
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori): A
   reactive runtime for building durable AI agents
   <https://docs.thousandbirds.ai>
+- [microsoft/promptflow](https://github.com/microsoft/promptflow): Build
+  high-quality LLM apps - from prototyping, testing to production deployment and
+  monitoring. <https://microsoft.github.io/promptflow/>
 
 ## ChatGPT
 

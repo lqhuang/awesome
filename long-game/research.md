@@ -84,6 +84,9 @@
   determinants to the end of the book. The text focuses on the central goal of
   linear algebra: understanding the structure of linear operators on
   finite-dimensional vector spaces.
+- [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book): Welcome to the
+  Physics-based Deep Learning Book (v0.2)
+  <https://physicsbaseddeeplearning.org/>
 
 ## Novel approaches
 
@@ -111,6 +114,10 @@
 
 - [qutip/qutip](https://github.com/qutip/qutip): QuTiP: Quantum Toolbox in
   Python <https://qutip.org>
+- [optimaltransport/optimaltransport.github.io](https://github.com/optimaltransport/optimaltransport.github.io):
+  Web site of the Computational Optimal Transport book
+  - [Web: Computational Optimal Transport](https://optimaltransport.github.io)
+  - [arXiv: Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
 
 ## Misc
 
@@ -144,3 +151,10 @@
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat):
   Implementation of Nougat Neural Optical Understanding for Academic Documents
   <https://facebookresearch.github.io/nougat/>
+- [stacks/stacks-project](https://github.com/stacks/stacks-project): Repository
+  for the Stacks Project <http://stacks.math.columbia.edu>
+- [uemurax/morg](https://github.com/uemurax/morg): Organize mathematical
+  thoughts
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx):
+  A community-supported supercharged version of paperless: scan, index and
+  archive all your physical documents <https://docs.paperless-ngx.com>

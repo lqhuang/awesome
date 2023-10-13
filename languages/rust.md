@@ -351,6 +351,8 @@
   graphics api. <https://wgpu.rs>
 - [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust): Rust
   wrapper for ArrayFire
+- 🌟 [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8):
+  SIMD-accelerated UTF-8 validation for Rust.
 
 ## DS & Algorithms
 
@@ -496,8 +498,8 @@
 
 - [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark):
   Benchmarks for rust serialization frameworks
-- [rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization framework
-  for Rust
+- 🌟 [rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization
+  framework for Rust
 - [tokio-rs/prost](https://github.com/tokio-rs/prost): PROST! a Protocol Buffers
   implementation for the Rust Language
 - [tafia/quick-protobuf](https://github.com/tafia/quick-protobuf): A rust
@@ -539,17 +541,27 @@
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop): LR(1) parser generator
   for Rust <http://lalrpop.github.io/lalrpop>
 
-### Utils
+### Logging
 
-- 🌟 [zkat/miette](https://github.com/zkat/miette): Fancy upgrade to
-  `std::error::Error`.
-- [rust-cli/human-panic](https://github.com/rust-cli/human-panic): 😱 Panic
-  messages for humans.
-- [yaahc/eyre](https://github.com/yaahc/eyre): A trait object based error
-  handling type for easy idiomatic error handling and reporting in Rust
-  applications
-- [shepmaster/snafu](https://github.com/shepmaster/snafu): Easily assign
-  underlying errors into domain-specific errors while adding context
+- 🌟 [slog-rs/slog](https://github.com/slog-rs/slog): Structured, contextual,
+  extensible, composable logging for Rust
+
+### FFI
+
+- [salsa-rs/salsa](https://github.com/salsa-rs/salsa): A generic framework for
+  on-demand, incrementalized computation. Inspired by adapton, glimmer, and
+  rustc's query system. <https://salsa-rs.netlify.app>
+- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs): a multi-language
+  bindings generator for rust <https://mozilla.github.io/uniffi-rs>
+- [nvzqz/fruity](https://github.com/nvzqz/fruity): Rusty bindings for Apple
+  libraries
+- [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao): Rust bindings for
+  AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
+- [duchess-rs/duchess](https://github.com/duchess-rs/duchess): Experiments with
+  Java-Rust interop <https://duchess-rs.github.io/duchess>
+
+### Time or Date
+
 - [taiki-e/easytime](https://github.com/taiki-e/easytime): Providing wrapper
   types for safely performing panic-free checked arithmetic on instants and
   durations. <https://docs.rs/easytime>
@@ -561,33 +573,31 @@
   time management library in Rust
 - [tailhook/humantime](https://github.com/tailhook/humantime): A parser and
   formatter for `std::time::{SystemTime, Duration}`
+
+### Utils
+
+- 🌟 [zkat/miette](https://github.com/zkat/miette): Fancy upgrade to
+  `std::error::Error`.
+- [rust-cli/human-panic](https://github.com/rust-cli/human-panic): 😱 Panic
+  messages for humans.
+- [yaahc/eyre](https://github.com/yaahc/eyre): A trait object based error
+  handling type for easy idiomatic error handling and reporting in Rust
+  applications
+- [shepmaster/snafu](https://github.com/shepmaster/snafu): Easily assign
+  underlying errors into domain-specific errors while adding context
 - [yescallop/fluent-uri-rs](https://github.com/yescallop/fluent-uri-rs): A fast,
   easy URI parser that strictly adheres to IETF RFC 3986.
-- [j-tai/getargs](https://github.com/j-tai/getargs): A truly zero-cost argument
-  parser for Rust
-- [google/argh](https://github.com/google/argh): Rust derive-based argument
-  parsing optimized for code size
-- [pacak/bpaf](https://github.com/pacak/bpaf): Command line parser with
-  applicative interface
 - [frozenlib/parse-display](https://github.com/frozenlib/parse-display):
   Procedural macro to implement Display and FromStr using common settings.
-- 🌟 [slog-rs/slog](https://github.com/slog-rs/slog): Structured, contextual,
-  extensible, composable logging for Rust
 - [nushell/reedline](https://github.com/nushell/reedline): A readline
   replacement written in Rust
 - [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs): DEFLATE, gzip,
   and zlib bindings for Rust
-- 🌟 [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix): Safe
-  Rust bindings to POSIX-ish APIs
 - [rust-lang/stacker](https://github.com/rust-lang/stacker): Manual segmented
   stacks for Rust
-- [assert-rs/trycmd](https://github.com/assert-rs/trycmd): Snapshot testing for
-  a herd of CLI tests
 - [Keats/validator](https://github.com/Keats/validator): Simple validation for
   Rust structs
 - [jprochazk/garde](https://github.com/jprochazk/garde): Validation library
-- 🌟 [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8):
-  SIMD-accelerated UTF-8 validation for Rust.
 - 🌟 [smol-rs/fastrand](https://github.com/smol-rs/fastrand): A simple and fast
   random number generator
 - [Xuanwo/backon](https://github.com/Xuanwo/backon): Retry with backoff without
@@ -603,8 +613,17 @@
   Overwrite `assert_eq!` with a drop-in replacement, adding a colorful diff.
 - [RustCrypto/hashes](https://github.com/RustCrypto/hashes): Collection of
   cryptographic hash functions written in pure Rust
+- 🌟 [withoutboats/heck](https://github.com/withoutboats/heck): oh heck, a case
+  conversion library
 
 ## Domain related
+
+### System programming
+
+- 🌟 [bytecodealliance/rustix](https://github.com/bytecodealliance/rustix): Safe
+  Rust bindings to POSIX-ish APIs
+- 🌟 [bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std):
+  Capability-oriented version of the Rust standard library
 
 ### Network
 
@@ -669,17 +688,6 @@
   on Jinja2/Django
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja): MiniJinja is a
   powerful but minimal dependency template engine for Rust
-- [salsa-rs/salsa](https://github.com/salsa-rs/salsa): A generic framework for
-  on-demand, incrementalized computation. Inspired by adapton, glimmer, and
-  rustc's query system. <https://salsa-rs.netlify.app>
-- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs): a multi-language
-  bindings generator for rust <https://mozilla.github.io/uniffi-rs>
-- [nvzqz/fruity](https://github.com/nvzqz/fruity): Rusty bindings for Apple
-  libraries
-- [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao): Rust bindings for
-  AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
-- [duchess-rs/duchess](https://github.com/duchess-rs/duchess): Experiments with
-  Java-Rust interop <https://duchess-rs.github.io/duchess>
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming): A
   visualization library for Rust
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell): It's a New Kind of
@@ -691,6 +699,14 @@
 
 ### TUI
 
+- [j-tai/getargs](https://github.com/j-tai/getargs): A truly zero-cost argument
+  parser for Rust
+- [google/argh](https://github.com/google/argh): Rust derive-based argument
+  parsing optimized for code size
+- [pacak/bpaf](https://github.com/pacak/bpaf): Command line parser with
+  applicative interface
+- [assert-rs/trycmd](https://github.com/assert-rs/trycmd): Snapshot testing for
+  a herd of CLI tests
 - [Marwes/pretty.rs](https://github.com/Marwes/pretty.rs): Wadler-style
   pretty-printing combinators in Rust
 - [zhiburt/tabled](https://github.com/zhiburt/tabled): An easy to use library
@@ -708,6 +724,8 @@
   displaying spinners in the terminal
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui): Rust library to
   build rich terminal user interfaces (TUIs) and dashboards
+- [rust-cli/anstyle](https://github.com/rust-cli/anstyle): ANSI text styling
+  <https://docs.rs/anstyle>
 
 ### GUI
 
