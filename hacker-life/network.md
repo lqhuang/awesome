@@ -143,6 +143,10 @@
 - [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw): A Tunnel which Turns
   UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps
   you Bypass UDP FireWalls(or Unstable UDP Environment)
+- [googleforgames/quilkin](https://github.com/googleforgames/quilkin): Quilkin
+  is a non-transparent UDP proxy specifically designed for use with large scale
+  multiplayer dedicated game server deployments, to ensure security, access
+  control, telemetry data, metrics and more.
 - [SukkaW/Surge](https://github.com/SukkaW/Surge): 由 Sukka 搜集、整理、维护的、
   个人自用的、仅适用于 Surge 的 Rule Snippet <https://ruleset.skk.moe>
 - [nadoo/glider](https://github.com/nadoo/glider): glider is a forward proxy
@@ -191,6 +195,8 @@
 - [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list):
   Chinese-specific configuration to improve your favorite DNS server. Best
   partner for chnroutes.
+- [daeuniverse/dae](https://github.com/daeuniverse/dae): A Linux
+  high-performance transparent proxy solution based on eBPF.
 
 ## DNS
 
@@ -231,10 +237,8 @@
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go):
   An experiment in scalable routing as an encrypted IPv6 overlay network
   <https://yggdrasil-network.github.io>
-- [googleforgames/quilkin](https://github.com/googleforgames/quilkin): Quilkin
-  is a non-transparent UDP proxy specifically designed for use with large scale
-  multiplayer dedicated game server deployments, to ensure security, access
-  control, telemetry data, metrics and more.
+- [openziti/zrok](https://github.com/openziti/zrok): Geo-scale, next-generation
+  sharing platform built on top of OpenZiti. <https://zrok.io>
 - [ekzhang/bore](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool
   for making tunnels to localhost <http://bore.pub>
 - [pgrok/pgrok](https://github.com/pgrok/pgrok): Poor man's ngrok - a
@@ -288,8 +292,6 @@
   - [tonarino/innernet](https://github.com/tonarino/innernet): A private network
     system that uses WireGuard under the hood.
     <https://blog.tonari.no/introducing-innernet>
-- [openziti/zrok](https://github.com/openziti/zrok): Geo-scale, next-generation
-  sharing platform built on top of OpenZiti. <https://zrok.io>
 
 ## Online tools / Services
 
@@ -298,8 +300,10 @@
 - [Is using HTTP3?](https://http3.is)
 - [HTTP/3 Check](https://http3check.net)
 - [IPLeak.net](https://ipleak.net)
+- [DSN leak test](https://www.dnsleaktest.com/):
 - [Globalping](https://www.jsdelivr.com/globalping)
 - [Web Check](https://web-check.xyz/)
 - [KeyCDN tools](https://tools.keycdn.com)
 - [Tabserve](https://tabserve.dev/): A secure & fast HTTPS URL for localhost
   using your browser as a reverse proxy.
+- [domain.glass](https://domain.glass/): DNS / WHOIS Lookup

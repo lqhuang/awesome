@@ -14,6 +14,9 @@
 
 - [dbt](https://www.getdbt.com/): Transforming data. Transforming teams. dbt™
   helps data teams work like software engineers—to ship trusted data, faster.
+  - non open source
+- [carbonfact/lea](https://github.com/carbonfact/lea): 🏃‍♀️ Minimalist alternative
+  to dbt
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence): Evidence
   enables analysts to deliver a polished business intelligence system using SQL
   and markdown <https://evidence.dev>

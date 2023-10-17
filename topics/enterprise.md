@@ -210,6 +210,8 @@
   Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git,
   Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic,
   Network, Virtualization. DevOps Interview Questions
+- [formbricks/formbricks](https://github.com/formbricks/formbricks): Open Source
+  Surveys & Experience Management Solution <https://formbricks.com>
 
 ### Pipelines / Workflow
 
@@ -372,6 +374,8 @@
   developer workflow system <https://www.pantsbuild.org>
 - 🌟 [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build
   system with a focus on speed <https://ninja-build.org>
+- [michaelforney/samurai](https://github.com/michaelforney/samurai):
+  ninja-compatible build tool written in C
 - [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build
   System <http://mesonbuild.com/>
 - [moonrepo/moon](https://github.com/moonrepo/moon): A task runner and repo

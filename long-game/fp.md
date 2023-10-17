@@ -162,6 +162,8 @@
   dependencies build times profiler
 - [ndmitchell/shake](https://github.com/ndmitchell/shake): Shake build system
   <http://shakebuild.com>
+- [brandonchinn178/skelly](https://github.com/brandonchinn178/skelly): No
+  description, website, or topics provided.
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell):
   Maintainable configuration files <https://dhall-lang.org>
 - 🌟 [deadpendency/deadpendency](https://github.com/deadpendency/deadpendency):

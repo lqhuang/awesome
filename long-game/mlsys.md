@@ -93,6 +93,9 @@
   - [Introducing TorchOpt: A High-Performance Differentiable Optimization Library for PyTorch](https://medium.com/pytorch/introducing-torchopt-a-high-performance-differentiable-optimization-library-for-pytorch-37c4c0ef6ae1)
 - [pytorch/botorch](https://github.com/pytorch/botorch): Bayesian optimization
   in PyTorch <https://botorch.org/>
+- [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad): A
+  Python toolbox for performing gradient-free optimization
+  <https://facebookresearch.github.io/nevergrad/>
 
 ### Network implementation
 
@@ -140,6 +143,9 @@
 - [explosion/curated-transformers](https://github.com/explosion/curated-transformers):
   🤖 A PyTorch library of curated Transformer models and their composable
   components
+- [THUDM/SwissArmyTransformer](https://github.com/THUDM/SwissArmyTransformer):
+  SwissArmyTransformer is a flexible and powerful library to develop your own
+  Transformer variants. <https://THUDM.github.io/SwissArmyTransformer>
 
 ### Inference engine / large-scale deployment
 

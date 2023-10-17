@@ -50,6 +50,9 @@
   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate):
   Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展
   <https://immersive-translate.owenyoung.com/>
+- [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator):
+  Foreign language reading and translation assistant based on copy and
+  translate. <https://copytranslator.gitee.io>
 - [raphamorim/rio](https://github.com/raphamorim/rio): A hardware-accelerated
   GPU terminal emulator powered by WebGPU, focusing to run in desktops and
   browsers. <https://raphamorim.io/rio>
@@ -79,6 +82,8 @@
   Workbench <https://www.zettlr.com>
 - [sagemath/sage](https://github.com/sagemath/sage): Main repository of
   SageMath. Now open for Issues and Pull Requests. <https://www.sagemath.org>
+- 🌟 [veler/DevToys](https://github.com/veler/DevToys): A Swiss Army knife for
+  developers. <https://devtoys.app/>
 
 ## macOS / iPadOS
 
@@ -283,8 +288,6 @@
 - [jesec/flood](https://github.com/jesec/flood): A modern web UI for various
   torrent clients with a Node.js backend and React frontend.
   <https://flood.js.org>
-- [formbricks/formbricks](https://github.com/formbricks/formbricks): Open Source
-  Surveys & Experience Management Solution <https://formbricks.com>
 
 ### Email
 

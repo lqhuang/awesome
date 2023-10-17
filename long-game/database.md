@@ -254,6 +254,8 @@
 - [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt): Next-Gen ERD:
   Design, Explore, Document and Analyze your database
   <https://azimutt.app?ref=github-repo>
+- [Wisser/Jailer](https://github.com/Wisser/Jailer): Database Subsetting and
+  Relational Data Browsing Tool. <https://wisser.github.io/Jailer>
 
 ### PG
 
@@ -297,6 +299,8 @@
   Server for Postgres <https://supabase.com>
 - [ChenHuajun/pg_roaringbitmap](https://github.com/ChenHuajun/pg_roaringbitmap):
   RoaringBitmap extension for PostgreSQL
+- [omnigres/omnigres](https://github.com/omnigres/omnigres): Postgres as a
+  Platform
 
 ### SQLite
 

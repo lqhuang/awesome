@@ -297,6 +297,8 @@
   Reusable constraint types to use with typing.Annotated
 - [klausweiss/typing-protocol-intersection](https://github.com/klausweiss/typing-protocol-intersection):
   Protocols intersection for mypy
+- [pyodide/webtypy](https://github.com/pyodide/webtypy): Python type definitions
+  for web APIs
 
 ### Featured
 
@@ -731,6 +733,9 @@
 - 📝 [tomerfiliba-org/rpyc](https://github.com/tomerfiliba-org/rpyc): RPyC
   (Remote Python Call) - A transparent and symmetric RPC library for python
   <http://rpyc.readthedocs.org>
+- [crdoconnor/strictyaml](https://github.com/crdoconnor/strictyaml): Type-safe
+  YAML parser and validator. <https://hitchdev.com/strictyaml/>
+  - [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 
 ### Logging
 
@@ -897,9 +902,10 @@
   from Python <https://www.pyvibe.com>
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui): Create web-based
   interfaces with Python. The nice way. <https://nicegui.io>
-- [widgetti/solara](https://github.com/widgetti/solara): A Pure Python,
+- 📝 [widgetti/solara](https://github.com/widgetti/solara): A Pure Python,
   React-style Framework for Scaling Your Jupyter and Web Apps
   <https://solara.dev>
+  - How reactive signals design?
 - 🌟 [reactive-python/reactpy](https://github.com/reactive-python/reactpy): It's
   React, but in Python <https://reactpy.dev>
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx):

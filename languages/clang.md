@@ -177,6 +177,8 @@
 - [openucx/ucx](https://github.com/openucx/ucx): Unified Communication X
   (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group)
   <http://www.openucx.org>
+- [google/cpu_features](https://github.com/google/cpu_features): A cross
+  platform C99 library to get cpu features at runtime.
 
 ## Memory allocator
 

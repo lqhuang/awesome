@@ -519,6 +519,8 @@
 - [bincode-org/bincode](https://github.com/bincode-org/bincode): A binary
   encoder / decoder implementation in Rust.
 - [ron-rs/ron](https://github.com/ron-rs/ron): Rusty Object Notation
+- [dtolnay/typetag](https://github.com/dtolnay/typetag): Serde serializable and
+  deserializable trait objects
 
 ### Parser combinators
 

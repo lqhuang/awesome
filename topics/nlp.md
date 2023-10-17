@@ -31,6 +31,10 @@
 - [sloria/textblob](https://github.com/sloria/textblob): Simple, Pythonic, text
   processing--Sentiment analysis, part-of-speech tagging, noun phrase
   extraction, translation, and more. <https://textblob.readthedocs.io/>
+- 🌟
+  [andyzoujm/representation-engineering](https://github.com/andyzoujm/representation-engineering):
+  Representation Engineering: A Top-Down Approach to AI Transparency
+  <https://www.ai-transparency.org/>
 
 ## Embedding Search (ANN)
 

@@ -48,6 +48,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://waku.gg>
 - 🌟 [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js):
   Reactivity without the framework <https://arrow-js.com>
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra):
+  Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
 
 ### Templates
 
@@ -155,8 +157,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips):
   ⚡️ A collection of tips to help take your CSS skills pro 🦾
-- 🌟 [saadeghi/daisyui](https://github.com/saadeghi/daisyui): ⭐️ ⭐️ ⭐️ ⭐️
-  ⭐️  The most popular, free and open-source Tailwind CSS component library
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui): ⭐️ ⭐️ ⭐️ ⭐️ ⭐️
+  The most popular, free and open-source Tailwind CSS component library
   <https://daisyui.com>
 - [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui): Clean, modern
   and beautiful Tailwind CSS components. <https://ripple-ui.com>
@@ -182,6 +184,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge): Merge
   Tailwind CSS classes without style conflicts
   <https://npmjs.com/package/tailwind-merge>
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace): A
+  collection of professionally designed, every day UI components built on Web
+  standards. Works with all framework as well as regular HTML/CSS/JS. 🥾
+  <https://shoelace.style>
+  - CSS framework for Web Components
 
 ### Components
 
@@ -328,6 +335,12 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <http://bradymholt.github.io/cRonstrue/>
 - [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that
   helps you debug components.
+- [dexie/Dexie.js](https://github.com/dexie/Dexie.js): A Minimalistic Wrapper
+  for IndexedDB <https://dexie.org>
+- [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs):
+  High-performance visualization and interactive data exploration of scientific
+  and geospatial location aware datasets
+  <https://opengeoscience.github.io/geojs>
 
 ### SerDe / Schema
 

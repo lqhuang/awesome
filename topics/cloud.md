@@ -18,14 +18,21 @@
 - [yeasy/docker_practice](https://github.com/yeasy/docker_practice): Learn and
   understand Docker&Container technologies, with real DevOps practice! (in
   Chinese)
+- [castrojo/awesome-immutable](https://github.com/castrojo/awesome-immutable): A
+  list of resources for people who want to investigate image-based Linux
+  desktops <https://castrojo.github.io/awesome-immutable/>
 
 ## OS
 
+- [oasislinux/oasis](https://github.com/oasislinux/oasis): a small
+  statically-linked linux system
 - [unikraft/unikraft](https://github.com/unikraft/unikraft): Unikraft is an
   automated system for building specialized OSes known as unikernels. Unikraft
   can be configured to be POSIX-compliant. <http://unikraft.org/>
 - 🌟 [canonical/cloud-init](https://github.com/canonical/cloud-init): Official
   upstream for the cloud-init: cloud instance initialization <instance>
+- [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system and
+  container binary deployment and upgrades <https://ostreedev.github.io/ostree/>
 
 ## Container
 
@@ -35,8 +42,9 @@
   setuid+setgid+setgroups+exec
 - [krallin/tini](https://github.com/krallin/tini): A tiny but valid `init` for
   containers
-- [oasislinux/oasis](https://github.com/oasislinux/oasis): a small
-  statically-linked linux system
+- [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for
+  Linux containers
+  <https://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html>
 - [containrrr/watchtower](https://github.com/containrrr/watchtower): A process
   for automating Docker container base image updates.
   <https://containrrr.dev/watchtower>
