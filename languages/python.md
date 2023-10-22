@@ -35,6 +35,8 @@
   implementation
 - [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研
   究员 Anthony Shaw 的《CPython Internals》中文翻译
+- [python/devguide](https://github.com/python/devguide): The Python developer's
+  guide <https://devguide.python.org/>
 
 ### Books
 
@@ -55,6 +57,10 @@
   Eric Snow's fork of CPython.
 - [jsbueno/extrainterpreters](https://github.com/jsbueno/extrainterpreters):
   Utilities for using Python's PEP 554 subinterpreters
+- [itamarst/simd-profiles](https://github.com/itamarst/simd-profiles): Proof of
+  concept: using modern SIMD in compiled Python extension
+- [brettcannon/record-type](https://github.com/brettcannon/record-type):
+  Proof-of-concept `record` type for Python
 
 ## Toolchains
 
@@ -259,6 +265,8 @@
 - [mbryant/FunctionTrace](https://gitlab.com/mbryant/functiontrace): A graphical
   Python profiler that provides a clear view of your application's execution
   while being both low-overhead and easy to use. <https://functiontrace.com/>
+- [tonybaloney/rich-bench](https://github.com/tonybaloney/rich-bench): A little
+  benchmarking tool for Python
 
 ## Type System in Python
 
@@ -561,6 +569,8 @@
 
 ## Featured libraries
 
+### Channels
+
 - [ethereum/lahja](https://github.com/ethereum/lahja): Lahja is a generic multi
   process event bus implementation written in Python 3.6+ to enable lightweight
   inter-process communication, based on non-blocking asyncio
@@ -661,6 +671,8 @@
 
 ### AsyncIO
 
+- 🌟 [brettcannon/sans-io](https://github.com/brettcannon/sans-io): Network
+  protocol implementations in Python, sans I/O <https://sans-io.readthedocs.io/>
 - 🌟 [awestlake87/pyo3-asyncio](https://github.com/awestlake87/pyo3-asyncio):
   Bridge between Rust async futures and Python asyncio
 - [oremanj/greenback](https://github.com/oremanj/greenback): Reenter an asyncio
@@ -763,6 +775,8 @@
   Python bindings
 - [mityax/rustimport](https://github.com/mityax/rustimport): Import Rust source
   files directly from Python!
+- [cloudflare/stpyv8](https://github.com/cloudflare/stpyv8): Python 3 and
+  JavaScript interoperability. Successor To PyV8 (https://github.com/flier/pyv8)
 
 ## Compilers
 
@@ -893,6 +907,8 @@
 - [rerun-io/rerun](https://github.com/rerun-io/rerun): Log images, point clouds,
   etc, and visualize them effortlessly. Built in Rust using egui
   <https://rerun.io>
+- [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib): A fast
+  plotting library
 
 ### HTML
 

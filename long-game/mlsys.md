@@ -21,6 +21,15 @@
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering): Machine
   Learning Engineering Guides and Tools
   <https://stasosphere.com/machine-learning/>
+- [srush/Autodiff-Puzzles](https://github.com/srush/Autodiff-Puzzles): This
+  notebook contains a series of self-contained puzzles for learning about
+  derivatives in tensor libraries.
+- [srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles): Solve
+  puzzles. Improve your pytorch.
+- [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles): Solve puzzles.
+  Learn CUDA.
+- [srush/Transformer-Puzzles](https://github.com/srush/Transformer-Puzzles):
+  Puzzles for exploring transformers
 
 ### Books
 
@@ -62,6 +71,14 @@
   DLRover: An Automatic Distributed Deep Learning System
 - [thu-ml/tianshou](https://github.com/thu-ml/tianshou): An elegant PyTorch deep
   reinforcement learning library. <https://tianshou.readthedocs.io>
+- [pycaret/pycaret](https://github.com/pycaret/pycaret): An open-source,
+  low-code machine learning library in Python <https://www.pycaret.org>
+- 🌟
+  [intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex):
+  Intel(R) Extension for Scikit-learn is a seamless way to speed up your
+  Scikit-learn application <https://intel.github.io/scikit-learn-intelex/>
+- [mlpack/mlpack](https://github.com/mlpack/mlpack): mlpack: a fast, header-only
+  C++ machine learning library <https://www.mlpack.org/>
 
 ### Optimization
 
@@ -106,8 +123,9 @@
   Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [francois-rozet/zuko](https://github.com/francois-rozet/zuko): Normalizing
   flows in PyTorch <https://zuko.readthedocs.io>
-- [deepmind/alphatensor](https://github.com/deepmind/alphatensor): Discovering
-  faster matrix multiplication algorithms with reinforcement learning
+- [google-deepmind/alphatensor](https://github.com/google-deepmind/alphatensor):
+  Discovering faster matrix multiplication algorithms with reinforcement
+  learning
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything):
   The repository provides code for running inference with the SegmentAnything
   Model (SAM), links for downloading the trained model checkpoints, and example
@@ -204,6 +222,12 @@
 - [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference):
   Large Language Model Text Generation Inference
   <https://huggingface.github.io/text-generation-inference/>
+- 🌟 [pytorch/executorch](https://github.com/pytorch/executorch): End-to-end
+  solution for enabling on-device AI across mobile and edge devices for PyTorch
+  models <https://pytorch.org/edge>
+- [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers):
+  ⚡ Build your chatbot within minutes on your favorite device; offer SOTA
+  compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 
 ### Benchmark
 
@@ -359,30 +383,33 @@
 ### DeepMind specialization
 
 - [Using JAX to accelerate our research](https://www.deepmind.com/blog/using-jax-to-accelerate-our-research)
-- [deepmind/jax](https://github.com/deepmind/jax): DeepMind JAX Ecosystem
-- [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku): JAX-based neural
-  network library <https://dm-haiku.readthedocs.io>
-- [deepmind/optax](https://github.com/deepmind/optax): Optax is a gradient
-  processing and optimization library for JAX. <https://optax.readthedocs.io>
-- [deepmind/rlax](https://github.com/deepmind/rlax): RLax (pronounced "relax")
-  is a library built on top of JAX that exposes useful building blocks for
-  implementing reinforcement learning agents. <https://rlax.readthedocs.io>
-- [deepmind/chex](https://github.com/deepmind/chex): Chex is a library of
-  utilities for helping to write reliable JAX code.
+- [google-deepmind/jax](https://github.com/google-deepmind/jax): DeepMind JAX
+  Ecosystem
+- [google-deepmind/dm-haiku](https://github.com/google-deepmind/dm-haiku):
+  JAX-based neural network library <https://dm-haiku.readthedocs.io>
+- [google-deepmind/optax](https://github.com/google-deepmind/optax): Optax is a
+  gradient processing and optimization library for JAX.
+  <https://optax.readthedocs.io>
+- [google-deepmind/rlax](https://github.com/google-deepmind/rlax): RLax
+  (pronounced "relax") is a library built on top of JAX that exposes useful
+  building blocks for implementing reinforcement learning agents.
+  <https://rlax.readthedocs.io>
+- [google-deepmind/chex](https://github.com/google-deepmind/chex): Chex is a
+  library of utilities for helping to write reliable JAX code.
   <https://chex.readthedocs.io>
-- [deepmind/jraph](https://github.com/deepmind/jraph): A Graph Neural Network
-  Library in Jax <https://jraph.readthedocs.io/en/latest>
-- 🌟 [deepmind/mctx](https://github.com/deepmind/mctx): Monte Carlo tree search
-  in JAX
-- [deepmind/distrax](https://github.com/deepmind/distrax): Distrax is a
-  lightweight library of probability distributions and bijectors. It acts as a
-  JAX-native reimplementation of a subset of TensorFlow Probability (TFP,
+- [google-deepmind/jraph](https://github.com/google-deepmind/jraph): A Graph
+  Neural Network Library in Jax <https://jraph.readthedocs.io/en/latest>
+- 🌟 [google-deepmind/mctx](https://github.com/google-deepmind/mctx): Monte
+  Carlo tree search in JAX
+- [google-deepmind/distrax](https://github.com/google-deepmind/distrax): Distrax
+  is a lightweight library of probability distributions and bijectors. It acts
+  as a JAX-native reimplementation of a subset of TensorFlow Probability (TFP,
   https://www.tensorflow.org/probability), with some new features and emphasis
   on extensibility.
-- [deepmind/PGMax](https://github.com/deepmind/PGMax): Loopy belief propagation
-  for factor graphs on discrete variables in JAX
-- [deepmind/synjax](https://github.com/deepmind/synjax): SynJax is a neural
-  network library for JAX structured probability distributions.
+- [google-deepmind/PGMax](https://github.com/google-deepmind/PGMax): Loopy
+  belief propagation for factor graphs on discrete variables in JAX
+- [google-deepmind/synjax](https://github.com/google-deepmind/synjax): SynJax is
+  a neural network library for JAX structured probability distributions.
 
 ## Libraries
 
@@ -409,8 +436,8 @@
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning
   operations reinvented (for pytorch, tensorflow, jax and others)
   <https://einops.rocks>
-- [deepmind/tree](https://github.com/deepmind/tree): tree is a library for
-  working with nested data structures <https://tree.readthedocs.io>
+- [google-deepmind/tree](https://github.com/google-deepmind/tree): tree is a
+  library for working with nested data structures <https://tree.readthedocs.io>
 - [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses):
   Pytrees + dataclasses ❤️
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping):

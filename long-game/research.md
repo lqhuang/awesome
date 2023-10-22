@@ -158,3 +158,8 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx):
   A community-supported supercharged version of paperless: scan, index and
   archive all your physical documents <https://docs.paperless-ngx.com>
+- [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner):
+  arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to
+  arXiv
+- [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook): LaTeX
+  论文写作教程 (中文版)

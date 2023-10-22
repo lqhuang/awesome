@@ -173,6 +173,8 @@
   capabilities and deriving combinators
 - [patrickt/fastsum](https://github.com/patrickt/fastsum): A fast open-union
   type, suitable for 100+ contained alternatives.
+- [haskell/os-string](https://github.com/haskell/os-string): No description,
+  website, or topics provided.
 
 ## Typescript
 

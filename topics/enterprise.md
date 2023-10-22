@@ -26,6 +26,9 @@
   <http://www.jumpserver.org>
 - [moul/sshportal](https://github.com/moul/sshportal): 🎩 simple, fun and
   transparent SSH (and telnet) bastion server <https://manfred.life/sshportal>
+- [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit): SSH server & client
+  security auditing (banner, key exchange, encryption, mac, compression,
+  compatibility, security, etc)
 - [Apache Guacamole](https://guacamole.incubator.apache.org/): Apache Guacamole
   is a clientless remote desktop gateway. It supports standard protocols like
   VNC, RDP, and SSH.
@@ -104,10 +107,6 @@
   Spec (v2, v3) <https://openapi-generator.tech>
 - [muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock): OpenAPI
   mock server with random data generation
-- [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible
-  JSON/YAML linter for creating automated style guides, with baked in support
-  for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
-  <https://stoplight.io/spectral>
 - [Kong/insomnia](https://github.com/Kong/insomnia): The open-source,
   cross-platform API client for GraphQL, REST, WebSockets and gRPC.
   <https://insomnia.rest>

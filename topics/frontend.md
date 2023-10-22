@@ -267,6 +267,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [prevwong/craft.js](https://github.com/prevwong/craft.js): 🚀 A React
   Framework for building extensible drag and drop page editors
   <https://craft.js.org>
+- [signavio/react-mentions](https://github.com/signavio/react-mentions):
+  @mention people in a textarea <https://react-mentions.vercel.app>
 
 ### Form
 

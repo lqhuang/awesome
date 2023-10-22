@@ -174,6 +174,9 @@
   External Secrets Operator reads information from a third-party service like
   AWS Secrets Manager and automatically injects the values as Kubernetes
   Secrets. <https://external-secrets.io/main>
+- [radius-project/radius](https://github.com/radius-project/radius): Radius is a
+  cloud-native, portable application platform that makes app development easier
+  for teams building cloud-native apps. <https://radapp.io>
 
 ## Hashicorp
 
@@ -203,6 +206,8 @@
   - I love this landing page, too 😅
 - [Octoml](https://octoml.ai/): OctoAI is world-class compute infrastructure for
   tuning and running models that wow your users.
+- [zeabur/zeabur](https://github.com/zeabur/zeabur): A platform that helps you
+  deploy services with one click. <https://zeabur.com>
 
 ## Could Foundry
 
@@ -218,10 +223,8 @@
   <https://www.pulumi.com>
 - [crossplane/crossplane](https://github.com/crossplane/crossplane): Cloud
   Native Control Planes <https://crossplane.io/>
-- [Fizzadar/pyinfra](https://github.com/Fizzadar/pyinfra): pyinfra automates
-  infrastructure super fast at massive scale. It can be used for ad-hoc command
-  execution, service deployment, configuration management and more.
-  <https://pyinfra.com>
+- [Azure/bicep](https://github.com/Azure/bicep): Bicep is a declarative language
+  for describing and deploying Azure resources
 
 ### Services
 

@@ -93,6 +93,9 @@
   latency tester.
 - [Mellanox/sockperf](https://github.com/Mellanox/sockperf): Network
   Benchmarking Utility
+- [allinurl/goaccess](https://github.com/allinurl/goaccess): GoAccess is a
+  real-time web log analyzer and interactive viewer that runs in a terminal in
+  \*nix systems or through your browser. <https://goaccess.io>
 
 ### Analysis
 
@@ -197,6 +200,8 @@
   partner for chnroutes.
 - [daeuniverse/dae](https://github.com/daeuniverse/dae): A Linux
   high-performance transparent proxy solution based on eBPF.
+- [XTLS/RealiTLScanner](https://github.com/XTLS/RealiTLScanner): A TLS server
+  scanner for Reality
 
 ## DNS
 

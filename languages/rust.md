@@ -683,6 +683,8 @@
   PostgreSQL driver for the Rust programming language
 - [foundationdb-rs/foundationdb-rs](https://github.com/foundationdb-rs/foundationdb-rs):
   FoundationDB Rust client api <https://crates.io/crates/foundationdb>
+- [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs): Ergonomic bindings to
+  duckdb for Rust
 
 ## Misc
 

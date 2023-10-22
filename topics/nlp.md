@@ -17,6 +17,9 @@
   embedding database <https://www.trychroma.com>
 - 🌟 [openai/tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast
   BPE tokeniser for use with OpenAI's models.
+- [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference):
+  A blazing fast inference solution for text embeddings models
+  <https://huggingface.github.io/text-embeddings-inference/>
 - [bytedance/lightseq](https://github.com/bytedance/lightseq): LightSeq: A High
   Performance Library for Sequence Processing and Generation
 - [vercel-labs/ai](https://github.com/vercel-labs/ai): Build AI-powered
@@ -35,6 +38,8 @@
   [andyzoujm/representation-engineering](https://github.com/andyzoujm/representation-engineering):
   Representation Engineering: A Top-Down Approach to AI Transparency
   <https://www.ai-transparency.org/>
+- [huggingface/llm-ls](https://github.com/huggingface/llm-ls): LSP server
+  leveraging LLMs for code completion (and more?)
 
 ## Embedding Search (ANN)
 
@@ -100,6 +105,8 @@
   models with reinforcement learning. <http://hf.co/docs/trl>
 - [a16z-infra/cog-llama-template](https://github.com/a16z-infra/cog-llama-template):
   LLaMA Cog template
+- [WisdomShell/codeshell](https://github.com/WisdomShell/codeshell): A series of
+  large language models developed by PKU-KCL <http://se.pku.edu.cn/kcl>
 
 ## LLM
 

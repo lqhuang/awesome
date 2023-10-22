@@ -84,6 +84,8 @@
   SageMath. Now open for Issues and Pull Requests. <https://www.sagemath.org>
 - 🌟 [veler/DevToys](https://github.com/veler/DevToys): A Swiss Army knife for
   developers. <https://devtoys.app/>
+- [hellzerg/optimizer](https://github.com/hellzerg/optimizer): The finest
+  Windows Optimizer
 
 ## macOS / iPadOS
 

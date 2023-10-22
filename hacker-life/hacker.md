@@ -28,6 +28,12 @@
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter):
   ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
   <https://dotenv-linter.github.io>
+- [Jinjiang/zhlint](https://github.com/Jinjiang/zhlint): A linting tool for
+  Chinese language. <https://jinjiang.dev/zhlint/>
+- [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible
+  JSON/YAML linter for creating automated style guides, with baked in support
+  for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
+  <https://stoplight.io/spectral>
 - [tstack/lnav](https://github.com/tstack/lnav): Log file navigator
   <http://lnav.org>
 - 🌟 [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An
@@ -51,6 +57,8 @@
   manager <https://nixos.org/>
   - [Welcome to nix.dev](https://nix.dev/): nix.dev is the home of official
     documentation for the Nix ecosystem.
+- [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors):
+  GNU/Linux 一键更换系统软件源脚本 <https://linuxmirrors.cn>
 
 ### Git
 
@@ -113,8 +121,7 @@
   is a self-hostable web productivity suite. It's implemented as a
   security-hardened web app package manager. <https://sandstorm.io>
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle): A simple,
-  distributed task scheduler and runner with a web based UI.
-  <http://cronicle.net>
+  distributed task scheduler and runner with a web based UI. <http://.net>
 - [sshguard/sshguard](https://bitbucket.org/sshguard/sshguard/): SSHGuard
   protects hosts from brute-force attacks against SSH and other services. It
   aggregates system logs and blocks repeat offenders using one of several
@@ -129,9 +136,6 @@
 - [mdlayher/corerad](https://github.com/mdlayher/corerad): CoreRAD is an
   extensible and observable IPv6 Neighbor Discovery Protocol router
   advertisement daemon. Apache 2.0 Licensed. <https://corerad.net>
-- [SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi): Raspberry Pi
-  & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github
-  Action / Daily Update)
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates):
   🚢 400+ 1-click Portainer app templates <https://portainer-templates.as93.net>
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny): Hard Drive S.M.A.R.T
@@ -156,9 +160,6 @@
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant):
   A curated list of amazingly awesome Home Assistant resources.
   <https://awesome-ha.com>
-- [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon):
-  Argon is a clean HTML5 theme for OpenWrt LuCI. Users may setup their own
-  favorite logins, including beautiful pics and customized mp4 videos.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push
   notifications to your phone or desktop using PUT/POST <https://ntfy.sh>
 - [unpoller/unpoller](https://github.com/unpoller/unpoller): Application:

@@ -17,6 +17,8 @@
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd): A curated
   list of Domain-Driven Design (DDD), Command Query Responsibility Segregation
   (CQRS), Event Sourcing, and Event Storming resources
+- [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates):
+  No description, website, or topics provided.
 
 ## Middleware
 
