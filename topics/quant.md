@@ -214,6 +214,9 @@
   Science ecosystem. <http://arcticdb.io>
 - [timkpaine/finance-enums](https://github.com/timkpaine/finance-enums):
   Standard Financial Enumerations
+- [yellowbean/Hastructure](https://github.com/yellowbean/Hastructure): ABS/MBS
+  cashflow engine written in Haskell, with API to Python and C/Java (on the way)
+  <https://deal-bench.xyz>
 
 ## Timeseries
 

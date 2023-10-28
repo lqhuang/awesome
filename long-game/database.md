@@ -30,6 +30,10 @@
   readings and talks on computer science
 - [Qiaolin-Yu/paper-reading](https://github.com/Qiaolin-Yu/paper-reading): A
   list of papers I have read.
+- [ept/hermitage](https://github.com/ept/hermitage): What are the differences
+  between the transaction isolation levels in databases? This is a suite of test
+  cases which differentiate isolation levels.
+  <http://martin.kleppmann.com/2014/11/25/hermitage-testing-the-i-in-acid.html>
 
 ### Talks
 
@@ -301,6 +305,9 @@
   RoaringBitmap extension for PostgreSQL
 - [omnigres/omnigres](https://github.com/omnigres/omnigres): Postgres as a
   Platform
+- [bensheldon/good_job](https://github.com/bensheldon/good_job): Multithreaded,
+  Postgres-based, Active Job backend for Ruby on Rails.
+  <https://goodjob-demo.herokuapp.com/>
 
 ### SQLite
 

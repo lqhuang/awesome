@@ -119,6 +119,8 @@
   as a kind of high-level frontend to python
 - 🌟 [furkanonder/beetrace](https://github.com/furkanonder/beetrace): Trace your
   python process line by line with low overhead! <https://desktop.github.com>
+- [prefix-dev/rip](https://github.com/prefix-dev/rip): Solve and install Python
+  packages quickly with rip (pip in Rust) <https://prefix.dev>
 
 ### Packaging
 
@@ -421,6 +423,8 @@
   into Pandas, making dataframes conversational
 - [mljar/mercury](https://github.com/mljar/mercury): Build Web Apps in Jupyter
   Notebook with Python only <https://RunMercury.com>
+- [man-group/dtale](https://github.com/man-group/dtale): Visualizer for pandas
+  data structures <http://alphatechadmin.pythonanywhere.com>
 
 ### Jupyter ecosystem
 
@@ -646,13 +650,14 @@
 - [ZechCodes/Bevy](https://github.com/ZechCodes/Bevy): A dependency injection
   framework for Python! Bevy's primary goal is to help you write amazing code
   with less effort. <https://blog.zech.codes/bevy-v2>
-- [mivade/argparse_dataclass](https://github.com/mivade/argparse_dataclass):
-  Declarative CLIs with argparse and dataclasses
 - [pradyunsg/diagnostic](https://github.com/pradyunsg/diagnostic): `diagnostic`
   makes it easier to build command line tools with great error reporting.
   <https://diagnostic.readthedocs.io/en/latest/>
-- [larryhastings/appeal](https://github.com/larryhastings/appeal): Command-line
-  parsing library for Python 3.
+- 🌟
+  [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict):
+  📘 dict subclass with keylist/keypath support, built-in I/O operations
+  (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml),
+  s3 support and many utilities.
 
 ### Configuration
 
@@ -691,6 +696,8 @@
   asyncio tasks
 - [oremanj/aioguest](https://github.com/oremanj/aioguest): Run asyncio and
   another event loop in the same thread
+- [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet):
+  Lightweight in-process concurrent programming
 
 ### Middleware
 
@@ -827,6 +834,9 @@
   Design Toolkit
 - [mishamsk/pyoak](https://github.com/mishamsk/pyoak): Library for building and
   working with arbitrary ASTs on top dataclasses
+- [MagicStack/parsing](https://github.com/MagicStack/parsing): A pure-Python
+  module that implements an LR(1) parser generator, as well as CFSM and GLR
+  parser drivers.
 
 ## Misc
 
@@ -895,6 +905,9 @@
 - 🌟 [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix): Data
   visualisation and ray tracing in Python based on OptiX 7.7 framework.
   <https://rnd.team/plotoptix>
+- [mckinsey/vizro](https://github.com/mckinsey/vizro): Vizro is a toolkit for
+  creating modular data visualization applications.
+  <https://vizro.readthedocs.io/en/stable/>
 
 ### GUI
 
@@ -926,3 +939,8 @@
   React, but in Python <https://reactpy.dev>
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx):
   A curated list of things related to python-based web development using htmx
+- [Knio/dominate](https://github.com/Knio/dominate): Dominate is a Python
+  library for creating and manipulating HTML documents using an elegant DOM API.
+  It allows you to write HTML pages in pure Python very concisely, which
+  eliminate the need to learn another template language, and to take advantage
+  of the more powerful features of Python.

@@ -164,6 +164,8 @@
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant):
   Contributor License Agreement assistant (CLA assistant)
   <https://cla-assistant.io>
+- [writethedocs/www](https://github.com/writethedocs/www): The main website for
+  Write the Docs. <http://www.writethedocs.org>
 
 ### DevOps
 
@@ -358,6 +360,8 @@
 - 🌟 [plausible/analytics](https://github.com/plausible/analytics): Simple,
   open-source, lightweight (< 1 KB) and privacy-friendly web analytics
   alternative to Google Analytics. <https://plausible.io>
+- [milesmcc/shynet](https://github.com/milesmcc/shynet): Modern,
+  privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [PostHog/posthog](https://github.com/PostHog/posthog): 🦔 PostHog provides
   open-source product analytics, session recording, feature flagging and a/b
   testing that you can self-host. <https://posthog.com>
@@ -427,6 +431,13 @@
   curated list of awesome actions to use on GitHub <https://desktop.github.com>
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions):
   GitHub token permissions Monitor and Advisor actions
+- [Octopus Deploy](https://octopus.com/github): Use GitHub and Octopus together
+  to manage your most complex deployment scenarios
+
+## Pre-commit
+
+- [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit): A
+  pre-commit hook for Ruff.
 
 ## Security
 
@@ -457,6 +468,9 @@
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto): A curated and
   opinionated list of resources for Chief Technology Officers, with the emphasis
   on startups
+- [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook):
+  The Startup CTO's Handbook, a book covering leadership, management and
+  technical topics for leaders of software engineering teams <https://ctohb.com>
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer):
   Learn how to design large-scale systems. Prep for the system design interview.
   Includes Anki flashcards.

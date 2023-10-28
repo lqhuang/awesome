@@ -21,6 +21,14 @@
 - [castrojo/awesome-immutable](https://github.com/castrojo/awesome-immutable): A
   list of resources for people who want to investigate image-based Linux
   desktops <https://castrojo.github.io/awesome-immutable/>
+- [cloudcommunity/Free-Certifications](https://github.com/cloudcommunity/Free-Certifications):
+  A curated list of free courses & certifications. <https://cloudstudy.net>
+- [cloudcommunity/Free-Hosting](https://github.com/cloudcommunity/Free-Hosting):
+  Overview of free hosting offers, incl. compute hosting, app hosting,
+  databases, serverless etc. <https://cloudstudy.net>
+- [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison):
+  Comparing the free tier offers of the major cloud providers like AWS, Azure,
+  GCP, Oracle etc. <https://cloudstudy.net>
 
 ## OS
 
@@ -111,6 +119,12 @@
   server - a lightweight and versatile open source server that simplifies the
   application stack by natively executing application code across eight
   different programming language runtimes. <https://unit.nginx.org>
+- [megaease/easegress](https://github.com/megaease/easegress): A Cloud Native
+  traffic orchestration system <https://megaease.com/easegress/>
+- [megaease/easegress-portal](https://github.com/megaease/easegress-portal):
+  Easegress official portal.
+- [fastly/pushpin](https://github.com/fastly/pushpin): Proxy server for adding
+  push to your API <https://pushpin.org>
 
 ## Cloud native
 

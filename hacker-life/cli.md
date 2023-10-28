@@ -22,6 +22,8 @@
   and me <https://lym.readthedocs.io/en/latest>
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet
   you need <https://cheat.sh/>
+- 🌟 [z-shell/zi](https://github.com/z-shell/zi): ✨ A Swiss Army Knife for
+  Zsh - Unix Shell <https://wiki.zshell.dev>
 
 ## command
 
@@ -113,6 +115,8 @@
 - [sqshq/sampler](https://github.com/sqshq/sampler): Tool for shell commands
   execution, visualization and alerting. Configured with a simple YAML file.
   <https://sampler.dev>
+- [tstack/lnav](https://github.com/tstack/lnav): Log file navigator
+  <http://lnav.org>
 
 ## Monitor
 

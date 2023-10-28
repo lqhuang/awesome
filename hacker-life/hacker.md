@@ -2,11 +2,6 @@
 
 ## Dev tools
 
-- 🌟 [z-shell/zi](https://github.com/z-shell/zi): ✨ A Swiss Army Knife for
-  Zsh - Unix Shell <https://wiki.zshell.dev>
-- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose):
-  Process Compose is a simple and flexible scheduler and orchestrator to manage
-  non-containerized applications.
 - [kampersanda/goodname](https://github.com/kampersanda/goodname): Tool to
   assist you with cool naming of your methods and software
   <https://kampersanda.github.io/goodname>
@@ -25,17 +20,6 @@
   tool
 - [muety/wakapi](https://github.com/muety/wakapi): 📊 A minimalist, self-hosted
   WakaTime-compatible backend for coding statistics <https://wakapi.dev>
-- [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter):
-  ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-  <https://dotenv-linter.github.io>
-- [Jinjiang/zhlint](https://github.com/Jinjiang/zhlint): A linting tool for
-  Chinese language. <https://jinjiang.dev/zhlint/>
-- [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible
-  JSON/YAML linter for creating automated style guides, with baked in support
-  for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
-  <https://stoplight.io/spectral>
-- [tstack/lnav](https://github.com/tstack/lnav): Log file navigator
-  <http://lnav.org>
 - 🌟 [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An
   infographics generator with 30+ plugins and 300+ options to display stats
   about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -46,9 +30,6 @@
   project. 🌐 Share with the world! <http://socialify.git.ci>
 - 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC
   <https://manfred.life/quicssh>
-- 🌟 [tweag/topiary](https://github.com/tweag/topiary): Topiary aims to be a
-  uniform formatter for simple languages, as part of the Tree-sitter ecosystem.
-  <https://topiary.tweag.io/>
 - [Finb/Bark](https://github.com/Finb/Bark): Bark is an iOS App which allows you
   to push custom notifications to your iPhone <https://bark.day.app>
 - [axodotdev/oranda](https://github.com/axodotdev/oranda): 🎁 generate beautiful
@@ -59,6 +40,27 @@
     documentation for the Nix ecosystem.
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors):
   GNU/Linux 一键更换系统软件源脚本 <https://linuxmirrors.cn>
+
+### Misc linters / formatters
+
+- 🌟 [tweag/topiary](https://github.com/tweag/topiary): Topiary aims to be a
+  uniform formatter for simple languages, as part of the Tree-sitter ecosystem.
+  <https://topiary.tweag.io/>
+- [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter):
+  ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+  <https://dotenv-linter.github.io>
+- [Jinjiang/zhlint](https://github.com/Jinjiang/zhlint): A linting tool for
+  Chinese language. <https://jinjiang.dev/zhlint/>
+- [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible
+  JSON/YAML linter for creating automated style guides, with baked in support
+  for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x.
+  <https://stoplight.io/spectral>
+- [textlint/textlint](https://github.com/textlint/textlint): The pluggable
+  natural language linter for text and markdown. <https://textlint.github.io/>
+- [errata-ai/vale](https://github.com/errata-ai/vale): 📝 A markup-aware linter
+  for prose built with speed and extensibility in mind. <https://vale.sh>
+- [amperser/proselint](https://github.com/amperser/proselint): A linter for
+  prose. <http://proselint.com>
 
 ### Git
 
@@ -112,8 +114,6 @@
 
 ## Homelab
 
-### Services
-
 - [meienberger/runtipi](https://github.com/meienberger/runtipi): ⛺️ Tipi is a
   homeserver for everyone! One command setup, one click installs for your
   favorites self-hosted apps. ✨
@@ -149,11 +149,14 @@
 - [khuedoan/homelab](https://github.com/khuedoan/homelab): Modern self-hosting
   infrastructure, fully automated from empty disk to operating services with a
   single command. <https://homelab.khuedoan.com>
+- [MetinSeylan/homelab](https://github.com/MetinSeylan/homelab): bare-metal
+  homelab k8s automation <https://metin.sh>
 - 🌟 [benphelps/homepage](https://github.com/benphelps/homepage): A highly
   customizable homepage (or startpage / application dashboard) with Docker and
   service API integrations.
+- [](https://github.com/awesome-foss/awesome-sysadmin)
 
-### HomeKit / IoT
+## HomeKit / IoT
 
 - [homebridge/homebridge](https://github.com/homebridge/homebridge): HomeKit
   support for the impatient. <https://homebridge.io>

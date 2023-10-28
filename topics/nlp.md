@@ -145,9 +145,9 @@
   No GPU required. LocalAI is an API to run ggml compatible models: llama,
   gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly,
   starcoder, and many other <https://localai.io>
-- [langgenius/dify](https://github.com/langgenius/dify): One API for plugins and
-  datasets, one interface for prompt engineering and visual operation, all for
-  creating powerful AI applications. <https://dify.ai>
+- 🌟 [langgenius/dify](https://github.com/langgenius/dify): One API for plugins
+  and datasets, one interface for prompt engineering and visual operation, all
+  for creating powerful AI applications. <https://dify.ai>
 - [microsoft/lida](https://github.com/microsoft/lida): Automatic Generation of
   Visualizations and Infographics using Large Language Models
   <https://microsoft.github.io/lida/>
@@ -161,6 +161,10 @@
   在收集开源的表格智能任务数据集（比如表格问答、表格-文本生成等），将原始数据整
   理为指令微调格式的数据并微调 LLM，进而增强 LLM 对于表格数据的理解，最终构建出
   专门面向表格智能任务的大型语言模型。
+- 🌟 [sourcegraph/cody](https://github.com/sourcegraph/cody): AI that knows your
+  entire codebase <https://cody.dev>
+- [LLM Collection](https://www.promptingguide.ai/models/collection): This
+  section consists of a collection and summary of notable and foundational LLMs.
 
 ## LLM Agents / Chains / Composability
 

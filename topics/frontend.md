@@ -33,6 +33,15 @@ Major in React ecosystem, but also include other frameworks and libraries.
   24 Lessons, 12 Weeks, Get Started as a Web Developer
   <https://microsoft.github.io/Web-Dev-For-Beginners/>
 
+### Tutorials / CSS collections
+
+- [Transition animations: a practical guide](https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659)
+- 🌟 [phuocng/csslayout](https://github.com/phuocng/csslayout): A collection of
+  popular layouts and patterns made with CSS. Now it has 100+ patterns and
+  continues growing! <https://phuoc.ng/collection/css-layout>
+- [UI Snippets](https://ui-snippets.dev/)
+- [TailwindCSS Snippets](https://snippets.alexandru.so/)
+
 ## Framework
 
 - [denoland/fresh](https://github.com/denoland/fresh): The next-gen web
@@ -221,6 +230,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
 - [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun
   JavaScript file upload library <https://pqina.nl/filepond>
+- [rpldy/react-uploady](https://github.com/rpldy/react-uploady): Modern file
+  uploading - components & hooks for React <https://react-uploady.org/>
 - 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown):
   Markdown component for React <https://remarkjs.github.io/react-markdown>
 - [Himself65/rich-data](https://github.com/Himself65/rich-data): Data Viewer
@@ -269,6 +280,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://craft.js.org>
 - [signavio/react-mentions](https://github.com/signavio/react-mentions):
   @mention people in a textarea <https://react-mentions.vercel.app>
+- [satelllte/react-knob-headless](https://github.com/satelllte/react-knob-headless):
+  🎛️ Unstyled & accessible knob primitive for React.
+  <https://react-knob-headless.vercel.app>
 
 ### Form
 
@@ -505,6 +519,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular,
   Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose,
   Flutter and you name it compatible. <https://nativescript.org/>
+- 🌟 [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui):
+  Universal headless components for React Native, Next.js & React with beautiful
+  & optional styling (alpha) <https://gluestack.io/>
 
 ## Design / Resources
 

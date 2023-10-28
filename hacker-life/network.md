@@ -312,3 +312,6 @@
 - [Tabserve](https://tabserve.dev/): A secure & fast HTTPS URL for localhost
   using your browser as a reverse proxy.
 - [domain.glass](https://domain.glass/): DNS / WHOIS Lookup
+- [IPADDRESS.COM](https://www.ipaddress.com/)
+- [Pinggy](https://pinggy.io/): Public URLs for Localhost. Without downloading
+  any binary!

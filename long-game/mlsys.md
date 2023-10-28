@@ -30,6 +30,8 @@
   Learn CUDA.
 - [srush/Transformer-Puzzles](https://github.com/srush/Transformer-Puzzles):
   Puzzles for exploring transformers
+- [Fullstack deep learning](https://fullstackdeeplearning.com/): News,
+  community, and courses for people building AI-powered products.
 
 ### Books
 
@@ -228,6 +230,9 @@
 - [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers):
   ⚡ Build your chatbot within minutes on your favorite device; offer SOTA
   compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
+- [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse):
+  Sparsity-aware deep learning inference runtime for CPUs
+  <https://neuralmagic.com/deepsparse/>
 
 ### Benchmark
 
@@ -379,6 +384,8 @@
 - [apple/axlearn](https://github.com/apple/axlearn): AXLearn is a library built
   on top of JAX and XLA to support development of large-scale deep learning
   models.
+- [google/orbax](https://github.com/google/orbax): Orbax provides common utility
+  libraries for JAX users. <https://orbax.readthedocs.io/>
 
 ### DeepMind specialization
 

@@ -71,6 +71,14 @@
   scalable and fault-tolerant open-source big data platform.
   <https://ytsaurus.tech>
 
+## RPC / Structured data serialization
+
+- 🌟 [rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization
+  framework for Rust
+- [capnproto/capnproto-rust]
+- [deeptir18/cornflakes](https://github.com/deeptir18/cornflakes): A zero-copy
+  serialization library and networking stack.
+
 ## Actor frameworks
 
 - [uazu/stakker](https://github.com/uazu/stakker): A lightweight low-level

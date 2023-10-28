@@ -1,4 +1,4 @@
-# Backend and Services
+# Backend and Services / Software
 
 ## Resources
 
@@ -28,12 +28,6 @@
   layer <https://chiselstrike.com/>
 - [cylexVEVO/turso-dashboard](https://github.com/cylexVEVO/turso-dashboard):
   Simple dashboard for managing your Turso databases.
-
-## Serverless DB
-
-- [supabase/supabase](https://github.com/supabase/supabase): The open source
-  Firebase alternative. Follow to stay updated about our public Beta.
-  <https://supabase.com>
 
 ## CMS
 
@@ -67,3 +61,11 @@
   K-sortable, globally unique identifier inspired by Stripe IDs
 - [rs/xid](https://github.com/rs/xid): xid is a globally unique id generator
   thought for the web
+
+## Localfirst
+
+- [Local-First Web Development](https://localfirstweb.dev/)
+- [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync): SQLSync is a
+  collaborative offline-first wrapper around SQLite. It is designed to
+  synchronize web application state between users, devices, and the edge.
+  <https://sqlsync.dev>

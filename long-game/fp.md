@@ -107,6 +107,9 @@
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep): ⚡A fast and
   polyglot tool for code searching, linting, rewriting at large scale. Written
   in Rust <https://ast-grep.github.io>
+- [returntocorp/semgrep](https://github.com/returntocorp/semgrep): Lightweight
+  static analysis for many languages. Find bug variants with patterns that look
+  like source code. <https://semgrep.dev>
 
 ## Haskell
 

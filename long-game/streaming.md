@@ -88,6 +88,10 @@ Streaming Systems
 - [infinyon/fluvio](https://github.com/infinyon/fluvio): Kafka + Flink in Rust +
   WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming
   platform powered by Rust and Web Assembly. <https://www.fluvio.io/>
+- [airtai/faststream](https://github.com/airtai/faststream): FastStream is a
+  powerful and easy-to-use Python framework for building asynchronous services
+  interacting with event streams such as Apache Kafka, RabbitMQ and NATS.
+  <https://faststream.airt.ai/?utm_source=github&utm_medium=acquisition&utm_campaign=measure>
 
 ## Messaging
 

@@ -272,6 +272,8 @@
   Typescript to Scala.js converter <https://scalablytyped.org>
 - https://github.com/vpavkin/dtc
 - https://github.com/cquiroz/scala-java-time
+- [conduktor/scala-api-template](https://github.com/conduktor/scala-api-template):
+  Example Scala API to bootstrap new projects <https://www.conduktor.io>
 
 ## Stream / Effect systems / Experiments
 
@@ -318,6 +320,8 @@
   Integrate some of the best JSON libs in Scala with Akka HTTP
 - [lightbend-labs/scala-logging](https://github.com/lightbend-labs/scala-logging):
   Convenient and performant logging library for Scala wrapping SLF4J.
+- [rkuhn/akka-typed-session](https://github.com/rkuhn/akka-typed-session):
+  add-on to Akka Typed that tracks effects for use with Session Types
 
 ### Typelevel
 

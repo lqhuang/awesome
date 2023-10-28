@@ -237,6 +237,8 @@
   your workouts and sessions. Building an impressive physique requires
   progressive overload over time. Liftbear helps you keeping track of weights,
   reps, exercises and much more.
+- [Gifox](https://gifox.app/): The best GIF editing/sharing/recording/conversion
+  app
 
 ## Services
 
@@ -290,6 +292,8 @@
 - [jesec/flood](https://github.com/jesec/flood): A modern web UI for various
   torrent clients with a Node.js backend and React frontend.
   <https://flood.js.org>
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web
+  File Browser <https://filebrowser.org>
 
 ### Email
 

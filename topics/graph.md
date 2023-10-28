@@ -2,8 +2,6 @@
 
 ## Resources
 
-### Books
-
 - 🌟
   [Graph Theory and Complex Networks](https://www.distributed-systems.net/index.php/books/gtcn/):
   GTCN aims to explain the basics of graph theory that are needed at an
@@ -15,6 +13,12 @@
   This repo is for hosting our GNN book titled "Graph Neural Networks:
   Foundations, Frontiers, and Applications".
   <https://graph-neural-networks.github.io/index.html>
+- [Graphlet-AI/graphml-class](https://github.com/Graphlet-AI/graphml-class):
+  Full Stack Graph Machine Learning: Theory, Practice, Tools and Techniques
+  <https://graphlet.ai>-
+  [Graphlet-AI/graphml-class](https://github.com/Graphlet-AI/graphml-class):
+  Full Stack Graph Machine Learning: Theory, Practice, Tools and Techniques
+  <https://graphlet.ai>
 
 ## Framework
 

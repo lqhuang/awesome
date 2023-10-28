@@ -498,8 +498,6 @@
 
 - [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark):
   Benchmarks for rust serialization frameworks
-- 🌟 [rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization
-  framework for Rust
 - [tokio-rs/prost](https://github.com/tokio-rs/prost): PROST! a Protocol Buffers
   implementation for the Rust Language
 - [tafia/quick-protobuf](https://github.com/tafia/quick-protobuf): A rust
@@ -526,8 +524,8 @@
 
 - 🌟 [pest-parser/pest](https://github.com/pest-parser/pest): The Elegant Parser
   <https://pest.rs/>
-- [zesterer/chumsky](https://github.com/zesterer/chumsky): A parser library for
-  humans with powerful error recovery.
+- 🌟 [zesterer/chumsky](https://github.com/zesterer/chumsky): A parser library
+  for humans with powerful error recovery.
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs):
   Extensible SQL Lexer and Parser for Rust
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter): An
