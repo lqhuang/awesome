@@ -29,6 +29,9 @@
 - 🌟 [roapi/roapi](https://github.com/roapi/roapi): Create full-fledged APIs for
   slowly moving datasets without writing a single line of code.
   <https://roapi.github.io/docs>
+- [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb): Postgres first
+  ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀
+  <https://peerdb.io>
 
 ## Visualize frontend / BI
 
@@ -67,6 +70,9 @@
   Continuous Validation of ML Models & Data. Deepchecks is a Python package for
   comprehensively validating your machine learning models and data with minimal
   effort. <https://docs.deepchecks.com>
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab): The standard
+  data-centric AI package for data quality and machine learning with messy,
+  real-world data and labels. <https://cleanlab.ai>
 
 ## Data Observability
 

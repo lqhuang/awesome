@@ -163,3 +163,8 @@
   arXiv
 - [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook): LaTeX
   论文写作教程 (中文版)
+- [kisonecat/tikzjax](https://github.com/kisonecat/tikzjax): TikZJax is TikZ
+  running under WebAssembly in the browser
+- [ice1000/multi-school-sop](https://github.com/ice1000/multi-school-sop): A
+  latex template for writing statement-of-purpose for many schools at the same
+  time

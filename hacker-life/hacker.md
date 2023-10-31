@@ -111,6 +111,8 @@
 - [google/typograms](https://github.com/google/typograms): Typograms (short for
   typographic diagrams) is a lightweight image format (text/typogram) useful for
   defining simple diagrams in technical documentation
+- 🌟 [varkor/quiver](https://github.com/varkor/quiver): A modern commutative
+  diagram editor for the web. <https://q.uiver.app>
 
 ## Homelab
 
@@ -154,7 +156,8 @@
 - 🌟 [benphelps/homepage](https://github.com/benphelps/homepage): A highly
   customizable homepage (or startpage / application dashboard) with Docker and
   service API integrations.
-- [](https://github.com/awesome-foss/awesome-sysadmin)
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin):
+  A curated list of amazingly awesome open-source sysadmin resources.
 
 ## HomeKit / IoT
 
@@ -224,3 +227,11 @@
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server):
   An evolving how-to guide for securing a Linux server.
 - [Email Self-Defense](https://emailselfdefense.fsf.org)
+- [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists):
+  SecLists is the security tester's companion. It's a collection of multiple
+  types of lists used during security assessments, collected in one place. List
+  types include usernames, passwords, URLs, sensitive data patterns, fuzzing
+  payloads, web shells, and many more.
+  <https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>
+- [rfc-st/humble](https://github.com/rfc-st/humble): A humble, and fast!,
+  security-oriented HTTP headers analyzer. <https://github.com/rfc-st/humble>

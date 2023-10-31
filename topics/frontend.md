@@ -304,9 +304,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [motiondivision/motionone](https://github.com/motiondivision/motionone): A new
   animation library, built on the Web Animations API for the smallest filesize
   and the fastest performance. <https://motion.dev>
-- [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations):
-  React-useanimations is a collection of free animated open source icons for
-  React.js. <http://react.useanimations.com>
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥 Make
   videos programmatically with React <https://remotion.dev>
 - [Tencent/libpag](https://github.com/Tencent/libpag): The official rendering
@@ -323,6 +320,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://auto-animate.formkit.com>
 - [barbajs/barba](https://github.com/barbajs/barba): Create badass, fluid and
   smooth transitions between your website’s pages. <https://barba.js.org/>
+- 🌟
+  [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion):
+  react-magic-motion is a react.js library that ✨ magically animates your
+  components. <https://react-magic-motion.com>
 
 ## Functional libraries
 
@@ -541,6 +542,12 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over
   3400 free MIT-licensed high-quality SVG icons for you to use in your web
   projects. <https://tabler-icons.io>
+- [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations):
+  React-useanimations is a collection of free animated open source icons for
+  React.js. <http://react.useanimations.com>
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide): Beautiful &
+  consistent icon toolkit made by the community. Open-source project and a fork
+  of Feather Icons. <https://lucide.dev>
 - [antfu/icones](https://github.com/antfu/icones): ⚡️ Icon Explorer with
   Instant searching, powered by Iconify <https://icones.js.org/>
 - [iconify/iconify](https://github.com/iconify/iconify): Universal icon

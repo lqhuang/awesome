@@ -29,6 +29,7 @@ more like a toolbox for myself.
   - [cloud](./topics/cloud.md)
   - [cryptography](./topics/cryptography.md)
   - [datastack](./topics/datastack.md)
+  - [devops](./topics/devops.md)
   - [enterprise](./topics/enterprise.md)
   - [frontend](./topics/frontend.md)
   - [generative-ai](./topics/generative-ai.md)

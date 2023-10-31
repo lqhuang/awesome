@@ -280,6 +280,8 @@
 - [tensor-compiler/taco](https://github.com/tensor-compiler/taco): The Tensor
   Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs
   <http://tensor-compiler.org>
+- [pytorch/glow](https://github.com/pytorch/glow): Compiler for Neural Network
+  hardware accelerators
 
 ## Platform framework / Workflow pipeline / MLOps
 
@@ -325,6 +327,15 @@
   <https://aesara.readthedocs.io>
 - [google/autobound](https://github.com/google/autobound): AutoBound
   automatically computes upper and lower bounds on functions.
+- [gtn-org/gtn](https://github.com/gtn-org/gtn): Automatic differentiation with
+  weighted finite-state transducers.
+- [mitsuba-renderer/drjit](https://github.com/mitsuba-renderer/drjit): Dr.Jit —
+  A Just-In-Time-Compiler for Differentiable Rendering
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi): Productive &
+  portable high-performance programming in Python. <https://taichi-lang.org>
+- [taichi-dev/difftaichi](https://github.com/taichi-dev/difftaichi): 10
+  differentiable physical simulators built with Taichi differentiable
+  programming (DiffTaichi, ICLR 2020)
 
 ## Jax ecology
 
@@ -443,6 +454,9 @@
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning
   operations reinvented (for pytorch, tensorflow, jax and others)
   <https://einops.rocks>
+- [google/tensorstore](https://github.com/google/tensorstore): Library for
+  reading and writing large multi-dimensional arrays.
+  <https://google.github.io/tensorstore/>
 - [google-deepmind/tree](https://github.com/google-deepmind/tree): tree is a
   library for working with nested data structures <https://tree.readthedocs.io>
 - [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses):

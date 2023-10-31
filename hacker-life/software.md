@@ -86,6 +86,8 @@
   developers. <https://devtoys.app/>
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer): The finest
   Windows Optimizer
+- 🌟 [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP):
+  NOVA opeN sOurce Video plAyer: main repository to build them all
 
 ## macOS / iPadOS
 
@@ -170,6 +172,10 @@
 - [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget):
   Open source AppStore sales monitor with widget
   <https://apps.apple.com/de/app/ac-widget/id1562025981>
+- [aonez/Keka](https://github.com/aonez/Keka): The macOS & iOS file archiver
+  <https://www.keka.io>
+- [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac): DevToys For
+  mac
 
 ### Free / Paid
 
@@ -294,6 +300,10 @@
   <https://flood.js.org>
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web
   File Browser <https://filebrowser.org>
+- [cppla/ServerStatus](https://github.com/cppla/ServerStatus): 云探针、多服务器
+  探针、云监控、多服务器云监控，演示： <https://tz.cloudcpp.com>
+- [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust): ✨ Rust 版
+  ServerStatus 探针、威力加强版 <https://ssr.rs/>
 
 ### Email
 

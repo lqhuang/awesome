@@ -213,6 +213,9 @@
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde):
   Implementations of SIMD instruction sets for systems which don't natively
   support them. <https://simd-everywhere.github.io/blog>
+- [Arm Neon](https://developer.arm.com/Architectures/Neon): Arm Neon technology
+  is an advanced Single Instruction Multiple Data (SIMD) architecture extension
+  for the A-profile and R-profile processors.
 
 ## Utils
 

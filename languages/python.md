@@ -170,6 +170,8 @@
   Type hints support for the Sphinx autodoc extension
 - [readthedocs-examples/awesome-read-the-docs](https://github.com/readthedocs-examples/awesome-read-the-docs):
   A curated list of awesome Read the Docs projects <https://readthedocs.org/>
+- [psincraian/pepy](https://github.com/psincraian/pepy): pepy is a site to get
+  statistics information about any Python package. <https://pepy.tech>
 
 ### Security
 
@@ -871,6 +873,9 @@
 - [beeware/briefcase](https://github.com/beeware/briefcase): Tools to support
   converting a Python project into a standalone native application.
   <https://briefcase.readthedocs.io/>
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): OCRmyPDF adds an
+  OCR text layer to scanned PDF files, allowing them to be searched
+  <http://ocrmypdf.readthedocs.io/>
 
 ## Visualization
 
