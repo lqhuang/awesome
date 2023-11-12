@@ -45,11 +45,6 @@
   testing framework for JavaScript (like QuickCheck) written in TypeScript
   <https://fast-check.dev/>
 
-### Parser
-
-- 🌟 [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser,
-  mangler and compressor toolkit for ES6+ <https://terser.org>
-
 ### Linter / Formatter
 
 - [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies
@@ -58,23 +53,6 @@
   quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
 
 ## Functional libraries
-
-### Misc
-
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): An
-  open-source, lightning-fast, and hyper-relevant search engine that fits
-  effortlessly into your apps, websites, and workflow.
-  <https://www.meilisearch.com>
-- [oramasearch/orama](https://github.com/oramasearch/orama): 🌌 Fast, in-memory,
-  typo-tolerant, full-text search engine written in TypeScript.
-  <https://docs.oramasearch.com>
-- [tinyplex/tinybase](https://github.com/tinyplex/tinybase): A tiny, reactive
-  JavaScript library for structured state and tabular data.
-  <https://tinybase.org>
-- [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript
-  library that translates Cron expressions into human readable descriptions
-  <http://bradymholt.github.io/cRonstrue/>
-- [npmgraph](https://npmgraph.js.org/)
 
 ### SerDe / Schema
 
@@ -127,6 +105,25 @@
 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm):
   TypeScript ORM that feels like writing SQL <https://orm.drizzle.team>
+
+### Misc
+
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): An
+  open-source, lightning-fast, and hyper-relevant search engine that fits
+  effortlessly into your apps, websites, and workflow.
+  <https://www.meilisearch.com>
+- [oramasearch/orama](https://github.com/oramasearch/orama): 🌌 Fast, in-memory,
+  typo-tolerant, full-text search engine written in TypeScript.
+  <https://docs.oramasearch.com>
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase): A tiny, reactive
+  JavaScript library for structured state and tabular data.
+  <https://tinybase.org>
+- [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript
+  library that translates Cron expressions into human readable descriptions
+  <http://bradymholt.github.io/cRonstrue/>
+- [npmgraph](https://npmgraph.js.org/)
+- [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics):
+  simple statistics for node & browser javascript <http://simplestatistics.org/>
 
 ### Uncategorised
 

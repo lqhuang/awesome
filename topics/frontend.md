@@ -88,6 +88,35 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge): A
   production-grade boilerplate for modern Next.js apps.
   <https://github.com/haydenbleasel/next-forge>
+- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react):
+  🛡️ ⚛️ A simple, scalable, and powerful architecture for building production
+  ready React applications.
+
+## Toolchains
+
+### Build tools
+
+- 🌟 [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill): Speed up your
+  package installation process, reduce your disk usage, and extend the lifespan
+  of your precious SSD.
+
+### Parser
+
+- 🌟 [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser,
+  mangler and compressor toolkit for ES6+ <https://terser.org>
+
+### Bundler
+
+- vite
+- rolldown
+
+### Testing suites
+
+- vitest
+- [Chromatic](https://www.chromatic.com/): Ship UIs faster by automating grunt
+  work. Chromatic automates visual & interaction tests for Storybook. Connect
+  CI/CD and Figma workflows to streamline stakeholder sign-off. Generate
+  versioned component docs.
 
 ## Components library
 
@@ -363,6 +392,24 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that
   helps you debug components.
 
+### Misc
+
+- [instantpage/instant.page](https://github.com/instantpage/instant.page): Make
+  your site’s pages instant in 1 minute and improve your conversion rate by 1%
+  <https://instant.page>
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app):
+  A modified web browser that helps in responsive web development. A web
+  developer's must have dev-tool. <https://responsively.app>
+- [aidenybai/million](https://github.com/aidenybai/million): 🔟🔼6️⃣ An extremely
+  fast virtual DOM that makes React up to 70% faster! <https://millionjs.org>
+- [perfsee/perfsee](https://github.com/perfsee/perfsee): a set of tools for
+  measuring and debugging performance of frontend applications
+  <https://perfsee.com>
+- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle): A
+  React-based library for creating sleek presentations using JSX syntax that
+  gives you the ability to live demo your code.
+  <http://formidable.com/open-source/spectacle/>
+
 ## Visualization
 
 - [observablehq/plot](https://github.com/observablehq/plot): A concise API for
@@ -445,61 +492,33 @@ Major in React ecosystem, but also include other frameworks and libraries.
   Dashboard, SaaS and other projects, and has a very good user experience.
   - paid required
 
-## Build tools
+## Further topics
 
-- 🌟 [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill): Speed up your
-  package installation process, reduce your disk usage, and extend the lifespan
-  of your precious SSD.
-
-## WASM in Web
+### WebAssembly
 
 - [grain-lang/grain](https://github.com/grain-lang/grain): The Grain compiler
   toolchain and CLI. Home of the modern web staple. 🌾 <https://grain-lang.org>
 
-## Misc
+### WebGPU / Web3D
 
-- [instantpage/instant.page](https://github.com/instantpage/instant.page): Make
-  your site’s pages instant in 1 minute and improve your conversion rate by 1%
-  <https://instant.page>
-- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react):
-  🛡️ ⚛️ A simple, scalable, and powerful architecture for building production
-  ready React applications.
-- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app):
-  A modified web browser that helps in responsive web development. A web
-  developer's must have dev-tool. <https://responsively.app>
-- [aidenybai/million](https://github.com/aidenybai/million): 🔟🔼6️⃣ An extremely
-  fast virtual DOM that makes React up to 70% faster! <https://millionjs.org>
-- [perfsee/perfsee](https://github.com/perfsee/perfsee): a set of tools for
-  measuring and debugging performance of frontend applications
-  <https://perfsee.com>
-- [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics):
-  simple statistics for node & browser javascript <http://simplestatistics.org/>
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion): Orillusion
   is a pure Web3D rendering engine which is fully developed based on the WebGPU
   standard. <https://www.orillusion.com>
 - [google/model-viewer](https://github.com/google/model-viewer): Easily display
   interactive 3D models on the web and in AR! <https://modelviewer.dev>
+
+### PWA
+
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox): 📦 Workbox:
   JavaScript libraries for Progressive Web Apps
   <https://developers.google.com/web/tools/workbox/>
-- [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle): A
-  React-based library for creating sleek presentations using JSX syntax that
-  gives you the ability to live demo your code.
-  <http://formidable.com/open-source/spectacle/>
-- [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages): CLI
-  to build and develop Next.js apps for Cloudflare Pages
-  <https://www.npmjs.com/package/@cloudflare/next-on-pages>
 
-## SSG
+### SSG / Server Action
 
 - [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build
   on top of Notion and NextJS, deployed on Vercel. <https://nobelium.js.org>
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own
   second brain and digital garden for free <https://quartz.jzhao.xyz/>
-
-## Testing suites
-
-- [Chromatic](https://www.chromatic.com/): Ship UIs faster by automating grunt
-  work. Chromatic automates visual & interaction tests for Storybook. Connect
-  CI/CD and Figma workflows to streamline stakeholder sign-off. Generate
-  versioned component docs.
+- [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages): CLI
+  to build and develop Next.js apps for Cloudflare Pages
+  <https://www.npmjs.com/package/@cloudflare/next-on-pages>
