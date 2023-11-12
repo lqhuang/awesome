@@ -165,21 +165,41 @@
   entire codebase <https://cody.dev>
 - [LLM Collection](https://www.promptingguide.ai/models/collection): This
   section consists of a collection and summary of notable and foundational LLMs.
+- [microsoft/CodeT](https://github.com/microsoft/CodeT): This repository
+  contains projects that aims to equip large-scale pretrained language models
+  with better programming and reasoning skills. These projects are presented by
+  Microsoft Research Asia and Microsoft Azure AI.
 
 ## LLM Agents / Chains / Composability
 
-- 🌟 [hwchase17/langchain](https://github.com/hwchase17/langchain): ⚡ Building
-  applications with LLMs through composability ⚡
+- 🌟 [langchain-ai/langchain](https://github.com/langchain-ai/langchain): ⚡
+  Building applications with LLMs through composability ⚡
+  <https://python.langchain.com/>
 - 🌟 [logspace-ai/langflow](https://github.com/logspace-ai/langflow): ⛓️
   LangFlow is a UI for LangChain, designed with react-flow to provide an
   effortless way to experiment and prototype flows.
 - 🌟 [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer):
   Specify what you want it to build, the AI asks for clarification, and then
   builds it.
+- [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex
+  (formerly GPT Index) is a data framework for your LLM applications
+  <https://docs.llamaindex.ai>
+- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app): LLM App is a
+  production framework for building and serving AI applications and LLM-enabled
+  real-time data pipelines.
+  <https://pathway.com/developers/showcases/llm-app-pathway/>
+- [microsoft/promptflow](https://github.com/microsoft/promptflow): Build
+  high-quality LLM apps - from prototyping, testing to production deployment and
+  monitoring. <https://microsoft.github.io/promptflow/>
+- [safevideo/autollm](https://github.com/safevideo/autollm): Ship RAG based LLM
+  web apps in seconds.
+
 - 📝 [1rgs/jsonformer](https://github.com/1rgs/jsonformer): A Bulletproof Way to
   Generate Structured JSON from Language Models
 - [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json):
   Structured and typehinted GPT responses in Python
+- [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer):
+  Enforce the output format (JSON Schema, Regex etc) of a language model
 - 🌟 [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts):
   Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem
   Solving with Large Language Models that Elevates Model Reasoning by atleast
@@ -189,9 +209,6 @@
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori): A
   reactive runtime for building durable AI agents
   <https://docs.thousandbirds.ai>
-- [microsoft/promptflow](https://github.com/microsoft/promptflow): Build
-  high-quality LLM apps - from prototyping, testing to production deployment and
-  monitoring. <https://microsoft.github.io/promptflow/>
 
 ## ChatGPT
 
@@ -201,9 +218,6 @@
   通 <https://chatgpt.denohub.com>
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker):
   Make bilingual epub books Using AI translate
-- [jerryjliu/gpt_index](https://github.com/jerryjliu/gpt_index): LlamaIndex (GPT
-  Index) is a project that provides a central interface to connect your LLM's
-  with external data. <https://gpt-index.readthedocs.io/en/latest/>
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples
   and guides for using the OpenAI API
 - [Helicone/helicone](https://github.com/Helicone/helicone): Helicone is an
@@ -241,6 +255,8 @@
   Daily Learning and Work Assistant
 - 🌟 [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt): 🤖
   Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼
+- [pagebrain/lexeme](https://github.com/pagebrain/lexeme): Lexeme - Open source
+  ChatGPT Text Editor <https://pagebrain.ai/lexeme/>
 
 ### Proxy or Transform
 

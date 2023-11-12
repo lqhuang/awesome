@@ -168,3 +168,5 @@
 - [ice1000/multi-school-sop](https://github.com/ice1000/multi-school-sop): A
   latex template for writing statement-of-purpose for many schools at the same
   time
+- [xyz2tex/svg2tikz](https://github.com/xyz2tex/svg2tikz): An Inkscape extension
+  for exporting SVG paths as TikZ/PGF paths <http://xyz2tex.github.io/svg2tikz/>

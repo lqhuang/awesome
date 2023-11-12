@@ -153,9 +153,9 @@
   single command. <https://homelab.khuedoan.com>
 - [MetinSeylan/homelab](https://github.com/MetinSeylan/homelab): bare-metal
   homelab k8s automation <https://metin.sh>
-- 🌟 [benphelps/homepage](https://github.com/benphelps/homepage): A highly
+- 🌟 [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly
   customizable homepage (or startpage / application dashboard) with Docker and
-  service API integrations.
+  service API integrations. <https://gethomepage.dev/>
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin):
   A curated list of amazingly awesome open-source sysadmin resources.
 
@@ -211,6 +211,9 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats):
   ⚡ Dynamically generated stats for your github readmes
   <https://github-readme-stats.vercel.app>
+- [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv): LaTeX CV
+  generator from a YAML/JSON input file.
+  <https://sinaatalay.github.io/rendercv/>
 
 ## Security / Privacy
 
@@ -235,3 +238,9 @@
   <https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>
 - [rfc-st/humble](https://github.com/rfc-st/humble): A humble, and fast!,
   security-oriented HTTP headers analyzer. <https://github.com/rfc-st/humble>
+
+## Open Source Software: State, Progress and Future
+
+- [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai):
+  Clarity in the current fast-paced mess of Open Source innovation
+  <https://book.premai.io/state-of-open-source-ai>

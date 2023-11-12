@@ -93,6 +93,10 @@
   [fused-effects/fused-effects](https://github.com/fused-effects/fused-effects):
   A fast, flexible, fused effect system for Haskell
   - ZIO is inspired by fused-effects
+- [re-xyr/speff](https://github.com/re-xyr/speff): Fast higher-order effect
+  handlers with evidence passing
+- [re-xyr/cleff](https://github.com/re-xyr/cleff): Fast and concise extensible
+  effects <https://hackage.haskell.org/package/cleff>
 
 ## PL
 
@@ -135,6 +139,8 @@
   <http://hackage.haskell.org/package/ad>
 - 🌟 [google/mlir-hs](https://github.com/google/mlir-hs): Haskell bindings for
   MLIR
+- [ChrisPenner/slick](https://github.com/ChrisPenner/slick): Static site
+  generator built on Shake configured in Haskell
 
 ### CLI
 
@@ -179,16 +185,6 @@
 - [haskell/os-string](https://github.com/haskell/os-string): No description,
   website, or topics provided.
 
-## Typescript
-
-- [gcanti/fp-ts](https://github.com/gcanti/fp-ts): Functional programming in
-  TypeScript
-- [Effect-TS/effect](https://github.com/Effect-TS/effect): A fully-fledged
-  functional effect system for TypeScript with a rich standard library
-  <https://effect-ts.github.io/effect>
-- [gigobyte/purify](https://github.com/gigobyte/purify): Functional programming
-  library for TypeScript <https://gigobyte.github.io/purify>
-
 ## Experimental languages
 
 - [koka-lang/koka](https://github.com/koka-lang/koka): Koka language compiler
@@ -210,3 +206,5 @@
   concurrent software with confidence <http://inko-lang.org/>
 - [austral/austral](https://github.com/austral/austral): Systems language with
   linear types and capability-based security. <https://austral-lang.org/>
+- [diku-dk/futhark](https://github.com/diku-dk/futhark): 💥💻💥 A data-parallel
+  functional programming language <http://futhark-lang.org>

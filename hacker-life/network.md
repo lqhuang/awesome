@@ -226,6 +226,8 @@
   server to the world! powered by Cloudflare Quick Tunnels.
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd): 🛡 I2P: End-to-End
   encrypted and anonymous Internet <https://i2pd.website>
+- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel): A simple
+  SSL/TLS proxy with mutual authentication for securing non-TLS services.
 
 ### Mesh network
 

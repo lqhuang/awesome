@@ -11,6 +11,7 @@ more like a toolbox for myself.
   - [software](./hacker-life/software.md)
 - languages
   - [clang](./languages/clang.md)
+  - [clang](./languages/javascript.md)
   - [python](./languages/python.md)
   - [rust](./languages/rust.md)
   - [scala](./languages/scala.md)
@@ -24,6 +25,7 @@ more like a toolbox for myself.
   - [streaming](./long-game/streaming.md)
   - [system](./long-game/system.md)
 - topics
+  - [app](./topics/app.md)
   - [backend](./topics/backend.md)
   - [blockchain](./topics/blockchain.md)
   - [cloud](./topics/cloud.md)
@@ -36,6 +38,7 @@ more like a toolbox for myself.
   - [graph](./topics/graph.md)
   - [nlp](./topics/nlp.md)
   - [quant](./topics/quant.md)
+  - [saas](./topics/saas.md)
 
 ## My little corner
 

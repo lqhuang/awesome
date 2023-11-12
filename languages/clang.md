@@ -59,6 +59,8 @@
   llvm tools & libs
 - 🌟 [rui314/mold](https://github.com/rui314/mold): mold: Mold: A Modern Linker
   🦠
+- [untitaker/hyperlink](https://github.com/untitaker/hyperlink): Very fast link
+  checker for CI.
 - [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source
   C/C++ package manager <https://conan.io>
 - [cpp-best-practices/cmake_template](https://github.com/cpp-best-practices/cmake_template):
@@ -85,6 +87,8 @@
 - [Clang Static Analyzer](https://clang-analyzer.llvm.org/): The Clang Static
   Analyzer is a source code analysis tool that finds bugs in C, C++, and
   Objective-C programs. <https://clang.llvm.org/docs/ClangStaticAnalyzer.html>
+- [naivesystems/analyze](https://github.com/naivesystems/analyze): NaiveSystems
+  Analyze is a static analysis tool for code security and compliance.
 
 ### Test suites
 
@@ -179,6 +183,8 @@
   <http://www.openucx.org>
 - [google/cpu_features](https://github.com/google/cpu_features): A cross
   platform C99 library to get cpu features at runtime.
+- [google/nsync](https://github.com/google/nsync): nsync is a C library that
+  exports various synchronization primitives, such as mutexes
 
 ## Memory allocator
 

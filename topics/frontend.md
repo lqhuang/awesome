@@ -9,14 +9,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [ericdiviney/react-handbook](https://github.com/ericdiviney/react-handbook):
   ⚛🤌 Modern approaches to architecture and feature development for
   production-ready React apps. <https://reacthandbook.dev>
-- [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models):
-  💘 帮助你建立良好的 JavaScript 心智模型
-  <https://sudongyuer.github.io/javascript-mental-models>
 - [BetaSu/just-react](https://github.com/BetaSu/just-react): 「React 技术揭秘」
   一本自顶向下的 React 源码分析书 <https://react.iamkasong.com/>
-- [gibbok/typescript-book](https://github.com/gibbok/typescript-book): The
-  Concise TypeScript Book: A Concise Guide to Effective Development in
-  TypeScript. Free and Open Source.
 - 🌟
   [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/):
   A guide that teaches professional developers how to transform component
@@ -91,6 +85,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   breeze. Easily configurable and customizable. Perfect as a replacement to
   existing Jekyll and Hugo individual blogs.
   <https://tailwind-nextjs-starter-blog.vercel.app/>
+- [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge): A
+  production-grade boilerplate for modern Next.js apps.
+  <https://github.com/haydenbleasel/next-forge>
 
 ## Components library
 
@@ -283,6 +280,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [satelllte/react-knob-headless](https://github.com/satelllte/react-knob-headless):
   🎛️ Unstyled & accessible knob primitive for React.
   <https://react-knob-headless.vercel.app>
+- [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker): A
+  simple TimePicker for your Shadcn UI project. <https://time.openstatus.dev/>
 
 ### Form
 
@@ -324,87 +323,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
   [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion):
   react-magic-motion is a react.js library that ✨ magically animates your
   components. <https://react-magic-motion.com>
+- 🌟 [liabru/matter-js](https://github.com/liabru/matter-js): a 2D rigid body
+  physics engine for the web ▲● ■
 
 ## Functional libraries
-
-### Misc
-
-- [streamich/react-use](https://github.com/streamich/react-use): React Hooks —
-  👍 <http://streamich.github.io/react-use>
-- [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done
-  right. For Browser, SSR, and React Server Components. <https://foxact.skk.moe>
-- [uidotdev/usehooks](https://github.com/uidotdev/usehooks): A collection of
-  modern, server-safe React hooks – from the ui.dev team <https://usehooks.com>
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): An
-  open-source, lightning-fast, and hyper-relevant search engine that fits
-  effortlessly into your apps, websites, and workflow.
-  <https://www.meilisearch.com>
-- [oramasearch/orama](https://github.com/oramasearch/orama): 🌌 Fast, in-memory,
-  typo-tolerant, full-text search engine written in TypeScript.
-  <https://docs.oramasearch.com>
-- [tinyplex/tinybase](https://github.com/tinyplex/tinybase): A tiny, reactive
-  JavaScript library for structured state and tabular data.
-  <https://tinybase.org>
-- [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies
-  and exports in your JS/TS project
-- [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript
-  library that translates Cron expressions into human readable descriptions
-  <http://bradymholt.github.io/cRonstrue/>
-- [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that
-  helps you debug components.
-- [dexie/Dexie.js](https://github.com/dexie/Dexie.js): A Minimalistic Wrapper
-  for IndexedDB <https://dexie.org>
-- [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs):
-  High-performance visualization and interactive data exploration of scientific
-  and geospatial location aware datasets
-  <https://opengeoscience.github.io/geojs>
-
-### SerDe / Schema
-
-- 🌟 [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first
-  schema validation with static type inference <https://zod.dev>
-- [ajv-validator/ajv](https://github.com/ajv-validator/ajv): The fastest JSON
-  schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON
-  Type Definition (RFC8927) <https://ajv.js.org>
-- [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct): A
-  simple and composable way to validate data in JavaScript (and TypeScript).
-  <https://docs.superstructjs.org/>
-- [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema
-  validation
-- [tskj/typescript-json-decoder](https://github.com/tskj/typescript-json-decoder):
-  Json Decoder for Typescript
-- [gcanti/io-ts](https://github.com/gcanti/io-ts): Runtime type system for IO
-  decoding/encoding <https://gcanti.github.io/io-ts/>
-- 🌟 [Effect-TS/schema](https://github.com/Effect-TS/schema): Modeling the
-  schema of data structures as first-class values
-  <https://effect-ts.github.io/schema>
-
-### Parser
-
-- [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio): The fast, flexible,
-  and elegant library for parsing and manipulating HTML and XML.
-  <https://cheerio.js.org/>
-- [xmldom/xmldom](https://github.com/xmldom/xmldom): A pure JavaScript W3C
-  standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.
-- [fb55/htmlparser2](https://github.com/fb55/htmlparser2): The fast & forgiving
-  HTML and XML parser <https://feedic.com/htmlparser2>
-- [inikulin/parse5](https://github.com/inikulin/parse5): HTML
-  parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka
-  HTML5)-compliant.
-
-### Date
-
-- [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable
-  date-time library alternative to Moment.js with the same modern API
-  <https://day.js.org>
-- [moment/luxon](https://github.com/moment/luxon): ⏱ A library for working with
-  dates and times in JS <https://moment.github.io/luxon>
-- 🌟 [jakubroztocil/rrule](https://github.com/jakubroztocil/rrule): JavaScript
-  library for working with recurrence rules for calendar dates as defined in the
-  iCalendar RFC and more. <https://jakubroztocil.github.io/rrule>
-- [Hexagon/croner](https://github.com/Hexagon/croner): Trigger functions or
-  evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most
-  features. Node. Deno. Bun. Browser. <https://croner.56k.guru>
 
 ### State management
 
@@ -412,25 +334,34 @@ Major in React ecosystem, but also include other frameworks and libraries.
   state management in React <https://zustand-demo.pmnd.rs>
 - [pmndrs/jotai](https://github.com/pmndrs/jotai): 👻 Primitive and flexible
   state management for React <https://jotai.org>
+  - [saasquatch/bunshi](https://github.com/saasquatch/bunshi): Molecule pattern
+    for jotai, valtio, zustand, nanostores, xstate, react and vue
+    <https://www.bunshi.org/>
 - [statelyai/xstate](https://github.com/statelyai/xstate):State machines and
   statecharts for the modern web. <https://xstate.js.org/docs>
 - 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next
   immutable state by mutating the current one <https://immerjs.github.io/immer>
 
-### Backend
+### Utils
 
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm):
-  TypeScript ORM that feels like writing SQL <https://orm.drizzle.team>
-
-### Uncategorised
-
-- [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your
-  i18n localization with AI
-- [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run
-  Python code in your React apps. <https://elilambnz.github.io/react-py>
-- [yomorun/presencejs](https://github.com/yomorun/presencejs): @yomo/presencejs
-  ⚡️ made realtime web applications edge-aware by YoMo, WebTransport based,
-  provide fallback to WebSocket automatically. <https://presence.js.org>
+- [dexie/Dexie.js](https://github.com/dexie/Dexie.js): A Minimalistic Wrapper
+  for IndexedDB <https://dexie.org>
+- [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs):
+  High-performance visualization and interactive data exploration of scientific
+  and geospatial location aware datasets
+  <https://opengeoscience.github.io/geojs>
+- [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy): Access
+  the system clipboard (copy/paste)
+- [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing): File
+  uploads for modern web devs <https://uploadthing.com>
+- [streamich/react-use](https://github.com/streamich/react-use): React Hooks —
+  👍 <http://streamich.github.io/react-use>
+- [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done
+  right. For Browser, SSR, and React Server Components. <https://foxact.skk.moe>
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks): A collection of
+  modern, server-safe React hooks – from the ui.dev team <https://usehooks.com>
+- [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that
+  helps you debug components.
 
 ## Visualization
 
@@ -475,55 +406,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
   the core principles of Processing. http://twitter.com/p5xjs —
   <http://p5js.org/>
 
-## Not only Web
-
-- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight):
-  Next-generation HTML renderer for apps and games <https://ultralig.ht>
-- 🌟 [expo/expo](https://github.com/expo/expo): An open-source platform for
-  making universal native apps with React. Expo runs on Android, iOS, and the
-  web. <https://docs.expo.dev>
-- [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler):
-  Declarative API exposing platform native touch and gesture system to React
-  Native. <https://docs.swmansion.com/react-native-gesture-handler/>
-- [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated):
-  React Native's Animated library reimplemented
-  <https://docs.swmansion.com/react-native-reanimated/>
-- [software-mansion/react-native-screens](https://github.com/software-mansion/react-native-screens):
-  Native navigation primitives for your React Native app.
-- [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation):
-  Routing and navigation for your React Native apps
-  <https://reactnavigation.org>
-- [infinitered/ignite](https://github.com/infinitered/ignite): Infinite Red's
-  battle-tested React Native project boilerplate, along with a CLI,
-  component/model generators, and more!
-- [callstack/react-native-paper](https://github.com/callstack/react-native-paper):
-  Material Design for React Native (Android & iOS)
-  <https://reactnativepaper.com>
-- [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view):
-  React Native wrapper for the Android ViewPager and iOS UIPageViewController.
-- [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library):
-  🦉 Simple and complete React Native testing utilities that encourage good
-  testing practices. <https://callstack.github.io/react-native-testing-library/>
-- [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten):
-  💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode
-  <https://akveo.github.io/react-native-ui-kitten/>
-- [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib): UI
-  Components Library for React Native
-  <https://wix.github.io/react-native-ui-lib/>
-- [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia):
-  High-performance React Native Graphics using Skia
-  <https://shopify.github.io/react-native-skia>
-- [React Native 中文网](https://reactnative.cn/)
-- [React Native](https://reactnative.dev/)
-- [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript): ⚡
-  Empowering JavaScript with native platform APIs. ✨ Best of all worlds
-  (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular,
-  Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose,
-  Flutter and you name it compatible. <https://nativescript.org/>
-- 🌟 [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui):
-  Universal headless components for React Native, Next.js & React with beautiful
-  & optional styling (alpha) <https://gluestack.io/>
-
 ## Design / Resources
 
 - [nealmckee/penumbra](https://github.com/nealmckee/penumbra): Penumbra Color
@@ -565,14 +447,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ## Build tools
 
-- [vercel/turbo](https://github.com/vercel/turbo): Incremental bundler and build
-  system optimized for JavaScript and TypeScript, written in Rust – including
-  Turborepo and Turbopack. <https://turbo.build>
-- [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm
-  scripts to make them smarter and more efficient.
-- [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js):
-  quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
-- [npmgraph](https://npmgraph.js.org/)
 - 🌟 [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill): Speed up your
   package installation process, reduce your disk usage, and extend the lifespan
   of your precious SSD.
@@ -582,46 +456,32 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [grain-lang/grain](https://github.com/grain-lang/grain): The Grain compiler
   toolchain and CLI. Home of the modern web staple. 🌾 <https://grain-lang.org>
 
-## Toolchains
-
-- [nodenv/nodenv](https://github.com/nodenv/nodenv): Manage multiple NodeJS
-  versions.
-- [tj/n](https://github.com/tj/n): Node version management
-- [Schniz/fnm](https://github.com/Schniz/fnm): 🚀 Fast and simple Node.js
-  version manager, built in Rust <https://fnm.vercel.app>
-- [volta-cli/volta](https://github.com/volta-cli/volta): Volta: JS Toolchains as
-  Code. ⚡ <https://volta.sh>
-- 🌟 [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript
-  runtime, bundler, transpiler and package manager – all in one.
-  <https://bun.sh>
-
 ## Misc
 
-- [yunabe/tslab](https://github.com/yunabe/tslab): Interactive JavaScript and
-  TypeScript programming with Jupyter
 - [instantpage/instant.page](https://github.com/instantpage/instant.page): Make
   your site’s pages instant in 1 minute and improve your conversion rate by 1%
   <https://instant.page>
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react):
   🛡️ ⚛️ A simple, scalable, and powerful architecture for building production
   ready React applications.
-- [Orillusion/orillusion](https://github.com/Orillusion/orillusion): Orillusion
-  is a pure Web3D rendering engine which is fully developed based on the WebGPU
-  standard. <https://www.orillusion.com>
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app):
   A modified web browser that helps in responsive web development. A web
   developer's must have dev-tool. <https://responsively.app>
 - [aidenybai/million](https://github.com/aidenybai/million): 🔟🔼6️⃣ An extremely
   fast virtual DOM that makes React up to 70% faster! <https://millionjs.org>
-- 🌟 [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser,
-  mangler and compressor toolkit for ES6+ <https://terser.org>
 - [perfsee/perfsee](https://github.com/perfsee/perfsee): a set of tools for
   measuring and debugging performance of frontend applications
   <https://perfsee.com>
 - [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics):
   simple statistics for node & browser javascript <http://simplestatistics.org/>
+- [Orillusion/orillusion](https://github.com/Orillusion/orillusion): Orillusion
+  is a pure Web3D rendering engine which is fully developed based on the WebGPU
+  standard. <https://www.orillusion.com>
 - [google/model-viewer](https://github.com/google/model-viewer): Easily display
   interactive 3D models on the web and in AR! <https://modelviewer.dev>
+- [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox): 📦 Workbox:
+  JavaScript libraries for Progressive Web Apps
+  <https://developers.google.com/web/tools/workbox/>
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle): A
   React-based library for creating sleek presentations using JSX syntax that
   gives you the ability to live demo your code.

@@ -9,6 +9,8 @@
 - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
 - [alextanhongpin/database-design](https://github.com/alextanhongpin/database-design):
   Ideas on better database design
+- [postgres-ai/postgres-howtos](https://github.com/postgres-ai/postgres-howtos):
+  Postgres HowTo articles
 
 ### Books
 

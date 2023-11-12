@@ -86,6 +86,11 @@
   code auditing and static analysis on a large scale
 - [vitsalis/PyCG](https://github.com/vitsalis/PyCG): Static Python call graph
   generator
+- [seddonym/import-linter](https://github.com/seddonym/import-linter): Import
+  Linter allows you to define and enforce rules for the internal and external
+  imports within your Python project. <https://import-linter.readthedocs.io/>
+- [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps): Python dependency
+  checker
 
 ### Build tools
 
@@ -142,6 +147,8 @@
   wheels for all the platforms on CI with minimal configuration.
 - 🌟 [pyupio/dparse](https://github.com/pyupio/dparse): A parser for Python
   dependency files
+- [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package):
+  Build and Inspect Python Packages in Your CI
 
 ### Docs
 

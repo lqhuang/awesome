@@ -94,6 +94,12 @@
 - 🌟 [rs/dnstrace](https://github.com/rs/dnstrace): DNS resolution tracing tool
 - [wilfred/difftastic](https://github.com/wilfred/difftastic): a structural diff
   that understands syntax 🟥🟩 <https://difftastic.wilfred.me.uk/>
+- [microsoft/inshellisense](https://github.com/microsoft/inshellisense): IDE
+  style command line auto complete
+- 🌟 [bensadeh/tailspin](https://github.com/bensadeh/tailspin): 🌀 A log file
+  highlighter
+- [ducaale/xh](https://github.com/ducaale/xh): Friendly and fast tool for
+  sending HTTP requests
 
 ## TUI applications
 

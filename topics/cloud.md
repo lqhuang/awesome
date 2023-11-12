@@ -29,6 +29,9 @@
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison):
   Comparing the free tier offers of the major cloud providers like AWS, Azure,
   GCP, Oracle etc. <https://cloudstudy.net>
+- [learnk8s](https://learnk8s.io/): Kubernetes training for engineers. Develop
+  the knowledge and skills to get the most out of Kubernetes with hands-on
+  online courses and instructor-led classes.
 
 ## OS
 
@@ -39,8 +42,13 @@
   can be configured to be POSIX-compliant. <http://unikraft.org/>
 - 🌟 [canonical/cloud-init](https://github.com/canonical/cloud-init): Official
   upstream for the cloud-init: cloud instance initialization <instance>
-- [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system and
-  container binary deployment and upgrades <https://ostreedev.github.io/ostree/>
+- 🌟 [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system
+  and container binary deployment and upgrades
+  <https://ostreedev.github.io/ostree/>
+- 🌟 [systemd/mkosi](https://github.com/systemd/mkosi): 💽 Build Bespoke OS
+  Images
+- [uapi-group/specifications](https://github.com/uapi-group/specifications):
+  UAPI Group Specifications <https://uapi-group.org/specifications/>
 
 ## Container
 
@@ -298,6 +306,8 @@
 - [The Duckbill Group](https://www.duckbillgroup.com/): If your AWS bill keeps
   rising — and your blood pressure is doing the same — then you should be
   working with our team of cloud cost management experts.
+- [opencost/opencost](https://github.com/opencost/opencost): Cost monitoring for
+  Kubernetes workloads and cloud costs <http://opencost.io>
 
 ### Tech Stack
 

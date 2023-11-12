@@ -88,6 +88,8 @@
   Windows Optimizer
 - 🌟 [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP):
   NOVA opeN sOurce Video plAyer: main repository to build them all
+- [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your
+  favorite torrent trackers
 
 ## macOS / iPadOS
 
@@ -245,6 +247,8 @@
   reps, exercises and much more.
 - [Gifox](https://gifox.app/): The best GIF editing/sharing/recording/conversion
   app
+- [Arq Backup](https://www.arqbackup.com/): Arq backs up your files. You control
+  your data. Arq® is backup software for your Mac or Windows PC.
 
 ## Services
 
@@ -304,6 +308,10 @@
   探针、云监控、多服务器云监控，演示： <https://tz.cloudcpp.com>
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust): ✨ Rust 版
   ServerStatus 探针、威力加强版 <https://ssr.rs/>
+- 🌟 [ekzhang/sshx](https://github.com/ekzhang/sshx): Fast, collaborative live
+  terminal sharing over the web <https://sshx.io>
+- [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io): 📚
+  LookScanned.io - Make your PDFs look scanned <https://lookscanned.io>
 
 ### Email
 

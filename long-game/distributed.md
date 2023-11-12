@@ -140,6 +140,7 @@
   <https://mwhittaker.github.io/frankenpaxos>
 - [haraldng/omnipaxos](https://github.com/haraldng/omnipaxos): OmniPaxos is a
   distributed log implemented as a Rust library. <https://omnipaxos.com/>
+  - [Playground](https://omnipaxos.com/docs/playground/playground/)
 - [efficient/epaxos](https://github.com/efficient/epaxos): EPaxos is an
   efficient, leaderless replication protocol <http://efficient.github.io/epaxos>
   - ? mencius & fast mencius

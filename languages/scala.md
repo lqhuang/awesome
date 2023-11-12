@@ -74,6 +74,8 @@
   Cross-platform compilation support for sbt.
 - [sbt/sbt-multi-jvm](https://github.com/sbt/sbt-multi-jvm): Multi-JVM testing
   in sbt
+- [sbt/sbt-buildinfo](https://github.com/sbt/sbt-buildinfo): I know this because
+  build.sbt knows this.
 
 ### Testing
 

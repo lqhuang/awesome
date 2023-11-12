@@ -19,6 +19,9 @@
   (CQRS), Event Sourcing, and Event Storming resources
 - [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates):
   No description, website, or topics provided.
+- [isno/theByteBook](https://github.com/isno/theByteBook): ⭐ 出版作品开源。深入
+  讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的
+  DevOps、SRE 指南。如发现错误，谢谢提 issue <https://www.thebyte.com.cn>
 
 ## Middleware
 

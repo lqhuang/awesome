@@ -367,16 +367,14 @@
 
 ## Security
 
-### Audit
-
 - [libyear](https://libyear.com/): A **simple** measure of software dependency
   freshness. It is a **single number** telling you how up-to-date your
   dependencies are.
-
-### Web
-
 - [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass): Check
   your WAF before an attacker does this one <https://nemesida-waf.com/>
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine): 一款足够简单、足够好
+  用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你
+  的网站不受黑客攻击。 <https://waf-ce.chaitin.cn/>
 
 ## Career
 

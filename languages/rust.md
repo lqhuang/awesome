@@ -136,6 +136,8 @@
   cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks):
   Scan your Rust crate for semver violations.
+- 🌟 [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm): cargo
+  subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 
 ### Test suites
 
@@ -535,6 +537,12 @@
   library for lossless syntax trees, inspired in part by Swift's libsyntax.
 - 🌟 [egraphs-good/egg](https://github.com/egraphs-good/egg): egg is a flexible,
   high-performance e-graph library <https://egraphs-good.github.io>
+  - [egraphs-good/egglog](https://github.com/egraphs-good/egglog): egraphs +
+    datalog! <https://egraphs-good.github.io/egglog/>
+    - https://arxiv.org/abs/2304.04332
+  - [metadsl/egglog-python](https://github.com/metadsl/egglog-python): Python
+    bindings for the egg-smol rust library
+    <https://egg-smol-python.readthedocs.io/en/latest/>
 - [hellux/jotdown](https://github.com/hellux/jotdown): A Djot parser library
 - [matklad/djot-rs](https://github.com/matklad/djot-rs): An experimental Rust
   implementation of the Djot light markup language.
@@ -615,6 +623,12 @@
   cryptographic hash functions written in pure Rust
 - 🌟 [withoutboats/heck](https://github.com/withoutboats/heck): oh heck, a case
   conversion library
+- [dropbox/rust-brotli](https://github.com/dropbox/rust-brotli): Brotli
+  compressor and decompressor written in rust that optionally avoids the stdlib
+  <https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less>
+- [google/mdbook-i18n-helpers](https://github.com/google/mdbook-i18n-helpers):
+  Translation support for mdbook. The plugins here give you a structured way to
+  maintain a translated book.
 
 ## Domain related
 

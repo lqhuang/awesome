@@ -49,23 +49,27 @@ Streaming Systems
 
 ## Frameworks
 
-- [singularity-data/risingwave](https://github.com/singularity-data/risingwave):
+- 🌟
+  [singularity-data/risingwave](https://github.com/singularity-data/risingwave):
   RisingWave: the next-generation streaming database in the cloud.
   <https://www.risingwave.dev>
-- [thatdot/quine](https://github.com/thatdot/quine): Quine • a streaming graph •
-  Slack: quine-io.slack.com <https://quine.io>
+- 🌟 [thatdot/quine](https://github.com/thatdot/quine): Quine • a streaming
+  graph • Slack: quine-io.slack.com <https://quine.io>
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize):
   The Fastest Way to Build the Fastest Data Products. Build data-intensive
   applications and services in SQL — without pipelines or caches — using
   materialized views that are always up-to-date. <https://materialize.com>
-- [bytewax/bytewax](https://github.com/bytewax/bytewax): A Python framework for
-  building highly scalable dataflows. <https://docs.bytewax.io>
+- 🌟[bytewax/bytewax](https://github.com/bytewax/bytewax): A Python framework
+  for building highly scalable dataflows. <https://docs.bytewax.io>
+- 🌟[pathwaycom/pathway](https://github.com/pathwaycom/pathway): Pathway is an
+  open framework for high-throughput and low-latency real-time data processing.
+  <https://pathway.com>
 - [quixio/quix-streams](https://github.com/quixio/quix-streams): Quix Streams -
   A library for telemetry data streaming. Python Stream Processing
   <https://quix.io/>
-- [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow):
-  A modular implementation of timely dataflow in Rust
-- [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow):
+- 🌟[TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow):
+  A modular implementation of timely dataflow in Rust -🌟
+  [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow):
   An implementation of differential dataflow using timely dataflow on Rust.
 - [jamii/dida](https://github.com/jamii/dida): Differential dataflow for mere
   mortals

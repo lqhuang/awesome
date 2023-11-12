@@ -198,6 +198,8 @@
   serving framework for ML models, offers dynamic batching and multi-stage
   pipeline to fully exploit your compute machine
   <https://mosecorg.github.io/mosec/>
+- [autonomi-ai/nos](https://github.com/autonomi-ai/nos): ⚡️ Nitrous oxide for
+  your AI infrastructure. <https://docs.nos.run/>
 - [iqiyi/xgboost-serving](https://github.com/iqiyi/xgboost-serving): A flexible,
   high-performance serving system for machine learning models
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate):
@@ -262,6 +264,8 @@
   for inference applications. <https://developer.nvidia.com/tensorrt>
 - [google/XNNPACK](https://github.com/google/XNNPACK): High-efficiency
   floating-point neural network inference operators for mobile, server, and Web
+- [Azure/MS-AMP](https://github.com/Azure/MS-AMP): Microsoft Automatic Mixed
+  Precision Library <https://azure.github.io/MS-AMP/>
 
 ## Compiler
 
