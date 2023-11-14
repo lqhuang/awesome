@@ -408,6 +408,9 @@
   Replicated Data Type (CRDT) Tree written in Rust.
 - [automerge/automerge-rs](https://github.com/automerge/automerge-rs): Rust
   implementation of automerge
+- [loro-dev/loro](https://github.com/loro-dev/loro): Reimagine state management
+  with CRDTs. Make your app state synchronized and collaborative effortlessly.
+  <https://loro.dev>
 
 ### Hashmap
 
@@ -656,6 +659,9 @@
   library on top of async/await
 - [denoland/fastwebsockets](https://github.com/denoland/fastwebsockets): A fast
   RFC6455 WebSocket implementation
+- [rustwasm/gloo](https://github.com/rustwasm/gloo): A modular toolkit for
+  building fast, reliable Web applications and libraries with Rust and WASM
+  <https://gloo-rs.web.app>
 
 ### Numerical analysis
 

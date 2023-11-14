@@ -1,9 +1,19 @@
-# App (Mobile phone or Desktop GUI)
+# App for Mobile or Desktop
 
 ## Resources
 
 - [React Native 中文网](https://reactnative.cn/)
 - [React Native](https://reactnative.dev/)
+
+## SwiftUI
+
+- [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+
+## capacitorjs
+
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor): Build
+  cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
+  <https://capacitorjs.com>
 
 ## React Native (cross platforms)
 

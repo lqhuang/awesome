@@ -95,6 +95,9 @@
 - 🌟 [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust): Horust is
   a supervisor / init system written in rust and designed to run inside
   containers. <https://federicoponzi.github.io/Horust/>
+- [nestybox/sysbox](https://github.com/nestybox/sysbox): An open-source,
+  next-generation "runc" that empowers rootless containers to run workloads such
+  as Systemd, Docker, Kubernetes, just like VMs.
 
 ### CLI
 

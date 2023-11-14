@@ -279,3 +279,7 @@
 - [IPADDRESS.COM](https://www.ipaddress.com/)
 - [Pinggy](https://pinggy.io/): Public URLs for Localhost. Without downloading
   any binary!
+- [Netify](https://www.netify.ai/): Network Intelligence - Simplified. Netify
+  provides full transparency into what’s happening on the network. Local deep
+  packet network monitoring coupled with cloud-based analytics to deliver
+  exceptional, business-driven results.

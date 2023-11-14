@@ -579,6 +579,8 @@
 - [aiogram/aiogram](https://github.com/aiogram/aiogram): aiogram is a modern and
   fully asynchronous framework for Telegram Bot API written in Python using
   asyncio <https://aiogram.dev>
+- [laixintao/prometheus-http-sd](https://github.com/laixintao/prometheus-http-sd):
+  Prometheus HTTP SD framework.
 
 ## Featured libraries
 
