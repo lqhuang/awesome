@@ -23,11 +23,18 @@ Major in React ecosystem, but also include other frameworks and libraries.
   bugs by automatically running your tests.
 - 🌟 [Patterns.dev](https://www.patterns.dev/): Improve how you architect
   webapps
+
+### Tutorials
+
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners):
   24 Lessons, 12 Weeks, Get Started as a Web Developer
   <https://microsoft.github.io/Web-Dev-For-Beginners/>
+- [Component Odyssey](https://component-odyssey.com/): Navigating Your Component
+  Library Journey. Learn how to easily build, manage, and distribute your
+  component library in an ever-increasing complex web development landscape.
+  - [Writing Components That Work In Any Frontend Framework](https://component-odyssey.com/articles/01-writing-components-that-work-in-any-framework)
 
-### Tutorials / CSS collections
+### CSS collections
 
 - [Transition animations: a practical guide](https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659)
 - 🌟 [phuocng/csslayout](https://github.com/phuocng/csslayout): A collection of
@@ -128,7 +135,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [patternfly/patternfly](https://github.com/patternfly/patternfly): This repo
   contains core (HTML/CSS) implementation for PatternFly. Issues related to
   CSS/HTML and layout should be filed here. <https://patternfly.org/>
-- [lit/lit](https://github.com/lit/lit): Lit is a simple library for building
+- 🌟 [lit/lit](https://github.com/lit/lit): Lit is a simple library for building
   fast, lightweight web components. <https://lit.dev>
 - [tabler/tabler](https://github.com/tabler/tabler): Tabler is free and
   open-source HTML Dashboard UI Kit built on Bootstrap
@@ -311,6 +318,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
   <https://react-knob-headless.vercel.app>
 - [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker): A
   simple TimePicker for your Shadcn UI project. <https://time.openstatus.dev/>
+- [daybrush/moveable](https://github.com/daybrush/moveable): Moveable!
+  Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable!
+  Snappable! <https://daybrush.com/moveable/>
+- 🌟🌟🌟 [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled
+  command menu React component. <https://cmdk.paco.me>
+- [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for
+  Svelte ✨ <https://cmdk-sv.com>
 
 ### Form
 

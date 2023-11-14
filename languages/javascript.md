@@ -51,6 +51,9 @@
   and exports in your JS/TS project
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js):
   quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser):
+  Validate and visualize dependencies. Your rules. JavaScript, TypeScript,
+  CoffeeScript. ES6, CommonJS, AMD. <https://npmjs.com/dependency-cruiser>
 
 ## Functional libraries
 
