@@ -20,8 +20,6 @@
   cross-platform (Qt), open-source (GPLv3) video editor
   <https://www.shotcut.org>
   - Open source alternative to Adode Pr
-- [Inkdrop](https://www.inkdrop.app): Organizing your Markdown notes made
-  simple.
 - [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed
   for reading research papers and technical books. <https://sioyek.info>
 - [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely
@@ -43,6 +41,10 @@
 - 🌟
   [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker):
   Make bilingual epub books Using AI translate
+- 🌟
+  [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher):
+  Easy and blazing-fast book searcher, create and search your private library.
+  <https://github.com/book-searcher-org/book-searcher>
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin):
   A Calibre plugin to translate ebook into a specified language.
   <https://bookfere.com/post/1057.html>
@@ -78,8 +80,6 @@
   for simplicity - Simply monitor which websites had a text change for free.
   Free Open source web page change detection, Website defacement monitoring,
   Price change and Price Drop notification <https://changedetection.io>
-- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): Your One-Stop Publication
-  Workbench <https://www.zettlr.com>
 - [sagemath/sage](https://github.com/sagemath/sage): Main repository of
   SageMath. Now open for Issues and Pull Requests. <https://www.sagemath.org>
 - 🌟 [veler/DevToys](https://github.com/veler/DevToys): A Swiss Army knife for
@@ -90,6 +90,31 @@
   NOVA opeN sOurce Video plAyer: main repository to build them all
 - [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your
   favorite torrent trackers
+
+### Notes / Knowledge Management
+
+- [Inkdrop](https://www.inkdrop.app): Organizing your Markdown notes made
+  simple.
+- [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr): Your One-Stop Publication
+  Workbench <https://www.zettlr.com>
+- [blackhole89/notekit](https://github.com/blackhole89/notekit): A GTK3
+  hierarchical markdown notetaking application with tablet support.
+- [dendronhq/dendron](https://github.com/dendronhq/dendron): The personal
+  knowledge management (PKM) tool that grows as you do!
+  <https://wiki.dendron.so>
+- [laurent22/joplin](https://github.com/laurent22/joplin): Joplin - the secure
+  note taking and to-do app with synchronisation capabilities for Windows,
+  macOS, Linux, Android and iOS. <https://joplinapp.org>
+- [bangle-io/bangle-io](https://github.com/bangle-io/bangle-io): A web only
+  WYSIWYG note taking app that saves notes locally in markdown format.
+  <https://bangle.io>
+- [The Archive](https://zettelkasten.de/the-archive/): Note Taking: Nimble,
+  Calm, Plain.txt
+- [tw93/MiaoYan](https://github.com/tw93/MiaoYan): ⛷ Lightweight Markdown app to
+  help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言
+  <https://miaoyan.app/>
+- [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes): Notes manager
+  for macOS/iOS <https://fsnot.es>
 
 ## macOS / iPadOS
 
@@ -213,8 +238,8 @@
   meditation-inspired writing app designed for iPhone, iPad, and Mac.
 - [Batteries for Mac](https://www.fadel.io/batteries): Track all your devices'
   batteries from your Mac.
-- 🌟 [AlDente - Charge Limiter](https://apphousekitchen.com/): The ALL-IN-ONE
-  charge Limiter App for MacBooks.
+- 🌟 [AlDente](https://apphousekitchen.com/): The ALL-IN-ONE charge Limiter App
+  for MacBooks.
 - [Shrugs.app](https://shrugs.app): Integrate macOS into your Slack experience.
 - [Sip](https://sipapp.io/): A better Color Picker for your Mac.
 - [BetterTouchTool](https://folivora.ai/): BetterTouchTool is a great, feature
@@ -271,6 +296,9 @@
   bookmark service
 - 🌟 [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible
   <https://docs.rsshub.app>
+- [knadh/listmonk](https://github.com/knadh/listmonk): High performance,
+  self-hosted, newsletter and mailing list manager with a modern dashboard.
+  Single binary app. <https://listmonk.app>
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get
   seamless remote access to any Linux device. Centralized SSH for the edge and
   cloud computing

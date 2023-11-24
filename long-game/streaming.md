@@ -120,8 +120,8 @@ Streaming Systems
 - [nats-io/nats-server](https://github.com/nats-io/nats-server):
   High-Performance server for NATS.io, the cloud and edge native messaging
   system. <https://nats.io/>
-- 🌟 [memphisdev/memphis](https://github.com/memphisdev/memphis):
-  Next-Generation Real-Time Data Processing Platform <https://docs.memphis.dev/>
+- [memphisdev/memphis](https://github.com/memphisdev/memphis): Next-Generation
+  Real-Time Data Processing Platform <https://docs.memphis.dev/>
 - [cloudevents/spec](https://github.com/cloudevents/spec): CloudEvents
   Specification <https://cloudevents.io/>
 - [vanus-labs/vanus](https://github.com/vanus-labs/vanus): Vanus is a
@@ -131,8 +131,6 @@ Streaming Systems
 - [apache/eventmesh](https://github.com/apache/eventmesh): EventMesh is a new
   generation serverless event middleware for building distributed event-driven
   applications. <https://eventmesh.apache.org>
-- [AutoMQ/elastic-stream](https://github.com/AutoMQ/elastic-stream): The first
-  truly cloud-native MQ storage engine for messaging and streaming.
 - 📝 [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq): A modern
   high-performance open source message queuing system
   <https://bloomberg.github.io/blazingmq/>
@@ -165,6 +163,15 @@ Streaming Systems
 - [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry):
   Confluent Schema Registry for Kafka
   <https://docs.confluent.io/current/schema-registry/docs/index.html>
+- [WarpStream](https://www.warpstream.com): Stream more, manage less. WarpStream
+  is a Kafka compatible data streaming platform built directly on top of object
+  storage: no inter-AZ bandwidth costs, no disks to manage, and infinitely
+  scalable, all within your VPC.
+- [AutoMQ/elastic-stream](https://github.com/AutoMQ/elastic-stream): The first
+  truly cloud-native MQ storage engine for messaging and streaming.
+- [AutoMQ/automq-for-kafka](https://github.com/AutoMQ/automq-for-kafka): A cloud
+  native implementation for Apache Kafka, reducing your cloud infrastructure
+  bill by up to 90%. <https://www.automq.com/>
 
 ## Toy projects
 

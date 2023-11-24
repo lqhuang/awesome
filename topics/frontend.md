@@ -42,6 +42,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   continues growing! <https://phuoc.ng/collection/css-layout>
 - [UI Snippets](https://ui-snippets.dev/)
 - [TailwindCSS Snippets](https://snippets.alexandru.so/)
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 
 ## Framework
 
@@ -325,6 +326,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   command menu React component. <https://cmdk.paco.me>
 - [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for
   Svelte ✨ <https://cmdk-sv.com>
+- 🌟 [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui): A
+  JavaScript library to position floating elements and create interactions for
+  them. <https://floating-ui.com>
 
 ### Form
 
@@ -380,6 +384,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [saasquatch/bunshi](https://github.com/saasquatch/bunshi): Molecule pattern
     for jotai, valtio, zustand, nanostores, xstate, react and vue
     <https://www.bunshi.org/>
+  - [himself65/jotai-ai](https://github.com/himself65/jotai-ai): A Jōtai utility
+    package compatible with Vercel AI SDK
 - [statelyai/xstate](https://github.com/statelyai/xstate):State machines and
   statecharts for the modern web. <https://xstate.js.org/docs>
 - 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next
@@ -405,6 +411,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
   modern, server-safe React hooks – from the ui.dev team <https://usehooks.com>
 - [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that
   helps you debug components.
+- 🌟 [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source): A
+  better API for making Event Source requests, with all the features of fetch()
+  - Really?: You cannot pass in custom request headers (for making `EventSource`
+    requests)
 
 ### Misc
 
@@ -423,6 +433,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
   React-based library for creating sleek presentations using JSX syntax that
   gives you the ability to live demo your code.
   <http://formidable.com/open-source/spectacle/>
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy): Fast and secure
+  standalone server for resizing and converting remote images
+  <https://imgproxy.net>
+- [evilmartians/figma-polychrom](https://github.com/evilmartians/figma-polychrom):
+  Figma plugin for displaying the contrast level and font size recommendations
+  according to the APCA method
+  <https://www.figma.com/community/plugin/1281280685402026529/polychrom>
 
 ## Visualization
 

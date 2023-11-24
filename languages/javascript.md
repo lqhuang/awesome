@@ -139,6 +139,8 @@
   provide fallback to WebSocket automatically. <https://presence.js.org>
 - [sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions):
   Get the dimensions of an image
+- [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious):
+  Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
 
 ## Misc
 

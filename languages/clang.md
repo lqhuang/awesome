@@ -70,6 +70,8 @@
   for reliable, cross-platform C++ project setup using cmake.
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp): Abseil Common
   Libraries (C++) <https://abseil.io>
+- [build-cpp/cmkr](https://github.com/build-cpp/cmkr): Modern build system based
+  on CMake and TOML. <https://cmkr.build>
 
 ### Analyzer
 
@@ -185,6 +187,9 @@
   platform C99 library to get cpu features at runtime.
 - [google/nsync](https://github.com/google/nsync): nsync is a C library that
   exports various synchronization primitives, such as mutexes
+- [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++
+  DataFrame for statistical, Financial, and ML analysis -- in modern C++ using
+  native types and contiguous memory storage
 
 ## Memory allocator
 

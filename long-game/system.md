@@ -45,6 +45,9 @@
   Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习
   eBPF，包含性能、网络、安全等多种应用场景 <https://tutorial.eunomia.dev/>
 - [DavadDi/bpf_study](https://github.com/DavadDi/bpf_study): bpf 学习仓库
+- 🌟 [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime): Userspace
+  eBPF runtime for fast Uprobe & Syscall hook & Plugins
+  <https://eunomia.dev/bpftime/>
 
 ## Serialization Protocl
 
@@ -75,6 +78,9 @@
   for C/C++/Rust <https://uftrace.github.io/slide>
 - 🌟 [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based
   Linux IO analysis, networking, monitoring, and more
+- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script):
+  YABS - a simple bash script to estimate Linux server performance using fio,
+  iperf3, & Geekbench
 
 ## WASM Runtime
 

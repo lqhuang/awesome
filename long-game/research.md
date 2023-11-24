@@ -170,3 +170,8 @@
   time
 - [xyz2tex/svg2tikz](https://github.com/xyz2tex/svg2tikz): An Inkscape extension
   for exporting SVG paths as TikZ/PGF paths <http://xyz2tex.github.io/svg2tikz/>
+- [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style):
+  GB/T 7714-2015 BibTeX Style
+- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines):
+  Chinese copywriting guidelines for better written communication／中文文案排版
+  指北

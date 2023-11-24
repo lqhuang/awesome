@@ -64,7 +64,7 @@
 
 ## Toolchains
 
-### Linter
+### Linter / Formatter
 
 - [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick): Enforce the same
   settings on multiple projects <https://nitpick.readthedocs.io>
@@ -91,6 +91,8 @@
   imports within your Python project. <https://import-linter.readthedocs.io/>
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps): Python dependency
   checker
+- [PyCQA/docformatter](https://github.com/PyCQA/docformatter): Formats
+  docstrings to follow PEP 257 <https://pypi.python.org/pypi/docformatter>
 
 ### Build tools
 
@@ -240,6 +242,9 @@
   <https://polyfactory.litestar.dev/>
 - [simplistix/sybil](https://github.com/simplistix/sybil): Automated testing for
   the examples in your documentation. <https://sybil.readthedocs.io/en/latest/>
+- [life4/deal](https://github.com/life4/deal): 🤝 Design by contract for Python.
+  Write bug-free code. Add a few decorators, get static analysis and tests for
+  free. <https://deal.readthedocs.io/>
 
 ### Performance profile
 
@@ -271,6 +276,9 @@
   <https://pyinstrument.readthedocs.io>
 - [realpython/codetiming](https://github.com/realpython/codetiming): A flexible,
   customizable timer for your Python code
+- [rsalmei/about-time](https://github.com/rsalmei/about-time): A cool helper for
+  tracking time and throughput of code blocks, with beautiful human friendly
+  renditions.
 - 📝 [njsmith/perpetuo](https://github.com/njsmith/perpetuo): Stall tracking for
   Python's GIL and Trio tasks
 - [mbryant/FunctionTrace](https://gitlab.com/mbryant/functiontrace): A graphical
@@ -338,8 +346,12 @@
   Multiple dispatch <https://multiple-dispatch.readthedocs.io/en/latest>
 - [mkorpela/overrides](https://github.com/mkorpela/overrides/): A decorator to
   automatically detect mismatch when overriding a method
+- [rustedpy/result](https://github.com/rustedpy/result): A simple Rust like
+  Result type for Python 3. Fully type annotated.
+- [rustedpy/maybe](https://github.com/rustedpy/maybe): A simple Rust like Option
+  type for Python 3. Fully type annotated.
 
-### Functional style libraries
+### FP style libraries
 
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python):
   A curated list of awesome things related to functional programming in Python.
@@ -582,7 +594,7 @@
 - [laixintao/prometheus-http-sd](https://github.com/laixintao/prometheus-http-sd):
   Prometheus HTTP SD framework.
 
-## Featured libraries
+## Functional libraries
 
 ### Channels
 
@@ -885,6 +897,11 @@
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): OCRmyPDF adds an
   OCR text layer to scanned PDF files, allowing them to be searched
   <http://ocrmypdf.readthedocs.io/>
+- [the-real-tokai/grablinks](https://github.com/the-real-tokai/grablinks): A
+  simple and streamlined Python script to extract and filter links from a remote
+  HTML resource.
+- [Avaiga/taipy](https://github.com/Avaiga/taipy): Turns Data and AI algorithms
+  into full web applications in no time. <https://www.taipy.io>
 
 ## Visualization
 

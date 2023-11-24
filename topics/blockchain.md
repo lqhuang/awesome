@@ -32,6 +32,9 @@
 - [DApp 构建指南 —— 01 准备篇](https://caos.me/dapp--01)
 - [WTF 学院](https://www.wtf.academy/): 面向 Web2 开发者的 Web3 开源学院学习，贡
   献，并获得链上技术认证
+- [kallerosenbaum/grokkingbitcoin](https://github.com/kallerosenbaum/grokkingbitcoin):
+  Source repository for Grokking Bitcoin
+  <https://www.manning.com/books/grokking-bitcoin>
 
 ## On-chain analysis
 

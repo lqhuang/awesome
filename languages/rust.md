@@ -87,6 +87,11 @@
   for Rust #[cfg] statements
 - [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild): Cross compile
   rust to any platform
+- [dtolnay/linkme](https://github.com/dtolnay/linkme): Safe cross-platform
+  linker shenanigans
+- [rust-marker/marker](https://github.com/rust-marker/marker): An experimental
+  linting interface for Rust. Let's make custom lints a reality
+  <https://rust-marker.github.io/marker/>
 
 ### Cargo plugins
 
@@ -138,6 +143,9 @@
   Scan your Rust crate for semver violations.
 - 🌟 [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm): cargo
   subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
+- [EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about): 📜
+  Cargo plugin to generate list of all licenses for a crate 🦀
+  <http://embark.rs>
 
 ### Test suites
 

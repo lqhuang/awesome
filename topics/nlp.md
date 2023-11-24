@@ -145,9 +145,6 @@
   No GPU required. LocalAI is an API to run ggml compatible models: llama,
   gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly,
   starcoder, and many other <https://localai.io>
-- 🌟 [langgenius/dify](https://github.com/langgenius/dify): One API for plugins
-  and datasets, one interface for prompt engineering and visual operation, all
-  for creating powerful AI applications. <https://dify.ai>
 - [microsoft/lida](https://github.com/microsoft/lida): Automatic Generation of
   Visualizations and Infographics using Large Language Models
   <https://microsoft.github.io/lida/>
@@ -175,6 +172,8 @@
 - 🌟 [langchain-ai/langchain](https://github.com/langchain-ai/langchain): ⚡
   Building applications with LLMs through composability ⚡
   <https://python.langchain.com/>
+  - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain):
+    😎 Awesome list of tools and projects with the awesome LangChain framework
 - 🌟 [logspace-ai/langflow](https://github.com/logspace-ai/langflow): ⛓️
   LangFlow is a UI for LangChain, designed with react-flow to provide an
   effortless way to experiment and prototype flows.
@@ -193,6 +192,9 @@
   monitoring. <https://microsoft.github.io/promptflow/>
 - [safevideo/autollm](https://github.com/safevideo/autollm): Ship RAG based LLM
   web apps in seconds.
+- [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig): aiconfig --
+  config-driven, source control friendly AI application development
+  <https://aiconfig.lastmileai.dev>
 
 - 📝 [1rgs/jsonformer](https://github.com/1rgs/jsonformer): A Bulletproof Way to
   Generate Structured JSON from Language Models
@@ -204,8 +206,6 @@
   Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem
   Solving with Large Language Models that Elevates Model Reasoning by atleast
   70% <https://discord.gg/qUtxnK2NMf>
-- [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain):
-  😎 Awesome list of tools and projects with the awesome LangChain framework
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori): A
   reactive runtime for building durable AI agents
   <https://docs.thousandbirds.ai>
@@ -338,3 +338,11 @@
   microphone input (You) and the user's speakers output (Speaker) in a textbox.
   It also generates a suggested response using OpenAI's GPT-3.5 for the user to
   say based on the live transcription of the conversation.
+
+## LLM Ops
+
+- 🌟 [langgenius/dify](https://github.com/langgenius/dify): One API for plugins
+  and datasets, one interface for prompt engineering and visual operation, all
+  for creating powerful AI applications. <https://dify.ai>
+- [Azure/kaito](https://github.com/Azure/kaito): Kubernetes AI Toolchain
+  Operator

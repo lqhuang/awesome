@@ -228,6 +228,10 @@
   Real time, In-memory storage inspired by erlang mnesia
 - [chdb-io/chdb](https://github.com/chdb-io/chdb): chDB is an embedded OLAP SQL
   Engine powered by ClickHouse
+- [duckdb/duckdb](https://github.com/duckdb/duckdb): DuckDB is an in-process SQL
+  OLAP Database Management System <http://www.duckdb.org>
+  - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb):
+    🦆 A curated list of awesome DuckDB resources
 
 ## DBA or Extensions
 

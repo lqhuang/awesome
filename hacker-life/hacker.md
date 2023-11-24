@@ -83,6 +83,8 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii
   diagram scribbles into happy little SVG
   <http://ivanceras.github.io/svgbob-editor>
+- [github/cmark-gfm](https://github.com/github/cmark-gfm): GitHub's fork of
+  cmark, a CommonMark parsing and rendering library and program in C
 - [jgm/djot](https://github.com/jgm/djot): A light markup language
   <https://djot.net>
 - [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid): A collection of
@@ -128,9 +130,9 @@
   protects hosts from brute-force attacks against SSH and other services. It
   aggregates system logs and blocks repeat offenders using one of several
   firewall backends. <https://www.sshguard.net>
-- [Lissy93/dashy](https://github.com/Lissy93/dashy): 🚀 A self-hostable personal
-  dashboard built for you. Includes status-checking, widgets, themes, icon
-  packs, a UI editor and tons more! <https://dashy.to>
+- 🌟 [Lissy93/dashy](https://github.com/Lissy93/dashy): 🚀 A self-hostable
+  personal dashboard built for you. Includes status-checking, widgets, themes,
+  icon packs, a UI editor and tons more! <https://dashy.to>
 - [Kea DHCP](https://www.isc.org/kea/): Modern, open source DHCPv4 & DHCPv6
   server
 - [coredns/coredns](https://github.com/coredns/coredns): CoreDNS is a DNS server

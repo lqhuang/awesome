@@ -50,6 +50,10 @@
 - [directus/directus](https://github.com/directus/directus): The Modern Data
   Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data
   collaboration app for any SQL database. <https://directus.io>
+- [baserow/baserow](https://gitlab.com/baserow/baserow): Baserow is an open
+  source no-code database and Airtable alternative. Create your own database
+  without technical experience. Our user friendly no-code tool gives you the
+  powers of a developer without leaving your browser.
 
 ## Data governance
 

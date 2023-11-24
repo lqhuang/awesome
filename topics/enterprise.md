@@ -92,6 +92,12 @@
   APIs, newSQL, and an easy and granular permission language. Supports ACL,
   RBAC, and other access models. <https://www.ory.sh>
 
+## Worksuites
+
+- [lukevella/rallly](https://github.com/lukevella/rallly): Rallly is an
+  open-source scheduling and collaboration tool designed to make organizing
+  events and meetings easier. <https://rallly.co>
+
 ## Dev tools
 
 - [coroot/coroot](https://github.com/coroot/coroot): A monitoring and
@@ -116,8 +122,6 @@
   decentralized, capabilities based authorization token
 - [tweag/nickel](https://github.com/tweag/nickel): Better configuration for less
   <https://nickel-lang.org>
-- [grafana/phlare](https://github.com/grafana/phlare): 🔥 horizontally-scalable,
-  highly-available, multi-tenant continuous profiling aggregation system
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg): A
   Docker-powered stateless API for PDF files. <https://gotenberg.dev>
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF
@@ -132,6 +136,10 @@
 - 🌟 [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For
   Exploring and Testing Api's (lightweight alternative to postman/insomnia)
   <https://www.usebruno.com/>
+- 🌟 [apache/incubator-answer](https://github.com/apache/incubator-answer): A
+  Q&A platform software for teams at any scales. Whether it's a community forum,
+  help center, or knowledge management platform, you can always count on Apache
+  Answer. <https://answer.apache.org>
 
 ### Dev environments
 
@@ -278,8 +286,9 @@
   platform <https://www.keephq.dev>
 - 🌟 [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus): The
   open-source status page <https://openstatus.dev>
+- [Uptime Robot](https://uptimerobot.com/)
 
-### Logging / Metrics / APM
+### Observability: Logging / Metrics / APM
 
 - [keyval-dev/odigos](https://github.com/keyval-dev/odigos): Fix Production
   Issues Faster 🔎. Get distributed traces, metrics and logs for any application
@@ -304,6 +313,10 @@
 - 🌟 [fluent/fluent-bit](https://github.com/fluent/fluent-bit): Fast and
   Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows
   <https://fluentbit.io>
+- [parca-dev/parca](https://github.com/parca-dev/parca): Continuous profiling
+  for analysis of CPU and memory usage, down to the line number and throughout
+  time. Saving infrastructure cost, improving performance, and increasing
+  reliability. <https://parca.dev>
 - 🌟 [vectordotdev/vector](https://github.com/vectordotdev/vector): A
   high-performance observability data pipeline. <https://vector.dev>
 - [megaease/easeprobe](https://github.com/megaease/easeprobe): A simple,
@@ -316,6 +329,25 @@
   trigger traces for distributed training applications.
 - [SnellerInc/sneller](https://github.com/SnellerInc/sneller): World's fastest
   log analysis: λ + SQL + JSON + S3 <https://sneller.io>
+- Grafana Stack
+  - [grafana/loki](https://github.com/grafana/loki): Like Prometheus, but for
+    logs. <https://grafana.com/loki>
+  - [grafana/tempo](https://github.com/grafana/tempo): Grafana Tempo is a high
+    volume, minimal dependency distributed tracing backend.
+    <https://grafana.com/oss/tempo/>
+  - [grafana/phlare](https://github.com/grafana/phlare): 🔥
+    horizontally-scalable, highly-available, multi-tenant continuous profiling
+    aggregation system
+  - [grafana/pyroscope](https://github.com/grafana/pyroscope): Continuous
+    Profiling Platform. Debug performance issues down to a single line of code
+    <https://grafana.com/oss/pyroscope/>
+  - [grafana/beyla](https://github.com/grafana/beyla): eBPF-based
+    autoinstrumentation of HTTP and HTTPS services
+  - [grafana/k6](https://github.com/grafana/k6): A modern load testing tool,
+    using Go and JavaScript - https://k6.io
+- [Polar Signals](https://www.polarsignals.com/): Polar Signals Cloud is an
+  always-on, zero-instrumentation continuous profiling product that helps
+  improve performance, understand incidents, and lower infrastructure costs.
 
 ### Benchmark
 
@@ -326,12 +358,6 @@
   framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks.
 - [hatoo/oha](https://github.com/hatoo/oha): Ohayou(おはよう), HTTP load
   generator, inspired by rakyll/hey with tui animation.
-- [parca-dev/parca](https://github.com/parca-dev/parca): Continuous profiling
-  for analysis of CPU and memory usage, down to the line number and throughout
-  time. Saving infrastructure cost, improving performance, and increasing
-  reliability. <https://parca.dev>
-- [grafana/k6](https://github.com/grafana/k6): A modern load testing tool, using
-  Go and JavaScript - https://k6.io
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine): A command-line
   benchmarking tool
 
@@ -364,6 +390,8 @@
   testing that you can self-host. <https://posthog.com>
 - 🌟 [steven-tey/dub](https://github.com/steven-tey/dub): An open-source link
   shortener with built-in analytics + free custom domains. <https://dub.co>
+- [shlinkio/shlink](https://github.com/shlinkio/shlink): The definitive
+  self-hosted URL shortener <https://shlink.io>
 
 ## Security
 
@@ -375,6 +403,8 @@
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine): 一款足够简单、足够好
   用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你
   的网站不受黑客攻击。 <https://waf-ce.chaitin.cn/>
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): Protect and
+  discover secrets using Gitleaks 🔑 <https://gitleaks.io>
 
 ## Career
 
@@ -398,6 +428,8 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer):
   Learn how to design large-scale systems. Prep for the system design interview.
   Includes Anki flashcards.
+- [yashk2810/google-interview-university](https://github.com/yashk2810/google-interview-university):
+  A complete daily plan for studying to become a Google software engineer.
 
 ### Open Source & Community
 

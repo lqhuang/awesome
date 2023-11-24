@@ -32,6 +32,8 @@
   Puzzles for exploring transformers
 - [Fullstack deep learning](https://fullstackdeeplearning.com/): News,
   community, and courses for people building AI-powered products.
+- [hyperai/tvm-cn](https://github.com/hyperai/tvm-cn): TVM Documentation in
+  Chinese Simplified / TVM 中文文档 <https://tvm.hyper.ai>
 
 ### Books
 
@@ -166,6 +168,8 @@
 - [THUDM/SwissArmyTransformer](https://github.com/THUDM/SwissArmyTransformer):
   SwissArmyTransformer is a flexible and powerful library to develop your own
   Transformer variants. <https://THUDM.github.io/SwissArmyTransformer>
+- [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast):
+  A batched offline inference oriented version of segment-anything
 
 ### Inference engine / large-scale deployment
 
@@ -235,6 +239,18 @@
 - [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse):
   Sparsity-aware deep learning inference runtime for CPUs
   <https://neuralmagic.com/deepsparse/>
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat): An open platform for
+  training, serving, and evaluating large language models. Release repo for
+  Vicuna and Chatbot Arena.
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen): Running large
+  language models on a single GPU for throughput-oriented scenarios.
+- [alpa-projects/alpa](https://github.com/alpa-projects/alpa): Training and
+  serving large-scale neural networks with auto parallelization.
+  <https://alpa.ai>
+- [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer):
+  FlashInfer: Kernel Library for LLM Serving <https://flashinfer.ai>
+- [lyogavin/Anima](https://github.com/lyogavin/Anima): 33B Chinese LLM, DPO
+  QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
 
 ### Benchmark
 
@@ -269,6 +285,10 @@
 
 ## Compiler
 
+- 🌟
+  [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers):
+  A list of awesome compiler projects and papers for tensor computation and deep
+  learning.
 - 🌟 [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler
   stack for cpu, gpu and specialized accelerators <https://tvm.apache.org>
 - 🌟 [openai/triton](https://github.com/openai/triton): Development repository
@@ -401,6 +421,8 @@
   models.
 - [google/orbax](https://github.com/google/orbax): Orbax provides common utility
   libraries for JAX users. <https://orbax.readthedocs.io/>
+- [facebookresearch/minimax](https://github.com/facebookresearch/minimax):
+  Efficient baselines for autocurricula in JAX.
 
 ### DeepMind specialization
 

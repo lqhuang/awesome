@@ -311,6 +311,8 @@
   working with our team of cloud cost management experts.
 - [opencost/opencost](https://github.com/opencost/opencost): Cost monitoring for
   Kubernetes workloads and cloud costs <http://opencost.io>
+- [Vantage](https://www.vantage.sh/): Understand cloud costs and automate
+  savings. See how much Vantage can reduce your bill by connecting accounts.
 
 ### Tech Stack
 

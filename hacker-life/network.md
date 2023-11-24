@@ -102,6 +102,8 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess): GoAccess is a
   real-time web log analyzer and interactive viewer that runs in a terminal in
   \*nix systems or through your browser. <https://goaccess.io>
+- [kevwan/tproxy](https://github.com/kevwan/tproxy): A cli tool to proxy and
+  analyze TCP connections. <https://go-zero.dev>
 
 ### Analysis
 

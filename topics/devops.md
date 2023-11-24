@@ -33,6 +33,8 @@
 
 ## GitHub Action
 
+- 🌟 [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A
+  curated list of awesome actions to use on GitHub <https://desktop.github.com>
 - [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS VMs on Apple
   Silicon to use in CI and other automations
 - [docker/metadata-action](https://github.com/docker/metadata-action): GitHub
@@ -68,8 +70,6 @@
   The blessed GitHub Action, for publishing your 📦 distribution files to PyPI:
   https://github.com/marketplace/actions/pypi-publish
   <https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/>
-- 🌟 [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A
-  curated list of awesome actions to use on GitHub <https://desktop.github.com>
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions):
   GitHub token permissions Monitor and Advisor actions
 - [Octopus Deploy](https://octopus.com/github): Use GitHub and Octopus together
@@ -79,6 +79,9 @@
 - [step-security/harden-runner](https://github.com/step-security/harden-runner):
   Harden-Runner provides runtime security for GitHub-hosted and self-hosted
   environments <https://www.stepsecurity.io>
+- 🌟 [github/ossar-action](https://github.com/github/ossar-action): Run multiple
+  open source security static analysis tools without the added complexity with
+  OSSAR (Open Source Static Analysis Runner).
 
 ## Pre-commit
 
