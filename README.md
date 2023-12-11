@@ -1,7 +1,6 @@
 # My Awesome Collection
 
-Remind me about those not that familiar, less used but valued utils/tools. It's
-more like a toolbox for myself.
+Remind me about those not that familiar, less used but valued utils/tools. It's more like a toolbox for myself.
 
 ## Structure of this repo
 
@@ -44,26 +43,15 @@ more like a toolbox for myself.
 
 ### Speed is everything
 
-- [scylladb/seastar](https://github.com/scylladb/seastar): High performance
-  server-side application framework <http://seastar.io>
-- [mratsim/weave](https://github.com/mratsim/weave): A state-of-the-art
-  multithreading runtime: message-passing based, fast, scalable, ultra-low
-  overhead
-- [userver-framework/userver](https://github.com/userver-framework/userver): The
-  C++ Asynchronous Framework (beta) <https://userver.tech>
-- [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A
-  collection of resources on modern C++ <https://awesomecpp.com>
-- [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard
-  Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
-- [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A
-  high-performance, concurrent hash table
+- [scylladb/seastar](https://github.com/scylladb/seastar): High performance server-side application framework <http://seastar.io>
+- [mratsim/weave](https://github.com/mratsim/weave): A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead
+- [userver-framework/userver](https://github.com/userver-framework/userver): The C++ Asynchronous Framework (beta) <https://userver.tech>
+- [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++ <https://awesomecpp.com>
+- [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
+- [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
 
 ## Similar awesome
 
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome
-  lists about all kinds of interesting topics
-- [zserge/awfice](https://github.com/zserge/awfice): The world smallest office
-  suite
-- [best-of-lists/best-of](https://github.com/best-of-lists/best-of): 🏆 Discover
-  best-of lists with awesome open-source projects on all kinds of topics.
-  <https://best-of.org>
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
+- [zserge/awfice](https://github.com/zserge/awfice): The world smallest office suite
+- [best-of-lists/best-of](https://github.com/best-of-lists/best-of): 🏆 Discover best-of lists with awesome open-source projects on all kinds of topics. <https://best-of.org>
