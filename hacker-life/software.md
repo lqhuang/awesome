@@ -88,6 +88,7 @@
 - [no-comment/AppStore-Connect-Widget](https://github.com/no-comment/AppStore-Connect-Widget): Open source AppStore sales monitor with widget <https://apps.apple.com/de/app/ac-widget/id1562025981>
 - [aonez/Keka](https://github.com/aonez/Keka): The macOS & iOS file archiver <https://www.keka.io>
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac): DevToys For mac
+- 🌟 [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman): Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ <https://proxyman.io>
 
 ### Free / Paid
 

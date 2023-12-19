@@ -51,6 +51,7 @@
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
 - 🌟 [bensadeh/tailspin](https://github.com/bensadeh/tailspin): 🌀 A log file highlighter
 - [ducaale/xh](https://github.com/ducaale/xh): Friendly and fast tool for sending HTTP requests
+- [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 
 ## TUI applications
 

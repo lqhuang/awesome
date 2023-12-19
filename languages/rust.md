@@ -33,6 +33,7 @@
 - [politrons/FunctionalRust](https://github.com/politrons/FunctionalRust): Examples of functional programing in Rust
 - 🌟 [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs): A community guide to the Rust ecosystem <https://blessed.rs>
 - 🌟 [ibraheemdev/too-many-web-servers](https://github.com/ibraheemdev/too-many-web-servers): https://ibraheem.ca/posts/too-many-web-servers/
+- [nikomatsakis/rust-design-axioms](https://github.com/nikomatsakis/rust-design-axioms): Discovering and describing Rust's design axioms <https://nikomatsakis.github.io/rust-design-axioms/>
 
 ## Build
 
@@ -111,6 +112,7 @@
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev): A static verifier for Rust, based on the Viper verification infrastructure. <http://prusti.org>
 - [model-checking/kani](https://github.com/model-checking/kani): Kani Rust Verifier <https://model-checking.github.io/kani>
 - [rustfoundation/painter](https://github.com/rustfoundation/painter): Library and tools for managing ecosystem wide call graphs and llvm-ir analysis
+- [verus-lang/verus](https://github.com/verus-lang/verus): Verified Rust for low-level systems code
 
 ## Experimental features
 
@@ -218,7 +220,8 @@
 - [josephg/diamond-types](https://github.com/josephg/diamond-types): The world's fastest CRDT. WIP.
 - [maidsafe/crdt_tree](https://github.com/maidsafe/crdt_tree): A Conflict-free Replicated Data Type (CRDT) Tree written in Rust.
 - [automerge/automerge-rs](https://github.com/automerge/automerge-rs): Rust implementation of automerge
-- [loro-dev/loro](https://github.com/loro-dev/loro): Reimagine state management with CRDTs. Make your app state synchronized and collaborative effortlessly. <https://loro.dev>
+- 🌟 [loro-dev/loro](https://github.com/loro-dev/loro): Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. <https://loro.dev>
+  - [Loro: Reimagine State Management with CRDTs](https://loro.dev/blog/loro-now-open-source)
 
 ### Hashmap
 
@@ -294,6 +297,7 @@
   - [egraphs-good/egglog](https://github.com/egraphs-good/egglog): egraphs + datalog! <https://egraphs-good.github.io/egglog/>
     - https://arxiv.org/abs/2304.04332
   - [metadsl/egglog-python](https://github.com/metadsl/egglog-python): Python bindings for the egg-smol rust library <https://egg-smol-python.readthedocs.io/en/latest/>
+  - [RobinKa/egga](https://github.com/RobinKa/egga): Symbolic Geometric Algebra with E-Graphs
 - [hellux/jotdown](https://github.com/hellux/jotdown): A Djot parser library
 - [matklad/djot-rs](https://github.com/matklad/djot-rs): An experimental Rust implementation of the Djot light markup language.
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop): LR(1) parser generator for Rust <http://lalrpop.github.io/lalrpop>
@@ -362,6 +366,7 @@
 - [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee): Rust JSON-RPC library on top of async/await
 - [denoland/fastwebsockets](https://github.com/denoland/fastwebsockets): A fast RFC6455 WebSocket implementation
 - [rustwasm/gloo](https://github.com/rustwasm/gloo): A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM <https://gloo-rs.web.app>
+- [BiagioFesta/wtransport](https://github.com/BiagioFesta/wtransport): Async-friendly WebTransport implementation in Rust
 
 ### Numerical analysis
 

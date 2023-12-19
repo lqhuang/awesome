@@ -8,6 +8,7 @@
 - [slouc/concurrency-in-scala-with-ce](https://github.com/slouc/concurrency-in-scala-with-ce): Introduction to concepts of asynchronous and concurrent programming in Scala, based on the Cats Effect library.
 - [EffectOrientedProgramming/book](https://github.com/EffectOrientedProgramming/book): Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2
 - [alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices): A collection of Scala best practices
+- [yadavan88/ScalaCLI-Cheatsheet](https://github.com/yadavan88/ScalaCLI-Cheatsheet): A cheatsheet of useful Scala-CLI commands
 
 ### Exercises
 
@@ -54,6 +55,7 @@
 - [etorreborre/specs2](https://github.com/etorreborre/specs2):Software Specifications for Scala <https://etorreborre.github.io/specs2>
 - [gatling/gatling](https://github.com/gatling/gatling): Modern Load Testing as Code <https://gatling.io>
 - [gatling/gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin): Gatling Plugin for SBT <https://gatling.io>
+- [spotify/ratatool](https://github.com/spotify/ratatool): A tool for data sampling, data generation, and data diffing
 
 ## Featured
 
@@ -80,7 +82,6 @@
 - [lampepfl/async](https://github.com/lampepfl/async): A strawman for a low-level async library in Scala 3
 - [sideeffffect/scala-rust-interop](https://github.com/sideeffffect/scala-rust-interop): Scala <-> Rust interop
 - [softwaremill/ox](https://github.com/softwaremill/ox): Developer-friendly structured concurrency library for the JVM <https://softwaremill.community/c/ox/12>
-- [jrudolph/llama2.scala](https://github.com/jrudolph/llama2.scala): Inference Llama 2 in one file of hideous Scala (A port of llama2.c from Andrej Karpathy)
 
 ### Types
 
@@ -125,6 +126,8 @@
 - [wix/greyhound](https://github.com/wix/greyhound): Greyhound - Rich Kafka client library
 - [fd4s/fs2-kafka](https://github.com/fd4s/fs2-kafka): Functional Kafka Streams for Scala <https://fd4s.github.io/fs2-kafka>
 - [Banno/kafka4s](https://github.com/Banno/kafka4s): Functional programming with Kafka and Scala <https://banno.github.io/kafka4s>
+- [cequence-io/openai-scala-client](https://github.com/cequence-io/openai-scala-client): Scala client for OpenAI API
+- [softwaremill/sttp-openai](https://github.com/softwaremill/sttp-openai)
 
 ### CLI
 
@@ -167,7 +170,7 @@
 - 🌟 [atnos-org/eff](https://github.com/atnos-org/eff): Eff monad for cats <https://atnos-org.github.io/eff>
 - [TomasMikula/libretto](https://github.com/TomasMikula/libretto): Declarative concurrency and stream processing library for Scala
 - [strymonas/strymonas](https://github.com/strymonas/strymonas): Fast streams for Scala 3
-- [fwbrasil/kyo](https://github.com/fwbrasil/kyo): High-performance composable effects for Scala 3
+- [getkyo/kyo](https://github.com/getkyo/kyo): Toolkit for Scala Development <https://getkyo.io>
 - [marcinzh/turbolift](https://github.com/marcinzh/turbolift): Algebraic Effects for Scala 3 <https://marcinzh.github.io/turbolift>
 
 ## War of eco systems
@@ -208,6 +211,7 @@
 - [mockito/mockito-scala](https://github.com/mockito/mockito-scala): Mockito for Scala language <http://mockito.org>
 - [http4s/http4s-armeria](https://github.com/http4s/http4s-armeria): Armeria backend for http4s
 - [typelevel/cats-parse](https://github.com/typelevel/cats-parse): A parsing library for the cats ecosystem
+- [laserdisc-io/laserdisc](https://github.com/laserdisc-io/laserdisc): A Future-free Fs2 native pure FP Redis client <http://laserdisc.io>
 
 ### ZIO
 

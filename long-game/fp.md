@@ -16,6 +16,7 @@
 - [jpvillaisaza/cain](https://github.com/jpvillaisaza/cain): Category theory applied to functional programming (undergraduate project) <https://jpvillaisaza.co/cain/cain.pdf>
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf): Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source <https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/>
 - [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/):Lean is an interactive theorem prover developed at Microsoft Research, based on dependent type theory. Dependent type theory unites the worlds of programs and proofs; thus, Lean is also a programming language.
+- [Thinking with Types](https://thinkingwithtypes.com/): Type-Level Programming in Haskell. The book that takes you from a competent Haskell programmer to one whose compiler does the work for you.
 
 ## Readings & Resources
 
@@ -24,6 +25,9 @@
   - [paper: Freer Monads, More Extensible Effects](https://okmij.org/ftp/Haskell/extensible/more.pdf)
   - [paper: Extensible Effects](https://legacy.cs.indiana.edu/~sabry/papers/exteff.pdf)
 - [Kerodon](https://kerodon.net): an online resource for homotopy-coherent mathematics
+- 🌟 [JeanHuguesdeRaigniac/effects-landscape](https://github.com/JeanHuguesdeRaigniac/effects-landscape): Effects libraries in Haskell
+  - [One Step Beyond](https://github.com/JeanHuguesdeRaigniac/effects-landscape/tree/main/v0)
+  - [All Cats Are Grey](https://github.com/JeanHuguesdeRaigniac/effects-landscape/tree/main/v1)
 
 ### Tutorials
 
@@ -43,14 +47,14 @@
 ## Effect systems
 
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio):Effects-based direct-style IO for multicore OCaml
-- [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful): An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
-- [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress effect system for Haskell 🚧
-- [Effect Handlers for WebAssembly](https://wasmfx.dev/)
-- [JeanHuguesdeRaigniac/effects-landscape](https://github.com/JeanHuguesdeRaigniac/effects-landscape): Effects libraries in Haskell
+- 🌟 [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful): An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
+- 🌟 [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress effect system for Haskell 🚧
+- [haskell/mtl](https://github.com/haskell/mtl): The Monad Transformer Library <http://www.haskell.org/haskellwiki/Monad_Transformers>
 - 🌟 [fused-effects/fused-effects](https://github.com/fused-effects/fused-effects): A fast, flexible, fused effect system for Haskell
-  - ZIO is inspired by fused-effects
 - [re-xyr/speff](https://github.com/re-xyr/speff): Fast higher-order effect handlers with evidence passing
 - [re-xyr/cleff](https://github.com/re-xyr/cleff): Fast and concise extensible effects <https://hackage.haskell.org/package/cleff>
+- [patrickt/effects-benchmarks](https://github.com/patrickt/effects-benchmarks): Benchmarking Haskell extensible-effect libraries.
+- [polysemy-research/polysemy](https://github.com/polysemy-research/polysemy): ♊ higher-order, no-boilerplate monads
 
 ## PL
 
@@ -84,6 +88,7 @@
 - [monadicsystems/okapi](https://github.com/monadicsystems/okapi): A web microframework for Haskell based on monadic parsing <https://www.okapi.wiki>
 - [reflex-frp/reflex](https://github.com/reflex-frp/reflex): Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse. <https://reflex-frp.org>
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk): Functional reactive web and mobile applications, with batteries included. <https://reflex-frp.org>
+- [Airsequel/haskell-template](https://github.com/Airsequel/haskell-template): Opinionated template for new Haskell projects.
 
 ### Other good libs
 

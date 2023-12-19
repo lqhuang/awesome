@@ -37,6 +37,8 @@
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description): A GitHub action to update a Docker Hub repository description from README.md
 - [step-security/harden-runner](https://github.com/step-security/harden-runner): Harden-Runner provides runtime security for GitHub-hosted and self-hosted environments <https://www.stepsecurity.io>
 - 🌟 [github/ossar-action](https://github.com/github/ossar-action): Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
+- [bencherdev/bencher](https://github.com/bencherdev/bencher): 🐰 Bencher - Continuous Benchmarking <https://bencher.dev>
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends): 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! <https://githubtrends.io>
 
 ## Pre-commit
 

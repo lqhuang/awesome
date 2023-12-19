@@ -44,6 +44,7 @@
 - [namhyung/uftrace](https://github.com/namhyung/uftrace): Function graph tracer for C/C++/Rust <https://uftrace.github.io/slide>
 - 🌟 [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
+- [jlfwong/speedscope](https://github.com/jlfwong/speedscope): 🔬 A fast, interactive web-based viewer for performance profiles. <https://www.speedscope.app>
 
 ## WASM Runtime
 
@@ -56,3 +57,4 @@
 - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack): 📦✨ your favorite rust -> wasm workflow tool! <https://rustwasm.github.io/wasm-pack>
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic): Lunatic is an Erlang-inspired runtime for WebAssembly <https://lunatic.solutions>
 - [extism/extism](https://github.com/extism/extism): Extend anything with WebAssembly. <https://extism.org>
+- [Effect Handlers for WebAssembly](https://wasmfx.dev/)

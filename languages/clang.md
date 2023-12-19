@@ -3,6 +3,7 @@
 ## Resources
 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. <http://fffaraz.github.io/awesome-cpp/>
+- [yuchdev/CppBooks](https://github.com/yuchdev/CppBooks): A comprehensive catalog of modern and classic books on C++ programming language
 
 ### Readings
 
@@ -15,14 +16,17 @@
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices): Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [Learn Makefiles](https://makefiletutorial.com/): With the tastiest examples
 - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile): 跟我一起写 Makefile 重制版 <https://seisman.github.io/how-to-write-makefile/>
+- [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
+  - [cmuratori/computer_enhance](https://github.com/cmuratori/computer_enhance): Source code for the https://computerenhance.com programming series
+- [Software optimization resources - Agner](https://www.agner.org/optimize/)
 
 ### Books
 
 - [A Tour of C++ (Third edition)](https://www.stroustrup.com/tour3.html): a brief tour of the C++ Programming language and its standard library for experienced programmers.
 - [xiaoweiChen/The-Art-of-Writing-Efficient-Programs](https://github.com/xiaoweiChen/The-Art-of-Writing-Efficient-Programs): 《The Art of Writing Efficient Programs》的非专业个人翻译
 - [xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019](https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019): 📖 作为对《C++ Concurrency in Action - SECOND EDITION》的中文翻译。
-- [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed): C++11/14/17/20 multithreading, involving operating system principles and concurrent programming technology. <https://downdemo.github.io/Cpp-Concurrency-in-Action-2ed>
 - [xiaoweiChen/Modern-CMake-for-Cpp](https://github.com/xiaoweiChen/Modern-CMake-for-Cpp): 《Modern CMake for C++》的非专业个人翻译
+- [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed): C++11/14/17/20 multithreading, involving operating system principles and concurrent programming technology. <https://downdemo.github.io/Cpp-Concurrency-in-Action-2ed>
 - [Cpp-Club/Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh): Chinese translation of Bjarne Stroustrup's HOPL4 paper
 - [Learn C++](https://www.learncpp.com/): LearnCpp.com is a free website devoted to teaching you how to program in C++.
 - [lkimuk/the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp): The Book of Modern C++ (in Chinese)
@@ -63,6 +67,10 @@
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer): Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser! <https://dogbolt.org>
 - [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux): Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 
+### Profiles
+
+- [gperftools/gperftools](https://github.com/gperftools/gperftools): Main gperftools repository
+
 ## OS level
 
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie): An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor. <http://selfie.cs.uni-salzburg.at>
@@ -94,6 +102,8 @@
 - [google/cpu_features](https://github.com/google/cpu_features): A cross platform C99 library to get cpu features at runtime.
 - [google/nsync](https://github.com/google/nsync): nsync is a C library that exports various synchronization primitives, such as mutexes
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
+- 🌟 [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
+  - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust): Super-fast float parser in Rust (now part of Rust core) <https://docs.rs/fast-float>
 
 ## Memory allocator
 
@@ -121,7 +131,8 @@
 - [intel/hyperscan](https://github.com/intel/hyperscan): High-performance regular expression matching library <https://www.hyperscan.io>
 - 🌟 [p-ranav/argparse](https://github.com/p-ranav/argparse): Argument Parser for Modern C++
 
-## ???
+## Compiler beyond default Clang
 
 - [microsoft/checkedc](https://github.com/microsoft/checkedc): Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe. The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. <https://www.microsoft.com/en-us/research/project/checked-c>
 - [diffblue/cbmc](https://github.com/diffblue/cbmc): C Bounded Model Checker <https://diffblue.github.io/cbmc>
+- [vnmakarov/mir](https://github.com/vnmakarov/mir): A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR

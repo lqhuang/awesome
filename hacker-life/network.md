@@ -52,10 +52,12 @@
 - [Mellanox/sockperf](https://github.com/Mellanox/sockperf): Network Benchmarking Utility
 - [allinurl/goaccess](https://github.com/allinurl/goaccess): GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. <https://goaccess.io>
 - [kevwan/tproxy](https://github.com/kevwan/tproxy): A cli tool to proxy and analyze TCP connections. <https://go-zero.dev>
+- 🌟 [fujiapple852/trippy](https://github.com/fujiapple852/trippy): A network diagnostic tool <https://trippy.cli.rs>
 
 ### Analysis
 
 - [nfstream/nfstream](https://github.com/nfstream/nfstream): NFStream: a Flexible Network Data Analysis Framework. <https://www.nfstream.org>
+- [jpr5/ngrep](https://github.com/jpr5/ngrep): ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF f… <https://github.com/jpr5/ngrep>
 
 ### Observability
 
@@ -86,8 +88,8 @@
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns): The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io <https://rethinkdns.com/configure>
 - [bluejekyll/trust-dns](https://github.com/bluejekyll/trust-dns): A Rust based DNS client, server, and resolver
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io): Dead simple wildcard DNS for any IP Address. <https://nip.io>
-- <https://sslip.io>: `sslip.io` is a DNS service that, when queried with a hostname with an embedded IP address, returns that IP address.
-- <https://local.gd>: The easiest way to serve localhost. DNS that always resolves to 127.0.0.1.
+  - <https://sslip.io>: `sslip.io` is a DNS service that, when queried with a hostname with an embedded IP address, returns that IP address.
+  - <https://local.gd>: The easiest way to serve localhost. DNS that always resolves to 127.0.0.1.
 - [Corollarium/localtls](https://github.com/Corollarium/localtls): DNS server for providing TLS to webservices on local addresses
 - [ogham/dog](https://github.com/ogham/dog): A command-line DNS client. <https://dns.lookup.dog>
 - [zu1k/nali](https://github.com/zu1k/nali): An offline tool for querying IP geographic information and CDN provider. 一个查询 IP 地理信息和 CDN 服务提供商的离线终端工具. <https://github.com/zu1k/nali>
@@ -146,3 +148,10 @@
 - [IPADDRESS.COM](https://www.ipaddress.com/)
 - [Pinggy](https://pinggy.io/): Public URLs for Localhost. Without downloading any binary!
 - [Netify](https://www.netify.ai/): Network Intelligence - Simplified. Netify provides full transparency into what’s happening on the network. Local deep packet network monitoring coupled with cloud-based analytics to deliver exceptional, business-driven results.
+- [IP Guide](https://ip.guide/): Your guide to internet numbers
+  - `curl -sL ip.guide`
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP): A better IP Toolbox. Easy to check what's your IPs, IP informations, check for DNS leaks, examine WebRTC connections, speed test, and test website availability. || 🇨🇳 一个更好的 IP 工具箱。可以查看 IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、网速测试、测试网站可用性等。 <https://ipcheck.ing>
+- [Cloudflare Speed Test](https://speed.cloudflare.com/)
+- [Fast](https://fast.com/)
+- [Skk IP Test](https://ip.skk.moe/)
+- [IP.SB](https://ip.sb/)

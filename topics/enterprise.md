@@ -56,6 +56,8 @@
 - [recap-build/recap](https://github.com/recap-build/recap): Read and write schemas from web service, databases, and schema registries in a standard format <https://recap.build>
 - 🌟 [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) <https://www.usebruno.com/>
 - 🌟 [apache/incubator-answer](https://github.com/apache/incubator-answer): A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. <https://answer.apache.org>
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): 👽 Open source API development ecosystem - https://hoppscotch.io <https://hoppscotch.io>
+- 🌟 [scalar/scalar](https://github.com/scalar/scalar): Beautiful API references from Swagger/OpenAPI files ✨ <https://scalar.com/swagger-editor>
 
 ### Dev environments
 
@@ -103,6 +105,9 @@
 - [uber/cadence](https://github.com/uber/cadence): Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. <https://cadenceworkflow.io>
 - [temporalio/temporal](https://github.com/temporalio/temporal): Temporal service <https://docs.temporal.io>
 - [ploomber/ploomber](https://github.com/ploomber/ploomber): The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️ <https://ploomber.io>
+- lightweight
+  - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle): A simple, distributed task scheduler and runner with a web based UI. <http://.net>
+  - [dagu-dev/dagu](https://github.com/dagu-dev/dagu): Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. <https://dagu.readthedocs.io>
 
 ### HPC Cluster manager / Job Scheduler
 

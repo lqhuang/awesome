@@ -23,7 +23,7 @@
 ## Books
 
 - [mml-book/mml-book.github.io](https://github.com/mml-book/mml-book.github.io): Companion webpage to the book "Mathematics For Machine Learning" [pdf download](https://mml-book.com)
-- [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers): aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;) <http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/>
+- [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github .com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers): aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;) <http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/>
 - [AllenDowney/ThinkComplexity2](https://github.com/AllenDowney/ThinkComplexity2): Book and code for Think Complexity, 2nd edition
   - [page](https://allendowney.github.io/ThinkComplexity2/)
 - 🌟 [probml/pml-book](https://github.com/probml/pml-book): "Probabilistic Machine Learning" - a book series by Kevin Murphy
@@ -39,8 +39,15 @@
 - 🌟 [Linear Algebra Done Right](https://linear.axler.net/): This best-selling textbook for a second course in linear algebra is aimed at undergraduate math majors and graduate students. The novel approach taken here banishes determinants to the end of the book. The text focuses on the central goal of linear algebra: understanding the structure of linear operators on finite-dimensional vector spaces.
 - [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book): Welcome to the Physics-based Deep Learning Book (v0.2) <https://physicsbaseddeeplearning.org/>
 
+## Numerical Analysis
+
+- 🌟 [herbie-fp/herbie](https://github.com/herbie-fp/herbie): Optimize floating-point expressions for accuracy <https://herbie.uwplse.org>
+- [epfl-lara/nugget](https://github.com/epfl-lara/nugget): Neural-Network Guided Expression Transformation
+  - [Wikipedia: Knuth–Bendix completion algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Bendix_completion_algorithm)
+
 ## Novel approaches
 
+- [francois-rozet/zuko](https://github.com/francois-rozet/zuko): Normalizing flows in PyTorch <https://zuko.readthedocs.io>
 - [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows): Awesome resources on normalizing flows.
 - 🌟 [lmcinnes/umap](https://github.com/lmcinnes/umap): Uniform Manifold Approximation and Projection
 
@@ -53,6 +60,9 @@
 
 - [microsoft/pdearena](https://github.com/microsoft/pdearena): A modern, scalable, and easy to use PDE Surrogate Benchmarking Framework. <https://microsoft.github.io/pdearena>
 - 🌟 [Zymrael/awesome-neural-ode](https://github.com/Zymrael/awesome-neural-ode): A collection of resources regarding the interplay between differential equations, deep learning, dynamical systems, control and numerical methods.
+- [risteskilab/deq-neural-operators](https://github.com/risteskilab/deq-neural-operators): Deep Equilibrium Based Neural Operators for Steady State PDEs
+- [y1xiaoc/fwdlap](https://github.com/y1xiaoc/fwdlap): Forward mode laplacian implemented in JAX tracer <https://github.com/y1xiaoc/fwdlap>
+- [microsoft/folx](https://github.com/microsoft/folx): Implementation of Forward Laplacian algorithm in JAX
 
 ### Unknown future
 
@@ -63,25 +73,28 @@
 
 ## Misc
 
+- [facebookresearch/nougat](https://github.com/facebookresearch/nougat): Implementation of Nougat Neural Optical Understanding for Academic Documents <https://facebookresearch.github.io/nougat/>
+- [stacks/stacks-project](https://github.com/stacks/stacks-project): Repository for the Stacks Project <http://stacks.math.columbia.edu>
+- [uemurax/morg](https://github.com/uemurax/morg): Organize mathematical thoughts
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): A community-supported supercharged version of paperless: scan, index and archive all your physical documents <https://docs.paperless-ngx.com>
+- [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex): Make Zotero effective for us LaTeX holdouts <https://retorque.re/zotero-better-bibtex/>
+
+## LaTex
+
 - [gpoore/minted](https://github.com/gpoore/minted): minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
 - [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint): 📝 A nicely formatted LaTeX preprint template
 - [citation-js/citation-js](https://github.com/citation-js/citation-js): Core functionality of Citation.js, as well as the original plugins (CSL, BibTeX, RIS, DOI, Wikidata, and BibJSON) <https://citation.js.org>
 - [typst/typst](https://github.com/typst/typst): A new markup-based typesetting system that is powerful and easy to learn. <https://typst.app>
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new language server for Typst, plus a VS Code extension
 - [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX math description from Python functions.
-- [papis/papis](https://github.com/papis/papis): Powerful and highly extensible command-line based document and bibliography manager. <http://papis.readthedocs.io/en/latest/>
 - [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX): 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile): Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [standardebooks/tools](https://github.com/standardebooks/tools): The Standard Ebooks toolset for producing our ebook files.
 - [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook): Elegant LaTeX Template for Books
-- [facebookresearch/nougat](https://github.com/facebookresearch/nougat): Implementation of Nougat Neural Optical Understanding for Academic Documents <https://facebookresearch.github.io/nougat/>
-- [stacks/stacks-project](https://github.com/stacks/stacks-project): Repository for the Stacks Project <http://stacks.math.columbia.edu>
-- [uemurax/morg](https://github.com/uemurax/morg): Organize mathematical thoughts
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): A community-supported supercharged version of paperless: scan, index and archive all your physical documents <https://docs.paperless-ngx.com>
 - [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner): arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 - [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook): LaTeX 论文写作教程 (中文版)
 - [kisonecat/tikzjax](https://github.com/kisonecat/tikzjax): TikZJax is TikZ running under WebAssembly in the browser
-- [ice1000/multi-school-sop](https://github.com/ice1000/multi-school-sop): A latex template for writing statement-of-purpose for many schools at the same time
+- 🌟 [ice1000/multi-school-sop](https://github.com/ice1000/multi-school-sop): A latex template for writing statement-of-purpose for many schools at the same time
 - [xyz2tex/svg2tikz](https://github.com/xyz2tex/svg2tikz): An Inkscape extension for exporting SVG paths as TikZ/PGF paths <http://xyz2tex.github.io/svg2tikz/>
 - [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style): GB/T 7714-2015 BibTeX Style
-- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines): Chinese copywriting guidelines for better written communication／中文文案排版指北
+- [jonbarron/tabilize](https://github.com/jonbarron/tabilize): Simple code for generating a color-coded latex table from raw data

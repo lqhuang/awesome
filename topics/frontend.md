@@ -24,6 +24,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [UI Snippets](https://ui-snippets.dev/)
 - [TailwindCSS Snippets](https://snippets.alexandru.so/)
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+- [The Cleanest Trick for Autogrowing Textareas](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)
 
 ## Framework
 
@@ -51,23 +52,22 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ## Toolchains
 
-### Build tools
-
-- 🌟 [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill): Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.
-
-### Parser
-
-- 🌟 [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser, mangler and compressor toolkit for ES6+ <https://terser.org>
-
 ### Bundler
 
 - vite
 - rolldown
 
-### Testing suites
+### Testing suites (codes and UI)
 
 - vitest
 - [Chromatic](https://www.chromatic.com/): Ship UIs faster by automating grunt work. Chromatic automates visual & interaction tests for Storybook. Connect CI/CD and Figma workflows to streamline stakeholder sign-off. Generate versioned component docs.
+- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app): A modified web browser that helps in responsive web development. A web developer's must have dev-tool. <https://responsively.app>
+
+### Performance Profiles
+
+- [instantpage/instant.page](https://github.com/instantpage/instant.page): Make your site’s pages instant in 1 minute and improve your conversion rate by 1% <https://instant.page>
+- [perfsee/perfsee](https://github.com/perfsee/perfsee): a set of tools for measuring and debugging performance of frontend applications <https://perfsee.com>
+- [Zizzamia/perfume.js](https://github.com/Zizzamia/perfume.js): Web performance library for measuring all performance vitals metrics <https://zizzamia.github.io/perfume/>
 
 ## Components library
 
@@ -75,11 +75,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui): Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. <https://headlessui.dev>
 - [patternfly/patternfly](https://github.com/patternfly/patternfly): This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here. <https://patternfly.org/>
-- 🌟 [lit/lit](https://github.com/lit/lit): Lit is a simple library for building fast, lightweight web components. <https://lit.dev>
+- [lit/lit](https://github.com/lit/lit): Lit is a simple library for building fast, lightweight web components. <https://lit.dev>
 - [tabler/tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap <https://preview.tabler.io>
 - [konstaui/konsta](https://github.com/konstaui/konsta): Mobile UI components made with Tailwind CSS <https://konstaui.com>
 - [microsoft/fast](https://github.com/microsoft/fast): The adaptive interface system for modern web experiences. <https://www.fast.design>
-- 🌟 [themesberg/flowbite](https://github.com/themesberg/flowbite): The most popular and open-source library of Tailwind CSS components <https://flowbite.com>
+- [themesberg/flowbite](https://github.com/themesberg/flowbite): The most popular and open-source library of Tailwind CSS components <https://flowbite.com>
 - [ariakit/ariakit](https://github.com/ariakit/ariakit): Toolkit for building accessible web apps with React <https://ariakit.org>
 
 #### React
@@ -96,6 +96,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz. <https://radix-ui.com>
 - 🌟 [radix-ui/themes](https://github.com/radix-ui/themes): Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos. <https://radix-ui.com/themes>
 - 🌟 [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
+- [StaticMania/keep-react](https://github.com/StaticMania/keep-react): Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications. <https://react.keepdesign.io>
+- [cloudscape-design/components](https://github.com/cloudscape-design/components): React components for Cloudscape Design System <https://cloudscape.design/>
+- [tamagui/tamagui](https://github.com/tamagui/tamagui): Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler. <https://tamagui.dev>
 
 #### Svelte
 
@@ -120,13 +123,14 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge): Merge Tailwind CSS classes without style conflicts <https://npmjs.com/package/tailwind-merge>
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace): A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾 <https://shoelace.style>
   - CSS framework for Web Components
+- 🌟 [facebook/stylex](https://github.com/facebook/stylex): StyleX is the styling system for ambitious user interfaces. <https://stylexjs.com>
 
 ### Components
 
 - [wbkd/react-flow](https://github.com/wbkd/react-flow): Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements): 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use <https://tailwind-elements.com>
 - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template): Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. <https://simple.cruip.com>
-- 🌟 [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table <https://tanstack.com/table>
+- [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table <https://tanstack.com/table>
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React. <https://sonner.emilkowal.ski>
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic): A React tiling window manager <https://nomcopter.github.io/react-mosaic/>
 - [remirror/remirror](https://github.com/remirror/remirror): ProseMirror toolkit for React 🎉 <https://remirror.io>
@@ -162,6 +166,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟🌟🌟 [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
 - [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
 - 🌟 [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui): A JavaScript library to position floating elements and create interactions for them. <https://floating-ui.com>
+- [nygardk/react-share](https://github.com/nygardk/react-share): Social media share buttons and share counts for React
+- [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf): Display PDFs in your React app as easily as if they were images. <https://projects.wojtekmaj.pl/react-pdf>
+- [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar): Ultimate calendar for your React app. <https://projects.wojtekmaj.pl/react-calendar>
+- [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker): A date picker for your React app. <https://projects.wojtekmaj.pl/react-date-picker>
+- [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination): A React pagination component which intelligently renders to the available width <https://react-responsive-pagination.elantha.com>
 
 ### Form
 
@@ -209,10 +218,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ### Misc
 
-- [instantpage/instant.page](https://github.com/instantpage/instant.page): Make your site’s pages instant in 1 minute and improve your conversion rate by 1% <https://instant.page>
-- [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app): A modified web browser that helps in responsive web development. A web developer's must have dev-tool. <https://responsively.app>
-- [aidenybai/million](https://github.com/aidenybai/million): 🔟🔼6️⃣ An extremely fast virtual DOM that makes React up to 70% faster! <https://millionjs.org>
-- [perfsee/perfsee](https://github.com/perfsee/perfsee): a set of tools for measuring and debugging performance of frontend applications <https://perfsee.com>
+- [aidenybai/million](https://github.com/aidenybai/million): Make React Faster. Automatically. <https://million.dev>
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle): A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code. <http://formidable.com/open-source/spectacle/>
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy): Fast and secure standalone server for resizing and converting remote images <https://imgproxy.net>
 - [evilmartians/figma-polychrom](https://github.com/evilmartians/figma-polychrom): Figma plugin for displaying the contrast level and font size recommendations according to the APCA method <https://www.figma.com/community/plugin/1281280685402026529/polychrom>
@@ -250,6 +256,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs <https://css.gg>
 - 🌟 [Snow Dashboard UI Kit](https://snow.byewind.com): An advanced Dashboard / SaaS UI kit and design system for Figma. It can help you quickly build Dashboard, SaaS and other projects, and has a very good user experience.
   - paid required
+- [Simple Icons](https://simpleicons.org/): 2862 Free SVG icons for popular brands
+- [svgl](https://svgl.vercel.app/): ✨ Optimized SVGs for web
 
 ## Further topics
 

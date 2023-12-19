@@ -9,6 +9,7 @@
 - [Writing a Python SQL engine from scratch](https://github.com/tobymao/sqlglot/blob/main/posts/python_sql_engine.md)
 - [alextanhongpin/database-design](https://github.com/alextanhongpin/database-design): Ideas on better database design
 - [postgres-ai/postgres-howtos](https://github.com/postgres-ai/postgres-howtos): Postgres HowTo articles
+- [kvko/sqlmap-wiki-zhcn](https://github.com/kvko/sqlmap-wiki-zhcn): 可能是最完整的 sqlmap 中文文档。 <https://sqlmap.highlight.ink>
 
 ### Books
 
@@ -41,6 +42,7 @@
 - [penberg/mvcc-rs](https://github.com/penberg/mvcc-rs): Optimistic multi-version concurrency control (MVCC) for main memory databases, written in Rust.
 - 📝 [marsupialtail/quokka](https://github.com/marsupialtail/quokka): Making data lake work for time series <https://marsupialtail.github.io/quokka/>
 - [kayak/pypika](https://github.com/kayak/pypika): PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis. <http://pypika.readthedocs.io/en/latest/>
+- [microsoft/verified-storage](https://github.com/microsoft/verified-storage): Storage systems with verified correctness properties
 
 ### Practices
 
@@ -95,6 +97,7 @@
 ### Vector
 
 - [qdrant/qdrant](https://github.com/qdrant/qdrant): Qdrant - Vector Database for the next generation of AI applications <https://qdrant.tech>
+  - [tyrchen/qdrant-lib](https://github.com/tyrchen/qdrant-lib): Extract core logic from qdrant and make it available as a library.
 - [Pinecone](https://www.pinecone.io/): The Pinecone vector database makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles.
 - [milvus-io/milvus](https://github.com/milvus-io/milvus): Vector database for scalable similarity search and AI applications. <https://milvus.io> <https://zilliz.com>
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB): A hyper-fast local vector database for use with LLM Agents.
@@ -104,7 +107,6 @@
 
 - [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source vector similarity search for Postgres
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs): Vector database plugin for Postgres, written in Rust
-- [neondatabase/pg_embedding](https://github.com/neondatabase/pg_embedding): Hierarchical Navigable Small World (HNSW) algorithm for vector similarity search in PostgreSQL
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss): A SQLite extension for efficient vector search, based on Faiss!
 
 ### Postgres
@@ -136,6 +138,7 @@
 - [centerofci/mathesar](https://github.com/centerofci/mathesar): Web application providing an intuitive user experience to databases. <https://mathesar.org>
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools): Everything that makes working with databases easier
 - [PostHog/HouseWatch](https://github.com/PostHog/HouseWatch): Open source tool for monitoring and managing ClickHouse clusters
+- 🌟 [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap): Automatic SQL injection and database takeover tool <http://sqlmap.org>
 
 ### ERD
 

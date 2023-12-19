@@ -5,6 +5,7 @@
 - [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models): 💘 帮助你建立良好的 JavaScript 心智模型 <https://sudongyuer.github.io/javascript-mental-models>
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book): The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security): Awesome Node.js Security resources
+- [npmgraph](https://npmgraph.js.org/)
 
 ## Effect system on Typescript
 
@@ -28,12 +29,22 @@
 ### Testing
 
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check): Property based testing framework for JavaScript (like QuickCheck) written in TypeScript <https://fast-check.dev/>
+- [ealush/vest](https://github.com/ealush/vest): Vest ✅ Declarative validations framework <https://vestjs.dev/>
 
 ### Linter / Formatter
 
 - [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies and exports in your JS/TS project
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js): quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser): Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD. <https://npmjs.com/dependency-cruiser>
+
+### Modernize
+
+- 🌟 [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill): Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.
+- [unjs/mlly](https://github.com/unjs/mlly): 🤝 Missing ECMAScript module utils for Node.js
+
+### Parser
+
+- 🌟 [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser, mangler and compressor toolkit for ES6+ <https://terser.org>
 
 ## Functional libraries
 
@@ -64,26 +75,28 @@
 ### Backend
 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm): TypeScript ORM that feels like writing SQL <https://orm.drizzle.team>
+- [yomorun/presencejs](https://github.com/yomorun/presencejs): @yomo/presencejs ⚡️ made realtime web applications edge-aware by YoMo, WebTransport based, provide fallback to WebSocket automatically. <https://presence.js.org>
 
-### Misc
+## Utils
+
+- [komodojp/tinyld](https://github.com/komodojp/tinyld): Simple and Performant Language detection library for NodeJS <https://komodojp.github.io/tinyld/>
+- [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions <http://bradymholt.github.io/cRonstrue/>
+- [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics): simple statistics for node & browser javascript <http://simplestatistics.org/>
+- [foliojs/pdfkit](https://github.com/foliojs/pdfkit): A JavaScript PDF generation library for Node and the browser <http://pdfkit.org/>
+- [sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions): Get the dimensions of an image
+- [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
+- [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
+
+## Middleware
 
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow. <https://www.meilisearch.com>
 - [oramasearch/orama](https://github.com/oramasearch/orama): 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. <https://docs.oramasearch.com>
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase): A tiny, reactive JavaScript library for structured state and tabular data. <https://tinybase.org>
-- [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions <http://bradymholt.github.io/cRonstrue/>
-- [npmgraph](https://npmgraph.js.org/)
-- [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics): simple statistics for node & browser javascript <http://simplestatistics.org/>
-
-### Uncategorised
-
-- [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your i18n localization with AI
-- [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
-- [yomorun/presencejs](https://github.com/yomorun/presencejs): @yomo/presencejs ⚡️ made realtime web applications edge-aware by YoMo, WebTransport based, provide fallback to WebSocket automatically. <https://presence.js.org>
-- [sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions): Get the dimensions of an image
-- [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
 
 ## Misc
 
 - [yunabe/tslab](https://github.com/yunabe/tslab): Interactive JavaScript and TypeScript programming with Jupyter
 - [google/zx](https://github.com/google/zx): A tool for writing better scripts <https://google.github.io/zx/>
 - [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm scripts to make them smarter and more efficient.
+- [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your i18n localization with AI
+- [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>

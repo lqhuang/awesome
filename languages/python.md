@@ -19,6 +19,7 @@
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals): Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研究员 Anthony Shaw 的《CPython Internals》中文翻译
 - [python/devguide](https://github.com/python/devguide): The Python developer's guide <https://devguide.python.org/>
+- [python/typing-council](https://github.com/python/typing-council): Decisions by the Python Typing Council
 
 ### Books
 
@@ -122,6 +123,7 @@
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory): Simple and powerful factories for mock data generation <https://polyfactory.litestar.dev/>
 - [simplistix/sybil](https://github.com/simplistix/sybil): Automated testing for the examples in your documentation. <https://sybil.readthedocs.io/en/latest/>
 - [life4/deal](https://github.com/life4/deal): 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free. <https://deal.readthedocs.io/>
+- [JamesHutchison/pytest-hot-reloading](https://github.com/JamesHutchison/pytest-hot-reloading): A hot reloading pytest daemon, implemented as a plugin
 
 ### Performance profile
 
@@ -187,6 +189,7 @@
 - [dbrattli/aioreactive](https://github.com/dbrattli/aioreactive): Async/await reactive tools for Python 3.9+
 - [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent): Persistent/Immutable/Functional data structures for Python
 - [cgarciae/pypeln](https://github.com/cgarciae/pypeln): Concurrent data pipelines in Python >>> <https://cgarciae.github.io/pypeln>
+- 🌟 [MagicStack/immutables](https://github.com/MagicStack/immutables): A high-performance immutable mapping type for Python.
 
 ## Domain libraries
 
@@ -296,7 +299,7 @@
 
 ## Functional libraries
 
-### Channels
+### Channels / Threads / Multiprocessing
 
 - [ethereum/lahja](https://github.com/ethereum/lahja): Lahja is a generic multi process event bus implementation written in Python 3.6+ to enable lightweight inter-process communication, based on non-blocking asyncio
 - [insitro/redun](https://github.com/insitro/redun): Yet another redundant workflow engine <https://insitro.github.io/redun>
@@ -306,7 +309,6 @@
 - [explosion/cymem](https://github.com/explosion/cymem): 💥 Cython memory pool for RAII-style memory management
 - [glyph/automat](https://github.com/glyph/automat): Self-service finite-state machines for the programmer on the go.
 - [GraiaProject/BroadcastControl](https://github.com/GraiaProject/BroadcastControl): a high performance, highly customizable, elegantly designed event system based on asyncio
-- [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire): A Python package for easy multiprocessing, but faster than multiprocessing
 
 ### High-level data structures
@@ -337,6 +339,7 @@
 - [ZechCodes/Bevy](https://github.com/ZechCodes/Bevy): A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. <https://blog.zech.codes/bevy-v2>
 - [pradyunsg/diagnostic](https://github.com/pradyunsg/diagnostic): `diagnostic` makes it easier to build command line tools with great error reporting. <https://diagnostic.readthedocs.io/en/latest/>
 - 🌟 [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict): 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
+- [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
 
 ### Configuration
 
@@ -359,6 +362,7 @@
 - 📝 [Tinche/quattro](https://github.com/Tinche/quattro): Better control of your asyncio tasks
 - [oremanj/aioguest](https://github.com/oremanj/aioguest): Run asyncio and another event loop in the same thread
 - [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet): Lightweight in-process concurrent programming
+- 📝 [aio-libs/janus](https://github.com/aio-libs/janus): Thread-safe asyncio-aware queue for Python
 
 ### Middleware
 
@@ -486,3 +490,4 @@
 - 🌟 [reactive-python/reactpy](https://github.com/reactive-python/reactpy): It's React, but in Python <https://reactpy.dev>
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx): A curated list of things related to python-based web development using htmx
 - [Knio/dominate](https://github.com/Knio/dominate): Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API. It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn another template language, and to take advantage of the more powerful features of Python.
+- [widgetti/reacton](https://github.com/widgetti/reacton): A pure Python port of React for ipywidgets <https://reacton.solara.dev/>

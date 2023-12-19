@@ -8,6 +8,8 @@
 ## SwiftUI
 
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+- [fastlane/fastlane](https://github.com/fastlane/fastlane): 🚀 The easiest way to automate building and releasing your iOS and Android apps <https://fastlane.tools>
+- [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise): Bitrise runner CLI - run your automations on your Mac or Linux machine - <https://www.bitrise.io/cli>
 
 ## capacitorjs
 
@@ -15,8 +17,14 @@
 
 ## React Native (cross platforms)
 
-- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Next-generation HTML renderer for apps and games <https://ultralig.ht>
+### Framework
+
 - 🌟 [expo/expo](https://github.com/expo/expo): An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. <https://docs.expo.dev>
+- [nandorojo/solito](https://github.com/nandorojo/solito): 🧍‍♂️ React Native + Next.js, unified. <https://solito.dev>
+- [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Next-generation HTML renderer for apps and games <https://ultralig.ht>
+
+### Libs
+
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler): Declarative API exposing platform native touch and gesture system to React Native. <https://docs.swmansion.com/react-native-gesture-handler/>
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated): React Native's Animated library reimplemented <https://docs.swmansion.com/react-native-reanimated/>
 - [software-mansion/react-native-screens](https://github.com/software-mansion/react-native-screens): Native navigation primitives for your React Native app.

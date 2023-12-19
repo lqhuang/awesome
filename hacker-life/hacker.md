@@ -52,12 +52,12 @@
 - 🌟 [penrose/penrose](https://github.com/penrose/penrose): Create beautiful diagrams just by typing mathematical notation in plain text. <https://penrose.cs.cmu.edu>
 - [google/typograms](https://github.com/google/typograms): Typograms (short for typographic diagrams) is a lightweight image format (text/typogram) useful for defining simple diagrams in technical documentation
 - 🌟 [varkor/quiver](https://github.com/varkor/quiver): A modern commutative diagram editor for the web. <https://q.uiver.app>
+- [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit): Next Generation Visual Programming System <https://unit.land>
 
 ## Homelab
 
 - [meienberger/runtipi](https://github.com/meienberger/runtipi): ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. <https://sandstorm.io>
-- [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle): A simple, distributed task scheduler and runner with a web based UI. <http://.net>
 - [sshguard/sshguard](https://bitbucket.org/sshguard/sshguard/): SSHGuard protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends. <https://www.sshguard.net>
 - 🌟 [Lissy93/dashy](https://github.com/Lissy93/dashy): 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! <https://dashy.to>
 - [Kea DHCP](https://www.isc.org/kea/): Modern, open source DHCPv4 & DHCPv6 server
@@ -72,6 +72,7 @@
 - [MetinSeylan/homelab](https://github.com/MetinSeylan/homelab): bare-metal homelab k8s automation <https://metin.sh>
 - 🌟 [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. <https://gethomepage.dev/>
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin): A curated list of amazingly awesome open-source sysadmin resources.
+- 🌟🌟🌟 [louislam/dockge](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager <https://dockge.kuma.pet>
 
 ## HomeKit / IoT
 
@@ -99,6 +100,9 @@
   - export WeBook to Readwise
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): ⚡ Dynamically generated stats for your github readmes <https://github-readme-stats.vercel.app>
 - [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv): LaTeX CV generator from a YAML/JSON input file. <https://sinaatalay.github.io/rendercv/>
+- [2ndLA/English](https://github.com/2ndLA/English): 🚧 [WIP] 全面、渐进、碎片化的英语自学指引。 <https://english.highlight.ink>
+- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成 HTML、Word、CSV 文档永久保存，对聊天记录进行分析生成年度聊天报告
+- 🌟 [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines): Chinese copywriting guidelines for better written communication／中文文案排版指北
 
 ## Security / Privacy
 

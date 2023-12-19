@@ -63,6 +63,7 @@
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats): Portfolio analytics for quants, written in Python
 - [robertmartin8/PyPortfolioOpt](https://github.com/robertmartin8/PyPortfolioOpt): Financial portfolio optimisation in python, including classical efficient frontier, Black-Litterman, Hierarchical Risk Parity <https://pyportfolioopt.readthedocs.io>
 - [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab): MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.
+- [ForecastOS/investos](https://github.com/ForecastOS/investos): An opinionated portfolio engineering and backtesting framework. Built by professional quant investors. So you can focus on finding alpha <https://investos.io>
 
 ## Indicators
 
@@ -79,6 +80,7 @@
 
 - [Alpaca Finance](https://www.alpacafinance.org/): Alpaca Finance is the largest lending protocol allowing leveraged yield farming on BNB Chain.
 - 🌟 [Polygon](https://polygon.io/): Financial Market Data Platform Stock APIs, Forex, Crypto, and More
+  - [perspective-community/polygon-io-perspective](https://github.com/perspective-community/polygon-io-perspective): Demo application visualizing Polygon.io financial data in Perspective <https://perspective-community.github.io/polygon-io-perspective/>
 - [RomelTorres/alpha_vantage](https://github.com/RomelTorres/alpha_vantage): A python wrapper for Alpha Vantage API for financial data.
 - [JerBouma/FinanceDatabase](https://github.com/JerBouma/FinanceDatabase): This is a database of 300.000+ symbols containing Equities, ETFs, Funds, Indices, Currencies, Cryptocurrencies and Money Markets.
 - [bmoscon/cryptofeed](https://github.com/bmoscon/cryptofeed): Cryptocurrency Exchange Websocket Data Feed Handler
