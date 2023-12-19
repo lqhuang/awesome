@@ -170,6 +170,22 @@
 - [ChenHuajun/pg_roaringbitmap](https://github.com/ChenHuajun/pg_roaringbitmap): RoaringBitmap extension for PostgreSQL
 - [omnigres/omnigres](https://github.com/omnigres/omnigres): Postgres as a Platform
 - [bensheldon/good_job](https://github.com/bensheldon/good_job): Multithreaded, Postgres-based, Active Job backend for Ruby on Rails. <https://goodjob-demo.herokuapp.com/>
+- [citusdata/pg_cron](https://github.com/citusdata/pg_cron): Run periodic jobs in PostgreSQL
+- [reorg/pg_repack](https://github.com/reorg/pg_repack): Reorganize tables in PostgreSQL databases with minimal locks
+- [PostgresQL Docs - Appendix F. Additional Supplied Modules and Extensions](https://www.postgresql.org/docs/current/contrib.html)
+  - [F.28. pgcrypto — cryptographic functions](https://www.postgresql.org/docs/current/pgcrypto.html)
+  - [F.32. pg_stat_statements — track statistics of SQL planning and execution](https://www.postgresql.org/docs/current/pgstatstatements.html)
+  - [F.35. pg_trgm — support for similarity of text using trigram matching](https://www.postgresql.org/docs/current/pgtrgm.html)
+  - [F.49. uuid-ossp — a UUID generator](https://www.postgresql.org/docs/current/uuid-ossp.html)
+- [Beyond the Basics: Exploring PostgreSQL Extensions](https://www.timescale.com/learn/postgresql-extensions)
+  - amcheck
+  - hstore
+  - ltree
+  - pgcrypto
+  - pg_stat_statements
+  - pg_trgm
+  - pgvector
+  - uuid-ossp
 
 ### SQLite
 
