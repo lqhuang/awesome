@@ -2,10 +2,19 @@
 
 ## Resources
 
+- [npmgraph](https://npmgraph.js.org/)
+- [A list of JavaScript engines, runtimes, interpreters](https://gist.github.com/guest271314/bd292fc33e1b30dede0643a283fadc6a)
+
+## Books
+
 - [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models): 💘 帮助你建立良好的 JavaScript 心智模型 <https://sudongyuer.github.io/javascript-mental-models>
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book): The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security): Awesome Node.js Security resources
-- [npmgraph](https://npmgraph.js.org/)
+
+### Readings
+
+- [The complexity of writing an efficient NodeJS Docker image](https://www.specfy.io/blog/1-efficient-dockerfile-nodejs-in-7-steps)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): ✅ The Node.js best practices list (December 2023) <https://twitter.com/nodepractices/>
 
 ## Effect system on Typescript
 

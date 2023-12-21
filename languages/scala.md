@@ -9,6 +9,11 @@
 - [EffectOrientedProgramming/book](https://github.com/EffectOrientedProgramming/book): Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2
 - [alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices): A collection of Scala best practices
 - [yadavan88/ScalaCLI-Cheatsheet](https://github.com/yadavan88/ScalaCLI-Cheatsheet): A cheatsheet of useful Scala-CLI commands
+- [Project CRaC](https://wiki.openjdk.org/display/crac)
+  - [What is Coordinated Restore at Checkpoint?](https://docs.azul.com/core/crac/crac-introduction)
+- [Project Panama: Interconnecting JVM and native code](https://openjdk.org/projects/panama/)
+- [Project Valhalla](https://openjdk.org/projects/valhalla/)
+- [Project ZGC](https://wiki.openjdk.org/display/zgc)
 
 ### Exercises
 

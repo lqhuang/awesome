@@ -155,3 +155,7 @@
 - [Fast](https://fast.com/)
 - [Skk IP Test](https://ip.skk.moe/)
 - [IP.SB](https://ip.sb/)
+- https://www.islegitsite.com/
+- https://www.ssllabs.com/ssltest/
+- https://www.cloudflare.com/ssl/encrypted-sni/
+

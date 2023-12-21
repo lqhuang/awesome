@@ -222,7 +222,6 @@
 - [static-frame/static-frame](https://github.com/static-frame/static-frame): Immutable and grow-only Pandas-like DataFrames with a more explicit and consistent interface. <https://static-frame.readthedocs.io>
 - [h2oai/datatable](https://github.com/h2oai/datatable): A Python package for manipulating 2-dimensional tabular data structures <https://datatable.readthedocs.io>
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
-- [mljar/mercury](https://github.com/mljar/mercury): Build Web Apps in Jupyter Notebook with Python only <https://RunMercury.com>
 - [man-group/dtale](https://github.com/man-group/dtale): Visualizer for pandas data structures <http://alphatechadmin.pythonanywhere.com>
 
 ### Jupyter ecosystem
@@ -233,7 +232,9 @@
 - [laixintao/jupyter-dot-kernel](https://github.com/laixintao/jupyter-dot-kernel): 📝Dot language kernel for jupyter.
 - [jupyter-server/jupyter-scheduler](https://github.com/jupyter-server/jupyter-scheduler): Run Jupyter notebooks as jobs <https://jupyter-scheduler.readthedocs.io>
 - [mwouts/jupytext](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts <https://jupytext.readthedocs.io>
+- [mljar/mercury](https://github.com/mljar/mercury): Build Web Apps in Jupyter Notebook with Python only <https://RunMercury.com>
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl): 🎈 Simple reactive notebooks for Julia <https://plutojl.org/>
+- [kolibril13/jupyter-tldraw](https://github.com/kolibril13/jupyter-tldraw): the very good free whiteboard tldraw in the jupyter output
 
 ### Prob
 
@@ -340,6 +341,7 @@
 - [pradyunsg/diagnostic](https://github.com/pradyunsg/diagnostic): `diagnostic` makes it easier to build command line tools with great error reporting. <https://diagnostic.readthedocs.io/en/latest/>
 - 🌟 [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict): 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
+- [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
 
 ### Configuration
 
