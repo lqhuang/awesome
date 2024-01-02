@@ -4,6 +4,7 @@
 
 - [npmgraph](https://npmgraph.js.org/)
 - [A list of JavaScript engines, runtimes, interpreters](https://gist.github.com/guest271314/bd292fc33e1b30dede0643a283fadc6a)
+- 🌟 [typehero/typehero](https://github.com/typehero/typehero): Connect, collaborate, and grow with a community of TypeScript developers <https://typehero.dev>
 
 ## Books
 
@@ -98,7 +99,6 @@
 
 ## Middleware
 
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch): An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow. <https://www.meilisearch.com>
 - [oramasearch/orama](https://github.com/oramasearch/orama): 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. <https://docs.oramasearch.com>
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase): A tiny, reactive JavaScript library for structured state and tabular data. <https://tinybase.org>
 

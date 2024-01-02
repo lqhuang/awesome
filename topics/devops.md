@@ -39,6 +39,7 @@
 - 🌟 [github/ossar-action](https://github.com/github/ossar-action): Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
 - [bencherdev/bencher](https://github.com/bencherdev/bencher): 🐰 Bencher - Continuous Benchmarking <https://bencher.dev>
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends): 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! <https://githubtrends.io>
+- [dorny/paths-filter](https://github.com/dorny/paths-filter): Conditionally run actions based on files modified by PR, feature branch or pushed commits
 
 ## Pre-commit
 

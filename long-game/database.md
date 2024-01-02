@@ -49,6 +49,7 @@
 - [cmu-db/bustub](https://github.com/cmu-db/bustub): The BusTub Relational Database Management System (Educational) <https://15445.courses.cs.cmu.edu>
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight): An OLAP database system for educational purpose
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb): Distributed SQL database in Rust, written as a learning project
+- [khonsulabs/okaywal](https://github.com/khonsulabs/okaywal): A Write Ahead Log (WAL) implementation in Rust
 
 ## New databases
 

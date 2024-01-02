@@ -131,6 +131,7 @@
 - [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. :octocat: 💬 💎 <https://giscus.app>
 - [djyde/cusdis](https://github.com/djyde/cusdis): lightweight, privacy-friendly alternative to Disqus. <https://cusdis.com>
 - [XPoet/picx](https://github.com/XPoet/picx): 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。 <https://picx.xpoet.cn>
+- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk): 🌌 自托管评论系统 | Your self-hosted comment system <https://artalk.js.org>
 
 ### Self-hosted services
 

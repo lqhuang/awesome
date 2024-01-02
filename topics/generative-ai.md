@@ -13,6 +13,7 @@
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models
 - [SDWebImage/SDWebImageSwiftUI](https://github.com/SDWebImage/SDWebImageSwiftUI): SwiftUI Image loading and Animation framework powered by SDWebImage <https://sdwebimage.github.io/SDWebImageSwiftUI>
 - [openai/CLIP](https://github.com/openai/CLIP): CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image
+- [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion): StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 
 ## Misc
 

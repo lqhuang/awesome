@@ -45,6 +45,7 @@
 - [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm): Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla): Gorilla: An API store for LLMs <https://gorilla.cs.berkeley.edu/>
 - 🌟 [r2d4/rellm](https://github.com/r2d4/rellm): Exact structure out of any language model completion.
+- [smpanaro/more-ane-transformers](https://github.com/smpanaro/more-ane-transformers): Run transformers (incl. LLMs) on the Apple Neural Engine.
 
 ## Model
 
@@ -71,6 +72,11 @@
 ### Mistral AI
 
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src): Reference implementation of Mistral AI 7B v0.1 model. <https://mistral.ai/>
+
+### Multi Modal
+
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities. <https://llava.hliu.cc>
+- [apple/ml-ferret](https://github.com/apple/ml-ferret): An End-to-End MLLM that Accept Any-Form Referring and Ground Anything in Response.
 
 ### Others
 

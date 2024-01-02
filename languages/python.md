@@ -8,6 +8,7 @@
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python): A curated list of awesome things related to functional programming in Python.
 - [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi): A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject): An Awesome List of projects using the pyproject.toml Python configuration file.
+- [python/devguide](https://github.com/python/devguide): The Python developer's guide <https://devguide.python.org/>
 
 ### Readings
 
@@ -18,11 +19,11 @@
 - [Chang-LeHung/dive-into-cpython](https://github.com/Chang-LeHung/dive-into-cpython): dive into cpython source code
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals): Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研究员 Anthony Shaw 的《CPython Internals》中文翻译
-- [python/devguide](https://github.com/python/devguide): The Python developer's guide <https://devguide.python.org/>
 - [python/typing-council](https://github.com/python/typing-council): Decisions by the Python Typing Council
 
 ### Books
 
+- [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook): 《Python Cookbook》 3rd Edition Translation
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy): An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017 <http://www.labri.fr/perso/nrougier/from-python-to-numpy>
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book): An open access book on scientific visualization using python and matplotlib <https://www.labri.fr/perso/nrougier/scientific-visualization.html>
 
@@ -289,6 +290,8 @@
 - [influxdata/flightsql-dbapi](https://github.com/influxdata/flightsql-dbapi): DB API 2 interface for Flight SQL with SQLAlchemy extras.
 - [nalgeon/sqlean.py](https://github.com/nalgeon/sqlean.py): Python's sqlite3 + extensions
 - [memgraph/gqlalchemy](https://github.com/memgraph/gqlalchemy): GQLAlchemy is a library developed with the purpose of assisting in writing and running queries on Memgraph. GQLAlchemy supports high-level connection to Memgraph as well as modular query builder.
+- 📝 [ponyorm/pony](https://github.com/ponyorm/pony): Pony Object Relational Mapper
+  - Learn how Monad style applies in Python
 
 ### API clients
 

@@ -23,6 +23,13 @@
 - 🌟 [systemd/mkosi](https://github.com/systemd/mkosi): 💽 Build Bespoke OS Images
 - [uapi-group/specifications](https://github.com/uapi-group/specifications): UAPI Group Specifications <https://uapi-group.org/specifications/>
 
+## Virtual Machines
+
+- [canonical/multipass](https://github.com/canonical/multipass): Multipass orchestrates virtual Ubuntu instances <https://multipass.run>
+- 🌟 [89luca89/distrobox](https://github.com/89luca89/distrobox): Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox <https://distrobox.it/>
+  - [Arch Linux Wiki - Distrobox](https://wiki.archlinux.org/title/Distrobox)
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments. <https://www.vagrantup.com>
+
 ## Container
 
 - [ncopa/su-exec](https://github.com/ncopa/su-exec): switch user and group id and exec

@@ -27,3 +27,5 @@
 - [unum-cloud/usearch](https://github.com/unum-cloud/usearch): Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram <https://unum-cloud.github.io/usearch/>
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo): Vector search for humans. <https://www.marqo.ai/>
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib): Header-only C++/python library for fast approximate nearest neighbors <https://github.com/nmslib/hnswlib>
+- [instant-labs/instant-distance](https://github.com/instant-labs/instant-distance): Fast approximate nearest neighbor searching in Rust, based on HNSW index
+- [harsha-simhadri/big-ann-benchmarks](https://github.com/harsha-simhadri/big-ann-benchmarks): Framework for evaluating ANNS algorithms on billion scale datasets. <https://big-ann-benchmarks.com>

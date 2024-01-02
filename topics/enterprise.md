@@ -8,7 +8,6 @@
 - [teamhanko/hanko](https://github.com/teamhanko/hanko): A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. <https://hanko.io>
 - [build-trust/ockam](https://github.com/build-trust/ockam): Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale. <https://ockam.io>
 - [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
-- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH): ContainerSSH: Launch containers on demand <https://containerssh.io>
 - [kanidm/kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure and fast identity management platform
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。 <http://www.jumpserver.org>
 - [moul/sshportal](https://github.com/moul/sshportal): 🎩 simple, fun and transparent SSH (and telnet) bastion server <https://manfred.life/sshportal>
@@ -34,6 +33,7 @@
 - [ory/kratos](https://github.com/ory/kratos): Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service. <https://www.ory.sh/kratos>
 - [ory/hydra](https://github.com/ory/hydra): OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. <https://www.ory.sh/hydra>
 - [ory/keto](https://github.com/ory/keto): Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. <https://www.ory.sh>
+- [zitadel/zitadel](https://github.com/zitadel/zitadel): ZITADEL - Identity infrastructure, simplified for you. <https://zitadel.com>
 
 ## Worksuites
 
@@ -41,6 +41,7 @@
 
 ## Dev tools
 
+- [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH): ContainerSSH: Launch containers on demand <https://containerssh.io>
 - [coroot/coroot](https://github.com/coroot/coroot): A monitoring and troubleshooting tool for microservice architectures. <https://coroot.com/docs/coroot-community-edition>
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3): Volatility 3.0 development <http://volatilityfoundation.org>
 - [facebook/sapling](https://github.com/facebook/sapling): A Scalable, User-Friendly Source Control System.
@@ -64,7 +65,7 @@
 - [jetpack-io/devbox](https://github.com/jetpack-io/devbox): Instant, easy, predictable shells and containers.
 - [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Reproducible development environment for AI/ML <https://envd.tensorchord.ai/>
 - [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative, Reproducible, and Composable Developer Environments <https://devenv.sh>
-- [loft-sh/devpod](https://github.com/loft-sh/devpod): Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. <https://devpod.sh>
+- 🌟 [loft-sh/devpod](https://github.com/loft-sh/devpod): Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. <https://devpod.sh>
 
 ### Documents
 
@@ -195,6 +196,7 @@
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook): The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams <https://ctohb.com>
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer): Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 - [yashk2810/google-interview-university](https://github.com/yashk2810/google-interview-university): A complete daily plan for studying to become a Google software engineer.
+- [DorukKorkmaz/soft-skills](https://github.com/DorukKorkmaz/soft-skills): Summary of the book Soft Skills: The software developer's life manual by John Sonmez
 
 ### Open Source & Community
 

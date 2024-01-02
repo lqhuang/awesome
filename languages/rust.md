@@ -1,6 +1,8 @@
 # Rust
 
-## Books
+## Resources
+
+### Books
 
 - [lborb/book](https://github.com/lborb/book): The Little Book of Rust Books <https://lborb.github.io/book>
 - [sger/RustBooks](https://github.com/sger/RustBooks): List of Rust books
@@ -15,7 +17,7 @@
 - [night-cruise/async-rust](https://github.com/night-cruise/async-rust): 这是一本电子书，旨在介绍 Rust 中 async/await 语法和异步运行时的原理和工作机制。 <https://night-cruise.github.io/async-rust/>
 - [Effective Rust](https://www.lurklurk.org/effective-rust/cover.html): 35 Specific Ways to Improve Your Rust Code
 
-## Readings / Tutorials
+### Readings / Tutorials
 
 - [nikomatsakis/how-to-rust](https://github.com/nikomatsakis/how-to-rust): A collection of blog posts and links that talk about how to successfully use Rust.
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust): 🦀 How to minimize Rust binary size 📦
@@ -139,6 +141,7 @@
 - [smol-rs/concurrent-queue](https://github.com/smol-rs/concurrent-queue): Concurrent multi-producer multi-consumer queue
 - [fereidani/kanal](https://github.com/fereidani/kanal): Fastest sync and async channel that Rust deserves
 - [mitsuhiko/fragile](https://github.com/mitsuhiko/fragile): Utility wrapper to send non send types to other threads safely https://github.com/Marthog/rust-stm
+- [bytedance/ipmb](https://github.com/bytedance/ipmb): An interprocess message bus system built in Rust.
 
 ### Lock & synchronization
 
@@ -346,6 +349,7 @@
 - 🌟 [withoutboats/heck](https://github.com/withoutboats/heck): oh heck, a case conversion library
 - [dropbox/rust-brotli](https://github.com/dropbox/rust-brotli): Brotli compressor and decompressor written in rust that optionally avoids the stdlib <https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less>
 - [google/mdbook-i18n-helpers](https://github.com/google/mdbook-i18n-helpers): Translation support for mdbook. The plugins here give you a structured way to maintain a translated book.
+- [camino-rs/camino](https://github.com/camino-rs/camino): Like Rust's std::path::Path, but UTF-8. <https://docs.rs/camino>
 
 ## Domain related
 

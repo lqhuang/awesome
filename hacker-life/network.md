@@ -158,4 +158,3 @@
 - https://www.islegitsite.com/
 - https://www.ssllabs.com/ssltest/
 - https://www.cloudflare.com/ssl/encrypted-sni/
-
