@@ -15,6 +15,8 @@
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig): aiconfig -- config-driven, source control friendly AI application development <https://aiconfig.lastmileai.dev>
 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel): Integrate cutting-edge LLM technology quickly and easily into your apps <https://aka.ms/semantic-kernel>
+  - [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory): Index and query any data using LLM and natural language, tracking sources and showing citations.
+  - [kinfey/SemanticKernelCookBook](https://github.com/kinfey/SemanticKernelCookBook): Semantic Kernel's cook book
 - [microsoft/promptflow](https://github.com/microsoft/promptflow): Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring. <https://microsoft.github.io/promptflow/>
 - [microsoft/guidance](https://github.com/microsoft/guidance): A guidance language for controlling large language models.
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community

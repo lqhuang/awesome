@@ -98,3 +98,4 @@
 - [xyz2tex/svg2tikz](https://github.com/xyz2tex/svg2tikz): An Inkscape extension for exporting SVG paths as TikZ/PGF paths <http://xyz2tex.github.io/svg2tikz/>
 - [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style): GB/T 7714-2015 BibTeX Style
 - [jonbarron/tabilize](https://github.com/jonbarron/tabilize): Simple code for generating a color-coded latex table from raw data
+- 🌟 [stone-zeng/latex-talk](https://github.com/stone-zeng/latex-talk): Modern LaTeX in a Nutshell

@@ -222,6 +222,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle): A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code. <http://formidable.com/open-source/spectacle/>
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy): Fast and secure standalone server for resizing and converting remote images <https://imgproxy.net>
 - [evilmartians/figma-polychrom](https://github.com/evilmartians/figma-polychrom): Figma plugin for displaying the contrast level and font size recommendations according to the APCA method <https://www.figma.com/community/plugin/1281280685402026529/polychrom>
+- [gridaco/cors.sh](https://github.com/gridaco/cors.sh): Sick of CORS Errors? <https://cors.sh>
 
 ## Visualization
 

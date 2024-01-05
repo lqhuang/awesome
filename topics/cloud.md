@@ -102,12 +102,19 @@
 - [radius-project/radius](https://github.com/radius-project/radius): Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps. <https://radapp.io>
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv): CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using LVM.
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold): Easy and Repeatable Kubernetes Development <https://skaffold.dev/>
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard): The missing UI for Helm - visualize your releases
 
 ## Hashicorp
 
 - [hashicorp/nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler): Nomad Autoscaler brings autoscaling to your Nomad workloads.
 - [cosmonic/netreap](https://github.com/cosmonic/netreap): A Cilium controller implementation for Nomad <https://netreap.io>
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint): A Pluggable Terraform Linter
+- [lonegunmanb/avmfix](https://github.com/lonegunmanb/avmfix): No description, website, or topics provided.
+  - [introduction-terraform](https://lonegunmanb.github.io/introduction-terraform/)
+  - [packer-handbook](https://lonegunmanb.github.io/packer-handbook/)
+  - [essential-vault](https://lonegunmanb.github.io/essential-vault/)
+- [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov): Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. <https://www.checkov.io/>
+  - [bridgecrewio/checkov-action](https://github.com/bridgecrewio/checkov-action): This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.
 
 ## Infrastructure less
 
@@ -121,6 +128,7 @@
   - I love this landing page, too 😅
 - [Octoml](https://octoml.ai/): OctoAI is world-class compute infrastructure for tuning and running models that wow your users.
 - [zeabur/zeabur](https://github.com/zeabur/zeabur): A platform that helps you deploy services with one click. <https://zeabur.com>
+- [Flightcontrol](https://www.flightcontrol.dev/): Developer-first AWS infrastructure. Designed for teams that want the benefits of AWS without hiring devops.
 
 ## Could Foundry
 

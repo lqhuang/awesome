@@ -10,6 +10,7 @@
 - [Introduction 2016 NUMA Deep Dive Series](https://frankdenneman.nl/2016/07/06/introduction-2016-numa-deep-dive-series/)
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja): This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
   - [grahamking/perf-ninja-rs](https://github.com/grahamking/perf-ninja-rs): Rust port of dendibakh/perf-ninja
+- [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency): Measures the latency between CPU cores
 
 ## Linux Tuning
 

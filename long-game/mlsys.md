@@ -46,6 +46,7 @@
 - [facebookresearch/Pearl](https://github.com/facebookresearch/Pearl): A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta.
 - [salesforce/jaxformer](https://github.com/salesforce/jaxformer): Minimal library to train LLMs on TPU in JAX with pjit().
 - [elixir-nx/nx](https://github.com/elixir-nx/nx): Multi-dimensional arrays (tensors) and numerical definitions for Elixir
+- [CarperAI/trlx](https://github.com/CarperAI/trlx): A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
 
 ### Optimization
 
@@ -120,6 +121,7 @@
 - [vllm-project/vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs <https://vllm.readthedocs.io>
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm): Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. <https://mlc.ai/web-llm>
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for operating large language models(LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
+- [predibase/lorax](https://github.com/predibase/lorax): Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs <https://predibase.github.io/lorax/>
 
 ### Benchmark
 

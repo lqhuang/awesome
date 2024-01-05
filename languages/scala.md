@@ -14,6 +14,7 @@
 - [Project Panama: Interconnecting JVM and native code](https://openjdk.org/projects/panama/)
 - [Project Valhalla](https://openjdk.org/projects/valhalla/)
 - [Project ZGC](https://wiki.openjdk.org/display/zgc)
+- [softinio/scalanews](https://github.com/softinio/scalanews): Scala News - A Community Crowd Sourced newsletter using RSS <https://www.scalanews.net>
 
 ### Exercises
 
@@ -169,6 +170,7 @@
 - https://github.com/vpavkin/dtc
 - https://github.com/cquiroz/scala-java-time
 - [conduktor/scala-api-template](https://github.com/conduktor/scala-api-template): Example Scala API to bootstrap new projects <https://www.conduktor.io>
+- [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper): A Scala library for scraping content from HTML pages
 
 ## Stream / Effect systems / Experiments
 

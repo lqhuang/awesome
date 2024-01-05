@@ -67,6 +67,10 @@
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer): Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser! <https://dogbolt.org>
 - [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux): Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 
+### Docs
+
+- [jnikula/hawkmoth](https://github.com/jnikula/hawkmoth): Hawkmoth - Sphinx Autodoc for C <https://jnikula.github.io/hawkmoth/>
+
 ### Profiles
 
 - [gperftools/gperftools](https://github.com/gperftools/gperftools): Main gperftools repository
@@ -130,6 +134,8 @@
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI): 💻 C++ Functional Terminal User Interface. ❤️
 - [intel/hyperscan](https://github.com/intel/hyperscan): High-performance regular expression matching library <https://www.hyperscan.io>
 - 🌟 [p-ranav/argparse](https://github.com/p-ranav/argparse): Argument Parser for Modern C++
+- [zrax/string_theory](https://github.com/zrax/string_theory): Flexible modern C++ string library with type-safe formatting
+- [unicode-org/icu4x](https://github.com/unicode-org/icu4x): Solving i18n for client-side and resource-constrained environments. <https://icu4x.unicode.org>
 
 ## Compiler beyond default Clang
 

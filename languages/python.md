@@ -125,6 +125,7 @@
 - [simplistix/sybil](https://github.com/simplistix/sybil): Automated testing for the examples in your documentation. <https://sybil.readthedocs.io/en/latest/>
 - [life4/deal](https://github.com/life4/deal): 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free. <https://deal.readthedocs.io/>
 - [JamesHutchison/pytest-hot-reloading](https://github.com/JamesHutchison/pytest-hot-reloading): A hot reloading pytest daemon, implemented as a plugin
+- 🌟 [pschanely/CrossHair](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
 
 ### Performance profile
 
