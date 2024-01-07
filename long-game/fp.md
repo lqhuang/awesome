@@ -107,7 +107,7 @@
 - [Kindelia/HVM](https://github.com/Kindelia/HVM): A massively parallel, optimal functional runtime in Rust
 - [HigherOrderCO/hvm-core](https://github.com/HigherOrderCO/hvm-core): No description, website, or topics provided.
 - [HigherOrderCO/Kind](https://github.com/HigherOrderCO/Kind): A next-gen functional language <https://kindelia.org/>
-- [google-research/dex-lang](https://github.com/google-research/dex-lang): Research language for array processing in the Haskell/ML family
+- 🌟 [google-research/dex-lang](https://github.com/google-research/dex-lang): Research language for array processing in the Haskell/ML family
 - [unisonweb/unison](https://github.com/unisonweb/unison): A friendly programming language from the future <https://unison-lang.org>
 - [effekt-lang/effekt](https://github.com/effekt-lang/effekt): A research language with effect handlers and lightweight effect polymorphism <https://effekt-lang.org/>
 - [inko-lang/inko](https://github.com/inko-lang/inko): A language for building concurrent software with confidence <http://inko-lang.org/>

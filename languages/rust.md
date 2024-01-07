@@ -25,7 +25,7 @@
 - [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines): Rust API guidelines https://rust-lang.github.io/api-guidelines/
 - [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge): Information useful to people contributing to Rust <https://forge.rust-lang.org>
 - [nikomatsakis/rustacean-principles](https://github.com/nikomatsakis/rustacean-principles): This is an experimental repository working towards a set of principles for Rust. <https://rustacean-principles.netlify.app>
-- [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust): About conncurrency programming via rust
+- 🌟 [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust): About conncurrency programming via rust
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison): A comparison of some web frameworks and libs written in Rust
 - [Possible Rust](https://www.possiblerust.com/): Learning what’s possible in Rust.
 - [文科生也能懂的 Rust async 机制](https://blog.pan93.com/what-is-rust-async-cn/)

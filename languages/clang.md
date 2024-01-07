@@ -122,12 +122,17 @@
 ## SIMD
 
 - [google/highway](https://github.com/google/highway): Performance-portable, length-agnostic SIMD with runtime dispatch
-- [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd): C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE)
+- 🌟 [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd): C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE)
 - [simdutf/simdutf](https://github.com/simdutf/simdutf): Unicode routines (UTF8, UTF16, UTF32): billions of characters per second using SSE2, AVX2, NEON, AVX-512. Part of Node.js. <https://simdutf.github.io/simdutf>
 - [VcDevel/std-simd](https://github.com/VcDevel/std-simd): std::experimental::simd for GCC [ISO/IEC TS 19570:2018]
 - [mattkretz/wg21-papers](https://github.com/mattkretz/wg21-papers): my papers to WG21 — the C++ committee
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde): Implementations of SIMD instruction sets for systems which don't natively support them. <https://simd-everywhere.github.io/blog>
 - [Arm Neon](https://developer.arm.com/Architectures/Neon): Arm Neon technology is an advanced Single Instruction Multiple Data (SIMD) architecture extension for the A-profile and R-profile processors.
+- [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD): Vector Similarity Functions 3x-200x Faster than SciPy and NumPy — for Python, JavaScript, and C 11, supporting f64, f32, f16, i8, and binary vectors using SIMD for both x86 AVX2 & AVX-512 and Arm NEON & SVE 📐 <https://ashvardanian.com/posts/simsimd-faster-scipy/>
+  - [SciPy distances... up to 200x faster with AVX-512 & SVE 📏](https://ashvardanian.com/posts/simsimd-faster-scipy/)
+  - [Python, C, Assembly - 2'500x Faster Cosine Similarity 📐](https://ashvardanian.com/posts/python-c-assembly-comparison/)
+- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla): Up to 10x faster string search, split, sort, and shuffle for long strings and multi-gigabyte files in Python and C, leveraging SIMD with just a few lines of Arm Neon and x86 AVX2 & AVX-512 intrinsics 🦖 <https://ashvardanian.com/posts/stringzilla/>
+  - [StringZilla: 5x faster strings with SIMD & SWAR 🦖](https://ashvardanian.com/posts/stringzilla/)
 
 ## Utils
 

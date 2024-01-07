@@ -225,6 +225,7 @@
 - [h2oai/datatable](https://github.com/h2oai/datatable): A Python package for manipulating 2-dimensional tabular data structures <https://datatable.readthedocs.io>
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
 - [man-group/dtale](https://github.com/man-group/dtale): Visualizer for pandas data structures <http://alphatechadmin.pythonanywhere.com>
+- [dimastbk/python-calamine](https://github.com/dimastbk/python-calamine): Python binding for Rust's library for reading excel and odf file - calamine. <https://pypi.org/project/python-calamine/>
 
 ### Jupyter ecosystem
 
@@ -256,7 +257,7 @@
 - [sansyrox/robyn](https://github.com/sansyrox/robyn): Robyn is a fast and extensible async python web server with a rust runtime <https://robyn.tech>
 - [emmett-framework/granian](https://github.com/emmett-framework/granian): A Rust HTTP server for Python applications
 - 📝 [falconry/falcon](https://github.com/falconry/falcon): The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale. <https://falcon.readthedocs.io/en/stable/>
-- [unum-cloud/ujrpc](https://github.com/unum-cloud/ujrpc): Up to 100x Faster FastAPI. JSON-RPC with io_uring, SIMDJSON, and pure CPython bindings
+- [unum-cloud/ucall](https://github.com/unum-cloud/ucall): Remote Procedure Calls - 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & 🔜 REST over io_uring and SIMDJSON ☎️ <https://unum-cloud.github.io/ucall/>
 - 🌟 [django/asgiref](https://github.com/django/asgiref): ASGI specification and utilities <https://asgi.readthedocs.io/en/latest>
 - [spec-first/connexion](https://github.com/spec-first/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support <https://connexion.readthedocs.io/en/latest>
 - 🌟 [litestar-org/litestar](https://github.com/litestar-org/litestar): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs <https://litestar.dev/>
@@ -442,7 +443,7 @@
 
 ## Misc
 
-- [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write Kubernetes operators in just a few lines of code
+- 🌟 [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write Kubernetes operators in just a few lines of code
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf): A Python library for reading and writing PDF, powered by qpdf
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py): Type-safe and powerful Python library to generate SVG files
 - [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org. <https://opendev.org/openstack/stevedore>
@@ -458,6 +459,7 @@
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched <http://ocrmypdf.readthedocs.io/>
 - [the-real-tokai/grablinks](https://github.com/the-real-tokai/grablinks): A simple and streamlined Python script to extract and filter links from a remote HTML resource.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy): Turns Data and AI algorithms into full web applications in no time. <https://www.taipy.io>
+- [jiisanda/docflow](https://github.com/jiisanda/docflow): DocFlow is a powerful Document Management API designed to streamline document handling, including seamless uploading, downloading, organization, versioning, sharing, and more. <https://documenter.getpostman.com/view/20984268/2s9YRGxUcp>
 
 ## Visualization
 
