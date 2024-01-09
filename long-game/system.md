@@ -11,6 +11,8 @@
 - [dendibakh/perf-ninja](https://github.com/dendibakh/perf-ninja): This is an online course where you can learn and master the skill of low-level performance analysis and tuning.
   - [grahamking/perf-ninja-rs](https://github.com/grahamking/perf-ninja-rs): Rust port of dendibakh/perf-ninja
 - [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency): Measures the latency between CPU cores
+- 🌟 [The Deadlock Empire](https://deadlockempire.github.io/): Slay dragons, master concurrency!
+  - An interactive programming game!
 
 ## Linux Tuning
 

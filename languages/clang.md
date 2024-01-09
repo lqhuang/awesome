@@ -53,6 +53,7 @@
 - [google/sanitizers](https://github.com/google/sanitizers): AddressSanitizer, ThreadSanitizer, MemorySanitizer
 - [Clang Static Analyzer](https://clang-analyzer.llvm.org/): The Clang Static Analyzer is a source code analysis tool that finds bugs in C, C++, and Objective-C programs. <https://clang.llvm.org/docs/ClangStaticAnalyzer.html>
 - [naivesystems/analyze](https://github.com/naivesystems/analyze): NaiveSystems Analyze is a static analysis tool for code security and compliance.
+- [DynamoRIO/drmemory](https://github.com/DynamoRIO/drmemory): Memory Debugger for Windows, Linux, Mac, and Android
 
 ### Test suites
 

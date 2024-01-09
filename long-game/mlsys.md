@@ -256,6 +256,8 @@
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop): An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. <https://nvitop.readthedocs.io/>
 - [Syllo/nvtop](https://github.com/Syllo/nvtop): GPUs process monitoring for AMD, Intel and NVIDIA
 - [wookayin/gpustat](https://github.com/wookayin/gpustat): 📊 A simple command-line utility for querying and monitoring GPU status
+- [facebook/Ax](https://github.com/facebook/Ax): Adaptive Experimentation Platform <https://ax.dev>
+- [google/fiddle](https://github.com/google/fiddle): Fiddle is a Python-first configuration library particularly well suited to ML applications. Fiddle enables deep configurability of parameters in a program, while allowing configuration to be expressed in readable and maintainable Python code.
 
 ## Misc
 

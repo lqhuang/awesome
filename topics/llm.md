@@ -74,6 +74,7 @@
 ### Mistral AI
 
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src): Reference implementation of Mistral AI 7B v0.1 model. <https://mistral.ai/>
+- [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading): Run Mixtral-8x7B models in Colab or consumer desktops
 
 ### Multi Modal
 
