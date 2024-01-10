@@ -350,6 +350,7 @@
 - [dropbox/rust-brotli](https://github.com/dropbox/rust-brotli): Brotli compressor and decompressor written in rust that optionally avoids the stdlib <https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less>
 - [google/mdbook-i18n-helpers](https://github.com/google/mdbook-i18n-helpers): Translation support for mdbook. The plugins here give you a structured way to maintain a translated book.
 - [camino-rs/camino](https://github.com/camino-rs/camino): Like Rust's std::path::Path, but UTF-8. <https://docs.rs/camino>
+- [alexcrichton/filetime](https://github.com/alexcrichton/filetime): Accessing file timestamps in a platform-agnostic fashion in Rust
 
 ## Domain related
 

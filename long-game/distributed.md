@@ -2,7 +2,7 @@
 
 ## Resources
 
-- [Learn TLA+](https://learntla.com/): https://github.com/hwayne/learntla-v2
+- [hwayne/learntla-v2](https://github.com/hwayne/learntla-v2): Learn TLA+ for free! No prior experience necessary! <https://www.learntla.com>
 - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn): Raft 一致性算法论文的中文翻译
 - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn): Raft 博士论文的中文翻译
 - [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list): A list of papers about distributed consensus. <https://heidihoward.github.io/distributed-consensus-reading-list>

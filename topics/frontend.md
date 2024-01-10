@@ -16,6 +16,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners): 24 Lessons, 12 Weeks, Get Started as a Web Developer <https://microsoft.github.io/Web-Dev-For-Beginners/>
 - [Component Odyssey](https://component-odyssey.com/): Navigating Your Component Library Journey. Learn how to easily build, manage, and distribute your component library in an ever-increasing complex web development landscape.
   - [Writing Components That Work In Any Frontend Framework](https://component-odyssey.com/articles/01-writing-components-that-work-in-any-framework)
+- [A summary of libraries that are commonly used with React](https://www.frontendundefined.com/posts/summaries/common-react-libraries/)
+- [Common Mistakes When Using React useState Hook (With Code Examples)](https://blog.akshaykaushik.eu.org/common-mistakes-when-using-react-usestate-hook)
 
 ### CSS collections
 
@@ -215,6 +217,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that helps you debug components.
 - 🌟 [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source): A better API for making Event Source requests, with all the features of fetch()
   - Really?: You cannot pass in custom request headers (for making `EventSource` requests)
+- [QuiiBz/next-international](https://github.com/QuiiBz/next-international): Type-safe internationalization (i18n) for Next.js <https://next-international.vercel.app>
 
 ### Misc
 

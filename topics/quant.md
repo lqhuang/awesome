@@ -45,6 +45,8 @@
 - 📝 [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot): This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though the Brave browser to allow me to continuously improve the script.
 - [quantmind/quantflow](https://github.com/quantmind/quantflow): Quantitative finance and derivative pricing <https://quantmind.github.io/quantflow/>
 - [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster): TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning 🔥 ⚡ 🌈
+- [chronoxor/CppTrader](https://github.com/chronoxor/CppTrader): High performance components for building Trading Platform such as ultra fast matching engine, order book processor
+  - How fast for ultra fast matching engine?
 
 ## Backtesting
 

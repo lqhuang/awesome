@@ -330,6 +330,7 @@
 ### Utils
 
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python module for decorators, wrappers and monkey patching.
+- [Tinche/tightwrap](https://github.com/Tinche/tightwrap): A type-safe `functools.wraps`.
 - 🌟 [hynek/stamina](https://github.com/hynek/stamina): Good retries made easy.
 - [litl/backoff](https://github.com/litl/backoff): Python library providing function decorators for configurable backoff and retry
 - [nficano/humps](https://github.com/nficano/humps): Convert strings (and dictionary keys) between snake case, camel case and pascal case in Python. Inspired by Humps for Node <http://humps.readthedocs.io>
@@ -370,6 +371,7 @@
 - [oremanj/aioguest](https://github.com/oremanj/aioguest): Run asyncio and another event loop in the same thread
 - [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet): Lightweight in-process concurrent programming
 - 📝 [aio-libs/janus](https://github.com/aio-libs/janus): Thread-safe asyncio-aware queue for Python
+- [mjpieters/aiolimiter](https://github.com/mjpieters/aiolimiter): An efficient implementation of a rate limiter for asyncio. <https://aiolimiter.readthedocs.io/en/latest/>
 
 ### Middleware
 
@@ -426,7 +428,7 @@
 - [pyston/pyston](https://github.com/pyston/pyston): A faster and highly-compatible implementation of the Python programming language. <https://www.pyston.org/>
 - [shedskin/shedskin](https://github.com/shedskin/shedskin): Shed Skin is a restricted-Python-to-C++ compiler. Read the introduction below to learn about the restrictions. <https://shedskin.github.io>
 - [evhub/coconut](https://github.com/evhub/coconut): Simple, elegant, Pythonic functional programming. <http://coconut-lang.org>
-- [facebookincubator/cinder](https://github.com/facebookincubator/cinder): Cinder is Meta's internal performance-oriented production version of CPython. <https://trycinder.com>
+- 🌟 [facebookincubator/cinder](https://github.com/facebookincubator/cinder): Cinder is Meta's internal performance-oriented production version of CPython. <https://trycinder.com>
 - [lcompilers/lpython](https://github.com/lcompilers/lpython): Python compiler <https://lpython.org/>
 
 ### Parsers

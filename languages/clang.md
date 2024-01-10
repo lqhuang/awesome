@@ -109,6 +109,7 @@
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
 - 🌟 [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
   - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust): Super-fast float parser in Rust (now part of Rust core) <https://docs.rs/fast-float>
+- [TheNumbat/rpp](https://github.com/TheNumbat/rpp): Minimal Rust-inspired C++20 STL replacement
 
 ## Memory allocator
 

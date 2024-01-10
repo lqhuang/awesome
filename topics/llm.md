@@ -8,7 +8,8 @@
   - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow): ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [langgenius/dify](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. <https://dify.ai>
-
+- [embedchain/embedchain](https://github.com/embedchain/embedchain): The Open Source RAG framework <https://docs.embedchain.ai>
+  - [Demo: Chat with PDF](https://ec-chat-pdf.streamlit.app/)
 - [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex (formerly GPT Index) is a data framework for your LLM applications <https://docs.llamaindex.ai>
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app): LLM App is a production framework for building and serving AI applications and LLM-enabled real-time data pipelines. <https://pathway.com/developers/showcases/llm-app-pathway/>
 - [safevideo/autollm](https://github.com/safevideo/autollm): Ship RAG based LLM web apps in seconds.
@@ -48,6 +49,7 @@
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla): Gorilla: An API store for LLMs <https://gorilla.cs.berkeley.edu/>
 - 🌟 [r2d4/rellm](https://github.com/r2d4/rellm): Exact structure out of any language model completion.
 - [smpanaro/more-ane-transformers](https://github.com/smpanaro/more-ane-transformers): Run transformers (incl. LLMs) on the Apple Neural Engine.
+- [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured): Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines. <https://www.unstructured.io/>
 
 ## Model
 
