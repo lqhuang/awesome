@@ -115,6 +115,7 @@
 - [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler): LLMCompiler: An LLM Compiler for Parallel Function Calling <https://arxiv.org/abs/2312.04511>
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks. <https://mlabonne.github.io/blog/>
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: open-source LLM chatbots that you can run anywhere <https://gpt4all.io>
+- [nalgeon/pokitoki](https://github.com/nalgeon/pokitoki): Humble ChatGPT Telegram Bot
 
 ### LLM Prompts
 

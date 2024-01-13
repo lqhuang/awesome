@@ -203,6 +203,7 @@
 - [xl0/lovely-jax](https://github.com/xl0/lovely-jax): JAX Arrays for human consumption <https://xl0.github.io/lovely-jax>
 - [apple/axlearn](https://github.com/apple/axlearn): AXLearn is a library built on top of JAX and XLA to support development of large-scale deep learning models.
 - [facebookresearch/minimax](https://github.com/facebookresearch/minimax): Efficient baselines for autocurricula in JAX.
+- [JiaYaobo/fenbux](https://github.com/JiaYaobo/fenbux): A Simple Statistical Distribution Library in JAX <https://jiayaobo.github.io/fenbux/>
 
 ### DeepMind specialization
 

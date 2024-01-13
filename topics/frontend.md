@@ -18,6 +18,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [Writing Components That Work In Any Frontend Framework](https://component-odyssey.com/articles/01-writing-components-that-work-in-any-framework)
 - [A summary of libraries that are commonly used with React](https://www.frontendundefined.com/posts/summaries/common-react-libraries/)
 - [Common Mistakes When Using React useState Hook (With Code Examples)](https://blog.akshaykaushik.eu.org/common-mistakes-when-using-react-usestate-hook)
+- [How React server components work: an in-depth guide](https://www.plasmic.app/blog/how-react-server-components-work)
+  - What I'm interested: RSC Wire Format
+  - - [alvarlagerlof/rsc-parser](https://github.com/alvarlagerlof/rsc-parser): A parser for the React Server components when sent over the network <https://rsc-parser.vercel.app>
 
 ### CSS collections
 

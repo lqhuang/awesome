@@ -28,6 +28,7 @@
 - 🌟 [JeanHuguesdeRaigniac/effects-landscape](https://github.com/JeanHuguesdeRaigniac/effects-landscape): Effects libraries in Haskell
   - [One Step Beyond](https://github.com/JeanHuguesdeRaigniac/effects-landscape/tree/main/v0)
   - [All Cats Are Grey](https://github.com/JeanHuguesdeRaigniac/effects-landscape/tree/main/v1)
+- [State of the Haskell ecosystem (@Gabriella439)](https://github.com/Gabriella439/post-rfc/blob/main/sotu.md)
 
 ### Tutorials
 
