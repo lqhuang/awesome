@@ -13,6 +13,8 @@
 - [cloudcommunity/Free-Hosting](https://github.com/cloudcommunity/Free-Hosting): Overview of free hosting offers, incl. compute hosting, app hosting, databases, serverless etc. <https://cloudstudy.net>
 - [cloudcommunity/Cloud-Free-Tier-Comparison](https://github.com/cloudcommunity/Cloud-Free-Tier-Comparison): Comparing the free tier offers of the major cloud providers like AWS, Azure, GCP, Oracle etc. <https://cloudstudy.net>
 - [learnk8s](https://learnk8s.io/): Kubernetes training for engineers. Develop the knowledge and skills to get the most out of Kubernetes with hands-on online courses and instructor-led classes.
+- [virtual-kubelet/systemk](https://github.com/virtual-kubelet/systemk): Systemk is a systemd backend for the virtual-kubelet. Instead of starting containers, you start systemd units.
+  - Interesting idea that manipulating systemd units like containers
 
 ## OS
 

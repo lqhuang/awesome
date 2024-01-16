@@ -4,6 +4,8 @@
 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. <http://fffaraz.github.io/awesome-cpp/>
 - [yuchdev/CppBooks](https://github.com/yuchdev/CppBooks): A comprehensive catalog of modern and classic books on C++ programming language
+- [Clang Compiler User’s Manual](https://clang.llvm.org/docs/UsersManual.html)
+- [Clang command line argument reference](https://clang.llvm.org/docs/ClangCommandLineReference.html)
 
 ### Readings
 
@@ -121,7 +123,7 @@
 
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire): ArrayFire: a general purpose GPU library. <https://arrayfire.com>
 
-## SIMD
+## HPC / SIMD / Vectorization
 
 - [google/highway](https://github.com/google/highway): Performance-portable, length-agnostic SIMD with runtime dispatch
 - 🌟 [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd): C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE)
@@ -135,6 +137,7 @@
   - [Python, C, Assembly - 2'500x Faster Cosine Similarity 📐](https://ashvardanian.com/posts/python-c-assembly-comparison/)
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla): Up to 10x faster string search, split, sort, and shuffle for long strings and multi-gigabyte files in Python and C, leveraging SIMD with just a few lines of Arm Neon and x86 AVX2 & AVX-512 intrinsics 🦖 <https://ashvardanian.com/posts/stringzilla/>
   - [StringZilla: 5x faster strings with SIMD & SWAR 🦖](https://ashvardanian.com/posts/stringzilla/)
+- [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning): The PennyLane-Lightning plugin provides a fast state-vector simulator written in C++ for use with PennyLane <https://docs.pennylane.ai/projects/lightning>
 
 ## Utils
 

@@ -117,6 +117,7 @@
 - [FMInference/FlexGen](https://github.com/FMInference/FlexGen): Running large language models on a single GPU for throughput-oriented scenarios.
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa): Training and serving large-scale neural networks with auto parallelization. <https://alpa.ai>
 - 🌟 [ml-explore/mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
+  - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples): Examples in the MLX framework
 - [rustformers/llm](https://github.com/rustformers/llm): Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
 - [vllm-project/vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs <https://vllm.readthedocs.io>
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm): Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. <https://mlc.ai/web-llm>

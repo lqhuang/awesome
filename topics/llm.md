@@ -37,6 +37,7 @@
 - [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json): Structured and typehinted GPT responses in Python
 - [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer): Enforce the output format (JSON Schema, Regex etc) of a language model
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori): A reactive runtime for building durable AI agents <https://docs.thousandbirds.ai>
+- [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails): Adding guardrails to large language models. <https://docs.guardrailsai.com/>
 
 ### Tools
 
@@ -101,6 +102,7 @@
 - [llSourcell/DoctorGPT](https://github.com/llSourcell/DoctorGPT): DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM): Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath
 - [lyogavin/Anima](https://github.com/lyogavin/Anima): 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
+- [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit): No description, website, or topics provided.
 
 ## Applications
 

@@ -126,6 +126,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants): 🦄 Tailwindcss first-class variant API <https://tailwind-variants.org>
 - 🌟 [joe-bell/cva](https://github.com/joe-bell/cva): Class Variance Authority <https://cva.style>
 - 🌟 [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge): Merge Tailwind CSS classes without style conflicts <https://npmjs.com/package/tailwind-merge>
+- [gregberge/twc](https://github.com/gregberge/twc): Create reusable React + Tailwind CSS components in one line ✨ <https://react-twc.vercel.app>
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace): A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾 <https://shoelace.style>
   - CSS framework for Web Components
 - 🌟 [facebook/stylex](https://github.com/facebook/stylex): StyleX is the styling system for ambitious user interfaces. <https://stylexjs.com>
@@ -205,6 +206,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [pmndrs/jotai](https://github.com/pmndrs/jotai): 👻 Primitive and flexible state management for React <https://jotai.org>
   - [saasquatch/bunshi](https://github.com/saasquatch/bunshi): Molecule pattern for jotai, valtio, zustand, nanostores, xstate, react and vue <https://www.bunshi.org/>
   - [himself65/jotai-ai](https://github.com/himself65/jotai-ai): A Jōtai utility package compatible with Vercel AI SDK
+  - [jotaijs/jotai-cache](https://github.com/jotaijs/jotai-cache): No description, website, or topics provided.
 - [statelyai/xstate](https://github.com/statelyai/xstate):State machines and statecharts for the modern web. <https://xstate.js.org/docs>
 - 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next immutable state by mutating the current one <https://immerjs.github.io/immer>
 
@@ -221,6 +223,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source): A better API for making Event Source requests, with all the features of fetch()
   - Really?: You cannot pass in custom request headers (for making `EventSource` requests)
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international): Type-safe internationalization (i18n) for Next.js <https://next-international.vercel.app>
+- [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string. <https://nuqs.47ng.com>
 
 ### Misc
 

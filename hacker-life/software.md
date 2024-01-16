@@ -157,6 +157,7 @@
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust): ✨ Rust 版 ServerStatus 探针、威力加强版 <https://ssr.rs/>
 - 🌟 [ekzhang/sshx](https://github.com/ekzhang/sshx): Fast, collaborative live terminal sharing over the web <https://sshx.io>
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io): 📚 LookScanned.io - Make your PDFs look scanned <https://lookscanned.io>
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web <https://tsl0922.github.io/ttyd>
 
 ### Email
 

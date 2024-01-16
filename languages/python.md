@@ -447,6 +447,8 @@
 
 - 🌟 [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write Kubernetes operators in just a few lines of code
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf): A Python library for reading and writing PDF, powered by qpdf
+- [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax): A Python library to inspect and modify the internal structure of a PDF file <https://pdfsyntax.dev>
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched <http://ocrmypdf.readthedocs.io/>
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py): Type-safe and powerful Python library to generate SVG files
 - [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org. <https://opendev.org/openstack/stevedore>
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui): Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more! <https://ptg.bczsalba.com>
@@ -458,7 +460,6 @@
 - 🌟 [fatiando/pooch](https://github.com/fatiando/pooch): A friend to fetch your data files <https://www.fatiando.org/pooch>
 - [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum): Plumbum: Shell Combinators <https://plumbum.readthedocs.io>
 - [beeware/briefcase](https://github.com/beeware/briefcase): Tools to support converting a Python project into a standalone native application. <https://briefcase.readthedocs.io/>
-- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched <http://ocrmypdf.readthedocs.io/>
 - [the-real-tokai/grablinks](https://github.com/the-real-tokai/grablinks): A simple and streamlined Python script to extract and filter links from a remote HTML resource.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy): Turns Data and AI algorithms into full web applications in no time. <https://www.taipy.io>
 - [jiisanda/docflow](https://github.com/jiisanda/docflow): DocFlow is a powerful Document Management API designed to streamline document handling, including seamless uploading, downloading, organization, versioning, sharing, and more. <https://documenter.getpostman.com/view/20984268/2s9YRGxUcp>

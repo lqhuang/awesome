@@ -133,6 +133,7 @@
 - [keephq/keep](https://github.com/keephq/keep): Open source alerts management platform <https://www.keephq.dev>
 - 🌟 [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus): The open-source status page <https://openstatus.dev>
 - [Uptime Robot](https://uptimerobot.com/)
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit): Cockpit is a web-based graphical interface for servers. <http://www.cockpit-project.org/>
 
 ### Observability: Logging / Metrics / APM
 
@@ -143,11 +144,11 @@
 - [highlight/highlight](https://github.com/highlight/highlight): highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. <https://app.highlight.io>
 - 🌟 [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics): VictoriaMetrics: fast, cost-effective monitoring solution and time series database <https://victoriametrics.com>
 - 🌟 [fluent/fluent-bit](https://github.com/fluent/fluent-bit): Fast and Lightweight Logs and Metrics processor for Linux, BSD, OSX and Windows <https://fluentbit.io>
-- [parca-dev/parca](https://github.com/parca-dev/parca): Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. <https://parca.dev>
 - 🌟 [vectordotdev/vector](https://github.com/vectordotdev/vector): A high-performance observability data pipeline. <https://vector.dev>
 - [megaease/easeprobe](https://github.com/megaease/easeprobe): A simple, standalone, and lightweight tool that can do health/status checking, written in Go.
 - [facebookincubator/dynolog](https://github.com/facebookincubator/dynolog): Dynolog is a telemetry daemon for performance monitoring and tracing. It exports metrics from different components in the system like the linux kernel, CPU, disks, Intel PT, GPUs etc. Dynolog also integrates with pytorch and can trigger traces for distributed training applications.
 - [SnellerInc/sneller](https://github.com/SnellerInc/sneller): World's fastest log analysis: λ + SQL + JSON + S3 <https://sneller.io>
+- 🌟 [parca-dev/parca](https://github.com/parca-dev/parca): Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. <https://parca.dev>
 - Grafana Stack
   - [grafana/loki](https://github.com/grafana/loki): Like Prometheus, but for logs. <https://grafana.com/loki>
   - [grafana/tempo](https://github.com/grafana/tempo): Grafana Tempo is a high volume, minimal dependency distributed tracing backend. <https://grafana.com/oss/tempo/>

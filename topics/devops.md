@@ -15,6 +15,10 @@
 - [moonrepo/moon](https://github.com/moonrepo/moon): A task runner and repo management tool for the web ecosystem, written in Rust. <https://moonrepo.dev/>
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix): An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems <https://zero-to-nix.com>
 - [tweag/jupyenv](https://github.com/tweag/jupyenv): Declarative and reproducible Jupyter environments - powered by Nix <https://jupyenv.io>
+- [gn/gn](https://gn.googlesource.com/gn/): GN is a meta-build system that generates build files for Ninja.
+  - [GN Quick Start Guide](https://gn.googlesource.com/gn/+/main/docs/quick_start.md)
+  - [Using GN build -- Artisanal metabuild](https://docs.google.com/presentation/d/15Zwb53JcncHfEwHpnG_PoIbbzQ3GQi_cpujYwbpcbZo/)
+  - [timniederhausen/gn](https://github.com/timniederhausen/gn): Standalone (fork) version of Chromium's GN
 
 ## GitHub Action
 

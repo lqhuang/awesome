@@ -96,6 +96,7 @@
 - [sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions): Get the dimensions of an image
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
 - [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
 
 ## Middleware
 

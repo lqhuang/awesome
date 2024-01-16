@@ -37,6 +37,8 @@
 ## Performance profile
 
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+- 🌟 [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget): The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts. <https://www.inspektor-gadget.io>
 - [koute/bytehound](https://github.com/koute/bytehound): A memory profiler for Linux.
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy): A UI for eBPF-based performance debugging
 - [magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects and displays high-resolution traces of what a process is doing
@@ -45,7 +47,6 @@
 - [google/perfetto](https://github.com/google/perfetto): Performance instrumentation and tracing for Android, Linux and Chrome <https://www.perfetto.dev>
 - 🌟 [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math): Techniques and numbers for estimating system's performance from first-principles <https://www.youtube.com/watch?v=IxkSlnrRFqc>
 - [namhyung/uftrace](https://github.com/namhyung/uftrace): Function graph tracer for C/C++/Rust <https://uftrace.github.io/slide>
-- 🌟 [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope): 🔬 A fast, interactive web-based viewer for performance profiles. <https://www.speedscope.app>
 
