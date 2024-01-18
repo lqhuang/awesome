@@ -50,6 +50,7 @@
 - [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight): An OLAP database system for educational purpose
 - [erikgrinaker/toydb](https://github.com/erikgrinaker/toydb): Distributed SQL database in Rust, written as a learning project
 - [khonsulabs/okaywal](https://github.com/khonsulabs/okaywal): A Write Ahead Log (WAL) implementation in Rust
+- [skyzh/write-you-a-vector-db](https://github.com/skyzh/write-you-a-vector-db): A Vector Database Tutorial (over CMU-DB's BusTub system) <https://skyzh.github.io/write-you-a-vector-db/>
 
 ## New databases
 
@@ -77,7 +78,7 @@
 - [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox): Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb): An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability. <https://www.cnosdb.com>
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb): A scalable, distributed, collaborative, document-graph database, for the realtime web <https://surrealdb.com>
-- [cozodb/cozo](https://github.com/cozodb/cozo): A general-purpose, transactional, relational database that uses Datalog and focuses on graph data and algorithms
+- [cozodb/cozo](https://github.com/cozodb/cozo): A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! <https://cozodb.org>
 - [TuGraph-family/tugraph-db](https://github.com/TuGraph-family/tugraph-db): TuGraph is a high performance graph database. <https://tugraph.org>
 - [memgraph/memgraph](https://github.com/memgraph/memgraph): Open-source graph database, built for real-time streaming data, compatible with Neo4j. <https://memgraph.com>
 - [Netflix/atlas](https://github.com/Netflix/atlas): In-memory dimensional time series database.

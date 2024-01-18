@@ -15,6 +15,8 @@
 - [Project Valhalla](https://openjdk.org/projects/valhalla/)
 - [Project ZGC](https://wiki.openjdk.org/display/zgc)
 - [softinio/scalanews](https://github.com/softinio/scalanews): Scala News - A Community Crowd Sourced newsletter using RSS <https://www.scalanews.net>
+- [Scala (2) Style Guide](https://docs.scala-lang.org/style/)
+- [Scala 3 Reference](https://docs.scala-lang.org/scala3/reference/index.html)
 
 ### Exercises
 
@@ -53,6 +55,7 @@
 - [portable-scala/sbt-crossproject](https://github.com/portable-scala/sbt-crossproject): Cross-platform compilation support for sbt.
 - [sbt/sbt-multi-jvm](https://github.com/sbt/sbt-multi-jvm): Multi-JVM testing in sbt
 - [sbt/sbt-buildinfo](https://github.com/sbt/sbt-buildinfo): I know this because build.sbt knows this.
+- [sbt/docker-sbt](https://github.com/sbt/docker-sbt): Official sbt docker images
 
 ### Testing
 
@@ -62,6 +65,8 @@
 - [gatling/gatling](https://github.com/gatling/gatling): Modern Load Testing as Code <https://gatling.io>
 - [gatling/gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin): Gatling Plugin for SBT <https://gatling.io>
 - [spotify/ratatool](https://github.com/spotify/ratatool): A tool for data sampling, data generation, and data diffing
+
+### CI Actions
 
 ## Featured
 

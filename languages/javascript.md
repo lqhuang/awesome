@@ -17,12 +17,6 @@
 - [The complexity of writing an efficient NodeJS Docker image](https://www.specfy.io/blog/1-efficient-dockerfile-nodejs-in-7-steps)
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): ✅ The Node.js best practices list (December 2023) <https://twitter.com/nodepractices/>
 
-## Effect system on Typescript
-
-- [gcanti/fp-ts](https://github.com/gcanti/fp-ts): Functional programming in TypeScript
-- [Effect-TS/effect](https://github.com/Effect-TS/effect): A fully-fledged functional effect system for TypeScript with a rich standard library <https://effect-ts.github.io/effect>
-- [gigobyte/purify](https://github.com/gigobyte/purify): Functional programming library for TypeScript <https://gigobyte.github.io/purify>
-
 ## Toolchain
 
 ### Env management
@@ -40,6 +34,7 @@
 
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check): Property based testing framework for JavaScript (like QuickCheck) written in TypeScript <https://fast-check.dev/>
 - [ealush/vest](https://github.com/ealush/vest): Vest ✅ Declarative validations framework <https://vestjs.dev/>
+- [twoslashes/twoslash](https://github.com/twoslashes/twoslash): Markup for generating rich type information in your documentations ahead of time. <https://twoslash.netlify.app/>
 
 ### Linter / Formatter
 
@@ -97,6 +92,8 @@
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
 - [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
 - [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
+- [faker-js/faker](https://github.com/faker-js/faker): Generate massive amounts of fake data in the browser and node.js <https://fakerjs.dev>
+- [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
 
 ## Middleware
 
@@ -110,3 +107,9 @@
 - [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your i18n localization with AI
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
+
+## Effect system on Typescript
+
+- [gcanti/fp-ts](https://github.com/gcanti/fp-ts): Functional programming in TypeScript
+- [Effect-TS/effect](https://github.com/Effect-TS/effect): A fully-fledged functional effect system for TypeScript with a rich standard library <https://effect-ts.github.io/effect>
+- [gigobyte/purify](https://github.com/gigobyte/purify): Functional programming library for TypeScript <https://gigobyte.github.io/purify>

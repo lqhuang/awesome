@@ -137,27 +137,30 @@
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
 - 🌟 [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone. <https://cal.com>
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark service
 - 🌟 [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible <https://docs.rsshub.app>
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark service
 - [knadh/listmonk](https://github.com/knadh/listmonk): High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. <https://listmonk.app>
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - [simple-login/app](https://github.com/simple-login/app): The SimpleLogin back-end <https://simplelogin.io>
 - [microfeed/microfeed](https://github.com/microfeed/microfeed): a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls. <https://www.microfeed.org>
 - [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨ <https://photoprism.app>
 - [immich-app/immich](https://github.com/immich-app/immich): Self-hosted photo and video backup solution directly from your mobile phone. <https://immich.app>
 - [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee): A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. <https://lycheeorg.github.io>
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore): Omnivore is a complete, open source read-it-later solution for people who like reading. <https://omnivore.app>
-- [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown as mindmaps with Markmap.
-- [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot): FauxPilot - an open-source GitHub Copilot server
-- [matrix-org/dendrite](https://github.com/matrix-org/dendrite): Dendrite is a second-generation Matrix homeserver written in Go! <https://matrix-org.github.io/dendrite/>
+- 🌟 [matrix-org/dendrite](https://github.com/matrix-org/dendrite): Dendrite is a second-generation Matrix homeserver written in Go! <https://matrix-org.github.io/dendrite/>
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️ Streaming torrent client for the web <https://webtorrent.io>
 - [jesec/flood](https://github.com/jesec/flood): A modern web UI for various torrent clients with a Node.js backend and React frontend. <https://flood.js.org>
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web File Browser <https://filebrowser.org>
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus): 云探针、多服务器探针、云监控、多服务器云监控，演示： <https://tz.cloudcpp.com>
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust): ✨ Rust 版 ServerStatus 探针、威力加强版 <https://ssr.rs/>
-- 🌟 [ekzhang/sshx](https://github.com/ekzhang/sshx): Fast, collaborative live terminal sharing over the web <https://sshx.io>
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io): 📚 LookScanned.io - Make your PDFs look scanned <https://lookscanned.io>
+
+### Developer
+
+- [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown as mindmaps with Markmap.
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- 🌟 [ekzhang/sshx](https://github.com/ekzhang/sshx): Fast, collaborative live terminal sharing over the web <https://sshx.io>
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web <https://tsl0922.github.io/ttyd>
+- 🌟 [mirego/accent](https://github.com/mirego/accent): The first developer-oriented translation tool. True asynchronous flow between translators and your team. <https://www.accent.reviews>
 
 ### Email
 

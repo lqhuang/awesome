@@ -30,23 +30,25 @@ Streaming Systems
 
 ## Frameworks
 
-- 🌟 [singularity-data/risingwave](https://github.com/singularity-data/risingwave): RisingWave: the next-generation streaming database in the cloud. <https://www.risingwave.dev>
 - 🌟 [thatdot/quine](https://github.com/thatdot/quine): Quine • a streaming graph • Slack: quine-io.slack.com <https://quine.io>
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize): The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date. <https://materialize.com>
 - 🌟[bytewax/bytewax](https://github.com/bytewax/bytewax): A Python framework for building highly scalable dataflows. <https://docs.bytewax.io>
 - 🌟[pathwaycom/pathway](https://github.com/pathwaycom/pathway): Pathway is an open framework for high-throughput and low-latency real-time data processing. <https://pathway.com>
 - [quixio/quix-streams](https://github.com/quixio/quix-streams): Quix Streams - A library for telemetry data streaming. Python Stream Processing <https://quix.io/>
 - 🌟[TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow): A modular implementation of timely dataflow in Rust -🌟 [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow): An implementation of differential dataflow using timely dataflow on Rust.
-- [jamii/dida](https://github.com/jamii/dida): Differential dataflow for mere mortals
 - [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast): Open-source distributed computation and storage platform. Real-time Stream Processing Unconference. Save Your Spot https://hazelcast.com/lp/unconference/ <https://www.hazelcast.com/>
 - [python-streamz/streamz](https://github.com/python-streamz/streamz): Real-time stream processing for python <https://streamz.readthedocs.io/en/latest/>
 - [tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime): Tremor is an event- or stream-processing system. It is designed to perform well for high-volumetric data both in terms of consumption of memory and CPU resources and in terms of latency. <https://www.tremor.rs/>
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo): Arroyo is a distributed stream processing engine written in Rust <https://arroyo.dev/>
 - 📝 [cda-group/arcon](https://github.com/cda-group/arcon): State-first Streaming Applications in Rust <https://cda-group.github.io/arcon>
-- [Timeplus](https://www.timeplus.com): Unlock streaming data value now.
-  - not an open source software
 - [infinyon/fluvio](https://github.com/infinyon/fluvio): Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly. <https://www.fluvio.io/>
 - [airtai/faststream](https://github.com/airtai/faststream): FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS. <https://faststream.airt.ai/?utm_source=github&utm_medium=acquisition&utm_campaign=measure>
+
+### Streaming Database
+
+- 🌟 [singularity-data/risingwave](https://github.com/singularity-data/risingwave): RisingWave: the next-generation streaming database in the cloud. <https://www.risingwave.dev>
+- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize): The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date. <https://materialize.com>
+- [timeplus-io/proton](https://github.com/timeplus-io/proton): A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse. <https://timeplus.com>
+  - [Timeplus](https://www.timeplus.com): Unlock streaming data value now.
 
 ## Messaging
 

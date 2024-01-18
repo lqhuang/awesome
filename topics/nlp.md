@@ -17,6 +17,7 @@
 - 🌟 [andyzoujm/representation-engineering](https://github.com/andyzoujm/representation-engineering): Representation Engineering: A Top-Down Approach to AI Transparency <https://www.ai-transparency.org/>
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls): LSP server leveraging LLMs for code completion (and more?)
 - [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer): Online playground for OpenAPI tokenizers <https://tiktokenizer.vercel.app>
+- 🌟 [michaelfeil/infinity](https://github.com/michaelfeil/infinity): Infinity is a high-throughput, low-latency REST API for serving vector embeddings, supporting a wide range of sentence-transformer models and frameworks.
 
 ## Embedding Search (ANN)
 

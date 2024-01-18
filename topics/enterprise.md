@@ -62,10 +62,14 @@
 
 ### Dev environments
 
-- [jetpack-io/devbox](https://github.com/jetpack-io/devbox): Instant, easy, predictable shells and containers.
+- 🌟 [devcontainers/spec](https://github.com/devcontainers/spec): Development Containers: Use a container as a full-featured development environment. <https://containers.dev>
+  - [Dev Container metadata reference](https://containers.dev/implementors/json_reference/)
+  - [Available Dev Container Templates](https://containers.dev/templates)
+  - [jetpack-io/devbox](https://github.com/jetpack-io/devbox): Instant, easy, predictable shells and containers.
+  - [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative, Reproducible, and Composable Developer Environments <https://devenv.sh>
+  - [loft-sh/devpod](https://github.com/loft-sh/devpod): Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. <https://devpod.sh>
+  - [VS Code Extension - Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Reproducible development environment for AI/ML <https://envd.tensorchord.ai/>
-- [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative, Reproducible, and Composable Developer Environments <https://devenv.sh>
-- 🌟 [loft-sh/devpod](https://github.com/loft-sh/devpod): Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. <https://devpod.sh>
 
 ### Documents
 
@@ -77,6 +81,7 @@
 - [Linen](https://www.linen.dev/): Sync your Slack and Discord conversations to Linen and get SEO benefits while reducing customer support load
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant): Contributor License Agreement assistant (CLA assistant) <https://cla-assistant.io>
 - [writethedocs/www](https://github.com/writethedocs/www): The main website for Write the Docs. <http://www.writethedocs.org>
+- [wevm/vocs](https://github.com/wevm/vocs): Minimal Documentation Framework, powered by React + Vite. <https://vocs.dev>
 
 ### DevOps
 
