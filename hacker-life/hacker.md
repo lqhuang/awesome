@@ -7,7 +7,6 @@
 - 🌟 [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution. <https://jsoncrack.com>
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web): JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team. <https://jsonhero.io/>
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv): Directory-based environments
-- [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest tool
 - [muety/wakapi](https://github.com/muety/wakapi): 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics <https://wakapi.dev>
 - 🌟 [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! <https://metrics.lecoq.io>
 - [zealdocs/zeal](https://github.com/zealdocs/zeal): Offline documentation browser inspired by Dash <https://zealdocs.org>
@@ -88,8 +87,6 @@
 
 ## Misc
 
-- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词 <https://cpwp.netlify.app>
-- [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English): 专为程序员编写的英语学习指南 v1.2 <https://a-programmers-guide-to-english.harryyu.me>
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club): 《语法俱乐部》- 旋元佑 <https://llwslc.github.io/grammar-club>
 - [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner): 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers <https://qwerty.kaiyi.cool>
 - [zhaoolee/ins](https://github.com/zhaoolee/ins): 🍭 互联网从业者的灵感数据库，无广告，Github Actions 自动检测网站访问速度
@@ -97,16 +94,27 @@
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws)
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): 人教版小学到大学数学
 - [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs <http://public-apis.org>
-- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks): 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持 epub、mobi、pdf 格式, 每周更新
 - 🌟 [djyde/notepal](https://github.com/djyde/notepal): A simple tool to import/export your book note <https://notepal.randysoft.org>
   - export WeBook to Readwise
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): ⚡ Dynamically generated stats for your github readmes <https://github-readme-stats.vercel.app>
-- [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv): LaTeX CV generator from a YAML/JSON input file. <https://sinaatalay.github.io/rendercv/>
-- 🌟 [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv): Print-friendly, minimalist CV page <https://cv.jarocki.me>
-- [2ndLA/English](https://github.com/2ndLA/English): 🚧 [WIP] 全面、渐进、碎片化的英语自学指引。 <https://english.highlight.ink>
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成 HTML、Word、CSV 文档永久保存，对聊天记录进行分析生成年度聊天报告
 - 🌟 [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines): Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [ruanyf/weekly](https://github.com/ruanyf/weekly): 科技爱好者周刊，每周五发布
+- [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline): A public release of TimelineBuilder for building personal digital data timelines.
+
+## Branding
+
+- [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest tool
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): ⚡ Dynamically generated stats for your github readmes <https://github-readme-stats.vercel.app>
+- [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv): LaTeX CV generator from a YAML/JSON input file. <https://sinaatalay.github.io/rendercv/>
+- 🌟 [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv): Print-friendly, minimalist CV page <https://cv.jarocki.me>
+
+## ESL
+
+- [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词 <https://cpwp.netlify.app>
+- [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English): 专为程序员编写的英语学习指南 v1.2 <https://a-programmers-guide-to-english.harryyu.me>
+- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks): 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持 epub、mobi、pdf 格式, 每周更新
+- [2ndLA/English](https://github.com/2ndLA/English): 🚧 [WIP] 全面、渐进、碎片化的英语自学指引。 <https://english.highlight.ink>
+- [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english): 人人都能用英语
 
 ## Security / Privacy
 

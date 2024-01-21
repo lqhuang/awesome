@@ -94,6 +94,8 @@
 - [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
 - [faker-js/faker](https://github.com/faker-js/faker): Generate massive amounts of fake data in the browser and node.js <https://fakerjs.dev>
 - [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
+- [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
+- [sindresorhus/execa](https://github.com/sindresorhus/execa): Process execution for humans
 
 ## Middleware
 

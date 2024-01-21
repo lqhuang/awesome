@@ -430,6 +430,7 @@
 - [evhub/coconut](https://github.com/evhub/coconut): Simple, elegant, Pythonic functional programming. <http://coconut-lang.org>
 - 🌟 [facebookincubator/cinder](https://github.com/facebookincubator/cinder): Cinder is Meta's internal performance-oriented production version of CPython. <https://trycinder.com>
 - [lcompilers/lpython](https://github.com/lcompilers/lpython): Python compiler <https://lpython.org/>
+- [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython): An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript. <http://pikapython.com/>
 
 ### Parsers
 

@@ -122,3 +122,4 @@
 - [tlaplus/DrTLAPlus](https://github.com/tlaplus/DrTLAPlus): Dr. TLA+ series - learn an algorithm and protocol, study a specification
 - [Vanlightly/vsr-tlaplus](https://github.com/Vanlightly/vsr-tlaplus): TLA+ specifications related to Viewstamped Replication
 - [informalsystems/quint](https://github.com/informalsystems/quint): Quint is a tool for _understanding_. It is an executable specification language with design and tooling focused on usability. It is based on the Temporal Logic of Actions
+- [tlaplus-community/tlauc](https://github.com/tlaplus-community/tlauc): Rewrites TLA⁺ specs to use Unicode symbols instead of ASCII, and vice-versa
