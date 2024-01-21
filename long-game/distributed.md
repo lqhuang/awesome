@@ -115,6 +115,7 @@
 - [jepsen-io/maelstrom](https://github.com/jepsen-io/maelstrom): A workbench for writing toy implementations of distributed systems.
 - 🌟 [dranov/protocol-bugs-list](https://github.com/dranov/protocol-bugs-list): List of bugs found in distributed protocols
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy): ⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing <https://github.com/shopify/toxiproxy>
+- [reitzensteinm/temper](https://github.com/reitzensteinm/temper): Deterministic simulation of concurrency and failure in distributed systems
 
 ## Formal verification
 
