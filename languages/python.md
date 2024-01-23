@@ -52,6 +52,7 @@
 - [seddonym/import-linter](https://github.com/seddonym/import-linter): Import Linter allows you to define and enforce rules for the internal and external imports within your Python project. <https://import-linter.readthedocs.io/>
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps): Python dependency checker
 - [PyCQA/docformatter](https://github.com/PyCQA/docformatter): Formats docstrings to follow PEP 257 <https://pypi.python.org/pypi/docformatter>
+- [ariebovenberg/slotscheck](https://github.com/ariebovenberg/slotscheck): 🎰 Ensure your `__slots__` are working properly <https://slotscheck.rtfd.io>
 
 ### Build tools
 

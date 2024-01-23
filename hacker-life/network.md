@@ -17,6 +17,7 @@
 - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 - [riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote): 📘《TCP/IP 网络编程》(韩-尹圣雨)学习笔记
 - 🌟🌟🌟 [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. <http://book.hacktricks.xyz/>
+- [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation): Curated Awesome list about Network Automation
 
 ## Libraries
 
@@ -53,6 +54,7 @@
 - [allinurl/goaccess](https://github.com/allinurl/goaccess): GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser. <https://goaccess.io>
 - [kevwan/tproxy](https://github.com/kevwan/tproxy): A cli tool to proxy and analyze TCP connections. <https://go-zero.dev>
 - 🌟 [fujiapple852/trippy](https://github.com/fujiapple852/trippy): A network diagnostic tool <https://trippy.cli.rs>
+- [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp): The BGP swiss army knife of networking
 
 ### Analysis
 
