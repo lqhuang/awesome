@@ -3,8 +3,10 @@
 ## Resources
 
 - [hwayne/learntla-v2](https://github.com/hwayne/learntla-v2): Learn TLA+ for free! No prior experience necessary! <https://www.learntla.com>
-- [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn): Raft 一致性算法论文的中文翻译
-- [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn): Raft 博士论文的中文翻译
+- Raft
+  - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn): Raft 一致性算法论文的中文翻译
+  - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn): Raft 博士论文的中文翻译
+  - - [ongardie/raft.tla](https://github.com/ongardie/raft.tla): TLA+ specification for the Raft consensus algorithm
 - [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list): A list of papers about distributed consensus. <https://heidihoward.github.io/distributed-consensus-reading-list>
 - [CS525 UIUC SP21: Reading List](https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/)
 - [mwhittaker/consistency_in_distributed_systems](https://github.com/mwhittaker/consistency_in_distributed_systems): Distributed Systems Consistency Reading Group <https://mwhittaker.github.io/consistency_in_distributed_systems>
@@ -43,13 +45,13 @@
 - 🌟 [rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization framework for Rust
 - [capnproto/capnproto-rust]
 - [deeptir18/cornflakes](https://github.com/deeptir18/cornflakes): A zero-copy serialization library and networking stack.
+- [faasm/faabric](https://github.com/faasm/faabric): Messaging and state layer for distributed serverless applications <https://faabric.readthedocs.io>
 
 ## Actor frameworks
 
 - [uazu/stakker](https://github.com/uazu/stakker): A lightweight low-level single-threaded actor runtime
 - [Thomasdezeeuw/heph](https://github.com/Thomasdezeeuw/heph): Heph is an actor framework for Rust based on asynchronous functions.
 - [starcoinorg/xtor](https://github.com/starcoinorg/xtor): async actor framework
-- [ShisoftResearch/bifrost](https://github.com/ShisoftResearch/bifrost): Pure rust building block for distributed systems
 - [Zestors/zestors](https://github.com/Zestors/zestors): Zestors is a message-centric actor framework for tokio. It builds on top of tiny-actor while adding a layer of abstraction that allows for building more complex systems.
 - [riker-rs/riker](https://github.com/riker-rs/riker/): Easily build efficient, highly concurrent and resilient applications. An Actor Framework for Rust. <https://riker.rs>
 - [quantmind/pulsar](https://github.com/quantmind/pulsar): Event driven concurrent framework for Python
@@ -106,6 +108,8 @@
 - [ariskk/zio-raft](https://github.com/ariskk/zio-raft): An Implementation of Raft using ZIO in Scala
 - [canonical/raft](https://github.com/canonical/raft): C implementation of the Raft consensus protocol <https://raft.readthedocs.io>
 - [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft): A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
+- [ShisoftResearch/bifrost](https://github.com/ShisoftResearch/bifrost): Pure rust building block for distributed systems
+- [eatonphil/raft-rs](https://github.com/eatonphil/raft-rs): Another minimal Raft implementation in Rust.
 
 ## Correctness
 

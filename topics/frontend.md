@@ -10,6 +10,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/): A guide that teaches professional developers how to transform component libraries into design systems and set up the production infrastructure used by leading frontend teams.
 - [UI Testing Handbook](https://storybook.js.org/tutorials/ui-testing-handbook/): A guide that highlights UI testing strategies used by scaled front-end teams. You'll learn to verify everything from visual appearance to logic and even detect integration issues. Along the way, we'll demonstrate how you can reduce bugs by automatically running your tests.
 - 🌟 [Patterns.dev](https://www.patterns.dev/): Improve how you architect webapps
+- [feature-sliced/documentation](https://github.com/feature-sliced/documentation): 🍰 Architectural design methodology for Frontend projects <https://feature-sliced.design>
+  - [Feature Sliced Design - Examples](https://feature-sliced.design/examples)
 
 ### Tutorials
 
@@ -211,6 +213,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [jotaijs/jotai-cache](https://github.com/jotaijs/jotai-cache): No description, website, or topics provided.
 - [statelyai/xstate](https://github.com/statelyai/xstate):State machines and statecharts for the modern web. <https://xstate.js.org/docs>
 - 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next immutable state by mutating the current one <https://immerjs.github.io/immer>
+- [unadlib/mutative](https://github.com/unadlib/mutative): Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer. <http://mutative.js.org/>
 
 ### Utils
 
@@ -285,6 +288,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ### PWA
 
+- [What PWA can do](https://whatpwacando.today/): A Progressive Web App (PWA) is a website that can be installed on your device and provide an app-like experience
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox): 📦 Workbox: JavaScript libraries for Progressive Web Apps <https://developers.google.com/web/tools/workbox/>
 
 ### SSG / Server Action

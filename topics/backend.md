@@ -10,6 +10,8 @@
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd): A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates): No description, website, or topics provided.
 - [isno/theByteBook](https://github.com/isno/theByteBook): ⭐ 出版作品开源。深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE 指南。如发现错误，谢谢提 issue <https://www.thebyte.com.cn>
+- 🌟 [Cactus-proj/A-Philosophy-of-Software-Design-zh](https://github.com/Cactus-proj/A-Philosophy-of-Software-Design-zh): A Philosophy of Software Design 《软件设计的哲学》中文翻译 <https://cactus-proj.github.io/A-Philosophy-of-Software-Design-zh/>
+- 🌟 [Go7hic/A-Philosophy-of-Software-Design](https://github.com/Go7hic/A-Philosophy-of-Software-Design): 《软件设计哲学》 <https://go7hic.github.io/A-Philosophy-of-Software-Design/#/>
 
 ## Middleware
 
@@ -38,10 +40,17 @@
 - [Local-First Web Development](https://localfirstweb.dev/)
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync): SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. <https://sqlsync.dev>
 
-## OpenAPI
+## Interface Definition Language
 
 - [google/gnostic](https://github.com/google/gnostic): A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
+- [microsoft/typespec](https://github.com/microsoft/typespec): TypeSpec is a language for defining cloud service APIs and shapes. TypeSpec is a highly extensible language with primitives that can describe API shapes common among REST, OpenAPI, gRPC, and other protocols.
+- [smithy-lang/smithy](https://github.com/smithy-lang/smithy): Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language. <https://smithy.io>
+  - [disneystreaming/smithy4s](https://github.com/disneystreaming/smithy4s): https://disneystreaming.github.io/smithy4s/
 
 ## RPC System
 
 - [google/gnxi](https://github.com/google/gnxi): gNXI Tools - gRPC Network Management/Operations Interface Tools
+
+## Serverless
+
+- [faasm/faasm](https://github.com/faasm/faasm): High-performance stateful serverless runtime based on WebAssembly <https://faasm.readthedocs.io>

@@ -122,6 +122,7 @@
 ## GPU
 
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire): ArrayFire: a general purpose GPU library. <https://arrayfire.com>
+- [NVIDIA/cccl](https://github.com/NVIDIA/cccl): CUDA C++ Core Libraries
 
 ## HPC / SIMD / Vectorization
 

@@ -13,6 +13,7 @@
 - [nviennot/core-to-core-latency](https://github.com/nviennot/core-to-core-latency): Measures the latency between CPU cores
 - 🌟 [The Deadlock Empire](https://deadlockempire.github.io/): Slay dragons, master concurrency!
   - An interactive programming game!
+- [parallel101/simdtutor](https://github.com/parallel101/simdtutor): x86-64 SIMD 矢量优化系列教程
 
 ## Linux Tuning
 
@@ -49,6 +50,7 @@
 - [namhyung/uftrace](https://github.com/namhyung/uftrace): Function graph tracer for C/C++/Rust <https://uftrace.github.io/slide>
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope): 🔬 A fast, interactive web-based viewer for performance profiles. <https://www.speedscope.app>
+- [mstange/samply](https://github.com/mstange/samply): Command-line sampling profiler for macOS and Linux
 
 ## WASM Runtime
 

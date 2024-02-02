@@ -42,10 +42,12 @@ Streaming Systems
 - 📝 [cda-group/arcon](https://github.com/cda-group/arcon): State-first Streaming Applications in Rust <https://cda-group.github.io/arcon>
 - [infinyon/fluvio](https://github.com/infinyon/fluvio): Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly. <https://www.fluvio.io/>
 - [airtai/faststream](https://github.com/airtai/faststream): FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS. <https://faststream.airt.ai/?utm_source=github&utm_medium=acquisition&utm_campaign=measure>
+- [grailbio/reflow](https://github.com/grailbio/reflow): A language and runtime for distributed, incremental data processing in the cloud
 
 ### Streaming Database
 
 - 🌟 [singularity-data/risingwave](https://github.com/singularity-data/risingwave): RisingWave: the next-generation streaming database in the cloud. <https://www.risingwave.dev>
+  - [risingwavelabs/stream-processing-demo-library](https://github.com/risingwavelabs/stream-processing-demo-library): A collection of demonstrations showcasing how stream processing can be used to solve real-world problems. <https://risingwave.com/slack>
 - [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize): The Fastest Way to Build the Fastest Data Products. Build data-intensive applications and services in SQL — without pipelines or caches — using materialized views that are always up-to-date. <https://materialize.com>
 - [timeplus-io/proton](https://github.com/timeplus-io/proton): A streaming SQL engine, a fast and lightweight alternative to Apache Flink, 🚀 powered by ClickHouse. <https://timeplus.com>
   - [Timeplus](https://www.timeplus.com): Unlock streaming data value now.

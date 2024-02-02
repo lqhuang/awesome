@@ -46,6 +46,7 @@
 
 - 🌟 [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill): Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.
 - [unjs/mlly](https://github.com/unjs/mlly): 🤝 Missing ECMAScript module utils for Node.js
+- [unjs/destr](https://github.com/unjs/destr): 🚀 Faster, secure and convenient alternative for JSON.parse
 
 ### Parser
 
@@ -96,6 +97,11 @@
 - [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
 - [sindresorhus/execa](https://github.com/sindresorhus/execa): Process execution for humans
+- [dolanmiu/docx](https://github.com/dolanmiu/docx): Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. <https://docx.js.org/>
+- [vbuch/node-signpdf](https://github.com/vbuch/node-signpdf): Simple signing of PDFs in node.
+- [tuffstuff9/nextjs-pdf-parser](https://github.com/tuffstuff9/nextjs-pdf-parser): Next.js template for seamless PDF parsing using pdf2json and FilePond. Ideal for developers seeking a ready-to-use solution for PDF content extraction in Next.js projects. <https://twitter.com/tuff_stuff9>
+- [mozilla/pdf.js](https://github.com/mozilla/pdf.js): PDF Reader in JavaScript <https://mozilla.github.io/pdf.js/>
+- [modesty/pdf2json](https://github.com/modesty/pdf2json): A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 
 ## Middleware
 

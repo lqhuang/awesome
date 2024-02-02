@@ -119,7 +119,6 @@
 ## Experimental features
 
 - [yoshuawuyts/tasky](https://github.com/yoshuawuyts/tasky): fluent async task spawning experiments
-- [ringbahn/iou](https://github.com/ringbahn/iou): Rust interface to io_uring
 - [nikomatsakis/moro](https://github.com/nikomatsakis/moro): Experiments with structured concurrency in Rust
 - [nrc/ezio](https://github.com/nrc/ezio): Easy IO for Rust
 - [withoutboats/propane](https://github.com/withoutboats/propane): generators
@@ -136,10 +135,7 @@
 - [jonhoo/left-right](https://github.com/jonhoo/left-right): A lock-free, read-optimized, concurrency primitive.
 - [jonhoo/bus](https://github.com/jonhoo/bus): Efficient, lock-free, bounded Rust broadcast channel
 - [komora-io/pagetable](https://github.com/komora-io/pagetable): wait-free 4-level 64-bit pagetable for contiguous low-contention concurrent metadata
-- [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast): Async broadcast channels
-- [smol-rs/async-channel](https://github.com/smol-rs/async-channel): Async multi-producer multi-consumer channel
 - [smol-rs/concurrent-queue](https://github.com/smol-rs/concurrent-queue): Concurrent multi-producer multi-consumer queue
-- [fereidani/kanal](https://github.com/fereidani/kanal): Fastest sync and async channel that Rust deserves
 - [mitsuhiko/fragile](https://github.com/mitsuhiko/fragile): Utility wrapper to send non send types to other threads safely https://github.com/Marthog/rust-stm
 - [bytedance/ipmb](https://github.com/bytedance/ipmb): An interprocess message bus system built in Rust.
 
@@ -154,14 +150,19 @@
 
 ### Async IO
 
+- [ringbahn/iou](https://github.com/ringbahn/iou): Rust interface to io_uring
+- [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring): An io_uring backed runtime for Rust
+- [jordanisaacs/rustix-uring](https://github.com/jordanisaacs/rustix-uring): The `io_uring` library for Rust (with Rustix)
 - [vertexclique/nuclei](https://github.com/vertexclique/nuclei): Proactive IO & Runtime system
 - [bytedance/monoio](https://github.com/bytedance/monoio): Rust async runtime based on io-uring.
 - [mgattozzi/whorl](https://github.com/mgattozzi/whorl): single file, std only, async Rust executor
-- [tokio-rs/tokio-uring](https://github.com/tokio-rs/tokio-uring): An io_uring backed runtime for Rust
 - [nbdd0121/stackful](https://github.com/nbdd0121/stackful): Free conversion between async and sync in Rust
 - [DataDog/glommio](https://github.com/DataDog/glommio): Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [Maaarcocr/picol](https://github.com/Maaarcocr/picol): a small and single threaded async runtime built on top of io-uring
 - 📝 [notgull/unsend](https://github.com/notgull/unsend): Thread-unsafe async runtime
+- [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast): Async broadcast channels
+- [smol-rs/async-channel](https://github.com/smol-rs/async-channel): Async multi-producer multi-consumer channel
+- 🌟 [fereidani/kanal](https://github.com/fereidani/kanal): Fastest sync and async channel that Rust deserves
 
 ### Futures
 
@@ -351,6 +352,8 @@
 - [google/mdbook-i18n-helpers](https://github.com/google/mdbook-i18n-helpers): Translation support for mdbook. The plugins here give you a structured way to maintain a translated book.
 - [camino-rs/camino](https://github.com/camino-rs/camino): Like Rust's std::path::Path, but UTF-8. <https://docs.rs/camino>
 - [alexcrichton/filetime](https://github.com/alexcrichton/filetime): Accessing file timestamps in a platform-agnostic fashion in Rust
+- 🌟 [cloudflare/foundations](https://github.com/cloudflare/foundations): Cloudflare's Rust service foundations library.
+- [rayon-rs/either](https://github.com/rayon-rs/either): The enum Either with variants Left and Right is a general purpose sum type with two cases. <https://docs.rs/either/>
 
 ## Domain related
 

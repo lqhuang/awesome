@@ -77,6 +77,7 @@
 - [bukosabino/ta](https://github.com/bukosabino/ta): Technical Analysis Library using Pandas and Numpy <https://technical-analysis-library-in-python.readthedocs.io/en/latest>
 - [streamlet-dev/greeks](https://github.com/streamlet-dev/greeks): Derivatives models written with the Tributary data flow library
 - [avhz/RustQuant](https://github.com/avhz/RustQuant): Rust library for quantitative finance. <https://crates.io/crates/RustQuant>
+- [bukosabino/ta](https://github.com/bukosabino/ta): Technical Analysis Library using Pandas and Numpy <https://technical-analysis-library-in-python.readthedocs.io/en/latest/>
 
 ## API
 

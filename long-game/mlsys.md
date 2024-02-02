@@ -25,6 +25,7 @@
 - [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh): 《Machine Learning Systems: Design and Implementation》- Chinese Version <https://openmlsys.github.io>
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design): A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems" <https://huyenchip.com/machine-learning-systems-design/toc.html>
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被 60 个国家的 400 所大学用于教学。 <http://zh.d2l.ai>
+- [stas00/ml-engineering](https://github.com/stas00/ml-engineering): Machine Learning Engineering Open Book <https://stasosphere.com/machine-learning/>
 
 ## Framework and libraries
 
@@ -148,6 +149,8 @@
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain): Your open-source ML monitoring and refinement toolkit. <https://uptrain.ai/>
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML): Simple and Distributed Machine Learning <http://aka.ms/spark>
 - 🌟 [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models <https://docs.arize.com/phoenix>
+- [eth-easl/orion](https://github.com/eth-easl/orion): An interference-aware scheduler for fine-grained GPU sharing
+- [iterative/dvc](https://github.com/iterative/dvc): 🦉 ML Experiments Management with Git <https://dvc.org>
 
 ## Tensor inference
 
@@ -176,6 +179,8 @@
 
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai): Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [google/tangent](https://github.com/google/tangent): Source-to-Source Debuggable Derivatives in Pure Python
+  - [srush/tangent](https://github.com/srush/tangent): Source-to-Source Debuggable Derivatives in Pure Python
+  - [srush/triton-autodiff](https://github.com/srush/triton-autodiff): Experiment of using Tangent to autodiff triton
 - [aesara-devs/aesara](https://github.com/aesara-devs/aesara): Aesara is a Python library for defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays. <https://aesara.readthedocs.io>
 - [google/autobound](https://github.com/google/autobound): AutoBound automatically computes upper and lower bounds on functions.
 - [gtn-org/gtn](https://github.com/gtn-org/gtn): Automatic differentiation with weighted finite-state transducers.
@@ -205,6 +210,7 @@
 - [apple/axlearn](https://github.com/apple/axlearn): AXLearn is a library built on top of JAX and XLA to support development of large-scale deep learning models.
 - [facebookresearch/minimax](https://github.com/facebookresearch/minimax): Efficient baselines for autocurricula in JAX.
 - [JiaYaobo/fenbux](https://github.com/JiaYaobo/fenbux): A Simple Statistical Distribution Library in JAX <https://jiayaobo.github.io/fenbux/>
+- [hayden-donnelly/jax-to-cpp](https://github.com/hayden-donnelly/jax-to-cpp): Generate HLO with JAX then execute in C++.
 
 ### DeepMind specialization
 

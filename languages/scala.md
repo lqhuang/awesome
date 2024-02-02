@@ -139,10 +139,12 @@
 - [Banno/kafka4s](https://github.com/Banno/kafka4s): Functional programming with Kafka and Scala <https://banno.github.io/kafka4s>
 - [cequence-io/openai-scala-client](https://github.com/cequence-io/openai-scala-client): Scala client for OpenAI API
 - [softwaremill/sttp-openai](https://github.com/softwaremill/sttp-openai)
+- [quelgar/scala-uv](https://github.com/quelgar/scala-uv): Scala Native language bindings for libuv
 
 ### CLI
 
 - [scala-native/scala-native-cli](https://github.com/scala-native/scala-native-cli): Command Line Interface for Scala Native
+  - [VirtusLab/scala-cli-setup](https://github.com/VirtusLab/scala-cli-setup): ▶️ Scala CLI setup GitHub Action
 - [bkirwi/decline](https://github.com/bkirwi/decline): A composable command-line parser for Scala. <https://ben.kirw.in/decline/>
 - [alexarchambault/case-app](https://github.com/alexarchambault/case-app): Type-level & seamless command-line argument parsing for Scala
 
@@ -224,6 +226,7 @@
 - [http4s/http4s-armeria](https://github.com/http4s/http4s-armeria): Armeria backend for http4s
 - [typelevel/cats-parse](https://github.com/typelevel/cats-parse): A parsing library for the cats ecosystem
 - [laserdisc-io/laserdisc](https://github.com/laserdisc-io/laserdisc): A Future-free Fs2 native pure FP Redis client <http://laserdisc.io>
+- [fthomas/fs2-cron](https://github.com/fthomas/fs2-cron): FS2 streams based on cron expressions
 
 ### ZIO
 

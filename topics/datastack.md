@@ -16,6 +16,7 @@
 - [meltano/meltano](https://github.com/meltano/meltano): Extract & Load with joy — CLI & version control for ELT without limitations. No more black box. Let your creativity flow. <https://meltano.com>
 - 🌟 [roapi/roapi](https://github.com/roapi/roapi): Create full-fledged APIs for slowly moving datasets without writing a single line of code. <https://roapi.github.io/docs>
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb): Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀 <https://peerdb.io>
+- [uwdata/arquero](https://github.com/uwdata/arquero): Query processing and transformation of array-backed data tables. <https://uwdata.github.io/arquero>
 
 ## Visualize frontend / BI
 
@@ -26,6 +27,8 @@
 - [quadratichq/quadratic](https://github.com/quadratichq/quadratic): Quadratic | Technical Spreadsheet <https://quadratichq.com>
 - [directus/directus](https://github.com/directus/directus): The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database. <https://directus.io>
 - [baserow/baserow](https://gitlab.com/baserow/baserow): Baserow is an open source no-code database and Airtable alternative. Create your own database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser.
+- [lightdash/lightdash](https://github.com/lightdash/lightdash): Open source BI for teams that move fast ⚡️ <https://lightdash.com>
+- [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad): Web-based SQL editor. Legacy project in maintenance mode. <https://getsqlpad.com>
 
 ## Data governance
 

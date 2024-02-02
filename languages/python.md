@@ -193,6 +193,7 @@
 - [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent): Persistent/Immutable/Functional data structures for Python
 - [cgarciae/pypeln](https://github.com/cgarciae/pypeln): Concurrent data pipelines in Python >>> <https://cgarciae.github.io/pypeln>
 - 🌟 [MagicStack/immutables](https://github.com/MagicStack/immutables): A high-performance immutable mapping type for Python.
+- [dgilland/pydash](https://github.com/dgilland/pydash): The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library. <http://pydash.readthedocs.io>
 
 ## Domain libraries
 
@@ -295,6 +296,7 @@
 - [memgraph/gqlalchemy](https://github.com/memgraph/gqlalchemy): GQLAlchemy is a library developed with the purpose of assisting in writing and running queries on Memgraph. GQLAlchemy supports high-level connection to Memgraph as well as modular query builder.
 - 📝 [ponyorm/pony](https://github.com/ponyorm/pony): Pony Object Relational Mapper
   - Learn how Monad style applies in Python
+  - [Python’s “Disappointing” Superpowers # Pony ORM](https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/#pony-orm)
 
 ### API clients
 
