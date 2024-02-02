@@ -3,6 +3,7 @@
 ## Resources
 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. <http://fffaraz.github.io/awesome-cpp/>
+- [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++ <https://awesomecpp.com>
 - [yuchdev/CppBooks](https://github.com/yuchdev/CppBooks): A comprehensive catalog of modern and classic books on C++ programming language
 - [Clang Compiler User’s Manual](https://clang.llvm.org/docs/UsersManual.html)
 - [Clang command line argument reference](https://clang.llvm.org/docs/ClangCommandLineReference.html)
@@ -97,21 +98,31 @@
 - [facebook/CacheLib](https://github.com/facebook/CacheLib): Pluggable in-process caching engine to build and scale high performance services <https://www.cachelib.org>
 - [ned14/quickcpplib](https://github.com/ned14/quickcpplib): Eliminate all the tedious hassle when making state-of-the-art C++ 14 - 23 libraries!
 - [soasis/text](https://github.com/soasis/text): A spicy text library for C++ that has the explicit goal of enabling the entire ecosystem to share in proper forward progress towards a bright Unicode future. <https://ztdtext.readthedocs.io/en/latest/>
-- [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 - [TartanLlama/expected](https://github.com/TartanLlama/expected): C++11/14/17 std::expected with functional-style extensions <https://tl.tartanllama.xyz>
 - [tcbrindle/flux](https://github.com/tcbrindle/flux): A C++20 library for sequence-orientated programming <https://tristanbrindle.com/flux/>
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
 - [foonathan/type_safe](https://github.com/foonathan/type_safe): Zero overhead utilities for preventing bugs at compile time <https://type_safe.foonathan.net>
 - [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp): Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all
-- 🌟 [skypjack/uvw](https://github.com/skypjack/uvw): Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library!
 - [randombit/botan](https://github.com/randombit/botan): Cryptography Toolkit <https://botan.randombit.net>
 - [openucx/ucx](https://github.com/openucx/ucx): Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group) <http://www.openucx.org>
 - [google/cpu_features](https://github.com/google/cpu_features): A cross platform C99 library to get cpu features at runtime.
 - [google/nsync](https://github.com/google/nsync): nsync is a C library that exports various synchronization primitives, such as mutexes
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
+- [TheNumbat/rpp](https://github.com/TheNumbat/rpp): Minimal Rust-inspired C++20 STL replacement
+
+## Libs
+
 - 🌟 [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
   - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust): Super-fast float parser in Rust (now part of Rust core) <https://docs.rs/fast-float>
-- [TheNumbat/rpp](https://github.com/TheNumbat/rpp): Minimal Rust-inspired C++20 STL replacement
+- [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
+- [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
+
+## Framework
+
+- [scylladb/seastar](https://github.com/scylladb/seastar): High performance server-side application framework <http://seastar.io>
+- [userver-framework/userver](https://github.com/userver-framework/userver): The C++ Asynchronous Framework (beta) <https://userver.tech>
+- 🌟 [skypjack/uvw](https://github.com/skypjack/uvw): Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library!
+- [mratsim/weave](https://github.com/mratsim/weave): A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead The Curse of Strong Typing
 
 ## Memory allocator
 
@@ -139,6 +150,7 @@
 - [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla): Up to 10x faster string search, split, sort, and shuffle for long strings and multi-gigabyte files in Python and C, leveraging SIMD with just a few lines of Arm Neon and x86 AVX2 & AVX-512 intrinsics 🦖 <https://ashvardanian.com/posts/stringzilla/>
   - [StringZilla: 5x faster strings with SIMD & SWAR 🦖](https://ashvardanian.com/posts/stringzilla/)
 - [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning): The PennyLane-Lightning plugin provides a fast state-vector simulator written in C++ for use with PennyLane <https://docs.pennylane.ai/projects/lightning>
+- [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
 
 ## Utils
 

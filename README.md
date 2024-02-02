@@ -5,12 +5,14 @@ Remind me about those not that familiar, less used but valued utils/tools. It's 
 ## Structure of this repo
 
 - hacker-life
+  - [cli](./hacker-life/cli.md)
   - [hacker](./hacker-life/hacker.md)
   - [network](./hacker-life/network.md)
   - [software](./hacker-life/software.md)
 - languages
   - [clang](./languages/clang.md)
-  - [clang](./languages/javascript.md)
+  - [haskell](./languages/haskell.md)
+  - [javascript](./languages/javascript.md)
   - [python](./languages/python.md)
   - [rust](./languages/rust.md)
   - [scala](./languages/scala.md)
@@ -35,20 +37,16 @@ Remind me about those not that familiar, less used but valued utils/tools. It's 
   - [frontend](./topics/frontend.md)
   - [generative-ai](./topics/generative-ai.md)
   - [graph](./topics/graph.md)
+  - [graph](./topics/graph.md)
+  - [llm](./topics/llm.md)
   - [nlp](./topics/nlp.md)
   - [quant](./topics/quant.md)
   - [saas](./topics/saas.md)
 
 ## My little corner
 
-### Speed is everything
-
-- [scylladb/seastar](https://github.com/scylladb/seastar): High performance server-side application framework <http://seastar.io>
-- [mratsim/weave](https://github.com/mratsim/weave): A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead
-- [userver-framework/userver](https://github.com/userver-framework/userver): The C++ Asynchronous Framework (beta) <https://userver.tech>
-- [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++ <https://awesomecpp.com>
-- [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
-- [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
+- Speed is everything
+- The Curse of Strong Typing
 
 ## Similar awesome
 
