@@ -30,3 +30,4 @@
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib): Header-only C++/python library for fast approximate nearest neighbors <https://github.com/nmslib/hnswlib>
 - [instant-labs/instant-distance](https://github.com/instant-labs/instant-distance): Fast approximate nearest neighbor searching in Rust, based on HNSW index
 - [harsha-simhadri/big-ann-benchmarks](https://github.com/harsha-simhadri/big-ann-benchmarks): Framework for evaluating ANNS algorithms on billion scale datasets. <https://big-ann-benchmarks.com>
+- [pavlin-policar/openTSNE](https://github.com/pavlin-policar/openTSNE): Extensible, parallel implementations of t-SNE <https://opentsne.rtfd.io>

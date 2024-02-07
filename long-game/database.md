@@ -188,6 +188,7 @@
   - pg_trgm
   - pgvector
   - uuid-ossp
+- [tcdi/plrust](https://github.com/tcdi/plrust): A Rust procedural language handler for PostgreSQL
 
 ### SQLite
 

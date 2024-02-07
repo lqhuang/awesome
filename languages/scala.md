@@ -25,6 +25,7 @@
 - [lauris/awesome-scala](https://github.com/lauris/awesome-scala): A community driven list of useful Scala libraries, frameworks and software.
 - [Zelenya/fs2-guide](https://github.com/Zelenya/fs2-guide): Interactive dive into fs2
 - [YannMoisan/hands-on-cats](https://github.com/YannMoisan/hands-on-cats): Discover cats by coding a few simple exercises
+- [David's programming examples knowledge base](https://gist.github.com/dacr/c071a7b7d3de633281cbe84a34be47f1)
 
 ## Master these you rule the world
 

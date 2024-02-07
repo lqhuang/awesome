@@ -177,7 +177,7 @@
 - [alice-biometrics/meiga](https://github.com/alice-biometrics/meiga): 🧙 A simple, typed and monad-based Result type for Python.
 - [bloomberg/attrs-strict](https://github.com/bloomberg/attrs-strict): Provides runtime validation of attributes specified in Python 'attr'-based data classes.
 - [wesselb/plum](https://github.com/wesselb/plum): Multiple dispatch in Python <https://wesselb.github.io/plum>
-- [mrocklin/multipledispatch](https://github.com/mrocklin/multipledispatch): Multiple dispatch <https://multiple-dispatch.readthedocs.io/en/latest>
+- 🌟 [mrocklin/multipledispatch](https://github.com/mrocklin/multipledispatch): Multiple dispatch <https://multiple-dispatch.readthedocs.io/en/latest/>
 - [mkorpela/overrides](https://github.com/mkorpela/overrides/): A decorator to automatically detect mismatch when overriding a method
 - [rustedpy/result](https://github.com/rustedpy/result): A simple Rust like Result type for Python 3. Fully type annotated.
 - [rustedpy/maybe](https://github.com/rustedpy/maybe): A simple Rust like Option type for Python 3. Fully type annotated.
@@ -187,8 +187,8 @@
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python): A curated list of awesome things related to functional programming in Python.
 - 🌟 [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools): More routines for operating on iterables, beyond itertools <https://more-itertools.rtfd.io>
 - 🌟 [pytoolz/toolz](https://github.com/pytoolz/toolz): A functional standard library for Python. <http://toolz.readthedocs.org>
-- 🌟 [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional): Python library for creating data pipelines with chain functional programming <http://pyfunctional.pedro.ai>
-- 🌟 [Suor/funcy](https://github.com/Suor/funcy): A fancy and practical functional tools
+- [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional): Python library for creating data pipelines with chain functional programming <http://pyfunctional.pedro.ai>
+- [Suor/funcy](https://github.com/Suor/funcy): A fancy and practical functional tools
 - [dbrattli/aioreactive](https://github.com/dbrattli/aioreactive): Async/await reactive tools for Python 3.9+
 - [tobgu/pyrsistent](https://github.com/tobgu/pyrsistent): Persistent/Immutable/Functional data structures for Python
 - [cgarciae/pypeln](https://github.com/cgarciae/pypeln): Concurrent data pipelines in Python >>> <https://cgarciae.github.io/pypeln>
@@ -375,6 +375,7 @@
 - [python-greenlet/greenlet](https://github.com/python-greenlet/greenlet): Lightweight in-process concurrent programming
 - 📝 [aio-libs/janus](https://github.com/aio-libs/janus): Thread-safe asyncio-aware queue for Python
 - [mjpieters/aiolimiter](https://github.com/mjpieters/aiolimiter): An efficient implementation of a rate limiter for asyncio. <https://aiolimiter.readthedocs.io/en/latest/>
+- [YoSTEALTH/Liburing](https://github.com/YoSTEALTH/Liburing): This is a Python + CFFI wrapper around Liburing C library, which is a helper to setup and tear-down io_uring instances. <https://pypi.org/project/liburing/>
 
 ### Middleware
 
@@ -486,6 +487,7 @@
 - 🌟 [marcomusy/vedo](https://github.com/marcomusy/vedo): A python module for scientific analysis of 3D data based on VTK and Numpy <https://vedo.embl.es>
 - 🌟 [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix): Data visualisation and ray tracing in Python based on OptiX 7.7 framework. <https://rnd.team/plotoptix>
 - [mckinsey/vizro](https://github.com/mckinsey/vizro): Vizro is a toolkit for creating modular data visualization applications. <https://vizro.readthedocs.io/en/stable/>
+- [developmentseed/lonboard](https://github.com/developmentseed/lonboard): Python library for fast, interactive geospatial vector data visualization in Jupyter. <https://developmentseed.org/lonboard/latest/>
 
 ### GUI
 

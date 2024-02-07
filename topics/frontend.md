@@ -220,7 +220,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js): A Minimalistic Wrapper for IndexedDB <https://dexie.org>
 - [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs): High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets <https://opengeoscience.github.io/geojs>
 - [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy): Access the system clipboard (copy/paste)
+- [github/clipboard-copy-element](https://github.com/github/clipboard-copy-element): Copy element text content or input values to the clipboard. <https://github.github.io/clipboard-copy-element/examples/>
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing): File uploads for modern web devs <https://uploadthing.com>
+- [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
 - [streamich/react-use](https://github.com/streamich/react-use): React Hooks — 👍 <http://streamich.github.io/react-use>
 - [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done right. For Browser, SSR, and React Server Components. <https://foxact.skk.moe>
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks): A collection of modern, server-safe React hooks – from the ui.dev team <https://usehooks.com>

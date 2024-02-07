@@ -82,7 +82,11 @@
 - [explosion/curated-transformers](https://github.com/explosion/curated-transformers): 🤖 A PyTorch library of curated Transformer models and their composable components
 - [THUDM/SwissArmyTransformer](https://github.com/THUDM/SwissArmyTransformer): SwissArmyTransformer is a flexible and powerful library to develop your own Transformer variants. <https://THUDM.github.io/SwissArmyTransformer>
 - [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer): Transformer related optimization, including BERT, GPT <https://desktop.github.com>
-- [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer): FlashInfer: Kernel Library for LLM Serving <https://flashinfer.ai>
+- 🌟 [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer): FlashInfer: Kernel Library for LLM Serving <https://flashinfer.ai>
+  - Comprehensive Attention Kernels
+  - Optimized Shared-Prefix Batch Decoding
+  - Accelerate Attention for Compressed/Quantized KV-Cache
+  - no JAX support?
 - [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast): A batched offline inference oriented version of segment-anything
   - [Accelerating Generative AI with PyTorch: Segment Anything, Fast](https://pytorch.org/blog/accelerating-generative-ai/)
 - 🌟 [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast): Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.

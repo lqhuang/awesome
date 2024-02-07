@@ -38,6 +38,7 @@
 - 🌟 [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP): NOVA opeN sOurce Video plAyer: main repository to build them all
 - [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your favorite torrent trackers
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+- [lizongying/my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用 <https://lyrics.run/my-tv.html>
 
 ### Notes / Knowledge Management
 
@@ -154,6 +155,7 @@
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus): 云探针、多服务器探针、云监控、多服务器云监控，演示： <https://tz.cloudcpp.com>
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust): ✨ Rust 版 ServerStatus 探针、威力加强版 <https://ssr.rs/>
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io): 📚 LookScanned.io - Make your PDFs look scanned <https://lookscanned.io>
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances <https://maybe.co>
 
 ### Developer
 

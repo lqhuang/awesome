@@ -7,17 +7,19 @@
 - [Uncurled](https://un.curl.dev): everything I know and learned about running and maintaining Open Source projects for three decades.
 - 🌟 [bagder/http3-explained](https://github.com/bagder/http3-explained): A document describing the HTTP/3 and QUIC protocols <https://http3-explained.haxx.se>
 - [beejjorgensen/bgnet](https://github.com/beejjorgensen/bgnet): Beej's Guide to Network Programming source <https://beej.us/guide/bgnet/html> <https://beej-zhtw-gitbook.netdpi.net>
+- 🌟 [Lord of the io_uring](https://unixism.net/loti/): Welcome to Lord of the io_uring
+- [syncsynchalt/illustrated-quic](https://github.com/syncsynchalt/illustrated-quic): The Illustrated QUIC Connection: Every byte explained <https://quic.xargs.org>
+  - [cangSDARM/illustrate](https://github.com/cangSDARM/illustrate): illustrate QUIC, TLS 1.2, TLS 1.3, DTLS 中文翻译 <https://cangsdarm.github.io/illustrate/>
 
 ### Readings
 
-- [syncsynchalt/illustrated-quic](https://github.com/syncsynchalt/illustrated-quic): The Illustrated QUIC Connection: Every byte explained <https://quic.xargs.org>
-  - [cangSDARM/illustrate](https://github.com/cangSDARM/illustrate): illustrate QUIC, TLS 1.2, TLS 1.3, DTLS 中文翻译 <https://cangsdarm.github.io/illustrate/>
 - [https-dev/docs](https://github.com/https-dev/docs/blob/master/list-of-acme-servers.md): List of ACME Servers
 - [clowwindy/Awesome-Networking](https://github.com/clowwindy/Awesome-Networking): A curated list of awesome networking libraries, resources and shiny things
 - [See this page fetch itself, byte by byte, over TLS](https://subtls.pages.dev/)
 - [riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote): 📘《TCP/IP 网络编程》(韩-尹圣雨)学习笔记
 - 🌟🌟🌟 [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. <http://book.hacktricks.xyz/>
 - [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation): Curated Awesome list about Network Automation
+- [espoal/awesome-iouring](https://github.com/espoal/awesome-iouring): Delightful io_uring packages and resources
 
 ## Libraries
 

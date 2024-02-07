@@ -19,6 +19,9 @@
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf): Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source <https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/>
 - [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/):Lean is an interactive theorem prover developed at Microsoft Research, based on dependent type theory. Dependent type theory unites the worlds of programs and proofs; thus, Lean is also a programming language.
 - [Thinking with Types](https://thinkingwithtypes.com/): Type-Level Programming in Haskell. The book that takes you from a competent Haskell programmer to one whose compiler does the work for you.
+  - [chiroptical/thinking-with-types](https://github.com/chiroptical/thinking-with-types): Working through the Thinking with Types book in Haskell
+- [Book of Monads](https://leanpub.com/book-of-monads)
+  - [chiroptical/book-of-monads](https://github.com/chiroptical/book-of-monads): Finished Book of Monads by Alejandro Serrano-Mena
 
 ### Readings
 
@@ -54,6 +57,10 @@
 - [re-xyr/cleff](https://github.com/re-xyr/cleff): Fast and concise extensible effects <https://hackage.haskell.org/package/cleff>
 - [patrickt/effects-benchmarks](https://github.com/patrickt/effects-benchmarks): Benchmarking Haskell extensible-effect libraries.
 - [polysemy-research/polysemy](https://github.com/polysemy-research/polysemy): ♊ higher-order, no-boilerplate monads
+
+## Computation
+
+- [stevana/arrow-loop-state-machines](https://github.com/stevana/arrow-loop-state-machines): Experiment with representing state machines as arrow loop combinators
 
 ## PL
 

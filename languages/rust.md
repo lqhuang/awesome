@@ -91,6 +91,7 @@
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin): A code coverage tool for Rust projects
 - [rust-analyzer/expect-test](https://github.com/rust-analyzer/expect-test): Minimalistic snapshot testing for Rust.
 - [proptest-rs/proptest](https://github.com/proptest-rs/proptest): Hypothesis-like property testing for Rust
+- [rustwasm/twiggy](https://github.com/rustwasm/twiggy): Twiggy🌱 is a code size profiler <https://rustwasm.github.io/twiggy>
 
 ### Performance profile
 
@@ -354,6 +355,7 @@
 - [alexcrichton/filetime](https://github.com/alexcrichton/filetime): Accessing file timestamps in a platform-agnostic fashion in Rust
 - 🌟 [cloudflare/foundations](https://github.com/cloudflare/foundations): Cloudflare's Rust service foundations library.
 - [rayon-rs/either](https://github.com/rayon-rs/either): The enum Either with variants Left and Right is a general purpose sum type with two cases. <https://docs.rs/either/>
+- [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64): base64, in rust
 
 ## Domain related
 

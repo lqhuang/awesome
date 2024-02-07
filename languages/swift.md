@@ -53,6 +53,7 @@
 - [TokamakUI/Tokamak](https://github.com/TokamakUI/Tokamak): SwiftUI-compatible framework for building browser apps with WebAssembly and native apps for other platforms
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui): Display and customize Markdown text in SwiftUI
 - [pointfreeco/swiftui-navigation](https://github.com/pointfreeco/swiftui-navigation): Tools for making SwiftUI navigation simpler, more ergonomic and more precise.
+- 🌟 [joogps/Glur](https://github.com/joogps/Glur): Progressive blurs in SwiftUI.
 
 ### Vis
 

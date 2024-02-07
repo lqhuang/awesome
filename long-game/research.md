@@ -100,3 +100,4 @@
 - [jonbarron/tabilize](https://github.com/jonbarron/tabilize): Simple code for generating a color-coded latex table from raw data
 - 🌟 [stone-zeng/latex-talk](https://github.com/stone-zeng/latex-talk): Modern LaTeX in a Nutshell
 - [mathquill/mathquill](https://github.com/mathquill/mathquill): Easily type math in your webapp <http://mathquill.com>
+- 🌟 [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz): CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.

@@ -32,6 +32,7 @@
 
 ## Web
 
+- [yesodweb/wai](https://github.com/yesodweb/wai): Haskell Web Application Interface
 - [monadicsystems/okapi](https://github.com/monadicsystems/okapi): A web microframework for Haskell based on monadic parsing <https://www.okapi.wiki>
 - [reflex-frp/reflex](https://github.com/reflex-frp/reflex): Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse. <https://reflex-frp.org>
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk): Functional reactive web and mobile applications, with batteries included. <https://reflex-frp.org>
@@ -42,6 +43,12 @@
 - [Airsequel/haskell-template](https://github.com/Airsequel/haskell-template): Opinionated template for new Haskell projects.
 - [nicolashery/example-handlers-haskell](https://github.com/nicolashery/example-handlers-haskell): Example of non-trivial web handlers in Haskell web frameworks Scotty, Yesod, and Servant
   - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant)
+
+## Clients
+
+- [yesodweb/persistent](https://github.com/yesodweb/persistent): Persistence interface for Haskell allowing multiple storage methods.
+- [circuithub/rel8](https://github.com/circuithub/rel8): Hey! Hey! Can u rel8? <https://rel8.readthedocs.io>
+- [morphismtech/squeal](https://github.com/morphismtech/squeal): Squeal, a deep embedding of SQL in Haskell
 
 ## Other good libs
 

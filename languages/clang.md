@@ -57,6 +57,9 @@
 - [Clang Static Analyzer](https://clang-analyzer.llvm.org/): The Clang Static Analyzer is a source code analysis tool that finds bugs in C, C++, and Objective-C programs. <https://clang.llvm.org/docs/ClangStaticAnalyzer.html>
 - [naivesystems/analyze](https://github.com/naivesystems/analyze): NaiveSystems Analyze is a static analysis tool for code security and compliance.
 - [DynamoRIO/drmemory](https://github.com/DynamoRIO/drmemory): Memory Debugger for Windows, Linux, Mac, and Android
+- [facebook/infer](https://github.com/facebook/infer): A static analyzer for Java, C, C++, and Objective-C <http://fbinfer.com/>
+- [cmu-sei/pharos](https://github.com/cmu-sei/pharos): Automated static analysis tools for binary programs
+- [danmar/cppcheck](https://github.com/danmar/cppcheck): static analysis of C/C++ code <https://cppcheck.sourceforge.io/>
 
 ### Test suites
 
@@ -89,12 +92,7 @@
 - [madler/pigz](https://github.com/madler/pigz): A parallel implementation of gzip for modern multi-processor, multi-core machines. <http://zlib.net/pigz>
 - [scandum/blitsort](https://github.com/scandum/blitsort): Blitsort is an in-place stable adaptive rotate mergesort / quicksort.
 - [Blosc/c-blosc2](https://github.com/Blosc/c-blosc2): A fast, compressed, persistent binary data store library for C. <https://www.blosc.org>
-- [NVIDIA/thrust](https://github.com/NVIDIA/thrust): The C++ parallel algorithms library.
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers. <https://greg7mdp.github.io/parallel-hashmap>
-- [Amanieu/asyncplusplus](https://github.com/Amanieu/asyncplusplus): Async++ concurrency framework for C++11
-- [netcan/asyncio](https://github.com/netcan/asyncio): asyncio is a c++20 library to write concurrent code using the async/await syntax.
-- 🌟 [mitchellh/libxev](https://github.com/mitchellh/libxev): libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
-- 🌟 [uNetworking/uSockets](https://github.com/uNetworking/uSockets): Miniscule cross-platform eventing, networking & crypto for async applications
 - [facebook/CacheLib](https://github.com/facebook/CacheLib): Pluggable in-process caching engine to build and scale high performance services <https://www.cachelib.org>
 - [ned14/quickcpplib](https://github.com/ned14/quickcpplib): Eliminate all the tedious hassle when making state-of-the-art C++ 14 - 23 libraries!
 - [soasis/text](https://github.com/soasis/text): A spicy text library for C++ that has the explicit goal of enabling the entire ecosystem to share in proper forward progress towards a bright Unicode future. <https://ztdtext.readthedocs.io/en/latest/>
@@ -102,7 +100,6 @@
 - [tcbrindle/flux](https://github.com/tcbrindle/flux): A C++20 library for sequence-orientated programming <https://tristanbrindle.com/flux/>
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
 - [foonathan/type_safe](https://github.com/foonathan/type_safe): Zero overhead utilities for preventing bugs at compile time <https://type_safe.foonathan.net>
-- [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp): Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all
 - [randombit/botan](https://github.com/randombit/botan): Cryptography Toolkit <https://botan.randombit.net>
 - [openucx/ucx](https://github.com/openucx/ucx): Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group) <http://www.openucx.org>
 - [google/cpu_features](https://github.com/google/cpu_features): A cross platform C99 library to get cpu features at runtime.
@@ -116,6 +113,19 @@
   - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust): Super-fast float parser in Rust (now part of Rust core) <https://docs.rs/fast-float>
 - [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 - [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
+
+## Async / Concurrency
+
+- [Amanieu/asyncplusplus](https://github.com/Amanieu/asyncplusplus): Async++ concurrency framework for C++11
+- [netcan/asyncio](https://github.com/netcan/asyncio): asyncio is a c++20 library to write concurrent code using the async/await syntax.
+- [mitchellh/libxev](https://github.com/mitchellh/libxev): libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
+- [uNetworking/uSockets](https://github.com/uNetworking/uSockets): Miniscule cross-platform eventing, networking & crypto for async applications
+- [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp): Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all
+- [facebookexperimental/libunifex](https://github.com/facebookexperimental/libunifex): Unified Executors
+
+## Network
+
+- [erpc-io/eRPC](https://github.com/erpc-io/eRPC): Efficient RPCs for datacenter networks <https://erpc.io/>
 
 ## Framework
 
