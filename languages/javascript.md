@@ -29,6 +29,7 @@
 ### Runtime
 
 - [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. <https://bun.sh>
+- [awslabs/llrt](https://github.com/awslabs/llrt): LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 
 ### Testing
 

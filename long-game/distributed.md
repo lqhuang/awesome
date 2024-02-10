@@ -23,6 +23,7 @@
 - [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia): DDIA 逐章精读 <https://ddia.qtmuniao.com>
 - [JEPSEN Analyses](https://jepsen.io/analyses): Since 2013, Jepsen has analyzed over two dozen databases, coordination services, and queues—and we’ve found replica divergence, data loss, stale reads, read skew, lock conflicts, and much more. Here’s every analysis we’ve published.
 - [frankmcsherry/blog](https://github.com/frankmcsherry/blog): Some notes on things I find interesting and important.
+- [“My bad opinions”](https://ferd.ca/a-distributed-systems-reading-list.html): A Distributed Systems Reading List
 
 ### Books
 

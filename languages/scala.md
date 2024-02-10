@@ -17,6 +17,7 @@
 - [softinio/scalanews](https://github.com/softinio/scalanews): Scala News - A Community Crowd Sourced newsletter using RSS <https://www.scalanews.net>
 - [Scala (2) Style Guide](https://docs.scala-lang.org/style/)
 - [Scala 3 Reference](https://docs.scala-lang.org/scala3/reference/index.html)
+- [A Macro Almanac](https://macros.kitlangton.com/): Draft book for Scala 3 macro!
 
 ### Exercises
 

@@ -2,7 +2,7 @@
 
 ## Resources
 
-- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines): A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. <https://clig.dev>
+- 🌟🌟🌟 [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines): A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. <https://clig.dev>
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 - [awesome-macos-command-line](https://git.herrbischoff.com/awesome-macos-command-line/about/):A curated list of shell commands and tools specific to macOS.
 - [awesome-command-line-apps](https://git.herrbischoff.com/awesome-command-line-apps/about/): A curated list of useful command line apps, in celebration of the TUI.

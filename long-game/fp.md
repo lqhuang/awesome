@@ -66,7 +66,7 @@
 
 - [jwiegley/category-theory](https://github.com/jwiegley/category-theory): An axiom-free formalization of category theory in Coq for personal study and practical work
 - [Category Theory in Coq](http://www.megacz.com/berkeley/coq-categories/): This is a quick page I've thrown together for my Coq library formalizing basic category theory. The development follows Steve Awodey's book on category theory; the files are named after chapters and subchapters of that book for easy reference.
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep): ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust <https://ast-grep.github.io>
+- 🌟 [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep): ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust <https://ast-grep.github.io>
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep): Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. <https://semgrep.dev>
 
 ## Experimental languages

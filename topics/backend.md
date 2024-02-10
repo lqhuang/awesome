@@ -18,6 +18,10 @@
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike): ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer <https://chiselstrike.com/>
 - [cylexVEVO/turso-dashboard](https://github.com/cylexVEVO/turso-dashboard): Simple dashboard for managing your Turso databases.
 
+## Full Stack
+
+- [wasp-lang/wasp](https://github.com/wasp-lang/wasp): The fastest way to develop full-stack web apps with React & Node.js. <https://wasp-lang.dev/>
+
 ## CMS
 
 - [wagtail/wagtail](https://github.com/wagtail/wagtail): A Django content management system focused on flexibility and user experience <https://wagtail.org>
