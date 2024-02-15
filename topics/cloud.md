@@ -31,6 +31,7 @@
 - 🌟 [89luca89/distrobox](https://github.com/89luca89/distrobox): Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox <https://distrobox.it/>
   - [Arch Linux Wiki - Distrobox](https://wiki.archlinux.org/title/Distrobox)
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments. <https://www.vagrantup.com>
+- [tteck/Proxmox](https://github.com/tteck/Proxmox): Proxmox VE Helper-Scripts <https://helper-scripts.com/>
 
 ## Container
 
