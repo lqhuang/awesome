@@ -95,15 +95,10 @@
 - [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers. <https://greg7mdp.github.io/parallel-hashmap>
 - [facebook/CacheLib](https://github.com/facebook/CacheLib): Pluggable in-process caching engine to build and scale high performance services <https://www.cachelib.org>
 - [ned14/quickcpplib](https://github.com/ned14/quickcpplib): Eliminate all the tedious hassle when making state-of-the-art C++ 14 - 23 libraries!
-- [soasis/text](https://github.com/soasis/text): A spicy text library for C++ that has the explicit goal of enabling the entire ecosystem to share in proper forward progress towards a bright Unicode future. <https://ztdtext.readthedocs.io/en/latest/>
-- [TartanLlama/expected](https://github.com/TartanLlama/expected): C++11/14/17 std::expected with functional-style extensions <https://tl.tartanllama.xyz>
 - [tcbrindle/flux](https://github.com/tcbrindle/flux): A C++20 library for sequence-orientated programming <https://tristanbrindle.com/flux/>
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
 - [foonathan/type_safe](https://github.com/foonathan/type_safe): Zero overhead utilities for preventing bugs at compile time <https://type_safe.foonathan.net>
 - [randombit/botan](https://github.com/randombit/botan): Cryptography Toolkit <https://botan.randombit.net>
-- [openucx/ucx](https://github.com/openucx/ucx): Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group) <http://www.openucx.org>
-- [google/cpu_features](https://github.com/google/cpu_features): A cross platform C99 library to get cpu features at runtime.
-- [google/nsync](https://github.com/google/nsync): nsync is a C library that exports various synchronization primitives, such as mutexes
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
 - [TheNumbat/rpp](https://github.com/TheNumbat/rpp): Minimal Rust-inspired C++20 STL replacement
 
@@ -114,8 +109,16 @@
 - [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 - [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
 
+## String
+
+- [zrax/string_theory](https://github.com/zrax/string_theory): Flexible modern C++ string library with type-safe formatting
+- [soasis/text](https://github.com/soasis/text): A spicy text library for C++ that has the explicit goal of enabling the entire ecosystem to share in proper forward progress towards a bright Unicode future. <https://ztdtext.readthedocs.io/en/latest/>
+- [unicode-org/icu4x](https://github.com/unicode-org/icu4x): Solving i18n for client-side and resource-constrained environments. <https://icu4x.unicode.org>
+- [openucx/ucx](https://github.com/openucx/ucx): Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group) <http://www.openucx.org>
+
 ## Async / Concurrency
 
+- [google/nsync](https://github.com/google/nsync): nsync is a C library that exports various synchronization primitives, such as mutexes
 - [Amanieu/asyncplusplus](https://github.com/Amanieu/asyncplusplus): Async++ concurrency framework for C++11
 - [netcan/asyncio](https://github.com/netcan/asyncio): asyncio is a c++20 library to write concurrent code using the async/await syntax.
 - [mitchellh/libxev](https://github.com/mitchellh/libxev): libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
@@ -167,8 +170,9 @@
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI): 💻 C++ Functional Terminal User Interface. ❤️
 - [intel/hyperscan](https://github.com/intel/hyperscan): High-performance regular expression matching library <https://www.hyperscan.io>
 - 🌟 [p-ranav/argparse](https://github.com/p-ranav/argparse): Argument Parser for Modern C++
-- [zrax/string_theory](https://github.com/zrax/string_theory): Flexible modern C++ string library with type-safe formatting
-- [unicode-org/icu4x](https://github.com/unicode-org/icu4x): Solving i18n for client-side and resource-constrained environments. <https://icu4x.unicode.org>
+- [TartanLlama/expected](https://github.com/TartanLlama/expected): C++11/14/17 std::expected with functional-style extensions <https://tl.tartanllama.xyz>
+- [google/cpu_features](https://github.com/google/cpu_features): A cross platform C99 library to get cpu features at runtime.
+- [nihui/ruapu](https://github.com/nihui/ruapu): Detect CPU ISA features with single-file <https://github.com/nihui/ruapu>
 
 ## Compiler beyond default Clang
 

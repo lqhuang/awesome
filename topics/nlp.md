@@ -18,6 +18,7 @@
 - [huggingface/llm-ls](https://github.com/huggingface/llm-ls): LSP server leveraging LLMs for code completion (and more?)
 - [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer): Online playground for OpenAPI tokenizers <https://tiktokenizer.vercel.app>
 - 🌟 [michaelfeil/infinity](https://github.com/michaelfeil/infinity): Infinity is a high-throughput, low-latency REST API for serving vector embeddings, supporting a wide range of sentence-transformer models and frameworks.
+- [AmenRa/ranx](https://github.com/AmenRa/ranx): ⚡️A Blazing-Fast Python Library for Ranking Evaluation, Comparison, and Fusion 🐍 <https://amenra.github.io/ranx>
 
 ## Embedding Search (ANN)
 

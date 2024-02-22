@@ -71,12 +71,13 @@
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq): Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq): Repo for external large-scale work
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-- [google/maxtext](https://github.com/google/maxtext): A simple, performant and scalable Jax LLM!
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor): Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax): Model parallel transformers in JAX and Haiku
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax): This repository contains optimised JAX code for OpenAI's Whisper Model, largely built on the 🤗 Hugging Face Transformers Whisper implementation. Compared to OpenAI's PyTorch code, Whisper JAX runs over 70x faster, making it the fastest Whisper implementation available.
 - [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper): Faster Whisper transcription with CTranslate2
 - 🌟 [google/trax](https://github.com/google/trax): Trax — Deep Learning with Clear Code and Speed
+- [google/maxtext](https://github.com/google/maxtext): A simple, performant and scalable Jax LLM!
+- [google/maxdiffusion](https://github.com/google/maxdiffusion): No description, website, or topics provided.
 - [NVIDIA-Merlin/Merlin](https://github.com/NVIDIA-Merlin/Merlin): NVIDIA Merlin is an open source library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in production.
 - 🌟 [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention): Fast and memory-efficient exact attention
 - [explosion/curated-transformers](https://github.com/explosion/curated-transformers): 🤖 A PyTorch library of curated Transformer models and their composable components

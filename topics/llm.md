@@ -124,6 +124,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: open-source LLM chatbots that you can run anywhere <https://gpt4all.io>
 - [nalgeon/pokitoki](https://github.com/nalgeon/pokitoki): Humble ChatGPT Telegram Bot
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna): 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. <https://vanna.ai/docs/>
+- [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client <https://chathub.gg/?utm_source=github>
 
 ### LLM Prompts
 

@@ -54,6 +54,7 @@
 - [google/typograms](https://github.com/google/typograms): Typograms (short for typographic diagrams) is a lightweight image format (text/typogram) useful for defining simple diagrams in technical documentation
 - 🌟 [varkor/quiver](https://github.com/varkor/quiver): A modern commutative diagram editor for the web. <https://q.uiver.app>
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit): Next Generation Visual Programming System <https://unit.land>
+- [holistics/dbml](https://github.com/holistics/dbml): Database Markup Language (DBML), designed to define and document database structures <https://dbml.dbdiagram.io>
 
 ## Homelab
 

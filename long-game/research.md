@@ -15,7 +15,7 @@
 - [dataflowr/notebooks](https://github.com/dataflowr/notebooks): code for deep learning courses <http://www.dataflowr.com/>
 - [dyweb/papers-notebook](https://github.com/dyweb/papers-notebook): 📄 🇨🇳 📃 论文阅读笔记（分布式系统、虚拟化、机器学习）Papers Notebook (Distributed System, Virtualization, Machine Learning) 目前不再以 Markdown 文件的方式维护，转到 issue 页面进行，也欢迎到这个 issue 中分享您认为值得一读的 paper
 - [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning): List of papers studying machine learning through the lens of category theory
-- [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial): 《李宏毅深度学习教程》
+- 🌟 [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial): 《李宏毅深度学习教程》
 - [强化学习 100 题 - by 斎藤 康毅 (Koki Saitoh)](https://p100.koki-saitoh.com/zh-CN)
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 <https://xiaolincoding.com>
 - 🌟 [graykode/distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need): The basic distribution probability Tutorial for Deep Learning Researchers
