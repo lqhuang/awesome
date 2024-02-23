@@ -135,6 +135,7 @@
   - [netbirdio/netbird](https://github.com/netbirdio/netbird): Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. <https://netbird.io>
   - [tonarino/innernet](https://github.com/tonarino/innernet): A private network system that uses WireGuard under the hood. <https://blog.tonari.no/introducing-innernet>
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne): A Smart Ethernet Switch for Earth <https://zerotier.com>
+- [Twingate](https://www.twingate.com/): Twingate makes Zero Trust Network Access easy to deploy, even easier to use, and always secure.
 
 ## Online tools / Services
 

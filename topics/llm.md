@@ -41,6 +41,7 @@
 - [sgl-project/sglang](https://github.com/sgl-project/sglang): SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.
   - [Fast and Expressive LLM Inference with RadixAttention and SGLang](https://lmsys.org/blog/2024-01-17-sglang/)
 - [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI): The open source platform for AI-native application development. <https://www.tasking.ai>
+- [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow <https://flowiseai.com>
 
 ### Tools
 
@@ -56,6 +57,8 @@
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured): Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines. <https://www.unstructured.io/>
 
 ## Model
+
+- [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, Gemma, and other large language models. <https://ollama.com>
 
 ### OpenAI GPT
 
@@ -154,5 +157,5 @@
 - [serge-chat/serge](https://github.com/serge-chat/serge): A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API. <https://serge.chat>
 - [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar): 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖 <https://RealChar.ai/>
 - [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox): A cross-platform desktop application for ChatGPT API (OpenAI API), also a prompt debugging and management tool. <https://chatboxapp.xyz>
-- [ollama-webui/ollama-webui](https://github.com/ollama-webui/ollama-webui): ChatGPT-Style Web UI Client for Ollama 🦙 <https://ollamahub.com/>
+- [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly WebUI for LLMs (Formerly Ollama WebUI) <https://openwebui.com>
 - [lencx/Noi](https://github.com/lencx/Noi): 🦄 AI + Tools + Plugins + Community <https://noi.nofwl.com>

@@ -34,6 +34,8 @@
 - [ory/hydra](https://github.com/ory/hydra): OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. <https://www.ory.sh/hydra>
 - [ory/keto](https://github.com/ory/keto): Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. <https://www.ory.sh>
 - [zitadel/zitadel](https://github.com/zitadel/zitadel): ZITADEL - Identity infrastructure, simplified for you. <https://zitadel.com>
+- [authelia/authelia](https://github.com/authelia/authelia): The Single Sign-On Multi-Factor portal for web apps <https://www.authelia.com>
+- [goauthentik/authentik](https://github.com/goauthentik/authentik): The authentication glue you need. <https://goauthentik.io>
 
 ## Worksuites
 
