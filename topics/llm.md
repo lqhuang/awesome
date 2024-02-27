@@ -1,18 +1,14 @@
 # About LLM
 
-## Framework
+## Frameworks
 
-### Agents / Chains / Composability
+### Agents
 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain): ⚡ Building applications with LLMs through composability ⚡ <https://python.langchain.com/>
   - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and projects with the awesome LangChain framework
-- [logspace-ai/langflow](https://github.com/logspace-ai/langflow): ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [langgenius/dify](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. <https://dify.ai>
-- [embedchain/embedchain](https://github.com/embedchain/embedchain): The Open Source RAG framework <https://docs.embedchain.ai>
-  - [Demo: Chat with PDF](https://ec-chat-pdf.streamlit.app/)
 - [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex (formerly GPT Index) is a data framework for your LLM applications <https://docs.llamaindex.ai>
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app): LLM App is a production framework for building and serving AI applications and LLM-enabled real-time data pipelines. <https://pathway.com/developers/showcases/llm-app-pathway/>
-- [safevideo/autollm](https://github.com/safevideo/autollm): Ship RAG based LLM web apps in seconds.
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig): aiconfig -- config-driven, source control friendly AI application development <https://aiconfig.lastmileai.dev>
 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel): Integrate cutting-edge LLM technology quickly and easily into your apps <https://aka.ms/semantic-kernel>
@@ -27,25 +23,38 @@
 - [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt): 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼
 - [Azure/kaito](https://github.com/Azure/kaito): Kubernetes AI Toolchain Operator
 
-- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts): Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% <https://discord.gg/qUtxnK2NMf>
-- [a16z-infra/cog-llama-template](https://github.com/a16z-infra/cog-llama-template): LLaMA Cog template
-
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. <https://superagi.com/>
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it.
 - ❔ [Xpitfire/symbolicai](https://github.com/Xpitfire/symbolicai): Compositional Differentiable Programming Library
-- 📝 [1rgs/jsonformer](https://github.com/1rgs/jsonformer): A Bulletproof Way to Generate Structured JSON from Language Models
-- [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json): Structured and typehinted GPT responses in Python
-- [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer): Enforce the output format (JSON Schema, Regex etc) of a language model
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori): A reactive runtime for building durable AI agents <https://docs.thousandbirds.ai>
-- [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails): Adding guardrails to large language models. <https://docs.guardrailsai.com/>
 - [sgl-project/sglang](https://github.com/sgl-project/sglang): SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.
   - [Fast and Expressive LLM Inference with RadixAttention and SGLang](https://lmsys.org/blog/2024-01-17-sglang/)
 - [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI): The open source platform for AI-native application development. <https://www.tasking.ai>
+
+### App Builder
+
+- [Vellum AI](https://www.vellum.ai/): AI Product Development is Here.
+- [logspace-ai/langflow](https://github.com/logspace-ai/langflow): ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow <https://flowiseai.com>
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack): 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. <https://haystack.deepset.ai>
+
+### Reasoning
+
+- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts): Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% <https://discord.gg/qUtxnK2NMf>
+- [a16z-infra/cog-llama-template](https://github.com/a16z-infra/cog-llama-template): LLaMA Cog template
+
+### RAG
+
+- [embedchain/embedchain](https://github.com/embedchain/embedchain): The Open Source RAG framework <https://docs.embedchain.ai>
+  - [Demo: Chat with PDF](https://ec-chat-pdf.streamlit.app/)
+- [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille): No description, website, or topics provided.
+- [safevideo/autollm](https://github.com/safevideo/autollm): Ship RAG based LLM web apps in seconds.
 
 ### Tools
 
 - [Helicone/helicone](https://github.com/Helicone/helicone): Helicone is an open-source observability platform for GPT-3 users. Companies save on their OpenAI bills and identify application issues by monitoring their usage, latency, and costs on Helicone. <https://www.helicone.ai/>
+- [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, Litellm <https://langfuse.com/docs>
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry <https://www.traceloop.com/openllmetry>
 - [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit): OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications. The kit includes an instruction-tuned language models, a moderation model, and an extensible retrieval system for including up-to-date responses from custom repositories.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache): GPTCache is a library for creating semantic cache to store responses from LLM queries. <https://gptcache.readthedocs.io>
 - [mirrors2/opencatd-open](https://github.com/mirrors2/opencatd-open): opencatd-open 是 OpenCat 团队版的开源实现 <https://opencatd.zeabur.app>
@@ -55,6 +64,13 @@
 - 🌟 [r2d4/rellm](https://github.com/r2d4/rellm): Exact structure out of any language model completion.
 - [smpanaro/more-ane-transformers](https://github.com/smpanaro/more-ane-transformers): Run transformers (incl. LLMs) on the Apple Neural Engine.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured): Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines. <https://www.unstructured.io/>
+
+### Enforce
+
+- 📝 [1rgs/jsonformer](https://github.com/1rgs/jsonformer): A Bulletproof Way to Generate Structured JSON from Language Models
+- [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json): Structured and typehinted GPT responses in Python
+- [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer): Enforce the output format (JSON Schema, Regex etc) of a language model
+- [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails): Adding guardrails to large language models. <https://docs.guardrailsai.com/>
 
 ## Model
 
@@ -110,7 +126,6 @@
 - [llSourcell/DoctorGPT](https://github.com/llSourcell/DoctorGPT): DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM): Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath
 - [lyogavin/Anima](https://github.com/lyogavin/Anima): 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
-- [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit): No description, website, or topics provided.
 
 ## Applications
 
@@ -118,7 +133,7 @@
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt): Create your own ChatGPT App in seconds. <https://open-gpt.app>
 - [SevaSk/ecoute](https://github.com/SevaSk/ecoute): Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested response using OpenAI's GPT-3.5 for the user to say based on the live transcription of the conversation.
 - [sourcegraph/cody](https://github.com/sourcegraph/cody): AI that knows your entire codebase <https://cody.dev>
-- [danswer-ai/danswer](https://github.com/danswer-ai/danswer): Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. <https://docs.danswer.dev/>
+- 🌟 [danswer-ai/danswer](https://github.com/danswer-ai/danswer): Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc. <https://docs.danswer.dev/>
 - [SpursGoZmy/Tabular-LLM](https://github.com/SpursGoZmy/Tabular-LLM): 本项目旨在收集开源的表格智能任务数据集（比如表格问答、表格-文本生成等），将原始数据整理为指令微调格式的数据并微调 LLM，进而增强 LLM 对于表格数据的理解，最终构建出专门面向表格智能任务的大型语言模型。
 - [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用 chatgpt 进行论文全文总结+专业翻译+润色+审稿+审稿回复 <https://chatwithpaper.org>
 - [Coframe/coffee](https://github.com/Coframe/coffee): Build and iterate on your UI 10x faster with AI - right from your own IDE ☕️

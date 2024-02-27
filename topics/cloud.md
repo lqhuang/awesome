@@ -111,6 +111,13 @@
 - [databus23/helm-diff](https://github.com/databus23/helm-diff): A helm plugin that shows a diff explaining what a helm upgrade would change
 - [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector): Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
 
+### app framework
+
+- [kedacore/keda](https://github.com/kedacore/keda): KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes <https://keda.sh>
+  - lead by Microsoft
+- [knative/eventing](https://github.com/knative/eventing): Event-driven application platform for Kubernetes <https://knative.dev/docs/eventing>
+  - lead by Google
+
 ## Hashicorp
 
 - [hashicorp/nomad-autoscaler](https://github.com/hashicorp/nomad-autoscaler): Nomad Autoscaler brings autoscaling to your Nomad workloads.

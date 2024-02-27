@@ -112,6 +112,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): ⚡ Dynamically generated stats for your github readmes <https://github-readme-stats.vercel.app>
 - [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv): LaTeX CV generator from a YAML/JSON input file. <https://sinaatalay.github.io/rendercv/>
 - 🌟 [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv): Print-friendly, minimalist CV page <https://cv.jarocki.me>
+- [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools): 收录独立开发者出海技术栈和工具
 
 ## ESL
 
@@ -120,6 +121,7 @@
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks): 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持 epub、mobi、pdf 格式, 每周更新
 - [2ndLA/English](https://github.com/2ndLA/English): 🚧 [WIP] 全面、渐进、碎片化的英语自学指引。 <https://english.highlight.ink>
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english): 人人都能用英语
+- [FaYin](https://fayin.love/): 练习发音的好助手, 支持美式音标、英式音标，以及字母表的发音
 
 ## Security / Privacy
 

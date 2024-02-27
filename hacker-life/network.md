@@ -86,6 +86,7 @@
 - [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace): An open source visual route tracking CLI tool <https://trace.ac>
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit): Run a VPN with global exit nodes with fly.io, tailscale and github! <https://news.ycombinator.com/item?id=36064305>
 - [daeuniverse/dae](https://github.com/daeuniverse/dae): A Linux high-performance transparent proxy solution based on eBPF.
+- [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy): Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns. <https://addons.mozilla.org/en-US/firefox/addon/smartproxy/>
 
 ## DNS
 
@@ -163,3 +164,5 @@
 - https://www.islegitsite.com/
 - https://www.ssllabs.com/ssltest/
 - https://www.cloudflare.com/ssl/encrypted-sni/
+- https://ipcheck.ing/
+- [BrowserScan](https://www.browserscan.net/)

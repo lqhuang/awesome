@@ -77,7 +77,7 @@
 - [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper): Faster Whisper transcription with CTranslate2
 - 🌟 [google/trax](https://github.com/google/trax): Trax — Deep Learning with Clear Code and Speed
 - [google/maxtext](https://github.com/google/maxtext): A simple, performant and scalable Jax LLM!
-- [google/maxdiffusion](https://github.com/google/maxdiffusion): No description, website, or topics provided.
+- [google/maxdiffusion](https://github.com/google/maxdiffusion): MaxDiffusion is a Latent Diffusion model written in pure Python/Jax and targeting Google Cloud TPUs.
 - [NVIDIA-Merlin/Merlin](https://github.com/NVIDIA-Merlin/Merlin): NVIDIA Merlin is an open source library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in production.
 - 🌟 [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention): Fast and memory-efficient exact attention
 - [explosion/curated-transformers](https://github.com/explosion/curated-transformers): 🤖 A PyTorch library of curated Transformer models and their composable components
@@ -93,6 +93,7 @@
 - 🌟 [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast): Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
   - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
   - [Horace He (@cHHillee)'s threads about gpt-fast](https://twitter.com/cHHillee/status/1730293330213531844)
+- [facebookresearch/DiT](https://github.com/facebookresearch/DiT): Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 
 ### Inference engine / large-scale deployment
 
@@ -280,10 +281,15 @@
 
 - [allenai/RL4LMs](https://github.com/allenai/RL4LMs): A modular RL library to fine-tune language models to human preferences <https://rl4lms.apps.allenai.org>
 
-## Happy toy
+## Happy small projects (to learn)
 
 - [minitorch/minitorch](https://github.com/minitorch/minitorch):
 - [karpathy/micrograd](https://github.com/karpathy/micrograd): A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [pranftw/neograd](https://github.com/pranftw/neograd): A deep learning framework created from scratch with Python and NumPy <https://neograd.readthedocs.io>
 - [mohammadpz/pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward): Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation
 - [tinygrad/teenygrad](https://github.com/tinygrad/teenygrad): If tinygrad wasn't small enough for you...
+- [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers): A simple but complete full-attention transformer with a set of promising experimental features from various papers
+- [lucidrains/ring-attention-pytorch](https://github.com/lucidrains/ring-attention-pytorch): Explorations into Ring Attention, from Liu et al. at Berkeley AI
+- [lucidrains/vector-quantize-pytorch](https://github.com/lucidrains/vector-quantize-pytorch): Vector (and Scalar) Quantization, in Pytorch
+- [sustcsonglin/flash-linear-attention](https://github.com/sustcsonglin/flash-linear-attention): Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton
+- [Vchitect/LaVie](https://github.com/Vchitect/LaVie): LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models

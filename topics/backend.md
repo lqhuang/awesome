@@ -12,6 +12,7 @@
 - [isno/theByteBook](https://github.com/isno/theByteBook): ⭐ 出版作品开源。深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE 指南。如发现错误，谢谢提 issue <https://www.thebyte.com.cn>
 - 🌟 [Cactus-proj/A-Philosophy-of-Software-Design-zh](https://github.com/Cactus-proj/A-Philosophy-of-Software-Design-zh): A Philosophy of Software Design 《软件设计的哲学》中文翻译 <https://cactus-proj.github.io/A-Philosophy-of-Software-Design-zh/>
 - 🌟 [Go7hic/A-Philosophy-of-Software-Design](https://github.com/Go7hic/A-Philosophy-of-Software-Design): 《软件设计哲学》 <https://go7hic.github.io/A-Philosophy-of-Software-Design/#/>
+- [zxyle/PDF-Explained](https://github.com/zxyle/PDF-Explained): 《PDF 解析》 <https://zxyle.github.io/PDF-Explained/>
 
 ## Middleware
 

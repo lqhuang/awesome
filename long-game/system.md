@@ -64,3 +64,9 @@
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic): Lunatic is an Erlang-inspired runtime for WebAssembly <https://lunatic.solutions>
 - [extism/extism](https://github.com/extism/extism): Extend anything with WebAssembly. <https://extism.org>
 - [Effect Handlers for WebAssembly](https://wasmfx.dev/)
+
+## Numerical
+
+- 🌟 [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
+  - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust): Super-fast float parser in Rust (now part of Rust core) <https://docs.rs/fast-float>
+- [dtolnay/ryu](https://github.com/dtolnay/ryu): Fast floating point to string conversion

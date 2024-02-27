@@ -103,6 +103,8 @@
 - [tuffstuff9/nextjs-pdf-parser](https://github.com/tuffstuff9/nextjs-pdf-parser): Next.js template for seamless PDF parsing using pdf2json and FilePond. Ideal for developers seeking a ready-to-use solution for PDF content extraction in Next.js projects. <https://twitter.com/tuff_stuff9>
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js): PDF Reader in JavaScript <https://mozilla.github.io/pdf.js/>
 - [modesty/pdf2json](https://github.com/modesty/pdf2json): A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
+- [xthezealot/npmprune](https://github.com/xthezealot/npmprune): Prune unnecessary files from node_modules
+  - simple and easy LOL
 
 ## Middleware
 

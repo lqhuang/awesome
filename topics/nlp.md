@@ -20,6 +20,12 @@
 - 🌟 [michaelfeil/infinity](https://github.com/michaelfeil/infinity): Infinity is a high-throughput, low-latency REST API for serving vector embeddings, supporting a wide range of sentence-transformer models and frameworks.
 - [AmenRa/ranx](https://github.com/AmenRa/ranx): ⚡️A Blazing-Fast Python Library for Ranking Evaluation, Comparison, and Fusion 🐍 <https://amenra.github.io/ranx>
 
+### String search or operations
+
+- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla): Up to 10x faster string search, split, sort, and shuffle for long strings and multi-gigabyte files in Python and C, leveraging SIMD with just a few lines of Arm Neon and x86 AVX2 & AVX-512 intrinsics 🦖 <https://ashvardanian.com/posts/stringzilla/>
+  - [StringZilla: 5x faster strings with SIMD & SWAR 🦖](https://ashvardanian.com/posts/stringzilla/)
+- [BurntSushi/memchr](https://github.com/BurntSushi/memchr): Optimized string search routines for Rust.
+
 ## Embedding Search (ANN)
 
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss): A library for efficient similarity search and clustering of dense vectors. <https://faiss.ai>

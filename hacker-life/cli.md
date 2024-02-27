@@ -68,6 +68,7 @@
 - [sqshq/sampler](https://github.com/sqshq/sampler): Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. <https://sampler.dev>
 - [tstack/lnav](https://github.com/tstack/lnav): Log file navigator <http://lnav.org>
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin): The SQL IDE for Your Terminal. <https://harlequin.sh>
+- [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py): 👨‍💻 Python cleanup script for macOS
 
 ## Monitor
 

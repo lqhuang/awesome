@@ -36,6 +36,7 @@
 - 🌟 [nicoburns/blessed-rs](https://github.com/nicoburns/blessed-rs): A community guide to the Rust ecosystem <https://blessed.rs>
 - 🌟 [ibraheemdev/too-many-web-servers](https://github.com/ibraheemdev/too-many-web-servers): https://ibraheem.ca/posts/too-many-web-servers/
 - [nikomatsakis/rust-design-axioms](https://github.com/nikomatsakis/rust-design-axioms): Discovering and describing Rust's design axioms <https://nikomatsakis.github.io/rust-design-axioms/>
+- [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope): Interactive visualizations of Rust at compile-time and run-time <https://cognitive-engineering-lab.github.io/aquascope/>
 
 ## Build
 
@@ -290,6 +291,7 @@
 - [bincode-org/bincode](https://github.com/bincode-org/bincode): A binary encoder / decoder implementation in Rust.
 - [ron-rs/ron](https://github.com/ron-rs/ron): Rusty Object Notation
 - 🌟 [dtolnay/typetag](https://github.com/dtolnay/typetag): Serde serializable and deserializable trait objects
+- [sharksforarms/deku](https://github.com/sharksforarms/deku): Declarative binary reading and writing: bit-level, symmetric, serialization/deserialization
 
 ### Parser combinators
 
@@ -356,6 +358,7 @@
 - 🌟 [cloudflare/foundations](https://github.com/cloudflare/foundations): Cloudflare's Rust service foundations library.
 - [rayon-rs/either](https://github.com/rayon-rs/either): The enum Either with variants Left and Right is a general purpose sum type with two cases. <https://docs.rs/either/>
 - [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64): base64, in rust
+- [jaemk/cached](https://github.com/jaemk/cached): Rust cache structures and easy function memoization
 
 ## Domain related
 
@@ -377,6 +380,7 @@
 - [denoland/fastwebsockets](https://github.com/denoland/fastwebsockets): A fast RFC6455 WebSocket implementation
 - [rustwasm/gloo](https://github.com/rustwasm/gloo): A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM <https://gloo-rs.web.app>
 - [BiagioFesta/wtransport](https://github.com/BiagioFesta/wtransport): Async-friendly WebTransport implementation in Rust
+- [loco-rs/loco](https://github.com/loco-rs/loco): 🚂 🦀 The one-person framework for Rust for side-projects and startups <https://loco.rs>
 
 ### Numerical analysis
 

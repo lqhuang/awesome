@@ -91,6 +91,7 @@
 - [aonez/Keka](https://github.com/aonez/Keka): The macOS & iOS file archiver <https://www.keka.io>
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac): DevToys For mac
 - 🌟 [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman): Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ <https://proxyman.io>
+- [unixzii/StringExplorer](https://github.com/unixzii/StringExplorer): A handy tool to explore various string encoding.
 
 ### Free / Paid
 
@@ -157,6 +158,7 @@
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io): 📚 LookScanned.io - Make your PDFs look scanned <https://lookscanned.io>
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances <https://maybe.co>
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. <https://massgrave.dev>
+- [~mlb/linkhut](https://sr.ht/~mlb/linkhut/): linkhut is an open source social bookmarking website. <https://ln.ht/>
 
 ### Developer
 

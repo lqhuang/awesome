@@ -104,8 +104,6 @@
 
 ## Libs
 
-- 🌟 [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
-  - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust): Super-fast float parser in Rust (now part of Rust core) <https://docs.rs/fast-float>
 - [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 - [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
 
@@ -160,8 +158,6 @@
 - [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD): Vector Similarity Functions 3x-200x Faster than SciPy and NumPy — for Python, JavaScript, and C 11, supporting f64, f32, f16, i8, and binary vectors using SIMD for both x86 AVX2 & AVX-512 and Arm NEON & SVE 📐 <https://ashvardanian.com/posts/simsimd-faster-scipy/>
   - [SciPy distances... up to 200x faster with AVX-512 & SVE 📏](https://ashvardanian.com/posts/simsimd-faster-scipy/)
   - [Python, C, Assembly - 2'500x Faster Cosine Similarity 📐](https://ashvardanian.com/posts/python-c-assembly-comparison/)
-- [ashvardanian/StringZilla](https://github.com/ashvardanian/StringZilla): Up to 10x faster string search, split, sort, and shuffle for long strings and multi-gigabyte files in Python and C, leveraging SIMD with just a few lines of Arm Neon and x86 AVX2 & AVX-512 intrinsics 🦖 <https://ashvardanian.com/posts/stringzilla/>
-  - [StringZilla: 5x faster strings with SIMD & SWAR 🦖](https://ashvardanian.com/posts/stringzilla/)
 - [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning): The PennyLane-Lightning plugin provides a fast state-vector simulator written in C++ for use with PennyLane <https://docs.pennylane.ai/projects/lightning>
 - [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
 
