@@ -48,6 +48,7 @@
 - [rust-mobile/xbuild](https://github.com/rust-mobile/xbuild): Cross compile rust to any platform
 - [dtolnay/linkme](https://github.com/dtolnay/linkme): Safe cross-platform linker shenanigans
 - [rust-marker/marker](https://github.com/rust-marker/marker): An experimental linting interface for Rust. Let's make custom lints a reality <https://rust-marker.github.io/marker/>
+- [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action): Automate publishing Rust build artifacts for GitHub releases through GitHub Actions
 
 ### Cargo plugins
 
@@ -218,6 +219,7 @@
 - [Amanieu/intrusive-rs](https://github.com/Amanieu/intrusive-rs): Intrusive collections for Rust
 - [petgraph/petgraph](https://github.com/petgraph/petgraph): Graph data structure library for Rust.
 - [drifting-in-space/aper](https://github.com/drifting-in-space/aper): A Rust data structure library built on state machines. <https://aper.dev/>
+- [ferrilab/bitvec](https://github.com/ferrilab/bitvec): A crate for managing memory bit by bit <https://myrrlyn.net/crates/bitvec>
 
 ### CRDT
 
@@ -228,6 +230,7 @@
 - [automerge/automerge-rs](https://github.com/automerge/automerge-rs): Rust implementation of automerge
 - 🌟 [loro-dev/loro](https://github.com/loro-dev/loro): Reimagine state management with CRDTs. Easily enable collaboration and time-travel on your app. <https://loro.dev>
   - [Loro: Reimagine State Management with CRDTs](https://loro.dev/blog/loro-now-open-source)
+- [rust-crdt/rust-crdt](https://github.com/rust-crdt/rust-crdt): a collection of well-tested, serializable CRDTs for Rust
 
 ### Hashmap
 
@@ -292,6 +295,7 @@
 - [ron-rs/ron](https://github.com/ron-rs/ron): Rusty Object Notation
 - 🌟 [dtolnay/typetag](https://github.com/dtolnay/typetag): Serde serializable and deserializable trait objects
 - [sharksforarms/deku](https://github.com/sharksforarms/deku): Declarative binary reading and writing: bit-level, symmetric, serialization/deserialization
+- [CertainLach/jrsonnet](https://github.com/CertainLach/jrsonnet): Rust implementation of Jsonnet language
 
 ### Parser combinators
 
@@ -359,6 +363,8 @@
 - [rayon-rs/either](https://github.com/rayon-rs/either): The enum Either with variants Left and Right is a general purpose sum type with two cases. <https://docs.rs/either/>
 - [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64): base64, in rust
 - [jaemk/cached](https://github.com/jaemk/cached): Rust cache structures and easy function memoization
+- 🌟 [cloudflare/shellflip](https://github.com/cloudflare/shellflip): Graceful process restarts in Rust <https://blog.cloudflare.com/oxy-the-journey-of-graceful-restarts/>
+- [lettre/lettre](https://github.com/lettre/lettre): a mailer library for Rust <https://lettre.rs>
 
 ## Domain related
 

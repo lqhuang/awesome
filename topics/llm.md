@@ -10,6 +10,8 @@
 - [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex (formerly GPT Index) is a data framework for your LLM applications <https://docs.llamaindex.ai>
 - [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app): LLM App is a production framework for building and serving AI applications and LLM-enabled real-time data pipelines. <https://pathway.com/developers/showcases/llm-app-pathway/>
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig): aiconfig -- config-driven, source control friendly AI application development <https://aiconfig.lastmileai.dev>
+- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for agent evals and observability <https://agentops.ai>
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo <https://deepwisdom.ai/>
 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel): Integrate cutting-edge LLM technology quickly and easily into your apps <https://aka.ms/semantic-kernel>
   - [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory): Index and query any data using LLM and natural language, tracking sources and showing citations.
@@ -37,6 +39,7 @@
 - [logspace-ai/langflow](https://github.com/logspace-ai/langflow): ⛓️ LangFlow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow <https://flowiseai.com>
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack): 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. <https://haystack.deepset.ai>
+- [tensorchord/ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape): This is a landscape of the infrastructure that powers the generative AI ecosystem <https://ai-infra.fun>
 
 ### Reasoning
 
@@ -54,6 +57,7 @@
 
 - [Helicone/helicone](https://github.com/Helicone/helicone): Helicone is an open-source observability platform for GPT-3 users. Companies save on their OpenAI bills and identify application issues by monitoring their usage, latency, and costs on Helicone. <https://www.helicone.ai/>
 - [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, Litellm <https://langfuse.com/docs>
+- [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway): A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API. <https://portkey.ai/features/ai-gateway>
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry <https://www.traceloop.com/openllmetry>
 - [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit): OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications. The kit includes an instruction-tuned language models, a moderation model, and an extensible retrieval system for including up-to-date responses from custom repositories.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache): GPTCache is a library for creating semantic cache to store responses from LLM queries. <https://gptcache.readthedocs.io>
@@ -143,6 +147,7 @@
 - [nalgeon/pokitoki](https://github.com/nalgeon/pokitoki): Humble ChatGPT Telegram Bot
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna): 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. <https://vanna.ai/docs/>
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client <https://chathub.gg/?utm_source=github>
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context 📚🦙 <https://memgpt.readme.io>
 
 ### LLM Prompts
 

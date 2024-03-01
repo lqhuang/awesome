@@ -18,6 +18,7 @@
 - [Fullstack deep learning](https://fullstackdeeplearning.com/): News, community, and courses for people building AI-powered products.
 - [hyperai/tvm-cn](https://github.com/hyperai/tvm-cn): TVM Documentation in Chinese Simplified / TVM 中文文档 <https://tvm.hyper.ai>
 - [HazyResearch/aisys-building-blocks](https://github.com/HazyResearch/aisys-building-blocks): Building blocks for foundation models.
+- [jessevig/bertviz](https://github.com/jessevig/bertviz): BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.) <https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1>
 
 ### Books
 
@@ -94,6 +95,7 @@
   - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
   - [Horace He (@cHHillee)'s threads about gpt-fast](https://twitter.com/cHHillee/status/1730293330213531844)
 - [facebookresearch/DiT](https://github.com/facebookresearch/DiT): Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
+- [crabml/crabml](https://github.com/crabml/crabml): crabml is an ongoing experiment that aims to reimplement GGML using Rust.
 
 ### Inference engine / large-scale deployment
 
@@ -244,6 +246,12 @@
 - [google/jaxopt](https://github.com/google/jaxopt): Hardware accelerated, batchable and differentiable optimizers in JAX. <https://jaxopt.github.io>
 - [google/paxml](https://github.com/google/paxml): Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates.
 - [google/orbax](https://github.com/google/orbax): Orbax provides common utility libraries for JAX users. <https://orbax.readthedocs.io/>
+- [google-research/discs](https://github.com/google-research/discs): DISCS: The code base for the Benchmark for Discrete Sampling
+
+This is not an officially supported Google product.
+
+- [google-research/gpax](https://github.com/google-research/gpax): Gaussian processes in Jax.
+- [google-research/e3x](https://github.com/google-research/e3x): E3x is a JAX library for constructing efficient E(3)-equivariant deep learning architectures built on top of Flax.
 
 ## Libraries
 
@@ -258,6 +266,7 @@
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning operations reinvented (for pytorch, tensorflow, jax and others) <https://einops.rocks>
 - [google/tensorstore](https://github.com/google/tensorstore): Library for reading and writing large multi-dimensional arrays. <https://google.github.io/tensorstore/>
 - [google-deepmind/tree](https://github.com/google-deepmind/tree): tree is a library for working with nested data structures <https://tree.readthedocs.io>
+- [google-research/dataclass_array](https://github.com/google-research/dataclass_array): Dataclasses manipulated as numpy arrays (with batching, reshape, slicing,...) <https://dataclass-array.readthedocs.io>
 - [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses): Pytrees + dataclasses ❤️
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping): Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
@@ -293,3 +302,4 @@
 - [lucidrains/vector-quantize-pytorch](https://github.com/lucidrains/vector-quantize-pytorch): Vector (and Scalar) Quantization, in Pytorch
 - [sustcsonglin/flash-linear-attention](https://github.com/sustcsonglin/flash-linear-attention): Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton
 - [Vchitect/LaVie](https://github.com/Vchitect/LaVie): LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
+- [HMUNACHI/nanodl](https://github.com/HMUNACHI/nanodl): A Jax-based library for designing and training transformer models from scratch.

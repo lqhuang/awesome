@@ -38,7 +38,6 @@
 - 🌟 [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP): NOVA opeN sOurce Video plAyer: main repository to build them all
 - [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your favorite torrent trackers
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
-- [lizongying/my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用 <https://lyrics.run/my-tv.html>
 
 ### Notes / Knowledge Management
 
@@ -159,6 +158,8 @@
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances <https://maybe.co>
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. <https://massgrave.dev>
 - [~mlb/linkhut](https://sr.ht/~mlb/linkhut/): linkhut is an open source social bookmarking website. <https://ln.ht/>
+- [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker
+- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号 RSS 生成。(前端重构中）
 
 ### Developer
 
@@ -179,6 +180,7 @@
 - [poste.io](https://poste.io): SMTP + IMAP + POP3 + Antispam + Antivirus with Web administration + Web email ... on your server in ~5 minutes <https://hub.docker.com/r/analogic/poste.io>
 - [grommunio/gromox](https://github.com/grommunio/gromox): Groupware server backend for the grommunio Distribution, supporting MAPI/HTTP, RPC/HTTP, IMAP, POP3 protocols, PHP-MAPI bindings, and import from PST/OST/MSG/TNEF, EML/ICAL/VCF, KDB <https://gromox.com>
 - [Skiff Mail](https://skiff.com/mail): Skiff Mail protects your inbox by keeping your messages end-to-end encrypted. That means that no one but you has access to your data.
+- 🌟 [albertito/chasquid](https://github.com/albertito/chasquid): SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror] <https://blitiri.com.ar/p/chasquid/>
 
 ### Vault / Passwords
 

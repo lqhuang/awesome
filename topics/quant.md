@@ -112,6 +112,7 @@
 - [descendant-ai/functime](https://github.com/descendant-ai/functime): Time-series machine learning and embeddings at scale. <https://docs.functime.ai>
 - 🌟 [AIStream-Peelout/flow-forecast](https://github.com/AIStream-Peelout/flow-forecast): Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting). <https://flow-forecast.atlassian.net/wiki/spaces/FF/overview>
 - 🌟 [timeseriesAI/tsai](https://github.com/timeseriesAI/tsai): Time series Timeseries Deep Learning Machine Learning Pytorch fastai | State-of-the-art Deep Learning library for Time Series and Sequences in Pytorch / fastai <https://timeseriesai.github.io/tsai/>
+- [aeon-toolkit/aeon](https://github.com/aeon-toolkit/aeon): A toolkit for conducting machine learning tasks with time series data <https://aeon-toolkit.org/>
 
 ### Research
 

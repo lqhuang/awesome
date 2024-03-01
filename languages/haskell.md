@@ -29,6 +29,7 @@
 - [chshersh/iris](https://github.com/chshersh/iris): 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
 - [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative): Applicative option parser
 - [tweag/ormolu](https://github.com/tweag/ormolu): A formatter for Haskell source code <https://ormolu-live.tweag.io>
+- [jaspervdj/patat](https://github.com/jaspervdj/patat): Terminal-based presentations using Pandoc
 
 ## Web
 

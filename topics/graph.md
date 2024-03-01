@@ -21,6 +21,7 @@
 - [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx): A high performance Python graph library implemented in Rust.
 - [s1ck/graph](https://github.com/s1ck/graph): A library for high-performant graph algorithms.
 - 🌟 [higra/Higra](https://github.com/higra/Higra): Hierarchical Graph Analysis
+- [zflow-dev/zflow](https://github.com/zflow-dev/zflow): Rust implementation of Flow Based Programming Graph specification <http://zflow.dev>
 
 ## Vis
 

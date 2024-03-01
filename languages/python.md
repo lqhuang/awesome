@@ -90,6 +90,7 @@
 - 🌟 [lepture/shibuya](https://github.com/lepture/shibuya): A responsive, good looking with modern design documentation theme for Sphinx <https://shibuya.lepture.com>
 - [sphinx-contrib/emojicodes](https://github.com/sphinx-contrib/emojicodes): An extension to use emoji codes in your Sphinx documentation! 😍 <https://sphinxemojicodes.readthedocs.io>
 - [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki): Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki.
+- [spatialaudio/nbsphinx](https://github.com/spatialaudio/nbsphinx): 📒 Sphinx source parser for Jupyter notebooks <https://nbsphinx.readthedocs.io/>
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe): Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API. <https://mkdocstrings.github.io/griffe>
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc): API Documentation for Python Projects <https://pdoc.dev>
 - [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog): Automatic Changelog generator using Jinja2 templates. <https://pawamoy.github.io/git-changelog>
@@ -210,7 +211,7 @@
 - [openmc-dev/openmc](https://github.com/openmc-dev/openmc): OpenMC Monte Carlo Code <https://docs.openmc.org>
 - [dynamicslab/pysindy](https://github.com/dynamicslab/pysindy): A package for the sparse identification of nonlinear dynamical systems from data <https://pysindy.readthedocs.io/en/latest/>
 
-### Pandas Ecosystem
+### Pandas Ecosystem / DataFrame orient
 
 - [vaexio/vaex](https://github.com/vaexio/vaex): Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀 <https://vaex.io>
 - [ibis-project/ibis](https://github.com/ibis-project/ibis): Expressive analytics in Python at any scale. <http://ibis-project.org>
@@ -228,6 +229,7 @@
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai): Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
 - [man-group/dtale](https://github.com/man-group/dtale): Visualizer for pandas data structures <http://alphatechadmin.pythonanywhere.com>
 - [dimastbk/python-calamine](https://github.com/dimastbk/python-calamine): Python binding for Rust's library for reading excel and odf file - calamine. <https://pypi.org/project/python-calamine/>
+- [delftdata/valentine](https://github.com/delftdata/valentine): A tool facilitating matching for any dataset discovery method. Also, an extensible experiment suite for state-of-the-art schema matching methods.
 
 ### Jupyter ecosystem
 
@@ -468,6 +470,7 @@
 - [the-real-tokai/grablinks](https://github.com/the-real-tokai/grablinks): A simple and streamlined Python script to extract and filter links from a remote HTML resource.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy): Turns Data and AI algorithms into full web applications in no time. <https://www.taipy.io>
 - [jiisanda/docflow](https://github.com/jiisanda/docflow): DocFlow is a powerful Document Management API designed to streamline document handling, including seamless uploading, downloading, organization, versioning, sharing, and more. <https://documenter.getpostman.com/view/20984268/2s9YRGxUcp>
+- [sqlalchemy/mako](https://github.com/sqlalchemy/mako): Mako Templates for Python <https://www.makotemplates.org>
 
 ## Visualization
 
@@ -488,6 +491,7 @@
 - 🌟 [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix): Data visualisation and ray tracing in Python based on OptiX 7.7 framework. <https://rnd.team/plotoptix>
 - [mckinsey/vizro](https://github.com/mckinsey/vizro): Vizro is a toolkit for creating modular data visualization applications. <https://vizro.readthedocs.io/en/stable/>
 - [developmentseed/lonboard](https://github.com/developmentseed/lonboard): Python library for fast, interactive geospatial vector data visualization in Jupyter. <https://developmentseed.org/lonboard/latest/>
+- [arviz-devs/arviz](https://github.com/arviz-devs/arviz): Exploratory analysis of Bayesian models with Python <https://python.arviz.org>
 
 ### GUI
 

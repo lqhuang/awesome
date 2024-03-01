@@ -19,6 +19,7 @@
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors): GNU/Linux 一键更换系统软件源脚本 <https://linuxmirrors.cn>
 - [chanhx/crabviz](https://github.com/chanhx/crabviz): 🦀 A tool to generate interactive call graphs for multiple languages
 - 🌟🌟🌟 [idank/explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
+- [3rd/tsdiagram](https://github.com/3rd/tsdiagram): Create diagrams and plan your code with TypeScript. <https://tsdiagram.com>
 
 ### Misc linters / formatters
 
@@ -77,6 +78,7 @@
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin): A curated list of amazingly awesome open-source sysadmin resources.
 - 🌟🌟🌟 [louislam/dockge](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager <https://dockge.kuma.pet>
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. <https://netboot.xyz>
+- [rajnandan1/kener](https://github.com/rajnandan1/kener): Kener is a Modern Self hosted Status Page, batteries included <https://kener.ing/>
 
 ## HomeKit / IoT
 
@@ -103,8 +105,9 @@
 - 🌟 [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines): Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [ruanyf/weekly](https://github.com/ruanyf/weekly): 科技爱好者周刊，每周五发布
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline): A public release of TimelineBuilder for building personal digital data timelines.
-- [ USTC Hackergame ](https://github.com/USTC-Hackergame)
+- [USTC Hackergame](https://github.com/USTC-Hackergame)
 - [lizongying/my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用 <https://lyrics.run/my-tv.html>
+- [YueChan/Live](https://github.com/YueChan/Live): 收集于互联网的一些高清直播源。
 
 ## Branding
 
@@ -113,6 +116,7 @@
 - [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv): LaTeX CV generator from a YAML/JSON input file. <https://sinaatalay.github.io/rendercv/>
 - 🌟 [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv): Print-friendly, minimalist CV page <https://cv.jarocki.me>
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools): 收录独立开发者出海技术栈和工具
+- [fky2015/resume-ng](https://github.com/fky2015/resume-ng): A LaTeX resume template designed for optimal information density and aesthetic appeal.
 
 ## ESL
 

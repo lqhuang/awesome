@@ -121,6 +121,7 @@
 - [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator): Production PostgreSQL for Kubernetes, from high availability Postgres clusters to full-scale database-as-a-service. <https://access.crunchydata.com/documentation/postgres-operator/v5>
 - [sorintlab/stolon](https://github.com/sorintlab/stolon): PostgreSQL cloud native High Availability and more. <https://talk.stolon.io>
 - [CoreDB-io/coredb](https://github.com/CoreDB-io/coredb): Postgres for Everything <http://coredb.io>
+- [electric-sql/pglite](https://github.com/electric-sql/pglite): Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno <https://electric-sql.com>
 
 ### In-memory
 
@@ -189,6 +190,8 @@
   - pgvector
   - uuid-ossp
 - [tcdi/plrust](https://github.com/tcdi/plrust): A Rust procedural language handler for PostgreSQL
+- 🌟 [ankane/pgsync](https://github.com/ankane/pgsync): Sync data from one Postgres database to another
+- [eradman/pg-safeupdate](https://github.com/eradman/pg-safeupdate): A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE
 
 ### SQLite
 

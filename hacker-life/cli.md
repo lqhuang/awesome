@@ -62,6 +62,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file manager
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto): ranger-like terminal file manager written in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi): 💥 Blazing fast terminal file manager written in Rust, based on async I/O. <https://yazi-rs.github.io/docs/>
+- [Canop/broot](https://github.com/Canop/broot): A new way to see and navigate directory trees : https://dystroy.org/broot
 - [thetacom/hexabyte](https://github.com/thetacom/hexabyte): A modern, modular, and robust TUI hex editor. <http://io.thetacom.info/hexabyte/>
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash): A beautiful CLI dashboard for GitHub 🚀 <https://dlvhdr.github.io/gh-dash>
 - 🌟 [charmbracelet/wish](https://github.com/charmbracelet/wish): Make SSH apps, just like that! 💫
@@ -69,6 +70,7 @@
 - [tstack/lnav](https://github.com/tstack/lnav): Log file navigator <http://lnav.org>
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin): The SQL IDE for Your Terminal. <https://harlequin.sh>
 - [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py): 👨‍💻 Python cleanup script for macOS
+- 🌟 [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne): Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 
 ## Monitor
 

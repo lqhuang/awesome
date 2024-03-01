@@ -101,3 +101,4 @@
 - 🌟 [stone-zeng/latex-talk](https://github.com/stone-zeng/latex-talk): Modern LaTeX in a Nutshell
 - [mathquill/mathquill](https://github.com/mathquill/mathquill): Easily type math in your webapp <http://mathquill.com>
 - 🌟 [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz): CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
+- [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε

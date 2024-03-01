@@ -7,7 +7,6 @@
 - [argilla-io/argilla](https://github.com/argilla-io/argilla): ✨ Open-source tool for data-centric NLP. Argilla helps domain experts and data teams to build better NLP datasets in less time. <https://docs.argilla.io>
 - [nomic-ai/nomic](https://github.com/nomic-ai/nomic): Interact with Massive Embedding and Text Datasets in Your Web Browser <https://atlas.nomic.ai>
 - [chroma-core/chroma](https://github.com/chroma-core/chroma): the open source embedding database <https://www.trychroma.com>
-- 🌟 [openai/tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference): A blazing fast inference solution for text embeddings models <https://huggingface.github.io/text-embeddings-inference/>
 - [bytedance/lightseq](https://github.com/bytedance/lightseq): LightSeq: A High Performance Library for Sequence Processing and Generation
 - [vercel-labs/ai](https://github.com/vercel-labs/ai): Build AI-powered applications with React, Svelte, and Vue <https://sdk.vercel.ai/docs>
@@ -19,6 +18,12 @@
 - [dqbd/tiktokenizer](https://github.com/dqbd/tiktokenizer): Online playground for OpenAPI tokenizers <https://tiktokenizer.vercel.app>
 - 🌟 [michaelfeil/infinity](https://github.com/michaelfeil/infinity): Infinity is a high-throughput, low-latency REST API for serving vector embeddings, supporting a wide range of sentence-transformer models and frameworks.
 - [AmenRa/ranx](https://github.com/AmenRa/ranx): ⚡️A Blazing-Fast Python Library for Ranking Evaluation, Comparison, and Fusion 🐍 <https://amenra.github.io/ranx>
+
+## tokenizer / BPE
+
+- 🌟 [openai/tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+- [gautierdag/bpeasy](https://github.com/gautierdag/bpeasy): Fast bare-bones BPE for modern tokenizer training
+- [karpathy/minbpe](https://github.com/karpathy/minbpe): Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 
 ### String search or operations
 
@@ -38,3 +43,4 @@
 - [instant-labs/instant-distance](https://github.com/instant-labs/instant-distance): Fast approximate nearest neighbor searching in Rust, based on HNSW index
 - [harsha-simhadri/big-ann-benchmarks](https://github.com/harsha-simhadri/big-ann-benchmarks): Framework for evaluating ANNS algorithms on billion scale datasets. <https://big-ann-benchmarks.com>
 - [pavlin-policar/openTSNE](https://github.com/pavlin-policar/openTSNE): Extensible, parallel implementations of t-SNE <https://opentsne.rtfd.io>
+- [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search): Collections of vector search related libraries, service and research papers

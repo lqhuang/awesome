@@ -43,6 +43,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework <https://waku.gg>
 - 🌟 [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js): Reactivity without the framework <https://arrow-js.com>
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra): Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
+- 🌟🌟 [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
 
 ### Templates
 
@@ -59,11 +60,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 
 ## Toolchains
-
-### Bundler
-
-- vite
-- rolldown
 
 ### Testing suites (codes and UI)
 
@@ -114,6 +110,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte): shadcn/ui, but for Svelte. <https://shadcn-svelte.com>
 - [TGlide/radix-svelte](https://github.com/TGlide/radix-svelte): A port of Radix UI for Svelte <https://www.radix-svelte.com/>
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX): A markdown preprocessor for Svelte. <https://mdsvex.pngwn.io>
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): The UI toolkit for Svelte and Tailwind. <https://skeleton.dev>
 
 ### CSS Style
 
@@ -174,8 +171,12 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js): A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page <https://driverjs.com>
 - [signavio/react-mentions](https://github.com/signavio/react-mentions): @mention people in a textarea <https://react-mentions.vercel.app>
 - [satelllte/react-knob-headless](https://github.com/satelllte/react-knob-headless): 🎛️ Unstyled & accessible knob primitive for React. <https://react-knob-headless.vercel.app>
-- [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker): A simple TimePicker for your Shadcn UI project. <https://time.openstatus.dev/>
 - [daybrush/moveable](https://github.com/daybrush/moveable): Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable! <https://daybrush.com/moveable/>
+
+- [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker): A simple TimePicker for your Shadcn UI project. <https://time.openstatus.dev/>
+- [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar): Ultimate calendar for your React app. <https://projects.wojtekmaj.pl/react-calendar>
+- [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker): A date picker for your React app. <https://projects.wojtekmaj.pl/react-date-picker>
+- [fymmot/inclusive-dates](https://github.com/fymmot/inclusive-dates): A human-friendly datepicker – now as a Web Component! Supports natural language input through Chrono.js. Fully accessible with keyboard and screen reader. Contributions welcome! <https://fymmot.github.io/inclusive-dates/>
 
 - 🌟🌟🌟 [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
 - [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
@@ -184,8 +185,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [nygardk/react-share](https://github.com/nygardk/react-share): Social media share buttons and share counts for React
 
 - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf): Display PDFs in your React app as easily as if they were images. <https://projects.wojtekmaj.pl/react-pdf>
-- [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar): Ultimate calendar for your React app. <https://projects.wojtekmaj.pl/react-calendar>
-- [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker): A date picker for your React app. <https://projects.wojtekmaj.pl/react-date-picker>
 - [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination): A React pagination component which intelligently renders to the available width <https://react-responsive-pagination.elantha.com>
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf): Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. <https://react.onedoclabs.com/>
 
@@ -275,9 +274,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [TanStack/react-charts](https://github.com/TanStack/react-charts): ⚛️ Simple, immersive & interactive charts for React <https://react-charts.tanstack.com>
 - [bkrem/react-d3-tree](https://github.com/bkrem/react-d3-tree): 🌳 React component to create interactive D3 tree graphs <https://bkrem.github.io/react-d3-tree>
 - [holtzy/react-graph-gallery](https://github.com/holtzy/react-graph-gallery): A set of graph examples showing how to make react and d3.js work together <https://www.react-graph-gallery.com>
-- [magjac/d3-graphviz](https://github.com/magjac/d3-graphviz): Graphviz DOT rendering and animated transitions using D3
+- 🌟 [magjac/d3-graphviz](https://github.com/magjac/d3-graphviz): Graphviz DOT rendering and animated transitions using D3
 - [YYsuni/react18-json-view](https://github.com/YYsuni/react18-json-view): JSON viewer for react18 <https://jv.yysuni.com/>
 - [processing/p5.js](https://github.com/processing/p5.js): p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — <http://p5js.org/>
+- [retejs/rete](https://github.com/retejs/rete): JavaScript framework for visual programming <https://retejs.org>
 
 ## Design / Resources
 
@@ -301,6 +301,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 ### WebAssembly
 
 - [grain-lang/grain](https://github.com/grain-lang/grain): The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾 <https://grain-lang.org>
+- [hpcc-systems/hpcc-js-wasm](https://github.com/hpcc-systems/hpcc-js-wasm): HPCC-Systems Web-Assembly (JavaScript) <https://hpcc-systems.github.io/hpcc-js-wasm/>
 
 ### WebGPU / Web3D
 

@@ -26,10 +26,22 @@
 - 🌟 [Schniz/fnm](https://github.com/Schniz/fnm): 🚀 Fast and simple Node.js version manager, built in Rust <https://fnm.vercel.app>
 - [volta-cli/volta](https://github.com/volta-cli/volta): Volta: JS Toolchains as Code. ⚡ <https://volta.sh>
 
+### Tools
+
+- [vercel/turbo](https://github.com/vercel/turbo): Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. <https://turbo.build>
+- [AdiRishi/turborepo-remote-cache-cloudflare](https://github.com/AdiRishi/turborepo-remote-cache-cloudflare): An implementation of the turborepo-remote-cache server custom made for Cloudflare Workers <https://adirishi.github.io/turborepo-remote-cache-cloudflare/>
+
+### Bundler
+
+- vite
+- rolldown
+
 ### Runtime
 
 - [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. <https://bun.sh>
 - [awslabs/llrt](https://github.com/awslabs/llrt): LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+- [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node): TypeScript execution and REPL for node.js <https://typestrong.org/ts-node>
+- [privatenumber/tsx](https://github.com/privatenumber/tsx): ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 
 ### Testing
 
@@ -78,6 +90,7 @@
 - [moment/luxon](https://github.com/moment/luxon): ⏱ A library for working with dates and times in JS <https://moment.github.io/luxon>
 - 🌟 [jakubroztocil/rrule](https://github.com/jakubroztocil/rrule): JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more. <https://jakubroztocil.github.io/rrule>
 - [Hexagon/croner](https://github.com/Hexagon/croner): Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser. <https://croner.56k.guru>
+- [formkit/tempo](https://github.com/formkit/tempo): 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript. <https://tempo.formkit.com>
 
 ### Backend
 
@@ -105,6 +118,7 @@
 - [modesty/pdf2json](https://github.com/modesty/pdf2json): A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 - [xthezealot/npmprune](https://github.com/xthezealot/npmprune): Prune unnecessary files from node_modules
   - simple and easy LOL
+- [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
 
 ## Middleware
 

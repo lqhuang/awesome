@@ -34,6 +34,7 @@
 - [Learn C++](https://www.learncpp.com/): LearnCpp.com is a free website devoted to teaching you how to program in C++.
 - [lkimuk/the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp): The Book of Modern C++ (in Chinese)
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese): 《Effective Modern C++》- 完成翻译 <https://cntransgroup.github.io/EffectiveModernCppChinese/>
+- [xiaoweiChen/Learn-LLVM-17](https://github.com/xiaoweiChen/Learn-LLVM-17): 《Learn LLVM 17》的非专业个人翻译
 
 ## Toolchain
 
@@ -160,6 +161,7 @@
   - [Python, C, Assembly - 2'500x Faster Cosine Similarity 📐](https://ashvardanian.com/posts/python-c-assembly-comparison/)
 - [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning): The PennyLane-Lightning plugin provides a fast state-vector simulator written in C++ for use with PennyLane <https://docs.pennylane.ai/projects/lightning>
 - [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
+- [shibatch/sleef](https://github.com/shibatch/sleef): SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT <https://sleef.org>
 
 ## Utils
 

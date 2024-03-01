@@ -73,7 +73,8 @@
 - [megaease/easegress](https://github.com/megaease/easegress): A Cloud Native traffic orchestration system <https://megaease.com/easegress/>
   - [megaease/easegress-portal](https://github.com/megaease/easegress-portal): Easegress official portal.
 - [fastly/pushpin](https://github.com/fastly/pushpin): Proxy server for adding push to your API <https://pushpin.org>
-- [apache/trafficserver](https://github.com/apache/trafficserver): Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server. <https://trafficserver.apache.org>
+- [cloudflare/pingora](https://github.com/cloudflare/pingora): A library for building fast, reliable and evolvable network services.
+- [memorysafety/river](https://github.com/memorysafety/river): This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.
 
 ## Cloud native
 

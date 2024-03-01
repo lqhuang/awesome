@@ -18,6 +18,8 @@
 - [Scala (2) Style Guide](https://docs.scala-lang.org/style/)
 - [Scala 3 Reference](https://docs.scala-lang.org/scala3/reference/index.html)
 - [A Macro Almanac](https://macros.kitlangton.com/): Draft book for Scala 3 macro!
+- [The Good, The Magical and The Insane: Scala 3 API design patterns](https://github.com/lbialy/lbialy.github.io/tree/master/good-magical-insane)
+  - [Youtube Video](https://www.youtube.com/watch?v=JRgq8jjE2Dk)
 
 ### Exercises
 
@@ -67,6 +69,7 @@
 - [gatling/gatling](https://github.com/gatling/gatling): Modern Load Testing as Code <https://gatling.io>
 - [gatling/gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin): Gatling Plugin for SBT <https://gatling.io>
 - [spotify/ratatool](https://github.com/spotify/ratatool): A tool for data sampling, data generation, and data diffing
+- [paulbutcher/ScalaMock](https://github.com/paulbutcher/ScalaMock): Native Scala mocking framework <http://scalamock.org/>
 
 ### CI Actions
 
@@ -164,6 +167,7 @@
 - [earldouglas/sbt-lit](https://github.com/earldouglas/sbt-lit): Literate programming with sbt
 - [lightbend/mima](https://github.com/lightbend/mima): A tool for catching binary incompatibility in Scala
 - [andyglow/scala-jsonschema](https://github.com/andyglow/scala-jsonschema): Scala JSON Schema
+- [jpablo/type-explorer](https://github.com/jpablo/type-explorer): Code exploration via diagrams
 
 ### Misc
 

@@ -166,3 +166,4 @@
 - https://www.cloudflare.com/ssl/encrypted-sni/
 - https://ipcheck.ing/
 - [BrowserScan](https://www.browserscan.net/)
+- 🌟 [hackclub/how-did-i-get-here](https://github.com/hackclub/how-did-i-get-here): A tool/website/article by @kognise about how routing on the Internet works. <https://how-did-i-get-here.net>

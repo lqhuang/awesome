@@ -50,6 +50,7 @@ Remind me about those not that familiar, less used but valued utils/tools. It's 
 
 ## Similar awesome
 
+- [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge): A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome): 😎 Awesome lists about all kinds of interesting topics
 - [zserge/awfice](https://github.com/zserge/awfice): The world smallest office suite
 - [best-of-lists/best-of](https://github.com/best-of-lists/best-of): 🏆 Discover best-of lists with awesome open-source projects on all kinds of topics. <https://best-of.org>
