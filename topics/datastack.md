@@ -10,6 +10,7 @@
 
 - [dbt](https://www.getdbt.com/): Transforming data. Transforming teams. dbt™ helps data teams work like software engineers—to ship trusted data, faster.
   - non open source
+- 🌟 [dlt-hub/dlt](https://github.com/dlt-hub/dlt): data load tool (dlt) is an open source Python library that makes data loading easy 🛠️ <https://dlthub.com/docs>
 - [carbonfact/lea](https://github.com/carbonfact/lea): 🏃‍♀️ Minimalist alternative to dbt
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence): Evidence enables analysts to deliver a polished business intelligence system using SQL and markdown <https://evidence.dev>
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte): Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes. <https://airbyte.com/>
@@ -41,6 +42,8 @@
 - [unionai-oss/pandera](https://github.com/unionai-oss/pandera): A light-weight, flexible, and expressive statistical data testing library <https://www.union.ai/pandera>
 - [deepchecks/deepchecks](https://github.com/deepchecks/deepchecks): Tests for Continuous Validation of ML Models & Data. Deepchecks is a Python package for comprehensively validating your machine learning models and data with minimal effort. <https://docs.deepchecks.com>
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. <https://cleanlab.ai>
+- [feast-dev/feast](https://github.com/feast-dev/feast): Feature Store for Machine Learning <https://feast.dev>
+- [argilla-io/argilla](https://github.com/argilla-io/argilla): Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency. <https://docs.argilla.io>
 
 ## Data Observability
 

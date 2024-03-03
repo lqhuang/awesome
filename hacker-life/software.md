@@ -160,6 +160,7 @@
 - [~mlb/linkhut](https://sr.ht/~mlb/linkhut/): linkhut is an open source social bookmarking website. <https://ln.ht/>
 - [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号 RSS 生成。(前端重构中）
+- [ente-io/ente](https://github.com/ente-io/ente): Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos <https://ente.io>
 
 ### Developer
 

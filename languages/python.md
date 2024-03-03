@@ -293,6 +293,7 @@
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils): Python CLI utility and library for manipulating SQLite databases
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py): Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use <https://prisma-client-py.readthedocs.io>
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic): A database migrations tool for SQLAlchemy.
+- [jolt-org/advanced-alchemy](https://github.com/jolt-org/advanced-alchemy): A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy <https://docs.advanced-alchemy.jolt.rs/>
 - [influxdata/flightsql-dbapi](https://github.com/influxdata/flightsql-dbapi): DB API 2 interface for Flight SQL with SQLAlchemy extras.
 - [nalgeon/sqlean.py](https://github.com/nalgeon/sqlean.py): Python's sqlite3 + extensions
 - [memgraph/gqlalchemy](https://github.com/memgraph/gqlalchemy): GQLAlchemy is a library developed with the purpose of assisting in writing and running queries on Memgraph. GQLAlchemy supports high-level connection to Memgraph as well as modular query builder.
@@ -437,6 +438,7 @@
 - 🌟 [facebookincubator/cinder](https://github.com/facebookincubator/cinder): Cinder is Meta's internal performance-oriented production version of CPython. <https://trycinder.com>
 - [lcompilers/lpython](https://github.com/lcompilers/lpython): Python compiler <https://lpython.org/>
 - [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython): An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript. <http://pikapython.com/>
+- [facebook/starlark-rust](https://github.com/facebook/starlark-rust): A Rust implementation of the Starlark language
 
 ### Parsers
 

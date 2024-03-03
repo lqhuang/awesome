@@ -148,6 +148,7 @@
 - [vanna-ai/vanna](https://github.com/vanna-ai/vanna): 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄. <https://vanna.ai/docs/>
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client <https://chathub.gg/?utm_source=github>
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context 📚🦙 <https://memgpt.readme.io>
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code): Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) <https://screenshottocode.com>
 
 ### LLM Prompts
 

@@ -142,6 +142,7 @@
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools): Everything that makes working with databases easier
 - [PostHog/HouseWatch](https://github.com/PostHog/HouseWatch): Open source tool for monitoring and managing ClickHouse clusters
 - 🌟 [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap): Automatic SQL injection and database takeover tool <http://sqlmap.org>
+- [bruin-data/ingestr](https://github.com/bruin-data/ingestr): ingestr is a CLI tool to copy data between any databases with a single command seamlessly. <https://bruin-data.github.io/ingestr/>
 
 ### ERD
 

@@ -43,6 +43,7 @@ Streaming Systems
 - [infinyon/fluvio](https://github.com/infinyon/fluvio): Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly. <https://www.fluvio.io/>
 - [airtai/faststream](https://github.com/airtai/faststream): FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS. <https://faststream.airt.ai/?utm_source=github&utm_medium=acquisition&utm_campaign=measure>
 - [grailbio/reflow](https://github.com/grailbio/reflow): A language and runtime for distributed, incremental data processing in the cloud
+- [streamdal/streamdal](https://github.com/streamdal/streamdal): Code-Native Data Pipelines <https://www.streamdal.com>
 
 ### Streaming Database
 
@@ -85,6 +86,10 @@ Streaming Systems
 - [WarpStream](https://www.warpstream.com): Stream more, manage less. WarpStream is a Kafka compatible data streaming platform built directly on top of object storage: no inter-AZ bandwidth costs, no disks to manage, and infinitely scalable, all within your VPC.
 - [AutoMQ/elastic-stream](https://github.com/AutoMQ/elastic-stream): The first truly cloud-native MQ storage engine for messaging and streaming.
 - [AutoMQ/automq-for-kafka](https://github.com/AutoMQ/automq-for-kafka): A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%. <https://www.automq.com/>
+
+### Utils
+
+- 🌟 [streamdal/plumber](https://github.com/streamdal/plumber): A swiss army knife CLI tool for interacting with Kafka, RabbitMQ and other messaging systems. <https://streamdal.com>
 
 ## Toy projects
 

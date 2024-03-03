@@ -1,9 +1,29 @@
 # Haskell
 
+## Resources
+
 - [Type defaulting in Haskell](https://kseo.github.io/posts/2017-01-04-type-defaulting-in-haskell.html)
   - Type defaulting is introduced to solve the ambiguous type problems caused by type classes.
+- [Extensible Effects](https://okmij.org/ftp/Haskell/extensible/): an alternative to Monad Transformers
+  - [paper: Freer Monads, More Extensible Effects](https://okmij.org/ftp/Haskell/extensible/more.pdf)
+  - [paper: Extensible Effects](https://legacy.cs.indiana.edu/~sabry/papers/exteff.pdf)
+- 🌟 [JeanHuguesdeRaigniac/effects-landscape](https://github.com/JeanHuguesdeRaigniac/effects-landscape): Effects libraries in Haskell
+  - [One Step Beyond](https://github.com/JeanHuguesdeRaigniac/effects-landscape/tree/main/v0)
+  - [All Cats Are Grey](https://github.com/JeanHuguesdeRaigniac/effects-landscape/tree/main/v1)
+- 🌟 [State of the Haskell ecosystem (@Gabriella439)](https://github.com/Gabriella439/post-rfc/blob/main/sotu.md)
+<!-- - [学习 haskell 的过程中有哪些值得一做的练手项目？](https://www.zhihu.com/question/61225796/answer/185412037) -->
+- [Haskell Poll Results](https://www.stephendiehl.com/posts/poll.html)
 
-## Resources
+### Readings
+
+- [sdiehl/wiwinwlh](https://github.com/sdiehl/wiwinwlh): What I Wish I Knew When Learning Haskell <http://dev.stephendiehl.com/hask/>
+- [graninas/software-design-in-haskell](https://github.com/graninas/software-design-in-haskell): Software Design in Haskell. A structured set of materials. How to build real-world applications in Haskell.
+- [Haskeller Competency Matrix](https://gist.github.com/graninas/833a9ff306338aefec7e543100c16ea1)
+- [Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
+- [Freckle guides and best practices](https://github.com/freckle/guides)
+- [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
+
+### Courses
 
 - [haskell-beginners-2022/course-plan](https://github.com/haskell-beginners-2022/course-plan): 📜 Haskell course info, plan, video lectures, slides
 - [Haskell for Readers](https://haskell-for-readers.nomeata.de/): Welcome to the lecture series “Haskell for Readers”. This workshop is uniquely tailored to those who need to read, rather than write Haskell code: auditors, scientists, managers, testers etc.
@@ -19,10 +39,27 @@
 - [composewell/streamly](https://github.com/composewell/streamly): Dataflow programming and declarative concurrency <https://streamly.composewell.com>
 - [well-typed/optics](https://github.com/well-typed/optics): Optics as an abstract interface
 - [ekmett/structs](https://github.com/ekmett/structs): Exploring how to make a strict imperative universe in the GHC runtime system.
-- [ekmett/trifecta](https://github.com/ekmett/trifecta): Parser combinators with highlighting, slicing, layout, literate comments, Clang-style diagnostics and the kitchen sink <http://ekmett.github.com/trifecta/>
+- 🌟 [ekmett/trifecta](https://github.com/ekmett/trifecta): Parser combinators with highlighting, slicing, layout, literate comments, Clang-style diagnostics and the kitchen sink <http://ekmett.github.com/trifecta/>
 - 🌟 [ekmett/ad](https://github.com/ekmett/ad): Automatic Differentiation <http://hackage.haskell.org/package/ad>
-- 🌟 [google/mlir-hs](https://github.com/google/mlir-hs): Haskell bindings for MLIR
+- [ekmett/machines](https://github.com/ekmett/machines): Networks of composable stream transducers
+- [google/mlir-hs](https://github.com/google/mlir-hs): Haskell bindings for MLIR
 - [ChrisPenner/slick](https://github.com/ChrisPenner/slick): Static site generator built on Shake configured in Haskell
+- [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful): An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
+- [recursion-schemes/recursion-schemes](https://github.com/recursion-schemes/recursion-schemes): Generalized bananas, lenses and barbed wire <http://hackage.haskell.org/package/recursion-schemes>
+  - [passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes): Resources for learning and using recursion schemes.
+- [ndmitchell/uniplate](https://github.com/ndmitchell/uniplate): Haskell library for simple, concise and fast generic operations.
+
+## Toolchains
+
+- [sol/hpack](https://github.com/sol/hpack): hpack: A modern format for Haskell packages
+- [hspec/hspec](https://github.com/hspec/hspec): A Testing Framework for Haskell <https://hspec.github.io/>
+- [hspec/sensei](https://github.com/hspec/sensei): No description, website, or topics provided.
+- [haskell/criterion](https://github.com/haskell/criterion): A powerful but simple library for measuring the performance of Haskell code. <http://www.serpentine.com/criterion>
+
+## Parser
+
+- [haskell/alex](https://github.com/haskell/alex): A lexical analyser generator for Haskell <https://hackage.haskell.org/package/alex>
+- [haskell/happy](https://github.com/haskell/happy): The Happy parser generator for Haskell
 
 ## CLI
 
@@ -38,7 +75,7 @@
 - [reflex-frp/reflex](https://github.com/reflex-frp/reflex): Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse. <https://reflex-frp.org>
 - [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk): Functional reactive web and mobile applications, with batteries included. <https://reflex-frp.org>
 - [haskell-servant/servant](https://github.com/haskell-servant/servant): Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more! <https://docs.servant.dev/>
-- [scotty-web/scotty](https://github.com/scotty-web/scotty): Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) <http://hackage.haskell.org/package/scotty>
+- 🌟 [scotty-web/scotty](https://github.com/scotty-web/scotty): Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) <http://hackage.haskell.org/package/scotty>
 - [yesodweb/yesod](https://github.com/yesodweb/yesod): A RESTful Haskell web framework built on WAI. <http://www.yesodweb.com/>
 
 - [Airsequel/haskell-template](https://github.com/Airsequel/haskell-template): Opinionated template for new Haskell projects.
@@ -61,3 +98,5 @@
 - [tweag/capability](https://github.com/tweag/capability): Extensional capabilities and deriving combinators
 - [patrickt/fastsum](https://github.com/patrickt/fastsum): A fast open-union type, suitable for 100+ contained alternatives.
 - [haskell/os-string](https://github.com/haskell/os-string): No description, website, or topics provided.
+- [HeinrichApfelmus/reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana): Library for functional reactive programming in Haskell. <https://wiki.haskell.org/Reactive-banana>
+- [acowley/concurrent-machines](https://github.com/acowley/concurrent-machines): Concurrency features for the Haskell machines package

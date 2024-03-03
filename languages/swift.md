@@ -73,3 +73,4 @@
 - [eonist/FileWatcher](https://github.com/eonist/FileWatcher): Monitoring file system changes in macOS
 - [waylybaye/XcodeCleaner-SwiftUI](https://github.com/waylybaye/XcodeCleaner-SwiftUI): Make Xcode Clean Again <https://itunes.apple.com/app/cleaner-for-xcode/id1296084683>
 - [SwiftGen/SwiftGen](https://github.com/SwiftGen/SwiftGen): The Swift code generator for your assets, storyboards, Localizable.strings, … — Get rid of all String-based APIs!
+- [colinc86/LaTeXSwiftUI](https://github.com/colinc86/LaTeXSwiftUI): A SwiftUI view that renders LaTeX.
