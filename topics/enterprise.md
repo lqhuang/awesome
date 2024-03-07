@@ -6,7 +6,6 @@
 
 - [Indent](https://indent.com): On-demand access without the wait. Indent provides team members with on-demand access to cloud apps and infrastructure in seconds, not days.
 - [teamhanko/hanko](https://github.com/teamhanko/hanko): A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. <https://hanko.io>
-- [build-trust/ockam](https://github.com/build-trust/ockam): Orchestrate end-to-end encryption, mutual authentication, key management, credential management & authorization policy enforcement — at scale. <https://ockam.io>
 - [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
 - [kanidm/kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure and fast identity management platform
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。 <http://www.jumpserver.org>
@@ -19,15 +18,14 @@
 - [permitio/opal](https://github.com/permitio/opal): Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...) <https://opal.ac>
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar): Core implementation of the Cedar language <https://www.cedarpolicy.com>
 
-### To User
+### To User / Client
 
 - [logto-io/logto](https://github.com/logto-io/logto): 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps. <https://logto.io>
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security): 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐 <https://authp.github.io>
 - [WorkOS](https://github.com/workos): WorkOS is a set of building blocks for quickly adding enterprise features to your app. You’ll be shipping quickly with a market-proven solution for your customers. <https://workos.com/>
 - 🌟 [Clerk](https://github.com/clerkinc): More than authentication - Complete user management <https://clerk.dev/>
 - 🌟 [Auth0](https://github.com/auth0): Next.js SDK for signing in with Auth0 <https://auth0.com>
-- 🌟 [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth): Authentication for the Web. <https://authjs.dev>
-- 🌟 [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT <https://casdoor.org>
+- [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT <https://casdoor.org>
 - [NangoHQ/nango](https://github.com/NangoHQ/nango): Get OAuth tokens for APIs - fast & secure. <https://www.nango.dev>
 - [openfga/openfga](https://github.com/openfga/openfga): A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar <https://openfga.dev>
 - [ory/kratos](https://github.com/ory/kratos): Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service. <https://www.ory.sh/kratos>
@@ -36,6 +34,8 @@
 - [zitadel/zitadel](https://github.com/zitadel/zitadel): ZITADEL - Identity infrastructure, simplified for you. <https://zitadel.com>
 - [authelia/authelia](https://github.com/authelia/authelia): The Single Sign-On Multi-Factor portal for web apps <https://www.authelia.com>
 - [goauthentik/authentik](https://github.com/goauthentik/authentik): The authentication glue you need. <https://goauthentik.io>
+- [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core): Open source alternative to Auth0 / Firebase Auth / AWS Cognito <https://supertokens.com>
+- [build-trust/ockam](https://github.com/build-trust/ockam): Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. <https://ockam.io>
 
 ## Worksuites
 

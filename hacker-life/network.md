@@ -147,7 +147,8 @@
 - [IPLeak.net](https://ipleak.net)
 - [DSN leak test](https://www.dnsleaktest.com/):
 - [Globalping](https://www.jsdelivr.com/globalping)
-- [Web Check](https://web-check.xyz/)
+- 🌟 [Web Check](https://web-check.xyz/)
+  - [Lissy93/web-check](https://github.com/Lissy93/web-check): 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [KeyCDN tools](https://tools.keycdn.com)
 - [Tabserve](https://tabserve.dev/): A secure & fast HTTPS URL for localhost using your browser as a reverse proxy.
 - [domain.glass](https://domain.glass/): DNS / WHOIS Lookup

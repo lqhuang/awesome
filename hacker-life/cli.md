@@ -55,6 +55,7 @@
 - 🌟 [francoismichel/ssh3](https://github.com/francoismichel/ssh3): SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 <https://arxiv.org/abs/2312.08396>
 - [n0-computer/iroh](https://github.com/n0-computer/iroh): Sync anywhere <https://iroh.computer>
 - 🌟 [facebook/dotslash](https://github.com/facebook/dotslash): Simplified executable deployment <https://dotslash-cli.com>
+- 🌟 [alexpovel/srgn](https://github.com/alexpovel/srgn): A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`. <https://crates.io/crates/srgn/>
 
 ## TUI applications
 
@@ -71,6 +72,7 @@
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin): The SQL IDE for Your Terminal. <https://harlequin.sh>
 - [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py): 👨‍💻 Python cleanup script for macOS
 - 🌟 [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne): Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
+- [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term): 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance <https://adguardian.as93.net>
 
 ## Monitor
 

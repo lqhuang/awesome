@@ -189,6 +189,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf): Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. <https://react.onedoclabs.com/>
 
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js): 🌞 A lightweight JavaScript library that generates customizable heat maps to visualize date-based activity and trends. <https://www.william-troup.com/heat-js>
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth): Authentication for the Web. <https://authjs.dev>
 
 #### Form
 

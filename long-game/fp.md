@@ -15,8 +15,8 @@
 - [Elements of Programming](http://elementsofprogramming.com/): Decomposing programs into a system of algorithmic components
 - [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh): 手撸解释器教程《Crafting Interpreters》中文翻译
 - [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP): The Dao of Functional Programming
-- [jpvillaisaza/cain](https://github.com/jpvillaisaza/cain): Category theory applied to functional programming (undergraduate project) <https://jpvillaisaza.co/cain/cain.pdf>
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf): Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source <https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/>
+- [jpvillaisaza/cain](https://github.com/jpvillaisaza/cain): Category theory applied to functional programming (undergraduate project) <https://jpvillaisaza.co/cain/cain.pdf>
 - [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/):Lean is an interactive theorem prover developed at Microsoft Research, based on dependent type theory. Dependent type theory unites the worlds of programs and proofs; thus, Lean is also a programming language.
 - [Thinking with Types](https://thinkingwithtypes.com/): Type-Level Programming in Haskell. The book that takes you from a competent Haskell programmer to one whose compiler does the work for you.
   - [chiroptical/thinking-with-types](https://github.com/chiroptical/thinking-with-types): Working through the Thinking with Types book in Haskell
@@ -55,11 +55,16 @@
 
 - [stevana/arrow-loop-state-machines](https://github.com/stevana/arrow-loop-state-machines): Experiment with representing state machines as arrow loop combinators
 
+## Program analysis
+
+- 🌟 [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep): ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust <https://ast-grep.github.io>
+- [facebookincubator/Glean](https://github.com/facebookincubator/Glean): System for collecting, deriving and working with facts about source code. <https://glean.software/>
+- [github/semantic](https://github.com/github/semantic): Parsing, analyzing, and comparing source code across many languages
+
 ## PL
 
 - [jwiegley/category-theory](https://github.com/jwiegley/category-theory): An axiom-free formalization of category theory in Coq for personal study and practical work
 - [Category Theory in Coq](http://www.megacz.com/berkeley/coq-categories/): This is a quick page I've thrown together for my Coq library formalizing basic category theory. The development follows Steve Awodey's book on category theory; the files are named after chapters and subchapters of that book for easy reference.
-- 🌟 [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep): ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust <https://ast-grep.github.io>
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep): Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. <https://semgrep.dev>
 
 ## Experimental languages

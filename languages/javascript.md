@@ -120,10 +120,11 @@
 - [xthezealot/npmprune](https://github.com/xthezealot/npmprune): Prune unnecessary files from node_modules
   - simple and easy LOL
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
+- [Perf Link](https://perf.link/)
 
 ## Middleware
 
-- [oramasearch/orama](https://github.com/oramasearch/orama): 🌌 Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript. <https://docs.oramasearch.com>
+- 🌟 [askorama/orama](https://github.com/askorama/orama): 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! <https://docs.oramasearch.com>
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase): A tiny, reactive JavaScript library for structured state and tabular data. <https://tinybase.org>
 
 ## Misc

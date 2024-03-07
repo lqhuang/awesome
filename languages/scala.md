@@ -80,7 +80,6 @@
 - [optics-dev/monocle](https://github.com/optics-dev/monocle): Optics library for Scala <https://www.optics.dev/Monocle>
 - [7mind/izumi](https://github.com/7mind/izumi): Productivity-oriented collection of lightweight fancy stuff for Scala toolchain
 - [scalapb-json/scalapb-circe](https://github.com/scalapb-json/scalapb-circe): Json/Protobuf convertors for ScalaPB use circe
-- [j-mie6/parsley](https://github.com/j-mie6/parsley): A fast and modern parser combinator library for Scala
 - [raquo/Airstream](https://github.com/raquo/Airstream): State propagation and event streams with mandatory ownership and no glitches
 - [devlaam/Leucine](https://github.com/devlaam/Leucine): Small x-platform actor framework
 - [pathikrit/better-files](https://github.com/pathikrit/better-files): Simple, safe and intuitive Scala I/O <https://pathikrit.github.io/better-files/>
@@ -145,6 +144,11 @@
 - [cequence-io/openai-scala-client](https://github.com/cequence-io/openai-scala-client): Scala client for OpenAI API
 - [softwaremill/sttp-openai](https://github.com/softwaremill/sttp-openai)
 - [quelgar/scala-uv](https://github.com/quelgar/scala-uv): Scala Native language bindings for libuv
+
+### Parser
+
+- [com-lihaoyi/fastparse](https://github.com/com-lihaoyi/fastparse): Writing Fast Parsers Fast in Scala <https://com-lihaoyi.github.io/fastparse>
+- [j-mie6/parsley](https://github.com/j-mie6/parsley): A fast and modern parser combinator library for Scala
 
 ### CLI
 
@@ -244,6 +248,13 @@
 - [hmemcpy/zio-clippy](https://github.com/hmemcpy/zio-clippy): A Scala compiler plugin for better ZIO type mismatch errors.
 
 ## Could we make Scala great again?
+
+## Numerical for Scala
+
+- [scalanlp/breeze](https://github.com/scalanlp/breeze): Breeze is a numerical processing library for Scala. <http://www.scalanlp.org>
+- [haifengl/smile](https://github.com/haifengl/smile): Statistical Machine Intelligence & Learning Engine <https://haifengl.github.io>
+- [saddle/saddle](https://github.com/saddle/saddle): SADDLE: Scala Data Library <http://saddle.github.com>
+- [sterglee/scalalab](https://github.com/sterglee/scalalab): ScalaLab: Efficient MATLAB like scientific computing for the Java platform with the current Scala 2.13. For Scala 3 the equivalent project is dottylab: https://github.com/sterglee/dottylab
 
 ## for Data Intensive System
 

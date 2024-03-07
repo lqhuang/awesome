@@ -102,3 +102,4 @@
 - [mathquill/mathquill](https://github.com/mathquill/mathquill): Easily type math in your webapp <http://mathquill.com>
 - 🌟 [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz): CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
 - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
+- [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher): Typst package for drawing diagrams with arrows, built on top of CeTZ.
