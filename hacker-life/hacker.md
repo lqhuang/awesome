@@ -126,6 +126,7 @@
 - [2ndLA/English](https://github.com/2ndLA/English): 🚧 [WIP] 全面、渐进、碎片化的英语自学指引。 <https://english.highlight.ink>
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english): 人人都能用英语
 - [FaYin](https://fayin.love/): 练习发音的好助手, 支持美式音标、英式音标，以及字母表的发音
+- [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm): Learning English through the method of constructing sentences with conjunctions <https://earthworm.cuixueshe.com>
 
 ## Security / Privacy
 

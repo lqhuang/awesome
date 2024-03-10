@@ -239,6 +239,7 @@
 - [laixintao/jupyter-dot-kernel](https://github.com/laixintao/jupyter-dot-kernel): 📝Dot language kernel for jupyter.
 - [jupyter-server/jupyter-scheduler](https://github.com/jupyter-server/jupyter-scheduler): Run Jupyter notebooks as jobs <https://jupyter-scheduler.readthedocs.io>
 - [mwouts/jupytext](https://github.com/mwouts/jupytext): Jupyter Notebooks as Markdown Documents, Julia, Python or R scripts <https://jupytext.readthedocs.io>
+- [jupyterlab/jupyterlab-git](https://github.com/jupyterlab/jupyterlab-git): A Git extension for JupyterLab
 - [mljar/mercury](https://github.com/mljar/mercury): Build Web Apps in Jupyter Notebook with Python only <https://RunMercury.com>
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl): 🎈 Simple reactive notebooks for Julia <https://plutojl.org/>
 - [kolibril13/jupyter-tldraw](https://github.com/kolibril13/jupyter-tldraw): the very good free whiteboard tldraw in the jupyter output
@@ -354,6 +355,7 @@
 - 🌟 [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict): 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
 - [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
+- [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 
 ### Configuration
 

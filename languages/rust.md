@@ -381,6 +381,7 @@
 ### Web
 
 - [juhaku/utoipa](https://github.com/juhaku/utoipa): Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
+- [oxidecomputer/progenitor](https://github.com/oxidecomputer/progenitor): An OpenAPI client generator
 - [cloudwego/motore](https://github.com/cloudwego/motore): Async middleware abstraction powered by GAT and TAIT.
 - [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee): Rust JSON-RPC library on top of async/await
 - [denoland/fastwebsockets](https://github.com/denoland/fastwebsockets): A fast RFC6455 WebSocket implementation

@@ -193,9 +193,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 #### Form
 
-- [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form): 📋 React Hooks for form state management and validation (Web + React Native) <https://react-hook-form.com>
+- 🌟 [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form): 📋 React Hooks for form state management and validation (Web + React Native) <https://react-hook-form.com>
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 <https://formik.org>
 - [bhch/react-json-form](https://github.com/bhch/react-json-form): JSON editing made easy using form inputs. <https://bhch.github.io/react-json-form>
+- 🌟 [useflytrap/onboarding_lib](https://github.com/useflytrap/onboarding_lib):
 
 #### Editor
 
@@ -220,6 +221,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [barbajs/barba](https://github.com/barbajs/barba): Create badass, fluid and smooth transitions between your website’s pages. <https://barba.js.org/>
 - 🌟 [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion): react-magic-motion is a react.js library that ✨ magically animates your components. <https://react-magic-motion.com>
 - 🌟 [liabru/matter-js](https://github.com/liabru/matter-js): a 2D rigid body physics engine for the web ▲● ■
+- 🌟 [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas): An React.js component library for beautifully shaded canvas <https://uvcanvas.com>
 
 ## Functional libraries
 
@@ -296,6 +298,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - paid required
 - [Simple Icons](https://simpleicons.org/): 2862 Free SVG icons for popular brands
 - [svgl](https://svgl.vercel.app/): ✨ Optimized SVGs for web
+- [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg): SVG library for React Native, React Native Web, and plain React web projects.
 
 ## Further topics
 

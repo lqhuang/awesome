@@ -49,7 +49,6 @@
 - [facebook/sapling](https://github.com/facebook/sapling): A Scalable, User-Friendly Source Control System.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) <https://openapi-generator.tech>
 - [muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock): OpenAPI mock server with random data generation
-- [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC. <https://insomnia.rest>
 - [getezy/ezy](https://github.com/getezy/ezy): 🔥 GUI client for gRPC/gRPC-Web <https://getezy.dev>
 - [biscuit-auth/biscuit](https://github.com/biscuit-auth/biscuit): delegated, decentralized, capabilities based authorization token
 - [tweag/nickel](https://github.com/tweag/nickel): Better configuration for less <https://nickel-lang.org>
@@ -57,9 +56,7 @@
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 - [Sketch Systems](https://sketch.systems): Explore how your product should work, before building it. Sketch.systems helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
 - [recap-build/recap](https://github.com/recap-build/recap): Read and write schemas from web service, databases, and schema registries in a standard format <https://recap.build>
-- 🌟 [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) <https://www.usebruno.com/>
 - 🌟 [apache/incubator-answer](https://github.com/apache/incubator-answer): A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. <https://answer.apache.org>
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): 👽 Open source API development ecosystem - https://hoppscotch.io <https://hoppscotch.io>
 - 🌟 [scalar/scalar](https://github.com/scalar/scalar): Beautiful API references from Swagger/OpenAPI files ✨ <https://scalar.com/swagger-editor>
 
 ### Dev environments
@@ -71,6 +68,7 @@
   - [cachix/devenv](https://github.com/cachix/devenv): Fast, Declarative, Reproducible, and Composable Developer Environments <https://devenv.sh>
   - [loft-sh/devpod](https://github.com/loft-sh/devpod): Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker. <https://devpod.sh>
   - [VS Code Extension - Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+  - [daytonaio/daytona](https://github.com/daytonaio/daytona): The Open Source Dev Environment Manager. <https://daytona.io>
 - [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Reproducible development environment for AI/ML <https://envd.tensorchord.ai/>
 
 ### Documents
@@ -117,6 +115,7 @@
   - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle): A simple, distributed task scheduler and runner with a web based UI. <http://.net>
   - [dagu-dev/dagu](https://github.com/dagu-dev/dagu): Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. <https://dagu.readthedocs.io>
 - 🌟 [windmill-labs/windmill](https://github.com/windmill-labs/windmill): Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool. <https://windmill.dev>
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet): A distributed, fault-tolerant task queue <https://hatchet.run>
 
 ### HPC Cluster manager / Job Scheduler
 

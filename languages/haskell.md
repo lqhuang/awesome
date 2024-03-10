@@ -77,7 +77,6 @@
 - [haskell-servant/servant](https://github.com/haskell-servant/servant): Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more! <https://docs.servant.dev/>
 - 🌟 [scotty-web/scotty](https://github.com/scotty-web/scotty): Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) <http://hackage.haskell.org/package/scotty>
 - [yesodweb/yesod](https://github.com/yesodweb/yesod): A RESTful Haskell web framework built on WAI. <http://www.yesodweb.com/>
-
 - [Airsequel/haskell-template](https://github.com/Airsequel/haskell-template): Opinionated template for new Haskell projects.
 - [nicolashery/example-handlers-haskell](https://github.com/nicolashery/example-handlers-haskell): Example of non-trivial web handlers in Haskell web frameworks Scotty, Yesod, and Servant
   - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant)
@@ -87,6 +86,7 @@
 - [yesodweb/persistent](https://github.com/yesodweb/persistent): Persistence interface for Haskell allowing multiple storage methods.
 - [circuithub/rel8](https://github.com/circuithub/rel8): Hey! Hey! Can u rel8? <https://rel8.readthedocs.io>
 - [morphismtech/squeal](https://github.com/morphismtech/squeal): Squeal, a deep embedding of SQL in Haskell
+- [well-typed/grapesy](https://github.com/well-typed/grapesy): Native Haskell gRPC client and server based on `http2`
 
 ## Other good libs
 

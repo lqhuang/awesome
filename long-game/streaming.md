@@ -13,6 +13,7 @@ Streaming Systems
 - [bytewax/awesome-public-real-time-datasets](https://github.com/bytewax/awesome-public-real-time-datasets): A list of publicly available datasets with real-time data maintained by the team at bytewax.io <https://bytewax.io>
 - [Event-driven Utopia](https://www.eventdrivenutopia.com/): Learn to Build Event-driven Applications
   - [Medium: Dunith Dhanushka](https://dunith.medium.com/)
+- [risingwavelabs/awesome-stream-processing](https://github.com/risingwavelabs/awesome-stream-processing): A collection of demonstrations showcasing how stream processing can be used to solve real-world problems. <https://risingwave.com/slack>
 
 ## Streamify
 
