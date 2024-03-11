@@ -185,6 +185,7 @@
 - [pytorch/glow](https://github.com/pytorch/glow): Compiler for Neural Network hardware accelerators
 - [statusfailed/catgrad](https://github.com/statusfailed/catgrad): a categorical deep learning compiler
   - [ArXiv - Reverse derivative categories](https://arxiv.org/abs/1910.07065)
+- [nod-ai/SHARK-Turbine](https://github.com/nod-ai/SHARK-Turbine): Unified compiler/runtime for interfacing with PyTorch Dynamo.
 
 ## Autodiff
 

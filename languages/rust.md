@@ -324,6 +324,7 @@
 - [nvzqz/fruity](https://github.com/nvzqz/fruity): Rusty bindings for Apple libraries
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao): Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 - [duchess-rs/duchess](https://github.com/duchess-rs/duchess): Experiments with Java-Rust interop <https://duchess-rs.github.io/duchess>
+- [google/crubit](https://github.com/google/crubit): Crubit: C++/Rust Bidirectional Interop Tool
 
 ### Time or Date
 

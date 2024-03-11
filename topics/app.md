@@ -38,3 +38,6 @@
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia): High-performance React Native Graphics using Skia <https://shopify.github.io/react-native-skia>
 - 🌟 [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript): ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible. <https://nativescript.org/>
 - 🌟 [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui): Universal headless components for React Native, Next.js & React with beautiful & optional styling (alpha) <https://gluestack.io/>
+- [facebook/yoga](https://github.com/facebook/yoga): Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates. <https://yogalayout.dev/>
+  - [facebook/litho](https://github.com/facebook/litho): A declarative framework for building efficient UIs on Android. <https://fblitho.com>
+  - [facebook/componentkit](https://github.com/facebook/componentkit): A React-inspired view framework for iOS. <http://www.componentkit.org/>

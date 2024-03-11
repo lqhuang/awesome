@@ -185,6 +185,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [nygardk/react-share](https://github.com/nygardk/react-share): Social media share buttons and share counts for React
 
 - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf): Display PDFs in your React app as easily as if they were images. <https://projects.wojtekmaj.pl/react-pdf>
+  - **DISPLAY** pdf
+- [diegomura/react-pdf](https://github.com/diegomura/react-pdf): 📄 Create PDF files using React <https://react-pdf.org>
+  - **CREATE** pdf
 - [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination): A React pagination component which intelligently renders to the available width <https://react-responsive-pagination.elantha.com>
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf): Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. <https://react.onedoclabs.com/>
 
@@ -207,6 +210,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [markedjs/marked](https://github.com/markedjs/marked): A markdown parser and compiler. Built for speed. <https://marked.js.org/>
 - [mdx-editor/editor](https://github.com/mdx-editor/editor): A rich text editor React component for markdown <https://mdxeditor.dev/>
 - [facebook/lexical](https://github.com/facebook/lexical): Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. <https://lexical.dev>
+- [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react): Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins <https://monaco-react.surenatoyan.com/>
 
 #### Animation
 
@@ -299,6 +303,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Simple Icons](https://simpleicons.org/): 2862 Free SVG icons for popular brands
 - [svgl](https://svgl.vercel.app/): ✨ Optimized SVGs for web
 - [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg): SVG library for React Native, React Native Web, and plain React web projects.
+- [Iconbuddy](iconbuddy.app): The ultimate source for icons.
+  - [Figma Plugin](https://dub.sh/iconbuddy-figma)
 
 ## Further topics
 
