@@ -24,10 +24,9 @@
 - [microsoft/CodeT](https://github.com/microsoft/CodeT): This repository contains projects that aims to equip large-scale pretrained language models with better programming and reasoning skills. These projects are presented by Microsoft Research Asia and Microsoft Azure AI.
 - [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt): 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼
 - [Azure/kaito](https://github.com/Azure/kaito): Kubernetes AI Toolchain Operator
+- ❔ [microsoft/aici](https://github.com/microsoft/aici): AICI: Prompts as (Wasm) Programs
 
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. <https://superagi.com/>
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it.
-- ❔ [Xpitfire/symbolicai](https://github.com/Xpitfire/symbolicai): Compositional Differentiable Programming Library
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori): A reactive runtime for building durable AI agents <https://docs.thousandbirds.ai>
 - [sgl-project/sglang](https://github.com/sgl-project/sglang): SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.
   - [Fast and Expressive LLM Inference with RadixAttention and SGLang](https://lmsys.org/blog/2024-01-17-sglang/)

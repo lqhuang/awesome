@@ -256,11 +256,13 @@ This is not an officially supported Google product.
 
 ## Libraries
 
+- [pytorch/functorch](https://github.com/pytorch/functorch): functorch is JAX-like composable function transforms for PyTorch. <https://pytorch.org/functorch>
+- [pytorch/torcharrow](https://github.com/pytorch/torcharrow): A Pandas-inspired DataFrame library for SQL-like transformation with Pythonic and imperative-style API. Typical use case includes data preprocessing in ML models.
+- [pytorch-labs/torchfix](https://github.com/pytorch-labs/torchfix): TorchFix - a linter for PyTorch-using code with autofix support
+- [pytorch/kineto](https://github.com/pytorch/kineto): A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
 - [dmlc/dlpack](https://github.com/dmlc/dlpack): common in-memory tensor structure <https://dmlc.github.io/dlpack/latest>
 - [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor): C++ tensors with broadcasting and lazy computing
 - [rapidsai/cuml](https://github.com/rapidsai/cuml): cuML - RAPIDS Machine Learning Library
-- [pytorch/functorch](https://github.com/pytorch/functorch): functorch is JAX-like composable function transforms for PyTorch. <https://pytorch.org/functorch>
-- [pytorch/torcharrow](https://github.com/pytorch/torcharrow): A Pandas-inspired DataFrame library for SQL-like transformation with Pythonic and imperative-style API. Typical use case includes data preprocessing in ML models.
 - [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple, safe way to store and distribute tensors
 - [huggingface/evaluate](https://github.com/huggingface/evaluate): 🤗 Evaluate: A library for easily evaluating machine learning models and datasets. <https://huggingface.co/docs/evaluate>
 - [google/pyglove](https://github.com/google/pyglove): Manipulating Python Programs
@@ -271,12 +273,10 @@ This is not an officially supported Google product.
 - [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses): Pytrees + dataclasses ❤️
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping): Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
-- [pytorch/kineto](https://github.com/pytorch/kineto): A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
 - [mosaicml/streaming](https://github.com/mosaicml/streaming): A Data Streaming Library for Efficient Neural Network Training <https://streaming.docs.mosaicml.com>
 
 ## Utils
 
-- [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Development environment for machine learning
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run Docker containers leveraging NVIDIA GPUs
 - [aws/deep-learning-containers](https://github.com/aws/deep-learning-containers): AWS Deep Learning Containers (DLCs) are a set of Docker images for training and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet. <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>
 - [replicate/cog](https://github.com/replicate/cog): Containers for machine learning
@@ -293,7 +293,7 @@ This is not an officially supported Google product.
 
 ## Happy small projects (to learn)
 
-- [minitorch/minitorch](https://github.com/minitorch/minitorch):
+- [minitorch/minitorch](https://github.com/minitorch/minitorch): The full minitorch student suite.
 - [karpathy/micrograd](https://github.com/karpathy/micrograd): A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [pranftw/neograd](https://github.com/pranftw/neograd): A deep learning framework created from scratch with Python and NumPy <https://neograd.readthedocs.io>
 - [mohammadpz/pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward): Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation

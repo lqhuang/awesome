@@ -30,6 +30,7 @@
 - [baserow/baserow](https://gitlab.com/baserow/baserow): Baserow is an open source no-code database and Airtable alternative. Create your own database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser.
 - [lightdash/lightdash](https://github.com/lightdash/lightdash): Open source BI for teams that move fast ⚡️ <https://lightdash.com>
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad): Web-based SQL editor. Legacy project in maintenance mode. <https://getsqlpad.com>
+- [teableio/teable](https://github.com/teableio/teable): ✨ A Super fast, Real-time, Professional, Developer friendly, No code database <https://teable.io>
 
 ## Data governance
 

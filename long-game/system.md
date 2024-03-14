@@ -31,6 +31,7 @@
 - [DavadDi/bpf_study](https://github.com/DavadDi/bpf_study): bpf 学习仓库
 - 🌟 [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime): Userspace eBPF runtime for fast Uprobe & Syscall hook & Plugins <https://eunomia.dev/bpftime/>
 - [Netflix/bpftop](https://github.com/Netflix/bpftop): bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
+- [bpfman/bpfman](https://github.com/bpfman/bpfman): An eBPF Manager for Linux and Kubernetes <https://bpfman.io>
 
 ## Serialization Protocl
 

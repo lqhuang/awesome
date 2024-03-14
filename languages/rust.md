@@ -273,6 +273,7 @@
 
 - [thomcc/rust-typed-arena](https://github.com/thomcc/rust-typed-arena): The arena, a fast but limited type of allocator
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo): A fast bump allocation arena for Rust
+- [facebookexperimental/allocative](https://github.com/facebookexperimental/allocative): Library and proc macro to analyze memory usage of data structures in rust.
 
 ### Middleware
 

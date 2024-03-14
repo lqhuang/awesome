@@ -112,7 +112,7 @@
 - [databus23/helm-diff](https://github.com/databus23/helm-diff): A helm plugin that shows a diff explaining what a helm upgrade would change
 - [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector): Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
 
-### app framework
+### App framework
 
 - [kedacore/keda](https://github.com/kedacore/keda): KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes <https://keda.sh>
   - lead by Microsoft
@@ -145,9 +145,10 @@
 - [zeabur/zeabur](https://github.com/zeabur/zeabur): A platform that helps you deploy services with one click. <https://zeabur.com>
 - [Flightcontrol](https://www.flightcontrol.dev/): Developer-first AWS infrastructure. Designed for teams that want the benefits of AWS without hiring devops.
 
-## Could Foundry
+## Cloud Foundry
 
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens): k9s like CLI for AWS <https://one2n.gitbook.io/docs/>
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud): Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta. <https://ubicloud.com>
 
 ## Infrastructure as Code
 
