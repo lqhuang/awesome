@@ -127,6 +127,7 @@
 - [Liftbear Workout Log](https://www.liftbear.app/): The easiest way to track your workouts and sessions. Building an impressive physique requires progressive overload over time. Liftbear helps you keeping track of weights, reps, exercises and much more.
 - [Gifox](https://gifox.app/): The best GIF editing/sharing/recording/conversion app
 - [Arq Backup](https://www.arqbackup.com/): Arq backs up your files. You control your data. Arq® is backup software for your Mac or Windows PC.
+- [PDF Gear](https://www.pdfgear.com/): Read, edit, convert, merge, and sign PDF files across devices, for completely free and without signing up.
 
 ## Services
 
@@ -159,8 +160,9 @@
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. <https://massgrave.dev>
 - [~mlb/linkhut](https://sr.ht/~mlb/linkhut/): linkhut is an open source social bookmarking website. <https://ln.ht/>
 - [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker
-- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号 RSS 生成。(前端重构中）
+- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号 RSS 生成。(前端重构中)
 - [ente-io/ente](https://github.com/ente-io/ente): Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos <https://ente.io>
+- [harness/gitness](https://github.com/harness/gitness): Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. <https://gitness.com>
 
 ### Developer
 
@@ -183,6 +185,7 @@
 - [grommunio/gromox](https://github.com/grommunio/gromox): Groupware server backend for the grommunio Distribution, supporting MAPI/HTTP, RPC/HTTP, IMAP, POP3 protocols, PHP-MAPI bindings, and import from PST/OST/MSG/TNEF, EML/ICAL/VCF, KDB <https://gromox.com>
 - [Skiff Mail](https://skiff.com/mail): Skiff Mail protects your inbox by keeping your messages end-to-end encrypted. That means that no one but you has access to your data.
 - 🌟 [albertito/chasquid](https://github.com/albertito/chasquid): SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror] <https://blitiri.com.ar/p/chasquid/>
+- [postalserver/postal](https://github.com/postalserver/postal): 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail <https://postalserver.io>
 
 ### Vault / Passwords
 

@@ -19,6 +19,7 @@
 - [强化学习 100 题 - by 斎藤 康毅 (Koki Saitoh)](https://p100.koki-saitoh.com/zh-CN)
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 <https://xiaolincoding.com>
 - 🌟 [graykode/distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need): The basic distribution probability Tutorial for Deep Learning Researchers
+- [Patrick Kidger: Just know stuff](https://kidger.site/thoughts/just-know-stuff/): Or, how to achieve success in a machine learning PhD.
 
 ## Books
 

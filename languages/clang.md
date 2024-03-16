@@ -7,6 +7,7 @@
 - [yuchdev/CppBooks](https://github.com/yuchdev/CppBooks): A comprehensive catalog of modern and classic books on C++ programming language
 - [Clang Compiler User’s Manual](https://clang.llvm.org/docs/UsersManual.html)
 - [Clang command line argument reference](https://clang.llvm.org/docs/ClangCommandLineReference.html)
+- [Learn Modern C++](https://learnmoderncpp.com/): Discover a language matched to today's computing needs
 
 ### Readings
 

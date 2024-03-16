@@ -85,6 +85,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [microsoft/fast](https://github.com/microsoft/fast): The adaptive interface system for modern web experiences. <https://www.fast.design>
 - [themesberg/flowbite](https://github.com/themesberg/flowbite): The most popular and open-source library of Tailwind CSS components <https://flowbite.com>
 - [ariakit/ariakit](https://github.com/ariakit/ariakit): Toolkit for building accessible web apps with React <https://ariakit.org>
+- [markmead/hyperui](https://github.com/markmead/hyperui): Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 <https://hyperui.dev>
 
 #### React
 
@@ -199,7 +200,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form): 📋 React Hooks for form state management and validation (Web + React Native) <https://react-hook-form.com>
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 <https://formik.org>
 - [bhch/react-json-form](https://github.com/bhch/react-json-form): JSON editing made easy using form inputs. <https://bhch.github.io/react-json-form>
-- 🌟 [useflytrap/onboarding_lib](https://github.com/useflytrap/onboarding_lib):
+
+#### Onboarding
+
+- [useflytrap/onboarding_lib](https://github.com/useflytrap/onboarding_lib): 🪜 A tiny headless onboarding library with form validation, schema validation using Zod and persistance with unstorage. <https://onboarding-lib.vercel.app>
+- [shepherd-pro/react-shepherd](https://github.com/shepherd-pro/react-shepherd): A React wrapper for the site tour library Shepherd <https://react-shepherd.vercel.app>
+- [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride): Create guided tours in your apps <https://react-joyride.com/>
+- [uixmat/onborda](https://github.com/uixmat/onborda): An onboarding wizard flow for Next.js powered by framer motion <https://onborda.dev>
 
 #### Editor
 

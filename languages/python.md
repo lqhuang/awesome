@@ -475,6 +475,7 @@
 - [Avaiga/taipy](https://github.com/Avaiga/taipy): Turns Data and AI algorithms into full web applications in no time. <https://www.taipy.io>
 - [jiisanda/docflow](https://github.com/jiisanda/docflow): DocFlow is a powerful Document Management API designed to streamline document handling, including seamless uploading, downloading, organization, versioning, sharing, and more. <https://documenter.getpostman.com/view/20984268/2s9YRGxUcp>
 - [sqlalchemy/mako](https://github.com/sqlalchemy/mako): Mako Templates for Python <https://www.makotemplates.org>
+- [heuer/segno](https://github.com/heuer/segno): Python QR Code and Micro QR Code encoder <https://pypi.org/project/segno/>
 
 ## Visualization
 

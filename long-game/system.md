@@ -66,6 +66,7 @@
 - [lunatic-solutions/lunatic](https://github.com/lunatic-solutions/lunatic): Lunatic is an Erlang-inspired runtime for WebAssembly <https://lunatic.solutions>
 - [extism/extism](https://github.com/extism/extism): Extend anything with WebAssembly. <https://extism.org>
 - [Effect Handlers for WebAssembly](https://wasmfx.dev/)
+- [spinkube/spin-operator](https://github.com/spinkube/spin-operator): Spin Operator is a Kubernetes operator that empowers platform engineers to deploy Spin applications as custom resources to their Kubernetes clusters <https://www.spinkube.dev/docs/spin-operator/>
 
 ## Numerical
 

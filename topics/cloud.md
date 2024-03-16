@@ -91,24 +91,36 @@
 
 ## K8S
 
+### Resources
+
+- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook): Kubernetes 中文指南/云原生应用架构实战手册 <https://jimmysong.io/kubernetes-handbook>
+
+### Distribution
+
 - [rancher/rancher](https://github.com/rancher/rancher): Complete container management platform <http://rancher.com>
 - 🌟 [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes <https://k3s.io>
 - 🌟 [rancher/rke2](https://github.com/rancher/rke2): RKE2, also known as RKE Government, is Rancher's next-generation Kubernetes distribution. <https://docs.rke2.io/>
-- [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs Kubernetes <https://k8slens.dev>
 - [k0sproject/k0s](https://github.com/k0sproject/k0s): k0s - The Zero Friction Kubernetes <https://docs.k0sproject.io>
-- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook): Kubernetes 中文指南/云原生应用架构实战手册 <https://jimmysong.io/kubernetes-handbook>
-- [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style! <https://k9scli.io/>
-- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler): Autoscaling components for Kubernetes
-- [kumahq/kuma](https://github.com/kumahq/kuma): 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project. <https://kuma.io/install>
-- [karmada-io/karmada](https://github.com/karmada-io/karmada): Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration <https://karmada.io>
+
+### Cluster Management (or UIs)
+
+- [lensapp/lens](https://github.com/lensapp/lens): Lens - The way the world runs Kubernetes <https://k8slens.dev>
 - [pixie-io/pixie](https://github.com/pixie-io/pixie): Instant Kubernetes-Native Application Observability <https://px.dev>
+- [derailed/k9s](https://github.com/derailed/k9s): 🐶 Kubernetes CLI To Manage Your Clusters In Style! <https://k9scli.io/>
+- [aptakube/aptakube](https://github.com/aptakube/aptakube): Modern, lightweight and multi-cluster Kubernetes GUI. Available on Windows, macOS and Linux. <https://aptakube.com>
+- [karmada-io/karmada](https://github.com/karmada-io/karmada): Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration <https://karmada.io>
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard): The missing UI for Helm - visualize your releases
+
+### Plugins
+
 - [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s): A simple, extensible Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl <https://kr8s.org>
-- 🌟 [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm): Aggregator for issues filed against kubeadm
+- [kumahq/kuma](https://github.com/kumahq/kuma): 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project. <https://kuma.io/install>
+- [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler): Autoscaling components for Kubernetes
+- [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm): Aggregator for issues filed against kubeadm
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets): External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. <https://external-secrets.io/main>
 - [radius-project/radius](https://github.com/radius-project/radius): Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps. <https://radapp.io>
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv): CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using LVM.
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold): Easy and Repeatable Kubernetes Development <https://skaffold.dev/>
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard): The missing UI for Helm - visualize your releases
 - [databus23/helm-diff](https://github.com/databus23/helm-diff): A helm plugin that shows a diff explaining what a helm upgrade would change
 - [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector): Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
 
@@ -130,6 +142,7 @@
   - [essential-vault](https://lonegunmanb.github.io/essential-vault/)
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov): Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. <https://www.checkov.io/>
   - [bridgecrewio/checkov-action](https://github.com/bridgecrewio/checkov-action): This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare): Cloudflare Terraform Provider <https://registry.terraform.io/providers/cloudflare/cloudflare>
 
 ## Infrastructure less
 
