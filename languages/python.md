@@ -16,7 +16,7 @@
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python): Practical Python Programming (course by @dabeaz) <https://dabeaz-course.github.io/practical-python>
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery): Advanced Python Mastery (course by @dabeaz)
 - [pypackaging-native/pypackaging-native](https://github.com/pypackaging-native/pypackaging-native): A collection of content about key Python packaging topics and issues for projects using native code <https://pypackaging-native.github.io>
-- [Chang-LeHung/dive-into-cpython](https://github.com/Chang-LeHung/dive-into-cpython): dive into cpython source code
+- [Chang-LeHung/dive-into-cpython](https://github.com/Chang-LeHung/dive-into-cpython): dive into cpython source code <https://chang-lehung.github.io/dive-into-cpython/>
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals): Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研究员 Anthony Shaw 的《CPython Internals》中文翻译
 - [python/typing-council](https://github.com/python/typing-council): Decisions by the Python Typing Council

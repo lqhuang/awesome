@@ -97,6 +97,7 @@
 - [lampepfl/async](https://github.com/lampepfl/async): A strawman for a low-level async library in Scala 3
 - [sideeffffect/scala-rust-interop](https://github.com/sideeffffect/scala-rust-interop): Scala <-> Rust interop
 - [softwaremill/ox](https://github.com/softwaremill/ox): Developer-friendly structured concurrency library for the JVM <https://softwaremill.community/c/ox/12>
+- [kitlangton/quotidian](https://github.com/kitlangton/quotidian): A menagerie of macro utilities and extensions for Scala 3
 
 ### Types
 
@@ -156,6 +157,7 @@
   - [VirtusLab/scala-cli-setup](https://github.com/VirtusLab/scala-cli-setup): ▶️ Scala CLI setup GitHub Action
 - [bkirwi/decline](https://github.com/bkirwi/decline): A composable command-line parser for Scala. <https://ben.kirw.in/decline/>
 - [alexarchambault/case-app](https://github.com/alexarchambault/case-app): Type-level & seamless command-line argument parsing for Scala
+- [avdv/scalals](https://github.com/avdv/scalals): A colorful ls command, with awesome icons.
 
 ### Tools
 

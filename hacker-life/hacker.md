@@ -6,6 +6,7 @@
 - [quicktype/quicktype](https://github.com/quicktype/quicktype): Generate types and converters from JSON, Schema, and GraphQL <https://app.quicktype.io>
 - 🌟 [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution. <https://jsoncrack.com>
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web): JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team. <https://jsonhero.io/>
+- [ritz078/transform](https://github.com/ritz078/transform): A polyglot web converter. <https://transform.tools>
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv): Directory-based environments
 - [muety/wakapi](https://github.com/muety/wakapi): 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics <https://wakapi.dev>
 - 🌟 [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! <https://metrics.lecoq.io>

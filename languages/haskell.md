@@ -51,10 +51,13 @@
 
 ## Toolchains
 
+- [ndmitchell/shake](https://github.com/ndmitchell/shake): Shake build system <http://shakebuild.com>
+- [ghc/Hadrian](https://gitlab.haskell.org/ghc/ghc/-/tree/master/hadrian): Hadrian is the build system for the Glasgow Haskell Compiler. It is based on the Shake library.
 - [sol/hpack](https://github.com/sol/hpack): hpack: A modern format for Haskell packages
 - [hspec/hspec](https://github.com/hspec/hspec): A Testing Framework for Haskell <https://hspec.github.io/>
 - [hspec/sensei](https://github.com/hspec/sensei): No description, website, or topics provided.
 - [haskell/criterion](https://github.com/haskell/criterion): A powerful but simple library for measuring the performance of Haskell code. <http://www.serpentine.com/criterion>
+- [tfausak/cabal-gild](https://github.com/tfausak/cabal-gild): 👑 Format Haskell package descriptions. <https://hackage.haskell.org/package/cabal-gild>
 
 ## Parser
 
@@ -80,6 +83,7 @@
 - [Airsequel/haskell-template](https://github.com/Airsequel/haskell-template): Opinionated template for new Haskell projects.
 - [nicolashery/example-handlers-haskell](https://github.com/nicolashery/example-handlers-haskell): Example of non-trivial web handlers in Haskell web frameworks Scotty, Yesod, and Servant
   - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant)
+- [google/proto-lens](https://github.com/google/proto-lens): API for protocol buffers using modern Haskell language and library patterns. <https://google.github.io/proto-lens>
 
 ## Clients
 
@@ -91,12 +95,10 @@
 ## Other good libs
 
 - [chshersh/dr-cabal](https://github.com/chshersh/dr-cabal): 📊 Haskell dependencies build times profiler
-- [ndmitchell/shake](https://github.com/ndmitchell/shake): Shake build system <http://shakebuild.com>
-- [brandonchinn178/skelly](https://github.com/brandonchinn178/skelly): No description, website, or topics provided.
+- [brandonchinn178/skelly](https://github.com/brandonchinn178/skelly): Skelly is an opinionated build system for Haskell.
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell): Maintainable configuration files <https://dhall-lang.org>
 - 🌟 [deadpendency/deadpendency](https://github.com/deadpendency/deadpendency): Check if my repo's dependencies are dead (projects)! <https://deadpendency.com/>
 - [tweag/capability](https://github.com/tweag/capability): Extensional capabilities and deriving combinators
 - [patrickt/fastsum](https://github.com/patrickt/fastsum): A fast open-union type, suitable for 100+ contained alternatives.
-- [haskell/os-string](https://github.com/haskell/os-string): No description, website, or topics provided.
 - [HeinrichApfelmus/reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana): Library for functional reactive programming in Haskell. <https://wiki.haskell.org/Reactive-banana>
 - [acowley/concurrent-machines](https://github.com/acowley/concurrent-machines): Concurrency features for the Haskell machines package

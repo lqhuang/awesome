@@ -224,6 +224,7 @@
 - [facebookresearch/minimax](https://github.com/facebookresearch/minimax): Efficient baselines for autocurricula in JAX.
 - [JiaYaobo/fenbux](https://github.com/JiaYaobo/fenbux): A Simple Statistical Distribution Library in JAX <https://jiayaobo.github.io/fenbux/>
 - [hayden-donnelly/jax-to-cpp](https://github.com/hayden-donnelly/jax-to-cpp): Generate HLO with JAX then execute in C++.
+- [young-geng/scalax](https://github.com/young-geng/scalax): A simple library for scaling up JAX programs
 
 ### DeepMind specialization
 
@@ -264,6 +265,7 @@ This is not an officially supported Google product.
 - [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor): C++ tensors with broadcasting and lazy computing
 - [rapidsai/cuml](https://github.com/rapidsai/cuml): cuML - RAPIDS Machine Learning Library
 - [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple, safe way to store and distribute tensors
+  - [alvarobartt/safejax](https://github.com/alvarobartt/safejax): Serialize JAX, Flax, Haiku, or Objax model params with 🤗`safetensors` <https://alvarobartt.github.io/safejax/>
 - [huggingface/evaluate](https://github.com/huggingface/evaluate): 🤗 Evaluate: A library for easily evaluating machine learning models and datasets. <https://huggingface.co/docs/evaluate>
 - [google/pyglove](https://github.com/google/pyglove): Manipulating Python Programs
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning operations reinvented (for pytorch, tensorflow, jax and others) <https://einops.rocks>

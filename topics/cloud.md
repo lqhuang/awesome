@@ -75,6 +75,7 @@
 - [fastly/pushpin](https://github.com/fastly/pushpin): Proxy server for adding push to your API <https://pushpin.org>
 - [cloudflare/pingora](https://github.com/cloudflare/pingora): A library for building fast, reliable and evolvable network services.
 - [memorysafety/river](https://github.com/memorysafety/river): This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.
+- [google/seesaw](https://github.com/google/seesaw): Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 
 ## Cloud native
 

@@ -139,6 +139,7 @@
 ### Self-hosted services
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
+- [PikaPods](https://www.pikapods.com/): Instant Open Source App Hosting
 - 🌟 [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone. <https://cal.com>
 - 🌟 [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible <https://docs.rsshub.app>
 - [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark service
@@ -163,6 +164,7 @@
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号 RSS 生成。(前端重构中)
 - [ente-io/ente](https://github.com/ente-io/ente): Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos <https://ente.io>
 - [harness/gitness](https://github.com/harness/gitness): Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. <https://gitness.com>
+- [knadh/listmonk](https://github.com/knadh/listmonk): High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. <https://listmonk.app>
 
 ### Developer
 

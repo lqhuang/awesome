@@ -145,7 +145,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React. <https://sonner.emilkowal.ski>
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic): A React tiling window manager <https://nomcopter.github.io/react-mosaic/>
 
-- [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
 - [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
 - [rpldy/react-uploady](https://github.com/rpldy/react-uploady): Modern file uploading - components & hooks for React <https://react-uploady.org/>
 
@@ -169,10 +168,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [JedWatson/react-select](https://github.com/JedWatson/react-select): The Select Component for React.js <https://react-select.com/>
 - 🌟 [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer): Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app <https://www.contentlayer.dev>
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote): Load mdx content from anywhere through getStaticProps in next.js
+
 - 🌟 [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js): A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page <https://driverjs.com>
 - [signavio/react-mentions](https://github.com/signavio/react-mentions): @mention people in a textarea <https://react-mentions.vercel.app>
 - [satelllte/react-knob-headless](https://github.com/satelllte/react-knob-headless): 🎛️ Unstyled & accessible knob primitive for React. <https://react-knob-headless.vercel.app>
 - [daybrush/moveable](https://github.com/daybrush/moveable): Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable! <https://daybrush.com/moveable/>
+- [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit): The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React. <http://dndkit.com>
 
 - [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker): A simple TimePicker for your Shadcn UI project. <https://time.openstatus.dev/>
 - [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar): Ultimate calendar for your React app. <https://projects.wojtekmaj.pl/react-calendar>

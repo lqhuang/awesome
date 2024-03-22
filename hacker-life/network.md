@@ -133,6 +133,7 @@
 - [Twingate](https://www.twingate.com/): Twingate makes Zero Trust Network Access easy to deploy, even easier to use, and always secure.
 - [openconnect/ocserv](https://gitlab.com/openconnect/ocserv): Engine for secure and scalable VPN infrastructure https://ocserv.gitlab.io/www/
   - [iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv): [Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer
+- [trailofbits/algo](https://github.com/trailofbits/algo): Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
 
 ## Online tools / Services
 
