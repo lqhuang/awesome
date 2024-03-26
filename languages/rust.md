@@ -220,6 +220,7 @@
 - [petgraph/petgraph](https://github.com/petgraph/petgraph): Graph data structure library for Rust.
 - [drifting-in-space/aper](https://github.com/drifting-in-space/aper): A Rust data structure library built on state machines. <https://aper.dev/>
 - [ferrilab/bitvec](https://github.com/ferrilab/bitvec): A crate for managing memory bit by bit <https://myrrlyn.net/crates/bitvec>
+- [tomtomwombat/fastbloom](https://github.com/tomtomwombat/fastbloom): The fastest bloom filter in Rust. No accuracy compromises. Compatible with any hasher.
 
 ### CRDT
 
@@ -379,6 +380,7 @@
 
 - [maidsafe/qp2p](https://github.com/maidsafe/qp2p): peer-to-peer communications library for Rust based on QUIC protocol
 - [google/tarpc](https://github.com/google/tarpc): An RPC framework for Rust with a focus on ease of use.
+- [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp): a smol tcp/ip stack
 
 ### Web
 

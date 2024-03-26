@@ -139,6 +139,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template): Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. <https://simple.cruip.com>
 
 - [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table <https://tanstack.com/table>
+- [TanStack/virtual](https://github.com/TanStack/virtual): 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte <https://tanstack.com/virtual>
 - [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid): 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support. <https://grid.glideapps.com>
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator): Interactive Tables and Data Grids for JavaScript <http://tabulator.info/>
 
@@ -213,13 +214,14 @@ Major in React ecosystem, but also include other frameworks and libraries.
 #### Editor
 
 - [prevwong/craft.js](https://github.com/prevwong/craft.js): 🚀 A React Framework for building extensible drag and drop page editors <https://craft.js.org>
-- [wbkd/react-flow](https://github.com/wbkd/react-flow): Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [remirror/remirror](https://github.com/remirror/remirror): ProseMirror toolkit for React 🎉 <https://remirror.io>
 - [editablejs/editable](https://github.com/editablejs/editable): Editable is an extensible rich text editor framework that uses custom renderers for rendering, instead of the contenteditable attribute, thus avoiding compatibility issues across browsers and platforms. It focuses on stability, controllability, and performance. <https://docs.editablejs.com/>
 - [markedjs/marked](https://github.com/markedjs/marked): A markdown parser and compiler. Built for speed. <https://marked.js.org/>
 - [mdx-editor/editor](https://github.com/mdx-editor/editor): A rich text editor React component for markdown <https://mdxeditor.dev/>
 - [facebook/lexical](https://github.com/facebook/lexical): Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. <https://lexical.dev>
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react): Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins <https://monaco-react.surenatoyan.com/>
+- [code-hike/codehike](https://github.com/code-hike/codehike): Marvellous code walkthroughs <https://codehike.org>
+- [code-hike/bright](https://github.com/code-hike/bright): React Server Component for syntax highlighting <https://bright.codehike.org>
 
 #### Animation
 

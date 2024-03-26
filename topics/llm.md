@@ -106,6 +106,10 @@
 - [mistralai/mistral-src](https://github.com/mistralai/mistral-src): Reference implementation of Mistral AI 7B v0.1 model. <https://mistral.ai/>
 - [dvmazur/mixtral-offloading](https://github.com/dvmazur/mixtral-offloading): Run Mixtral-8x7B models in Colab or consumer desktops
 
+### Gemini
+
+- [google-gemini/gemini-api-cookbook](https://github.com/google-gemini/gemini-api-cookbook): A collection of guides and examples for the Gemini API.
+
 ### Multi Modal
 
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities. <https://llava.hliu.cc>

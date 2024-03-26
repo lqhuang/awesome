@@ -58,6 +58,7 @@
 - [hspec/sensei](https://github.com/hspec/sensei): No description, website, or topics provided.
 - [haskell/criterion](https://github.com/haskell/criterion): A powerful but simple library for measuring the performance of Haskell code. <http://www.serpentine.com/criterion>
 - [tfausak/cabal-gild](https://github.com/tfausak/cabal-gild): 👑 Format Haskell package descriptions. <https://hackage.haskell.org/package/cabal-gild>
+- [tfausak/imp](https://github.com/tfausak/imp): 😈 Automatically import Haskell modules. <https://hackage.haskell.org/package/imp>
 
 ## Parser
 

@@ -36,6 +36,7 @@
 - [goauthentik/authentik](https://github.com/goauthentik/authentik): The authentication glue you need. <https://goauthentik.io>
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core): Open source alternative to Auth0 / Firebase Auth / AWS Cognito <https://supertokens.com>
 - [build-trust/ockam](https://github.com/build-trust/ockam): Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. <https://ockam.io>
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia): Authentication, simple and clean <https://lucia-auth.com>
 
 ## Worksuites
 

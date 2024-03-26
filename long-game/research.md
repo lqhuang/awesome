@@ -80,7 +80,7 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): A community-supported supercharged version of paperless: scan, index and archive all your physical documents <https://docs.paperless-ngx.com>
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex): Make Zotero effective for us LaTeX holdouts <https://retorque.re/zotero-better-bibtex/>
 
-## LaTex
+## LaTex / Typst
 
 - [gpoore/minted](https://github.com/gpoore/minted): minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
 - [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint): 📝 A nicely formatted LaTeX preprint template
@@ -105,3 +105,5 @@
 - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
 - [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher): Typst package for drawing diagrams with arrows, built on top of CeTZ.
 - [jgm/texmath](https://github.com/jgm/texmath): A Haskell library for converting LaTeX math to MathML.
+- [mitex-rs/mitex](https://github.com/mitex-rs/mitex): LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/ <https://mitex-rs.github.io/mitex/tools/underleaf.html>
+- [Myriad-Dreamin/typst-book](https://github.com/Myriad-Dreamin/typst-book): A simple tool for creating modern online books in pure typst. <https://myriad-dreamin.github.io/typst-book/>
