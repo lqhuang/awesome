@@ -102,6 +102,7 @@
 - 🌟 [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes <https://k3s.io>
 - 🌟 [rancher/rke2](https://github.com/rancher/rke2): RKE2, also known as RKE Government, is Rancher's next-generation Kubernetes distribution. <https://docs.rke2.io/>
 - [k0sproject/k0s](https://github.com/k0sproject/k0s): k0s - The Zero Friction Kubernetes <https://docs.k0sproject.io>
+- [klueska/kind-with-gpus-examples](https://github.com/klueska/kind-with-gpus-examples): No description, website, or topics provided.
 
 ### Cluster Management (or UIs)
 

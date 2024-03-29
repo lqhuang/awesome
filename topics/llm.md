@@ -117,6 +117,7 @@
 
 ### Others
 
+- [MoonshotAI/awesome-moonshot-api](https://github.com/MoonshotAI/awesome-moonshot-api): A curated list of open-source projects related to MoonshotCoder.
 - [LLM Collection](https://www.promptingguide.ai/models/collection): This section consists of a collection and summary of notable and foundational LLMs.
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
 - [lyogavin/Anima](https://github.com/lyogavin/Anima): 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
@@ -125,6 +126,7 @@
 - [chancefocus/PIXIU](https://github.com/chancefocus/PIXIU): This repository introduces PIXIU, an open-source resource featuring the first financial large language models (LLMs), instruction tuning data, and evaluation benchmarks to holistically assess financial LLMs. Our goal is to continually push forward the open-source development of financial artificial intelligence (AI).
 - [THUDM/ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B): ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly): Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform <https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html>
+- 🌟 [databricks/dbrx](https://github.com/databricks/dbrx): Code examples and resources for DBRX, a large language model developed by Databricks <https://www.databricks.com/>
 - [lvwerra/trl](https://github.com/lvwerra/trl): Train transformer language models with reinforcement learning. <http://hf.co/docs/trl>
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw): 中文法律大模型 <https://chatlaw.cloud/lawchat/>
 - [WisdomShell/codeshell](https://github.com/WisdomShell/codeshell): A series of large language models developed by PKU-KCL <http://se.pku.edu.cn/kcl>

@@ -8,6 +8,7 @@
 - [Clang Compiler User’s Manual](https://clang.llvm.org/docs/UsersManual.html)
 - [Clang command line argument reference](https://clang.llvm.org/docs/ClangCommandLineReference.html)
 - [Learn Modern C++](https://learnmoderncpp.com/): Discover a language matched to today's computing needs
+- [nothings/single_file_libs](https://github.com/nothings/single_file_libs): List of single-file C/C++ libraries.
 
 ### Readings
 
@@ -103,6 +104,8 @@
 - [randombit/botan](https://github.com/randombit/botan): Cryptography Toolkit <https://botan.randombit.net>
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
 - [TheNumbat/rpp](https://github.com/TheNumbat/rpp): Minimal Rust-inspired C++20 STL replacement
+- [floooh/sokol](https://github.com/floooh/sokol): minimal cross-platform standalone C headers <https://floooh.github.io/sokol-html5>
+- [undefined](undefined): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
 
 ## Libs
 

@@ -56,6 +56,7 @@
 - [n0-computer/iroh](https://github.com/n0-computer/iroh): Sync anywhere <https://iroh.computer>
 - 🌟 [facebook/dotslash](https://github.com/facebook/dotslash): Simplified executable deployment <https://dotslash-cli.com>
 - 🌟 [alexpovel/srgn](https://github.com/alexpovel/srgn): A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`. <https://crates.io/crates/srgn/>
+- [timvw/qv](https://github.com/timvw/qv): Quickly view your data
 
 ## TUI applications
 

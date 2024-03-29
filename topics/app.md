@@ -22,6 +22,8 @@
 - 🌟 [expo/expo](https://github.com/expo/expo): An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. <https://docs.expo.dev>
 - [nandorojo/solito](https://github.com/nandorojo/solito): 🧍‍♂️ React Native + Next.js, unified. <https://solito.dev>
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Next-generation HTML renderer for apps and games <https://ultralig.ht>
+- [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows): A framework for building native Windows apps with React. <https://microsoft.github.io/react-native-windows/>
+- [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos): A framework for building native macOS apps with React. <https://microsoft.github.io/react-native-windows/>
 
 ### Libs
 
@@ -41,3 +43,4 @@
 - [facebook/yoga](https://github.com/facebook/yoga): Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates. <https://yogalayout.dev/>
   - [facebook/litho](https://github.com/facebook/litho): A declarative framework for building efficient UIs on Android. <https://fblitho.com>
   - [facebook/componentkit](https://github.com/facebook/componentkit): A React-inspired view framework for iOS. <http://www.componentkit.org/>
+- [andrew-levy/swiftui-react-native](https://github.com/andrew-levy/swiftui-react-native): Bringing SwiftUI features to your React Native app. It's like if React Native and SwiftUI had a child. <http://swiftui-react-native.vercel.app>

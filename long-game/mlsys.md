@@ -96,6 +96,7 @@
   - [Horace He (@cHHillee)'s threads about gpt-fast](https://twitter.com/cHHillee/status/1730293330213531844)
 - [facebookresearch/DiT](https://github.com/facebookresearch/DiT): Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 - [crabml/crabml](https://github.com/crabml/crabml): crabml is an ongoing experiment that aims to reimplement GGML using Rust.
+- [shawntan/scattermoe](https://github.com/shawntan/scattermoe): Triton-based implementation of Sparse Mixture of Experts.
 
 ### Inference engine / large-scale deployment
 
@@ -186,6 +187,7 @@
 - [statusfailed/catgrad](https://github.com/statusfailed/catgrad): a categorical deep learning compiler
   - [ArXiv - Reverse derivative categories](https://arxiv.org/abs/1910.07065)
 - [nod-ai/SHARK-Turbine](https://github.com/nod-ai/SHARK-Turbine): Unified compiler/runtime for interfacing with PyTorch Dynamo.
+- [modularml/mojo](https://github.com/modularml/mojo): The Mojo Programming Language <https://docs.modular.com/mojo>
 
 ## Autodiff
 
@@ -226,6 +228,7 @@
 - [hayden-donnelly/jax-to-cpp](https://github.com/hayden-donnelly/jax-to-cpp): Generate HLO with JAX then execute in C++.
 - [young-geng/scalax](https://github.com/young-geng/scalax): A simple library for scaling up JAX programs
 - [NIFTy-PPL/JAXbind](https://github.com/NIFTy-PPL/JAXbind): Bind any function written in another language to JAX with support for JVP/VJP/batching/jit compilation
+- [MichaelTMatthews/Craftax](https://github.com/MichaelTMatthews/Craftax): (Crafter + NetHack) in JAX
 
 ### DeepMind specialization
 

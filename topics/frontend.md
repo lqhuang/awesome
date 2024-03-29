@@ -127,7 +127,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants): 🦄 Tailwindcss first-class variant API <https://tailwind-variants.org>
 - 🌟 [joe-bell/cva](https://github.com/joe-bell/cva): Class Variance Authority <https://cva.style>
 - 🌟 [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge): Merge Tailwind CSS classes without style conflicts <https://npmjs.com/package/tailwind-merge>
-- [gregberge/twc](https://github.com/gregberge/twc): Create reusable React + Tailwind CSS components in one line ✨ <https://react-twc.vercel.app>
+- 🌟 [gregberge/twc](https://github.com/gregberge/twc): Create reusable React + Tailwind CSS components in one line ✨ <https://react-twc.vercel.app>
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace): A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾 <https://shoelace.style>
   - CSS framework for Web Components
 - 🌟 [facebook/stylex](https://github.com/facebook/stylex): StyleX is the styling system for ambitious user interfaces. <https://stylexjs.com>

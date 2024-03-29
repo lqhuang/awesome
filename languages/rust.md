@@ -368,6 +368,7 @@
 - [jaemk/cached](https://github.com/jaemk/cached): Rust cache structures and easy function memoization
 - 🌟 [cloudflare/shellflip](https://github.com/cloudflare/shellflip): Graceful process restarts in Rust <https://blog.cloudflare.com/oxy-the-journey-of-graceful-restarts/>
 - [lettre/lettre](https://github.com/lettre/lettre): a mailer library for Rust <https://lettre.rs>
+- [tafia/calamine](https://github.com/tafia/calamine): A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
 
 ## Domain related
 

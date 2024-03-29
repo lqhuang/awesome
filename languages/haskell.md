@@ -103,3 +103,4 @@
 - [patrickt/fastsum](https://github.com/patrickt/fastsum): A fast open-union type, suitable for 100+ contained alternatives.
 - [HeinrichApfelmus/reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana): Library for functional reactive programming in Haskell. <https://wiki.haskell.org/Reactive-banana>
 - [acowley/concurrent-machines](https://github.com/acowley/concurrent-machines): Concurrency features for the Haskell machines package
+- [well-typed/blockio-uring](https://github.com/well-typed/blockio-uring): Library to perform batches of asynchronous disk IO operations. Implemented using Linux io_uring API.

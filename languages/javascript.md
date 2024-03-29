@@ -77,6 +77,7 @@
 - [tskj/typescript-json-decoder](https://github.com/tskj/typescript-json-decoder): Json Decoder for Typescript
 - [gcanti/io-ts](https://github.com/gcanti/io-ts): Runtime type system for IO decoding/encoding <https://gcanti.github.io/io-ts/>
 - 🌟 [Effect-TS/schema](https://github.com/Effect-TS/schema): Modeling the schema of data structures as first-class values <https://effect-ts.github.io/schema>
+- 🌟 [blitz-js/superjson](https://github.com/blitz-js/superjson): Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 
 ### Parser
 

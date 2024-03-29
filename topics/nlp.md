@@ -24,6 +24,7 @@
 - 🌟 [openai/tiktoken](https://github.com/openai/tiktoken): tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [gautierdag/bpeasy](https://github.com/gautierdag/bpeasy): Fast bare-bones BPE for modern tokenizer training
 - [karpathy/minbpe](https://github.com/karpathy/minbpe): Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
+- 🌟 [qdrant/fastembed](https://github.com/qdrant/fastembed): Fast, Accurate, Lightweight Python library to make State of the Art Embedding <https://qdrant.github.io/fastembed/>
 
 ### String search or operations
 
@@ -40,6 +41,7 @@
 - [unum-cloud/usearch](https://github.com/unum-cloud/usearch): Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram <https://unum-cloud.github.io/usearch/>
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo): Vector search for humans. <https://www.marqo.ai/>
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib): Header-only C++/python library for fast approximate nearest neighbors <https://github.com/nmslib/hnswlib>
+- [nmslib/nmslib](https://github.com/nmslib/nmslib): Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.
 - [instant-labs/instant-distance](https://github.com/instant-labs/instant-distance): Fast approximate nearest neighbor searching in Rust, based on HNSW index
 - [harsha-simhadri/big-ann-benchmarks](https://github.com/harsha-simhadri/big-ann-benchmarks): Framework for evaluating ANNS algorithms on billion scale datasets. <https://big-ann-benchmarks.com>
 - [pavlin-policar/openTSNE](https://github.com/pavlin-policar/openTSNE): Extensible, parallel implementations of t-SNE <https://opentsne.rtfd.io>
