@@ -23,6 +23,10 @@
 - [monorepo.tools](https://monorepo.tools/): Everything you need to know about monorepos, and the tools to build them.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo): A curated list of awesome Monorepo tools, software and architectures.
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system <https://bazel.build>
+  - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk): A user-friendly launcher for Bazel.
+  - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle): Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+- [facebook/buck2](https://github.com/facebook/buck2): Build system, successor to Buck <https://buck2.build/>
+  - [sluongng/awesome-buck2](https://github.com/sluongng/awesome-buck2): Collection of resources about Buck2
 - [nrwl/nx](https://github.com/nrwl/nx): Smart Monorepos · Fast CI <https://nx.dev>
 - [pantsbuild/pants](https://github.com/pantsbuild/pants): The Pantsbuild developer workflow system <https://www.pantsbuild.org>
 - [thought-machine/please](https://github.com/thought-machine/please): High-performance extensible build system for reproducible multi-language builds. <https://please.build>
@@ -38,6 +42,11 @@
 - [httpie/desktop](https://github.com/httpie/desktop): 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. <https://httpie.io>
 - [reqable/reqable-app](https://github.com/reqable/reqable-app): Reqable issue track repo <https://reqable.com>
 - [Rapid API](https://rapidapi.com/): previous <https://paw.cloud> <https://rapidapi.com>
+
+## Hook / Tools
+
+- [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit): A pre-commit hook for Ruff.
+- [googleapis/release-please](https://github.com/googleapis/release-please): generate release PRs based on the conventionalcommits.org spec <https://www.conventionalcommits.org>
 
 ## GitHub Action
 
@@ -65,7 +74,3 @@
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends): 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! <https://githubtrends.io>
 - [dorny/paths-filter](https://github.com/dorny/paths-filter): Conditionally run actions based on files modified by PR, feature branch or pushed commits
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. <https://github.com/marketplace/actions/github-pages-action>
-
-## Pre-commit
-
-- [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit): A pre-commit hook for Ruff.

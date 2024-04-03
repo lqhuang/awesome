@@ -44,3 +44,4 @@
   - [facebook/litho](https://github.com/facebook/litho): A declarative framework for building efficient UIs on Android. <https://fblitho.com>
   - [facebook/componentkit](https://github.com/facebook/componentkit): A React-inspired view framework for iOS. <http://www.componentkit.org/>
 - [andrew-levy/swiftui-react-native](https://github.com/andrew-levy/swiftui-react-native): Bringing SwiftUI features to your React Native app. It's like if React Native and SwiftUI had a child. <http://swiftui-react-native.vercel.app>
+- [kishikawakatsumi/applelocalization-web](https://github.com/kishikawakatsumi/applelocalization-web): An unofficial Apple localization terms glossary that allows you to search for standard localization texts provided by the Apple platform. <https://applelocalization.com/>

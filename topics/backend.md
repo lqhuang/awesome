@@ -51,6 +51,9 @@
 - [microsoft/typespec](https://github.com/microsoft/typespec): TypeSpec is a language for defining cloud service APIs and shapes. TypeSpec is a highly extensible language with primitives that can describe API shapes common among REST, OpenAPI, gRPC, and other protocols.
 - [smithy-lang/smithy](https://github.com/smithy-lang/smithy): Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language. <https://smithy.io>
   - [disneystreaming/smithy4s](https://github.com/disneystreaming/smithy4s): https://disneystreaming.github.io/smithy4s/
+  - [Baccata/smithy4s-deriving](https://github.com/Baccata/smithy4s-deriving): No description, website, or topics provided.
+  - [foldables-io/conductor](https://github.com/foldables-io/conductor): Type-safe middleware for Smithy4s
+  - [keynmol/jobby](https://github.com/keynmol/jobby): Smithy4s (Scala + Scala.js) full-stack application <https://blog.indoorvivants.com/tags/series:smithy4s>
 
 ## RPC System
 

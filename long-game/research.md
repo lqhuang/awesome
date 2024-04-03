@@ -107,3 +107,7 @@
 - [jgm/texmath](https://github.com/jgm/texmath): A Haskell library for converting LaTeX math to MathML.
 - [mitex-rs/mitex](https://github.com/mitex-rs/mitex): LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/ <https://mitex-rs.github.io/mitex/tools/underleaf.html>
 - [Myriad-Dreamin/typst-book](https://github.com/Myriad-Dreamin/typst-book): A simple tool for creating modern online books in pure typst. <https://myriad-dreamin.github.io/typst-book/>
+- [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts): Run Typst in JavaScriptWorld. <https://myriad-dreamin.github.io/typst.ts>
+- [mrkline/modern-latex](https://github.com/mrkline/modern-latex): A short guide to LaTeX that avoids legacy cruft. <https://assets.bitbashing.io/modern-latex.pdf>
+- [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst): Awesome Typst Links
+- [0xpapercut/wypst](https://github.com/0xpapercut/wypst): Typst math typesetting for the web. <https://0xpapercut.github.io/wypst/>

@@ -110,6 +110,7 @@
 - [aya-rs/aya](https://github.com/aya-rs/aya): Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. <https://aya-rs.dev/book>
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs): Heap profiling and ad hoc profiling for Rust programs.
 - [davidbarsky/tracing-tree](https://github.com/davidbarsky/tracing-tree): Instrument your application with tracing and get tree-structured summaries of your application activity with timing information on the console
+- [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie): An ergonomic and safe syscall interception framework for Linux.
 
 ### Program analysis
 
@@ -336,12 +337,16 @@
 - [nyx-space/hifitime](https://github.com/nyx-space/hifitime): A high fidelity time management library in Rust
 - [tailhook/humantime](https://github.com/tailhook/humantime): A parser and formatter for `std::time::{SystemTime, Duration}`
 
-### Utils
+### Error handling
 
 - 🌟 [zkat/miette](https://github.com/zkat/miette): Fancy upgrade to `std::error::Error`.
 - [rust-cli/human-panic](https://github.com/rust-cli/human-panic): 😱 Panic messages for humans.
+- [komora-io/terrors](https://github.com/komora-io/terrors): ergonomic and precise error handling built atop type-level set arithmetic
 - [yaahc/eyre](https://github.com/yaahc/eyre): A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
 - [shepmaster/snafu](https://github.com/shepmaster/snafu): Easily assign underlying errors into domain-specific errors while adding context
+
+### Utils
+
 - [yescallop/fluent-uri-rs](https://github.com/yescallop/fluent-uri-rs): A fast, easy URI parser that strictly adheres to IETF RFC 3986.
 - [frozenlib/parse-display](https://github.com/frozenlib/parse-display): Procedural macro to implement Display and FromStr using common settings.
 - [nushell/reedline](https://github.com/nushell/reedline): A readline replacement written in Rust
@@ -363,12 +368,15 @@
 - [camino-rs/camino](https://github.com/camino-rs/camino): Like Rust's std::path::Path, but UTF-8. <https://docs.rs/camino>
 - [alexcrichton/filetime](https://github.com/alexcrichton/filetime): Accessing file timestamps in a platform-agnostic fashion in Rust
 - 🌟 [cloudflare/foundations](https://github.com/cloudflare/foundations): Cloudflare's Rust service foundations library.
+- 🌟 [cloudflare/shellflip](https://github.com/cloudflare/shellflip): Graceful process restarts in Rust <https://blog.cloudflare.com/oxy-the-journey-of-graceful-restarts/>
+- [facebookincubator/gazebo](https://github.com/facebookincubator/gazebo): A Rust library containing a collection of small well-tested primitives.
+- [facebookexperimental/rust-shed](https://github.com/facebookexperimental/rust-shed): Repository containing Rust crates common between other Facebook open source projects (like Mononoke or Eden).
 - [rayon-rs/either](https://github.com/rayon-rs/either): The enum Either with variants Left and Right is a general purpose sum type with two cases. <https://docs.rs/either/>
 - [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64): base64, in rust
 - [jaemk/cached](https://github.com/jaemk/cached): Rust cache structures and easy function memoization
-- 🌟 [cloudflare/shellflip](https://github.com/cloudflare/shellflip): Graceful process restarts in Rust <https://blog.cloudflare.com/oxy-the-journey-of-graceful-restarts/>
 - [lettre/lettre](https://github.com/lettre/lettre): a mailer library for Rust <https://lettre.rs>
 - [tafia/calamine](https://github.com/tafia/calamine): A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
+- [orlp/recursive](https://github.com/orlp/recursive): Easy recursion in Rust, without stack overflows.
 
 ## Domain related
 

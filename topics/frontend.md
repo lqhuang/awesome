@@ -40,10 +40,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [honojs/hono](https://github.com/honojs/hono): Ultrafast web framework for Cloudflare Workers and Deno. Fast, but not only fast.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine): A rugged, minimal framework for composing JavaScript behavior in your markup. <https://alpinejs.dev>
 - [trpc/trpc](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. <https://trpc.io>
-- [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework <https://waku.gg>
-- 🌟 [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js): Reactivity without the framework <https://arrow-js.com>
+- 🌟 [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework <https://waku.gg>
+- [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js): Reactivity without the framework <https://arrow-js.com>
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra): Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
-- 🌟🌟 [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
+- 🌟🌟🌟 [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth): Authentication for the Web. <https://authjs.dev>
 
 ### Templates
 
@@ -134,14 +135,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ### Components
 
+- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components): Curated List of React Components & Libraries.
+
 - 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown): Markdown component for React <https://remarkjs.github.io/react-markdown>
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements): 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use <https://tailwind-elements.com>
 - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template): Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. <https://simple.cruip.com>
-
-- [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table <https://tanstack.com/table>
-- [TanStack/virtual](https://github.com/TanStack/virtual): 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte <https://tanstack.com/virtual>
-- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid): 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support. <https://grid.glideapps.com>
-- [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator): Interactive Tables and Data Grids for JavaScript <http://tabulator.info/>
 
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React. <https://sonner.emilkowal.ski>
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic): A React tiling window manager <https://nomcopter.github.io/react-mosaic/>
@@ -150,7 +148,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [rpldy/react-uploady](https://github.com/rpldy/react-uploady): Modern file uploading - components & hooks for React <https://react-uploady.org/>
 
 - [Himself65/rich-data](https://github.com/Himself65/rich-data): Data Viewer <https://rich-data.dev>
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono): 🕑 Modern Timeline Component for React <https://react-chrono.prabhumurthy.com/>
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso): The most powerful virtual list component for React <https://virtuoso.dev/>
 - 🌟 [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer): Simple React Component That Makes Titles More Readable <https://react-wrap-balancer.vercel.app/>
 - [vercel/satori](https://github.com/vercel/satori): Enlightened library to convert HTML and CSS to SVG <https://og-playground.vercel.app/>
@@ -160,33 +157,25 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [zxch3n/tidy](https://github.com/zxch3n/tidy): A tree visualization tool written in Rust
 - [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit): A lightweight magic-move library for configurable layout transitions
 
-- [sampotts/plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player <https://plyr.io>
-- [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer): 🍭 Wow, such a lovely HTML5 danmaku video player <https://dplayer.diygod.dev>
-- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player): JavaScript player library / DASH & HLS client / MSE-EME player
-  - [WINOFFRG/limeplay](https://github.com/WINOFFRG/limeplay): ⭐ NEW: Modern Headless UI Library for Media Player (Shaka Player & HTML5) in React <https://limeplay.me>
-- [bytedance/xgplayer](https://github.com/bytedance/xgplayer): A HTML5 video player with a parser that saves traffic <https://h5player.bytedance.com/>
-
 - [JedWatson/react-select](https://github.com/JedWatson/react-select): The Select Component for React.js <https://react-select.com/>
 - 🌟 [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer): Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app <https://www.contentlayer.dev>
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote): Load mdx content from anywhere through getStaticProps in next.js
 
-- 🌟 [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js): A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page <https://driverjs.com>
 - [signavio/react-mentions](https://github.com/signavio/react-mentions): @mention people in a textarea <https://react-mentions.vercel.app>
 - [satelllte/react-knob-headless](https://github.com/satelllte/react-knob-headless): 🎛️ Unstyled & accessible knob primitive for React. <https://react-knob-headless.vercel.app>
 - [daybrush/moveable](https://github.com/daybrush/moveable): Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable! <https://daybrush.com/moveable/>
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit): The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React. <http://dndkit.com>
 
-- [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker): A simple TimePicker for your Shadcn UI project. <https://time.openstatus.dev/>
-- [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar): Ultimate calendar for your React app. <https://projects.wojtekmaj.pl/react-calendar>
-- [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker): A date picker for your React app. <https://projects.wojtekmaj.pl/react-date-picker>
-- [fymmot/inclusive-dates](https://github.com/fymmot/inclusive-dates): A human-friendly datepicker – now as a Web Component! Supports natural language input through Chrono.js. Fully accessible with keyboard and screen reader. Contributions welcome! <https://fymmot.github.io/inclusive-dates/>
-
 - 🌟🌟🌟 [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
 - [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
 
 - 🌟 [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui): A JavaScript library to position floating elements and create interactions for them. <https://floating-ui.com>
 - [nygardk/react-share](https://github.com/nygardk/react-share): Social media share buttons and share counts for React
+
+- [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js): 🌞 A lightweight JavaScript library that generates customizable heat maps to visualize date-based activity and trends. <https://www.william-troup.com/heat-js>
+
+#### PDF
 
 - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf): Display PDFs in your React app as easily as if they were images. <https://projects.wojtekmaj.pl/react-pdf>
   - **DISPLAY** pdf
@@ -195,8 +184,14 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination): A React pagination component which intelligently renders to the available width <https://react-responsive-pagination.elantha.com>
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf): Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. <https://react.onedoclabs.com/>
 
-- [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js): 🌞 A lightweight JavaScript library that generates customizable heat maps to visualize date-based activity and trends. <https://www.william-troup.com/heat-js>
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth): Authentication for the Web. <https://authjs.dev>
+#### Time related
+
+- [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker): A simple TimePicker for your Shadcn UI project. <https://time.openstatus.dev/>
+- [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar): Ultimate calendar for your React app. <https://projects.wojtekmaj.pl/react-calendar>
+- [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker): A date picker for your React app. <https://projects.wojtekmaj.pl/react-date-picker>
+- [fymmot/inclusive-dates](https://github.com/fymmot/inclusive-dates): A human-friendly datepicker – now as a Web Component! Supports natural language input through Chrono.js. Fully accessible with keyboard and screen reader. Contributions welcome! <https://fymmot.github.io/inclusive-dates/>
+- 🌟 [github/relative-time-element](https://github.com/github/relative-time-element): Web component extensions to the standard <time> element. <https://github.github.io/relative-time-element/examples/>
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono): 🕑 Modern Timeline Component for React <https://react-chrono.prabhumurthy.com/>
 
 #### Form
 
@@ -204,8 +199,16 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 <https://formik.org>
 - [bhch/react-json-form](https://github.com/bhch/react-json-form): JSON editing made easy using form inputs. <https://bhch.github.io/react-json-form>
 
+### Table
+
+- [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table <https://tanstack.com/table>
+- [TanStack/virtual](https://github.com/TanStack/virtual): 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte <https://tanstack.com/virtual>
+- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid): 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support. <https://grid.glideapps.com>
+- [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator): Interactive Tables and Data Grids for JavaScript <http://tabulator.info/>
+
 #### Onboarding
 
+- 🌟 [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js): A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page <https://driverjs.com>
 - [useflytrap/onboarding_lib](https://github.com/useflytrap/onboarding_lib): 🪜 A tiny headless onboarding library with form validation, schema validation using Zod and persistance with unstorage. <https://onboarding-lib.vercel.app>
 - [shepherd-pro/react-shepherd](https://github.com/shepherd-pro/react-shepherd): A React wrapper for the site tour library Shepherd <https://react-shepherd.vercel.app>
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride): Create guided tours in your apps <https://react-joyride.com/>
@@ -222,6 +225,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react): Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins <https://monaco-react.surenatoyan.com/>
 - [code-hike/codehike](https://github.com/code-hike/codehike): Marvellous code walkthroughs <https://codehike.org>
 - [code-hike/bright](https://github.com/code-hike/bright): React Server Component for syntax highlighting <https://bright.codehike.org>
+- [basecamp/trix](https://github.com/basecamp/trix): A rich text editor for everyday writing <https://trix-editor.org/>
 
 #### Animation
 
@@ -237,6 +241,14 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion): react-magic-motion is a react.js library that ✨ magically animates your components. <https://react-magic-motion.com>
 - 🌟 [liabru/matter-js](https://github.com/liabru/matter-js): a 2D rigid body physics engine for the web ▲● ■
 - 🌟 [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas): An React.js component library for beautifully shaded canvas <https://uvcanvas.com>
+
+#### Media player
+
+- [sampotts/plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player <https://plyr.io>
+- [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer): 🍭 Wow, such a lovely HTML5 danmaku video player <https://dplayer.diygod.dev>
+- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player): JavaScript player library / DASH & HLS client / MSE-EME player
+  - [WINOFFRG/limeplay](https://github.com/WINOFFRG/limeplay): ⭐ NEW: Modern Headless UI Library for Media Player (Shaka Player & HTML5) in React <https://limeplay.me>
+- [bytedance/xgplayer](https://github.com/bytedance/xgplayer): A HTML5 video player with a parser that saves traffic <https://h5player.bytedance.com/>
 
 ## Functional libraries
 
@@ -265,9 +277,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that helps you debug components.
 - 🌟 [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source): A better API for making Event Source requests, with all the features of fetch()
   - Really?: You cannot pass in custom request headers (for making `EventSource` requests)
+- 🌟 [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream): A tiny (736b) utility for Server Sent Event (SSE) streaming via `fetch` and Web Streams API
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international): Type-safe internationalization (i18n) for Next.js <https://next-international.vercel.app>
 - [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string. <https://nuqs.47ng.com>
 - [maslianok/react-resize-detector](https://github.com/maslianok/react-resize-detector): A Cross-Browser, Event-based, Element Resize Detection for React <http://maslianok.github.io/react-resize-detector/>
+- [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware): ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes <https://fezvrasta.github.io/react-resize-aware>
 
 ### Misc
 

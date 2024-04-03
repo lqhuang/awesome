@@ -5,6 +5,7 @@
 - [npmgraph](https://npmgraph.js.org/)
 - [A list of JavaScript engines, runtimes, interpreters](https://gist.github.com/guest271314/bd292fc33e1b30dede0643a283fadc6a)
 - 🌟 [typehero/typehero](https://github.com/typehero/typehero): Connect, collaborate, and grow with a community of TypeScript developers <https://typehero.dev>
+- [Cypress Tips & Tricks](https://cypress.tips/)
 
 ## Books
 
@@ -49,6 +50,10 @@
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check): Property based testing framework for JavaScript (like QuickCheck) written in TypeScript <https://fast-check.dev/>
 - [ealush/vest](https://github.com/ealush/vest): Vest ✅ Declarative validations framework <https://vestjs.dev/>
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash): Markup for generating rich type information in your documentations ahead of time. <https://twoslash.netlify.app/>
+- [mochajs/mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser <https://mochajs.org>
+- [enzymejs/enzyme](https://github.com/enzymejs/enzyme): JavaScript Testing utilities for React <https://enzymejs.github.io/enzyme/>
+- [chaijs/chai](https://github.com/chaijs/chai): BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework. <https://chaijs.github.io>
+- [sinonjs/sinon](https://github.com/sinonjs/sinon): Test spies, stubs and mocks for JavaScript. <https://sinonjs.org/>
 
 ### Linter / Formatter
 
@@ -97,7 +102,11 @@
 ### Backend
 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm): TypeScript ORM that feels like writing SQL <https://orm.drizzle.team>
+- [knex/knex](https://github.com/knex/knex): A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use. <https://knexjs.org/>
 - [yomorun/presencejs](https://github.com/yomorun/presencejs): @yomo/presencejs ⚡️ made realtime web applications edge-aware by YoMo, WebTransport based, provide fallback to WebSocket automatically. <https://presence.js.org>
+- [gajus/slonik](https://github.com/gajus/slonik): A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
+- [Muhammad-Magdi/pgmq-js](https://github.com/Muhammad-Magdi/pgmq-js): Postgres Message Queue (PGMQ) JavaScript Client Library
+- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts): Turn your OpenAPI specification into a beautiful TypeScript client <https://npmjs.com/package/@hey-api/openapi-ts>
 
 ## Utils
 

@@ -105,6 +105,7 @@
 - [liblaber/sdk-code-gen](https://github.com/liblaber/sdk-code-gen): LibLab.com SDK Code Generator <https://liblab.com>
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [formbricks/formbricks](https://github.com/formbricks/formbricks): Open Source Surveys & Experience Management Solution <https://formbricks.com>
+- [heyform/heyform](https://github.com/heyform/heyform): HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required. <https://heyform.net>
 
 ### Pipelines / Workflow
 
@@ -147,6 +148,7 @@
 - 🌟 [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus): The open-source status page <https://openstatus.dev>
 - [Uptime Robot](https://uptimerobot.com/)
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit): Cockpit is a web-based graphical interface for servers. <http://www.cockpit-project.org/>
+- [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime): OneUptime is the complete open-source observability platform. <https://oneuptime.com>
 
 ### Observability: Logging / Metrics / APM
 

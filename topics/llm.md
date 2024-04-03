@@ -154,6 +154,8 @@
 - [chathub-dev/chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client <https://chathub.gg/?utm_source=github>
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT): Teaching LLMs memory management for unbounded context 📚🦙 <https://memgpt.readme.io>
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code): Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) <https://screenshottocode.com>
+- [agiresearch/OpenAGI](https://github.com/agiresearch/OpenAGI): OpenAGI: When LLM Meets Domain Experts
+- [microsoft/NeuralSpeech](https://github.com/microsoft/NeuralSpeech): NeuralSpeech is a research project at Microsoft Research Asia, which focuses on neural network based speech processing, including automatic speech recognition (ASR), text-to-speech synthesis (TTS), spatial audio synthesis, video dubbing, etc.
 
 ### LLM Prompts
 

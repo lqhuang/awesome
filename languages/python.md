@@ -53,6 +53,7 @@
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps): Python dependency checker
 - [PyCQA/docformatter](https://github.com/PyCQA/docformatter): Formats docstrings to follow PEP 257 <https://pypi.python.org/pypi/docformatter>
 - [ariebovenberg/slotscheck](https://github.com/ariebovenberg/slotscheck): 🎰 Ensure your `__slots__` are working properly <https://slotscheck.rtfd.io>
+- [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs): Run `black` on python code blocks in documentation files
 
 ### Build tools
 
@@ -70,6 +71,7 @@
 - [njsmith/posy](https://github.com/njsmith/posy): The goal is for posy to act as a kind of high-level frontend to python
 - 🌟 [furkanonder/beetrace](https://github.com/furkanonder/beetrace): Trace your python process line by line with low overhead! <https://desktop.github.com>
 - [prefix-dev/rip](https://github.com/prefix-dev/rip): Solve and install Python packages quickly with rip (pip in Rust) <https://prefix.dev>
+- [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith): Tooling support for the Polylith Architecture in Python. <https://davidvujic.github.io/python-polylith-docs/>
 
 ### Packaging
 
@@ -243,6 +245,7 @@
 - [mljar/mercury](https://github.com/mljar/mercury): Build Web Apps in Jupyter Notebook with Python only <https://RunMercury.com>
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl): 🎈 Simple reactive notebooks for Julia <https://plutojl.org/>
 - [kolibril13/jupyter-tldraw](https://github.com/kolibril13/jupyter-tldraw): the very good free whiteboard tldraw in the jupyter output
+- [deshaw/jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time): A JupyterLab extension for displaying cell timings
 
 ### Prob
 
@@ -381,6 +384,7 @@
 - 📝 [aio-libs/janus](https://github.com/aio-libs/janus): Thread-safe asyncio-aware queue for Python
 - [mjpieters/aiolimiter](https://github.com/mjpieters/aiolimiter): An efficient implementation of a rate limiter for asyncio. <https://aiolimiter.readthedocs.io/en/latest/>
 - [YoSTEALTH/Liburing](https://github.com/YoSTEALTH/Liburing): This is a Python + CFFI wrapper around Liburing C library, which is a helper to setup and tear-down io_uring instances. <https://pypi.org/project/liburing/>
+- [stealthrocket/dispatch-py](https://github.com/stealthrocket/dispatch-py): Python package to develop applications with Dispatch. <https://pypi.org/project/dispatch-py/>
 
 ### Middleware
 

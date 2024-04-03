@@ -22,6 +22,7 @@
 - 🌟 [roapi/roapi](https://github.com/roapi/roapi): Create full-fledged APIs for slowly moving datasets without writing a single line of code. <https://roapi.github.io/docs>
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb): Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀 <https://peerdb.io>
 - [uwdata/arquero](https://github.com/uwdata/arquero): Query processing and transformation of array-backed data tables. <https://uwdata.github.io/arquero>
+- [chrthomsen/pygrametl](https://github.com/chrthomsen/pygrametl): Official repository for pygrametl - ETL programming in Python <http://pygrametl.org>
 
 ## Visualize frontend / BI
 
@@ -35,6 +36,7 @@
 - [lightdash/lightdash](https://github.com/lightdash/lightdash): Open source BI for teams that move fast ⚡️ <https://lightdash.com>
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad): Web-based SQL editor. Legacy project in maintenance mode. <https://getsqlpad.com>
 - [teableio/teable](https://github.com/teableio/teable): ✨ A Super fast, Real-time, Professional, Developer friendly, No code database <https://teable.io>
+- [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai): Open-source, browser-local data exploration using DuckDB-Wasm and PRQL <https://pretzelai.github.io>
 
 ## Data governance
 

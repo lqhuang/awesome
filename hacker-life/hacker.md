@@ -21,6 +21,7 @@
 - [chanhx/crabviz](https://github.com/chanhx/crabviz): 🦀 A tool to generate interactive call graphs for multiple languages
 - 🌟🌟🌟 [idank/explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
 - [3rd/tsdiagram](https://github.com/3rd/tsdiagram): Create diagrams and plan your code with TypeScript. <https://tsdiagram.com>
+- 🌟🌟🌟 [facebook/watchman](https://github.com/facebook/watchman): Watches files and records, or triggers actions, when they change. <https://facebook.github.io/watchman/>
 
 ### Misc linters / formatters
 

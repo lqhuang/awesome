@@ -82,6 +82,7 @@
 - [TuGraph-family/tugraph-db](https://github.com/TuGraph-family/tugraph-db): TuGraph is a high performance graph database. <https://tugraph.org>
 - [memgraph/memgraph](https://github.com/memgraph/memgraph): Open-source graph database, built for real-time streaming data, compatible with Neo4j. <https://memgraph.com>
 - [Netflix/atlas](https://github.com/Netflix/atlas): In-memory dimensional time series database.
+- [tembo-io/pg_timeseries](https://github.com/tembo-io/pg_timeseries): Simple and focused time-series tables for PostgreSQL, from Tembo
 
 ### KV
 
@@ -143,6 +144,8 @@
 - [PostHog/HouseWatch](https://github.com/PostHog/HouseWatch): Open source tool for monitoring and managing ClickHouse clusters
 - 🌟 [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap): Automatic SQL injection and database takeover tool <http://sqlmap.org>
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr): ingestr is a CLI tool to copy data between any databases with a single command seamlessly. <https://bruin-data.github.io/ingestr/>
+- [Snaplet](https://www.snaplet.dev/): Get instant seed data for your relational database
+  - Looks like no open source otpion currently
 
 ### ERD
 
@@ -167,6 +170,7 @@
 - [postgrespro/aqo](https://github.com/postgrespro/aqo): Adaptive query optimization for PostgreSQL
 - 🌟 [PostgreSQL Configurator](https://pgconfigurator.cybertec-postgresql.com)
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4): pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. <https://www.pgadmin.org>
+- [percona/pg_stat_monitor](https://github.com/percona/pg_stat_monitor): Query Performance Monitoring Tool for PostgreSQL <https://docs.percona.com/pg-stat-monitor/>
 - [zalando/spilo](https://github.com/zalando/spilo): Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq): A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
   - [Anatomy of a Postgres extension written in Rust: pgmq](https://tembo.io/blog/postgres-extension-in-rust-pgmq)
@@ -193,6 +197,7 @@
 - [tcdi/plrust](https://github.com/tcdi/plrust): A Rust procedural language handler for PostgreSQL
 - 🌟 [ankane/pgsync](https://github.com/ankane/pgsync): Sync data from one Postgres database to another
 - [eradman/pg-safeupdate](https://github.com/eradman/pg-safeupdate): A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE
+- 🌟 [xataio/pgroll](https://github.com/xataio/pgroll): PostgreSQL zero-downtime migrations made easy <https://www.xata.io>
 
 ### SQLite
 

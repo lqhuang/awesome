@@ -49,6 +49,7 @@
 - [salesforce/jaxformer](https://github.com/salesforce/jaxformer): Minimal library to train LLMs on TPU in JAX with pjit().
 - [elixir-nx/nx](https://github.com/elixir-nx/nx): Multi-dimensional arrays (tensors) and numerical definitions for Elixir
 - [CarperAI/trlx](https://github.com/CarperAI/trlx): A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
+- [huggingface/ratchet](https://github.com/huggingface/ratchet): A cross-platform browser ML framework. <https://ratchet.sh>
 
 ### Optimization
 
