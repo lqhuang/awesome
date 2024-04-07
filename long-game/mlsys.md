@@ -311,3 +311,4 @@ This is not an officially supported Google product.
 - [sustcsonglin/flash-linear-attention](https://github.com/sustcsonglin/flash-linear-attention): Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton
 - [Vchitect/LaVie](https://github.com/Vchitect/LaVie): LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
 - [HMUNACHI/nanodl](https://github.com/HMUNACHI/nanodl): A Jax-based library for designing and training transformer models from scratch.
+- [beresandras/clear-diffusion-keras](https://github.com/beresandras/clear-diffusion-keras): Implementation of denoising diffusion models with schedules, improved sampling, and other extensions using Keras.

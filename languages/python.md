@@ -9,6 +9,7 @@
 - [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi): A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject): An Awesome List of projects using the pyproject.toml Python configuration file.
 - [python/devguide](https://github.com/python/devguide): The Python developer's guide <https://devguide.python.org/>
+- 🌟 [PyPI Browser](https://pypi-browser.org/): `Metadata`, `Requires` that all missed things of pypi.org
 
 ### Readings
 
@@ -72,6 +73,7 @@
 - 🌟 [furkanonder/beetrace](https://github.com/furkanonder/beetrace): Trace your python process line by line with low overhead! <https://desktop.github.com>
 - [prefix-dev/rip](https://github.com/prefix-dev/rip): Solve and install Python packages quickly with rip (pip in Rust) <https://prefix.dev>
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith): Tooling support for the Polylith Architecture in Python. <https://davidvujic.github.io/python-polylith-docs/>
+- [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath): Inspect and refine PATH environment variable on Windows, Linux and MacOS.
 
 ### Packaging
 
@@ -246,6 +248,7 @@
 - [fonsp/Pluto.jl](https://github.com/fonsp/Pluto.jl): 🎈 Simple reactive notebooks for Julia <https://plutojl.org/>
 - [kolibril13/jupyter-tldraw](https://github.com/kolibril13/jupyter-tldraw): the very good free whiteboard tldraw in the jupyter output
 - [deshaw/jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time): A JupyterLab extension for displaying cell timings
+- [davidbrochart/jupyter-kernel-provisioner-proxy](https://github.com/davidbrochart/jupyter-kernel-provisioner-proxy): Jupyter kernel provisioner proxy
 
 ### Prob
 

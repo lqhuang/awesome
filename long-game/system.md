@@ -21,6 +21,7 @@
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters): Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺 <https://github.com/leandromoreira/linux-network-performance-parameters>
 - [intel/PerfSpect](https://github.com/intel/PerfSpect): system performance characterization tool based on linux perf
 - [baidu/dperf](https://github.com/baidu/dperf): dperf is a DPDK based 100Gbps network performance and load testing software.
+- [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg): The Linux Kernel Module Programming Guide (updated for 5.0+ kernels) <https://sysprog21.github.io/lkmpg/>
 
 ## BPF
 
@@ -53,6 +54,7 @@
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope): 🔬 A fast, interactive web-based viewer for performance profiles. <https://www.speedscope.app>
 - [mstange/samply](https://github.com/mstange/samply): Command-line sampling profiler for macOS and Linux
+- [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng): This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. <https://github.com/ColinIanKing/stress-ng>
 
 ## WASM Runtime
 

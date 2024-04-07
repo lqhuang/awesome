@@ -40,7 +40,7 @@
 
 - [marcinzh/effect-zoo](https://github.com/marcinzh/effect-zoo): Effect Zoo for Scala
 
-## Build
+## Toolchains
 
 ### Sbt plugins
 
@@ -60,6 +60,7 @@
 - [sbt/sbt-multi-jvm](https://github.com/sbt/sbt-multi-jvm): Multi-JVM testing in sbt
 - [sbt/sbt-buildinfo](https://github.com/sbt/sbt-buildinfo): I know this because build.sbt knows this.
 - [sbt/docker-sbt](https://github.com/sbt/docker-sbt): Official sbt docker images
+- 🌟 [kitlangton/scala-update](https://github.com/kitlangton/scala-update): Update your Scala dependencies interactively
 
 ### Testing
 
@@ -71,7 +72,22 @@
 - [spotify/ratatool](https://github.com/spotify/ratatool): A tool for data sampling, data generation, and data diffing
 - [paulbutcher/ScalaMock](https://github.com/paulbutcher/ScalaMock): Native Scala mocking framework <http://scalamock.org/>
 
+### Linter / Program Analysis
+
+- [lightbend/mima](https://github.com/lightbend/mima): A tool for catching binary incompatibility in Scala
+- [wartremover/wartremover](https://github.com/wartremover/wartremover): Flexible Scala code linting tool <https://www.wartremover.org>
+
 ### CI Actions
+
+### Graal VM
+
+- [oracle/graalvm-reachability-metadata](https://github.com/oracle/graalvm-reachability-metadata): Repository which contains community-driven collection of GraalVM reachability metadata for open-source libraries.
+
+### Tools
+
+- [earldouglas/sbt-lit](https://github.com/earldouglas/sbt-lit): Literate programming with sbt
+- [jpablo/type-explorer](https://github.com/jpablo/type-explorer): Code exploration via diagrams
+- [VirtusLab/graphbuddy](https://github.com/VirtusLab/graphbuddy): Graph Buddy helps you to understand the code better <https://graphbuddy.virtuslab.com/>
 
 ## Featured
 
@@ -126,6 +142,8 @@
 ### Logging
 
 - 🌟 [outr/scribe](https://github.com/outr/scribe): The fastest logging library in the world. Built from scratch in Scala and programmatically configurable.
+- [valskalla/odin](https://github.com/valskalla/odin): Fast & Functional logger in Scala
+  - no longer maintained?
 
 ### Tracing
 
@@ -145,6 +163,7 @@
 - [cequence-io/openai-scala-client](https://github.com/cequence-io/openai-scala-client): Scala client for OpenAI API
 - [softwaremill/sttp-openai](https://github.com/softwaremill/sttp-openai)
 - [quelgar/scala-uv](https://github.com/quelgar/scala-uv): Scala Native language bindings for libuv
+- [finagle/finch](https://github.com/finagle/finch): Scala combinator library for building Finagle HTTP services <https://finagle.github.io/finch>
 
 ### Parser
 
@@ -161,19 +180,13 @@
 
 ### Tools
 
-- [kitlangton/scala-update](https://github.com/kitlangton/scala-update): Update your Scala dependencies interactively
 - [scalapy/scalapy](https://github.com/scalapy/scalapy): Use the world of Python from the comfort of Scala!
 - [almond-sh/almond](https://github.com/almond-sh/almond): A Scala kernel for Jupyter <https://almond.sh>
 - [polynote/polynote](https://github.com/polynote/polynote): A better notebook for Scala (and more) <https://polynote.org>
-- [seglo/kafka-lag-exporter](https://github.com/seglo/kafka-lag-exporter): Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
 - [lampepfl/dotty-macro-examples](https://github.com/lampepfl/dotty-macro-examples): Various tasks solved via metaprogramming in Dotty
-- [wartremover/wartremover](https://github.com/wartremover/wartremover): Flexible Scala code linting tool <https://www.wartremover.org>
 - [makingthematrix/signals3](https://github.com/makingthematrix/signals3): A lightweight event streaming library for Scala 3
 - [scala/toolkit](https://github.com/scala/toolkit): The batteries-included Scala
-- [earldouglas/sbt-lit](https://github.com/earldouglas/sbt-lit): Literate programming with sbt
-- [lightbend/mima](https://github.com/lightbend/mima): A tool for catching binary incompatibility in Scala
 - [andyglow/scala-jsonschema](https://github.com/andyglow/scala-jsonschema): Scala JSON Schema
-- [jpablo/type-explorer](https://github.com/jpablo/type-explorer): Code exploration via diagrams
 
 ### Misc
 

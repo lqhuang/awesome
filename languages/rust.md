@@ -76,6 +76,7 @@
 - [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks): Scan your Rust crate for semver violations.
 - 🌟 [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm): cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 - [EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about): 📜 Cargo plugin to generate list of all licenses for a crate 🦀 <http://embark.rs>
+- [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update): A cargo subcommand for checking and applying updates to installed executables
 
 ### Test suites
 
@@ -377,6 +378,7 @@
 - [lettre/lettre](https://github.com/lettre/lettre): a mailer library for Rust <https://lettre.rs>
 - [tafia/calamine](https://github.com/tafia/calamine): A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
 - [orlp/recursive](https://github.com/orlp/recursive): Easy recursion in Rust, without stack overflows.
+- [zesterer/ffd](https://github.com/zesterer/ffd): Fast Function Dispatch: Improving the performance of Rust's dynamic function calls <https://docs.rs/ffd/0.1.0-alpha.0/ffd/>
 
 ## Domain related
 
@@ -446,6 +448,7 @@
 - [ad4mx/spinoff](https://github.com/ad4mx/spinoff): 💻 Simple Rust library for displaying spinners in the terminal
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui): Rust library to build rich terminal user interfaces (TUIs) and dashboards
 - [rust-cli/anstyle](https://github.com/rust-cli/anstyle): ANSI text styling <https://docs.rs/anstyle>
+- [sigoden/argc](https://github.com/sigoden/argc): Easily create feature-rich CLIs in bash.
 
 ### GUI
 

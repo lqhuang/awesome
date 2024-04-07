@@ -15,13 +15,13 @@
 - 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC <https://manfred.life/quicssh>
 - [Finb/Bark](https://github.com/Finb/Bark): Bark is an iOS App which allows you to push custom notifications to your iPhone <https://bark.day.app>
 - [axodotdev/oranda](https://github.com/axodotdev/oranda): 🎁 generate beautiful landing pages for your developer tools <https://opensource.axo.dev/oranda/>
-- [NixOS/nix](https://github.com/NixOS/nix): Nix, the purely functional package manager <https://nixos.org/>
-  - [Welcome to nix.dev](https://nix.dev/): nix.dev is the home of official documentation for the Nix ecosystem.
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors): GNU/Linux 一键更换系统软件源脚本 <https://linuxmirrors.cn>
 - [chanhx/crabviz](https://github.com/chanhx/crabviz): 🦀 A tool to generate interactive call graphs for multiple languages
 - 🌟🌟🌟 [idank/explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
 - [3rd/tsdiagram](https://github.com/3rd/tsdiagram): Create diagrams and plan your code with TypeScript. <https://tsdiagram.com>
 - 🌟🌟🌟 [facebook/watchman](https://github.com/facebook/watchman): Watches files and records, or triggers actions, when they change. <https://facebook.github.io/watchman/>
+- 🌟 [facebook/dotslash](https://github.com/facebook/dotslash): Simplified executable deployment <https://dotslash-cli.com>
+- [jdx/mise](https://github.com/jdx/mise): dev tools, env vars, task runner <https://mise.jdx.dev>
 
 ### Misc linters / formatters
 
@@ -62,7 +62,9 @@
 
 ## Homelab
 
-- [meienberger/runtipi](https://github.com/meienberger/runtipi): ⛺️ Tipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨
+- [runtipi/runtipi](https://github.com/runtipi/runtipi): Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ <https://www.runtipi.io/>
+  - Wow, a lot of templates for compose file
+  - no k8s, only docker compose
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. <https://sandstorm.io>
 - [sshguard/sshguard](https://bitbucket.org/sshguard/sshguard/): SSHGuard protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends. <https://www.sshguard.net>
 - 🌟 [Lissy93/dashy](https://github.com/Lissy93/dashy): 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! <https://dashy.to>
@@ -110,6 +112,7 @@
 - [USTC Hackergame](https://github.com/USTC-Hackergame)
 - [lizongying/my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用 <https://lyrics.run/my-tv.html>
 - [YueChan/Live](https://github.com/YueChan/Live): 收集于互联网的一些高清直播源。
+- [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender): 中国节假日、调休、补班日历，ICS 格式，可供 IPhone、Google Calendar、Outlook 等客户端订阅，包含节假日 API
 
 ## Branding
 

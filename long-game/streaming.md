@@ -74,6 +74,7 @@ Streaming Systems
 - [apache/eventmesh](https://github.com/apache/eventmesh): EventMesh is a new generation serverless event middleware for building distributed event-driven applications. <https://eventmesh.apache.org>
 - 📝 [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq): A modern high-performance open source message queuing system <https://bloomberg.github.io/blazingmq/>
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq): A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq): BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis <https://bullmq.io>
 
 ### Kafka
 
@@ -87,6 +88,7 @@ Streaming Systems
 - [WarpStream](https://www.warpstream.com): Stream more, manage less. WarpStream is a Kafka compatible data streaming platform built directly on top of object storage: no inter-AZ bandwidth costs, no disks to manage, and infinitely scalable, all within your VPC.
 - [AutoMQ/elastic-stream](https://github.com/AutoMQ/elastic-stream): The first truly cloud-native MQ storage engine for messaging and streaming.
 - [AutoMQ/automq-for-kafka](https://github.com/AutoMQ/automq-for-kafka): A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%. <https://www.automq.com/>
+- [seglo/kafka-lag-exporter](https://github.com/seglo/kafka-lag-exporter): Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
 
 ### Utils
 

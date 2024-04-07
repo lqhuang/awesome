@@ -39,6 +39,7 @@
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra): Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 - 🌟 [Linear Algebra Done Right](https://linear.axler.net/): This best-selling textbook for a second course in linear algebra is aimed at undergraduate math majors and graduate students. The novel approach taken here banishes determinants to the end of the book. The text focuses on the central goal of linear algebra: understanding the structure of linear operators on finite-dimensional vector spaces.
 - [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book): Welcome to the Physics-based Deep Learning Book (v0.2) <https://physicsbaseddeeplearning.org/>
+- [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers): aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;) <http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/>
 
 ## Numerical Analysis
 

@@ -65,6 +65,7 @@
 - [slawlor/ractor](https://github.com/slawlor/ractor): Rust actor framework
 - [actor-framework/actor-framework](https://github.com/actor-framework/actor-framework): An Open Source Implementation of the Actor Model in C++ <http://actor-framework.org/>
 - [Peperworx/fluxion](https://github.com/Peperworx/fluxion): Fluxion is an actor framework designed with distributed systems in mind, namely sending messages not just between actors, but also between systems. <https://fluxion.peperworx.com/>
+- 🌟 [tqwewe/kameo](https://github.com/tqwewe/kameo): Fault-tolerant Async Actors Built on Tokio <https://crates.io/crates/kameo>
 
 ## Middleware
 

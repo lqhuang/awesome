@@ -62,10 +62,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ## Toolchains
 
-### Testing suites (codes and UI)
+### UI
 
-- vitest
-- [Chromatic](https://www.chromatic.com/): Ship UIs faster by automating grunt work. Chromatic automates visual & interaction tests for Storybook. Connect CI/CD and Figma workflows to streamline stakeholder sign-off. Generate versioned component docs.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app): A modified web browser that helps in responsive web development. A web developer's must have dev-tool. <https://responsively.app>
 
 ### Performance Profiles

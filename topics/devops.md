@@ -11,7 +11,6 @@
 
 - 🌟 [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build system with a focus on speed <https://ninja-build.org>
 - [michaelforney/samurai](https://github.com/michaelforney/samurai): ninja-compatible build tool written in C
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix): An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems <https://zero-to-nix.com>
 - [tweag/jupyenv](https://github.com/tweag/jupyenv): Declarative and reproducible Jupyter environments - powered by Nix <https://jupyenv.io>
 - [gn/gn](https://gn.googlesource.com/gn/): GN is a meta-build system that generates build files for Ninja.
   - [GN Quick Start Guide](https://gn.googlesource.com/gn/+/main/docs/quick_start.md)
@@ -42,6 +41,14 @@
 - [httpie/desktop](https://github.com/httpie/desktop): 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. <https://httpie.io>
 - [reqable/reqable-app](https://github.com/reqable/reqable-app): Reqable issue track repo <https://reqable.com>
 - [Rapid API](https://rapidapi.com/): previous <https://paw.cloud> <https://rapidapi.com>
+
+### Nix
+
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix): An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems <https://zero-to-nix.com>
+- [NixOS/nix](https://github.com/NixOS/nix): Nix, the purely functional package manager <https://nixos.org/>
+  - [Welcome to nix.dev](https://nix.dev/): nix.dev is the home of official documentation for the Nix ecosystem.
+- 🌟 [oddlama/nix-topology](https://github.com/oddlama/nix-topology): 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations <https://oddlama.github.io/nix-topology>
+- 🌟 [flox/flox](https://github.com/flox/flox): Developer environments you can take with you <https://flox.dev>
 
 ## Hook / Tools
 

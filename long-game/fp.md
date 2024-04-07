@@ -22,6 +22,7 @@
   - [chiroptical/thinking-with-types](https://github.com/chiroptical/thinking-with-types): Working through the Thinking with Types book in Haskell
 - [Book of Monads](https://leanpub.com/book-of-monads)
   - [chiroptical/book-of-monads](https://github.com/chiroptical/book-of-monads): Finished Book of Monads by Alejandro Serrano-Mena
+- [Agda-zh/PLFA-zh](https://github.com/Agda-zh/PLFA-zh): 《编程语言基础：Agda 描述》，Programming Language Foundations in Agda 中文版 <https://agda-zh.github.io/PLFA-zh/>
 
 ### Readings
 

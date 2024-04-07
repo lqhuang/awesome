@@ -37,6 +37,7 @@
 
 - vite
 - rolldown
+- [SukkaW/stylex-webpack](https://github.com/SukkaW/stylex-webpack): The another webpack/Next.js Plugin for Facebook StyleX
 
 ### Runtime
 
@@ -54,6 +55,8 @@
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme): JavaScript Testing utilities for React <https://enzymejs.github.io/enzyme/>
 - [chaijs/chai](https://github.com/chaijs/chai): BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework. <https://chaijs.github.io>
 - [sinonjs/sinon](https://github.com/sinonjs/sinon): Test spies, stubs and mocks for JavaScript. <https://sinonjs.org/>
+- vitest
+- [Chromatic](https://www.chromatic.com/): Ship UIs faster by automating grunt work. Chromatic automates visual & interaction tests for Storybook. Connect CI/CD and Figma workflows to streamline stakeholder sign-off. Generate versioned component docs.
 
 ### Linter / Formatter
 
@@ -145,6 +148,7 @@
 - [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your i18n localization with AI
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates): Find newer versions of package dependencies than what your package.json allows
 
 ## Effect system on Typescript
 

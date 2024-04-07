@@ -75,7 +75,6 @@
   - [VS Code Extension - Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
   - [daytonaio/daytona](https://github.com/daytonaio/daytona): The Open Source Dev Environment Manager. <https://daytona.io>
 - [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Reproducible development environment for AI/ML <https://envd.tensorchord.ai/>
-- 🌟 [flox/flox](https://github.com/flox/flox): Developer environments you can take with you <https://flox.dev>
 
 ### Documents
 

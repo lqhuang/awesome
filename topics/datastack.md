@@ -23,6 +23,7 @@
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb): Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀 <https://peerdb.io>
 - [uwdata/arquero](https://github.com/uwdata/arquero): Query processing and transformation of array-backed data tables. <https://uwdata.github.io/arquero>
 - [chrthomsen/pygrametl](https://github.com/chrthomsen/pygrametl): Official repository for pygrametl - ETL programming in Python <http://pygrametl.org>
+- [level-vc/useful](https://github.com/level-vc/useful): The open-source Useful SDK. One python decorator in the Useful library allows for full observability of Python functions within an ETL. <https://usefulmachines.dev/>
 
 ## Visualize frontend / BI
 
