@@ -222,7 +222,6 @@
 - [metaopt/optree](https://github.com/metaopt/optree): OpTree: Optimized PyTree Utilities <https://optree.readthedocs.io>
 - [ott-jax/ott](https://github.com/ott-jax/ott): Optimal Transport tools implemented with the JAX framework, to get auto-diff, parallel and jit-able computations. <https://ott-jax.readthedocs.io>
 - [Autodesk/XLB](https://github.com/Autodesk/XLB): XLB: Accelerated Lattice Boltzmann (XLB) based on JAX for Physics-based ML
-- [xl0/lovely-jax](https://github.com/xl0/lovely-jax): JAX Arrays for human consumption <https://xl0.github.io/lovely-jax>
 - [apple/axlearn](https://github.com/apple/axlearn): AXLearn is a library built on top of JAX and XLA to support development of large-scale deep learning models.
 - [facebookresearch/minimax](https://github.com/facebookresearch/minimax): Efficient baselines for autocurricula in JAX.
 - [JiaYaobo/fenbux](https://github.com/JiaYaobo/fenbux): A Simple Statistical Distribution Library in JAX <https://jiayaobo.github.io/fenbux/>
@@ -230,6 +229,7 @@
 - [young-geng/scalax](https://github.com/young-geng/scalax): A simple library for scaling up JAX programs
 - [NIFTy-PPL/JAXbind](https://github.com/NIFTy-PPL/JAXbind): Bind any function written in another language to JAX with support for JVP/VJP/batching/jit compilation
 - [MichaelTMatthews/Craftax](https://github.com/MichaelTMatthews/Craftax): (Crafter + NetHack) in JAX
+- [brentyi/jaxfg](https://github.com/brentyi/jaxfg): Factor graphs and nonlinear least squares for JAX
 
 ### DeepMind specialization
 
@@ -238,7 +238,7 @@
 - [google-deepmind/dm-haiku](https://github.com/google-deepmind/dm-haiku): JAX-based neural network library <https://dm-haiku.readthedocs.io>
 - [google-deepmind/optax](https://github.com/google-deepmind/optax): Optax is a gradient processing and optimization library for JAX. <https://optax.readthedocs.io>
 - [google-deepmind/rlax](https://github.com/google-deepmind/rlax): RLax (pronounced "relax") is a library built on top of JAX that exposes useful building blocks for implementing reinforcement learning agents. <https://rlax.readthedocs.io>
-- [google-deepmind/chex](https://github.com/google-deepmind/chex): Chex is a library of utilities for helping to write reliable JAX code. <https://chex.readthedocs.io>
+- 🌟 [google-deepmind/chex](https://github.com/google-deepmind/chex): Chex is a library of utilities for helping to write reliable JAX code. <https://chex.readthedocs.io>
 - [google-deepmind/jraph](https://github.com/google-deepmind/jraph): A Graph Neural Network Library in Jax <https://jraph.readthedocs.io/en/latest>
 - 🌟 [google-deepmind/mctx](https://github.com/google-deepmind/mctx): Monte Carlo tree search in JAX
 - [google-deepmind/distrax](https://github.com/google-deepmind/distrax): Distrax is a lightweight library of probability distributions and bijectors. It acts as a JAX-native reimplementation of a subset of TensorFlow Probability (TFP, https://www.tensorflow.org/probability), with some new features and emphasis on extensibility.
@@ -266,21 +266,32 @@ This is not an officially supported Google product.
 - [pytorch/torcharrow](https://github.com/pytorch/torcharrow): A Pandas-inspired DataFrame library for SQL-like transformation with Pythonic and imperative-style API. Typical use case includes data preprocessing in ML models.
 - [pytorch-labs/torchfix](https://github.com/pytorch-labs/torchfix): TorchFix - a linter for PyTorch-using code with autofix support
 - [pytorch/kineto](https://github.com/pytorch/kineto): A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
-- [dmlc/dlpack](https://github.com/dmlc/dlpack): common in-memory tensor structure <https://dmlc.github.io/dlpack/latest>
-- [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor): C++ tensors with broadcasting and lazy computing
 - [rapidsai/cuml](https://github.com/rapidsai/cuml): cuML - RAPIDS Machine Learning Library
-- [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple, safe way to store and distribute tensors
-  - [alvarobartt/safejax](https://github.com/alvarobartt/safejax): Serialize JAX, Flax, Haiku, or Objax model params with 🤗`safetensors` <https://alvarobartt.github.io/safejax/>
 - [huggingface/evaluate](https://github.com/huggingface/evaluate): 🤗 Evaluate: A library for easily evaluating machine learning models and datasets. <https://huggingface.co/docs/evaluate>
-- [google/pyglove](https://github.com/google/pyglove): Manipulating Python Programs
-- [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning operations reinvented (for pytorch, tensorflow, jax and others) <https://einops.rocks>
-- [google/tensorstore](https://github.com/google/tensorstore): Library for reading and writing large multi-dimensional arrays. <https://google.github.io/tensorstore/>
-- [google-deepmind/tree](https://github.com/google-deepmind/tree): tree is a library for working with nested data structures <https://tree.readthedocs.io>
-- [google-research/dataclass_array](https://github.com/google-research/dataclass_array): Dataclasses manipulated as numpy arrays (with batching, reshape, slicing,...) <https://dataclass-array.readthedocs.io>
-- [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses): Pytrees + dataclasses ❤️
+- [mosaicml/streaming](https://github.com/mosaicml/streaming): A Data Streaming Library for Efficient Neural Network Training <https://streaming.docs.mosaicml.com>
+
+## Typing
+
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping): Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
-- [mosaicml/streaming](https://github.com/mosaicml/streaming): A Data Streaming Library for Efficient Neural Network Training <https://streaming.docs.mosaicml.com>
+
+## Manipulating and transforming
+
+- [xl0/lovely-jax](https://github.com/xl0/lovely-jax): JAX Arrays for human consumption <https://xl0.github.io/lovely-jax>
+- [google/pyglove](https://github.com/google/pyglove): Manipulating Python Programs
+- [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning operations reinvented (for pytorch, tensorflow, jax and others) <https://einops.rocks>
+- [google-deepmind/tree](https://github.com/google-deepmind/tree): tree is a library for working with nested data structures <https://tree.readthedocs.io>
+- [NeilGirdhar/tjax](https://github.com/NeilGirdhar/tjax): Tools for JAX
+- [google-research/dataclass_array](https://github.com/google-research/dataclass_array): Dataclasses manipulated as numpy arrays (with batching, reshape, slicing,...) <https://dataclass-array.readthedocs.io>
+- [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses): Pytrees + dataclasses ❤️
+
+## Data store or tensor structure
+
+- [dmlc/dlpack](https://github.com/dmlc/dlpack): common in-memory tensor structure <https://dmlc.github.io/dlpack/latest>
+- [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor): C++ tensors with broadcasting and lazy computing
+- [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple, safe way to store and distribute tensors
+  - [alvarobartt/safejax](https://github.com/alvarobartt/safejax): Serialize JAX, Flax, Haiku, or Objax model params with 🤗`safetensors` <https://alvarobartt.github.io/safejax/>
+- [google/tensorstore](https://github.com/google/tensorstore): Library for reading and writing large multi-dimensional arrays. <https://google.github.io/tensorstore/>
 
 ## Utils
 

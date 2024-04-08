@@ -4,6 +4,11 @@
 
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): This is a repo with links to everything you'd ever want to learn about data engineering
 
+## Query
+
+- [neumannt/saneql](https://github.com/neumannt/saneql): Prototype compiler from SaneQL to SQL <https://saneql.com/>
+- [machow/siuba](https://github.com/machow/siuba): Python library for using dplyr like syntax with pandas and SQL <https://siuba.org>
+
 ## Data Format
 
 - parquet
