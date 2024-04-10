@@ -56,6 +56,7 @@
 - [kevwan/tproxy](https://github.com/kevwan/tproxy): A cli tool to proxy and analyze TCP connections. <https://go-zero.dev>
 - 🌟 [fujiapple852/trippy](https://github.com/fujiapple852/trippy): A network diagnostic tool <https://trippy.cli.rs>
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp): The BGP swiss army knife of networking
+- [stunnel/static-curl](https://github.com/stunnel/static-curl): static builds cURL with HTTP3
 
 ### Analysis
 
@@ -132,7 +133,7 @@
   - [tonarino/innernet](https://github.com/tonarino/innernet): A private network system that uses WireGuard under the hood. <https://blog.tonari.no/introducing-innernet>
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne): A Smart Ethernet Switch for Earth <https://zerotier.com>
 - [Twingate](https://www.twingate.com/): Twingate makes Zero Trust Network Access easy to deploy, even easier to use, and always secure.
-- [openconnect/ocserv](https://gitlab.com/openconnect/ocserv): Engine for secure and scalable VPN infrastructure https://ocserv.gitlab.io/www/
+- [gitlab - openconnect/ocserv](https://gitlab.com/openconnect/ocserv): Engine for secure and scalable VPN infrastructure https://ocserv.gitlab.io/www/
   - [iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv](https://github.com/iw4p/OpenConnect-Cisco-AnyConnect-VPN-Server-OneKey-ocserv): [Script and Docker 🐳] OpenConnect (Cisco AnyConnect) VPN Server (OCServ) script one key easy configurator and installer
 - [trailofbits/algo](https://github.com/trailofbits/algo): Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
 

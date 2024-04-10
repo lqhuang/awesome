@@ -3,6 +3,7 @@
 ## Resources
 
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook): This is a repo with links to everything you'd ever want to learn about data engineering
+- [Open Source Data Engineering Landscape 2024](https://practicaldataengineering.substack.com/p/open-source-data-engineering-landscape)
 
 ## Query
 
@@ -38,7 +39,7 @@
 - [Kanaries/Rath](https://github.com/Kanaries/Rath): Automated data exploratory analysis and visualization tools. <https://kanaries.net>
 - [quadratichq/quadratic](https://github.com/quadratichq/quadratic): Quadratic | Technical Spreadsheet <https://quadratichq.com>
 - [directus/directus](https://github.com/directus/directus): The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database. <https://directus.io>
-- [baserow/baserow](https://gitlab.com/baserow/baserow): Baserow is an open source no-code database and Airtable alternative. Create your own database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser.
+- [gitlab - baserow/baserow](https://gitlab.com/baserow/baserow): Baserow is an open source no-code database and Airtable alternative. Create your own database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser.
 - [lightdash/lightdash](https://github.com/lightdash/lightdash): Open source BI for teams that move fast ⚡️ <https://lightdash.com>
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad): Web-based SQL editor. Legacy project in maintenance mode. <https://getsqlpad.com>
 - [teableio/teable](https://github.com/teableio/teable): ✨ A Super fast, Real-time, Professional, Developer friendly, No code database <https://teable.io>

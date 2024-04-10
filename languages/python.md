@@ -150,7 +150,7 @@
 - [realpython/codetiming](https://github.com/realpython/codetiming): A flexible, customizable timer for your Python code
 - [rsalmei/about-time](https://github.com/rsalmei/about-time): A cool helper for tracking time and throughput of code blocks, with beautiful human friendly renditions.
 - 📝 [njsmith/perpetuo](https://github.com/njsmith/perpetuo): Stall tracking for Python's GIL and Trio tasks
-- [mbryant/FunctionTrace](https://gitlab.com/mbryant/functiontrace): A graphical Python profiler that provides a clear view of your application's execution while being both low-overhead and easy to use. <https://functiontrace.com/>
+- [gitlab - mbryant/FunctionTrace](https://gitlab.com/mbryant/functiontrace): A graphical Python profiler that provides a clear view of your application's execution while being both low-overhead and easy to use. <https://functiontrace.com/>
 - [tonybaloney/rich-bench](https://github.com/tonybaloney/rich-bench): A little benchmarking tool for Python
 
 ## Type System in Python

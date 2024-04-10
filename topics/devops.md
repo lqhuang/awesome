@@ -41,6 +41,7 @@
 - [httpie/desktop](https://github.com/httpie/desktop): 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. <https://httpie.io>
 - [reqable/reqable-app](https://github.com/reqable/reqable-app): Reqable issue track repo <https://reqable.com>
 - [Rapid API](https://rapidapi.com/): previous <https://paw.cloud> <https://rapidapi.com>
+- [testingisdocumenting/znai](https://github.com/testingisdocumenting/znai): Build functional, maintainable, beautiful User Guides with markdown and Znai plugins. Instant pages navigation. Local search. Multiple integrations to work with Python, Java, C++, OpenAPI, etc. Transform "getting started" sections into slideshow for your workshops. Manage multiple documentations with self-deployed znai hub. <https://testingisdocumenting.org/znai>
 
 ### Nix
 

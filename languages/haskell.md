@@ -52,7 +52,7 @@
 ## Toolchains
 
 - [ndmitchell/shake](https://github.com/ndmitchell/shake): Shake build system <http://shakebuild.com>
-- [ghc/Hadrian](https://gitlab.haskell.org/ghc/ghc/-/tree/master/hadrian): Hadrian is the build system for the Glasgow Haskell Compiler. It is based on the Shake library.
+- [gitlab - ghc/Hadrian](https://gitlab.haskell.org/ghc/ghc/-/tree/master/hadrian): Hadrian is the build system for the Glasgow Haskell Compiler. It is based on the Shake library.
 - [sol/hpack](https://github.com/sol/hpack): hpack: A modern format for Haskell packages
 - [hspec/hspec](https://github.com/hspec/hspec): A Testing Framework for Haskell <https://hspec.github.io/>
 - [hspec/sensei](https://github.com/hspec/sensei): No description, website, or topics provided.
@@ -92,6 +92,15 @@
 - [circuithub/rel8](https://github.com/circuithub/rel8): Hey! Hey! Can u rel8? <https://rel8.readthedocs.io>
 - [morphismtech/squeal](https://github.com/morphismtech/squeal): Squeal, a deep embedding of SQL in Haskell
 - [well-typed/grapesy](https://github.com/well-typed/grapesy): Native Haskell gRPC client and server based on `http2`
+
+## Logging and tracing
+
+- [kazu-yamamoto/logger](https://github.com/kazu-yamamoto/logger): A fast logging system for Haskell
+- [freckle/blammo](https://github.com/freckle/blammo): Batteries-included structured logging library
+- [sr.ht/~jship/monad-logger-aeson](https://sr.ht/~jship/monad-logger-aeson/): `monad-logger-aeson` provides structured JSON logging using `monad-logger`'s interface.
+- [scrive/log](https://github.com/scrive/log): Structured logging solution. <https://hackage.haskell.org/package/log-base>
+- [Soostone/katip](https://github.com/Soostone/katip): A structured logging framework for Haskell
+- [mtth/tracing](https://github.com/mtth/tracing): Distributed tracing <https://hackage.haskell.org/package/tracing>
 
 ## Other good libs
 

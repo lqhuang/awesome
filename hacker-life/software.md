@@ -176,6 +176,8 @@
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web <https://tsl0922.github.io/ttyd>
 - 🌟 [mirego/accent](https://github.com/mirego/accent): The first developer-oriented translation tool. True asynchronous flow between translators and your team. <https://www.accent.reviews>
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler): The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte <https://gitbutler.com>
+- [sr.ht/~sircmpwn/sourcehut](https://sr.ht/~sircmpwn/sourcehut/): This is the main project hub for SourceHut itself. To browse our source code, see the "sources" tab at the nav along the top of the page.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD <https://about.gitea.com>
 
 ### Email
 

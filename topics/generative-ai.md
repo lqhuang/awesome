@@ -23,3 +23,4 @@
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. <https://desktop.github.com>
 - [tencentarc](https://replicate.com/tencentarc): Applied Research Center (ARC), Tencent PCG
 - [facebookresearch/codellama](https://github.com/facebookresearch/codellama): Inference code for CodeLlama models
+- [latentcat/latentbox](https://github.com/latentcat/latentbox): A collection of awesome-lists for AI, creativity and art. AI、创意和艺术领域的精选合集。https://latentbox.com <https://latentbox.com>

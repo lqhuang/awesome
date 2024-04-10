@@ -30,10 +30,9 @@
 
 ## Framework and libraries
 
-### General framework
+### General framework / Training
 
 - [ray-project/ray](https://github.com/ray-project/ray): Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads. <https://ray.io>
-- [google-research/torchsde](https://github.com/google-research/torchsde): Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): In-Database Machine Learning <http://mindsdb.com>
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. <https://www.deepspeed.ai/>
 - [keras-team/keras-core](https://github.com/keras-team/keras-core): A multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch.
@@ -50,9 +49,12 @@
 - [elixir-nx/nx](https://github.com/elixir-nx/nx): Multi-dimensional arrays (tensors) and numerical definitions for Elixir
 - [CarperAI/trlx](https://github.com/CarperAI/trlx): A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
 - [huggingface/ratchet](https://github.com/huggingface/ratchet): A cross-platform browser ML framework. <https://ratchet.sh>
+- 🌟 [mosaicml/composer](https://github.com/mosaicml/composer): Supercharge Your Model Training <http://docs.mosaicml.com>
+  - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry): LLM training code for MosaicML foundation models <https://www.mosaicml.com/blog/mpt-7b>
 
 ### Optimization
 
+- [google-research/torchsde](https://github.com/google-research/torchsde): Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
 - [optuna/optuna](https://github.com/optuna/optuna): A hyperparameter optimization framework <https://optuna.org>
 - [Epistimio/orion](https://github.com/Epistimio/orion): Asynchronous Distributed Hyperparameter Optimization. <https://orion.readthedocs.io>
 - [google/vizier](https://github.com/google/vizier): Python-based research interface for blackbox and hyperparameter optimization, based on Google's internal Vizier Service. <https://oss-vizier.readthedocs.io>
@@ -230,6 +232,8 @@
 - [NIFTy-PPL/JAXbind](https://github.com/NIFTy-PPL/JAXbind): Bind any function written in another language to JAX with support for JVP/VJP/batching/jit compilation
 - [MichaelTMatthews/Craftax](https://github.com/MichaelTMatthews/Craftax): (Crafter + NetHack) in JAX
 - [brentyi/jaxfg](https://github.com/brentyi/jaxfg): Factor graphs and nonlinear least squares for JAX
+- [pasqal-io/horqrux](https://github.com/pasqal-io/horqrux): Jax-based quantum state vector simulator. <https://pasqal-io.github.io/horqrux/latest/>
+- [ayaka14732/einshard](https://github.com/ayaka14732/einshard): High-level array sharding API for JAX <https://einshard.readthedocs.io/>
 
 ### DeepMind specialization
 
@@ -313,6 +317,7 @@ This is not an officially supported Google product.
 
 - [minitorch/minitorch](https://github.com/minitorch/minitorch): The full minitorch student suite.
 - [karpathy/micrograd](https://github.com/karpathy/micrograd): A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+- [karpathy/llm.c](https://github.com/karpathy/llm.c): LLM training in simple, raw C/CUDA
 - [pranftw/neograd](https://github.com/pranftw/neograd): A deep learning framework created from scratch with Python and NumPy <https://neograd.readthedocs.io>
 - [mohammadpz/pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward): Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation
 - [tinygrad/teenygrad](https://github.com/tinygrad/teenygrad): If tinygrad wasn't small enough for you...

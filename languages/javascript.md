@@ -57,6 +57,7 @@
 - [sinonjs/sinon](https://github.com/sinonjs/sinon): Test spies, stubs and mocks for JavaScript. <https://sinonjs.org/>
 - vitest
 - [Chromatic](https://www.chromatic.com/): Ship UIs faster by automating grunt work. Chromatic automates visual & interaction tests for Storybook. Connect CI/CD and Figma workflows to streamline stakeholder sign-off. Generate versioned component docs.
+- [dubzzz/fast-check](https://github.com/dubzzz/fast-check): Property based testing framework for JavaScript (like QuickCheck) written in TypeScript <https://fast-check.dev/>
 
 ### Linter / Formatter
 

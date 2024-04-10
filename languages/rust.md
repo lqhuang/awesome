@@ -379,6 +379,9 @@
 - [tafia/calamine](https://github.com/tafia/calamine): A pure Rust Excel/OpenDocument SpreadSheets file reader: rust on metal sheets
 - [orlp/recursive](https://github.com/orlp/recursive): Easy recursion in Rust, without stack overflows.
 - [zesterer/ffd](https://github.com/zesterer/ffd): Fast Function Dispatch: Improving the performance of Rust's dynamic function calls <https://docs.rs/ffd/0.1.0-alpha.0/ffd/>
+- [rust-lang/stdarch](https://github.com/rust-lang/stdarch): Rust's standard library vendor-specific APIs and run-time feature detection <https://doc.rust-lang.org/stable/core/arch/>
+- [rust-num/num-traits](https://github.com/rust-num/num-traits): Numeric traits for generic mathematics in Rust
+- [tokio-rs/bytes](https://github.com/tokio-rs/bytes): Utilities for working with bytes
 
 ## Domain related
 

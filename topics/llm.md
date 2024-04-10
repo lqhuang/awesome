@@ -156,6 +156,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code): Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) <https://screenshottocode.com>
 - [agiresearch/OpenAGI](https://github.com/agiresearch/OpenAGI): OpenAGI: When LLM Meets Domain Experts
 - [microsoft/NeuralSpeech](https://github.com/microsoft/NeuralSpeech): NeuralSpeech is a research project at Microsoft Research Asia, which focuses on neural network based speech processing, including automatic speech recognition (ASR), text-to-speech synthesis (TTS), spatial audio synthesis, video dubbing, etc.
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents <https://e2b.dev/docs>
 
 ### LLM Prompts
 

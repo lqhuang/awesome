@@ -128,6 +128,7 @@
 - [uNetworking/uSockets](https://github.com/uNetworking/uSockets): Miniscule cross-platform eventing, networking & crypto for async applications
 - [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp): Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all
 - [facebookexperimental/libunifex](https://github.com/facebookexperimental/libunifex): Unified Executors
+- [tidwall/neco](https://github.com/tidwall/neco): Concurrency library for C (coroutines)
 
 ## Network
 

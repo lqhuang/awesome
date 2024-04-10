@@ -53,6 +53,7 @@
 - [uber/kraken](https://github.com/uber/kraken): P2P Docker registry capable of distributing TBs of data in seconds
 - 🌟 [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust): Horust is a supervisor / init system written in rust and designed to run inside containers. <https://federicoponzi.github.io/Horust/>
 - [nestybox/sysbox](https://github.com/nestybox/sysbox): An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
+- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout): 🚀 Zero Downtime Deployment for Docker Compose <https://github.com/Wowu/docker-rollout>
 
 ### CLI
 
