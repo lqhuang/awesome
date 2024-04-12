@@ -7,6 +7,8 @@
 - [Uncurled](https://un.curl.dev): everything I know and learned about running and maintaining Open Source projects for three decades.
 - 🌟 [bagder/http3-explained](https://github.com/bagder/http3-explained): A document describing the HTTP/3 and QUIC protocols <https://http3-explained.haxx.se>
 - [beejjorgensen/bgnet](https://github.com/beejjorgensen/bgnet): Beej's Guide to Network Programming source <https://beej.us/guide/bgnet/html> <https://beej-zhtw-gitbook.netdpi.net>
+  - [beejjorgensen/bgnet0](https://github.com/beejjorgensen/bgnet0): Beej's Guide to Network Concepts source
+  - [rogerzhu/-bgnet0-cn](https://github.com/rogerzhu/-bgnet0-cn): Chinese version of https://github.com/beejjorgensen/bgnet0
 - 🌟 [Lord of the io_uring](https://unixism.net/loti/): Welcome to Lord of the io_uring
 - [syncsynchalt/illustrated-quic](https://github.com/syncsynchalt/illustrated-quic): The Illustrated QUIC Connection: Every byte explained <https://quic.xargs.org>
   - [cangSDARM/illustrate](https://github.com/cangSDARM/illustrate): illustrate QUIC, TLS 1.2, TLS 1.3, DTLS 中文翻译 <https://cangsdarm.github.io/illustrate/>
@@ -167,3 +169,5 @@
 - https://ipcheck.ing/
 - [BrowserScan](https://www.browserscan.net/)
 - 🌟 [hackclub/how-did-i-get-here](https://github.com/hackclub/how-did-i-get-here): A tool/website/article by @kognise about how routing on the Internet works. <https://how-did-i-get-here.net>
+- [DNS Checker](https://dnschecker.org/): CHECK DNS PROPAGATION. DNS records and worldwide DNS propagation checker
+- [Test if a site is blocked in China](https://www.comparitech.com/privacy-security-tools/blockedinchina/)

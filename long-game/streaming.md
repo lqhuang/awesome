@@ -86,9 +86,10 @@ Streaming Systems
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator): Apache Kafka® running on Kubernetes <https://strimzi.io/>
 - [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry): Confluent Schema Registry for Kafka <https://docs.confluent.io/current/schema-registry/docs/index.html>
 - [WarpStream](https://www.warpstream.com): Stream more, manage less. WarpStream is a Kafka compatible data streaming platform built directly on top of object storage: no inter-AZ bandwidth costs, no disks to manage, and infinitely scalable, all within your VPC.
-- [AutoMQ/elastic-stream](https://github.com/AutoMQ/elastic-stream): The first truly cloud-native MQ storage engine for messaging and streaming.
-- [AutoMQ/automq-for-kafka](https://github.com/AutoMQ/automq-for-kafka): A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%. <https://www.automq.com/>
+- 🌟 [AutoMQ/automq](https://github.com/AutoMQ/automq): A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%. <https://www.automq.com>
 - [seglo/kafka-lag-exporter](https://github.com/seglo/kafka-lag-exporter): Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
+- [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou): The Open source Resource as Code framework for Apache Kafka <https://www.jikkou.io>
+- [kcctl/kcctl](https://github.com/kcctl/kcctl): A modern and intuitive command line client for Kafka Connect
 
 ### Utils
 

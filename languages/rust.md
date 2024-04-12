@@ -77,6 +77,7 @@
 - 🌟 [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm): cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 - [EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about): 📜 Cargo plugin to generate list of all licenses for a crate 🦀 <http://embark.rs>
 - [nabijaczleweli/cargo-update](https://github.com/nabijaczleweli/cargo-update): A cargo subcommand for checking and applying updates to installed executables
+- 🌟 [mozilla/cargo-vet](https://github.com/mozilla/cargo-vet): supply-chain security for Rust
 
 ### Test suites
 

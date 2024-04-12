@@ -24,6 +24,7 @@
 - 🌟 [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system and container binary deployment and upgrades <https://ostreedev.github.io/ostree/>
 - 🌟 [systemd/mkosi](https://github.com/systemd/mkosi): 💽 Build Bespoke OS Images
 - [uapi-group/specifications](https://github.com/uapi-group/specifications): UAPI Group Specifications <https://uapi-group.org/specifications/>
+- [flatcar/flatcar](https://github.com/flatcar/flatcar): Simple configuration tool for Flatcar Container Linux <https://github.com/flatcar/flatcar/issues>
 
 ## Virtual Machines
 

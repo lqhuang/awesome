@@ -138,7 +138,7 @@
 - [bytebase/bytebase](https://github.com/bytebase/bytebase): Safe database schema change and version control for DevOps teams. <https://www.bytebase.com>
 - [flyway/flyway](https://github.com/flyway/flyway): Flyway by Redgate • Database Migrations Made Easy. <https://flywaydb.org>
 - [wal-g/wal-g](https://github.com/wal-g/wal-g): Archival and Restoration for databases in the Cloud
-- [datafold/data-diff](https://github.com/datafold/data-diff): Efficiently diff data in or across relational databases <https://www.datafold.com/blog/open-source-data-diff>
+- 🌟 [datafold/data-diff](https://github.com/datafold/data-diff): Efficiently diff data in or across relational databases <https://www.datafold.com/blog/open-source-data-diff>
 - [centerofci/mathesar](https://github.com/centerofci/mathesar): Web application providing an intuitive user experience to databases. <https://mathesar.org>
 - [mgramin/awesome-db-tools](https://github.com/mgramin/awesome-db-tools): Everything that makes working with databases easier
 - [PostHog/HouseWatch](https://github.com/PostHog/HouseWatch): Open source tool for monitoring and managing ClickHouse clusters
@@ -156,6 +156,7 @@
 ### PG
 
 - [zalando/patroni](https://github.com/zalando/patroni): A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+- [zalando/spilo](https://github.com/zalando/spilo): Highly available elephant herd: HA PostgreSQL cluster using Docker
 - [levkk/pgcat](https://github.com/levkk/pgcat): PostgreSQL pooler with sharding, load balancing and failover support.
 - [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman): Barman - Backup and Recovery Manager for PostgreSQL <https://www.pgbarman.org>
 - [yandex/odyssey](https://github.com/yandex/odyssey): Scalable PostgreSQL connection pooler

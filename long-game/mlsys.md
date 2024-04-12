@@ -55,6 +55,7 @@
 ### Optimization
 
 - [google-research/torchsde](https://github.com/google-research/torchsde): Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
+- [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq): Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [optuna/optuna](https://github.com/optuna/optuna): A hyperparameter optimization framework <https://optuna.org>
 - [Epistimio/orion](https://github.com/Epistimio/orion): Asynchronous Distributed Hyperparameter Optimization. <https://orion.readthedocs.io>
 - [google/vizier](https://github.com/google/vizier): Python-based research interface for blackbox and hyperparameter optimization, based on Google's internal Vizier Service. <https://oss-vizier.readthedocs.io>

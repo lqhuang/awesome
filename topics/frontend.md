@@ -161,9 +161,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [signavio/react-mentions](https://github.com/signavio/react-mentions): @mention people in a textarea <https://react-mentions.vercel.app>
 - [satelllte/react-knob-headless](https://github.com/satelllte/react-knob-headless): 🎛️ Unstyled & accessible knob primitive for React. <https://react-knob-headless.vercel.app>
+
 - [daybrush/moveable](https://github.com/daybrush/moveable): Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable! <https://daybrush.com/moveable/>
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit): The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React. <http://dndkit.com>
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop): Fast drag and drop for any experience on any tech stack <https://atlassian.design/components/pragmatic-drag-and-drop>
 
 - 🌟🌟🌟 [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
 - [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
@@ -172,6 +174,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [nygardk/react-share](https://github.com/nygardk/react-share): Social media share buttons and share counts for React
 
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js): 🌞 A lightweight JavaScript library that generates customizable heat maps to visualize date-based activity and trends. <https://www.william-troup.com/heat-js>
+- 🌟 [bitjson/qr-code](https://github.com/bitjson/qr-code): A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element. <https://qr.bitjson.com/>
 
 #### PDF
 
@@ -276,6 +279,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source): A better API for making Event Source requests, with all the features of fetch()
   - Really?: You cannot pass in custom request headers (for making `EventSource` requests)
 - 🌟 [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream): A tiny (736b) utility for Server Sent Event (SSE) streaming via `fetch` and Web Streams API
+- [MattiasBuelens/web-streams-polyfill](https://github.com/MattiasBuelens/web-streams-polyfill): Web Streams, based on the WHATWG spec reference implementation
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international): Type-safe internationalization (i18n) for Next.js <https://next-international.vercel.app>
 - [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string. <https://nuqs.47ng.com>
 - [maslianok/react-resize-detector](https://github.com/maslianok/react-resize-detector): A Cross-Browser, Event-based, Element Resize Detection for React <http://maslianok.github.io/react-resize-detector/>

@@ -22,6 +22,7 @@
 - 🌟🌟🌟 [facebook/watchman](https://github.com/facebook/watchman): Watches files and records, or triggers actions, when they change. <https://facebook.github.io/watchman/>
 - 🌟 [facebook/dotslash](https://github.com/facebook/dotslash): Simplified executable deployment <https://dotslash-cli.com>
 - [jdx/mise](https://github.com/jdx/mise): dev tools, env vars, task runner <https://mise.jdx.dev>
+- [agorapulse/pierrot](https://github.com/agorapulse/pierrot): Multi-repository GitHub Governance Tool
 
 ### Misc linters / formatters
 
@@ -83,6 +84,10 @@
 - 🌟🌟🌟 [louislam/dockge](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager <https://dockge.kuma.pet>
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. <https://netboot.xyz>
 - [rajnandan1/kener](https://github.com/rajnandan1/kener): Kener is a Modern Self hosted Status Page, batteries included <https://kener.ing/>
+- [rtr7/router7](https://github.com/rtr7/router7): router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance. <https://router7.org>
+- [Alexware Systems](https://alexwaresystems.pages.alexware.systems/homepage/)
+  - not a project, but an example
+  - hackers' dream LOL
 
 ## HomeKit / IoT
 
