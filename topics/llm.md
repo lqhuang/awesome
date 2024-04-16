@@ -135,6 +135,7 @@
 - [llSourcell/DoctorGPT](https://github.com/llSourcell/DoctorGPT): DoctorGPT is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM): Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath
 - [lyogavin/Anima](https://github.com/lyogavin/Anima): 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
+- [microsoft/rho](https://github.com/microsoft/rho): Repo for Rho-1: Token-level Data Selection & Selective Pretraining of LLMs. <https://arxiv.org/pdf/2404.07965.pdf>
 
 ## Applications
 

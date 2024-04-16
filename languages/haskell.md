@@ -13,6 +13,7 @@
 - 🌟 [State of the Haskell ecosystem (@Gabriella439)](https://github.com/Gabriella439/post-rfc/blob/main/sotu.md)
 <!-- - [学习 haskell 的过程中有哪些值得一做的练手项目？](https://www.zhihu.com/question/61225796/answer/185412037) -->
 - [Haskell Poll Results](https://www.stephendiehl.com/posts/poll.html)
+- [/wiki/haskell/learning Links](http://jackkelly.name/wiki/haskell/learning.html)
 
 ### Readings
 
@@ -22,6 +23,7 @@
 - [Programming guidelines](https://wiki.haskell.org/Programming_guidelines)
 - [Freckle guides and best practices](https://github.com/freckle/guides)
 - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
+- [Good Haskell Libraries (view of Jack Kelly)](http://jackkelly.name/wiki/haskell/libraries.html)
 
 ### Courses
 
@@ -33,7 +35,7 @@
 ## Best choices
 
 - 🌟 [damianfral/ghcaniuse](https://github.com/damianfral/ghcaniuse): GHC language extensions table <https://damianfral.github.io/ghcaniuse/>
-- [kowainik/relude](https://github.com/kowainik/relude): 🌀 Safe, performant, user-friendly and lightweight Haskell standard library <https://kowainik.github.io/projects/relude>
+- 🌟 [kowainik/relude](https://github.com/kowainik/relude): 🌀 Safe, performant, user-friendly and lightweight Haskell standard library <https://kowainik.github.io/projects/relude>
 - [commercialhaskell/rio](https://github.com/commercialhaskell/rio): A standard library for Haskell
 - [fpco/unliftio](https://github.com/fpco/unliftio): The MonadUnliftIO typeclass for unlifting monads to IO
 - [composewell/streamly](https://github.com/composewell/streamly): Dataflow programming and declarative concurrency <https://streamly.composewell.com>
@@ -48,6 +50,7 @@
 - [recursion-schemes/recursion-schemes](https://github.com/recursion-schemes/recursion-schemes): Generalized bananas, lenses and barbed wire <http://hackage.haskell.org/package/recursion-schemes>
   - [passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes): Resources for learning and using recursion schemes.
 - [ndmitchell/uniplate](https://github.com/ndmitchell/uniplate): Haskell library for simple, concise and fast generic operations.
+- [snowleopard/alga](https://github.com/snowleopard/alga): Algebraic graphs
 
 ## Toolchains
 
@@ -102,6 +105,10 @@
 - [Soostone/katip](https://github.com/Soostone/katip): A structured logging framework for Haskell
 - [mtth/tracing](https://github.com/mtth/tracing): Distributed tracing <https://hackage.haskell.org/package/tracing>
 
+## Linear Haskell
+
+- [tweag/linear-base](https://github.com/tweag/linear-base): Standard library for linear types in Haskell.
+
 ## Other good libs
 
 - [chshersh/dr-cabal](https://github.com/chshersh/dr-cabal): 📊 Haskell dependencies build times profiler
@@ -113,3 +120,6 @@
 - [HeinrichApfelmus/reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana): Library for functional reactive programming in Haskell. <https://wiki.haskell.org/Reactive-banana>
 - [acowley/concurrent-machines](https://github.com/acowley/concurrent-machines): Concurrency features for the Haskell machines package
 - [well-typed/blockio-uring](https://github.com/well-typed/blockio-uring): Library to perform batches of asynchronous disk IO operations. Implemented using Linux io_uring API.
+- [AJChapman/formatting](https://github.com/AJChapman/formatting): Format strings type-safely with combinators
+- [devonhollowood/search-algorithms](https://github.com/devonhollowood/search-algorithms): Haskell library containing common graph search algorithms
+- [haskellari/these](https://github.com/haskellari/these): An either-or-both data type, with corresponding hybrid error/writer monad transformer.

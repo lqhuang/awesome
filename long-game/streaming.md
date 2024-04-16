@@ -45,6 +45,7 @@ Streaming Systems
 - [airtai/faststream](https://github.com/airtai/faststream): FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS. <https://faststream.airt.ai/?utm_source=github&utm_medium=acquisition&utm_campaign=measure>
 - [grailbio/reflow](https://github.com/grailbio/reflow): A language and runtime for distributed, incremental data processing in the cloud
 - [streamdal/streamdal](https://github.com/streamdal/streamdal): Code-Native Data Pipelines <https://www.streamdal.com>
+- [Point72/csp](https://github.com/Point72/csp): csp is a high performance reactive stream processing library, written in C++ and Python
 
 ### Streaming Database
 

@@ -129,6 +129,8 @@
 - [databus23/helm-diff](https://github.com/databus23/helm-diff): A helm plugin that shows a diff explaining what a helm upgrade would change
 - [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector): Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
 - [knight42/krelay](https://github.com/knight42/krelay): A better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster.
+- [STRRL/cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller): 🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.
+- [kyverno/kyverno](https://github.com/kyverno/kyverno): Kubernetes Native Policy Management <https://kyverno.io>
 
 ### App framework
 
@@ -136,6 +138,10 @@
   - lead by Microsoft
 - [knative/eventing](https://github.com/knative/eventing): Event-driven application platform for Kubernetes <https://knative.dev/docs/eventing>
   - lead by Google
+
+### Utils
+
+- [tommy351/kosko](https://github.com/tommy351/kosko): Organize Kubernetes manifests in JavaScript. <https://kosko.dev>
 
 ## Hashicorp
 

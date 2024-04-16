@@ -152,6 +152,7 @@
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler): Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you! <https://pgmodeler.io>
 - [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt): Next-Gen ERD: Design, Explore, Document and Analyze your database <https://azimutt.app?ref=github-repo>
 - [Wisser/Jailer](https://github.com/Wisser/Jailer): Database Subsetting and Relational Data Browsing Tool. <https://wisser.github.io/Jailer>
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb): Free, simple, and intuitive online database design tool and SQL generator. <https://drawdb.vercel.app>
 
 ### PG
 

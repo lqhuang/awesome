@@ -118,6 +118,7 @@
 - [lizongying/my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用 <https://lyrics.run/my-tv.html>
 - [YueChan/Live](https://github.com/YueChan/Live): 收集于互联网的一些高清直播源。
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender): 中国节假日、调休、补班日历，ICS 格式，可供 IPhone、Google Calendar、Outlook 等客户端订阅，包含节假日 API
+- [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer): Chinese character stroke order animations and practice quizzes <https://hanziwriter.org>
 
 ## Branding
 

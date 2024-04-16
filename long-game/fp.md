@@ -19,7 +19,9 @@
 - [jpvillaisaza/cain](https://github.com/jpvillaisaza/cain): Category theory applied to functional programming (undergraduate project) <https://jpvillaisaza.co/cain/cain.pdf>
 - [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/):Lean is an interactive theorem prover developed at Microsoft Research, based on dependent type theory. Dependent type theory unites the worlds of programs and proofs; thus, Lean is also a programming language.
 - [Thinking with Types](https://thinkingwithtypes.com/): Type-Level Programming in Haskell. The book that takes you from a competent Haskell programmer to one whose compiler does the work for you.
+  - [isovector/thinking-with-types](https://github.com/isovector/thinking-with-types): 📖 source material for Thinking with Types <http://thinkingwithtypes.com>
   - [chiroptical/thinking-with-types](https://github.com/chiroptical/thinking-with-types): Working through the Thinking with Types book in Haskell
+- [isovector/algebra-driven-design](https://github.com/isovector/algebra-driven-design): Source material for Algebra-Driven Design <https://leanpub.com/algebra-driven-design>
 - [Book of Monads](https://leanpub.com/book-of-monads)
   - [chiroptical/book-of-monads](https://github.com/chiroptical/book-of-monads): Finished Book of Monads by Alejandro Serrano-Mena
 - [Agda-zh/PLFA-zh](https://github.com/Agda-zh/PLFA-zh): 《编程语言基础：Agda 描述》，Programming Language Foundations in Agda 中文版 <https://agda-zh.github.io/PLFA-zh/>

@@ -65,6 +65,7 @@
 - [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies and exports in your JS/TS project
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js): quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser): Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD. <https://npmjs.com/dependency-cruiser>
+- [pahen/madge](https://github.com/pahen/madge): Create graphs from your CommonJS, AMD or ES6 module dependencies
 
 ### Modernize
 
@@ -141,7 +142,7 @@
 ## Middleware
 
 - 🌟 [askorama/orama](https://github.com/askorama/orama): 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! <https://docs.oramasearch.com>
-- [tinyplex/tinybase](https://github.com/tinyplex/tinybase): A tiny, reactive JavaScript library for structured state and tabular data. <https://tinybase.org>
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase): The reactive data store for local‑first apps. <https://tinybase.org>
 
 ## Misc
 

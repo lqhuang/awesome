@@ -50,6 +50,7 @@
   - [Welcome to nix.dev](https://nix.dev/): nix.dev is the home of official documentation for the Nix ecosystem.
 - 🌟 [oddlama/nix-topology](https://github.com/oddlama/nix-topology): 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations <https://oddlama.github.io/nix-topology>
 - 🌟 [flox/flox](https://github.com/flox/flox): Developer environments you can take with you <https://flox.dev>
+- [tweag/genealogos](https://github.com/tweag/genealogos): Genealogos, a Nix sbom generator
 
 ## Hook / Tools
 

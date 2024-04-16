@@ -55,6 +55,7 @@
 - [PyCQA/docformatter](https://github.com/PyCQA/docformatter): Formats docstrings to follow PEP 257 <https://pypi.python.org/pypi/docformatter>
 - [ariebovenberg/slotscheck](https://github.com/ariebovenberg/slotscheck): 🎰 Ensure your `__slots__` are working properly <https://slotscheck.rtfd.io>
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs): Run `black` on python code blocks in documentation files
+- [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer): A fast static code analyzer & language server for Python <http://mtshiba.github.io/pylyzer/>
 
 ### Build tools
 
@@ -74,6 +75,10 @@
 - [prefix-dev/rip](https://github.com/prefix-dev/rip): Solve and install Python packages quickly with rip (pip in Rust) <https://prefix.dev>
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith): Tooling support for the Polylith Architecture in Python. <https://davidvujic.github.io/python-polylith-docs/>
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath): Inspect and refine PATH environment variable on Windows, Linux and MacOS.
+
+### CI/CD
+
+- [pnpm/action-setup](https://github.com/pnpm/action-setup): Install pnpm package manager <https://github.com/marketplace/actions/setup-pnpm>
 
 ### Packaging
 
@@ -388,6 +393,7 @@
 - [mjpieters/aiolimiter](https://github.com/mjpieters/aiolimiter): An efficient implementation of a rate limiter for asyncio. <https://aiolimiter.readthedocs.io/en/latest/>
 - [YoSTEALTH/Liburing](https://github.com/YoSTEALTH/Liburing): This is a Python + CFFI wrapper around Liburing C library, which is a helper to setup and tear-down io_uring instances. <https://pypi.org/project/liburing/>
 - [stealthrocket/dispatch-py](https://github.com/stealthrocket/dispatch-py): Python package to develop applications with Dispatch. <https://pypi.org/project/dispatch-py/>
+- [agronholm/asyncfusion](https://github.com/agronholm/asyncfusion): An asynchronous event loop implementation intended to be compatible with both asyncio and Trio
 
 ### Middleware
 
@@ -524,3 +530,6 @@
 - [PyHAT-stack/awesome-python-htmx](https://github.com/PyHAT-stack/awesome-python-htmx): A curated list of things related to python-based web development using htmx
 - [Knio/dominate](https://github.com/Knio/dominate): Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API. It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn another template language, and to take advantage of the more powerful features of Python.
 - [widgetti/reacton](https://github.com/widgetti/reacton): A pure Python port of React for ipywidgets <https://reacton.solara.dev/>
+- 🌟 [posit-dev/great-tables](https://github.com/posit-dev/great-tables): Easily generate information-rich, publication-quality tables from Python <https://posit-dev.github.io/great-tables/>
+  - [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
+- [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny): Shiny for Python <https://shiny.posit.co/py/>
