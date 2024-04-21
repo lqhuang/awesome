@@ -7,3 +7,4 @@
 - [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build and send emails using React <https://react.email>
 - [Glasp](https://glasp.co/): Collect and Share Your Favorite Words. Highlight & save notes on any web page ✍️
 - [partykit/partykit](https://github.com/partykit/partykit): PartyKit simplifies developing multiplayer applications <https://docs.partykit.io/>
+- [ppresume](https://ppresume.com/): A LaTeX Based Resume Builder. that helps people create beautifully typed resumes in minutes

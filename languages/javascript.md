@@ -60,6 +60,9 @@
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check): Property based testing framework for JavaScript (like QuickCheck) written in TypeScript <https://fast-check.dev/>
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch): Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack <https://nightwatchjs.org>
 
+- [faker-js/faker](https://github.com/faker-js/faker): Generate massive amounts of fake data in the browser and node.js <https://fakerjs.dev>
+- [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
+
 ### Linter / Formatter
 
 - [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies and exports in your JS/TS project
@@ -114,27 +117,29 @@
 - [Muhammad-Magdi/pgmq-js](https://github.com/Muhammad-Magdi/pgmq-js): Postgres Message Queue (PGMQ) JavaScript Client Library
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts): Turn your OpenAPI specification into a beautiful TypeScript client <https://npmjs.com/package/@hey-api/openapi-ts>
 
-## Utils
+### PDF
 
-- [komodojp/tinyld](https://github.com/komodojp/tinyld): Simple and Performant Language detection library for NodeJS <https://komodojp.github.io/tinyld/>
-- [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions <http://bradymholt.github.io/cRonstrue/>
-- [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics): simple statistics for node & browser javascript <http://simplestatistics.org/>
 - [foliojs/pdfkit](https://github.com/foliojs/pdfkit): A JavaScript PDF generation library for Node and the browser <http://pdfkit.org/>
-- [sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions): Get the dimensions of an image
-- [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
-- [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
-- [faker-js/faker](https://github.com/faker-js/faker): Generate massive amounts of fake data in the browser and node.js <https://fakerjs.dev>
-- [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
-- [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
-- [mholt/PapaParse](https://github.com/mholt/PapaParse): Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input <http://PapaParse.com>
-- [sindresorhus/execa](https://github.com/sindresorhus/execa): Process execution for humans
-- [dolanmiu/docx](https://github.com/dolanmiu/docx): Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. <https://docx.js.org/>
+- [ArtifexSoftware/mupdf.js](https://github.com/ArtifexSoftware/mupdf.js): JavaScript bindings for MuPDF <https://mupdfjs.readthedocs.io>
 - [vbuch/node-signpdf](https://github.com/vbuch/node-signpdf): Simple signing of PDFs in node.
 - [tuffstuff9/nextjs-pdf-parser](https://github.com/tuffstuff9/nextjs-pdf-parser): Next.js template for seamless PDF parsing using pdf2json and FilePond. Ideal for developers seeking a ready-to-use solution for PDF content extraction in Next.js projects. <https://twitter.com/tuff_stuff9>
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js): PDF Reader in JavaScript <https://mozilla.github.io/pdf.js/>
 - [modesty/pdf2json](https://github.com/modesty/pdf2json): A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
-- [xthezealot/npmprune](https://github.com/xthezealot/npmprune): Prune unnecessary files from node_modules
+
+### Utils
+
+- [komodojp/tinyld](https://github.com/komodojp/tinyld): Simple and Performant Language detection library for NodeJS <https://komodojp.github.io/tinyld/>
+- [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions <http://bradymholt.github.io/cRonstrue/>
+- [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics): simple statistics for node & browser javascript <http://simplestatistics.org/>
+- [sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions): Get the dimensions of an image
+- [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
+- [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
+- [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
+- [mholt/PapaParse](https://github.com/mholt/PapaParse): Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input <http://PapaParse.com>
+- [sindresorhus/execa](https://github.com/sindresorhus/execa): Process execution for humans
+- [dolanmiu/docx](https://github.com/dolanmiu/docx): Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. <https://docx.js.org/>
+- 🌟 [xthezealot/npmprune](https://github.com/xthezealot/npmprune): Prune unnecessary files from node_modules
   - simple and easy LOL
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
 - [Perf Link](https://perf.link/)

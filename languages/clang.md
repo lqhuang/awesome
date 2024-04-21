@@ -111,6 +111,7 @@
 
 - [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 - [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
+- [KaHIP/KaHIP](https://github.com/KaHIP/KaHIP): KaHIP -- Karlsruhe HIGH Quality Partitioning. <https://kahip.github.io>
 
 ## String
 
@@ -167,6 +168,7 @@
 - [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning): The PennyLane-Lightning plugin provides a fast state-vector simulator written in C++ for use with PennyLane <https://docs.pennylane.ai/projects/lightning>
 - [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
 - [shibatch/sleef](https://github.com/shibatch/sleef): SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT <https://sleef.org>
+- [flame/blis](https://github.com/flame/blis): BLAS-like Library Instantiation Software Framework
 
 ## Utils
 

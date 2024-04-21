@@ -58,6 +58,7 @@
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. <https://cleanlab.ai>
 - [feast-dev/feast](https://github.com/feast-dev/feast): Feature Store for Machine Learning <https://feast.dev>
 - [argilla-io/argilla](https://github.com/argilla-io/argilla): Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency. <https://docs.argilla.io>
+- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. <https://cleanlab.ai>
 
 ## Data Observability
 

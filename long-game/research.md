@@ -47,6 +47,10 @@
 - [epfl-lara/nugget](https://github.com/epfl-lara/nugget): Neural-Network Guided Expression Transformation
   - [Wikipedia: Knuth–Bendix completion algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Bendix_completion_algorithm)
 
+## Probability
+
+- [normal-computing/posteriors](https://github.com/normal-computing/posteriors): Uncertainty quantification with PyTorch <https://normal-computing.github.io/posteriors/>
+
 ## Novel approaches
 
 - [francois-rozet/zuko](https://github.com/francois-rozet/zuko): Normalizing flows in PyTorch <https://zuko.readthedocs.io>

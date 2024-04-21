@@ -155,6 +155,7 @@
 - [bridgecrewio/checkov](https://github.com/bridgecrewio/checkov): Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew. <https://www.checkov.io/>
   - [bridgecrewio/checkov-action](https://github.com/bridgecrewio/checkov-action): This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare): Cloudflare Terraform Provider <https://registry.terraform.io/providers/cloudflare/cloudflare>
+- [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer): Visualizes your Terraform <https://inkdrop.ai/>
 
 ## Infrastructure less
 
@@ -174,6 +175,7 @@
 
 - [one2nc/cloudlens](https://github.com/one2nc/cloudlens): k9s like CLI for AWS <https://one2n.gitbook.io/docs/>
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud): Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta. <https://ubicloud.com>
+- [Spot by NetApp](https://spot.io/)
 
 ## Infrastructure as Code
 

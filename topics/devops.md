@@ -51,6 +51,7 @@
 - 🌟 [oddlama/nix-topology](https://github.com/oddlama/nix-topology): 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations <https://oddlama.github.io/nix-topology>
 - 🌟 [flox/flox](https://github.com/flox/flox): Developer environments you can take with you <https://flox.dev>
 - [tweag/genealogos](https://github.com/tweag/genealogos): Genealogos, a Nix sbom generator
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer): Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 
 ## Hook / Tools
 

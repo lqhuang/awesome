@@ -137,6 +137,7 @@
 - [life4/deal](https://github.com/life4/deal): 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free. <https://deal.readthedocs.io/>
 - [JamesHutchison/pytest-hot-reloading](https://github.com/JamesHutchison/pytest-hot-reloading): A hot reloading pytest daemon, implemented as a plugin
 - 🌟 [pschanely/CrossHair](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
+- [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot): create and update inline snapshots in your python tests <https://15r10nk.github.io/inline-snapshot/>
 
 ### Performance profile
 
@@ -312,6 +313,7 @@
 - 📝 [ponyorm/pony](https://github.com/ponyorm/pony): Pony Object Relational Mapper
   - Learn how Monad style applies in Python
   - [Python’s “Disappointing” Superpowers # Pony ORM](https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/#pony-orm)
+- [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry): A GraphQL library for Python that leverages type annotations 🍓 <https://strawberry.rocks>
 
 ### API clients
 
@@ -367,6 +369,7 @@
 - [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
 - [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
 - [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
+- [bswck/lazy_importing](https://github.com/bswck/lazy_importing): Lazy imports in Python. <https://lazy-importing.readthedocs.io/en/latest/>
 
 ### Configuration
 

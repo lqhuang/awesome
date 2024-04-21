@@ -373,6 +373,7 @@
 - 🌟 [cloudflare/shellflip](https://github.com/cloudflare/shellflip): Graceful process restarts in Rust <https://blog.cloudflare.com/oxy-the-journey-of-graceful-restarts/>
 - [facebookincubator/gazebo](https://github.com/facebookincubator/gazebo): A Rust library containing a collection of small well-tested primitives.
 - [facebookexperimental/rust-shed](https://github.com/facebookexperimental/rust-shed): Repository containing Rust crates common between other Facebook open source projects (like Mononoke or Eden).
+- [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie): An ergonomic and safe syscall interception framework for Linux.
 - [rayon-rs/either](https://github.com/rayon-rs/either): The enum Either with variants Left and Right is a general purpose sum type with two cases. <https://docs.rs/either/>
 - [marshallpierce/rust-base64](https://github.com/marshallpierce/rust-base64): base64, in rust
 - [jaemk/cached](https://github.com/jaemk/cached): Rust cache structures and easy function memoization
@@ -429,6 +430,7 @@
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres): Native PostgreSQL driver for the Rust programming language
 - [foundationdb-rs/foundationdb-rs](https://github.com/foundationdb-rs/foundationdb-rs): FoundationDB Rust client api <https://crates.io/crates/foundationdb>
 - [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs): Ergonomic bindings to duckdb for Rust
+- [amqp-rs/lapin](https://github.com/amqp-rs/lapin): AMQP client library in Rust, with a clean, futures based API
 
 ## Misc
 

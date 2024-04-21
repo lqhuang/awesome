@@ -23,6 +23,9 @@
 - 🌟 [facebook/dotslash](https://github.com/facebook/dotslash): Simplified executable deployment <https://dotslash-cli.com>
 - [jdx/mise](https://github.com/jdx/mise): dev tools, env vars, task runner <https://mise.jdx.dev>
 - [agorapulse/pierrot](https://github.com/agorapulse/pierrot): Multi-repository GitHub Governance Tool
+- [Windows Admin Center](https://www.microsoft.com/en-us/windows-server/windows-admin-center): Windows Admin Center is your remote management tool for Windows Server running anywhere–physical, virtual, on-premises, in Azure, or in a hosted environment–at no additional cost.
+  - Windows alternative for cockpit! And it's purely free!
+  - https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/understand/modernized-gateway
 
 ### Misc linters / formatters
 
@@ -60,6 +63,7 @@
 - 🌟 [varkor/quiver](https://github.com/varkor/quiver): A modern commutative diagram editor for the web. <https://q.uiver.app>
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit): Next Generation Visual Programming System <https://unit.land>
 - [holistics/dbml](https://github.com/holistics/dbml): Database Markup Language (DBML), designed to define and document database structures <https://dbml.dbdiagram.io>
+  - [notiz-dev/prisma-dbml-generator](https://github.com/notiz-dev/prisma-dbml-generator): Prisma DBML Generator
 
 ## Homelab
 

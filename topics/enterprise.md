@@ -172,6 +172,7 @@
   - [grafana/k6](https://github.com/grafana/k6): A modern load testing tool, using Go and JavaScript - https://k6.io
 - [Polar Signals](https://www.polarsignals.com/): Polar Signals Cloud is an always-on, zero-instrumentation continuous profiling product that helps improve performance, understand incidents, and lower infrastructure costs.
 - [perses/perses](https://github.com/perses/perses): The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! <https://demo.perses.dev>
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent): The production-scale datacenter profiler
 
 ### Benchmark
 

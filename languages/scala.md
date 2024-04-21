@@ -204,6 +204,7 @@
 - [conduktor/scala-api-template](https://github.com/conduktor/scala-api-template): Example Scala API to bootstrap new projects <https://www.conduktor.io>
 - [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper): A Scala library for scraping content from HTML pages
 - [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>
+- 🌟 [com-lihaoyi/sourcecode](https://github.com/com-lihaoyi/sourcecode): Scala library providing "source" metadata to your program, similar to Python's **name**, C++'s **LINE** or Ruby's **FILE**.
 
 ## Stream / Effect systems / Experiments
 

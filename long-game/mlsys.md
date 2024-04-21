@@ -221,6 +221,8 @@
 - [vicariousinc/PGMax](https://github.com/vicariousinc/PGMax): Loopy belief propagation for factor graphs on discrete variables, in JAX! <https://pgmax.readthedocs.io>
 - [probml/dynamax](https://github.com/probml/dynamax): State Space Models library in JAX <https://probml.github.io/dynamax>
 - [probml/sts-jax](https://github.com/probml/sts-jax): Structural Time Series in JAX
+- [geraschenko/gmrfs](https://github.com/geraschenko/gmrfs): Gaussian Markov Random Fields (GMRFs) and Integrated Nested Laplace Approximation (INLA)
+- [jax-ml/coix](https://github.com/jax-ml/coix): Inference Combinators in JAX <https://coix.readthedocs.io/en/latest/>
 - [ASEM000/kernex](https://github.com/ASEM000/kernex): Stencil computations in JAX
 - [metaopt/optree](https://github.com/metaopt/optree): OpTree: Optimized PyTree Utilities <https://optree.readthedocs.io>
 - [ott-jax/ott](https://github.com/ott-jax/ott): Optimal Transport tools implemented with the JAX framework, to get auto-diff, parallel and jit-able computations. <https://ott-jax.readthedocs.io>
@@ -250,6 +252,7 @@
 - [google-deepmind/PGMax](https://github.com/google-deepmind/PGMax): Loopy belief propagation for factor graphs on discrete variables in JAX
 - [google-deepmind/synjax](https://github.com/google-deepmind/synjax): SynJax is a neural network library for JAX structured probability distributions.
 - [google-deepmind/alphatensor](https://github.com/google-deepmind/alphatensor): Discovering faster matrix multiplication algorithms with reinforcement learning
+- 🌟 [google-deepmind/penzai](https://github.com/google-deepmind/penzai): A JAX research toolkit for building, editing, and visualizing neural networks. <https://penzai.readthedocs.io/>
 
 ### Google specialization
 
@@ -309,6 +312,7 @@ This is not an officially supported Google product.
 - [wookayin/gpustat](https://github.com/wookayin/gpustat): 📊 A simple command-line utility for querying and monitoring GPU status
 - [facebook/Ax](https://github.com/facebook/Ax): Adaptive Experimentation Platform <https://ax.dev>
 - [google/fiddle](https://github.com/google/fiddle): Fiddle is a Python-first configuration library particularly well suited to ML applications. Fiddle enables deep configurability of parameters in a program, while allowing configuration to be expressed in readable and maintainable Python code.
+- [NVIDIA/DALI](https://github.com/NVIDIA/DALI): A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications. <https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html>
 
 ## Misc
 
