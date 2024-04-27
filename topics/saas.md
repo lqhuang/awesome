@@ -8,3 +8,4 @@
 - [Glasp](https://glasp.co/): Collect and Share Your Favorite Words. Highlight & save notes on any web page ✍️
 - [partykit/partykit](https://github.com/partykit/partykit): PartyKit simplifies developing multiplayer applications <https://docs.partykit.io/>
 - [ppresume](https://ppresume.com/): A LaTeX Based Resume Builder. that helps people create beautifully typed resumes in minutes
+- [GetDeploying](https://getdeploying.com/): Find and compare cloud providers for your next project.

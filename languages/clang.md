@@ -184,3 +184,4 @@
 - [microsoft/checkedc](https://github.com/microsoft/checkedc): Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe. The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. <https://www.microsoft.com/en-us/research/project/checked-c>
 - [diffblue/cbmc](https://github.com/diffblue/cbmc): C Bounded Model Checker <https://diffblue.github.io/cbmc>
 - [vnmakarov/mir](https://github.com/vnmakarov/mir): A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
+- [The Fil-C Memory Safety Manifesto: FUGC Yeah!](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)

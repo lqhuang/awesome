@@ -23,6 +23,7 @@
 - [deepeth/mars](https://github.com/deepeth/mars): The powerful analysis platform to explore and visualize data from blockchain.
 - [graphprotocol/graph-node](https://github.com/graphprotocol/graph-node): Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL <https://thegraph.com>
 - [ethereum/web3.py](https://github.com/ethereum/web3.py): A python interface for interacting with the Ethereum blockchain and ecosystem. <http://web3py.readthedocs.io>
+- [paradigmxyz/cryo](https://github.com/paradigmxyz/cryo): cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes
 
 ## Smart Contract Dev
 

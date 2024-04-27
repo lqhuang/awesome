@@ -57,6 +57,7 @@
 - 🌟 [alexpovel/srgn](https://github.com/alexpovel/srgn): A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`. <https://crates.io/crates/srgn/>
 - [timvw/qv](https://github.com/timvw/qv): Quickly view your data
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions): Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
+- [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go): Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 
 ## TUI applications
 

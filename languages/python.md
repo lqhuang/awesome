@@ -138,6 +138,7 @@
 - [JamesHutchison/pytest-hot-reloading](https://github.com/JamesHutchison/pytest-hot-reloading): A hot reloading pytest daemon, implemented as a plugin
 - 🌟 [pschanely/CrossHair](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot): create and update inline snapshots in your python tests <https://15r10nk.github.io/inline-snapshot/>
+- [pytest-dev/pytest-randomly](https://github.com/pytest-dev/pytest-randomly): 🎲 Pytest plugin to randomly order tests and control random.seed
 
 ### Performance profile
 

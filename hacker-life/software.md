@@ -38,6 +38,7 @@
 - 🌟 [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP): NOVA opeN sOurce Video plAyer: main repository to build them all
 - [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your favorite torrent trackers
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha): Elegantly record your screen
 
 ### Notes / Knowledge Management
 
@@ -91,6 +92,7 @@
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac): DevToys For mac
 - 🌟 [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman): Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ <https://proxyman.io>
 - [unixzii/StringExplorer](https://github.com/unixzii/StringExplorer): A handy tool to explore various string encoding.
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap): Effortless, instant screen sharing. Open-source and cross-platform. <https://cap.so>
 
 ### Free / Paid
 

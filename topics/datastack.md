@@ -15,6 +15,7 @@
 - parquet
 - arrow
 - [lancedb/lance](https://github.com/lancedb/lance): Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming.. <https://lancedb.github.io/lance/>
+- [facebookexternal/nimble](https://github.com/facebookexternal/nimble): New file format for storage of large columnar datasets.
 
 ## ELT / ETL
 

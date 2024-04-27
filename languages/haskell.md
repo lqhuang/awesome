@@ -95,6 +95,7 @@
 - [circuithub/rel8](https://github.com/circuithub/rel8): Hey! Hey! Can u rel8? <https://rel8.readthedocs.io>
 - [morphismtech/squeal](https://github.com/morphismtech/squeal): Squeal, a deep embedding of SQL in Haskell
 - [well-typed/grapesy](https://github.com/well-typed/grapesy): Native Haskell gRPC client and server based on `http2`
+- [obsidiansystems/gargoyle](https://github.com/obsidiansystems/gargoyle): A framework for managing daemons from Haskell and libraries for use with postgresql and nix
 
 ## Logging and tracing
 

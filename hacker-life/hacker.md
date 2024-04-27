@@ -26,6 +26,9 @@
 - [Windows Admin Center](https://www.microsoft.com/en-us/windows-server/windows-admin-center): Windows Admin Center is your remote management tool for Windows Server running anywhere–physical, virtual, on-premises, in Azure, or in a hosted environment–at no additional cost.
   - Windows alternative for cockpit! And it's purely free!
   - https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/understand/modernized-gateway
+- [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder): Scripts to build a trimmed-down Windows 11 image.
+- 🌟 [ASCII Diagrams](https://asciidiagrams.github.io/): This web page catalogs ASCII diagrams extracted from four open source code-bases: Chromium, Linux, LLVM, and TensorFlow. There are 2156 diagrams in total, of which 504 have been annotated with our design framework.
+- [hello-nav/hello-nav](https://github.com/hello-nav/hello-nav): 🗺 A navigation for developer <https://hello-nav.github.io>
 
 ### Misc linters / formatters
 
@@ -64,6 +67,7 @@
 - [samuelmtimbo/unit](https://github.com/samuelmtimbo/unit): Next Generation Visual Programming System <https://unit.land>
 - [holistics/dbml](https://github.com/holistics/dbml): Database Markup Language (DBML), designed to define and document database structures <https://dbml.dbdiagram.io>
   - [notiz-dev/prisma-dbml-generator](https://github.com/notiz-dev/prisma-dbml-generator): Prisma DBML Generator
+- [mity/md4c](https://github.com/mity/md4c): C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 
 ## Homelab
 

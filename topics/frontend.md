@@ -100,6 +100,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz. <https://radix-ui.com>
 - 🌟 [radix-ui/themes](https://github.com/radix-ui/themes): Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos. <https://radix-ui.com/themes>
 - 🌟 [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
+  - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table): A shadcn table component with server-side sorting, filtering, and pagination. <https://table.sadmn.com>
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react): Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications. <https://react.keepdesign.io>
 - [cloudscape-design/components](https://github.com/cloudscape-design/components): React components for Cloudscape Design System <https://cloudscape.design/>
 - [tamagui/tamagui](https://github.com/tamagui/tamagui): Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler. <https://tamagui.dev>
@@ -177,6 +178,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js): 🌞 A lightweight JavaScript library that generates customizable heat maps to visualize date-based activity and trends. <https://www.william-troup.com/heat-js>
 - 🌟 [bitjson/qr-code](https://github.com/bitjson/qr-code): A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element. <https://qr.bitjson.com/>
 - [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions): Use CSS View Transitions API in Next.js App Router. <https://next-view-transitions.vercel.app>
+
+- [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars): A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling. <https://kingsora.github.io/OverlayScrollbars>
 
 #### PDF
 

@@ -164,6 +164,7 @@
 - [softwaremill/sttp-openai](https://github.com/softwaremill/sttp-openai)
 - [quelgar/scala-uv](https://github.com/quelgar/scala-uv): Scala Native language bindings for libuv
 - [finagle/finch](https://github.com/finagle/finch): Scala combinator library for building Finagle HTTP services <https://finagle.github.io/finch>
+- [com-lihaoyi/scalasql](https://github.com/com-lihaoyi/scalasql): Query SQL databases from Scala via concise, type-safe, and familiar case classes and collection operations. Supports Postgres, MySql, H2, and Sqlite out of the box
 
 ### Parser
 
