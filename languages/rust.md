@@ -49,6 +49,7 @@
 - [dtolnay/linkme](https://github.com/dtolnay/linkme): Safe cross-platform linker shenanigans
 - [rust-marker/marker](https://github.com/rust-marker/marker): An experimental linting interface for Rust. Let's make custom lints a reality <https://rust-marker.github.io/marker/>
 - [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action): Automate publishing Rust build artifacts for GitHub releases through GitHub Actions
+- [corrosion-rs/corrosion](https://github.com/corrosion-rs/corrosion): Marrying Rust and CMake - Easy Rust and C/C++ Integration! <https://corrosion-rs.github.io/corrosion/>
 
 ### Cargo plugins
 

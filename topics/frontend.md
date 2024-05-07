@@ -289,6 +289,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string. <https://nuqs.47ng.com>
 - [maslianok/react-resize-detector](https://github.com/maslianok/react-resize-detector): A Cross-Browser, Event-based, Element Resize Detection for React <http://maslianok.github.io/react-resize-detector/>
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware): ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes <https://fezvrasta.github.io/react-resize-aware>
+- 🌟 [uNmAnNeR/imaskjs](https://github.com/uNmAnNeR/imaskjs): vanilla javascript input mask <https://imask.js.org>
 
 ### Misc
 

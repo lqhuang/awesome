@@ -190,3 +190,4 @@
 - [open-webui/open-webui](https://github.com/open-webui/open-webui): User-friendly WebUI for LLMs (Formerly Ollama WebUI) <https://openwebui.com>
 - [lencx/Noi](https://github.com/lencx/Noi): 🦄 AI + Tools + Plugins + Community <https://noi.nofwl.com>
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development <https://librechat.ai/>
+- [TypingMind/typingmind](https://github.com/TypingMind/typingmind): The most advanced Web UI for AI chat <https://www.typingmind.com>

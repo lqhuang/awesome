@@ -9,3 +9,4 @@
 - [partykit/partykit](https://github.com/partykit/partykit): PartyKit simplifies developing multiplayer applications <https://docs.partykit.io/>
 - [ppresume](https://ppresume.com/): A LaTeX Based Resume Builder. that helps people create beautifully typed resumes in minutes
 - [GetDeploying](https://getdeploying.com/): Find and compare cloud providers for your next project.
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy): Open Source Alternative to Vercel, Netlify and Heroku. <https://dokploy.com/>

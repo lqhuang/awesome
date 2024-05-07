@@ -206,6 +206,12 @@
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of SQLite extensions
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry <https://sqlpkg.org>
 
+## Testing
+
+- [eradman/ephemeralpg](https://github.com/eradman/ephemeralpg): Quickly spin up a temporary PostgreSQL test databases <http://eradman.com/ephemeralpg/>
+  - [ugtar/pg_temp](https://github.com/ugtar/pg_temp): create a temporary, disposable, userland pg database
+- [allaboutapps/integresql](https://github.com/allaboutapps/integresql): IntegreSQL manages isolated PostgreSQL databases for your integration tests.
+
 ## Benchmark
 
 - [ClickHouse/ClickBench](https://github.com/ClickHouse/ClickBench): ClickBench: a Benchmark For Analytical Databases <https://benchmark.clickhouse.com/>

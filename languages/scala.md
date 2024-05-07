@@ -20,6 +20,7 @@
 - [A Macro Almanac](https://macros.kitlangton.com/): Draft book for Scala 3 macro!
 - [The Good, The Magical and The Insane: Scala 3 API design patterns](https://github.com/lbialy/lbialy.github.io/tree/master/good-magical-insane)
   - [Youtube Video](https://www.youtube.com/watch?v=JRgq8jjE2Dk)
+- [Quick Tips for Fast Code on the JVM](https://gist.github.com/djspiewak/464c11307cabc80171c90397d4ec34ef)
 
 ### Exercises
 
@@ -105,6 +106,7 @@
 - [kzmake/uuid7s](https://github.com/kzmake/uuid7s): UUID version 7 in Scala
 - [wvlet/airframe](https://github.com/wvlet/airframe): Essential Building Blocks for Scala <https://wvlet.org/airframe>
   - ulid
+- [VirtusLab/scala-yaml](https://github.com/VirtusLab/scala-yaml):
 
 ### Experiments
 

@@ -41,6 +41,7 @@
 
 ### Talks
 
+- [nikomatsakis/rustnl-2024](https://github.com/nikomatsakis/rustnl-2024): Type theory for busy engineers
 - [Structuring effectful programs](https://bobkonf.de/2023/loeh.html)
 
 ## Effect systems

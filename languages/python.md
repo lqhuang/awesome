@@ -21,6 +21,7 @@
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals): Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研究员 Anthony Shaw 的《CPython Internals》中文翻译
 - [python/typing-council](https://github.com/python/typing-council): Decisions by the Python Typing Council
+- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips): FastAPI Tips by The FastAPI Expert!
 
 ### Books
 
@@ -139,8 +140,9 @@
 - 🌟 [pschanely/CrossHair](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot): create and update inline snapshots in your python tests <https://15r10nk.github.io/inline-snapshot/>
 - [pytest-dev/pytest-randomly](https://github.com/pytest-dev/pytest-randomly): 🎲 Pytest plugin to randomly order tests and control random.seed
+- [se2p/pynguin](https://github.com/se2p/pynguin): The PYthoN General UnIt Test geNerator is a test-generation tool for Python <https://www.pynguin.eu>
 
-### Performance profile
+### Profile / tracing
 
 - 🌟 [plasma-umass/scalene](https://github.com/plasma-umass/scalene): Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
 - [nschloe/tuna](https://github.com/nschloe/tuna): 🐟 Python profile viewer
@@ -159,6 +161,7 @@
 - 📝 [njsmith/perpetuo](https://github.com/njsmith/perpetuo): Stall tracking for Python's GIL and Trio tasks
 - [gitlab - mbryant/FunctionTrace](https://gitlab.com/mbryant/functiontrace): A graphical Python profiler that provides a clear view of your application's execution while being both low-overhead and easy to use. <https://functiontrace.com/>
 - [tonybaloney/rich-bench](https://github.com/tonybaloney/rich-bench): A little benchmarking tool for Python
+- [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy): coredumpy saves your crash site for post-mortem debugging
 
 ## Type System in Python
 
@@ -434,6 +437,7 @@
 - 🌟 [microsoft/picologging](https://github.com/microsoft/picologging): An optimized logging library for Python
 - [Delgan/loguru](https://github.com/Delgan/loguru): Python logging made (stupidly) simple
 - [itamarst/eliot](https://github.com/itamarst/eliot): Eliot: the logging system that tells you _why_ it happened <https://eliot.readthedocs.io>
+- [pydantic/logfire](https://github.com/pydantic/logfire): Uncomplicated Observability for Python and beyond! 🪵🔥 <https://docs.pydantic.dev/logfire/>
 
 ### Bindings
 

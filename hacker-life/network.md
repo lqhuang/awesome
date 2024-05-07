@@ -59,6 +59,7 @@
 - 🌟 [fujiapple852/trippy](https://github.com/fujiapple852/trippy): A network diagnostic tool <https://trippy.cli.rs>
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp): The BGP swiss army knife of networking
 - [stunnel/static-curl](https://github.com/stunnel/static-curl): static builds cURL with HTTP3
+- [plaintextpackets/netprobe_lite](https://github.com/plaintextpackets/netprobe_lite): Simple internet performance tester written in Python
 
 ### Analysis
 
