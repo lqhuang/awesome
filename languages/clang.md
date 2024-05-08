@@ -3,7 +3,7 @@
 ## Resources
 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. <http://fffaraz.github.io/awesome-cpp/>
-- [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++ <https://awesomecpp.com>
+- 🌟 [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++ <https://awesomecpp.com>
 - [yuchdev/CppBooks](https://github.com/yuchdev/CppBooks): A comprehensive catalog of modern and classic books on C++ programming language
 - [Clang Compiler User’s Manual](https://clang.llvm.org/docs/UsersManual.html)
 - [Clang command line argument reference](https://clang.llvm.org/docs/ClangCommandLineReference.html)

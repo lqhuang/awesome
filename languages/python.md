@@ -420,9 +420,8 @@
 
 - [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto): Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
 - [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON decoder and encoder written in C with Python bindings
-- [ijl/orjson](https://github.com/ijl/orjson): Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
+- 🌟 [ijl/orjson](https://github.com/ijl/orjson): Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - 🌟 [jcrist/msgspec](https://github.com/jcrist/msgspec): A fast and friendly JSON/MessagePack library, with optional schema validation <https://jcristharif.com/msgspec>
-- [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson): Python bindings for the simdjson project. <https://pysimdjson.tkte.ch>
 - 🌟 [cloudpipe/cloudpickle](https://github.com/cloudpipe/cloudpickle): Extended pickling support for Python objects
 - [sdispater/tomlkit](https://github.com/sdispater/tomlkit): Style-preserving TOML library for Python
 - 🌟 [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema): An implementation of the JSON Schema specification for Python <https://python-jsonschema.readthedocs.io>

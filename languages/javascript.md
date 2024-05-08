@@ -144,6 +144,7 @@
   - simple and easy LOL
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
 - [Perf Link](https://perf.link/)
+- [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule): A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
 
 ## Middleware
 

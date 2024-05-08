@@ -88,6 +88,7 @@
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant): Contributor License Agreement assistant (CLA assistant) <https://cla-assistant.io>
 - [writethedocs/www](https://github.com/writethedocs/www): The main website for Write the Docs. <http://www.writethedocs.org>
 - [wevm/vocs](https://github.com/wevm/vocs): Minimal Documentation Framework, powered by React + Vite. <https://vocs.dev>
+- [speced/bikeshed](https://github.com/speced/bikeshed): 🚲 A preprocessor for anyone writing specifications that converts source files into actual specs. <https://speced.github.io/bikeshed>
 
 ### DevOps
 

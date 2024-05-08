@@ -225,6 +225,7 @@
 - [drifting-in-space/aper](https://github.com/drifting-in-space/aper): A Rust data structure library built on state machines. <https://aper.dev/>
 - [ferrilab/bitvec](https://github.com/ferrilab/bitvec): A crate for managing memory bit by bit <https://myrrlyn.net/crates/bitvec>
 - [tomtomwombat/fastbloom](https://github.com/tomtomwombat/fastbloom): The fastest bloom filter in Rust. No accuracy compromises. Compatible with any hasher.
+- [hawkw/thingbuf](https://github.com/hawkw/thingbuf): in-place allocation-reusing queues for Rust
 
 ### CRDT
 
@@ -292,7 +293,6 @@
 - [tokio-rs/prost](https://github.com/tokio-rs/prost): PROST! a Protocol Buffers implementation for the Rust Language
 - [tafia/quick-protobuf](https://github.com/tafia/quick-protobuf): A rust implementation of protobuf parser
 - [serde-rs/json](https://github.com/serde-rs/json): Strongly typed JSON library for Rust
-- [simd-lite/simd-json](https://github.com/simd-lite/simd-json): Rust port of simdjson
 - [khonsulabs/justjson](https://github.com/khonsulabs/justjson): An efficient JSON Value parser
 - [PSeitz/serde_json_borrow](https://github.com/PSeitz/serde_json_borrow): Fast JSON deserialization on borrowed data
 - [datafuselabs/jsonb](https://github.com/datafuselabs/jsonb): JSONB implement in rust
@@ -346,7 +346,7 @@
 - [rust-cli/human-panic](https://github.com/rust-cli/human-panic): 😱 Panic messages for humans.
 - [komora-io/terrors](https://github.com/komora-io/terrors): ergonomic and precise error handling built atop type-level set arithmetic
 - [yaahc/eyre](https://github.com/yaahc/eyre): A trait object based error handling type for easy idiomatic error handling and reporting in Rust applications
-- [shepmaster/snafu](https://github.com/shepmaster/snafu): Easily assign underlying errors into domain-specific errors while adding context
+- [shepmaster/snafu](https://github.com/shepmaster/snafu): Easily assign underlying errors into domain-specific errors while adding context <https://docs.rs/snafu/>
 
 ### Utils
 

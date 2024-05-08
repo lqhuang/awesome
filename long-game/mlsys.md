@@ -235,6 +235,7 @@
 - [pasqal-io/horqrux](https://github.com/pasqal-io/horqrux): Jax-based quantum state vector simulator. <https://pasqal-io.github.io/horqrux/latest/>
 - [ayaka14732/einshard](https://github.com/ayaka14732/einshard): High-level array sharding API for JAX <https://einshard.readthedocs.io/>
 - [mancusolab/traceax](https://github.com/mancusolab/traceax): Stochastic trace estimation using JAX <https://mancusolab.github.io/traceax/>
+- [MatX-inc/seqax](https://github.com/MatX-inc/seqax): seqax = sequence modeling + JAX
 
 ### DeepMind specialization
 
