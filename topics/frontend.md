@@ -5,6 +5,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 ## Resources
 
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem
+- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components): Curated List of React Components & Libraries.
 - [ericdiviney/react-handbook](https://github.com/ericdiviney/react-handbook): ⚛🤌 Modern approaches to architecture and feature development for production-ready React apps. <https://reacthandbook.dev>
 - [BetaSu/just-react](https://github.com/BetaSu/just-react): 「React 技术揭秘」一本自顶向下的 React 源码分析书 <https://react.iamkasong.com/>
 - 🌟 [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/): A guide that teaches professional developers how to transform component libraries into design systems and set up the production infrastructure used by leading frontend teams.
@@ -136,9 +137,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ### Components
 
-- [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components): Curated List of React Components & Libraries.
-
 - 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown): Markdown component for React <https://remarkjs.github.io/react-markdown>
+- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx): 🏭 The most lightweight, customizable React markdown component. <https://markdown-to-jsx.quantizor.dev/>
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements): 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use <https://tailwind-elements.com>
 - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template): Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. <https://simple.cruip.com>
 
@@ -147,6 +147,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
 - [rpldy/react-uploady](https://github.com/rpldy/react-uploady): Modern file uploading - components & hooks for React <https://react-uploady.org/>
+- [rafasofizada/pechkin](https://github.com/rafasofizada/pechkin): Asynchronous Node.js file upload (multipart/form-data) handling.
 
 - [Himself65/rich-data](https://github.com/Himself65/rich-data): Data Viewer <https://rich-data.dev>
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso): The most powerful virtual list component for React <https://virtuoso.dev/>
@@ -319,6 +320,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [YYsuni/react18-json-view](https://github.com/YYsuni/react18-json-view): JSON viewer for react18 <https://jv.yysuni.com/>
 - [processing/p5.js](https://github.com/processing/p5.js): p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — <http://p5js.org/>
 - [retejs/rete](https://github.com/retejs/rete): JavaScript framework for visual programming <https://retejs.org>
+- [memgraph/orb](https://github.com/memgraph/orb): Graph visualization library
+- [lewhunt/divz](https://github.com/lewhunt/divz): A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos here: https://lewhunt.github.io/divz/ <https://lewhunt.github.io/divz/>
 
 ## Design / Resources
 
@@ -339,6 +342,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg): SVG library for React Native, React Native Web, and plain React web projects.
 - [Iconbuddy](iconbuddy.app): The ultimate source for icons.
   - [Figma Plugin](https://dub.sh/iconbuddy-figma)
+- 🌟 [pheralb/svgl](https://github.com/pheralb/svgl): 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS. <https://svgl.app>
 
 ## Further topics
 

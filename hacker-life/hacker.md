@@ -68,6 +68,7 @@
 - [holistics/dbml](https://github.com/holistics/dbml): Database Markup Language (DBML), designed to define and document database structures <https://dbml.dbdiagram.io>
   - [notiz-dev/prisma-dbml-generator](https://github.com/notiz-dev/prisma-dbml-generator): Prisma DBML Generator
 - [mity/md4c](https://github.com/mity/md4c): C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
+- [hikerpig/pintora](https://github.com/hikerpig/pintora): An extensible text-to-diagrams library that works in both browser and node.js <https://pintorajs.vercel.app>
 
 ## Homelab
 

@@ -107,6 +107,7 @@
 - [wvlet/airframe](https://github.com/wvlet/airframe): Essential Building Blocks for Scala <https://wvlet.org/airframe>
   - ulid
 - [VirtusLab/scala-yaml](https://github.com/VirtusLab/scala-yaml):
+- [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka): Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc. <https://softwaremill.github.io/bootzooka/>
 
 ### Experiments
 

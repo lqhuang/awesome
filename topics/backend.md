@@ -13,6 +13,7 @@
 - 🌟 [Cactus-proj/A-Philosophy-of-Software-Design-zh](https://github.com/Cactus-proj/A-Philosophy-of-Software-Design-zh): A Philosophy of Software Design 《软件设计的哲学》中文翻译 <https://cactus-proj.github.io/A-Philosophy-of-Software-Design-zh/>
 - 🌟 [Go7hic/A-Philosophy-of-Software-Design](https://github.com/Go7hic/A-Philosophy-of-Software-Design): 《软件设计哲学》 <https://go7hic.github.io/A-Philosophy-of-Software-Design/#/>
 - [zxyle/PDF-Explained](https://github.com/zxyle/PDF-Explained): 《PDF 解析》 <https://zxyle.github.io/PDF-Explained/>
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. <https://blog.bytebytego.com/>
 
 ## Middleware
 

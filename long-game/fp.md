@@ -47,6 +47,7 @@
 ## Effect systems
 
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio):Effects-based direct-style IO for multicore OCaml
+  - [ocaml-multicore/effects-examples](https://github.com/ocaml-multicore/effects-examples): Examples to illustrate the use of algebraic effects in Multicore OCaml
 - 🌟 [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful): An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
 - 🌟 [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress effect system for Haskell 🚧
 - [haskell/mtl](https://github.com/haskell/mtl): The Monad Transformer Library <http://www.haskell.org/haskellwiki/Monad_Transformers>

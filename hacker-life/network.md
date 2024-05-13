@@ -113,11 +113,12 @@
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling): List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [openziti/zrok](https://github.com/openziti/zrok): Geo-scale, next-generation sharing platform built on top of OpenZiti. <https://zrok.io>
 - [ekzhang/bore](https://github.com/ekzhang/bore): 🕳 bore is a simple CLI tool for making tunnels to localhost <http://bore.pub>
-- [pgrok/pgrok](https://github.com/pgrok/pgrok): Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding
+- 🌟 [pgrok/pgrok](https://github.com/pgrok/pgrok): Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding
 - [rapiz1/rathole](https://github.com/rapiz1/rathole): A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass): Rosenpass is a formally verified, post-quantum secure VPN that uses WireGuard to transport the actual data. <https://rosenpass.eu/>
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel): A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd): 🛡 I2P: End-to-End encrypted and anonymous Internet <https://i2pd.website>
+- [amalshaji/portr](https://github.com/amalshaji/portr): Open source ngrok alternative designed for teams <https://portr.dev>
 
 ### Mesh network
 

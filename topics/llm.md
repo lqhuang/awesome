@@ -79,13 +79,14 @@
 
 - [ollama/ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, Gemma, and other large language models. <https://ollama.com>
 
-### OpenAI GPT
+### OpenAI
 
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API
 - [pagebrain/lexeme](https://github.com/pagebrain/lexeme): Lexeme - Open source ChatGPT Text Editor <https://pagebrain.ai/lexeme/>
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin): The ChatGPT Retrieval Plugin repository provides a flexible solution for semantic search and retrieval of personal or organizational documents using natural language queries.
 - [openai/weak-to-strong](https://github.com/openai/weak-to-strong): No description, website, or topics provided.
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step <https://www.manning.com/books/build-a-large-language-model-from-scratch>
+- [Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
 
 ### Llama 2
 

@@ -200,6 +200,7 @@
 - 🌟 [ankane/pgsync](https://github.com/ankane/pgsync): Sync data from one Postgres database to another
 - [eradman/pg-safeupdate](https://github.com/eradman/pg-safeupdate): A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE
 - 🌟 [xataio/pgroll](https://github.com/xataio/pgroll): PostgreSQL zero-downtime migrations made easy <https://www.xata.io>
+- [ardentperf/dsef](https://github.com/ardentperf/dsef): DiffStats and ExplainFull: detailed SQL reports for third party help & support
 
 ### SQLite
 

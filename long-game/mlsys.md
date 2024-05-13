@@ -98,6 +98,8 @@
 - [facebookresearch/DiT](https://github.com/facebookresearch/DiT): Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 - [crabml/crabml](https://github.com/crabml/crabml): crabml is an ongoing experiment that aims to reimplement GGML using Rust.
 - [shawntan/scattermoe](https://github.com/shawntan/scattermoe): Triton-based implementation of Sparse Mixture of Experts.
+- [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens): Tile primitives for speedy kernels
+  - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 
 ### Inference engine / large-scale deployment
 

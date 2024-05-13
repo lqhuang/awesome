@@ -24,6 +24,8 @@
 - [Freckle guides and best practices](https://github.com/freckle/guides)
 - [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018/)
 - [Good Haskell Libraries (view of Jack Kelly)](http://jackkelly.name/wiki/haskell/libraries.html)
+- [The ultimate guide to Haskell Strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
+  - [Haksell discourse: The ultimate guide to Haskell Strings](https://discourse.haskell.org/t/the-ultimate-guide-to-haskell-strings/9538)
 
 ### Courses
 
