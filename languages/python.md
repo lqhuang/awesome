@@ -374,6 +374,7 @@
 - [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
 - [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 - [bswck/lazy_importing](https://github.com/bswck/lazy_importing): Lazy imports in Python. <https://lazy-importing.readthedocs.io/en/latest/>
+- 🌟 [tox-dev/filelock](https://github.com/tox-dev/filelock): A platform-independent file lock for Python. <https://py-filelock.readthedocs.io>
 
 ### Configuration
 

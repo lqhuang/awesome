@@ -191,6 +191,7 @@
 - [makingthematrix/signals3](https://github.com/makingthematrix/signals3): A lightweight event streaming library for Scala 3
 - [scala/toolkit](https://github.com/scala/toolkit): The batteries-included Scala
 - [andyglow/scala-jsonschema](https://github.com/andyglow/scala-jsonschema): Scala JSON Schema
+- [propensive/contextual](https://github.com/propensive/contextual): Statically-checked string interpolation in Scala <https://propensive.com/contextual/>
 
 ### Misc
 

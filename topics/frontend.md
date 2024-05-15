@@ -249,6 +249,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion): react-magic-motion is a react.js library that ✨ magically animates your components. <https://react-magic-motion.com>
 - 🌟 [liabru/matter-js](https://github.com/liabru/matter-js): a 2D rigid body physics engine for the web ▲● ■
 - 🌟 [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas): An React.js component library for beautifully shaded canvas <https://uvcanvas.com>
+- [greensock/GSAP](https://github.com/greensock/GSAP): GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web <https://gsap.com>
 
 #### Media player
 
