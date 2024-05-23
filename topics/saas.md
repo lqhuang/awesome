@@ -11,3 +11,5 @@
 - [GetDeploying](https://getdeploying.com/): Find and compare cloud providers for your next project.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy): Open Source Alternative to Vercel, Netlify and Heroku. <https://dokploy.com/>
 - [hi.new](https://hey.new/): Prevent spam.
+- [苹果 M 系列处理器参数大全](http://kylebing.cn/tools/apple-chip/)
+- 🌟 [Copy Book](https://copybook.me/): Copy book is a collection of commonly used texts. So whenever you need a copy for a design or if you ever get stuck in the middle of development, you can use copy book.

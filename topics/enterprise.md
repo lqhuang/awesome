@@ -166,12 +166,15 @@
 - [SnellerInc/sneller](https://github.com/SnellerInc/sneller): World's fastest log analysis: λ + SQL + JSON + S3 <https://sneller.io>
 - 🌟 [parca-dev/parca](https://github.com/parca-dev/parca): Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. <https://parca.dev>
 - Grafana Stack
+  - [Observability part 1 - building blocks overview](https://softwaremill.com/observability-part-1-building-blocks-overview/)
   - [grafana/loki](https://github.com/grafana/loki): Like Prometheus, but for logs. <https://grafana.com/loki>
   - [grafana/tempo](https://github.com/grafana/tempo): Grafana Tempo is a high volume, minimal dependency distributed tracing backend. <https://grafana.com/oss/tempo/>
   - [grafana/phlare](https://github.com/grafana/phlare): 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
   - [grafana/pyroscope](https://github.com/grafana/pyroscope): Continuous Profiling Platform. Debug performance issues down to a single line of code <https://grafana.com/oss/pyroscope/>
   - [grafana/beyla](https://github.com/grafana/beyla): eBPF-based autoinstrumentation of HTTP and HTTPS services
   - [grafana/k6](https://github.com/grafana/k6): A modern load testing tool, using Go and JavaScript - https://k6.io
+  - [grafana/mimir](https://github.com/grafana/mimir): Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. <https://grafana.com/oss/mimir/>
+  - [softwaremill/meerkat](https://github.com/softwaremill/meerkat): Bootzooka, but for observability
 - [Polar Signals](https://www.polarsignals.com/): Polar Signals Cloud is an always-on, zero-instrumentation continuous profiling product that helps improve performance, understand incidents, and lower infrastructure costs.
 - [perses/perses](https://github.com/perses/perses): The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! <https://demo.perses.dev>
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent): The production-scale datacenter profiler

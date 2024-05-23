@@ -26,6 +26,7 @@
 - [Good Haskell Libraries (view of Jack Kelly)](http://jackkelly.name/wiki/haskell/libraries.html)
 - [The ultimate guide to Haskell Strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
   - [Haksell discourse: The ultimate guide to Haskell Strings](https://discourse.haskell.org/t/the-ultimate-guide-to-haskell-strings/9538)
+- [Prefer do notation over Applicative operators when assembling records](https://www.haskellforall.com/2024/05/prefer-do-notation-over-applicative.html)
 
 ### Courses
 
@@ -126,3 +127,5 @@
 - [AJChapman/formatting](https://github.com/AJChapman/formatting): Format strings type-safely with combinators
 - [devonhollowood/search-algorithms](https://github.com/devonhollowood/search-algorithms): Haskell library containing common graph search algorithms
 - [haskellari/these](https://github.com/haskellari/these): An either-or-both data type, with corresponding hybrid error/writer monad transformer.
+- [tfausak/witch](https://github.com/tfausak/witch): 🧙‍♀️ Convert values from one type into another. <https://hackage.haskell.org/package/witch>
+- [haskell-unordered-containers/unordered-containers](https://github.com/haskell-unordered-containers/unordered-containers): Efficient hashing-based container types

@@ -152,6 +152,8 @@
 
 ### Platform / Workflow pipeline / MLOps
 
+- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course): A project-based course on the foundations of MLOps to responsibly develop, deploy and maintain ML. <https://madewithml.com>
+- [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp): Free MLOps course from DataTalks.Club
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow): Machine Learning Toolkit for Kubernetes
 - [mlflow/mlflow](https://github.com/mlflow/mlflow): Open source platform for the machine learning lifecycle
 - [Netflix/metaflow](https://github.com/Netflix/metaflow): 🚀 Build and manage real-life data science projects with ease! <https://metaflow.org>
@@ -159,7 +161,6 @@
 - [bentoml/Yatai](https://github.com/bentoml/Yatai): Model Deployment at Scale on Kubernetes 🦄️ <https://bentoml.com>
 - [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core): An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
 - [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot): SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface. <https://skypilot.readthedocs.io>
-- [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course): A project-based course on the foundations of MLOps to responsibly develop, deploy and maintain ML. <https://madewithml.com>
 - [sematic-ai/sematic](https://github.com/sematic-ai/sematic): An open-source ML pipeline development platform
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain): Your open-source ML monitoring and refinement toolkit. <https://uptrain.ai/>
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML): Simple and Distributed Machine Learning <http://aka.ms/spark>
@@ -238,6 +239,7 @@
 - [ayaka14732/einshard](https://github.com/ayaka14732/einshard): High-level array sharding API for JAX <https://einshard.readthedocs.io/>
 - [mancusolab/traceax](https://github.com/mancusolab/traceax): Stochastic trace estimation using JAX <https://mancusolab.github.io/traceax/>
 - [MatX-inc/seqax](https://github.com/MatX-inc/seqax): seqax = sequence modeling + JAX
+- [yklcs/jaxsplat](https://github.com/yklcs/jaxsplat): 3D Gaussian Splatting in JAX <https://jaxsplat.readthedocs.io>
 
 ### DeepMind specialization
 
@@ -295,6 +297,7 @@ This is not an officially supported Google product.
 - [NeilGirdhar/tjax](https://github.com/NeilGirdhar/tjax): Tools for JAX
 - [google-research/dataclass_array](https://github.com/google-research/dataclass_array): Dataclasses manipulated as numpy arrays (with batching, reshape, slicing,...) <https://dataclass-array.readthedocs.io>
 - [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses): Pytrees + dataclasses ❤️
+- [Artur-Galstyan/statedict2pytree](https://github.com/Artur-Galstyan/statedict2pytree): No description, website, or topics provided.
 
 ## Data store or tensor structure
 
@@ -338,3 +341,4 @@ This is not an officially supported Google product.
 - [Vchitect/LaVie](https://github.com/Vchitect/LaVie): LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models
 - [HMUNACHI/nanodl](https://github.com/HMUNACHI/nanodl): A Jax-based library for designing and training transformer models from scratch.
 - [beresandras/clear-diffusion-keras](https://github.com/beresandras/clear-diffusion-keras): Implementation of denoising diffusion models with schedules, improved sampling, and other extensions using Keras.
+- [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch): llama3 implementation one matrix multiplication at a time

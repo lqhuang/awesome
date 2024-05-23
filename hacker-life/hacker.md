@@ -40,6 +40,7 @@
 - [errata-ai/vale](https://github.com/errata-ai/vale): 📝 A markup-aware linter for prose built with speed and extensibility in mind. <https://vale.sh>
 - [amperser/proselint](https://github.com/amperser/proselint): A linter for prose. <http://proselint.com>
 - [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
+- [quarylabs/sqruff](https://github.com/quarylabs/sqruff): A compact, high-speed SQL linter, engineered with Rust efficiency. <https://quary.dev/>
 
 ### Git
 

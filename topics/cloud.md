@@ -120,6 +120,10 @@
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps): A web-based UI for deploying and managing applications in Kubernetes clusters <https://kubeapps.dev>
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray): Deploy a Production Ready Kubernetes Cluster
 
+### CNI
+
+- [cilium/hubble](https://github.com/cilium/hubble): Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+
 ### Plugins
 
 - [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s): A simple, extensible Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl <https://kr8s.org>
@@ -180,6 +184,7 @@
 - [Octoml](https://octoml.ai/): OctoAI is world-class compute infrastructure for tuning and running models that wow your users.
 - [zeabur/zeabur](https://github.com/zeabur/zeabur): A platform that helps you deploy services with one click. <https://zeabur.com>
 - [Flightcontrol](https://www.flightcontrol.dev/): Developer-first AWS infrastructure. Designed for teams that want the benefits of AWS without hiring devops.
+- [beam-cloud/beta9](https://github.com/beam-cloud/beta9): The open-source serverless GPU container runtime. <https://docs.beta9.beam.cloud>
 
 ## Cloud Foundry
 

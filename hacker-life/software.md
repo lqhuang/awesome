@@ -92,7 +92,7 @@
 - [ObuchiYuki/DevToysMac](https://github.com/ObuchiYuki/DevToysMac): DevToys For mac
 - 🌟 [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman): Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ <https://proxyman.io>
 - [unixzii/StringExplorer](https://github.com/unixzii/StringExplorer): A handy tool to explore various string encoding.
-- [CapSoftware/Cap](https://github.com/CapSoftware/Cap): Effortless, instant screen sharing. Open-source and cross-platform. <https://cap.so>
+- 🌟 [CapSoftware/Cap](https://github.com/CapSoftware/Cap): Effortless, instant screen sharing. Open-source and cross-platform. <https://cap.so>
 
 ### Free / Paid
 
@@ -131,6 +131,7 @@
 - [Arq Backup](https://www.arqbackup.com/): Arq backs up your files. You control your data. Arq® is backup software for your Mac or Windows PC.
 - [PDF Gear](https://www.pdfgear.com/): Read, edit, convert, merge, and sign PDF files across devices, for completely free and without signing up.
 - [ProxMobo](https://www.proxmobo.app/): Proxmox VE Monitor & Management
+- [I18n Studio](https://www.i18n.studio/)
 
 ## Services
 
@@ -169,6 +170,8 @@
 - [harness/gitness](https://github.com/harness/gitness): Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. <https://gitness.com>
 - [knadh/listmonk](https://github.com/knadh/listmonk): High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. <https://listmonk.app>
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles. <https://linkwarden.app>
+- [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru): 🔮 Screen Guru takes clean screenshot of any websites <https://screen.guru>
+- [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar): No description, website, or topics provided.
 
 ### Developer
 

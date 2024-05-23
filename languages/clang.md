@@ -24,6 +24,7 @@
 - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
   - [cmuratori/computer_enhance](https://github.com/cmuratori/computer_enhance): Source code for the https://computerenhance.com programming series
 - [Software optimization resources - Agner](https://www.agner.org/optimize/)
+- [mcinglis/c-style](https://github.com/mcinglis/c-style): My favorite C programming practices.
 
 ### Books
 
@@ -185,3 +186,4 @@
 - [diffblue/cbmc](https://github.com/diffblue/cbmc): C Bounded Model Checker <https://diffblue.github.io/cbmc>
 - [vnmakarov/mir](https://github.com/vnmakarov/mir): A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
 - [The Fil-C Memory Safety Manifesto: FUGC Yeah!](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)
+- [Snektron/pareas](https://github.com/Snektron/pareas): GPU-accelerated compiler

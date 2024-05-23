@@ -60,6 +60,7 @@
 - [Exa-Networks/exabgp](https://github.com/Exa-Networks/exabgp): The BGP swiss army knife of networking
 - [stunnel/static-curl](https://github.com/stunnel/static-curl): static builds cURL with HTTP3
 - [plaintextpackets/netprobe_lite](https://github.com/plaintextpackets/netprobe_lite): Simple internet performance tester written in Python
+- [xykt/IPQuality](https://github.com/xykt/IPQuality): A script for IP quality detection
 
 ### Analysis
 

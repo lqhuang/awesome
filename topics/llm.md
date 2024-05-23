@@ -39,6 +39,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow <https://flowiseai.com>
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack): 🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots. <https://haystack.deepset.ai>
 - [tensorchord/ai-infra-landscape](https://github.com/tensorchord/ai-infra-landscape): This is a landscape of the infrastructure that powers the generative AI ecosystem <https://ai-infra.fun>
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B): Secure cloud runtime for AI apps & AI agents. Fully open-source. <https://e2b.dev/docs>
 
 ### Reasoning
 
@@ -137,6 +138,7 @@
 - [nlpxucan/WizardLM](https://github.com/nlpxucan/WizardLM): Family of instruction-following LLMs powered by Evol-Instruct: WizardLM, WizardCoder and WizardMath
 - [lyogavin/Anima](https://github.com/lyogavin/Anima): 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
 - [microsoft/rho](https://github.com/microsoft/rho): Repo for Rho-1: Token-level Data Selection & Selective Pretraining of LLMs. <https://arxiv.org/pdf/2404.07965.pdf>
+- [ibm-granite/granite-code-models](https://github.com/ibm-granite/granite-code-models): Granite Code Models: A Family of Open Foundation Models for Code Intelligence <https://huggingface.co/collections/ibm-granite/granite-code-models-6624c5cec322e4c148c8b330>
 
 ## Applications
 
@@ -159,6 +161,7 @@
 - [agiresearch/OpenAGI](https://github.com/agiresearch/OpenAGI): OpenAGI: When LLM Meets Domain Experts
 - [microsoft/NeuralSpeech](https://github.com/microsoft/NeuralSpeech): NeuralSpeech is a research project at Microsoft Research Asia, which focuses on neural network based speech processing, including automatic speech recognition (ASR), text-to-speech synthesis (TTS), spatial audio synthesis, video dubbing, etc.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents <https://e2b.dev/docs>
+- [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter): Python & JS/TS SDK for adding code interpreting to your AI app <https://e2b.dev>
 
 ### LLM Prompts
 

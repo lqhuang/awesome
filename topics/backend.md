@@ -20,9 +20,20 @@
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike): ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer <https://chiselstrike.com/>
 - [cylexVEVO/turso-dashboard](https://github.com/cylexVEVO/turso-dashboard): Simple dashboard for managing your Turso databases.
 
-## Full Stack
+## low-code / no-code
 
-- [wasp-lang/wasp](https://github.com/wasp-lang/wasp): The fastest way to develop full-stack web apps with React & Node.js. <https://wasp-lang.dev/>
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith): Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. <https://www.appsmith.com>
+- [appwrite/appwrite](https://github.com/appwrite/appwrite): Your backend, minus the hassle. <https://appwrite.io>
+- [gitlab - baserow/baserow](https://gitlab.com/baserow/baserow): Baserow is an open source no-code database and Airtable alternative. Create your own database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser.
+- [rowyio/rowy](https://github.com/rowyio/rowy): Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser. <http://rowy.io>
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 <https://tooljet.com>
+- [nocodb/nocodb](https://github.com/nocodb/nocodb): 🔥 🔥 🔥 Open Source Airtable Alternative <https://nocodb.com>
+- [nocobase/nocobase](https://github.com/nocobase/nocobase): NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions. <https://www.nocobase.com>
+- [teableio/teable](https://github.com/teableio/teable): ✨ The Next Gen Airtable Alternative: No-Code Postgres <https://teable.io>
+- [directus/directus](https://github.com/directus/directus): The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database. <https://directus.io>
+- [bram2w/baserow](https://github.com/bram2w/baserow): The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative. <https://baserow.io>
+- [Budibase/budibase](https://github.com/Budibase/budibase): Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 <https://budibase.com>
+- [Bubble](https://bubble.io/)
 
 ## CMS
 

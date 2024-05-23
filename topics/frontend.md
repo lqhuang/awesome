@@ -14,6 +14,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [feature-sliced/documentation](https://github.com/feature-sliced/documentation): 🍰 Architectural design methodology for Frontend projects <https://feature-sliced.design>
   - [Feature Sliced Design - Examples](https://feature-sliced.design/examples)
 - https://page-speed.dev/
+- [Web Platform Status](https://webstatus.dev/)
 
 ### Tutorials
 
@@ -86,6 +87,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [themesberg/flowbite](https://github.com/themesberg/flowbite): The most popular and open-source library of Tailwind CSS components <https://flowbite.com>
 - [ariakit/ariakit](https://github.com/ariakit/ariakit): Toolkit for building accessible web apps with React <https://ariakit.org>
 - [markmead/hyperui](https://github.com/markmead/hyperui): Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 <https://hyperui.dev>
+- [hevar/awesome-react-tailwindcss-ui-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components): No description, website, or topics provided.
 
 #### React
 
@@ -106,6 +108,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react): Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications. <https://react.keepdesign.io>
 - [cloudscape-design/components](https://github.com/cloudscape-design/components): React components for Cloudscape Design System <https://cloudscape.design/>
 - [tamagui/tamagui](https://github.com/tamagui/tamagui): Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler. <https://tamagui.dev>
+- 🌟 [magicuidesign/magicui](https://github.com/magicuidesign/magicui): UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. <https://magicui.design>
 
 #### Svelte
 
@@ -138,7 +141,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 ### Components
 
 - 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown): Markdown component for React <https://remarkjs.github.io/react-markdown>
+- [remarkjs/remark](https://github.com/remarkjs/remark): markdown processor powered by plugins part of the @unifiedjs collective <https://remark.js.org>
 - [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx): 🏭 The most lightweight, customizable React markdown component. <https://markdown-to-jsx.quantizor.dev/>
+
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements): 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use <https://tailwind-elements.com>
 - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template): Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. <https://simple.cruip.com>
 
@@ -182,6 +187,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions): Use CSS View Transitions API in Next.js App Router. <https://next-view-transitions.vercel.app>
 
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars): A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling. <https://kingsora.github.io/OverlayScrollbars>
+- [Temzasse/react-modal-sheet](https://github.com/Temzasse/react-modal-sheet): Flexible bottom sheet component built with Framer Motion to provide buttery smooth UX while keeping accessibility in mind 🪐 <https://temzasse.github.io/react-modal-sheet/>
+- [visgl/react-google-maps](https://github.com/visgl/react-google-maps): React components and hooks for the Google Maps JavaScript API <https://visgl.github.io/react-google-maps/>
+- [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber): A React renderer for rendering hand-drawn SVGs. <https://react-rough-fiber.amind.app>
 
 #### PDF
 

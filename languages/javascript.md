@@ -127,6 +127,7 @@
 - [tuffstuff9/nextjs-pdf-parser](https://github.com/tuffstuff9/nextjs-pdf-parser): Next.js template for seamless PDF parsing using pdf2json and FilePond. Ideal for developers seeking a ready-to-use solution for PDF content extraction in Next.js projects. <https://twitter.com/tuff_stuff9>
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js): PDF Reader in JavaScript <https://mozilla.github.io/pdf.js/>
 - [modesty/pdf2json](https://github.com/modesty/pdf2json): A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
+- [unjs/unpdf](https://github.com/unjs/unpdf): 📄 Utilities to work with PDFs in Node.js, browser and workers
 
 ### Utils
 
@@ -146,11 +147,13 @@
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
 - [Perf Link](https://perf.link/)
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule): A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
+- [farzher/fuzzysort](https://github.com/farzher/fuzzysort): Fast SublimeText-like fuzzy search for JavaScript. <https://rawgit.com/farzher/fuzzysort/master/test/test.html>
 
 ## Middleware
 
-- 🌟 [askorama/orama](https://github.com/askorama/orama): 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! <https://docs.oramasearch.com>
+- [askorama/orama](https://github.com/askorama/orama): 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! <https://docs.oramasearch.com>
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase): The reactive data store for local‑first apps. <https://tinybase.org>
+- [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit): A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). <https://triplit.dev>
 
 ## Misc
 
