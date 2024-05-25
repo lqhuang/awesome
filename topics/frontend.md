@@ -26,6 +26,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [How React server components work: an in-depth guide](https://www.plasmic.app/blog/how-react-server-components-work)
   - What I'm interested: RSC Wire Format
   - - [alvarlagerlof/rsc-parser](https://github.com/alvarlagerlof/rsc-parser): A parser for the React Server components when sent over the network <https://rsc-parser.vercel.app>
+- [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 
 ### CSS collections
 
@@ -61,6 +62,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog): This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs. <https://tailwind-nextjs-starter-blog.vercel.app/>
 - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge): A production-grade boilerplate for modern Next.js apps. <https://github.com/haydenbleasel/next-forge>
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+- [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack): This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea. <https://www.epicweb.dev/epic-stack>
 
 ## Toolchains
 
@@ -190,6 +192,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Temzasse/react-modal-sheet](https://github.com/Temzasse/react-modal-sheet): Flexible bottom sheet component built with Framer Motion to provide buttery smooth UX while keeping accessibility in mind 🪐 <https://temzasse.github.io/react-modal-sheet/>
 - [visgl/react-google-maps](https://github.com/visgl/react-google-maps): React components and hooks for the Google Maps JavaScript API <https://visgl.github.io/react-google-maps/>
 - [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber): A React renderer for rendering hand-drawn SVGs. <https://react-rough-fiber.amind.app>
+- [goveo/react-international-phone](https://github.com/goveo/react-international-phone): ☎️ International phone input component for React <https://react-international-phone.vercel.app/>
 
 #### PDF
 
@@ -214,6 +217,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form): 📋 React Hooks for form state management and validation (Web + React Native) <https://react-hook-form.com>
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 <https://formik.org>
 - [bhch/react-json-form](https://github.com/bhch/react-json-form): JSON editing made easy using form inputs. <https://bhch.github.io/react-json-form>
+- [edmundhung/conform](https://github.com/edmundhung/conform): A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js. <https://conform.guide>
 
 ### Table
 
@@ -326,6 +330,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [bkrem/react-d3-tree](https://github.com/bkrem/react-d3-tree): 🌳 React component to create interactive D3 tree graphs <https://bkrem.github.io/react-d3-tree>
 - [holtzy/react-graph-gallery](https://github.com/holtzy/react-graph-gallery): A set of graph examples showing how to make react and d3.js work together <https://www.react-graph-gallery.com>
 - 🌟 [magjac/d3-graphviz](https://github.com/magjac/d3-graphviz): Graphviz DOT rendering and animated transitions using D3
+- [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph): React component for 2D, 3D, VR and AR force directed graphs <https://vasturiano.github.io/react-force-graph/example/large-graph/>
 - [YYsuni/react18-json-view](https://github.com/YYsuni/react18-json-view): JSON viewer for react18 <https://jv.yysuni.com/>
 - [processing/p5.js](https://github.com/processing/p5.js): p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — <http://p5js.org/>
 - [retejs/rete](https://github.com/retejs/rete): JavaScript framework for visual programming <https://retejs.org>

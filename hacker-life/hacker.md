@@ -41,6 +41,7 @@
 - [amperser/proselint](https://github.com/amperser/proselint): A linter for prose. <http://proselint.com>
 - [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff): A compact, high-speed SQL linter, engineered with Rust efficiency. <https://quary.dev/>
+- 🌟 [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A modular SQL linter and auto-formatter with support for multiple dialects and templated code. <https://www.sqlfluff.com>
 
 ### Git
 
@@ -129,6 +130,7 @@
 - [YueChan/Live](https://github.com/YueChan/Live): 收集于互联网的一些高清直播源。
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender): 中国节假日、调休、补班日历，ICS 格式，可供 IPhone、Google Calendar、Outlook 等客户端订阅，包含节假日 API
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer): Chinese character stroke order animations and practice quizzes <https://hanziwriter.org>
+- [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world <https://iptv-org.github.io>
 
 ## Branding
 

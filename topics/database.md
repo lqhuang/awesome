@@ -201,6 +201,9 @@
 - [eradman/pg-safeupdate](https://github.com/eradman/pg-safeupdate): A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE
 - 🌟 [xataio/pgroll](https://github.com/xataio/pgroll): PostgreSQL zero-downtime migrations made easy <https://www.xata.io>
 - [ardentperf/dsef](https://github.com/ardentperf/dsef): DiffStats and ExplainFull: detailed SQL reports for third party help & support
+- [zachasme/h3-pg](https://github.com/zachasme/h3-pg): PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system
+  - [uber/h3](https://github.com/uber/h3): Hexagonal hierarchical geospatial indexing system <https://h3geo.org>
+  - [uber/h3-py](https://github.com/uber/h3-py): Python bindings for H3, a hierarchical hexagonal geospatial indexing system <https://uber.github.io/h3-py>
 
 ### SQLite
 

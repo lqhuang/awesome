@@ -172,6 +172,8 @@
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles. <https://linkwarden.app>
 - [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru): 🔮 Screen Guru takes clean screenshot of any websites <https://screen.guru>
 - [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar): No description, website, or topics provided.
+- [~bitfehler/m2dir](https://sr.ht/~bitfehler/m2dir/): M2dir aims to provide a standardized way to store a collection of email messages as files. It is similar to Maildir/Maildir++, but aims to be simpler and more thoroughly specified.
+  - [M2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 
 ### Developer
 

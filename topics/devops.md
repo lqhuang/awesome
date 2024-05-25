@@ -34,6 +34,7 @@
   - [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust): Rust rules for Bazel <https://bazelbuild.github.io/rules_rust/>
   - [bazelbuild/rules_proto](https://github.com/bazelbuild/rules_proto): Protocol buffer rules for Bazel
   - [spietras/rules_conda](https://github.com/spietras/rules_conda): Rules for creating conda environments in Bazel 💚 <https://spietras.github.io/rules_conda>
+  - [nicholasjng/nanobind-bazel](https://github.com/nicholasjng/nanobind-bazel): Bazel defs and rules for building Python projects with nanobind extensions.
   - [tweag/rules_nixpkgs](https://github.com/tweag/rules_nixpkgs): Rules for importing Nixpkgs packages into Bazel. <https://nix-bazel.build/>
     - [Bazel and Nix: A Migration Experience](https://www.tweag.io/blog/2022-12-15-bazel-nix-migration-experience/)
 - [facebook/buck2](https://github.com/facebook/buck2): Build system, successor to Buck <https://buck2.build/>

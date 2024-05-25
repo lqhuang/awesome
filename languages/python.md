@@ -10,6 +10,11 @@
 - [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject): An Awesome List of projects using the pyproject.toml Python configuration file.
 - [python/devguide](https://github.com/python/devguide): The Python developer's guide <https://devguide.python.org/>
 - 🌟 [PyPI Browser](https://pypi-browser.org/): `Metadata`, `Requires` that all missed things of pypi.org
+- [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet): Python Cheat Sheet <https://www.pythonsheets.com>
+- [Level Up Your Python](https://henryiii.github.io/level-up-your-python/notebooks/0%20Intro.html)
+- [henryiii/compclass](https://github.com/henryiii/compclass): A class over Computational Physics in Jupyter <https://henryiii.github.io/compclass>
+- [henryiii/python-performance-minicourse](https://github.com/henryiii/python-performance-minicourse): Mini-course at Princeton on High Performance Python <https://mybinder.org/v2/gh/henryiii/python-performance-minicourse/master?urlpath=lab>
+- [henryiii/pygpu-minicourse](https://github.com/henryiii/pygpu-minicourse): Princeton mini course on GPUs in Python
 
 ### Readings
 
@@ -22,6 +27,8 @@
 - [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研究员 Anthony Shaw 的《CPython Internals》中文翻译
 - [python/typing-council](https://github.com/python/typing-council): Decisions by the Python Typing Council
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips): FastAPI Tips by The FastAPI Expert!
+- [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
+  - [scientific-python/cookie](https://github.com/scientific-python/cookie): Scientific Python Library Development Guide and Cookiecutter <https://learn.scientific-python.org/development>
 
 ### Books
 
@@ -37,6 +44,8 @@
 - [jsbueno/extrainterpreters](https://github.com/jsbueno/extrainterpreters): Utilities for using Python's PEP 554 subinterpreters
 - [itamarst/simd-profiles](https://github.com/itamarst/simd-profiles): Proof of concept: using modern SIMD in compiled Python extension
 - [brettcannon/record-type](https://github.com/brettcannon/record-type): Proof-of-concept `record` type for Python
+- [Quansight-Labs/free-threaded-compatibility](https://github.com/Quansight-Labs/free-threaded-compatibility): A central repository to keep track of the status of work on and support for free-threaded CPython (see PEP 703), with a focus on the scientific and ML/AI ecosystem
+- [edgedb/memhive](https://github.com/edgedb/memhive): No description, website, or topics provided.
 
 ## Toolchains
 
@@ -48,7 +57,6 @@
 - [fpgmaas/deptry](https://github.com/fpgmaas/deptry): A command line utility to check for obsolete, missing and transitive dependencies in a Python project.
 - [dosisod/refurb](https://github.com/dosisod/refurb): A tool for refurbishing and modernizing Python codebases
 - [MarcoGorelli/cython-lint](https://github.com/MarcoGorelli/cython-lint): Lint Cython files
-- 🌟 [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A modular SQL linter and auto-formatter with support for multiple dialects and templated code. <https://www.sqlfluff.com>
 - [SourceCode-AI/aura](https://github.com/SourceCode-AI/aura): Python source code auditing and static analysis on a large scale
 - [vitsalis/PyCG](https://github.com/vitsalis/PyCG): Static Python call graph generator
 - [seddonym/import-linter](https://github.com/seddonym/import-linter): Import Linter allows you to define and enforce rules for the internal and external imports within your Python project. <https://import-linter.readthedocs.io/>

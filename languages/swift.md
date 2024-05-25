@@ -44,6 +44,7 @@
 - [yonaskolb/Mint](https://github.com/yonaskolb/Mint): A package manager that installs and runs executable Swift packages
 - [MakeAWishFoundation/SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky): Framework for automatic mock generation. Adds a set of handy methods, simplifying testing. One of the best and most complete solutions, including generics support and much more.
 - [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat): A command-line tool and Xcode Extension for formatting Swift code
+- [beeware/Python-Apple-support](https://github.com/beeware/Python-Apple-support): A meta-package for building a version of Python that can be embedded into a macOS, iOS, tvOS or watchOS project.
 
 ## SwiftUI
 

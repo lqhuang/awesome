@@ -9,6 +9,9 @@
 - [Clang command line argument reference](https://clang.llvm.org/docs/ClangCommandLineReference.html)
 - [Learn Modern C++](https://learnmoderncpp.com/): Discover a language matched to today's computing needs
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs): List of single-file C/C++ libraries.
+- 🌟 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+  - > People love to hate build systems.
+  - my comments: Yes, definitely
 
 ### Readings
 

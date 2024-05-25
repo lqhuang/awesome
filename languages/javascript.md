@@ -61,7 +61,7 @@
 - [Chromatic](https://www.chromatic.com/): Ship UIs faster by automating grunt work. Chromatic automates visual & interaction tests for Storybook. Connect CI/CD and Figma workflows to streamline stakeholder sign-off. Generate versioned component docs.
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check): Property based testing framework for JavaScript (like QuickCheck) written in TypeScript <https://fast-check.dev/>
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch): Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack <https://nightwatchjs.org>
-
+- 🌟 [mswjs/msw](https://github.com/mswjs/msw): Seamless REST/GraphQL API mocking library for browser and Node.js. <https://mswjs.io>
 - [faker-js/faker](https://github.com/faker-js/faker): Generate massive amounts of fake data in the browser and node.js <https://fakerjs.dev>
 - [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
 
@@ -148,6 +148,7 @@
 - [Perf Link](https://perf.link/)
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule): A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
 - [farzher/fuzzysort](https://github.com/farzher/fuzzysort): Fast SublimeText-like fuzzy search for JavaScript. <https://rawgit.com/farzher/fuzzysort/master/test/test.html>
+- [epicweb-dev/cachified](https://github.com/epicweb-dev/cachified): 🤑 wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
 
 ## Middleware
 

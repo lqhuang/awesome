@@ -79,6 +79,8 @@
 
 ## Monitor
 
+- [Atoptool/atop](https://github.com/Atoptool/atop): System and process monitor for Linux
+  - [pizhenwei/atophttpd](https://github.com/pizhenwei/atophttpd): A web style atop(https://www.atoptool.nl/)
 - [nicolargo/glances](https://github.com/nicolargo/glances): Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems. <http://nicolargo.github.io/glances/>
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom): Yet another cross-platform graphical process/system monitor. <https://clementtsang.github.io/bottom>
 - [aristocratos/btop](https://github.com/aristocratos/btop): A monitor of resources
