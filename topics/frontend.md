@@ -110,7 +110,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react): Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications. <https://react.keepdesign.io>
 - [cloudscape-design/components](https://github.com/cloudscape-design/components): React components for Cloudscape Design System <https://cloudscape.design/>
 - [tamagui/tamagui](https://github.com/tamagui/tamagui): Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler. <https://tamagui.dev>
-- 🌟 [magicuidesign/magicui](https://github.com/magicuidesign/magicui): UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. <https://magicui.design>
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui): UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. <https://magicui.design>
+- [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui): <https://cult-ui.com/>
 
 #### Svelte
 

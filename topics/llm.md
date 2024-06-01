@@ -162,6 +162,7 @@
 - [microsoft/NeuralSpeech](https://github.com/microsoft/NeuralSpeech): NeuralSpeech is a research project at Microsoft Research Asia, which focuses on neural network based speech processing, including automatic speech recognition (ASR), text-to-speech synthesis (TTS), spatial audio synthesis, video dubbing, etc.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents <https://e2b.dev/docs>
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter): Python & JS/TS SDK for adding code interpreting to your AI app <https://e2b.dev>
+- [Bklieger/groqbook](https://github.com/Bklieger/groqbook): Groqbook: Generate entire books in seconds using Groq and Llama3 <https://groqbook.streamlit.app>
 
 ### LLM Prompts
 

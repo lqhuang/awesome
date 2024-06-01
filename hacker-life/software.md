@@ -199,6 +199,7 @@
 - [Skiff Mail](https://skiff.com/mail): Skiff Mail protects your inbox by keeping your messages end-to-end encrypted. That means that no one but you has access to your data.
 - 🌟 [albertito/chasquid](https://github.com/albertito/chasquid): SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror] <https://blitiri.com.ar/p/chasquid/>
 - [postalserver/postal](https://github.com/postalserver/postal): 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail <https://postalserver.io>
+- [tutao/tutanota](https://github.com/tutao/tutanota): Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. <https://tuta.com>
 
 ### Vault / Passwords
 

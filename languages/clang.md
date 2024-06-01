@@ -93,15 +93,22 @@
 
 - [cksystemsteaching/selfie](https://github.com/cksystemsteaching/selfie): An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor. <http://selfie.cs.uni-salzburg.at>
 
+## Extra standard libs
+
+- [JacksonAllan/CC](https://github.com/JacksonAllan/CC): A small, usability-oriented generic container library.
+- [stclib/STC](https://github.com/stclib/STC): A modern, user friendly, generic, type-safe and fast C99 container library: String, Vector, Sorted and Unordered Map and Set, Deque, Forward List, Smart Pointers, Bitset and Random numbers.
+- [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers. <https://greg7mdp.github.io/parallel-hashmap>
+- [ned14/quickcpplib](https://github.com/ned14/quickcpplib): Eliminate all the tedious hassle when making state-of-the-art C++ 14 - 23 libraries!
+- [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp): Abseil Common Libraries (C++) <https://abseil.io>
+- [facebook/folly](https://github.com/facebook/folly): An open-source C++ library developed and used at Facebook. <https://groups.google.com/forum/?fromgroups#!forum/facebook-folly>
+
 ## System programming
 
 - [google/brotli](https://github.com/google/brotli): Brotli compression format
 - [madler/pigz](https://github.com/madler/pigz): A parallel implementation of gzip for modern multi-processor, multi-core machines. <http://zlib.net/pigz>
 - [scandum/blitsort](https://github.com/scandum/blitsort): Blitsort is an in-place stable adaptive rotate mergesort / quicksort.
 - [Blosc/c-blosc2](https://github.com/Blosc/c-blosc2): A fast, compressed, persistent binary data store library for C. <https://www.blosc.org>
-- [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers. <https://greg7mdp.github.io/parallel-hashmap>
 - [facebook/CacheLib](https://github.com/facebook/CacheLib): Pluggable in-process caching engine to build and scale high performance services <https://www.cachelib.org>
-- [ned14/quickcpplib](https://github.com/ned14/quickcpplib): Eliminate all the tedious hassle when making state-of-the-art C++ 14 - 23 libraries!
 - [tcbrindle/flux](https://github.com/tcbrindle/flux): A C++20 library for sequence-orientated programming <https://tristanbrindle.com/flux/>
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
 - [foonathan/type_safe](https://github.com/foonathan/type_safe): Zero overhead utilities for preventing bugs at compile time <https://type_safe.foonathan.net>
@@ -142,8 +149,9 @@
 ## Framework
 
 - [scylladb/seastar](https://github.com/scylladb/seastar): High performance server-side application framework <http://seastar.io>
+- [facebook/wangle](https://github.com/facebook/wangle): Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 - [userver-framework/userver](https://github.com/userver-framework/userver): The C++ Asynchronous Framework (beta) <https://userver.tech>
-- 🌟 [skypjack/uvw](https://github.com/skypjack/uvw): Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library!
+- [skypjack/uvw](https://github.com/skypjack/uvw): Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library!
 - [mratsim/weave](https://github.com/mratsim/weave): A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead The Curse of Strong Typing
 
 ## Memory allocator

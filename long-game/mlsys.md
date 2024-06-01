@@ -342,3 +342,4 @@ This is not an officially supported Google product.
 - [HMUNACHI/nanodl](https://github.com/HMUNACHI/nanodl): A Jax-based library for designing and training transformer models from scratch.
 - [beresandras/clear-diffusion-keras](https://github.com/beresandras/clear-diffusion-keras): Implementation of denoising diffusion models with schedules, improved sampling, and other extensions using Keras.
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch): llama3 implementation one matrix multiplication at a time
+- [milton-l/microhaskell](https://github.com/milton-l/microhaskell): Small autodiff lib and a simple working feedforward neural net in Haskell on top of it, from scratch, zero-deps.

@@ -22,6 +22,7 @@
 - 🌟🌟🌟 [carlospolop/hacktricks](https://github.com/carlospolop/hacktricks): Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. <http://book.hacktricks.xyz/>
 - [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation): Curated Awesome list about Network Automation
 - [espoal/awesome-iouring](https://github.com/espoal/awesome-iouring): Delightful io_uring packages and resources
+- [curl/everything-curl](https://github.com/curl/everything-curl): The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. <https://everything.curl.dev/>
 
 ## Libraries
 
@@ -74,6 +75,7 @@
 - [ivre/ivre](https://github.com/ivre/ivre): Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more! <>
 - [ntop/ntopng](https://github.com/ntop/ntopng): Web-based Traffic and Security Network Traffic Monitoring <http://www.ntop.org>
 - 🌟 [akvorado/akvorado](https://github.com/akvorado/akvorado): Flow collector, enricher and visualizer <https://demo.akvorado.net>
+- [oetiker/SmokePing](https://github.com/oetiker/SmokePing): The Active Monitoring System <http://www.smokeping.org>
 
 ### RouterOS Automation?
 
@@ -176,3 +178,4 @@
 - [Test if a site is blocked in China](https://www.comparitech.com/privacy-security-tools/blockedinchina/)
 - [Cover Your Tracks](https://coveryourtracks.eff.org/): See how trackers view your browser. Test your browser to see how well you are protected from tracking and fingerprinting.
 - [Live Proxy and VPN Detection](https://proxy.incolumitas.com/proxy_detect.html)
+- [Private proxy IPv4](https://proxy-ipv4.com): Proxy for Traffic arbitrage, SMM, SEO and PPC activities
