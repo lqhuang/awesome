@@ -133,6 +133,10 @@
 - [ProxMobo](https://www.proxmobo.app/): Proxmox VE Monitor & Management
 - [I18n Studio](https://www.i18n.studio/)
 
+## Windows
+
+- [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB): GUI Tool To Removes Ads From Various Places Around Windows 11
+
 ## Services
 
 - [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. :octocat: 💬 💎 <https://giscus.app>

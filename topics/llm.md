@@ -89,7 +89,7 @@
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step <https://www.manning.com/books/build-a-large-language-model-from-scratch>
 - [Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
 
-### Llama 2
+### Llama
 
 - [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
   - [Responsible Use Guide: your resource for building responsibly](https://ai.meta.com/llama/responsible-use-guide/)
@@ -102,6 +102,10 @@
 - [jrudolph/llama2.scala](https://github.com/jrudolph/llama2.scala): Inference Llama 2 in one file of hideous Scala (A port of llama2.c from Andrej Karpathy)
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama): OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset [facebookresearch/PurpleLlama](https://github.com/facebookresearch/PurpleLlama): Set of tools to assess and improve LLM security.
 - [b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama): Run LLMs on weak devices or make powerful devices even more powerful by distributing the workload and dividing the RAM usage.
+
+### Anthropics
+
+- [anthropics/courses](https://github.com/anthropics/courses): Anthropic's educational courses
 
 ### Mistral AI
 

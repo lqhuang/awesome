@@ -201,6 +201,7 @@
 - 🌟 [steven-tey/dub](https://github.com/steven-tey/dub): An open-source link shortener with built-in analytics + free custom domains. <https://dub.co>
 - [shlinkio/shlink](https://github.com/shlinkio/shlink): The definitive self-hosted URL shortener <https://shlink.io>
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale): Scalable web analytics you run yourself on Cloudflare <https://counterscale.dev>
+- [paradedb/paradedb](https://github.com/paradedb/paradedb): Postgres for Search and Analytics <https://paradedb.com>
 
 ## Security
 

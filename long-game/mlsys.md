@@ -240,6 +240,7 @@
 - [mancusolab/traceax](https://github.com/mancusolab/traceax): Stochastic trace estimation using JAX <https://mancusolab.github.io/traceax/>
 - [MatX-inc/seqax](https://github.com/MatX-inc/seqax): seqax = sequence modeling + JAX
 - [yklcs/jaxsplat](https://github.com/yklcs/jaxsplat): 3D Gaussian Splatting in JAX <https://jaxsplat.readthedocs.io>
+- [keraJLi/rejax](https://github.com/keraJLi/rejax): No description, website, or topics provided.
 
 ### DeepMind specialization
 

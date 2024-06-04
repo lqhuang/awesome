@@ -65,6 +65,7 @@
 - [ariebovenberg/slotscheck](https://github.com/ariebovenberg/slotscheck): 🎰 Ensure your `__slots__` are working properly <https://slotscheck.rtfd.io>
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs): Run `black` on python code blocks in documentation files
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer): A fast static code analyzer & language server for Python <http://mtshiba.github.io/pylyzer/>
+- [gauge-sh/tach](https://github.com/gauge-sh/tach): A Python tool to enforce a modular, decoupled package architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust <https://gauge-sh.github.io/tach/>
 
 ### Build tools
 
