@@ -549,3 +549,4 @@
 - 🌟 [posit-dev/great-tables](https://github.com/posit-dev/great-tables): Easily generate information-rich, publication-quality tables from Python <https://posit-dev.github.io/great-tables/>
   - [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
 - [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny): Shiny for Python <https://shiny.posit.co/py/>
+- [google/mesop](https://github.com/google/mesop): Build delightful web apps quickly in Python 🚀

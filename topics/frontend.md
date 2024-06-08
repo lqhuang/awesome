@@ -145,7 +145,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown): Markdown component for React <https://remarkjs.github.io/react-markdown>
 - [remarkjs/remark](https://github.com/remarkjs/remark): markdown processor powered by plugins part of the @unifiedjs collective <https://remark.js.org>
+- [micromark/micromark](https://github.com/micromark/micromark): small, safe, and great commonmark (optionally gfm) compliant markdown parser <https://unifiedjs.com>
 - [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx): 🏭 The most lightweight, customizable React markdown component. <https://markdown-to-jsx.quantizor.dev/>
+- [Milkdown/milkdown](https://github.com/Milkdown/milkdown): 🍼 Plugin driven WYSIWYG markdown editor framework. <https://milkdown.dev>
 
 - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements): 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use <https://tailwind-elements.com>
 - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template): Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. <https://simple.cruip.com>
@@ -358,6 +360,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Iconbuddy](iconbuddy.app): The ultimate source for icons.
   - [Figma Plugin](https://dub.sh/iconbuddy-figma)
 - 🌟 [pheralb/svgl](https://github.com/pheralb/svgl): 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS. <https://svgl.app>
+- [feathericons/feather](https://github.com/feathericons/feather): Simply beautiful open-source icons <https://feathericons.com>
 
 ## Further topics
 

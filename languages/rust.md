@@ -37,6 +37,7 @@
 - 🌟 [ibraheemdev/too-many-web-servers](https://github.com/ibraheemdev/too-many-web-servers): https://ibraheem.ca/posts/too-many-web-servers/
 - [nikomatsakis/rust-design-axioms](https://github.com/nikomatsakis/rust-design-axioms): Discovering and describing Rust's design axioms <https://nikomatsakis.github.io/rust-design-axioms/>
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope): Interactive visualizations of Rust at compile-time and run-time <https://cognitive-engineering-lab.github.io/aquascope/>
+- [Rust 语言术语中英文对照表](https://rustwiki.org/wiki/translate/english-chinese-glossary-of-rust/)
 
 ## Build
 

@@ -93,6 +93,7 @@
 - 🌟 [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman): Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️ <https://proxyman.io>
 - [unixzii/StringExplorer](https://github.com/unixzii/StringExplorer): A handy tool to explore various string encoding.
 - 🌟 [CapSoftware/Cap](https://github.com/CapSoftware/Cap): Effortless, instant screen sharing. Open-source and cross-platform. <https://cap.so>
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice): Powerful menu bar manager for macOS <https://icemenubar.app>
 
 ### Free / Paid
 
