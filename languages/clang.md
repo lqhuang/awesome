@@ -141,6 +141,7 @@
 - [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp): Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all
 - [facebookexperimental/libunifex](https://github.com/facebookexperimental/libunifex): Unified Executors
 - [tidwall/neco](https://github.com/tidwall/neco): Concurrency library for C (coroutines)
+- [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue): A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 
 ## Network
 

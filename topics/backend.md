@@ -34,6 +34,7 @@
 - [bram2w/baserow](https://github.com/bram2w/baserow): The official repository is hosted on https://gitlab.com/bramw/baserow. Baserow is an open source no-code database tool and Airtable alternative. <https://baserow.io>
 - [Budibase/budibase](https://github.com/Budibase/budibase): Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 <https://budibase.com>
 - [Bubble](https://bubble.io/)
+- [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source & self-hostable Heroku / Netlify / Vercel alternative. <https://coolify.io>
 
 ## CMS
 

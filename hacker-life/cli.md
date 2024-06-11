@@ -76,6 +76,7 @@
 - [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py): 👨‍💻 Python cleanup script for macOS
 - 🌟 [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne): Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term): 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance <https://adguardian.as93.net>
+- [usgraphics/TR-100](https://github.com/usgraphics/TR-100): TR-100 Machine Report
 
 ## Monitor
 

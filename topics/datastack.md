@@ -25,7 +25,7 @@
 - 🌟 [dlt-hub/dlt](https://github.com/dlt-hub/dlt): data load tool (dlt) is an open source Python library that makes data loading easy 🛠️ <https://dlthub.com/docs>
 - [carbonfact/lea](https://github.com/carbonfact/lea): 🏃‍♀️ Minimalist alternative to dbt
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence): Evidence enables analysts to deliver a polished business intelligence system using SQL and markdown <https://evidence.dev>
-- [airbytehq/airbyte](https://github.com/airbytehq/airbyte): Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes. <https://airbyte.com/>
+- 🌟 [airbytehq/airbyte](https://github.com/airbytehq/airbyte): Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes. <https://airbyte.com/>
 - [meltano/meltano](https://github.com/meltano/meltano): Extract & Load with joy — CLI & version control for ELT without limitations. No more black box. Let your creativity flow. <https://meltano.com>
 - 🌟 [roapi/roapi](https://github.com/roapi/roapi): Create full-fledged APIs for slowly moving datasets without writing a single line of code. <https://roapi.github.io/docs>
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb): Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀 <https://peerdb.io>
