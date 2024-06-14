@@ -265,6 +265,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [liabru/matter-js](https://github.com/liabru/matter-js): a 2D rigid body physics engine for the web ▲● ■
 - 🌟 [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas): An React.js component library for beautifully shaded canvas <https://uvcanvas.com>
 - [greensock/GSAP](https://github.com/greensock/GSAP): GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web <https://gsap.com>
+- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy): The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. <https://Uiverse.io>
 
 #### Media player
 

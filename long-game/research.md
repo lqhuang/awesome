@@ -116,3 +116,4 @@
 - [mrkline/modern-latex](https://github.com/mrkline/modern-latex): A short guide to LaTeX that avoids legacy cruft. <https://assets.bitbashing.io/modern-latex.pdf>
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst): Awesome Typst Links
 - [0xpapercut/wypst](https://github.com/0xpapercut/wypst): Typst math typesetting for the web. <https://0xpapercut.github.io/wypst/>
+- [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML): LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. <http://dlmf.nist.gov/LaTeXML/>

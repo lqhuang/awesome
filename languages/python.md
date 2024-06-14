@@ -218,6 +218,7 @@
 - [cgarciae/pypeln](https://github.com/cgarciae/pypeln): Concurrent data pipelines in Python >>> <https://cgarciae.github.io/pypeln>
 - 🌟 [MagicStack/immutables](https://github.com/MagicStack/immutables): A high-performance immutable mapping type for Python.
 - [dgilland/pydash](https://github.com/dgilland/pydash): The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library. <http://pydash.readthedocs.io>
+- [ideos/gloe](https://github.com/ideos/gloe): Gloe (pronounced /ɡloʊ/, like “glow”) is a general-purpose library made to help developers create, maintain, document, and test both operational and flow-oriented code. <https://gloe.ideos.com.br>
 
 ## Domain libraries
 
@@ -487,8 +488,10 @@
 ## Misc
 
 - [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf): A Python library for reading and writing PDF, powered by qpdf
+- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint): The awesome document factory <https://weasyprint.org>
 - [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax): A Python library to inspect and modify the internal structure of a PDF file <https://pdfsyntax.dev>
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched <http://ocrmypdf.readthedocs.io/>
+
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py): Type-safe and powerful Python library to generate SVG files
 - [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org. <https://opendev.org/openstack/stevedore>
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui): Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more! <https://ptg.bczsalba.com>

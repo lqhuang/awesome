@@ -178,6 +178,7 @@
 
 - [scala-native/scala-native-cli](https://github.com/scala-native/scala-native-cli): Command Line Interface for Scala Native
   - [VirtusLab/scala-cli-setup](https://github.com/VirtusLab/scala-cli-setup): ▶️ Scala CLI setup GitHub Action
+  - [indoorvivants/scala-native-binary-template](https://github.com/indoorvivants/scala-native-binary-template): Template to bootstrap Scala Native CLI projects, uploading platform binaries to Github Releases artifacts
 - [bkirwi/decline](https://github.com/bkirwi/decline): A composable command-line parser for Scala. <https://ben.kirw.in/decline/>
 - [alexarchambault/case-app](https://github.com/alexarchambault/case-app): Type-level & seamless command-line argument parsing for Scala
 - [avdv/scalals](https://github.com/avdv/scalals): A colorful ls command, with awesome icons.

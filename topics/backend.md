@@ -23,7 +23,7 @@
 ## low-code / no-code
 
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith): Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API. <https://www.appsmith.com>
-- [appwrite/appwrite](https://github.com/appwrite/appwrite): Your backend, minus the hassle. <https://appwrite.io>
+- 🌟 [appwrite/appwrite](https://github.com/appwrite/appwrite): Your backend, minus the hassle. <https://appwrite.io>
 - [gitlab - baserow/baserow](https://gitlab.com/baserow/baserow): Baserow is an open source no-code database and Airtable alternative. Create your own database without technical experience. Our user friendly no-code tool gives you the powers of a developer without leaving your browser.
 - [rowyio/rowy](https://github.com/rowyio/rowy): Low-code backend platform. Manage database on spreadsheet-like UI and build cloud functions workflows in JS/TS, all in your browser. <http://rowy.io>
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet): Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀 <https://tooljet.com>
