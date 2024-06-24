@@ -61,6 +61,7 @@
 - [containers/skopeo](https://github.com/containers/skopeo): Work with remote images registries - retrieving information, images, signing content
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 - [bcicen/ctop](https://github.com/bcicen/ctop): Top-like interface for container metrics <https://ctop.sh/>
+- [homeport/dyff](https://github.com/homeport/dyff): /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 
 ## Routing
 
@@ -177,6 +178,7 @@
   - [bridgecrewio/checkov-action](https://github.com/bridgecrewio/checkov-action): This GitHub Action runs Checkov against infrastructure-as-code, open source packages, container images, and CI/CD configurations to identify misconfigurations, vulnerabilities, and license compliance issues.
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare): Cloudflare Terraform Provider <https://registry.terraform.io/providers/cloudflare/cloudflare>
 - [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer): Visualizes your Terraform <https://inkdrop.ai/>
+- 🌟 [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer): CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 
 ## Infrastructure less
 

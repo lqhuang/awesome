@@ -20,6 +20,8 @@
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base): 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 <https://xiaolincoding.com>
 - 🌟 [graykode/distribution-is-all-you-need](https://github.com/graykode/distribution-is-all-you-need): The basic distribution probability Tutorial for Deep Learning Researchers
 - [Patrick Kidger: Just know stuff](https://kidger.site/thoughts/just-know-stuff/): Or, how to achieve success in a machine learning PhD.
+- [jessevig/bertviz](https://github.com/jessevig/bertviz): BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.) <https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1>
+- [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research): This repository contains implementations and illustrative code to accompany DeepMind publications
 
 ## Books
 
@@ -76,6 +78,7 @@
 - [optimaltransport/optimaltransport.github.io](https://github.com/optimaltransport/optimaltransport.github.io): Web site of the Computational Optimal Transport book
   - [Web: Computational Optimal Transport](https://optimaltransport.github.io)
   - [arXiv: Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
+- [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane): PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Train a quantum computer the same way as a neural network. <https://pennylane.ai>
 
 ## Misc
 
@@ -117,3 +120,7 @@
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst): Awesome Typst Links
 - [0xpapercut/wypst](https://github.com/0xpapercut/wypst): Typst math typesetting for the web. <https://0xpapercut.github.io/wypst/>
 - [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML): LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. <http://dlmf.nist.gov/LaTeXML/>
+- [FudanSELab/academic-writing-guide](https://github.com/FudanSELab/academic-writing-guide): 一些关于写论文的教程,防止犯一些低级错误
+- 🌟 [dspinellis/latex-advice](https://github.com/dspinellis/latex-advice): Advice for writing LaTeX documents
+- [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux): A package for creating slides in Typst <https://polylux.dev/book>
+- [touying-typ/touying](https://github.com/touying-typ/touying): Touying is a powerful package for creating presentation slides in Typst. <https://touying-typ.github.io/touying/>

@@ -31,6 +31,7 @@
 - [hello-nav/hello-nav](https://github.com/hello-nav/hello-nav): 🗺 A navigation for developer <https://hello-nav.github.io>
 - [amir20/dozzle](https://github.com/amir20/dozzle): Realtime log viewer for docker containers. <https://dozzle.dev/>
 - [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors): LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, PyPI, PyTorch, and NPM.
+- [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber): 💎 Amber the programming language compiled to bash <https://amber-lang.com>
 
 ### Misc linters / formatters
 
@@ -168,3 +169,5 @@
 
 - [premAI-io/state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai): Clarity in the current fast-paced mess of Open Source innovation <https://book.premai.io/state-of-open-source-ai>
 - [pi0/tired-maintainer](https://github.com/pi0/tired-maintainer): 🗒️ Notes from a tired maintainer
+- 🌟 [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand): A handy guide to financial support for open source
+  - [wizicer/FinancialSupportForOpenSource](https://github.com/wizicer/FinancialSupportForOpenSource): 开源项目挣钱实用手册

@@ -260,6 +260,7 @@
 - [typelevel/cats-parse](https://github.com/typelevel/cats-parse): A parsing library for the cats ecosystem
 - [laserdisc-io/laserdisc](https://github.com/laserdisc-io/laserdisc): A Future-free Fs2 native pure FP Redis client <http://laserdisc.io>
 - [fthomas/fs2-cron](https://github.com/fthomas/fs2-cron): FS2 streams based on cron expressions
+- [ollls/quartz-h2](https://github.com/ollls/quartz-h2): Asynchronous Java NIO http/2 only packet streaming server with TLS encryption implemented as Scala CATS effect. Direct native translation of fs2 stream chunks into http2 packets ( inbound and outbound ).
 
 ### ZIO
 

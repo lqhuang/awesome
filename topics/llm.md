@@ -1,5 +1,9 @@
 # About LLM
 
+## Resources
+
+- [genai-handbook/genai-handbook.github.io](https://github.com/genai-handbook/genai-handbook.github.io): A roadmap for "generative AI" learning resources
+
 ## Frameworks
 
 ### Agents
@@ -71,7 +75,7 @@
 
 ### Enforce
 
-- 📝 [1rgs/jsonformer](https://github.com/1rgs/jsonformer): A Bulletproof Way to Generate Structured JSON from Language Models
+- [1rgs/jsonformer](https://github.com/1rgs/jsonformer): A Bulletproof Way to Generate Structured JSON from Language Models
 - [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json): Structured and typehinted GPT responses in Python
 - [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer): Enforce the output format (JSON Schema, Regex etc) of a language model
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails): Adding guardrails to large language models. <https://docs.guardrailsai.com/>
@@ -106,6 +110,7 @@
 ### Anthropics
 
 - [anthropics/courses](https://github.com/anthropics/courses): Anthropic's educational courses
+- [AnswerDotAI/claudette](https://github.com/AnswerDotAI/claudette): Claudette is Claude's friend <https://claudette.answer.ai/>
 
 ### Mistral AI
 
@@ -182,6 +187,9 @@
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs): Curated list of awesome GPTs 👍. <https://github.com/ai-boost/awesome-gpts>
 - [EmbraceAGI/LangGPT](https://github.com/EmbraceAGI/LangGPT): LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化 Prompt <http://feishu.langgpt.ai/>
+- [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming—not prompting—foundation models <https://dspy-docs.vercel.app/>
+- [zou-group/textgrad](https://github.com/zou-group/textgrad): Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients. <http://textgrad.com/>
+- [noahshinn/reflexion](https://github.com/noahshinn/reflexion): [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning
 
 ### ChatBot UI
 

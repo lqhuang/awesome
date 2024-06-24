@@ -89,6 +89,9 @@
 ### CI/CD
 
 - [pnpm/action-setup](https://github.com/pnpm/action-setup): Install pnpm package manager <https://github.com/marketplace/actions/setup-pnpm>
+- [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba): GitHub Action to set up micromamba
+- [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish): The blessed GitHub Action, for publishing your 📦 distribution files to PyPI: https://github.com/marketplace/actions/pypi-publish <https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/>
+- [Quantco/pytest-action](https://github.com/Quantco/pytest-action): GitHub Action to run pytest with GitHub Job Summaries support 🐍 🚀
 
 ### Packaging
 
@@ -234,6 +237,8 @@
 - 🌟 [python-adaptive/adaptive](https://github.com/python-adaptive/adaptive): 📈 Adaptive: parallel active learning of mathematical functions <http://adaptive.readthedocs.io/>
 - [openmc-dev/openmc](https://github.com/openmc-dev/openmc): OpenMC Monte Carlo Code <https://docs.openmc.org>
 - [dynamicslab/pysindy](https://github.com/dynamicslab/pysindy): A package for the sparse identification of nonlinear dynamical systems from data <https://pysindy.readthedocs.io/en/latest/>
+- [Quantco/glum](https://github.com/Quantco/glum): High performance Python GLMs with all the features! <https://glum.readthedocs.io/>
+- [fluiddyn/transonic](https://github.com/fluiddyn/transonic): 🚀 Make your Python code fly at transonic speeds! <https://transonic.readthedocs.io>
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -385,6 +390,7 @@
 - [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 - [bswck/lazy_importing](https://github.com/bswck/lazy_importing): Lazy imports in Python. <https://lazy-importing.readthedocs.io/en/latest/>
 - 🌟 [tox-dev/filelock](https://github.com/tox-dev/filelock): A platform-independent file lock for Python. <https://py-filelock.readthedocs.io>
+- 🌟 [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser): python parser for human readable dates
 
 ### Configuration
 
@@ -472,6 +478,7 @@
 - [lcompilers/lpython](https://github.com/lcompilers/lpython): Python compiler <https://lpython.org/>
 - [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython): An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript. <http://pikapython.com/>
 - [facebook/starlark-rust](https://github.com/facebook/starlark-rust): A Rust implementation of the Starlark language
+- [serge-sans-paille/pythran](https://github.com/serge-sans-paille/pythran): Ahead of Time compiler for numeric kernels <https://pythran.readthedocs.io>
 
 ### Parsers
 

@@ -64,6 +64,7 @@
 - [recap-build/recap](https://github.com/recap-build/recap): Read and write schemas from web service, databases, and schema registries in a standard format <https://recap.build>
 - 🌟 [apache/incubator-answer](https://github.com/apache/incubator-answer): A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. <https://answer.apache.org>
 - 🌟 [scalar/scalar](https://github.com/scalar/scalar): Beautiful API references from Swagger/OpenAPI files ✨ <https://scalar.com/swagger-editor>
+- [hddhyq/opencclint](https://github.com/hddhyq/opencclint): 繁简体转换工具 ，基于 OpenCC 支持编辑器和命令行界面 <https://opencclint.vercel.app>
 
 ### Dev environments
 
@@ -76,6 +77,7 @@
   - [VS Code Extension - Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
   - [daytonaio/daytona](https://github.com/daytonaio/daytona): The Open Source Dev Environment Manager. <https://daytona.io>
 - [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Reproducible development environment for AI/ML <https://envd.tensorchord.ai/>
+- [okteto/okteto](https://github.com/okteto/okteto): Develop your applications directly in your Kubernetes Cluster <https://okteto.com>
 
 ### Documents
 

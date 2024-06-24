@@ -205,6 +205,7 @@
 - [mitsuba-renderer/drjit](https://github.com/mitsuba-renderer/drjit): Dr.Jit — A Just-In-Time-Compiler for Differentiable Rendering
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi): Productive & portable high-performance programming in Python. <https://taichi-lang.org>
 - [taichi-dev/difftaichi](https://github.com/taichi-dev/difftaichi): 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
+- [NVIDIA/warp](https://github.com/NVIDIA/warp): A Python framework for high performance GPU simulation and graphics <https://nvidia.github.io/warp/>
 
 ## Jax ecology
 
@@ -257,6 +258,10 @@
 - [google-deepmind/synjax](https://github.com/google-deepmind/synjax): SynJax is a neural network library for JAX structured probability distributions.
 - [google-deepmind/alphatensor](https://github.com/google-deepmind/alphatensor): Discovering faster matrix multiplication algorithms with reinforcement learning
 - 🌟 [google-deepmind/penzai](https://github.com/google-deepmind/penzai): A JAX research toolkit for building, editing, and visualizing neural networks. <https://penzai.readthedocs.io/>
+- 📝 [google-deepmind/launchpad](https://github.com/google-deepmind/launchpad): Launchpad is a library that simplifies writing distributed programs by seamlessly launching them on a variety of different platforms. Switching between local and distributed execution requires only a flag change.
+- [google-deepmind/jaxline](https://github.com/google-deepmind/jaxline): JAXline is a distributed JAX training and evaluation framework.
+- [google-deepmind/torax](https://github.com/google-deepmind/torax): TORAX: Tokamak transport simulation in JAX <https://torax.readthedocs.io>
+- 🌟 [google-deepmind/fancyflags](https://github.com/google-deepmind/fancyflags): A Python library for defining flat or nested dictionary flags.
 
 ### Google specialization
 

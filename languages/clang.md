@@ -12,6 +12,7 @@
 - 🌟 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
   - > People love to hate build systems.
   - my comments: Yes, definitely
+- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming): Modern C++ Programming Course (C++03/11/14/17/20/23/26) <https://federico-busato.github.io/Modern-CPP-Programming/>
 
 ### Readings
 

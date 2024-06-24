@@ -14,6 +14,7 @@
 <!-- - [学习 haskell 的过程中有哪些值得一做的练手项目？](https://www.zhihu.com/question/61225796/answer/185412037) -->
 - [Haskell Poll Results](https://www.stephendiehl.com/posts/poll.html)
 - [/wiki/haskell/learning Links](http://jackkelly.name/wiki/haskell/learning.html)
+- [haskell-perf/checklist](https://github.com/haskell-perf/checklist): The Haskell performance checklist
 
 ### Readings
 
@@ -29,6 +30,7 @@
 - [Prefer do notation over Applicative operators when assembling records](https://www.haskellforall.com/2024/05/prefer-do-notation-over-applicative.html)
 - [可应用函子的可组合性之缘起](https://zhuanlan.zhihu.com/p/699260802)
 - [Understanding contravariance](https://typeclasses.com/contravariance)
+- [Avoiding space leaks at all costs](https://chshersh.com/space-leak)
 
 ### Courses
 

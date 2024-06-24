@@ -140,6 +140,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - CSS framework for Web Components
 - 🌟 [facebook/stylex](https://github.com/facebook/stylex): StyleX is the styling system for ambitious user interfaces. <https://stylexjs.com>
 - [color-js/color.js](https://github.com/color-js/color.js): Color conversion & manipulation library by the editors of the CSS Color specifications <https://colorjs.io>
+- [ccc159/loadership](https://github.com/ccc159/loadership): LoaderShip.com is the ultimate CSS-only loader configuration tool that allows you to effortlessly customize and generate stunning loaders for your website. Simply Copy & Paste without any installation or dependency hassle.
 
 ### Components
 
@@ -194,8 +195,12 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars): A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling. <https://kingsora.github.io/OverlayScrollbars>
 - [Temzasse/react-modal-sheet](https://github.com/Temzasse/react-modal-sheet): Flexible bottom sheet component built with Framer Motion to provide buttery smooth UX while keeping accessibility in mind 🪐 <https://temzasse.github.io/react-modal-sheet/>
 - [visgl/react-google-maps](https://github.com/visgl/react-google-maps): React components and hooks for the Google Maps JavaScript API <https://visgl.github.io/react-google-maps/>
-- [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber): A React renderer for rendering hand-drawn SVGs. <https://react-rough-fiber.amind.app>
 - [goveo/react-international-phone](https://github.com/goveo/react-international-phone): ☎️ International phone input component for React <https://react-international-phone.vercel.app/>
+
+- [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber): A React renderer for rendering hand-drawn SVGs. <https://react-rough-fiber.amind.app>
+- [rough-stuff/rough](https://github.com/rough-stuff/rough): Create graphics with a hand-drawn, sketchy, appearance <http://roughjs.com>
+  - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation): Create and animate hand-drawn annotations on a web page <https://roughnotation.com/>
+  - [linkstrifer/react-rough-notation](https://github.com/linkstrifer/react-rough-notation): React wrapper for rough-notation <https://www.npmjs.com/package/react-rough-notation>
 
 #### PDF
 
@@ -340,6 +345,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [retejs/rete](https://github.com/retejs/rete): JavaScript framework for visual programming <https://retejs.org>
 - [memgraph/orb](https://github.com/memgraph/orb): Graph visualization library
 - [lewhunt/divz](https://github.com/lewhunt/divz): A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos here: https://lewhunt.github.io/divz/ <https://lewhunt.github.io/divz/>
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js <https://docs.pmnd.rs/react-three-fiber>
+- [typpo/quickchart](https://github.com/typpo/quickchart): Chart image and QR code web API <https://quickchart.io/>
 
 ## Design / Resources
 

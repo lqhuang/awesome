@@ -89,7 +89,6 @@
 - [Actuated](https://actuated.dev/): Fast and secure GitHub Actions on your own infrastructure.
 - 🌟 [renovatebot/renovate](https://github.com/renovatebot/renovate): Universal dependency update tool that fits into your workflows. <https://renovatebot.com>
 - [googleapis/release-please](https://github.com/googleapis/release-please): generate release PRs based on the conventionalcommits.org spec <https://www.conventionalcommits.org>
-- [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish): The blessed GitHub Action, for publishing your 📦 distribution files to PyPI: https://github.com/marketplace/actions/pypi-publish <https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/>
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions): GitHub token permissions Monitor and Advisor actions
 - [Octopus Deploy](https://octopus.com/github): Use GitHub and Octopus together to manage your most complex deployment scenarios
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description): A GitHub action to update a Docker Hub repository description from README.md
@@ -99,4 +98,3 @@
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends): 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! <https://githubtrends.io>
 - [dorny/paths-filter](https://github.com/dorny/paths-filter): Conditionally run actions based on files modified by PR, feature branch or pushed commits
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. <https://github.com/marketplace/actions/github-pages-action>
-- [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba): GitHub Action to set up micromamba

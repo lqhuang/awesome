@@ -58,6 +58,10 @@
 - [Local-First Web Development](https://localfirstweb.dev/)
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync): SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. <https://sqlsync.dev>
 
+## Realtime and collaboration applications
+
+- [jamsocket/plane](https://github.com/jamsocket/plane): A distributed system for running WebSocket services at scale. <https://plane.dev>
+
 ## Interface Definition Language
 
 - [google/gnostic](https://github.com/google/gnostic): A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
