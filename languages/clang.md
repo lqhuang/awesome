@@ -53,7 +53,7 @@
 - [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source C/C++ package manager <https://conan.io>
 - [cpp-best-practices/cmake_template](https://github.com/cpp-best-practices/cmake_template): This is a C++ Best Practices GitHub template for getting up and running with C++ quickly.
 - [cginternals/cmake-init](https://github.com/cginternals/cmake-init): Template for reliable, cross-platform C++ project setup using cmake.
-- [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp): Abseil Common Libraries (C++) <https://abseil.io>
+- [BlankSpruce/gersemi](https://github.com/BlankSpruce/gersemi): A formatter to make your CMake code the real treasure
 - [build-cpp/cmkr](https://github.com/build-cpp/cmkr): Modern build system based on CMake and TOML. <https://cmkr.build>
 
 ### Analyzer
@@ -117,7 +117,7 @@
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
 - [TheNumbat/rpp](https://github.com/TheNumbat/rpp): Minimal Rust-inspired C++20 STL replacement
 - [floooh/sokol](https://github.com/floooh/sokol): minimal cross-platform standalone C headers <https://floooh.github.io/sokol-html5>
-- [undefined](undefined): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
+- [nothings/stb](https://github.com/nothings/stb): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
 
 ## Libs
 
@@ -183,6 +183,7 @@
 - [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
 - [shibatch/sleef](https://github.com/shibatch/sleef): SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT <https://sleef.org>
 - [flame/blis](https://github.com/flame/blis): BLAS-like Library Instantiation Software Framework
+- [WojciechMula/sse4-strstr](https://github.com/WojciechMula/sse4-strstr): SIMD (SWAR/SSE/SSE4/AVX2/AVX512F/ARM Neon) of Karp-Rabin algorithm's modification <http://0x80.pl/articles/simd-strfind.html>
 
 ## Utils
 

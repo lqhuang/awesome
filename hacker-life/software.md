@@ -133,6 +133,7 @@
 - [PDF Gear](https://www.pdfgear.com/): Read, edit, convert, merge, and sign PDF files across devices, for completely free and without signing up.
 - [ProxMobo](https://www.proxmobo.app/): Proxmox VE Monitor & Management
 - [I18n Studio](https://www.i18n.studio/)
+- [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
 
 ## Windows
 

@@ -51,6 +51,7 @@
 - [huggingface/ratchet](https://github.com/huggingface/ratchet): A cross-platform browser ML framework. <https://ratchet.sh>
 - 🌟 [mosaicml/composer](https://github.com/mosaicml/composer): Supercharge Your Model Training <http://docs.mosaicml.com>
   - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry): LLM training code for MosaicML foundation models <https://www.mosaicml.com/blog/mpt-7b>
+- [pytorch/torchtitan](https://github.com/pytorch/torchtitan): A native PyTorch Library for large model training
 
 ### Optimization
 
@@ -213,17 +214,21 @@
 - [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable PyTrees and filtered transforms => neural networks in JAX. <https://docs.kidger.site/equinox>
 - [patrick-kidger/optimistix](https://github.com/patrick-kidger/optimistix): Nonlinear optimisation (root-finding, least squares, ...) in JAX+Equinox. <https://docs.kidger.site/optimistix>
 - [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax): Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable. <https://docs.kidger.site/diffrax>
+- [patrick-kidger/lineax](https://github.com/patrick-kidger/lineax): Linear solvers in JAX and Equinox. https://docs.kidger.site/lineax
 - [patrick-kidger/quax](https://github.com/patrick-kidger/quax): Multiple dispatch over abstract array types in JAX.
+- [patrick-kidger/sympy2jax](https://github.com/patrick-kidger/sympy2jax): Turn SymPy expressions into trainable JAX expressions.
 - [stanford-crfm/levanter](https://github.com/stanford-crfm/levanter): Legibile, Scalable, Reproducible Foundation Models with Named Tensors and Jax
 - [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX is a sampling library designed for ease of use, speed and modularity. <https://blackjax-devs.github.io/blackjax>
 - [JaxGaussianProcesses/GPJax](https://github.com/JaxGaussianProcesses/GPJax): Gaussian processes in JAX. <https://docs.jaxgaussianprocesses.com/>
 - [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro): Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU. <https://num.pyro.ai>
 - [jax-ml/oryx](https://github.com/jax-ml/oryx): Oryx is a library for probabilistic programming and deep learning built on top of Jax. <https://tensorflow.org/probability/oryx>
+- [jax-ml/coix](https://github.com/jax-ml/coix): Inference Combinators in JAX <https://coix.readthedocs.io/en/latest/>
+- [jax-ml/bayeux](https://github.com/jax-ml/bayeux): State of the art inference for your bayesian models. <https://jax-ml.github.io/bayeux/>
+- [jax-ml/jax-triton](https://github.com/jax-ml/jax-triton): jax-triton contains integrations between JAX and OpenAI Triton
 - [vicariousinc/PGMax](https://github.com/vicariousinc/PGMax): Loopy belief propagation for factor graphs on discrete variables, in JAX! <https://pgmax.readthedocs.io>
 - [probml/dynamax](https://github.com/probml/dynamax): State Space Models library in JAX <https://probml.github.io/dynamax>
 - [probml/sts-jax](https://github.com/probml/sts-jax): Structural Time Series in JAX
 - [geraschenko/gmrfs](https://github.com/geraschenko/gmrfs): Gaussian Markov Random Fields (GMRFs) and Integrated Nested Laplace Approximation (INLA)
-- [jax-ml/coix](https://github.com/jax-ml/coix): Inference Combinators in JAX <https://coix.readthedocs.io/en/latest/>
 - [ASEM000/kernex](https://github.com/ASEM000/kernex): Stencil computations in JAX
 - [metaopt/optree](https://github.com/metaopt/optree): OpTree: Optimized PyTree Utilities <https://optree.readthedocs.io>
 - [ott-jax/ott](https://github.com/ott-jax/ott): Optimal Transport tools implemented with the JAX framework, to get auto-diff, parallel and jit-able computations. <https://ott-jax.readthedocs.io>
@@ -304,6 +309,7 @@ This is not an officially supported Google product.
 - [google-research/dataclass_array](https://github.com/google-research/dataclass_array): Dataclasses manipulated as numpy arrays (with batching, reshape, slicing,...) <https://dataclass-array.readthedocs.io>
 - [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses): Pytrees + dataclasses ❤️
 - [Artur-Galstyan/statedict2pytree](https://github.com/Artur-Galstyan/statedict2pytree): No description, website, or topics provided.
+- [BirkhoffG/jax-dataloader](https://github.com/BirkhoffG/jax-dataloader): Pytorch-like dataloaders in JAX. <https://birkhoffg.github.io/jax-dataloader/>
 
 ## Data store or tensor structure
 
@@ -327,6 +333,8 @@ This is not an officially supported Google product.
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI): A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications. <https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html>
 - [dlwh/jax_sourceror](https://github.com/dlwh/jax_sourceror): Turn jitted jax functions back into python source code
 - [pytorch/PiPPy](https://github.com/pytorch/PiPPy): Pipeline Parallelism for PyTorch
+- [google/ml_collections](https://github.com/google/ml_collections): ML Collections is a library of Python Collections designed for ML use cases. <https://ml-collections.readthedocs.io/>
+- [google/grain](https://github.com/google/grain): No description, website, or topics provided.
 
 ## Misc
 

@@ -52,6 +52,8 @@
 - 🌟 [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth): A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth. <https://pkg.go.dev/github.com/hickford/git-credential-oauth>
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly rewrite git repository history (filter-branch replacement)
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner): Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala <https://rtyley.github.io/bfg-repo-cleaner/>
+- [tj/git-extras](https://github.com/tj/git-extras): GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+- [10 levels of Git aliases: Advanced and beyond](https://www.eficode.com/blog/10-levels-of-git-aliases-advanced-and-beyond)
 
 ### Code as Graph
 

@@ -22,6 +22,7 @@
 - [Patrick Kidger: Just know stuff](https://kidger.site/thoughts/just-know-stuff/): Or, how to achieve success in a machine learning PhD.
 - [jessevig/bertviz](https://github.com/jessevig/bertviz): BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.) <https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1>
 - [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research): This repository contains implementations and illustrative code to accompany DeepMind publications
+- [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet): A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability. <http://www.wzchen.com/probability-cheatsheet>
 
 ## Books
 
@@ -42,12 +43,19 @@
 - 🌟 [Linear Algebra Done Right](https://linear.axler.net/): This best-selling textbook for a second course in linear algebra is aimed at undergraduate math majors and graduate students. The novel approach taken here banishes determinants to the end of the book. The text focuses on the central goal of linear algebra: understanding the structure of linear operators on finite-dimensional vector spaces.
 - [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book): Welcome to the Physics-based Deep Learning Book (v0.2) <https://physicsbaseddeeplearning.org/>
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers): aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;) <http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/>
+- [Underactuated Robotics](https://underactuated.mit.edu/): Algorithms for Walking, Running, Swimming, Flying, and Manipulation
+- [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1): Methods in Algebra (Volume 1): A Chinese textbook on Algebra
 
 ## Numerical Analysis
 
 - 🌟 [herbie-fp/herbie](https://github.com/herbie-fp/herbie): Optimize floating-point expressions for accuracy <https://herbie.uwplse.org>
 - [epfl-lara/nugget](https://github.com/epfl-lara/nugget): Neural-Network Guided Expression Transformation
   - [Wikipedia: Knuth–Bendix completion algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Bendix_completion_algorithm)
+- [chebfun/chebfun](https://github.com/chebfun/chebfun): Chebfun: numerical computing with functions. <http://www.chebfun.org/>
+  - [Chebfun-related projects](https://www.chebfun.org/about/projects.html)
+  - [chebpy/chebpy](https://github.com/chebpy/chebpy): A Python implementation of Chebfun
+  - [pychebfun/pychebfun](https://github.com/pychebfun/pychebfun): Python implementation of chebfun
+  - [usnistgov/ChebTools](https://github.com/usnistgov/ChebTools): C++ tools for working with Chebyshev expansion interpolants
 
 ## Probability
 
@@ -92,20 +100,19 @@
 
 - [gpoore/minted](https://github.com/gpoore/minted): minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
 - [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint): 📝 A nicely formatted LaTeX preprint template
-- [citation-js/citation-js](https://github.com/citation-js/citation-js): Core functionality of Citation.js, as well as the original plugins (CSL, BibTeX, RIS, DOI, Wikidata, and BibJSON) <https://citation.js.org>
 - [typst/typst](https://github.com/typst/typst): A new markup-based typesetting system that is powerful and easy to learn. <https://typst.app>
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new language server for Typst, plus a VS Code extension
 - [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX math description from Python functions.
 - [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX): 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
-- [jlegewie/zotfile](https://github.com/jlegewie/zotfile): Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [standardebooks/tools](https://github.com/standardebooks/tools): The Standard Ebooks toolset for producing our ebook files.
 - [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook): Elegant LaTeX Template for Books
 - [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner): arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 - [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook): LaTeX 论文写作教程 (中文版)
-- [kisonecat/tikzjax](https://github.com/kisonecat/tikzjax): TikZJax is TikZ running under WebAssembly in the browser
+- [Ruzim/NSFC-application-template-latex](https://github.com/Ruzim/NSFC-application-template-latex): 国家自然科学基金申请书正文（面上项目）LaTeX 模板（非官方）
+  - [Readon/NSFC-application-template-latex](https://github.com/Readon/NSFC-application-template-latex): 国家自然科学基金申请书正文（面上项目）模板（非官方）
+- [MCG-NKU/NSFC-LaTex](https://github.com/MCG-NKU/NSFC-LaTex): No description, website, or topics provided.
+- [huangwb8/ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX): 中国科研常用 LaTeX 模板集
 - 🌟 [ice1000/multi-school-sop](https://github.com/ice1000/multi-school-sop): A latex template for writing statement-of-purpose for many schools at the same time
-- [xyz2tex/svg2tikz](https://github.com/xyz2tex/svg2tikz): An Inkscape extension for exporting SVG paths as TikZ/PGF paths <http://xyz2tex.github.io/svg2tikz/>
-- [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style): GB/T 7714-2015 BibTeX Style
 - [jonbarron/tabilize](https://github.com/jonbarron/tabilize): Simple code for generating a color-coded latex table from raw data
 - 🌟 [stone-zeng/latex-talk](https://github.com/stone-zeng/latex-talk): Modern LaTeX in a Nutshell
 - [mathquill/mathquill](https://github.com/mathquill/mathquill): Easily type math in your webapp <http://mathquill.com>
@@ -124,3 +131,15 @@
 - 🌟 [dspinellis/latex-advice](https://github.com/dspinellis/latex-advice): Advice for writing LaTeX documents
 - [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux): A package for creating slides in Typst <https://polylux.dev/book>
 - [touying-typ/touying](https://github.com/touying-typ/touying): Touying is a powerful package for creating presentation slides in Typst. <https://touying-typ.github.io/touying/>
+
+### Bib
+
+- [citation-js/citation-js](https://github.com/citation-js/citation-js): Core functionality of Citation.js, as well as the original plugins (CSL, BibTeX, RIS, DOI, Wikidata, and BibJSON) <https://citation.js.org>
+- [jlegewie/zotfile](https://github.com/jlegewie/zotfile): Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
+- [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style): GB/T 7714-2015 BibTeX Style
+
+### VIS
+
+- [kisonecat/tikzjax](https://github.com/kisonecat/tikzjax): TikZJax is TikZ running under WebAssembly in the browser
+- [xyz2tex/svg2tikz](https://github.com/xyz2tex/svg2tikz): An Inkscape extension for exporting SVG paths as TikZ/PGF paths <http://xyz2tex.github.io/svg2tikz/>
+- [tikzit/tikzit](https://github.com/tikzit/tikzit): pgf/TikZ diagram editor <http://tikzit.github.io>

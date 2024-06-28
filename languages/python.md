@@ -536,6 +536,7 @@
 - [mckinsey/vizro](https://github.com/mckinsey/vizro): Vizro is a toolkit for creating modular data visualization applications. <https://vizro.readthedocs.io/en/stable/>
 - [developmentseed/lonboard](https://github.com/developmentseed/lonboard): Python library for fast, interactive geospatial vector data visualization in Jupyter. <https://developmentseed.org/lonboard/latest/>
 - [arviz-devs/arviz](https://github.com/arviz-devs/arviz): Exploratory analysis of Bayesian models with Python <https://python.arviz.org>
+- [leotac/joypy](https://github.com/leotac/joypy): Joyplots in Python with matplotlib & pandas 📈
 
 ### GUI
 

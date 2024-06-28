@@ -325,7 +325,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ## Visualization
 
-- [observablehq/plot](https://github.com/observablehq/plot): A concise API for exploratory data visualization <https://observablehq.com/@observablehq/plot>
+- [observablehq/plot](https://github.com/observablehq/plot): A concise API for exploratory data visualization implementing a layered grammar of graphics <https://observablehq.com/plot/>
 - 🌟 [airbnb/visx](https://github.com/airbnb/visx): 🐯 visx | visualization components <https://airbnb.io/visx>
 - [reaviz/reaviz](https://github.com/reaviz/reaviz): 📊 Data visualization library for React <https://reaviz.io>
 - [f5/unovis](https://github.com/f5/unovis): Modular data visualization framework for React, Angular, Svelte, and vanilla TypeScript or JavaScript <https://unovis.dev>

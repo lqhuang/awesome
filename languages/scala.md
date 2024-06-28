@@ -127,6 +127,7 @@
 - 🌟 [arainko/ducktape](https://github.com/arainko/ducktape): Automatic and customizable compile time transformations between similar case classes and sealed traits/enums, essentially a thing that glues your code. Scala 3 only. Or is it duct 🤔
 - [earldouglas/linear-scala](https://github.com/earldouglas/linear-scala): Linear types in Scala
 - [scala-ts/scala-ts](https://github.com/scala-ts/scala-ts): 🔧 Scala datamodel transpiler <https://scala-ts.github.io/scala-ts>
+- [bishabosha/ops-mirror](https://github.com/bishabosha/ops-mirror): Type class derivation for services, not data
 
 ### Formal verification
 

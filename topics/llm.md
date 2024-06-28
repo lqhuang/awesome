@@ -186,7 +186,6 @@
 - [Illumine-Labs/RustChat](https://github.com/Illumine-Labs/RustChat): Rust Daily Learning and Work Assistant
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs): Curated list of awesome GPTs 👍. <https://github.com/ai-boost/awesome-gpts>
-- [EmbraceAGI/LangGPT](https://github.com/EmbraceAGI/LangGPT): LangGPT: Empowering everyone to become a prompt expert!🚀 Structured Prompt，Language of GPT, 结构化提示词，结构化 Prompt <http://feishu.langgpt.ai/>
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming—not prompting—foundation models <https://dspy-docs.vercel.app/>
 - [zou-group/textgrad](https://github.com/zou-group/textgrad): Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients. <http://textgrad.com/>
 - [noahshinn/reflexion](https://github.com/noahshinn/reflexion): [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning
