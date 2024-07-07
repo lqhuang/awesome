@@ -18,23 +18,16 @@
 - 🌟 [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization <https://forum.syncthing.net>
 - [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source KVM (switch) software
 - [fireyy/caricare](https://github.com/fireyy/caricare): A simple cross-platform desktop application for S3-Compatible Object Storage. Built in Rust using egui.
-- 🌟 [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker): Make bilingual epub books Using AI translate
 - 🌟 [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Easy and blazing-fast book searcher, create and search your private library. <https://github.com/book-searcher-org/book-searcher>
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin): A Calibre plugin to translate ebook into a specified language. <https://bookfere.com/post/1057.html>
-- 🌟 [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate): Immersive Dual Web Page Translation Extension - 沉浸式双语网页翻译扩展 <https://immersive-translate.owenyoung.com/>
 - [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator): Foreign language reading and translation assistant based on copy and translate. <https://copytranslator.gitee.io>
-- [raphamorim/rio](https://github.com/raphamorim/rio): A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. <https://raphamorim.io/rio>
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box): server status & toolbox app using Flutter
 - 🌟 [Waydroid](https://waydro.id/): A container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - 🌟 [Blend OS](https://blendos.co/): The only operating system you'll ever need. A seamless blend of all Linux distributions, Android apps and web apps.
-- [subhra74/xdm](https://github.com/subhra74/xdm): Powerfull download accelerator and video downloader <https://xtremedownloadmanager.com/>
 - [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. <https://upscayl.org>
-- 🌟 [files-community/Files](https://github.com/files-community/Files): Building the best file manager experience for Windows <https://files.community>
 - [darktable-org/darktable](https://github.com/darktable-org/darktable): darktable is an open source photography workflow application and raw developer <https://www.darktable.org>
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io): The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification <https://changedetection.io>
 - [sagemath/sage](https://github.com/sagemath/sage): Main repository of SageMath. Now open for Issues and Pull Requests. <https://www.sagemath.org>
-- 🌟 [veler/DevToys](https://github.com/veler/DevToys): A Swiss Army knife for developers. <https://devtoys.app/>
-- [hellzerg/optimizer](https://github.com/hellzerg/optimizer): The finest Windows Optimizer
 - 🌟 [nova-video-player/aos-AVP](https://github.com/nova-video-player/aos-AVP): NOVA opeN sOurce Video plAyer: main repository to build them all
 - [Jackett/Jackett](https://github.com/Jackett/Jackett): API Support for your favorite torrent trackers
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
@@ -51,6 +44,7 @@
 - [The Archive](https://zettelkasten.de/the-archive/): Note Taking: Nimble, Calm, Plain.txt
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan): ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言 <https://miaoyan.app/>
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes): Notes manager for macOS/iOS <https://fsnot.es>
+- [foambubble/foam](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode <https://foambubble.github.io/>
 
 ## macOS / iPadOS
 
@@ -94,6 +88,7 @@
 - [unixzii/StringExplorer](https://github.com/unixzii/StringExplorer): A handy tool to explore various string encoding.
 - 🌟 [CapSoftware/Cap](https://github.com/CapSoftware/Cap): Effortless, instant screen sharing. Open-source and cross-platform. <https://cap.so>
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice): Powerful menu bar manager for macOS <https://icemenubar.app>
+- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder): A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 <https://lihaoyun6.github.io/quickrecorder/>
 
 ### Free / Paid
 
@@ -137,7 +132,12 @@
 
 ## Windows
 
+- 🌟 [veler/DevToys](https://github.com/veler/DevToys): A Swiss Army knife for developers. <https://devtoys.app/>
+- [hellzerg/optimizer](https://github.com/hellzerg/optimizer): The finest Windows Optimizer
+- 🌟 [files-community/Files](https://github.com/files-community/Files): Building the best file manager experience for Windows <https://files.community>
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB): GUI Tool To Removes Ads From Various Places Around Windows 11
+- [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager): A GUI to quickly manage your WSL2 instances <https://apps.microsoft.com/store/detail/wsl-manager/9NWS9K95NMJB>
+- [subhra74/xdm](https://github.com/subhra74/xdm): Powerfull download accelerator and video downloader <https://xtremedownloadmanager.com/>
 
 ## Services
 
@@ -191,6 +191,7 @@
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler): The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte <https://gitbutler.com>
 - [sr.ht/~sircmpwn/sourcehut](https://sr.ht/~sircmpwn/sourcehut/): This is the main project hub for SourceHut itself. To browse our source code, see the "sources" tab at the nav along the top of the page.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD <https://about.gitea.com>
+- [raphamorim/rio](https://github.com/raphamorim/rio): A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. <https://raphamorim.io/rio>
 
 ### Email
 

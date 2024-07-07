@@ -96,6 +96,7 @@
 
 - [netbox-community/netbox](https://github.com/netbox-community/netbox): The premiere source of truth powering network automation. Open source under Apache 2. <https://netbox.dev>
 - 🌟 [novuhq/novu](https://github.com/novuhq/novu): 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more... <https://novu.co>
+- 🌟 [caronc/apprise](https://github.com/caronc/apprise): Apprise - Push Notifications that work with just about every platform! <https://hub.docker.com/r/caronc/apprise>
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks): The enterprise-ready webhooks service 🦀 <https://www.svix.com>
 - [frain-dev/convoy](https://github.com/frain-dev/convoy): Open Source Webhooks Gateway; For both incoming & outgoing events. <https://getconvoy.io>
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev): ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code. <https://trigger.dev>
@@ -113,6 +114,7 @@
 ### Pipelines / Workflow
 
 - [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline): A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
+- [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines): A curated list of awesome open source workflow engines
 - [orchest/orchest](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️ <https://orchest.io>
 - 🌟 [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services. <https://n8n.io>
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): The easiest way to automate your data <https://prefect.io>
@@ -152,6 +154,7 @@
 - [Uptime Robot](https://uptimerobot.com/)
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit): Cockpit is a web-based graphical interface for servers. <http://www.cockpit-project.org/>
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime): OneUptime is the complete open-source observability platform. <https://oneuptime.com>
+- [Hydrozen.io](https://hydrozen.io/): Monitor availability of your websites, Cronjobs, APIs, Domains, SSL etc.
 
 ### Observability: Logging / Metrics / APM
 

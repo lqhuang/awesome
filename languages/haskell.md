@@ -134,3 +134,4 @@
 - [tfausak/witch](https://github.com/tfausak/witch): 🧙‍♀️ Convert values from one type into another. <https://hackage.haskell.org/package/witch>
 - [haskell-unordered-containers/unordered-containers](https://github.com/haskell-unordered-containers/unordered-containers): Efficient hashing-based container types
 - [guibou/PyF](https://github.com/guibou/PyF): Haskell QuasiQuoter for String Formatting
+- [haskell-repa/repa](https://github.com/haskell-repa/repa): High performance, regular, shape polymorphic parallel arrays. <http://repa.ouroborus.net>

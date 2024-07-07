@@ -85,6 +85,7 @@
 - [prefix-dev/rip](https://github.com/prefix-dev/rip): Solve and install Python packages quickly with rip (pip in Rust) <https://prefix.dev>
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith): Tooling support for the Polylith Architecture in Python. <https://davidvujic.github.io/python-polylith-docs/>
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath): Inspect and refine PATH environment variable on Windows, Linux and MacOS.
+- [microsoft/python-environment-tools](https://github.com/microsoft/python-environment-tools): No description, website, or topics provided.
 
 ### CI/CD
 
@@ -119,6 +120,7 @@
 - [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints): Type hints support for the Sphinx autodoc extension
 - [readthedocs-examples/awesome-read-the-docs](https://github.com/readthedocs-examples/awesome-read-the-docs): A curated list of awesome Read the Docs projects <https://readthedocs.org/>
 - [psincraian/pepy](https://github.com/psincraian/pepy): pepy is a site to get statistics information about any Python package. <https://pepy.tech>
+- 🌟 [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid): Mermaid diagrams in yours sphinx powered docs <http://sphinxcontrib-mermaid-demo.readthedocs.io/en/latest/>
 
 ### Security
 
@@ -239,6 +241,7 @@
 - [dynamicslab/pysindy](https://github.com/dynamicslab/pysindy): A package for the sparse identification of nonlinear dynamical systems from data <https://pysindy.readthedocs.io/en/latest/>
 - [Quantco/glum](https://github.com/Quantco/glum): High performance Python GLMs with all the features! <https://glum.readthedocs.io/>
 - [fluiddyn/transonic](https://github.com/fluiddyn/transonic): 🚀 Make your Python code fly at transonic speeds! <https://transonic.readthedocs.io>
+- [NVIDIA/numba-cuda](https://github.com/NVIDIA/numba-cuda): An out-of-tree CUDA target for Numba.
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -333,6 +336,9 @@
   - Learn how Monad style applies in Python
   - [Python’s “Disappointing” Superpowers # Pony ORM](https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/#pony-orm)
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry): A GraphQL library for Python that leverages type annotations 🍓 <https://strawberry.rocks>
+- [ipython/pickleshare](https://github.com/ipython/pickleshare): File system based database that uses python pickles
+- 🌟 [unum-cloud/ustore](https://github.com/unum-cloud/ustore): Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with NetworkX and Pandas interfaces, and bindings for C 99, C++ 17, Python 3, Java, GoLang 🗄️ <https://unum-cloud.github.io/ustore/>
+- [kylebarron/arro3](https://github.com/kylebarron/arro3): A minimal Python library for Apache Arrow, connecting to the Rust arrow crate <https://kylebarron.dev/arro3/core>
 
 ### API clients
 
@@ -391,6 +397,7 @@
 - [bswck/lazy_importing](https://github.com/bswck/lazy_importing): Lazy imports in Python. <https://lazy-importing.readthedocs.io/en/latest/>
 - 🌟 [tox-dev/filelock](https://github.com/tox-dev/filelock): A platform-independent file lock for Python. <https://py-filelock.readthedocs.io>
 - 🌟 [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser): python parser for human readable dates
+- [cpburnz/python-pathspec](https://github.com/cpburnz/python-pathspec): Utility library for gitignore style pattern matching of file paths.
 
 ### Configuration
 
@@ -537,6 +544,7 @@
 - [developmentseed/lonboard](https://github.com/developmentseed/lonboard): Python library for fast, interactive geospatial vector data visualization in Jupyter. <https://developmentseed.org/lonboard/latest/>
 - [arviz-devs/arviz](https://github.com/arviz-devs/arviz): Exploratory analysis of Bayesian models with Python <https://python.arviz.org>
 - [leotac/joypy](https://github.com/leotac/joypy): Joyplots in Python with matplotlib & pandas 📈
+- [timkpaine/ipydagred3](https://github.com/timkpaine/ipydagred3): ipywidgets library for drawing directed acyclic graphs in jupyterlab using dagre-d3
 
 ### GUI
 

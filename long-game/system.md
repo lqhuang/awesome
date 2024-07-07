@@ -38,6 +38,7 @@
 ## Serialization Protocl
 
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto serialization/RPC system - core tools and C++ library <https://capnproto.org>
+- [google/riegeli](https://github.com/google/riegeli): Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.
 
 ## Performance profile / tracing
 

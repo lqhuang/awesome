@@ -20,6 +20,7 @@
 
 ## ELT / ETL
 
+- [pawl/awesome-etl](https://github.com/pawl/awesome-etl): A curated list of awesome ETL frameworks, libraries, and software.
 - [dbt](https://www.getdbt.com/): Transforming data. Transforming teams. dbt™ helps data teams work like software engineers—to ship trusted data, faster.
   - non open source
 - 🌟 [dlt-hub/dlt](https://github.com/dlt-hub/dlt): data load tool (dlt) is an open source Python library that makes data loading easy 🛠️ <https://dlthub.com/docs>

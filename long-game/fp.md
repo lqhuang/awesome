@@ -67,6 +67,7 @@
 - 🌟 [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep): ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust <https://ast-grep.github.io>
 - [facebookincubator/Glean](https://github.com/facebookincubator/Glean): System for collecting, deriving and working with facts about source code. <https://glean.software/>
 - [github/semantic](https://github.com/github/semantic): Parsing, analyzing, and comparing source code across many languages
+- [ocharles/weeder](https://github.com/ocharles/weeder): A re-implementation of weeder using HIE files
 
 ## PL
 

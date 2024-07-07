@@ -79,6 +79,7 @@
 - [piercefreeman/gpt-json](https://github.com/piercefreeman/gpt-json): Structured and typehinted GPT responses in Python
 - [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer): Enforce the output format (JSON Schema, Regex etc) of a language model
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails): Adding guardrails to large language models. <https://docs.guardrailsai.com/>
+- [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt): Concatenate a directory full of files into a single prompt for use with LLMs
 
 ## Model
 

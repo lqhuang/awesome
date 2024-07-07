@@ -197,6 +197,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [visgl/react-google-maps](https://github.com/visgl/react-google-maps): React components and hooks for the Google Maps JavaScript API <https://visgl.github.io/react-google-maps/>
 - [goveo/react-international-phone](https://github.com/goveo/react-international-phone): ☎️ International phone input component for React <https://react-international-phone.vercel.app/>
 
+- [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js): Easy Parallax Effect for React & JavaScript <https://simpleparallax.com>
+
 - [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber): A React renderer for rendering hand-drawn SVGs. <https://react-rough-fiber.amind.app>
 - [rough-stuff/rough](https://github.com/rough-stuff/rough): Create graphics with a hand-drawn, sketchy, appearance <http://roughjs.com>
   - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation): Create and animate hand-drawn annotations on a web page <https://roughnotation.com/>
@@ -210,6 +212,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - **CREATE** pdf
 - [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination): A React pagination component which intelligently renders to the available width <https://react-responsive-pagination.elantha.com>
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf): Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. <https://react.onedoclabs.com/>
+- [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick): View and Interact with PDFs in React SolidJS, Svelte and JavaScript apps <https://pdfslick.dev>
 
 #### Time related
 
@@ -231,8 +234,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table <https://tanstack.com/table>
 - [TanStack/virtual](https://github.com/TanStack/virtual): 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte <https://tanstack.com/virtual>
-- [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid): 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support. <https://grid.glideapps.com>
+- 🌟 [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid): 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support. <https://grid.glideapps.com>
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator): Interactive Tables and Data Grids for JavaScript <http://tabulator.info/>
+- [sadmann7/sortable](https://github.com/sadmann7/sortable): A sortable component built with shadcn/ui, radix ui, and dnd-kit. <https://sortable.sadmn.com>
 
 #### Onboarding
 

@@ -30,6 +30,7 @@
 - [Zelenya/fs2-guide](https://github.com/Zelenya/fs2-guide): Interactive dive into fs2
 - [YannMoisan/hands-on-cats](https://github.com/YannMoisan/hands-on-cats): Discover cats by coding a few simple exercises
 - [David's programming examples knowledge base](https://gist.github.com/dacr/c071a7b7d3de633281cbe84a34be47f1)
+- [kubukoz/scala.beauty](https://github.com/kubukoz/scala.beauty): A place for sharing beautiful Scala snippets.
 
 ## Master these you rule the world
 
@@ -212,6 +213,7 @@
 - [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper): A Scala library for scraping content from HTML pages
 - [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>
 - 🌟 [com-lihaoyi/sourcecode](https://github.com/com-lihaoyi/sourcecode): Scala library providing "source" metadata to your program, similar to Python's **name**, C++'s **LINE** or Ruby's **FILE**.
+- [lolgab/snunit](https://github.com/lolgab/snunit): Scala Native HTTP server based on NGINX Unit <https://lolgab.github.io/snunit/>
 
 ## Stream / Effect systems / Experiments
 
@@ -223,7 +225,7 @@
 
 ## War of eco systems
 
-### Akka
+### Akka / Pekko
 
 - [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria): Scala GraphQL implementation <https://sangria-graphql.github.io>
 - [paypal/squbs](https://github.com/paypal/squbs): Akka Streams & Akka HTTP for Large-Scale Production Deployments <http://paypal.github.io/squbs>
@@ -236,6 +238,7 @@
 - [hseeberger/akka-http-json](https://github.com/hseeberger/akka-http-json): Integrate some of the best JSON libs in Scala with Akka HTTP
 - [lightbend-labs/scala-logging](https://github.com/lightbend-labs/scala-logging): Convenient and performant logging library for Scala wrapping SLF4J.
 - [rkuhn/akka-typed-session](https://github.com/rkuhn/akka-typed-session): add-on to Akka Typed that tracks effects for use with Session Types
+- [theiterators/pekko-http-microservice](https://github.com/theiterators/pekko-http-microservice): Example of http (micro)service in Scala & pekko
 
 ### Typelevel
 
@@ -262,6 +265,7 @@
 - [laserdisc-io/laserdisc](https://github.com/laserdisc-io/laserdisc): A Future-free Fs2 native pure FP Redis client <http://laserdisc.io>
 - [fthomas/fs2-cron](https://github.com/fthomas/fs2-cron): FS2 streams based on cron expressions
 - [ollls/quartz-h2](https://github.com/ollls/quartz-h2): Asynchronous Java NIO http/2 only packet streaming server with TLS encryption implemented as Scala CATS effect. Direct native translation of fs2 stream chunks into http2 packets ( inbound and outbound ).
+- [theiterators/http4s-stir](https://github.com/theiterators/http4s-stir): http4s-stir offers Pekko HTTP-style (Akka HTTP-style) DSL directives for http4s using cats-effect's IO as an effect system
 
 ### ZIO
 

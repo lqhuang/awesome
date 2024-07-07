@@ -72,6 +72,7 @@
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite): Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite <https://vlcn.io/>
 - [Expensify/Bedrock](https://github.com/Expensify/Bedrock): Rock solid distributed database specializing in active/active automatic failover and WAN replication <https://bedrockdb.com>
 - [SQLite Cloud](https://sqlitecloud.io/): Cloud-share any SQLite database in no time
+- 🌟 [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm): SQLite Wasm conveniently wrapped as an ES Module.
 
 ### Timeseries & Graph
 

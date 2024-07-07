@@ -70,6 +70,8 @@
   - [Introducing TorchOpt: A High-Performance Differentiable Optimization Library for PyTorch](https://medium.com/pytorch/introducing-torchopt-a-high-performance-differentiable-optimization-library-for-pytorch-37c4c0ef6ae1)
 - [pytorch/botorch](https://github.com/pytorch/botorch): Bayesian optimization in PyTorch <https://botorch.org/>
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad): A Python toolbox for performing gradient-free optimization <https://facebookresearch.github.io/nevergrad/>
+- [lessw2020/Best-Deep-Learning-Optimizers](https://github.com/lessw2020/Best-Deep-Learning-Optimizers): Collection of the latest, greatest, deep learning optimizers (for Pytorch) - CNN, NLP suitable
+- [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free): Schedule-Free Optimization in PyTorch
 
 ### Network implementation
 
@@ -180,6 +182,7 @@
 
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers): A list of awesome compiler projects and papers for tensor computation and deep learning.
 - 🌟 [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler stack for cpu, gpu and specialized accelerators <https://tvm.apache.org>
+  - [inducer/loopy](https://github.com/inducer/loopy): A code generator for array-based code on CPUs and GPUs <http://mathema.tician.de/software/loopy>
   - [wzh99/relay-mlir](https://github.com/wzh99/relay-mlir): An MLIR-based toy DL compiler for TVM Relay.
 - 🌟 [openai/triton](https://github.com/openai/triton): Development repository for the Triton language and compiler
 - 🌟 [llvm/torch-mlir](https://github.com/llvm/torch-mlir): The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.
@@ -357,3 +360,4 @@ This is not an officially supported Google product.
 - [beresandras/clear-diffusion-keras](https://github.com/beresandras/clear-diffusion-keras): Implementation of denoising diffusion models with schedules, improved sampling, and other extensions using Keras.
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch): llama3 implementation one matrix multiplication at a time
 - [milton-l/microhaskell](https://github.com/milton-l/microhaskell): Small autodiff lib and a simple working feedforward neural net in Haskell on top of it, from scratch, zero-deps.
+- [dorjeduck/momograd](https://github.com/dorjeduck/momograd): A Learning Journey: Micrograd in Mojo 🔥

@@ -227,6 +227,7 @@
 - [ferrilab/bitvec](https://github.com/ferrilab/bitvec): A crate for managing memory bit by bit <https://myrrlyn.net/crates/bitvec>
 - [tomtomwombat/fastbloom](https://github.com/tomtomwombat/fastbloom): The fastest bloom filter in Rust. No accuracy compromises. Compatible with any hasher.
 - [hawkw/thingbuf](https://github.com/hawkw/thingbuf): in-place allocation-reusing queues for Rust
+- [droundy/append-only-vec](https://github.com/droundy/append-only-vec): No description, website, or topics provided.
 
 ### CRDT
 

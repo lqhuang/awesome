@@ -6,6 +6,7 @@
 - [Deep Learning on Graphs](https://web.njit.edu/~ym329/dlg_book): This book covers comprehensive contents in developing deep learning techniques for graph structured data with a specific focus on Graph Neural Networks (GNNs).
 - [graph-neural-networks/graph-neural-networks](https://github.com/graph-neural-networks/graph-neural-networks.github.io): This repo is for hosting our GNN book titled "Graph Neural Networks: Foundations, Frontiers, and Applications". <https://graph-neural-networks.github.io/index.html>
 - [Graphlet-AI/graphml-class](https://github.com/Graphlet-AI/graphml-class): Full Stack Graph Machine Learning: Theory, Practice, Tools and Techniques <https://graphlet.ai>- [Graphlet-AI/graphml-class](https://github.com/Graphlet-AI/graphml-class): Full Stack Graph Machine Learning: Theory, Practice, Tools and Techniques <https://graphlet.ai>
+- [yueliu1999/Awesome-Deep-Graph-Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering): Awesome Deep Graph Clustering is a collection of SOTA, novel deep graph clustering methods (papers, codes, and datasets).
 
 ## Framework
 
@@ -22,6 +23,8 @@
 - [s1ck/graph](https://github.com/s1ck/graph): A library for high-performant graph algorithms.
 - 🌟 [higra/Higra](https://github.com/higra/Higra): Hierarchical Graph Analysis
 - [zflow-dev/zflow](https://github.com/zflow-dev/zflow): Rust implementation of Flow Based Programming Graph specification <http://zflow.dev>
+- [TuGraph-family/tugraph-db](https://github.com/TuGraph-family/tugraph-db): TuGraph is a high performance graph database. <https://tugraph.org>
+- [OpenSPG/openspg](https://github.com/OpenSPG/openspg): OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) kNext SDK(python): LLM-enhanced knowledge construction, reasoning and generation <https://spg.openkg.cn/en-US>
 
 ## Vis
 

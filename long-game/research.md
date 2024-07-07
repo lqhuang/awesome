@@ -56,6 +56,8 @@
   - [chebpy/chebpy](https://github.com/chebpy/chebpy): A Python implementation of Chebfun
   - [pychebfun/pychebfun](https://github.com/pychebfun/pychebfun): Python implementation of chebfun
   - [usnistgov/ChebTools](https://github.com/usnistgov/ChebTools): C++ tools for working with Chebyshev expansion interpolants
+- [PythonOT/POT](https://github.com/PythonOT/POT): POT : Python Optimal Transport <https://PythonOT.github.io/>
+  - [a gallery of all the POT example files](https://pythonot.github.io/auto_examples/index.html)
 
 ## Probability
 
@@ -96,41 +98,50 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): A community-supported supercharged version of paperless: scan, index and archive all your physical documents <https://docs.paperless-ngx.com>
 - [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex): Make Zotero effective for us LaTeX holdouts <https://retorque.re/zotero-better-bibtex/>
 
-## LaTex / Typst
+## Tech/Paper writting & Press print
 
-- [gpoore/minted](https://github.com/gpoore/minted): minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
-- [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint): 📝 A nicely formatted LaTeX preprint template
-- [typst/typst](https://github.com/typst/typst): A new markup-based typesetting system that is powerful and easy to learn. <https://typst.app>
-- [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new language server for Typst, plus a VS Code extension
-- [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX math description from Python functions.
-- [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX): 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
 - [standardebooks/tools](https://github.com/standardebooks/tools): The Standard Ebooks toolset for producing our ebook files.
-- [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook): Elegant LaTeX Template for Books
+- [mathquill/mathquill](https://github.com/mathquill/mathquill): Easily type math in your webapp <http://mathquill.com>
+- [FudanSELab/academic-writing-guide](https://github.com/FudanSELab/academic-writing-guide): 一些关于写论文的教程,防止犯一些低级错误
+
+### LaTex
+
+- 🌟 Modern Latex
+  - [mrkline/modern-latex](https://github.com/mrkline/modern-latex): A short guide to LaTeX that avoids legacy cruft. <https://assets.bitbashing.io/modern-latex.pdf>
+  - [stone-zeng/latex-talk](https://github.com/stone-zeng/latex-talk): Modern LaTeX in a Nutshell
+  - [dspinellis/latex-advice](https://github.com/dspinellis/latex-advice): Advice for writing LaTeX documents
+  - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
+  - [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX): 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
+  - [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook): LaTeX 论文写作教程 (中文版)
+- [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX math description from Python functions.
 - [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner): arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
-- [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook): LaTeX 论文写作教程 (中文版)
+- [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML): LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. <http://dlmf.nist.gov/LaTeXML/>
+- [jgm/texmath](https://github.com/jgm/texmath): A Haskell library for converting LaTeX math to MathML.
+- [jonbarron/tabilize](https://github.com/jonbarron/tabilize): Simple code for generating a color-coded latex table from raw data
+- [gpoore/minted](https://github.com/gpoore/minted): minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
+
+- [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint): 📝 A nicely formatted LaTeX preprint template
+- [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook): Elegant LaTeX Template for Books
+- [ice1000/multi-school-sop](https://github.com/ice1000/multi-school-sop): A latex template for writing statement-of-purpose for many schools at the same time
 - [Ruzim/NSFC-application-template-latex](https://github.com/Ruzim/NSFC-application-template-latex): 国家自然科学基金申请书正文（面上项目）LaTeX 模板（非官方）
   - [Readon/NSFC-application-template-latex](https://github.com/Readon/NSFC-application-template-latex): 国家自然科学基金申请书正文（面上项目）模板（非官方）
 - [MCG-NKU/NSFC-LaTex](https://github.com/MCG-NKU/NSFC-LaTex): No description, website, or topics provided.
 - [huangwb8/ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX): 中国科研常用 LaTeX 模板集
-- 🌟 [ice1000/multi-school-sop](https://github.com/ice1000/multi-school-sop): A latex template for writing statement-of-purpose for many schools at the same time
-- [jonbarron/tabilize](https://github.com/jonbarron/tabilize): Simple code for generating a color-coded latex table from raw data
-- 🌟 [stone-zeng/latex-talk](https://github.com/stone-zeng/latex-talk): Modern LaTeX in a Nutshell
-- [mathquill/mathquill](https://github.com/mathquill/mathquill): Easily type math in your webapp <http://mathquill.com>
-- 🌟 [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz): CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
-- [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
-- [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher): Typst package for drawing diagrams with arrows, built on top of CeTZ.
-- [jgm/texmath](https://github.com/jgm/texmath): A Haskell library for converting LaTeX math to MathML.
-- [mitex-rs/mitex](https://github.com/mitex-rs/mitex): LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/ <https://mitex-rs.github.io/mitex/tools/underleaf.html>
+
+### Typst
+
+- 🌟 [Enter-tainer/typst-preview](https://github.com/Enter-tainer/typst-preview): Typst preview extension for VSCode <https://Enter-tainer.github.io/typst-preview/>
 - [Myriad-Dreamin/typst-book](https://github.com/Myriad-Dreamin/typst-book): A simple tool for creating modern online books in pure typst. <https://myriad-dreamin.github.io/typst-book/>
+- 🌟 [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz): CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
+- [mitex-rs/mitex](https://github.com/mitex-rs/mitex): LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/ <https://mitex-rs.github.io/mitex/tools/underleaf.html>
 - [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts): Run Typst in JavaScriptWorld. <https://myriad-dreamin.github.io/typst.ts>
-- [mrkline/modern-latex](https://github.com/mrkline/modern-latex): A short guide to LaTeX that avoids legacy cruft. <https://assets.bitbashing.io/modern-latex.pdf>
+- [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher): Typst package for drawing diagrams with arrows, built on top of CeTZ.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst): Awesome Typst Links
-- [0xpapercut/wypst](https://github.com/0xpapercut/wypst): Typst math typesetting for the web. <https://0xpapercut.github.io/wypst/>
-- [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML): LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. <http://dlmf.nist.gov/LaTeXML/>
-- [FudanSELab/academic-writing-guide](https://github.com/FudanSELab/academic-writing-guide): 一些关于写论文的教程,防止犯一些低级错误
-- 🌟 [dspinellis/latex-advice](https://github.com/dspinellis/latex-advice): Advice for writing LaTeX documents
 - [andreasKroepelin/polylux](https://github.com/andreasKroepelin/polylux): A package for creating slides in Typst <https://polylux.dev/book>
+- [0xpapercut/wypst](https://github.com/0xpapercut/wypst): Typst math typesetting for the web. <https://0xpapercut.github.io/wypst/>
 - [touying-typ/touying](https://github.com/touying-typ/touying): Touying is a powerful package for creating presentation slides in Typst. <https://touying-typ.github.io/touying/>
+- [typst/typst](https://github.com/typst/typst): A new markup-based typesetting system that is powerful and easy to learn. <https://typst.app>
+- [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new language server for Typst, plus a VS Code extension
 
 ### Bib
 

@@ -14,6 +14,7 @@ Streaming Systems
 - [Event-driven Utopia](https://www.eventdrivenutopia.com/): Learn to Build Event-driven Applications
   - [Medium: Dunith Dhanushka](https://dunith.medium.com/)
 - [risingwavelabs/awesome-stream-processing](https://github.com/risingwavelabs/awesome-stream-processing): A collection of demonstrations showcasing how stream processing can be used to solve real-world problems. <https://risingwave.com/slack>
+- [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming): a curated list of awesome streaming frameworks, applications, etc <https://manuzhang.github.io/awesome-streaming>
 
 ## Streamify
 
@@ -26,16 +27,15 @@ Streaming Systems
 ### DAG
 
 - [yahoo/graphkit](https://github.com/yahoo/graphkit): A lightweight Python module for creating and running ordered graphs of computations.
-- 📝 [streamlet-dev/tributary](https://github.com/streamlet-dev/tributary): Streaming reactive and dataflow graphs in Python
 - [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton): A scalable general purpose micro-framework for defining dataflows. You can use it to build dataframes, numpy matrices, python objects, ML models, etc. Embed Hamilton anywhere python runs, e.g. spark, airflow, jupyter, fastapi, python scripts, etc. <https://hamilton.readthedocs.io/en/latest>
 
 ## Frameworks
 
 - 🌟 [thatdot/quine](https://github.com/thatdot/quine): Quine • a streaming graph • Slack: quine-io.slack.com <https://quine.io>
-- 🌟[bytewax/bytewax](https://github.com/bytewax/bytewax): A Python framework for building highly scalable dataflows. <https://docs.bytewax.io>
-- 🌟[pathwaycom/pathway](https://github.com/pathwaycom/pathway): Pathway is an open framework for high-throughput and low-latency real-time data processing. <https://pathway.com>
-- [quixio/quix-streams](https://github.com/quixio/quix-streams): Quix Streams - A library for telemetry data streaming. Python Stream Processing <https://quix.io/>
-- 🌟[TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow): A modular implementation of timely dataflow in Rust -🌟 [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow): An implementation of differential dataflow using timely dataflow on Rust.
+- 🌟 [bytewax/bytewax](https://github.com/bytewax/bytewax): A Python framework for building highly scalable dataflows. <https://docs.bytewax.io>
+- 🌟 [pathwaycom/pathway](https://github.com/pathwaycom/pathway): Pathway is an open framework for high-throughput and low-latency real-time data processing. <https://pathway.com>
+- 🌟 [quixio/quix-streams](https://github.com/quixio/quix-streams): Quix Streams - A library for telemetry data streaming. Python Stream Processing <https://quix.io/>
+- 🌟 [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow): A modular implementation of timely dataflow in Rust -🌟 [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow): An implementation of differential dataflow using timely dataflow on Rust.
 - [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast): Open-source distributed computation and storage platform. Real-time Stream Processing Unconference. Save Your Spot https://hazelcast.com/lp/unconference/ <https://www.hazelcast.com/>
 - [python-streamz/streamz](https://github.com/python-streamz/streamz): Real-time stream processing for python <https://streamz.readthedocs.io/en/latest/>
 - [tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime): Tremor is an event- or stream-processing system. It is designed to perform well for high-volumetric data both in terms of consumption of memory and CPU resources and in terms of latency. <https://www.tremor.rs/>
@@ -46,6 +46,10 @@ Streaming Systems
 - [grailbio/reflow](https://github.com/grailbio/reflow): A language and runtime for distributed, incremental data processing in the cloud
 - [streamdal/streamdal](https://github.com/streamdal/streamdal): Code-Native Data Pipelines <https://www.streamdal.com>
 - [Point72/csp](https://github.com/Point72/csp): csp is a high performance reactive stream processing library, written in C++ and Python
+- 📝 [streamlet-dev/tributary](https://github.com/streamlet-dev/tributary): Streaming reactive and dataflow graphs in Python
+- [maki-nage/makinage](https://github.com/maki-nage/makinage): Stream Processing Made Easy <https://www.makinage.org>
+- [numaproj/numaflow](https://github.com/numaproj/numaflow): Kubernetes-native platform to run massively parallel data/streaming jobs <https://numaflow.numaproj.io>
+- [TouK/nussknacker](https://github.com/TouK/nussknacker): Low-code tool for automating actions on real time data | Stream processing for the users. <https://nussknacker.io>
 
 ### Streaming Database
 
