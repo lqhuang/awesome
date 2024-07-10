@@ -93,6 +93,7 @@
 - [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba): GitHub Action to set up micromamba
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish): The blessed GitHub Action, for publishing your 📦 distribution files to PyPI: https://github.com/marketplace/actions/pypi-publish <https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/>
 - [Quantco/pytest-action](https://github.com/Quantco/pytest-action): GitHub Action to run pytest with GitHub Job Summaries support 🐍 🚀
+- [actions/python-versions](https://github.com/actions/python-versions): Python builds for Actions Runner Images
 
 ### Packaging
 

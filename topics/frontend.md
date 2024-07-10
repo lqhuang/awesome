@@ -64,8 +64,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack): This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea. <https://www.epicweb.dev/epic-stack>
 
-## Toolchains
-
 ### UI
 
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app): A modified web browser that helps in responsive web development. A web developer's must have dev-tool. <https://responsively.app>
@@ -199,6 +197,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js): Easy Parallax Effect for React & JavaScript <https://simpleparallax.com>
 
+- [silx-kit/h5web](https://github.com/silx-kit/h5web): React components for data visualization and exploration <https://h5web.panosc.eu/>
+
 - [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber): A React renderer for rendering hand-drawn SVGs. <https://react-rough-fiber.amind.app>
 - [rough-stuff/rough](https://github.com/rough-stuff/rough): Create graphics with a hand-drawn, sketchy, appearance <http://roughjs.com>
   - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation): Create and animate hand-drawn annotations on a web page <https://roughnotation.com/>
@@ -229,6 +229,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 <https://formik.org>
 - [bhch/react-json-form](https://github.com/bhch/react-json-form): JSON editing made easy using form inputs. <https://bhch.github.io/react-json-form>
 - [edmundhung/conform](https://github.com/edmundhung/conform): A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js. <https://conform.guide>
+- [guidone/lets-form](https://github.com/guidone/lets-form): A JSON form generator for React with Material UI / AntDesign / Bootstrap / RSuite / Mantine <https://letsform.dev>
 
 ### Table
 
