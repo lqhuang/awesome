@@ -182,6 +182,7 @@
 - [inkdrop-org/inkdrop-visualizer](https://github.com/inkdrop-org/inkdrop-visualizer): Visualizes your Terraform <https://inkdrop.ai/>
 - 🌟 [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer): CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [tenable/terrascan](https://github.com/tenable/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure. <https://runterrascan.io>
+- [mr-karan/nomcfg](https://github.com/mr-karan/nomcfg): https://nomcfg.mrkaran.dev/
 
 ## Infrastructure less
 

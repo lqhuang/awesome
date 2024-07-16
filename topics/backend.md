@@ -41,6 +41,7 @@
 
 - [wagtail/wagtail](https://github.com/wagtail/wagtail): A Django content management system focused on flexibility and user experience <https://wagtail.org>
 - [strapi/strapi](https://github.com/strapi/strapi): 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first. <https://strapi.io>
+  - [VirtusLab-Open-Source/strapi-plugin-navigation](https://github.com/VirtusLab-Open-Source/strapi-plugin-navigation): A plugin for Strapi Headless CMS that provides navigation / menu builder feature with their possibility to control the audience and different output structure renderers like (flat, tree and RFR - ready for handling by Redux First Router)
 - [sanity-io/sanity](https://github.com/sanity-io/sanity): Sanity Studio – Rapidly configure content workspaces powered by structured content <https://www.sanity.io>
 - [keystonejs/keystone](https://github.com/keystonejs/keystone): The most powerful headless CMS for Node.js — built with GraphQL and React <https://keystonejs.com>
 - [wundergraph/wundergraph](https://github.com/wundergraph/wundergraph): WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition. <https://wundergraph.com>

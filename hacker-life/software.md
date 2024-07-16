@@ -129,6 +129,8 @@
 - [ProxMobo](https://www.proxmobo.app/): Proxmox VE Monitor & Management
 - [I18n Studio](https://www.i18n.studio/)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
+- [Droppable](https://www.pixelwrld.co/droppable): Send large files from your Desktop in a couple of clicks.
+- [NotchNook](https://lo.cafe/notchnook): a whole new way of using your `macos`
 
 ## Windows
 
@@ -180,6 +182,7 @@
 - [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar): No description, website, or topics provided.
 - [~bitfehler/m2dir](https://sr.ht/~bitfehler/m2dir/): M2dir aims to provide a standardized way to store a collection of email messages as files. It is similar to Maildir/Maildir++, but aims to be simpler and more thoroughly specified.
   - [M2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
+- [bolcom/unFTP](https://github.com/bolcom/unFTP): A FTP(S) server with a couple of twists written in Rust. Follow and talk to us on https://t.me/unftp. Docs on https://unftp.rs
 
 ### Developer
 
@@ -192,6 +195,7 @@
 - [sr.ht/~sircmpwn/sourcehut](https://sr.ht/~sircmpwn/sourcehut/): This is the main project hub for SourceHut itself. To browse our source code, see the "sources" tab at the nav along the top of the page.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD <https://about.gitea.com>
 - [raphamorim/rio](https://github.com/raphamorim/rio): A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. <https://raphamorim.io/rio>
+- [leaningtech/webvm](https://github.com/leaningtech/webvm): Virtual Machine for the Web <https://webvm.io>
 
 ### Email
 

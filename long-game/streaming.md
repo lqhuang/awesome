@@ -67,6 +67,10 @@ Streaming Systems
 - [nanomsg/nng](https://github.com/nanomsg/nng): nanomsg-next-generation -- light-weight brokerless messaging
 - [codypiersall/pynng](https://github.com/codypiersall/pynng): Python bindings for Nanomsg Next Generation. <https://pynng.readthedocs.io>
 - [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor): High Performance Inter-Thread Messaging Library <http://lmax-exchange.github.io/disruptor/>
+  - [nicholassm/disruptor-rs](https://github.com/nicholassm/disruptor-rs): Low latency inter-thread communication library in Rust inspired by the LMAX Disruptor.
+  - [jamie-allen/sdisruptor](https://github.com/jamie-allen/sdisruptor): A Scala implementation of the open sourced LMAX Disruptor concurrency pattern <http://code.google.com/p/disruptor/>
+  - [fsaintjacques/disruptor--](https://github.com/fsaintjacques/disruptor--): disruptor concurency pattern in c++
+  - [Abc-Arbitrage/Disruptor-cpp](https://github.com/Abc-Arbitrage/Disruptor-cpp): Port of LMAX Disruptor to C++
 - 📝 [shipt/py-volley](https://github.com/shipt/py-volley): Lightweight, pluggable messaging in Python
 - [df308/x9](https://github.com/df308/x9): high performance message passing library
 

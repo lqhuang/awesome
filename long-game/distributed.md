@@ -6,7 +6,7 @@
 - Raft
   - [maemual/raft-zh_cn](https://github.com/maemual/raft-zh_cn): Raft 一致性算法论文的中文翻译
   - [OneSizeFitsQuorum/raft-thesis-zh_cn](https://github.com/OneSizeFitsQuorum/raft-thesis-zh_cn): Raft 博士论文的中文翻译
-  - - [ongardie/raft.tla](https://github.com/ongardie/raft.tla): TLA+ specification for the Raft consensus algorithm
+  - [ongardie/raft.tla](https://github.com/ongardie/raft.tla): TLA+ specification for the Raft consensus algorithm
 - [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list): A list of papers about distributed consensus. <https://heidihoward.github.io/distributed-consensus-reading-list>
 - [CS525 UIUC SP21: Reading List](https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/)
 - [mwhittaker/consistency_in_distributed_systems](https://github.com/mwhittaker/consistency_in_distributed_systems): Distributed Systems Consistency Reading Group <https://mwhittaker.github.io/consistency_in_distributed_systems>
@@ -19,14 +19,15 @@
 - [roma-glushko/awesome-distributed-system-projects](https://github.com/roma-glushko/awesome-distributed-system-projects): 🚀 List of distributed system projects for inspiration and learning to build distributed services from real world examples
 - [TigerBeetle Simulator](https://sim.tigerbeetle.com/)
 - [stevana/armstrong-distributed-systems](https://github.com/stevana/armstrong-distributed-systems)
-- [ept/ddia-references](https://github.com/ept/ddia-references): Literature references for “Designing Data-Intensive Applications”
-- [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia): DDIA 逐章精读 <https://ddia.qtmuniao.com>
 - [JEPSEN Analyses](https://jepsen.io/analyses): Since 2013, Jepsen has analyzed over two dozen databases, coordination services, and queues—and we’ve found replica divergence, data loss, stale reads, read skew, lock conflicts, and much more. Here’s every analysis we’ve published.
 - [frankmcsherry/blog](https://github.com/frankmcsherry/blog): Some notes on things I find interesting and important.
 - [“My bad opinions”](https://ferd.ca/a-distributed-systems-reading-list.html): A Distributed Systems Reading List
+- [Normcore Systems Reading List](https://karanchawla.io/2024/06/24/distributed_systems_reading)
 
 ### Books
 
+- [ept/ddia-references](https://github.com/ept/ddia-references): Literature references for “Designing Data-Intensive Applications”
+  - [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia): DDIA 逐章精读 <https://ddia.qtmuniao.com>
 - [Distributed Systems](https://www.distributed-systems.net/): M. van Steen and A.S. Tanenbaum, Distributed Systems, 4th ed., distributed-systems.net, 2023.
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book):This is a book about the programming constructs we use to build distributed systems. <http://dist-prog-book.com/chapter/2/futures.html>
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems): 《Patterns of Distributed Systems》中文版

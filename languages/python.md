@@ -389,6 +389,7 @@
 - [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans. <https://schedule.readthedocs.io/>
 - [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️ <https://glom.readthedocs.io>
 - 🌟 [kiorky/croniter](https://github.com/kiorky/croniter): croniter provides iteration for the datetime object with a cron like format.
+- 🌟 [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever): ⏰ Modern datetime library for Python, written in Rust <https://whenever.rtfd.io>
 - [ZechCodes/Bevy](https://github.com/ZechCodes/Bevy): A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. <https://blog.zech.codes/bevy-v2>
 - [pradyunsg/diagnostic](https://github.com/pradyunsg/diagnostic): `diagnostic` makes it easier to build command line tools with great error reporting. <https://diagnostic.readthedocs.io/en/latest/>
 - 🌟 [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict): 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
@@ -399,6 +400,7 @@
 - 🌟 [tox-dev/filelock](https://github.com/tox-dev/filelock): A platform-independent file lock for Python. <https://py-filelock.readthedocs.io>
 - 🌟 [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser): python parser for human readable dates
 - [cpburnz/python-pathspec](https://github.com/cpburnz/python-pathspec): Utility library for gitignore style pattern matching of file paths.
+- 🌟 [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec): A specification that python filesystems should adhere to.
 
 ### Configuration
 
@@ -570,3 +572,4 @@
   - [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
 - [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny): Shiny for Python <https://shiny.posit.co/py/>
 - [google/mesop](https://github.com/google/mesop): Build delightful web apps quickly in Python 🚀
+- [TexteaInc/funix](https://github.com/TexteaInc/funix): Building web apps without manually creating widgets <http://funix.io>

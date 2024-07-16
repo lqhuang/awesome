@@ -23,6 +23,10 @@
 - [jessevig/bertviz](https://github.com/jessevig/bertviz): BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.) <https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1>
 - [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research): This repository contains implementations and illustrative code to accompany DeepMind publications
 - [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet): A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability. <http://www.wzchen.com/probability-cheatsheet>
+- [poloclub/transformer-explainer](https://github.com/poloclub/transformer-explainer): Learn How Transformers work in Generative AI with Interactive Visualization <https://poloclub.github.io/transformer-explainer/>
+- [poloclub/cnn-explainer](https://github.com/poloclub/cnn-explainer): Learning Convolutional Neural Networks with Interactive Visualization. <https://poloclub.github.io/cnn-explainer/>
+- [poloclub/diffusion-explainer](https://github.com/poloclub/diffusion-explainer): Diffusion Explainer: Visual Explanation for Text-to-image Stable Diffusion <https://poloclub.github.io/diffusion-explainer/>
+- [poloclub/ganlab](https://github.com/poloclub/ganlab): GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks <https://poloclub.github.io/ganlab/>
 
 ## Books
 

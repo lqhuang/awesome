@@ -74,16 +74,21 @@
 - [SQLite Cloud](https://sqlitecloud.io/): Cloud-share any SQLite database in no time
 - 🌟 [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm): SQLite Wasm conveniently wrapped as an ES Module.
 
-### Timeseries & Graph
+### Timeseries
 
 - [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox): Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.
 - [cnosdb/cnosdb](https://github.com/cnosdb/cnosdb): An Open Source Distributed Time Series Database with high performance, high compression ratio and high usability. <https://www.cnosdb.com>
+- [tembo-io/pg_timeseries](https://github.com/tembo-io/pg_timeseries): Simple and focused time-series tables for PostgreSQL, from Tembo
+- [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb): An open-source, cloud-native, distributed time-series database with PromQL/SQL/Python supported. Available on GreptimeCloud. <https://greptime.com/>
+
+### Graph
+
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb): A scalable, distributed, collaborative, document-graph database, for the realtime web <https://surrealdb.com>
 - [cozodb/cozo](https://github.com/cozodb/cozo): A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! <https://cozodb.org>
 - [TuGraph-family/tugraph-db](https://github.com/TuGraph-family/tugraph-db): TuGraph is a high performance graph database. <https://tugraph.org>
 - [memgraph/memgraph](https://github.com/memgraph/memgraph): Open-source graph database, built for real-time streaming data, compatible with Neo4j. <https://memgraph.com>
 - [Netflix/atlas](https://github.com/Netflix/atlas): In-memory dimensional time series database.
-- [tembo-io/pg_timeseries](https://github.com/tembo-io/pg_timeseries): Simple and focused time-series tables for PostgreSQL, from Tembo
+- [apache/age](https://github.com/apache/age): Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL. <https://age.apache.org>
 
 ### KV
 
@@ -106,6 +111,7 @@
 - [milvus-io/milvus](https://github.com/milvus-io/milvus): Vector database for scalable similarity search and AI applications. <https://milvus.io> <https://zilliz.com>
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB): A hyper-fast local vector database for use with LLM Agents.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma): the AI-native open-source embedding database <https://www.trychroma.com>
+- [turbopuffer](https://turbopuffer.com/): A serverless vector database built from first principles on object storage: 10-100x cheaper, usage-based pricing, and massive scalability
 
 🌟 You may don't need a vector database, just use a vector index library:
 
@@ -199,6 +205,7 @@
   - uuid-ossp
 - [tcdi/plrust](https://github.com/tcdi/plrust): A Rust procedural language handler for PostgreSQL
 - 🌟 [ankane/pgsync](https://github.com/ankane/pgsync): Sync data from one Postgres database to another
+- [ankane/pgslice](https://github.com/ankane/pgslice): Postgres partitioning as easy as pie
 - [eradman/pg-safeupdate](https://github.com/eradman/pg-safeupdate): A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE
 - 🌟 [xataio/pgroll](https://github.com/xataio/pgroll): PostgreSQL zero-downtime migrations made easy <https://www.xata.io>
 - [ardentperf/dsef](https://github.com/ardentperf/dsef): DiffStats and ExplainFull: detailed SQL reports for third party help & support

@@ -49,9 +49,11 @@
 
 - 🌟 [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) <https://www.usebruno.com/>
 - 🌟 [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl): Hurl, run and test HTTP requests with plain text. <https://hurl.dev>
+- 🌟 [ducaale/xh](https://github.com/ducaale/xh): Friendly and fast tool for sending HTTP requests
+  - Fast httpie
+- [httpie/desktop](https://github.com/httpie/desktop): 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. <https://httpie.io>
 - [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC. <https://insomnia.rest>
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): 👽 Open source API development ecosystem - https://hoppscotch.io <https://hoppscotch.io>
-- [httpie/desktop](https://github.com/httpie/desktop): 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. <https://httpie.io>
 - [reqable/reqable-app](https://github.com/reqable/reqable-app): Reqable issue track repo <https://reqable.com>
 - [Rapid API](https://rapidapi.com/): previous <https://paw.cloud> <https://rapidapi.com>
 - [testingisdocumenting/znai](https://github.com/testingisdocumenting/znai): Build functional, maintainable, beautiful User Guides with markdown and Znai plugins. Instant pages navigation. Local search. Multiple integrations to work with Python, Java, C++, OpenAPI, etc. Transform "getting started" sections into slideshow for your workshops. Manage multiple documentations with self-deployed znai hub. <https://testingisdocumenting.org/znai>
@@ -59,14 +61,16 @@
 ### Nix
 
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix): An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems <https://zero-to-nix.com>
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer): Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
+- [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas): Schemas for common flake output types
 - [NixOS/nix](https://github.com/NixOS/nix): Nix, the purely functional package manager <https://nixos.org/>
   - [Welcome to nix.dev](https://nix.dev/): nix.dev is the home of official documentation for the Nix ecosystem.
 - 🌟 [oddlama/nix-topology](https://github.com/oddlama/nix-topology): 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations <https://oddlama.github.io/nix-topology>
 - 🌟 [flox/flox](https://github.com/flox/flox): Developer environments you can take with you <https://flox.dev>
 - [tweag/genealogos](https://github.com/tweag/genealogos): Genealogos, a Nix sbom generator
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer): Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [nix-community/disko](https://github.com/nix-community/disko): Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
 - [terranix/terranix](https://github.com/terranix/terranix): terranix is a terraform.json generator with a nix-like feeling <https://terranix.org>
+- [antithesishq/madness](https://github.com/antithesishq/madness): Madness enables you to easily run the same binary on NixOS and non-NixOS systems <https://antithesis.com>
 
 ## Hook / Tools
 
@@ -99,3 +103,4 @@
 - [dorny/paths-filter](https://github.com/dorny/paths-filter): Conditionally run actions based on files modified by PR, feature branch or pushed commits
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. <https://github.com/marketplace/actions/github-pages-action>
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark): GitHub Action for continuous benchmarking to keep performance <https://benchmark-action.github.io/github-action-benchmark/dev/bench/>
+- [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server): Self-hosted GitHub Actions cache server implementation. Compatible with official 'actions/cache' action <https://gha-cache-server.falcondev.io>

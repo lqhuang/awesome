@@ -166,6 +166,7 @@
 - [Email Self-Defense](https://emailselfdefense.fsf.org)
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. <https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>
 - [rfc-st/humble](https://github.com/rfc-st/humble): A humble, and fast!, security-oriented HTTP headers analyzer. <https://github.com/rfc-st/humble>
+- [elceef/dnstwist](https://github.com/elceef/dnstwist): Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation <https://dnstwist.it>
 
 ## Open Source Software: State, Progress and Future
 

@@ -18,3 +18,5 @@
 
 - [MagicStack/httptools](https://github.com/MagicStack/httptools): Fast HTTP parser
 - [TkTech/can_ada](https://github.com/TkTech/can_ada): Python bindings for Ada, a fast and spec-compliant URL parser.
+- [google/re2](https://github.com/google/re2): RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+  - [PyPI: google-re2](https://pypi.org/project/google-re2/)

@@ -72,6 +72,8 @@
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad): A Python toolbox for performing gradient-free optimization <https://facebookresearch.github.io/nevergrad/>
 - [lessw2020/Best-Deep-Learning-Optimizers](https://github.com/lessw2020/Best-Deep-Learning-Optimizers): Collection of the latest, greatest, deep learning optimizers (for Pytorch) - CNN, NLP suitable
 - [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free): Schedule-Free Optimization in PyTorch
+- [mlpack/ensmallen](https://github.com/mlpack/ensmallen): A header-only C++ library for numerical optimization -- <http://ensmallen.org>
+- [stevengj/nlopt](https://github.com/stevengj/nlopt): library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization
 
 ### Network implementation
 
@@ -175,6 +177,7 @@
 
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass): CUDA Templates for Linear Algebra Subroutines
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT): NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference applications. <https://developer.nvidia.com/tensorrt>
+- [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub): NVIDIA curated collection of educational resources related to general purpose GPU programming.
 - [google/XNNPACK](https://github.com/google/XNNPACK): High-efficiency floating-point neural network inference operators for mobile, server, and Web
 - [Azure/MS-AMP](https://github.com/Azure/MS-AMP): Microsoft Automatic Mixed Precision Library <https://azure.github.io/MS-AMP/>
 
@@ -210,6 +213,7 @@
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi): Productive & portable high-performance programming in Python. <https://taichi-lang.org>
 - [taichi-dev/difftaichi](https://github.com/taichi-dev/difftaichi): 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
 - [NVIDIA/warp](https://github.com/NVIDIA/warp): A Python framework for high performance GPU simulation and graphics <https://nvidia.github.io/warp/>
+- [autodiff/autodiff](https://github.com/autodiff/autodiff): automatic differentiation made easier for C++ <https://autodiff.github.io>
 
 ## Jax ecology
 
@@ -250,6 +254,7 @@
 - [MatX-inc/seqax](https://github.com/MatX-inc/seqax): seqax = sequence modeling + JAX
 - [yklcs/jaxsplat](https://github.com/yklcs/jaxsplat): 3D Gaussian Splatting in JAX <https://jaxsplat.readthedocs.io>
 - [keraJLi/rejax](https://github.com/keraJLi/rejax): No description, website, or topics provided.
+- [yixiaoer/einshard](https://github.com/yixiaoer/einshard): Einsum-like high-level array sharding API for JAX <https://einshard.readthedocs.io/>
 
 ### DeepMind specialization
 
@@ -278,12 +283,10 @@
 - [google/maxtext](https://github.com/google/maxtext): A simple, performant and scalable Jax LLM!
 - [google/maxdiffusion](https://github.com/google/maxdiffusion): MaxDiffusion is a Latent Diffusion model written in pure Python/Jax and targeting Google Cloud TPUs.
 - [google/jaxopt](https://github.com/google/jaxopt): Hardware accelerated, batchable and differentiable optimizers in JAX. <https://jaxopt.github.io>
-- [google/paxml](https://github.com/google/paxml): Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates.
 - [google/orbax](https://github.com/google/orbax): Orbax provides common utility libraries for JAX users. <https://orbax.readthedocs.io/>
 - [google-research/discs](https://github.com/google-research/discs): DISCS: The code base for the Benchmark for Discrete Sampling
-
-This is not an officially supported Google product.
-
+- [google/paxml](https://github.com/google/paxml): Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates.
+  - [google/praxis](https://github.com/google/praxis): No description, website, or topics provided. This is not an officially supported Google product.
 - [google-research/gpax](https://github.com/google-research/gpax): Gaussian processes in Jax.
 - [google-research/e3x](https://github.com/google-research/e3x): E3x is a JAX library for constructing efficient E(3)-equivariant deep learning architectures built on top of Flax.
 
@@ -361,3 +364,4 @@ This is not an officially supported Google product.
 - [naklecha/llama3-from-scratch](https://github.com/naklecha/llama3-from-scratch): llama3 implementation one matrix multiplication at a time
 - [milton-l/microhaskell](https://github.com/milton-l/microhaskell): Small autodiff lib and a simple working feedforward neural net in Haskell on top of it, from scratch, zero-deps.
 - [dorjeduck/momograd](https://github.com/dorjeduck/momograd): A Learning Journey: Micrograd in Mojo 🔥
+- [mttga/purejaxql](https://github.com/mttga/purejaxql): Simple single-file baselines for Q-Learning in pure-GPU setting

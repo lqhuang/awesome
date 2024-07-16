@@ -266,6 +266,7 @@
 - [fthomas/fs2-cron](https://github.com/fthomas/fs2-cron): FS2 streams based on cron expressions
 - [ollls/quartz-h2](https://github.com/ollls/quartz-h2): Asynchronous Java NIO http/2 only packet streaming server with TLS encryption implemented as Scala CATS effect. Direct native translation of fs2 stream chunks into http2 packets ( inbound and outbound ).
 - [theiterators/http4s-stir](https://github.com/theiterators/http4s-stir): http4s-stir offers Pekko HTTP-style (Akka HTTP-style) DSL directives for http4s using cats-effect's IO as an effect system
+- [gnieh/fs2-data](https://github.com/gnieh/fs2-data): streaming data parsing and transformation library <https://fs2-data.gnieh.org>
 
 ### ZIO
 

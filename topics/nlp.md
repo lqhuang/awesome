@@ -20,6 +20,7 @@
 - [AmenRa/ranx](https://github.com/AmenRa/ranx): ⚡️A Blazing-Fast Python Library for Ranking Evaluation, Comparison, and Fusion 🐍 <https://amenra.github.io/ranx>
 - [espnet/espnet](https://github.com/espnet/espnet): End-to-End Speech Processing Toolkit <https://espnet.github.io/espnet/>
 - [google/unisim](https://github.com/google/unisim): UniSim is a package for efficient similarity computation, fuzzy matching, and clustering of data.
+- [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer): Truly universal encoding detector in pure Python <https://charset-normalizer.readthedocs.io/en/latest/>
 
 ## tokenizer / BPE
 

@@ -146,6 +146,7 @@
 - [smol-rs/concurrent-queue](https://github.com/smol-rs/concurrent-queue): Concurrent multi-producer multi-consumer queue
 - [mitsuhiko/fragile](https://github.com/mitsuhiko/fragile): Utility wrapper to send non send types to other threads safely https://github.com/Marthog/rust-stm
 - [bytedance/ipmb](https://github.com/bytedance/ipmb): An interprocess message bus system built in Rust.
+- [wvwwvwwv/scalable-concurrent-containers](https://github.com/wvwwvwwv/scalable-concurrent-containers): High performance containers and utilities for concurrent and asynchronous programming
 
 ### Lock & synchronization
 
@@ -204,6 +205,7 @@
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu): Cross-platform, safe, pure-rust graphics api. <https://wgpu.rs>
 - [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust): Rust wrapper for ArrayFire
 - 🌟 [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8): SIMD-accelerated UTF-8 validation for Rust.
+- [LaihoE/SIMD-itertools](https://github.com/LaihoE/SIMD-itertools): Faster implementations of standard library operations like find, filter, position etc.
 
 ## DS & Algorithms
 
@@ -434,6 +436,7 @@
 - [foundationdb-rs/foundationdb-rs](https://github.com/foundationdb-rs/foundationdb-rs): FoundationDB Rust client api <https://crates.io/crates/foundationdb>
 - [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs): Ergonomic bindings to duckdb for Rust
 - [amqp-rs/lapin](https://github.com/amqp-rs/lapin): AMQP client library in Rust, with a clean, futures based API
+- [MrCroxx/foyer](https://github.com/MrCroxx/foyer): Hybrid in-memory and disk cache in Rust <https://github.com/mrcroxx/foyer>
 
 ## Misc
 

@@ -135,3 +135,4 @@
 - [haskell-unordered-containers/unordered-containers](https://github.com/haskell-unordered-containers/unordered-containers): Efficient hashing-based container types
 - [guibou/PyF](https://github.com/guibou/PyF): Haskell QuasiQuoter for String Formatting
 - [haskell-repa/repa](https://github.com/haskell-repa/repa): High performance, regular, shape polymorphic parallel arrays. <http://repa.ouroborus.net>
+- [NorfairKing/sydtest](https://github.com/NorfairKing/sydtest): A modern testing framework for Haskell with good defaults and advanced testing features.

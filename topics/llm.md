@@ -107,6 +107,7 @@
 - [jrudolph/llama2.scala](https://github.com/jrudolph/llama2.scala): Inference Llama 2 in one file of hideous Scala (A port of llama2.c from Andrej Karpathy)
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama): OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset [facebookresearch/PurpleLlama](https://github.com/facebookresearch/PurpleLlama): Set of tools to assess and improve LLM security.
 - [b4rtaz/distributed-llama](https://github.com/b4rtaz/distributed-llama): Run LLMs on weak devices or make powerful devices even more powerful by distributing the workload and dividing the RAM usage.
+- [CrazyBoyM/llama3-Chinese-chat](https://github.com/CrazyBoyM/llama3-Chinese-chat): Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档） <https://huggingface.co/shareAI>
 
 ### Anthropics
 
