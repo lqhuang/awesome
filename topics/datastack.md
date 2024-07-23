@@ -48,6 +48,7 @@
 ## Data governance
 
 - [whylabs/whylogs](https://github.com/whylabs/whylogs): The open standard for data logging <https://whylogs.readthedocs.io>
+- [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm): Data-Centric Pipelines and Data Versioning <https://www.pachyderm.com/>
 
 ## Data quality
 

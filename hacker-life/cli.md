@@ -59,6 +59,7 @@
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions): Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go): Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - 🌟 [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff): The fastest pixel-by-pixel image visual difference tool in the world.
+- 🌟 [google/magika](https://github.com/google/magika): Detect file content types with deep learning <https://google.github.io/magika/>
 
 ## TUI applications
 

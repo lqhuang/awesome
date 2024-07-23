@@ -327,6 +327,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy): Fast and secure standalone server for resizing and converting remote images <https://imgproxy.net>
 - [evilmartians/figma-polychrom](https://github.com/evilmartians/figma-polychrom): Figma plugin for displaying the contrast level and font size recommendations according to the APCA method <https://www.figma.com/community/plugin/1281280685402026529/polychrom>
 - [gridaco/cors.sh](https://github.com/gridaco/cors.sh): Sick of CORS Errors? <https://cors.sh>
+- [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid): A module used to arrange card elements including content infinitely on a grid layout. <https://naver.github.io/egjs-infinitegrid/>
 
 ## Visualization
 

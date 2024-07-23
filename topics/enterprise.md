@@ -110,6 +110,7 @@
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises): Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [formbricks/formbricks](https://github.com/formbricks/formbricks): Open Source Surveys & Experience Management Solution <https://formbricks.com>
 - [heyform/heyform](https://github.com/heyform/heyform): HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required. <https://heyform.net>
+- [unkeyed/unkey](https://github.com/unkeyed/unkey): Open source API management platform <https://go.unkey.com>
 
 ### Pipelines / Workflow
 
@@ -155,6 +156,7 @@
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit): Cockpit is a web-based graphical interface for servers. <http://www.cockpit-project.org/>
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime): OneUptime is the complete open-source observability platform. <https://oneuptime.com>
 - [Hydrozen.io](https://hydrozen.io/): Monitor availability of your websites, Cronjobs, APIs, Domains, SSL etc.
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks): Open-source cron job and background task monitoring service, written in Python & Django <https://healthchecks.io>
 
 ### Observability: Logging / Metrics / APM
 
@@ -215,6 +217,7 @@
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine): 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 <https://waf-ce.chaitin.cn/>
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): Protect and discover secrets using Gitleaks 🔑 <https://gitleaks.io>
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb): 🛡️ Make your web services secure by default ! <https://www.bunkerweb.io>
+- [google/osv.dev](https://github.com/google/osv.dev): Open source vulnerability DB and triage service. <https://osv.dev>
 
 ## Career
 

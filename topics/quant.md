@@ -47,6 +47,7 @@
 - [TradeMaster-NTU/TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster): TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning 🔥 ⚡ 🌈
 - [chronoxor/CppTrader](https://github.com/chronoxor/CppTrader): High performance components for building Trading Platform such as ultra fast matching engine, order book processor
   - How fast for ultra fast matching engine?
+- [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs): Open-source Rust framework for building event-driven live-trading & backtesting systems <https://github.com/orgs/barter-rs/repositories>
 
 ## Backtesting
 

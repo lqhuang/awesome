@@ -195,6 +195,8 @@
 - [scala/toolkit](https://github.com/scala/toolkit): The batteries-included Scala
 - [andyglow/scala-jsonschema](https://github.com/andyglow/scala-jsonschema): Scala JSON Schema
 - [propensive/contextual](https://github.com/propensive/contextual): Statically-checked string interpolation in Scala <https://propensive.com/contextual/>
+- [eed3si9n/ifdef](https://github.com/eed3si9n/ifdef): `@ifdef` is an annotation that implements conditional compilation in Scala
+- [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR): A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster. <https://www.logorrr.app/>
 
 ### Misc
 
@@ -214,6 +216,8 @@
 - [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>
 - 🌟 [com-lihaoyi/sourcecode](https://github.com/com-lihaoyi/sourcecode): Scala library providing "source" metadata to your program, similar to Python's **name**, C++'s **LINE** or Ruby's **FILE**.
 - [lolgab/snunit](https://github.com/lolgab/snunit): Scala Native HTTP server based on NGINX Unit <https://lolgab.github.io/snunit/>
+- [VirtusLab/iskra](https://github.com/VirtusLab/iskra): Typesafe wrapper for Apache Spark DataFrame API <https://virtuslab.github.io/iskra/>
+- [ComputeNode/scalag](https://github.com/ComputeNode/scalag): Multi-platform GPGPU computations with Scala, seamlessly 🚀
 
 ## Stream / Effect systems / Experiments
 

@@ -41,6 +41,7 @@
 - [Probabilistic Numerics](https://www.probabilistic-numerics.org/textbooks/)
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/): A MOOC on convex optimization, CVX101. If you register for it, you can access all the course materials. More material can be found at the web sites for EE364A (Stanford) or EE236B (UCLA), and our own web pages.
 - 🌟 [udlbook/udlbook](https://github.com/udlbook/udlbook): Understanding Deep Learning - Simon J.D. Prince
+  - [careywyr/UnderstandingDeepLearning-ZH-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN): UnderstandingDeepLearing 中文翻译
 - [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io): 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning <https://nndl.github.io/>
 - [Visualize-ML/Book3_Fundamentals-of-Mathematics](https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics): 《数学要素》，清华社五审五校中；Github 稿件基本稳定，欢迎提意见，会及时修改
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra): Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
@@ -107,6 +108,7 @@
 - [standardebooks/tools](https://github.com/standardebooks/tools): The Standard Ebooks toolset for producing our ebook files.
 - [mathquill/mathquill](https://github.com/mathquill/mathquill): Easily type math in your webapp <http://mathquill.com>
 - [FudanSELab/academic-writing-guide](https://github.com/FudanSELab/academic-writing-guide): 一些关于写论文的教程,防止犯一些低级错误
+- [arnog/mathlive](https://github.com/arnog/mathlive): A web component for easy math input <https://cortexjs.io/mathlive>
 
 ### LaTex
 

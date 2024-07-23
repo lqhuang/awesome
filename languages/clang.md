@@ -193,6 +193,7 @@
 - [TartanLlama/expected](https://github.com/TartanLlama/expected): C++11/14/17 std::expected with functional-style extensions <https://tl.tartanllama.xyz>
 - [google/cpu_features](https://github.com/google/cpu_features): A cross platform C99 library to get cpu features at runtime.
 - [nihui/ruapu](https://github.com/nihui/ruapu): Detect CPU ISA features with single-file <https://github.com/nihui/ruapu>
+- [jupp0r/prometheus-cpp](https://github.com/jupp0r/prometheus-cpp): Prometheus Client Library for Modern C++
 
 ## Compiler beyond default Clang
 

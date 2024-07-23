@@ -80,6 +80,7 @@
 - [trailofbits/abi3audit](https://github.com/trailofbits/abi3audit): Scans Python packages for abi3 violations and inconsistencies <https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit>
 - [R9295/panoptisch](https://github.com/R9295/panoptisch): A recursive dependency scanner for Python projects
 - [copier-org/copier](https://github.com/copier-org/copier/): Library and command-line utility for rendering projects templates. <https://readthedocs.org/projects/copier>
+- [python-project-templates](https://github.com/python-project-templates): Python, C++, Rust, JavaScript, Jupyter, and more
 - [njsmith/posy](https://github.com/njsmith/posy): The goal is for posy to act as a kind of high-level frontend to python
 - 🌟 [furkanonder/beetrace](https://github.com/furkanonder/beetrace): Trace your python process line by line with low overhead! <https://desktop.github.com>
 - [prefix-dev/rip](https://github.com/prefix-dev/rip): Solve and install Python packages quickly with rip (pip in Rust) <https://prefix.dev>
@@ -316,6 +317,7 @@
 - [mpdavis/python-jose](https://github.com/mpdavis/python-jose): A JOSE implementation in Python
 - 📝 [Lancetnik/Propan](https://github.com/Lancetnik/Propan): Propan is a powerful and easy-to-use Python framework for building asynchronous web services that interact with Any MQ Broker <https://lancetnik.github.io/Propan/>
 - [krptn/krypton](https://github.com/krptn/krypton): Data encryption at rest and IAM for Python <https://www.krptn.dev/>
+- [breuleux/jurigged](https://github.com/breuleux/jurigged): Hot reloading for Python
 
 ### DB clients and SQL utils
 
@@ -340,6 +342,7 @@
 - [ipython/pickleshare](https://github.com/ipython/pickleshare): File system based database that uses python pickles
 - 🌟 [unum-cloud/ustore](https://github.com/unum-cloud/ustore): Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with NetworkX and Pandas interfaces, and bindings for C 99, C++ 17, Python 3, Java, GoLang 🗄️ <https://unum-cloud.github.io/ustore/>
 - [kylebarron/arro3](https://github.com/kylebarron/arro3): A minimal Python library for Apache Arrow, connecting to the Rust arrow crate <https://kylebarron.dev/arro3/core>
+- [sauljabin/kaskade](https://github.com/sauljabin/kaskade): kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style! <https://github.com/sauljabin/kaskade>
 
 ### API clients
 

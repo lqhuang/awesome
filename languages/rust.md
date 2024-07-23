@@ -98,6 +98,7 @@
 - [rust-analyzer/expect-test](https://github.com/rust-analyzer/expect-test): Minimalistic snapshot testing for Rust.
 - [proptest-rs/proptest](https://github.com/proptest-rs/proptest): Hypothesis-like property testing for Rust
 - [rustwasm/twiggy](https://github.com/rustwasm/twiggy): Twiggy🌱 is a code size profiler <https://rustwasm.github.io/twiggy>
+- [google/assertor](https://github.com/google/assertor): Fluent assertion library for Rust with readable messages.
 
 ### Performance profile
 
@@ -147,6 +148,7 @@
 - [mitsuhiko/fragile](https://github.com/mitsuhiko/fragile): Utility wrapper to send non send types to other threads safely https://github.com/Marthog/rust-stm
 - [bytedance/ipmb](https://github.com/bytedance/ipmb): An interprocess message bus system built in Rust.
 - [wvwwvwwv/scalable-concurrent-containers](https://github.com/wvwwvwwv/scalable-concurrent-containers): High performance containers and utilities for concurrent and asynchronous programming
+- [mirromutth/latches](https://github.com/mirromutth/latches): A downward counter (CountDownLatch) which can be used to synchronize threads or coordinate tasks
 
 ### Lock & synchronization
 

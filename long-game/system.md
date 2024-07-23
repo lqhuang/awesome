@@ -14,6 +14,8 @@
 - 🌟 [The Deadlock Empire](https://deadlockempire.github.io/): Slay dragons, master concurrency!
   - An interactive programming game!
 - [parallel101/simdtutor](https://github.com/parallel101/simdtutor): x86-64 SIMD 矢量优化系列教程
+- [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
+- 🌟 [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
 
 ## Linux Tuning
 

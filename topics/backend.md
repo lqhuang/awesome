@@ -36,6 +36,7 @@
 - [Bubble](https://bubble.io/)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source & self-hostable Heroku / Netlify / Vercel alternative. <https://coolify.io>
 - [apitable/apitable](https://github.com/apitable/apitable): 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. <https://aitable.ai>
+- [dream-num/univer](https://github.com/dream-num/univer): Univer is an open-source alternative to Google Sheets, Slides, and Docs <https://univer.ai>
 
 ## CMS
 
