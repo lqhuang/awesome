@@ -16,6 +16,7 @@
 - [Warrenren/inside-rust-std-library](https://github.com/Warrenren/inside-rust-std-library): 本书主要对 RUST 的标准库代码进行分析，并试图给出 RUST 标准库代码的分析脉络。This project try to give a venation of how reading the RUST standard library source code.
 - [night-cruise/async-rust](https://github.com/night-cruise/async-rust): 这是一本电子书，旨在介绍 Rust 中 async/await 语法和异步运行时的原理和工作机制。 <https://night-cruise.github.io/async-rust/>
 - [Effective Rust](https://www.lurklurk.org/effective-rust/cover.html): 35 Specific Ways to Improve Your Rust Code
+- [rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn): Effective Rust 中文版 <https://rustx-labs.github.io/effective-rust-cn>
 
 ### Readings / Tutorials
 

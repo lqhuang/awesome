@@ -23,6 +23,7 @@
 - [frankmcsherry/blog](https://github.com/frankmcsherry/blog): Some notes on things I find interesting and important.
 - [“My bad opinions”](https://ferd.ca/a-distributed-systems-reading-list.html): A Distributed Systems Reading List
 - [Normcore Systems Reading List](https://karanchawla.io/2024/06/24/distributed_systems_reading)
+- [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 
 ### Books
 

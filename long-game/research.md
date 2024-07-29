@@ -27,6 +27,10 @@
 - [poloclub/cnn-explainer](https://github.com/poloclub/cnn-explainer): Learning Convolutional Neural Networks with Interactive Visualization. <https://poloclub.github.io/cnn-explainer/>
 - [poloclub/diffusion-explainer](https://github.com/poloclub/diffusion-explainer): Diffusion Explainer: Visual Explanation for Text-to-image Stable Diffusion <https://poloclub.github.io/diffusion-explainer/>
 - [poloclub/ganlab](https://github.com/poloclub/ganlab): GAN Lab: An Interactive, Visual Experimentation Tool for Generative Adversarial Networks <https://poloclub.github.io/ganlab/>
+- 🌟 [mitmath/computational-thinking](https://github.com/mitmath/computational-thinking): Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia <https://computationalthinking.mit.edu/>
+- [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/)
+  - [parrt/website-explained.ai](https://github.com/parrt/website-explained.ai): The website content for explained.ai
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
 
 ## Books
 

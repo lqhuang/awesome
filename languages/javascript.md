@@ -153,6 +153,8 @@
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch): The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [toss/es-toolkit](https://github.com/toss/es-toolkit): A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash. <https://es-toolkit.slash.page>
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib): ✨ Standard library for JavaScript and Node.js. ✨ <https://stdlib.io>
+- [sindresorhus/ky](https://github.com/sindresorhus/ky): 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
+- [unjs/ofetch](https://github.com/unjs/ofetch): 😱 A better fetch API. Works on node, browser and workers.
 
 ## Middleware
 

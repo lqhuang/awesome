@@ -107,6 +107,7 @@
 - 🌟 [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel): 🎡 Build Python wheels for all the platforms on CI with minimal configuration.
 - 🌟 [pyupio/dparse](https://github.com/pyupio/dparse): A parser for Python dependency files
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package): Build and Inspect Python Packages in Your CI
+- [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged): The easiest way to ship python applications. <https://packaged.live>
 
 ### Docs
 
@@ -279,6 +280,7 @@
 - [kolibril13/jupyter-tldraw](https://github.com/kolibril13/jupyter-tldraw): the very good free whiteboard tldraw in the jupyter output
 - [deshaw/jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time): A JupyterLab extension for displaying cell timings
 - [davidbrochart/jupyter-kernel-provisioner-proxy](https://github.com/davidbrochart/jupyter-kernel-provisioner-proxy): Jupyter kernel provisioner proxy
+- [google-deepmind/treescope](https://github.com/google-deepmind/treescope): An interactive HTML pretty-printer for machine learning research in IPython notebooks. <https://treescope.readthedocs.io/>
 
 ### Prob
 

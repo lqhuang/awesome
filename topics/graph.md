@@ -7,6 +7,7 @@
 - [graph-neural-networks/graph-neural-networks](https://github.com/graph-neural-networks/graph-neural-networks.github.io): This repo is for hosting our GNN book titled "Graph Neural Networks: Foundations, Frontiers, and Applications". <https://graph-neural-networks.github.io/index.html>
 - [Graphlet-AI/graphml-class](https://github.com/Graphlet-AI/graphml-class): Full Stack Graph Machine Learning: Theory, Practice, Tools and Techniques <https://graphlet.ai>- [Graphlet-AI/graphml-class](https://github.com/Graphlet-AI/graphml-class): Full Stack Graph Machine Learning: Theory, Practice, Tools and Techniques <https://graphlet.ai>
 - [yueliu1999/Awesome-Deep-Graph-Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering): Awesome Deep Graph Clustering is a collection of SOTA, novel deep graph clustering methods (papers, codes, and datasets).
+- [timothewt/AdvancedGraphClustering](https://github.com/timothewt/AdvancedGraphClustering): Advanced Graph Clustering method documentation and implementation (From Spectral Clustering to Deep Graph Clustering) <https://timothewt.github.io/AdvancedGraphClustering/>
 
 ## Framework
 

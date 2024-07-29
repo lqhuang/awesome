@@ -169,7 +169,7 @@
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus): 云探针、多服务器探针、云监控、多服务器云监控，演示： <https://tz.cloudcpp.com>
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust): ✨ Rust 版 ServerStatus 探针、威力加强版 <https://ssr.rs/>
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io): 📚 LookScanned.io - Make your PDFs look scanned <https://lookscanned.io>
-- [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances <https://maybe.co>
+- 🌟 [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances <https://maybe.co>
 - 🌟 [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. <https://massgrave.dev>
 - [~mlb/linkhut](https://sr.ht/~mlb/linkhut/): linkhut is an open source social bookmarking website. <https://ln.ht/>
 - [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker

@@ -189,6 +189,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js): 🌞 A lightweight JavaScript library that generates customizable heat maps to visualize date-based activity and trends. <https://www.william-troup.com/heat-js>
 - 🌟 [bitjson/qr-code](https://github.com/bitjson/qr-code): A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element. <https://qr.bitjson.com/>
 - [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions): Use CSS View Transitions API in Next.js App Router. <https://next-view-transitions.vercel.app>
+- [beholdr/maska](https://github.com/beholdr/maska): Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS. <https://beholdr.github.io/maska/>
 
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars): A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling. <https://kingsora.github.io/OverlayScrollbars>
 - [Temzasse/react-modal-sheet](https://github.com/Temzasse/react-modal-sheet): Flexible bottom sheet component built with Framer Motion to provide buttery smooth UX while keeping accessibility in mind 🪐 <https://temzasse.github.io/react-modal-sheet/>
