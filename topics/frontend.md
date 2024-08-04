@@ -33,20 +33,23 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Transition animations: a practical guide](https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659)
 - 🌟 [phuocng/csslayout](https://github.com/phuocng/csslayout): A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing! <https://phuoc.ng/collection/css-layout>
 - [UI Snippets](https://ui-snippets.dev/)
-- [TailwindCSS Snippets](https://snippets.alexandru.so/)
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [The Cleanest Trick for Autogrowing Textareas](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)
 
 ## Framework
 
 - [denoland/fresh](https://github.com/denoland/fresh): The next-gen web framework. <https://fresh.deno.dev>
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood): The App Framework for Startups <https://redwoodjs.com>
 - [honojs/hono](https://github.com/honojs/hono): Ultrafast web framework for Cloudflare Workers and Deno. Fast, but not only fast.
+- [stacksjs/stacks](https://github.com/stacksjs/stacks): ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster. <https://stacksjs.org>
+- [refinedev/refine](https://github.com/refinedev/refine): Build your React-based CRUD applications, without constraints. <https://refine.dev>
 - [alpinejs/alpine](https://github.com/alpinejs/alpine): A rugged, minimal framework for composing JavaScript behavior in your markup. <https://alpinejs.dev>
 - [trpc/trpc](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. <https://trpc.io>
 - 🌟 [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework <https://waku.gg>
 - [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js): Reactivity without the framework <https://arrow-js.com>
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra): Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
 - 🌟🌟🌟 [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
+- [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js): A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth): Authentication for the Web. <https://authjs.dev>
 
 ### Templates
@@ -56,9 +59,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [shadcn/taxonomy](https://github.com/shadcn/taxonomy): An open source application built using the new router, server components and everything new in Next.js 13. <https://tx.shadcn.com>
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise): 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development. <https://next-enterprise.vercel.app>
 - [akd-io/create-next-stack](https://github.com/akd-io/create-next-stack): Create Next Stack is a website and CLI tool used to easily set up the boilerplate of new Next.js apps. <https://www.create-next-stack.com>
-- [stacksjs/stacks](https://github.com/stacksjs/stacks): ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster. <https://stacksjs.org>
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood): The App Framework for Startups <https://redwoodjs.com>
-- [refinedev/refine](https://github.com/refinedev/refine): Build your React-based CRUD applications, without constraints. <https://refine.dev>
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog): This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs. <https://tailwind-nextjs-starter-blog.vercel.app/>
 - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge): A production-grade boilerplate for modern Next.js apps. <https://github.com/haydenbleasel/next-forge>
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
@@ -78,16 +78,23 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ### Components framework
 
-- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui): Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. <https://headlessui.dev>
 - [patternfly/patternfly](https://github.com/patternfly/patternfly): This repo contains core (HTML/CSS) implementation for PatternFly. Issues related to CSS/HTML and layout should be filed here. <https://patternfly.org/>
 - [lit/lit](https://github.com/lit/lit): Lit is a simple library for building fast, lightweight web components. <https://lit.dev>
 - [tabler/tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap <https://preview.tabler.io>
-- [konstaui/konsta](https://github.com/konstaui/konsta): Mobile UI components made with Tailwind CSS <https://konstaui.com>
 - [microsoft/fast](https://github.com/microsoft/fast): The adaptive interface system for modern web experiences. <https://www.fast.design>
-- [themesberg/flowbite](https://github.com/themesberg/flowbite): The most popular and open-source library of Tailwind CSS components <https://flowbite.com>
 - [ariakit/ariakit](https://github.com/ariakit/ariakit): Toolkit for building accessible web apps with React <https://ariakit.org>
-- [markmead/hyperui](https://github.com/markmead/hyperui): Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 <https://hyperui.dev>
-- [hevar/awesome-react-tailwindcss-ui-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components): No description, website, or topics provided.
+- Tailwind
+  - [themesberg/flowbite](https://github.com/themesberg/flowbite): The most popular and open-source library of Tailwind CSS components <https://flowbite.com>
+  - [TailwindCSS Snippets](https://snippets.alexandru.so/)
+  - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline): Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. <https://preline.co>
+  - [konstaui/konsta](https://github.com/konstaui/konsta): Mobile UI components made with Tailwind CSS <https://konstaui.com>
+  - [markmead/hyperui](https://github.com/markmead/hyperui): Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 <https://hyperui.dev>
+  - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui): Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS. <https://headlessui.dev>
+  - [hevar/awesome-react-tailwindcss-ui-components](https://github.com/hevar/awesome-react-tailwindcss-ui-components): No description, website, or topics provided.
+  - [saadeghi/daisyui](https://github.com/saadeghi/daisyui): ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ The most popular, free and open-source Tailwind CSS component library <https://daisyui.com>
+  - [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui): Clean, modern and beautiful Tailwind CSS components. <https://ripple-ui.com>
+  - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements): 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use <https://tailwind-elements.com>
+  - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template): Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. <https://simple.cruip.com>
 
 #### React
 
@@ -103,6 +110,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz. <https://radix-ui.com>
 - 🌟 [radix-ui/themes](https://github.com/radix-ui/themes): Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos. <https://radix-ui.com/themes>
 - 🌟 [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
+  - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui. <https://awesome-shadcn-ui.vercel.app/>
   - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table): A shadcn table component with server-side sorting, filtering, and pagination. <https://table.sadmn.com>
   - [damianricobelli/shadcn-stepper](https://github.com/damianricobelli/shadcn-stepper): <https://shadcn-stepper.vercel.app/>
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react): Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications. <https://react.keepdesign.io>
@@ -122,8 +130,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 ### CSS Style
 
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips): ⚡️ A collection of tips to help take your CSS skills pro 🦾
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui): ⭐️ ⭐️ ⭐️ ⭐️ ⭐️ The most popular, free and open-source Tailwind CSS component library <https://daisyui.com>
-- [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui): Clean, modern and beautiful Tailwind CSS components. <https://ripple-ui.com>
 - [andybrewer/mvp](https://github.com/andybrewer/mvp/): MVP.css — Minimalist classless CSS stylesheet for HTML elements <https://andybrewer.github.io/mvp>
 - [Mokshit06/typewind](https://github.com/Mokshit06/typewind): The safety of Typescript with the magic of Tailwind. <https://typewind.vercel.app>
 - [macaron-css/macaron](https://github.com/macaron-css/macaron): Typesafe CSS-in-JS with zero runtime, colocation, maximum safety and productivity <https://macaron.js.org>
@@ -147,9 +153,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [micromark/micromark](https://github.com/micromark/micromark): small, safe, and great commonmark (optionally gfm) compliant markdown parser <https://unifiedjs.com>
 - [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx): 🏭 The most lightweight, customizable React markdown component. <https://markdown-to-jsx.quantizor.dev/>
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown): 🍼 Plugin driven WYSIWYG markdown editor framework. <https://milkdown.dev>
-
-- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements): 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use <https://tailwind-elements.com>
-- [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template): Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. <https://simple.cruip.com>
 
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React. <https://sonner.emilkowal.ski>
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic): A React tiling window manager <https://nomcopter.github.io/react-mosaic/>
@@ -376,6 +379,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [Figma Plugin](https://dub.sh/iconbuddy-figma)
 - 🌟 [pheralb/svgl](https://github.com/pheralb/svgl): 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS. <https://svgl.app>
 - [feathericons/feather](https://github.com/feathericons/feather): Simply beautiful open-source icons <https://feathericons.com>
+- [texel-org/color](https://github.com/texel-org/color): modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
 
 ## Further topics
 

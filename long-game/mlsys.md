@@ -20,6 +20,12 @@
 - [HazyResearch/aisys-building-blocks](https://github.com/HazyResearch/aisys-building-blocks): Building blocks for foundation models.
 - [jessevig/bertviz](https://github.com/jessevig/bertviz): BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.) <https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1>
 - [Efficient GEMM in CUDA](https://github.com/NVIDIA/cutlass/blob/main/media/docs/efficient_gemm.md)
+- [ML Code Challenges](https://www.deep-ml.com/)
+- [TensorGym](https://tensorgym.com/exercises): Elevate Your AI Skills and Interview Confidence with unique exercises!
+
+### Readings
+
+- [A reading list for machine learning systems](https://jeongseob.github.io/readings_mlsys.html)
 
 ### Books
 
@@ -215,6 +221,7 @@
 - [taichi-dev/difftaichi](https://github.com/taichi-dev/difftaichi): 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
 - [NVIDIA/warp](https://github.com/NVIDIA/warp): A Python framework for high performance GPU simulation and graphics <https://nvidia.github.io/warp/>
 - [autodiff/autodiff](https://github.com/autodiff/autodiff): automatic differentiation made easier for C++ <https://autodiff.github.io>
+- [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph): A machine learning library for Rust.
 
 ## Jax ecology
 
@@ -256,6 +263,7 @@
 - [yklcs/jaxsplat](https://github.com/yklcs/jaxsplat): 3D Gaussian Splatting in JAX <https://jaxsplat.readthedocs.io>
 - [keraJLi/rejax](https://github.com/keraJLi/rejax): No description, website, or topics provided.
 - [yixiaoer/einshard](https://github.com/yixiaoer/einshard): Einsum-like high-level array sharding API for JAX <https://einshard.readthedocs.io/>
+- [epignatelli/navix](https://github.com/epignatelli/navix): Accelerated minigrid environments with JAX
 
 ### DeepMind specialization
 
@@ -342,6 +350,7 @@
 - [pytorch/PiPPy](https://github.com/pytorch/PiPPy): Pipeline Parallelism for PyTorch
 - [google/ml_collections](https://github.com/google/ml_collections): ML Collections is a library of Python Collections designed for ML use cases. <https://ml-collections.readthedocs.io/>
 - [google/grain](https://github.com/google/grain): No description, website, or topics provided.
+- [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector <https://pypi.org/project/jax-smi/>
 
 ## Misc
 

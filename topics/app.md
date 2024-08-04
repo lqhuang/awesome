@@ -45,3 +45,4 @@
   - [facebook/componentkit](https://github.com/facebook/componentkit): A React-inspired view framework for iOS. <http://www.componentkit.org/>
 - [andrew-levy/swiftui-react-native](https://github.com/andrew-levy/swiftui-react-native): Bringing SwiftUI features to your React Native app. It's like if React Native and SwiftUI had a child. <http://swiftui-react-native.vercel.app>
 - [kishikawakatsumi/applelocalization-web](https://github.com/kishikawakatsumi/applelocalization-web): An unofficial Apple localization terms glossary that allows you to search for standard localization texts provided by the Apple platform. <https://applelocalization.com/>
+- [margelo/react-native-filament](https://github.com/margelo/react-native-filament): 🐧 A real-time physically based 3D rendering engine for React Native <https://margelo.github.io/react-native-filament/>

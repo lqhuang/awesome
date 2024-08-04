@@ -104,6 +104,7 @@
 - [Alexware Systems](https://alexwaresystems.pages.alexware.systems/homepage/)
   - not a project, but an example
   - hackers' dream LOL
+- [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder): 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 
 ## HomeKit / IoT
 

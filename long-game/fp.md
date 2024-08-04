@@ -26,6 +26,7 @@
   - [chiroptical/book-of-monads](https://github.com/chiroptical/book-of-monads): Finished Book of Monads by Alejandro Serrano-Mena
 - [Agda-zh/PLFA-zh](https://github.com/Agda-zh/PLFA-zh): 《编程语言基础：Agda 描述》，Programming Language Foundations in Agda 中文版 <https://agda-zh.github.io/PLFA-zh/>
 - [choukh/CategoryTheory](https://github.com/choukh/CategoryTheory): A Coq formalization of the textbook Categories and Toposes: Visualized and Explained
+- [dspivak/dependent-types](https://github.com/dspivak/dependent-types): dependent-types
 
 ### Readings
 

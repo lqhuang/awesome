@@ -72,6 +72,7 @@
 - [nix-community/disko](https://github.com/nix-community/disko): Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
 - [terranix/terranix](https://github.com/terranix/terranix): terranix is a terraform.json generator with a nix-like feeling <https://terranix.org>
 - [antithesishq/madness](https://github.com/antithesishq/madness): Madness enables you to easily run the same binary on NixOS and non-NixOS systems <https://antithesis.com>
+- [nixified-ai/flake](https://github.com/nixified-ai/flake): A Nix flake for many AI projects
 
 ## Hook / Tools
 

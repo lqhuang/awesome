@@ -11,6 +11,10 @@
 - [neumannt/saneql](https://github.com/neumannt/saneql): Prototype compiler from SaneQL to SQL <https://saneql.com/>
 - [machow/siuba](https://github.com/machow/siuba): Python library for using dplyr like syntax with pandas and SQL <https://siuba.org>
 
+## Warehouse
+
+- [polaris-catalog/polaris](https://github.com/polaris-catalog/polaris): The interoperable, open source catalog for Apache Iceberg <http://polaris.io/>
+
 ## Data Format
 
 - parquet

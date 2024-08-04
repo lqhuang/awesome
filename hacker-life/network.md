@@ -140,7 +140,7 @@
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne): A Smart Ethernet Switch for Earth <https://zerotier.com>
 - [Twingate](https://www.twingate.com/): Twingate makes Zero Trust Network Access easy to deploy, even easier to use, and always secure.
 - [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full mesh configuration generator.
-- [trailofbits/algo](https://github.com/trailofbits/algo): Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
+- 🌟 [trailofbits/algo](https://github.com/trailofbits/algo): Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
 - [coturn/coturn](https://github.com/coturn/coturn): coturn TURN server project
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun): A list of publicly available STUN servers, refreshed every hour.
 
