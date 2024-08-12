@@ -162,7 +162,7 @@
 - [mlcommons/inference](https://github.com/mlcommons/inference): Reference implementations of MLPerf™ inference benchmarks <https://mlcommons.org/en/groups/inference>
 - [mlcommons/logging](https://github.com/mlcommons/logging): MLPerf™ logging library <https://mlcommons.org/en/groups/best-practices-benchmark-infra>
 
-### Platform / Workflow pipeline / MLOps
+### Workflow pipeline / MLOps
 
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course): A project-based course on the foundations of MLOps to responsibly develop, deploy and maintain ML. <https://madewithml.com>
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp): Free MLOps course from DataTalks.Club
@@ -179,6 +179,9 @@
 - 🌟 [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix): ML Observability in a Notebook - Uncover Insights, Surface Problems, Monitor, and Fine Tune your Generative LLM, CV and Tabular Models <https://docs.arize.com/phoenix>
 - [eth-easl/orion](https://github.com/eth-easl/orion): An interference-aware scheduler for fine-grained GPU sharing
 - [iterative/dvc](https://github.com/iterative/dvc): 🦉 ML Experiments Management with Git <https://dvc.org>
+- 🌟 [feathr-ai/feathr](https://github.com/feathr-ai/feathr): Feathr – A scalable, unified data and AI engineering platform for enterprise <https://join.slack.com/t/feathrai/shared_invite/zt-1ffva5u6v-voq0Us7bbKAw873cEzHOSg>
+  - in Scala? Interesting
+- [featureform/featureform](https://github.com/featureform/featureform): The Virtual Feature Store. Turn your existing data infrastructure into a feature store. <https://www.featureform.com>
 
 ## Tensor inference
 
@@ -313,6 +316,7 @@
 
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping): Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
+- [pytorch/ao](https://github.com/pytorch/ao): The missing pytorch dtype and layout library for training and inference
 
 ## Manipulating and transforming
 

@@ -62,6 +62,7 @@
 - [stunnel/static-curl](https://github.com/stunnel/static-curl): static builds cURL with HTTP3
 - [plaintextpackets/netprobe_lite](https://github.com/plaintextpackets/netprobe_lite): Simple internet performance tester written in Python
 - [xykt/IPQuality](https://github.com/xykt/IPQuality): A script for IP quality detection
+- [bytedance/netcap](https://github.com/bytedance/netcap): No description, website, or topics provided.
 
 ### Analysis
 

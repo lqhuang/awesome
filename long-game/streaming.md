@@ -50,6 +50,7 @@ Streaming Systems
 - [maki-nage/makinage](https://github.com/maki-nage/makinage): Stream Processing Made Easy <https://www.makinage.org>
 - [numaproj/numaflow](https://github.com/numaproj/numaflow): Kubernetes-native platform to run massively parallel data/streaming jobs <https://numaflow.numaproj.io>
 - [TouK/nussknacker](https://github.com/TouK/nussknacker): Low-code tool for automating actions on real time data | Stream processing for the users. <https://nussknacker.io>
+- 🌟 [feldera/feldera](https://github.com/feldera/feldera): The Feldera Incremental Computation Engine <https://feldera.com>
 
 ### Streaming Database
 

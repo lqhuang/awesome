@@ -11,9 +11,10 @@
 - [fastlane/fastlane](https://github.com/fastlane/fastlane): 🚀 The easiest way to automate building and releasing your iOS and Android apps <https://fastlane.tools>
 - [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise): Bitrise runner CLI - run your automations on your Mac or Linux machine - <https://www.bitrise.io/cli>
 
-## capacitorjs
+## Electron like
 
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor): Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ <https://capacitorjs.com>
+- [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs): Portable and lightweight cross-platform desktop application development framework <https://neutralino.js.org>
 
 ## React Native (cross platforms)
 

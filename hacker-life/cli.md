@@ -79,6 +79,7 @@
 - [Lissy93/AdGuardian-Term](https://github.com/Lissy93/AdGuardian-Term): 🛡️ Terminal-based, real-time traffic monitoring and statistics for your AdGuard Home instance <https://adguardian.as93.net>
 - [usgraphics/TR-100](https://github.com/usgraphics/TR-100): TR-100 Machine Report
 - [apparebit/prettypretty](https://github.com/apparebit/prettypretty): Hello pretty 🌸 pretty, awesome terminal colors you have there! <https://apparebit.github.io/prettypretty/>
+- 🌟 [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch): An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 
 ## Monitor
 

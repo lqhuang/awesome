@@ -65,6 +65,7 @@
 ## Realtime and collaboration applications
 
 - [jamsocket/plane](https://github.com/jamsocket/plane): A distributed system for running WebSocket services at scale. <https://plane.dev>
+- [electric-sql/electric](https://github.com/electric-sql/electric): Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres. <https://electric-sql.com>
 
 ## Interface Definition Language
 

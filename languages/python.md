@@ -229,6 +229,8 @@
 - 🌟 [MagicStack/immutables](https://github.com/MagicStack/immutables): A high-performance immutable mapping type for Python.
 - [dgilland/pydash](https://github.com/dgilland/pydash): The kitchen sink of Python utility libraries for doing "stuff" in a functional way. Based on the Lo-Dash Javascript library. <http://pydash.readthedocs.io>
 - [ideos/gloe](https://github.com/ideos/gloe): Gloe (pronounced /ɡloʊ/, like “glow”) is a general-purpose library made to help developers create, maintain, document, and test both operational and flow-oriented code. <https://gloe.ideos.com.br>
+- 🌟 [JulienPalard/Pipe](https://github.com/JulienPalard/Pipe): A Python library to use infix notation in Python
+  - Simple and no extra magic!
 
 ## Domain libraries
 
@@ -247,6 +249,7 @@
 - [Quantco/glum](https://github.com/Quantco/glum): High performance Python GLMs with all the features! <https://glum.readthedocs.io/>
 - [fluiddyn/transonic](https://github.com/fluiddyn/transonic): 🚀 Make your Python code fly at transonic speeds! <https://transonic.readthedocs.io>
 - [NVIDIA/numba-cuda](https://github.com/NVIDIA/numba-cuda): An out-of-tree CUDA target for Numba.
+- [thaler-lab/Wasserstein](https://github.com/thaler-lab/Wasserstein): Python/C++ library for computing Wasserstein distances efficiently. <https://thaler-lab.github.io/Wasserstein>
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -283,6 +286,7 @@
 - [deshaw/jupyterlab-execute-time](https://github.com/deshaw/jupyterlab-execute-time): A JupyterLab extension for displaying cell timings
 - [davidbrochart/jupyter-kernel-provisioner-proxy](https://github.com/davidbrochart/jupyter-kernel-provisioner-proxy): Jupyter kernel provisioner proxy
 - [google-deepmind/treescope](https://github.com/google-deepmind/treescope): An interactive HTML pretty-printer for machine learning research in IPython notebooks. <https://treescope.readthedocs.io/>
+- [manzt/anywidget](https://github.com/manzt/anywidget): jupyter widgets made easy <https://anywidget.dev>
 
 ### Prob
 
@@ -537,6 +541,7 @@
 
 ### Chart
 
+- 🌟 [The best Python libraries for data visualization](https://python-graph-gallery.com/best-dataviz-packages/)
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and dashboarding solution for Python
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz): Automatically Visualize any dataset, any size with a single line of code. Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.
 - [pygfx/pygfx](https://github.com/pygfx/pygfx): Like ThreeJS but for Python and based on wgpu <https://pygfx.readthedocs.io>
@@ -545,7 +550,6 @@
 - [lux-org/lux](https://github.com/lux-org/lux): Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [moshi4/pyCirclize](https://github.com/moshi4/pyCirclize): Circular visualization in Python (Circos Plot, Chord Diagram) <https://moshi4.github.io/pyCirclize>
 - [ponnhide/pyCircos](https://github.com/ponnhide/pyCircos): python Circos
-- [lgienapp/aquarel](https://github.com/lgienapp/aquarel): Styling matplotlib made easy
 - [lmcinnes/glasbey](https://github.com/lmcinnes/glasbey): Algorithmically create or extend categorical colour palettes
 - 🌟 [csgoh/roadmapper](https://github.com/csgoh/roadmapper): Roadmapper - A Roadmap as Code (Rac) python library. Generate professional roadmap diagram using python code.
 - 🌟 [marcomusy/vedo](https://github.com/marcomusy/vedo): A python module for scientific analysis of 3D data based on VTK and Numpy <https://vedo.embl.es>
@@ -555,6 +559,12 @@
 - [arviz-devs/arviz](https://github.com/arviz-devs/arviz): Exploratory analysis of Bayesian models with Python <https://python.arviz.org>
 - [leotac/joypy](https://github.com/leotac/joypy): Joyplots in Python with matplotlib & pandas 📈
 - [timkpaine/ipydagred3](https://github.com/timkpaine/ipydagred3): ipywidgets library for drawing directed acyclic graphs in jupyterlab using dagre-d3
+- matplotlib
+  - [lgienapp/aquarel](https://github.com/lgienapp/aquarel): Styling matplotlib made easy
+  - [lmcinnes/glasbey](https://github.com/lmcinnes/glasbey): Algorithmically create or extend categorical colour palettes
+  - [JosephBARBIERDARNAL/pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes): A large (+2500) collection of color maps for Python <https://python-graph-gallery.com/color-palette-finder/>
+  - [1313e/CMasher](https://github.com/1313e/CMasher): Scientific colormaps for making accessible, informative and 'cmashing' plots <https://cmasher.readthedocs.io>
+  - [matplotlib/cmocean](https://github.com/matplotlib/cmocean): Colormap setup for standardizing commonly-plotting oceanographic variables.
 
 ### GUI
 

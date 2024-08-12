@@ -137,6 +137,7 @@
   - [Readon/NSFC-application-template-latex](https://github.com/Readon/NSFC-application-template-latex): 国家自然科学基金申请书正文（面上项目）模板（非官方）
 - [MCG-NKU/NSFC-LaTex](https://github.com/MCG-NKU/NSFC-LaTex): No description, website, or topics provided.
 - [huangwb8/ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX): 中国科研常用 LaTeX 模板集
+- [carloskiki/pulldown-latex](https://github.com/carloskiki/pulldown-latex): A pull parser for LaTeX parsing and mathml rendering.
 
 ### Typst
 

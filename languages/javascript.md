@@ -4,8 +4,9 @@
 
 - [npmgraph](https://npmgraph.js.org/)
 - [A list of JavaScript engines, runtimes, interpreters](https://gist.github.com/guest271314/bd292fc33e1b30dede0643a283fadc6a)
-- 🌟 [typehero/typehero](https://github.com/typehero/typehero): Connect, collaborate, and grow with a community of TypeScript developers <https://typehero.dev>
+- [typehero/typehero](https://github.com/typehero/typehero): Connect, collaborate, and grow with a community of TypeScript developers <https://typehero.dev>
 - [Cypress Tips & Tricks](https://cypress.tips/)
+- 🌟 [Maximization/nodejs-toolbox-catalog](https://github.com/Maximization/nodejs-toolbox-catalog): Catalog of categories and libraries for Node.js Toolbox <https://nodejstoolbox.com>
 
 ## Books
 
@@ -65,6 +66,7 @@
 - 🌟 [mswjs/msw](https://github.com/mswjs/msw): Seamless REST/GraphQL API mocking library for browser and Node.js. <https://mswjs.io>
 - [faker-js/faker](https://github.com/faker-js/faker): Generate massive amounts of fake data in the browser and node.js <https://fakerjs.dev>
 - [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
+- 🌟 [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
 
 ### Linter / Formatter
 
@@ -110,6 +112,7 @@
 - 🌟 [jakubroztocil/rrule](https://github.com/jakubroztocil/rrule): JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more. <https://jakubroztocil.github.io/rrule>
 - [Hexagon/croner](https://github.com/Hexagon/croner): Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser. <https://croner.56k.guru>
 - [formkit/tempo](https://github.com/formkit/tempo): 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript. <https://tempo.formkit.com>
+- [vercel/little-date](https://github.com/vercel/little-date): A friendly formatter to make date ranges small & sweet
 
 ### Backend
 

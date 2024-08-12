@@ -24,6 +24,7 @@
 - [logto-io/logto](https://github.com/logto-io/logto): 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps. <https://logto.io>
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security): 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐 <https://authp.github.io>
 - [WorkOS](https://github.com/workos): WorkOS is a set of building blocks for quickly adding enterprise features to your app. You’ll be shipping quickly with a market-proven solution for your customers. <https://workos.com/>
+- [boxyhq/jackson](https://github.com/boxyhq/jackson): 🔥 Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via the SCIM 2.0 protocol for automatic user and group provisioning/de-provisioning. 🤩 <https://boxyhq.com/docs/jackson/overview>
 - 🌟 [Clerk](https://github.com/clerkinc): More than authentication - Complete user management <https://clerk.dev/>
 - 🌟 [Auth0](https://github.com/auth0): Next.js SDK for signing in with Auth0 <https://auth0.com>
 - [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT <https://casdoor.org>
@@ -91,6 +92,7 @@
 - [writethedocs/www](https://github.com/writethedocs/www): The main website for Write the Docs. <http://www.writethedocs.org>
 - [wevm/vocs](https://github.com/wevm/vocs): Minimal Documentation Framework, powered by React + Vite. <https://vocs.dev>
 - [speced/bikeshed](https://github.com/speced/bikeshed): 🚲 A preprocessor for anyone writing specifications that converts source files into actual specs. <https://speced.github.io/bikeshed>
+- [Mintlify](https://mintlify.com/): The documentation you want, effortlessly
 
 ### DevOps
 
@@ -129,6 +131,7 @@
   - [dagu-dev/dagu](https://github.com/dagu-dev/dagu): Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. <https://dagu.readthedocs.io>
 - 🌟 [windmill-labs/windmill](https://github.com/windmill-labs/windmill): Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool. <https://windmill.dev>
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet): A distributed, fault-tolerant task queue <https://hatchet.run>
+- [encoredev/encore](https://github.com/encoredev/encore): Encore is the Backend Development Platform for building distributed systems and event-driven applications. <https://encore.dev>
 
 ### HPC Cluster manager / Job Scheduler
 
