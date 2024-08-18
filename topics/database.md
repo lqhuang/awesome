@@ -131,6 +131,7 @@
 - [sorintlab/stolon](https://github.com/sorintlab/stolon): PostgreSQL cloud native High Availability and more. <https://talk.stolon.io>
 - [CoreDB-io/coredb](https://github.com/CoreDB-io/coredb): Postgres for Everything <http://coredb.io>
 - [electric-sql/pglite](https://github.com/electric-sql/pglite): Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno <https://electric-sql.com>
+- 🌟 [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb): DuckDB-powered Postgres for high performance apps & analytics.
 
 ### In-memory
 
@@ -154,6 +155,7 @@
 - [bruin-data/ingestr](https://github.com/bruin-data/ingestr): ingestr is a CLI tool to copy data between any databases with a single command seamlessly. <https://bruin-data.github.io/ingestr/>
 - [Snaplet](https://www.snaplet.dev/): Get instant seed data for your relational database
   - Looks like no open source otpion currently
+  - Update: Aug, 2024: break-up and accuired by Supabase. Now OSS ...
 
 ### ERD
 

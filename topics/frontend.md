@@ -205,8 +205,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [Bowen7/react-rough-fiber](https://github.com/Bowen7/react-rough-fiber): A React renderer for rendering hand-drawn SVGs. <https://react-rough-fiber.amind.app>
 - [rough-stuff/rough](https://github.com/rough-stuff/rough): Create graphics with a hand-drawn, sketchy, appearance <http://roughjs.com>
+
   - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation): Create and animate hand-drawn annotations on a web page <https://roughnotation.com/>
   - [linkstrifer/react-rough-notation](https://github.com/linkstrifer/react-rough-notation): React wrapper for rough-notation <https://www.npmjs.com/package/react-rough-notation>
+
+- [google/budoux](https://github.com/google/budoux): BudouX is the successor to Budou, the machine learning powered line break organizer tool.
 
 #### PDF
 

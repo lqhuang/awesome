@@ -250,6 +250,7 @@
 - [fluiddyn/transonic](https://github.com/fluiddyn/transonic): 🚀 Make your Python code fly at transonic speeds! <https://transonic.readthedocs.io>
 - [NVIDIA/numba-cuda](https://github.com/NVIDIA/numba-cuda): An out-of-tree CUDA target for Numba.
 - [thaler-lab/Wasserstein](https://github.com/thaler-lab/Wasserstein): Python/C++ library for computing Wasserstein distances efficiently. <https://thaler-lab.github.io/Wasserstein>
+- [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda): Topological Data Analysis for Python🐍 <https://docs.scikit-tda.org>
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -326,6 +327,7 @@
 - 📝 [Lancetnik/Propan](https://github.com/Lancetnik/Propan): Propan is a powerful and easy-to-use Python framework for building asynchronous web services that interact with Any MQ Broker <https://lancetnik.github.io/Propan/>
 - [krptn/krypton](https://github.com/krptn/krypton): Data encryption at rest and IAM for Python <https://www.krptn.dev/>
 - [breuleux/jurigged](https://github.com/breuleux/jurigged): Hot reloading for Python
+- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr): Proxy server to bypass Cloudflare protection
 
 ### DB clients and SQL utils
 

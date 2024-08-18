@@ -19,6 +19,7 @@
 
 - [The complexity of writing an efficient NodeJS Docker image](https://www.specfy.io/blog/1-efficient-dockerfile-nodejs-in-7-steps)
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): ✅ The Node.js best practices list (December 2023) <https://twitter.com/nodepractices/>
+- 🌟 [How to Write TypeScript Like a Haskeller](https://serokell.io/blog/typescript-for-haskellers)
 
 ## Toolchain
 

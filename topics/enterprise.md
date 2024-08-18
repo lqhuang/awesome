@@ -235,6 +235,8 @@
 - [yashk2810/google-interview-university](https://github.com/yashk2810/google-interview-university): A complete daily plan for studying to become a Google software engineer.
 - [DorukKorkmaz/soft-skills](https://github.com/DorukKorkmaz/soft-skills): Summary of the book Soft Skills: The software developer's life manual by John Sonmez
 - [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0): 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 <https://ft07.com/opb-quick-start?mtm_campaign=github&mtm_kwd=opbmv2>
+- [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record): Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+- 🌟 [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中英文对译版本
 
 ### Open Source & Community
 

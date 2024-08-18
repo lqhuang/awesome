@@ -355,6 +355,7 @@
 - [google/ml_collections](https://github.com/google/ml_collections): ML Collections is a library of Python Collections designed for ML use cases. <https://ml-collections.readthedocs.io/>
 - [google/grain](https://github.com/google/grain): No description, website, or topics provided.
 - [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector <https://pypi.org/project/jax-smi/>
+- [fastai/fastcore](https://github.com/fastai/fastcore): Python supercharged for the fastai library <http://fastcore.fast.ai>
 
 ## Misc
 
