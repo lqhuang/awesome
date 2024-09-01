@@ -16,6 +16,7 @@
 - [parallel101/simdtutor](https://github.com/parallel101/simdtutor): x86-64 SIMD 矢量优化系列教程
 - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 - 🌟 [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
+- 🌟 [Book: An Introduction to libuv](https://nikhilm.github.io/uvbook/index.html)
 
 ## Linux Tuning
 

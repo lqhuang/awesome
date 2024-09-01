@@ -26,7 +26,8 @@
 
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl): A curated list of awesome ETL frameworks, libraries, and software.
 - [dbt](https://www.getdbt.com/): Transforming data. Transforming teams. dbt™ helps data teams work like software engineers—to ship trusted data, faster.
-  - non open source
+  - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core): dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications. <https://getdbt.com>
+  - [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): MetricFlow allows you to define, build, and maintain metrics in code. <https://docs.getdbt.com/docs/build/about-metricflow>
 - 🌟 [dlt-hub/dlt](https://github.com/dlt-hub/dlt): data load tool (dlt) is an open source Python library that makes data loading easy 🛠️ <https://dlthub.com/docs>
 - [carbonfact/lea](https://github.com/carbonfact/lea): 🏃‍♀️ Minimalist alternative to dbt
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence): Evidence enables analysts to deliver a polished business intelligence system using SQL and markdown <https://evidence.dev>
@@ -63,7 +64,7 @@
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. <https://cleanlab.ai>
 - [feast-dev/feast](https://github.com/feast-dev/feast): Feature Store for Machine Learning <https://feast.dev>
 - [argilla-io/argilla](https://github.com/argilla-io/argilla): Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency. <https://docs.argilla.io>
-- [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab): The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels. <https://cleanlab.ai>
+- [doccano/doccano](https://github.com/doccano/doccano): Open source annotation tool for machine learning practitioners.
 
 ## Data Observability
 

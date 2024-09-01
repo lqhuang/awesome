@@ -69,6 +69,7 @@
 - [facebookincubator/Glean](https://github.com/facebookincubator/Glean): System for collecting, deriving and working with facts about source code. <https://glean.software/>
 - [github/semantic](https://github.com/github/semantic): Parsing, analyzing, and comparing source code across many languages
 - [ocharles/weeder](https://github.com/ocharles/weeder): A re-implementation of weeder using HIE files
+- [opencompl/lean-mlir](https://github.com/opencompl/lean-mlir): A minimal development of SSA theory
 
 ## PL
 

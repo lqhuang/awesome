@@ -54,6 +54,7 @@
 - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers): aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;) <http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/>
 - [Underactuated Robotics](https://underactuated.mit.edu/): Algorithms for Walking, Running, Swimming, Flying, and Manipulation
 - [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1): Methods in Algebra (Volume 1): A Chinese textbook on Algebra
+- 🌟 [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book): Collaborative book Machine Learning Systems <https://harvard-edge.github.io/cs249r_book/>
 
 ## Numerical Analysis
 
@@ -72,16 +73,16 @@
 
 - [normal-computing/posteriors](https://github.com/normal-computing/posteriors): Uncertainty quantification with PyTorch <https://normal-computing.github.io/posteriors/>
 
+## Workshop
+
+- [Differentiable Almost Everything: Differentiable Relaxations, Algorithms, Operators, and Simulators](https://differentiable.xyz)
+- [Structured Probabilistic Inference and Generative Modeling](https://icml.cc/virtual/2023/workshop/21469)
+
 ## Novel approaches
 
 - [francois-rozet/zuko](https://github.com/francois-rozet/zuko): Normalizing flows in PyTorch <https://zuko.readthedocs.io>
 - [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows): Awesome resources on normalizing flows.
 - 🌟 [lmcinnes/umap](https://github.com/lmcinnes/umap): Uniform Manifold Approximation and Projection
-
-### Workshop
-
-- [Differentiable Almost Everything: Differentiable Relaxations, Algorithms, Operators, and Simulators](https://differentiable.xyz)
-- [Structured Probabilistic Inference and Generative Modeling](https://icml.cc/virtual/2023/workshop/21469)
 
 ### PDE / ODE / SDE
 

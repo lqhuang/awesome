@@ -46,6 +46,7 @@
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan): ⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言 <https://miaoyan.app/>
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes): Notes manager for macOS/iOS <https://fsnot.es>
 - [foambubble/foam](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode <https://foambubble.github.io/>
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook): A fully open source & end-to-end encrypted note taking alternative to Evernote. <https://notesnook.com/>
 
 ## macOS / iPadOS
 

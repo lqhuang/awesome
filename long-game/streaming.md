@@ -86,6 +86,7 @@ Streaming Systems
 - [tembo-io/pgmq](https://github.com/tembo-io/pgmq): A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq): BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis <https://bullmq.io>
 - [smrchy/rsmq](https://github.com/smrchy/rsmq): Redis Simple Message Queue
+- [janbjorge/PgQueuer](https://github.com/janbjorge/PgQueuer): PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing. <https://pgqueuer.readthedocs.io/en/latest/index.html>
 
 ### Kafka
 

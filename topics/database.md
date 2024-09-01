@@ -98,6 +98,7 @@
 - 🌟 [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta embedded databases
 - [microsoft/FASTER](https://github.com/microsoft/FASTER): Fast persistent recoverable log and key-value store + cache, in C# and C++. <https://aka.ms/FASTER>
 - [speedb-io/speedb](https://github.com/speedb-io/speedb): A RocksDB compliant high performance scalable embedded key-value store <https://www.speedb.io/>
+- [slatedb/slatedb](https://github.com/slatedb/slatedb): A cloud native embedded storage engine built on object storage. <https://slatedb.io>
 
 ### Cache
 

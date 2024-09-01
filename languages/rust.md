@@ -393,6 +393,7 @@
 - [rust-lang/stdarch](https://github.com/rust-lang/stdarch): Rust's standard library vendor-specific APIs and run-time feature detection <https://doc.rust-lang.org/stable/core/arch/>
 - [rust-num/num-traits](https://github.com/rust-num/num-traits): Numeric traits for generic mathematics in Rust
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes): Utilities for working with bytes
+- [rinja-rs/rinja](https://github.com/rinja-rs/rinja): A template rendering engine based on Jinja, generating type-safe Rust code at compile time. <https://rinja.readthedocs.io>
 
 ## Domain related
 
@@ -429,6 +430,11 @@
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs): Rust bindings for the C++ api of PyTorch.
 - [burn-rs/burn](https://github.com/burn-rs/burn): BURN: Burn Unstoppable Rusty Neurons <https://burn-rs.github.io/>
 - [huggingface/candle](https://github.com/huggingface/candle): Minimalist ML framework for Rust
+
+### Compiler
+
+- [endorlabs/MIRAI](https://github.com/endorlabs/MIRAI): MIRAI is an abstract interpreter for the Rust compiler's mid-level intermediate representation (MIR). It is intended to become a widely used static analysis tool for Rust.
+- [raviqqe/melior](https://github.com/raviqqe/melior): The rustic MLIR bindings in Rust <https://raviqqe.github.io/melior/melior/>
 
 ### Clients
 

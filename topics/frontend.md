@@ -35,6 +35,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [UI Snippets](https://ui-snippets.dev/)
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [The Cleanest Trick for Autogrowing Textareas](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)
+- [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects <https://cssfx.netlify.com>
 
 ## Framework
 
@@ -135,7 +136,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [macaron-css/macaron](https://github.com/macaron-css/macaron): Typesafe CSS-in-JS with zero runtime, colocation, maximum safety and productivity <https://macaron.js.org>
 - [tw-in-js/twind](https://github.com/tw-in-js/twind): The smallest, fastest, most feature complete Tailwind-in-JS solution in existence. <https://twind.style>
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract): Zero-runtime Stylesheets-in-TypeScript <https://vanilla-extract.style>
-- [stitchesjs/stitches](https://github.com/stitchesjs/stitches): CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. <https://stitches.dev>
+- 🪦 [stitchesjs/stitches](https://github.com/stitchesjs/stitches): CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. <https://stitches.dev>
 - [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants): 🦄 Tailwindcss first-class variant API <https://tailwind-variants.org>
 - 🌟 [joe-bell/cva](https://github.com/joe-bell/cva): Class Variance Authority <https://cva.style>
 - 🌟 [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge): Merge Tailwind CSS classes without style conflicts <https://npmjs.com/package/tailwind-merge>
@@ -170,9 +171,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Oblosys/react-lifecycle-visualizer](https://github.com/Oblosys/react-lifecycle-visualizer): Real-time visualizer for React lifecycle methods <https://codesandbox.io/s/github/Oblosys/react-lifecycle-visualizer/tree/master/examples/parent-child-demo?file=/src/samples/New.js>
 - [zxch3n/tidy](https://github.com/zxch3n/tidy): A tree visualization tool written in Rust
 - [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit): A lightweight magic-move library for configurable layout transitions
-
 - [JedWatson/react-select](https://github.com/JedWatson/react-select): The Select Component for React.js <https://react-select.com/>
-- 🌟 [contentlayerdev/contentlayer](https://github.com/contentlayerdev/contentlayer): Contentlayer turns your content into data - making it super easy to import MD(X) and CMS content in your app <https://www.contentlayer.dev>
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote): Load mdx content from anywhere through getStaticProps in next.js
 
 - [signavio/react-mentions](https://github.com/signavio/react-mentions): @mention people in a textarea <https://react-mentions.vercel.app>
@@ -326,6 +325,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [maslianok/react-resize-detector](https://github.com/maslianok/react-resize-detector): A Cross-Browser, Event-based, Element Resize Detection for React <http://maslianok.github.io/react-resize-detector/>
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware): ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes <https://fezvrasta.github.io/react-resize-aware>
 - 🌟 [uNmAnNeR/imaskjs](https://github.com/uNmAnNeR/imaskjs): vanilla javascript input mask <https://imask.js.org>
+- 🌟 [hoppergee/heic-to](https://github.com/hoppergee/heic-to): Convert HEIC/HEIF images to JPEG, PNG in browser
 
 ### Misc
 

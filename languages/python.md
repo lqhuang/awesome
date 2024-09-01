@@ -95,6 +95,7 @@
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish): The blessed GitHub Action, for publishing your 📦 distribution files to PyPI: https://github.com/marketplace/actions/pypi-publish <https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/>
 - [Quantco/pytest-action](https://github.com/Quantco/pytest-action): GitHub Action to run pytest with GitHub Job Summaries support 🐍 🚀
 - [actions/python-versions](https://github.com/actions/python-versions): Python builds for Actions Runner Images
+- [hynek/setup-cached-uv](https://github.com/hynek/setup-cached-uv): Use uv in GitHub Actions by adding one line to the workflow.
 
 ### Packaging
 
@@ -143,6 +144,7 @@
 - 🌟 [wntrblm/nox](https://github.com/wntrblm/nox): Flexible test automation for Python <https://nox.thea.codes>
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy): Automatically mock your HTTP interactions to simplify and speed up testing
 - [lundberg/respx](https://github.com/lundberg/respx): Mock HTTPX with awesome request patterns and response side effects 🦋
+- [Colin-b/pytest_httpx](https://github.com/Colin-b/pytest_httpx): pytest fixture to mock HTTPX <https://colin-b.github.io/pytest_httpx/>
 - [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover): Near Zero-Overhead Python Code Coverage
 - [econchick/interrogate](https://github.com/econchick/interrogate): Explain yourself! Interrogate a codebase for docstring coverage. <https://interrogate.readthedocs.io>
 - [tonybaloney/wily](https://github.com/tonybaloney/wily): A Python application for tracking, reporting on timing and complexity in Python code
@@ -414,6 +416,7 @@
 - 🌟 [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser): python parser for human readable dates
 - [cpburnz/python-pathspec](https://github.com/cpburnz/python-pathspec): Utility library for gitignore style pattern matching of file paths.
 - 🌟 [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec): A specification that python filesystems should adhere to.
+- [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library. <http://paramiko.org>
 
 ### Configuration
 

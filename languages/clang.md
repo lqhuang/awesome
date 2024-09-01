@@ -1,5 +1,7 @@
 # C / Linux
 
+Containing cpp resources though I totally understand clang and cpp are two languages.
+
 ## Resources
 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. <http://fffaraz.github.io/awesome-cpp/>
@@ -194,6 +196,7 @@
 - [google/cpu_features](https://github.com/google/cpu_features): A cross platform C99 library to get cpu features at runtime.
 - [nihui/ruapu](https://github.com/nihui/ruapu): Detect CPU ISA features with single-file <https://github.com/nihui/ruapu>
 - [jupp0r/prometheus-cpp](https://github.com/jupp0r/prometheus-cpp): Prometheus Client Library for Modern C++
+- [gabime/spdlog](https://github.com/gabime/spdlog): Fast C++ logging library.
 
 ## Compiler beyond default Clang
 

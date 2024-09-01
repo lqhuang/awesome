@@ -51,7 +51,6 @@
 - 🌟 [the-tcpdump-group/tcpdump](https://github.com/the-tcpdump-group/tcpdump): the TCPdump network dissector <https://www.tcpdump.org>
 - [droe/sslsplit](https://github.com/droe/sslsplit): Transparent SSL/TLS interception <https://www.roe.ch/SSLsplit>
 - [ktbyers/netmiko](https://github.com/ktbyers/netmiko): Multi-vendor library to simplify Paramiko SSH connections to network devices
-- [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library. <http://paramiko.org>
 - [vergoh/vnstat](https://github.com/vergoh/vnstat): vnStat - a network traffic monitor for Linux and BSD
 - [Zoxc/crusader](https://github.com/Zoxc/crusader): A network bandwidth and latency tester.
 - [Mellanox/sockperf](https://github.com/Mellanox/sockperf): Network Benchmarking Utility
@@ -63,6 +62,8 @@
 - [plaintextpackets/netprobe_lite](https://github.com/plaintextpackets/netprobe_lite): Simple internet performance tester written in Python
 - [xykt/IPQuality](https://github.com/xykt/IPQuality): A script for IP quality detection
 - [bytedance/netcap](https://github.com/bytedance/netcap): No description, website, or topics provided.
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich): Terminal bandwidth utilization tool
+- 🌟 [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core): NextTrace, an open source visual route tracking CLI tool <https://www.nxtrace.org>
 
 ### Analysis
 
@@ -89,8 +90,6 @@
 - [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy): A toolkit for developing high-performance HTTP reverse proxy applications. <https://microsoft.github.io/reverse-proxy>
 - [googleforgames/quilkin](https://github.com/googleforgames/quilkin): Quilkin is a non-transparent UDP proxy specifically designed for use with large scale multiplayer dedicated game server deployments, to ensure security, access control, telemetry data, metrics and more.
 - [nadoo/glider](https://github.com/nadoo/glider): glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
-- [OwO-Network/nexttrace-enhanced](https://github.com/OwO-Network/nexttrace-enhanced): An open source visual route tracking CLI tool (Enhanced Edition)
-- [sjlleo/nexttrace](https://github.com/sjlleo/nexttrace): An open source visual route tracking CLI tool <https://trace.ac>
 - [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit): Run a VPN with global exit nodes with fly.io, tailscale and github! <https://news.ycombinator.com/item?id=36064305>
 - [daeuniverse/dae](https://github.com/daeuniverse/dae): A Linux high-performance transparent proxy solution based on eBPF.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy): Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns. <https://addons.mozilla.org/en-US/firefox/addon/smartproxy/>

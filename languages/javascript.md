@@ -81,6 +81,7 @@
 - 🌟 [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill): Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.
 - [unjs/mlly](https://github.com/unjs/mlly): 🤝 Missing ECMAScript module utils for Node.js
 - [unjs/destr](https://github.com/unjs/destr): 🚀 Faster, secure and convenient alternative for JSON.parse
+- 🌟 [slevithan/regex](https://github.com/slevithan/regex): Regex template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices
 
 ### Parser
 
@@ -98,6 +99,7 @@
 - [gcanti/io-ts](https://github.com/gcanti/io-ts): Runtime type system for IO decoding/encoding <https://gcanti.github.io/io-ts/>
 - 🌟 [Effect-TS/schema](https://github.com/Effect-TS/schema): Modeling the schema of data structures as first-class values <https://effect-ts.github.io/schema>
 - 🌟 [blitz-js/superjson](https://github.com/blitz-js/superjson): Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+- 🌟 [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es): Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
 
 ### Parser
 

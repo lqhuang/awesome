@@ -79,6 +79,7 @@
 
 ## Homelab
 
+- 🌟 [beclab/Terminus](https://github.com/beclab/Terminus): Terminus - Your Self-Hosted Home Cloud, Powered by Kubernetes <https://www.jointerminus.com/>
 - [runtipi/runtipi](https://github.com/runtipi/runtipi): Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ <https://www.runtipi.io/>
   - Wow, a lot of templates for compose file
   - no k8s, only docker compose
