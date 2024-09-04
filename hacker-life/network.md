@@ -182,3 +182,4 @@
 - [Private proxy IPv4](https://proxy-ipv4.com): Proxy for Traffic arbitrage, SMM, SEO and PPC activities
 - https://iplark.com/
 - [ICE Test by atec-systems](https://icetest.atec-systems.com)
+- https://dns.surf/

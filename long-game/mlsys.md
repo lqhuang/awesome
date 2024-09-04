@@ -22,6 +22,8 @@
 - [Efficient GEMM in CUDA](https://github.com/NVIDIA/cutlass/blob/main/media/docs/efficient_gemm.md)
 - [ML Code Challenges](https://www.deep-ml.com/)
 - [TensorGym](https://tensorgym.com/exercises): Elevate Your AI Skills and Interview Confidence with unique exercises!
+- [The Tensor Cookbook](https://tensorcookbook.com/): What are Tensor Diagrams? Machine learning involves a lot of tensor manipulation, and it's easy to lose track of the bigger picture when manipulating high-dimensional data using notation designed for vectors and matrices.
+  - [The Matrix Cookbook](https://web.archive.org/web/20070126190021/http://matrixcookbook.com/)
 
 ### Readings
 
@@ -340,7 +342,10 @@
 
 ## Utils
 
-- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker): Build and run Docker containers leveraging NVIDIA GPUs
+- [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit): Build and run containers leveraging NVIDIA GPUs
+- [nvidia/container-images/cuda](https://gitlab.com/nvidia/container-images/cuda): Nvidia CUDA Linux Container Image Sources
+  - 🌟 [nvidia/cuda](https://hub.docker.com/r/nvidia/cuda): CUDA and cuDNN images from gitlab.com/nvidia/cuda
+  - [Optimizing PyTorch Docker images: how to cut size by 60%](https://mveg.es/posts/optimizing-pytorch-docker-images-cut-size-by-60percent/)
 - [aws/deep-learning-containers](https://github.com/aws/deep-learning-containers): AWS Deep Learning Containers (DLCs) are a set of Docker images for training and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet. <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>
 - [replicate/cog](https://github.com/replicate/cog): Containers for machine learning
 - [alteryx/featuretools](https://github.com/alteryx/featuretools): An open source python library for automated feature engineering <https://www.featuretools.com>

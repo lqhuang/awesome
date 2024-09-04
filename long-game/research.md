@@ -124,12 +124,14 @@
   - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
   - [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX): 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
   - [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook): LaTeX 论文写作教程 (中文版)
-- [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX math description from Python functions.
 - [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner): arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 - [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML): LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. <http://dlmf.nist.gov/LaTeXML/>
 - [jgm/texmath](https://github.com/jgm/texmath): A Haskell library for converting LaTeX math to MathML.
 - [jonbarron/tabilize](https://github.com/jonbarron/tabilize): Simple code for generating a color-coded latex table from raw data
 - [gpoore/minted](https://github.com/gpoore/minted): minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
+
+- [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX math description from Python functions.
+- [VikParuchuri/texify](https://github.com/VikParuchuri/texify): Math OCR model that outputs LaTeX and markdown <https://www.datalab.to>
 
 - [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint): 📝 A nicely formatted LaTeX preprint template
 - [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook): Elegant LaTeX Template for Books

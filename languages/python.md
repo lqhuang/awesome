@@ -417,6 +417,7 @@
 - [cpburnz/python-pathspec](https://github.com/cpburnz/python-pathspec): Utility library for gitignore style pattern matching of file paths.
 - 🌟 [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec): A specification that python filesystems should adhere to.
 - [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library. <http://paramiko.org>
+- 🌟 [sethmlarson/truststore](https://github.com/sethmlarson/truststore): Verify certificates using OS trust stores <https://truststore.readthedocs.io>
 
 ### Configuration
 

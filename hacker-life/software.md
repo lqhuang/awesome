@@ -186,6 +186,7 @@
 - [~bitfehler/m2dir](https://sr.ht/~bitfehler/m2dir/): M2dir aims to provide a standardized way to store a collection of email messages as files. It is similar to Maildir/Maildir++, but aims to be simpler and more thoroughly specified.
   - [M2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 - [bolcom/unFTP](https://github.com/bolcom/unFTP): A FTP(S) server with a couple of twists written in Rust. Follow and talk to us on https://t.me/unftp. Docs on https://unftp.rs
+- [tasks/tasks](https://github.com/tasks/tasks): Bringing Astrid Tasks back from the dead <http://tasks.org>
 
 ### Developer
 
