@@ -24,6 +24,7 @@
 - [TensorGym](https://tensorgym.com/exercises): Elevate Your AI Skills and Interview Confidence with unique exercises!
 - [The Tensor Cookbook](https://tensorcookbook.com/): What are Tensor Diagrams? Machine learning involves a lot of tensor manipulation, and it's easy to lose track of the bigger picture when manipulating high-dimensional data using notation designed for vectors and matrices.
   - [The Matrix Cookbook](https://web.archive.org/web/20070126190021/http://matrixcookbook.com/)
+- [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models <https://netron.app>
 
 ### Readings
 

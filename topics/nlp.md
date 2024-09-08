@@ -21,6 +21,7 @@
 - [espnet/espnet](https://github.com/espnet/espnet): End-to-End Speech Processing Toolkit <https://espnet.github.io/espnet/>
 - [google/unisim](https://github.com/google/unisim): UniSim is a package for efficient similarity computation, fuzzy matching, and clustering of data.
 - [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer): Truly universal encoding detector in pure Python <https://charset-normalizer.readthedocs.io/en/latest/>
+- 🌟 [shibing624/pycorrector](https://github.com/shibing624/pycorrector): pycorrector is a toolkit for text error correction. 文本纠错，实现了 Kenlm，T5，MacBERT，ChatGLM3，LLaMA 等模型应用在纠错场景，开箱即用。 <https://www.mulanai.com/product/corrector/>
 
 ## tokenizer / BPE
 

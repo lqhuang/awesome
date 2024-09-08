@@ -281,16 +281,17 @@
 - [tailcallhq/zio-compose](https://github.com/tailcallhq/zio-compose): A Scala DSL to write type-safe programs for distributed computing
 - [hmemcpy/zio-clippy](https://github.com/hmemcpy/zio-clippy): A Scala compiler plugin for better ZIO type mismatch errors.
 
-## Could we make Scala great again?
+## Could we make Scala great (in Science Computing) ~~again~~?
 
-## Numerical for Scala
+### Numerical for Scala
 
 - [scalanlp/breeze](https://github.com/scalanlp/breeze): Breeze is a numerical processing library for Scala. <http://www.scalanlp.org>
 - [haifengl/smile](https://github.com/haifengl/smile): Statistical Machine Intelligence & Learning Engine <https://haifengl.github.io>
 - [saddle/saddle](https://github.com/saddle/saddle): SADDLE: Scala Data Library <http://saddle.github.com>
 - [sterglee/scalalab](https://github.com/sterglee/scalalab): ScalaLab: Efficient MATLAB like scientific computing for the Java platform with the current Scala 2.13. For Scala 3 the equivalent project is dottylab: https://github.com/sterglee/dottylab
+- [inkytonik/kiama](https://github.com/inkytonik/kiama): A Scala library for language processing.
 
-## for Data Intensive System
+### for Data Intensive System
 
 - [Kotlin/multik](https://github.com/Kotlin/multik): Multidimensional array library for Kotlin. <https://kotlin.github.io/multik/>
 - [Kotlin/dataframe](https://github.com/Kotlin/dataframe): Structured data processing in Kotlin <https://kotlin.github.io/dataframe/>

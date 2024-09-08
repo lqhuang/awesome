@@ -27,6 +27,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - What I'm interested: RSC Wire Format
   - - [alvarlagerlof/rsc-parser](https://github.com/alvarlagerlof/rsc-parser): A parser for the React Server components when sent over the network <https://rsc-parser.vercel.app>
 - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
+- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 
 ### CSS collections
 
@@ -62,7 +63,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [akd-io/create-next-stack](https://github.com/akd-io/create-next-stack): Create Next Stack is a website and CLI tool used to easily set up the boilerplate of new Next.js apps. <https://www.create-next-stack.com>
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog): This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs. <https://tailwind-nextjs-starter-blog.vercel.app/>
 - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge): A production-grade boilerplate for modern Next.js apps. <https://github.com/haydenbleasel/next-forge>
-- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack): This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea. <https://www.epicweb.dev/epic-stack>
 
 ### UI
@@ -395,6 +395,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion): Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard. <https://www.orillusion.com>
 - [google/model-viewer](https://github.com/google/model-viewer): Easily display interactive 3D models on the web and in AR! <https://modelviewer.dev>
+- [Scthe/nanite-webgpu](https://github.com/Scthe/nanite-webgpu): UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis. <https://scthe.github.io/nanite-webgpu/>
 
 ### PWA
 

@@ -96,6 +96,7 @@
 - [Quantco/pytest-action](https://github.com/Quantco/pytest-action): GitHub Action to run pytest with GitHub Job Summaries support 🐍 🚀
 - [actions/python-versions](https://github.com/actions/python-versions): Python builds for Actions Runner Images
 - [hynek/setup-cached-uv](https://github.com/hynek/setup-cached-uv): Use uv in GitHub Actions by adding one line to the workflow.
+- [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv): Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
 
 ### Packaging
 
@@ -273,6 +274,7 @@
 - [man-group/dtale](https://github.com/man-group/dtale): Visualizer for pandas data structures <http://alphatechadmin.pythonanywhere.com>
 - [dimastbk/python-calamine](https://github.com/dimastbk/python-calamine): Python binding for Rust's library for reading excel and odf file - calamine. <https://pypi.org/project/python-calamine/>
 - [delftdata/valentine](https://github.com/delftdata/valentine): A tool facilitating matching for any dataset discovery method. Also, an extensible experiment suite for state-of-the-art schema matching methods.
+- [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals): Lightweight and extensible compatibility layer between dataframe libraries! <https://narwhals-dev.github.io/narwhals/>
 
 ### Jupyter ecosystem
 
@@ -418,6 +420,7 @@
 - 🌟 [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec): A specification that python filesystems should adhere to.
 - [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library. <http://paramiko.org>
 - 🌟 [sethmlarson/truststore](https://github.com/sethmlarson/truststore): Verify certificates using OS trust stores <https://truststore.readthedocs.io>
+- [bswck/slothy](https://github.com/bswck/slothy): Super-easy lazy importing in pure Python. <https://bswck.github.io/slothy/>
 
 ### Configuration
 

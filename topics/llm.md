@@ -72,6 +72,7 @@
 - 🌟 [r2d4/rellm](https://github.com/r2d4/rellm): Exact structure out of any language model completion.
 - [smpanaro/more-ane-transformers](https://github.com/smpanaro/more-ane-transformers): Run transformers (incl. LLMs) on the Apple Neural Engine.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured): Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines. <https://www.unstructured.io/>
+- [lm-sys/arena-hard-auto](https://github.com/lm-sys/arena-hard-auto): Arena-Hard-Auto: An automatic LLM benchmark.
 
 ### Enforce
 

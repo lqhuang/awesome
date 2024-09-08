@@ -394,6 +394,7 @@
 - [rust-num/num-traits](https://github.com/rust-num/num-traits): Numeric traits for generic mathematics in Rust
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes): Utilities for working with bytes
 - [rinja-rs/rinja](https://github.com/rinja-rs/rinja): A template rendering engine based on Jinja, generating type-safe Rust code at compile time. <https://rinja.readthedocs.io>
+- [cessen/ropey](https://github.com/cessen/ropey): A utf8 text rope for manipulating and editing large texts.
 
 ## Domain related
 

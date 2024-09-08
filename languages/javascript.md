@@ -68,6 +68,7 @@
 - [faker-js/faker](https://github.com/faker-js/faker): Generate massive amounts of fake data in the browser and node.js <https://fakerjs.dev>
 - [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
 - 🌟 [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
+- [fastify/light-my-request](https://github.com/fastify/light-my-request): Fake HTTP injection library
 
 ### Linter / Formatter
 
