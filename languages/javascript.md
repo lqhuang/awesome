@@ -98,7 +98,7 @@
 - [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation
 - [tskj/typescript-json-decoder](https://github.com/tskj/typescript-json-decoder): Json Decoder for Typescript
 - [gcanti/io-ts](https://github.com/gcanti/io-ts): Runtime type system for IO decoding/encoding <https://gcanti.github.io/io-ts/>
-- 🌟 [Effect-TS/schema](https://github.com/Effect-TS/schema): Modeling the schema of data structures as first-class values <https://effect-ts.github.io/schema>
+- [Effect-TS/schema](https://github.com/Effect-TS/schema): Modeling the schema of data structures as first-class values <https://effect-ts.github.io/schema>
 - 🌟 [blitz-js/superjson](https://github.com/blitz-js/superjson): Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - 🌟 [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es): Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
 
@@ -163,6 +163,7 @@
 - [sindresorhus/ky](https://github.com/sindresorhus/ky): 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [unjs/ofetch](https://github.com/unjs/ofetch): 😱 A better fetch API. Works on node, browser and workers.
 - [kourge/ts-brand](https://github.com/kourge/ts-brand): Reusable type branding in TypeScript
+- [withastro/starlight](https://github.com/withastro/starlight): 🌟 Build beautiful, accessible, high-performance documentation websites with Astro <https://starlight.astro.build>
 
 ## Middleware
 
