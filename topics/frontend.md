@@ -64,6 +64,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog): This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs. <https://tailwind-nextjs-starter-blog.vercel.app/>
 - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge): A production-grade boilerplate for modern Next.js apps. <https://github.com/haydenbleasel/next-forge>
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack): This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea. <https://www.epicweb.dev/epic-stack>
+- 🌟 [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore): Modern Commerce with Next.js and Stripe as the backend. <https://demo.yournextstore.com>
 
 ### UI
 
@@ -154,13 +155,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [micromark/micromark](https://github.com/micromark/micromark): small, safe, and great commonmark (optionally gfm) compliant markdown parser <https://unifiedjs.com>
 - [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx): 🏭 The most lightweight, customizable React markdown component. <https://markdown-to-jsx.quantizor.dev/>
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown): 🍼 Plugin driven WYSIWYG markdown editor framework. <https://milkdown.dev>
+- [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote): Load mdx content from anywhere through getStaticProps in next.js
 
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React. <https://sonner.emilkowal.ski>
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic): A React tiling window manager <https://nomcopter.github.io/react-mosaic/>
-
-- [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
-- [rpldy/react-uploady](https://github.com/rpldy/react-uploady): Modern file uploading - components & hooks for React <https://react-uploady.org/>
-- [rafasofizada/pechkin](https://github.com/rafasofizada/pechkin): Asynchronous Node.js file upload (multipart/form-data) handling.
 
 - [Himself65/rich-data](https://github.com/Himself65/rich-data): Data Viewer <https://rich-data.dev>
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso): The most powerful virtual list component for React <https://virtuoso.dev/>
@@ -172,15 +170,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [zxch3n/tidy](https://github.com/zxch3n/tidy): A tree visualization tool written in Rust
 - [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit): A lightweight magic-move library for configurable layout transitions
 - [JedWatson/react-select](https://github.com/JedWatson/react-select): The Select Component for React.js <https://react-select.com/>
-- [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote): Load mdx content from anywhere through getStaticProps in next.js
 
 - [signavio/react-mentions](https://github.com/signavio/react-mentions): @mention people in a textarea <https://react-mentions.vercel.app>
 - [satelllte/react-knob-headless](https://github.com/satelllte/react-knob-headless): 🎛️ Unstyled & accessible knob primitive for React. <https://react-knob-headless.vercel.app>
-
-- [daybrush/moveable](https://github.com/daybrush/moveable): Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable! <https://daybrush.com/moveable/>
-- [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit): The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React. <http://dndkit.com>
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop): Fast drag and drop for any experience on any tech stack <https://atlassian.design/components/pragmatic-drag-and-drop>
 
 - 🌟🌟🌟 [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
 - [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
@@ -237,7 +229,26 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [edmundhung/conform](https://github.com/edmundhung/conform): A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js. <https://conform.guide>
 - [guidone/lets-form](https://github.com/guidone/lets-form): A JSON form generator for React with Material UI / AntDesign / Bootstrap / RSuite / Mantine <https://letsform.dev>
 
-### Table
+#### Upload
+
+- [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
+- [rpldy/react-uploady](https://github.com/rpldy/react-uploady): Modern file uploading - components & hooks for React <https://react-uploady.org/>
+- [rafasofizada/pechkin](https://github.com/rafasofizada/pechkin): Asynchronous Node.js file upload (multipart/form-data) handling.
+- [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing): File uploads for modern web devs <https://uploadthing.com>
+- [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
+
+#### Drag / Drop
+
+- [daybrush/moveable](https://github.com/daybrush/moveable): Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable! <https://daybrush.com/moveable/>
+- 🪦? [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit): The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React. <http://dndkit.com>
+  - Unlike most drag and drop libraries, dnd kit intentionally is not built on top of the HTML5 Drag and drop API.
+  - The HTML5 Drag and drop API has some severe limitations. It does not support touch devices or using the keyboard to drag items, which means that the libraries that are built on top of it need to expose an entirely different implementation to support those input methods.
+  - The main tradeoff with not using the HTML5 Drag and drop API is that you won't be able to drag from the desktop or between windows.
+- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd): Drag and Drop for React <http://react-dnd.github.io/react-dnd>
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop): Fast drag and drop for any experience on any tech stack <https://atlassian.design/components/pragmatic-drag-and-drop>
+
+#### Table
 
 - [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table <https://tanstack.com/table>
 - [TanStack/virtual](https://github.com/TanStack/virtual): 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte <https://tanstack.com/virtual>
@@ -265,6 +276,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [code-hike/codehike](https://github.com/code-hike/codehike): Marvellous code walkthroughs <https://codehike.org>
 - [code-hike/bright](https://github.com/code-hike/bright): React Server Component for syntax highlighting <https://bright.codehike.org>
 - [basecamp/trix](https://github.com/basecamp/trix): A rich text editor for everyday writing <https://trix-editor.org/>
+- [udecode/plate](https://github.com/udecode/plate): Rich-text editor with shadcn <https://platejs.org>
 
 #### Animation
 
@@ -303,6 +315,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [statelyai/xstate](https://github.com/statelyai/xstate):State machines and statecharts for the modern web. <https://xstate.js.org/docs>
 - 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next immutable state by mutating the current one <https://immerjs.github.io/immer>
 - [unadlib/mutative](https://github.com/unadlib/mutative): Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer. <http://mutative.js.org/>
+- [LegendApp/legend-state](https://github.com/LegendApp/legend-state): Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence <https://legendapp.com/open-source/state/>
 
 ### Utils
 
@@ -310,8 +323,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs): High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets <https://opengeoscience.github.io/geojs>
 - [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy): Access the system clipboard (copy/paste)
 - [github/clipboard-copy-element](https://github.com/github/clipboard-copy-element): Copy element text content or input values to the clipboard. <https://github.github.io/clipboard-copy-element/examples/>
-- [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing): File uploads for modern web devs <https://uploadthing.com>
-- [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
 - [streamich/react-use](https://github.com/streamich/react-use): React Hooks — 👍 <http://streamich.github.io/react-use>
 - [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done right. For Browser, SSR, and React Server Components. <https://foxact.skk.moe>
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks): A collection of modern, server-safe React hooks – from the ui.dev team <https://usehooks.com>
@@ -396,6 +407,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion): Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard. <https://www.orillusion.com>
 - [google/model-viewer](https://github.com/google/model-viewer): Easily display interactive 3D models on the web and in AR! <https://modelviewer.dev>
 - [Scthe/nanite-webgpu](https://github.com/Scthe/nanite-webgpu): UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis. <https://scthe.github.io/nanite-webgpu/>
+- [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU): TypeGPU is a TypeScript library that enhances the WebGPU API, allowing resource management in a type-safe, declarative way. <http://typegpu.com>
 
 ### PWA
 

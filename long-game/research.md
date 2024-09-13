@@ -132,6 +132,9 @@
 
 - [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX math description from Python functions.
 - [VikParuchuri/texify](https://github.com/VikParuchuri/texify): Math OCR model that outputs LaTeX and markdown <https://www.datalab.to>
+- [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt): An extremely fast LaTeX formatter written in Rust
+
+### Latex Templates
 
 - [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint): 📝 A nicely formatted LaTeX preprint template
 - [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook): Elegant LaTeX Template for Books

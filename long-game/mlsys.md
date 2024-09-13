@@ -25,6 +25,8 @@
 - [The Tensor Cookbook](https://tensorcookbook.com/): What are Tensor Diagrams? Machine learning involves a lot of tensor manipulation, and it's easy to lose track of the bigger picture when manipulating high-dimensional data using notation designed for vectors and matrices.
   - [The Matrix Cookbook](https://web.archive.org/web/20070126190021/http://matrixcookbook.com/)
 - [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models <https://netron.app>
+- [cuda-mode/awesomeMLSys](https://github.com/cuda-mode/awesomeMLSys): An ML Systems Onboarding list
+- [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream): CUDA related news and material links
 
 ### Readings
 
@@ -352,6 +354,7 @@
 - [alteryx/featuretools](https://github.com/alteryx/featuretools): An open source python library for automated feature engineering <https://www.featuretools.com>
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop): An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. <https://nvitop.readthedocs.io/>
 - [Syllo/nvtop](https://github.com/Syllo/nvtop): GPUs process monitoring for AMD, Intel and NVIDIA
+- [msminhas93/nviwatch](https://github.com/msminhas93/nviwatch): NviWatch: A blazingly fast rust based TUI for managing and monitoring NVIDIA GPU processes
 - [wookayin/gpustat](https://github.com/wookayin/gpustat): 📊 A simple command-line utility for querying and monitoring GPU status
 - [facebook/Ax](https://github.com/facebook/Ax): Adaptive Experimentation Platform <https://ax.dev>
 - [google/fiddle](https://github.com/google/fiddle): Fiddle is a Python-first configuration library particularly well suited to ML applications. Fiddle enables deep configurability of parameters in a program, while allowing configuration to be expressed in readable and maintainable Python code.

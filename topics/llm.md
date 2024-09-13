@@ -192,6 +192,7 @@
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming—not prompting—foundation models <https://dspy-docs.vercel.app/>
 - [zou-group/textgrad](https://github.com/zou-group/textgrad): Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients. <http://textgrad.com/>
 - [noahshinn/reflexion](https://github.com/noahshinn/reflexion): [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning
+- [MadcowD/ell](https://github.com/MadcowD/ell): A language model programming framework.
 
 ### ChatBot UI
 

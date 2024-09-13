@@ -58,6 +58,7 @@
 - [re-xyr/cleff](https://github.com/re-xyr/cleff): Fast and concise extensible effects <https://hackage.haskell.org/package/cleff>
 - [patrickt/effects-benchmarks](https://github.com/patrickt/effects-benchmarks): Benchmarking Haskell extensible-effect libraries.
 - [polysemy-research/polysemy](https://github.com/polysemy-research/polysemy): ♊ higher-order, no-boilerplate monads
+- [sayo-hs/heftia](https://github.com/sayo-hs/heftia): higher-order effects done right for Haskell
 
 ## Computation
 

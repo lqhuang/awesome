@@ -163,6 +163,7 @@
 - 🌟 [pschanely/CrossHair](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot): create and update inline snapshots in your python tests <https://15r10nk.github.io/inline-snapshot/>
 - [se2p/pynguin](https://github.com/se2p/pynguin): The PYthoN General UnIt Test geNerator is a test-generation tool for Python <https://www.pynguin.eu>
+- [syrusakbary/snapshottest](https://github.com/syrusakbary/snapshottest): Snapshot Testing utils for Python 📸
 
 ### Profile / tracing
 
@@ -254,6 +255,7 @@
 - [NVIDIA/numba-cuda](https://github.com/NVIDIA/numba-cuda): An out-of-tree CUDA target for Numba.
 - [thaler-lab/Wasserstein](https://github.com/thaler-lab/Wasserstein): Python/C++ library for computing Wasserstein distances efficiently. <https://thaler-lab.github.io/Wasserstein>
 - [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda): Topological Data Analysis for Python🐍 <https://docs.scikit-tda.org>
+- 🌟 [mljar/supertree](https://github.com/mljar/supertree): Visualize decision trees in Python <https://mljar.com>
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -421,6 +423,8 @@
 - [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library. <http://paramiko.org>
 - 🌟 [sethmlarson/truststore](https://github.com/sethmlarson/truststore): Verify certificates using OS trust stores <https://truststore.readthedocs.io>
 - [bswck/slothy](https://github.com/bswck/slothy): Super-easy lazy importing in pure Python. <https://bswck.github.io/slothy/>
+- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown): A Python implementation of John Gruber’s Markdown with Extension support. <https://python-markdown.github.io/>
+  - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions): Extensions for Python Markdown <https://facelessuser.github.io/pymdown-extensions/>
 
 ### Configuration
 
@@ -528,6 +532,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint): The awesome document factory <https://weasyprint.org>
 - [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax): A Python library to inspect and modify the internal structure of a PDF file <https://pdfsyntax.dev>
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched <http://ocrmypdf.readthedocs.io/>
+- [py-pdf/pypdf](https://github.com/py-pdf/pypdf): A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files <https://pypdf.readthedocs.io/en/latest/>
 
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py): Type-safe and powerful Python library to generate SVG files
 - [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org. <https://opendev.org/openstack/stevedore>

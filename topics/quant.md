@@ -93,6 +93,7 @@
 - [API Vault](https://apivault.dev/): Your Gateway To A World Of Public APIs.
 - [cuemacro/findatapy](https://github.com/cuemacro/findatapy): Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit): Transparent and Efficient Financial Analysis <https://www.jeroenbouma.com/>
+- [d60/twikit](https://github.com/d60/twikit): Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot <https://twikit.readthedocs.io/en/latest/twikit.html>
 
 ## Low level library
 
