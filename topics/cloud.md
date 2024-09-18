@@ -235,6 +235,7 @@
 - [klothoplatform/klotho](https://github.com/klothoplatform/klotho): Klotho - a CLI tool that transforms plain code into cloud native code <https://klo.dev>
 - [finos/compliant-financial-infrastructure](https://github.com/finos/compliant-financial-infrastructure): Compliant Financial Infrastructure accelerates the development, deployment and adoption of services provided for AWS, Azure and Google in a way that meets existing regulatory and internal security controls.
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui): Terraform textual UI
+- 🌟 [tobilg/aws-iam-data](https://github.com/tobilg/aws-iam-data): This repository contains the full dataset of AWS IAM data (services, actions, resource types and conditions keys). It's updated on a daily basis at 4AM UTC. <https://www.awsiamdata.com>
 
 ### Pricing
 

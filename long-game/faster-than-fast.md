@@ -20,3 +20,9 @@
 - [TkTech/can_ada](https://github.com/TkTech/can_ada): Python bindings for Ada, a fast and spec-compliant URL parser.
 - [google/re2](https://github.com/google/re2): RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
   - [PyPI: google-re2](https://pypi.org/project/google-re2/)
+
+## Numerical
+
+- 🌟 [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
+  - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust): Super-fast float parser in Rust (now part of Rust core) <https://docs.rs/fast-float>
+- [dtolnay/ryu](https://github.com/dtolnay/ryu): Fast floating point to string conversion

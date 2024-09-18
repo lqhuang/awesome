@@ -170,6 +170,7 @@
 - [vertexclique/nuclei](https://github.com/vertexclique/nuclei): Proactive IO & Runtime system
 - [bytedance/monoio](https://github.com/bytedance/monoio): Rust async runtime based on io-uring.
 - [mgattozzi/whorl](https://github.com/mgattozzi/whorl): single file, std only, async Rust executor
+- [neondatabase/tokio-epoll-uring](https://github.com/neondatabase/tokio-epoll-uring): Use io_uring from vanilla tokio.
 - [nbdd0121/stackful](https://github.com/nbdd0121/stackful): Free conversion between async and sync in Rust
 - [DataDog/glommio](https://github.com/DataDog/glommio): Glommio is a thread-per-core crate that makes writing highly parallel asynchronous applications in a thread-per-core architecture easier for rustaceans.
 - [Maaarcocr/picol](https://github.com/Maaarcocr/picol): a small and single threaded async runtime built on top of io-uring
@@ -235,6 +236,7 @@
 - [tomtomwombat/fastbloom](https://github.com/tomtomwombat/fastbloom): The fastest bloom filter in Rust. No accuracy compromises. Compatible with any hasher.
 - [hawkw/thingbuf](https://github.com/hawkw/thingbuf): in-place allocation-reusing queues for Rust
 - [droundy/append-only-vec](https://github.com/droundy/append-only-vec): No description, website, or topics provided.
+- [cloudflare/trie-hard](https://github.com/cloudflare/trie-hard): Novel implementation of a Trie data structure optimized for small, sparse maps
 
 ### CRDT
 

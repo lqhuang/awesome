@@ -15,6 +15,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [Feature Sliced Design - Examples](https://feature-sliced.design/examples)
 - https://page-speed.dev/
 - [Web Platform Status](https://webstatus.dev/)
+- [UIs are streaming DAGs](https://www.hytradboi.com/2022/uis-are-streaming-dags)
 
 ### Tutorials
 
@@ -65,6 +66,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge): A production-grade boilerplate for modern Next.js apps. <https://github.com/haydenbleasel/next-forge>
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack): This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea. <https://www.epicweb.dev/epic-stack>
 - 🌟 [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore): Modern Commerce with Next.js and Stripe as the backend. <https://demo.yournextstore.com>
+- [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter): Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. <https://next-saas-start.vercel.app>
 
 ### UI
 
@@ -147,6 +149,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [facebook/stylex](https://github.com/facebook/stylex): StyleX is the styling system for ambitious user interfaces. <https://stylexjs.com>
 - [color-js/color.js](https://github.com/color-js/color.js): Color conversion & manipulation library by the editors of the CSS Color specifications <https://colorjs.io>
 - [ccc159/loadership](https://github.com/ccc159/loadership): LoaderShip.com is the ultimate CSS-only loader configuration tool that allows you to effortlessly customize and generate stunning loaders for your website. Simply Copy & Paste without any installation or dependency hassle.
+- [picocss/pico](https://github.com/picocss/pico): Minimal CSS Framework for semantic HTML <https://picocss.com>
 
 ### Components
 

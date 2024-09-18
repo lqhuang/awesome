@@ -334,6 +334,7 @@
 - [krptn/krypton](https://github.com/krptn/krypton): Data encryption at rest and IAM for Python <https://www.krptn.dev/>
 - [breuleux/jurigged](https://github.com/breuleux/jurigged): Hot reloading for Python
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr): Proxy server to bypass Cloudflare protection
+- [florimondmanca/httpx-sse](https://github.com/florimondmanca/httpx-sse): Consume Server-Sent Event (SSE) messages with HTTPX
 
 ### DB clients and SQL utils
 

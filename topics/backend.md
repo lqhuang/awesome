@@ -51,6 +51,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload): The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS. <https://payloadcms.com>
 - [WeWeb](https://www.weweb.io/): Build production-grade applications 10x faster
 - [keystonejs/keystone](https://github.com/keystonejs/keystone): The superpowered headless CMS for Node.js — built with GraphQL and React <https://keystonejs.com>
+- [imazen/imageflow](https://github.com/imazen/imageflow): High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow <https://docs.imageflow.io/>
 
 ## Identifier generator
 

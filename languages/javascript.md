@@ -179,6 +179,7 @@
 - [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your i18n localization with AI
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates): Find newer versions of package dependencies than what your package.json allows
+- [lovell/farmhash](https://github.com/lovell/farmhash): Node.js implementation of FarmHash, Google's family of high performance hash functions
 
 ## Effect system on Typescript
 

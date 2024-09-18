@@ -1,9 +1,11 @@
-## DevOps and CICD
+# DevOps and CI/CD
 
 ## Tools
 
 - [Testcontainers](https://github.com/testcontainers): Testcontainers is an open source framework for providing throwaway, lightweight instances of databases, message brokers, web browsers, or just about anything that can run in a Docker container.
 - [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with Protocol Buffers. <https://buf.build>
+- [apache/buildstream](https://github.com/apache/buildstream): BuildStream, the software integration tool <https://buildstream.build/>
+- [buildbarn/bb-deployments](https://github.com/buildbarn/bb-deployments): Example deployments of Buildbarn on various platforms
 
 ## Build systems
 
@@ -46,7 +48,7 @@
 - [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System <http://mesonbuild.com/>
 - [moonrepo/moon](https://github.com/moonrepo/moon): A task runner and repo management tool for the web ecosystem, written in Rust. <https://moonrepo.dev/>
 
-### API Test
+## API Test
 
 - 🌟 [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) <https://www.usebruno.com/>
 - 🌟 [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl): Hurl, run and test HTTP requests with plain text. <https://hurl.dev>
@@ -75,10 +77,11 @@
 - [nixified-ai/flake](https://github.com/nixified-ai/flake): A Nix flake for many AI projects
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book): 🛠️ ❤️ Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place! 想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！ <https://nixos-and-flakes.thiscute.world>
 
-## Hook / Tools
+## Hook
 
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit): A pre-commit hook for Ruff.
 - [googleapis/release-please](https://github.com/googleapis/release-please): generate release PRs based on the conventionalcommits.org spec <https://www.conventionalcommits.org>
+- [changesets/changesets](https://github.com/changesets/changesets): 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 
 ## GitHub Action
 
