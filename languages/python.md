@@ -36,7 +36,7 @@
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy): An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017 <http://www.labri.fr/perso/nrougier/from-python-to-numpy>
 - [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book): An open access book on scientific visualization using python and matplotlib <https://www.labri.fr/perso/nrougier/scientific-visualization.html>
 
-## Future?
+## Future? Now!
 
 - [faster-cpython/ideas](https://github.com/faster-cpython/ideas):Discussion and work tracker for Faster CPython project.
 - [ericsnowcurrently/multi-core-python](https://github.com/ericsnowcurrently/multi-core-python): Enabling CPython multi-core parallelism via subinterpreters.
@@ -46,6 +46,7 @@
 - [brettcannon/record-type](https://github.com/brettcannon/record-type): Proof-of-concept `record` type for Python
 - [Quansight-Labs/free-threaded-compatibility](https://github.com/Quansight-Labs/free-threaded-compatibility): A central repository to keep track of the status of work on and support for free-threaded CPython (see PEP 703), with a focus on the scientific and ML/AI ecosystem
 - [edgedb/memhive](https://github.com/edgedb/memhive): No description, website, or topics provided.
+- [facebookincubator/ft_utils](https://github.com/facebookincubator/ft_utils): A library of utilities to support efficient, scalable Python development leveraging Free Threaded Python.
 
 ## Toolchains
 
