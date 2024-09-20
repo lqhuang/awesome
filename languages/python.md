@@ -257,6 +257,7 @@
 - [thaler-lab/Wasserstein](https://github.com/thaler-lab/Wasserstein): Python/C++ library for computing Wasserstein distances efficiently. <https://thaler-lab.github.io/Wasserstein>
 - [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda): Topological Data Analysis for Python🐍 <https://docs.scikit-tda.org>
 - 🌟 [mljar/supertree](https://github.com/mljar/supertree): Visualize decision trees in Python <https://mljar.com>
+- [symbolic-kg/PyClause](https://github.com/symbolic-kg/PyClause): A libary for using and learning symbolic rules for knowledge graphs
 
 ### Pandas Ecosystem / DataFrame orient
 

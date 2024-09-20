@@ -435,11 +435,6 @@
 - [burn-rs/burn](https://github.com/burn-rs/burn): BURN: Burn Unstoppable Rusty Neurons <https://burn-rs.github.io/>
 - [huggingface/candle](https://github.com/huggingface/candle): Minimalist ML framework for Rust
 
-### Compiler
-
-- [endorlabs/MIRAI](https://github.com/endorlabs/MIRAI): MIRAI is an abstract interpreter for the Rust compiler's mid-level intermediate representation (MIR). It is intended to become a widely used static analysis tool for Rust.
-- [raviqqe/melior](https://github.com/raviqqe/melior): The rustic MLIR bindings in Rust <https://raviqqe.github.io/melior/melior/>
-
 ### Clients
 
 - [influxdata/rskafka](https://github.com/influxdata/rskafka): A minimal Rust client for Apache Kafka

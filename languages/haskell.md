@@ -51,7 +51,6 @@
 - 🌟 [ekmett/trifecta](https://github.com/ekmett/trifecta): Parser combinators with highlighting, slicing, layout, literate comments, Clang-style diagnostics and the kitchen sink <http://ekmett.github.com/trifecta/>
 - 🌟 [ekmett/ad](https://github.com/ekmett/ad): Automatic Differentiation <http://hackage.haskell.org/package/ad>
 - [ekmett/machines](https://github.com/ekmett/machines): Networks of composable stream transducers
-- [google/mlir-hs](https://github.com/google/mlir-hs): Haskell bindings for MLIR
 - [ChrisPenner/slick](https://github.com/ChrisPenner/slick): Static site generator built on Shake configured in Haskell
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful): An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
 - [recursion-schemes/recursion-schemes](https://github.com/recursion-schemes/recursion-schemes): Generalized bananas, lenses and barbed wire <http://hackage.haskell.org/package/recursion-schemes>

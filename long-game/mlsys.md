@@ -215,6 +215,13 @@
 - [nod-ai/SHARK-Turbine](https://github.com/nod-ai/SHARK-Turbine): Unified compiler/runtime for interfacing with PyTorch Dynamo.
 - [modularml/mojo](https://github.com/modularml/mojo): The Mojo Programming Language <https://docs.modular.com/mojo>
 
+### MLIR
+
+- [endorlabs/MIRAI](https://github.com/endorlabs/MIRAI): MIRAI is an abstract interpreter for the Rust compiler's mid-level intermediate representation (MIR). It is intended to become a widely used static analysis tool for Rust.
+- [raviqqe/melior](https://github.com/raviqqe/melior): The rustic MLIR bindings in Rust <https://raviqqe.github.io/melior/melior/>
+- [google/mlir-hs](https://github.com/google/mlir-hs): Haskell bindings for MLIR
+- [spcl/pymlir](https://github.com/spcl/pymlir): Python interface for MLIR - the Multi-Level Intermediate Representation
+
 ## Autodiff
 
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai): Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
