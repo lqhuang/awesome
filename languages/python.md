@@ -516,6 +516,7 @@
 - [pikasTech/PikaPython](https://github.com/pikasTech/PikaPython): An ultra-lightweight Python interpreter that runs with only 4KB of RAM, zero dependencies. It is ready to use out of the box without any configuration required and easy to extend with C. Similar project: MicroPython, JerryScript. <http://pikapython.com/>
 - [facebook/starlark-rust](https://github.com/facebook/starlark-rust): A Rust implementation of the Starlark language
 - [serge-sans-paille/pythran](https://github.com/serge-sans-paille/pythran): Ahead of Time compiler for numeric kernels <https://pythran.readthedocs.io>
+- 🌟 [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy): Portable Python 3.x Interpreter in Modern C <https://pocketpy.dev/>
 
 ### Parsers
 
@@ -528,6 +529,7 @@
 - 🌟 [xdslproject/xdsl](https://github.com/xdslproject/xdsl): A Python Compiler Design Toolkit
 - [mishamsk/pyoak](https://github.com/mishamsk/pyoak): Library for building and working with arbitrary ASTs on top dataclasses
 - [MagicStack/parsing](https://github.com/MagicStack/parsing): A pure-Python module that implements an LR(1) parser generator, as well as CFSM and GLR parser drivers.
+- [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing): Python library for creating PEG parsers
 
 ## Misc
 

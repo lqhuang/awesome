@@ -31,6 +31,7 @@
 - [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus/)
   - [parrt/website-explained.ai](https://github.com/parrt/website-explained.ai): The website content for explained.ai
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
+- [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss. <http://paperswelove.org/>
 
 ## Books
 

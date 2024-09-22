@@ -223,6 +223,10 @@
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of SQLite extensions
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry <https://sqlpkg.org>
 
+## GUI
+
+- [Dataflare](https://dataflare.app/): A simple, easy-to-use database manager. Easily connect to your ClickHouse, Cloudflare D1, CockroachDB, Databend, DuckDB, libSQL, MariaDB, MySQL, PostgreSQL, QuestDB, Rqlite, SQLCipher, SQLite, SQL Server databases in Dataflare, manage Table, view Data, write SQL and run Query.
+
 ## Testing
 
 - [eradman/ephemeralpg](https://github.com/eradman/ephemeralpg): Quickly spin up a temporary PostgreSQL test databases <http://eradman.com/ephemeralpg/>

@@ -79,6 +79,10 @@
 - [lightbend/mima](https://github.com/lightbend/mima): A tool for catching binary incompatibility in Scala
 - [wartremover/wartremover](https://github.com/wartremover/wartremover): Flexible Scala code linting tool <https://www.wartremover.org>
 
+### Cross platform
+
+- [lolgab/mill-crossplatform](https://github.com/lolgab/mill-crossplatform): Mill Plugin to ease Cross Platform projects <https://lolgab.github.io/mill-crossplatform/>
+
 ### CI Actions
 
 ### Graal VM

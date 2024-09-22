@@ -152,6 +152,7 @@
 - [bytedance/ipmb](https://github.com/bytedance/ipmb): An interprocess message bus system built in Rust.
 - [wvwwvwwv/scalable-concurrent-containers](https://github.com/wvwwvwwv/scalable-concurrent-containers): High performance containers and utilities for concurrent and asynchronous programming
 - [mirromutth/latches](https://github.com/mirromutth/latches): A downward counter (CountDownLatch) which can be used to synchronize threads or coordinate tasks
+- [dragostis/chili](https://github.com/dragostis/chili): Rust port of Spice, a low-overhead parallelization library
 
 ### Lock & synchronization
 

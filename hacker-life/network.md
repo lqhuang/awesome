@@ -64,6 +64,7 @@
 - [bytedance/netcap](https://github.com/bytedance/netcap): No description, website, or topics provided.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich): Terminal bandwidth utilization tool
 - 🌟 [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core): NextTrace, an open source visual route tracking CLI tool <https://www.nxtrace.org>
+- [nitefood/asn](https://github.com/nitefood/asn): ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 
 ### Analysis
 
