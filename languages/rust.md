@@ -119,6 +119,7 @@
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs): Heap profiling and ad hoc profiling for Rust programs.
 - [davidbarsky/tracing-tree](https://github.com/davidbarsky/tracing-tree): Instrument your application with tracing and get tree-structured summaries of your application activity with timing information on the console
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie): An ergonomic and safe syscall interception framework for Linux.
+- [fast/fastrace](https://github.com/fast/fastrace): A tracing library 10~100x faster than others <https://docs.rs/fastrace/>
 
 ### Program analysis
 

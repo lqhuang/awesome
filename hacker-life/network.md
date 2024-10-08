@@ -95,6 +95,7 @@
 - [daeuniverse/dae](https://github.com/daeuniverse/dae): A Linux high-performance transparent proxy solution based on eBPF.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy): Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns. <https://addons.mozilla.org/en-US/firefox/addon/smartproxy/>
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor): A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
+- [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks): tun2socks - powered by gVisor TCP/IP stack <https://github.com/xjasonlyu/tun2socks/wiki>
 
 ## DNS
 

@@ -87,6 +87,8 @@ Streaming Systems
 - [taskforcesh/bullmq](https://github.com/taskforcesh/bullmq): BullMQ - Message Queue and Batch processing for NodeJS and Python based on Redis <https://bullmq.io>
 - [smrchy/rsmq](https://github.com/smrchy/rsmq): Redis Simple Message Queue
 - [janbjorge/PgQueuer](https://github.com/janbjorge/PgQueuer): PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing. <https://pgqueuer.readthedocs.io/en/latest/index.html>
+- [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform): No description, website, or topics provided.
+- [tisonkun/morax](https://github.com/tisonkun/morax): Message queue and data streaming based on cloud native services.
 
 ### Kafka
 
@@ -101,9 +103,14 @@ Streaming Systems
 - 🌟 [AutoMQ/automq](https://github.com/AutoMQ/automq): A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%. <https://www.automq.com>
 - [seglo/kafka-lag-exporter](https://github.com/seglo/kafka-lag-exporter): Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
 - [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou): The Open source Resource as Code framework for Apache Kafka <https://www.jikkou.io>
-- [kcctl/kcctl](https://github.com/kcctl/kcctl): A modern and intuitive command line client for Kafka Connect
 - [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui): Open-Source Web UI for managing Apache Kafka clusters <http://ui.docs.kafbat.io>
 - [tansu-io/tansu](https://github.com/tansu-io/tansu): Tansu is an Apache Kafka API compatible broker written in async 🚀 Rust 🦀 <https://tansu.io>
+
+cli
+
+- [kcctl/kcctl](https://github.com/kcctl/kcctl): A modern and intuitive command line client for Kafka Connect
+- [birdayz/kaf](https://github.com/birdayz/kaf): Modern CLI for Apache Kafka, written in Go.
+- [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl): Command Line Tool for managing Apache Kafka <https://deviceinsight.github.io/kafkactl/>
 
 ### Utils
 

@@ -22,3 +22,4 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert): A simple zero-config tool to make locally trusted development certificates with any names you'd like. <https://mkcert.dev>
 - [soulteary/certs-maker](https://github.com/soulteary/certs-maker): Tiny, easy SSL self-signed tools, ~3MB Size. Generate a self-hosted/dev certificate through configuration. <https://soulteary.com/2021/02/06/how-to-make-and-use-a-self-signed-certificate.html>
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager): Automatically provision and manage TLS certificates in Kubernetes <https://cert-manager.io>
+- [usual2970/certimate](https://github.com/usual2970/certimate): 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire. <https://docs.certimate.me>

@@ -279,6 +279,7 @@
 - [keraJLi/rejax](https://github.com/keraJLi/rejax): No description, website, or topics provided.
 - [yixiaoer/einshard](https://github.com/yixiaoer/einshard): Einsum-like high-level array sharding API for JAX <https://einshard.readthedocs.io/>
 - [epignatelli/navix](https://github.com/epignatelli/navix): Accelerated minigrid environments with JAX
+- [erfanzar/EasyDeL](https://github.com/erfanzar/EasyDeL): Accelerate, Optimize performance with streamlined training and serving options with JAX. <https://easydel.readthedocs.io/en/latest/>
 
 ### DeepMind specialization
 

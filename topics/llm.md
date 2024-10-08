@@ -129,6 +129,7 @@
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities. <https://llava.hliu.cc>
 - [apple/ml-ferret](https://github.com/apple/ml-ferret): An End-to-End MLLM that Accept Any-Form Referring and Ground Anything in Response.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi): Moshi: a speech-text foundation model for real time dialogue
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper): Faster Whisper transcription with CTranslate2
 
 ### Others
 

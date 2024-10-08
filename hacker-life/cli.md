@@ -11,6 +11,7 @@
 - [xuxiaodong/usingcli-book](https://github.com/xuxiaodong/usingcli-book): 像黑客一样使用命令行 <https://selfhostedserver.com/usingcli-book>
 - [kushaldas/lym](https://github.com/kushaldas/lym): Linux command line for you and me <https://lym.readthedocs.io/en/latest>
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need <https://cheat.sh/>
+  - [Latency numbers every programmer should know](https://cheat.sh/latencies)
 - 🌟 [z-shell/zi](https://github.com/z-shell/zi): ✨ A Swiss Army Knife for Zsh - Unix Shell <https://wiki.zshell.dev>
 
 ## command

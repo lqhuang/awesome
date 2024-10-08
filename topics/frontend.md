@@ -297,6 +297,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas): An React.js component library for beautifully shaded canvas <https://uvcanvas.com>
 - [greensock/GSAP](https://github.com/greensock/GSAP): GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web <https://gsap.com>
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy): The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. <https://Uiverse.io>
+- [barvian/motion-number](https://github.com/barvian/motion-number): A Framer Motion component that transitions, formats, and localizes numbers. <https://motion-number.barvian.me>
 
 #### Media player
 
@@ -374,6 +375,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [lewhunt/divz](https://github.com/lewhunt/divz): A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos here: https://lewhunt.github.io/divz/ <https://lewhunt.github.io/divz/>
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js <https://docs.pmnd.rs/react-three-fiber>
 - [typpo/quickchart](https://github.com/typpo/quickchart): Chart image and QR code web API <https://quickchart.io/>
+- [lepture/github-gist](https://github.com/lepture/github-gist): Web component for GitHub Gist <https://lab.lepture.com/github-gist/>
 
 ## Design / Resources
 

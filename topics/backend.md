@@ -63,6 +63,7 @@
 
 - [Local-First Web Development](https://localfirstweb.dev/)
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync): SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. <https://sqlsync.dev>
+- [instantdb/instant](https://github.com/instantdb/instant): Instant is a modern Firebase. We make you productive by giving your frontend a real-time database. <https://instantdb.com>
 
 ## Realtime and collaboration applications
 
