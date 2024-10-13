@@ -94,6 +94,7 @@
 ### SerDe / Schema
 
 - 🌟 [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first schema validation with static type inference <https://zod.dev>
+  - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema): Converts Zod schemas to Json schemas
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv): The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927) <https://ajv.js.org>
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct): A simple and composable way to validate data in JavaScript (and TypeScript). <https://docs.superstructjs.org/>
 - [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation

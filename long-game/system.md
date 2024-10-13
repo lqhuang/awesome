@@ -37,6 +37,7 @@
 - [Netflix/bpftop](https://github.com/Netflix/bpftop): bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - [bpfman/bpfman](https://github.com/bpfman/bpfman): An eBPF Manager for Linux and Kubernetes <https://bpfman.io>
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial): XDP tutorial
+- [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace): Monitor DNS queries by host processes using eBPF!
 
 ## Serialization Protocl
 

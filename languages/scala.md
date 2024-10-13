@@ -188,6 +188,7 @@
 - [bkirwi/decline](https://github.com/bkirwi/decline): A composable command-line parser for Scala. <https://ben.kirw.in/decline/>
 - [alexarchambault/case-app](https://github.com/alexarchambault/case-app): Type-level & seamless command-line argument parsing for Scala
 - [avdv/scalals](https://github.com/avdv/scalals): A colorful ls command, with awesome icons.
+- [joan38/moulin](https://github.com/joan38/moulin): Build multi-projects with Scala CLI
 
 ### Tools
 

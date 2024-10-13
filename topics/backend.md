@@ -39,6 +39,11 @@
 - [apitable/apitable](https://github.com/apitable/apitable): 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. <https://aitable.ai>
 - [dream-num/univer](https://github.com/dream-num/univer): Univer is an open-source alternative to Google Sheets, Slides, and Docs <https://univer.ai>
 
+## Auth
+
+- [better-auth/better-auth](https://github.com/better-auth/better-auth): The most comprehensive authentication library for TypeScript <https://better-auth.com>
+- [lucia-auth/lucia](https://github.com/lucia-auth/lucia): Authentication, simple and clean <https://lucia-auth.com>
+
 ## CMS
 
 - [wagtail/wagtail](https://github.com/wagtail/wagtail): A Django content management system focused on flexibility and user experience <https://wagtail.org>

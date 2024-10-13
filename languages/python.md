@@ -186,6 +186,7 @@
 - [gitlab - mbryant/FunctionTrace](https://gitlab.com/mbryant/functiontrace): A graphical Python profiler that provides a clear view of your application's execution while being both low-overhead and easy to use. <https://functiontrace.com/>
 - [tonybaloney/rich-bench](https://github.com/tonybaloney/rich-bench): A little benchmarking tool for Python
 - [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy): coredumpy saves your crash site for post-mortem debugging
+- [compiler-research/idd](https://github.com/compiler-research/idd): A System for Differential Debugging
 
 ## Type System in Python
 
@@ -428,6 +429,7 @@
 - [bswck/slothy](https://github.com/bswck/slothy): Super-easy lazy importing in pure Python. <https://bswck.github.io/slothy/>
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown): A Python implementation of John Gruber’s Markdown with Extension support. <https://python-markdown.github.io/>
   - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions): Extensions for Python Markdown <https://facelessuser.github.io/pymdown-extensions/>
+- 🌟 [laike9m/pdir2](https://github.com/laike9m/pdir2): Pretty dir() printing with joy:beer:
 
 ### Configuration
 

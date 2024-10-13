@@ -87,7 +87,7 @@
 - [mlpack/ensmallen](https://github.com/mlpack/ensmallen): A header-only C++ library for numerical optimization -- <http://ensmallen.org>
 - [stevengj/nlopt](https://github.com/stevengj/nlopt): library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization
 
-### Network implementation
+### Production-ready network implementation
 
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers): Hackable and optimized Transformers building blocks, supporting a composable construction. <https://facebookresearch.github.io/xformers>
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq): Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
@@ -117,6 +117,7 @@
 - [shawntan/scattermoe](https://github.com/shawntan/scattermoe): Triton-based implementation of Sparse Mixture of Experts.
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens): Tile primitives for speedy kernels
   - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+- [microsoft/vattention](https://github.com/microsoft/vattention): Dynamic Memory Management for Serving LLMs without PagedAttention
 
 ### Inference engine / large-scale deployment
 
@@ -221,6 +222,7 @@
 - [raviqqe/melior](https://github.com/raviqqe/melior): The rustic MLIR bindings in Rust <https://raviqqe.github.io/melior/melior/>
 - [google/mlir-hs](https://github.com/google/mlir-hs): Haskell bindings for MLIR
 - [spcl/pymlir](https://github.com/spcl/pymlir): Python interface for MLIR - the Multi-Level Intermediate Representation
+- [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2): Automatic verification of LLVM optimizations
 
 ## Autodiff
 

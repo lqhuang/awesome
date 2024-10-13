@@ -92,6 +92,7 @@
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice): Powerful menu bar manager for macOS <https://icemenubar.app>
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder): A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 <https://lihaoyun6.github.io/quickrecorder/>
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac. <https://linearmouse.app>
+- [Stengo/DeskPad](https://github.com/Stengo/DeskPad): A virtual monitor for screen sharing
 
 ### Free / Paid
 
