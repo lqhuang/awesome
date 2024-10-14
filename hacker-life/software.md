@@ -33,6 +33,7 @@
 - [spieglt/FlyingCarpet](https://github.com/spieglt/FlyingCarpet): File transfer between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi. No network infrastructure required, just two devices with WiFi chips in close range.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha): Elegantly record your screen
 - [Video compress](https://tools.rotato.app/compress): Compression happens on your device, no data is sent to our servers
+- 🌟 [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC): Modern VNC Server and client, web based and secure
 
 ### Notes / Knowledge Management
 

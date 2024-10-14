@@ -15,6 +15,7 @@
 - [henryiii/compclass](https://github.com/henryiii/compclass): A class over Computational Physics in Jupyter <https://henryiii.github.io/compclass>
 - [henryiii/python-performance-minicourse](https://github.com/henryiii/python-performance-minicourse): Mini-course at Princeton on High Performance Python <https://mybinder.org/v2/gh/henryiii/python-performance-minicourse/master?urlpath=lab>
 - [henryiii/pygpu-minicourse](https://github.com/henryiii/pygpu-minicourse): Princeton mini course on GPUs in Python
+- [Xiang-cd/GPUProcessPoolExecutor](https://github.com/Xiang-cd/GPUProcessPoolExecutor): A implementation of GPUProcessPoolExecutor to perform light weighted GPU parallel tasks.
 
 ### Readings
 
@@ -188,7 +189,9 @@
 - [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy): coredumpy saves your crash site for post-mortem debugging
 - [compiler-research/idd](https://github.com/compiler-research/idd): A System for Differential Debugging
 
-## Type System in Python
+## Functional Programming in Python
+
+### Type System
 
 - 🌟 [python/typing](https://github.com/python/typing): Python static typing home. Hosts the documentation and a user help forum. <https://typing.readthedocs.io>
 - 🌟 [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python to fast C extensions <https://mypyc.readthedocs.io>
@@ -237,6 +240,7 @@
 - [ideos/gloe](https://github.com/ideos/gloe): Gloe (pronounced /ɡloʊ/, like “glow”) is a general-purpose library made to help developers create, maintain, document, and test both operational and flow-oriented code. <https://gloe.ideos.com.br>
 - 🌟 [JulienPalard/Pipe](https://github.com/JulienPalard/Pipe): A Python library to use infix notation in Python
   - Simple and no extra magic!
+- 🌟 [ebonnal/streamable](https://github.com/ebonnal/streamable): [Python] Stream-like manipulation of iterables.
 
 ## Domain libraries
 
@@ -430,6 +434,7 @@
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown): A Python implementation of John Gruber’s Markdown with Extension support. <https://python-markdown.github.io/>
   - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions): Extensions for Python Markdown <https://facelessuser.github.io/pymdown-extensions/>
 - 🌟 [laike9m/pdir2](https://github.com/laike9m/pdir2): Pretty dir() printing with joy:beer:
+- [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic): Entity relationship diagrams for Python data model classes like Pydantic <https://erdantic.drivendata.org/>
 
 ### Configuration
 

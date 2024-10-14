@@ -23,6 +23,7 @@ Streaming Systems
 - [rethinkdb/rethinkdb](https://github.com/rethinkdb/rethinkdb): The open-source database for the realtime web. <https://rethinkdb.com/>
 - [pubkey/rxdb](https://github.com/pubkey/rxdb): A fast, offline-first, reactive database for JavaScript Applications <https://rxdb.info>
 - 📝 [janestreet/incremental](https://github.com/janestreet/incremental): A library for incremental computations
+- 📝 [brurucy/pydbsp](https://github.com/brurucy/pydbsp): This library provides an implementation of the DBSP language for incremental streaming computations.
 
 ### DAG
 
