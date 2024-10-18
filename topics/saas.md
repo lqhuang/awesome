@@ -14,3 +14,4 @@
 - [苹果 M 系列处理器参数大全](http://kylebing.cn/tools/apple-chip/)
 - 🌟 [Copy Book](https://copybook.me/): Copy book is a collection of commonly used texts. So whenever you need a copy for a design or if you ever get stuck in the middle of development, you can use copy book.
 - [Riffo AI](https://riffo.ai/): Say goodbye to your messy filenames. Your AI helper that saves hours of file guesswork.
+- [Ok! So... Draw online](https://okso.app/): The drawing app to express, grasp, and organize your thoughts and ideas

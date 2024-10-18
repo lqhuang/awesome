@@ -64,6 +64,10 @@
 - [sbt/docker-sbt](https://github.com/sbt/docker-sbt): Official sbt docker images
 - 🌟 [kitlangton/scala-update](https://github.com/kitlangton/scala-update): Update your Scala dependencies interactively
 
+### Mill
+
+- [lewisjkl/header](https://github.com/lewisjkl/header): Header automation and linting 🎉
+
 ### Testing
 
 - [reibitto/be-kind-rewind](https://github.com/reibitto/be-kind-rewind): A VCR testing library for Scala
@@ -74,10 +78,11 @@
 - [spotify/ratatool](https://github.com/spotify/ratatool): A tool for data sampling, data generation, and data diffing
 - [paulbutcher/ScalaMock](https://github.com/paulbutcher/ScalaMock): Native Scala mocking framework <http://scalamock.org/>
 
-### Linter / Program Analysis
+### Program Analysis
 
 - [lightbend/mima](https://github.com/lightbend/mima): A tool for catching binary incompatibility in Scala
 - [wartremover/wartremover](https://github.com/wartremover/wartremover): Flexible Scala code linting tool <https://www.wartremover.org>
+- [shardulc/tasty-interpreter](https://github.com/shardulc/tasty-interpreter): Reference interpreter for TASTy, the Scala 3 interchange format
 
 ### Cross platform
 

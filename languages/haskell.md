@@ -73,6 +73,7 @@
 
 - [haskell/alex](https://github.com/haskell/alex): A lexical analyser generator for Haskell <https://hackage.haskell.org/package/alex>
 - [haskell/happy](https://github.com/haskell/happy): The Happy parser generator for Haskell
+- [Bodigrim/blaze-markup](https://github.com/Bodigrim/blaze-markup): Core modules for a blazing fast markup combinator library
 
 ## CLI
 
@@ -115,6 +116,7 @@
 ## Linear Haskell
 
 - [tweag/linear-base](https://github.com/tweag/linear-base): Standard library for linear types in Haskell.
+- [Bodigrim/linear-builder](https://github.com/Bodigrim/linear-builder): Strict Text and ByteString builder, which hides mutable buffer behind linear types and takes amortized linear time. <https://hackage.haskell.org/package/text-builder-linear>
 
 ## Other good libs
 

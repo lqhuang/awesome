@@ -131,6 +131,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [TGlide/radix-svelte](https://github.com/TGlide/radix-svelte): A port of Radix UI for Svelte <https://www.radix-svelte.com/>
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX): A markdown preprocessor for Svelte. <https://mdsvex.pngwn.io>
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): The UI toolkit for Svelte and Tailwind. <https://skeleton.dev>
+- [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui): A set of headless, accessible component builders for Svelte. <https://melt-ui.com>
 
 ### CSS Style
 
@@ -206,6 +207,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [google/budoux](https://github.com/google/budoux): BudouX is the successor to Budou, the machine learning powered line break organizer tool.
 
+- [origin-space/originui](https://github.com/origin-space/originui): A growing collection of over 50 input components built with Next.js and TailwindCSS. <https://origin-ui-alpha.vercel.app/>
+
 #### PDF
 
 - [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf): Display PDFs in your React app as easily as if they were images. <https://projects.wojtekmaj.pl/react-pdf>
@@ -259,6 +262,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid): 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support. <https://grid.glideapps.com>
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator): Interactive Tables and Data Grids for JavaScript <http://tabulator.info/>
 - [sadmann7/sortable](https://github.com/sadmann7/sortable): A sortable component built with shadcn/ui, radix ui, and dnd-kit. <https://sortable.sadmn.com>
+- [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid): World's most performant DOM-based web table. <https://fast-grid.vercel.app/>
 
 #### Onboarding
 

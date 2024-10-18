@@ -64,6 +64,7 @@
 - 🌟 [mosaicml/composer](https://github.com/mosaicml/composer): Supercharge Your Model Training <http://docs.mosaicml.com>
   - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry): LLM training code for MosaicML foundation models <https://www.mosaicml.com/blog/mpt-7b>
 - [pytorch/torchtitan](https://github.com/pytorch/torchtitan): A native PyTorch Library for large model training
+- [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale): PyTorch extensions for high performance and large scale training.
 
 ### Optimization
 

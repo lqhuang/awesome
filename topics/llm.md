@@ -51,6 +51,7 @@
 
 - [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts): Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70% <https://discord.gg/qUtxnK2NMf>
 - [a16z-infra/cog-llama-template](https://github.com/a16z-infra/cog-llama-template): LLaMA Cog template
+- [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix): Entropy Based Sampling and Parallel CoT Decoding
 
 ### RAG
 

@@ -144,6 +144,7 @@
   - [schireson/pytest-alembic](https://github.com/schireson/pytest-alembic): Pytest plugin to test alembic migrations (with default tests) and which enables you to write tests specific to your migrations.
   - [typeddjango/pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins): pytest plugin for testing mypy types, stubs, and plugins
   - [orsinium-labs/pytypest](https://github.com/orsinium-labs/pytypest): Testing framework that empowers pytest (with better fixtures and parametrization) <https://pytypest.orsinium.dev>
+  - [modal-labs/pytest-markdown-docs](https://github.com/modal-labs/pytest-markdown-docs): Run pytest on markdown code fence blocks
 - 🌟 [wntrblm/nox](https://github.com/wntrblm/nox): Flexible test automation for Python <https://nox.thea.codes>
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy): Automatically mock your HTTP interactions to simplify and speed up testing
 - [lundberg/respx](https://github.com/lundberg/respx): Mock HTTPX with awesome request patterns and response side effects 🦋
