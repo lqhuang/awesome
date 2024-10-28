@@ -43,7 +43,7 @@ Streaming Systems
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo): Arroyo is a distributed stream processing engine written in Rust <https://arroyo.dev/>
 - 📝 [cda-group/arcon](https://github.com/cda-group/arcon): State-first Streaming Applications in Rust <https://cda-group.github.io/arcon>
 - [infinyon/fluvio](https://github.com/infinyon/fluvio): Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly. <https://www.fluvio.io/>
-- [airtai/faststream](https://github.com/airtai/faststream): FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS. <https://faststream.airt.ai/?utm_source=github&utm_medium=acquisition&utm_campaign=measure>
+- 🌟📝 [airtai/faststream](https://github.com/airtai/faststream): FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS. <https://faststream.airt.ai/?utm_source=github&utm_medium=acquisition&utm_campaign=measure>
 - [grailbio/reflow](https://github.com/grailbio/reflow): A language and runtime for distributed, incremental data processing in the cloud
 - [streamdal/streamdal](https://github.com/streamdal/streamdal): Code-Native Data Pipelines <https://www.streamdal.com>
 - [Point72/csp](https://github.com/Point72/csp): csp is a high performance reactive stream processing library, written in C++ and Python

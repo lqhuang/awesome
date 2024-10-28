@@ -49,6 +49,31 @@
 - [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System <http://mesonbuild.com/>
 - [moonrepo/moon](https://github.com/moonrepo/moon): A task runner and repo management tool for the web ecosystem, written in Rust. <https://moonrepo.dev/>
 
+### Nix
+
+- [nix-community/noogle](https://github.com/nix-community/noogle): https://noogle.dev - nix function exploring. [maintainer=@hsjobeki] <https://noogle.dev>
+- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix): An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems <https://zero-to-nix.com>
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] <https://nix-community.github.io/awesome-nix/>
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer): Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
+- [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas): Schemas for common flake output types
+- [NixOS/nix](https://github.com/NixOS/nix): Nix, the purely functional package manager <https://nixos.org/>
+  - [Welcome to nix.dev](https://nix.dev/): nix.dev is the home of official documentation for the Nix ecosystem.
+- 🌟 [oddlama/nix-topology](https://github.com/oddlama/nix-topology): 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations <https://oddlama.github.io/nix-topology>
+- 🌟 [flox/flox](https://github.com/flox/flox): Developer environments you can take with you <https://flox.dev>
+- [tweag/genealogos](https://github.com/tweag/genealogos): Genealogos, a Nix sbom generator
+- [nix-community/pyproject.nix](https://github.com/nix-community/pyproject.nix): A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]
+  - [adisbladis/uv2nix](https://github.com/adisbladis/uv2nix): Uv2nix - Ingest uv workspaces using Nix
+  - [TyberiusPrime/uv2nix_hammer_overrides](https://github.com/TyberiusPrime/uv2nix_hammer_overrides): Override collection for uv2nix
+- [nix-community/disko](https://github.com/nix-community/disko): Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
+  - [nix-community/disko-templates](https://github.com/nix-community/disko-templates): Best practice templates for disko - maintainer=@Lassulus
+- [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators): Collection of image builders [maintainer=@Lassulus]
+- [terranix/terranix](https://github.com/terranix/terranix): terranix is a terraform.json generator with a nix-like feeling <https://terranix.org>
+- [antithesishq/madness](https://github.com/antithesishq/madness): Madness enables you to easily run the same binary on NixOS and non-NixOS systems <https://antithesis.com>
+- [nixified-ai/flake](https://github.com/nixified-ai/flake): A Nix flake for many AI projects
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book): 🛠️ ❤️ Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place! 想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！ <https://nixos-and-flakes.thiscute.world>
+- [DavHau/nix-portable](https://github.com/DavHau/nix-portable): Nix - Static, Permissionless, Installation-free, Pre-configured
+- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks): App source + Nix packages + Docker = Image <https://nixpacks.com>
+
 ## API Test
 
 - 🌟 [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) <https://www.usebruno.com/>
@@ -62,22 +87,12 @@
 - [Rapid API](https://rapidapi.com/): previous <https://paw.cloud> <https://rapidapi.com>
 - [testingisdocumenting/znai](https://github.com/testingisdocumenting/znai): Build functional, maintainable, beautiful User Guides with markdown and Znai plugins. Instant pages navigation. Local search. Multiple integrations to work with Python, Java, C++, OpenAPI, etc. Transform "getting started" sections into slideshow for your workshops. Manage multiple documentations with self-deployed znai hub. <https://testingisdocumenting.org/znai>
 
-### Nix
+## GitOps
 
-- [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix): An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems <https://zero-to-nix.com>
-- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer): Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
-- [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas): Schemas for common flake output types
-- [NixOS/nix](https://github.com/NixOS/nix): Nix, the purely functional package manager <https://nixos.org/>
-  - [Welcome to nix.dev](https://nix.dev/): nix.dev is the home of official documentation for the Nix ecosystem.
-- 🌟 [oddlama/nix-topology](https://github.com/oddlama/nix-topology): 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations <https://oddlama.github.io/nix-topology>
-- 🌟 [flox/flox](https://github.com/flox/flox): Developer environments you can take with you <https://flox.dev>
-- [tweag/genealogos](https://github.com/tweag/genealogos): Genealogos, a Nix sbom generator
-- [nix-community/disko](https://github.com/nix-community/disko): Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
-- [terranix/terranix](https://github.com/terranix/terranix): terranix is a terraform.json generator with a nix-like feeling <https://terranix.org>
-- [antithesishq/madness](https://github.com/antithesishq/madness): Madness enables you to easily run the same binary on NixOS and non-NixOS systems <https://antithesis.com>
-- [nixified-ai/flake](https://github.com/nixified-ai/flake): A Nix flake for many AI projects
-- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book): 🛠️ ❤️ Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place! 想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！ <https://nixos-and-flakes.thiscute.world>
-- [DavHau/nix-portable](https://github.com/DavHau/nix-portable): Nix - Static, Permissionless, Installation-free, Pre-configured
+- Argo
+- [rancher/fleet](https://github.com/rancher/fleet): Deploy workloads from Git to large fleets of Kubernetes clusters <https://fleet.rancher.io/>
+- [buildpacks/pack](https://github.com/buildpacks/pack): CLI for building apps using Cloud Native Buildpacks <https://buildpacks.io>
+  - [pivotal/kpack](https://github.com/pivotal/kpack): Kubernetes Native Container Build Service
 
 ## Hook
 
@@ -97,12 +112,9 @@
 - [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS and Linux VMs on Apple Silicon to use in CI and other automations <https://tart.run>
 - [shapehq/tartelet](https://github.com/shapehq/tartelet): ⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job runs in an isolated environment.
 - [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery): Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally <https://sourcery.ai>
-- [BuildJet: For GitHub Actions](https://buildjet.com/for-github-actions): Make GitHub Actions Faster. Managed performance runners for Github Actions.
-- [Actuated](https://actuated.dev/): Fast and secure GitHub Actions on your own infrastructure.
 - 🌟 [renovatebot/renovate](https://github.com/renovatebot/renovate): Universal dependency update tool that fits into your workflows. <https://renovatebot.com>
 - [googleapis/release-please](https://github.com/googleapis/release-please): generate release PRs based on the conventionalcommits.org spec <https://www.conventionalcommits.org>
 - [GitHubSecurityLab/actions-permissions](https://github.com/GitHubSecurityLab/actions-permissions): GitHub token permissions Monitor and Advisor actions
-- [Octopus Deploy](https://octopus.com/github): Use GitHub and Octopus together to manage your most complex deployment scenarios
 - [peter-evans/dockerhub-description](https://github.com/peter-evans/dockerhub-description): A GitHub action to update a Docker Hub repository description from README.md
 - [step-security/harden-runner](https://github.com/step-security/harden-runner): Harden-Runner provides runtime security for GitHub-hosted and self-hosted environments <https://www.stepsecurity.io>
 - 🌟 [github/ossar-action](https://github.com/github/ossar-action): Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
@@ -112,3 +124,10 @@
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. <https://github.com/marketplace/actions/github-pages-action>
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark): GitHub Action for continuous benchmarking to keep performance <https://benchmark-action.github.io/github-action-benchmark/dev/bench/>
 - [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server): Self-hosted GitHub Actions cache server implementation. Compatible with official 'actions/cache' action <https://gha-cache-server.falcondev.io>
+- [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions): A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis]
+
+### GitHub Action Runner
+
+- [Octopus Deploy](https://octopus.com/github): Use GitHub and Octopus together to manage your most complex deployment scenarios
+- [BuildJet: For GitHub Actions](https://buildjet.com/for-github-actions): Make GitHub Actions Faster. Managed performance runners for Github Actions.
+- [Actuated](https://actuated.dev/): Fast and secure GitHub Actions on your own infrastructure.

@@ -93,12 +93,11 @@
 
 ### KV
 
-- 🌟 [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage. <http://rocksdb.org>
-- 🌟 [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store <https://www.foundationdb.org>
-- 🌟 [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta embedded databases
+- [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage. <http://rocksdb.org>
+- [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store <https://www.foundationdb.org>
+- [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta embedded databases
 - [microsoft/FASTER](https://github.com/microsoft/FASTER): Fast persistent recoverable log and key-value store + cache, in C# and C++. <https://aka.ms/FASTER>
 - [speedb-io/speedb](https://github.com/speedb-io/speedb): A RocksDB compliant high performance scalable embedded key-value store <https://www.speedb.io/>
-- [slatedb/slatedb](https://github.com/slatedb/slatedb): A cloud native embedded storage engine built on object storage. <https://slatedb.io>
 
 ### Cache
 
@@ -134,12 +133,16 @@
 - [electric-sql/pglite](https://github.com/electric-sql/pglite): Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno <https://electric-sql.com>
 - 🌟 [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb): DuckDB-powered Postgres for high performance apps & analytics.
 
-### In-memory
+### Embedded / In-memory
 
 - [Rustixir/darkbird](https://github.com/Rustixir/darkbird): High concurrency, Real time, In-memory storage inspired by erlang mnesia
 - [chdb-io/chdb](https://github.com/chdb-io/chdb): chDB is an embedded OLAP SQL Engine powered by ClickHouse
 - [duckdb/duckdb](https://github.com/duckdb/duckdb): DuckDB is an in-process SQL OLAP Database Management System <http://www.duckdb.org>
   - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb): 🦆 A curated list of awesome DuckDB resources
+- [slatedb/slatedb](https://github.com/slatedb/slatedb): A cloud native embedded storage engine built on object storage. <https://slatedb.io>
+  - embedded kv on object storage
+- [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo): A portable embedded database using Arrow. <https://tonbo.io>
+  - embedded OLAP on object storage
 
 ## DBA or Extensions
 

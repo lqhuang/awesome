@@ -16,6 +16,7 @@
 - [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig): aiconfig -- config-driven, source control friendly AI application development <https://aiconfig.lastmileai.dev>
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for agent evals and observability <https://agentops.ai>
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo <https://deepwisdom.ai/>
+- [camel-ai/camel](https://github.com/camel-ai/camel): 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org <https://docs.camel-ai.org/>
 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel): Integrate cutting-edge LLM technology quickly and easily into your apps <https://aka.ms/semantic-kernel>
   - [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory): Index and query any data using LLM and natural language, tracking sources and showing citations.
@@ -156,6 +157,7 @@
 - [lyogavin/Anima](https://github.com/lyogavin/Anima): 33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU
 - [microsoft/rho](https://github.com/microsoft/rho): Repo for Rho-1: Token-level Data Selection & Selective Pretraining of LLMs. <https://arxiv.org/pdf/2404.07965.pdf>
 - [ibm-granite/granite-code-models](https://github.com/ibm-granite/granite-code-models): Granite Code Models: A Family of Open Foundation Models for Code Intelligence <https://huggingface.co/collections/ibm-granite/granite-code-models-6624c5cec322e4c148c8b330>
+- [microsoft/OmniParser](https://github.com/microsoft/OmniParser): OmniParser: Screen Parsing tool for Pure Vision Based GUI Agent
 
 ## Applications
 

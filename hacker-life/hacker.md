@@ -77,6 +77,9 @@
   - [notiz-dev/prisma-dbml-generator](https://github.com/notiz-dev/prisma-dbml-generator): Prisma DBML Generator
 - [mity/md4c](https://github.com/mity/md4c): C Markdown parser. Fast. SAX-like interface. Compliant to CommonMark specification.
 - [hikerpig/pintora](https://github.com/hikerpig/pintora): An extensible text-to-diagrams library that works in both browser and node.js <https://pintorajs.vercel.app>
+- 🌟 [thisismiller/dbdiag](https://github.com/thisismiller/dbdiag): Diagrams as text tool for visualizing concurrent operation histories
+  - [Concurrent Operation Diagram Generator](https://transactional.blog/blog/2022-dbdiag-ophistory)
+  - [DistributedClocks/shiviz](https://github.com/DistributedClocks/shiviz): A tool to visualize distributed system logs <https://bestchai.bitbucket.io/shiviz/>
 
 ## Homelab
 

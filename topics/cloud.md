@@ -16,25 +16,9 @@
 - [virtual-kubelet/systemk](https://github.com/virtual-kubelet/systemk): Systemk is a systemd backend for the virtual-kubelet. Instead of starting containers, you start systemd units.
   - Interesting idea that manipulating systemd units like containers
 
-## OS
+## Cloud native
 
-- [oasislinux/oasis](https://github.com/oasislinux/oasis): a small statically-linked linux system
-- [unikraft/unikraft](https://github.com/unikraft/unikraft): Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. <http://unikraft.org/>
-- 🌟 [canonical/cloud-init](https://github.com/canonical/cloud-init): Official upstream for the cloud-init: cloud instance initialization <instance>
-- 🌟 [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system and container binary deployment and upgrades <https://ostreedev.github.io/ostree/>
-- 🌟 [systemd/mkosi](https://github.com/systemd/mkosi): 💽 Build Bespoke OS Images
-- [uapi-group/specifications](https://github.com/uapi-group/specifications): UAPI Group Specifications <https://uapi-group.org/specifications/>
-- [flatcar/coreos-cloudinit](https://github.com/flatcar/coreos-cloudinit): Simple configuration tool for Flatcar Container Linux <https://github.com/flatcar/flatcar/issues>
-
-## Virtual Machines
-
-- [canonical/multipass](https://github.com/canonical/multipass): Multipass orchestrates virtual Ubuntu instances <https://multipass.run>
-- 🌟 [89luca89/distrobox](https://github.com/89luca89/distrobox): Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox <https://distrobox.it/>
-  - [Arch Linux Wiki - Distrobox](https://wiki.archlinux.org/title/Distrobox)
-- [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments. <https://www.vagrantup.com>
-- [tteck/Proxmox](https://github.com/tteck/Proxmox): Proxmox VE Helper-Scripts <https://helper-scripts.com/>
-
-## Container
+### Container
 
 - [ncopa/su-exec](https://github.com/ncopa/su-exec): switch user and group id and exec
 - [tianon/gosu](https://github.com/tianon/gosu): Simple Go-based setuid+setgid+setgroups+exec
@@ -42,7 +26,6 @@
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers <https://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html>
 - [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. <https://containrrr.dev/watchtower>
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers): Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. <https://katacontainers.io/ >
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks): App source + Nix packages + Docker = Image <https://nixpacks.com>
 - [google/gvisor](https://github.com/google/gvisor): Application Kernel for Containers <https://gvisor.dev>
 - [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless): 🥑 Language focused docker images, minus the operating system.
@@ -54,11 +37,45 @@
 - [uber/kraken](https://github.com/uber/kraken): P2P Docker registry capable of distributing TBs of data in seconds
 - 🌟 [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust): Horust is a supervisor / init system written in rust and designed to run inside containers. <https://federicoponzi.github.io/Horust/>
 - [nestybox/sysbox](https://github.com/nestybox/sysbox): An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
-- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout): 🚀 Zero Downtime Deployment for Docker Compose <https://github.com/Wowu/docker-rollout>
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. <https://hub.docker.com/r/sickcodes/docker-osx>
 - 🌟 [slimtoolkit/slim](https://github.com/slimtoolkit/slim): Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - 🌟 [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
   - alternative of musl for static libc runtime links
+
+### OS
+
+- [oasislinux/oasis](https://github.com/oasislinux/oasis): a small statically-linked linux system
+- [unikraft/unikraft](https://github.com/unikraft/unikraft): Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. <http://unikraft.org/>
+- 🌟 [canonical/cloud-init](https://github.com/canonical/cloud-init): Official upstream for the cloud-init: cloud instance initialization <instance>
+- 🌟 [ostreedev/ostree](https://github.com/ostreedev/ostree): Operating system and container binary deployment and upgrades <https://ostreedev.github.io/ostree/>
+- 🌟 [systemd/mkosi](https://github.com/systemd/mkosi): 💽 Build Bespoke OS Images
+- [uapi-group/specifications](https://github.com/uapi-group/specifications): UAPI Group Specifications <https://uapi-group.org/specifications/>
+- [flatcar/coreos-cloudinit](https://github.com/flatcar/coreos-cloudinit): Simple configuration tool for Flatcar Container Linux <https://github.com/flatcar/flatcar/issues>
+
+### Virtual Machines
+
+- [canonical/multipass](https://github.com/canonical/multipass): Multipass orchestrates virtual Ubuntu instances <https://multipass.run>
+- 🌟 [89luca89/distrobox](https://github.com/89luca89/distrobox): Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox <https://distrobox.it/>
+  - [Arch Linux Wiki - Distrobox](https://wiki.archlinux.org/title/Distrobox)
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments. <https://www.vagrantup.com>
+- [tteck/Proxmox](https://github.com/tteck/Proxmox): Proxmox VE Helper-Scripts <https://helper-scripts.com/>
+
+### Storage
+
+- [kahing/goofys](https://github.com/kahing/goofys): a high-performance, POSIX-ish Amazon S3 file system written in Go
+- [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse): FUSE-based file system backed by Amazon S3
+- [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3): A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
+- [drivendataorg/cloudpathlib](https://github.com/drivendataorg/cloudpathlib): Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage. <https://cloudpathlib.drivendata.org>
+
+### Serverless
+
+- [zappa/Zappa](https://github.com/zappa/Zappa): Serverless Python
+- [lagonapp/lagon](https://github.com/lagonapp/lagon): Deploy Serverless Functions at the Edge. Current status: Alpha <https://lagon.app/>
+- [robertcepa/toucan-js](https://github.com/robertcepa/toucan-js): Cloudflare Workers client for Sentry
+- [cloudflare/miniflare](https://github.com/cloudflare/miniflare): 🔥 Fully-local simulator for Cloudflare Workers
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs): Write Cloudflare Workers in 100% Rust via WebAssembly
+- [Logflare/logflare](https://github.com/Logflare/logflare): Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. <https://logflare.app>
+- [SukkaW/dashflare](https://github.com/SukkaW/dashflare): An unofficial Cloudflare dashboard built on top of Cloudflare API. <https://dashflare.skk.moe>
 
 ### CLI
 
@@ -68,7 +85,7 @@
 - [homeport/dyff](https://github.com/homeport/dyff): /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [simonw/s3-credentials](https://github.com/simonw/s3-credentials): A tool for creating credentials for accessing S3 buckets <https://s3-credentials.readthedocs.io>
 
-## Routing
+### Routing / Gateway
 
 - [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 - [metallb/metallb](https://github.com/metallb/metallb): A network load-balancer implementation for Kubernetes using standard routing protocols <https://metallb.universe.tf>
@@ -86,19 +103,14 @@
 - [memorysafety/river](https://github.com/memorysafety/river): This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [google/seesaw](https://github.com/google/seesaw): Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 
-## Cloud native
+## Lightweight Tech Stack
 
-- [cloudflare/miniflare](https://github.com/cloudflare/miniflare): 🔥 Fully-local simulator for Cloudflare Workers
-- [drivendataorg/cloudpathlib](https://github.com/drivendataorg/cloudpathlib): Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage. <https://cloudpathlib.drivendata.org>
-- [zappa/Zappa](https://github.com/zappa/Zappa): Serverless Python
-- [lagonapp/lagon](https://github.com/lagonapp/lagon): Deploy Serverless Functions at the Edge. Current status: Alpha <https://lagon.app/>
+- [internetarchive/hind](https://github.com/internetarchive/hind): Hashistack-IN-Docker (single container with nomad + consul + caddy)
+- [theztd/startup-infra-docker](https://github.com/theztd/startup-infra-docker): Easy managable infrastructure for small devops teams or startups (based on ansible, nomadproject, docker, prometheus)
+- [yarlson/ftl](https://github.com/yarlson/ftl): 🚀 FTL is a powerful deployment tool that simplifies the process of setting up servers and deploying applications.
+- [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout): 🚀 Zero Downtime Deployment for Docker Compose <https://github.com/Wowu/docker-rollout>
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver): Programming framework for writing and deploying cloud applications. <https://serviceweaver.dev>
 - [mrsked/mrsk](https://github.com/mrsked/mrsk): Deploy web apps anywhere. <https://mrsk.dev/>
-- [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse): FUSE-based file system backed by Amazon S3
-- [buildpacks/pack](https://github.com/buildpacks/pack): CLI for building apps using Cloud Native Buildpacks <https://buildpacks.io>
-- [pivotal/kpack](https://github.com/pivotal/kpack): Kubernetes Native Container Build Service
-- [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3): A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-- [kahing/goofys](https://github.com/kahing/goofys): a high-performance, POSIX-ish Amazon S3 file system written in Go
 
 ## K8S
 
@@ -153,10 +165,6 @@
 - [flant/shell-operator](https://github.com/flant/shell-operator): Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster <https://flant.github.io/shell-operator/>
 - [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write Kubernetes operators in just a few lines of code <https://kopf.readthedocs.io/>
 - [inlets/inlets-operator](https://github.com/inlets/inlets-operator): Get public TCP LoadBalancers for local Kubernetes clusters <https://docs.inlets.dev/reference/inlets-operator>
-
-### GitOps
-
-- [rancher/fleet](https://github.com/rancher/fleet): Deploy workloads from Git to large fleets of Kubernetes clusters <https://fleet.rancher.io/>
 
 ### App framework
 
@@ -249,11 +257,6 @@
 - [opencost/opencost](https://github.com/opencost/opencost): Cost monitoring for Kubernetes workloads and cloud costs <http://opencost.io>
 - [Vantage](https://www.vantage.sh/): Understand cloud costs and automate savings. See how much Vantage can reduce your bill by connecting accounts.
 
-### Tech Stack
-
-- [internetarchive/hind](https://github.com/internetarchive/hind): Hashistack-IN-Docker (single container with nomad + consul + caddy)
-- [theztd/startup-infra-docker](https://github.com/theztd/startup-infra-docker): Easy managable infrastructure for small devops teams or startups (based on ansible, nomadproject, docker, prometheus)
-
 ## Utils
 
 - [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane): 🔥 Blazing fast bulk data transfers between any cloud 🔥 <https://skyplane.org>
@@ -261,10 +264,3 @@
 - [libdns/libdns](https://github.com/libdns/libdns): Core interfaces for universal DNS record manipulation across providers
 - [go-acme/lego](https://github.com/go-acme/lego): Let's Encrypt/ACME client and library written in Go <https://go-acme.github.io/lego/>
 - [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files <https://rclone.org>
-
-## Serverless
-
-- [robertcepa/toucan-js](https://github.com/robertcepa/toucan-js): Cloudflare Workers client for Sentry
-- [Logflare/logflare](https://github.com/Logflare/logflare): Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. <https://logflare.app>
-- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs): Write Cloudflare Workers in 100% Rust via WebAssembly
-- [SukkaW/dashflare](https://github.com/SukkaW/dashflare): An unofficial Cloudflare dashboard built on top of Cloudflare API. <https://dashflare.skk.moe>

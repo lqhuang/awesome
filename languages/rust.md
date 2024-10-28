@@ -154,6 +154,7 @@
 - [wvwwvwwv/scalable-concurrent-containers](https://github.com/wvwwvwwv/scalable-concurrent-containers): High performance containers and utilities for concurrent and asynchronous programming
 - [mirromutth/latches](https://github.com/mirromutth/latches): A downward counter (CountDownLatch) which can be used to synchronize threads or coordinate tasks
 - [dragostis/chili](https://github.com/dragostis/chili): Rust port of Spice, a low-overhead parallelization library
+- [tisonkun/mea](https://github.com/tisonkun/mea): Mea provides async utilities that are runtime agnostic. <https://docs.rs/mea/>
 
 ### Lock & synchronization
 
@@ -315,6 +316,7 @@
 - 🌟 [dtolnay/typetag](https://github.com/dtolnay/typetag): Serde serializable and deserializable trait objects
 - [sharksforarms/deku](https://github.com/sharksforarms/deku): Declarative binary reading and writing: bit-level, symmetric, serialization/deserialization
 - [CertainLach/jrsonnet](https://github.com/CertainLach/jrsonnet): Rust implementation of Jsonnet language
+- [tafia/quick-xml](https://github.com/tafia/quick-xml): Rust high performance xml reader and writer
 
 ### Parser combinators
 

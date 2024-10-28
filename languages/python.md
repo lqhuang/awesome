@@ -136,7 +136,7 @@
 
 ### Test / Mock / Coverage
 
-- pytest plugin
+- Pytest plugins
   - [omarkohl/pytest-datafiles](https://github.com/omarkohl/pytest-datafiles): pytest plugin to create a tmpdir containing a preconfigured set of files and/or directories.
   - [ClearcodeHQ/pytest-postgresql](https://github.com/ClearcodeHQ/pytest-postgresql): This is a pytest plugin, that enables you to test your code that relies on a running PostgreSQL Database. It allows you to specify fixtures for PostgreSQL process and client.
   - [JamesHutchison/pytest-hot-reloading](https://github.com/JamesHutchison/pytest-hot-reloading): A hot reloading pytest daemon, implemented as a plugin
@@ -145,21 +145,26 @@
   - [typeddjango/pytest-mypy-plugins](https://github.com/typeddjango/pytest-mypy-plugins): pytest plugin for testing mypy types, stubs, and plugins
   - [orsinium-labs/pytypest](https://github.com/orsinium-labs/pytypest): Testing framework that empowers pytest (with better fixtures and parametrization) <https://pytypest.orsinium.dev>
   - [modal-labs/pytest-markdown-docs](https://github.com/modal-labs/pytest-markdown-docs): Run pytest on markdown code fence blocks
+  - [Colin-b/pytest_httpx](https://github.com/Colin-b/pytest_httpx): pytest fixture to mock HTTPX <https://colin-b.github.io/pytest_httpx/>
+- Coverage
+  - [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover): Near Zero-Overhead Python Code Coverage
+  - [econchick/interrogate](https://github.com/econchick/interrogate): Explain yourself! Interrogate a codebase for docstring coverage. <https://interrogate.readthedocs.io>
+- mock
+  - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy): Automatically mock your HTTP interactions to simplify and speed up testing
+  - [lundberg/respx](https://github.com/lundberg/respx): Mock HTTPX with awesome request patterns and response side effects 🦋
+  - [mongomock/mongomock](https://github.com/mongomock/mongomock): Small library for mocking pymongo collection objects for testing purposes
+  - [barseghyanartur/faker-file](https://github.com/barseghyanartur/faker-file): Create files with fake data. In many formats. With no efforts.
+
+<!-- sep -->
+
 - 🌟 [wntrblm/nox](https://github.com/wntrblm/nox): Flexible test automation for Python <https://nox.thea.codes>
-- [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy): Automatically mock your HTTP interactions to simplify and speed up testing
-- [lundberg/respx](https://github.com/lundberg/respx): Mock HTTPX with awesome request patterns and response side effects 🦋
-- [Colin-b/pytest_httpx](https://github.com/Colin-b/pytest_httpx): pytest fixture to mock HTTPX <https://colin-b.github.io/pytest_httpx/>
-- [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover): Near Zero-Overhead Python Code Coverage
-- [econchick/interrogate](https://github.com/econchick/interrogate): Explain yourself! Interrogate a codebase for docstring coverage. <https://interrogate.readthedocs.io>
 - [tonybaloney/wily](https://github.com/tonybaloney/wily): A Python application for tracking, reporting on timing and complexity in Python code
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis): Run thousands of randomly generated test scenarios based on your API specification and always be sure your API works as expected. <https://schemathesis.readthedocs.io>
 - [hamcrest/PyHamcrest](https://github.com/hamcrest/PyHamcrest): Hamcrest matchers for Python <http://hamcrest.org>
 - [gabrielfalcao/sure](https://github.com/gabrielfalcao/sure): idiomatic assertion toolkit with human-friendly failure messages, inspired by RSpec Expectations and should.js <http://sure.readthedocs.io/en/latest>
 - [starlite-api/pydantic-factories](https://github.com/starlite-api/pydantic-factories): Simple and powerful mock data generation using pydantic or dataclasses <https://starlite-api.github.io/pydantic-factories>
-- [mongomock/mongomock](https://github.com/mongomock/mongomock): Small library for mocking pymongo collection objects for testing purposes
 - 🌟 [behave/behave](https://github.com/behave/behave): BDD, Python style.
 - [robotframework/robotframework](https://github.com/robotframework/robotframework): Generic automation framework for acceptance testing and RPA <http://robotframework.org>
-- [barseghyanartur/faker-file](https://github.com/barseghyanartur/faker-file): Create files with fake data. In many formats. With no efforts.
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory): Simple and powerful factories for mock data generation <https://polyfactory.litestar.dev/>
 - [simplistix/sybil](https://github.com/simplistix/sybil): Automated testing for the examples in your documentation. <https://sybil.readthedocs.io/en/latest/>
 - [life4/deal](https://github.com/life4/deal): 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free. <https://deal.readthedocs.io/>
@@ -264,6 +269,7 @@
 - [scikit-tda/scikit-tda](https://github.com/scikit-tda/scikit-tda): Topological Data Analysis for Python🐍 <https://docs.scikit-tda.org>
 - 🌟 [mljar/supertree](https://github.com/mljar/supertree): Visualize decision trees in Python <https://mljar.com>
 - [symbolic-kg/PyClause](https://github.com/symbolic-kg/PyClause): A libary for using and learning symbolic rules for knowledge graphs
+- [benruijl/symbolica](https://github.com/benruijl/symbolica): A modern computer algebra library for Python and Rust. <https://symbolica.io>
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -436,6 +442,7 @@
   - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions): Extensions for Python Markdown <https://facelessuser.github.io/pymdown-extensions/>
 - 🌟 [laike9m/pdir2](https://github.com/laike9m/pdir2): Pretty dir() printing with joy:beer:
 - [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic): Entity relationship diagrams for Python data model classes like Pydantic <https://erdantic.drivendata.org/>
+- [pyNVML](https://pypi.org/project/nvidia-ml-py/): Python Bindings for the NVIDIA Management Library. This is a wrapper around the NVML library. For information about the NVML library, see the NVML developer page http://developer.nvidia.com/nvidia-management-library-nvml
 
 ### Configuration
 
@@ -525,6 +532,8 @@
 - [facebook/starlark-rust](https://github.com/facebook/starlark-rust): A Rust implementation of the Starlark language
 - [serge-sans-paille/pythran](https://github.com/serge-sans-paille/pythran): Ahead of Time compiler for numeric kernels <https://pythran.readthedocs.io>
 - 🌟 [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy): Portable Python 3.x Interpreter in Modern C <https://pocketpy.dev/>
+- [cslarsen/minijit](https://github.com/cslarsen/minijit): A basic x86-64 JIT compiler written from scratch in stock Python <https://csl.name/post/python-jit/>
+- [cslarsen/python-simple-vm](https://github.com/cslarsen/python-simple-vm): A simple virtual machine w/constant folding implemented in Python <https://csl.name/post/vm/>
 
 ### Parsers
 
@@ -563,6 +572,8 @@
 - [jiisanda/docflow](https://github.com/jiisanda/docflow): DocFlow is a powerful Document Management API designed to streamline document handling, including seamless uploading, downloading, organization, versioning, sharing, and more. <https://documenter.getpostman.com/view/20984268/2s9YRGxUcp>
 - [sqlalchemy/mako](https://github.com/sqlalchemy/mako): Mako Templates for Python <https://www.makotemplates.org>
 - [heuer/segno](https://github.com/heuer/segno): Python QR Code and Micro QR Code encoder <https://pypi.org/project/segno/>
+
+- 🌟 [devpi/devpi](https://github.com/devpi/devpi): Python PyPi staging server and packaging, testing, release tool <https://doc.devpi.net>
 
 ## Visualization
 

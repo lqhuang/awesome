@@ -128,6 +128,8 @@ Containing cpp resources though I totally understand clang and cpp are two langu
 - [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 - [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
 - [KaHIP/KaHIP](https://github.com/KaHIP/KaHIP): KaHIP -- Karlsruhe HIGH Quality Partitioning. <https://kahip.github.io>
+- [martinus/unordered_dense](https://github.com/martinus/unordered_dense): A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
+- [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
 
 ## String
 

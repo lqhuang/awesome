@@ -73,6 +73,7 @@
 ## Probability
 
 - [normal-computing/posteriors](https://github.com/normal-computing/posteriors): Uncertainty quantification with PyTorch <https://normal-computing.github.io/posteriors/>
+- [pymc-devs/pymc](https://github.com/pymc-devs/pymc): Bayesian Modeling and Probabilistic Programming in Python <https://docs.pymc.io/>
 
 ## Workshop
 

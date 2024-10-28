@@ -119,6 +119,7 @@
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens): Tile primitives for speedy kernels
   - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 - [microsoft/vattention](https://github.com/microsoft/vattention): Dynamic Memory Management for Serving LLMs without PagedAttention
+- [facebookresearch/lingua](https://github.com/facebookresearch/lingua): Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 
 ### Inference engine / large-scale deployment
 
@@ -283,6 +284,13 @@
 - [yixiaoer/einshard](https://github.com/yixiaoer/einshard): Einsum-like high-level array sharding API for JAX <https://einshard.readthedocs.io/>
 - [epignatelli/navix](https://github.com/epignatelli/navix): Accelerated minigrid environments with JAX
 - [erfanzar/EasyDeL](https://github.com/erfanzar/EasyDeL): Accelerate, Optimize performance with streamlined training and serving options with JAX. <https://easydel.readthedocs.io/en/latest/>
+- [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl): Really Fast End-to-End Jax RL Implementations
+  - [Achieving Over 4000x Speedups and Meta-Evolving Discoveries with PureJaxRL](https://chrislu.page/blog/meta-disco/)
+  - [PureJaxRL Resources](https://github.com/luchris429/purejaxrl/blob/main/RESOURCES.md)
+- [NVIDIA/JAX-Toolbox](https://github.com/NVIDIA/JAX-Toolbox): JAX-Toolbox
+- [deepmodeling/jax-fem](https://github.com/deepmodeling/jax-fem): Differentiable Finite Element Method with JAX
+- [brentyi/jaxlie](https://github.com/brentyi/jaxlie): Rigid transforms + Lie groups in JAX
+- [pymc-devs/pytensor](https://github.com/pymc-devs/pytensor): PyTensor allows you to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays. <https://pytensor.readthedocs.io>
 
 ### DeepMind specialization
 
@@ -303,6 +311,7 @@
 - [google-deepmind/jaxline](https://github.com/google-deepmind/jaxline): JAXline is a distributed JAX training and evaluation framework.
 - [google-deepmind/torax](https://github.com/google-deepmind/torax): TORAX: Tokamak transport simulation in JAX <https://torax.readthedocs.io>
 - 🌟 [google-deepmind/fancyflags](https://github.com/google-deepmind/fancyflags): A Python library for defining flat or nested dictionary flags.
+- [google-deepmind/jax_verify](https://github.com/google-deepmind/jax_verify): Neural network verification in JAX
 
 ### Google specialization
 
@@ -312,11 +321,13 @@
 - [google/maxdiffusion](https://github.com/google/maxdiffusion): MaxDiffusion is a Latent Diffusion model written in pure Python/Jax and targeting Google Cloud TPUs.
 - [google/jaxopt](https://github.com/google/jaxopt): Hardware accelerated, batchable and differentiable optimizers in JAX. <https://jaxopt.github.io>
 - [google/orbax](https://github.com/google/orbax): Orbax provides common utility libraries for JAX users. <https://orbax.readthedocs.io/>
-- [google-research/discs](https://github.com/google-research/discs): DISCS: The code base for the Benchmark for Discrete Sampling
+- [google/brax](https://github.com/google/brax): Massively parallel rigidbody physics simulation on accelerator hardware.
 - [google/paxml](https://github.com/google/paxml): Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates.
   - [google/praxis](https://github.com/google/praxis): No description, website, or topics provided. This is not an officially supported Google product.
+- [google-research/discs](https://github.com/google-research/discs): DISCS: The code base for the Benchmark for Discrete Sampling
 - [google-research/gpax](https://github.com/google-research/gpax): Gaussian processes in Jax.
 - [google-research/e3x](https://github.com/google-research/e3x): E3x is a JAX library for constructing efficient E(3)-equivariant deep learning architectures built on top of Flax.
+- [google-research/scenic](https://github.com/google-research/scenic): Scenic: A Jax Library for Computer Vision Research and Beyond
 
 ## Libraries
 
@@ -373,7 +384,7 @@
 - [dlwh/jax_sourceror](https://github.com/dlwh/jax_sourceror): Turn jitted jax functions back into python source code
 - [pytorch/PiPPy](https://github.com/pytorch/PiPPy): Pipeline Parallelism for PyTorch
 - [google/ml_collections](https://github.com/google/ml_collections): ML Collections is a library of Python Collections designed for ML use cases. <https://ml-collections.readthedocs.io/>
-- [google/grain](https://github.com/google/grain): No description, website, or topics provided.
+- [google/grain](https://github.com/google/grain): Grain is a library for reading data for training and evaluating JAX models. It's open source, fast and deterministic.
 - [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector <https://pypi.org/project/jax-smi/>
 - [fastai/fastcore](https://github.com/fastai/fastcore): Python supercharged for the fastai library <http://fastcore.fast.ai>
 - [leptonai/gpud](https://github.com/leptonai/gpud): GPUd is designed to ensure GPU efficiency and reliability by actively monitoring GPUs and effectively managing AI/ML workloads.
@@ -401,3 +412,6 @@
 - [milton-l/microhaskell](https://github.com/milton-l/microhaskell): Small autodiff lib and a simple working feedforward neural net in Haskell on top of it, from scratch, zero-deps.
 - [dorjeduck/momograd](https://github.com/dorjeduck/momograd): A Learning Journey: Micrograd in Mojo 🔥
 - [mttga/purejaxql](https://github.com/mttga/purejaxql): Simple single-file baselines for Q-Learning in pure-GPU setting
+- [lucidrains/flash-attention-jax](https://github.com/lucidrains/flash-attention-jax): Implementation of Flash Attention in Jax
+- [gordicaleksa/get-started-with-JAX](https://github.com/gordicaleksa/get-started-with-JAX): The purpose of this repo is to make it easy to get started with JAX, Flax, and Haiku. It contains my "Machine Learning with JAX" series of tutorials (YouTube videos and Jupyter Notebooks) as well as the content I found useful while learning about the JAX ecosystem. <https://www.youtube.com/c/TheAIEpiphany/>
+- [kingoflolz/swarm-jax](https://github.com/kingoflolz/swarm-jax): Swarm training framework using Haiku + JAX + Ray for layer parallel transformer language models on unreliable, heterogeneous nodes

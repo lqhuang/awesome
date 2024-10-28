@@ -67,6 +67,7 @@
 ### Mill
 
 - [lewisjkl/header](https://github.com/lewisjkl/header): Header automation and linting 🎉
+- [alexarchambault/mill-native-image](https://github.com/alexarchambault/mill-native-image): This is a Mill plugin which allows building executables using GraalVM native-image for your modules.
 
 ### Testing
 
@@ -99,6 +100,10 @@
 - [earldouglas/sbt-lit](https://github.com/earldouglas/sbt-lit): Literate programming with sbt
 - [jpablo/type-explorer](https://github.com/jpablo/type-explorer): Code exploration via diagrams
 - [VirtusLab/graphbuddy](https://github.com/VirtusLab/graphbuddy): Graph Buddy helps you to understand the code better <https://graphbuddy.virtuslab.com/>
+
+## Scala Native
+
+- [RustFields/scala-native-rust-interoperability-example](https://github.com/RustFields/scala-native-rust-interoperability-example): This example shows how to integrate Rust code in a Scala project thanks to the interoperability of Rust and Scala Native with C. The project is structured in the following way:
 
 ## Featured
 

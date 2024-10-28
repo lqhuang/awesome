@@ -14,7 +14,6 @@
 - 🌟 [Go7hic/A-Philosophy-of-Software-Design](https://github.com/Go7hic/A-Philosophy-of-Software-Design): 《软件设计哲学》 <https://go7hic.github.io/A-Philosophy-of-Software-Design/#/>
 - [zxyle/PDF-Explained](https://github.com/zxyle/PDF-Explained): 《PDF 解析》 <https://zxyle.github.io/PDF-Explained/>
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. <https://blog.bytebytego.com/>
-- [Dhravya/cloudflare-saas-stack](https://github.com/Dhravya/cloudflare-saas-stack): Quickly make and deploy full-stack apps with database, auth, styling, storage etc. figured out for you.
 
 ## Middleware
 
@@ -92,3 +91,4 @@
 ## Serverless
 
 - [faasm/faasm](https://github.com/faasm/faasm): High-performance stateful serverless runtime based on WebAssembly <https://faasm.readthedocs.io>
+- [upstash/edge-flags](https://github.com/upstash/edge-flags): Feature flags for serverless functions <https://edge-flags.vercel.app>

@@ -91,6 +91,11 @@
 
 ## Functional libraries
 
+### Data Structure
+
+- [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter): Simple, expected, and deterministic best-match sorting of an array in JavaScript <https://npm.im/match-sorter>
+- [lovell/farmhash](https://github.com/lovell/farmhash): Node.js implementation of FarmHash, Google's family of high performance hash functions
+
 ### SerDe / Schema
 
 - 🌟 [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first schema validation with static type inference <https://zod.dev>
@@ -139,19 +144,28 @@
 - [modesty/pdf2json](https://github.com/modesty/pdf2json): A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 - [unjs/unpdf](https://github.com/unjs/unpdf): 📄 Utilities to work with PDFs in Node.js, browser and workers
 
+### File parser
+
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
+- [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
+- [mholt/PapaParse](https://github.com/mholt/PapaParse): Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input <http://PapaParse.com>
+- [dolanmiu/docx](https://github.com/dolanmiu/docx): Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. <https://docx.js.org/>
+
+### Logging
+
+- [adzejs/adze](https://github.com/adzejs/adze): A universal, modern, and extensible logging library for JavaScript and TypeScript. <https://adzejs.com/>
+- [winstonjs/winston](https://github.com/winstonjs/winston): A logger for just about everything. <http://github.com/winstonjs/winston>
+
 ### Utils
 
 - [komodojp/tinyld](https://github.com/komodojp/tinyld): Simple and Performant Language detection library for NodeJS <https://komodojp.github.io/tinyld/>
 - [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions <http://bradymholt.github.io/cRonstrue/>
 - [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics): simple statistics for node & browser javascript <http://simplestatistics.org/>
 - [sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions): Get the dimensions of an image
+- [image-size/image-size](https://github.com/image-size/image-size): Node module for detecting image dimensions
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
 - [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
-- [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
-- [mholt/PapaParse](https://github.com/mholt/PapaParse): Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input <http://PapaParse.com>
 - [sindresorhus/execa](https://github.com/sindresorhus/execa): Process execution for humans
-- [dolanmiu/docx](https://github.com/dolanmiu/docx): Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. <https://docx.js.org/>
 - 🌟 [xthezealot/npmprune](https://github.com/xthezealot/npmprune): Prune unnecessary files from node_modules
   - simple and easy LOL
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
@@ -175,13 +189,11 @@
 
 ## Misc
 
-- [yunabe/tslab](https://github.com/yunabe/tslab): Interactive JavaScript and TypeScript programming with Jupyter
 - [google/zx](https://github.com/google/zx): A tool for writing better scripts <https://google.github.io/zx/>
 - [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your i18n localization with AI
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates): Find newer versions of package dependencies than what your package.json allows
-- [lovell/farmhash](https://github.com/lovell/farmhash): Node.js implementation of FarmHash, Google's family of high performance hash functions
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp): An image processing library written entirely in JavaScript for Node, with zero external or native dependencies. <http://jimp-dev.github.io/jimp/>
 
 ## Effect system on Typescript

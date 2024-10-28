@@ -56,7 +56,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth): Authentication for the Web. <https://authjs.dev>
 - 🌟 [onejs/one](https://github.com/onejs/one): ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. <https://onestack.dev>
 
-### Templates
+### Templates / Starter kit
 
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app): The best way to start a full-stack, typesafe Next.js app <https://create.t3.gg>
 - 🌟 [steven-tey/precedent](https://github.com/steven-tey/precedent): An opinionated collection of components, hooks, and utilities for your Next.js project. <https://precedent.dev>
@@ -68,6 +68,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack): This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea. <https://www.epicweb.dev/epic-stack>
 - 🌟 [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore): Modern Commerce with Next.js and Stripe as the backend. <https://demo.yournextstore.com>
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter): Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. <https://next-saas-start.vercel.app>
+- 🌟 [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit): The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included. <https://starter.rasmic.xyz/>
 
 ### UI
 
@@ -158,6 +159,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown): Markdown component for React <https://remarkjs.github.io/react-markdown>
 - [remarkjs/remark](https://github.com/remarkjs/remark): markdown processor powered by plugins part of the @unifiedjs collective <https://remark.js.org>
 - [micromark/micromark](https://github.com/micromark/micromark): small, safe, and great commonmark (optionally gfm) compliant markdown parser <https://unifiedjs.com>
+  - [micromark/micromark-extension-mdxjs-esm](https://github.com/micromark/micromark-extension-mdxjs-esm): micromark extension to support MDX JS import/exports <https://unifiedjs.com>
 - [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx): 🏭 The most lightweight, customizable React markdown component. <https://markdown-to-jsx.quantizor.dev/>
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown): 🍼 Plugin driven WYSIWYG markdown editor framework. <https://milkdown.dev>
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote): Load mdx content from anywhere through getStaticProps in next.js
@@ -208,6 +210,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [google/budoux](https://github.com/google/budoux): BudouX is the successor to Budou, the machine learning powered line break organizer tool.
 
 - [origin-space/originui](https://github.com/origin-space/originui): A growing collection of over 50 input components built with Next.js and TailwindCSS. <https://origin-ui-alpha.vercel.app/>
+- [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words): React component to highlight words within a larger body of text <https://bvaughn.github.io/react-highlight-words/>
 
 #### PDF
 
@@ -304,6 +307,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy): The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. <https://Uiverse.io>
 - [barvian/motion-number](https://github.com/barvian/motion-number): A Framer Motion component that transitions, formats, and localizes numbers. <https://motion-number.barvian.me>
 
+- [WinterCore/react-text-transition](https://github.com/WinterCore/react-text-transition): Animate your text changes
+- [maxeth/react-type-animation](https://github.com/maxeth/react-type-animation): A React typewriter animation based on typical with extended functionality and customization. <https://react-type-animation.netlify.app/>
+
 #### Media player
 
 - [sampotts/plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player <https://plyr.io>
@@ -346,6 +352,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware): ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes <https://fezvrasta.github.io/react-resize-aware>
 - 🌟 [uNmAnNeR/imaskjs](https://github.com/uNmAnNeR/imaskjs): vanilla javascript input mask <https://imask.js.org>
 - 🌟 [hoppergee/heic-to](https://github.com/hoppergee/heic-to): Convert HEIC/HEIF images to JPEG, PNG in browser
+- [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string. <https://nuqs.47ng.com>
 
 ### Misc
 

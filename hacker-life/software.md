@@ -136,6 +136,7 @@
 - [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
 - [Droppable](https://www.pixelwrld.co/droppable): Send large files from your Desktop in a couple of clicks.
 - [NotchNook](https://lo.cafe/notchnook): a whole new way of using your `macos`
+- [LocalCan™ - Local domains and persistent Public URLs](https://www.localcan.com/): LocalCan™ for macOS is a powerful Ngrok alternative, allowing developers to build and test apps with .local domains and secure persistent Public URLs.
 
 ## Windows
 
@@ -191,6 +192,7 @@
 - [tasks/tasks](https://github.com/tasks/tasks): Bringing Astrid Tasks back from the dead <http://tasks.org>
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus): ☁️ Sync your bookmarks privately across browsers and devices <https://floccus.org>
 - 🌟 [afadil/wealthfolio](https://github.com/afadil/wealthfolio): A Beautiful Private and Secure Desktop Investment Tracking Application <https://wealthfolio.app>
+- [louisgrasset/touitomamout](https://github.com/louisgrasset/touitomamout): Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also known as Twitter to Mastodon & Bluesky crossposter) <https://hub.docker.com/r/louisgrasset/touitomamout>
 
 ### Developer
 
