@@ -26,6 +26,10 @@
 - [baidu/dperf](https://github.com/baidu/dperf): dperf is a DPDK based 100Gbps network performance and load testing software.
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg): The Linux Kernel Module Programming Guide (updated for 5.0+ kernels) <https://sysprog21.github.io/lkmpg/>
 
+## Compiler
+
+- 🌟 [vnmakarov/mir](https://github.com/vnmakarov/mir): A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
+
 ## BPF
 
 - [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book): Official repository for the BPF Performance Tools book

@@ -11,6 +11,7 @@
 - [firmai/financial-machine-learning](https://github.com/firmai/financial-machine-learning): A curated list of practical financial machine learning tools and applications. <https://www.ml-quant.com/>
 - [cantaro86/Financial-Models-Numerical-Methods](https://github.com/cantaro86/Financial-Models-Numerical-Methods): Collection of notebooks about quantitative finance, with interactive python code.
 - [hugo2046/QuantsPlaybook](https://github.com/hugo2046/QuantsPlaybook): 量化研究-券商金工研报复现 <https://www.joinquant.com/user/9df4817f9c39c67ea27e97be2b182d1c>
+- [xicilion/BitcoinWhitePaper](https://github.com/xicilion/BitcoinWhitePaper): An intricately designed and formatted single-page version of the bitcoin whitepaper, available for printing as a desktop album or hanging as a wall poster.
 
 ### Books
 

@@ -63,6 +63,10 @@
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid): Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [rs/xid](https://github.com/rs/xid): xid is a globally unique id generator thought for the web
 
+## Testing
+
+- [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync): Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments. <https://www.neosync.dev>
+
 ## Localfirst
 
 - [Local-First Web Development](https://localfirstweb.dev/)

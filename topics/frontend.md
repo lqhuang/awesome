@@ -16,6 +16,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - https://page-speed.dev/
 - [Web Platform Status](https://webstatus.dev/)
 - [UIs are streaming DAGs](https://www.hytradboi.com/2022/uis-are-streaming-dags)
+- 🌟 [web.dev](https://web.dev/): Building a better web, together
+  - [Learn web development](https://web.dev/learn)
+    - [Learn CSS](https://web.dev/learn/css): An evergreen CSS course and reference to level up your web styling expertise.
 
 ### Tutorials
 
@@ -211,6 +214,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [origin-space/originui](https://github.com/origin-space/originui): A growing collection of over 50 input components built with Next.js and TailwindCSS. <https://origin-ui-alpha.vercel.app/>
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words): React component to highlight words within a larger body of text <https://bvaughn.github.io/react-highlight-words/>
+
+- [nucleuscloud/neocron](https://github.com/nucleuscloud/neocron): A modern, lightweight cron scheduling react component styled using tailwind css
 
 #### PDF
 
