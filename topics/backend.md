@@ -37,11 +37,37 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify): An open-source & self-hostable Heroku / Netlify / Vercel alternative. <https://coolify.io>
 - [apitable/apitable](https://github.com/apitable/apitable): 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. <https://aitable.ai>
 - [dream-num/univer](https://github.com/dream-num/univer): Univer is an open-source alternative to Google Sheets, Slides, and Docs <https://univer.ai>
+- [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase): A blazingly fast, single-file, and open-source server for your application with type-safe restful APIs, auth, admin dashboard, and more. <https://trailbase.io>
 
 ## Auth
 
-- [better-auth/better-auth](https://github.com/better-auth/better-auth): The most comprehensive authentication library for TypeScript <https://better-auth.com>
+- [How to roll your own auth in JavaScript & TypeScript](https://www.robinwieruch.de/how-to-roll-your-own-auth/): Learn how to roll your own authentication in JavaScript & TypeScript
+- [warrant-dev/awesome-authorization](https://github.com/warrant-dev/awesome-authorization): A curated list of information and resources about authorization. <https://awesome-authorization.warrant.dev/>
+- [WorkOS](https://github.com/workos): WorkOS is a set of building blocks for quickly adding enterprise features to your app. You’ll be shipping quickly with a market-proven solution for your customers. <https://workos.com/>
+- [Clerk](https://github.com/clerkinc): More than authentication - Complete user management <https://clerk.dev/>
+- [Auth0](https://github.com/auth0): Next.js SDK for signing in with Auth0 <https://auth0.com>
+- 🌟 [better-auth/better-auth](https://github.com/better-auth/better-auth): The most comprehensive authentication library for TypeScript <https://better-auth.com>
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia): Authentication, simple and clean <https://lucia-auth.com>
+- [keycloak/keycloak](https://github.com/keycloak/keycloak): Open Source Identity and Access Management For Modern Applications and Services <https://www.keycloak.org>
+- [logto-io/logto](https://github.com/logto-io/logto): 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps. <https://logto.io>
+- [boxyhq/jackson](https://github.com/boxyhq/jackson): 🔥 Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via the SCIM 2.0 protocol for automatic user and group provisioning/de-provisioning. 🤩 <https://boxyhq.com/docs/jackson/overview>
+- Ory
+  - [ory/kratos](https://github.com/ory/kratos): Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service. <https://www.ory.sh/kratos>
+  - [ory/hydra](https://github.com/ory/hydra): OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. <https://www.ory.sh/hydra>
+  - [ory/oathkeeper](https://github.com/ory/oathkeeper): A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. <https://www.ory.sh/>
+  - ory is good, but no GUI or admin dashboard for community version
+- [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT <https://casdoor.org>
+- [teamhanko/hanko](https://github.com/teamhanko/hanko): A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. <https://hanko.io>
+- [authelia/authelia](https://github.com/authelia/authelia): The Single Sign-On Multi-Factor portal for web apps <https://www.authelia.com>
+- [goauthentik/authentik](https://github.com/goauthentik/authentik): The authentication glue you need. <https://goauthentik.io>
+- [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core): Open source alternative to Auth0 / Firebase Auth / AWS Cognito <https://supertokens.com>
+- [kanidm/kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure and fast identity management platform
+- [zanzibar](https://zanzibar.academy/): A Globally Distributed Authorization System
+  - [openfga/openfga](https://github.com/openfga/openfga): A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar <https://openfga.dev>
+  - [ory/keto](https://github.com/ory/keto): Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. <https://www.ory.sh>
+  - [osohq/oso](https://github.com/osohq/oso): Oso is a batteries-included framework for building authorization in your application. <https://docs.osohq.com>
+  - [warrant-dev/warrant](https://github.com/warrant-dev/warrant): Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules. <https://warrant.dev>
+- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains): a list of disposable and temporary email address domains
 
 ## CMS
 
@@ -62,6 +88,7 @@
 - snowflake
 - [jetpack-io/typeid](https://github.com/jetpack-io/typeid): Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
 - [rs/xid](https://github.com/rs/xid): xid is a globally unique id generator thought for the web
+- [dylanhart/ulid-rs](https://github.com/dylanhart/ulid-rs): This is a Rust implementation of the ulid project <https://crates.io/crates/ulid>
 
 ## Testing
 

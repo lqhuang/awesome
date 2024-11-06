@@ -49,6 +49,7 @@
 - [chronoxor/CppTrader](https://github.com/chronoxor/CppTrader): High performance components for building Trading Platform such as ultra fast matching engine, order book processor
   - How fast for ultra fast matching engine?
 - [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs): Open-source Rust framework for building event-driven live-trading & backtesting systems <https://github.com/orgs/barter-rs/repositories>
+- [javifalces/HFTFramework](https://github.com/javifalces/HFTFramework): HFTFramework utilized for research on " A reinforcement learning approach to improve the performance of the Avellaneda-Stoikov market-making algorithm "
 
 ## Backtesting
 

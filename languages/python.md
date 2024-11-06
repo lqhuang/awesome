@@ -16,6 +16,7 @@
 - [henryiii/python-performance-minicourse](https://github.com/henryiii/python-performance-minicourse): Mini-course at Princeton on High Performance Python <https://mybinder.org/v2/gh/henryiii/python-performance-minicourse/master?urlpath=lab>
 - [henryiii/pygpu-minicourse](https://github.com/henryiii/pygpu-minicourse): Princeton mini course on GPUs in Python
 - [Xiang-cd/GPUProcessPoolExecutor](https://github.com/Xiang-cd/GPUProcessPoolExecutor): A implementation of GPUProcessPoolExecutor to perform light weighted GPU parallel tasks.
+- [pablogsal/python-horror-show](https://github.com/pablogsal/python-horror-show): Strange and odd python snippets explained
 
 ### Readings
 
@@ -169,9 +170,10 @@
 - [simplistix/sybil](https://github.com/simplistix/sybil): Automated testing for the examples in your documentation. <https://sybil.readthedocs.io/en/latest/>
 - [life4/deal](https://github.com/life4/deal): 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free. <https://deal.readthedocs.io/>
 - 🌟 [pschanely/CrossHair](https://github.com/pschanely/CrossHair): An analysis tool for Python that blurs the line between testing and type systems.
-- [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot): create and update inline snapshots in your python tests <https://15r10nk.github.io/inline-snapshot/>
 - [se2p/pynguin](https://github.com/se2p/pynguin): The PYthoN General UnIt Test geNerator is a test-generation tool for Python <https://www.pynguin.eu>
+- [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot): create and update inline snapshots in your python tests <https://15r10nk.github.io/inline-snapshot/>
 - [syrusakbary/snapshottest](https://github.com/syrusakbary/snapshottest): Snapshot Testing utils for Python 📸
+- [vberlier/pytest-insta](https://github.com/vberlier/pytest-insta): A practical snapshot testing plugin for pytest.
 
 ### Profile / tracing
 
@@ -442,7 +444,8 @@
   - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions): Extensions for Python Markdown <https://facelessuser.github.io/pymdown-extensions/>
 - 🌟 [laike9m/pdir2](https://github.com/laike9m/pdir2): Pretty dir() printing with joy:beer:
 - [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic): Entity relationship diagrams for Python data model classes like Pydantic <https://erdantic.drivendata.org/>
-- [pyNVML](https://pypi.org/project/nvidia-ml-py/): Python Bindings for the NVIDIA Management Library. This is a wrapper around the NVML library. For information about the NVML library, see the NVML developer page http://developer.nvidia.com/nvidia-management-library-nvml
+- 🌟 [pyNVML](https://pypi.org/project/nvidia-ml-py/): Python Bindings for the NVIDIA Management Library. This is a wrapper around the NVML library. For information about the NVML library, see the NVML developer page http://developer.nvidia.com/nvidia-management-library-nvml
+- [channable/heliclockter](https://github.com/channable/heliclockter): Helicopter parent to your datetime objects <https://www.channable.com/tech/heliclockter-timezone-aware-datetimes-in-python>
 
 ### Configuration
 
@@ -498,6 +501,7 @@
 - 📝 [tomerfiliba-org/rpyc](https://github.com/tomerfiliba-org/rpyc): RPyC (Remote Python Call) - A transparent and symmetric RPC library for python <http://rpyc.readthedocs.org>
 - [crdoconnor/strictyaml](https://github.com/crdoconnor/strictyaml): Type-safe YAML parser and validator. <https://hitchdev.com/strictyaml/>
   - [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
+- [xmlsec/python-xmlsec](https://github.com/xmlsec/python-xmlsec): Python bindings for the XML Security Library.
 
 ### Logging
 

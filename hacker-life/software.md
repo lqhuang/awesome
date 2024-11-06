@@ -34,6 +34,8 @@
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha): Elegantly record your screen
 - [Video compress](https://tools.rotato.app/compress): Compression happens on your device, no data is sent to our servers
 - 🌟 [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC): Modern VNC Server and client, web based and secure
+- [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager): A Download Manager that speeds up your downloads <https://abdownloadmanager.com>
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI): UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers <https://www.marticliment.com/unigetui/>
 
 ### Notes / Knowledge Management
 
@@ -193,6 +195,8 @@
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus): ☁️ Sync your bookmarks privately across browsers and devices <https://floccus.org>
 - 🌟 [afadil/wealthfolio](https://github.com/afadil/wealthfolio): A Beautiful Private and Secure Desktop Investment Tracking Application <https://wealthfolio.app>
 - [louisgrasset/touitomamout](https://github.com/louisgrasset/touitomamout): Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also known as Twitter to Mastodon & Bluesky crossposter) <https://hub.docker.com/r/louisgrasset/touitomamout>
+- [hectorqin/reader](https://github.com/hectorqin/reader): 阅读 3 服务器版，桌面端，iOS 可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点 star，关注一下公众号【假装大佬】❗️ Demo 服务器由于未备案已被关停，建议自行搭建
+- [gedoor/legado](https://github.com/gedoor/legado): Legado 3.0 Book Reader with powerful controls & full functions❤️ 阅读 3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 
 ### Developer
 

@@ -167,6 +167,7 @@
 - [azimuttapp/azimutt](https://github.com/azimuttapp/azimutt): Next-Gen ERD: Design, Explore, Document and Analyze your database <https://azimutt.app?ref=github-repo>
 - [Wisser/Jailer](https://github.com/Wisser/Jailer): Database Subsetting and Relational Data Browsing Tool. <https://wisser.github.io/Jailer>
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb): Free, simple, and intuitive online database design tool and SQL generator. <https://drawdb.vercel.app>
+- [chartdb/chartdb](https://github.com/chartdb/chartdb): Free and open-source database diagrams editor, visualize and design your DB with a single query. <https://chartdb.io>
 
 ### PG
 
@@ -225,6 +226,7 @@
 
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of SQLite extensions
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry <https://sqlpkg.org>
+- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec): A vector search SQLite extension that runs anywhere!
 
 ## GUI
 

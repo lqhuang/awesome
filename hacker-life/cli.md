@@ -21,6 +21,8 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat): A cat(1) clone with wings.
 - [sigoden/dufs](https://github.com/sigoden/dufs): A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [svenstaro/miniserve](https://github.com/svenstaro/miniserve): 🌟 For when you really just want to serve some files over HTTP right now!
+- [bootandy/dust](https://github.com/bootandy/dust): A more intuitive version of du in rust
+- [Byron/dua-cli](https://github.com/Byron/dua-cli): View disk space usage and delete unwanted data, fast.
 - [rejetto/hfs](https://github.com/rejetto/hfs/): HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system. <https://telegram.dog/hfsusers>
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless): jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. <https://jless.io>
 - [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹 <https://asciinema.org>
@@ -28,8 +30,6 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs): Your CLI home video recorder 📼
 - [ellie/atuin](https://github.com/ellie/atuin): 🐢 Magical shell history <https://atuin.sh>
 - [blicky/ncdu](https://g.blicky.net/ncdu.git): Ncdu (NCurses Disk Usage) is a disk usage analyzer with an ncurses interface. <https://dev.yorhel.nl/ncdu>
-- [bootandy/dust](https://github.com/bootandy/dust): A more intuitive version of du in rust
-- [Byron/dua-cli](https://github.com/Byron/dua-cli): View disk space usage and delete unwanted data, fast.
 - [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
 - [exdx/dcp](https://github.com/exdx/dcp): docker cp made easy
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen): Fast file synchronization and network forwarding for remote development <https://mutagen.io>

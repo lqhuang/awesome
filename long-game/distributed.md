@@ -24,6 +24,7 @@
 - [“My bad opinions”](https://ferd.ca/a-distributed-systems-reading-list.html): A Distributed Systems Reading List
 - [Normcore Systems Reading List](https://karanchawla.io/2024/06/24/distributed_systems_reading)
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
+- [Hints for Distributed Systems Design](http://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
 
 ### Books
 
@@ -32,6 +33,7 @@
 - [Distributed Systems](https://www.distributed-systems.net/): M. van Steen and A.S. Tanenbaum, Distributed Systems, 4th ed., distributed-systems.net, 2023.
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book):This is a book about the programming constructs we use to build distributed systems. <http://dist-prog-book.com/chapter/2/futures.html>
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems): 《Patterns of Distributed Systems》中文版
+- [suomela/da2020](https://github.com/suomela/da2020): Juho Hirvonen and Jukka Suomela: Distributed Algorithms 2020 <https://jukkasuomela.fi/da2020/>
 
 ## System
 

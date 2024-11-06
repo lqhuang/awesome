@@ -2,47 +2,22 @@
 
 ## Enterprise access control
 
-### To team
-
 - [Indent](https://indent.com): On-demand access without the wait. Indent provides team members with on-demand access to cloud apps and infrastructure in seconds, not days.
-- [teamhanko/hanko](https://github.com/teamhanko/hanko): A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. <https://hanko.io>
 - [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
-- [kanidm/kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure and fast identity management platform
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。 <http://www.jumpserver.org>
 - [moul/sshportal](https://github.com/moul/sshportal): 🎩 simple, fun and transparent SSH (and telnet) bastion server <https://manfred.life/sshportal>
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit): SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
+- [duncs/clusterssh](https://github.com/duncs/clusterssh): Cluster SSH - Cluster Admin Via SSH <https://github.com/duncs/clusterssh/wiki>
 - [Apache Guacamole](https://guacamole.incubator.apache.org/): Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 - [Infisical/infisical](https://github.com/Infisical/infisical): ♾ Infisical is an open-source, end-to-end encrypted tool to sync environment variables across your team and infrastructure. <https://infisical.com>
 - [configu/configu](https://github.com/configu/configu): a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨. <https://configu.com/>
-- [keycloak/keycloak](https://github.com/keycloak/keycloak): Open Source Identity and Access Management For Modern Applications and Services <https://www.keycloak.org>
 - [permitio/opal](https://github.com/permitio/opal): Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...) <https://opal.ac>
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar): Core implementation of the Cedar language <https://www.cedarpolicy.com>
-
-### To User / Client
-
-- [warrant-dev/awesome-authorization](https://github.com/warrant-dev/awesome-authorization): A curated list of information and resources about authorization. <https://awesome-authorization.warrant.dev/>
-- [logto-io/logto](https://github.com/logto-io/logto): 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps. <https://logto.io>
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security): 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐 <https://authp.github.io>
-- [WorkOS](https://github.com/workos): WorkOS is a set of building blocks for quickly adding enterprise features to your app. You’ll be shipping quickly with a market-proven solution for your customers. <https://workos.com/>
-- [boxyhq/jackson](https://github.com/boxyhq/jackson): 🔥 Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via the SCIM 2.0 protocol for automatic user and group provisioning/de-provisioning. 🤩 <https://boxyhq.com/docs/jackson/overview>
-- 🌟 [Clerk](https://github.com/clerkinc): More than authentication - Complete user management <https://clerk.dev/>
-- 🌟 [Auth0](https://github.com/auth0): Next.js SDK for signing in with Auth0 <https://auth0.com>
-- [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT <https://casdoor.org>
-- [NangoHQ/nango](https://github.com/NangoHQ/nango): Get OAuth tokens for APIs - fast & secure. <https://www.nango.dev>
-- [ory/kratos](https://github.com/ory/kratos): Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service. <https://www.ory.sh/kratos>
-- [ory/hydra](https://github.com/ory/hydra): OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. <https://www.ory.sh/hydra>
-- [ory/oathkeeper](https://github.com/ory/oathkeeper): A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. <https://www.ory.sh/>
-- [authelia/authelia](https://github.com/authelia/authelia): The Single Sign-On Multi-Factor portal for web apps <https://www.authelia.com>
-- [goauthentik/authentik](https://github.com/goauthentik/authentik): The authentication glue you need. <https://goauthentik.io>
-- [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core): Open source alternative to Auth0 / Firebase Auth / AWS Cognito <https://supertokens.com>
 - [build-trust/ockam](https://github.com/build-trust/ockam): Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. <https://ockam.io>
-- [lucia-auth/lucia](https://github.com/lucia-auth/lucia): Authentication, simple and clean <https://lucia-auth.com>
-- [zanzibar](https://zanzibar.academy/): A Globally Distributed Authorization System
-  - [openfga/openfga](https://github.com/openfga/openfga): A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar <https://openfga.dev>
-  - [ory/keto](https://github.com/ory/keto): Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. <https://www.ory.sh>
-  - [osohq/oso](https://github.com/osohq/oso): Oso is a batteries-included framework for building authorization in your application. <https://docs.osohq.com>
-  - [warrant-dev/warrant](https://github.com/warrant-dev/warrant): Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules. <https://warrant.dev>
+- [NangoHQ/nango](https://github.com/NangoHQ/nango): Get OAuth tokens for APIs - fast & secure. <https://www.nango.dev>
 - 🌟 [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. <https://oauth2-proxy.github.io/oauth2-proxy>
+- [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
 
 ## Worksuites
 
@@ -79,6 +54,8 @@
   - [daytonaio/daytona](https://github.com/daytonaio/daytona): The Open Source Dev Environment Manager. <https://daytona.io>
 - [tensorchord/envd](https://github.com/tensorchord/envd): 🏕️ Reproducible development environment for AI/ML <https://envd.tensorchord.ai/>
 - [okteto/okteto](https://github.com/okteto/okteto): Develop your applications directly in your Kubernetes Cluster <https://okteto.com>
+- 🌟 [jetify-com/devbox](https://github.com/jetify-com/devbox): Instant, easy, and predictable development environments <https://www.jetify.com/devbox/>
+- 🌟 [flox/flox](https://github.com/flox/flox): Developer environments you can take with you <https://flox.dev>
 
 ### Documents
 

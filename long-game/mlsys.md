@@ -225,6 +225,7 @@
 - [google/mlir-hs](https://github.com/google/mlir-hs): Haskell bindings for MLIR
 - [spcl/pymlir](https://github.com/spcl/pymlir): Python interface for MLIR - the Multi-Level Intermediate Representation
 - [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2): Automatic verification of LLVM optimizations
+- [iree-org/iree](https://github.com/iree-org/iree): A retargetable MLIR-based machine learning compiler and runtime toolkit. <http://iree.dev/>
 
 ## Autodiff
 
@@ -264,7 +265,6 @@
 - [probml/sts-jax](https://github.com/probml/sts-jax): Structural Time Series in JAX
 - [geraschenko/gmrfs](https://github.com/geraschenko/gmrfs): Gaussian Markov Random Fields (GMRFs) and Integrated Nested Laplace Approximation (INLA)
 - [ASEM000/kernex](https://github.com/ASEM000/kernex): Stencil computations in JAX
-- [metaopt/optree](https://github.com/metaopt/optree): OpTree: Optimized PyTree Utilities <https://optree.readthedocs.io>
 - [ott-jax/ott](https://github.com/ott-jax/ott): Optimal Transport tools implemented with the JAX framework, to get auto-diff, parallel and jit-able computations. <https://ott-jax.readthedocs.io>
 - [Autodesk/XLB](https://github.com/Autodesk/XLB): XLB: Accelerated Lattice Boltzmann (XLB) based on JAX for Physics-based ML
 - [apple/axlearn](https://github.com/apple/axlearn): AXLearn is a library built on top of JAX and XLA to support development of large-scale deep learning models.
@@ -291,6 +291,7 @@
 - [deepmodeling/jax-fem](https://github.com/deepmodeling/jax-fem): Differentiable Finite Element Method with JAX
 - [brentyi/jaxlie](https://github.com/brentyi/jaxlie): Rigid transforms + Lie groups in JAX
 - [pymc-devs/pytensor](https://github.com/pymc-devs/pytensor): PyTensor allows you to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays. <https://pytensor.readthedocs.io>
+- [pnkraemer/matfree](https://github.com/pnkraemer/matfree): Matrix-free linear algebra in JAX. <https://pnkraemer.github.io/matfree/>
 
 ### DeepMind specialization
 
@@ -312,6 +313,9 @@
 - [google-deepmind/torax](https://github.com/google-deepmind/torax): TORAX: Tokamak transport simulation in JAX <https://torax.readthedocs.io>
 - 🌟 [google-deepmind/fancyflags](https://github.com/google-deepmind/fancyflags): A Python library for defining flat or nested dictionary flags.
 - [google-deepmind/jax_verify](https://github.com/google-deepmind/jax_verify): Neural network verification in JAX
+- [google-deepmind/concordia](https://github.com/google-deepmind/concordia): A library for generative social simulation
+- [google-deepmind/uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth): Dermatology ddx dataset, Jax implementations of Monte Carlo conformal prediction, plausibility regions and statistical annotation aggregation from our recent work on uncertain ground truth (TMLR'23 and ArXiv pre-print). <https://davidstutz.de/projects/monte-carlo-conformal-prediction/>
+- [google-deepmind/meltingpot](https://github.com/google-deepmind/meltingpot): A suite of test scenarios for multi-agent reinforcement learning.
 
 ### Google specialization
 
@@ -356,6 +360,7 @@
 - [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses): Pytrees + dataclasses ❤️
 - [Artur-Galstyan/statedict2pytree](https://github.com/Artur-Galstyan/statedict2pytree): No description, website, or topics provided.
 - [BirkhoffG/jax-dataloader](https://github.com/BirkhoffG/jax-dataloader): Pytorch-like dataloaders in JAX. <https://birkhoffg.github.io/jax-dataloader/>
+- 🌟 [metaopt/optree](https://github.com/metaopt/optree): OpTree: Optimized PyTree Utilities <https://optree.readthedocs.io>
 
 ## Data store or tensor structure
 

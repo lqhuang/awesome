@@ -103,6 +103,7 @@
 - [cloudflare/pingora](https://github.com/cloudflare/pingora): A library for building fast, reliable and evolvable network services.
 - [memorysafety/river](https://github.com/memorysafety/river): This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [google/seesaw](https://github.com/google/seesaw): Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
+- 🌟 [modal-labs/vprox](https://github.com/modal-labs/vprox): High-availability network proxy / VPN server, powered by WireGuard
 
 ## Lightweight Tech Stack
 
@@ -112,6 +113,9 @@
 - [Wowu/docker-rollout](https://github.com/Wowu/docker-rollout): 🚀 Zero Downtime Deployment for Docker Compose <https://github.com/Wowu/docker-rollout>
 - [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver): Programming framework for writing and deploying cloud applications. <https://serviceweaver.dev>
 - [mrsked/mrsk](https://github.com/mrsked/mrsk): Deploy web apps anywhere. <https://mrsk.dev/>
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy): Open Source Alternative to Vercel, Netlify and Heroku. <https://dokploy.com/>
+- [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick): Bare metal to production ready in mins; your own fly server on your VPS. <https://www.sidekickdeploy.com>
+- [basecamp/kamal](https://github.com/basecamp/kamal): Deploy web apps anywhere. <https://kamal-deploy.org>
 
 ## K8S
 
@@ -143,6 +147,7 @@
 ### CNI
 
 - [cilium/hubble](https://github.com/cilium/hubble): Hubble - Network, Service & Security Observability for Kubernetes using eBPF
+- [cilium/tetragon](https://github.com/cilium/tetragon): eBPF-based Security Observability and Runtime Enforcement <https://tetragon.io>
 
 ### Plugins
 

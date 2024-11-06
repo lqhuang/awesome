@@ -62,16 +62,17 @@ Major in React ecosystem, but also include other frameworks and libraries.
 ### Templates / Starter kit
 
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app): The best way to start a full-stack, typesafe Next.js app <https://create.t3.gg>
-- 🌟 [steven-tey/precedent](https://github.com/steven-tey/precedent): An opinionated collection of components, hooks, and utilities for your Next.js project. <https://precedent.dev>
-- 🌟 [shadcn/taxonomy](https://github.com/shadcn/taxonomy): An open source application built using the new router, server components and everything new in Next.js 13. <https://tx.shadcn.com>
+- [steven-tey/precedent](https://github.com/steven-tey/precedent): An opinionated collection of components, hooks, and utilities for your Next.js project. <https://precedent.dev>
+- [shadcn/taxonomy](https://github.com/shadcn/taxonomy): An open source application built using the new router, server components and everything new in Next.js 13. <https://tx.shadcn.com>
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise): 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development. <https://next-enterprise.vercel.app>
 - [akd-io/create-next-stack](https://github.com/akd-io/create-next-stack): Create Next Stack is a website and CLI tool used to easily set up the boilerplate of new Next.js apps. <https://www.create-next-stack.com>
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog): This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs. <https://tailwind-nextjs-starter-blog.vercel.app/>
 - [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge): A production-grade boilerplate for modern Next.js apps. <https://github.com/haydenbleasel/next-forge>
 - [epicweb-dev/epic-stack](https://github.com/epicweb-dev/epic-stack): This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea. <https://www.epicweb.dev/epic-stack>
-- 🌟 [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore): Modern Commerce with Next.js and Stripe as the backend. <https://demo.yournextstore.com>
+- [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore): Modern Commerce with Next.js and Stripe as the backend. <https://demo.yournextstore.com>
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter): Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. <https://next-saas-start.vercel.app>
-- 🌟 [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit): The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included. <https://starter.rasmic.xyz/>
+- [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit): The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included. <https://starter.rasmic.xyz/>
+- [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter): Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️ <https://next-ts.joaopedro.dev>
 
 ### UI
 
@@ -119,9 +120,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz. <https://radix-ui.com>
 - 🌟 [radix-ui/themes](https://github.com/radix-ui/themes): Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos. <https://radix-ui.com/themes>
 - 🌟 [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
-  - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui. <https://awesome-shadcn-ui.vercel.app/>
-  - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table): A shadcn table component with server-side sorting, filtering, and pagination. <https://table.sadmn.com>
-  - [damianricobelli/shadcn-stepper](https://github.com/damianricobelli/shadcn-stepper): <https://shadcn-stepper.vercel.app/>
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react): Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications. <https://react.keepdesign.io>
 - [cloudscape-design/components](https://github.com/cloudscape-design/components): React components for Cloudscape Design System <https://cloudscape.design/>
 - [tamagui/tamagui](https://github.com/tamagui/tamagui): Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler. <https://tamagui.dev>
@@ -159,20 +157,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ### Components
 
-- 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown): Markdown component for React <https://remarkjs.github.io/react-markdown>
-- [remarkjs/remark](https://github.com/remarkjs/remark): markdown processor powered by plugins part of the @unifiedjs collective <https://remark.js.org>
-- [micromark/micromark](https://github.com/micromark/micromark): small, safe, and great commonmark (optionally gfm) compliant markdown parser <https://unifiedjs.com>
-  - [micromark/micromark-extension-mdxjs-esm](https://github.com/micromark/micromark-extension-mdxjs-esm): micromark extension to support MDX JS import/exports <https://unifiedjs.com>
-- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx): 🏭 The most lightweight, customizable React markdown component. <https://markdown-to-jsx.quantizor.dev/>
-- [Milkdown/milkdown](https://github.com/Milkdown/milkdown): 🍼 Plugin driven WYSIWYG markdown editor framework. <https://milkdown.dev>
-- [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote): Load mdx content from anywhere through getStaticProps in next.js
-
-- [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React. <https://sonner.emilkowal.ski>
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic): A React tiling window manager <https://nomcopter.github.io/react-mosaic/>
 
-- [Himself65/rich-data](https://github.com/Himself65/rich-data): Data Viewer <https://rich-data.dev>
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso): The most powerful virtual list component for React <https://virtuoso.dev/>
-- 🌟 [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer): Simple React Component That Makes Titles More Readable <https://react-wrap-balancer.vercel.app/>
 - [vercel/satori](https://github.com/vercel/satori): Enlightened library to convert HTML and CSS to SVG <https://og-playground.vercel.app/>
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys): A tiny (~400 B) & modern library for keybindings. <https://jamiebuilds.github.io/tinykeys/>
 - [DiiiaZoTe/next-route-visualizer](https://github.com/DiiiaZoTe/next-route-visualizer): <https://next-route-visualizer.vercel.app>
@@ -183,9 +170,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [signavio/react-mentions](https://github.com/signavio/react-mentions): @mention people in a textarea <https://react-mentions.vercel.app>
 - [satelllte/react-knob-headless](https://github.com/satelllte/react-knob-headless): 🎛️ Unstyled & accessible knob primitive for React. <https://react-knob-headless.vercel.app>
-
-- 🌟🌟🌟 [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
-- [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
 
 - 🌟 [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui): A JavaScript library to position floating elements and create interactions for them. <https://floating-ui.com>
 - [nygardk/react-share](https://github.com/nygardk/react-share): Social media share buttons and share counts for React
@@ -210,12 +194,26 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation): Create and animate hand-drawn annotations on a web page <https://roughnotation.com/>
   - [linkstrifer/react-rough-notation](https://github.com/linkstrifer/react-rough-notation): React wrapper for rough-notation <https://www.npmjs.com/package/react-rough-notation>
 
-- [google/budoux](https://github.com/google/budoux): BudouX is the successor to Budou, the machine learning powered line break organizer tool.
-
 - [origin-space/originui](https://github.com/origin-space/originui): A growing collection of over 50 input components built with Next.js and TailwindCSS. <https://origin-ui-alpha.vercel.app/>
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words): React component to highlight words within a larger body of text <https://bvaughn.github.io/react-highlight-words/>
 
-- [nucleuscloud/neocron](https://github.com/nucleuscloud/neocron): A modern, lightweight cron scheduling react component styled using tailwind css
+#### shadcn eco system
+
+- [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui. <https://awesome-shadcn-ui.vercel.app/>
+- [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table): A shadcn table component with server-side sorting, filtering, and pagination. <https://table.sadmn.com>
+- [damianricobelli/shadcn-stepper](https://github.com/damianricobelli/shadcn-stepper): <https://shadcn-stepper.vercel.app/>
+- [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React. <https://sonner.emilkowal.ski>
+- [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker): A simple TimePicker for your Shadcn UI project. <https://time.openstatus.dev/>
+- [sersavan/shadcn-multi-select-component](https://github.com/sersavan/shadcn-multi-select-component): A multi-select component designed with shadcn/ui <https://shadcn-multi-select-component.vercel.app>
+- 🌟🌟🌟 [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
+  - [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
+
+#### Just render json in better way
+
+- [Himself65/rich-data](https://github.com/Himself65/rich-data): Data Viewer <https://rich-data.dev>
+- [YYsuni/react18-json-view](https://github.com/YYsuni/react18-json-view): JSON viewer for react18 <https://jv.yysuni.com/>
+- [microlinkhq/react-json-view](https://github.com/microlinkhq/react-json-view): JSON viewer for React <https://react-json-view.microlink.io>
+- [uiwjs/react-json-view](https://github.com/uiwjs/react-json-view): A React component for displaying and editing javascript arrays and JSON objects. <https://uiwjs.github.io/react-json-view/>
 
 #### PDF
 
@@ -229,12 +227,12 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 #### Time related
 
-- [openstatusHQ/time-picker](https://github.com/openstatusHQ/time-picker): A simple TimePicker for your Shadcn UI project. <https://time.openstatus.dev/>
 - [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar): Ultimate calendar for your React app. <https://projects.wojtekmaj.pl/react-calendar>
 - [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker): A date picker for your React app. <https://projects.wojtekmaj.pl/react-date-picker>
 - [fymmot/inclusive-dates](https://github.com/fymmot/inclusive-dates): A human-friendly datepicker – now as a Web Component! Supports natural language input through Chrono.js. Fully accessible with keyboard and screen reader. Contributions welcome! <https://fymmot.github.io/inclusive-dates/>
 - 🌟 [github/relative-time-element](https://github.com/github/relative-time-element): Web component extensions to the standard <time> element. <https://github.github.io/relative-time-element/examples/>
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono): 🕑 Modern Timeline Component for React <https://react-chrono.prabhumurthy.com/>
+- [nucleuscloud/neocron](https://github.com/nucleuscloud/neocron): A modern, lightweight cron scheduling react component styled using tailwind css
 
 #### Form
 
@@ -243,6 +241,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [bhch/react-json-form](https://github.com/bhch/react-json-form): JSON editing made easy using form inputs. <https://bhch.github.io/react-json-form>
 - [edmundhung/conform](https://github.com/edmundhung/conform): A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js. <https://conform.guide>
 - [guidone/lets-form](https://github.com/guidone/lets-form): A JSON form generator for React with Material UI / AntDesign / Bootstrap / RSuite / Mantine <https://letsform.dev>
+- [m6io/react-formgen](https://github.com/m6io/react-formgen): Headless, unopinionated, and flexible form generation. <https://react-formgen.vercel.app>
 
 #### Upload
 
@@ -279,6 +278,21 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [shepherd-pro/react-shepherd](https://github.com/shepherd-pro/react-shepherd): A React wrapper for the site tour library Shepherd <https://react-shepherd.vercel.app>
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride): Create guided tours in your apps <https://react-joyride.com/>
 - [uixmat/onborda](https://github.com/uixmat/onborda): An onboarding wizard flow for Next.js powered by framer motion <https://onborda.dev>
+
+#### Typograph
+
+- 🌟 [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer): Simple React Component That Makes Titles More Readable <https://react-wrap-balancer.vercel.app/>
+- [google/budoux](https://github.com/google/budoux): BudouX is the successor to Budou, the machine learning powered line break organizer tool.
+
+#### Markdown
+
+- 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown): Markdown component for React <https://remarkjs.github.io/react-markdown>
+- [remarkjs/remark](https://github.com/remarkjs/remark): markdown processor powered by plugins part of the @unifiedjs collective <https://remark.js.org>
+- [micromark/micromark](https://github.com/micromark/micromark): small, safe, and great commonmark (optionally gfm) compliant markdown parser <https://unifiedjs.com>
+  - [micromark/micromark-extension-mdxjs-esm](https://github.com/micromark/micromark-extension-mdxjs-esm): micromark extension to support MDX JS import/exports <https://unifiedjs.com>
+- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx): 🏭 The most lightweight, customizable React markdown component. <https://markdown-to-jsx.quantizor.dev/>
+- [Milkdown/milkdown](https://github.com/Milkdown/milkdown): 🍼 Plugin driven WYSIWYG markdown editor framework. <https://milkdown.dev>
+- [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote): Load mdx content from anywhere through getStaticProps in next.js
 
 #### Editor
 
@@ -322,6 +336,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player): JavaScript player library / DASH & HLS client / MSE-EME player
   - [WINOFFRG/limeplay](https://github.com/WINOFFRG/limeplay): ⭐ NEW: Modern Headless UI Library for Media Player (Shaka Player & HTML5) in React <https://limeplay.me>
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer): A HTML5 video player with a parser that saves traffic <https://h5player.bytedance.com/>
+- [](https://player.style/)
 
 ## Functional libraries
 
@@ -368,7 +383,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [gridaco/cors.sh](https://github.com/gridaco/cors.sh): Sick of CORS Errors? <https://cors.sh>
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid): A module used to arrange card elements including content infinitely on a grid layout. <https://naver.github.io/egjs-infinitegrid/>
 
-## Visualization
+## Visualization (Charts)
 
 - [observablehq/plot](https://github.com/observablehq/plot): A concise API for exploratory data visualization implementing a layered grammar of graphics <https://observablehq.com/plot/>
 - 🌟 [airbnb/visx](https://github.com/airbnb/visx): 🐯 visx | visualization components <https://airbnb.io/visx>
@@ -382,17 +397,19 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory): A collection of composable React components for building interactive data visualizations <https://formidable.com/open-source/victory>
 - [TanStack/react-charts](https://github.com/TanStack/react-charts): ⚛️ Simple, immersive & interactive charts for React <https://react-charts.tanstack.com>
 - [bkrem/react-d3-tree](https://github.com/bkrem/react-d3-tree): 🌳 React component to create interactive D3 tree graphs <https://bkrem.github.io/react-d3-tree>
-- [holtzy/react-graph-gallery](https://github.com/holtzy/react-graph-gallery): A set of graph examples showing how to make react and d3.js work together <https://www.react-graph-gallery.com>
 - 🌟 [magjac/d3-graphviz](https://github.com/magjac/d3-graphviz): Graphviz DOT rendering and animated transitions using D3
-- [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph): React component for 2D, 3D, VR and AR force directed graphs <https://vasturiano.github.io/react-force-graph/example/large-graph/>
-- [YYsuni/react18-json-view](https://github.com/YYsuni/react18-json-view): JSON viewer for react18 <https://jv.yysuni.com/>
 - [processing/p5.js](https://github.com/processing/p5.js): p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — <http://p5js.org/>
 - [retejs/rete](https://github.com/retejs/rete): JavaScript framework for visual programming <https://retejs.org>
-- [memgraph/orb](https://github.com/memgraph/orb): Graph visualization library
 - [lewhunt/divz](https://github.com/lewhunt/divz): A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos here: https://lewhunt.github.io/divz/ <https://lewhunt.github.io/divz/>
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js <https://docs.pmnd.rs/react-three-fiber>
 - [typpo/quickchart](https://github.com/typpo/quickchart): Chart image and QR code web API <https://quickchart.io/>
 - [lepture/github-gist](https://github.com/lepture/github-gist): Web component for GitHub Gist <https://lab.lepture.com/github-gist/>
+
+### Graph / Network
+
+- [memgraph/orb](https://github.com/memgraph/orb): Graph visualization library
+- [holtzy/react-graph-gallery](https://github.com/holtzy/react-graph-gallery): A set of graph examples showing how to make react and d3.js work together <https://www.react-graph-gallery.com>
+- [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph): React component for 2D, 3D, VR and AR force directed graphs <https://vasturiano.github.io/react-force-graph/example/large-graph/>
 
 ## Design / Resources
 
@@ -416,6 +433,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [pheralb/svgl](https://github.com/pheralb/svgl): 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS. <https://svgl.app>
 - [feathericons/feather](https://github.com/feathericons/feather): Simply beautiful open-source icons <https://feathericons.com>
 - [texel-org/color](https://github.com/texel-org/color): modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
+- [The ultimate icon bundle](https://nucleoapp.com/): 30,059 premium-quality SVG icons, regularly updated for UIs, presentations, and print projects.
 
 ## Further topics
 

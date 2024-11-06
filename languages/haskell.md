@@ -138,3 +138,5 @@
 - [haskell-repa/repa](https://github.com/haskell-repa/repa): High performance, regular, shape polymorphic parallel arrays. <http://repa.ouroborus.net>
 - [NorfairKing/sydtest](https://github.com/NorfairKing/sydtest): A modern testing framework for Haskell with good defaults and advanced testing features.
 - [kowainik/shellmet](https://github.com/kowainik/shellmet): 🐚 Out of the shell solution for scripting in Haskell <https://kowainik.github.io/projects/shellmet>
+- [klapaucius/vector-hashtables](https://github.com/klapaucius/vector-hashtables): Mutable vector-hashtables
+- [channable/alfred-margaret](https://github.com/channable/alfred-margaret): Fast Aho-Corasick string searching <https://tech.channable.com/posts/2019-03-13-how-we-made-haskell-search-strings-as-fast-as-rust.html>

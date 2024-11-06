@@ -18,6 +18,16 @@
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo <https://deepwisdom.ai/>
 - [camel-ai/camel](https://github.com/camel-ai/camel): 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org <https://docs.camel-ai.org/>
 
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. <https://superagi.com/>
+- [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori): A reactive runtime for building durable AI agents <https://docs.thousandbirds.ai>
+- [sgl-project/sglang](https://github.com/sgl-project/sglang): SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.
+  - [Fast and Expressive LLM Inference with RadixAttention and SGLang](https://lmsys.org/blog/2024-01-17-sglang/)
+- [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI): The open source platform for AI-native application development. <https://www.tasking.ai>
+
+- [openai/swarm](https://github.com/openai/swarm): Framework for building, orchestrating and deploying multi-agent systems. Managed by OpenAI Solutions team. Experimental framework.
+
+### Microsoft (is crazy)
+
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel): Integrate cutting-edge LLM technology quickly and easily into your apps <https://aka.ms/semantic-kernel>
   - [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory): Index and query any data using LLM and natural language, tracking sources and showing citations.
   - [kinfey/SemanticKernelCookBook](https://github.com/kinfey/SemanticKernelCookBook): Semantic Kernel's cook book
@@ -30,14 +40,7 @@
 - [microsoft/azurechatgpt](https://github.com/microsoft/azurechatgpt): 🤖 Azure ChatGPT: Private & secure ChatGPT for internal enterprise use 💼
 - [Azure/kaito](https://github.com/Azure/kaito): Kubernetes AI Toolchain Operator
 - ❔ [microsoft/aici](https://github.com/microsoft/aici): AICI: Prompts as (Wasm) Programs
-
-- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. <https://superagi.com/>
-- [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori): A reactive runtime for building durable AI agents <https://docs.thousandbirds.ai>
-- [sgl-project/sglang](https://github.com/sgl-project/sglang): SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.
-  - [Fast and Expressive LLM Inference with RadixAttention and SGLang](https://lmsys.org/blog/2024-01-17-sglang/)
-- [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI): The open source platform for AI-native application development. <https://www.tasking.ai>
-
-- [openai/swarm](https://github.com/openai/swarm): Framework for building, orchestrating and deploying multi-agent systems. Managed by OpenAI Solutions team. Experimental framework.
+- [microsoft/genaiscript](https://github.com/microsoft/genaiscript): Automatable GenAI Scripting <https://microsoft.github.io/genaiscript/>
 
 ### App Builder
 
@@ -182,6 +185,8 @@
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents): A list of AI autonomous agents <https://e2b.dev/docs>
 - [e2b-dev/code-interpreter](https://github.com/e2b-dev/code-interpreter): Python & JS/TS SDK for adding code interpreting to your AI app <https://e2b.dev>
 - [Bklieger/groqbook](https://github.com/Bklieger/groqbook): Groqbook: Generate entire books in seconds using Groq and Llama3 <https://groqbook.streamlit.app>
+- [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern): Automate browser-based workflows with LLMs and Computer Vision <https://www.skyvern.com>
+- [getgrit/gritql](https://github.com/getgrit/gritql): GritQL is a query language for searching, linting, and modifying code. <https://docs.grit.io/>
 
 ### LLM Prompts
 

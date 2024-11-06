@@ -31,6 +31,7 @@
 - [YannMoisan/hands-on-cats](https://github.com/YannMoisan/hands-on-cats): Discover cats by coding a few simple exercises
 - [David's programming examples knowledge base](https://gist.github.com/dacr/c071a7b7d3de633281cbe84a34be47f1)
 - [kubukoz/scala.beauty](https://github.com/kubukoz/scala.beauty): A place for sharing beautiful Scala snippets.
+- [zhongl/type-driven-development-with-scala3](https://github.com/zhongl/type-driven-development-with-scala3): Inspired by Edwin Brady's book "Type-Driven Development with Idris", this project attempts to solve some puzzles in the book using Scala 3.
 
 ## Master these you rule the world
 
@@ -88,6 +89,7 @@
 ### Cross platform
 
 - [lolgab/mill-crossplatform](https://github.com/lolgab/mill-crossplatform): Mill Plugin to ease Cross Platform projects <https://lolgab.github.io/mill-crossplatform/>
+- 🌟 [michalbogacz/scala-bazel-monorepo](https://github.com/michalbogacz/scala-bazel-monorepo): Example monorepo with Bazel and Scala
 
 ### CI Actions
 
@@ -184,6 +186,7 @@
 - [quelgar/scala-uv](https://github.com/quelgar/scala-uv): Scala Native language bindings for libuv
 - [finagle/finch](https://github.com/finagle/finch): Scala combinator library for building Finagle HTTP services <https://finagle.github.io/finch>
 - [com-lihaoyi/scalasql](https://github.com/com-lihaoyi/scalasql): Query SQL databases from Scala via concise, type-safe, and familiar case classes and collection operations. Supports Postgres, MySql, H2, and Sqlite out of the box
+- [slack-scala-client/slack-scala-client](https://github.com/slack-scala-client/slack-scala-client): A scala library for interacting with the slack api and real time messaging interface
 
 ### Parser
 

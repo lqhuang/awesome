@@ -136,6 +136,7 @@
 - [VikParuchuri/texify](https://github.com/VikParuchuri/texify): Math OCR model that outputs LaTeX and markdown <https://www.datalab.to>
 - [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt): An extremely fast LaTeX formatter written in Rust
 - [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl): Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
+- [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips): Tips for Writing a Research Paper using LaTeX
 
 ### Latex Templates
 
