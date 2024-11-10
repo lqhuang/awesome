@@ -202,6 +202,7 @@
 - [alexarchambault/case-app](https://github.com/alexarchambault/case-app): Type-level & seamless command-line argument parsing for Scala
 - [avdv/scalals](https://github.com/avdv/scalals): A colorful ls command, with awesome icons.
 - [joan38/moulin](https://github.com/joan38/moulin): Build multi-projects with Scala CLI
+- [neandertech/cue4s](https://github.com/neandertech/cue4s): Experimental library for CLI prompts in Scala 3, available on JS, JVM, and Native platforms
 
 ### Tools
 
@@ -218,8 +219,6 @@
 
 ### Misc
 
-- [scalatra/scalatra](https://github.com/scalatra/scalatra): Tiny Scala high-performance, async web framework, inspired by Sinatra
-- [finagle/finch](https://github.com/finagle/finch): Scala combinator library for building Finagle HTTP services
 - [raquo/Laminar](https://github.com/raquo/Laminar): Simple, expressive, and safe UI library for Scala.js <https://laminar.dev>
 - [PurpleKingdomGames/tyrian](https://github.com/PurpleKingdomGames/tyrian): Elm-inspired Scala UI library. <https://tyrian.indigoengine.io>
 - [scalameta/mdoc](https://github.com/scalameta/mdoc): Typechecked markdown documentation for Scala <https://scalameta.org/mdoc>
@@ -236,6 +235,12 @@
 - [lolgab/snunit](https://github.com/lolgab/snunit): Scala Native HTTP server based on NGINX Unit <https://lolgab.github.io/snunit/>
 - [VirtusLab/iskra](https://github.com/VirtusLab/iskra): Typesafe wrapper for Apache Spark DataFrame API <https://virtuslab.github.io/iskra/>
 - [ComputeNode/scalag](https://github.com/ComputeNode/scalag): Multi-platform GPGPU computations with Scala, seamlessly 🚀
+
+## Frameworks
+
+- [scalatra/scalatra](https://github.com/scalatra/scalatra): Tiny Scala high-performance, async web framework, inspired by Sinatra
+- [finagle/finch](https://github.com/finagle/finch): Scala combinator library for building Finagle HTTP services
+- [twitter/stitch](https://github.com/twitter/stitch): No description, website, or topics provided.
 
 ## Stream / Effect systems / Experiments
 

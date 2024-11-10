@@ -60,6 +60,7 @@
   - [Arch Linux Wiki - Distrobox](https://wiki.archlinux.org/title/Distrobox)
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments. <https://www.vagrantup.com>
 - [tteck/Proxmox](https://github.com/tteck/Proxmox): Proxmox VE Helper-Scripts <https://helper-scripts.com/>
+- [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight): Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
 
 ### Storage
 

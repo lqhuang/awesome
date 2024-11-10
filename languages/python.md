@@ -175,6 +175,10 @@
 - [syrusakbary/snapshottest](https://github.com/syrusakbary/snapshottest): Snapshot Testing utils for Python 📸
 - [vberlier/pytest-insta](https://github.com/vberlier/pytest-insta): A practical snapshot testing plugin for pytest.
 
+<!-- sep -->
+
+- 🌟 [devpi/devpi](https://github.com/devpi/devpi): Python PyPi staging server and packaging, testing, release tool <https://doc.devpi.net>
+
 ### Profile / tracing
 
 - 🌟 [plasma-umass/scalene](https://github.com/plasma-umass/scalene): Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python
@@ -561,6 +565,7 @@
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf): A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files <https://pypdf.readthedocs.io/en/latest/>
 
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py): Type-safe and powerful Python library to generate SVG files
+- [Kozea/CairoSVG](https://github.com/Kozea/CairoSVG): Convert your vector images <https://courtbouillon.org/cairosvg>
 - [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org. <https://opendev.org/openstack/stevedore>
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui): Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more! <https://ptg.bczsalba.com>
 - [adamchainz/patchy](https://github.com/adamchainz/patchy): ⚓ Patch the inner source of python functions at runtime.
@@ -576,8 +581,7 @@
 - [jiisanda/docflow](https://github.com/jiisanda/docflow): DocFlow is a powerful Document Management API designed to streamline document handling, including seamless uploading, downloading, organization, versioning, sharing, and more. <https://documenter.getpostman.com/view/20984268/2s9YRGxUcp>
 - [sqlalchemy/mako](https://github.com/sqlalchemy/mako): Mako Templates for Python <https://www.makotemplates.org>
 - [heuer/segno](https://github.com/heuer/segno): Python QR Code and Micro QR Code encoder <https://pypi.org/project/segno/>
-
-- 🌟 [devpi/devpi](https://github.com/devpi/devpi): Python PyPi staging server and packaging, testing, release tool <https://doc.devpi.net>
+- 🌟 [google/magika](https://github.com/google/magika): Detect file content types with deep learning <https://google.github.io/magika/>
 
 ## Visualization
 

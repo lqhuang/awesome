@@ -72,6 +72,7 @@
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book): 🛠️ ❤️ Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place! 想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！ <https://nixos-and-flakes.thiscute.world>
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable): Nix - Static, Permissionless, Installation-free, Pre-configured
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks): App source + Nix packages + Docker = Image <https://nixpacks.com>
+- [ALT-F4-LLC/kickstart.nix](https://github.com/ALT-F4-LLC/kickstart.nix): Kickstart your Nix environment.
 
 ## API Test
 

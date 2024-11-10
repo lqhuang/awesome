@@ -181,6 +181,7 @@
 - [smol-rs/async-broadcast](https://github.com/smol-rs/async-broadcast): Async broadcast channels
 - [smol-rs/async-channel](https://github.com/smol-rs/async-channel): Async multi-producer multi-consumer channel
 - 🌟 [fereidani/kanal](https://github.com/fereidani/kanal): Fastest sync and async channel that Rust deserves
+- [compio-rs/compio](https://github.com/compio-rs/compio): A thread-per-core Rust runtime with IOCP/io_uring/polling.
 
 ### Futures
 

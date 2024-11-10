@@ -197,7 +197,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [origin-space/originui](https://github.com/origin-space/originui): A growing collection of over 50 input components built with Next.js and TailwindCSS. <https://origin-ui-alpha.vercel.app/>
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words): React component to highlight words within a larger body of text <https://bvaughn.github.io/react-highlight-words/>
 
-#### shadcn eco system
+#### Shadcn UI eco system
 
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui. <https://awesome-shadcn-ui.vercel.app/>
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table): A shadcn table component with server-side sorting, filtering, and pagination. <https://table.sadmn.com>
@@ -225,7 +225,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf): Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. <https://react.onedoclabs.com/>
 - [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick): View and Interact with PDFs in React SolidJS, Svelte and JavaScript apps <https://pdfslick.dev>
 
-#### Time related
+#### DateTime related
 
 - [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar): Ultimate calendar for your React app. <https://projects.wojtekmaj.pl/react-calendar>
 - [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker): A date picker for your React app. <https://projects.wojtekmaj.pl/react-date-picker>
@@ -279,7 +279,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride): Create guided tours in your apps <https://react-joyride.com/>
 - [uixmat/onborda](https://github.com/uixmat/onborda): An onboarding wizard flow for Next.js powered by framer motion <https://onborda.dev>
 
-#### Typograph
+#### Typography
 
 - 🌟 [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer): Simple React Component That Makes Titles More Readable <https://react-wrap-balancer.vercel.app/>
 - [google/budoux](https://github.com/google/budoux): BudouX is the successor to Budou, the machine learning powered line break organizer tool.

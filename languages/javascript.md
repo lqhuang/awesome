@@ -123,6 +123,8 @@
 ### format parser / converter
 
 - [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
+- [thejoshwolfe/yazl](https://github.com/thejoshwolfe/yazl): yet another zip library for node
+- [thejoshwolfe/yauzl](https://github.com/thejoshwolfe/yauzl): yet another unzip library for node
 - [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
 - [mholt/PapaParse](https://github.com/mholt/PapaParse): Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input <http://PapaParse.com>
 - [dolanmiu/docx](https://github.com/dolanmiu/docx): Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. <https://docx.js.org/>
@@ -188,6 +190,7 @@
 - [kourge/ts-brand](https://github.com/kourge/ts-brand): Reusable type branding in TypeScript
 - [withastro/starlight](https://github.com/withastro/starlight): 🌟 Build beautiful, accessible, high-performance documentation websites with Astro <https://starlight.astro.build>
 - [rawify/Fraction.js](https://github.com/rawify/Fraction.js): Fraction is a rational numbers library written in JavaScript <https://raw.org/article/rational-numbers-in-javascript/>
+- [cryptocoinjs/base-x](https://github.com/cryptocoinjs/base-x): Encode/decode any base
 
 ## Middleware
 

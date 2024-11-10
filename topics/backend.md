@@ -14,6 +14,7 @@
 - 🌟 [Go7hic/A-Philosophy-of-Software-Design](https://github.com/Go7hic/A-Philosophy-of-Software-Design): 《软件设计哲学》 <https://go7hic.github.io/A-Philosophy-of-Software-Design/#/>
 - [zxyle/PDF-Explained](https://github.com/zxyle/PDF-Explained): 《PDF 解析》 <https://zxyle.github.io/PDF-Explained/>
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. <https://blog.bytebytego.com/>
+- [Admol/SystemDesign](https://github.com/Admol/SystemDesign): 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide） <https://learning-guide.gitbook.io/system-design-interview>
 
 ## Middleware
 
@@ -42,6 +43,7 @@
 ## Auth
 
 - [How to roll your own auth in JavaScript & TypeScript](https://www.robinwieruch.de/how-to-roll-your-own-auth/): Learn how to roll your own authentication in JavaScript & TypeScript
+- 👍 [Auth Wiki](https://auth.wiki/): Auth Wiki is a comprehensive collection of resources about authentication, authorization, and identity and access management. Learn about OAuth 2.0, OpenID Connect, SAML.
 - [warrant-dev/awesome-authorization](https://github.com/warrant-dev/awesome-authorization): A curated list of information and resources about authorization. <https://awesome-authorization.warrant.dev/>
 - [WorkOS](https://github.com/workos): WorkOS is a set of building blocks for quickly adding enterprise features to your app. You’ll be shipping quickly with a market-proven solution for your customers. <https://workos.com/>
 - [Clerk](https://github.com/clerkinc): More than authentication - Complete user management <https://clerk.dev/>
@@ -123,3 +125,4 @@
 
 - [faasm/faasm](https://github.com/faasm/faasm): High-performance stateful serverless runtime based on WebAssembly <https://faasm.readthedocs.io>
 - [upstash/edge-flags](https://github.com/upstash/edge-flags): Feature flags for serverless functions <https://edge-flags.vercel.app>
+- 🌟 [upstash/ratelimit-js](https://github.com/upstash/ratelimit-js): Rate limiting library for serverless runtimes <https://ratelimit-with-upstash.vercel.app/>

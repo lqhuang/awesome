@@ -22,6 +22,8 @@
 - [google/unisim](https://github.com/google/unisim): UniSim is a package for efficient similarity computation, fuzzy matching, and clustering of data.
 - [jawah/charset_normalizer](https://github.com/jawah/charset_normalizer): Truly universal encoding detector in pure Python <https://charset-normalizer.readthedocs.io/en/latest/>
 - 🌟 [shibing624/pycorrector](https://github.com/shibing624/pycorrector): pycorrector is a toolkit for text error correction. 文本纠错，实现了 Kenlm，T5，MacBERT，ChatGLM3，LLaMA 等模型应用在纠错场景，开箱即用。 <https://www.mulanai.com/product/corrector/>
+- [life4/textdistance](https://github.com/life4/textdistance): 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
+- [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank): Python implementation of TextRank algorithms ("textgraphs") for phrase extraction <https://derwen.ai/docs/ptr/>
 
 ## tokenizer / BPE
 
