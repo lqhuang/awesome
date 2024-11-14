@@ -66,6 +66,7 @@
 - [mstange/samply](https://github.com/mstange/samply): Command-line sampling profiler for macOS and Linux
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng): This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. <https://github.com/ColinIanKing/stress-ng>
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects and displays high-resolution traces of what a process is doing <https://magic-trace.org>
+- [bsc-mem/PROFET](https://github.com/bsc-mem/PROFET): Analytical model that quantifies the impact of the main memory on application performance and system power and energy consumption.
 
 ## WASM Runtime
 

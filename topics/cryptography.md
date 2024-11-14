@@ -3,6 +3,7 @@
 ## Tools
 
 - [life4/enc](https://github.com/life4/enc): 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
+- [gchq/CyberChef](https://github.com/gchq/CyberChef): The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis <https://gchq.github.io/CyberChef>
 
 ## Libraries
 

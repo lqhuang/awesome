@@ -10,6 +10,7 @@
 - [alextanhongpin/database-design](https://github.com/alextanhongpin/database-design): Ideas on better database design
 - [postgres-ai/postgres-howtos](https://github.com/postgres-ai/postgres-howtos): Postgres HowTo articles
 - [kvko/sqlmap-wiki-zhcn](https://github.com/kvko/sqlmap-wiki-zhcn): 可能是最完整的 sqlmap 中文文档。 <https://sqlmap.highlight.ink>
+- [ben-n93/SQL-tips-and-tricks](https://github.com/ben-n93/SQL-tips-and-tricks): SQL tips and tricks
 
 ### Books
 
@@ -227,6 +228,7 @@
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of SQLite extensions
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry <https://sqlpkg.org>
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec): A vector search SQLite extension that runs anywhere!
+- [1yefuwang1/vectorlite](https://github.com/1yefuwang1/vectorlite): Fast, SQL powered, in-process vector search for any language with an SQLite driver <https://1yefuwang1.github.io/vectorlite/>
 
 ## GUI
 

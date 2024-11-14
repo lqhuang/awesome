@@ -34,6 +34,7 @@
 - [amir20/dozzle](https://github.com/amir20/dozzle): Realtime log viewer for docker containers. <https://dozzle.dev/>
 - [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors): LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, PyPI, PyTorch, and NPM.
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber): 💎 Amber the programming language compiled to bash <https://amber-lang.com>
+- 🌟 [elijah-potter/harper](https://github.com/elijah-potter/harper): The Grammar Checker for Developers <https://writewithharper.com>
 
 ### Misc linters / formatters
 
@@ -48,6 +49,7 @@
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff): A compact, high-speed SQL linter, engineered with Rust efficiency. <https://quary.dev/>
 - 🌟 [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A modular SQL linter and auto-formatter with support for multiple dialects and templated code. <https://www.sqlfluff.com>
 - [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
+- [chrisbottin/xml-formatter](https://github.com/chrisbottin/xml-formatter): Converts XML into a human readable format (pretty print) while respecting the `xml:space` attribute.
 
 ### Git
 
@@ -155,6 +157,7 @@
 - 🌟 [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv): Print-friendly, minimalist CV page <https://cv.jarocki.me>
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools): 收录独立开发者出海技术栈和工具
 - [fky2015/resume-ng](https://github.com/fky2015/resume-ng): A LaTeX resume template designed for optimal information density and aesthetic appeal.
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! <https://rxresu.me>
 
 ## ESL
 
@@ -178,6 +181,7 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. <https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>
 - [rfc-st/humble](https://github.com/rfc-st/humble): A humble, and fast!, security-oriented HTTP headers analyzer. <https://github.com/rfc-st/humble>
 - [elceef/dnstwist](https://github.com/elceef/dnstwist): Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation <https://dnstwist.it>
+- [infinition/Bjorn](https://github.com/infinition/Bjorn): Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.
 
 ## Open Source Software: State, Progress and Future
 

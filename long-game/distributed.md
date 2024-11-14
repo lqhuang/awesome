@@ -116,6 +116,7 @@
 - [RedisLabs/redisraft](https://github.com/RedisLabs/redisraft): A Redis Module that make it possible to create a consistent Raft cluster from multiple Redis instances.
 - [ShisoftResearch/bifrost](https://github.com/ShisoftResearch/bifrost): Pure rust building block for distributed systems
 - [eatonphil/raft-rs](https://github.com/eatonphil/raft-rs): Another minimal Raft implementation in Rust.
+- [suraft/suraft](https://github.com/suraft/suraft): Shared Unit Raft
 
 ## Correctness
 

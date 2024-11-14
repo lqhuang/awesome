@@ -91,3 +91,8 @@
 - [inko-lang/inko](https://github.com/inko-lang/inko): A language for building concurrent software with confidence <http://inko-lang.org/>
 - [austral/austral](https://github.com/austral/austral): Systems language with linear types and capability-based security. <https://austral-lang.org/>
 - [diku-dk/futhark](https://github.com/diku-dk/futhark): 💥💻💥 A data-parallel functional programming language <http://futhark-lang.org>
+
+## Lean
+
+- [lean-dojo/LeanDojo](https://github.com/lean-dojo/LeanDojo): Tool for data extraction and interacting with Lean programmatically. <https://leandojo.org>
+- [ImperialCollegeLondon/group-theory-game](https://github.com/ImperialCollegeLondon/group-theory-game): Building group theory from scratch in Lean

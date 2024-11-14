@@ -70,6 +70,8 @@
 
 - [nfstream/nfstream](https://github.com/nfstream/nfstream): NFStream: a Flexible Network Data Analysis Framework. <https://www.nfstream.org>
 - [jpr5/ngrep](https://github.com/jpr5/ngrep): ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF f… <https://github.com/jpr5/ngrep>
+- [pmacct/pmacct](https://github.com/pmacct/pmacct): pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry]. <http://www.pmacct.net>
+- [ntop/ntopng](https://github.com/ntop/ntopng): Web-based Traffic and Security Network Traffic Monitoring <http://www.ntop.org>
 
 ### Observability
 

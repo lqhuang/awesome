@@ -138,6 +138,7 @@
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime): OneUptime is the complete open-source observability platform. <https://oneuptime.com>
 - [Hydrozen.io](https://hydrozen.io/): Monitor availability of your websites, Cronjobs, APIs, Domains, SSL etc.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks): Open-source cron job and background task monitoring service, written in Python & Django <https://healthchecks.io>
+- [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime): BlueWave Uptime is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful visualizations. Get powerful insights and proactive alerts to keep your services running smoothly. <https://uptime-demo.bluewavelabs.ca/>
 
 ### Observability: Logging / Metrics / APM
 
@@ -225,6 +226,7 @@
 
 - [getlago/lago](https://github.com/getlago/lago): Open Source Metering and Usage Based Billing <https://www.getlago.com>
 - [midday-ai/midday](https://github.com/midday-ai/midday): Run your business smarter 🪄 <https://midday.ai>
+  - [midday-ai/v1](https://github.com/midday-ai/v1): An open-source starter kit based on Midday. <https://v1.run>
 
 ## AI-ng
 

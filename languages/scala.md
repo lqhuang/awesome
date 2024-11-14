@@ -64,6 +64,7 @@
 - [sbt/sbt-buildinfo](https://github.com/sbt/sbt-buildinfo): I know this because build.sbt knows this.
 - [sbt/docker-sbt](https://github.com/sbt/docker-sbt): Official sbt docker images
 - 🌟 [kitlangton/scala-update](https://github.com/kitlangton/scala-update): Update your Scala dependencies interactively
+- [reibitto/sbt-welcome](https://github.com/reibitto/sbt-welcome): An SBT plugin for displaying a welcome message and commonly used tasks.
 
 ### Mill
 
@@ -216,6 +217,7 @@
 - [propensive/contextual](https://github.com/propensive/contextual): Statically-checked string interpolation in Scala <https://propensive.com/contextual/>
 - [eed3si9n/ifdef](https://github.com/eed3si9n/ifdef): `@ifdef` is an annotation that implements conditional compilation in Scala
 - [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR): A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster. <https://www.logorrr.app/>
+- [felher/s3te](https://github.com/felher/s3te): A scala 3 tree explorer for the reflect module
 
 ### Misc
 

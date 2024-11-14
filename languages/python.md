@@ -113,6 +113,7 @@
 - 🌟 [pyupio/dparse](https://github.com/pyupio/dparse): A parser for Python dependency files
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package): Build and Inspect Python Packages in Your CI
 - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged): The easiest way to ship python applications. <https://packaged.live>
+- 🌟 [devpi/devpi](https://github.com/devpi/devpi): Python PyPi staging server and packaging, testing, release tool <https://doc.devpi.net>
 
 ### Docs
 
@@ -174,10 +175,7 @@
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot): create and update inline snapshots in your python tests <https://15r10nk.github.io/inline-snapshot/>
 - [syrusakbary/snapshottest](https://github.com/syrusakbary/snapshottest): Snapshot Testing utils for Python 📸
 - [vberlier/pytest-insta](https://github.com/vberlier/pytest-insta): A practical snapshot testing plugin for pytest.
-
-<!-- sep -->
-
-- 🌟 [devpi/devpi](https://github.com/devpi/devpi): Python PyPi staging server and packaging, testing, release tool <https://doc.devpi.net>
+- [Bobronium/parametrize](https://github.com/Bobronium/parametrize): Drop-in @pytest.mark.parametrize replacement working with unittest.TestCase
 
 ### Profile / tracing
 

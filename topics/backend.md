@@ -6,7 +6,6 @@
 - [johnlui/PPHC](https://github.com/johnlui/PPHC): 📙《高并发的哲学原理》开源图书
 - [Software Engineering Books](https://software-engineering-books.com/): I’ve been a software engineer for over 10 years now, and I’ve successfully passed through all stages of grief. I’m also an avid reader. This page contains my collection of books that have helped me the most throughout my career.
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中文翻译版本
-- [fusionauth/webauthn.wtf](https://github.com/fusionauth/webauthn.wtf): The webauthn.wtf website <https://webauthn.wtf/>
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd): A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates): No description, website, or topics provided.
 - [isno/theByteBook](https://github.com/isno/theByteBook): ⭐ 出版作品开源。深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE 指南。如发现错误，谢谢提 issue <https://www.thebyte.com.cn>
@@ -42,9 +41,16 @@
 
 ## Auth
 
+### Resources
+
+- [The Copenhagen Book](https://thecopenhagenbook.com/): A basic guideline on implementing auth for the web.
+- [fusionauth/webauthn.wtf](https://github.com/fusionauth/webauthn.wtf): The webauthn.wtf website <https://webauthn.wtf/>
 - [How to roll your own auth in JavaScript & TypeScript](https://www.robinwieruch.de/how-to-roll-your-own-auth/): Learn how to roll your own authentication in JavaScript & TypeScript
-- 👍 [Auth Wiki](https://auth.wiki/): Auth Wiki is a comprehensive collection of resources about authentication, authorization, and identity and access management. Learn about OAuth 2.0, OpenID Connect, SAML.
+- [Auth Wiki](https://auth.wiki/): Auth Wiki is a comprehensive collection of resources about authentication, authorization, and identity and access management. Learn about OAuth 2.0, OpenID Connect, SAML.
 - [warrant-dev/awesome-authorization](https://github.com/warrant-dev/awesome-authorization): A curated list of information and resources about authorization. <https://awesome-authorization.warrant.dev/>
+
+### Libs
+
 - [WorkOS](https://github.com/workos): WorkOS is a set of building blocks for quickly adding enterprise features to your app. You’ll be shipping quickly with a market-proven solution for your customers. <https://workos.com/>
 - [Clerk](https://github.com/clerkinc): More than authentication - Complete user management <https://clerk.dev/>
 - [Auth0](https://github.com/auth0): Next.js SDK for signing in with Auth0 <https://auth0.com>

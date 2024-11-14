@@ -86,6 +86,8 @@
 - [reqable/reqable-app](https://github.com/reqable/reqable-app): Reqable issue track repo <https://reqable.com>
 - [Rapid API](https://rapidapi.com/): previous <https://paw.cloud> <https://rapidapi.com>
 - [testingisdocumenting/znai](https://github.com/testingisdocumenting/znai): Build functional, maintainable, beautiful User Guides with markdown and Znai plugins. Instant pages navigation. Local search. Multiple integrations to work with Python, Java, C++, OpenAPI, etc. Transform "getting started" sections into slideshow for your workshops. Manage multiple documentations with self-deployed znai hub. <https://testingisdocumenting.org/znai>
+- [keploy/keploy](https://github.com/keploy/keploy): Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work! <https://keploy.io>
+- [scalar/scalar](https://github.com/scalar/scalar): Scalar is an open-source API platform: ✨ 1st-Class OpenAPI/Swagger Support <https://scalar.com>
 
 ## GitOps
 

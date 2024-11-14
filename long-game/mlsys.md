@@ -31,6 +31,9 @@
 ### Readings
 
 - [A reading list for machine learning systems](https://jeongseob.github.io/readings_mlsys.html)
+- 🌟 [Home - colah's blog](https://colah.github.io/): no description found
+- [mli/paper-reading](https://github.com/mli/paper-reading): 深度学习经典、新论文逐段精读
+- [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning): List of papers studying machine learning through the lens of category theory
 
 ### Books
 
@@ -65,6 +68,7 @@
   - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry): LLM training code for MosaicML foundation models <https://www.mosaicml.com/blog/mpt-7b>
 - [pytorch/torchtitan](https://github.com/pytorch/torchtitan): A native PyTorch Library for large model training
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale): PyTorch extensions for high performance and large scale training.
+- [databricks/megablocks](https://github.com/databricks/megablocks): MegaBlocks is a light-weight library for mixture-of-experts (MoE) training.
 
 ### Optimization
 

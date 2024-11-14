@@ -41,6 +41,8 @@
 - [level-vc/useful](https://github.com/level-vc/useful): The open-source Useful SDK. One python decorator in the Useful library allows for full observability of Python functions within an ETL. <https://usefulmachines.dev/>
 - [iterative/datachain](https://github.com/iterative/datachain): AI-data warehouse to enrich, transform and analyze data from cloud storages <https://docs.datachain.ai>
 - [Point72/ccflow](https://github.com/Point72/ccflow): ccflow is a collection of tools for workflow configuration, orchestration, and dependency injection <https://github.com/Point72/ccflow/wiki>
+- [bacalhau-project/bacalhau](https://github.com/bacalhau-project/bacalhau): Compute over Data framework for public, transparent, and optionally verifiable computation <https://docs.bacalhau.org>
+  - federated distribute computing?
 
 ## Visualize frontend / BI
 

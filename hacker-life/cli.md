@@ -46,6 +46,7 @@
 - [zwpaper/dilu](https://github.com/zwpaper/dilu): A colorful CLI client with icons for accessing data via OpenDAL
 - 🌟 [binpash/try](https://github.com/binpash/try): "Do, or do not. There is no try." We're setting out to change that: `try cmd` and commit---or not.
 - 🌟 [pvolok/mprocs](https://github.com/pvolok/mprocs): Run multiple commands in parallel
+- [DarthSim/overmind](https://github.com/DarthSim/overmind): Process manager for Procfile-based applications and tmux
 - 🌟 [charmbracelet/gum](https://github.com/charmbracelet/gum): A tool for glamorous shell scripts 🎀
 - 🌟 [rs/dnstrace](https://github.com/rs/dnstrace): DNS resolution tracing tool
 - [wilfred/difftastic](https://github.com/wilfred/difftastic): a structural diff that understands syntax 🟥🟩 <https://difftastic.wilfred.me.uk/>
@@ -69,6 +70,7 @@
 - [jarun/nnn](https://github.com/jarun/nnn): n³ The unorthodox terminal file manager
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto): ranger-like terminal file manager written in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi): 💥 Blazing fast terminal file manager written in Rust, based on async I/O. <https://yazi-rs.github.io/docs/>
+- [yorukot/superfile](https://github.com/yorukot/superfile): Pretty fancy and modern terminal file manager <https://superfile.netlify.app>
 - [Canop/broot](https://github.com/Canop/broot): A new way to see and navigate directory trees : https://dystroy.org/broot
 - [thetacom/hexabyte](https://github.com/thetacom/hexabyte): A modern, modular, and robust TUI hex editor. <http://io.thetacom.info/hexabyte/>
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash): A beautiful CLI dashboard for GitHub 🚀 <https://dlvhdr.github.io/gh-dash>

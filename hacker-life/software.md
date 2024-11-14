@@ -35,7 +35,6 @@
 - [Video compress](https://tools.rotato.app/compress): Compression happens on your device, no data is sent to our servers
 - 🌟 [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC): Modern VNC Server and client, web based and secure
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager): A Download Manager that speeds up your downloads <https://abdownloadmanager.com>
-- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI): UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers <https://www.marticliment.com/unigetui/>
 
 ### Notes / Knowledge Management
 
@@ -96,6 +95,7 @@
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder): A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 <https://lihaoyun6.github.io/quickrecorder/>
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac. <https://linearmouse.app>
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad): A virtual monitor for screen sharing
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace): AeroSpace is an i3-like tiling window manager for macOS <https://nikitabobko.github.io/AeroSpace/guide>
 
 ### Free / Paid
 
@@ -148,6 +148,8 @@
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB): GUI Tool To Removes Ads From Various Places Around Windows 11
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager): A GUI to quickly manage your WSL2 instances <https://apps.microsoft.com/store/detail/wsl-manager/9NWS9K95NMJB>
 - [subhra74/xdm](https://github.com/subhra74/xdm): Powerfull download accelerator and video downloader <https://xtremedownloadmanager.com/>
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil): Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI): UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers <https://www.marticliment.com/unigetui/>
 
 ## Services
 
@@ -183,7 +185,6 @@
 - [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号 RSS 生成。(前端重构中)
 - [ente-io/ente](https://github.com/ente-io/ente): Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos <https://ente.io>
-- [harness/gitness](https://github.com/harness/gitness): Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. <https://gitness.com>
 - [knadh/listmonk](https://github.com/knadh/listmonk): High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. <https://listmonk.app>
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles. <https://linkwarden.app>
 - [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru): 🔮 Screen Guru takes clean screenshot of any websites <https://screen.guru>
@@ -197,6 +198,10 @@
 - [louisgrasset/touitomamout](https://github.com/louisgrasset/touitomamout): Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also known as Twitter to Mastodon & Bluesky crossposter) <https://hub.docker.com/r/louisgrasset/touitomamout>
 - [hectorqin/reader](https://github.com/hectorqin/reader): 阅读 3 服务器版，桌面端，iOS 可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点 star，关注一下公众号【假装大佬】❗️ Demo 服务器由于未备案已被关停，建议自行搭建
 - [gedoor/legado](https://github.com/gedoor/legado): Legado 3.0 Book Reader with powerful controls & full functions❤️ 阅读 3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+- [workadventure/workadventure](https://github.com/workadventure/workadventure): A collaborative web application (virtual office) presented as a 16-bit RPG video game <https://workadventu.re>
+  - [workadventure/awesome-workadventure](https://github.com/workadventure/awesome-workadventure): A curated list of awesome resources developed by the community related to WorkAdventure
+- 🌟 [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
+- [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog): Free, no-nonsense, super fast blogging.
 
 ### Developer
 
@@ -205,6 +210,7 @@
 - 🌟 [ekzhang/sshx](https://github.com/ekzhang/sshx): Fast, collaborative live terminal sharing over the web <https://sshx.io>
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web <https://tsl0922.github.io/ttyd>
 - 🌟 [mirego/accent](https://github.com/mirego/accent): The first developer-oriented translation tool. True asynchronous flow between translators and your team. <https://www.accent.reviews>
+- [harness/gitness](https://github.com/harness/gitness): Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. <https://gitness.com>
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler): The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte <https://gitbutler.com>
 - [sr.ht/~sircmpwn/sourcehut](https://sr.ht/~sircmpwn/sourcehut/): This is the main project hub for SourceHut itself. To browse our source code, see the "sources" tab at the nav along the top of the page.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD <https://about.gitea.com>
@@ -226,6 +232,7 @@
 - [postalserver/postal](https://github.com/postalserver/postal): 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail <https://postalserver.io>
 - [tutao/tutanota](https://github.com/tutao/tutanota): Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. <https://tuta.com>
 - 🌟 [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server): Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) <https://stalw.art>
+- [useplunk/plunk](https://github.com/useplunk/plunk): The Open-Source Email Platform <https://www.useplunk.com>
 
 ### Vault / Passwords
 

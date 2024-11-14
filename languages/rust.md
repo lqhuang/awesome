@@ -164,6 +164,7 @@
 - [kprotty/usync](https://github.com/kprotty/usync): Small, fast, synchronization primitives
 - 🌟 [m-ou-se/atomic-wait](https://github.com/m-ou-se/atomic-wait): Cross-platform atomic wait and wake (aka futex) functionality for Rust.
 - [smol-rs/async-lock](https://github.com/smol-rs/async-lock): Async synchronization primitives
+- [botahamec/happylock](https://github.com/botahamec/happylock): Deadlock free mutexes
 
 ### Async IO
 

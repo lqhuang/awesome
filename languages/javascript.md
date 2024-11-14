@@ -34,10 +34,12 @@
 
 - [neon-bindings/neon](https://github.com/neon-bindings/neon): Rust bindings for writing safe and fast native Node.js modules. <https://www.neon-bindings.com/>
 - [vercel/turbo](https://github.com/vercel/turbo): Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. <https://turbo.build>
-- [AdiRishi/turborepo-remote-cache-cloudflare](https://github.com/AdiRishi/turborepo-remote-cache-cloudflare): An implementation of the turborepo-remote-cache server custom made for Cloudflare Workers <https://adirishi.github.io/turborepo-remote-cache-cloudflare/>
 - [jsr-io/jsr](https://github.com/jsr-io/jsr): The open-source package registry for modern JavaScript and TypeScript <https://jsr.io>
 - 🌟 [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc): Documentation generator for TypeScript projects. <https://typedoc.org>
+- [AdiRishi/turborepo-remote-cache-cloudflare](https://github.com/AdiRishi/turborepo-remote-cache-cloudflare): An implementation of the turborepo-remote-cache server custom made for Cloudflare Workers <https://adirishi.github.io/turborepo-remote-cache-cloudflare/>
 - 🌟 [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs <https://openapi-ts.dev>
+- [vltpkg/vltpkg](https://github.com/vltpkg/vltpkg): the vlt monorepo <https://vlt.sh>
+  - awesome built-in vis for deps
 
 ### Bundler
 
@@ -130,6 +132,8 @@
 - [dolanmiu/docx](https://github.com/dolanmiu/docx): Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. <https://docx.js.org/>
 - [rgrove/parse-xml](https://github.com/rgrove/parse-xml): A fast, safe, compliant XML parser for Node.js and browsers. <https://rgrove.github.io/parse-xml>
 - [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text): Advanced html to text converter
+- [jeet-dhandha/xlsx-parse-table](https://github.com/jeet-dhandha/xlsx-parse-table): No description, website, or topics provided.
+- [git.sheetjs.com/sheetjs/sheetjs](https://git.sheetjs.com/sheetjs/sheetjs): sheetjs - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 
 ### Date
 

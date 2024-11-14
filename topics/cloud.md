@@ -86,6 +86,7 @@
 - [bcicen/ctop](https://github.com/bcicen/ctop): Top-like interface for container metrics <https://ctop.sh/>
 - [homeport/dyff](https://github.com/homeport/dyff): /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [simonw/s3-credentials](https://github.com/simonw/s3-credentials): A tool for creating credentials for accessing S3 buckets <https://s3-credentials.readthedocs.io>
+- [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter): Fast container image distribution plugin with lazy pulling <https://github.com/containerd/containerd/issues/3731>
 
 ### Routing / Gateway
 
@@ -117,6 +118,8 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy): Open Source Alternative to Vercel, Netlify and Heroku. <https://dokploy.com/>
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick): Bare metal to production ready in mins; your own fly server on your VPS. <https://www.sidekickdeploy.com>
 - [basecamp/kamal](https://github.com/basecamp/kamal): Deploy web apps anywhere. <https://kamal-deploy.org>
+- [dstackai/dstack](https://github.com/dstackai/dstack): dstack is a lightweight, open-source alternative to Kubernetes & Slurm, simplifying AI container orchestration with multi-cloud & on-prem support. It natively supports NVIDIA, AMD, & TPU. <https://dstack.ai/docs>
+- [taubyte/tau](https://github.com/taubyte/tau): Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. <https://tau.how>
 
 ## K8S
 

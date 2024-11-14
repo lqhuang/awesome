@@ -50,3 +50,8 @@
 - [kishikawakatsumi/applelocalization-web](https://github.com/kishikawakatsumi/applelocalization-web): An unofficial Apple localization terms glossary that allows you to search for standard localization texts provided by the Apple platform. <https://applelocalization.com/>
 - [margelo/react-native-filament](https://github.com/margelo/react-native-filament): 🐧 A real-time physically based 3D rendering engine for React Native <https://margelo.github.io/react-native-filament/>
 - 🌟 [jaredh159/tailwind-react-native-classnames](https://github.com/jaredh159/tailwind-react-native-classnames): simple, expressive API for tailwindcss + react-native
+- [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables): Universal shadcn/ui for React Native featuring a focused collection of components - Crafted with NativeWind v4 and accessibility in mind. <https://rnr-docs.vercel.app>
+
+### Examples
+
+- [saulamsal/netflix-ui](https://github.com/saulamsal/netflix-ui): No description, website, or topics provided.

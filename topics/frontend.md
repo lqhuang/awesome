@@ -307,6 +307,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [code-hike/bright](https://github.com/code-hike/bright): React Server Component for syntax highlighting <https://bright.codehike.org>
 - [basecamp/trix](https://github.com/basecamp/trix): A rich text editor for everyday writing <https://trix-editor.org/>
 - [udecode/plate](https://github.com/udecode/plate): Rich-text editor with shadcn <https://platejs.org>
+- [FormidableLabs/use-editable](https://github.com/FormidableLabs/use-editable): A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)
 
 #### Animation
 
@@ -373,6 +374,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [uNmAnNeR/imaskjs](https://github.com/uNmAnNeR/imaskjs): vanilla javascript input mask <https://imask.js.org>
 - 🌟 [hoppergee/heic-to](https://github.com/hoppergee/heic-to): Convert HEIC/HEIF images to JPEG, PNG in browser
 - [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string. <https://nuqs.47ng.com>
+- 🌟 [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action): Type safe and validated Server Actions in your Next.js project. <https://next-safe-action.dev>
 
 ### Misc
 
