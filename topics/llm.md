@@ -41,6 +41,7 @@
 - [Azure/kaito](https://github.com/Azure/kaito): Kubernetes AI Toolchain Operator
 - ❔ [microsoft/aici](https://github.com/microsoft/aici): AICI: Prompts as (Wasm) Programs
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript): Automatable GenAI Scripting <https://microsoft.github.io/genaiscript/>
+- [ag2ai/ag2](https://github.com/ag2ai/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ <https://ag2ai.github.io/ag2/>
 
 ### App Builder
 

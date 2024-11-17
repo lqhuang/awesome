@@ -45,6 +45,7 @@
 - [kayak/pypika](https://github.com/kayak/pypika): PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis. <http://pypika.readthedocs.io/en/latest/>
 - [microsoft/verified-storage](https://github.com/microsoft/verified-storage): Storage systems with verified correctness properties
 - 🌟 [kaimast/lsm-rs](https://github.com/kaimast/lsm-rs): Modular, Asynchronous Implementation of a Log-Structured Merge Tree
+- [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite. <https://logica.dev>
 
 ### Practices
 

@@ -168,6 +168,7 @@
 - [kyverno/kyverno](https://github.com/kyverno/kyverno): Kubernetes Native Policy Management <https://kyverno.io>
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) ! <https://cloudtty.github.io/cloudtty/>
 - [Kubernetes WithOut Kubelet](https://kwok.sigs.k8s.io/): Kubernetes WithOut Kubelet. KWOK is a toolkit that enables setting up a cluster of thousands of Nodes in seconds. Under the scene, all Nodes are simulated to behave like real ones, so the overall approach employs a pretty low resource footprint that you can easily play around on your laptop.
+- 🌟 [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop): Network monitoring & diagnosis suite for Kubernetes <https://kubeskoop.io>
 
 ### Operators
 

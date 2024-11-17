@@ -73,6 +73,8 @@
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable): Nix - Static, Permissionless, Installation-free, Pre-configured
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks): App source + Nix packages + Docker = Image <https://nixpacks.com>
 - [ALT-F4-LLC/kickstart.nix](https://github.com/ALT-F4-LLC/kickstart.nix): Kickstart your Nix environment.
+- [zhaofengli/attic](https://github.com/zhaofengli/attic): Multi-tenant Nix Binary Cache <https://docs.attic.rs>
+- [nixops4/nixops4](https://github.com/nixops4/nixops4): Deploy with Nix and manage resources declaratively
 
 ## API Test
 

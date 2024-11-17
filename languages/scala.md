@@ -65,11 +65,14 @@
 - [sbt/docker-sbt](https://github.com/sbt/docker-sbt): Official sbt docker images
 - 🌟 [kitlangton/scala-update](https://github.com/kitlangton/scala-update): Update your Scala dependencies interactively
 - [reibitto/sbt-welcome](https://github.com/reibitto/sbt-welcome): An SBT plugin for displaying a welcome message and commonly used tasks.
+- [guardian/gha-scala-library-release-workflow](https://github.com/guardian/gha-scala-library-release-workflow): Publishing Scala libraries to Maven Central using GitHub Actions
+- [scalacenter/sbt-version-policy](https://github.com/scalacenter/sbt-version-policy): Compatibility checks for your dependencies
 
 ### Mill
 
 - [lewisjkl/header](https://github.com/lewisjkl/header): Header automation and linting 🎉
 - [alexarchambault/mill-native-image](https://github.com/alexarchambault/mill-native-image): This is a Mill plugin which allows building executables using GraalVM native-image for your modules.
+- [lefou/millw](https://github.com/lefou/millw): Mill Wrapper Script
 
 ### Testing
 

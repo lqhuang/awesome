@@ -242,6 +242,7 @@
 - [hawkw/thingbuf](https://github.com/hawkw/thingbuf): in-place allocation-reusing queues for Rust
 - [droundy/append-only-vec](https://github.com/droundy/append-only-vec): No description, website, or topics provided.
 - [cloudflare/trie-hard](https://github.com/cloudflare/trie-hard): Novel implementation of a Trie data structure optimized for small, sparse maps
+- [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya): A fast and ergonomic concurrent hash-table for read-heavy workloads.
 
 ### CRDT
 
@@ -348,6 +349,7 @@
 - [ryanmcgrath/cacao](https://github.com/ryanmcgrath/cacao): Rust bindings for AppKit (macOS) and UIKit (iOS/tvOS). Experimental, but working!
 - [duchess-rs/duchess](https://github.com/duchess-rs/duchess): Experiments with Java-Rust interop <https://duchess-rs.github.io/duchess>
 - [google/crubit](https://github.com/google/crubit): Crubit: C++/Rust Bidirectional Interop Tool
+- [GiGainfosystems/BuFFI](https://github.com/GiGainfosystems/BuFFI): A tool to generate ergonomic, buffer-based C++ APIs. <https://crates.io/crates/buffi>
 
 ### Time or Date
 

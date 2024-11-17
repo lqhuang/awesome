@@ -47,7 +47,7 @@
 - [itamarst/simd-profiles](https://github.com/itamarst/simd-profiles): Proof of concept: using modern SIMD in compiled Python extension
 - [brettcannon/record-type](https://github.com/brettcannon/record-type): Proof-of-concept `record` type for Python
 - [Quansight-Labs/free-threaded-compatibility](https://github.com/Quansight-Labs/free-threaded-compatibility): A central repository to keep track of the status of work on and support for free-threaded CPython (see PEP 703), with a focus on the scientific and ML/AI ecosystem
-- [edgedb/memhive](https://github.com/edgedb/memhive): No description, website, or topics provided.
+- [edgedb/memhive](https://github.com/edgedb/memhive): a highly experimental Python subinterpreters orchestrator with support for structured data sharing.
 - [facebookincubator/ft_utils](https://github.com/facebookincubator/ft_utils): A library of utilities to support efficient, scalable Python development leveraging Free Threaded Python.
 
 ## Toolchains
@@ -89,7 +89,6 @@
 - [prefix-dev/rip](https://github.com/prefix-dev/rip): Solve and install Python packages quickly with rip (pip in Rust) <https://prefix.dev>
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith): Tooling support for the Polylith Architecture in Python. <https://davidvujic.github.io/python-polylith-docs/>
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath): Inspect and refine PATH environment variable on Windows, Linux and MacOS.
-- [microsoft/python-environment-tools](https://github.com/microsoft/python-environment-tools): No description, website, or topics provided.
 
 ### CI/CD
 
@@ -103,16 +102,18 @@
 
 ### Packaging
 
-- 🌟 [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone): Produce redistributable builds of Python
+- [indygreg/python-build-standalone](https://github.com/indygreg/python-build-standalone): Produce redistributable builds of Python
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer): A modern Python application packaging and distribution tool
-- [pantsbuild/pex](https://github.com/pantsbuild/pex): A library and tool for generating .pex (Python EXecutable) files
-- [linkedin/shiv](https://github.com/linkedin/shiv): shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
-- [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin that packs your packages into a zipapp
-- [conda/conda-pack](https://github.com/conda/conda-pack): Package conda environments for redistribution <https://conda.github.io/conda-pack>
-- 🌟 [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel): 🎡 Build Python wheels for all the platforms on CI with minimal configuration.
-- 🌟 [pyupio/dparse](https://github.com/pyupio/dparse): A parser for Python dependency files
+- bundler
+  - [pantsbuild/pex](https://github.com/pantsbuild/pex): A library and tool for generating .pex (Python EXecutable) files
+  - [linkedin/shiv](https://github.com/linkedin/shiv): shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
+  - [frostming/pdm-packer](https://github.com/frostming/pdm-packer): A PDM plugin that packs your packages into a zipapp
+  - [conda/conda-pack](https://github.com/conda/conda-pack): Package conda environments for redistribution <https://conda.github.io/conda-pack>
+  - [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged): The easiest way to ship python applications. <https://packaged.live>
+  - [defold/build-size](https://github.com/defold/build-size): Graph showing the Defold engine and editor sizes for all supported platforms
+- [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel): 🎡 Build Python wheels for all the platforms on CI with minimal configuration.
+- [pyupio/dparse](https://github.com/pyupio/dparse): A parser for Python dependency files
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package): Build and Inspect Python Packages in Your CI
-- [tusharsadhwani/packaged](https://github.com/tusharsadhwani/packaged): The easiest way to ship python applications. <https://packaged.live>
 - 🌟 [devpi/devpi](https://github.com/devpi/devpi): Python PyPi staging server and packaging, testing, release tool <https://doc.devpi.net>
 
 ### Docs
@@ -353,6 +354,7 @@
 - [breuleux/jurigged](https://github.com/breuleux/jurigged): Hot reloading for Python
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr): Proxy server to bypass Cloudflare protection
 - [florimondmanca/httpx-sse](https://github.com/florimondmanca/httpx-sse): Consume Server-Sent Event (SSE) messages with HTTPX
+- [snok/asgi-correlation-id](https://github.com/snok/asgi-correlation-id): Request ID propagation for ASGI apps
 
 ### DB clients and SQL utils
 
@@ -493,6 +495,7 @@
 ### Serialization & Validation
 
 - [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto): Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
+- [Thriftpy/thriftpy2](https://github.com/Thriftpy/thriftpy2): Pure python approach of Apache Thrift.
 - [ultrajson/ultrajson](https://github.com/ultrajson/ultrajson): Ultra fast JSON decoder and encoder written in C with Python bindings
 - 🌟 [ijl/orjson](https://github.com/ijl/orjson): Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - 🌟 [jcrist/msgspec](https://github.com/jcrist/msgspec): A fast and friendly JSON/MessagePack library, with optional schema validation <https://jcristharif.com/msgspec>

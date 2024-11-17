@@ -311,9 +311,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 #### Animation
 
-- [framer/motion](https://github.com/framer/motion): Open source, production-ready animation and gesture library for React <https://framer.com/motion>
+- 🌟 [motiondivision/motion](https://github.com/motiondivision/motion): A modern animation library for React and JavaScript <https://motion.dev>
 - [pmndrs/react-spring](https://github.com/pmndrs/react-spring): ✌️ A spring physics based React animation library <http://www.react-spring.dev>
-- [motiondivision/motionone](https://github.com/motiondivision/motionone): A new animation library, built on the Web Animations API for the smallest filesize and the fastest performance. <https://motion.dev>
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion): 🎥 Make videos programmatically with React <https://remotion.dev>
 - [Tencent/libpag](https://github.com/Tencent/libpag): The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms. <https://pag.art>
 - [rive-app/rive-react](https://github.com/rive-app/rive-react): React runtime for Rive <https://rive-app.github.io/rive-react>
