@@ -67,6 +67,7 @@
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng): This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. <https://github.com/ColinIanKing/stress-ng>
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects and displays high-resolution traces of what a process is doing <https://magic-trace.org>
 - [bsc-mem/PROFET](https://github.com/bsc-mem/PROFET): Analytical model that quantifies the impact of the main memory on application performance and system power and energy consumption.
+- [intel/pcm](https://github.com/intel/pcm): Intel® Performance Counter Monitor (Intel® PCM)
 
 ## WASM Runtime
 
@@ -81,7 +82,3 @@
 - [extism/extism](https://github.com/extism/extism): Extend anything with WebAssembly. <https://extism.org>
 - [Effect Handlers for WebAssembly](https://wasmfx.dev/)
 - [spinkube/spin-operator](https://github.com/spinkube/spin-operator): Spin Operator is a Kubernetes operator that empowers platform engineers to deploy Spin applications as custom resources to their Kubernetes clusters <https://www.spinkube.dev/docs/spin-operator/>
-
-## Misc
-
-- [google/crubit](https://github.com/google/crubit): Crubit: C++/Rust Bidirectional Interop Tool

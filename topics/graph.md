@@ -27,6 +27,7 @@
 - [TuGraph-family/tugraph-db](https://github.com/TuGraph-family/tugraph-db): TuGraph is a high performance graph database. <https://tugraph.org>
 - [OpenSPG/openspg](https://github.com/OpenSPG/openspg): OpenSPG is a Knowledge Graph Engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. Core Capabilities: 1) domain model constrained knowledge modeling, 2) facts and logic fused representation, 3) kNext SDK(python): LLM-enhanced knowledge construction, reasoning and generation <https://spg.openkg.cn/en-US>
 - [phanein/deepwalk](https://github.com/phanein/deepwalk): DeepWalk - Deep Learning for Graphs <http://www.perozzi.net/projects/deepwalk/>
+- 🌟 [eliorc/node2vec](https://github.com/eliorc/node2vec): Implementation of the node2vec algorithm.
 
 ## Vis
 

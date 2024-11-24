@@ -24,23 +24,6 @@
 
 - [monorepo.tools](https://monorepo.tools/): Everything you need to know about monorepos, and the tools to build them.
 - [korfuri/awesome-monorepo](https://github.com/korfuri/awesome-monorepo): A curated list of awesome Monorepo tools, software and architectures.
-- [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system <https://bazel.build>
-  - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk): A user-friendly launcher for Bazel.
-  - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle): Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
-  - [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry): The central registry of Bazel modules for the Bzlmod external dependency system. <https://registry.bazel.build>
-  - [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib): Common useful functions and rules for Bazel <https://bazel.build/>
-  - [bazelbuild/rules_cc](https://github.com/bazelbuild/rules_cc): C++ Rules for Bazel <https://bazel.build>
-  - [bazelbuild/rules_foreign_cc](https://github.com/bazelbuild/rules_foreign_cc): Build rules for interfacing with "foreign" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson) <https://bazelbuild.github.io/rules_foreign_cc>
-  - [bazelbuild/rules_python](https://github.com/bazelbuild/rules_python): Bazel Python Rules <https://rules-python.readthedocs.io>
-  - [bazelbuild/rules_nodejs](https://github.com/bazelbuild/rules_nodejs): NodeJS toolchain for Bazel. <https://bazelbuild.github.io/rules_nodejs/>
-  - [bazelbuild/rules_scala](https://github.com/bazelbuild/rules_scala): Scala rules for Bazel
-  - [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust): Rust rules for Bazel <https://bazelbuild.github.io/rules_rust/>
-  - [bazelbuild/rules_proto](https://github.com/bazelbuild/rules_proto): Protocol buffer rules for Bazel
-  - [tweag/rules_haskell](https://github.com/tweag/rules_haskell): Haskell rules for Bazel. <https://haskell.build>
-  - [tweag/rules_nixpkgs](https://github.com/tweag/rules_nixpkgs): Rules for importing Nixpkgs packages into Bazel. <https://nix-bazel.build/>
-    - [Bazel and Nix: A Migration Experience](https://www.tweag.io/blog/2022-12-15-bazel-nix-migration-experience/)
-  - [spietras/rules_conda](https://github.com/spietras/rules_conda): Rules for creating conda environments in Bazel 💚 <https://spietras.github.io/rules_conda>
-  - [nicholasjng/nanobind-bazel](https://github.com/nicholasjng/nanobind-bazel): Bazel defs and rules for building Python projects with nanobind extensions.
 - [facebook/buck2](https://github.com/facebook/buck2): Build system, successor to Buck <https://buck2.build/>
   - [sluongng/awesome-buck2](https://github.com/sluongng/awesome-buck2): Collection of resources about Buck2
 - [nrwl/nx](https://github.com/nrwl/nx): Smart Monorepos · Fast CI <https://nx.dev>
@@ -48,6 +31,30 @@
 - [thought-machine/please](https://github.com/thought-machine/please): High-performance extensible build system for reproducible multi-language builds. <https://please.build>
 - [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System <http://mesonbuild.com/>
 - [moonrepo/moon](https://github.com/moonrepo/moon): A task runner and repo management tool for the web ecosystem, written in Rust. <https://moonrepo.dev/>
+
+### Bazel
+
+- [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system <https://bazel.build>
+- [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk): A user-friendly launcher for Bazel.
+- [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle): Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+- [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry): The central registry of Bazel modules for the Bzlmod external dependency system. <https://registry.bazel.build>
+- [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib): Common useful functions and rules for Bazel <https://bazel.build/>
+- [bazelbuild/rules_cc](https://github.com/bazelbuild/rules_cc): C++ Rules for Bazel <https://bazel.build>
+- [bazelbuild/rules_foreign_cc](https://github.com/bazelbuild/rules_foreign_cc): Build rules for interfacing with "foreign" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson) <https://bazelbuild.github.io/rules_foreign_cc>
+- [bazelbuild/rules_python](https://github.com/bazelbuild/rules_python): Bazel Python Rules <https://rules-python.readthedocs.io>
+- [bazelbuild/rules_nodejs](https://github.com/bazelbuild/rules_nodejs): NodeJS toolchain for Bazel. <https://bazelbuild.github.io/rules_nodejs/>
+- [bazelbuild/rules_scala](https://github.com/bazelbuild/rules_scala): Scala rules for Bazel
+- [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust): Rust rules for Bazel <https://bazelbuild.github.io/rules_rust/>
+- [bazelbuild/rules_proto](https://github.com/bazelbuild/rules_proto): Protocol buffer rules for Bazel
+- [tweag/rules_haskell](https://github.com/tweag/rules_haskell): Haskell rules for Bazel. <https://haskell.build>
+- [tweag/rules_nixpkgs](https://github.com/tweag/rules_nixpkgs): Rules for importing Nixpkgs packages into Bazel. <https://nix-bazel.build/>
+  - [Bazel and Nix: A Migration Experience](https://www.tweag.io/blog/2022-12-15-bazel-nix-migration-experience/)
+- [spietras/rules_conda](https://github.com/spietras/rules_conda): Rules for creating conda environments in Bazel 💚 <https://spietras.github.io/rules_conda>
+- [nicholasjng/nanobind-bazel](https://github.com/nicholasjng/nanobind-bazel): Bazel defs and rules for building Python projects with nanobind extensions.
+
+Build cache
+
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink): NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and specialized hardware. <https://nativelink.com>
 
 ### Nix
 
@@ -73,8 +80,8 @@
 - [DavHau/nix-portable](https://github.com/DavHau/nix-portable): Nix - Static, Permissionless, Installation-free, Pre-configured
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks): App source + Nix packages + Docker = Image <https://nixpacks.com>
 - [ALT-F4-LLC/kickstart.nix](https://github.com/ALT-F4-LLC/kickstart.nix): Kickstart your Nix environment.
-- [zhaofengli/attic](https://github.com/zhaofengli/attic): Multi-tenant Nix Binary Cache <https://docs.attic.rs>
 - [nixops4/nixops4](https://github.com/nixops4/nixops4): Deploy with Nix and manage resources declaratively
+- [zhaofengli/attic](https://github.com/zhaofengli/attic): Multi-tenant Nix Binary Cache <https://docs.attic.rs>
 
 ## API Test
 

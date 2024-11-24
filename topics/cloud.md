@@ -78,6 +78,7 @@
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs): Write Cloudflare Workers in 100% Rust via WebAssembly
 - [Logflare/logflare](https://github.com/Logflare/logflare): Never get surprised by a logging bill again. Centralized structured logging for Cloudflare, Vercel, Elixir and Javascript. <https://logflare.app>
 - [SukkaW/dashflare](https://github.com/SukkaW/dashflare): An unofficial Cloudflare dashboard built on top of Cloudflare API. <https://dashflare.skk.moe>
+- [DBOS](https://www.dbos.dev/): DBOS is a serverless platform that radically simplifies backend development in Python and TypeScript. Build 10x faster and scale to millions with a single click.
 
 ### CLI
 
@@ -120,6 +121,7 @@
 - [basecamp/kamal](https://github.com/basecamp/kamal): Deploy web apps anywhere. <https://kamal-deploy.org>
 - [dstackai/dstack](https://github.com/dstackai/dstack): dstack is a lightweight, open-source alternative to Kubernetes & Slurm, simplifying AI container orchestration with multi-cloud & on-prem support. It natively supports NVIDIA, AMD, & TPU. <https://dstack.ai/docs>
 - [taubyte/tau](https://github.com/taubyte/tau): Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. <https://tau.how>
+- [beam-cloud/beta9](https://github.com/beam-cloud/beta9): The open-source serverless GPU container runtime. <https://docs.beta9.beam.cloud>
 
 ## K8S
 
@@ -220,7 +222,6 @@
 - [Octoml](https://octoml.ai/): OctoAI is world-class compute infrastructure for tuning and running models that wow your users.
 - [zeabur/zeabur](https://github.com/zeabur/zeabur): A platform that helps you deploy services with one click. <https://zeabur.com>
 - [Flightcontrol](https://www.flightcontrol.dev/): Developer-first AWS infrastructure. Designed for teams that want the benefits of AWS without hiring devops.
-- [beam-cloud/beta9](https://github.com/beam-cloud/beta9): The open-source serverless GPU container runtime. <https://docs.beta9.beam.cloud>
 - [Koyeb](https://www.koyeb.com/): Koyeb is a developer-friendly serverless platform. No ops, servers, or infrastructure management.
 
 ## Cloud Foundry
@@ -273,5 +274,6 @@
 - [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane): 🔥 Blazing fast bulk data transfers between any cloud 🔥 <https://skyplane.org>
 - 🌟 [octodns/octodns](https://github.com/octodns/octodns): Tools for managing DNS across multiple providers
 - [libdns/libdns](https://github.com/libdns/libdns): Core interfaces for universal DNS record manipulation across providers
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns): Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [go-acme/lego](https://github.com/go-acme/lego): Let's Encrypt/ACME client and library written in Go <https://go-acme.github.io/lego/>
 - [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files <https://rclone.org>

@@ -115,6 +115,8 @@
   - hackers' dream LOL
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder): 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [henrygd/beszel](https://github.com/henrygd/beszel): Lightweight server monitoring hub with historical data, docker stats, and alerts.
+- [gnmyt/myspeed](https://github.com/gnmyt/myspeed): A speed test analysis software that shows your internet speed for up to 30 days <https://myspeed.dev>
+- [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live): For more information, please see http://smartos.org/ For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
 
 ## HomeKit / IoT
 
@@ -148,6 +150,8 @@
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer): Chinese character stroke order animations and practice quizzes <https://hanziwriter.org>
 - [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world <https://iptv-org.github.io>
 - [自己动手写 Git](https://wyag-zh.hanyujie.xyz/): 从零开始写 Git（Write Yourself a Git，简称 wyag） 的中文翻译 | Chinese translation of Write Yourself a Git
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): 🔗 Some useful websites for programmers.
+  - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh): 程序员应该访问的最佳网站中文版
 
 ## Branding
 

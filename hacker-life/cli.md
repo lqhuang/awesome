@@ -50,6 +50,8 @@
 - 🌟 [charmbracelet/gum](https://github.com/charmbracelet/gum): A tool for glamorous shell scripts 🎀
 - 🌟 [rs/dnstrace](https://github.com/rs/dnstrace): DNS resolution tracing tool
 - [wilfred/difftastic](https://github.com/wilfred/difftastic): a structural diff that understands syntax 🟥🟩 <https://difftastic.wilfred.me.uk/>
+- [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, and blame output <https://dandavison.github.io/delta/>
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
 - 🌟 [bensadeh/tailspin](https://github.com/bensadeh/tailspin): 🌀 A log file highlighter
 - [ducaale/xh](https://github.com/ducaale/xh): Friendly and fast tool for sending HTTP requests
@@ -63,6 +65,7 @@
 - 🌟 [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff): The fastest pixel-by-pixel image visual difference tool in the world.
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all): rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [wolfpld/vv](https://github.com/wolfpld/vv): Terminal image viewer
 
 ## TUI applications
 

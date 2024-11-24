@@ -41,6 +41,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [The Cleanest Trick for Autogrowing Textareas](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects <https://cssfx.netlify.com>
+- [12 Modern CSS One-Line Upgrades | Modern CSS Solutions](https://moderncss.dev/12-modern-css-one-line-upgrades/): Sometimes, improving your application CSS just takes a one-line upgrade or enhancement! Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.
 
 ## Framework
 
@@ -83,6 +84,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [instantpage/instant.page](https://github.com/instantpage/instant.page): Make your site’s pages instant in 1 minute and improve your conversion rate by 1% <https://instant.page>
 - [perfsee/perfsee](https://github.com/perfsee/perfsee): a set of tools for measuring and debugging performance of frontend applications <https://perfsee.com>
 - [Zizzamia/perfume.js](https://github.com/Zizzamia/perfume.js): Web performance library for measuring all performance vitals metrics <https://zizzamia.github.io/perfume/>
+- 🌟🌟🌟 [aidenybai/react-scan](https://github.com/aidenybai/react-scan): Scan for React performance issues and eliminate slow renders in your app <https://react-scan.million.dev>
 
 ## Components library
 
@@ -154,6 +156,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [color-js/color.js](https://github.com/color-js/color.js): Color conversion & manipulation library by the editors of the CSS Color specifications <https://colorjs.io>
 - [ccc159/loadership](https://github.com/ccc159/loadership): LoaderShip.com is the ultimate CSS-only loader configuration tool that allows you to effortlessly customize and generate stunning loaders for your website. Simply Copy & Paste without any installation or dependency hassle.
 - [picocss/pico](https://github.com/picocss/pico): Minimal CSS Framework for semantic HTML <https://picocss.com>
+- [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit): a pure css implementation of some sunlight streaming in through the window <https://sunlit.pages.dev/>
 
 ### Components
 
@@ -196,10 +199,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [origin-space/originui](https://github.com/origin-space/originui): A growing collection of over 50 input components built with Next.js and TailwindCSS. <https://origin-ui-alpha.vercel.app/>
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words): React component to highlight words within a larger body of text <https://bvaughn.github.io/react-highlight-words/>
+- [glidejs/glide](https://github.com/glidejs/glide): A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more <https://glidejs.com>
+- [simonwep/selection](https://github.com/simonwep/selection): ✨ Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks! <https://simonwep.github.io/selection>
 
 #### Shadcn UI eco system
 
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui. <https://awesome-shadcn-ui.vercel.app/>
+- [bytefer/awesome-shadcn-ui](https://github.com/bytefer/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui.
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table): A shadcn table component with server-side sorting, filtering, and pagination. <https://table.sadmn.com>
 - [damianricobelli/shadcn-stepper](https://github.com/damianricobelli/shadcn-stepper): <https://shadcn-stepper.vercel.app/>
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React. <https://sonner.emilkowal.ski>
@@ -405,6 +411,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js <https://docs.pmnd.rs/react-three-fiber>
 - [typpo/quickchart](https://github.com/typpo/quickchart): Chart image and QR code web API <https://quickchart.io/>
 - [lepture/github-gist](https://github.com/lepture/github-gist): Web component for GitHub Gist <https://lab.lepture.com/github-gist/>
+- [toomuchdesign/react-minimal-pie-chart](https://github.com/toomuchdesign/react-minimal-pie-chart): 🍰 Lightweight but versatile SVG pie/donut charts for React. < 2kB gzipped. <https://toomuchdesign.github.io/react-minimal-pie-chart/index.html>
 
 ### Graph / Network
 
@@ -427,11 +434,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [Snow Dashboard UI Kit](https://snow.byewind.com): An advanced Dashboard / SaaS UI kit and design system for Figma. It can help you quickly build Dashboard, SaaS and other projects, and has a very good user experience.
   - paid required
 - [Simple Icons](https://simpleicons.org/): 2862 Free SVG icons for popular brands
-- [svgl](https://svgl.vercel.app/): ✨ Optimized SVGs for web
 - [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg): SVG library for React Native, React Native Web, and plain React web projects.
 - [Iconbuddy](iconbuddy.app): The ultimate source for icons.
   - [Figma Plugin](https://dub.sh/iconbuddy-figma)
 - 🌟 [pheralb/svgl](https://github.com/pheralb/svgl): 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS. <https://svgl.app>
+- [tanem/react-svg](https://github.com/tanem/react-svg): 🎨 A React component that injects SVG into the DOM. <https://npm.im/react-svg>
 - [feathericons/feather](https://github.com/feathericons/feather): Simply beautiful open-source icons <https://feathericons.com>
 - [texel-org/color](https://github.com/texel-org/color): modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
 - [The ultimate icon bundle](https://nucleoapp.com/): 30,059 premium-quality SVG icons, regularly updated for UIs, presentations, and print projects.

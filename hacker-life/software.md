@@ -202,6 +202,7 @@
   - [workadventure/awesome-workadventure](https://github.com/workadventure/awesome-workadventure): A curated list of awesome resources developed by the community related to WorkAdventure
 - 🌟 [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog): Free, no-nonsense, super fast blogging.
+- 🌟 [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader): A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web <https://koodoreader.com>
 
 ### Developer
 

@@ -95,6 +95,10 @@
 
 - 🌟 [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser, mangler and compressor toolkit for ES6+ <https://terser.org>
 
+### Profile
+
+- [discoveryjs/cpupro](https://github.com/discoveryjs/cpupro): Rethinking of CPU profile analysis <https://discoveryjs.github.io/cpupro/>
+
 ## Functional libraries
 
 ### Data Structure
@@ -176,9 +180,11 @@
 - [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics): simple statistics for node & browser javascript <http://simplestatistics.org/>
 - [sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions): Get the dimensions of an image
 - [image-size/image-size](https://github.com/image-size/image-size): Node module for detecting image dimensions
-- [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
-- [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
 - [sindresorhus/execa](https://github.com/sindresorhus/execa): Process execution for humans
+- [sindresorhus/ky](https://github.com/sindresorhus/ky): 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
+- [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
+- [henrygd/queue](https://github.com/henrygd/queue): Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster
+- [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
 - 🌟 [xthezealot/npmprune](https://github.com/xthezealot/npmprune): Prune unnecessary files from node_modules
   - simple and easy LOL
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
@@ -189,7 +195,6 @@
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch): The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [toss/es-toolkit](https://github.com/toss/es-toolkit): A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash. <https://es-toolkit.slash.page>
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib): ✨ Standard library for JavaScript and Node.js. ✨ <https://stdlib.io>
-- [sindresorhus/ky](https://github.com/sindresorhus/ky): 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [unjs/ofetch](https://github.com/unjs/ofetch): 😱 A better fetch API. Works on node, browser and workers.
 - [kourge/ts-brand](https://github.com/kourge/ts-brand): Reusable type branding in TypeScript
 - [withastro/starlight](https://github.com/withastro/starlight): 🌟 Build beautiful, accessible, high-performance documentation websites with Astro <https://starlight.astro.build>
@@ -201,6 +206,7 @@
 - [askorama/orama](https://github.com/askorama/orama): 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! <https://docs.oramasearch.com>
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase): The reactive data store for local‑first apps. <https://tinybase.org>
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit): A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). <https://triplit.dev>
+- [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware): ⚡ The one-liner node.js http-proxy middleware for connect, express, next.js and more
 
 ## Misc
 
@@ -211,6 +217,7 @@
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates): Find newer versions of package dependencies than what your package.json allows
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp): An image processing library written entirely in JavaScript for Node, with zero external or native dependencies. <http://jimp-dev.github.io/jimp/>
 - [photopea/UPNG.js](https://github.com/photopea/UPNG.js): Fast and advanced PNG (APNG) decoder and encoder (lossy / lossless)
+- [discordeno/discordeno](https://github.com/discordeno/discordeno): Discord API library for Node and Deno <https://discordeno.js.org>
 
 ## Effect system on Typescript
 

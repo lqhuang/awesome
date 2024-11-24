@@ -69,6 +69,7 @@
 - [pytorch/torchtitan](https://github.com/pytorch/torchtitan): A native PyTorch Library for large model training
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale): PyTorch extensions for high performance and large scale training.
 - [databricks/megablocks](https://github.com/databricks/megablocks): MegaBlocks is a light-weight library for mixture-of-experts (MoE) training.
+- [pytorch/tnt](https://github.com/pytorch/tnt): A lightweight library for PyTorch training tools and utilities <https://pytorch.org/tnt/>
 
 ### Optimization
 
@@ -221,6 +222,7 @@
   - [ArXiv - Reverse derivative categories](https://arxiv.org/abs/1910.07065)
 - [nod-ai/SHARK-Turbine](https://github.com/nod-ai/SHARK-Turbine): Unified compiler/runtime for interfacing with PyTorch Dynamo.
 - [modularml/mojo](https://github.com/modularml/mojo): The Mojo Programming Language <https://docs.modular.com/mojo>
+- [mirage-project/mirage](https://github.com/mirage-project/mirage): Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA <https://mirage-project.readthedocs.io/>
 
 ### MLIR
 
@@ -373,6 +375,7 @@
 - [huggingface/safetensors](https://github.com/huggingface/safetensors): Simple, safe way to store and distribute tensors
   - [alvarobartt/safejax](https://github.com/alvarobartt/safejax): Serialize JAX, Flax, Haiku, or Objax model params with 🤗`safetensors` <https://alvarobartt.github.io/safejax/>
 - [google/tensorstore](https://github.com/google/tensorstore): Library for reading and writing large multi-dimensional arrays. <https://google.github.io/tensorstore/>
+- [mlcommons/croissant](https://github.com/mlcommons/croissant): Croissant is a high-level format for machine learning datasets that brings together four rich layers. <https://mlcommons.org/croissant>
 
 ## Utils
 

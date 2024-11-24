@@ -109,6 +109,7 @@
 - 🌟 [windmill-labs/windmill](https://github.com/windmill-labs/windmill): Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool. <https://windmill.dev>
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet): A distributed, fault-tolerant task queue <https://hatchet.run>
 - [encoredev/encore](https://github.com/encoredev/encore): Encore is the Backend Development Platform for building distributed systems and event-driven applications. <https://encore.dev>
+- [Netflix/maestro](https://github.com/Netflix/maestro): Maestro: Netflix’s Workflow Orchestrator
 
 ### HPC Cluster manager / Job Scheduler
 
@@ -164,6 +165,7 @@
   - [grafana/k6](https://github.com/grafana/k6): A modern load testing tool, using Go and JavaScript - https://k6.io
   - [grafana/mimir](https://github.com/grafana/mimir): Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. <https://grafana.com/oss/mimir/>
   - [softwaremill/meerkat](https://github.com/softwaremill/meerkat): Bootzooka, but for observability
+  - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus): A docker-compose stack for Prometheus monitoring
 - [Polar Signals](https://www.polarsignals.com/): Polar Signals Cloud is an always-on, zero-instrumentation continuous profiling product that helps improve performance, understand incidents, and lower infrastructure costs.
 - [perses/perses](https://github.com/perses/perses): The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! <https://demo.perses.dev>
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent): The production-scale datacenter profiler

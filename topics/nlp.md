@@ -4,6 +4,7 @@
 
 - 🌟 [WojciechMula/pyahocorasick](https://github.com/WojciechMula/pyahocorasick): Python module (C extension and plain python) implementing Aho-Corasick algorithm
 - 🌟 [BurntSushi/aho-corasick](https://github.com/BurntSushi/aho-corasick): A fast implementation of Aho-Corasick in Rust.
+- [sonofmagic/modern-ahocorasick](https://github.com/sonofmagic/modern-ahocorasick): modern-ahocorasick
 - [argilla-io/argilla](https://github.com/argilla-io/argilla): ✨ Open-source tool for data-centric NLP. Argilla helps domain experts and data teams to build better NLP datasets in less time. <https://docs.argilla.io>
 - [nomic-ai/nomic](https://github.com/nomic-ai/nomic): Interact with Massive Embedding and Text Datasets in Your Web Browser <https://atlas.nomic.ai>
 - [chroma-core/chroma](https://github.com/chroma-core/chroma): the open source embedding database <https://www.trychroma.com>

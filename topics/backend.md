@@ -132,3 +132,4 @@
 - [faasm/faasm](https://github.com/faasm/faasm): High-performance stateful serverless runtime based on WebAssembly <https://faasm.readthedocs.io>
 - [upstash/edge-flags](https://github.com/upstash/edge-flags): Feature flags for serverless functions <https://edge-flags.vercel.app>
 - 🌟 [upstash/ratelimit-js](https://github.com/upstash/ratelimit-js): Rate limiting library for serverless runtimes <https://ratelimit-with-upstash.vercel.app/>
+- [middyjs/middy](https://github.com/middyjs/middy): 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵 <https://middy.js.org>

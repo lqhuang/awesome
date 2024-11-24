@@ -26,7 +26,8 @@ Containing cpp resources though I totally understand clang and cpp are two langu
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ <http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines>
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices): Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [Learn Makefiles](https://makefiletutorial.com/): With the tastiest examples
-- [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile): 跟我一起写 Makefile 重制版 <https://seisman.github.io/how-to-write-makefile/>
+  - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile): 跟我一起写 Makefile 重制版 <https://seisman.github.io/how-to-write-makefile/>
+  - [mitjafelicijan/makext](https://github.com/mitjafelicijan/makext): QOL Extensions for GNU Make
 - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
   - [cmuratori/computer_enhance](https://github.com/cmuratori/computer_enhance): Source code for the https://computerenhance.com programming series
 - [Software optimization resources - Agner](https://www.agner.org/optimize/)

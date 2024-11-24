@@ -136,6 +136,8 @@
 - [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl): Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
 - [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips): Tips for Writing a Research Paper using LaTeX
 
+- [TeXipedia](https://www.texipedia.com/): Find LaTeX symbols fast
+
 ### Latex Templates
 
 - [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint): 📝 A nicely formatted LaTeX preprint template
@@ -153,6 +155,7 @@
 - [Myriad-Dreamin/typst-book](https://github.com/Myriad-Dreamin/typst-book): A simple tool for creating modern online books in pure typst. <https://myriad-dreamin.github.io/typst-book/>
 - 🌟 [johannes-wolf/cetz](https://github.com/johannes-wolf/cetz): CeTZ: ein Typst Zeichenpaket - A library for drawing stuff with Typst.
 - [mitex-rs/mitex](https://github.com/mitex-rs/mitex): LaTeX support for Typst, powered by Rust and WASM. https://mitex-rs.github.io/mitex/ <https://mitex-rs.github.io/mitex/tools/underleaf.html>
+- [Myriad-Dreamin/shiroa](https://github.com/Myriad-Dreamin/shiroa): shiroa is a simple tool for creating modern online books in pure typst. <https://myriad-dreamin.github.io/shiroa/>
 - [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts): Run Typst in JavaScriptWorld. <https://myriad-dreamin.github.io/typst.ts>
 - [Jollywatt/typst-fletcher](https://github.com/Jollywatt/typst-fletcher): Typst package for drawing diagrams with arrows, built on top of CeTZ.
 - [qjcg/awesome-typst](https://github.com/qjcg/awesome-typst): Awesome Typst Links
@@ -161,6 +164,7 @@
 - [touying-typ/touying](https://github.com/touying-typ/touying): Touying is a powerful package for creating presentation slides in Typst. <https://touying-typ.github.io/touying/>
 - [typst/typst](https://github.com/typst/typst): A new markup-based typesetting system that is powerful and easy to learn. <https://typst.app>
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new language server for Typst, plus a VS Code extension
+- [Leedehai/typst-physics](https://github.com/Leedehai/typst-physics): physica: vectors, fields, differentials, derivatives, Dirac brakets, tensors, and more. See examples in the manual PDF. <https://github.com/Leedehai/typst-physics>
 
 ### Bib
 

@@ -9,6 +9,7 @@
 - [EffectOrientedProgramming/book](https://github.com/EffectOrientedProgramming/book): Effect-Oriented Programming: Creating Reliable Systems with Scala 3 and ZIO 2
 - [alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices): A collection of Scala best practices
 - [yadavan88/ScalaCLI-Cheatsheet](https://github.com/yadavan88/ScalaCLI-Cheatsheet): A cheatsheet of useful Scala-CLI commands
+- [scala-cli Cheatsheet](https://blog.rhetoricalmusings.com/pages/scalacli-cheatsheet/)
 - [Project CRaC](https://wiki.openjdk.org/display/crac)
   - [What is Coordinated Restore at Checkpoint?](https://docs.azul.com/core/crac/crac-introduction)
 - [Project Panama: Interconnecting JVM and native code](https://openjdk.org/projects/panama/)
@@ -45,8 +46,14 @@
 
 ## Toolchains
 
-### Sbt plugins
+### Sbt
 
+- [@vivekragunathan](https://github.com/vivekragunathan)'s _How I SBT_ series
+  - [How I SBT - I](https://blog.rhetoricalmusings.com/posts/how-i-sbt1)
+  - [How I SBT - II](https://blog.rhetoricalmusings.com/posts/how-i-sbt2)
+  - [How I SBT - III](https://blog.rhetoricalmusings.com/posts/how-i-sbt3/)
+  - [How I SBT - IV](https://blog.rhetoricalmusings.com/posts/how-i-sbt4)
+  - [How I SBT - V](https://blog.rhetoricalmusings.com/posts/how-i-sbt5)
 - [spray/sbt-revolver](https://github.com/spray/sbt-revolver): An SBT plugin for dangerously fast development turnaround in Scala
 - [typelevel/scalac-options](https://github.com/typelevel/scalac-options): A library for configuring scalac options
 - [typelevel/sbt-tpolecat](https://github.com/typelevel/sbt-tpolecat): scalac options for the enlightened

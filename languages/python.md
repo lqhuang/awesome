@@ -115,6 +115,7 @@
 - [pyupio/dparse](https://github.com/pyupio/dparse): A parser for Python dependency files
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package): Build and Inspect Python Packages in Your CI
 - 🌟 [devpi/devpi](https://github.com/devpi/devpi): Python PyPi staging server and packaging, testing, release tool <https://doc.devpi.net>
+- [A Comprehensive Guide to Python Project Management and Packaging: Concepts Illustrated with uv – Part I – Reinforced Knowledge](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-i/)
 
 ### Docs
 
@@ -177,6 +178,7 @@
 - [syrusakbary/snapshottest](https://github.com/syrusakbary/snapshottest): Snapshot Testing utils for Python 📸
 - [vberlier/pytest-insta](https://github.com/vberlier/pytest-insta): A practical snapshot testing plugin for pytest.
 - [Bobronium/parametrize](https://github.com/Bobronium/parametrize): Drop-in @pytest.mark.parametrize replacement working with unittest.TestCase
+- [DRMacIver/shrinkray](https://github.com/DRMacIver/shrinkray): Shrinkray is a modern multi-format test-case reducer
 
 ### Profile / tracing
 
@@ -275,6 +277,7 @@
 - 🌟 [mljar/supertree](https://github.com/mljar/supertree): Visualize decision trees in Python <https://mljar.com>
 - [symbolic-kg/PyClause](https://github.com/symbolic-kg/PyClause): A libary for using and learning symbolic rules for knowledge graphs
 - [benruijl/symbolica](https://github.com/benruijl/symbolica): A modern computer algebra library for Python and Rust. <https://symbolica.io>
+- [wilson-labs/cola](https://github.com/wilson-labs/cola): Compositional Linear Algebra
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -321,6 +324,7 @@
 - [fmfn/BayesianOptimization](https://github.com/fmfn/BayesianOptimization): A Python implementation of global optimization with gaussian processes.
 - [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy): A Python package for causal inference in quasi-experimental settings <https://causalpy.readthedocs.io>
 - [pydata/patsy](https://github.com/pydata/patsy): Describing statistical models in Python using symbolic formulas <https://patsy.readthedocs.io>
+- [Pyomo/pyomo](https://github.com/Pyomo/pyomo): An object-oriented algebraic modeling language in Python for structured optimization problems. <https://www.pyomo.org>
 
 ### Web
 
@@ -491,6 +495,7 @@
 - 🌟 [Miksus/rocketry](https://github.com/Miksus/rocketry): Modern scheduling library for Python <https://rocketry.readthedocs.io>
 - [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq): Distributed task queue with full async support
 - 🌟 [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq): A fast and reliable background task processing library for Python 3. <https://dramatiq.io>
+- [TkTech/chancy](https://github.com/TkTech/chancy): A postgres-backed task queue for Python. <https://tkte.ch/chancy/>
 
 ### Serialization & Validation
 
