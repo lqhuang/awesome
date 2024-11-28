@@ -42,6 +42,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [The Cleanest Trick for Autogrowing Textareas](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects <https://cssfx.netlify.com>
 - [12 Modern CSS One-Line Upgrades | Modern CSS Solutions](https://moderncss.dev/12-modern-css-one-line-upgrades/): Sometimes, improving your application CSS just takes a one-line upgrade or enhancement! Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.
+- [Modern CSS Solutions](https://moderncss.dev/): A series examining modern CSS solutions to problems Stephanie Eckles (@5t3ph), a seasoned frontend developer, has been solving for 15+ years.
 
 ## Framework
 

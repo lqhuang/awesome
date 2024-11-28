@@ -177,6 +177,7 @@
 
 ### Workflow pipeline / MLOps
 
+- [aporia-ai/mlops.toys](https://github.com/aporia-ai/mlops.toys): 🎲 A curated list of MLOps projects, tools and resources <https://mlops.toys>
 - [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course): A project-based course on the foundations of MLOps to responsibly develop, deploy and maintain ML. <https://madewithml.com>
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp): Free MLOps course from DataTalks.Club
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow): Machine Learning Toolkit for Kubernetes
@@ -427,3 +428,4 @@
 - [lucidrains/flash-attention-jax](https://github.com/lucidrains/flash-attention-jax): Implementation of Flash Attention in Jax
 - [gordicaleksa/get-started-with-JAX](https://github.com/gordicaleksa/get-started-with-JAX): The purpose of this repo is to make it easy to get started with JAX, Flax, and Haiku. It contains my "Machine Learning with JAX" series of tutorials (YouTube videos and Jupyter Notebooks) as well as the content I found useful while learning about the JAX ecosystem. <https://www.youtube.com/c/TheAIEpiphany/>
 - [kingoflolz/swarm-jax](https://github.com/kingoflolz/swarm-jax): Swarm training framework using Haiku + JAX + Ray for layer parallel transformer language models on unreliable, heterogeneous nodes
+- [smolorg/smolgrad](https://github.com/smolorg/smolgrad): small auto-grad engine inspired from Karpathy's micrograd and PyTorch

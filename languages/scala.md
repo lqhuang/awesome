@@ -247,6 +247,7 @@
 - [lolgab/snunit](https://github.com/lolgab/snunit): Scala Native HTTP server based on NGINX Unit <https://lolgab.github.io/snunit/>
 - [VirtusLab/iskra](https://github.com/VirtusLab/iskra): Typesafe wrapper for Apache Spark DataFrame API <https://virtuslab.github.io/iskra/>
 - [ComputeNode/scalag](https://github.com/ComputeNode/scalag): Multi-platform GPGPU computations with Scala, seamlessly 🚀
+- [Comcast/ip4s](https://github.com/Comcast/ip4s): Defines immutable, safe data structures for describing IP addresses, multicast joins, socket addresses and similar IP & network related data types
 
 ## Frameworks
 
