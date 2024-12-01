@@ -16,6 +16,7 @@
 
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor): Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ <https://capacitorjs.com>
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs): Portable and lightweight cross-platform desktop application development framework <https://neutralino.js.org>
+- [velopack/velopack](https://github.com/velopack/velopack): Installer and automatic update framework for cross-platform desktop applications <https://velopack.io>
 
 ## React Native (cross platforms)
 

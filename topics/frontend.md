@@ -118,6 +118,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra):The most trendiest & innovative Open Source Admin Template for Chakra UI & React! <https://horizon-ui.com>
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum): A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. <https://react-spectrum.adobe.com>
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor): The react library to build dashboards fast. <https://tremor.so>
+  - [tremorlabs/tremor-raw](https://github.com/tremorlabs/tremor-raw): Copy & Paste React components to build modern web applications. <https://tremor.so>
+  - in shadcn/ui style?
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js): Build interactive dashboards in minutes. <https://gridstackjs.com/>
 - [refinedev/refine](https://github.com/refinedev/refine): Build your React-based CRUD applications, without constraints. <https://refine.dev/>
 - 🌟 [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz. <https://radix-ui.com>
@@ -202,6 +204,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words): React component to highlight words within a larger body of text <https://bvaughn.github.io/react-highlight-words/>
 - [glidejs/glide](https://github.com/glidejs/glide): A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more <https://glidejs.com>
 - [simonwep/selection](https://github.com/simonwep/selection): ✨ Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks! <https://simonwep.github.io/selection>
+- [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu): 🍔 An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations <http://negomi.github.io/react-burger-menu/>
 
 #### Shadcn UI eco system
 
@@ -300,6 +303,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx): 🏭 The most lightweight, customizable React markdown component. <https://markdown-to-jsx.quantizor.dev/>
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown): 🍼 Plugin driven WYSIWYG markdown editor framework. <https://milkdown.dev>
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote): Load mdx content from anywhere through getStaticProps in next.js
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it): Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed <https://markdown-it.github.io>
+  - [antfu/markdown-it-async](https://github.com/antfu/markdown-it-async): Enhance markdown-it to support async highlight function.
 
 #### Editor
 
@@ -332,6 +337,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [greensock/GSAP](https://github.com/greensock/GSAP): GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web <https://gsap.com>
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy): The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. <https://Uiverse.io>
 - [barvian/motion-number](https://github.com/barvian/motion-number): A Framer Motion component that transitions, formats, and localizes numbers. <https://motion-number.barvian.me>
+- [animate-css/animate.css](https://github.com/animate-css/animate.css): 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. <https://animate.style/>
 
 - [WinterCore/react-text-transition](https://github.com/WinterCore/react-text-transition): Animate your text changes
 - [maxeth/react-type-animation](https://github.com/maxeth/react-type-animation): A React typewriter animation based on typical with extended functionality and customization. <https://react-type-animation.netlify.app/>

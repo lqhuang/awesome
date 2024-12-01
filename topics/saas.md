@@ -16,3 +16,4 @@
 - [polarsource/polar](https://github.com/polarsource/polar): An open source Merchant of Record. Sell SaaS and digital products in minutes. <https://polar.sh>
   - why not stripe?
 - [Ok! So... Draw online](https://okso.app/): The drawing app to express, grasp, and organize your thoughts and ideas
+- [AndySpider/uicloner-extension](https://github.com/AndySpider/uicloner-extension): Browser extension to instantly clone any web UI you see with one click, exports to HTML + Tailwind CSS or HTML + pure CSS

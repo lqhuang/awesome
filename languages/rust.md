@@ -1,5 +1,10 @@
 # Rust
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=rust">
+  <img alt="rust" src="https://skillicons.dev/icons?theme=light&i=rust">
+</picture>
+
 ## Resources
 
 ### Books

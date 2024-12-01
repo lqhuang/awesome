@@ -91,6 +91,7 @@ Streaming Systems
 - [janbjorge/PgQueuer](https://github.com/janbjorge/PgQueuer): PgQueuer is a Python library leveraging PostgreSQL for efficient job queuing. <https://pgqueuer.readthedocs.io/en/latest/index.html>
 - [drasi-project/drasi-platform](https://github.com/drasi-project/drasi-platform): No description, website, or topics provided.
 - [tisonkun/morax](https://github.com/tisonkun/morax): Message queue and data streaming based on cloud native services.
+- [TkTech/chancy](https://github.com/TkTech/chancy): A postgres-backed task queue for Python. <https://tkte.ch/chancy/>
 
 ### Kafka
 

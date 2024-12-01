@@ -1,5 +1,10 @@
 # Swift
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=swift">
+  <img alt="swift" src="https://skillicons.dev/icons?theme=light&i=swift">
+</picture>
+
 ## Resources
 
 - [akbashev/Distributed-Actors-in-Action](https://github.com/akbashev/Distributed-Actors-in-Action): Port of Akka in Action examples to Swift Distributed Actors <https://www.youtube.com/watch?v=7erJ1DV_Tlo>

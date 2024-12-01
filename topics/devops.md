@@ -137,6 +137,7 @@ Build cache
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark): GitHub Action for continuous benchmarking to keep performance <https://benchmark-action.github.io/github-action-benchmark/dev/bench/>
 - [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server): Self-hosted GitHub Actions cache server implementation. Compatible with official 'actions/cache' action <https://gha-cache-server.falcondev.io>
 - [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions): A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis]
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action): Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 
 ### GitHub Action Runner
 

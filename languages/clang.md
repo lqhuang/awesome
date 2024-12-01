@@ -1,6 +1,11 @@
 # C / Linux
 
-Containing cpp resources though I totally understand clang and cpp are two languages.
+Also containing cpp resources though I totally understand clang and cpp are two languages.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=c,cpp">
+  <img alt="c,cpp" src="https://skillicons.dev/icons?theme=light&i=c,cpp">
+</picture>
 
 ## Resources
 

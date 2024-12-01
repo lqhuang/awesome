@@ -1,5 +1,10 @@
 # Python
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=python">
+  <img alt="python" src="https://skillicons.dev/icons?theme=light&i=python">
+</picture>
+
 ## Collections
 
 ### Resources
@@ -136,7 +141,7 @@
 ### Security
 
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit): Audits Python environments and dependency trees for known vulnerabilities
-- [pyupio/safety](https://github.com/pyupio/safety): Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected. <https://pyup.io/safety>
+- 🌟 [pyupio/safety](https://github.com/pyupio/safety): Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected. <https://safetycli.com/product/safety-cli>
 
 ### Test / Mock / Coverage
 
@@ -332,15 +337,15 @@
 - [starlite-api/starlite](https://github.com/starlite-api/starlite): Light, Flexible and Extensible ASGI API framework <https://starlite-api.github.io/starlite>
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep): Fast ASGI web framework for Python <https://www.neoteroi.dev/blacksheep>
 - [AliRn76/Panther](https://github.com/AliRn76/Panther): Fast & Friendly Python Web Framework <https://pantherpy.github.io>
-- [preludeorg/vertebrae](https://github.com/preludeorg/vertebrae): A security-focused app framework for Python micro services
 - [sansyrox/robyn](https://github.com/sansyrox/robyn): Robyn is a fast and extensible async python web server with a rust runtime <https://robyn.tech>
-- [emmett-framework/granian](https://github.com/emmett-framework/granian): A Rust HTTP server for Python applications
+- [emmett-framework/emmett](https://github.com/emmett-framework/emmett): The web framework for inventors
+- 🌟📝 [emmett-framework/granian](https://github.com/emmett-framework/granian): A Rust HTTP server for Python applications
+  - Try to learn how to cooperate rust code with python `asyncio` module.
 - 📝 [falconry/falcon](https://github.com/falconry/falcon): The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale. <https://falcon.readthedocs.io/en/stable/>
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall): Remote Procedure Calls - 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & 🔜 REST over io_uring and SIMDJSON ☎️ <https://unum-cloud.github.io/ucall/>
 - 🌟 [django/asgiref](https://github.com/django/asgiref): ASGI specification and utilities <https://asgi.readthedocs.io/en/latest>
 - [spec-first/connexion](https://github.com/spec-first/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support <https://connexion.readthedocs.io/en/latest>
 - 🌟 [litestar-org/litestar](https://github.com/litestar-org/litestar): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs <https://litestar.dev/>
-- [emmett-framework/emmett](https://github.com/emmett-framework/emmett): The web framework for inventors
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users): Ready-to-use and customizable users management for FastAPI <https://fastapi-users.github.io/fastapi-users/>
 
 #### Web utils
@@ -625,6 +630,7 @@
 - [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets): A fluent design widgets library based on PyQt5
 - [rerun-io/rerun](https://github.com/rerun-io/rerun): Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui <https://rerun.io>
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib): A fast plotting library
+- [beeware/toga](https://github.com/beeware/toga): A Python native, OS native GUI toolkit. <https://toga.readthedocs.io/en/latest/>
 
 ### HTML
 

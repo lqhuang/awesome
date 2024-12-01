@@ -16,6 +16,9 @@
 - [sourcemeta/blaze](https://github.com/sourcemeta/blaze): The ultra high-performance JSON Schema validator, providing validation in the nano-second range, along with perfect compliance scores. Supports Draft 4, Draft 6, Draft 7, 2019-09 and 2020-12 <http://blaze.sourcemeta.com/>
 - [sourcemeta/jsontoolkit](https://github.com/sourcemeta/jsontoolkit): A swiss-army knife for expressive JSON programming in modern C++. Covers JSON, JSON Pointer, JSONL, and JSON Schema <https://jsontoolkit.sourcemeta.com/>
 
+- [ibireme/yyjson](https://github.com/ibireme/yyjson): The fastest JSON library in C <https://ibireme.github.io/yyjson/doc/doxygen/html/>
+  - [TkTech/py_yyjson](https://github.com/TkTech/py_yyjson): Fast and flexible Python JSON parsing (and manipulation!) built on the excellent yyjson project. <http://tkte.ch/py_yyjson/>
+
 ## UTF
 
 - [simdutf/simdutf](https://github.com/simdutf/simdutf): Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension. Part of Node.js, WebKit/Safari, Ladybird, Cloudflare Workers and Bun. <https://simdutf.github.io/simdutf/>

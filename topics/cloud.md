@@ -149,6 +149,7 @@
 - [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm): Aggregator for issues filed against kubeadm
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps): A web-based UI for deploying and managing applications in Kubernetes clusters <https://kubeapps.dev>
 - 🌟 [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray): Deploy a Production Ready Kubernetes Cluster
+- [KusionStack/karpor](https://github.com/KusionStack/karpor): Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams. <https://karpor-demo.kusionstack.io>
 
 ### CNI
 

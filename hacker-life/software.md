@@ -96,6 +96,7 @@
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac. <https://linearmouse.app>
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad): A virtual monitor for screen sharing
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace): AeroSpace is an i3-like tiling window manager for macOS <https://nikitabobko.github.io/AeroSpace/guide>
+- [macmade/Hot](https://github.com/macmade/Hot): Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues. <https://xs-labs.com/en/apps/hot/>
 
 ### Free / Paid
 

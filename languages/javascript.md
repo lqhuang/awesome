@@ -1,5 +1,10 @@
 # Javascript / Typescript
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=js,ts">
+  <img alt="js,ts" src="https://skillicons.dev/icons?theme=light&i=js,ts">
+</picture>
+
 ## Resources
 
 - [npmgraph](https://npmgraph.js.org/)
@@ -20,6 +25,7 @@
 - [The complexity of writing an efficient NodeJS Docker image](https://www.specfy.io/blog/1-efficient-dockerfile-nodejs-in-7-steps)
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): ✅ The Node.js best practices list (December 2023) <https://twitter.com/nodepractices/>
 - 🌟 [How to Write TypeScript Like a Haskeller](https://serokell.io/blog/typescript-for-haskellers)
+- [How to Prerelease an npm Package – Cloud Four](https://cloudfour.com/thinks/how-to-prerelease-an-npm-package/): Recently, we overhauled our shared ESLint config, and I needed to release an alpha version. Thankfully, it turns out to be straightforward, once you know how to do it.
 
 ## Toolchain
 
@@ -157,6 +163,7 @@
 - [Muhammad-Magdi/pgmq-js](https://github.com/Muhammad-Magdi/pgmq-js): Postgres Message Queue (PGMQ) JavaScript Client Library
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts): Turn your OpenAPI specification into a beautiful TypeScript client <https://npmjs.com/package/@hey-api/openapi-ts>
 - [nodeshift/opossum](https://github.com/nodeshift/opossum): Node.js circuit breaker - fails fast ⚡️ <https://nodeshift.dev/opossum/>
+- [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3): The fastest and simplest library for SQLite3 in Node.js.
 
 ### PDF
 
@@ -200,6 +207,7 @@
 - [withastro/starlight](https://github.com/withastro/starlight): 🌟 Build beautiful, accessible, high-performance documentation websites with Astro <https://starlight.astro.build>
 - [rawify/Fraction.js](https://github.com/rawify/Fraction.js): Fraction is a rational numbers library written in JavaScript <https://raw.org/article/rational-numbers-in-javascript/>
 - [cryptocoinjs/base-x](https://github.com/cryptocoinjs/base-x): Encode/decode any base
+- [nojacko/node-country-to-iso](https://github.com/nojacko/node-country-to-iso): Convert inconsistent country names and codes into ISO 3166-1 alpha-2. <https://www.npmjs.com/package/country-to-iso>
 
 ## Middleware
 

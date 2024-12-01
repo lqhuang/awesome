@@ -1,5 +1,10 @@
 # Haskell
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=haskell">
+  <img alt="haskell" src="https://skillicons.dev/icons?theme=light&i=haskell">
+</picture>
+
 ## Resources
 
 - [Type defaulting in Haskell](https://kseo.github.io/posts/2017-01-04-type-defaulting-in-haskell.html)

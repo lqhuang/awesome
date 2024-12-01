@@ -110,6 +110,7 @@
 - [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet): A distributed, fault-tolerant task queue <https://hatchet.run>
 - [encoredev/encore](https://github.com/encoredev/encore): Encore is the Backend Development Platform for building distributed systems and event-driven applications. <https://encore.dev>
 - [Netflix/maestro](https://github.com/Netflix/maestro): Maestro: Netflix’s Workflow Orchestrator
+- [kestra-io/kestra](https://github.com/kestra-io/kestra): ⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... <https://kestra.io>
 
 ### HPC Cluster manager / Job Scheduler
 

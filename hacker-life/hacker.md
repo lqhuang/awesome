@@ -35,6 +35,10 @@
 - [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors): LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, PyPI, PyTorch, and NPM.
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber): 💎 Amber the programming language compiled to bash <https://amber-lang.com>
 - 🌟 [elijah-potter/harper](https://github.com/elijah-potter/harper): The Grammar Checker for Developers <https://writewithharper.com>
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): 🔗 Some useful websites for programmers.
+  - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh): 程序员应该访问的最佳网站中文版
+- [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know about
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ### Misc linters / formatters
 
@@ -150,8 +154,7 @@
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer): Chinese character stroke order animations and practice quizzes <https://hanziwriter.org>
 - [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world <https://iptv-org.github.io>
 - [自己动手写 Git](https://wyag-zh.hanyujie.xyz/): 从零开始写 Git（Write Yourself a Git，简称 wyag） 的中文翻译 | Chinese translation of Write Yourself a Git
-- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): 🔗 Some useful websites for programmers.
-  - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh): 程序员应该访问的最佳网站中文版
+- [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead): the website blocklist I am maintaining
 
 ## Branding
 
@@ -162,6 +165,7 @@
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools): 收录独立开发者出海技术栈和工具
 - [fky2015/resume-ng](https://github.com/fky2015/resume-ng): A LaTeX resume template designed for optimal information density and aesthetic appeal.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! <https://rxresu.me>
+- 🌟 [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons): Showcase your skills on your Github readme or resumé with ease ✨ <https://skillicons.dev>
 
 ## ESL
 
@@ -173,6 +177,7 @@
 - [FaYin](https://fayin.love/): 练习发音的好助手, 支持美式音标、英式音标，以及字母表的发音
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm): Learning English through the method of constructing sentences with conjunctions <https://earthworm.cuixueshe.com>
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club): 《语法俱乐部》- 旋元佑 <https://llwslc.github.io/grammar-club/>
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips): An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程。 <https://byoungd.github.io/English-level-up-tips/>
 
 ## Security / Privacy
 
@@ -186,6 +191,7 @@
 - [rfc-st/humble](https://github.com/rfc-st/humble): A humble, and fast!, security-oriented HTTP headers analyzer. <https://github.com/rfc-st/humble>
 - [elceef/dnstwist](https://github.com/elceef/dnstwist): Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation <https://dnstwist.it>
 - [infinition/Bjorn](https://github.com/infinition/Bjorn): Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.
+- [Test Ad Block - Toolz](https://d3ward.github.io/toolz/adblock.html)
 
 ## Open Source Software: State, Progress and Future
 
