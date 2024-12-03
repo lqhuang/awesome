@@ -11,7 +11,7 @@
 - [typeclasses/haskell-phrasebook](https://github.com/typeclasses/haskell-phrasebook): The Haskell Phrasebook: a quick intro to Haskell via small annotated example programs <https://typeclasses.com/phrasebook>
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated): A book about category theory <https://abuseofnotation.github.io/category-theory-illustrated/>
 - [haskellfoundation/hs-opt-handbook.github.io](https://github.com/haskellfoundation/hs-opt-handbook.github.io): The Haskell Optimization Handbook <https://haskell.foundation/hs-opt-handbook.github.io/>
-- [lazear/types-and-programming-languages](https://github.com/lazear/types-and-programming-languages): Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!
+- 🌟 [lazear/types-and-programming-languages](https://github.com/lazear/types-and-programming-languages): Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!
 - [Elements of Programming](http://elementsofprogramming.com/): Decomposing programs into a system of algorithmic components
 - [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh): 手撸解释器教程《Crafting Interpreters》中文翻译
 - [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP): The Dao of Functional Programming

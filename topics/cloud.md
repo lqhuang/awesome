@@ -42,6 +42,7 @@
 - 🌟 [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
   - alternative of musl for static libc runtime links
 - [wagoodman/dive](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
+- 🌟 [amir20/dozzle](https://github.com/amir20/dozzle): Realtime log viewer for docker containers. <https://dozzle.dev/>
 
 ### OS
 

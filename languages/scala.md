@@ -339,3 +339,4 @@
 - [haifengl/smile](https://github.com/haifengl/smile): Statistical Machine Intelligence & Learning Engine <https://haifengl.github.io/>
 - [SciProgCentre/kmath](https://github.com/SciProgCentre/kmath): Kotlin mathematics extensions library
 - [dragonfly-ai/vector](https://github.com/dragonfly-ai/vector): A Scala.js Vector and Math library for image processing, scientific/information visualization, and game development.
+- 🌟 [breandan/kotlingrad](https://github.com/breandan/kotlingrad): 🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types <https://breandan.net/public/masters_thesis.pdf#page=49>

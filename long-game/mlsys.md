@@ -8,7 +8,8 @@
 - [microsoft/AI-System](https://github.com/microsoft/AI-System): System for AI Education Resource. <https://microsoft.github.io/AI-System>
 - [ML system design: 200 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml): 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
-- [mit-han-lab/parallel-computing-tutorial](https://github.com/mit-han-lab/parallel-computing-tutorial): This repository introduces several optimization techniques that can be applied to improve the parallelism of matrix multiplication.  - [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
+- [mit-han-lab/parallel-computing-tutorial](https://github.com/mit-han-lab/parallel-computing-tutorial): This repository introduces several optimization techniques that can be applied to improve the parallelism of matrix multiplication.
+- [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering): Machine Learning Engineering Guides and Tools <https://stasosphere.com/machine-learning/>
 - [srush/Autodiff-Puzzles](https://github.com/srush/Autodiff-Puzzles): This notebook contains a series of self-contained puzzles for learning about derivatives in tensor libraries.
 - [srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles): Solve puzzles. Improve your pytorch.

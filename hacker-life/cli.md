@@ -66,6 +66,7 @@
 - [ayoisaiah/f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all): rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [wolfpld/vv](https://github.com/wolfpld/vv): Terminal image viewer
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin): Human-readable ANSI sequences 🪩
 
 ## TUI applications
 

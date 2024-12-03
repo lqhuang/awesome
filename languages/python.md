@@ -631,6 +631,7 @@
 - [rerun-io/rerun](https://github.com/rerun-io/rerun): Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui <https://rerun.io>
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib): A fast plotting library
 - [beeware/toga](https://github.com/beeware/toga): A Python native, OS native GUI toolkit. <https://toga.readthedocs.io/en/latest/>
+- [pyloid/pyloid](https://github.com/pyloid/pyloid): Pyloid is the Python backend version of Electron and Tauri, providing an open-source project that allows you to easily utilize various Python integration features. With Pyloid, developing desktop applications becomes simple, enabling you to build apps by integrating Python's powerful capabilities. <https://docs.pyloid.com/>
 
 ### HTML
 
