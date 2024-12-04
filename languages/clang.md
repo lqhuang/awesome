@@ -78,6 +78,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [danmar/cppcheck](https://github.com/danmar/cppcheck): static analysis of C/C++ code <https://cppcheck.sourceforge.io/>
 - [diffblue/cbmc](https://github.com/diffblue/cbmc): C Bounded Model Checker <https://diffblue.github.io/cbmc>
   - [The C Bounded Model Checker: Criminally Underused | Hey There Buddo!](https://www.philipzucker.com/cbmc_tut/)
+- [csmith-project/creduce](https://github.com/csmith-project/creduce): C-Reduce, a C and C++ program reducer
 
 ### Test suites
 
@@ -209,6 +210,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [nihui/ruapu](https://github.com/nihui/ruapu): Detect CPU ISA features with single-file <https://github.com/nihui/ruapu>
 - [jupp0r/prometheus-cpp](https://github.com/jupp0r/prometheus-cpp): Prometheus Client Library for Modern C++
 - [gabime/spdlog](https://github.com/gabime/spdlog): Fast C++ logging library.
+- [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp): A YAML parser and emitter in C++
 
 ## Compiler beyond default Clang
 

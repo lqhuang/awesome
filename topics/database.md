@@ -26,6 +26,7 @@
 - [erikgrinaker/readings](https://github.com/erikgrinaker/readings): Interesting readings and talks on computer science
 - [Qiaolin-Yu/paper-reading](https://github.com/Qiaolin-Yu/paper-reading): A list of papers I have read.
 - [ept/hermitage](https://github.com/ept/hermitage): What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels. <http://martin.kleppmann.com/2014/11/25/hermitage-testing-the-i-in-acid.html>
+- [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 
 ### Talks
 

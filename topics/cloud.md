@@ -24,14 +24,12 @@
 - [tianon/gosu](https://github.com/tianon/gosu): Simple Go-based setuid+setgid+setgroups+exec
 - [krallin/tini](https://github.com/krallin/tini): A tiny but valid `init` for containers
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers <https://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html>
-- [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. <https://containrrr.dev/watchtower>
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers): Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. <https://katacontainers.io/ >
 - [google/gvisor](https://github.com/google/gvisor): Application Kernel for Containers <https://gvisor.dev>
 - [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless): 🥑 Language focused docker images, minus the operating system.
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs): Automatically set GOMAXPROCS to match Linux container CPU quota. <https://godoc.org/go.uber.org/automaxprocs>
 - [chainguard-images/images](https://github.com/chainguard-images/images): Public Chainguard Images <https://chainguard.dev/chainguard-images>
-- [containers/conmon](https://github.com/containers/conmon): An OCI container runtime monitor.
 - [orsinium-labs/docked](https://github.com/orsinium-labs/docked): A friendly and safe alternative to Dockefile. Write Docker images using the full power of Python. <https://docked.orsinium.dev>
 - [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner): Delete untagged image refs in Google Container Registry or Artifact Registry
 - [uber/kraken](https://github.com/uber/kraken): P2P Docker registry capable of distributing TBs of data in seconds
@@ -41,7 +39,16 @@
 - 🌟 [slimtoolkit/slim](https://github.com/slimtoolkit/slim): Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - 🌟 [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
   - alternative of musl for static libc runtime links
+
+#### Container ops
+
+- [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. <https://containrrr.dev/watchtower>
+- [containers/conmon](https://github.com/containers/conmon): An OCI container runtime monitor.
+- [containers/skopeo](https://github.com/containers/skopeo): Work with remote images registries - retrieving information, images, signing content
 - [wagoodman/dive](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
+- [bcicen/ctop](https://github.com/bcicen/ctop): Top-like interface for container metrics <https://ctop.sh/>
+- [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter): Fast container image distribution plugin with lazy pulling <https://github.com/containerd/containerd/issues/3731>
 - 🌟 [amir20/dozzle](https://github.com/amir20/dozzle): Realtime log viewer for docker containers. <https://dozzle.dev/>
 
 ### OS
@@ -81,14 +88,10 @@
 - [SukkaW/dashflare](https://github.com/SukkaW/dashflare): An unofficial Cloudflare dashboard built on top of Cloudflare API. <https://dashflare.skk.moe>
 - [DBOS](https://www.dbos.dev/): DBOS is a serverless platform that radically simplifies backend development in Python and TypeScript. Build 10x faster and scale to millions with a single click.
 
-### CLI
+### Tools
 
-- [containers/skopeo](https://github.com/containers/skopeo): Work with remote images registries - retrieving information, images, signing content
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
-- [bcicen/ctop](https://github.com/bcicen/ctop): Top-like interface for container metrics <https://ctop.sh/>
 - [homeport/dyff](https://github.com/homeport/dyff): /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [simonw/s3-credentials](https://github.com/simonw/s3-credentials): A tool for creating credentials for accessing S3 buckets <https://s3-credentials.readthedocs.io>
-- [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter): Fast container image distribution plugin with lazy pulling <https://github.com/containerd/containerd/issues/3731>
 
 ### Routing / Gateway
 
