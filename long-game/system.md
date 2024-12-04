@@ -1,5 +1,10 @@
 # System Programming
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=linux,debian">
+  <img alt="linux,debian" src="https://skillicons.dev/icons?theme=light&i=linux,debian">
+</picture>
+
 ## Readings
 
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides): A little bit about a linux kernel <https://0xax.gitbooks.io/linux-insides/content/index.html>

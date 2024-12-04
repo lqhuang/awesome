@@ -2,6 +2,11 @@
 
 Major in React ecosystem, but also include other frameworks and libraries.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=react,nextjs,tailwind,svelte">
+  <img alt="react,nextjs,tailwind,svelte" src="https://skillicons.dev/icons?theme=light&i=react,nextjs,tailwind,svelte">
+</picture>
+
 ## Resources
 
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react): A collection of awesome things regarding React ecosystem

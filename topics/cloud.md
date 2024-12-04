@@ -1,5 +1,10 @@
 # Cloud
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=docker,kubernetes,cloudflare,aws,workers">
+  <img alt="docker,kubernetes,cloudflare,aws,workers" src="https://skillicons.dev/icons?theme=light&i=docker,kubernetes,cloudflare,aws,workers">
+</picture>
+
 ## Resources
 
 - [lonegunmanb/introduction-terraform](https://github.com/lonegunmanb/introduction-terraform): Introduction to terraform <https://lonegunmanb.github.io/introduction-terraform>

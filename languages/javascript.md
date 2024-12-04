@@ -1,8 +1,8 @@
 # Javascript / Typescript
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=js,ts">
-  <img alt="js,ts" src="https://skillicons.dev/icons?theme=light&i=js,ts">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=js,ts,nodejs">
+  <img alt="js,ts,nodejs" src="https://skillicons.dev/icons?theme=light&i=js,ts,nodejs">
 </picture>
 
 ## Resources
@@ -208,6 +208,7 @@
 - [rawify/Fraction.js](https://github.com/rawify/Fraction.js): Fraction is a rational numbers library written in JavaScript <https://raw.org/article/rational-numbers-in-javascript/>
 - [cryptocoinjs/base-x](https://github.com/cryptocoinjs/base-x): Encode/decode any base
 - [nojacko/node-country-to-iso](https://github.com/nojacko/node-country-to-iso): Convert inconsistent country names and codes into ISO 3166-1 alpha-2. <https://www.npmjs.com/package/country-to-iso>
+- 🌟 [nodejs/undici](https://github.com/nodejs/undici): An HTTP/1.1 client, written from scratch for Node.js <https://nodejs.github.io/undici>
 
 ## Middleware
 
