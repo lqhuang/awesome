@@ -48,6 +48,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects <https://cssfx.netlify.com>
 - [12 Modern CSS One-Line Upgrades | Modern CSS Solutions](https://moderncss.dev/12-modern-css-one-line-upgrades/): Sometimes, improving your application CSS just takes a one-line upgrade or enhancement! Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.
 - [Modern CSS Solutions](https://moderncss.dev/): A series examining modern CSS solutions to problems Stephanie Eckles (@5t3ph), a seasoned frontend developer, has been solving for 15+ years.
+- 🌟 [lowlighter/matcha](https://github.com/lowlighter/matcha): 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps! <https://matcha.mizu.sh>
 
 ## Framework
 
@@ -229,6 +230,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [YYsuni/react18-json-view](https://github.com/YYsuni/react18-json-view): JSON viewer for react18 <https://jv.yysuni.com/>
 - [microlinkhq/react-json-view](https://github.com/microlinkhq/react-json-view): JSON viewer for React <https://react-json-view.microlink.io>
 - [uiwjs/react-json-view](https://github.com/uiwjs/react-json-view): A React component for displaying and editing javascript arrays and JSON objects. <https://uiwjs.github.io/react-json-view/>
+- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee): Effortlessly visualize JSON structures as dynamic tree diagrams <https://jsontr.ee>
 
 #### PDF
 
@@ -424,6 +426,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [typpo/quickchart](https://github.com/typpo/quickchart): Chart image and QR code web API <https://quickchart.io/>
 - [lepture/github-gist](https://github.com/lepture/github-gist): Web component for GitHub Gist <https://lab.lepture.com/github-gist/>
 - [toomuchdesign/react-minimal-pie-chart](https://github.com/toomuchdesign/react-minimal-pie-chart): 🍰 Lightweight but versatile SVG pie/donut charts for React. < 2kB gzipped. <https://toomuchdesign.github.io/react-minimal-pie-chart/index.html>
+- [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts): Performant financial charts built with HTML5 canvas <https://www.tradingview.com/lightweight-charts/>
 
 ### Graph / Network
 

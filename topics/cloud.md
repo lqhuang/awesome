@@ -41,6 +41,8 @@
 - 🌟 [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust): Horust is a supervisor / init system written in rust and designed to run inside containers. <https://federicoponzi.github.io/Horust/>
 - [nestybox/sysbox](https://github.com/nestybox/sysbox): An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. <https://hub.docker.com/r/sickcodes/docker-osx>
+- [agoda-com/macOS-vz-kubelet](https://github.com/agoda-com/macOS-vz-kubelet): Run native macOS workloads on Kubernetes
+  - [How We Integrated Native macOS Workloads with Kubernetes](https://medium.com/agoda-engineering/how-we-integrated-native-macos-workloads-with-kubernetes-b4d3c14881a0)
 - 🌟 [slimtoolkit/slim](https://github.com/slimtoolkit/slim): Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - 🌟 [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
   - alternative of musl for static libc runtime links
@@ -55,6 +57,7 @@
 - [bcicen/ctop](https://github.com/bcicen/ctop): Top-like interface for container metrics <https://ctop.sh/>
 - [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter): Fast container image distribution plugin with lazy pulling <https://github.com/containerd/containerd/issues/3731>
 - 🌟 [amir20/dozzle](https://github.com/amir20/dozzle): Realtime log viewer for docker containers. <https://dozzle.dev/>
+- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc): container image to single executable compiler
 
 ### OS
 

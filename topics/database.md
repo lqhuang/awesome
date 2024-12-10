@@ -235,6 +235,8 @@
 ## GUI
 
 - [Dataflare](https://dataflare.app/): A simple, easy-to-use database manager. Easily connect to your ClickHouse, Cloudflare D1, CockroachDB, Databend, DuckDB, libSQL, MariaDB, MySQL, PostgreSQL, QuestDB, Rqlite, SQLCipher, SQLite, SQL Server databases in Dataflare, manage Table, view Data, write SQL and run Query.
+- [outerbase/studio](https://github.com/outerbase/studio): A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. <https://studio.outerbase.com>
+- [SQLite Viewer Web App](https://sqliteviewer.app/)
 
 ## Testing
 

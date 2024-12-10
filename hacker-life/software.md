@@ -205,6 +205,7 @@
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog): Free, no-nonsense, super fast blogging.
 - 🌟 [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader): A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web <https://koodoreader.com>
 - [chrox/readest](https://github.com/chrox/readest): Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. <https://readest.com>
+- [Kareadita/Kavita](https://github.com/Kareadita/Kavita): Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. <http://www.kavitareader.com>
 
 ### Developer
 
@@ -219,6 +220,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD <https://about.gitea.com>
 - [raphamorim/rio](https://github.com/raphamorim/rio): A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. <https://raphamorim.io/rio>
 - [leaningtech/webvm](https://github.com/leaningtech/webvm): Virtual Machine for the Web <https://webvm.io>
+- [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
 
 ### Email
 

@@ -32,3 +32,4 @@
 ## Vis
 
 - [gephi/gephi-lite](https://github.com/gephi/gephi-lite): A web-based, lighter version of Gephi
+- [medialab/ipysigma](https://github.com/medialab/ipysigma): A Jupyter widget using sigma.js to render interactive networks. <https://medialab.github.io/ipysigma/demo.html>

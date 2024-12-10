@@ -62,6 +62,7 @@
   - [passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes): Resources for learning and using recursion schemes.
 - [ndmitchell/uniplate](https://github.com/ndmitchell/uniplate): Haskell library for simple, concise and fast generic operations.
 - [snowleopard/alga](https://github.com/snowleopard/alga): Algebraic graphs
+- [facebook/Haxl](https://github.com/facebook/Haxl): A Haskell library that simplifies access to remote data, such as databases or web-based services.
 
 ## Toolchains
 

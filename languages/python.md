@@ -283,6 +283,7 @@
 - [symbolic-kg/PyClause](https://github.com/symbolic-kg/PyClause): A libary for using and learning symbolic rules for knowledge graphs
 - [benruijl/symbolica](https://github.com/benruijl/symbolica): A modern computer algebra library for Python and Rust. <https://symbolica.io>
 - [wilson-labs/cola](https://github.com/wilson-labs/cola): Compositional Linear Algebra
+- [nv-legate/cupynumeric](https://github.com/nv-legate/cupynumeric): An Aspiring Drop-In Replacement for NumPy at Scale <https://docs.nvidia.com/cupynumeric>
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -304,6 +305,7 @@
 - [dimastbk/python-calamine](https://github.com/dimastbk/python-calamine): Python binding for Rust's library for reading excel and odf file - calamine. <https://pypi.org/project/python-calamine/>
 - [delftdata/valentine](https://github.com/delftdata/valentine): A tool facilitating matching for any dataset discovery method. Also, an extensible experiment suite for state-of-the-art schema matching methods.
 - [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals): Lightweight and extensible compatibility layer between dataframe libraries! <https://narwhals-dev.github.io/narwhals/>
+- [fireducks-dev/fireducks](https://github.com/fireducks-dev/fireducks): Create an issue on FireDucks
 
 ### Jupyter ecosystem
 
@@ -364,6 +366,9 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr): Proxy server to bypass Cloudflare protection
 - [florimondmanca/httpx-sse](https://github.com/florimondmanca/httpx-sse): Consume Server-Sent Event (SSE) messages with HTTPX
 - [snok/asgi-correlation-id](https://github.com/snok/asgi-correlation-id): Request ID propagation for ASGI apps
+- [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
+- [heptapod.host/saajns/hermes](https://heptapod.host/saajns/hermes): Python caching library with tag-based invalidation and dogpile effect prevention
+  - https://pypi.org/project/HermesCache/
 
 ### DB clients and SQL utils
 
@@ -444,7 +449,6 @@
 - 🌟 [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict): 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
 - [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
-- [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 - [bswck/lazy_importing](https://github.com/bswck/lazy_importing): Lazy imports in Python. <https://lazy-importing.readthedocs.io/en/latest/>
 - 🌟 [tox-dev/filelock](https://github.com/tox-dev/filelock): A platform-independent file lock for Python. <https://py-filelock.readthedocs.io>
 - 🌟 [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser): python parser for human readable dates
@@ -459,6 +463,7 @@
 - [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic): Entity relationship diagrams for Python data model classes like Pydantic <https://erdantic.drivendata.org/>
 - 🌟 [pyNVML](https://pypi.org/project/nvidia-ml-py/): Python Bindings for the NVIDIA Management Library. This is a wrapper around the NVML library. For information about the NVML library, see the NVML developer page http://developer.nvidia.com/nvidia-management-library-nvml
 - [channable/heliclockter](https://github.com/channable/heliclockter): Helicopter parent to your datetime objects <https://www.channable.com/tech/heliclockter-timezone-aware-datetimes-in-python>
+- 🌟 [pydoit/doit](https://github.com/pydoit/doit): CLI task management & automation tool <http://pydoit.org>
 
 ### Configuration
 
@@ -632,6 +637,7 @@
 - [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib): A fast plotting library
 - [beeware/toga](https://github.com/beeware/toga): A Python native, OS native GUI toolkit. <https://toga.readthedocs.io/en/latest/>
 - [pyloid/pyloid](https://github.com/pyloid/pyloid): Pyloid is the Python backend version of Electron and Tauri, providing an open-source project that allows you to easily utilize various Python integration features. With Pyloid, developing desktop applications becomes simple, enabling you to build apps by integrating Python's powerful capabilities. <https://docs.pyloid.com/>
+- [r0x0r/pywebview](https://github.com/r0x0r/pywebview): Build GUI for your Python program with JavaScript, HTML, and CSS <https://pywebview.flowrl.com>
 
 ### HTML
 
