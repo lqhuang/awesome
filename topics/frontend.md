@@ -25,6 +25,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [Learn web development](https://web.dev/learn)
     - [Learn CSS](https://web.dev/learn/css): An evergreen CSS course and reference to level up your web styling expertise.
 
+### Readings
+
+- [Ref Callbacks, React 19 and the Compiler | TkDodo's blog](https://tkdodo.eu/blog/ref-callbacks-react-19-and-the-compiler): Reflecting on useCallback, how the Compiler changed my thinking about it, and what React 19 has in store for Ref Callbacks...
+
 ### Tutorials
 
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners): 24 Lessons, 12 Weeks, Get Started as a Web Developer <https://microsoft.github.io/Web-Dev-For-Beginners/>
@@ -81,6 +85,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter): Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. <https://next-saas-start.vercel.app>
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit): The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included. <https://starter.rasmic.xyz/>
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter): Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️ <https://next-ts.joaopedro.dev>
+- [al1abb/invoify](https://github.com/al1abb/invoify): An invoice generator app built using Next.js, Typescript, and Shadcn <https://invoify.vercel.app>
 
 ### UI
 
@@ -211,6 +216,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [glidejs/glide](https://github.com/glidejs/glide): A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more <https://glidejs.com>
 - [simonwep/selection](https://github.com/simonwep/selection): ✨ Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks! <https://simonwep.github.io/selection>
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu): 🍔 An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations <http://negomi.github.io/react-burger-menu/>
+- [davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners): A collection of loading spinner components for react <https://www.davidhu.io/react-spinners>
 
 #### Shadcn UI eco system
 
@@ -427,6 +433,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [lepture/github-gist](https://github.com/lepture/github-gist): Web component for GitHub Gist <https://lab.lepture.com/github-gist/>
 - [toomuchdesign/react-minimal-pie-chart](https://github.com/toomuchdesign/react-minimal-pie-chart): 🍰 Lightweight but versatile SVG pie/donut charts for React. < 2kB gzipped. <https://toomuchdesign.github.io/react-minimal-pie-chart/index.html>
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts): Performant financial charts built with HTML5 canvas <https://www.tradingview.com/lightweight-charts/>
+- [paper-design/shaders](https://github.com/paper-design/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper <https://paper.design>
 
 ### Graph / Network
 

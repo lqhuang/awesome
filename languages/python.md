@@ -284,6 +284,7 @@
 - [benruijl/symbolica](https://github.com/benruijl/symbolica): A modern computer algebra library for Python and Rust. <https://symbolica.io>
 - [wilson-labs/cola](https://github.com/wilson-labs/cola): Compositional Linear Algebra
 - [nv-legate/cupynumeric](https://github.com/nv-legate/cupynumeric): An Aspiring Drop-In Replacement for NumPy at Scale <https://docs.nvidia.com/cupynumeric>
+- [shapely/shapely](https://github.com/shapely/shapely): Manipulation and analysis of geometric objects <https://shapely.readthedocs.io/en/stable/>
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -394,6 +395,7 @@
 - 🌟 [unum-cloud/ustore](https://github.com/unum-cloud/ustore): Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with NetworkX and Pandas interfaces, and bindings for C 99, C++ 17, Python 3, Java, GoLang 🗄️ <https://unum-cloud.github.io/ustore/>
 - [kylebarron/arro3](https://github.com/kylebarron/arro3): A minimal Python library for Apache Arrow, connecting to the Rust arrow crate <https://kylebarron.dev/arro3/core>
 - [sauljabin/kaskade](https://github.com/sauljabin/kaskade): kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style! <https://github.com/sauljabin/kaskade>
+- [aio-libs/yarl](https://github.com/aio-libs/yarl): Yet another URL library <https://yarl.readthedocs.io>
 
 ### API clients
 
@@ -427,43 +429,26 @@
 - [Yiling-J/theine](https://github.com/Yiling-J/theine): high performance in-memory cache
 - [Yiling-J/cacheme](https://github.com/Yiling-J/cacheme): Asyncio cache framework for Python
 
-### Utils
+### File operations
 
-- [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python module for decorators, wrappers and monkey patching.
-- [Tinche/tightwrap](https://github.com/Tinche/tightwrap): A type-safe `functools.wraps`.
-- 🌟 [hynek/stamina](https://github.com/hynek/stamina): Good retries made easy.
-- [litl/backoff](https://github.com/litl/backoff): Python library providing function decorators for configurable backoff and retry
-- [nficano/humps](https://github.com/nficano/humps): Convert strings (and dictionary keys) between snake case, camel case and pascal case in Python. Inspired by Humps for Node <http://humps.readthedocs.io>
-- [jpvanhal/inflection](https://github.com/jpvanhal/inflection): A port of Ruby on Rails' inflector to Python <https://inflection.readthedocs.io>
-- [aio-libs/yarl](https://github.com/aio-libs/yarl): Yet another URL library <https://yarl.readthedocs.io>
-- [T-baby/pondpond](https://github.com/T-baby/pondpond): Pond is a high performance object-pooling library for Python <https://qin.news/pond>
-- [keleshev/schema](https://github.com/keleshev/schema): Schema validation just got Pythonic
-- [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle): A Python module to customize the process title
-- [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task scheduling library for Python
-- [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans. <https://schedule.readthedocs.io/>
-- [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️ <https://glom.readthedocs.io>
-- 🌟 [kiorky/croniter](https://github.com/kiorky/croniter): croniter provides iteration for the datetime object with a cron like format.
-- 🌟 [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever): ⏰ Modern datetime library for Python, written in Rust <https://whenever.rtfd.io>
-- [ZechCodes/Bevy](https://github.com/ZechCodes/Bevy): A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. <https://blog.zech.codes/bevy-v2>
-- [pradyunsg/diagnostic](https://github.com/pradyunsg/diagnostic): `diagnostic` makes it easier to build command line tools with great error reporting. <https://diagnostic.readthedocs.io/en/latest/>
-- 🌟 [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict): 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
-- [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
-- [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
-- [bswck/lazy_importing](https://github.com/bswck/lazy_importing): Lazy imports in Python. <https://lazy-importing.readthedocs.io/en/latest/>
 - 🌟 [tox-dev/filelock](https://github.com/tox-dev/filelock): A platform-independent file lock for Python. <https://py-filelock.readthedocs.io>
-- 🌟 [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser): python parser for human readable dates
 - [cpburnz/python-pathspec](https://github.com/cpburnz/python-pathspec): Utility library for gitignore style pattern matching of file paths.
 - 🌟 [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec): A specification that python filesystems should adhere to.
-- [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library. <http://paramiko.org>
-- 🌟 [sethmlarson/truststore](https://github.com/sethmlarson/truststore): Verify certificates using OS trust stores <https://truststore.readthedocs.io>
-- [bswck/slothy](https://github.com/bswck/slothy): Super-easy lazy importing in pure Python. <https://bswck.github.io/slothy/>
-- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown): A Python implementation of John Gruber’s Markdown with Extension support. <https://python-markdown.github.io/>
-  - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions): Extensions for Python Markdown <https://facelessuser.github.io/pymdown-extensions/>
-- 🌟 [laike9m/pdir2](https://github.com/laike9m/pdir2): Pretty dir() printing with joy:beer:
-- [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic): Entity relationship diagrams for Python data model classes like Pydantic <https://erdantic.drivendata.org/>
-- 🌟 [pyNVML](https://pypi.org/project/nvidia-ml-py/): Python Bindings for the NVIDIA Management Library. This is a wrapper around the NVML library. For information about the NVML library, see the NVML developer page http://developer.nvidia.com/nvidia-management-library-nvml
+- [developmentseed/obstore](https://github.com/developmentseed/obstore): Simple, fast integration with Amazon S3, Google Cloud Storage, Azure Storage, and S3-compliant APIs like Cloudflare R2 <https://developmentseed.org/obstore>
+- [open-io/oio-sds](https://github.com/open-io/oio-sds): High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift <https://www.openio.io>
+
+### Retry
+
+- 🌟 [hynek/stamina](https://github.com/hynek/stamina): Good retries made easy.
+- [litl/backoff](https://github.com/litl/backoff): Python library providing function decorators for configurable backoff and retry
+
+### Time / Scheduling
+
+- [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task scheduling library for Python
+- [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans. <https://schedule.readthedocs.io/>
+- 🌟 [kiorky/croniter](https://github.com/kiorky/croniter): croniter provides iteration for the datetime object with a cron like format.
+- 🌟 [scrapinghub/dateparser](https://github.com/scrapinghub/dateparser): python parser for human readable dates
 - [channable/heliclockter](https://github.com/channable/heliclockter): Helicopter parent to your datetime objects <https://www.channable.com/tech/heliclockter-timezone-aware-datetimes-in-python>
-- 🌟 [pydoit/doit](https://github.com/pydoit/doit): CLI task management & automation tool <http://pydoit.org>
 
 ### Configuration
 
@@ -522,6 +507,8 @@
 - [crdoconnor/strictyaml](https://github.com/crdoconnor/strictyaml): Type-safe YAML parser and validator. <https://hitchdev.com/strictyaml/>
   - [The yaml document from hell](https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell)
 - [xmlsec/python-xmlsec](https://github.com/xmlsec/python-xmlsec): Python bindings for the XML Security Library.
+- [keleshev/schema](https://github.com/keleshev/schema): Schema validation just got Pythonic
+- [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic): Entity relationship diagrams for Python data model classes like Pydantic <https://erdantic.drivendata.org/>
 
 ### Logging
 
@@ -541,6 +528,33 @@
 - [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython): Rust <-> Python bindings
 - [mityax/rustimport](https://github.com/mityax/rustimport): Import Rust source files directly from Python!
 - [cloudflare/stpyv8](https://github.com/cloudflare/stpyv8): Python 3 and JavaScript interoperability. Successor To PyV8 (https://github.com/flier/pyv8)
+
+### Utils
+
+- [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python module for decorators, wrappers and monkey patching.
+- [Tinche/tightwrap](https://github.com/Tinche/tightwrap): A type-safe `functools.wraps`.
+- [nficano/humps](https://github.com/nficano/humps): Convert strings (and dictionary keys) between snake case, camel case and pascal case in Python. Inspired by Humps for Node <http://humps.readthedocs.io>
+- [jpvanhal/inflection](https://github.com/jpvanhal/inflection): A port of Ruby on Rails' inflector to Python <https://inflection.readthedocs.io>
+- [T-baby/pondpond](https://github.com/T-baby/pondpond): Pond is a high performance object-pooling library for Python <https://qin.news/pond>
+- [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle): A Python module to customize the process title
+- [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️ <https://glom.readthedocs.io>
+- 🌟 [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever): ⏰ Modern datetime library for Python, written in Rust <https://whenever.rtfd.io>
+- [ZechCodes/Bevy](https://github.com/ZechCodes/Bevy): A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. <https://blog.zech.codes/bevy-v2>
+- [pradyunsg/diagnostic](https://github.com/pradyunsg/diagnostic): `diagnostic` makes it easier to build command line tools with great error reporting. <https://diagnostic.readthedocs.io/en/latest/>
+- [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict): 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
+- 🌟 [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
+- [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
+- [bswck/lazy_importing](https://github.com/bswck/lazy_importing): Lazy imports in Python. <https://lazy-importing.readthedocs.io/en/latest/>
+- [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library. <http://paramiko.org>
+- 🌟 [sethmlarson/truststore](https://github.com/sethmlarson/truststore): Verify certificates using OS trust stores <https://truststore.readthedocs.io>
+- [bswck/slothy](https://github.com/bswck/slothy): Super-easy lazy importing in pure Python. <https://bswck.github.io/slothy/>
+- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown): A Python implementation of John Gruber’s Markdown with Extension support. <https://python-markdown.github.io/>
+  - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions): Extensions for Python Markdown <https://facelessuser.github.io/pymdown-extensions/>
+- 🌟 [laike9m/pdir2](https://github.com/laike9m/pdir2): Pretty dir() printing with joy:beer:
+- 🌟 [pyNVML](https://pypi.org/project/nvidia-ml-py/): Python Bindings for the NVIDIA Management Library. This is a wrapper around the NVML library. For information about the NVML library, see the NVML developer page http://developer.nvidia.com/nvidia-management-library-nvml
+- 🌟 [pydoit/doit](https://github.com/pydoit/doit): CLI task management & automation tool <http://pydoit.org>
+- [JohannesBuchner/imagehash](https://github.com/JohannesBuchner/imagehash): A Python Perceptual Image Hashing Module
+- [fgmacedo/python-statemachine](https://github.com/fgmacedo/python-statemachine): Python Finite State Machines made easy.
 
 ## Compilers
 
@@ -627,6 +641,12 @@
   - [JosephBARBIERDARNAL/pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes): A large (+2500) collection of color maps for Python <https://python-graph-gallery.com/color-palette-finder/>
   - [1313e/CMasher](https://github.com/1313e/CMasher): Scientific colormaps for making accessible, informative and 'cmashing' plots <https://cmasher.readthedocs.io>
   - [matplotlib/cmocean](https://github.com/matplotlib/cmocean): Colormap setup for standardizing commonly-plotting oceanographic variables.
+
+### TUI
+
+- [Textualize/textual](https://github.com/Textualize/textual): The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. <https://textual.textualize.io/>
+- [patrick91/rich-toolkit](https://github.com/patrick91/rich-toolkit): Opinionated components for Rich
+- [ovh/tygenie](https://github.com/ovh/tygenie): Tygenie: Opsgenie Terminal UI
 
 ### GUI
 

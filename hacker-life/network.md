@@ -23,6 +23,7 @@
 - [networktocode/awesome-network-automation](https://github.com/networktocode/awesome-network-automation): Curated Awesome list about Network Automation
 - [espoal/awesome-iouring](https://github.com/espoal/awesome-iouring): Delightful io_uring packages and resources
 - [curl/everything-curl](https://github.com/curl/everything-curl): The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. <https://everything.curl.dev/>
+- [Linux Network Performance Ultimate Guide | kiennt26](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/): Author: Kien Nguyen <kiennt2609@gmail.com> A minimal Hugo theme with Tailwind CSS
 
 ## Libraries
 

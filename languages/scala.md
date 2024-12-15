@@ -101,6 +101,7 @@
 - [lightbend/mima](https://github.com/lightbend/mima): A tool for catching binary incompatibility in Scala
 - [wartremover/wartremover](https://github.com/wartremover/wartremover): Flexible Scala code linting tool <https://www.wartremover.org>
 - [shardulc/tasty-interpreter](https://github.com/shardulc/tasty-interpreter): Reference interpreter for TASTy, the Scala 3 interchange format
+- [epfl-lara/bolts](https://github.com/epfl-lara/bolts): Bolts: Stainless Verified Scala Examples
 
 ### Cross platform
 
@@ -253,6 +254,7 @@
 - [VirtusLab/iskra](https://github.com/VirtusLab/iskra): Typesafe wrapper for Apache Spark DataFrame API <https://virtuslab.github.io/iskra/>
 - [ComputeNode/scalag](https://github.com/ComputeNode/scalag): Multi-platform GPGPU computations with Scala, seamlessly 🚀
 - [Comcast/ip4s](https://github.com/Comcast/ip4s): Defines immutable, safe data structures for describing IP addresses, multicast joins, socket addresses and similar IP & network related data types
+- [lemonlabsuk/scala-uri](https://github.com/lemonlabsuk/scala-uri): Simple scala library for building and parsing URIs
 
 ## Frameworks
 

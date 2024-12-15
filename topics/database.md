@@ -11,6 +11,7 @@
 - [postgres-ai/postgres-howtos](https://github.com/postgres-ai/postgres-howtos): Postgres HowTo articles
 - [kvko/sqlmap-wiki-zhcn](https://github.com/kvko/sqlmap-wiki-zhcn): 可能是最完整的 sqlmap 中文文档。 <https://sqlmap.highlight.ink>
 - [ben-n93/SQL-tips-and-tricks](https://github.com/ben-n93/SQL-tips-and-tricks): SQL tips and tricks
+- [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything): How to reduce complexity and move faster? Just Postgres for everything.
 
 ### Books
 

@@ -31,6 +31,7 @@
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss. <http://paperswelove.org/>
 - [mathematical-tours/mathematical-tours.github.io](https://github.com/mathematical-tours/mathematical-tours.github.io): Site web of the Mathematical Tours
+- [Jason2Brownlee/MachineLearningMischief](https://github.com/Jason2Brownlee/MachineLearningMischief): Machine Learning Mischief: Examples from the dark side of data science
 
 ## Books
 

@@ -27,6 +27,8 @@
 - [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models <https://netron.app>
 - [cuda-mode/awesomeMLSys](https://github.com/cuda-mode/awesomeMLSys): An ML Systems Onboarding list
 - [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream): CUDA related news and material links
+- 🌟 [AI-Hypercomputer/gpu-recipes](https://github.com/AI-Hypercomputer/gpu-recipes): Recipes for reproducing training and serving benchmarks for large machine learning models using GPUs on Google Cloud.
+- [GPU Glossary | Modal](https://modal.com/gpu-glossary)
 
 ### Readings
 
@@ -99,6 +101,12 @@
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq): Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq): Repo for external large-scale work
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+- [facebookresearch/DiT](https://github.com/facebookresearch/DiT): Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
+- [facebookresearch/lingua](https://github.com/facebookresearch/lingua): Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
+- [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching): A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities. <http://facebookresearch.github.io/flow_matching>
+- [facebookresearch/chai](https://github.com/facebookresearch/chai): CHAI is a library for dynamic pruning of attention heads for efficient LLM inference.
+- [facebookresearch/Lyapunov](https://github.com/facebookresearch/Lyapunov): PyTorch original implementation of "Lyapunov functions a long-standing open problem in mathematics, with symbolic transformers" (NeurIPS 2024).
+
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor): Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax): Model parallel transformers in JAX and Haiku
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax): This repository contains optimised JAX code for OpenAI's Whisper Model, largely built on the 🤗 Hugging Face Transformers Whisper implementation. Compared to OpenAI's PyTorch code, Whisper JAX runs over 70x faster, making it the fastest Whisper implementation available.
@@ -118,13 +126,11 @@
 - 🌟 [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast): Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
   - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
   - [Horace He (@cHHillee)'s threads about gpt-fast](https://twitter.com/cHHillee/status/1730293330213531844)
-- [facebookresearch/DiT](https://github.com/facebookresearch/DiT): Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 - [crabml/crabml](https://github.com/crabml/crabml): crabml is an ongoing experiment that aims to reimplement GGML using Rust.
 - [shawntan/scattermoe](https://github.com/shawntan/scattermoe): Triton-based implementation of Sparse Mixture of Experts.
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens): Tile primitives for speedy kernels
   - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 - [microsoft/vattention](https://github.com/microsoft/vattention): Dynamic Memory Management for Serving LLMs without PagedAttention
-- [facebookresearch/lingua](https://github.com/facebookresearch/lingua): Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
 
 ### Inference engine / large-scale deployment
 
@@ -267,6 +273,7 @@
 - [jax-ml/coix](https://github.com/jax-ml/coix): Inference Combinators in JAX <https://coix.readthedocs.io/en/latest/>
 - [jax-ml/bayeux](https://github.com/jax-ml/bayeux): State of the art inference for your bayesian models. <https://jax-ml.github.io/bayeux/>
 - [jax-ml/jax-triton](https://github.com/jax-ml/jax-triton): jax-triton contains integrations between JAX and OpenAI Triton
+- [jax-ml/jax-ai-stack](https://github.com/jax-ml/jax-ai-stack): No description, website, or topics provided.
 - [vicariousinc/PGMax](https://github.com/vicariousinc/PGMax): Loopy belief propagation for factor graphs on discrete variables, in JAX! <https://pgmax.readthedocs.io>
 - [probml/dynamax](https://github.com/probml/dynamax): State Space Models library in JAX <https://probml.github.io/dynamax>
 - [probml/sts-jax](https://github.com/probml/sts-jax): Structural Time Series in JAX
@@ -299,6 +306,7 @@
 - [brentyi/jaxlie](https://github.com/brentyi/jaxlie): Rigid transforms + Lie groups in JAX
 - [pymc-devs/pytensor](https://github.com/pymc-devs/pytensor): PyTensor allows you to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays. <https://pytensor.readthedocs.io>
 - [pnkraemer/matfree](https://github.com/pnkraemer/matfree): Matrix-free linear algebra in JAX. <https://pnkraemer.github.io/matfree/>
+- [deepmodeling/DMFF](https://github.com/deepmodeling/DMFF): DMFF (Differentiable Molecular Force Field) is a Jax-based python package that provides a full differentiable implementation of molecular force field models.
 
 ### DeepMind specialization
 
@@ -328,17 +336,21 @@
 
 - [google/flax](https://github.com/google/flax): Flax is a neural network library for JAX that is designed for flexibility. <https://flax.readthedocs.io>
 - 🌟 [google/trax](https://github.com/google/trax): Trax — Deep Learning with Clear Code and Speed
-- [google/maxtext](https://github.com/google/maxtext): A simple, performant and scalable Jax LLM!
-- [google/maxdiffusion](https://github.com/google/maxdiffusion): MaxDiffusion is a Latent Diffusion model written in pure Python/Jax and targeting Google Cloud TPUs.
 - [google/jaxopt](https://github.com/google/jaxopt): Hardware accelerated, batchable and differentiable optimizers in JAX. <https://jaxopt.github.io>
 - [google/orbax](https://github.com/google/orbax): Orbax provides common utility libraries for JAX users. <https://orbax.readthedocs.io/>
 - [google/brax](https://github.com/google/brax): Massively parallel rigidbody physics simulation on accelerator hardware.
 - [google/paxml](https://github.com/google/paxml): Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates.
-  - [google/praxis](https://github.com/google/praxis): No description, website, or topics provided. This is not an officially supported Google product.
+- [google/praxis](https://github.com/google/praxis): No description, website, or topics provided. This is not an officially supported Google product.
+- [google/maxtext](https://github.com/google/maxtext): A simple, performant and scalable Jax LLM!
+- [AI-Hypercomputer/JetStream](https://github.com/AI-Hypercomputer/JetStream): JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
+- [google/maxdiffusion](https://github.com/google/maxdiffusion): MaxDiffusion is a Latent Diffusion model written in pure Python/Jax and targeting Google Cloud TPUs.
+- [AI-Hypercomputer/maxdiffusion](https://github.com/AI-Hypercomputer/maxdiffusion): No description, website, or topics provided.
 - [google-research/discs](https://github.com/google-research/discs): DISCS: The code base for the Benchmark for Discrete Sampling
 - [google-research/gpax](https://github.com/google-research/gpax): Gaussian processes in Jax.
 - [google-research/e3x](https://github.com/google-research/e3x): E3x is a JAX library for constructing efficient E(3)-equivariant deep learning architectures built on top of Flax.
 - [google-research/scenic](https://github.com/google-research/scenic): Scenic: A Jax Library for Computer Vision Research and Beyond
+- [google-research/kauldron](https://github.com/google-research/kauldron): Modular, scalable library to train ML models <https://kauldron.readthedocs.io/>
+- [google/ml_collections](https://github.com/google/ml_collections): ML Collections is a library of Python Collections designed for ML use cases. <https://ml-collections.readthedocs.io/>
 
 ## Libraries
 
@@ -378,6 +390,7 @@
 - [google/tensorstore](https://github.com/google/tensorstore): Library for reading and writing large multi-dimensional arrays. <https://google.github.io/tensorstore/>
 - [mlcommons/croissant](https://github.com/mlcommons/croissant): Croissant is a high-level format for machine learning datasets that brings together four rich layers. <https://mlcommons.org/croissant>
 - [facebookresearch/spdl](https://github.com/facebookresearch/spdl): Scalable and Performant Data Loading
+- [google/grain](https://github.com/google/grain): Library for reading and processing ML training data. <https://google-grain.readthedocs.io>
 
 ## Utils
 
@@ -396,10 +409,8 @@
 - [google/fiddle](https://github.com/google/fiddle): Fiddle is a Python-first configuration library particularly well suited to ML applications. Fiddle enables deep configurability of parameters in a program, while allowing configuration to be expressed in readable and maintainable Python code.
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI): A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications. <https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html>
 - [dlwh/jax_sourceror](https://github.com/dlwh/jax_sourceror): Turn jitted jax functions back into python source code
-- [pytorch/PiPPy](https://github.com/pytorch/PiPPy): Pipeline Parallelism for PyTorch
-- [google/ml_collections](https://github.com/google/ml_collections): ML Collections is a library of Python Collections designed for ML use cases. <https://ml-collections.readthedocs.io/>
-- [google/grain](https://github.com/google/grain): Grain is a library for reading data for training and evaluating JAX models. It's open source, fast and deterministic.
 - [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector <https://pypi.org/project/jax-smi/>
+- [pytorch/PiPPy](https://github.com/pytorch/PiPPy): Pipeline Parallelism for PyTorch
 - [fastai/fastcore](https://github.com/fastai/fastcore): Python supercharged for the fastai library <http://fastcore.fast.ai>
 - [leptonai/gpud](https://github.com/leptonai/gpud): GPUd is designed to ensure GPU efficiency and reliability by actively monitoring GPUs and effectively managing AI/ML workloads.
 
@@ -430,3 +441,13 @@
 - [gordicaleksa/get-started-with-JAX](https://github.com/gordicaleksa/get-started-with-JAX): The purpose of this repo is to make it easy to get started with JAX, Flax, and Haiku. It contains my "Machine Learning with JAX" series of tutorials (YouTube videos and Jupyter Notebooks) as well as the content I found useful while learning about the JAX ecosystem. <https://www.youtube.com/c/TheAIEpiphany/>
 - [kingoflolz/swarm-jax](https://github.com/kingoflolz/swarm-jax): Swarm training framework using Haiku + JAX + Ray for layer parallel transformer language models on unreliable, heterogeneous nodes
 - [smolorg/smolgrad](https://github.com/smolorg/smolgrad): small auto-grad engine inspired from Karpathy's micrograd and PyTorch
+- [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt): NanoGPT (124M) in 5 minutes
+  - Modernized architecture: Rotary embeddings, QK-Norm, and ReLU^2.
+  - New optimizer: Muon - Momentum Orthogonalized by Newton-schulz [standalone implementation].
+  - Untied head from embedding.
+  - Projection and classification layers initialized to zero (muP-like).
+  - Architectural shortcuts: value residual and embedding shortcut (partially following https://arxiv.org/abs/2410.17897).
+  - Momentum warmup.
+  - Tanh soft logit capping (following Gemma 2).
+  - FlexAttention with window size warmup.
+  - Extra embeddings which are fed into intermediate attention layers.

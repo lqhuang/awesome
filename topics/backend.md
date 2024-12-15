@@ -55,7 +55,9 @@
 - [Clerk](https://github.com/clerkinc): More than authentication - Complete user management <https://clerk.dev/>
 - [Auth0](https://github.com/auth0): Next.js SDK for signing in with Auth0 <https://auth0.com>
 - 🌟 [better-auth/better-auth](https://github.com/better-auth/better-auth): The most comprehensive authentication library for TypeScript <https://better-auth.com>
+- 🌟 [openauthjs/openauth](https://github.com/openauthjs/openauth): ▦ Universal, standards-based auth provider. <https://openauth.js.org>
 - [lucia-auth/lucia](https://github.com/lucia-auth/lucia): Authentication, simple and clean <https://lucia-auth.com>
+- [Oslo](https://github.com/oslo-project): Simple auth packages for the entire JS ecosystem. <https://oslojs.dev/>
 - [keycloak/keycloak](https://github.com/keycloak/keycloak): Open Source Identity and Access Management For Modern Applications and Services <https://www.keycloak.org>
 - [logto-io/logto](https://github.com/logto-io/logto): 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps. <https://logto.io>
 - [boxyhq/jackson](https://github.com/boxyhq/jackson): 🔥 Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via the SCIM 2.0 protocol for automatic user and group provisioning/de-provisioning. 🤩 <https://boxyhq.com/docs/jackson/overview>

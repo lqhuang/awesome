@@ -69,7 +69,9 @@
 - [writethedocs/www](https://github.com/writethedocs/www): The main website for Write the Docs. <http://www.writethedocs.org>
 - [wevm/vocs](https://github.com/wevm/vocs): Minimal Documentation Framework, powered by React + Vite. <https://vocs.dev>
 - [speced/bikeshed](https://github.com/speced/bikeshed): 🚲 A preprocessor for anyone writing specifications that converts source files into actual specs. <https://speced.github.io/bikeshed>
+- [withastro/starlight](https://github.com/withastro/starlight): 🌟 Build beautiful, accessible, high-performance documentation websites with Astro <https://starlight.astro.build>
 - [Mintlify](https://mintlify.com/): The documentation you want, effortlessly
+- [Driver.ai](https://www.driver.ai/): Decode technology, instantly. Create high-quality tech docs and onboard twice as fast.
 
 ### DevOps
 
@@ -111,6 +113,7 @@
 - [encoredev/encore](https://github.com/encoredev/encore): Encore is the Backend Development Platform for building distributed systems and event-driven applications. <https://encore.dev>
 - [Netflix/maestro](https://github.com/Netflix/maestro): Maestro: Netflix’s Workflow Orchestrator
 - [kestra-io/kestra](https://github.com/kestra-io/kestra): ⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... <https://kestra.io>
+- [activepieces/activepieces](https://github.com/activepieces/activepieces): Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative <https://www.activepieces.com>
 
 ### HPC Cluster manager / Job Scheduler
 
@@ -141,6 +144,7 @@
 - [Hydrozen.io](https://hydrozen.io/): Monitor availability of your websites, Cronjobs, APIs, Domains, SSL etc.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks): Open-source cron job and background task monitoring service, written in Python & Django <https://healthchecks.io>
 - [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime): BlueWave Uptime is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful visualizations. Get powerful insights and proactive alerts to keep your services running smoothly. <https://uptime-demo.bluewavelabs.ca/>
+- [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate): Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. <https://checkmate-demo.bluewavelabs.ca/>
 
 ### Observability: Logging / Metrics / APM
 

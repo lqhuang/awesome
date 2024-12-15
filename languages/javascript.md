@@ -46,6 +46,8 @@
 - 🌟 [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs <https://openapi-ts.dev>
 - [vltpkg/vltpkg](https://github.com/vltpkg/vltpkg): the vlt monorepo <https://vlt.sh>
   - awesome built-in vis for deps
+- [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm scripts to make them smarter and more efficient.
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates): Find newer versions of package dependencies than what your package.json allows
 
 ### Bundler
 
@@ -104,6 +106,7 @@
 ### Profile
 
 - [discoveryjs/cpupro](https://github.com/discoveryjs/cpupro): Rethinking of CPU profile analysis <https://discoveryjs.github.io/cpupro/>
+- [Perf Link](https://perf.link/)
 
 ## Functional libraries
 
@@ -111,6 +114,10 @@
 
 - [kentcdodds/match-sorter](https://github.com/kentcdodds/match-sorter): Simple, expected, and deterministic best-match sorting of an array in JavaScript <https://npm.im/match-sorter>
 - [lovell/farmhash](https://github.com/lovell/farmhash): Node.js implementation of FarmHash, Google's family of high performance hash functions
+- [mixpanel/fuzzbunny](https://github.com/mixpanel/fuzzbunny): Fast fuzzy string searching/matching/highlighting
+- [farzher/fuzzysort](https://github.com/farzher/fuzzysort): Fast SublimeText-like fuzzy search for JavaScript. <https://rawgit.com/farzher/fuzzysort/master/test/test.html>
+- [henrygd/queue](https://github.com/henrygd/queue): Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster
+- [m31coding/fuzzy-search](https://github.com/m31coding/fuzzy-search): A fast, accurate and multilingual fuzzy search library for the frontend.
 
 ### SerDe / Schema
 
@@ -124,6 +131,7 @@
 - [Effect-TS/schema](https://github.com/Effect-TS/schema): Modeling the schema of data structures as first-class values <https://effect-ts.github.io/schema>
 - 🌟 [blitz-js/superjson](https://github.com/blitz-js/superjson): Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - 🌟 [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es): Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
+- [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
 
 ### Parser
 
@@ -153,6 +161,8 @@
 - [Hexagon/croner](https://github.com/Hexagon/croner): Trigger functions or evaluate cron expressions in JavaScript or TypeScript. No dependencies. Most features. Node. Deno. Bun. Browser. <https://croner.56k.guru>
 - [formkit/tempo](https://github.com/formkit/tempo): 📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript. <https://tempo.formkit.com>
 - [vercel/little-date](https://github.com/vercel/little-date): A friendly formatter to make date ranges small & sweet
+- [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions <http://bradymholt.github.io/cRonstrue/>
+- [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule): A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
 
 ### Backend
 
@@ -180,35 +190,42 @@
 - [adzejs/adze](https://github.com/adzejs/adze): A universal, modern, and extensible logging library for JavaScript and TypeScript. <https://adzejs.com/>
 - [winstonjs/winston](https://github.com/winstonjs/winston): A logger for just about everything. <http://github.com/winstonjs/winston>
 
+### Clients / fetch
+
+- [sindresorhus/ky](https://github.com/sindresorhus/ky): 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
+- 🌟 [nodejs/undici](https://github.com/nodejs/undici): An HTTP/1.1 client, written from scratch for Node.js <https://nodejs.github.io/undici>
+- [unjs/ofetch](https://github.com/unjs/ofetch): 😱 A better fetch API. Works on node, browser and workers.
+- [discordeno/discordeno](https://github.com/discordeno/discordeno): Discord API library for Node and Deno <https://discordeno.js.org>
+- [epicweb-dev/cachified](https://github.com/epicweb-dev/cachified): 🤑 wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
+
+### CLI
+
+- [sindresorhus/execa](https://github.com/sindresorhus/execa): Process execution for humans
+- [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
+
+### Image
+
+- [sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions): Get the dimensions of an image
+- [image-size/image-size](https://github.com/image-size/image-size): Node module for detecting image dimensions
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp): An image processing library written entirely in JavaScript for Node, with zero external or native dependencies. <http://jimp-dev.github.io/jimp/>
+- [photopea/UPNG.js](https://github.com/photopea/UPNG.js): Fast and advanced PNG (APNG) decoder and encoder (lossy / lossless)
+
 ### Utils
 
 - [komodojp/tinyld](https://github.com/komodojp/tinyld): Simple and Performant Language detection library for NodeJS <https://komodojp.github.io/tinyld/>
-- [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions <http://bradymholt.github.io/cRonstrue/>
 - [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics): simple statistics for node & browser javascript <http://simplestatistics.org/>
-- [sindresorhus/image-dimensions](https://github.com/sindresorhus/image-dimensions): Get the dimensions of an image
-- [image-size/image-size](https://github.com/image-size/image-size): Node module for detecting image dimensions
-- [sindresorhus/execa](https://github.com/sindresorhus/execa): Process execution for humans
-- [sindresorhus/ky](https://github.com/sindresorhus/ky): 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
-- [henrygd/queue](https://github.com/henrygd/queue): Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster
-- [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
 - 🌟 [xthezealot/npmprune](https://github.com/xthezealot/npmprune): Prune unnecessary files from node_modules
   - simple and easy LOL
-- [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
-- [Perf Link](https://perf.link/)
-- [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule): A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
-- [farzher/fuzzysort](https://github.com/farzher/fuzzysort): Fast SublimeText-like fuzzy search for JavaScript. <https://rawgit.com/farzher/fuzzysort/master/test/test.html>
-- [epicweb-dev/cachified](https://github.com/epicweb-dev/cachified): 🤑 wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch): The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [toss/es-toolkit](https://github.com/toss/es-toolkit): A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash. <https://es-toolkit.slash.page>
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib): ✨ Standard library for JavaScript and Node.js. ✨ <https://stdlib.io>
-- [unjs/ofetch](https://github.com/unjs/ofetch): 😱 A better fetch API. Works on node, browser and workers.
-- [kourge/ts-brand](https://github.com/kourge/ts-brand): Reusable type branding in TypeScript
-- [withastro/starlight](https://github.com/withastro/starlight): 🌟 Build beautiful, accessible, high-performance documentation websites with Astro <https://starlight.astro.build>
 - [rawify/Fraction.js](https://github.com/rawify/Fraction.js): Fraction is a rational numbers library written in JavaScript <https://raw.org/article/rational-numbers-in-javascript/>
 - [cryptocoinjs/base-x](https://github.com/cryptocoinjs/base-x): Encode/decode any base
+- [mathiasbynens/jsesc](https://github.com/mathiasbynens/jsesc): Given some data, jsesc returns the shortest possible stringified & ASCII-safe representation of that data. <https://mths.be/jsesc>
 - [nojacko/node-country-to-iso](https://github.com/nojacko/node-country-to-iso): Convert inconsistent country names and codes into ISO 3166-1 alpha-2. <https://www.npmjs.com/package/country-to-iso>
-- 🌟 [nodejs/undici](https://github.com/nodejs/undici): An HTTP/1.1 client, written from scratch for Node.js <https://nodejs.github.io/undici>
+- [remusao/tldts](https://github.com/remusao/tldts): JavaScript Library to extract domains, subdomains and public suffixes from complex URIs. <https://npmjs.com/tldts>
+- [kourge/ts-brand](https://github.com/kourge/ts-brand): Reusable type branding in TypeScript
 
 ## Middleware
 
@@ -220,13 +237,8 @@
 ## Misc
 
 - [google/zx](https://github.com/google/zx): A tool for writing better scripts <https://google.github.io/zx/>
-- [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your i18n localization with AI
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
-- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates): Find newer versions of package dependencies than what your package.json allows
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp): An image processing library written entirely in JavaScript for Node, with zero external or native dependencies. <http://jimp-dev.github.io/jimp/>
-- [photopea/UPNG.js](https://github.com/photopea/UPNG.js): Fast and advanced PNG (APNG) decoder and encoder (lossy / lossless)
-- [discordeno/discordeno](https://github.com/discordeno/discordeno): Discord API library for Node and Deno <https://discordeno.js.org>
 
 ## Effect system on Typescript
 
