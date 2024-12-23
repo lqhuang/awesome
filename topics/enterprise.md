@@ -175,6 +175,7 @@
 - [perses/perses](https://github.com/perses/perses): The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! <https://demo.perses.dev>
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent): The production-scale datacenter profiler
 - [google/mtail](https://github.com/google/mtail): extract internal monitoring data from application logs for collection in a timeseries database
+- [nyrkio/nyrkio](https://github.com/nyrkio/nyrkio): Nyrkiö is an open source platform for detecting performance changes <https://nyrkio.com>
 
 ### Benchmark
 

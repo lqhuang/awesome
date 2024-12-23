@@ -17,3 +17,4 @@
   - why not stripe?
 - [Ok! So... Draw online](https://okso.app/): The drawing app to express, grasp, and organize your thoughts and ideas
 - [AndySpider/uicloner-extension](https://github.com/AndySpider/uicloner-extension): Browser extension to instantly clone any web UI you see with one click, exports to HTML + Tailwind CSS or HTML + pure CSS
+- [mfts/papermark](https://github.com/mfts/papermark): Papermark is the open-source DocSend alternative with built-in analytics and custom domains. <https://papermark.io>

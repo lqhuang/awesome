@@ -239,6 +239,7 @@
 - [spcl/pymlir](https://github.com/spcl/pymlir): Python interface for MLIR - the Multi-Level Intermediate Representation
 - [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2): Automatic verification of LLVM optimizations
 - [iree-org/iree](https://github.com/iree-org/iree): A retargetable MLIR-based machine learning compiler and runtime toolkit. <http://iree.dev/>
+- [llvm/eudsl](https://github.com/llvm/eudsl): Embedded Universal DSL: a good DSL for us, by us
 
 ## Autodiff
 

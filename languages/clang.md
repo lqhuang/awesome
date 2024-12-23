@@ -20,6 +20,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
   - > People love to hate build systems.
   - my comments: Yes, definitely
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming): Modern C++ Programming Course (C++03/11/14/17/20/23/26) <https://federico-busato.github.io/Modern-CPP-Programming/>
+- [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp): Learning how to write "Less Slow" code in C++20, from numerical micro-kernels and SIMD to coroutines, ranges, and polymorphic state machines <https://ashvardanian.com/posts/google-benchmark/>
 
 ### Readings
 

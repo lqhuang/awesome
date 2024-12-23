@@ -3,6 +3,7 @@
 ## Resources
 
 - [genai-handbook/genai-handbook.github.io](https://github.com/genai-handbook/genai-handbook.github.io): A roadmap for "generative AI" learning resources
+- 🌟 [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers): Numbers every LLM developer should know
 
 ## Frameworks
 
@@ -131,7 +132,7 @@
 
 ### Gemini
 
-- [google-gemini/gemini-api-cookbook](https://github.com/google-gemini/gemini-api-cookbook): A collection of guides and examples for the Gemini API.
+- [google-gemini/cookbook](https://github.com/google-gemini/cookbook): Examples and guides for using the Gemini API <https://ai.google.dev/gemini-api/docs>
 
 ### Multi Modal
 

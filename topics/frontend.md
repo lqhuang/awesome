@@ -141,6 +141,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui): Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler. <https://tamagui.dev>
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui): UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. <https://magicui.design>
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui): <https://cult-ui.com/>
+- [mui/base-ui](https://github.com/mui/base-ui): Base UI is an open-source library of accessible, unstyled UI components for React. <https://base-ui.com>
 
 #### Svelte
 
@@ -400,6 +401,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [hoppergee/heic-to](https://github.com/hoppergee/heic-to): Convert HEIC/HEIF images to JPEG, PNG in browser
 - [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string. <https://nuqs.47ng.com>
 - 🌟 [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action): Type safe and validated Server Actions in your Next.js project. <https://next-safe-action.dev>
+- [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot): 📸 Quickly generate image from DOM node using HTML5 canvas and SVG. <https://toolpkg.com/html-to-image>
 
 ### Misc
 

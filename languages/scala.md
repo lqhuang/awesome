@@ -27,6 +27,7 @@
 - [The Good, The Magical and The Insane: Scala 3 API design patterns](https://github.com/lbialy/lbialy.github.io/tree/master/good-magical-insane)
   - [Youtube Video](https://www.youtube.com/watch?v=JRgq8jjE2Dk)
 - [Quick Tips for Fast Code on the JVM](https://gist.github.com/djspiewak/464c11307cabc80171c90397d4ec34ef)
+- [Abdullahsab3/scala-native-intro](https://github.com/Abdullahsab3/scala-native-intro): A Gentle Introduction to Scala Native
 
 ### Exercises
 

@@ -225,6 +225,7 @@
   - [uber/h3](https://github.com/uber/h3): Hexagonal hierarchical geospatial indexing system <https://h3geo.org>
   - [uber/h3-py](https://github.com/uber/h3-py): Python bindings for H3, a hierarchical hexagonal geospatial indexing system <https://uber.github.io/h3-py>
 - 🌟 [PostgREST/postgrest](https://github.com/PostgREST/postgrest): REST API for any Postgres database <https://postgrest.org>
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask): PostgreSQL database anonymization and synthetic data generation tool <https://greenmask.io>
 
 ### SQLite
 

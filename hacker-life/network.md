@@ -128,6 +128,7 @@
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel): A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd): 🛡 I2P: End-to-End encrypted and anonymous Internet <https://i2pd.website>
 - [amalshaji/portr](https://github.com/amalshaji/portr): Open source ngrok alternative designed for teams <https://portr.dev>
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py): 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework <https://abhinavsingh.com/proxy-py-a-lightweight-single-file-http-proxy-server-in-python/>
 
 ### Mesh network
 
