@@ -89,6 +89,7 @@
 - [apparebit/prettypretty](https://github.com/apparebit/prettypretty): Hello pretty 🌸 pretty, awesome terminal colors you have there! <https://apparebit.github.io/prettypretty/>
 - 🌟 [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch): An actively maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [darrenburns/posting](https://github.com/darrenburns/posting): The modern API client that lives in your terminal.
+- [buckket/twtxt](https://github.com/buckket/twtxt): Decentralised, minimalist microblogging service for hackers. <http://twtxt.readthedocs.org/en/stable/>
 
 ## Monitor
 

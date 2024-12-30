@@ -60,7 +60,7 @@
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget): The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts. <https://www.inspektor-gadget.io>
 - [koute/bytehound](https://github.com/koute/bytehound): A memory profiler for Linux.
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy): A UI for eBPF-based performance debugging
-- [magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects and displays high-resolution traces of what a process is doing
+- [janestreet/magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects and displays high-resolution traces of what a process is doing <https://magic-trace.org>
 - [KDAB/hotspot](https://github.com/KDAB/hotspot): The Linux perf GUI for performance analysis.
 - [twitter/rezolus](https://github.com/twitter/rezolus): Systems performance telemetry
 - [google/perfetto](https://github.com/google/perfetto): Performance instrumentation and tracing for Android, Linux and Chrome <https://www.perfetto.dev>
@@ -70,9 +70,9 @@
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope): 🔬 A fast, interactive web-based viewer for performance profiles. <https://www.speedscope.app>
 - [mstange/samply](https://github.com/mstange/samply): Command-line sampling profiler for macOS and Linux
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng): This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. <https://github.com/ColinIanKing/stress-ng>
-- [janestreet/magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects and displays high-resolution traces of what a process is doing <https://magic-trace.org>
 - [bsc-mem/PROFET](https://github.com/bsc-mem/PROFET): Analytical model that quantifies the impact of the main memory on application performance and system power and energy consumption.
 - [intel/pcm](https://github.com/intel/pcm): Intel® Performance Counter Monitor (Intel® PCM)
+- [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 
 ## WASM Runtime
 

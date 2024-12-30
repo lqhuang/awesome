@@ -38,6 +38,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
   - [cmuratori/computer_enhance](https://github.com/cmuratori/computer_enhance): Source code for the https://computerenhance.com programming series
 - [Software optimization resources - Agner](https://www.agner.org/optimize/)
 - [mcinglis/c-style](https://github.com/mcinglis/c-style): My favorite C programming practices.
+- [How to Actually Write C](https://zackoverflow.dev/writing/how-to-actually-write-c): How to actually write non-trivial programs in C
 
 ### Books
 
@@ -80,6 +81,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [diffblue/cbmc](https://github.com/diffblue/cbmc): C Bounded Model Checker <https://diffblue.github.io/cbmc>
   - [The C Bounded Model Checker: Criminally Underused | Hey There Buddo!](https://www.philipzucker.com/cbmc_tut/)
 - [csmith-project/creduce](https://github.com/csmith-project/creduce): C-Reduce, a C and C++ program reducer
+- [HBehrens/puncover](https://github.com/HBehrens/puncover): Analyses C/C++ build output for code size, static variables, and stack usage
 
 ### Test suites
 
@@ -159,6 +161,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - 🌟 [facebookexperimental/libunifex](https://github.com/facebookexperimental/libunifex): Unified Executors
 - [tidwall/neco](https://github.com/tidwall/neco): Concurrency library for C (coroutines)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue): A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
+- [dermesser/uvco](https://github.com/dermesser/uvco): C++20 Coroutines running on libuv for intuitive async I/O <https://borgac.net/~lbo/doc/uvco/>
 
 ## Network
 

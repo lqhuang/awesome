@@ -36,6 +36,7 @@
 - 🌟 [Home - colah's blog](https://colah.github.io/): no description found
 - [mli/paper-reading](https://github.com/mli/paper-reading): 深度学习经典、新论文逐段精读
 - [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning): List of papers studying machine learning through the lens of category theory
+- [Python isn't just glue, it's an implicit JIT ecosystem](https://state.smerity.com/smerity/state/01JC39KW1TBEAZTKJJF0BR5ZXD): The ecosystem wears in the desire paths, and when slow Python becomes a problem, the ecosystem doesn't optimize the Python, it paves new roads beneath
 
 ### Books
 
@@ -382,7 +383,7 @@
 - [BirkhoffG/jax-dataloader](https://github.com/BirkhoffG/jax-dataloader): Pytorch-like dataloaders in JAX. <https://birkhoffg.github.io/jax-dataloader/>
 - 🌟 [metaopt/optree](https://github.com/metaopt/optree): OpTree: Optimized PyTree Utilities <https://optree.readthedocs.io>
 
-## Data store or tensor structure
+## Data store and Data loading
 
 - [dmlc/dlpack](https://github.com/dmlc/dlpack): common in-memory tensor structure <https://dmlc.github.io/dlpack/latest>
 - [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor): C++ tensors with broadcasting and lazy computing
@@ -392,6 +393,9 @@
 - [mlcommons/croissant](https://github.com/mlcommons/croissant): Croissant is a high-level format for machine learning datasets that brings together four rich layers. <https://mlcommons.org/croissant>
 - [facebookresearch/spdl](https://github.com/facebookresearch/spdl): Scalable and Performant Data Loading
 - [google/grain](https://github.com/google/grain): Library for reading and processing ML training data. <https://google-grain.readthedocs.io>
+- [coreweave/tensorizer](https://github.com/coreweave/tensorizer): Module, Model, and Tensor Serialization/Deserialization
+- [facebookresearch/stopes](https://github.com/facebookresearch/stopes): A library for preparing data for machine translation research (monolingual preprocessing, bitext mining, etc.) built by the FAIR NLLB team. <https://facebookresearch.github.io/stopes/>
+- [google/seqio](https://github.com/google/seqio): Task-based datasets, preprocessing, and evaluation for sequence models.
 
 ## Utils
 
@@ -452,3 +456,4 @@
   - Tanh soft logit capping (following Gemma 2).
   - FlexAttention with window size warmup.
   - Extra embeddings which are fed into intermediate attention layers.
+- [zhuzilin/ring-flash-attention](https://github.com/zhuzilin/ring-flash-attention): Ring attention implementation with flash attention

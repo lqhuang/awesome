@@ -33,6 +33,7 @@
 - [Trebor-Huang/history](https://github.com/Trebor-Huang/history): History of type theory (Chinese).
 - [Kerodon](https://kerodon.net): an online resource for homotopy-coherent mathematics
 - [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning): List of papers studying machine learning through the lens of category theory
+- 🌟 [A quick dive into Julia's type inference algorithm](https://aviatesk.github.io/posts/data-flow-problem/): introduction to dataflow analysis and Julia's local type inference routine
 
 ### Tutorials
 

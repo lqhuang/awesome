@@ -215,6 +215,7 @@
 - 🌟 [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python to fast C extensions <https://mypyc.readthedocs.io>
 - [cognitedata/Expression](https://github.com/cognitedata/Expression): Pragmatic functional programming for Python inspired by F#
 - 📝 [orsinium-labs/eff](https://github.com/orsinium-labs/eff): Python library to work with algebraic effects
+- [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper): A fast and efficient type assistant for Python, including tensor shape inference
 
 ### Typing
 
@@ -259,6 +260,7 @@
 - 🌟 [JulienPalard/Pipe](https://github.com/JulienPalard/Pipe): A Python library to use infix notation in Python
   - Simple and no extra magic!
 - 🌟 [ebonnal/streamable](https://github.com/ebonnal/streamable): [Python] Stream-like manipulation of iterables.
+- [Jordan-Kowal/pipe-operator](https://github.com/Jordan-Kowal/pipe-operator): Elixir's pipe operator in Python <https://pypi.org/project/pipe-operator/>
 
 ## Domain libraries
 
@@ -442,7 +444,7 @@
 - 🌟 [hynek/stamina](https://github.com/hynek/stamina): Good retries made easy.
 - [litl/backoff](https://github.com/litl/backoff): Python library providing function decorators for configurable backoff and retry
 
-### Time / Scheduling
+### DateTime / Scheduling
 
 - [dbader/schedule](https://github.com/dbader/schedule): Python job scheduling for humans. <https://schedule.readthedocs.io/>
 - 🌟 [kiorky/croniter](https://github.com/kiorky/croniter): croniter provides iteration for the datetime object with a cron like format.
@@ -451,6 +453,8 @@
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler): Task scheduling library for Python
   - [lucafaggianelli/plombery](https://github.com/lucafaggianelli/plombery): Python task scheduler with a user-friendly web UI <http://lucafaggianelli.com/plombery/>
     - looks great
+- 🌟 [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever): ⏰ Modern datetime library for Python <https://whenever.rtfd.io>
+  - [Ten Python datetime pitfalls, and what libraries are (not) doing about it | Arie Bovenberg](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/): It’s no secret that the Python datetime library has its quirks. Not only are there probably more than you think; third-party libraries don’t address most of them! I created a new library to explore what a better datetime library could look like.
 
 ### Configuration
 
@@ -540,7 +544,6 @@
 - [T-baby/pondpond](https://github.com/T-baby/pondpond): Pond is a high performance object-pooling library for Python <https://qin.news/pond>
 - [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle): A Python module to customize the process title
 - [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️ <https://glom.readthedocs.io>
-- 🌟 [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever): ⏰ Modern datetime library for Python, written in Rust <https://whenever.rtfd.io>
 - [ZechCodes/Bevy](https://github.com/ZechCodes/Bevy): A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. <https://blog.zech.codes/bevy-v2>
 - [pradyunsg/diagnostic](https://github.com/pradyunsg/diagnostic): `diagnostic` makes it easier to build command line tools with great error reporting. <https://diagnostic.readthedocs.io/en/latest/>
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict): 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
@@ -557,6 +560,7 @@
 - 🌟 [pydoit/doit](https://github.com/pydoit/doit): CLI task management & automation tool <http://pydoit.org>
 - [JohannesBuchner/imagehash](https://github.com/JohannesBuchner/imagehash): A Python Perceptual Image Hashing Module
 - [fgmacedo/python-statemachine](https://github.com/fgmacedo/python-statemachine): Python Finite State Machines made easy.
+- [operatorequals/httpimport](https://github.com/operatorequals/httpimport): Module for remote in-memory Python package/module loading through HTTP/S
 
 ## Compilers
 
@@ -663,7 +667,7 @@
 
 ### HTML
 
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex): 🕸 Web apps in pure Python 🐍 <https://reflex.dev>
+- 🌟 [reflex-dev/reflex](https://github.com/reflex-dev/reflex): 🕸 Web apps in pure Python 🐍 <https://reflex.dev>
 - [pycob/pyvibe](https://github.com/pycob/pyvibe): Generate styled HTML pages from Python <https://www.pyvibe.com>
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui): Create web-based interfaces with Python. The nice way. <https://nicegui.io>
 - 📝 [widgetti/solara](https://github.com/widgetti/solara): A Pure Python, React-style Framework for Scaling Your and Web Apps <https://solara.dev>
@@ -677,3 +681,4 @@
 - [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny): Shiny for Python <https://shiny.posit.co/py/>
 - [google/mesop](https://github.com/google/mesop): Build delightful web apps quickly in Python 🚀
 - [TexteaInc/funix](https://github.com/TexteaInc/funix): Building web apps without manually creating widgets <http://funix.io>
+- [rio-labs/rio](https://github.com/rio-labs/rio): WebApps in pure Python. No JavaScript, HTML and CSS needed <https://rio.dev>

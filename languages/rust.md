@@ -248,6 +248,7 @@
 - [droundy/append-only-vec](https://github.com/droundy/append-only-vec): No description, website, or topics provided.
 - [cloudflare/trie-hard](https://github.com/cloudflare/trie-hard): Novel implementation of a Trie data structure optimized for small, sparse maps
 - [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya): A fast and ergonomic concurrent hash-table for read-heavy workloads.
+- [ngernest/urn-rs](https://github.com/ngernest/urn-rs): A Rust implementation of the Urn data structure for efficient random sampling
 
 ### CRDT
 
