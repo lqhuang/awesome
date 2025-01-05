@@ -39,6 +39,8 @@
   - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh): 程序员应该访问的最佳网站中文版
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know about
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- 🌟 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram): Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram <https://gitdiagram.com>
+  - incredibly amazing
 
 ### Misc linters / formatters
 
@@ -63,6 +65,7 @@
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner): Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala <https://rtyley.github.io/bfg-repo-cleaner/>
 - [tj/git-extras](https://github.com/tj/git-extras): GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [10 levels of Git aliases: Advanced and beyond](https://www.eficode.com/blog/10-levels-of-git-aliases-advanced-and-beyond)
+- [github/git-sizer](https://github.com/github/git-sizer): Compute various size metrics for a Git repository, flagging those that might cause problems
 
 ### Code as Graph
 

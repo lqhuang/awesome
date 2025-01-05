@@ -67,6 +67,7 @@
 - 🌟 [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core): NextTrace, an open source visual route tracking CLI tool <https://www.nxtrace.org>
 - [nitefood/asn](https://github.com/nitefood/asn): ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - 🌟 [hengyoush/kyanos](https://github.com/hengyoush/kyanos): Visualize the time packets spend in the kernel, watch & analyze in command line. <https://kyanos.io>
+- [drk1wi/portspoof](https://github.com/drk1wi/portspoof): Portspoof <http://drk1wi.github.io/portspoof/>
 
 ### Analysis
 
@@ -83,6 +84,8 @@
 - [ntop/ntopng](https://github.com/ntop/ntopng): Web-based Traffic and Security Network Traffic Monitoring <http://www.ntop.org>
 - 🌟 [akvorado/akvorado](https://github.com/akvorado/akvorado): Flow collector, enricher and visualizer <https://demo.akvorado.net>
 - [oetiker/SmokePing](https://github.com/oetiker/SmokePing): The Active Monitoring System <http://www.smokeping.org>
+- [zeek/zeek](https://github.com/zeek/zeek): Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. <https://www.zeek.org>
+- [Suricata](https://suricata.io/): Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
 
 ### RouterOS Automation?
 

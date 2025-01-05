@@ -18,9 +18,11 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs): List of single-file C/C++ libraries.
 - 🌟 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
   - > People love to hate build systems.
-  - my comments: Yes, definitely
+    - my comment: Yes, definitely
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming): Modern C++ Programming Course (C++03/11/14/17/20/23/26) <https://federico-busato.github.io/Modern-CPP-Programming/>
 - [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp): Learning how to write "Less Slow" code in C++20, from numerical micro-kernels and SIMD to coroutines, ranges, and polymorphic state machines <https://ashvardanian.com/posts/google-benchmark/>
+- 🌟 [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css): Custom CSS theme for doxygen html-documentation with lots of customization parameters. <https://jothepro.github.io/doxygen-awesome-css/>
+- [landerrosette/algs4](https://github.com/landerrosette/algs4): Algorithms, 4th edition textbook code in C++
 
 ### Readings
 
@@ -131,6 +133,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [randombit/botan](https://github.com/randombit/botan): Cryptography Toolkit <https://botan.randombit.net>
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
 - [TheNumbat/rpp](https://github.com/TheNumbat/rpp): Minimal Rust-inspired C++20 STL replacement
+- [jlaumon/Bedrock](https://github.com/jlaumon/Bedrock): Minimal C++20 STL replacement library. Simpler, smaller, and in many cases faster.
 - [floooh/sokol](https://github.com/floooh/sokol): minimal cross-platform standalone C headers <https://floooh.github.io/sokol-html5>
 - [nothings/stb](https://github.com/nothings/stb): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
 

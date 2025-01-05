@@ -119,6 +119,7 @@
 - [henrygd/queue](https://github.com/henrygd/queue): Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster
 - [m31coding/fuzzy-search](https://github.com/m31coding/fuzzy-search): A fast, accurate and multilingual fuzzy search library for the frontend.
 - [krisk/Fuse](https://github.com/krisk/Fuse): Lightweight fuzzy-search, in JavaScript <https://fusejs.io/>
+- [andywer/threads.js](https://github.com/andywer/threads.js): 🧵 Make web workers & worker threads as simple as a function call. <https://threads.js.org/>
 
 ### SerDe / Schema
 

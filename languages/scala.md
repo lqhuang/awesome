@@ -127,6 +127,10 @@
 - [RustFields/scala-native-rust-interoperability-example](https://github.com/RustFields/scala-native-rust-interoperability-example): This example shows how to integrate Rust code in a Scala project thanks to the interoperability of Rust and Scala Native with C. The project is structured in the following way:
 - [indoorvivants/scala-native-binary-template](https://github.com/indoorvivants/scala-native-binary-template): Template to bootstrap Scala Native CLI projects, uploading platform binaries to Github Releases artifacts
 
+## Scala.js
+
+- [windymelt/esbuild-plugin-scalajs](https://github.com/windymelt/esbuild-plugin-scalajs): ESBuild Plugin to bundle Scala.js module
+
 ## Featured
 
 - [softwaremill/macwire](https://github.com/softwaremill/macwire): Lightweight and Nonintrusive Scala Dependency Injection Library

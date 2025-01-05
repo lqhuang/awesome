@@ -136,6 +136,7 @@
 - [CoreDB-io/coredb](https://github.com/CoreDB-io/coredb): Postgres for Everything <http://coredb.io>
 - [electric-sql/pglite](https://github.com/electric-sql/pglite): Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno <https://electric-sql.com>
 - 🌟 [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb): DuckDB-powered Postgres for high performance apps & analytics.
+- 🌟 [paradedb/pg_analytics](https://github.com/paradedb/pg_analytics): DuckDB-powered analytics for Postgres <https://paradedb.com>
 
 ### Embedded / In-memory
 

@@ -19,24 +19,26 @@
 - [hyperai/tvm-cn](https://github.com/hyperai/tvm-cn): TVM Documentation in Chinese Simplified / TVM 中文文档 <https://tvm.hyper.ai>
 - [HazyResearch/aisys-building-blocks](https://github.com/HazyResearch/aisys-building-blocks): Building blocks for foundation models.
 - [jessevig/bertviz](https://github.com/jessevig/bertviz): BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.) <https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1>
-- [Efficient GEMM in CUDA](https://github.com/NVIDIA/cutlass/blob/main/media/docs/efficient_gemm.md)
 - [ML Code Challenges](https://www.deep-ml.com/)
 - [TensorGym](https://tensorgym.com/exercises): Elevate Your AI Skills and Interview Confidence with unique exercises!
 - [The Tensor Cookbook](https://tensorcookbook.com/): What are Tensor Diagrams? Machine learning involves a lot of tensor manipulation, and it's easy to lose track of the bigger picture when manipulating high-dimensional data using notation designed for vectors and matrices.
   - [The Matrix Cookbook](https://web.archive.org/web/20070126190021/http://matrixcookbook.com/)
 - [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models <https://netron.app>
-- [cuda-mode/awesomeMLSys](https://github.com/cuda-mode/awesomeMLSys): An ML Systems Onboarding list
 - [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream): CUDA related news and material links
 - 🌟 [AI-Hypercomputer/gpu-recipes](https://github.com/AI-Hypercomputer/gpu-recipes): Recipes for reproducing training and serving benchmarks for large machine learning models using GPUs on Google Cloud.
 - [GPU Glossary | Modal](https://modal.com/gpu-glossary)
+- [ashvardanian/cpp-cuda-python-starter-kit](https://github.com/ashvardanian/cpp-cuda-python-starter-kit): Parallel Computing starter project to build GPU & CPU kernels in CUDA & C++ and call them from Python without a single line of CMake using PyBind11 <https://ashvardanian.com/tags/less-slow>
 
 ### Readings
 
+- [Efficient GEMM in CUDA](https://github.com/NVIDIA/cutlass/blob/main/media/docs/efficient_gemm.md)
+- [cuda-mode/awesomeMLSys](https://github.com/cuda-mode/awesomeMLSys): An ML Systems Onboarding list
 - [A reading list for machine learning systems](https://jeongseob.github.io/readings_mlsys.html)
 - 🌟 [Home - colah's blog](https://colah.github.io/): no description found
 - [mli/paper-reading](https://github.com/mli/paper-reading): 深度学习经典、新论文逐段精读
 - [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning): List of papers studying machine learning through the lens of category theory
 - [Python isn't just glue, it's an implicit JIT ecosystem](https://state.smerity.com/smerity/state/01JC39KW1TBEAZTKJJF0BR5ZXD): The ecosystem wears in the desire paths, and when slow Python becomes a problem, the ecosystem doesn't optimize the Python, it paves new roads beneath
+- [KnowingNothing/compiler-and-arch](https://github.com/KnowingNothing/compiler-and-arch): A list of tutorials, paper, talks, and open-source projects for emerging compiler and architecture
 
 ### Books
 
@@ -258,6 +260,11 @@
 - [autodiff/autodiff](https://github.com/autodiff/autodiff): automatic differentiation made easier for C++ <https://autodiff.github.io>
 - [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph): A machine learning library for Rust.
 
+## Computing resource scheduler
+
+- [leptonai/gpud](https://github.com/leptonai/gpud): GPUd is designed to ensure GPU efficiency and reliability by actively monitoring GPUs and effectively managing AI/ML workloads.
+- [run-ai/genv](https://github.com/run-ai/genv): GPU environment and cluster management with LLM support <https://www.genv.dev>
+
 ## Jax ecology
 
 - [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax): JAX - A curated list of resources https://github.com/google/jax
@@ -417,7 +424,6 @@
 - [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector <https://pypi.org/project/jax-smi/>
 - [pytorch/PiPPy](https://github.com/pytorch/PiPPy): Pipeline Parallelism for PyTorch
 - [fastai/fastcore](https://github.com/fastai/fastcore): Python supercharged for the fastai library <http://fastcore.fast.ai>
-- [leptonai/gpud](https://github.com/leptonai/gpud): GPUd is designed to ensure GPU efficiency and reliability by actively monitoring GPUs and effectively managing AI/ML workloads.
 
 ## Misc
 

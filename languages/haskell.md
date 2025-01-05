@@ -101,6 +101,7 @@
 - [nicolashery/example-handlers-haskell](https://github.com/nicolashery/example-handlers-haskell): Example of non-trivial web handlers in Haskell web frameworks Scotty, Yesod, and Servant
   - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant)
 - [google/proto-lens](https://github.com/google/proto-lens): API for protocol buffers using modern Haskell language and library patterns. <https://google.github.io/proto-lens>
+- [seanhess/hyperbole](https://github.com/seanhess/hyperbole): Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView
 
 ## Clients
 

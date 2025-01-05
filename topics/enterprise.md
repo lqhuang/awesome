@@ -200,6 +200,11 @@
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale): Scalable web analytics you run yourself on Cloudflare <https://counterscale.dev>
 - [paradedb/paradedb](https://github.com/paradedb/paradedb): Postgres for Search and Analytics <https://paradedb.com>
 
+## Incident
+
+- [StrangeBee](https://strangebee.com/): Empowering incident responders worldwide One Case Management Platform for all SOCs, CERTs & CSIRTs
+- [certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR): Fast Incident Response
+
 ## Security
 
 - [libyear](https://libyear.com/): A **simple** measure of software dependency freshness. It is a **single number** telling you how up-to-date your dependencies are.
@@ -208,6 +213,10 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): Protect and discover secrets using Gitleaks 🔑 <https://gitleaks.io>
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb): 🛡️ Make your web services secure by default ! <https://www.bunkerweb.io>
 - [google/osv.dev](https://github.com/google/osv.dev): Open source vulnerability DB and triage service. <https://osv.dev>
+- [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion): Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek. <https://securityonion.net>
+- [snort3/snort3](https://github.com/snort3/snort3): Snort++
+- [OSSEC](https://www.ossec.net/): OSSEC is a scalable, multi-platform, open source Host-based Intrusion Detection System (HIDS)
+- [wazuh/wazuh](https://github.com/wazuh/wazuh): Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. <https://wazuh.com/>
 
 ## Career
 

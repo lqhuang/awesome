@@ -529,6 +529,7 @@
 - [wjakob/nanobind](https://github.com/wjakob/nanobind): nanobind: tiny and efficient C++/Python bindings
 - pyo3: Rust bindings for Python
 - [pybind/pybind11](https://github.com/pybind/pybind11): Seamless operability between C++11 and Python <https://pybind11.readthedocs.io>
+  - [sizmailov/pybind11-stubgen](https://github.com/sizmailov/pybind11-stubgen): Generate stubs for python modules
 - [Suzhou-Tongyuan/jnumpy](https://github.com/Suzhou-Tongyuan/jnumpy): Writing Python C extensions in Julia within 5 minutes.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3): Rust bindings for the Python interpreter <https://pyo3.rs>
 - [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython): Rust <-> Python bindings
@@ -546,6 +547,7 @@
 - [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️ <https://glom.readthedocs.io>
 - [ZechCodes/Bevy](https://github.com/ZechCodes/Bevy): A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. <https://blog.zech.codes/bevy-v2>
 - [pradyunsg/diagnostic](https://github.com/pradyunsg/diagnostic): `diagnostic` makes it easier to build command line tools with great error reporting. <https://diagnostic.readthedocs.io/en/latest/>
+- [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts): Intuitive, easy CLIs based on python type hints.
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict): 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - 🌟 [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
 - [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
@@ -647,6 +649,7 @@
   - [JosephBARBIERDARNAL/pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes): A large (+2500) collection of color maps for Python <https://python-graph-gallery.com/color-palette-finder/>
   - [1313e/CMasher](https://github.com/1313e/CMasher): Scientific colormaps for making accessible, informative and 'cmashing' plots <https://cmasher.readthedocs.io>
   - [matplotlib/cmocean](https://github.com/matplotlib/cmocean): Colormap setup for standardizing commonly-plotting oceanographic variables.
+- [Kozea/pygal](https://github.com/Kozea/pygal): PYthon svg GrAph plotting Library <https://www.pygal.org>
 
 ### TUI
 

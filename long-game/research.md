@@ -69,6 +69,7 @@
   - [usnistgov/ChebTools](https://github.com/usnistgov/ChebTools): C++ tools for working with Chebyshev expansion interpolants
 - [PythonOT/POT](https://github.com/PythonOT/POT): POT : Python Optimal Transport <https://PythonOT.github.io/>
   - [a gallery of all the POT example files](https://pythonot.github.io/auto_examples/index.html)
+- [strasdat/Sophus](https://github.com/strasdat/Sophus): C++ implementation of Lie Groups using Eigen.
 
 ## Probability
 

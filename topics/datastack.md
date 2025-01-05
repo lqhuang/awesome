@@ -59,6 +59,7 @@
 
 - [whylabs/whylogs](https://github.com/whylabs/whylogs): The open standard for data logging <https://whylogs.readthedocs.io>
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm): Data-Centric Pipelines and Data Versioning <https://www.pachyderm.com/>
+- [shuttle-hq/synth](https://github.com/shuttle-hq/synth): The Declarative Data Generator <https://www.getsynth.com/>
 
 ## Data quality
 
