@@ -463,3 +463,4 @@
   - FlexAttention with window size warmup.
   - Extra embeddings which are fed into intermediate attention layers.
 - [zhuzilin/ring-flash-attention](https://github.com/zhuzilin/ring-flash-attention): Ring attention implementation with flash attention
+- [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention): Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton <https://github.com/fla-org/flash-linear-attention>

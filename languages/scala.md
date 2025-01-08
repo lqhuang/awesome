@@ -224,6 +224,7 @@
 - [alexarchambault/case-app](https://github.com/alexarchambault/case-app): Type-level & seamless command-line argument parsing for Scala
 - [avdv/scalals](https://github.com/avdv/scalals): A colorful ls command, with awesome icons.
 - [joan38/moulin](https://github.com/joan38/moulin): Build multi-projects with Scala CLI
+- [com-lihaoyi/mainargs](https://github.com/com-lihaoyi/mainargs): A small, convenient, dependency-free library for command-line argument parsing in Scala
 - [neandertech/cue4s](https://github.com/neandertech/cue4s): Experimental library for CLI prompts in Scala 3, available on JS, JVM, and Native platforms
 
 ### Tools
@@ -249,8 +250,8 @@
 - [com-lihaoyi/PPrint](https://github.com/com-lihaoyi/PPrint): Pretty-printing value, types and type-signatures in Scala <https://com-lihaoyi.github.io/PPrint/>
 - [JD557/interim](https://github.com/JD557/interim): Immediate mode GUI in pure Scala
 - [ScalablyTyped/Converter](https://github.com/ScalablyTyped/Converter): Typescript to Scala.js converter <https://scalablytyped.org>
-- https://github.com/vpavkin/dtc
-- https://github.com/cquiroz/scala-java-time
+- [vpavkin/dtc](https://github.com/vpavkin/dtc): Provides type classes for datetime values. Works both on JVM & ScalaJS. <https://vpavkin.github.io/dtc/api>
+- [cquiroz/scala-java-time](https://github.com/cquiroz/scala-java-time): Implementation of the `java.time` API in scala. Especially useful for scala.js <http://cquiroz.github.io/scala-java-time/>
 - [conduktor/scala-api-template](https://github.com/conduktor/scala-api-template): Example Scala API to bootstrap new projects <https://www.conduktor.io>
 - [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper): A Scala library for scraping content from HTML pages
 - [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>

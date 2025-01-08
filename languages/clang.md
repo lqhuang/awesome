@@ -54,6 +54,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [lkimuk/the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp): The Book of Modern C++ (in Chinese)
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese): 《Effective Modern C++》- 完成翻译 <https://cntransgroup.github.io/EffectiveModernCppChinese/>
 - [xiaoweiChen/Learn-LLVM-17](https://github.com/xiaoweiChen/Learn-LLVM-17): 《Learn LLVM 17》的非专业个人翻译
+- [lkimuk/cpp-generative-metaprogramming](https://github.com/lkimuk/cpp-generative-metaprogramming): C++ Generative Metaprogramming
 
 ## Toolchain
 
@@ -184,10 +185,11 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [foonathan/memory](https://github.com/foonathan/memory): STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write. <https://memory.foonathan.net>
 - [mjansson/rpmalloc](https://github.com/mjansson/rpmalloc): Public domain cross platform lock free thread caching 16-byte aligned memory allocator implemented in C
 
-## GPU
+## GPU / CUDA
 
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire): ArrayFire: a general purpose GPU library. <https://arrayfire.com>
 - [NVIDIA/cccl](https://github.com/NVIDIA/cccl): CUDA C++ Core Libraries
+- [lights0123/hipscript](https://github.com/lights0123/hipscript): Online compiler for HIP and NVIDIA® CUDA® code to WebGPU <https://hipscript.lights0123.com/>
 
 ## HPC / SIMD / Vectorization
 

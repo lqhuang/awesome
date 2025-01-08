@@ -563,6 +563,7 @@
 - [JohannesBuchner/imagehash](https://github.com/JohannesBuchner/imagehash): A Python Perceptual Image Hashing Module
 - [fgmacedo/python-statemachine](https://github.com/fgmacedo/python-statemachine): Python Finite State Machines made easy.
 - [operatorequals/httpimport](https://github.com/operatorequals/httpimport): Module for remote in-memory Python package/module loading through HTTP/S
+- [patrick-kidger/wadler_lindig](https://github.com/patrick-kidger/wadler_lindig): A Wadler--Lindig pretty printer for Python <https://docs.kidger.site/wadler_lindig/>
 
 ## Compilers
 

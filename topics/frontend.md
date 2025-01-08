@@ -142,6 +142,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui): UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. <https://magicui.design>
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui): <https://cult-ui.com/>
 - [mui/base-ui](https://github.com/mui/base-ui): Base UI is an open-source library of accessible, unstyled UI components for React. <https://base-ui.com>
+- [Codehagen/Prismui](https://github.com/Codehagen/Prismui): A fully customizable component library built on top of shadcn/ui. Beautiful, accessible, and ready for production. <https://prismui.tech>
 
 #### Svelte
 
@@ -218,6 +219,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [simonwep/selection](https://github.com/simonwep/selection): ✨ Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks! <https://simonwep.github.io/selection>
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu): 🍔 An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations <http://negomi.github.io/react-burger-menu/>
 - [davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners): A collection of loading spinner components for react <https://www.davidhu.io/react-spinners>
+
+- [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom): 🔎🖼 A JavaScript library for zooming images like Medium <https://medium-zoom.francoischalifour.com>
+- [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom): 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016) <https://rpearce.github.io/react-medium-image-zoom/>
 
 #### Shadcn UI eco system
 

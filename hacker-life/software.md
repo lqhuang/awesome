@@ -208,6 +208,10 @@
 - 🌟 [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader): A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web <https://koodoreader.com>
 - [chrox/readest](https://github.com/chrox/readest): Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. <https://readest.com>
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita): Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. <http://www.kavitareader.com>
+- [filegator/filegator](https://github.com/filegator/filegator): Powerful Multi-User File Manager <https://filegator.io>
+- 🌟 [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... <https://www.filestash.app/>
+- [doocs/md](https://github.com/doocs/md): ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 <https://doocs.github.io/md/>
+  - [doocs/docker-md](https://github.com/doocs/docker-md): 🐋 doocs/md 项目 的 docker 镜像
 
 ### Developer
 
