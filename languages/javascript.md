@@ -141,6 +141,7 @@
 - [xmldom/xmldom](https://github.com/xmldom/xmldom): A pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2): The fast & forgiving HTML and XML parser <https://feedic.com/htmlparser2>
 - [inikulin/parse5](https://github.com/inikulin/parse5): HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
+- [postalsys/postal-mime](https://github.com/postalsys/postal-mime): Email parser for browser and serverless environments
 
 ### format parser / converter
 
@@ -154,6 +155,8 @@
 - [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text): Advanced html to text converter
 - [jeet-dhandha/xlsx-parse-table](https://github.com/jeet-dhandha/xlsx-parse-table): No description, website, or topics provided.
 - [git.sheetjs.com/sheetjs/sheetjs](https://git.sheetjs.com/sheetjs/sheetjs): sheetjs - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [NPM: @smoores/epub](https://www.npmjs.com/package/@smoores/epub)
+  - [Announcing: @smoores/epub](https://smoores.dev/post/announcing_smoores_epub/)
 
 ### Date
 

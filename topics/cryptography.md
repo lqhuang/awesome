@@ -13,6 +13,7 @@
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3): the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [pyca/cryptography](https://github.com/pyca/cryptography): cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. <https://cryptography.io>
 - [djc/pyrtls](https://github.com/djc/pyrtls): rustls-based modern TLS for Python
+- [aws/s2n-tls](https://github.com/aws/s2n-tls): An implementation of the TLS/SSL protocols <https://aws.github.io/s2n-tls/usage-guide/>
 
 ## Certificate Management
 
@@ -26,3 +27,4 @@
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager): Automatically provision and manage TLS certificates in Kubernetes <https://cert-manager.io>
 - [usual2970/certimate](https://github.com/usual2970/certimate): 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire. <https://docs.certimate.me>
 - [square/certstrap](https://github.com/square/certstrap): Tools to bootstrap CAs, certificate requests, and signed certificates.
+- [stacksjs/tlsx](https://github.com/stacksjs/tlsx): 🔐 A TLS library with automation. HTTPS by default through a light-weight library. Similar to mkcert. <https://tlsx.sh>

@@ -28,6 +28,7 @@
 - [Qiaolin-Yu/paper-reading](https://github.com/Qiaolin-Yu/paper-reading): A list of papers I have read.
 - [ept/hermitage](https://github.com/ept/hermitage): What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels. <http://martin.kleppmann.com/2014/11/25/hermitage-testing-the-i-in-acid.html>
 - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
+- [Collection of insane and fun facts about SQLite - blag](https://avi.im/blag/2024/sqlite-facts/): Some of the interesting and insane facts I learned about SQLite
 
 ### Talks
 
@@ -98,6 +99,7 @@
 ### KV
 
 - [facebook/rocksdb](https://github.com/facebook/rocksdb): A library that provides an embeddable, persistent key-value store for fast storage. <http://rocksdb.org>
+- [rockset/rocksdb-cloud](https://github.com/rockset/rocksdb-cloud): A library that provides an embeddable, persistent key-value store for fast storage optimized for AWS <http://rocksdb.org>
 - [apple/foundationdb](https://github.com/apple/foundationdb): FoundationDB - the open source, distributed, transactional key-value store <https://www.foundationdb.org>
 - [spacejam/sled](https://github.com/spacejam/sled): the champagne of beta embedded databases
 - [microsoft/FASTER](https://github.com/microsoft/FASTER): Fast persistent recoverable log and key-value store + cache, in C# and C++. <https://aka.ms/FASTER>

@@ -124,6 +124,9 @@
 - [henrygd/beszel](https://github.com/henrygd/beszel): Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed): A speed test analysis software that shows your internet speed for up to 30 days <https://myspeed.dev>
 - [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live): For more information, please see http://smartos.org/ For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
+- [Notifiarr](https://notifiarr.com/): Notification aggregation, system monitoring & more
+  - [Notifiarr Documentation](https://notifiarr.wiki/): You just found one of the coolest tools on the Internet for a homelab enthusiast. We do notifications. We do them right.
+- [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma): Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services. <https://getastroluma.com/>
 
 ## HomeKit / IoT
 

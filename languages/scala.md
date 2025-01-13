@@ -80,12 +80,15 @@
 - [reibitto/sbt-welcome](https://github.com/reibitto/sbt-welcome): An SBT plugin for displaying a welcome message and commonly used tasks.
 - [guardian/gha-scala-library-release-workflow](https://github.com/guardian/gha-scala-library-release-workflow): Publishing Scala libraries to Maven Central using GitHub Actions
 - [scalacenter/sbt-version-policy](https://github.com/scalacenter/sbt-version-policy): Compatibility checks for your dependencies
+- [earldouglas/sbt-lit](https://github.com/earldouglas/sbt-lit): Literate programming with sbt
 
 ### Mill
 
 - [lewisjkl/header](https://github.com/lewisjkl/header): Header automation and linting 🎉
-- [alexarchambault/mill-native-image](https://github.com/alexarchambault/mill-native-image): This is a Mill plugin which allows building executables using GraalVM native-image for your modules.
 - [lefou/millw](https://github.com/lefou/millw): Mill Wrapper Script
+- [alexarchambault/mill-native-image](https://github.com/alexarchambault/mill-native-image): This is a Mill plugin which allows building executables using GraalVM native-image for your modules.
+- [lolgab/mill-crossplatform](https://github.com/lolgab/mill-crossplatform): Mill Plugin to ease Cross Platform projects <https://lolgab.github.io/mill-crossplatform/>
+- [lolgab/mill-mima](https://github.com/lolgab/mill-mima): MiMa Plugin for Mill <https://lolgab.github.io/mill-mima/>
 
 ### Testing
 
@@ -104,11 +107,6 @@
 - [shardulc/tasty-interpreter](https://github.com/shardulc/tasty-interpreter): Reference interpreter for TASTy, the Scala 3 interchange format
 - [epfl-lara/bolts](https://github.com/epfl-lara/bolts): Bolts: Stainless Verified Scala Examples
 
-### Cross platform
-
-- [lolgab/mill-crossplatform](https://github.com/lolgab/mill-crossplatform): Mill Plugin to ease Cross Platform projects <https://lolgab.github.io/mill-crossplatform/>
-- 🌟 [michalbogacz/scala-bazel-monorepo](https://github.com/michalbogacz/scala-bazel-monorepo): Example monorepo with Bazel and Scala
-
 ### CI Actions
 
 ### Graal VM
@@ -117,18 +115,39 @@
 
 ### Tools
 
-- [earldouglas/sbt-lit](https://github.com/earldouglas/sbt-lit): Literate programming with sbt
 - [jpablo/type-explorer](https://github.com/jpablo/type-explorer): Code exploration via diagrams
 - [VirtusLab/graphbuddy](https://github.com/VirtusLab/graphbuddy): Graph Buddy helps you to understand the code better <https://graphbuddy.virtuslab.com/>
 - [VirtusLab/scala-cli-setup](https://github.com/VirtusLab/scala-cli-setup): ▶️ Scala CLI setup GitHub Action
 
-## Scala Native
+## Cross platforms
 
+### Shims
+
+- 🌟 [michalbogacz/scala-bazel-monorepo](https://github.com/michalbogacz/scala-bazel-monorepo): Example monorepo with Bazel and Scala
+- [ekrich/sconfig](https://github.com/ekrich/sconfig): Scala configuration library supporting HOCON for Scala, Java, Scala.js, and Scala Native
+
+Do a benchmark (final size while using Scala Native) for them?
+
+- [vpavkin/dtc](https://github.com/vpavkin/dtc): Provides type classes for datetime values. Works both on JVM & ScalaJS. <https://vpavkin.github.io/dtc/api>
+- [cquiroz/scala-java-time](https://github.com/cquiroz/scala-java-time): Implementation of the `java.time` API in scala. Especially useful for scala.js <http://cquiroz.github.io/scala-java-time/>
+- [ekrich/sjavatime](https://github.com/ekrich/sjavatime): Implementation of java.time for Scala.js and Scala Native
+
+### Born for crossing all
+
+- [ComputeNode/scalag](https://github.com/ComputeNode/scalag): Multi-platform GPGPU computations with Scala, seamlessly 🚀
+
+### Scala Native
+
+- [quelgar/scala-uv](https://github.com/quelgar/scala-uv): Scala Native language bindings for libuv
 - [RustFields/scala-native-rust-interoperability-example](https://github.com/RustFields/scala-native-rust-interoperability-example): This example shows how to integrate Rust code in a Scala project thanks to the interoperability of Rust and Scala Native with C. The project is structured in the following way:
 - [indoorvivants/scala-native-binary-template](https://github.com/indoorvivants/scala-native-binary-template): Template to bootstrap Scala Native CLI projects, uploading platform binaries to Github Releases artifacts
 
-## Scala.js
+### Scala.js
 
+- [raquo/Laminar](https://github.com/raquo/Laminar): Simple, expressive, and safe UI library for Scala.js <https://laminar.dev>
+- [ScalablyTyped/Converter](https://github.com/ScalablyTyped/Converter): Typescript to Scala.js converter <https://scalablytyped.org>
+- [PurpleKingdomGames/tyrian](https://github.com/PurpleKingdomGames/tyrian): Elm-inspired Scala UI library. <https://tyrian.indigoengine.io>
+- [lolgab/snunit](https://github.com/lolgab/snunit): Scala Native HTTP server based on NGINX Unit <https://lolgab.github.io/snunit/>
 - [windymelt/esbuild-plugin-scalajs](https://github.com/windymelt/esbuild-plugin-scalajs): ESBuild Plugin to bundle Scala.js module
 
 ## Featured
@@ -207,7 +226,6 @@
 - [Banno/kafka4s](https://github.com/Banno/kafka4s): Functional programming with Kafka and Scala <https://banno.github.io/kafka4s>
 - [cequence-io/openai-scala-client](https://github.com/cequence-io/openai-scala-client): Scala client for OpenAI API
 - [softwaremill/sttp-openai](https://github.com/softwaremill/sttp-openai)
-- [quelgar/scala-uv](https://github.com/quelgar/scala-uv): Scala Native language bindings for libuv
 - [finagle/finch](https://github.com/finagle/finch): Scala combinator library for building Finagle HTTP services <https://finagle.github.io/finch>
 - [com-lihaoyi/scalasql](https://github.com/com-lihaoyi/scalasql): Query SQL databases from Scala via concise, type-safe, and familiar case classes and collection operations. Supports Postgres, MySql, H2, and Sqlite out of the box
 - [slack-scala-client/slack-scala-client](https://github.com/slack-scala-client/slack-scala-client): A scala library for interacting with the slack api and real time messaging interface
@@ -226,41 +244,40 @@
 - [joan38/moulin](https://github.com/joan38/moulin): Build multi-projects with Scala CLI
 - [com-lihaoyi/mainargs](https://github.com/com-lihaoyi/mainargs): A small, convenient, dependency-free library for command-line argument parsing in Scala
 - [neandertech/cue4s](https://github.com/neandertech/cue4s): Experimental library for CLI prompts in Scala 3, available on JS, JVM, and Native platforms
+- [oyvindberg/tui-scala](https://github.com/oyvindberg/tui-scala): Beautiful Text-based User Interfaces for Scala
 
-### Tools
+### Utils
 
+- [scala/toolkit](https://github.com/scala/toolkit): The batteries-included Scala
+- [com-lihaoyi/PPrint](https://github.com/com-lihaoyi/PPrint): Pretty-printing value, types and type-signatures in Scala <https://com-lihaoyi.github.io/PPrint/>
+- 🌟 [com-lihaoyi/sourcecode](https://github.com/com-lihaoyi/sourcecode): Scala library providing "source" metadata to your program, similar to Python's **name**, C++'s **LINE** or Ruby's **FILE**.
+- [Comcast/ip4s](https://github.com/Comcast/ip4s): Defines immutable, safe data structures for describing IP addresses, multicast joins, socket addresses and similar IP & network related data types
+- [lemonlabsuk/scala-uri](https://github.com/lemonlabsuk/scala-uri): Simple scala library for building and parsing URIs
+- [eed3si9n/ifdef](https://github.com/eed3si9n/ifdef): `@ifdef` is an annotation that implements conditional compilation in Scala
+- [Quafadas/scautable](https://github.com/Quafadas/scautable): Table utils, one line CSV imports - the fundamental assumption is that a table is a Iterator of iterable of Product or Tuple <https://quafadas.github.io/scautable/docs>
+
+### Misc
+
+- [scalameta/mdoc](https://github.com/scalameta/mdoc): Typechecked markdown documentation for Scala <https://scalameta.org/mdoc>
+- [conduktor/scala-api-template](https://github.com/conduktor/scala-api-template): Example Scala API to bootstrap new projects <https://www.conduktor.io>
+- [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper): A Scala library for scraping content from HTML pages
+- [VirtusLab/iskra](https://github.com/VirtusLab/iskra): Typesafe wrapper for Apache Spark DataFrame API <https://virtuslab.github.io/iskra/>
+- [kcrypt/scala-blake3](https://github.com/kcrypt/scala-blake3): This is a highly optimized blake3 implementation for scala, scala-js and scala-native
+- [kcrypt/scala-sha](https://github.com/kcrypt/scala-sha): SHA and Shake for scala
+- [makingthematrix/signals3](https://github.com/makingthematrix/signals3): A lightweight event streaming library for Scala 3
+- [propensive/contextual](https://github.com/propensive/contextual): Statically-checked string interpolation in Scala <https://propensive.com/contextual/>
+- [andyglow/scala-jsonschema](https://github.com/andyglow/scala-jsonschema): Scala JSON Schema
+
+## Tools
+
+- [JD557/interim](https://github.com/JD557/interim): Immediate mode GUI in pure Scala
+- [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>
 - [scalapy/scalapy](https://github.com/scalapy/scalapy): Use the world of Python from the comfort of Scala!
 - [almond-sh/almond](https://github.com/almond-sh/almond): A Scala kernel for Jupyter <https://almond.sh>
 - [polynote/polynote](https://github.com/polynote/polynote): A better notebook for Scala (and more) <https://polynote.org>
 - [lampepfl/dotty-macro-examples](https://github.com/lampepfl/dotty-macro-examples): Various tasks solved via metaprogramming in Dotty
-- [makingthematrix/signals3](https://github.com/makingthematrix/signals3): A lightweight event streaming library for Scala 3
-- [scala/toolkit](https://github.com/scala/toolkit): The batteries-included Scala
-- [andyglow/scala-jsonschema](https://github.com/andyglow/scala-jsonschema): Scala JSON Schema
-- [propensive/contextual](https://github.com/propensive/contextual): Statically-checked string interpolation in Scala <https://propensive.com/contextual/>
-- [eed3si9n/ifdef](https://github.com/eed3si9n/ifdef): `@ifdef` is an annotation that implements conditional compilation in Scala
 - [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR): A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster. <https://www.logorrr.app/>
 - [felher/s3te](https://github.com/felher/s3te): A scala 3 tree explorer for the reflect module
-
-### Misc
-
-- [raquo/Laminar](https://github.com/raquo/Laminar): Simple, expressive, and safe UI library for Scala.js <https://laminar.dev>
-- [PurpleKingdomGames/tyrian](https://github.com/PurpleKingdomGames/tyrian): Elm-inspired Scala UI library. <https://tyrian.indigoengine.io>
-- [scalameta/mdoc](https://github.com/scalameta/mdoc): Typechecked markdown documentation for Scala <https://scalameta.org/mdoc>
-- [oyvindberg/tui-scala](https://github.com/oyvindberg/tui-scala): Beautiful Text-based User Interfaces for Scala
-- [com-lihaoyi/PPrint](https://github.com/com-lihaoyi/PPrint): Pretty-printing value, types and type-signatures in Scala <https://com-lihaoyi.github.io/PPrint/>
-- [JD557/interim](https://github.com/JD557/interim): Immediate mode GUI in pure Scala
-- [ScalablyTyped/Converter](https://github.com/ScalablyTyped/Converter): Typescript to Scala.js converter <https://scalablytyped.org>
-- [vpavkin/dtc](https://github.com/vpavkin/dtc): Provides type classes for datetime values. Works both on JVM & ScalaJS. <https://vpavkin.github.io/dtc/api>
-- [cquiroz/scala-java-time](https://github.com/cquiroz/scala-java-time): Implementation of the `java.time` API in scala. Especially useful for scala.js <http://cquiroz.github.io/scala-java-time/>
-- [conduktor/scala-api-template](https://github.com/conduktor/scala-api-template): Example Scala API to bootstrap new projects <https://www.conduktor.io>
-- [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper): A Scala library for scraping content from HTML pages
-- [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>
-- 🌟 [com-lihaoyi/sourcecode](https://github.com/com-lihaoyi/sourcecode): Scala library providing "source" metadata to your program, similar to Python's **name**, C++'s **LINE** or Ruby's **FILE**.
-- [lolgab/snunit](https://github.com/lolgab/snunit): Scala Native HTTP server based on NGINX Unit <https://lolgab.github.io/snunit/>
-- [VirtusLab/iskra](https://github.com/VirtusLab/iskra): Typesafe wrapper for Apache Spark DataFrame API <https://virtuslab.github.io/iskra/>
-- [ComputeNode/scalag](https://github.com/ComputeNode/scalag): Multi-platform GPGPU computations with Scala, seamlessly 🚀
-- [Comcast/ip4s](https://github.com/Comcast/ip4s): Defines immutable, safe data structures for describing IP addresses, multicast joins, socket addresses and similar IP & network related data types
-- [lemonlabsuk/scala-uri](https://github.com/lemonlabsuk/scala-uri): Simple scala library for building and parsing URIs
 
 ## Frameworks
 
@@ -339,12 +356,16 @@
 - [saddle/saddle](https://github.com/saddle/saddle): SADDLE: Scala Data Library <http://saddle.github.com>
 - [sterglee/scalalab](https://github.com/sterglee/scalalab): ScalaLab: Efficient MATLAB like scientific computing for the Java platform with the current Scala 2.13. For Scala 3 the equivalent project is dottylab: https://github.com/sterglee/dottylab
 - [inkytonik/kiama](https://github.com/inkytonik/kiama): A Scala library for language processing.
+- [dragonfly-ai/slash](https://github.com/dragonfly-ai/slash): Linear Algebra and Statistics library for Scala.js, JVM, and Native. <https://dragonfly-ai.github.io/slash/>
+- [dragonfly-ai/vector](https://github.com/dragonfly-ai/vector): A Scala.js Vector and Math library for image processing, scientific/information visualization, and game development.
+- [dragonfly-ai/narr](https://github.com/dragonfly-ai/narr): Scala.js abstraction for a common core of features shared by Array[T], js.Array[T], and the JavaScript TypedArray family of Arrays..
+- [Quafadas/vecxt](https://github.com/Quafadas/vecxt): Freeing you from the tyranny of having to choose which platform you write your compute intense workload for. Making cross platform, compute intense linear alegbra problems less... vexing. <https://quafadas.github.io/vecxt/docs>
+- 🌟 [ekrich/sblas](https://github.com/ekrich/sblas): Scala Native BLAS (Basic Linear Algebra Subprograms) supporting Linux and macOS
+- [Quafadas/dedav4s](https://github.com/Quafadas/dedav4s): Declarative Data Viz 4 Scala <https://quafadas.github.io/dedav4s/>
 
-### for Data Intensive System
+### kotlin for Data Intensive System
 
 - [Kotlin/multik](https://github.com/Kotlin/multik): Multidimensional array library for Kotlin. <https://kotlin.github.io/multik/>
 - [Kotlin/dataframe](https://github.com/Kotlin/dataframe): Structured data processing in Kotlin <https://kotlin.github.io/dataframe/>
-- [haifengl/smile](https://github.com/haifengl/smile): Statistical Machine Intelligence & Learning Engine <https://haifengl.github.io/>
 - [SciProgCentre/kmath](https://github.com/SciProgCentre/kmath): Kotlin mathematics extensions library
-- [dragonfly-ai/vector](https://github.com/dragonfly-ai/vector): A Scala.js Vector and Math library for image processing, scientific/information visualization, and game development.
 - 🌟 [breandan/kotlingrad](https://github.com/breandan/kotlingrad): 🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types <https://breandan.net/public/masters_thesis.pdf#page=49>

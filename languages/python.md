@@ -74,6 +74,9 @@
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs): Run `black` on python code blocks in documentation files
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer): A fast static code analyzer & language server for Python <http://mtshiba.github.io/pylyzer/>
 - [gauge-sh/tach](https://github.com/gauge-sh/tach): A Python tool to enforce a modular, decoupled package architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust <https://gauge-sh.github.io/tach/>
+- How to build a signature compatiblity linter on top of ... ?
+  - [pomponchik/sigmatch](https://github.com/pomponchik/sigmatch): A quick way to verify function signatures in Python
+  - Feel much confident while doing developments using `mima` (Scala)
 
 ### Build tools
 
@@ -383,6 +386,7 @@
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen): Automatic model code generator for SQLAlchemy
 - [RaRe-Technologies/sqlitedict](https://github.com/RaRe-Technologies/sqlitedict): Persistent dict, backed by sqlite3 and pickle, multithread-safe.
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils): Python CLI utility and library for manipulating SQLite databases
+  - [simonw/sqlite-utils-tui](https://github.com/simonw/sqlite-utils-tui): Terminal UI for sqlite-utils
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py): Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use <https://prisma-client-py.readthedocs.io>
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic): A database migrations tool for SQLAlchemy.
 - [jolt-org/advanced-alchemy](https://github.com/jolt-org/advanced-alchemy): A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy <https://docs.advanced-alchemy.jolt.rs/>
@@ -548,6 +552,7 @@
 - [ZechCodes/Bevy](https://github.com/ZechCodes/Bevy): A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. <https://blog.zech.codes/bevy-v2>
 - [pradyunsg/diagnostic](https://github.com/pradyunsg/diagnostic): `diagnostic` makes it easier to build command line tools with great error reporting. <https://diagnostic.readthedocs.io/en/latest/>
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts): Intuitive, easy CLIs based on python type hints.
+- [vlandeiro/yakari](https://github.com/vlandeiro/yakari): Yakari: an interactive command building tool
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict): 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - 🌟 [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
 - [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python

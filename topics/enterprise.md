@@ -114,6 +114,9 @@
 - [Netflix/maestro](https://github.com/Netflix/maestro): Maestro: Netflix’s Workflow Orchestrator
 - [kestra-io/kestra](https://github.com/kestra-io/kestra): ⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... <https://kestra.io>
 - [activepieces/activepieces](https://github.com/activepieces/activepieces): Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative <https://www.activepieces.com>
+- [inngest/inngest](https://github.com/inngest/inngest): The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge. <https://www.inngest.com/docs>
+- [flyteorg/flyte](https://github.com/flyteorg/flyte): Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. <https://flyte.org>
+  - from uber
 
 ### HPC Cluster manager / Job Scheduler
 

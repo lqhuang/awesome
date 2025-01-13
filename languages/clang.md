@@ -41,6 +41,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [Software optimization resources - Agner](https://www.agner.org/optimize/)
 - [mcinglis/c-style](https://github.com/mcinglis/c-style): My favorite C programming practices.
 - [How to Actually Write C](https://zackoverflow.dev/writing/how-to-actually-write-c): How to actually write non-trivial programs in C
+- [Why You Need Sccache](https://elijahpotter.dev/articles/why_you_need_sccache): You might not actually need it.
 
 ### Books
 
@@ -166,6 +167,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [tidwall/neco](https://github.com/tidwall/neco): Concurrency library for C (coroutines)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue): A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [dermesser/uvco](https://github.com/dermesser/uvco): C++20 Coroutines running on libuv for intuitive async I/O <https://borgac.net/~lbo/doc/uvco/>
+- [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro): A library of C++ coroutine abstractions for the coroutines TS
 
 ## Network
 

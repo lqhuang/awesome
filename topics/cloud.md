@@ -142,6 +142,7 @@
 
 ### Resources
 
+- [lars-solberg/kubesec-diagram](https://github.com/lars-solberg/kubesec-diagram): This is a digram made to better understand and get an overview of kubernetes security.
 - [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook): Kubernetes 中文指南/云原生应用架构实战手册 <https://jimmysong.io/kubernetes-handbook>
 
 ### Distribution

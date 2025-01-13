@@ -223,6 +223,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom): 🔎🖼 A JavaScript library for zooming images like Medium <https://medium-zoom.francoischalifour.com>
 - [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom): 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016) <https://rpearce.github.io/react-medium-image-zoom/>
 
+- [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build and send emails using React <https://react.email>
+
 #### Shadcn UI eco system
 
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui. <https://awesome-shadcn-ui.vercel.app/>
