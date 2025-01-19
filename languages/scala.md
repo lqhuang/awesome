@@ -109,6 +109,8 @@
 
 ### CI Actions
 
+- [jrouly/scalafmt-native-action](https://github.com/jrouly/scalafmt-native-action): GitHub action to run scalafmt.
+
 ### Graal VM
 
 - [oracle/graalvm-reachability-metadata](https://github.com/oracle/graalvm-reachability-metadata): Repository which contains community-driven collection of GraalVM reachability metadata for open-source libraries.
@@ -245,6 +247,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [com-lihaoyi/mainargs](https://github.com/com-lihaoyi/mainargs): A small, convenient, dependency-free library for command-line argument parsing in Scala
 - [neandertech/cue4s](https://github.com/neandertech/cue4s): Experimental library for CLI prompts in Scala 3, available on JS, JVM, and Native platforms
 - [oyvindberg/tui-scala](https://github.com/oyvindberg/tui-scala): Beautiful Text-based User Interfaces for Scala
+- [creativescala/terminus](https://github.com/creativescala/terminus): Terminal interaction for Scala
 
 ### Utils
 
@@ -289,7 +292,10 @@ Do a benchmark (final size while using Scala Native) for them?
 
 - 🌟 [atnos-org/eff](https://github.com/atnos-org/eff): Eff monad for cats <https://atnos-org.github.io/eff>
 - [TomasMikula/libretto](https://github.com/TomasMikula/libretto): Declarative concurrency and stream processing library for Scala
-- [strymonas/strymonas](https://github.com/strymonas/strymonas): Fast streams for Scala 3
+- [strymonas/strymonas-scala](https://github.com/strymonas/strymonas-scala): Fast streams for Scala 3
+  - So I could make a Python version? 🤔
+  - [PDF: A Practical Unication of Multi-stage Programming and Macros](https://biboudis.github.io/papers/pcp-gpce18.pdf)
+  - [Stream fusion, to completeness | ACM SIGPLAN Notices](https://dl.acm.org/doi/10.1145/3093333.3009880)
 - [getkyo/kyo](https://github.com/getkyo/kyo): Toolkit for Scala Development <https://getkyo.io>
 - [marcinzh/turbolift](https://github.com/marcinzh/turbolift): Algebraic Effects for Scala 3 <https://marcinzh.github.io/turbolift>
 

@@ -20,6 +20,7 @@
 - [Haskell Poll Results](https://www.stephendiehl.com/posts/poll.html)
 - [/wiki/haskell/learning Links](http://jackkelly.name/wiki/haskell/learning.html)
 - [haskell-perf/checklist](https://github.com/haskell-perf/checklist): The Haskell performance checklist
+- [Simple Haskell](https://www.simplehaskell.org/)
 
 ### Readings
 
@@ -36,6 +37,8 @@
 - [可应用函子的可组合性之缘起](https://zhuanlan.zhihu.com/p/699260802)
 - [Understanding contravariance](https://typeclasses.com/contravariance)
 - [Avoiding space leaks at all costs](https://chshersh.com/space-leak)
+- [Alexis King’s Blog](https://lexi-lambda.github.io/)
+  - IMHO, I suggest reading all the posts.
 
 ### Courses
 

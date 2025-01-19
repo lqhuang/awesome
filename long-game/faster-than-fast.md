@@ -35,3 +35,15 @@
 - 🌟 [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
   - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust): Super-fast float parser in Rust (now part of Rust core) <https://docs.rs/fast-float>
 - [dtolnay/ryu](https://github.com/dtolnay/ryu): Fast floating point to string conversion
+
+## Rapids AI
+
+- [cupy/cupy](https://github.com/cupy/cupy): NumPy & SciPy for GPU <https://cupy.dev>
+  - [nv-legate/cupynumeric](https://github.com/nv-legate/cupynumeric): An Aspiring Drop-In Replacement for NumPy at Scale <https://docs.nvidia.com/cupynumeric>
+- [rapidsai/cudf](https://github.com/rapidsai/cudf): cuDF - GPU DataFrame Library <http://rapids.ai>
+- [rapidsai/cuml](https://github.com/rapidsai/cuml): cuML - RAPIDS Machine Learning Library
+- [rapidsai/cugraph](https://github.com/rapidsai/cugraph): cuGraph - RAPIDS Graph Analytics Library
+  - [rapidsai/nx-cugraph](https://github.com/rapidsai/nx-cugraph): GPU Accelerated Backend for NetworkX
+- [rapidsai/cucim](https://github.com/rapidsai/cucim): cuCIM - RAPIDS GPU-accelerated image processing library <https://docs.rapids.ai/api/cucim/stable/>
+- [rapidsai/cuvs](https://github.com/rapidsai/cuvs): cuVS - a library for vector search and clustering on the GPU <https://rapids.ai>
+- [rapidsai/devcontainers](https://github.com/rapidsai/devcontainers): This repository contains features and workflows for building development containers to support local dev and CI for NVIDIA RAPIDS, CCCL, and Legate.

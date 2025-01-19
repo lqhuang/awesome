@@ -179,6 +179,7 @@
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts): Turn your OpenAPI specification into a beautiful TypeScript client <https://npmjs.com/package/@hey-api/openapi-ts>
 - [nodeshift/opossum](https://github.com/nodeshift/opossum): Node.js circuit breaker - fails fast ⚡️ <https://nodeshift.dev/opossum/>
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3): The fastest and simplest library for SQLite3 in Node.js.
+- [pmndrs/react-nil](https://github.com/pmndrs/react-nil): ⃝ A react null renderer
 
 ### PDF
 

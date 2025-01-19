@@ -28,6 +28,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 ### Readings
 
 - [Ref Callbacks, React 19 and the Compiler | TkDodo's blog](https://tkdodo.eu/blog/ref-callbacks-react-19-and-the-compiler): Reflecting on useCallback, how the Compiler changed my thinking about it, and what React 19 has in store for Ref Callbacks...
+- [Jack Duvall's Blog - All Javascript Keyboard Shortcut Libraries Are Broken](https://blog.duvallj.pw/posts/2025-01-10-all-javascript-keyboard-shortcut-libraries-are-broken.html): Either subtly, or not-so-subtly. There is no way to fix the more subtle variant, and the only solution is to Give Up (on supporting a large subset of keyboard shortcuts).
 
 ### Tutorials
 
@@ -143,6 +144,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui): <https://cult-ui.com/>
 - [mui/base-ui](https://github.com/mui/base-ui): Base UI is an open-source library of accessible, unstyled UI components for React. <https://base-ui.com>
 - [Codehagen/Prismui](https://github.com/Codehagen/Prismui): A fully customizable component library built on top of shadcn/ui. Beautiful, accessible, and ready for production. <https://prismui.tech>
+- 🌟 [serafimcloud/21st](https://github.com/serafimcloud/21st): npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks <https://21st.dev>
 
 #### Svelte
 
@@ -291,6 +293,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - The main tradeoff with not using the HTML5 Drag and drop API is that you won't be able to drag from the desktop or between windows.
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd): Drag and Drop for React <http://react-dnd.github.io/react-dnd>
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop): Fast drag and drop for any experience on any tech stack <https://atlassian.design/components/pragmatic-drag-and-drop>
+- 🌟 [mathuo/dockview](https://github.com/mathuo/dockview): Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue. <https://dockview.dev>
+- [Shopify/draggable](https://github.com/Shopify/draggable): The JavaScript Drag & Drop library your grandparents warned you about. <https://shopify.github.io/draggable>
 
 #### Table
 

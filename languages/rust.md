@@ -46,6 +46,7 @@
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope): Interactive visualizations of Rust at compile-time and run-time <https://cognitive-engineering-lab.github.io/aquascope/>
 - [Rust 语言术语中英文对照表](https://rustwiki.org/wiki/translate/english-chinese-glossary-of-rust/)
 - [rewrite-bigdata-in-rust/RBIR](https://github.com/rewrite-bigdata-in-rust/RBIR): No description, website, or topics provided.
+- [dtolnay/case-studies](https://github.com/dtolnay/case-studies): Analysis of various tricky Rust code
 
 ## Build
 

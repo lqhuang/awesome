@@ -23,6 +23,10 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp): Learning how to write "Less Slow" code in C++20, from numerical micro-kernels and SIMD to coroutines, ranges, and polymorphic state machines <https://ashvardanian.com/posts/google-benchmark/>
 - 🌟 [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css): Custom CSS theme for doxygen html-documentation with lots of customization parameters. <https://jothepro.github.io/doxygen-awesome-css/>
 - [landerrosette/algs4](https://github.com/landerrosette/algs4): Algorithms, 4th edition textbook code in C++
+- [Learn Contemporary C++ | hacking C++](https://hackingcpp.com/index.html): Learn up-to-date, idiomatic C++ with code examples, concise explanations, cheat sheets and infographics. -- Lerne aktuelles, idiomatisches C++ mit Code-Beispielen, knappen Erklärungen und Infografiken.
+- [#1 The state of C++ package management: The big three - twdev.blog](https://twdev.blog/2024/08/cpp_pkgmng1)
+  - [#2 The state of C++ package management: The underdogs(?) - twdev.blog](https://twdev.blog/2024/08/cpp_pkgmng2/#cpm)
+  - [#3 The state of C++ package management: The build systems - twdev.blog](https://twdev.blog/2024/09/cpp_pkgmng3/)
 
 ### Readings
 
@@ -42,6 +46,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [mcinglis/c-style](https://github.com/mcinglis/c-style): My favorite C programming practices.
 - [How to Actually Write C](https://zackoverflow.dev/writing/how-to-actually-write-c): How to actually write non-trivial programs in C
 - [Why You Need Sccache](https://elijahpotter.dev/articles/why_you_need_sccache): You might not actually need it.
+- [Padding and alignment in structs](https://elric.pl/blog/struct-padding): Quick explainer of byte ordering in Java class file
 
 ### Books
 
@@ -154,6 +159,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [soasis/text](https://github.com/soasis/text): A spicy text library for C++ that has the explicit goal of enabling the entire ecosystem to share in proper forward progress towards a bright Unicode future. <https://ztdtext.readthedocs.io/en/latest/>
 - [unicode-org/icu4x](https://github.com/unicode-org/icu4x): Solving i18n for client-side and resource-constrained environments. <https://icu4x.unicode.org>
 - [openucx/ucx](https://github.com/openucx/ucx): Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group) <http://www.openucx.org>
+- [pantor/inja](https://github.com/pantor/inja): A Template Engine for Modern C++ <https://pantor.github.io/inja/>
 
 ## Async / Concurrency
 
@@ -192,6 +198,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire): ArrayFire: a general purpose GPU library. <https://arrayfire.com>
 - [NVIDIA/cccl](https://github.com/NVIDIA/cccl): CUDA C++ Core Libraries
 - [lights0123/hipscript](https://github.com/lights0123/hipscript): Online compiler for HIP and NVIDIA® CUDA® code to WebGPU <https://hipscript.lights0123.com/>
+- [NVIDIA/cccl](https://github.com/NVIDIA/cccl): CUDA Core Compute Libraries <https://nvidia.github.io/cccl/>
 
 ## HPC / SIMD / Vectorization
 

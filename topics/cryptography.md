@@ -1,5 +1,9 @@
 # Cryptograph
 
+## Readings
+
+- [Choosing a hash function for 2030 and beyond: SHA-2 vs SHA-3 vs BLAKE3](https://kerkour.com/fast-secure-hash-function-sha256-sha512-sha3-blake3)
+
 ## Tools
 
 - [life4/enc](https://github.com/life4/enc): 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.

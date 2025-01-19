@@ -19,6 +19,7 @@
 - [Swift Cookbook by Kodeco](https://www.kodeco.com/books/swift-cookbook): The Swift Cookbook is a collection of common Swift language idioms and best practices that you can quickly refer to while coding.
 - [Shouheng88/AwesomeSwift](https://github.com/Shouheng88/AwesomeSwift): ❤️ SwiftUI All In One Example.
 - [Hacking With Swift](https://www.hackingwithswift.com): With more free Swift tutorials than any other site, Hacking with Swift will help you learn app development with UIKit and SwiftUI. Search the site, or choose a learning path below.
+- [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs): A cheat sheet that helps React developers to quickly start with SwiftUI.
 
 ## Apple
 

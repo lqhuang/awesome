@@ -54,6 +54,7 @@ Streaming Systems
 - [TouK/nussknacker](https://github.com/TouK/nussknacker): Low-code tool for automating actions on real time data | Stream processing for the users. <https://nussknacker.io>
 - 🌟 [feldera/feldera](https://github.com/feldera/feldera): The Feldera Incremental Computation Engine <https://feldera.com>
 - [iggy-rs/iggy](https://github.com/iggy-rs/iggy): Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second. <https://iggy.rs>
+- [SkipLabs/skip](https://github.com/SkipLabs/skip): Skip is a framework for building reactive services <https://skiplabs.io>
 
 ### Streaming Database
 

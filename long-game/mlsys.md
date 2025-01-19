@@ -134,6 +134,12 @@
 - [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens): Tile primitives for speedy kernels
   - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 - [microsoft/vattention](https://github.com/microsoft/vattention): Dynamic Memory Management for Serving LLMs without PagedAttention
+- [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym): Helpful tools and examples for working with flex-attention
+  - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
+
+Research / Science orient
+
+- [facebookresearch/lagrangian-ot](https://github.com/facebookresearch/lagrangian-ot): Neural Optimal Transport with Lagrangian Costs
 
 ### Inference engine / large-scale deployment
 
@@ -367,7 +373,6 @@
 - [pytorch/torcharrow](https://github.com/pytorch/torcharrow): A Pandas-inspired DataFrame library for SQL-like transformation with Pythonic and imperative-style API. Typical use case includes data preprocessing in ML models.
 - [pytorch-labs/torchfix](https://github.com/pytorch-labs/torchfix): TorchFix - a linter for PyTorch-using code with autofix support
 - [pytorch/kineto](https://github.com/pytorch/kineto): A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
-- [rapidsai/cuml](https://github.com/rapidsai/cuml): cuML - RAPIDS Machine Learning Library
 - [huggingface/evaluate](https://github.com/huggingface/evaluate): 🤗 Evaluate: A library for easily evaluating machine learning models and datasets. <https://huggingface.co/docs/evaluate>
 - [mosaicml/streaming](https://github.com/mosaicml/streaming): A Data Streaming Library for Efficient Neural Network Training <https://streaming.docs.mosaicml.com>
 
@@ -464,3 +469,4 @@
   - Extra embeddings which are fed into intermediate attention layers.
 - [zhuzilin/ring-flash-attention](https://github.com/zhuzilin/ring-flash-attention): Ring attention implementation with flash attention
 - [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention): Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton <https://github.com/fla-org/flash-linear-attention>
+- [SonyResearch/micro_diffusion](https://github.com/SonyResearch/micro_diffusion): Official repository for our work on micro-budget training of large-scale diffusion models. <https://arxiv.org/abs/2407.15811>

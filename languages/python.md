@@ -82,7 +82,6 @@
 
 - [project/pdm](https://github.com/pdm-project/pdm): A modern Python package manager with PEP 582 support. <https://pdm.fming.dev>
 - [pypa/hatch](https://github.com/pypa/hatch): Modern, extensible Python project management <https://hatch.pypa.io/latest>
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye): Rye is Armin's personal one-stop-shop for all his Python needs.
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi): Package management made easy <https://prefix.dev>
 - [mamba-org/rattler](https://github.com/mamba-org/rattler): Rust crates to work with the Conda ecosystem.
 - [cruft/cruft](https://github.com/cruft/cruft/): Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter. <https://cruft.github.io/cruft>
@@ -90,13 +89,16 @@
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools): A set of tools to keep your pinned Python dependencies fresh. <https://pip-tools.rtfd.io>
 - [trailofbits/abi3audit](https://github.com/trailofbits/abi3audit): Scans Python packages for abi3 violations and inconsistencies <https://blog.trailofbits.com/2022/11/15/python-wheels-abi-abi3audit>
 - [R9295/panoptisch](https://github.com/R9295/panoptisch): A recursive dependency scanner for Python projects
-- [copier-org/copier](https://github.com/copier-org/copier/): Library and command-line utility for rendering projects templates. <https://readthedocs.org/projects/copier>
-- [python-project-templates](https://github.com/python-project-templates): Python, C++, Rust, JavaScript, Jupyter, and more
 - [njsmith/posy](https://github.com/njsmith/posy): The goal is for posy to act as a kind of high-level frontend to python
-- 🌟 [furkanonder/beetrace](https://github.com/furkanonder/beetrace): Trace your python process line by line with low overhead! <https://desktop.github.com>
 - [prefix-dev/rip](https://github.com/prefix-dev/rip): Solve and install Python packages quickly with rip (pip in Rust) <https://prefix.dev>
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith): Tooling support for the Polylith Architecture in Python. <https://davidvujic.github.io/python-polylith-docs/>
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath): Inspect and refine PATH environment variable on Windows, Linux and MacOS.
+
+Templates
+
+- [copier-org/copier](https://github.com/copier-org/copier/): Library and command-line utility for rendering projects templates. <https://readthedocs.org/projects/copier>
+- [python-project-templates](https://github.com/python-project-templates): Python, C++, Rust, JavaScript, Jupyter, and more
+- [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv): A modern cookiecutter template for Python projects that use uv for dependency management <https://fpgmaas.github.io/cookiecutter-uv>
 
 ### CI/CD
 
@@ -132,7 +134,7 @@
 - 🌟 [lepture/shibuya](https://github.com/lepture/shibuya): A responsive, good looking with modern design documentation theme for Sphinx <https://shibuya.lepture.com>
 - [sphinx-contrib/emojicodes](https://github.com/sphinx-contrib/emojicodes): An extension to use emoji codes in your Sphinx documentation! 😍 <https://sphinxemojicodes.readthedocs.io>
 - [sphinx-contrib/kroki](https://github.com/sphinx-contrib/kroki): Embed PlantUML, DOT, etc. diagrams in your documentation using Kroki.
-- [spatialaudio/nbsphinx](https://github.com/spatialaudio/nbsphinx): 📒 Sphinx source parser for Jupyter notebooks <https://nbsphinx.readthedocs.io/>
+- 🌟 [spatialaudio/nbsphinx](https://github.com/spatialaudio/nbsphinx): 📒 Sphinx source parser for Jupyter notebooks <https://nbsphinx.readthedocs.io/>
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe): Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API. <https://mkdocstrings.github.io/griffe>
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc): API Documentation for Python Projects <https://pdoc.dev>
 - [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog): Automatic Changelog generator using Jinja2 templates. <https://pawamoy.github.io/git-changelog>
@@ -209,6 +211,7 @@
 - [tonybaloney/rich-bench](https://github.com/tonybaloney/rich-bench): A little benchmarking tool for Python
 - [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy): coredumpy saves your crash site for post-mortem debugging
 - [compiler-research/idd](https://github.com/compiler-research/idd): A System for Differential Debugging
+- 🌟 [furkanonder/beetrace](https://github.com/furkanonder/beetrace): Trace your python process line by line with low overhead! <https://desktop.github.com>
 
 ## Functional Programming in Python
 
@@ -288,7 +291,6 @@
 - [symbolic-kg/PyClause](https://github.com/symbolic-kg/PyClause): A libary for using and learning symbolic rules for knowledge graphs
 - [benruijl/symbolica](https://github.com/benruijl/symbolica): A modern computer algebra library for Python and Rust. <https://symbolica.io>
 - [wilson-labs/cola](https://github.com/wilson-labs/cola): Compositional Linear Algebra
-- [nv-legate/cupynumeric](https://github.com/nv-legate/cupynumeric): An Aspiring Drop-In Replacement for NumPy at Scale <https://docs.nvidia.com/cupynumeric>
 - [shapely/shapely](https://github.com/shapely/shapely): Manipulation and analysis of geometric objects <https://shapely.readthedocs.io/en/stable/>
 
 ### Pandas Ecosystem / DataFrame orient
@@ -301,7 +303,6 @@
 - [has2k1/plydata](https://github.com/has2k1/plydata): A grammar for data manipulation in Python <https://plydata.readthedocs.io/en/stable>
 - [dask/dask](https://github.com/dask/dask): Parallel computing with task scheduling <https://dask.org>
 - [modin-project/modin](https://github.com/modin-project/modin): Modin: Scale your Pandas workflows by changing a single line of code <http://modin.readthedocs.io>
-- [rapidsai/cudf](https://github.com/rapidsai/cudf): cuDF - GPU DataFrame Library <http://rapids.ai>
 - 🌟 [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker): PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
 - [fugue-project/fugue](https://github.com/fugue-project/fugue): A unified interface for distributed computing. Fugue executes SQL, Python, and Pandas code on Spark, Dask and Ray without any rewrites. <https://fugue-tutorials.readthedocs.io/>
 - [static-frame/static-frame](https://github.com/static-frame/static-frame): Immutable and grow-only Pandas-like DataFrames with a more explicit and consistent interface. <https://static-frame.readthedocs.io>
@@ -424,6 +425,7 @@
 - [glyph/automat](https://github.com/glyph/automat): Self-service finite-state machines for the programmer on the go.
 - [GraiaProject/BroadcastControl](https://github.com/GraiaProject/BroadcastControl): a high performance, highly customizable, elegantly designed event system based on asyncio
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire): A Python package for easy multiprocessing, but faster than multiprocessing
+- [pyper-dev/pyper](https://github.com/pyper-dev/pyper): Concurrent Python made simple
 
 ### High-level data structures
 
@@ -442,6 +444,7 @@
 - 🌟 [fsspec/filesystem_spec](https://github.com/fsspec/filesystem_spec): A specification that python filesystems should adhere to.
 - [developmentseed/obstore](https://github.com/developmentseed/obstore): Simple, fast integration with Amazon S3, Google Cloud Storage, Azure Storage, and S3-compliant APIs like Cloudflare R2 <https://developmentseed.org/obstore>
 - [open-io/oio-sds](https://github.com/open-io/oio-sds): High Performance Software-Defined Object Storage for Big Data and AI, that supports Amazon S3 and Openstack Swift <https://www.openio.io>
+- [dask/fastparquet](https://github.com/dask/fastparquet): python implementation of the parquet columnar file format.
 
 ### Retry
 
@@ -486,6 +489,7 @@
 - [YoSTEALTH/Liburing](https://github.com/YoSTEALTH/Liburing): This is a Python + CFFI wrapper around Liburing C library, which is a helper to setup and tear-down io_uring instances. <https://pypi.org/project/liburing/>
 - [stealthrocket/dispatch-py](https://github.com/stealthrocket/dispatch-py): Python package to develop applications with Dispatch. <https://pypi.org/project/dispatch-py/>
 - [agronholm/asyncfusion](https://github.com/agronholm/asyncfusion): An asynchronous event loop implementation intended to be compatible with both asyncio and Trio
+- [kython28/leviathan](https://github.com/kython28/leviathan): A lightning-fast Zig-powered event loop for Python's asyncio.
 
 ### Middleware
 
@@ -540,6 +544,13 @@
 - [mityax/rustimport](https://github.com/mityax/rustimport): Import Rust source files directly from Python!
 - [cloudflare/stpyv8](https://github.com/cloudflare/stpyv8): Python 3 and JavaScript interoperability. Successor To PyV8 (https://github.com/flier/pyv8)
 
+### Command line interface
+
+- [pradyunsg/diagnostic](https://github.com/pradyunsg/diagnostic): `diagnostic` makes it easier to build command line tools with great error reporting. <https://diagnostic.readthedocs.io/en/latest/>
+- [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts): Intuitive, easy CLIs based on python type hints.
+- [brentyi/tyro](https://github.com/brentyi/tyro): CLI interfaces & config objects, from types <https://brentyi.github.io/tyro>
+- [vlandeiro/yakari](https://github.com/vlandeiro/yakari): Yakari: an interactive command building tool
+
 ### Utils
 
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python module for decorators, wrappers and monkey patching.
@@ -550,9 +561,6 @@
 - [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle): A Python module to customize the process title
 - [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️ <https://glom.readthedocs.io>
 - [ZechCodes/Bevy](https://github.com/ZechCodes/Bevy): A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. <https://blog.zech.codes/bevy-v2>
-- [pradyunsg/diagnostic](https://github.com/pradyunsg/diagnostic): `diagnostic` makes it easier to build command line tools with great error reporting. <https://diagnostic.readthedocs.io/en/latest/>
-- [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts): Intuitive, easy CLIs based on python type hints.
-- [vlandeiro/yakari](https://github.com/vlandeiro/yakari): Yakari: an interactive command building tool
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict): 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
 - 🌟 [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
 - [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
@@ -626,6 +634,7 @@
 - [sqlalchemy/mako](https://github.com/sqlalchemy/mako): Mako Templates for Python <https://www.makotemplates.org>
 - [heuer/segno](https://github.com/heuer/segno): Python QR Code and Micro QR Code encoder <https://pypi.org/project/segno/>
 - 🌟 [google/magika](https://github.com/google/magika): Detect file content types with deep learning <https://google.github.io/magika/>
+- [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor): A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts. <http://pyarmor.dashingsoft.com>
 
 ## Visualization
 

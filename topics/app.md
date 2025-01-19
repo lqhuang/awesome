@@ -11,6 +11,7 @@
 - [fastlane/fastlane](https://github.com/fastlane/fastlane): 🚀 The easiest way to automate building and releasing your iOS and Android apps <https://fastlane.tools>
 - [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise): Bitrise runner CLI - run your automations on your Mac or Linux machine - <https://www.bitrise.io/cli>
 - [gingerbeardman/apple-human-interface-guidelines](https://github.com/gingerbeardman/apple-human-interface-guidelines): Apple Human Interface Guidelines, et al.
+- [SKIP.tools](https://skip.tools/): Build native apps for iPhone and Android with Skip. Skip brings Swift app development to Android.
 
 ## Electron like
 

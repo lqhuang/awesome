@@ -104,6 +104,7 @@
 
 - 🌟 [TopNotch](https://topnotch.app): Makes the notch disappear like a 🥷
 - [CleanShot X](https://cleanshot.com): Capture your Mac’s screen like a pro.
+- [iStat Menus](https://bjango.com/mac/istatmenus/): The ultimate system monitor for your menu bar, with CPU, GPU, memory, network, disk usage, disk activity, temperatures, fans, battery info and more.
 - 🌟 [Shottr](https://shottr.cc): Shottr is a small, fast, human-sized screenshot app built for those who care about pixels. It was crafted with Swift, optimized for M1, and is distributed for free.
 - [Skim](https://skim-app.sourceforge.io): Skim is a PDF reader and note-taker for OS X. It is designed to help you read and annotate scientific papers in PDF, but is also great for viewing any PDF file.
 - [Sensei](https://cindori.com/sensei): Sensei is the ultimate app for optimizing your Mac. Featuring a wide range of advanced cleaning and monitoring features, it's never been easier to maximize your Mac performance.

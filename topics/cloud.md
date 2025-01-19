@@ -59,6 +59,7 @@
 - 🌟 [amir20/dozzle](https://github.com/amir20/dozzle): Realtime log viewer for docker containers. <https://dozzle.dev/>
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc): container image to single executable compiler
 - 🌟 [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui): The simplest and most complete UI for your private registry <https://joxit.dev/docker-registry-ui/>
+- [composecraft/composecraft](https://github.com/composecraft/composecraft): Compose craft is a tool to help you manage, edit and share docker compose files in a GUI way.
 
 ### OS
 
