@@ -123,6 +123,22 @@
 - [Soostone/katip](https://github.com/Soostone/katip): A structured logging framework for Haskell
 - [mtth/tracing](https://github.com/mtth/tracing): Distributed tracing <https://hackage.haskell.org/package/tracing>
 
+## Effect systems
+
+- 🌟 [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful): An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
+- 🌟 [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress effect system for Haskell 🚧
+- [haskell/mtl](https://github.com/haskell/mtl): The Monad Transformer Library <http://www.haskell.org/haskellwiki/Monad_Transformers>
+- 🌟 [fused-effects/fused-effects](https://github.com/fused-effects/fused-effects): A fast, flexible, fused effect system for Haskell
+- [re-xyr/speff](https://github.com/re-xyr/speff): Fast higher-order effect handlers with evidence passing
+- [re-xyr/cleff](https://github.com/re-xyr/cleff): Fast and concise extensible effects <https://hackage.haskell.org/package/cleff>
+- [patrickt/effects-benchmarks](https://github.com/patrickt/effects-benchmarks): Benchmarking Haskell extensible-effect libraries.
+- [polysemy-research/polysemy](https://github.com/polysemy-research/polysemy): ♊ higher-order, no-boilerplate monads
+- [sayo-hs/heftia](https://github.com/sayo-hs/heftia): higher-order effects done right for Haskell
+
+## Dependent type
+
+- [ollef/sixty](https://github.com/ollef/sixty): Dependent type checker using normalisation by evaluation
+
 ## Linear Haskell
 
 - [tweag/linear-base](https://github.com/tweag/linear-base): Standard library for linear types in Haskell.

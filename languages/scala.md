@@ -170,6 +170,7 @@ Do a benchmark (final size while using Scala Native) for them?
   - ulid
 - [VirtusLab/scala-yaml](https://github.com/VirtusLab/scala-yaml):
 - [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka): Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc. <https://softwaremill.github.io/bootzooka/>
+- [mpilquist/persistence](https://github.com/mpilquist/persistence): Various persistent collections for Scala
 
 ### Experiments
 

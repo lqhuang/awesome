@@ -123,7 +123,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 #### React
 
-- [nextui-org/nextui](https://github.com/nextui-org/nextui): 🚀 Beautiful, fast and modern React UI library. <https://nextui.org>
+- [heroui-inc/heroui](https://github.com/heroui-inc/heroui): 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) <https://heroui.com>
 - [mantinedev/mantine](https://github.com/mantinedev/mantine/): React components library with native dark theme support <https://mantine.dev>
 - [reach/reach-ui](https://github.com/reach/reach-ui): The Accessible Foundation for React Apps and Design Systems <https://reach.tech> #design-system
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui): ⚡️ Simple, Modular & Accessible UI Components for your React Applications <https://chakra-ui.com>
@@ -164,7 +164,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [tw-in-js/twind](https://github.com/tw-in-js/twind): The smallest, fastest, most feature complete Tailwind-in-JS solution in existence. <https://twind.style>
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract): Zero-runtime Stylesheets-in-TypeScript <https://vanilla-extract.style>
 - 🪦 [stitchesjs/stitches](https://github.com/stitchesjs/stitches): CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. <https://stitches.dev>
-- [nextui-org/tailwind-variants](https://github.com/nextui-org/tailwind-variants): 🦄 Tailwindcss first-class variant API <https://tailwind-variants.org>
+- [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants): 🦄 Tailwindcss first-class variant API <https://tailwind-variants.org>
 - 🌟 [joe-bell/cva](https://github.com/joe-bell/cva): Class Variance Authority <https://cva.style>
 - 🌟 [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge): Merge Tailwind CSS classes without style conflicts <https://npmjs.com/package/tailwind-merge>
 - 🌟 [gregberge/twc](https://github.com/gregberge/twc): Create reusable React + Tailwind CSS components in one line ✨ <https://react-twc.vercel.app>
@@ -362,6 +362,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy): The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. <https://Uiverse.io>
 - [barvian/motion-number](https://github.com/barvian/motion-number): A Framer Motion component that transitions, formats, and localizes numbers. <https://motion-number.barvian.me>
 - [animate-css/animate.css](https://github.com/animate-css/animate.css): 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. <https://animate.style/>
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits): An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces. <https://reactbits.dev>
 
 - [WinterCore/react-text-transition](https://github.com/WinterCore/react-text-transition): Animate your text changes
 - [maxeth/react-type-animation](https://github.com/maxeth/react-type-animation): A React typewriter animation based on typical with extended functionality and customization. <https://react-type-animation.netlify.app/>
