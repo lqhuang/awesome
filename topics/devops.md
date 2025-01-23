@@ -143,6 +143,7 @@ Build cache
 - [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server): Self-hosted GitHub Actions cache server implementation. Compatible with official 'actions/cache' action <https://gha-cache-server.falcondev.io>
 - [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions): A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis]
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action): Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
+- [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space): ⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 
 ### GitHub Action Runner
 

@@ -187,6 +187,7 @@
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm): Learning English through the method of constructing sentences with conjunctions <https://earthworm.cuixueshe.com>
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club): 《语法俱乐部》- 旋元佑 <https://llwslc.github.io/grammar-club/>
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips): An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程。 <https://byoungd.github.io/English-level-up-tips/>
+- [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny): a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + nextui + jotai + docker <https://wordsfunny.com>
 
 ## Security / Privacy
 

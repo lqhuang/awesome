@@ -145,6 +145,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [mui/base-ui](https://github.com/mui/base-ui): Base UI is an open-source library of accessible, unstyled UI components for React. <https://base-ui.com>
 - [Codehagen/Prismui](https://github.com/Codehagen/Prismui): A fully customizable component library built on top of shadcn/ui. Beautiful, accessible, and ready for production. <https://prismui.tech>
 - 🌟 [serafimcloud/21st](https://github.com/serafimcloud/21st): npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks <https://21st.dev>
+- [nyxb-ui/ui](https://github.com/nyxb-ui/ui): Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces effortlessly. 100% open-source. <https://nyxbui.design>
+- [Tailspark](https://tailspark.co/): Beautiful Components & Templates built in Tailwind CSS
 
 #### Svelte
 
@@ -476,7 +478,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [tanem/react-svg](https://github.com/tanem/react-svg): 🎨 A React component that injects SVG into the DOM. <https://npm.im/react-svg>
 - [feathericons/feather](https://github.com/feathericons/feather): Simply beautiful open-source icons <https://feathericons.com>
 - [texel-org/color](https://github.com/texel-org/color): modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
-- [The ultimate icon bundle](https://nucleoapp.com/): 30,059 premium-quality SVG icons, regularly updated for UIs, presentations, and print projects.
+- [Nucleo: The ultimate icon bundle](https://nucleoapp.com/)
+- [Streamline: Your Ultimate Icon Library](https://www.streamlinehq.com/)
 
 ## Further topics
 

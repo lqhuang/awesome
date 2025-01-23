@@ -369,6 +369,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [Quafadas/vecxt](https://github.com/Quafadas/vecxt): Freeing you from the tyranny of having to choose which platform you write your compute intense workload for. Making cross platform, compute intense linear alegbra problems less... vexing. <https://quafadas.github.io/vecxt/docs>
 - 🌟 [ekrich/sblas](https://github.com/ekrich/sblas): Scala Native BLAS (Basic Linear Algebra Subprograms) supporting Linux and macOS
 - [Quafadas/dedav4s](https://github.com/Quafadas/dedav4s): Declarative Data Viz 4 Scala <https://quafadas.github.io/dedav4s/>
+- 🌟 [sbrunk/storch](https://github.com/sbrunk/storch): GPU accelerated deep learning and numeric computing for Scala 3. <https://storch.dev>
 
 ### kotlin for Data Intensive System
 
