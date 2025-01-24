@@ -43,7 +43,6 @@
 - 🌟 [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. <https://mitmproxy.org>
 - 🌟 [gojue/ecapture](https://github.com/gojue/ecapture): capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android x86_64/Aarch64. <https://ecapture.cc>
 - [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks. <https://www.bettercap.org>
-- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [secdev/scapy](https://github.com/secdev/scapy): Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3. <https://scapy.net>
 - [beyondcode/expose](https://github.com/beyondcode/expose): A beautiful, fully open-source, tunneling service - written in pure PHP <https://expose.dev>
 - [traviscross/mtr](https://github.com/traviscross/mtr): Official repository for mtr, a network diagnostic tool <http://www.bitwizard.nl/mtr>

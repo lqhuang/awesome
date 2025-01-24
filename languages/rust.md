@@ -357,6 +357,7 @@
 - [duchess-rs/duchess](https://github.com/duchess-rs/duchess): Experiments with Java-Rust interop <https://duchess-rs.github.io/duchess>
 - [google/crubit](https://github.com/google/crubit): Crubit: C++/Rust Bidirectional Interop Tool
 - [GiGainfosystems/BuFFI](https://github.com/GiGainfosystems/BuFFI): A tool to generate ergonomic, buffer-based C++ APIs. <https://crates.io/crates/buffi>
+- [FractalFir/seabridge](https://github.com/FractalFir/seabridge): Experimental Rust-to-C++ binding generator, using Rust compiler APIs to ensure accurate and stable translation.
 
 ### Time or Date
 

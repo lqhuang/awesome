@@ -27,6 +27,9 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [#1 The state of C++ package management: The big three - twdev.blog](https://twdev.blog/2024/08/cpp_pkgmng1)
   - [#2 The state of C++ package management: The underdogs(?) - twdev.blog](https://twdev.blog/2024/08/cpp_pkgmng2/#cpm)
   - [#3 The state of C++ package management: The build systems - twdev.blog](https://twdev.blog/2024/09/cpp_pkgmng3/)
+- [Nekrolm/ubbook](https://github.com/Nekrolm/ubbook): C++ programmer's guide to undefined behavior
+  - in Russian
+  - ENG: [C++ programmer's guide to undefined behavior: part 1 of 11](https://pvs-studio.com/en/blog/posts/cpp/1129/)
 
 ### Readings
 
@@ -68,6 +71,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 
 - [rsms/llvmbox](https://github.com/rsms/llvmbox): Self contained, fully static llvm tools & libs
 - 🌟 [rui314/mold](https://github.com/rui314/mold): mold: Mold: A Modern Linker 🦠
+- [davidlattimore/wild](https://github.com/davidlattimore/wild): A very fast linker for Linux
 - [untitaker/hyperlink](https://github.com/untitaker/hyperlink): Very fast link checker for CI.
 - [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source C/C++ package manager <https://conan.io>
 - [cpp-best-practices/cmake_template](https://github.com/cpp-best-practices/cmake_template): This is a C++ Best Practices GitHub template for getting up and running with C++ quickly.

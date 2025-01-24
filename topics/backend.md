@@ -128,6 +128,7 @@
 ## RPC System
 
 - [google/gnxi](https://github.com/google/gnxi): gNXI Tools - gRPC Network Management/Operations Interface Tools
+- 🌟 [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 
 ## Serverless
 
