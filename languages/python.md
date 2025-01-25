@@ -665,6 +665,7 @@ Templates
   - [1313e/CMasher](https://github.com/1313e/CMasher): Scientific colormaps for making accessible, informative and 'cmashing' plots <https://cmasher.readthedocs.io>
   - [matplotlib/cmocean](https://github.com/matplotlib/cmocean): Colormap setup for standardizing commonly-plotting oceanographic variables.
 - [Kozea/pygal](https://github.com/Kozea/pygal): PYthon svg GrAph plotting Library <https://www.pygal.org>
+- [parrt/dtreeviz](https://github.com/parrt/dtreeviz): A python library for decision tree visualization and model interpretation.
 
 ### TUI
 

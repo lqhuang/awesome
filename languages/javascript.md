@@ -120,6 +120,7 @@
 - [m31coding/fuzzy-search](https://github.com/m31coding/fuzzy-search): A fast, accurate and multilingual fuzzy search library for the frontend.
 - [krisk/Fuse](https://github.com/krisk/Fuse): Lightweight fuzzy-search, in JavaScript <https://fusejs.io/>
 - [andywer/threads.js](https://github.com/andywer/threads.js): 🧵 Make web workers & worker threads as simple as a function call. <https://threads.js.org/>
+- [iliasbhal/simple-async-context](https://github.com/iliasbhal/simple-async-context): Polyfill implementing the TC39 proposal for AsyncContext.
 
 ### SerDe / Schema
 
@@ -232,6 +233,7 @@
 - [nojacko/node-country-to-iso](https://github.com/nojacko/node-country-to-iso): Convert inconsistent country names and codes into ISO 3166-1 alpha-2. <https://www.npmjs.com/package/country-to-iso>
 - [remusao/tldts](https://github.com/remusao/tldts): JavaScript Library to extract domains, subdomains and public suffixes from complex URIs. <https://npmjs.com/tldts>
 - [kourge/ts-brand](https://github.com/kourge/ts-brand): Reusable type branding in TypeScript
+- [jsonquerylang/jsonquery](https://github.com/jsonquerylang/jsonquery): A lightweight, flexible, and expandable JSON query language <https://jsonquerylang.org/>
 
 ## Middleware
 

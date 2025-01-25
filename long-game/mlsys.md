@@ -28,6 +28,12 @@
 - 🌟 [AI-Hypercomputer/gpu-recipes](https://github.com/AI-Hypercomputer/gpu-recipes): Recipes for reproducing training and serving benchmarks for large machine learning models using GPUs on Google Cloud.
 - [GPU Glossary | Modal](https://modal.com/gpu-glossary)
 - [ashvardanian/cpp-cuda-python-starter-kit](https://github.com/ashvardanian/cpp-cuda-python-starter-kit): Parallel Computing starter project to build GPU & CPU kernels in CUDA & C++ and call them from Python without a single line of CMake using PyBind11 <https://ashvardanian.com/tags/less-slow>
+- [Explaining RNNs without neural networks](https://explained.ai/rnn/index.html): This article explains how recurrent neural networks (RNN's) work without using the neural network metaphor. It uses a visually-focused data-transformation perspective to show how RNNs encode variable-length input vectors as fixed-length embeddings. Included are PyTorch implementation notebooks that use just linear algebra and the autograd feature.
+  - Terence Parr implemented a series of step by step coding examples from basic to advanced
+    - SGD (parameters updated after each record)
+    - minibatch (parameters updated after a small batch of records)
+    - vectorized minibatch (convert for-loop into matrix multiply)
+    - vectorized minibatch running on a GPU (use PyTorch to compute on GPU)
 
 ### Readings
 
@@ -265,6 +271,7 @@ Research / Science orient
 - [NVIDIA/warp](https://github.com/NVIDIA/warp): A Python framework for high performance GPU simulation and graphics <https://nvidia.github.io/warp/>
 - [autodiff/autodiff](https://github.com/autodiff/autodiff): automatic differentiation made easier for C++ <https://autodiff.github.io>
 - [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph): A machine learning library for Rust.
+- [parrt/autodx](https://github.com/parrt/autodx): Simple automatic differentiation via operator overloading for educational purposes
 
 ## Computing resource scheduler
 
@@ -429,6 +436,8 @@ Research / Science orient
 - [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector <https://pypi.org/project/jax-smi/>
 - [pytorch/PiPPy](https://github.com/pytorch/PiPPy): Pipeline Parallelism for PyTorch
 - [fastai/fastcore](https://github.com/fastai/fastcore): Python supercharged for the fastai library <http://fastcore.fast.ai>
+- [parrt/tensor-sensor](https://github.com/parrt/tensor-sensor): The goal of this library is to generate more helpful exception messages for matrix algebra expressions for numpy, pytorch, jax, tensorflow, keras, fastai. <https://github.com/parrt/tensor-sensor>
+  - looks great, but no longer active
 
 ## Misc
 
