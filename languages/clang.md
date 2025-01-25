@@ -233,6 +233,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [jupp0r/prometheus-cpp](https://github.com/jupp0r/prometheus-cpp): Prometheus Client Library for Modern C++
 - [gabime/spdlog](https://github.com/gabime/spdlog): Fast C++ logging library.
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp): A YAML parser and emitter in C++
+- [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface. <https://cliutils.github.io/CLI11/book/>
 
 ## Compiler beyond default Clang
 
