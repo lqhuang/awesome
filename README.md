@@ -17,6 +17,7 @@ Remind me about those not that familiar, less used but valued utils/tools. It's 
   - [rust](./languages/rust.md)
   - [scala](./languages/scala.md)
   - [swift](./languages/swift.md)
+  - [zig](./languages/zig.md)
 - long-game
   - [distributed](./long-game/distributed.md)
   - [faster-than-fast](./long-game/faster-than-fast.md)
