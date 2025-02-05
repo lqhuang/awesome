@@ -150,3 +150,4 @@ Build cache
 - [Octopus Deploy](https://octopus.com/github): Use GitHub and Octopus together to manage your most complex deployment scenarios
 - [BuildJet: For GitHub Actions](https://buildjet.com/for-github-actions): Make GitHub Actions Faster. Managed performance runners for Github Actions.
 - [Actuated](https://actuated.dev/): Fast and secure GitHub Actions on your own infrastructure.
+- [blacksmith](https://www.blacksmith.sh/): ‍Twice as fast. Half the cost. Speed up your GitHub Actions with a one-line code change, by running them on high-performance gaming CPUs instead of GitHub's older server hardware

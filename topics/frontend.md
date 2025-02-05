@@ -507,3 +507,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build on top of Notion and NextJS, deployed on Vercel. <https://nobelium.js.org>
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own second brain and digital garden for free <https://quartz.jzhao.xyz/>
 - [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages): CLI to build and develop Next.js apps for Cloudflare Pages <https://www.npmjs.com/package/@cloudflare/next-on-pages>
+
+### Headless
+
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser): Lightpanda: the headless browser designed for AI and automation <https://lightpanda.io>

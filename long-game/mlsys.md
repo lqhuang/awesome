@@ -187,6 +187,8 @@ Research / Science orient
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm): Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. <https://mlc.ai/web-llm>
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for operating large language models(LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
 - [predibase/lorax](https://github.com/predibase/lorax): Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs <https://predibase.github.io/lorax/>
+- [zml/zml](https://github.com/zml/zml): Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild <https://docs.zml.ai>
+  - Interesting ideas
 
 ### Benchmark
 

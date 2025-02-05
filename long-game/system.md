@@ -23,6 +23,31 @@
 - 🌟 [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
 - 🌟 [Book: An Introduction to libuv](https://nikhilm.github.io/uvbook/index.html)
 
+## Compiler
+
+- [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. <http://llvm.org>
+- 🌟 [vnmakarov/mir](https://github.com/vnmakarov/mir): A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
+
+## Toolchains
+
+### Build
+
+- [rsms/llvmbox](https://github.com/rsms/llvmbox): Self contained, fully static llvm tools & libs
+
+### Linker
+
+- 🌟 [rui314/mold](https://github.com/rui314/mold): mold: Mold: A Modern Linker 🦠
+- [kubkon/bold](https://github.com/kubkon/bold): bold: the bold linker
+- [davidlattimore/wild](https://github.com/davidlattimore/wild): A very fast linker for Linux
+- [untitaker/hyperlink](https://github.com/untitaker/hyperlink): Very fast link checker for CI.
+
+## Memory allocator
+
+- [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a compact general purpose allocator with excellent performance.
+- [foonathan/memory](https://github.com/foonathan/memory): STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write. <https://memory.foonathan.net>
+- [mjansson/rpmalloc](https://github.com/mjansson/rpmalloc): Public domain cross platform lock free thread caching 16-byte aligned memory allocator implemented in C
+- [microsoft/snmalloc](https://github.com/microsoft/snmalloc): Message passing based allocator
+
 ## Linux Tuning
 
 - [Linux Performance](https://www.brendangregg.com/linuxperf.html): Brendan Gregg's homepage
@@ -31,10 +56,6 @@
 - [baidu/dperf](https://github.com/baidu/dperf): dperf is a DPDK based 100Gbps network performance and load testing software.
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg): The Linux Kernel Module Programming Guide (updated for 5.0+ kernels) <https://sysprog21.github.io/lkmpg/>
 - 🌟 [dendibakh/perf-book](https://github.com/dendibakh/perf-book): The book "Performance Analysis and Tuning on Modern CPU" <https://book.easyperf.net/perf_book>
-
-## Compiler
-
-- 🌟 [vnmakarov/mir](https://github.com/vnmakarov/mir): A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
 
 ## BPF
 

@@ -18,7 +18,6 @@
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors): GNU/Linux 一键更换系统软件源脚本 <https://linuxmirrors.cn>
 - [chanhx/crabviz](https://github.com/chanhx/crabviz): 🦀 A tool to generate interactive call graphs for multiple languages
 - 🌟🌟🌟 [idank/explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
-- [3rd/tsdiagram](https://github.com/3rd/tsdiagram): Create diagrams and plan your code with TypeScript. <https://tsdiagram.com>
 - 🌟🌟🌟 [facebook/watchman](https://github.com/facebook/watchman): Watches files and records, or triggers actions, when they change. <https://facebook.github.io/watchman/>
 - [eradman/entr](https://github.com/eradman/entr): Run arbitrary commands when files change <http://eradman.com/entrproject/>
   - someone said it's better than watchman 🤔
@@ -29,17 +28,13 @@
   - Windows alternative for cockpit! And it's purely free!
   - https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/understand/modernized-gateway
 - [ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder): Scripts to build a trimmed-down Windows 11 image.
-- 🌟 [ASCII Diagrams](https://asciidiagrams.github.io/): This web page catalogs ASCII diagrams extracted from four open source code-bases: Chromium, Linux, LLVM, and TensorFlow. There are 2156 diagrams in total, of which 504 have been annotated with our design framework.
 - [hello-nav/hello-nav](https://github.com/hello-nav/hello-nav): 🗺 A navigation for developer <https://hello-nav.github.io>
-- [amir20/dozzle](https://github.com/amir20/dozzle): Realtime log viewer for docker containers. <https://dozzle.dev/>
 - [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors): LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, PyPI, PyTorch, and NPM.
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber): 💎 Amber the programming language compiled to bash <https://amber-lang.com>
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): 🔗 Some useful websites for programmers.
   - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh): 程序员应该访问的最佳网站中文版
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know about
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-- 🌟 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram): Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram <https://gitdiagram.com>
-  - incredibly amazing
 
 ### Misc linters / formatters
 
@@ -61,16 +56,20 @@
 
 ### Git
 
+- [10 levels of Git aliases: Advanced and beyond](https://www.eficode.com/blog/10-levels-of-git-aliases-advanced-and-beyond)
 - 🌟 [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes): A collection of useful .gitattributes templates
 - 🌟 [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth): A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth. <https://pkg.go.dev/github.com/hickford/git-credential-oauth>
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly rewrite git repository history (filter-branch replacement)
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner): Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala <https://rtyley.github.io/bfg-repo-cleaner/>
 - [tj/git-extras](https://github.com/tj/git-extras): GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-- [10 levels of Git aliases: Advanced and beyond](https://www.eficode.com/blog/10-levels-of-git-aliases-advanced-and-beyond)
 - [github/git-sizer](https://github.com/github/git-sizer): Compute various size metrics for a Git repository, flagging those that might cause problems
+- 🌟 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram): Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram <https://gitdiagram.com>
+  - incredibly amazing
+- [zegl/extremely-linear](https://github.com/zegl/extremely-linear): Extremely Linear Git History // git-linearize <https://westling.dev/b/extremely-linear-git>
 
 ### Code as Graph
 
+- 🌟 [ASCII Diagrams](https://asciidiagrams.github.io/): This web page catalogs ASCII diagrams extracted from four open source code-bases: Chromium, Linux, LLVM, and TensorFlow. There are 2156 diagrams in total, of which 504 have been annotated with our design framework.
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii diagram scribbles into happy little SVG <http://ivanceras.github.io/svgbob-editor>
 - [github/cmark-gfm](https://github.com/github/cmark-gfm): GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
 - [jgm/djot](https://github.com/jgm/djot): A light markup language <https://djot.net>
@@ -94,6 +93,7 @@
   - [Concurrent Operation Diagram Generator](https://transactional.blog/blog/2022-dbdiag-ophistory)
   - [DistributedClocks/shiviz](https://github.com/DistributedClocks/shiviz): A tool to visualize distributed system logs <https://bestchai.bitbucket.io/shiviz/>
 - [mark-when/markwhen](https://github.com/mark-when/markwhen): Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. <https://markwhen.com>
+- [3rd/tsdiagram](https://github.com/3rd/tsdiagram): Create diagrams and plan your code with TypeScript. <https://tsdiagram.com>
 
 ## Homelab
 
@@ -141,6 +141,7 @@
 - [thunder439/QNASMINI](https://github.com/thunder439/QNASMINI): QNAS MINI 是 6 盘位 2.5 寸 NAS
 - [workerforce/unifi-ddns](https://github.com/workerforce/unifi-ddns): Cloudflare DDNS (Dynamic DNS) support for UniFi OS <https://workerforce.github.io/unifi-ddns/>
 - [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate): A self-hosted data logger for your Tesla 🚘 <https://docs.teslamate.org>
+- [smartHomeHub/SmartIR](https://github.com/smartHomeHub/SmartIR): Home Assistant integration to manage climate systems, TVs, fans and lights using IR/RF controllers. Compatible with Broadlink, Xiaomi, MQTT, LOOKin and ESPHome
 
 ## Misc
 

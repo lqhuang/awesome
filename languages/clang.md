@@ -72,10 +72,6 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 
 ### Build
 
-- [rsms/llvmbox](https://github.com/rsms/llvmbox): Self contained, fully static llvm tools & libs
-- 🌟 [rui314/mold](https://github.com/rui314/mold): mold: Mold: A Modern Linker 🦠
-- [davidlattimore/wild](https://github.com/davidlattimore/wild): A very fast linker for Linux
-- [untitaker/hyperlink](https://github.com/untitaker/hyperlink): Very fast link checker for CI.
 - [conan-io/conan](https://github.com/conan-io/conan): Conan - The open-source C/C++ package manager <https://conan.io>
 - [cpp-best-practices/cmake_template](https://github.com/cpp-best-practices/cmake_template): This is a C++ Best Practices GitHub template for getting up and running with C++ quickly.
 - [cginternals/cmake-init](https://github.com/cginternals/cmake-init): Template for reliable, cross-platform C++ project setup using cmake.
@@ -173,7 +169,6 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [google/nsync](https://github.com/google/nsync): nsync is a C library that exports various synchronization primitives, such as mutexes
 - [Amanieu/asyncplusplus](https://github.com/Amanieu/asyncplusplus): Async++ concurrency framework for C++11
 - [netcan/asyncio](https://github.com/netcan/asyncio): asyncio is a c++20 library to write concurrent code using the async/await syntax.
-- [mitchellh/libxev](https://github.com/mitchellh/libxev): libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
 - [uNetworking/uSockets](https://github.com/uNetworking/uSockets): Miniscule cross-platform eventing, networking & crypto for async applications
 - [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp): Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all
 - 🌟 [facebookexperimental/libunifex](https://github.com/facebookexperimental/libunifex): Unified Executors
@@ -194,13 +189,6 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [userver-framework/userver](https://github.com/userver-framework/userver): The C++ Asynchronous Framework (beta) <https://userver.tech>
 - [skypjack/uvw](https://github.com/skypjack/uvw): Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library!
 - [mratsim/weave](https://github.com/mratsim/weave): A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead The Curse of Strong Typing
-
-## Memory allocator
-
-- [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a compact general purpose allocator with excellent performance.
-- [foonathan/memory](https://github.com/foonathan/memory): STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write. <https://memory.foonathan.net>
-- [mjansson/rpmalloc](https://github.com/mjansson/rpmalloc): Public domain cross platform lock free thread caching 16-byte aligned memory allocator implemented in C
-- [microsoft/snmalloc](https://github.com/microsoft/snmalloc): Message passing based allocator
 
 ## GPU / CUDA
 
@@ -245,3 +233,4 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [microsoft/checkedc](https://github.com/microsoft/checkedc): Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe. The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. <https://www.microsoft.com/en-us/research/project/checked-c>
 - [The Fil-C Memory Safety Manifesto: FUGC Yeah!](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)
 - [Snektron/pareas](https://github.com/Snektron/pareas): GPU-accelerated compiler
+- [Vexu/arocc](https://github.com/Vexu/arocc): A modern fully featured C compiler.
