@@ -140,6 +140,7 @@
 - [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips): Tips for Writing a Research Paper using LaTeX
 
 - [TeXipedia](https://www.texipedia.com/): Find LaTeX symbols fast
+- [NanoMichael/MicroTeX](https://github.com/NanoMichael/MicroTeX): A dynamic, cross-platform, and embeddable LaTeX rendering library
 
 ### Latex Templates
 

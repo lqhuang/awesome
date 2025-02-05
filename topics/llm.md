@@ -5,6 +5,12 @@
 - [genai-handbook/genai-handbook.github.io](https://github.com/genai-handbook/genai-handbook.github.io): A roadmap for "generative AI" learning resources
 - 🌟 [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers): Numbers every LLM developer should know
 
+## Research
+
+- [simplescaling/s1](https://github.com/simplescaling/s1): s1: Simple test-time scaling <https://arxiv.org/abs/2501.19393>
+- [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero): Clean, minimal, accessible reproduction of DeepSeek R1-Zero
+- [huggingface/open-r1](https://github.com/huggingface/open-r1): Fully open reproduction of DeepSeek-R1
+
 ## Frameworks
 
 ### Agents

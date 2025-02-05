@@ -8,6 +8,7 @@
 - [Graphlet-AI/graphml-class](https://github.com/Graphlet-AI/graphml-class): Full Stack Graph Machine Learning: Theory, Practice, Tools and Techniques <https://graphlet.ai>- [Graphlet-AI/graphml-class](https://github.com/Graphlet-AI/graphml-class): Full Stack Graph Machine Learning: Theory, Practice, Tools and Techniques <https://graphlet.ai>
 - [yueliu1999/Awesome-Deep-Graph-Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering): Awesome Deep Graph Clustering is a collection of SOTA, novel deep graph clustering methods (papers, codes, and datasets).
 - [timothewt/AdvancedGraphClustering](https://github.com/timothewt/AdvancedGraphClustering): Advanced Graph Clustering method documentation and implementation (From Spectral Clustering to Deep Graph Clustering) <https://timothewt.github.io/AdvancedGraphClustering/>
+- [aws/graph-notebook](https://github.com/aws/graph-notebook): Library extending Jupyter notebooks to integrate with Apache TinkerPop, openCypher, and RDF SPARQL. <https://github.com/aws/graph-notebook>
 
 ## Framework
 

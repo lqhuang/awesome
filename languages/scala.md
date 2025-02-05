@@ -282,6 +282,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [lampepfl/dotty-macro-examples](https://github.com/lampepfl/dotty-macro-examples): Various tasks solved via metaprogramming in Dotty
 - [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR): A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster. <https://www.logorrr.app/>
 - [felher/s3te](https://github.com/felher/s3te): A scala 3 tree explorer for the reflect module
+- [nrinaudo/kantan.csv](https://github.com/nrinaudo/kantan.csv): CSV handling library for Scala <http://nrinaudo.github.io/kantan.csv/>
 
 ## Frameworks
 

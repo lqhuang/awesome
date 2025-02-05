@@ -119,14 +119,14 @@ Build cache
 
 ## GitHub Action
 
+- 🌟 [woodruffw/zizmor](https://github.com/woodruffw/zizmor): A static analysis tool for GitHub Actions <https://woodruffw.github.io/zizmor/>
 - [actions/runner-images](https://github.com/actions/runner-images): GitHub Actions runner images
 - 🌟 [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub <https://desktop.github.com>
-- [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS VMs on Apple Silicon to use in CI and other automations
+- [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS and Linux VMs on Apple Silicon to use in CI and other automations <https://tart.run>
 - [docker/metadata-action](https://github.com/docker/metadata-action): GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [rhysd/actionlint](https://github.com/rhysd/actionlint): :octocat: Static checker for GitHub Actions workflow files <https://rhysd.github.io/actionlint>
 - [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally 🚀
 - [nedbat/watchgha](https://github.com/nedbat/watchgha): Live display of current GitHub action runs
-- [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS and Linux VMs on Apple Silicon to use in CI and other automations <https://tart.run>
 - [shapehq/tartelet](https://github.com/shapehq/tartelet): ⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job runs in an isolated environment.
 - [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery): Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally <https://sourcery.ai>
 - 🌟 [renovatebot/renovate](https://github.com/renovatebot/renovate): Universal dependency update tool that fits into your workflows. <https://renovatebot.com>

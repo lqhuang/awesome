@@ -21,6 +21,7 @@
 - [/wiki/haskell/learning Links](http://jackkelly.name/wiki/haskell/learning.html)
 - [haskell-perf/checklist](https://github.com/haskell-perf/checklist): The Haskell performance checklist
 - [Simple Haskell](https://www.simplehaskell.org/)
+- [haskell-perf/checklist](https://github.com/haskell-perf/checklist): The Haskell performance checklist
 
 ### Readings
 
@@ -134,6 +135,7 @@
 - [patrickt/effects-benchmarks](https://github.com/patrickt/effects-benchmarks): Benchmarking Haskell extensible-effect libraries.
 - [polysemy-research/polysemy](https://github.com/polysemy-research/polysemy): ♊ higher-order, no-boilerplate monads
 - [sayo-hs/heftia](https://github.com/sayo-hs/heftia): higher-order effects done right for Haskell
+- [Gautier DI FOLCO • Effects systems benchmark](https://gautier.difolco.dev/2025-01/effects-systems-benchmark/): A software engineer website
 
 ## Dependent type
 

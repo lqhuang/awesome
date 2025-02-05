@@ -34,7 +34,6 @@
 - [amir20/dozzle](https://github.com/amir20/dozzle): Realtime log viewer for docker containers. <https://dozzle.dev/>
 - [NoCLin/LightMirrors](https://github.com/NoCLin/LightMirrors): LightMirrors is a lightweight mirror server with caching capabilities that currently supports DockerHub, PyPI, PyTorch, and NPM.
 - [Ph0enixKM/Amber](https://github.com/Ph0enixKM/Amber): 💎 Amber the programming language compiled to bash <https://amber-lang.com>
-- 🌟 [elijah-potter/harper](https://github.com/elijah-potter/harper): The Grammar Checker for Developers <https://writewithharper.com>
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit): 🔗 Some useful websites for programmers.
   - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh): 程序员应该访问的最佳网站中文版
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know about
@@ -56,6 +55,9 @@
 - 🌟 [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A modular SQL linter and auto-formatter with support for multiple dialects and templated code. <https://www.sqlfluff.com>
 - [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
 - [chrisbottin/xml-formatter](https://github.com/chrisbottin/xml-formatter): Converts XML into a human readable format (pretty print) while respecting the `xml:space` attribute.
+- 🌟 [elijah-potter/harper](https://github.com/elijah-potter/harper): The Grammar Checker for Developers <https://writewithharper.com>
+- [rrthomas/enchant](https://github.com/rrthomas/enchant): enchant spellchecking library <http://rrthomas.github.io/enchant/>
+  - [pyenchant/pyenchant](https://github.com/pyenchant/pyenchant): spellchecking library for python <https://pyenchant.github.io/pyenchant/>
 
 ### Git
 
@@ -91,7 +93,7 @@
 - 🌟 [thisismiller/dbdiag](https://github.com/thisismiller/dbdiag): Diagrams as text tool for visualizing concurrent operation histories
   - [Concurrent Operation Diagram Generator](https://transactional.blog/blog/2022-dbdiag-ophistory)
   - [DistributedClocks/shiviz](https://github.com/DistributedClocks/shiviz): A tool to visualize distributed system logs <https://bestchai.bitbucket.io/shiviz/>
-- [](no url found): Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. <https://markwhen.com>
+- [mark-when/markwhen](https://github.com/mark-when/markwhen): Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. <https://markwhen.com>
 
 ## Homelab
 
@@ -114,7 +116,7 @@
 - [MetinSeylan/homelab](https://github.com/MetinSeylan/homelab): bare-metal homelab k8s automation <https://metin.sh>
 - 🌟 [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. <https://gethomepage.dev/>
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin): A curated list of amazingly awesome open-source sysadmin resources.
-- 🌟🌟🌟 [louislam/dockge](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager <https://dockge.kuma.pet>
+- 🌟 [louislam/dockge](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager <https://dockge.kuma.pet>
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. <https://netboot.xyz>
 - [rajnandan1/kener](https://github.com/rajnandan1/kener): Kener is a Modern Self hosted Status Page, batteries included <https://kener.ing/>
 - [rtr7/router7](https://github.com/rtr7/router7): router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance. <https://router7.org>
@@ -128,6 +130,7 @@
 - [Notifiarr](https://notifiarr.com/): Notification aggregation, system monitoring & more
   - [Notifiarr Documentation](https://notifiarr.wiki/): You just found one of the coolest tools on the Internet for a homelab enthusiast. We do notifications. We do them right.
 - [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma): Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services. <https://getastroluma.com/>
+- [yusing/go-proxy](https://github.com/yusing/go-proxy): Easy to use reverse proxy with docker integration
 
 ## HomeKit / IoT
 
@@ -164,6 +167,7 @@
 - [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead): the website blocklist I am maintaining
 - [metowolf/vCards](https://github.com/metowolf/vCards): 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [lvwzhen/medicine](https://github.com/lvwzhen/medicine): 原研药列表 <https://medicine.lvwzhen.com>
+- [latentcat/mpmath](https://github.com/latentcat/mpmath): 微信公众号公式编辑插件 <https://troyni.com/mpmath>
 
 ## Branding
 
@@ -188,6 +192,7 @@
 - [llwslc/grammar-club](https://github.com/llwslc/grammar-club): 《语法俱乐部》- 旋元佑 <https://llwslc.github.io/grammar-club/>
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips): An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程。 <https://byoungd.github.io/English-level-up-tips/>
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny): a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + nextui + jotai + docker <https://wordsfunny.com>
+- [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead): A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu.com
 
 ## Security / Privacy
 

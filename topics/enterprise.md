@@ -41,6 +41,8 @@
 - 🌟 [apache/incubator-answer](https://github.com/apache/incubator-answer): A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. <https://answer.apache.org>
 - 🌟 [scalar/scalar](https://github.com/scalar/scalar): Beautiful API references from Swagger/OpenAPI files ✨ <https://scalar.com/swagger-editor>
 - [hddhyq/opencclint](https://github.com/hddhyq/opencclint): 繁简体转换工具 ，基于 OpenCC 支持编辑器和命令行界面 <https://opencclint.vercel.app>
+- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant): Contributor License Agreement assistant (CLA assistant) <https://cla-assistant.io>
+- [anistark/feluda](https://github.com/anistark/feluda): Detect license usage restrictions in your project! <https://crates.io/crates/feluda>
 
 ### Dev environments
 
@@ -65,7 +67,6 @@
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack): A platform to create documentation/wiki content built with PHP & Laravel <https://www.bookstackapp.com>
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs): A modern, high customizable, responsive Jekyll theme for documentation with built-in search. <https://just-the-docs.github.io/just-the-docs>
 - [Linen](https://www.linen.dev/): Sync your Slack and Discord conversations to Linen and get SEO benefits while reducing customer support load
-- [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant): Contributor License Agreement assistant (CLA assistant) <https://cla-assistant.io>
 - [writethedocs/www](https://github.com/writethedocs/www): The main website for Write the Docs. <http://www.writethedocs.org>
 - [wevm/vocs](https://github.com/wevm/vocs): Minimal Documentation Framework, powered by React + Vite. <https://vocs.dev>
 - [speced/bikeshed](https://github.com/speced/bikeshed): 🚲 A preprocessor for anyone writing specifications that converts source files into actual specs. <https://speced.github.io/bikeshed>
@@ -144,10 +145,11 @@
 - [Uptime Robot](https://uptimerobot.com/)
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit): Cockpit is a web-based graphical interface for servers. <http://www.cockpit-project.org/>
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime): OneUptime is the complete open-source observability platform. <https://oneuptime.com>
-- [Hydrozen.io](https://hydrozen.io/): Monitor availability of your websites, Cronjobs, APIs, Domains, SSL etc.
+- 🌟 [Hydrozen.io](https://hydrozen.io/): Monitor availability of your websites, Cronjobs, APIs, Domains, SSL etc.
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks): Open-source cron job and background task monitoring service, written in Python & Django <https://healthchecks.io>
 - [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime): BlueWave Uptime is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful visualizations. Get powerful insights and proactive alerts to keep your services running smoothly. <https://uptime-demo.bluewavelabs.ca/>
 - [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate): Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. <https://checkmate-demo.bluewavelabs.ca/>
+- [bluewave-labs/capture](https://github.com/bluewave-labs/capture): An open source hardware monitoring agent for Checkmate <https://pkg.go.dev/github.com/bluewave-labs/capture>
 
 ### Observability: Logging / Metrics / APM
 
@@ -179,6 +181,8 @@
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent): The production-scale datacenter profiler
 - [google/mtail](https://github.com/google/mtail): extract internal monitoring data from application logs for collection in a timeseries database
 - [nyrkio/nyrkio](https://github.com/nyrkio/nyrkio): Nyrkiö is an open source platform for detecting performance changes <https://nyrkio.com>
+- [yandex/perforator](https://github.com/yandex/perforator): Perforator is a cluster-wide continuous profiling tool designed for large data centers <https://perforator.tech>
+  - made by Yandex and inspired by Google-Wide Profiling.
 
 ### Benchmark
 
@@ -220,6 +224,7 @@
 - [snort3/snort3](https://github.com/snort3/snort3): Snort++
 - [OSSEC](https://www.ossec.net/): OSSEC is a scalable, multi-platform, open source Host-based Intrusion Detection System (HIDS)
 - [wazuh/wazuh](https://github.com/wazuh/wazuh): Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. <https://wazuh.com/>
+- [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb): 🛡️ Open-source and next-generation Web Application Firewall (WAF) <https://www.bunkerweb.io>
 
 ## Career
 

@@ -39,6 +39,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [C reference](https://en.cppreference.com/w/c)
 - [Clang documentation](https://clang.llvm.org/docs/)
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ <http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines>
+  - [Memory Management, C++ FAQ](https://isocpp.org/wiki/faq/freestore-mgmt)
 - [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices): Collaborative Collection of C++ Best Practices. This online resource is part of Jason Turner's collection of C++ Best Practices resources. See README.md for more information.
 - [Learn Makefiles](https://makefiletutorial.com/): With the tastiest examples
   - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile): 跟我一起写 Makefile 重制版 <https://seisman.github.io/how-to-write-makefile/>
@@ -50,6 +51,8 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [How to Actually Write C](https://zackoverflow.dev/writing/how-to-actually-write-c): How to actually write non-trivial programs in C
 - [Why You Need Sccache](https://elijahpotter.dev/articles/why_you_need_sccache): You might not actually need it.
 - [Padding and alignment in structs](https://elric.pl/blog/struct-padding): Quick explainer of byte ordering in Java class file
+- [Creating A Simple Udp Client Server Application In C](https://mohitmishra786.github.io/chessman/2024/09/25/Creating-a-Simple-UDP-Client-Server-Application-in-C.html)
+- [Mastering Memory Management: From Manual Cleanup To Smart Pointers In C And Cpp](https://mohitmishra786.github.io/chessman/2024/10/05/Mastering-Memory-Management-From-Manual-Cleanup-to-Smart-Pointers-in-C-and-Cpp.html)
 
 ### Books
 
@@ -178,6 +181,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue): A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [dermesser/uvco](https://github.com/dermesser/uvco): C++20 Coroutines running on libuv for intuitive async I/O <https://borgac.net/~lbo/doc/uvco/>
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro): A library of C++ coroutine abstractions for the coroutines TS
+- [Tradias/asio-grpc](https://github.com/Tradias/asio-grpc): Asynchronous gRPC with Asio/unified executors <https://tradias.github.io/asio-grpc/>
 
 ## Network
 
@@ -196,6 +200,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a compact general purpose allocator with excellent performance.
 - [foonathan/memory](https://github.com/foonathan/memory): STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write. <https://memory.foonathan.net>
 - [mjansson/rpmalloc](https://github.com/mjansson/rpmalloc): Public domain cross platform lock free thread caching 16-byte aligned memory allocator implemented in C
+- [microsoft/snmalloc](https://github.com/microsoft/snmalloc): Message passing based allocator
 
 ## GPU / CUDA
 

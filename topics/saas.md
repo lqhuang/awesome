@@ -16,5 +16,11 @@
 - [AndySpider/uicloner-extension](https://github.com/AndySpider/uicloner-extension): Browser extension to instantly clone any web UI you see with one click, exports to HTML + Tailwind CSS or HTML + pure CSS
 - [mfts/papermark](https://github.com/mfts/papermark): Papermark is the open-source DocSend alternative with built-in analytics and custom domains. <https://papermark.io>
 - 🌟 [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations): I've built with Stripe for years. This is how I do it without going mad.
-- [campsite/campsite](https://github.com/campsite/campsite): The Campsite monorepo <https://campsite.com>
 - [arikchakma/maily.to](https://github.com/arikchakma/maily.to): Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. <https://maily.to>
+- [public.me](https://public.me/blog): blog and share updates with everyone. **using imessage**.
+- [Are.na](https://www.are.na/)
+  - Awesome!
+  - Are.na is:
+    1. online software for saving and organizing the content that is important to you
+    2. a toolkit for assembling new worlds from the scraps of the old
+  - People describe Are.na as "~playlists, but for ideas~" or an "~Internet memory palace~."

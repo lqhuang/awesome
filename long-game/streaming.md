@@ -55,6 +55,7 @@ Streaming Systems
 - 🌟 [feldera/feldera](https://github.com/feldera/feldera): The Feldera Incremental Computation Engine <https://feldera.com>
 - 🌟 [iggy-rs/iggy](https://github.com/iggy-rs/iggy): Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second. <https://iggy.rs>
 - [SkipLabs/skip](https://github.com/SkipLabs/skip): Skip is a framework for building reactive services <https://skiplabs.io>
+- [warpstreamlabs/bento](https://github.com/warpstreamlabs/bento): Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed. <https://warpstreamlabs.github.io/bento/>
 
 ### Streaming Database
 

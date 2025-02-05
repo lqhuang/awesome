@@ -95,6 +95,8 @@
 - [memgraph/memgraph](https://github.com/memgraph/memgraph): Open-source graph database, built for real-time streaming data, compatible with Neo4j. <https://memgraph.com>
 - [Netflix/atlas](https://github.com/Netflix/atlas): In-memory dimensional time series database.
 - [apache/age](https://github.com/apache/age): Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL. <https://age.apache.org>
+- [puppygraph/puppygraph-query](https://github.com/puppygraph/puppygraph-query): PuppyGraph standalone web server for visualize graph queries.
+- [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph): SPARQL graph database
 
 ### KV
 
@@ -167,6 +169,7 @@
 - [Snaplet](https://www.snaplet.dev/): Get instant seed data for your relational database
   - Looks like no open source otpion currently
   - Update: Aug, 2024: break-up and accuired by Supabase. Now OSS ...
+- [PowerSync](https://www.powersync.com/): Backend DB <> SQLite sync engine. Build local-first apps with instantly-responsive UI/UX and simplified state transfer.
 
 ### ERD
 
@@ -232,6 +235,7 @@
 
 ### SQLite
 
+- [lichuang/awesome-sqlite](https://github.com/lichuang/awesome-sqlite): awesome things related to SQLite
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of SQLite extensions
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry <https://sqlpkg.org>
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec): A vector search SQLite extension that runs anywhere!

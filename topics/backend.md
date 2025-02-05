@@ -129,6 +129,8 @@
 
 - [google/gnxi](https://github.com/google/gnxi): gNXI Tools - gRPC Network Management/Operations Interface Tools
 - 🌟 [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+- [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe): A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
+- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate): Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases! <https://buf.build/bufbuild/protovalidate>
 
 ## Serverless
 

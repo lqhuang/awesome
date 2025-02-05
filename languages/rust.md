@@ -223,6 +223,9 @@
 - [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust): Rust wrapper for ArrayFire
 - 🌟 [rusticstuff/simdutf8](https://github.com/rusticstuff/simdutf8): SIMD-accelerated UTF-8 validation for Rust.
 - [LaihoE/SIMD-itertools](https://github.com/LaihoE/SIMD-itertools): Faster implementations of standard library operations like find, filter, position etc.
+- [Gab-Menezes/simdphrase](https://github.com/Gab-Menezes/simdphrase): No description, website, or topics provided.
+  - [Using the most unhinged AVX-512 instruction to make the fastest phrase search algo | Gabriel’s Blog](https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html)
+  - Good readings
 
 ## DS & Algorithms
 

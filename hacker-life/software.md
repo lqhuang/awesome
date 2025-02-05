@@ -20,7 +20,6 @@
 - [fireyy/caricare](https://github.com/fireyy/caricare): A simple cross-platform desktop application for S3-Compatible Object Storage. Built in Rust using egui.
 - 🌟 [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Easy and blazing-fast book searcher, create and search your private library. <https://github.com/book-searcher-org/book-searcher>
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin): A Calibre plugin to translate ebook into a specified language. <https://bookfere.com/post/1057.html>
-- [CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator): Foreign language reading and translation assistant based on copy and translate. <https://copytranslator.gitee.io>
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box): server status & toolbox app using Flutter
 - 🌟 [Waydroid](https://waydro.id/): A container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - 🌟 [Blend OS](https://blendos.co/): The only operating system you'll ever need. A seamless blend of all Linux distributions, Android apps and web apps.
@@ -59,6 +58,7 @@
 - [dsully/macos-defaults](https://github.com/dsully/macos-defaults): A tool for managing macOS defaults declaratively via YAML files.
 - [ravynsoft/ravynos](https://github.com/ravynsoft/ravynos): A BSD-based OS project that aims to provide an experience like and some compatibility with macOS (formerly known as airyxOS) <https://www.ravynos.com>
 - [orbstack/orbstack](https://github.com/orbstack/orbstack): Fast, light, simple Docker containers & Linux machines for macOS <https://orbstack.dev>
+- [trycua/lume](https://github.com/trycua/lume): A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon.
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS <https://alt-tab-macos.netlify.app>
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp): The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [exelban/stats](https://github.com/exelban/stats): macOS system monitor in your menu bar

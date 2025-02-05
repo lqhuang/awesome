@@ -45,6 +45,7 @@
 - [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning): List of papers studying machine learning through the lens of category theory
 - [Python isn't just glue, it's an implicit JIT ecosystem](https://state.smerity.com/smerity/state/01JC39KW1TBEAZTKJJF0BR5ZXD): The ecosystem wears in the desire paths, and when slow Python becomes a problem, the ecosystem doesn't optimize the Python, it paves new roads beneath
 - [KnowingNothing/compiler-and-arch](https://github.com/KnowingNothing/compiler-and-arch): A list of tutorials, paper, talks, and open-source projects for emerging compiler and architecture
+- [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial): My learning notes/codes for ML SYS.
 
 ### Books
 
@@ -81,6 +82,7 @@
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale): PyTorch extensions for high performance and large scale training.
 - [databricks/megablocks](https://github.com/databricks/megablocks): MegaBlocks is a light-weight library for mixture-of-experts (MoE) training.
 - [pytorch/tnt](https://github.com/pytorch/tnt): A lightweight library for PyTorch training tools and utilities <https://pytorch.org/tnt/>
+- [oumi-ai/oumi](https://github.com/oumi-ai/oumi): Everything you need to build state-of-the-art foundation models, end-to-end. <https://oumi.ai>
 
 ### Optimization
 
@@ -217,6 +219,8 @@ Research / Science orient
 - 🌟 [feathr-ai/feathr](https://github.com/feathr-ai/feathr): Feathr – A scalable, unified data and AI engineering platform for enterprise <https://join.slack.com/t/feathrai/shared_invite/zt-1ffva5u6v-voq0Us7bbKAw873cEzHOSg>
   - in Scala? Interesting
 - [featureform/featureform](https://github.com/featureform/featureform): The Virtual Feature Store. Turn your existing data infrastructure into a feature store. <https://www.featureform.com>
+- [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio): Label Studio is a multi-type data labeling and annotation tool with standardized output format <https://labelstud.io>
+- [comet-ml/kangas](https://github.com/comet-ml/kangas): 🦘 Explore multimedia datasets at scale <https://github.com/comet-ml/kangas/wiki>
 
 ## Tensor inference
 
@@ -345,6 +349,7 @@ Research / Science orient
 - [google-deepmind/synjax](https://github.com/google-deepmind/synjax): SynJax is a neural network library for JAX structured probability distributions.
 - [google-deepmind/alphatensor](https://github.com/google-deepmind/alphatensor): Discovering faster matrix multiplication algorithms with reinforcement learning
 - 🌟 [google-deepmind/penzai](https://github.com/google-deepmind/penzai): A JAX research toolkit for building, editing, and visualizing neural networks. <https://penzai.readthedocs.io/>
+- 🌟 [google-deepmind/treescope](https://github.com/google-deepmind/treescope): An interactive HTML pretty-printer for machine learning research in IPython notebooks. <https://treescope.readthedocs.io/>
 - 📝 [google-deepmind/launchpad](https://github.com/google-deepmind/launchpad): Launchpad is a library that simplifies writing distributed programs by seamlessly launching them on a variety of different platforms. Switching between local and distributed execution requires only a flag change.
 - [google-deepmind/jaxline](https://github.com/google-deepmind/jaxline): JAXline is a distributed JAX training and evaluation framework.
 - [google-deepmind/torax](https://github.com/google-deepmind/torax): TORAX: Tokamak transport simulation in JAX <https://torax.readthedocs.io>
@@ -393,7 +398,8 @@ Research / Science orient
 
 - [xl0/lovely-jax](https://github.com/xl0/lovely-jax): JAX Arrays for human consumption <https://xl0.github.io/lovely-jax>
 - [google/pyglove](https://github.com/google/pyglove): Manipulating Python Programs
-- [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning operations reinvented (for pytorch, tensorflow, jax and others) <https://einops.rocks>
+- 🌟 [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning operations reinvented (for pytorch, tensorflow, jax and others) <https://einops.rocks>
+- 🌟 [fferflo/einx](https://github.com/fferflo/einx): Universal Tensor Operations in Einstein-Inspired Notation for Python. <https://einx.readthedocs.io/en/stable/>
 - [google-deepmind/tree](https://github.com/google-deepmind/tree): tree is a library for working with nested data structures <https://tree.readthedocs.io>
 - [NeilGirdhar/tjax](https://github.com/NeilGirdhar/tjax): Tools for JAX
 - [google-research/dataclass_array](https://github.com/google-research/dataclass_array): Dataclasses manipulated as numpy arrays (with batching, reshape, slicing,...) <https://dataclass-array.readthedocs.io>

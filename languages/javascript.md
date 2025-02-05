@@ -83,6 +83,7 @@
 - [wheresrhys/fetch-mock](https://github.com/wheresrhys/fetch-mock): Mock http requests made using fetch <http://www.wheresrhys.co.uk/fetch-mock/>
 - [avajs/ava](https://github.com/avajs/ava): Node.js test runner that lets you develop with confidence 🚀
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench): 🔎 A simple, tiny and lightweight benchmarking library!
+- [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker): JSON-Schema + fake data generators <http://json-schema-faker.js.org/>
 
 ### Linter / Formatter
 
@@ -121,6 +122,7 @@
 - [krisk/Fuse](https://github.com/krisk/Fuse): Lightweight fuzzy-search, in JavaScript <https://fusejs.io/>
 - [andywer/threads.js](https://github.com/andywer/threads.js): 🧵 Make web workers & worker threads as simple as a function call. <https://threads.js.org/>
 - [iliasbhal/simple-async-context](https://github.com/iliasbhal/simple-async-context): Polyfill implementing the TC39 proposal for AsyncContext.
+- [sindresorhus/emittery](https://github.com/sindresorhus/emittery): Simple and modern async event emitter
 
 ### SerDe / Schema
 
@@ -135,6 +137,7 @@
 - 🌟 [blitz-js/superjson](https://github.com/blitz-js/superjson): Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - 🌟 [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es): Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
 - [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
+- [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema): A standard interface for TypeScript schema validation libraries <https://standardschema.dev>
 
 ### Parser
 
@@ -143,6 +146,9 @@
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2): The fast & forgiving HTML and XML parser <https://feedic.com/htmlparser2>
 - [inikulin/parse5](https://github.com/inikulin/parse5): HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [postalsys/postal-mime](https://github.com/postalsys/postal-mime): Email parser for browser and serverless environments
+- [markedjs/marked](https://github.com/markedjs/marked): A markdown parser and compiler. Built for speed. <https://marked.js.org>
+  - [cure53/DOMPurify](https://github.com/cure53/DOMPurify): DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo: <https://cure53.de/purify>
+- [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html): Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
 
 ### format parser / converter
 
@@ -169,6 +175,7 @@
 - [vercel/little-date](https://github.com/vercel/little-date): A friendly formatter to make date ranges small & sweet
 - [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions <http://bradymholt.github.io/cRonstrue/>
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule): A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
+- [jkroso/parse-duration](https://github.com/jkroso/parse-duration): convert a human readable duration to ms
 
 ### Backend
 
@@ -234,6 +241,8 @@
 - [remusao/tldts](https://github.com/remusao/tldts): JavaScript Library to extract domains, subdomains and public suffixes from complex URIs. <https://npmjs.com/tldts>
 - [kourge/ts-brand](https://github.com/kourge/ts-brand): Reusable type branding in TypeScript
 - [jsonquerylang/jsonquery](https://github.com/jsonquerylang/jsonquery): A lightweight, flexible, and expandable JSON query language <https://jsonquerylang.org/>
+- 🌟 [paulmillr/chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library <https://paulmillr.com>
+- [zgrossbart/jdd](https://github.com/zgrossbart/jdd): A semantic JSON compare tool <http://www.jsondiff.com>
 
 ## Middleware
 
@@ -253,3 +262,4 @@
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts): Functional programming in TypeScript
 - [Effect-TS/effect](https://github.com/Effect-TS/effect): A fully-fledged functional effect system for TypeScript with a rich standard library <https://effect-ts.github.io/effect>
 - [gigobyte/purify](https://github.com/gigobyte/purify): Functional programming library for TypeScript <https://gigobyte.github.io/purify>
+- [Snowflyt/tinyeffect](https://github.com/Snowflyt/tinyeffect): A tiny TypeScript library for handling side effects in a unified way using algebraic effects, offering a type-safe approach for async operations, error handling, dependency injection, and more. <https://github.com/Snowflyt/tinyeffect>

@@ -54,6 +54,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [12 Modern CSS One-Line Upgrades | Modern CSS Solutions](https://moderncss.dev/12-modern-css-one-line-upgrades/): Sometimes, improving your application CSS just takes a one-line upgrade or enhancement! Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.
 - [Modern CSS Solutions](https://moderncss.dev/): A series examining modern CSS solutions to problems Stephanie Eckles (@5t3ph), a seasoned frontend developer, has been solving for 15+ years.
 - 🌟 [lowlighter/matcha](https://github.com/lowlighter/matcha): 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps! <https://matcha.mizu.sh>
+- [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/): A game for learning CSS flexbox
+  - cute :D
 
 ## Framework
 
@@ -98,6 +100,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [perfsee/perfsee](https://github.com/perfsee/perfsee): a set of tools for measuring and debugging performance of frontend applications <https://perfsee.com>
 - [Zizzamia/perfume.js](https://github.com/Zizzamia/perfume.js): Web performance library for measuring all performance vitals metrics <https://zizzamia.github.io/perfume/>
 - 🌟🌟🌟 [aidenybai/react-scan](https://github.com/aidenybai/react-scan): Scan for React performance issues and eliminate slow renders in your app <https://react-scan.million.dev>
+- [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render): why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.) <https://www.npmjs.com/package/@welldone-software/why-did-you-render>
 
 ## Components library
 
@@ -337,7 +340,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [prevwong/craft.js](https://github.com/prevwong/craft.js): 🚀 A React Framework for building extensible drag and drop page editors <https://craft.js.org>
 - [remirror/remirror](https://github.com/remirror/remirror): ProseMirror toolkit for React 🎉 <https://remirror.io>
 - [editablejs/editable](https://github.com/editablejs/editable): Editable is an extensible rich text editor framework that uses custom renderers for rendering, instead of the contenteditable attribute, thus avoiding compatibility issues across browsers and platforms. It focuses on stability, controllability, and performance. <https://docs.editablejs.com/>
-- [markedjs/marked](https://github.com/markedjs/marked): A markdown parser and compiler. Built for speed. <https://marked.js.org/>
 - [mdx-editor/editor](https://github.com/mdx-editor/editor): A rich text editor React component for markdown <https://mdxeditor.dev/>
 - [facebook/lexical](https://github.com/facebook/lexical): Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. <https://lexical.dev>
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react): Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins <https://monaco-react.surenatoyan.com/>

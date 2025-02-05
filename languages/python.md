@@ -32,6 +32,9 @@
 - [Chang-LeHung/dive-into-cpython](https://github.com/Chang-LeHung/dive-into-cpython): dive into cpython source code <https://chang-lehung.github.io/dive-into-cpython/>
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals): Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研究员 Anthony Shaw 的《CPython Internals》中文翻译
+  - WARNING: in chinese
+- [satori1995/cpython-internal](https://github.com/satori1995/cpython-internal): 深度解析 CPython3.8 源码实现 <https://satori1995.github.io/cpython-internal>
+  - WARNING: in chinese
 - [python/typing-council](https://github.com/python/typing-council): Decisions by the Python Typing Council
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips): FastAPI Tips by The FastAPI Expert!
 - [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
@@ -577,6 +580,7 @@ Templates
 - [fgmacedo/python-statemachine](https://github.com/fgmacedo/python-statemachine): Python Finite State Machines made easy.
 - [operatorequals/httpimport](https://github.com/operatorequals/httpimport): Module for remote in-memory Python package/module loading through HTTP/S
 - [patrick-kidger/wadler_lindig](https://github.com/patrick-kidger/wadler_lindig): A Wadler--Lindig pretty printer for Python <https://docs.kidger.site/wadler_lindig/>
+- [pexpect/pexpect](https://github.com/pexpect/pexpect): A Python module for controlling interactive programs in a pseudo-terminal <http://pexpect.readthedocs.io/>
 
 ## Compilers
 

@@ -1,5 +1,9 @@
 # Natural Language Processing
 
+## Modelling
+
+- [imene-swaan/Diachronic-embeddings](https://github.com/imene-swaan/Diachronic-embeddings): Diachronic embeddings for events tracking <https://imene-swaan.github.io/Diachronic-embeddings/>
+
 ## Libraries
 
 - 🌟 [WojciechMula/pyahocorasick](https://github.com/WojciechMula/pyahocorasick): Python module (C extension and plain python) implementing Aho-Corasick algorithm
@@ -25,6 +29,9 @@
 - 🌟 [shibing624/pycorrector](https://github.com/shibing624/pycorrector): pycorrector is a toolkit for text error correction. 文本纠错，实现了 Kenlm，T5，MacBERT，ChatGLM3，LLaMA 等模型应用在纠错场景，开箱即用。 <https://www.mulanai.com/product/corrector/>
 - [life4/textdistance](https://github.com/life4/textdistance): 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [DerwenAI/pytextrank](https://github.com/DerwenAI/pytextrank): Python implementation of TextRank algorithms ("textgraphs") for phrase extraction <https://derwen.ai/docs/ptr/>
+- [softwaredoug/searcharray](https://github.com/softwaredoug/searcharray): Full text search in your Pandas dataframe
+  - `searcharray` adds boring, old BM25 full text search to the PyData stack.
+  - [A Roaringish phrase search algorithm](https://softwaredoug.com/blog/2024/01/21/search-array-phrase-algorithm): How phrase search works in search array by intersecting roaring-like numpy arrays.
 
 ## tokenizer / BPE
 

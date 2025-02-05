@@ -67,6 +67,7 @@
 - [nitefood/asn](https://github.com/nitefood/asn): ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - 🌟 [hengyoush/kyanos](https://github.com/hengyoush/kyanos): Visualize the time packets spend in the kernel, watch & analyze in command line. <https://kyanos.io>
 - [drk1wi/portspoof](https://github.com/drk1wi/portspoof): Portspoof <http://drk1wi.github.io/portspoof/>
+- [monasticacademy/httptap](https://github.com/monasticacademy/httptap): View HTTP/HTTPS requests made by any Linux program <https://www.monasticacademy.org>
 
 ### Analysis
 
@@ -152,6 +153,8 @@
 - 🌟 [trailofbits/algo](https://github.com/trailofbits/algo): Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
 - [coturn/coturn](https://github.com/coturn/coturn): coturn TURN server project
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun): A list of publicly available STUN servers, refreshed every hour.
+- [mudler/edgevpn](https://github.com/mudler/edgevpn): ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens <https://mudler.github.io/edgevpn>
+- [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier): A simple, decentralized mesh VPN with WireGuard support. <https://easytier.cn>
 
 ## Online tools / Services
 
