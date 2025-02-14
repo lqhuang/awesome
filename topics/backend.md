@@ -78,6 +78,8 @@
   - [osohq/oso](https://github.com/osohq/oso): Oso is a batteries-included framework for building authorization in your application. <https://docs.osohq.com>
   - [warrant-dev/warrant](https://github.com/warrant-dev/warrant): Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules. <https://warrant.dev>
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains): a list of disposable and temporary email address domains
+- [fatihky/pundit-ts](https://github.com/fatihky/pundit-ts): Organize your authorization logic with full type-safety.
+- [pundit-community/pundit.js](https://github.com/pundit-community/pundit.js): [WIP] Minimal authorisation through a plain old JavaScript object. <https://pundit-community.github.io/pundit.js/>
 
 ## CMS
 

@@ -12,6 +12,7 @@
 - [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated): A book about category theory <https://abuseofnotation.github.io/category-theory-illustrated/>
 - [haskellfoundation/hs-opt-handbook.github.io](https://github.com/haskellfoundation/hs-opt-handbook.github.io): The Haskell Optimization Handbook <https://haskell.foundation/hs-opt-handbook.github.io/>
 - 🌟 [lazear/types-and-programming-languages](https://github.com/lazear/types-and-programming-languages): Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!
+- [pku-dppl/TAPL-in-MoonBit](https://github.com/pku-dppl/TAPL-in-MoonBit): MoonBit Port of Implementations for Pierce's Types and Programming Languages
 - [Elements of Programming](http://elementsofprogramming.com/): Decomposing programs into a system of algorithmic components
 - [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh): 手撸解释器教程《Crafting Interpreters》中文翻译
 - [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP): The Dao of Functional Programming

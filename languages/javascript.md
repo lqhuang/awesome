@@ -26,6 +26,7 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices): ✅ The Node.js best practices list (December 2023) <https://twitter.com/nodepractices/>
 - 🌟 [How to Write TypeScript Like a Haskeller](https://serokell.io/blog/typescript-for-haskellers)
 - [How to Prerelease an npm Package – Cloud Four](https://cloudfour.com/thinks/how-to-prerelease-an-npm-package/): Recently, we overhauled our shared ESLint config, and I needed to release an alpha version. Thankfully, it turns out to be straightforward, once you know how to do it.
+- 🌟 [Tutorial: publishing ESM-based npm packages with TypeScript](https://2ality.com/2025/02/typescript-esm-packages.html)
 
 ## Toolchain
 
@@ -48,6 +49,7 @@
   - awesome built-in vis for deps
 - [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates): Find newer versions of package dependencies than what your package.json allows
+- 🌟 [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts): 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos <https://heyapi.dev>
 
 ### Bundler
 
@@ -243,6 +245,7 @@
 - [jsonquerylang/jsonquery](https://github.com/jsonquerylang/jsonquery): A lightweight, flexible, and expandable JSON query language <https://jsonquerylang.org/>
 - 🌟 [paulmillr/chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library <https://paulmillr.com>
 - [zgrossbart/jdd](https://github.com/zgrossbart/jdd): A semantic JSON compare tool <http://www.jsondiff.com>
+- 🌟 [le0pard/re2js](https://github.com/le0pard/re2js): RE2JS is the JavaScript port of RE2, a regular expression engine that provides linear time matching <https://re2js.leopard.in.ua/>
 
 ## Middleware
 
@@ -250,6 +253,7 @@
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase): The reactive data store for local‑first apps. <https://tinybase.org>
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit): A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). <https://triplit.dev>
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware): ⚡ The one-liner node.js http-proxy middleware for connect, express, next.js and more
+- [developit/web-worker](https://github.com/developit/web-worker): Consistent Web Workers in browser and Node. <https://npm.im/web-worker>
 
 ## Misc
 

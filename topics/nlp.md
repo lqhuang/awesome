@@ -39,6 +39,9 @@
 - [gautierdag/bpeasy](https://github.com/gautierdag/bpeasy): Fast bare-bones BPE for modern tokenizer training
 - [karpathy/minbpe](https://github.com/karpathy/minbpe): Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
 - 🌟 [qdrant/fastembed](https://github.com/qdrant/fastembed): Fast, Accurate, Lightweight Python library to make State of the Art Embedding <https://qdrant.github.io/fastembed/>
+- [mlc-ai/tokenizers-cpp](https://github.com/mlc-ai/tokenizers-cpp): Universal cross-platform tokenizers binding to HF and sentencepiece
+- [huggingface/tokenizers](https://github.com/huggingface/tokenizers): 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production <https://huggingface.co/docs/tokenizers>
+- [google/sentencepiece](https://github.com/google/sentencepiece): Unsupervised text tokenizer for Neural Network-based text generation.
 
 ### String search or operations
 

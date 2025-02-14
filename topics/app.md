@@ -5,6 +5,10 @@
 - [React Native 中文网](https://reactnative.cn/)
 - [React Native](https://reactnative.dev/)
 
+### Readings
+
+- [Pre-built iOS Binaries: Reducing React Native Dev Start Time from Minutes to Seconds | Monarch Money](https://www.monarchmoney.com/blog/pre-built-ios-binaries-reducing-react-native-dev-start-time-from-minutes-to): Using pre-built binaries, we reduced our React Native app build time from minutes to seconds.
+
 ## SwiftUI
 
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
@@ -54,6 +58,7 @@
 - [margelo/react-native-filament](https://github.com/margelo/react-native-filament): 🐧 A real-time physically based 3D rendering engine for React Native <https://margelo.github.io/react-native-filament/>
 - 🌟 [jaredh159/tailwind-react-native-classnames](https://github.com/jaredh159/tailwind-react-native-classnames): simple, expressive API for tailwindcss + react-native
 - [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables): Universal shadcn/ui for React Native featuring a focused collection of components - Crafted with NativeWind v4 and accessibility in mind. <https://rnr-docs.vercel.app>
+- [software-mansion/react-native-executorch](https://github.com/software-mansion/react-native-executorch): React Native ExecuTorch is a declarative way to run AI models in React Native on device, powered by ExecuTorch
 
 ### Examples
 

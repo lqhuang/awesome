@@ -241,11 +241,12 @@
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec): A vector search SQLite extension that runs anywhere!
 - [1yefuwang1/vectorlite](https://github.com/1yefuwang1/vectorlite): Fast, SQL powered, in-process vector search for any language with an SQLite driver <https://1yefuwang1.github.io/vectorlite/>
 
-## GUI
+## GUI / TUI
 
 - [Dataflare](https://dataflare.app/): A simple, easy-to-use database manager. Easily connect to your ClickHouse, Cloudflare D1, CockroachDB, Databend, DuckDB, libSQL, MariaDB, MySQL, PostgreSQL, QuestDB, Rqlite, SQLCipher, SQLite, SQL Server databases in Dataflare, manage Table, view Data, write SQL and run Query.
 - [outerbase/studio](https://github.com/outerbase/studio): A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. <https://studio.outerbase.com>
 - [SQLite Viewer Web App](https://sqliteviewer.app/)
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin): The SQL IDE for Your Terminal. <https://harlequin.sh>
 
 ## Testing
 

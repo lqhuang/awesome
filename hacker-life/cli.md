@@ -81,6 +81,7 @@
 - 🌟 [charmbracelet/wish](https://github.com/charmbracelet/wish): Make SSH apps, just like that! 💫
 - [sqshq/sampler](https://github.com/sqshq/sampler): Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. <https://sampler.dev>
 - [tstack/lnav](https://github.com/tstack/lnav): Log file navigator <http://lnav.org>
+- [dloss/klp](https://github.com/dloss/klp): Lightweight CLI viewer for structured log files and streams (logfmt, JSONL and many others)
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin): The SQL IDE for Your Terminal. <https://harlequin.sh>
 - [mac-cleanup/mac-cleanup-py](https://github.com/mac-cleanup/mac-cleanup-py): 👨‍💻 Python cleanup script for macOS
 - 🌟 [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne): Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.

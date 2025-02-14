@@ -116,6 +116,9 @@ Build cache
 - [googleapis/release-please](https://github.com/googleapis/release-please): generate release PRs based on the conventionalcommits.org spec <https://www.conventionalcommits.org>
 - [changesets/changesets](https://github.com/changesets/changesets): 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 - [microsoft/beachball](https://github.com/microsoft/beachball): The Sunniest Semantic Version Bumper <https://microsoft.github.io/beachball>
+- [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog): Automatic Changelog generator using Jinja2 templates. <https://pawamoy.github.io/git-changelog>
+- [antfu/changelogithub](https://github.com/antfu/changelogithub): Generate changelog for GitHub
+- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog): CHANGELOG generator implemented in Go (Golang). <https://godoc.org/github.com/git-chglog/git-chglog>
 
 ## GitHub Action
 
@@ -144,6 +147,7 @@ Build cache
 - [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions): A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis]
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action): Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space): ⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
+- [hendrikmuhs/ccache-action](https://github.com/hendrikmuhs/ccache-action): github action to speedup building using ccache
 
 ### GitHub Action Runner
 

@@ -87,7 +87,7 @@
 - [twitter/rezolus](https://github.com/twitter/rezolus): Systems performance telemetry
 - [google/perfetto](https://github.com/google/perfetto): Performance instrumentation and tracing for Android, Linux and Chrome <https://www.perfetto.dev>
 - 🌟 [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math): Techniques and numbers for estimating system's performance from first-principles <https://www.youtube.com/watch?v=IxkSlnrRFqc>
-- [namhyung/uftrace](https://github.com/namhyung/uftrace): Function graph tracer for C/C++/Rust <https://uftrace.github.io/slide>
+- 🌟 [namhyung/uftrace](https://github.com/namhyung/uftrace): Function graph tracer for C/C++/Rust <https://uftrace.github.io/slide>
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope): 🔬 A fast, interactive web-based viewer for performance profiles. <https://www.speedscope.app>
 - [mstange/samply](https://github.com/mstange/samply): Command-line sampling profiler for macOS and Linux

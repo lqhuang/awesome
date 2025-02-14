@@ -231,6 +231,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom): 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016) <https://rpearce.github.io/react-medium-image-zoom/>
 
 - [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build and send emails using React <https://react.email>
+- [ferrucc-io/emoji-picker](https://github.com/ferrucc-io/emoji-picker): React Emoji picker component styled with Tailwind <https://emoji.ferrucc.io>
 
 #### Shadcn UI eco system
 
@@ -243,6 +244,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [sersavan/shadcn-multi-select-component](https://github.com/sersavan/shadcn-multi-select-component): A multi-select component designed with shadcn/ui <https://shadcn-multi-select-component.vercel.app>
 - 🌟🌟🌟 [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
   - [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
+- [neigebaie/shadcn-ui-tree-view](https://github.com/neigebaie/shadcn-ui-tree-view): Shadcn-ui based tree view, with multi-selection, drag, and more!
 
 #### Just render json in better way
 

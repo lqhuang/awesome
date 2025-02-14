@@ -11,11 +11,8 @@
 - 🌟 [mltframework/shotcut](https://github.com/mltframework/shotcut): cross-platform (Qt), open-source (GPLv3) video editor <https://www.shotcut.org>
   - Open source alternative to Adode Pr
 - [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed for reading research papers and technical books. <https://sioyek.info>
-- [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely encrypted backups in the cloud!
 - [Pixcall](https://pixcall.com): 助力个人和团队以更好的方式管理图片、视频、文档等数字资产
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists): Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. <https://reacher.email>
-- [borgbackup/borg](https://github.com/borgbackup/borg): Deduplicating archiver with compression and authenticated encryption. <https://www.borgbackup.org>
-- 🌟 [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization <https://forum.syncthing.net>
 - [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source KVM (switch) software
 - [fireyy/caricare](https://github.com/fireyy/caricare): A simple cross-platform desktop application for S3-Compatible Object Storage. Built in Rust using egui.
 - 🌟 [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Easy and blazing-fast book searcher, create and search your private library. <https://github.com/book-searcher-org/book-searcher>
@@ -99,6 +96,7 @@
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad): A virtual monitor for screen sharing
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace): AeroSpace is an i3-like tiling window manager for macOS <https://nikitabobko.github.io/AeroSpace/guide>
 - [macmade/Hot](https://github.com/macmade/Hot): Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues. <https://xs-labs.com/en/apps/hot/>
+- [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch): TheBoringNotch: Not so boring notch That Rocks 🎸🎶 <https://theboring.name/>
 
 ### Free / Paid
 
@@ -193,13 +191,15 @@
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore): Omnivore is a complete, open source read-it-later solution for people who like reading. <https://omnivore.app>
 - 🌟 [matrix-org/dendrite](https://github.com/matrix-org/dendrite): Dendrite is a second-generation Matrix homeserver written in Go! <https://matrix-org.github.io/dendrite/>
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️ Streaming torrent client for the web <https://webtorrent.io>
+- [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted): Self-hosted version of webtor.io implemented as an all-in-one Docker image
 - [jesec/flood](https://github.com/jesec/flood): A modern web UI for various torrent clients with a Node.js backend and React frontend. <https://flood.js.org>
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web File Browser <https://filebrowser.org>
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus): 云探针、多服务器探针、云监控、多服务器云监控，演示： <https://tz.cloudcpp.com>
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust): ✨ Rust 版 ServerStatus 探针、威力加强版 <https://ssr.rs/>
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io): 📚 LookScanned.io - Make your PDFs look scanned <https://lookscanned.io>
-- 🌟 [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances <https://maybe.co>
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances <https://maybe.co>
 - 🌟 [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. <https://massgrave.dev>
+- [11notes/docker-kms](https://github.com/11notes/docker-kms): Activate any version of Windows and Office, forever
 - [~mlb/linkhut](https://sr.ht/~mlb/linkhut/): linkhut is an open source social bookmarking website. <https://ln.ht/>
 - [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号 RSS 生成。(前端重构中)

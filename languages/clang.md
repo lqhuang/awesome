@@ -177,6 +177,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [dermesser/uvco](https://github.com/dermesser/uvco): C++20 Coroutines running on libuv for intuitive async I/O <https://borgac.net/~lbo/doc/uvco/>
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro): A library of C++ coroutine abstractions for the coroutines TS
 - [Tradias/asio-grpc](https://github.com/Tradias/asio-grpc): Asynchronous gRPC with Asio/unified executors <https://tradias.github.io/asio-grpc/>
+- [tsoding/coroutines](https://github.com/tsoding/coroutines): Custom coroutines implementation in GNU C
 
 ## Network
 

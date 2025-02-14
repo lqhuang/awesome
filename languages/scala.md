@@ -99,6 +99,7 @@
 - [gatling/gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin): Gatling Plugin for SBT <https://gatling.io>
 - [spotify/ratatool](https://github.com/spotify/ratatool): A tool for data sampling, data generation, and data diffing
 - [paulbutcher/ScalaMock](https://github.com/paulbutcher/ScalaMock): Native Scala mocking framework <http://scalamock.org/>
+- [sageserpent-open/americium](https://github.com/sageserpent-open/americium): Generation of test case data for Scala and Java, in the spirit of QuickCheck. When your test fails, it gives you a minimised failing test case and a way of reproducing the failure immediately.
 
 ### Program Analysis
 

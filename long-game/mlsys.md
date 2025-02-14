@@ -55,6 +55,14 @@
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被 60 个国家的 400 所大学用于教学。 <http://zh.d2l.ai>
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering): Machine Learning Engineering Open Book <https://stasosphere.com/machine-learning/>
 
+### Research
+
+NOTE: not research on ML Sys
+
+- [facebookresearch/lagrangian-ot](https://github.com/facebookresearch/lagrangian-ot): Neural Optimal Transport with Lagrangian Costs
+- [MichaelTMatthews/Craftax](https://github.com/MichaelTMatthews/Craftax): (Crafter + NetHack) in JAX. ICML 2024 Spotlight.
+- [haoliuhl/ringattention](https://github.com/haoliuhl/ringattention): Large Context Attention
+
 ## Framework and libraries
 
 ### General framework / Training
@@ -144,10 +152,6 @@
 - [microsoft/vattention](https://github.com/microsoft/vattention): Dynamic Memory Management for Serving LLMs without PagedAttention
 - [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym): Helpful tools and examples for working with flex-attention
   - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
-
-Research / Science orient
-
-- [facebookresearch/lagrangian-ot](https://github.com/facebookresearch/lagrangian-ot): Neural Optimal Transport with Lagrangian Costs
 
 ### Inference engine / large-scale deployment
 
@@ -315,14 +319,13 @@ Research / Science orient
 - [hayden-donnelly/jax-to-cpp](https://github.com/hayden-donnelly/jax-to-cpp): Generate HLO with JAX then execute in C++.
 - [young-geng/scalax](https://github.com/young-geng/scalax): A simple library for scaling up JAX programs
 - [NIFTy-PPL/JAXbind](https://github.com/NIFTy-PPL/JAXbind): Bind any function written in another language to JAX with support for JVP/VJP/batching/jit compilation
-- [MichaelTMatthews/Craftax](https://github.com/MichaelTMatthews/Craftax): (Crafter + NetHack) in JAX
 - [brentyi/jaxfg](https://github.com/brentyi/jaxfg): Factor graphs and nonlinear least squares for JAX
 - [pasqal-io/horqrux](https://github.com/pasqal-io/horqrux): Jax-based quantum state vector simulator. <https://pasqal-io.github.io/horqrux/latest/>
 - [ayaka14732/einshard](https://github.com/ayaka14732/einshard): High-level array sharding API for JAX <https://einshard.readthedocs.io/>
 - [mancusolab/traceax](https://github.com/mancusolab/traceax): Stochastic trace estimation using JAX <https://mancusolab.github.io/traceax/>
 - [MatX-inc/seqax](https://github.com/MatX-inc/seqax): seqax = sequence modeling + JAX
 - [yklcs/jaxsplat](https://github.com/yklcs/jaxsplat): 3D Gaussian Splatting in JAX <https://jaxsplat.readthedocs.io>
-- [keraJLi/rejax](https://github.com/keraJLi/rejax): No description, website, or topics provided.
+- [keraJLi/rejax](https://github.com/keraJLi/rejax): Rejax is a library of RL algorithms which are implemented in pure Jax.
 - [yixiaoer/einshard](https://github.com/yixiaoer/einshard): Einsum-like high-level array sharding API for JAX <https://einshard.readthedocs.io/>
 - [epignatelli/navix](https://github.com/epignatelli/navix): Accelerated minigrid environments with JAX
 - [erfanzar/EasyDeL](https://github.com/erfanzar/EasyDeL): Accelerate, Optimize performance with streamlined training and serving options with JAX. <https://easydel.readthedocs.io/en/latest/>
@@ -335,6 +338,8 @@ Research / Science orient
 - [pymc-devs/pytensor](https://github.com/pymc-devs/pytensor): PyTensor allows you to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays. <https://pytensor.readthedocs.io>
 - [pnkraemer/matfree](https://github.com/pnkraemer/matfree): Matrix-free linear algebra in JAX. <https://pnkraemer.github.io/matfree/>
 - [deepmodeling/DMFF](https://github.com/deepmodeling/DMFF): DMFF (Differentiable Molecular Force Field) is a Jax-based python package that provides a full differentiable implementation of molecular force field models.
+- [ZQZCalin/trainit](https://github.com/ZQZCalin/trainit): Trainit is a machine learning training pipeline based on jax. It is also built on optax for optimizers, equinox for models, wandb for logging, and hydra for convenient configuration management.
+- [benabed/clipy](https://github.com/benabed/clipy): pure python clik implementation with jax support.
 
 ### DeepMind specialization
 
@@ -487,3 +492,5 @@ Research / Science orient
 - [zhuzilin/ring-flash-attention](https://github.com/zhuzilin/ring-flash-attention): Ring attention implementation with flash attention
 - [fla-org/flash-linear-attention](https://github.com/fla-org/flash-linear-attention): Efficient implementations of state-of-the-art linear attention models in Pytorch and Triton <https://github.com/fla-org/flash-linear-attention>
 - [SonyResearch/micro_diffusion](https://github.com/SonyResearch/micro_diffusion): Official repository for our work on micro-budget training of large-scale diffusion models. <https://arxiv.org/abs/2407.15811>
+- [JINO-ROHIT/mini-AutoGrad](https://github.com/JINO-ROHIT/mini-AutoGrad)
+  - [symbolic_differentiation.py](https://github.com/JINO-ROHIT/mini-AutoGrad/blob/main/mini-grad/symbolic_differentiation.py)

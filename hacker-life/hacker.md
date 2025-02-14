@@ -18,8 +18,8 @@
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors): GNU/Linux 一键更换系统软件源脚本 <https://linuxmirrors.cn>
 - [chanhx/crabviz](https://github.com/chanhx/crabviz): 🦀 A tool to generate interactive call graphs for multiple languages
 - 🌟🌟🌟 [idank/explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
-- 🌟🌟🌟 [facebook/watchman](https://github.com/facebook/watchman): Watches files and records, or triggers actions, when they change. <https://facebook.github.io/watchman/>
-- [eradman/entr](https://github.com/eradman/entr): Run arbitrary commands when files change <http://eradman.com/entrproject/>
+- 🌟 [facebook/watchman](https://github.com/facebook/watchman): Watches files and records, or triggers actions, when they change. <https://facebook.github.io/watchman/>
+- 🌟 [eradman/entr](https://github.com/eradman/entr): Run arbitrary commands when files change <http://eradman.com/entrproject/>
   - someone said it's better than watchman 🤔
 - 🌟 [facebook/dotslash](https://github.com/facebook/dotslash): Simplified executable deployment <https://dotslash-cli.com>
 - [jdx/mise](https://github.com/jdx/mise): dev tools, env vars, task runner <https://mise.jdx.dev>
@@ -132,6 +132,13 @@
 - [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma): Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services. <https://getastroluma.com/>
 - [yusing/go-proxy](https://github.com/yusing/go-proxy): Easy to use reverse proxy with docker integration
 
+### Backup
+
+- [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely encrypted backups in the cloud!
+- [borgbackup/borg](https://github.com/borgbackup/borg): Deduplicating archiver with compression and authenticated encryption. <https://www.borgbackup.org>
+- [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program <https://restic.net>
+- [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization <https://forum.syncthing.net>
+
 ## HomeKit / IoT
 
 - [homebridge/homebridge](https://github.com/homebridge/homebridge): HomeKit support for the impatient. <https://homebridge.io>
@@ -156,6 +163,7 @@
   - export WeBook to Readwise
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成 HTML、Word、CSV 文档永久保存，对聊天记录进行分析生成年度聊天报告
 - 🌟 [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines): Chinese copywriting guidelines for better written communication／中文文案排版指北
+- [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide): An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io <https://zh-style-guide.readthedocs.io>
 - [ruanyf/weekly](https://github.com/ruanyf/weekly): 科技爱好者周刊，每周五发布
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline): A public release of TimelineBuilder for building personal digital data timelines.
 - [USTC Hackergame](https://github.com/USTC-Hackergame)

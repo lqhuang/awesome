@@ -140,7 +140,6 @@ Templates
 - 🌟 [spatialaudio/nbsphinx](https://github.com/spatialaudio/nbsphinx): 📒 Sphinx source parser for Jupyter notebooks <https://nbsphinx.readthedocs.io/>
 - [mkdocstrings/griffe](https://github.com/mkdocstrings/griffe): Signatures for entire Python programs. Extract the structure, the frame, the skeleton of your project, to generate API documentation or find breaking changes in your API. <https://mkdocstrings.github.io/griffe>
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc): API Documentation for Python Projects <https://pdoc.dev>
-- [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog): Automatic Changelog generator using Jinja2 templates. <https://pawamoy.github.io/git-changelog>
 - [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints): Type hints support for the Sphinx autodoc extension
 - [readthedocs-examples/awesome-read-the-docs](https://github.com/readthedocs-examples/awesome-read-the-docs): A curated list of awesome Read the Docs projects <https://readthedocs.org/>
 - [psincraian/pepy](https://github.com/psincraian/pepy): pepy is a site to get statistics information about any Python package. <https://pepy.tech>
@@ -333,6 +332,8 @@ Templates
 - [davidbrochart/jupyter-kernel-provisioner-proxy](https://github.com/davidbrochart/jupyter-kernel-provisioner-proxy): Jupyter kernel provisioner proxy
 - [google-deepmind/treescope](https://github.com/google-deepmind/treescope): An interactive HTML pretty-printer for machine learning research in IPython notebooks. <https://treescope.readthedocs.io/>
 - [manzt/anywidget](https://github.com/manzt/anywidget): jupyter widgets made easy <https://anywidget.dev>
+- [notebook-intelligence/notebook-intelligence](https://github.com/notebook-intelligence/notebook-intelligence): AI coding assistant for JupyterLab, powered by GitHub Copilot
+- [vinayak-mehta/ipychat](https://github.com/vinayak-mehta/ipychat): An AI extension for IPython that makes it work like Cursor
 
 ### Prob
 
@@ -379,6 +380,7 @@ Templates
 - [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 - [heptapod.host/saajns/hermes](https://heptapod.host/saajns/hermes): Python caching library with tag-based invalidation and dogpile effect prevention
   - https://pypi.org/project/HermesCache/
+- 🌟 [python-trio/trustme](https://github.com/python-trio/trustme): #1 quality TLS certs while you wait, for the discerning tester <https://trustme.rtfd.io>
 
 ### DB clients and SQL utils
 
@@ -406,6 +408,8 @@ Templates
 - [kylebarron/arro3](https://github.com/kylebarron/arro3): A minimal Python library for Apache Arrow, connecting to the Rust arrow crate <https://kylebarron.dev/arro3/core>
 - [sauljabin/kaskade](https://github.com/sauljabin/kaskade): kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style! <https://github.com/sauljabin/kaskade>
 - [aio-libs/yarl](https://github.com/aio-libs/yarl): Yet another URL library <https://yarl.readthedocs.io>
+- 🌟 [coleifer/pysqlite3](https://github.com/coleifer/pysqlite3): SQLite3 DB-API 2.0 driver from Python 3, packaged separately, with improvements
+- [litements/litequeue](https://github.com/litements/litequeue): Queue built on top of SQLite <https://litements.polyrand.net/queue/>
 
 ### API clients
 
@@ -429,6 +433,7 @@ Templates
 - [GraiaProject/BroadcastControl](https://github.com/GraiaProject/BroadcastControl): a high performance, highly customizable, elegantly designed event system based on asyncio
 - [sybrenjansen/mpire](https://github.com/sybrenjansen/mpire): A Python package for easy multiprocessing, but faster than multiprocessing
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper): Concurrent Python made simple
+- [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess): Take a modern Python codebase to the next level of performance. <https://aiomultiprocess.omnilib.dev>
 
 ### High-level data structures
 
@@ -534,6 +539,7 @@ Templates
 - [Delgan/loguru](https://github.com/Delgan/loguru): Python logging made (stupidly) simple
 - [itamarst/eliot](https://github.com/itamarst/eliot): Eliot: the logging system that tells you _why_ it happened <https://eliot.readthedocs.io>
 - [pydantic/logfire](https://github.com/pydantic/logfire): Uncomplicated Observability for Python and beyond! 🪵🔥 <https://docs.pydantic.dev/logfire/>
+- [github/annotated-logger](https://github.com/github/annotated-logger): A decorator to aid in annotating logs for easier reading and searching
 
 ### Bindings
 
@@ -553,33 +559,37 @@ Templates
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts): Intuitive, easy CLIs based on python type hints.
 - [brentyi/tyro](https://github.com/brentyi/tyro): CLI interfaces & config objects, from types <https://brentyi.github.io/tyro>
 - [vlandeiro/yakari](https://github.com/vlandeiro/yakari): Yakari: an interactive command building tool
+- 🌟 [laike9m/pdir2](https://github.com/laike9m/pdir2): Pretty dir() printing with joy:beer:
+- [patrick-kidger/wadler_lindig](https://github.com/patrick-kidger/wadler_lindig): A Wadler--Lindig pretty printer for Python <https://docs.kidger.site/wadler_lindig/>
+
+### Strings
+
+- [nficano/humps](https://github.com/nficano/humps): Convert strings (and dictionary keys) between snake case, camel case and pascal case in Python. Inspired by Humps for Node <http://humps.readthedocs.io>
+- [jpvanhal/inflection](https://github.com/jpvanhal/inflection): A port of Ruby on Rails' inflector to Python <https://inflection.readthedocs.io>
+- 🌟 [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
+- [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz): Fuzzy String Matching in Python
+- [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz): Rapid fuzzy string matching in Python using various string metrics <https://rapidfuzz.github.io/RapidFuzz/>
+- [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
+- [cpburnz/python-pathspec](https://github.com/cpburnz/python-pathspec): Utility library for gitignore style pattern matching of file paths.
 
 ### Utils
 
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python module for decorators, wrappers and monkey patching.
 - [Tinche/tightwrap](https://github.com/Tinche/tightwrap): A type-safe `functools.wraps`.
-- [nficano/humps](https://github.com/nficano/humps): Convert strings (and dictionary keys) between snake case, camel case and pascal case in Python. Inspired by Humps for Node <http://humps.readthedocs.io>
-- [jpvanhal/inflection](https://github.com/jpvanhal/inflection): A port of Ruby on Rails' inflector to Python <https://inflection.readthedocs.io>
 - [T-baby/pondpond](https://github.com/T-baby/pondpond): Pond is a high performance object-pooling library for Python <https://qin.news/pond>
 - [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle): A Python module to customize the process title
 - [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️ <https://glom.readthedocs.io>
 - [ZechCodes/Bevy](https://github.com/ZechCodes/Bevy): A dependency injection framework for Python! Bevy's primary goal is to help you write amazing code with less effort. <https://blog.zech.codes/bevy-v2>
 - [fabiocaccamo/python-benedict](https://github.com/fabiocaccamo/python-benedict): 📘 dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.
-- 🌟 [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
-- [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
 - [bswck/lazy_importing](https://github.com/bswck/lazy_importing): Lazy imports in Python. <https://lazy-importing.readthedocs.io/en/latest/>
 - [paramiko/paramiko](https://github.com/paramiko/paramiko): The leading native Python SSHv2 protocol library. <http://paramiko.org>
 - 🌟 [sethmlarson/truststore](https://github.com/sethmlarson/truststore): Verify certificates using OS trust stores <https://truststore.readthedocs.io>
 - [bswck/slothy](https://github.com/bswck/slothy): Super-easy lazy importing in pure Python. <https://bswck.github.io/slothy/>
-- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown): A Python implementation of John Gruber’s Markdown with Extension support. <https://python-markdown.github.io/>
-  - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions): Extensions for Python Markdown <https://facelessuser.github.io/pymdown-extensions/>
-- 🌟 [laike9m/pdir2](https://github.com/laike9m/pdir2): Pretty dir() printing with joy:beer:
 - 🌟 [pyNVML](https://pypi.org/project/nvidia-ml-py/): Python Bindings for the NVIDIA Management Library. This is a wrapper around the NVML library. For information about the NVML library, see the NVML developer page http://developer.nvidia.com/nvidia-management-library-nvml
 - 🌟 [pydoit/doit](https://github.com/pydoit/doit): CLI task management & automation tool <http://pydoit.org>
 - [JohannesBuchner/imagehash](https://github.com/JohannesBuchner/imagehash): A Python Perceptual Image Hashing Module
 - [fgmacedo/python-statemachine](https://github.com/fgmacedo/python-statemachine): Python Finite State Machines made easy.
 - [operatorequals/httpimport](https://github.com/operatorequals/httpimport): Module for remote in-memory Python package/module loading through HTTP/S
-- [patrick-kidger/wadler_lindig](https://github.com/patrick-kidger/wadler_lindig): A Wadler--Lindig pretty printer for Python <https://docs.kidger.site/wadler_lindig/>
 - [pexpect/pexpect](https://github.com/pexpect/pexpect): A Python module for controlling interactive programs in a pseudo-terminal <http://pexpect.readthedocs.io/>
 
 ## Compilers
@@ -611,6 +621,9 @@ Templates
 - [mishamsk/pyoak](https://github.com/mishamsk/pyoak): Library for building and working with arbitrary ASTs on top dataclasses
 - [MagicStack/parsing](https://github.com/MagicStack/parsing): A pure-Python module that implements an LR(1) parser generator, as well as CFSM and GLR parser drivers.
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing): Python library for creating PEG parsers
+- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown): A Python implementation of John Gruber’s Markdown with Extension support. <https://python-markdown.github.io/>
+- [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions): Extensions for Python Markdown <https://facelessuser.github.io/pymdown-extensions/>
+- [idank/bashlex](https://github.com/idank/bashlex): Python parser for bash
 
 ## Misc
 
@@ -676,6 +689,7 @@ Templates
 - [Textualize/textual](https://github.com/Textualize/textual): The lean application framework for Python. Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. <https://textual.textualize.io/>
 - [patrick91/rich-toolkit](https://github.com/patrick91/rich-toolkit): Opinionated components for Rich
 - [ovh/tygenie](https://github.com/ovh/tygenie): Tygenie: Opsgenie Terminal UI
+- [Rockhopper-Technologies/enlighten](https://github.com/Rockhopper-Technologies/enlighten): Enlighten Progress Bar for Python Console Apps <https://python-enlighten.readthedocs.io>
 
 ### GUI
 
