@@ -43,7 +43,7 @@
 - 🌟 [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. <https://mitmproxy.org>
 - 🌟 [gojue/ecapture](https://github.com/gojue/ecapture): capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android x86_64/Aarch64. <https://ecapture.cc>
 - [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks. <https://www.bettercap.org>
-- [secdev/scapy](https://github.com/secdev/scapy): Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3. <https://scapy.net>
+- 🌟 [secdev/scapy](https://github.com/secdev/scapy): Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3. <https://scapy.net>
 - [beyondcode/expose](https://github.com/beyondcode/expose): A beautiful, fully open-source, tunneling service - written in pure PHP <https://expose.dev>
 - [traviscross/mtr](https://github.com/traviscross/mtr): Official repository for mtr, a network diagnostic tool <http://www.bitwizard.nl/mtr>
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet): Cross-platform application to monitor your network traffic with ease
@@ -86,6 +86,7 @@
 - [oetiker/SmokePing](https://github.com/oetiker/SmokePing): The Active Monitoring System <http://www.smokeping.org>
 - [zeek/zeek](https://github.com/zeek/zeek): Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. <https://www.zeek.org>
 - [Suricata](https://suricata.io/): Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
+- [mdlayher/corerad](https://github.com/mdlayher/corerad): CoreRAD is an extensible and observable IPv6 Neighbor Discovery Protocol router advertisement daemon. Apache 2.0 Licensed. <https://corerad.net>
 
 ### RouterOS Automation?
 
@@ -106,6 +107,7 @@
 
 ## DNS
 
+- [Kea DHCP](https://www.isc.org/kea/): Modern, open source DHCPv4 & DHCPv6 server
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns): The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, and Fly.io <https://rethinkdns.com/configure>
 - [bluejekyll/trust-dns](https://github.com/bluejekyll/trust-dns): A Rust based DNS client, server, and resolver
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io): Dead simple wildcard DNS for any IP Address. <https://nip.io>
@@ -119,6 +121,7 @@
 - [pymumu/smartdns](https://github.com/pymumu/smartdns): A local DNS server to obtain the fastest website IP for the best Internet experience，一个本地 DNS 服务器，获取最快的网站 IP，获得最佳上网体验。
 - [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns): 一个 DNS 转发器
 - [errantmind/faf-dns-proxy](https://github.com/errantmind/faf-dns-proxy): A DNS-over-TLS (DoT) Proxy, Engineered for Speed
+- [rtr7/router7](https://github.com/rtr7/router7): router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance. <https://router7.org>
 
 ## Tunnel
 
@@ -149,12 +152,17 @@
   - [tonarino/innernet](https://github.com/tonarino/innernet): A private network system that uses WireGuard under the hood. <https://blog.tonari.no/introducing-innernet>
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne): A Smart Ethernet Switch for Earth <https://zerotier.com>
 - [Twingate](https://www.twingate.com/): Twingate makes Zero Trust Network Access easy to deploy, even easier to use, and always secure.
-- [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full mesh configuration generator.
+- wireguard
+  - [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full mesh configuration generator.
+  - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy): The easiest way to run WireGuard VPN + Web-based Admin UI.
 - 🌟 [trailofbits/algo](https://github.com/trailofbits/algo): Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
 - [coturn/coturn](https://github.com/coturn/coturn): coturn TURN server project
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun): A list of publicly available STUN servers, refreshed every hour.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn): ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens <https://mudler.github.io/edgevpn>
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier): A simple, decentralized mesh VPN with WireGuard support. <https://easytier.cn>
+- 🌟 [fosrl/pangolin](https://github.com/fosrl/pangolin): Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI <https://docs.fossorial.io>
+  - [fosrl/newt](https://github.com/fosrl/newt): A tunneling client for Pangolin <https://docs.fossorial.io>
+  - [fosrl/gerbil](https://github.com/fosrl/gerbil): A simple WireGuard interface management server written in Go <https://docs.fossorial.io>
 
 ## Online tools / Services
 

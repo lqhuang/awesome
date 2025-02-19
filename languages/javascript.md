@@ -105,6 +105,7 @@
 ### Parser
 
 - 🌟 [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser, mangler and compressor toolkit for ES6+ <https://terser.org>
+- 🌟 [ohmjs/ohm](https://github.com/ohmjs/ohm): A library and language for building parsers, interpreters, compilers, etc.
 
 ### Profile
 
@@ -169,6 +170,7 @@
 
 ### Date
 
+- [Using Intl.DurationFormat for Localized Durations](https://www.raymondcamden.com/2025/02/13/using-intldurationformat-for-localized-durations)
 - [iamkun/dayjs](https://github.com/iamkun/dayjs): ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API <https://day.js.org>
 - [moment/luxon](https://github.com/moment/luxon): ⏱ A library for working with dates and times in JS <https://moment.github.io/luxon>
 - 🌟 [jakubroztocil/rrule](https://github.com/jakubroztocil/rrule): JavaScript library for working with recurrence rules for calendar dates as defined in the iCalendar RFC and more. <https://jakubroztocil.github.io/rrule>

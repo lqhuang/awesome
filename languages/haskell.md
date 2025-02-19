@@ -22,6 +22,7 @@
 - [haskell-perf/checklist](https://github.com/haskell-perf/checklist): The Haskell performance checklist
 - [Simple Haskell](https://www.simplehaskell.org/)
 - [haskell-perf/checklist](https://github.com/haskell-perf/checklist): The Haskell performance checklist
+- [Haskell Optimization Handbook](https://haskell.foundation/hs-opt-handbook.github.io/): no description found
 
 ### Readings
 

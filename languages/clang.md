@@ -215,6 +215,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [shibatch/sleef](https://github.com/shibatch/sleef): SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT <https://sleef.org>
 - [flame/blis](https://github.com/flame/blis): BLAS-like Library Instantiation Software Framework
 - [WojciechMula/sse4-strstr](https://github.com/WojciechMula/sse4-strstr): SIMD (SWAR/SSE/SSE4/AVX2/AVX512F/ARM Neon) of Karp-Rabin algorithm's modification <http://0x80.pl/articles/simd-strfind.html>
+- [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library <https://dpilger26.github.io/NumCpp>
 
 ## Utils
 

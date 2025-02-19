@@ -22,6 +22,7 @@
 - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 - 🌟 [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
 - 🌟 [Book: An Introduction to libuv](https://nikhilm.github.io/uvbook/index.html)
+- [System and Service Manager](https://systemd.io/): systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.
 
 ## Compiler
 

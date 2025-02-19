@@ -98,7 +98,7 @@
 - [gatling/gatling](https://github.com/gatling/gatling): Modern Load Testing as Code <https://gatling.io>
 - [gatling/gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin): Gatling Plugin for SBT <https://gatling.io>
 - [spotify/ratatool](https://github.com/spotify/ratatool): A tool for data sampling, data generation, and data diffing
-- [paulbutcher/ScalaMock](https://github.com/paulbutcher/ScalaMock): Native Scala mocking framework <http://scalamock.org/>
+- [ScalaMock/ScalaMock](https://github.com/ScalaMock/ScalaMock): Native Scala mocking framework <http://scalamock.org/>
 - [sageserpent-open/americium](https://github.com/sageserpent-open/americium): Generation of test case data for Scala and Java, in the spirit of QuickCheck. When your test fails, it gives you a minimised failing test case and a way of reproducing the failure immediately.
 
 ### Program Analysis
@@ -152,6 +152,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [PurpleKingdomGames/tyrian](https://github.com/PurpleKingdomGames/tyrian): Elm-inspired Scala UI library. <https://tyrian.indigoengine.io>
 - [lolgab/snunit](https://github.com/lolgab/snunit): Scala Native HTTP server based on NGINX Unit <https://lolgab.github.io/snunit/>
 - [windymelt/esbuild-plugin-scalajs](https://github.com/windymelt/esbuild-plugin-scalajs): ESBuild Plugin to bundle Scala.js module
+- [doofin/vscode-scalajs-hello](https://github.com/doofin/vscode-scalajs-hello): A simple VSCode extension with Scala.js
 
 ## Featured
 

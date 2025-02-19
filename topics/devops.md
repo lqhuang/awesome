@@ -102,6 +102,7 @@ Build cache
 - [testingisdocumenting/znai](https://github.com/testingisdocumenting/znai): Build functional, maintainable, beautiful User Guides with markdown and Znai plugins. Instant pages navigation. Local search. Multiple integrations to work with Python, Java, C++, OpenAPI, etc. Transform "getting started" sections into slideshow for your workshops. Manage multiple documentations with self-deployed znai hub. <https://testingisdocumenting.org/znai>
 - [keploy/keploy](https://github.com/keploy/keploy): Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work! <https://keploy.io>
 - [scalar/scalar](https://github.com/scalar/scalar): Scalar is an open-source API platform: ✨ 1st-Class OpenAPI/Swagger Support <https://scalar.com>
+- [requestly/requestly](https://github.com/requestly/requestly): Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postman, Insomnia, Bruno and Charles Proxy. <https://requestly.com>
 
 ## GitOps
 

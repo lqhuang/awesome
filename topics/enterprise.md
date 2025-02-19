@@ -73,6 +73,8 @@
 - [withastro/starlight](https://github.com/withastro/starlight): 🌟 Build beautiful, accessible, high-performance documentation websites with Astro <https://starlight.astro.build>
 - [Mintlify](https://mintlify.com/): The documentation you want, effortlessly
 - [Driver.ai](https://www.driver.ai/): Decode technology, instantly. Create high-quality tech docs and onboard twice as fast.
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): A community-supported supercharged version of paperless: scan, index and archive all your physical documents <https://docs.paperless-ngx.com>
+- [eikek/docspell](https://github.com/eikek/docspell): Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort. <https://docspell.org>
 
 ### DevOps
 
@@ -81,6 +83,7 @@
 - 🌟 [caronc/apprise](https://github.com/caronc/apprise): Apprise - Push Notifications that work with just about every platform! <https://hub.docker.com/r/caronc/apprise>
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks): The enterprise-ready webhooks service 🦀 <https://www.svix.com>
 - [frain-dev/convoy](https://github.com/frain-dev/convoy): Open Source Webhooks Gateway; For both incoming & outgoing events. <https://getconvoy.io>
+- [adnanh/webhook](https://github.com/adnanh/webhook): webhook is a lightweight incoming webhook server to run shell commands
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev): ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code. <https://trigger.dev>
 - [backstage/backstage](https://github.com/backstage/backstage): Backstage is an open platform for building developer portals <https://backstage.io>
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest): Tracetest - Generate end-to-end tests automatically from your traces. For QA, Dev, & Ops. <https://tracetest.io/>
@@ -150,6 +153,8 @@
 - [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime): BlueWave Uptime is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful visualizations. Get powerful insights and proactive alerts to keep your services running smoothly. <https://uptime-demo.bluewavelabs.ca/>
 - [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate): Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. <https://checkmate-demo.bluewavelabs.ca/>
 - [bluewave-labs/capture](https://github.com/bluewave-labs/capture): An open source hardware monitoring agent for Checkmate <https://pkg.go.dev/github.com/bluewave-labs/capture>
+- [rajnandan1/kener](https://github.com/rajnandan1/kener): Kener is a Modern Self hosted Status Page, batteries included <https://kener.ing/>
+- [henrygd/beszel](https://github.com/henrygd/beszel): Lightweight server monitoring hub with historical data, docker stats, and alerts. <https://beszel.dev>
 
 ### Observability: Logging / Metrics / APM
 
@@ -181,6 +186,7 @@
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent): The production-scale datacenter profiler
 - [google/mtail](https://github.com/google/mtail): extract internal monitoring data from application logs for collection in a timeseries database
 - [nyrkio/nyrkio](https://github.com/nyrkio/nyrkio): Nyrkiö is an open source platform for detecting performance changes <https://nyrkio.com>
+- [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub): Universal Metrics Collection for OpenTelemetry <https://metricshub.com>
 - [yandex/perforator](https://github.com/yandex/perforator): Perforator is a cluster-wide continuous profiling tool designed for large data centers <https://perforator.tech>
   - made by Yandex and inspired by Google-Wide Profiling.
 
@@ -192,23 +198,18 @@
 - [hatoo/oha](https://github.com/hatoo/oha): Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool
 
-### Logger search and analytics
+### Logging viewer / Logging search
 
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu): Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days <https://jitsu.com>
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch): Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon <https://manticoresearch.com>
 - [parseablehq/parseable](https://github.com/parseablehq/parseable): Lightweight, high performance, cloud native alternative to Elasticsearch. <https://parseable.io>
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit): Cloud-native search engine for log management & analytics <https://quickwit.io>
-- 🌟 [usefathom/fathom](https://github.com/usefathom/fathom): Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact. <https://usefathom.com>
-- 🌟 [plausible/analytics](https://github.com/plausible/analytics): Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. <https://plausible.io>
-- [milesmcc/shynet](https://github.com/milesmcc/shynet): Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
-- [PostHog/posthog](https://github.com/PostHog/posthog): 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. <https://posthog.com>
-- 🌟 [steven-tey/dub](https://github.com/steven-tey/dub): An open-source link shortener with built-in analytics + free custom domains. <https://dub.co>
-- [shlinkio/shlink](https://github.com/shlinkio/shlink): The definitive self-hosted URL shortener <https://shlink.io>
-- [benvinegar/counterscale](https://github.com/benvinegar/counterscale): Scalable web analytics you run yourself on Cloudflare <https://counterscale.dev>
 - [paradedb/paradedb](https://github.com/paradedb/paradedb): Postgres for Search and Analytics <https://paradedb.com>
+- [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core): Web based real-time log viewer. Stream ANY content to a web UI with autogenerated filters. Parse any format with TypeScript. <https://logdy.dev>
 
 ## Incident
 
+- PagerDuty
 - [StrangeBee](https://strangebee.com/): Empowering incident responders worldwide One Case Management Platform for all SOCs, CERTs & CSIRTs
 - [certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR): Fast Incident Response
 
@@ -225,6 +226,7 @@
 - [OSSEC](https://www.ossec.net/): OSSEC is a scalable, multi-platform, open source Host-based Intrusion Detection System (HIDS)
 - [wazuh/wazuh](https://github.com/wazuh/wazuh): Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. <https://wazuh.com/>
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb): 🛡️ Open-source and next-generation Web Application Firewall (WAF) <https://www.bunkerweb.io>
+- 🌟 [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure. <https://goteleport.com>
 
 ## Career
 
@@ -252,9 +254,3 @@
 - [getlago/lago](https://github.com/getlago/lago): Open Source Metering and Usage Based Billing <https://www.getlago.com>
 - [midday-ai/midday](https://github.com/midday-ai/midday): Run your business smarter 🪄 <https://midday.ai>
   - [midday-ai/v1](https://github.com/midday-ai/v1): An open-source starter kit based on Midday. <https://v1.run>
-
-## AI-ng
-
-- [BloopAI/bloop](https://github.com/BloopAI/bloop): bloop is a fast code search engine written in Rust. <https://bloop.ai>
-- [GerevAI/gerev](https://github.com/GerevAI/gerev): ChatGPT Workplace Search Engine
-- [suno-ai/bark](https://github.com/suno-ai/bark): 🔊 Text-Prompted Generative Audio Model

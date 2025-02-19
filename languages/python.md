@@ -39,6 +39,7 @@
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips): FastAPI Tips by The FastAPI Expert!
 - [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
   - [scientific-python/cookie](https://github.com/scientific-python/cookie): Scientific Python Library Development Guide and Cookiecutter <https://learn.scientific-python.org/development>
+- [Python extensions should be lazy](https://www.gauge.sh/blog/python-extensions-should-be-lazy)
 
 ### Books
 
@@ -76,7 +77,7 @@
 - [ariebovenberg/slotscheck](https://github.com/ariebovenberg/slotscheck): 🎰 Ensure your `__slots__` are working properly <https://slotscheck.rtfd.io>
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs): Run `black` on python code blocks in documentation files
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer): A fast static code analyzer & language server for Python <http://mtshiba.github.io/pylyzer/>
-- [gauge-sh/tach](https://github.com/gauge-sh/tach): A Python tool to enforce a modular, decoupled package architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust <https://gauge-sh.github.io/tach/>
+- 🌟 [gauge-sh/tach](https://github.com/gauge-sh/tach): A Python tool to enforce a modular, decoupled package architecture. 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoperable with your existing systems 🦀 Written in rust <https://gauge-sh.github.io/tach/>
 - How to build a signature compatiblity linter on top of ... ?
   - [pomponchik/sigmatch](https://github.com/pomponchik/sigmatch): A quick way to verify function signatures in Python
   - Feel much confident while doing developments using `mima` (Scala)
@@ -191,6 +192,7 @@ Templates
 - [vberlier/pytest-insta](https://github.com/vberlier/pytest-insta): A practical snapshot testing plugin for pytest.
 - [Bobronium/parametrize](https://github.com/Bobronium/parametrize): Drop-in @pytest.mark.parametrize replacement working with unittest.TestCase
 - [DRMacIver/shrinkray](https://github.com/DRMacIver/shrinkray): Shrinkray is a modern multi-format test-case reducer
+- [joke2k/faker](https://github.com/joke2k/faker): Faker is a Python package that generates fake data for you. <https://faker.readthedocs.io>
 
 ### Profile / tracing
 
@@ -214,6 +216,8 @@ Templates
 - [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy): coredumpy saves your crash site for post-mortem debugging
 - [compiler-research/idd](https://github.com/compiler-research/idd): A System for Differential Debugging
 - 🌟 [furkanonder/beetrace](https://github.com/furkanonder/beetrace): Trace your python process line by line with low overhead! <https://desktop.github.com>
+- [mgedmin/objgraph](https://github.com/mgedmin/objgraph): Visually explore Python object graphs <http://mg.pov.lt/objgraph/>
+  - [Cowboy Debugging Python Memory Leaks](https://rtpg.co/2025/01/01/cowboy-coding-memory)
 
 ## Functional Programming in Python
 
@@ -675,6 +679,7 @@ Templates
 - [arviz-devs/arviz](https://github.com/arviz-devs/arviz): Exploratory analysis of Bayesian models with Python <https://python.arviz.org>
 - [leotac/joypy](https://github.com/leotac/joypy): Joyplots in Python with matplotlib & pandas 📈
 - [timkpaine/ipydagred3](https://github.com/timkpaine/ipydagred3): ipywidgets library for drawing directed acyclic graphs in jupyterlab using dagre-d3
+- [jrfonseca/xdot.py](https://github.com/jrfonseca/xdot.py): Interactive viewer for graphs written in Graphviz's dot language.
 - matplotlib
   - [lgienapp/aquarel](https://github.com/lgienapp/aquarel): Styling matplotlib made easy
   - [lmcinnes/glasbey](https://github.com/lmcinnes/glasbey): Algorithmically create or extend categorical colour palettes

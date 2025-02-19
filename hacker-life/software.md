@@ -155,18 +155,22 @@
 
 ## Developer
 
-- [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown as mindmaps with Markmap.
-- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
-- 🌟 [ekzhang/sshx](https://github.com/ekzhang/sshx): Fast, collaborative live terminal sharing over the web <https://sshx.io>
-- [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web <https://tsl0922.github.io/ttyd>
 - 🌟 [mirego/accent](https://github.com/mirego/accent): The first developer-oriented translation tool. True asynchronous flow between translators and your team. <https://www.accent.reviews>
+- [leaningtech/webvm](https://github.com/leaningtech/webvm): Virtual Machine for the Web <https://webvm.io>
+- [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
+
 - [harness/gitness](https://github.com/harness/gitness): Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. <https://gitness.com>
+- [stagit](https://git.codemadness.org/stagit/file/README.html): static git page generator
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler): The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte <https://gitbutler.com>
 - [sr.ht/~sircmpwn/sourcehut](https://sr.ht/~sircmpwn/sourcehut/): This is the main project hub for SourceHut itself. To browse our source code, see the "sources" tab at the nav along the top of the page.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD <https://about.gitea.com>
+
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web <https://tsl0922.github.io/ttyd>
+- [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
+- 🌟 [ekzhang/sshx](https://github.com/ekzhang/sshx): Fast, collaborative live terminal sharing over the web <https://sshx.io>
+- [nirui/sshwifty](https://github.com/nirui/sshwifty): Web SSH & Telnet (WebSSH & WebTelnet client) 🔮 <https://sshwifty-demo.nirui.org>
 - [raphamorim/rio](https://github.com/raphamorim/rio): A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. <https://raphamorim.io/rio>
-- [leaningtech/webvm](https://github.com/leaningtech/webvm): Virtual Machine for the Web <https://webvm.io>
-- [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
+- [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm): The open source server management software for SSH, VNC & RDP <http://docs.nexterm.dev/>
 
 ## Services
 
@@ -230,6 +234,8 @@
   - [doocs/docker-md](https://github.com/doocs/docker-md): 🐋 doocs/md 项目 的 docker 镜像
 - [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
 - [Storyteller Docs | Storyteller](https://smoores.gitlab.io/storyteller/): A self-hosted platform for automatically aligning ebooks and audiobooks.
+- [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr): A simple, self-hosted service to keep track of your personal library 📚 <https://demo.booklogr.app>
+- [wger-project/wger](https://github.com/wger-project/wger): Self hosted FLOSS fitness/workout, nutrition and weight tracker <https://wger.de>
 
 ### Email
 
@@ -247,6 +253,12 @@
 - [tutao/tutanota](https://github.com/tutao/tutanota): Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. <https://tuta.com>
 - 🌟 [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server): Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) <https://stalw.art>
 - [useplunk/plunk](https://github.com/useplunk/plunk): The Open-Source Email Platform <https://www.useplunk.com>
+- [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail): Simple, modern & fast web-based email client <https://snappymail.eu>
+- [Mailu/Mailu](https://github.com/Mailu/Mailu): Insular email distribution - mail server as Docker images <https://mailu.io>
+- [vdukhovni/postfix](https://github.com/vdukhovni/postfix): Postfix MTA by Wietse Venema
+  - [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin): PostfixAdmin - web based virtual user administration interface for Postfix mail servers <https://postfixadmin.github.io/postfixadmin>
+  - [postfixadmin/docker](https://github.com/postfixadmin/docker): Docker Image for PostfixAdmin <https://hub.docker.com/_/postfixadmin>
+  - [mailserver2/mailserver](https://github.com/mailserver2/mailserver): Simple and full-featured mail server using Docker <https://store.docker.com/community/images/mailserver2/mailserver>
 
 ### Vault / Passwords
 

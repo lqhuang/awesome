@@ -18,12 +18,10 @@
 - [Fullstack deep learning](https://fullstackdeeplearning.com/): News, community, and courses for people building AI-powered products.
 - [hyperai/tvm-cn](https://github.com/hyperai/tvm-cn): TVM Documentation in Chinese Simplified / TVM 中文文档 <https://tvm.hyper.ai>
 - [HazyResearch/aisys-building-blocks](https://github.com/HazyResearch/aisys-building-blocks): Building blocks for foundation models.
-- [jessevig/bertviz](https://github.com/jessevig/bertviz): BertViz: Visualize Attention in NLP Models (BERT, GPT2, BART, etc.) <https://towardsdatascience.com/deconstructing-bert-part-2-visualizing-the-inner-workings-of-attention-60a16d86b5c1>
 - [ML Code Challenges](https://www.deep-ml.com/)
 - [TensorGym](https://tensorgym.com/exercises): Elevate Your AI Skills and Interview Confidence with unique exercises!
 - [The Tensor Cookbook](https://tensorcookbook.com/): What are Tensor Diagrams? Machine learning involves a lot of tensor manipulation, and it's easy to lose track of the bigger picture when manipulating high-dimensional data using notation designed for vectors and matrices.
   - [The Matrix Cookbook](https://web.archive.org/web/20070126190021/http://matrixcookbook.com/)
-- [lutzroeder/netron](https://github.com/lutzroeder/netron): Visualizer for neural network, deep learning and machine learning models <https://netron.app>
 - [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream): CUDA related news and material links
 - 🌟 [AI-Hypercomputer/gpu-recipes](https://github.com/AI-Hypercomputer/gpu-recipes): Recipes for reproducing training and serving benchmarks for large machine learning models using GPUs on Google Cloud.
 - [GPU Glossary | Modal](https://modal.com/gpu-glossary)
@@ -40,28 +38,17 @@
 - [Efficient GEMM in CUDA](https://github.com/NVIDIA/cutlass/blob/main/media/docs/efficient_gemm.md)
 - [cuda-mode/awesomeMLSys](https://github.com/cuda-mode/awesomeMLSys): An ML Systems Onboarding list
 - [A reading list for machine learning systems](https://jeongseob.github.io/readings_mlsys.html)
-- 🌟 [Home - colah's blog](https://colah.github.io/): no description found
-- [mli/paper-reading](https://github.com/mli/paper-reading): 深度学习经典、新论文逐段精读
-- [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning): List of papers studying machine learning through the lens of category theory
 - [Python isn't just glue, it's an implicit JIT ecosystem](https://state.smerity.com/smerity/state/01JC39KW1TBEAZTKJJF0BR5ZXD): The ecosystem wears in the desire paths, and when slow Python becomes a problem, the ecosystem doesn't optimize the Python, it paves new roads beneath
 - [KnowingNothing/compiler-and-arch](https://github.com/KnowingNothing/compiler-and-arch): A list of tutorials, paper, talks, and open-source projects for emerging compiler and architecture
 - [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial): My learning notes/codes for ML SYS.
+- 🌟 [Decorator JITs - Python as a DSL - Eli Bendersky's website](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
 
 ### Books
 
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem): Deep Learning System core principles introduction.
 - [openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh): 《Machine Learning Systems: Design and Implementation》- Chinese Version <https://openmlsys.github.io>
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design): A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems" <https://huyenchip.com/machine-learning-systems-design/toc.html>
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被 60 个国家的 400 所大学用于教学。 <http://zh.d2l.ai>
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering): Machine Learning Engineering Open Book <https://stasosphere.com/machine-learning/>
-
-### Research
-
-NOTE: not research on ML Sys
-
-- [facebookresearch/lagrangian-ot](https://github.com/facebookresearch/lagrangian-ot): Neural Optimal Transport with Lagrangian Costs
-- [MichaelTMatthews/Craftax](https://github.com/MichaelTMatthews/Craftax): (Crafter + NetHack) in JAX. ICML 2024 Spotlight.
-- [haoliuhl/ringattention](https://github.com/haoliuhl/ringattention): Large Context Attention
 
 ## Framework and libraries
 
@@ -250,8 +237,6 @@ NOTE: not research on ML Sys
   - [LaurentMazare/xla-rs](https://github.com/LaurentMazare/xla-rs): Experimentation using the xla compiler from rust
 - [tensor-compiler/taco](https://github.com/tensor-compiler/taco): The Tensor Algebra Compiler (taco) computes sparse tensor expressions on CPUs and GPUs <http://tensor-compiler.org>
 - [pytorch/glow](https://github.com/pytorch/glow): Compiler for Neural Network hardware accelerators
-- [statusfailed/catgrad](https://github.com/statusfailed/catgrad): a categorical deep learning compiler
-  - [ArXiv - Reverse derivative categories](https://arxiv.org/abs/1910.07065)
 - [nod-ai/SHARK-Turbine](https://github.com/nod-ai/SHARK-Turbine): Unified compiler/runtime for interfacing with PyTorch Dynamo.
 - [modularml/mojo](https://github.com/modularml/mojo): The Mojo Programming Language <https://docs.modular.com/mojo>
 - [mirage-project/mirage](https://github.com/mirage-project/mirage): Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA <https://mirage-project.readthedocs.io/>
@@ -291,55 +276,68 @@ NOTE: not research on ML Sys
 ## Jax ecology
 
 - [n2cholas/awesome-jax](https://github.com/n2cholas/awesome-jax): JAX - A curated list of resources https://github.com/google/jax
-- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable PyTrees and filtered transforms => neural networks in JAX. <https://docs.kidger.site/equinox>
-- [patrick-kidger/optimistix](https://github.com/patrick-kidger/optimistix): Nonlinear optimisation (root-finding, least squares, ...) in JAX+Equinox. <https://docs.kidger.site/optimistix>
-- [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax): Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable. <https://docs.kidger.site/diffrax>
-- [patrick-kidger/lineax](https://github.com/patrick-kidger/lineax): Linear solvers in JAX and Equinox. https://docs.kidger.site/lineax
-- [patrick-kidger/quax](https://github.com/patrick-kidger/quax): Multiple dispatch over abstract array types in JAX.
-- [patrick-kidger/sympy2jax](https://github.com/patrick-kidger/sympy2jax): Turn SymPy expressions into trainable JAX expressions.
 - [stanford-crfm/levanter](https://github.com/stanford-crfm/levanter): Legibile, Scalable, Reproducible Foundation Models with Named Tensors and Jax
-- [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX is a sampling library designed for ease of use, speed and modularity. <https://blackjax-devs.github.io/blackjax>
-- [JaxGaussianProcesses/GPJax](https://github.com/JaxGaussianProcesses/GPJax): Gaussian processes in JAX. <https://docs.jaxgaussianprocesses.com/>
-- [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro): Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU. <https://num.pyro.ai>
-- [jax-ml/oryx](https://github.com/jax-ml/oryx): Oryx is a library for probabilistic programming and deep learning built on top of Jax. <https://tensorflow.org/probability/oryx>
-- [jax-ml/coix](https://github.com/jax-ml/coix): Inference Combinators in JAX <https://coix.readthedocs.io/en/latest/>
-- [jax-ml/bayeux](https://github.com/jax-ml/bayeux): State of the art inference for your bayesian models. <https://jax-ml.github.io/bayeux/>
-- [jax-ml/jax-triton](https://github.com/jax-ml/jax-triton): jax-triton contains integrations between JAX and OpenAI Triton
-- [jax-ml/jax-ai-stack](https://github.com/jax-ml/jax-ai-stack): No description, website, or topics provided.
-- [vicariousinc/PGMax](https://github.com/vicariousinc/PGMax): Loopy belief propagation for factor graphs on discrete variables, in JAX! <https://pgmax.readthedocs.io>
 - [probml/dynamax](https://github.com/probml/dynamax): State Space Models library in JAX <https://probml.github.io/dynamax>
 - [probml/sts-jax](https://github.com/probml/sts-jax): Structural Time Series in JAX
-- [geraschenko/gmrfs](https://github.com/geraschenko/gmrfs): Gaussian Markov Random Fields (GMRFs) and Integrated Nested Laplace Approximation (INLA)
 - [ASEM000/kernex](https://github.com/ASEM000/kernex): Stencil computations in JAX
 - [ott-jax/ott](https://github.com/ott-jax/ott): Optimal Transport tools implemented with the JAX framework, to get auto-diff, parallel and jit-able computations. <https://ott-jax.readthedocs.io>
-- [Autodesk/XLB](https://github.com/Autodesk/XLB): XLB: Accelerated Lattice Boltzmann (XLB) based on JAX for Physics-based ML
-- [apple/axlearn](https://github.com/apple/axlearn): AXLearn is a library built on top of JAX and XLA to support development of large-scale deep learning models.
-- [facebookresearch/minimax](https://github.com/facebookresearch/minimax): Efficient baselines for autocurricula in JAX.
 - [JiaYaobo/fenbux](https://github.com/JiaYaobo/fenbux): A Simple Statistical Distribution Library in JAX <https://jiayaobo.github.io/fenbux/>
 - [hayden-donnelly/jax-to-cpp](https://github.com/hayden-donnelly/jax-to-cpp): Generate HLO with JAX then execute in C++.
 - [young-geng/scalax](https://github.com/young-geng/scalax): A simple library for scaling up JAX programs
 - [NIFTy-PPL/JAXbind](https://github.com/NIFTy-PPL/JAXbind): Bind any function written in another language to JAX with support for JVP/VJP/batching/jit compilation
 - [brentyi/jaxfg](https://github.com/brentyi/jaxfg): Factor graphs and nonlinear least squares for JAX
 - [pasqal-io/horqrux](https://github.com/pasqal-io/horqrux): Jax-based quantum state vector simulator. <https://pasqal-io.github.io/horqrux/latest/>
-- [ayaka14732/einshard](https://github.com/ayaka14732/einshard): High-level array sharding API for JAX <https://einshard.readthedocs.io/>
 - [mancusolab/traceax](https://github.com/mancusolab/traceax): Stochastic trace estimation using JAX <https://mancusolab.github.io/traceax/>
 - [MatX-inc/seqax](https://github.com/MatX-inc/seqax): seqax = sequence modeling + JAX
 - [yklcs/jaxsplat](https://github.com/yklcs/jaxsplat): 3D Gaussian Splatting in JAX <https://jaxsplat.readthedocs.io>
-- [keraJLi/rejax](https://github.com/keraJLi/rejax): Rejax is a library of RL algorithms which are implemented in pure Jax.
-- [yixiaoer/einshard](https://github.com/yixiaoer/einshard): Einsum-like high-level array sharding API for JAX <https://einshard.readthedocs.io/>
 - [epignatelli/navix](https://github.com/epignatelli/navix): Accelerated minigrid environments with JAX
 - [erfanzar/EasyDeL](https://github.com/erfanzar/EasyDeL): Accelerate, Optimize performance with streamlined training and serving options with JAX. <https://easydel.readthedocs.io/en/latest/>
-- [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl): Really Fast End-to-End Jax RL Implementations
-  - [Achieving Over 4000x Speedups and Meta-Evolving Discoveries with PureJaxRL](https://chrislu.page/blog/meta-disco/)
-  - [PureJaxRL Resources](https://github.com/luchris429/purejaxrl/blob/main/RESOURCES.md)
 - [NVIDIA/JAX-Toolbox](https://github.com/NVIDIA/JAX-Toolbox): JAX-Toolbox
 - [deepmodeling/jax-fem](https://github.com/deepmodeling/jax-fem): Differentiable Finite Element Method with JAX
 - [brentyi/jaxlie](https://github.com/brentyi/jaxlie): Rigid transforms + Lie groups in JAX
-- [pymc-devs/pytensor](https://github.com/pymc-devs/pytensor): PyTensor allows you to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays. <https://pytensor.readthedocs.io>
 - [pnkraemer/matfree](https://github.com/pnkraemer/matfree): Matrix-free linear algebra in JAX. <https://pnkraemer.github.io/matfree/>
 - [deepmodeling/DMFF](https://github.com/deepmodeling/DMFF): DMFF (Differentiable Molecular Force Field) is a Jax-based python package that provides a full differentiable implementation of molecular force field models.
 - [ZQZCalin/trainit](https://github.com/ZQZCalin/trainit): Trainit is a machine learning training pipeline based on jax. It is also built on optax for optimizers, equinox for models, wandb for logging, and hydra for convenient configuration management.
 - [benabed/clipy](https://github.com/benabed/clipy): pure python clik implementation with jax support.
+
+patrick-kidger
+
+- [patrick-kidger/equinox](https://github.com/patrick-kidger/equinox): Callable PyTrees and filtered transforms => neural networks in JAX. <https://docs.kidger.site/equinox>
+- [patrick-kidger/optimistix](https://github.com/patrick-kidger/optimistix): Nonlinear optimisation (root-finding, least squares, ...) in JAX+Equinox. <https://docs.kidger.site/optimistix>
+- [patrick-kidger/diffrax](https://github.com/patrick-kidger/diffrax): Numerical differential equation solvers in JAX. Autodifferentiable and GPU-capable. <https://docs.kidger.site/diffrax>
+- [patrick-kidger/lineax](https://github.com/patrick-kidger/lineax): Linear solvers in JAX and Equinox. https://docs.kidger.site/lineax
+- [patrick-kidger/quax](https://github.com/patrick-kidger/quax): Multiple dispatch over abstract array types in JAX.
+- [patrick-kidger/sympy2jax](https://github.com/patrick-kidger/sympy2jax): Turn SymPy expressions into trainable JAX expressions.
+
+Jax ml
+
+- [jax-ml/oryx](https://github.com/jax-ml/oryx): Oryx is a library for probabilistic programming and deep learning built on top of Jax. <https://tensorflow.org/probability/oryx>
+- [jax-ml/coix](https://github.com/jax-ml/coix): Inference Combinators in JAX <https://coix.readthedocs.io/en/latest/>
+- [jax-ml/bayeux](https://github.com/jax-ml/bayeux): State of the art inference for your bayesian models. <https://jax-ml.github.io/bayeux/>
+- [jax-ml/jax-triton](https://github.com/jax-ml/jax-triton): jax-triton contains integrations between JAX and OpenAI Triton
+- [jax-ml/jax-ai-stack](https://github.com/jax-ml/jax-ai-stack): No description, website, or topics provided.
+
+Distributed & Parallelism
+
+- [Autodesk/XLB](https://github.com/Autodesk/XLB): XLB: Accelerated Lattice Boltzmann (XLB) based on JAX for Physics-based ML
+- [apple/axlearn](https://github.com/apple/axlearn): AXLearn is a library built on top of JAX and XLA to support development of large-scale deep learning models.
+- [facebookresearch/minimax](https://github.com/facebookresearch/minimax): Efficient baselines for autocurricula in JAX.
+- [mpi4jax/mpi4jax](https://github.com/mpi4jax/mpi4jax): Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python ⚡ <https://mpi4jax.readthedocs.io/>
+
+PGM / Probabilistic programming
+
+- [vicariousinc/PGMax](https://github.com/vicariousinc/PGMax): Loopy belief propagation for factor graphs on discrete variables, in JAX! <https://pgmax.readthedocs.io>
+- [blackjax-devs/blackjax](https://github.com/blackjax-devs/blackjax): BlackJAX is a sampling library designed for ease of use, speed and modularity. <https://blackjax-devs.github.io/blackjax>
+- [JaxGaussianProcesses/GPJax](https://github.com/JaxGaussianProcesses/GPJax): Gaussian processes in JAX. <https://docs.jaxgaussianprocesses.com/>
+- [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro): Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU. <https://num.pyro.ai>
+- [geraschenko/gmrfs](https://github.com/geraschenko/gmrfs): Gaussian Markov Random Fields (GMRFs) and Integrated Nested Laplace Approximation (INLA)
+
+RL
+
+- [keraJLi/rejax](https://github.com/keraJLi/rejax): Rejax is a library of RL algorithms which are implemented in pure Jax.
+- [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl): Really Fast End-to-End Jax RL Implementations
+  - [Achieving Over 4000x Speedups and Meta-Evolving Discoveries with PureJaxRL](https://chrislu.page/blog/meta-disco/)
+  - [PureJaxRL Resources](https://github.com/luchris429/purejaxrl/blob/main/RESOURCES.md)
 
 ### DeepMind specialization
 
@@ -385,6 +383,12 @@ NOTE: not research on ML Sys
 - [google-research/scenic](https://github.com/google-research/scenic): Scenic: A Jax Library for Computer Vision Research and Beyond
 - [google-research/kauldron](https://github.com/google-research/kauldron): Modular, scalable library to train ML models <https://kauldron.readthedocs.io/>
 - [google/ml_collections](https://github.com/google/ml_collections): ML Collections is a library of Python Collections designed for ML use cases. <https://ml-collections.readthedocs.io/>
+
+### Utils
+
+- [ayaka14732/einshard](https://github.com/ayaka14732/einshard): High-level array sharding API for JAX <https://einshard.readthedocs.io/>
+- [yixiaoer/einshard](https://github.com/yixiaoer/einshard): Einsum-like high-level array sharding API for JAX <https://einshard.readthedocs.io/>
+- [pymc-devs/pytensor](https://github.com/pymc-devs/pytensor): PyTensor allows you to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays. <https://pytensor.readthedocs.io>
 
 ## Libraries
 

@@ -48,6 +48,7 @@
 - [How to roll your own auth in JavaScript & TypeScript](https://www.robinwieruch.de/how-to-roll-your-own-auth/): Learn how to roll your own authentication in JavaScript & TypeScript
 - [Auth Wiki](https://auth.wiki/): Auth Wiki is a comprehensive collection of resources about authentication, authorization, and identity and access management. Learn about OAuth 2.0, OpenID Connect, SAML.
 - [warrant-dev/awesome-authorization](https://github.com/warrant-dev/awesome-authorization): A curated list of information and resources about authorization. <https://awesome-authorization.warrant.dev/>
+- [casbin/awesome-auth](https://github.com/casbin/awesome-auth): 📊 Software and Libraries for Authentication & Authorization & SSO & IAM
 
 ### Libs
 
@@ -80,6 +81,18 @@
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains): a list of disposable and temporary email address domains
 - [fatihky/pundit-ts](https://github.com/fatihky/pundit-ts): Organize your authorization logic with full type-safety.
 - [pundit-community/pundit.js](https://github.com/pundit-community/pundit.js): [WIP] Minimal authorisation through a plain old JavaScript object. <https://pundit-community.github.io/pundit.js/>
+- [stack-auth/stack](https://github.com/stack-auth/stack): Open-source Auth0/Clerk alternative <https://stack-auth.com>
+- 🌟 [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id): A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. <https://pocket-id.org>
+
+## Analytics
+
+- 🌟 [usefathom/fathom](https://github.com/usefathom/fathom): Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact. <https://usefathom.com>
+- 🌟 [plausible/analytics](https://github.com/plausible/analytics): Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. <https://plausible.io>
+- [milesmcc/shynet](https://github.com/milesmcc/shynet): Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
+- [PostHog/posthog](https://github.com/PostHog/posthog): 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. <https://posthog.com>
+- 🌟 [steven-tey/dub](https://github.com/steven-tey/dub): An open-source link shortener with built-in analytics + free custom domains. <https://dub.co>
+- [shlinkio/shlink](https://github.com/shlinkio/shlink): The definitive self-hosted URL shortener <https://shlink.io>
+- [benvinegar/counterscale](https://github.com/benvinegar/counterscale): Scalable web analytics you run yourself on Cloudflare <https://counterscale.dev>
 
 ## CMS
 

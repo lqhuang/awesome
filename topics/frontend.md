@@ -245,6 +245,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟🌟🌟 [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
   - [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
 - [neigebaie/shadcn-ui-tree-view](https://github.com/neigebaie/shadcn-ui-tree-view): Shadcn-ui based tree view, with multi-selection, drag, and more!
+- 🌟 [openstatusHQ/data-table-filters](https://github.com/openstatusHQ/data-table-filters): A playground for tanstack-table <https://data-table.openstatus.dev>
 
 #### Just render json in better way
 
@@ -442,8 +443,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [chartist-js/chartist](https://github.com/chartist-js/chartist): Simple responsive charts
 - [FormidableLabs/victory](https://github.com/FormidableLabs/victory): A collection of composable React components for building interactive data visualizations <https://formidable.com/open-source/victory>
 - [TanStack/react-charts](https://github.com/TanStack/react-charts): ⚛️ Simple, immersive & interactive charts for React <https://react-charts.tanstack.com>
-- [bkrem/react-d3-tree](https://github.com/bkrem/react-d3-tree): 🌳 React component to create interactive D3 tree graphs <https://bkrem.github.io/react-d3-tree>
-- 🌟 [magjac/d3-graphviz](https://github.com/magjac/d3-graphviz): Graphviz DOT rendering and animated transitions using D3
 - [processing/p5.js](https://github.com/processing/p5.js): p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — <http://p5js.org/>
 - [retejs/rete](https://github.com/retejs/rete): JavaScript framework for visual programming <https://retejs.org>
 - [lewhunt/divz](https://github.com/lewhunt/divz): A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos here: https://lewhunt.github.io/divz/ <https://lewhunt.github.io/divz/>
@@ -453,6 +452,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [toomuchdesign/react-minimal-pie-chart](https://github.com/toomuchdesign/react-minimal-pie-chart): 🍰 Lightweight but versatile SVG pie/donut charts for React. < 2kB gzipped. <https://toomuchdesign.github.io/react-minimal-pie-chart/index.html>
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts): Performant financial charts built with HTML5 canvas <https://www.tradingview.com/lightweight-charts/>
 - [paper-design/shaders](https://github.com/paper-design/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper <https://paper.design>
+
+### Tree / Architecture
+
+- [magjac/d3-graphviz](https://github.com/magjac/d3-graphviz): Graphviz DOT rendering and animated transitions using D3
+- [bkrem/react-d3-tree](https://github.com/bkrem/react-d3-tree): 🌳 React component to create interactive D3 tree graphs <https://bkrem.github.io/react-d3-tree>
 
 ### Graph / Network
 

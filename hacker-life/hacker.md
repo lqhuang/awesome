@@ -69,6 +69,7 @@
 
 ### Code as Graph
 
+- [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown as mindmaps with Markmap.
 - 🌟 [ASCII Diagrams](https://asciidiagrams.github.io/): This web page catalogs ASCII diagrams extracted from four open source code-bases: Chromium, Linux, LLVM, and TensorFlow. There are 2156 diagrams in total, of which 504 have been annotated with our design framework.
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii diagram scribbles into happy little SVG <http://ivanceras.github.io/svgbob-editor>
 - [github/cmark-gfm](https://github.com/github/cmark-gfm): GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
@@ -97,43 +98,53 @@
 
 ## Homelab
 
-- 🌟 [beclab/Terminus](https://github.com/beclab/Terminus): Terminus - Your Self-Hosted Home Cloud, Powered by Kubernetes <https://www.jointerminus.com/>
+- [beclab/Terminus](https://github.com/beclab/Terminus): Terminus - Your Self-Hosted Home Cloud, Powered by Kubernetes <https://www.jointerminus.com/>
 - [runtipi/runtipi](https://github.com/runtipi/runtipi): Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ <https://www.runtipi.io/>
   - Wow, a lot of templates for compose file
   - no k8s, only docker compose
+- [YunoHost/yunohost](https://github.com/YunoHost/yunohost): YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. <https://yunohost.org>
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. <https://sandstorm.io>
-- [sshguard/sshguard](https://bitbucket.org/sshguard/sshguard/): SSHGuard protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends. <https://www.sshguard.net>
-- 🌟 [Lissy93/dashy](https://github.com/Lissy93/dashy): 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! <https://dashy.to>
-- [Kea DHCP](https://www.isc.org/kea/): Modern, open source DHCPv4 & DHCPv6 server
-- [coredns/coredns](https://github.com/coredns/coredns): CoreDNS is a DNS server that chains plugins <https://coredns.io/>
-- [mdlayher/corerad](https://github.com/mdlayher/corerad): CoreRAD is an extensible and observable IPv6 Neighbor Discovery Protocol router advertisement daemon. Apache 2.0 Licensed. <https://corerad.net>
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. <https://umbrel.com>
+
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates): 🚢 400+ 1-click Portainer app templates <https://portainer-templates.as93.net>
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny): Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-- [stagit](https://git.codemadness.org/stagit/file/README.html): static git page generator
-- [zrepl/zrepl](https://github.com/zrepl/zrepl): One-stop ZFS backup & replication solution <https://zrepl.github.io>
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr): fork of overseerr for jellyfin support
 - [khuedoan/homelab](https://github.com/khuedoan/homelab): Modern self-hosting infrastructure, fully automated from empty disk to operating services with a single command. <https://homelab.khuedoan.com>
 - [MetinSeylan/homelab](https://github.com/MetinSeylan/homelab): bare-metal homelab k8s automation <https://metin.sh>
-- 🌟 [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. <https://gethomepage.dev/>
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin): A curated list of amazingly awesome open-source sysadmin resources.
-- 🌟 [louislam/dockge](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager <https://dockge.kuma.pet>
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. <https://netboot.xyz>
-- [rajnandan1/kener](https://github.com/rajnandan1/kener): Kener is a Modern Self hosted Status Page, batteries included <https://kener.ing/>
-- [rtr7/router7](https://github.com/rtr7/router7): router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance. <https://router7.org>
 - [Alexware Systems](https://alexwaresystems.pages.alexware.systems/homepage/)
   - not a project, but an example
   - hackers' dream LOL
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder): 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
-- [henrygd/beszel](https://github.com/henrygd/beszel): Lightweight server monitoring hub with historical data, docker stats, and alerts.
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed): A speed test analysis software that shows your internet speed for up to 30 days <https://myspeed.dev>
 - [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live): For more information, please see http://smartos.org/ For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
+
+### Admin
+
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST <https://ntfy.sh>
+- [yusing/go-proxy](https://github.com/yusing/go-proxy): Easy to use reverse proxy with docker integration
+- [tobychui/zoraxy](https://github.com/tobychui/zoraxy): A general purpose HTTP reverse proxy and forwarding tool. Now written in Go! <https://zoraxy.aroz.org>
 - [Notifiarr](https://notifiarr.com/): Notification aggregation, system monitoring & more
   - [Notifiarr Documentation](https://notifiarr.wiki/): You just found one of the coolest tools on the Internet for a homelab enthusiast. We do notifications. We do them right.
+- [sshguard/sshguard](https://bitbucket.org/sshguard/sshguard/): SSHGuard protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends. <https://www.sshguard.net>
 - [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma): Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services. <https://getastroluma.com/>
-- [yusing/go-proxy](https://github.com/yusing/go-proxy): Easy to use reverse proxy with docker integration
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin): A curated list of amazingly awesome open-source sysadmin resources.
+- [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp): Hestia Control Panel | A lightweight and powerful control panel for the modern web. <https://hestiacp.com>
+- [webmin/webmin](https://github.com/webmin/webmin): Powerful and flexible web-based server management control panel <http://www.webmin.com/>
+  - [webmin/usermin](https://github.com/webmin/usermin): Usermin source code <http://www.usermin.com/>
+- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel): A highly customizable web hosting control panel built with Docker 🐳 <https://openpanel.com>
+
+### Start page
+
+- [excalith/excalith-start-page](https://github.com/excalith/excalith-start-page): Terminal-inspired, clean, feature-rich and customizable browser start page for geeks. Has built-in editor for customizing. <https://excalith-start-page.vercel.app>
+- 🌟 [Lissy93/dashy](https://github.com/Lissy93/dashy): 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! <https://dashy.to>
+- [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot): A simple, modern server dashboard, primarily used by smaller private servers <https://getdashdot.com/>
+- 🌟 [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. <https://gethomepage.dev/>
+- [bastienwirtz/homer](https://github.com/bastienwirtz/homer): A very simple static homepage for your server. <https://homer-demo.netlify.app/>
 
 ### Backup
 
+- [zrepl/zrepl](https://github.com/zrepl/zrepl): One-stop ZFS backup & replication solution <https://zrepl.github.io>
 - [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely encrypted backups in the cloud!
 - [borgbackup/borg](https://github.com/borgbackup/borg): Deduplicating archiver with compression and authenticated encryption. <https://www.borgbackup.org>
 - [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program <https://restic.net>
@@ -149,6 +160,7 @@
 - [workerforce/unifi-ddns](https://github.com/workerforce/unifi-ddns): Cloudflare DDNS (Dynamic DNS) support for UniFi OS <https://workerforce.github.io/unifi-ddns/>
 - [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate): A self-hosted data logger for your Tesla 🚘 <https://docs.teslamate.org>
 - [smartHomeHub/SmartIR](https://github.com/smartHomeHub/SmartIR): Home Assistant integration to manage climate systems, TVs, fans and lights using IR/RF controllers. Compatible with Broadlink, Xiaomi, MQTT, LOOKin and ESPHome
+- [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys): A privacy-first, open-source home assistant <https://gladysassistant.com>
 
 ## Misc
 
@@ -188,6 +200,7 @@
 - [fky2015/resume-ng](https://github.com/fky2015/resume-ng): A LaTeX resume template designed for optimal information density and aesthetic appeal.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! <https://rxresu.me>
 - 🌟 [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons): Showcase your skills on your Github readme or resumé with ease ✨ <https://skillicons.dev>
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 <https://postiz.com>
 
 ## ESL
 

@@ -79,6 +79,7 @@
 - [Expensify/Bedrock](https://github.com/Expensify/Bedrock): Rock solid distributed database specializing in active/active automatic failover and WAN replication <https://bedrockdb.com>
 - [SQLite Cloud](https://sqlitecloud.io/): Cloud-share any SQLite database in no time
 - 🌟 [sqlite/sqlite-wasm](https://github.com/sqlite/sqlite-wasm): SQLite Wasm conveniently wrapped as an ES Module.
+- [tursodatabase/libsql](https://github.com/tursodatabase/libsql): libSQL is a fork of SQLite that is both Open Source, and Open Contributions. <https://turso.tech/libsql>
 
 ### Timeseries
 
@@ -240,13 +241,18 @@
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry <https://sqlpkg.org>
 - [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec): A vector search SQLite extension that runs anywhere!
 - [1yefuwang1/vectorlite](https://github.com/1yefuwang1/vectorlite): Fast, SQL powered, in-process vector search for any language with an SQLite driver <https://1yefuwang1.github.io/vectorlite/>
+- [WebDB-App/app](https://github.com/WebDB-App/app): Efficient Database IDE <https://webdb.app>
 
 ## GUI / TUI
 
+- [dbgate/dbgate](https://github.com/dbgate/dbgate): Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application <https://dbgate.org>
 - [Dataflare](https://dataflare.app/): A simple, easy-to-use database manager. Easily connect to your ClickHouse, Cloudflare D1, CockroachDB, Databend, DuckDB, libSQL, MariaDB, MySQL, PostgreSQL, QuestDB, Rqlite, SQLCipher, SQLite, SQL Server databases in Dataflare, manage Table, view Data, write SQL and run Query.
+- [TablePlus](https://tableplus.com/): Modern, native client with intuitive GUI tools to create, access, query & edit multiple relational databases: MySQL, PostgreSQL, SQLite, Microsoft SQL Server, Amazon Redshift, MariaDB, CockroachDB, Vertica, Cassandra, and Redis.
 - [outerbase/studio](https://github.com/outerbase/studio): A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. <https://studio.outerbase.com>
 - [SQLite Viewer Web App](https://sqliteviewer.app/)
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin): The SQL IDE for Your Terminal. <https://harlequin.sh>
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio): Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. <https://www.beekeeperstudio.io>
+- [pinterest/querybook](https://github.com/pinterest/querybook): Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface. <https://www.querybook.org>
 
 ## Testing
 

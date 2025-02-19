@@ -59,9 +59,14 @@
 - [bcicen/ctop](https://github.com/bcicen/ctop): Top-like interface for container metrics <https://ctop.sh/>
 - [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter): Fast container image distribution plugin with lazy pulling <https://github.com/containerd/containerd/issues/3731>
 - 🌟 [amir20/dozzle](https://github.com/amir20/dozzle): Realtime log viewer for docker containers. <https://dozzle.dev/>
+- [louislam/dockge](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager <https://dockge.kuma.pet>
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc): container image to single executable compiler
 - 🌟 [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui): The simplest and most complete UI for your private registry <https://joxit.dev/docker-registry-ui/>
 - [composecraft/composecraft](https://github.com/composecraft/composecraft): Compose craft is a tool to help you manage, edit and share docker compose files in a GUI way.
+- 🌟 [docker/docker-py](https://github.com/docker/docker-py): A Python library for the Docker Engine API <https://docker-py.readthedocs.io/>
+- [crazy-max/diun](https://github.com/crazy-max/diun): Receive notifications when an image is updated on a Docker registry <https://crazymax.dev/diun/>
+- [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser): 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails. <https://hub.docker.com/r/klausmeyer/docker-registry-browser/>
+- [getwud/wud](https://github.com/getwud/wud): Keep your containers up-to-date! <https://getwud.github.io/wud/>
 
 ### OS
 
@@ -259,6 +264,15 @@
 - [pulumi/pulumi](https://github.com/pulumi/pulumi): Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀 <https://www.pulumi.com>
 - [crossplane/crossplane](https://github.com/crossplane/crossplane): Cloud Native Control Planes <https://crossplane.io/>
 - [Azure/bicep](https://github.com/Azure/bicep): Bicep is a declarative language for describing and deploying Azure resources
+- Ansible
+  - [ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible): Awesome Ansible List
+  - 🌟 [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot. <https://ara.recordsansible.org>
+  - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator): A text-based user interface (TUI) for Ansible. <https://ansible.readthedocs.io/projects/navigator/>
+  - [ansible/ansible-runner](https://github.com/ansible/ansible-runner): A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible.
+  - [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+  - [haidaraM/ansible-playbook-grapher](https://github.com/haidaraM/ansible-playbook-grapher): A command line tool to create a graph representing your Ansible playbook tasks and roles
+  - [willthames/ansible-inventory-grapher](https://github.com/willthames/ansible-inventory-grapher): No description, website, or topics provided.
+  - 🌟 [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore): Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools. <https://semaphoreui.com>
 
 ### Services
 
