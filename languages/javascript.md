@@ -153,21 +153,6 @@
   - [cure53/DOMPurify](https://github.com/cure53/DOMPurify): DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo: <https://cure53.de/purify>
 - [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html): Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
 
-### format parser / converter
-
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
-- [thejoshwolfe/yazl](https://github.com/thejoshwolfe/yazl): yet another zip library for node
-- [thejoshwolfe/yauzl](https://github.com/thejoshwolfe/yauzl): yet another unzip library for node
-- [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
-- [mholt/PapaParse](https://github.com/mholt/PapaParse): Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input <http://PapaParse.com>
-- [dolanmiu/docx](https://github.com/dolanmiu/docx): Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. <https://docx.js.org/>
-- [rgrove/parse-xml](https://github.com/rgrove/parse-xml): A fast, safe, compliant XML parser for Node.js and browsers. <https://rgrove.github.io/parse-xml>
-- [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text): Advanced html to text converter
-- [jeet-dhandha/xlsx-parse-table](https://github.com/jeet-dhandha/xlsx-parse-table): No description, website, or topics provided.
-- [git.sheetjs.com/sheetjs/sheetjs](https://git.sheetjs.com/sheetjs/sheetjs): sheetjs - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
-- [NPM: @smoores/epub](https://www.npmjs.com/package/@smoores/epub)
-  - [Announcing: @smoores/epub](https://smoores.dev/post/announcing_smoores_epub/)
-
 ### Date
 
 - [Using Intl.DurationFormat for Localized Durations](https://www.raymondcamden.com/2025/02/13/using-intldurationformat-for-localized-durations)
@@ -193,6 +178,22 @@
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3): The fastest and simplest library for SQLite3 in Node.js.
 - [pmndrs/react-nil](https://github.com/pmndrs/react-nil): ⃝ A react null renderer
 
+### format parser / converter
+
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
+- [thejoshwolfe/yazl](https://github.com/thejoshwolfe/yazl): yet another zip library for node
+- [thejoshwolfe/yauzl](https://github.com/thejoshwolfe/yauzl): yet another unzip library for node
+- [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
+- [mholt/PapaParse](https://github.com/mholt/PapaParse): Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input <http://PapaParse.com>
+- [dolanmiu/docx](https://github.com/dolanmiu/docx): Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. <https://docx.js.org/>
+- [rgrove/parse-xml](https://github.com/rgrove/parse-xml): A fast, safe, compliant XML parser for Node.js and browsers. <https://rgrove.github.io/parse-xml>
+- [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text): Advanced html to text converter
+- [jeet-dhandha/xlsx-parse-table](https://github.com/jeet-dhandha/xlsx-parse-table): No description, website, or topics provided.
+- [git.sheetjs.com/sheetjs/sheetjs](https://git.sheetjs.com/sheetjs/sheetjs): sheetjs - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [NPM: @smoores/epub](https://www.npmjs.com/package/@smoores/epub)
+  - [Announcing: @smoores/epub](https://smoores.dev/post/announcing_smoores_epub/)
+- [jmaister/excellentexport](https://github.com/jmaister/excellentexport): Javascript export to Excel
+
 ### PDF
 
 - [foliojs/pdfkit](https://github.com/foliojs/pdfkit): A JavaScript PDF generation library for Node and the browser <http://pdfkit.org/>
@@ -202,6 +203,7 @@
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js): PDF Reader in JavaScript <https://mozilla.github.io/pdf.js/>
 - [modesty/pdf2json](https://github.com/modesty/pdf2json): A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 - [unjs/unpdf](https://github.com/unjs/unpdf): 📄 Utilities to work with PDFs in Node.js, browser and workers
+- [parallax/jsPDF](https://github.com/parallax/jsPDF): Client-side JavaScript PDF generation for everyone. <https://parall.ax/products/jspdf>
 
 ### Logging
 
@@ -215,6 +217,7 @@
 - [unjs/ofetch](https://github.com/unjs/ofetch): 😱 A better fetch API. Works on node, browser and workers.
 - [discordeno/discordeno](https://github.com/discordeno/discordeno): Discord API library for Node and Deno <https://discordeno.js.org>
 - [epicweb-dev/cachified](https://github.com/epicweb-dev/cachified): 🤑 wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
+- [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch): Advanced fetch client builder
 
 ### CLI
 

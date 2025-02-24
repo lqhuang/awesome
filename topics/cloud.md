@@ -86,6 +86,8 @@
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments. <https://www.vagrantup.com>
 - [tteck/Proxmox](https://github.com/tteck/Proxmox): Proxmox VE Helper-Scripts <https://helper-scripts.com/>
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight): Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
+- [harvester/harvester](https://github.com/harvester/harvester): Open source hyperconverged infrastructure (HCI) software <https://harvesterhci.io/>
+  - developed from SUSE
 
 ### Storage
 
@@ -119,6 +121,7 @@
   - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io): ⚙️ NGINX config generator on steroids 💉 <https://do.co/nginxconfig>
   - [denji/nginx-tuning](https://github.com/denji/nginx-tuning): NGINX tuning for best performance <https://git.io/vSvsq>
   - [nginx/unit](https://github.com/nginx/unit): NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes. <https://unit.nginx.org>
+  - [dvershinin/gixy](https://github.com/dvershinin/gixy): NGINX configuration static analyzer <https://gixy.getpagespeed.com>
 - [facebookincubator/katran](https://github.com/facebookincubator/katran): A high performance layer 4 load balancer
 - [projectcontour/contour](https://github.com/projectcontour/contour): Contour is a Kubernetes ingress controller using Envoy proxy. <https://projectcontour.io>
 - [megaease/easegress](https://github.com/megaease/easegress): A Cloud Native traffic orchestration system <https://megaease.com/easegress/>

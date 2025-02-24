@@ -66,6 +66,7 @@
 - 🌟 [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram): Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram <https://gitdiagram.com>
   - incredibly amazing
 - [zegl/extremely-linear](https://github.com/zegl/extremely-linear): Extremely Linear Git History // git-linearize <https://westling.dev/b/extremely-linear-git>
+- [arxanas/git-branchless](https://github.com/arxanas/git-branchless): High-velocity, monorepo-scale workflow for Git
 
 ### Code as Graph
 
@@ -141,6 +142,7 @@
 - [MauriceNino/dashdot](https://github.com/MauriceNino/dashdot): A simple, modern server dashboard, primarily used by smaller private servers <https://getdashdot.com/>
 - 🌟 [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. <https://gethomepage.dev/>
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer): A very simple static homepage for your server. <https://homer-demo.netlify.app/>
+- [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
 
 ### Backup
 
@@ -231,6 +233,8 @@
 - [Test Ad Block - Toolz](https://d3ward.github.io/toolz/adblock.html)
 - 🌟 [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites <https://t.me/osint_maigret_bot>
   - crazy ...
+- [popcar2/BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist): A filter that blocks spam & misleading websites from appearing in search results via uBlocklist
+- [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
 
 ## Open Source Software: State, Progress and Future
 

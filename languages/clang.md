@@ -155,6 +155,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [martinus/unordered_dense](https://github.com/martinus/unordered_dense): A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
 - [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
 - [lemire/EWAHBoolArray](https://github.com/lemire/EWAHBoolArray): A compressed bitmap class in C++. <http://lemire.github.io/EWAHBoolArray/>
+- [lewj85/jessesort](https://github.com/lewj85/jessesort): No description, website, or topics provided.
 
 ## String
 
@@ -163,6 +164,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [unicode-org/icu4x](https://github.com/unicode-org/icu4x): Solving i18n for client-side and resource-constrained environments. <https://icu4x.unicode.org>
 - [openucx/ucx](https://github.com/openucx/ucx): Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group) <http://www.openucx.org>
 - [pantor/inja](https://github.com/pantor/inja): A Template Engine for Modern C++ <https://pantor.github.io/inja/>
+- [nemtrif/utfcpp](https://github.com/nemtrif/utfcpp): UTF-8 with C++ in a Portable Way
 
 ## Async / Concurrency
 

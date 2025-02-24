@@ -319,6 +319,7 @@ Templates
 - [delftdata/valentine](https://github.com/delftdata/valentine): A tool facilitating matching for any dataset discovery method. Also, an extensible experiment suite for state-of-the-art schema matching methods.
 - [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals): Lightweight and extensible compatibility layer between dataframe libraries! <https://narwhals-dev.github.io/narwhals/>
 - [fireducks-dev/fireducks](https://github.com/fireducks-dev/fireducks): Create an issue on FireDucks
+- [sfu-db/dataprep](https://github.com/sfu-db/dataprep): Open-source low code data preparation library in python. Collect, clean and visualization your data in python with a few lines of code. <http://dataprep.ai>
 
 ### Jupyter ecosystem
 
@@ -385,6 +386,10 @@ Templates
 - [heptapod.host/saajns/hermes](https://heptapod.host/saajns/hermes): Python caching library with tag-based invalidation and dogpile effect prevention
   - https://pypi.org/project/HermesCache/
 - 🌟 [python-trio/trustme](https://github.com/python-trio/trustme): #1 quality TLS certs while you wait, for the discerning tester <https://trustme.rtfd.io>
+- [gawel/pyquery](https://github.com/gawel/pyquery): A jquery-like library for python <http://pyquery.rtfd.org/>
+- [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve): A modern CSS selector implementation for BeautifulSoup <https://facelessuser.github.io/soupsieve/>
+- [mikeckennedy/content-types](https://github.com/mikeckennedy/content-types): A Python library to map file extensions to MIME types without accessing the file data. <https://pypi.org/project/content-types/>
+- [scrapy/w3lib](https://github.com/scrapy/w3lib): Python library of web-related functions
 
 ### DB clients and SQL utils
 

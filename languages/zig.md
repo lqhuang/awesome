@@ -88,9 +88,10 @@
 
 - [zigzap/zap](https://github.com/zigzap/zap): blazingly fast backends in zig
   - Zap is the zig replacement for the REST APIs I used to write in python with Flask and mongodb, etc.
-  - ???
+  - Flask ???
 - [mookums/zzz](https://github.com/mookums/zzz): A framework for writing performant and reliable networked services.
 - [karlseguin/pg.zig](https://github.com/karlseguin/pg.zig): Native PostgreSQL driver / client for Zig
+- [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig): A websocket implementation for zig
 
 ## Misc
 

@@ -214,6 +214,7 @@
 - [featureform/featureform](https://github.com/featureform/featureform): The Virtual Feature Store. Turn your existing data infrastructure into a feature store. <https://www.featureform.com>
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio): Label Studio is a multi-type data labeling and annotation tool with standardized output format <https://labelstud.io>
 - [comet-ml/kangas](https://github.com/comet-ml/kangas): 🦘 Explore multimedia datasets at scale <https://github.com/comet-ml/kangas/wiki>
+- [aimhubio/aim](https://github.com/aimhubio/aim): Aim 💫 — An easy-to-use & supercharged open-source experiment tracker. <https://aimstack.io>
 
 ## Tensor inference
 
@@ -299,6 +300,7 @@
 - [deepmodeling/DMFF](https://github.com/deepmodeling/DMFF): DMFF (Differentiable Molecular Force Field) is a Jax-based python package that provides a full differentiable implementation of molecular force field models.
 - [ZQZCalin/trainit](https://github.com/ZQZCalin/trainit): Trainit is a machine learning training pipeline based on jax. It is also built on optax for optimizers, equinox for models, wandb for logging, and hydra for convenient configuration management.
 - [benabed/clipy](https://github.com/benabed/clipy): pure python clik implementation with jax support.
+- [RobertTLange/evosax](https://github.com/RobertTLange/evosax): Evolution Strategies in JAX 🦎
 
 patrick-kidger
 
@@ -338,6 +340,8 @@ RL
 - [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl): Really Fast End-to-End Jax RL Implementations
   - [Achieving Over 4000x Speedups and Meta-Evolving Discoveries with PureJaxRL](https://chrislu.page/blog/meta-disco/)
   - [PureJaxRL Resources](https://github.com/luchris429/purejaxrl/blob/main/RESOURCES.md)
+- [RobertTLange/gymnax](https://github.com/RobertTLange/gymnax): RL Environments in JAX 🌍
+  - [RobertTLange/gymnax-blines](https://github.com/RobertTLange/gymnax-blines): Baselines for gymnax 🤖
 
 ### DeepMind specialization
 

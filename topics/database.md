@@ -233,6 +233,7 @@
   - [uber/h3-py](https://github.com/uber/h3-py): Python bindings for H3, a hierarchical hexagonal geospatial indexing system <https://uber.github.io/h3-py>
 - 🌟 [PostgREST/postgrest](https://github.com/PostgREST/postgrest): REST API for any Postgres database <https://postgrest.org>
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask): PostgreSQL database anonymization and synthetic data generation tool <https://greenmask.io>
+- [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant): PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.
 
 ### SQLite
 

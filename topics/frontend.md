@@ -24,6 +24,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [web.dev](https://web.dev/): Building a better web, together
   - [Learn web development](https://web.dev/learn)
     - [Learn CSS](https://web.dev/learn/css): An evergreen CSS course and reference to level up your web styling expertise.
+- 🌟 [Dublin Core, what is it good for? – This day’s portion](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for/#content): There are several popular meta schemas out there. Open Graph may be the best supported, but if you want your meta data to be picked up by a particular service you might need to do a bit of research. Or support them all.
+  - metadata explaination
+  - Sometimes, we can also add meta data to the document head using `json` wrapped in a `<script>` element.
 
 ### Readings
 
@@ -56,6 +59,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [lowlighter/matcha](https://github.com/lowlighter/matcha): 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps! <https://matcha.mizu.sh>
 - [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/): A game for learning CSS flexbox
   - cute :D
+- 🌟 [NeverCease/uchu](https://github.com/NeverCease/uchu): the color palette for internet lovers <https://uchu.style>
 
 ## Framework
 
@@ -89,6 +93,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit): The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included. <https://starter.rasmic.xyz/>
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter): Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️ <https://next-ts.joaopedro.dev>
 - [al1abb/invoify](https://github.com/al1abb/invoify): An invoice generator app built using Next.js, Typescript, and Shadcn <https://invoify.vercel.app>
+- [nextjs/saas-starter](https://github.com/nextjs/saas-starter): Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. <https://next-saas-start.vercel.app>
 
 ### UI
 
@@ -123,6 +128,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [Siumauricio/rippleui](https://github.com/Siumauricio/rippleui): Clean, modern and beautiful Tailwind CSS components. <https://ripple-ui.com>
   - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements): 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use <https://tailwind-elements.com>
   - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template): Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. <https://simple.cruip.com>
+  - [TailGrids/tailwind-ui-components](https://github.com/TailGrids/tailwind-ui-components): Tailwind CSS UI library, featuring over 600 top-tier Tailwind CSS UI components and blocks. Each one is handcrafted for modern websites, landing pages, web applications, dashboards, ecommerce platforms, and more. <https://tailgrids.com/>
 
 #### React
 
@@ -366,11 +372,12 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [liabru/matter-js](https://github.com/liabru/matter-js): a 2D rigid body physics engine for the web ▲● ■
 - 🌟 [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas): An React.js component library for beautifully shaded canvas <https://uvcanvas.com>
 - [greensock/GSAP](https://github.com/greensock/GSAP): GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web <https://gsap.com>
-- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy): The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. <https://Uiverse.io>
-- [barvian/motion-number](https://github.com/barvian/motion-number): A Framer Motion component that transitions, formats, and localizes numbers. <https://motion-number.barvian.me>
 - [animate-css/animate.css](https://github.com/animate-css/animate.css): 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. <https://animate.style/>
-- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits): An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces. <https://reactbits.dev>
+- [galacean/effects-runtime](https://github.com/galacean/effects-runtime): It can load and render cool animation effects <https://www.galacean.com/effects/>
 
+- [barvian/motion-number](https://github.com/barvian/motion-number): A Framer Motion component that transitions, formats, and localizes numbers. <https://motion-number.barvian.me>
+- [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy): The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. <https://Uiverse.io>
+- [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits): An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces. <https://reactbits.dev>
 - [WinterCore/react-text-transition](https://github.com/WinterCore/react-text-transition): Animate your text changes
 - [maxeth/react-type-animation](https://github.com/maxeth/react-type-animation): A React typewriter animation based on typical with extended functionality and customization. <https://react-type-animation.netlify.app/>
 

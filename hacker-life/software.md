@@ -223,7 +223,6 @@
 - [gedoor/legado](https://github.com/gedoor/legado): Legado 3.0 Book Reader with powerful controls & full functions❤️ 阅读 3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [workadventure/workadventure](https://github.com/workadventure/workadventure): A collaborative web application (virtual office) presented as a 16-bit RPG video game <https://workadventu.re>
   - [workadventure/awesome-workadventure](https://github.com/workadventure/awesome-workadventure): A curated list of awesome resources developed by the community related to WorkAdventure
-- 🌟 [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog): Free, no-nonsense, super fast blogging.
 - 🌟 [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader): A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web <https://koodoreader.com>
 - [chrox/readest](https://github.com/chrox/readest): Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. <https://readest.com>

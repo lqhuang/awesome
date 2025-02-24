@@ -227,6 +227,7 @@
 - [wazuh/wazuh](https://github.com/wazuh/wazuh): Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. <https://wazuh.com/>
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb): 🛡️ Open-source and next-generation Web Application Firewall (WAF) <https://www.bunkerweb.io>
 - 🌟 [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure. <https://goteleport.com>
+- [kunai-project/kunai](https://github.com/kunai-project/kunai): Threat-hunting tool for Linux <https://why.kunai.rocks>
 
 ## Career
 
@@ -243,6 +244,7 @@
 - [easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0): 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 <https://ft07.com/opb-quick-start?mtm_campaign=github&mtm_kwd=opbmv2>
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record): Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - 🌟 [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中英文对译版本
+- [SkillSets](https://skillsets.tech/): Discover the most wanted skills by recruiters. Browse skills required for your job position.
 
 ### Open Source & Community
 

@@ -173,3 +173,4 @@
   - [Hell (Haskell shell): Year in Review](https://chrisdone.com/posts/hell-year-in-review-2025/)
 - [well-typed/grapesy](https://github.com/well-typed/grapesy): Native Haskell gRPC client and server based on `http2`
   - [grapesy: industrial strength gRPC library for Haskell](https://well-typed.com/blog/2025/01/grapesy/)
+- [raehik/binrep](https://github.com/raehik/binrep): Useful, efficient, precise binary schema modelling in Haskell

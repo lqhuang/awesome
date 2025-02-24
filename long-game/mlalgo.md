@@ -58,6 +58,7 @@
 - [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3): PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. <https://stable-baselines3.readthedocs.io>
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl): High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG) <http://docs.cleanrl.dev>
 - [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl): JAX (Flax) implementation of algorithms for Deep Reinforcement Learning with continuous action spaces.
+- [facebookresearch/MLGym](https://github.com/facebookresearch/MLGym): MLGym A New Framework and Benchmark for Advancing AI Research Agents
 
 ## Flow models
 

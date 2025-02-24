@@ -31,6 +31,10 @@ Streaming Systems
 - [yahoo/graphkit](https://github.com/yahoo/graphkit): A lightweight Python module for creating and running ordered graphs of computations.
 - [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton): A scalable general purpose micro-framework for defining dataflows. You can use it to build dataframes, numpy matrices, python objects, ML models, etc. Embed Hamilton anywhere python runs, e.g. spark, airflow, jupyter, fastapi, python scripts, etc. <https://hamilton.readthedocs.io/en/latest>
 
+## Tools
+
+- [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog): An open source documentation tool to bring discoverability to your event-driven architectures <https://eventcatalog.dev>
+
 ## Frameworks
 
 - 🌟 [thatdot/quine](https://github.com/thatdot/quine): Quine • a streaming graph • Slack: quine-io.slack.com <https://quine.io>

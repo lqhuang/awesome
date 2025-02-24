@@ -373,6 +373,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - 🌟 [ekrich/sblas](https://github.com/ekrich/sblas): Scala Native BLAS (Basic Linear Algebra Subprograms) supporting Linux and macOS
 - [Quafadas/dedav4s](https://github.com/Quafadas/dedav4s): Declarative Data Viz 4 Scala <https://quafadas.github.io/dedav4s/>
 - 🌟 [sbrunk/storch](https://github.com/sbrunk/storch): GPU accelerated deep learning and numeric computing for Scala 3. <https://storch.dev>
+- [Quafadas/spire_AD](https://github.com/Quafadas/spire_AD): Reverse mode automatic differentiation based on spire <https://quafadas.github.io/spire_AD/docs/index.html>
 
 ### kotlin for Data Intensive System
 
