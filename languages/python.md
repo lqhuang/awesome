@@ -130,6 +130,7 @@ Templates
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package): Build and Inspect Python Packages in Your CI
 - 🌟 [devpi/devpi](https://github.com/devpi/devpi): Python PyPi staging server and packaging, testing, release tool <https://doc.devpi.net>
 - [A Comprehensive Guide to Python Project Management and Packaging: Concepts Illustrated with uv – Part I – Reinforced Knowledge](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-i/)
+- [nascheme/cpython_sanity](https://github.com/nascheme/cpython_sanity): Builds of Python, numpy, scipy with sanitizer compile options enabled
 
 ### Docs
 

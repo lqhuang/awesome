@@ -11,12 +11,13 @@
 
 - [C-BJ/awesome-zig](https://github.com/C-BJ/awesome-zig): 📜 Zig Learning Guide & Project Lists
 - [nrdmn/awesome-zig](https://github.com/nrdmn/awesome-zig)
-- [pedropark99/zig-book](https://github.com/pedropark99/zig-book): An open, technical and introductory book for the Zig programming language <https://pedropark99.github.io/zig-book/>
 - [zigcc/awesome-zig](https://github.com/zigcc/awesome-zig): A collection of some awesome public Zig programming language projects.
-- [zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook): Simple Zig programs that demonstrate good practices to accomplish common programming tasks. <https://cookbook.ziglang.cc/>
-- [zigcc/zig-course](https://github.com/zigcc/zig-course): Zig 语言圣经：简单、快速地学习 Zig, Zig Chinese tutorial, learn zig simply and quickly <https://course.ziglang.cc/>
 
 ### Readings
+
+- [pedropark99/zig-book](https://github.com/pedropark99/zig-book): An open, technical and introductory book for the Zig programming language <https://pedropark99.github.io/zig-book/>
+- [zigcc/zig-cookbook](https://github.com/zigcc/zig-cookbook): Simple Zig programs that demonstrate good practices to accomplish common programming tasks. <https://cookbook.ziglang.cc/>
+- [zigcc/zig-course](https://github.com/zigcc/zig-course): Zig 语言圣经：简单、快速地学习 Zig, Zig Chinese tutorial, learn zig simply and quickly <https://course.ziglang.cc/>
 
 ### Learning
 
@@ -29,6 +30,7 @@
 ### Test
 
 - [mnemnion/ohsnap](https://github.com/mnemnion/ohsnap): Oh Snap! Easy Snapshot Testing for Zig
+- [zon-dev/docker-zig](https://github.com/zon-dev/docker-zig): Docker for zig programming language <https://zon.dev>
 
 ### Linter
 
@@ -92,6 +94,10 @@
 - [mookums/zzz](https://github.com/mookums/zzz): A framework for writing performant and reliable networked services.
 - [karlseguin/pg.zig](https://github.com/karlseguin/pg.zig): Native PostgreSQL driver / client for Zig
 - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig): A websocket implementation for zig
+- [kristoff-it/supermd](https://github.com/kristoff-it/supermd): SuperMD is an extension of Markdown used by https://zine-ssg.io
+- [kristoff-it/zine](https://github.com/kristoff-it/zine): Fast, Scalable, Flexible Static Site Generator (SSG) <https://zine-ssg.io>
+- [kristoff-it/ziggy](https://github.com/kristoff-it/ziggy): A data serialization language for expressing clear API messages, config files, etc. <https://ziggy-lang.io>
+- [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml): HTML Language Server & Templating Language Library
 
 ## Misc
 

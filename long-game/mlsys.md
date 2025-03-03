@@ -9,7 +9,6 @@
 - [ML system design: 200 case studies to learn from](https://www.evidentlyai.com/ml-system-design)
 - [eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml): 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.
 - [mit-han-lab/parallel-computing-tutorial](https://github.com/mit-han-lab/parallel-computing-tutorial): This repository introduces several optimization techniques that can be applied to improve the parallelism of matrix multiplication.
-- [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering): Machine Learning Engineering Guides and Tools <https://stasosphere.com/machine-learning/>
 - [srush/Autodiff-Puzzles](https://github.com/srush/Autodiff-Puzzles): This notebook contains a series of self-contained puzzles for learning about derivatives in tensor libraries.
 - [srush/Tensor-Puzzles](https://github.com/srush/Tensor-Puzzles): Solve puzzles. Improve your pytorch.
@@ -22,10 +21,6 @@
 - [TensorGym](https://tensorgym.com/exercises): Elevate Your AI Skills and Interview Confidence with unique exercises!
 - [The Tensor Cookbook](https://tensorcookbook.com/): What are Tensor Diagrams? Machine learning involves a lot of tensor manipulation, and it's easy to lose track of the bigger picture when manipulating high-dimensional data using notation designed for vectors and matrices.
   - [The Matrix Cookbook](https://web.archive.org/web/20070126190021/http://matrixcookbook.com/)
-- [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream): CUDA related news and material links
-- 🌟 [AI-Hypercomputer/gpu-recipes](https://github.com/AI-Hypercomputer/gpu-recipes): Recipes for reproducing training and serving benchmarks for large machine learning models using GPUs on Google Cloud.
-- [GPU Glossary | Modal](https://modal.com/gpu-glossary)
-- [ashvardanian/cpp-cuda-python-starter-kit](https://github.com/ashvardanian/cpp-cuda-python-starter-kit): Parallel Computing starter project to build GPU & CPU kernels in CUDA & C++ and call them from Python without a single line of CMake using PyBind11 <https://ashvardanian.com/tags/less-slow>
 - [Explaining RNNs without neural networks](https://explained.ai/rnn/index.html): This article explains how recurrent neural networks (RNN's) work without using the neural network metaphor. It uses a visually-focused data-transformation perspective to show how RNNs encode variable-length input vectors as fixed-length embeddings. Included are PyTorch implementation notebooks that use just linear algebra and the autograd feature.
   - Terence Parr implemented a series of step by step coding examples from basic to advanced
     - SGD (parameters updated after each record)
@@ -33,14 +28,28 @@
     - vectorized minibatch (convert for-loop into matrix multiply)
     - vectorized minibatch running on a GPU (use PyTorch to compute on GPU)
 
+### GPU / CUDA
+
+- [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream): CUDA related news and material links
+- [MekkCyber/CutlassAcademy](https://github.com/MekkCyber/CutlassAcademy): A curated collection of resources, tutorials, and best practices for learning and mastering NVIDIA CUTLASS
+- [LeetGPU](https://leetgpu.com/challenges): LeetGPU - Online CUDA Playground
+- 🌟 [AI-Hypercomputer/gpu-recipes](https://github.com/AI-Hypercomputer/gpu-recipes): Recipes for reproducing training and serving benchmarks for large machine learning models using GPUs on Google Cloud.
+- [GPU Glossary | Modal](https://modal.com/gpu-glossary)
+- [ashvardanian/cpp-cuda-python-starter-kit](https://github.com/ashvardanian/cpp-cuda-python-starter-kit): Parallel Computing starter project to build GPU & CPU kernels in CUDA & C++ and call them from Python without a single line of CMake using PyBind11 <https://ashvardanian.com/tags/less-slow>
+
+### TPU
+
+- [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
+- [TG-TG-TG-TG-TG-TG/TPU-Tutorials](https://github.com/TG-TG-TG-TG-TG-TG/TPU-Tutorials): Some of my TPU tutorials that i will post here.
+
 ### Readings
 
 - [Efficient GEMM in CUDA](https://github.com/NVIDIA/cutlass/blob/main/media/docs/efficient_gemm.md)
 - [cuda-mode/awesomeMLSys](https://github.com/cuda-mode/awesomeMLSys): An ML Systems Onboarding list
 - [A reading list for machine learning systems](https://jeongseob.github.io/readings_mlsys.html)
-- [Python isn't just glue, it's an implicit JIT ecosystem](https://state.smerity.com/smerity/state/01JC39KW1TBEAZTKJJF0BR5ZXD): The ecosystem wears in the desire paths, and when slow Python becomes a problem, the ecosystem doesn't optimize the Python, it paves new roads beneath
 - [KnowingNothing/compiler-and-arch](https://github.com/KnowingNothing/compiler-and-arch): A list of tutorials, paper, talks, and open-source projects for emerging compiler and architecture
 - [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial): My learning notes/codes for ML SYS.
+- 🌟 [Python isn't just glue, it's an implicit JIT ecosystem](https://state.smerity.com/smerity/state/01JC39KW1TBEAZTKJJF0BR5ZXD): The ecosystem wears in the desire paths, and when slow Python becomes a problem, the ecosystem doesn't optimize the Python, it paves new roads beneath
 - 🌟 [Decorator JITs - Python as a DSL - Eli Bendersky's website](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
 
 ### Books

@@ -63,6 +63,7 @@
 - [awslabs/llrt](https://github.com/awslabs/llrt): LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node): TypeScript execution and REPL for node.js <https://typestrong.org/ts-node>
 - [privatenumber/tsx](https://github.com/privatenumber/tsx): ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
+- 🌟 [pi0/platform-node-compat](https://github.com/pi0/platform-node-compat): Display Node.js compatibility of edge runtimes <https://platform-node-compat.deno.dev/>
 
 ### Testing
 
@@ -131,6 +132,9 @@
 
 - 🌟 [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first schema validation with static type inference <https://zod.dev>
   - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema): Converts Zod schemas to Json schemas
+- 🌟 [arktypeio/arktype](https://github.com/arktypeio/arktype): TypeScript's 1:1 validator, optimized from editor to runtime <https://arktype.io/>
+  - highlight: pattern matching / integrable with `hono`
+  - [ArkType Docs: Match](https://arktype.io/docs/match): Optimized runtime validation for TypeScript syntax
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv): The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927) <https://ajv.js.org>
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct): A simple and composable way to validate data in JavaScript (and TypeScript). <https://docs.superstructjs.org/>
 - [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation
@@ -218,6 +222,7 @@
 - [discordeno/discordeno](https://github.com/discordeno/discordeno): Discord API library for Node and Deno <https://discordeno.js.org>
 - [epicweb-dev/cachified](https://github.com/epicweb-dev/cachified): 🤑 wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
 - [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch): Advanced fetch client builder
+  - highlights: Validate API responses with `zod`, `valibot` or `arktype`
 
 ### CLI
 

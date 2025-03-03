@@ -141,6 +141,7 @@
 - [Droppable](https://www.pixelwrld.co/droppable): Send large files from your Desktop in a couple of clicks.
 - [NotchNook](https://lo.cafe/notchnook): a whole new way of using your `macos`
 - [LocalCan™ - Local domains and persistent Public URLs](https://www.localcan.com/): LocalCan™ for macOS is a powerful Ngrok alternative, allowing developers to build and test apps with .local domains and secure persistent Public URLs.
+- [Hypercritical: Front and Center](https://hypercritical.co/front-and-center/): no description found
 
 ## Windows
 
@@ -171,6 +172,17 @@
 - [nirui/sshwifty](https://github.com/nirui/sshwifty): Web SSH & Telnet (WebSSH & WebTelnet client) 🔮 <https://sshwifty-demo.nirui.org>
 - [raphamorim/rio](https://github.com/raphamorim/rio): A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. <https://raphamorim.io/rio>
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm): The open source server management software for SSH, VNC & RDP <http://docs.nexterm.dev/>
+
+## CN Related
+
+- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号 RSS 生成。(前端重构中)
+- [doocs/md](https://github.com/doocs/md): ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 <https://doocs.github.io/md/>
+  - [doocs/docker-md](https://github.com/doocs/docker-md): 🐋 doocs/md 项目 的 docker 镜像
+- [tianyaxiang/neurapress](https://github.com/tianyaxiang/neurapress): NeuraPress <https://md.leti.ltd/>
+- [latentcat/mpmath](https://github.com/latentcat/mpmath): 微信公众号公式编辑插件 <https://troyni.com/mpmath>
+- 🌟 [djyde/notepal](https://github.com/djyde/notepal): A simple tool to import/export your book note <https://notepal.randysoft.org>
+  - export WeBook to Readwise
+- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成 HTML、Word、CSV 文档永久保存，对聊天记录进行分析生成年度聊天报告
 
 ## Services
 
@@ -206,7 +218,6 @@
 - [11notes/docker-kms](https://github.com/11notes/docker-kms): Activate any version of Windows and Office, forever
 - [~mlb/linkhut](https://sr.ht/~mlb/linkhut/): linkhut is an open source social bookmarking website. <https://ln.ht/>
 - [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker
-- [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号 RSS 生成。(前端重构中)
 - [ente-io/ente](https://github.com/ente-io/ente): Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos <https://ente.io>
 - [knadh/listmonk](https://github.com/knadh/listmonk): High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. <https://listmonk.app>
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles. <https://linkwarden.app>
@@ -229,8 +240,6 @@
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita): Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. <http://www.kavitareader.com>
 - [filegator/filegator](https://github.com/filegator/filegator): Powerful Multi-User File Manager <https://filegator.io>
 - 🌟 [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... <https://www.filestash.app/>
-- [doocs/md](https://github.com/doocs/md): ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 <https://doocs.github.io/md/>
-  - [doocs/docker-md](https://github.com/doocs/docker-md): 🐋 doocs/md 项目 的 docker 镜像
 - [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
 - [Storyteller Docs | Storyteller](https://smoores.gitlab.io/storyteller/): A self-hosted platform for automatically aligning ebooks and audiobooks.
 - [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr): A simple, self-hosted service to keep track of your personal library 📚 <https://demo.booklogr.app>

@@ -22,6 +22,7 @@
 - [Thinking with Types](https://thinkingwithtypes.com/): Type-Level Programming in Haskell. The book that takes you from a competent Haskell programmer to one whose compiler does the work for you.
   - [isovector/thinking-with-types](https://github.com/isovector/thinking-with-types): 📖 source material for Thinking with Types <http://thinkingwithtypes.com>
   - [chiroptical/thinking-with-types](https://github.com/chiroptical/thinking-with-types): Working through the Thinking with Types book in Haskell
+- [BruceEckel/ThinkingInTypes](https://github.com/BruceEckel/ThinkingInTypes): No description, website, or topics provided.
 - [isovector/algebra-driven-design](https://github.com/isovector/algebra-driven-design): Source material for Algebra-Driven Design <https://leanpub.com/algebra-driven-design>
 - [Book of Monads](https://leanpub.com/book-of-monads)
   - [chiroptical/book-of-monads](https://github.com/chiroptical/book-of-monads): Finished Book of Monads by Alejandro Serrano-Mena

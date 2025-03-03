@@ -106,6 +106,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Zizzamia/perfume.js](https://github.com/Zizzamia/perfume.js): Web performance library for measuring all performance vitals metrics <https://zizzamia.github.io/perfume/>
 - 🌟🌟🌟 [aidenybai/react-scan](https://github.com/aidenybai/react-scan): Scan for React performance issues and eliminate slow renders in your app <https://react-scan.million.dev>
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render): why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.) <https://www.npmjs.com/package/@welldone-software/why-did-you-render>
+- [React Explorer](https://react-explorer.com/): Turn your React website into an interactive graph of components
 
 ## Components library
 
@@ -116,6 +117,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [tabler/tabler](https://github.com/tabler/tabler): Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap <https://preview.tabler.io>
 - [microsoft/fast](https://github.com/microsoft/fast): The adaptive interface system for modern web experiences. <https://www.fast.design>
 - [ariakit/ariakit](https://github.com/ariakit/ariakit): Toolkit for building accessible web apps with React <https://ariakit.org>
+- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace): A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇 <https://webawesome.com>
+  - CSS framework for Web Components
 - Tailwind
   - [themesberg/flowbite](https://github.com/themesberg/flowbite): The most popular and open-source library of Tailwind CSS components <https://flowbite.com>
   - [TailwindCSS Snippets](https://snippets.alexandru.so/)
@@ -138,14 +141,18 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui): ⚡️ Simple, Modular & Accessible UI Components for your React Applications <https://chakra-ui.com>
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra):The most trendiest & innovative Open Source Admin Template for Chakra UI & React! <https://horizon-ui.com>
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum): A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. <https://react-spectrum.adobe.com>
+- [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js): Build interactive dashboards in minutes. <https://gridstackjs.com/>
+- [refinedev/refine](https://github.com/refinedev/refine): Build your React-based CRUD applications, without constraints. <https://refine.dev/>
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor): The react library to build dashboards fast. <https://tremor.so>
   - [tremorlabs/tremor-raw](https://github.com/tremorlabs/tremor-raw): Copy & Paste React components to build modern web applications. <https://tremor.so>
   - in shadcn/ui style?
-- [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js): Build interactive dashboards in minutes. <https://gridstackjs.com/>
-- [refinedev/refine](https://github.com/refinedev/refine): Build your React-based CRUD applications, without constraints. <https://refine.dev/>
-- 🌟 [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz. <https://radix-ui.com>
-- 🌟 [radix-ui/themes](https://github.com/radix-ui/themes): Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos. <https://radix-ui.com/themes>
+- [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz. <https://radix-ui.com>
+- [radix-ui/themes](https://github.com/radix-ui/themes): Radix Themes is an open-source component library optimized for fast development, easy maintenance, and accessibility. Maintained by @workos. <https://radix-ui.com/themes>
 - 🌟 [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
+  - 🌟 [serafimcloud/21st](https://github.com/serafimcloud/21st): npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks <https://21st.dev>
+- [irsyadadl/justd](https://github.com/irsyadadl/justd): Justd is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects. <https://getjustd.com>
+  - like shadcn/ui but with Tailwind CSS + React Aria Components instead of Radix UI
+  - Some interesting learable usages of `tv` (tailwind variant) lib
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react): Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications. <https://react.keepdesign.io>
 - [cloudscape-design/components](https://github.com/cloudscape-design/components): React components for Cloudscape Design System <https://cloudscape.design/>
 - [tamagui/tamagui](https://github.com/tamagui/tamagui): Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler. <https://tamagui.dev>
@@ -153,7 +160,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui): <https://cult-ui.com/>
 - [mui/base-ui](https://github.com/mui/base-ui): Base UI is an open-source library of accessible, unstyled UI components for React. <https://base-ui.com>
 - [Codehagen/Prismui](https://github.com/Codehagen/Prismui): A fully customizable component library built on top of shadcn/ui. Beautiful, accessible, and ready for production. <https://prismui.tech>
-- 🌟 [serafimcloud/21st](https://github.com/serafimcloud/21st): npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks <https://21st.dev>
 - [nyxb-ui/ui](https://github.com/nyxb-ui/ui): Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces effortlessly. 100% open-source. <https://nyxbui.design>
 - [Tailspark](https://tailspark.co/): Beautiful Components & Templates built in Tailwind CSS
 
@@ -179,8 +185,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [joe-bell/cva](https://github.com/joe-bell/cva): Class Variance Authority <https://cva.style>
 - 🌟 [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge): Merge Tailwind CSS classes without style conflicts <https://npmjs.com/package/tailwind-merge>
 - 🌟 [gregberge/twc](https://github.com/gregberge/twc): Create reusable React + Tailwind CSS components in one line ✨ <https://react-twc.vercel.app>
-- [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace): A collection of professionally designed, every day UI components built on Web standards. Works with all framework as well as regular HTML/CSS/JS. 🥾 <https://shoelace.style>
-  - CSS framework for Web Components
 - 🌟 [facebook/stylex](https://github.com/facebook/stylex): StyleX is the styling system for ambitious user interfaces. <https://stylexjs.com>
 - [color-js/color.js](https://github.com/color-js/color.js): Color conversion & manipulation library by the editors of the CSS Color specifications <https://colorjs.io>
 - [ccc159/loadership](https://github.com/ccc159/loadership): LoaderShip.com is the ultimate CSS-only loader configuration tool that allows you to effortlessly customize and generate stunning loaders for your website. Simply Copy & Paste without any installation or dependency hassle.
@@ -416,6 +420,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that helps you debug components.
 - 🌟 [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source): A better API for making Event Source requests, with all the features of fetch()
   - Really?: You cannot pass in custom request headers (for making `EventSource` requests)
+  - [sentool/fetch-event-source](https://github.com/sentool/fetch-event-source): Using the Fetch API to request an SSE endpoint.
 - 🌟 [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream): A tiny (736b) utility for Server Sent Event (SSE) streaming via `fetch` and Web Streams API
 - [MattiasBuelens/web-streams-polyfill](https://github.com/MattiasBuelens/web-streams-polyfill): Web Streams, based on the WHATWG spec reference implementation
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international): Type-safe internationalization (i18n) for Next.js <https://next-international.vercel.app>

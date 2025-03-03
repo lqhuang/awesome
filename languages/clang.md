@@ -95,6 +95,10 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [csmith-project/creduce](https://github.com/csmith-project/creduce): C-Reduce, a C and C++ program reducer
 - [HBehrens/puncover](https://github.com/HBehrens/puncover): Analyses C/C++ build output for code size, static variables, and stack usage
 
+### CI
+
+- [aminya/setup-cpp](https://github.com/aminya/setup-cpp): Install all the tools required for building and testing C++/C projects.
+
 ### Test suites
 
 - 🌟 [catchorg/Catch2](https://github.com/catchorg/Catch2): A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) <https://discord.gg/4CWS9zD>

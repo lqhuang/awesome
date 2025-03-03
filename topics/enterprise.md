@@ -5,6 +5,7 @@
 - [Indent](https://indent.com): On-demand access without the wait. Indent provides team members with on-demand access to cloud apps and infrastructure in seconds, not days.
 - [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。 <http://www.jumpserver.org>
+- [dromara/orion-visor](https://github.com/dromara/orion-visor): 一款高颜值、现代化的自动化运维及轻量堡垒机，提供服务器智能运维解决方案。支持资产管理分组、SSH SFTP 终端、文件上传下载、文件在线编辑、命令批量执行、多主机文件分发、cron 表达式配置计划任务，安全保障等。该项目是由 java 实现, 前端使用 vue + arco, 后端使用 springboot, 支持 docker 部署的服务器运维, linux windows 系统运维平台。 <https://visor.dromara.org/>
 - [moul/sshportal](https://github.com/moul/sshportal): 🎩 simple, fun and transparent SSH (and telnet) bastion server <https://manfred.life/sshportal>
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit): SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [duncs/clusterssh](https://github.com/duncs/clusterssh): Cluster SSH - Cluster Admin Via SSH <https://github.com/duncs/clusterssh/wiki>
@@ -18,6 +19,7 @@
 - [NangoHQ/nango](https://github.com/NangoHQ/nango): Get OAuth tokens for APIs - fast & secure. <https://www.nango.dev>
 - 🌟 [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. <https://oauth2-proxy.github.io/oauth2-proxy>
 - [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
+- [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher): 🔐 Securely share sensitive information with automatic expiration & deletion after a set number of views or duration. Track who, what and when with full audit logs. <https://docs.pwpush.com>
 
 ## Worksuites
 
@@ -215,12 +217,9 @@
 
 ## Security
 
-- [libyear](https://libyear.com/): A **simple** measure of software dependency freshness. It is a **single number** telling you how up-to-date your dependencies are.
 - [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass): Check your WAF before an attacker does this one <https://nemesida-waf.com/>
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine): 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 <https://waf-ce.chaitin.cn/>
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): Protect and discover secrets using Gitleaks 🔑 <https://gitleaks.io>
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb): 🛡️ Make your web services secure by default ! <https://www.bunkerweb.io>
-- [google/osv.dev](https://github.com/google/osv.dev): Open source vulnerability DB and triage service. <https://osv.dev>
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion): Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek. <https://securityonion.net>
 - [snort3/snort3](https://github.com/snort3/snort3): Snort++
 - [OSSEC](https://www.ossec.net/): OSSEC is a scalable, multi-platform, open source Host-based Intrusion Detection System (HIDS)

@@ -88,6 +88,13 @@ Build cache
 - [nixops4/nixops4](https://github.com/nixops4/nixops4): Deploy with Nix and manage resources declaratively
 - [zhaofengli/attic](https://github.com/zhaofengli/attic): Multi-tenant Nix Binary Cache <https://docs.attic.rs>
 
+## Security check
+
+- [libyear](https://libyear.com/): A **simple** measure of software dependency freshness. It is a **single number** telling you how up-to-date your dependencies are.
+- [google/osv.dev](https://github.com/google/osv.dev): Open source vulnerability DB and triage service. <https://osv.dev>
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): Protect and discover secrets using Gitleaks 🔑 <https://gitleaks.io>
+- [google/oss-fuzz](https://github.com/google/oss-fuzz): OSS-Fuzz - continuous fuzzing for open source software. <https://google.github.io/oss-fuzz>
+
 ## API Test
 
 - 🌟 [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) <https://www.usebruno.com/>

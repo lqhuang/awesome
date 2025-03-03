@@ -173,16 +173,11 @@
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws)
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): 人教版小学到大学数学
 - [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs <http://public-apis.org>
-- 🌟 [djyde/notepal](https://github.com/djyde/notepal): A simple tool to import/export your book note <https://notepal.randysoft.org>
-  - export WeBook to Readwise
-- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成 HTML、Word、CSV 文档永久保存，对聊天记录进行分析生成年度聊天报告
 - 🌟 [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines): Chinese copywriting guidelines for better written communication／中文文案排版指北
 - [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide): An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io <https://zh-style-guide.readthedocs.io>
 - [ruanyf/weekly](https://github.com/ruanyf/weekly): 科技爱好者周刊，每周五发布
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline): A public release of TimelineBuilder for building personal digital data timelines.
 - [USTC Hackergame](https://github.com/USTC-Hackergame)
-- [lizongying/my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用 <https://lyrics.run/my-tv.html>
-- [YueChan/Live](https://github.com/YueChan/Live): 收集于互联网的一些高清直播源。
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender): 中国节假日、调休、补班日历，ICS 格式，可供 IPhone、Google Calendar、Outlook 等客户端订阅，包含节假日 API
 - [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer): Chinese character stroke order animations and practice quizzes <https://hanziwriter.org>
 - [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world <https://iptv-org.github.io>
@@ -190,7 +185,6 @@
 - [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead): the website blocklist I am maintaining
 - [metowolf/vCards](https://github.com/metowolf/vCards): 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [lvwzhen/medicine](https://github.com/lvwzhen/medicine): 原研药列表 <https://medicine.lvwzhen.com>
-- [latentcat/mpmath](https://github.com/latentcat/mpmath): 微信公众号公式编辑插件 <https://troyni.com/mpmath>
 
 ## Branding
 
@@ -217,6 +211,7 @@
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips): An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程。 <https://byoungd.github.io/English-level-up-tips/>
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny): a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + nextui + jotai + docker <https://wordsfunny.com>
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead): A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu.com
+- 🌟 [Refactoring English](https://refactoringenglish.com/): Effective writing for software developers
 
 ## Security / Privacy
 
@@ -235,6 +230,7 @@
   - crazy ...
 - [popcar2/BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist): A filter that blocks spam & misleading websites from appearing in search results via uBlocklist
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
+- 🌟 [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac): Automatically audit your Mac for basic security hygiene. <https://paretosecurity.com>
 
 ## Open Source Software: State, Progress and Future
 

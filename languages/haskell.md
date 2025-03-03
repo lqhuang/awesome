@@ -41,6 +41,7 @@
 - [Avoiding space leaks at all costs](https://chshersh.com/space-leak)
 - [Alexis King’s Blog](https://lexi-lambda.github.io/)
   - IMHO, I suggest reading all the posts.
+- [GHC - Dependent Types: Current Status](https://ghc.serokell.io/dh)
 
 ### Courses
 

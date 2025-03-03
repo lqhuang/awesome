@@ -96,6 +96,7 @@
 - [bsc-mem/PROFET](https://github.com/bsc-mem/PROFET): Analytical model that quantifies the impact of the main memory on application performance and system power and energy consumption.
 - [intel/pcm](https://github.com/intel/pcm): Intel® Performance Counter Monitor (Intel® PCM)
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
+- [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools): Intel PMU profiling tools
 
 ## WASM Runtime
 

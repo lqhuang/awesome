@@ -32,6 +32,7 @@
 - [softwaredoug/searcharray](https://github.com/softwaredoug/searcharray): Full text search in your Pandas dataframe
   - `searcharray` adds boring, old BM25 full text search to the PyData stack.
   - [A Roaringish phrase search algorithm](https://softwaredoug.com/blog/2024/01/21/search-array-phrase-algorithm): How phrase search works in search array by intersecting roaring-like numpy arrays.
+- 🌟 [textstat/textstat](https://github.com/textstat/textstat): 📝 python package to calculate readability statistics of a text object - paragraphs, sentences, articles. <https://textstat.org>
 
 ## tokenizer / BPE
 
