@@ -133,7 +133,9 @@
 - [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp): Hestia Control Panel | A lightweight and powerful control panel for the modern web. <https://hestiacp.com>
 - [webmin/webmin](https://github.com/webmin/webmin): Powerful and flexible web-based server management control panel <http://www.webmin.com/>
   - [webmin/usermin](https://github.com/webmin/usermin): Usermin source code <http://www.usermin.com/>
-- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel): A highly customizable web hosting control panel built with Docker 🐳 <https://openpanel.com>
+- [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel): A highly customizable web hosting control panel built with Docker 🐳 <https://openpanel.com> F- [pikvm/pikvm](https://github.com/pikvm/pikvm): Open and inexpensive DIY IP-KVM based on Raspberry Pi <https://pikvm.org>
+  - [PiKVM - Open and inexpensive IP-KVM on Raspberry Pi](https://pikvm.org/): PiKVM an easy and inexpensive DIY IP-KVM on Raspberry Pi to control remote machines: Full HD, mouse, Mass Storage Drive, VNC, IPMI and much more out of the box. Most modern KVM over IP ever!
+  - I'm dreaming this for a long time =.=
 
 ### Start page
 

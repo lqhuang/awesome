@@ -3,6 +3,12 @@
 ## Reading
 
 - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks) | Blog | Guillaume Endignoux](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html): This post is the second part of my adventures to optimize a Rust workload running on multiple threads.In the first post, I explored how the rayon parallelism framework works, and explained how I designed a faster replacement for my use case.
+- [Performance Speed Limits | Performance Matters](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html): A laundry list of speed limits that your code can’t exceed.
+
+## Algorithmica
+
+- [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica): A computer science textbook <https://algorithmica.org/>
+- [sslotin/amh-code](https://github.com/sslotin/amh-code): Complete implementations from "Algorithms for Modern Hardware" <https://en.algorithmica.org/hpc>
 
 ## json
 

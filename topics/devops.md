@@ -110,6 +110,8 @@ Build cache
 - [keploy/keploy](https://github.com/keploy/keploy): Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work! <https://keploy.io>
 - [scalar/scalar](https://github.com/scalar/scalar): Scalar is an open-source API platform: ✨ 1st-Class OpenAPI/Swagger Support <https://scalar.com>
 - [requestly/requestly](https://github.com/requestly/requestly): Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postman, Insomnia, Bruno and Charles Proxy. <https://requestly.com>
+- 🌟 [mountain-loop/yaak](https://github.com/mountain-loop/yaak): The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 <https://yaak.app>
+  - SSE and gRPC
 
 ## GitOps
 

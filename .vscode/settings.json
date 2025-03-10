@@ -12,10 +12,5 @@
     },
     "editor.wordWrap": "off"
   },
-  "prettier.proseWrap": "never",
-  "github.copilot.enable": {
-    "*": false,
-    "plaintext": false,
-    "markdown": false
-  }
+  "prettier.proseWrap": "never"
 }

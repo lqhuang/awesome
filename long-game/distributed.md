@@ -137,3 +137,8 @@
 - [Vanlightly/vsr-tlaplus](https://github.com/Vanlightly/vsr-tlaplus): TLA+ specifications related to Viewstamped Replication
 - [informalsystems/quint](https://github.com/informalsystems/quint): Quint is a tool for _understanding_. It is an executable specification language with design and tooling focused on usability. It is based on the Temporal Logic of Actions
 - [tlaplus-community/tlauc](https://github.com/tlaplus-community/tlauc): Rewrites TLA⁺ specs to use Unicode symbols instead of ASCII, and vice-versa
+- [p-org/P](https://github.com/p-org/P): The P programming language. <https://p-org.github.io/P/>
+  - P is a state machine based programming language for formally modeling and specifying complex distributed systems.
+  - P is currently being used extensively inside Amazon (AWS) for analysis of complex distributed systems.
+  - P as a thinking tool: Writing formal specifications in P forces developers to think about their system design rigorously, and in turn helped in bridging gaps in their understanding of the system. A large fraction of the bugs can be eliminated in the process of writing specifications itself!
+  - case: [deepseek-ai/3FS - P specifications](https://github.com/deepseek-ai/3FS/tree/main/specs)

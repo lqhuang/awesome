@@ -1,4 +1,4 @@
-# Science
+# Research
 
 ## Books
 
@@ -12,6 +12,8 @@
 - [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1): Methods in Algebra (Volume 1): A Chinese textbook on Algebra
 - [Visualize-ML/Book3_Fundamentals-of-Mathematics](https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics): 《数学要素》，清华社五审五校中；Github 稿件基本稳定，欢迎提意见，会及时修改
 - 🌟 [Linear Algebra Done Right](https://linear.axler.net/): This best-selling textbook for a second course in linear algebra is aimed at undergraduate math majors and graduate students. The novel approach taken here banishes determinants to the end of the book. The text focuses on the central goal of linear algebra: understanding the structure of linear operators on finite-dimensional vector spaces.
+- [stevenhalim/cpbook-code](https://github.com/stevenhalim/cpbook-code): CP4 Free Source Code Project (C++17, Java11, Python3 and OCaml)
+  - [Competitive Programming 4](https://cpbook.net/)
 
 ## Resources
 
@@ -39,6 +41,8 @@
 
 - [normal-computing/posteriors](https://github.com/normal-computing/posteriors): Uncertainty quantification with PyTorch <https://normal-computing.github.io/posteriors/>
 - [pymc-devs/pymc](https://github.com/pymc-devs/pymc): Bayesian Modeling and Probabilistic Programming in Python <https://docs.pymc.io/>
+- [pints-team/pints](https://github.com/pints-team/pints): Probabilistic Inference on Noisy Time Series <http://pints.readthedocs.io>
+- [kthohr/mcmc](https://github.com/kthohr/mcmc): A C++ library of Markov Chain Monte Carlo (MCMC) methods <https://mcmclib.readthedocs.io/en/latest/>
 
 ## Novel approaches
 

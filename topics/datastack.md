@@ -6,6 +6,7 @@
 - [DataTalksClub/data-engineering-zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp): Free Data Engineering course!
 - [Open Source Data Engineering Landscape 2024](https://practicaldataengineering.substack.com/p/open-source-data-engineering-landscape)
 - [Data Engineering Architecture](https://www.ssp.sh/brain/data-engineering-architecture/)
+- [Data-Asset Reusability - 📖 Data Engineering Design Patterns (DEDP)](https://www.dedp.online/part-2/5-dep/data-asset-reusability-pattern.html): Accelerate data engineering development through code and data reuse patterns, from templating to materialization and abstraction.
 
 ## Query
 
@@ -57,6 +58,13 @@
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad): Web-based SQL editor. Legacy project in maintenance mode. <https://getsqlpad.com>
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai): Open-source, browser-local data exploration using DuckDB-Wasm and PRQL <https://pretzelai.github.io>
 - [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald): 🐵 Preswald is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing complexity while maintaining flexibility for both prototyping and production-grade use cases. <https://www.preswald.com/>
+
+# Data catlogs
+
+- [opendatadiscovery/awesome-data-catalogs](https://github.com/opendatadiscovery/awesome-data-catalogs): 📙 Awesome Data Catalogs and Observability Platforms.
+- [MarquezProject/marquez](https://github.com/MarquezProject/marquez): Collect, aggregate, and visualize a data ecosystem's metadata <https://marquezproject.ai>F
+- [datahub-project/datahub](https://github.com/datahub-project/datahub): The Metadata Platform for your Data and AI Stack <https://datahubproject.io>
+- [opendatadiscovery/odd-platform](https://github.com/opendatadiscovery/odd-platform): First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business. <https://opendatadiscovery.org>
 
 ## Data governance
 

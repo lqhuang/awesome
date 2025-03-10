@@ -64,6 +64,7 @@
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node): TypeScript execution and REPL for node.js <https://typestrong.org/ts-node>
 - [privatenumber/tsx](https://github.com/privatenumber/tsx): ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - 🌟 [pi0/platform-node-compat](https://github.com/pi0/platform-node-compat): Display Node.js compatibility of edge runtimes <https://platform-node-compat.deno.dev/>
+- [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs): A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox <https://sebastianwessel.github.io/quickjs/>
 
 ### Testing
 
@@ -112,6 +113,15 @@
 
 - [discoveryjs/cpupro](https://github.com/discoveryjs/cpupro): Rethinking of CPU profile analysis <https://discoveryjs.github.io/cpupro/>
 - [Perf Link](https://perf.link/)
+
+## Frameworks
+
+- [honojs/hono](https://github.com/honojs/hono): Ultrafast web framework for Cloudflare Workers and Deno. Fast, but not only fast.
+  - [honojs/examples](https://github.com/honojs/examples): Examples using Hono. <https://hono.dev>
+  - 🌟 [fiberplane/fiberplane](https://github.com/fiberplane/fiberplane): Supercharge your local development <https://fiberplane.dev>
+  - [fiberplane/awesome-honc](https://github.com/fiberplane/awesome-honc): A curated list of awesome HONC projects <https://honc.dev>
+  - [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter): Rate Limit middleware for Hono Server <https://hono-rate-limiter.vercel.app>
+  - [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi): A plugin for Hono to generate OpenAPI Swagger documentation
 
 ## Functional libraries
 
@@ -235,6 +245,7 @@
 - [image-size/image-size](https://github.com/image-size/image-size): Node module for detecting image dimensions
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp): An image processing library written entirely in JavaScript for Node, with zero external or native dependencies. <http://jimp-dev.github.io/jimp/>
 - [photopea/UPNG.js](https://github.com/photopea/UPNG.js): Fast and advanced PNG (APNG) decoder and encoder (lossy / lossless)
+- [image-js/fast-png](https://github.com/image-js/fast-png): PNG image decoder and encoder written entirely in JavaScript
 
 ### Utils
 
@@ -264,6 +275,7 @@
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit): A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). <https://triplit.dev>
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware): ⚡ The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [developit/web-worker](https://github.com/developit/web-worker): Consistent Web Workers in browser and Node. <https://npm.im/web-worker>
+- [tinyhttp/malibu](https://github.com/tinyhttp/malibu): 🏄 Framework-agnostic CSRF middleware for modern Node.js <https://tinyhttp.v1rtl.site/mw/malibu>
 
 ## Misc
 

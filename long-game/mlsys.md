@@ -28,6 +28,12 @@
     - vectorized minibatch (convert for-loop into matrix multiply)
     - vectorized minibatch running on a GPU (use PyTorch to compute on GPU)
 
+### Triton
+
+- [MekkCyber/TritonAcademy](https://github.com/MekkCyber/TritonAcademy): A repository to unravel the language of GPUs, making their kernel conversations easy to understand
+- [srush/Triton-Puzzles](https://github.com/srush/Triton-Puzzles): Puzzles for learning Triton
+- [rdyro/Pallas-Puzzles](https://github.com/rdyro/Pallas-Puzzles): This is a direct fork of the Triton Puzzles, but adapted for the Pallas language for using a Triton-like kernel language (Pallas) in JAX.
+
 ### GPU / CUDA
 
 - [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream): CUDA related news and material links
@@ -36,6 +42,9 @@
 - 🌟 [AI-Hypercomputer/gpu-recipes](https://github.com/AI-Hypercomputer/gpu-recipes): Recipes for reproducing training and serving benchmarks for large machine learning models using GPUs on Google Cloud.
 - [GPU Glossary | Modal](https://modal.com/gpu-glossary)
 - [ashvardanian/cpp-cuda-python-starter-kit](https://github.com/ashvardanian/cpp-cuda-python-starter-kit): Parallel Computing starter project to build GPU & CPU kernels in CUDA & C++ and call them from Python without a single line of CMake using PyBind11 <https://ashvardanian.com/tags/less-slow>
+- 🌟 [The Ultra-Scale Playbook - a Hugging Face Space by nanotron](https://huggingface.co/spaces/nanotron/ultrascale-playbook): The ultimate guide to training LLM on large GPU Clusters
+  - [huggingface/nanotron](https://github.com/huggingface/nanotron): Minimalistic large language model 3D-parallelism training
+  - [huggingface/picotron](https://github.com/huggingface/picotron): Minimalistic 4D-parallelism distributed training framework for education purpose
 
 ### TPU
 
@@ -87,6 +96,7 @@
 - [databricks/megablocks](https://github.com/databricks/megablocks): MegaBlocks is a light-weight library for mixture-of-experts (MoE) training.
 - [pytorch/tnt](https://github.com/pytorch/tnt): A lightweight library for PyTorch training tools and utilities <https://pytorch.org/tnt/>
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi): Everything you need to build state-of-the-art foundation models, end-to-end. <https://oumi.ai>
+- [huggingface/trl](https://github.com/huggingface/trl): Train transformer language models with reinforcement learning. <http://hf.co/docs/trl>
 
 ### Optimization
 
@@ -511,3 +521,5 @@ RL
 - [SonyResearch/micro_diffusion](https://github.com/SonyResearch/micro_diffusion): Official repository for our work on micro-budget training of large-scale diffusion models. <https://arxiv.org/abs/2407.15811>
 - [JINO-ROHIT/mini-AutoGrad](https://github.com/JINO-ROHIT/mini-AutoGrad)
   - [symbolic_differentiation.py](https://github.com/JINO-ROHIT/mini-AutoGrad/blob/main/mini-grad/symbolic_differentiation.py)
+- [jax-ml/jax-llm-examples](https://github.com/jax-ml/jax-llm-examples)
+  - DeepSeek R1

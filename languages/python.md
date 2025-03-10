@@ -663,6 +663,13 @@ Templates
 - 🌟 [google/magika](https://github.com/google/magika): Detect file content types with deep learning <https://google.github.io/magika/>
 - [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor): A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts. <http://pyarmor.dashingsoft.com>
 
+## Pyodide
+
+- [pyodide/pyodide](https://github.com/pyodide/pyodide): Pyodide is a Python distribution for the browser and Node.js based on WebAssembly <https://pyodide.org/en/stable/>
+- [spylang/spy](https://github.com/spylang/spy): SPy language
+  - [Over the clouds: CPython, Pyodide and SPy - Antonio Cuni's blog](http://antocuni.eu/2025/02/26/over-the-clouds-cpython-pyodide-and-spy/)
+  - [A peek into a possible future of Python in the browser - Łukasz LangaSearch](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/)
+
 ## Visualization
 
 ### Chart
@@ -676,7 +683,6 @@ Templates
 - [lux-org/lux](https://github.com/lux-org/lux): Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [moshi4/pyCirclize](https://github.com/moshi4/pyCirclize): Circular visualization in Python (Circos Plot, Chord Diagram) <https://moshi4.github.io/pyCirclize>
 - [ponnhide/pyCircos](https://github.com/ponnhide/pyCircos): python Circos
-- [lmcinnes/glasbey](https://github.com/lmcinnes/glasbey): Algorithmically create or extend categorical colour palettes
 - 🌟 [csgoh/roadmapper](https://github.com/csgoh/roadmapper): Roadmapper - A Roadmap as Code (Rac) python library. Generate professional roadmap diagram using python code.
 - 🌟 [marcomusy/vedo](https://github.com/marcomusy/vedo): A python module for scientific analysis of 3D data based on VTK and Numpy <https://vedo.embl.es>
 - 🌟 [rnd-team-dev/plotoptix](https://github.com/rnd-team-dev/plotoptix): Data visualisation and ray tracing in Python based on OptiX 7.7 framework. <https://rnd.team/plotoptix>

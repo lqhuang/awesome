@@ -46,7 +46,7 @@
 
 - [mitchellh/libxev](https://github.com/mitchellh/libxev): libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.
 - [kprotty/zap](https://github.com/kprotty/zap): An asynchronous runtime with a focus on performance and resource efficiency. <https://github.com/kprotty/zap>
-- [mookums/tardy](https://github.com/mookums/tardy): An asynchronous runtime for writing applications and services. Supports io_uring and epoll for Linux, kqueue for Darwin & BSD, and poll for the rest.
+- [tardy-org/tardy](https://github.com/tardy-org/tardy): An asynchronous runtime for writing applications and services. Supports io_uring, epoll, kqueue, and poll for I/O.
 
 ### Parser
 
@@ -91,7 +91,7 @@
 - [zigzap/zap](https://github.com/zigzap/zap): blazingly fast backends in zig
   - Zap is the zig replacement for the REST APIs I used to write in python with Flask and mongodb, etc.
   - Flask ???
-- [mookums/zzz](https://github.com/mookums/zzz): A framework for writing performant and reliable networked services.
+- [tardy-org/zzz](https://github.com/tardy-org/zzz): A framework for writing performant and reliable networked services.
 - [karlseguin/pg.zig](https://github.com/karlseguin/pg.zig): Native PostgreSQL driver / client for Zig
 - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig): A websocket implementation for zig
 - [kristoff-it/supermd](https://github.com/kristoff-it/supermd): SuperMD is an extension of Markdown used by https://zine-ssg.io

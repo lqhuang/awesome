@@ -47,6 +47,7 @@
 - [Underactuated Robotics](https://underactuated.mit.edu/): Algorithms for Walking, Running, Swimming, Flying, and Manipulation
 - 🌟 [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book): Collaborative book Machine Learning Systems <https://harvard-edge.github.io/cs249r_book/>
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被 60 个国家的 400 所大学用于教学。 <http://zh.d2l.ai>
+- [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book): Textbook on reinforcement learning from human feedback <https://rlhfbook.com/>
 
 ## Workshop
 
@@ -75,6 +76,10 @@
 - [risteskilab/deq-neural-operators](https://github.com/risteskilab/deq-neural-operators): Deep Equilibrium Based Neural Operators for Steady State PDEs
 - [y1xiaoc/fwdlap](https://github.com/y1xiaoc/fwdlap): Forward mode laplacian implemented in JAX tracer <https://github.com/y1xiaoc/fwdlap>
 - [microsoft/folx](https://github.com/microsoft/folx): Implementation of Forward Laplacian algorithm in JAX
+
+## Graph
+
+- [apple/ml-gbc](https://github.com/apple/ml-gbc): Graph-based captioning interconnects region captions to form an integral, structured, and fine-grained description of an image. This codebase contains code for the following purposes.
 
 ## Category for ML
 

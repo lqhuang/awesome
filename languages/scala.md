@@ -166,6 +166,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [pathikrit/better-files](https://github.com/pathikrit/better-files): Simple, safe and intuitive Scala I/O <https://pathikrit.github.io/better-files/>
 - [agourlay/cornichon](https://github.com/agourlay/cornichon): Scala DSL for testing HTTP JSON API <http://agourlay.github.io/cornichon>
 - [mjakubowski84/parquet4s](https://github.com/mjakubowski84/parquet4s): Read and write Parquet in Scala. Use Scala classes as schema. No need to start a cluster. <https://mjakubowski84.github.io/parquet4s/>
+- [ParquetFileFormat.scala in spark src](https://github.com/apache/spark/blob/master/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/parquet/ParquetFileFormat.scala)
 - [theiterators/http4s-stir](https://github.com/theiterators/http4s-stir): http4s-stir offers Pekko HTTP-style (Akka HTTP-style) DSL directives for http4s using cats-effect's IO as an effect system
 - [kzmake/uuid7s](https://github.com/kzmake/uuid7s): UUID version 7 in Scala
 - [wvlet/airframe](https://github.com/wvlet/airframe): Essential Building Blocks for Scala <https://wvlet.org/airframe>
@@ -374,6 +375,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [Quafadas/dedav4s](https://github.com/Quafadas/dedav4s): Declarative Data Viz 4 Scala <https://quafadas.github.io/dedav4s/>
 - 🌟 [sbrunk/storch](https://github.com/sbrunk/storch): GPU accelerated deep learning and numeric computing for Scala 3. <https://storch.dev>
 - [Quafadas/spire_AD](https://github.com/Quafadas/spire_AD): Reverse mode automatic differentiation based on spire <https://quafadas.github.io/spire_AD/docs/index.html>
+- [ComputeNode/cyfra](https://github.com/ComputeNode/cyfra): Multi-platform GPGPU computations with Scala, seamlessly 🚀
 
 ### kotlin for Data Intensive System
 

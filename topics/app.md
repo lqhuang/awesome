@@ -22,6 +22,7 @@
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor): Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ <https://capacitorjs.com>
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs): Portable and lightweight cross-platform desktop application development framework <https://neutralino.js.org>
 - [velopack/velopack](https://github.com/velopack/velopack): Installer and automatic update framework for cross-platform desktop applications <https://velopack.io>
+- 🌟 [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app): 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
 
 ## React Native (cross platforms)
 
@@ -59,6 +60,7 @@
 - 🌟 [jaredh159/tailwind-react-native-classnames](https://github.com/jaredh159/tailwind-react-native-classnames): simple, expressive API for tailwindcss + react-native
 - [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables): Universal shadcn/ui for React Native featuring a focused collection of components - Crafted with NativeWind v4 and accessibility in mind. <https://rnr-docs.vercel.app>
 - [software-mansion/react-native-executorch](https://github.com/software-mansion/react-native-executorch): React Native ExecuTorch is a declarative way to run AI models in React Native on device, powered by ExecuTorch
+- 🌟 [OP-Engineering/op-sqlite](https://github.com/OP-Engineering/op-sqlite): Fastest SQLite library for react-native by @ospfranco
 
 ### Examples
 
