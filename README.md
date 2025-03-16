@@ -20,11 +20,9 @@ Remind me about those not that familiar, less used but valued utils/tools. It's 
   - [zig](./languages/zig.md)
 - long-game
   - [distributed](./long-game/distributed.md)
-  - [faster-than-fast](./long-game/faster-than-fast.md)
-  - [fp](./long-game/fp.md)
   - [mlsys](./long-game/mlsys.md)
-  - [mlalgo](./long-game/mlalgo.md)
-  - [sci](./long-game/sci.md)
+  - [algo](./long-game/algo.md)
+  - [research](./long-game/research.md)
   - [streaming](./long-game/streaming.md)
   - [system](./long-game/system.md)
 - topics
@@ -47,8 +45,10 @@ Remind me about those not that familiar, less used but valued utils/tools. It's 
 
 ## My little corner
 
-- Speed is everything
+- Speed is always a thing
+  - [faster-than-fast](./long-game/faster-than-fast.md)
 - The Curse of Strong Typing
+  - [fp](./long-game/fp.md)
 
 ## Similar awesome
 

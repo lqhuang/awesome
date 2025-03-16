@@ -693,11 +693,14 @@ Templates
 - [timkpaine/ipydagred3](https://github.com/timkpaine/ipydagred3): ipywidgets library for drawing directed acyclic graphs in jupyterlab using dagre-d3
 - [jrfonseca/xdot.py](https://github.com/jrfonseca/xdot.py): Interactive viewer for graphs written in Graphviz's dot language.
 - matplotlib
+  - [has2k1/plotnine](https://github.com/has2k1/plotnine): A Grammar of Graphics for Python <https://plotnine.org>
   - [lgienapp/aquarel](https://github.com/lgienapp/aquarel): Styling matplotlib made easy
   - [lmcinnes/glasbey](https://github.com/lmcinnes/glasbey): Algorithmically create or extend categorical colour palettes
   - [JosephBARBIERDARNAL/pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes): A large (+2500) collection of color maps for Python <https://python-graph-gallery.com/color-palette-finder/>
   - [1313e/CMasher](https://github.com/1313e/CMasher): Scientific colormaps for making accessible, informative and 'cmashing' plots <https://cmasher.readthedocs.io>
   - [matplotlib/cmocean](https://github.com/matplotlib/cmocean): Colormap setup for standardizing commonly-plotting oceanographic variables.
+  - [t-makaro/animatplot](https://github.com/t-makaro/animatplot): A python package for animating plots build on matplotlib.
+  - [Marsilea-viz/marsilea](https://github.com/Marsilea-viz/marsilea): Declarative creation of composable visualization for Python (Complex heatmap, Upset plot, Oncoprint and more~) <https://marsilea.rtfd.io/>
 - [Kozea/pygal](https://github.com/Kozea/pygal): PYthon svg GrAph plotting Library <https://www.pygal.org>
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz): A python library for decision tree visualization and model interpretation.
 

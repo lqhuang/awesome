@@ -64,3 +64,4 @@
 - [harsha-simhadri/big-ann-benchmarks](https://github.com/harsha-simhadri/big-ann-benchmarks): Framework for evaluating ANNS algorithms on billion scale datasets. <https://big-ann-benchmarks.com>
 - [pavlin-policar/openTSNE](https://github.com/pavlin-policar/openTSNE): Extensible, parallel implementations of t-SNE <https://opentsne.rtfd.io>
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search): Collections of vector search related libraries, service and research papers
+- [antgroup/vsag](https://github.com/antgroup/vsag): vsag is a vector indexing library used for similarity search.

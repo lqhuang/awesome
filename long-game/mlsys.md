@@ -100,16 +100,11 @@
 
 ### Optimization
 
-- [google-research/torchsde](https://github.com/google-research/torchsde): Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
-- [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq): Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - [optuna/optuna](https://github.com/optuna/optuna): A hyperparameter optimization framework <https://optuna.org>
 - [Epistimio/orion](https://github.com/Epistimio/orion): Asynchronous Distributed Hyperparameter Optimization. <https://orion.readthedocs.io>
 - [google/vizier](https://github.com/google/vizier): Python-based research interface for blackbox and hyperparameter optimization, based on Google's internal Vizier Service. <https://oss-vizier.readthedocs.io>
 - [leopard-ai/betty](https://github.com/leopard-ai/betty): Betty: an automatic differentiation library for generalized meta-learning and multilevel optimization <https://leopard-ai.github.io/betty>
 - [facebookresearch/theseus](https://github.com/facebookresearch/theseus): A library for differentiable nonlinear optimization <https://sites.google.com/view/theseus-ai>
-- [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy): A Python-embedded modeling language for convex optimization problems. <https://www.cvxpy.org>
-- [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): A large scale non-linear optimization library <http://ceres-solver.org>
-- [google/or-tools](https://github.com/google/or-tools): Google's Operations Research tools <https://developers.google.com/optimization>
 - [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch): 🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch
 - 🌟 [metaopt/torchopt](https://github.com/metaopt/torchopt): TorchOpt is an efficient library for differentiable optimization built upon PyTorch. <https://torchopt.readthedocs.io>
   - [Introducing TorchOpt: A High-Performance Differentiable Optimization Library for PyTorch](https://medium.com/pytorch/introducing-torchopt-a-high-performance-differentiable-optimization-library-for-pytorch-37c4c0ef6ae1)
@@ -117,6 +112,13 @@
 - [facebookresearch/nevergrad](https://github.com/facebookresearch/nevergrad): A Python toolbox for performing gradient-free optimization <https://facebookresearch.github.io/nevergrad/>
 - [lessw2020/Best-Deep-Learning-Optimizers](https://github.com/lessw2020/Best-Deep-Learning-Optimizers): Collection of the latest, greatest, deep learning optimizers (for Pytorch) - CNN, NLP suitable
 - [facebookresearch/schedule_free](https://github.com/facebookresearch/schedule_free): Schedule-Free Optimization in PyTorch
+
+General problems
+
+- [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy): A Python-embedded modeling language for convex optimization problems. <https://www.cvxpy.org>
+- [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): A large scale non-linear optimization library <http://ceres-solver.org>
+- [google/or-tools](https://github.com/google/or-tools): Google's Operations Research tools <https://developers.google.com/optimization>
+- [coin-or/pulp](https://github.com/coin-or/pulp): A python Linear Programming API <http://coin-or.github.io/pulp/>
 - [mlpack/ensmallen](https://github.com/mlpack/ensmallen): A header-only C++ library for numerical optimization -- <http://ensmallen.org>
 - [stevengj/nlopt](https://github.com/stevengj/nlopt): library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization
 
@@ -508,7 +510,7 @@ RL
 - [smolorg/smolgrad](https://github.com/smolorg/smolgrad): small auto-grad engine inspired from Karpathy's micrograd and PyTorch
 - [KellerJordan/modded-nanogpt](https://github.com/KellerJordan/modded-nanogpt): NanoGPT (124M) in 5 minutes
   - Modernized architecture: Rotary embeddings, QK-Norm, and ReLU^2.
-  - New optimizer: Muon - Momentum Orthogonalized by Newton-schulz [standalone implementation].
+  - New optimizer: Muon - Momentum Orthogonalized by Newton-schulz (standalone implementation).
   - Untied head from embedding.
   - Projection and classification layers initialized to zero (muP-like).
   - Architectural shortcuts: value residual and embedding shortcut (partially following https://arxiv.org/abs/2410.17897).

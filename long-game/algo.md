@@ -69,6 +69,8 @@
 ## Differentiable programming / PDE / ODE / SDE
 
 - [Useful Algorithms That Are Not Optimized By Jax, PyTorch, or Tensorflow - Stochastic Lifestyle](https://www.stochasticlifestyle.com/useful-algorithms-that-are-not-optimized-by-jax-pytorch-or-tensorflow/)
+- [google-research/torchsde](https://github.com/google-research/torchsde): Differentiable SDE solvers with GPU support and efficient sensitivity analysis.
+- [rtqichen/torchdiffeq](https://github.com/rtqichen/torchdiffeq): Differentiable ODE solvers with full GPU support and O(1)-memory backpropagation.
 - 🌟 [tum-pbs/pbdl-book](https://github.com/tum-pbs/pbdl-book): Welcome to the Physics-based Deep Learning Book (v0.2) <https://physicsbaseddeeplearning.org/>
 - [tum-pbs/PhiFlow](https://github.com/tum-pbs/PhiFlow): A differentiable PDE solving framework for machine learning
 - [microsoft/pdearena](https://github.com/microsoft/pdearena): A modern, scalable, and easy to use PDE Surrogate Benchmarking Framework. <https://microsoft.github.io/pdearena>

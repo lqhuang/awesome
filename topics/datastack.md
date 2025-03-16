@@ -7,6 +7,7 @@
 - [Open Source Data Engineering Landscape 2024](https://practicaldataengineering.substack.com/p/open-source-data-engineering-landscape)
 - [Data Engineering Architecture](https://www.ssp.sh/brain/data-engineering-architecture/)
 - [Data-Asset Reusability - 📖 Data Engineering Design Patterns (DEDP)](https://www.dedp.online/part-2/5-dep/data-asset-reusability-pattern.html): Accelerate data engineering development through code and data reuse patterns, from templating to materialization and abstraction.
+- [Scaling Beyond Postgres: How to Choose a Real-Time Analytical Database | Rill](https://www.rilldata.com/blog/scaling-beyond-postgres-how-to-choose-a-real-time-analytical-database#the-limitations-of-postgres-for-analytics): This blog explores how real-time databases address critical analytical requirements. We highlight the differences between cloud data warehouses like Snowflake and BigQuery, legacy OLAP databases like Vertica, and a new class of real-time analytical databases like ClickHouse and StarRocks that combine elements of both of these categories. We will also examine the categories of today's analytics solutions and how to choose the right one.
 
 ## Query
 

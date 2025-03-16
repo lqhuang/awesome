@@ -96,6 +96,8 @@
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js): quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser): Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD. <https://npmjs.com/dependency-cruiser>
 - [pahen/madge](https://github.com/pahen/madge): Create graphs from your CommonJS, AMD or ES6 module dependencies
+- [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector): Interactive UI for local node modules inspection <https://node-modules.dev>
+- [@next/bundle-analyzer | npmjs](https://www.npmjs.com/package/@next/bundle-analyzer)
 
 ### Modernize
 
@@ -282,6 +284,7 @@
 - [google/zx](https://github.com/google/zx): A tool for writing better scripts <https://google.github.io/zx/>
 - [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your i18n localization with AI
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
+- 🌟 [jakebailey/hereby](https://github.com/jakebailey/hereby): A simple Node.js task runner <https://hereby.js.org>
 
 ## Effect system on Typescript
 

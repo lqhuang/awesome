@@ -465,6 +465,11 @@
 - [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs): Ergonomic bindings to duckdb for Rust
 - [amqp-rs/lapin](https://github.com/amqp-rs/lapin): AMQP client library in Rust, with a clean, futures based API
 - [MrCroxx/foyer](https://github.com/MrCroxx/foyer): Hybrid in-memory and disk cache in Rust <https://github.com/mrcroxx/foyer>
+- 🌟 [cloudflare/pingora/tinyufo](https://github.com/cloudflare/pingora/tree/main/tinyufo): TinyUFO is a fast and efficient in-memory cache. It adopts the state-of-the-art S3-FIFO as well as TinyLFU algorithms to achieve high throughput and high hit ratio as the same time.
+  - small, lightweight, but efficient and portable
+  - Count–min sketch
+  - no tokio requirement
+  - how about to write a Python binding?
 
 ## Misc
 

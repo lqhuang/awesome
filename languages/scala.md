@@ -28,6 +28,7 @@
   - [Youtube Video](https://www.youtube.com/watch?v=JRgq8jjE2Dk)
 - [Quick Tips for Fast Code on the JVM](https://gist.github.com/djspiewak/464c11307cabc80171c90397d4ec34ef)
 - [Abdullahsab3/scala-native-intro](https://github.com/Abdullahsab3/scala-native-intro): A Gentle Introduction to Scala Native
+- [How to Improve JVM-Based Application Startup Time?](https://softwaremill.com/how-to-improve-jvm-based-application-startup-time/): This blog post compares different approaches to speeding up JVM startup time.
 
 ### Exercises
 
@@ -174,6 +175,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [VirtusLab/scala-yaml](https://github.com/VirtusLab/scala-yaml):
 - [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka): Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc. <https://softwaremill.github.io/bootzooka/>
 - [mpilquist/persistence](https://github.com/mpilquist/persistence): Various persistent collections for Scala
+- [scala-graph/scala-graph](https://github.com/scala-graph/scala-graph): Graph for Scala is intended to provide basic graph functionality seamlessly fitting into the Scala Collection Library. Like the well known members of scala.collection, Graph for Scala is an in-memory graph library aiming at editing and traversing graphs, finding cycles etc. in a user-friendly way.
 
 ### Experiments
 
@@ -208,6 +210,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - 🌟 [pureconfig/pureconfig](https://github.com/pureconfig/pureconfig): A boilerplate-free library for loading configuration files
 - [typelevel/fabric](https://github.com/typelevel/fabric): Object-Notation Abstraction for JSON, binary, HOCON, etc.
 - [jwt-scala/jwt-scala](https://github.com/jwt-scala/jwt-scala): JWT support for Scala. Bonus extensions for Play, Play JSON, Json4s, Circe, uPickle, Spray and Argonaut <https://jwt-scala.github.io/jwt-scala/>
+- [frawa/typed-json](https://github.com/frawa/typed-json): Validating Json against Json Schema in Scala. The library is designed to integrate with any Json parser.
 
 ### Logging
 
@@ -286,6 +289,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [rladstaetter/LogoRRR](https://github.com/rladstaetter/LogoRRR): A simple and straightforward log viewer that displays the events of interest in a clear and concise visual manner so that you can identify them faster. <https://www.logorrr.app/>
 - [felher/s3te](https://github.com/felher/s3te): A scala 3 tree explorer for the reflect module
 - [nrinaudo/kantan.csv](https://github.com/nrinaudo/kantan.csv): CSV handling library for Scala <http://nrinaudo.github.io/kantan.csv/>
+- [bertramdev/hcl4j](https://github.com/bertramdev/hcl4j): HCL is the Hashicorp Configuration Language used in Terraform. This is a java Parser for parsing HCL and converting to Map objects.
 
 ## Frameworks
 
@@ -303,6 +307,7 @@ Do a benchmark (final size while using Scala Native) for them?
   - [Stream fusion, to completeness | ACM SIGPLAN Notices](https://dl.acm.org/doi/10.1145/3093333.3009880)
 - [getkyo/kyo](https://github.com/getkyo/kyo): Toolkit for Scala Development <https://getkyo.io>
 - [marcinzh/turbolift](https://github.com/marcinzh/turbolift): Algebraic Effects for Scala 3 <https://marcinzh.github.io/turbolift>
+- [rcardin/yaes](https://github.com/rcardin/yaes): An experimental effect system in Scala using capability passing style
 
 ## War of eco systems
 

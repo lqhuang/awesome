@@ -155,6 +155,10 @@
 - wireguard
   - [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full mesh configuration generator.
   - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy): The easiest way to run WireGuard VPN + Web-based Admin UI.
+  - watchdog (for IP)
+    - [immortalwrt - wireguard_watchdog](https://github.com/immortalwrt/immortalwrt/blob/master/package/network/utils/wireguard-tools/files/wireguard_watchdog)
+    - [gek64/wgwd](https://github.com/gek64/wgwd): WireGuard watchdog
+    - [mattkasun/wg-watchdog.sh](https://gist.github.com/mattkasun/9a0e90d9d31b2c935d3f6d6e71dbece9)
 - 🌟 [trailofbits/algo](https://github.com/trailofbits/algo): Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
 - [coturn/coturn](https://github.com/coturn/coturn): coturn TURN server project
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun): A list of publicly available STUN servers, refreshed every hour.

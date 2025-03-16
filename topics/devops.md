@@ -11,6 +11,7 @@
 - [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with Protocol Buffers. <https://buf.build>
 - [apache/buildstream](https://github.com/apache/buildstream): BuildStream, the software integration tool <https://buildstream.build/>
 - [buildbarn/bb-deployments](https://github.com/buildbarn/bb-deployments): Example deployments of Buildbarn on various platforms
+- [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit): A pre-commit hook for Ruff.
 
 ## Build systems
 
@@ -120,9 +121,8 @@ Build cache
 - [buildpacks/pack](https://github.com/buildpacks/pack): CLI for building apps using Cloud Native Buildpacks <https://buildpacks.io>
   - [pivotal/kpack](https://github.com/pivotal/kpack): Kubernetes Native Container Build Service
 
-## Hook
+## Changelog
 
-- [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit): A pre-commit hook for Ruff.
 - [googleapis/release-please](https://github.com/googleapis/release-please): generate release PRs based on the conventionalcommits.org spec <https://www.conventionalcommits.org>
 - [changesets/changesets](https://github.com/changesets/changesets): 🦋 A way to manage your versioning and changelogs with a focus on monorepos
 - [microsoft/beachball](https://github.com/microsoft/beachball): The Sunniest Semantic Version Bumper <https://microsoft.github.io/beachball>

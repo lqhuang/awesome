@@ -67,6 +67,7 @@
   - incredibly amazing
 - [zegl/extremely-linear](https://github.com/zegl/extremely-linear): Extremely Linear Git History // git-linearize <https://westling.dev/b/extremely-linear-git>
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless): High-velocity, monorepo-scale workflow for Git
+- [jackiotyu/git-worktree-manager](https://github.com/jackiotyu/git-worktree-manager): Quickly manage and switch Git Worktrees in VSCode <https://marketplace.visualstudio.com/items?itemName=jackiotyu.git-worktree-manager>
 
 ### Code as Graph
 
@@ -136,6 +137,7 @@
 - [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel): A highly customizable web hosting control panel built with Docker 🐳 <https://openpanel.com> F- [pikvm/pikvm](https://github.com/pikvm/pikvm): Open and inexpensive DIY IP-KVM based on Raspberry Pi <https://pikvm.org>
   - [PiKVM - Open and inexpensive IP-KVM on Raspberry Pi](https://pikvm.org/): PiKVM an easy and inexpensive DIY IP-KVM on Raspberry Pi to control remote machines: Full HD, mouse, Mass Storage Drive, VNC, IPMI and much more out of the box. Most modern KVM over IP ever!
   - I'm dreaming this for a long time =.=
+- [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN): Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history <https://hub.docker.com/r/aceberg/watchyourlan>
 
 ### Start page
 

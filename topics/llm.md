@@ -12,6 +12,7 @@
 - [simplescaling/s1](https://github.com/simplescaling/s1): s1: Simple test-time scaling <https://arxiv.org/abs/2501.19393>
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero): Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 - [huggingface/open-r1](https://github.com/huggingface/open-r1): Fully open reproduction of DeepSeek-R1
+- [SsmallSong/R1-Searcher](https://github.com/SsmallSong/R1-Searcher): R1-searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning
 
 ## Eng
 
@@ -238,3 +239,4 @@
 - [lencx/Noi](https://github.com/lencx/Noi): 🦄 AI + Tools + Plugins + Community <https://noi.nofwl.com>
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development <https://librechat.ai/>
 - [TypingMind/typingmind](https://github.com/TypingMind/typingmind): The most advanced Web UI for AI chat <https://www.typingmind.com>
+- [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick): A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.

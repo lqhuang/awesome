@@ -61,6 +61,7 @@
 - [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables): Universal shadcn/ui for React Native featuring a focused collection of components - Crafted with NativeWind v4 and accessibility in mind. <https://rnr-docs.vercel.app>
 - [software-mansion/react-native-executorch](https://github.com/software-mansion/react-native-executorch): React Native ExecuTorch is a declarative way to run AI models in React Native on device, powered by ExecuTorch
 - 🌟 [OP-Engineering/op-sqlite](https://github.com/OP-Engineering/op-sqlite): Fastest SQLite library for react-native by @ospfranco
+- [nativewind/nativewind](https://github.com/nativewind/nativewind): React Native utility-first universal design system - powered by Tailwind CSS <https://nativewind.dev>
 
 ### Examples
 

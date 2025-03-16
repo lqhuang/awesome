@@ -137,8 +137,9 @@
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma): A fancy self-hosted monitoring tool <https://uptime.kuma.pet>
 - [upptime/upptime](https://github.com/upptime/upptime): ⬆️ Free uptime monitor and status page powered by GitHub <https://upptime.js.org>
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages): Awesome list of status page open source software, services and public status pages of major internet companies
-- 🌟 [naiba/nezha](https://github.com/naiba/nezha): :trollface: Self-hosted, lightweight server and website monitoring and O&M tool <https://ops.naibahq.com>
+- 🌟 [nezhahq/nezha](https://github.com/nezhahq/nezha): Self-hosted, lightweight server and website monitoring and O&M tool <https://nezha.wiki>
   - [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash): A simple dashboard for nezha. <https://nezha-dash-ruddy.vercel.app>
+  - [hamster1963/nezha-dash-v1](https://github.com/hamster1963/nezha-dash-v1)
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 现代化、开源的 Linux 服务器运维管理面板。 <https://1panel.cn/>
 - [Better Stack](https://betterstack.com/): Reliability is the ultimate feature.
 - [Oh Dear](https://ohdear.app/): the all-in-one monitoring tool for your entire website
