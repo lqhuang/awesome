@@ -49,6 +49,8 @@ Remind me about those not that familiar, less used but valued utils/tools. It's 
   - [faster-than-fast](./long-game/faster-than-fast.md)
 - The Curse of Strong Typing
   - [fp](./long-game/fp.md)
+- Cann't stand bad font rendering
+  - [typography](./topics/typography.md)
 
 ## Similar awesome
 
