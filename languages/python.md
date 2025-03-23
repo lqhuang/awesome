@@ -72,7 +72,7 @@
 - [SourceCode-AI/aura](https://github.com/SourceCode-AI/aura): Python source code auditing and static analysis on a large scale
 - [vitsalis/PyCG](https://github.com/vitsalis/PyCG): Static Python call graph generator
 - [seddonym/import-linter](https://github.com/seddonym/import-linter): Import Linter allows you to define and enforce rules for the internal and external imports within your Python project. <https://import-linter.readthedocs.io/>
-- [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps): Python dependency checker
+- 🌟 [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps): Python dependency checker
 - [PyCQA/docformatter](https://github.com/PyCQA/docformatter): Formats docstrings to follow PEP 257 <https://pypi.python.org/pypi/docformatter>
 - [ariebovenberg/slotscheck](https://github.com/ariebovenberg/slotscheck): 🎰 Ensure your `__slots__` are working properly <https://slotscheck.rtfd.io>
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs): Run `black` on python code blocks in documentation files
@@ -391,6 +391,7 @@ Templates
 - [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve): A modern CSS selector implementation for BeautifulSoup <https://facelessuser.github.io/soupsieve/>
 - [mikeckennedy/content-types](https://github.com/mikeckennedy/content-types): A Python library to map file extensions to MIME types without accessing the file data. <https://pypi.org/project/content-types/>
 - [scrapy/w3lib](https://github.com/scrapy/w3lib): Python library of web-related functions
+- 🌟 [cle-b/httpdbg](https://github.com/cle-b/httpdbg): A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program. <https://httpdbg.readthedocs.io/>
 
 ### DB clients and SQL utils
 

@@ -1,4 +1,4 @@
-# C / Linux
+# C / Cpp
 
 Also containing cpp resources though I totally understand clang and cpp are two languages.
 
@@ -30,13 +30,15 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [Nekrolm/ubbook](https://github.com/Nekrolm/ubbook): C++ programmer's guide to undefined behavior
   - in Russian
   - ENG: [C++ programmer's guide to undefined behavior: part 1 of 11](https://pvs-studio.com/en/blog/posts/cpp/1129/)
+- [Software optimization resources - Agner](https://www.agner.org/optimize/)
 
-### Readings
+### References
 
-- [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc): Beej's Guide to C Programming source <https://beej.us/guide/bgc/html/split>
+- 🌟 [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc): Beej's Guide to C Programming source <https://beej.us/guide/bgc/html/split>
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 - [C++ reference](https://en.cppreference.com/w/)
 - [C reference](https://en.cppreference.com/w/c)
+- 🌟 [The C programming language](https://www.c-language.org/)
 - [Clang documentation](https://clang.llvm.org/docs/)
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines): The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++ <http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines>
   - [Memory Management, C++ FAQ](https://isocpp.org/wiki/faq/freestore-mgmt)
@@ -46,7 +48,6 @@ Also containing cpp resources though I totally understand clang and cpp are two 
   - [mitjafelicijan/makext](https://github.com/mitjafelicijan/makext): QOL Extensions for GNU Make
 - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
   - [cmuratori/computer_enhance](https://github.com/cmuratori/computer_enhance): Source code for the https://computerenhance.com programming series
-- [Software optimization resources - Agner](https://www.agner.org/optimize/)
 - [mcinglis/c-style](https://github.com/mcinglis/c-style): My favorite C programming practices.
 - [How to Actually Write C](https://zackoverflow.dev/writing/how-to-actually-write-c): How to actually write non-trivial programs in C
 - [Why You Need Sccache](https://elijahpotter.dev/articles/why_you_need_sccache): You might not actually need it.
@@ -222,6 +223,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [flame/blis](https://github.com/flame/blis): BLAS-like Library Instantiation Software Framework
 - [WojciechMula/sse4-strstr](https://github.com/WojciechMula/sse4-strstr): SIMD (SWAR/SSE/SSE4/AVX2/AVX512F/ARM Neon) of Karp-Rabin algorithm's modification <http://0x80.pl/articles/simd-strfind.html>
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library <https://dpilger26.github.io/NumCpp>
+- [halide/Halide](https://github.com/halide/Halide): a language for fast, portable data-parallel computation <https://halide-lang.org>
 
 ## Utils
 

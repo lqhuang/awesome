@@ -12,6 +12,7 @@
 - [apache/buildstream](https://github.com/apache/buildstream): BuildStream, the software integration tool <https://buildstream.build/>
 - [buildbarn/bb-deployments](https://github.com/buildbarn/bb-deployments): Example deployments of Buildbarn on various platforms
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit): A pre-commit hook for Ruff.
+- [package-url/purl-spec](https://github.com/package-url/purl-spec): A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby <https://github.com/package-url/purl-spec>
 
 ## Build systems
 
@@ -158,6 +159,7 @@ Build cache
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action): Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space): ⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [hendrikmuhs/ccache-action](https://github.com/hendrikmuhs/ccache-action): github action to speedup building using ccache
+- [actions/labeler](https://github.com/actions/labeler): An action for automatically labelling pull requests
 
 ### GitHub Action Runner
 

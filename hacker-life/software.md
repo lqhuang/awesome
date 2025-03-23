@@ -50,6 +50,13 @@
 
 ## macOS / iPadOS
 
+### Highlights / Best choices IMHO
+
+- 🌟 [AlDente](https://apphousekitchen.com/): The ALL-IN-ONE charge Limiter App for MacBooks.
+- 🌟 [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac): Automatically audit your Mac for basic security hygiene. <https://paretosecurity.com>
+- 🌟 [Timemator](https://timemator.com/): Tracks your time while you work. Automatically.
+- 🌟 [Optimage](https://optimage.app/): Advanced image optimization tool Automatically compress images achieving the highest compression ratio at consistent image quality.
+
 ### Open Source
 
 - [dsully/macos-defaults](https://github.com/dsully/macos-defaults): A tool for managing macOS defaults declaratively via YAML files.
@@ -97,13 +104,14 @@
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace): AeroSpace is an i3-like tiling window manager for macOS <https://nikitabobko.github.io/AeroSpace/guide>
 - [macmade/Hot](https://github.com/macmade/Hot): Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues. <https://xs-labs.com/en/apps/hot/>
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch): TheBoringNotch: Not so boring notch That Rocks 🎸🎶 <https://theboring.name/>
+- 🌟 [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 
 ### Free / Paid
 
 - 🌟 [TopNotch](https://topnotch.app): Makes the notch disappear like a 🥷
 - [CleanShot X](https://cleanshot.com): Capture your Mac’s screen like a pro.
-- [iStat Menus](https://bjango.com/mac/istatmenus/): The ultimate system monitor for your menu bar, with CPU, GPU, memory, network, disk usage, disk activity, temperatures, fans, battery info and more.
 - 🌟 [Shottr](https://shottr.cc): Shottr is a small, fast, human-sized screenshot app built for those who care about pixels. It was crafted with Swift, optimized for M1, and is distributed for free.
+- [iStat Menus](https://bjango.com/mac/istatmenus/): The ultimate system monitor for your menu bar, with CPU, GPU, memory, network, disk usage, disk activity, temperatures, fans, battery info and more.
 - [Skim](https://skim-app.sourceforge.io): Skim is a PDF reader and note-taker for OS X. It is designed to help you read and annotate scientific papers in PDF, but is also great for viewing any PDF file.
 - [Sensei](https://cindori.com/sensei): Sensei is the ultimate app for optimizing your Mac. Featuring a wide range of advanced cleaning and monitoring features, it's never been easier to maximize your Mac performance.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more! <https://betterdisplay.pro>
@@ -116,7 +124,6 @@
 - [Battery Buddy](https://batterybuddy.app): It’s like the default battery indicator in your menu bar, but cute.
 - [minimal.](https://minimal.app): increase focus. write beautifully. A meditation-inspired writing app designed for iPhone, iPad, and Mac.
 - [Batteries for Mac](https://www.fadel.io/batteries): Track all your devices' batteries from your Mac.
-- 🌟 [AlDente](https://apphousekitchen.com/): The ALL-IN-ONE charge Limiter App for MacBooks.
 - [Shrugs.app](https://shrugs.app): Integrate macOS into your Slack experience.
 - [Sip](https://sipapp.io/): A better Color Picker for your Mac.
 - [BetterTouchTool](https://folivora.ai/): BetterTouchTool is a great, feature packed app that allows you to customize various input devices on your Mac.

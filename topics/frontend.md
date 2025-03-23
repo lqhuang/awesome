@@ -151,6 +151,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui): <https://cult-ui.com/>
 - [mui/base-ui](https://github.com/mui/base-ui): Base UI is an open-source library of accessible, unstyled UI components for React. <https://base-ui.com>
 - [Tailspark](https://tailspark.co/): Beautiful Components & Templates built in Tailwind CSS
+- [Snow Dashboard UI Kit](https://snow.byewind.com): An advanced Dashboard / SaaS UI kit and design system for Figma. It can help you quickly build Dashboard, SaaS and other projects, and has a very good user experience.
+  - paid required
 - 🌟 [hevar/awesome-react-headless-ui-components](https://github.com/hevar/awesome-react-headless-ui-components): No description, website, or topics provided.
   - it's enough to check this out
 
@@ -170,7 +172,7 @@ My own favorites:
   - [tremorlabs/tremor-raw](https://github.com/tremorlabs/tremor-raw): Copy & Paste React components to build modern web applications. <https://tremor.so>
   - in shadcn/ui style
 
-#### Shadcn UI eco system
+Shadcn UI eco system
 
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui. <https://awesome-shadcn-ui.vercel.app/>
 - [bytefer/awesome-shadcn-ui](https://github.com/bytefer/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui.
@@ -184,6 +186,7 @@ My own favorites:
 - [nyxb-ui/ui](https://github.com/nyxb-ui/ui): Fusion UI library combining Shadcn/UI and MagicUI. Featuring 150+ free and open-source components built with React, Typescript, Tailwind CSS, and Framer Motion. Create stunning, responsive interfaces effortlessly. 100% open-source. <https://nyxbui.design>
 - [serafimcloud/21st](https://github.com/serafimcloud/21st): npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks <https://21st.dev>
 - [Meschacirung/cnblocks](https://github.com/Meschacirung/cnblocks): Shadcn marketing blocks <https://nsui.irung.me>
+- [RLabs-Inc/shadcn-themes](https://github.com/RLabs-Inc/shadcn-themes): Generate themes for Shadcn UI using Sacred Geometry Patterns and modern mathematics equations mixed within Color Theory or just pick your colors for each available CSS variable. This project leverages the benefits of the OKLCH color space like perceptual lightness and others. <https://shadcn.rlabs.art>
 
 #### Svelte
 
@@ -226,6 +229,7 @@ Interactive Grid
 
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js): Build interactive dashboards in minutes. <https://gridstackjs.com/>
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic): A React tiling window manager <https://nomcopter.github.io/react-mosaic/>
+- [glen-cheney/Shuffle](https://github.com/glen-cheney/Shuffle): Categorize, sort, and filter a responsive grid of items <https://shuffle.js.org>
 
 Mention
 
@@ -360,11 +364,6 @@ Misc
 - [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride): Create guided tours in your apps <https://react-joyride.com/>
 - [uixmat/onborda](https://github.com/uixmat/onborda): An onboarding wizard flow for Next.js powered by framer motion <https://onborda.dev>
 
-#### Typography
-
-- 🌟 [shuding/react-wrap-balancer](https://github.com/shuding/react-wrap-balancer): Simple React Component That Makes Titles More Readable <https://react-wrap-balancer.vercel.app/>
-- [google/budoux](https://github.com/google/budoux): BudouX is the successor to Budou, the machine learning powered line break organizer tool.
-
 #### Markdown
 
 - 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown): Markdown component for React <https://remarkjs.github.io/react-markdown>
@@ -386,11 +385,15 @@ Misc
 - [mdx-editor/editor](https://github.com/mdx-editor/editor): A rich text editor React component for markdown <https://mdxeditor.dev/>
 - [facebook/lexical](https://github.com/facebook/lexical): Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. <https://lexical.dev>
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react): Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins <https://monaco-react.surenatoyan.com/>
-- [code-hike/codehike](https://github.com/code-hike/codehike): Marvellous code walkthroughs <https://codehike.org>
-- [code-hike/bright](https://github.com/code-hike/bright): React Server Component for syntax highlighting <https://bright.codehike.org>
 - [basecamp/trix](https://github.com/basecamp/trix): A rich text editor for everyday writing <https://trix-editor.org/>
 - [udecode/plate](https://github.com/udecode/plate): Rich-text editor with shadcn <https://platejs.org>
 - [FormidableLabs/use-editable](https://github.com/FormidableLabs/use-editable): A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)
+
+Syntax hightlight
+
+- [code-hike/codehike](https://github.com/code-hike/codehike): Marvellous code walkthroughs <https://codehike.org>
+- [code-hike/bright](https://github.com/code-hike/bright): React Server Component for syntax highlighting <https://bright.codehike.org>
+- [wooorm/refractor](https://github.com/wooorm/refractor): Lightweight, robust, elegant virtual syntax highlighting using Prism
 
 #### Animation
 
@@ -408,6 +411,7 @@ Misc
 - [greensock/GSAP](https://github.com/greensock/GSAP): GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web <https://gsap.com>
 - [animate-css/animate.css](https://github.com/animate-css/animate.css): 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. <https://animate.style/>
 - [galacean/effects-runtime](https://github.com/galacean/effects-runtime): It can load and render cool animation effects <https://www.galacean.com/effects/>
+- [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations): React-useanimations is a collection of free animated open source icons for React.js. <http://react.useanimations.com>
 
 - [barvian/motion-number](https://github.com/barvian/motion-number): A Framer Motion component that transitions, formats, and localizes numbers. <https://motion-number.barvian.me>
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy): The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. <https://Uiverse.io>
@@ -445,7 +449,7 @@ Misc
 - [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy): Access the system clipboard (copy/paste)
 - [github/clipboard-copy-element](https://github.com/github/clipboard-copy-element): Copy element text content or input values to the clipboard. <https://github.github.io/clipboard-copy-element/examples/>
 - [streamich/react-use](https://github.com/streamich/react-use): React Hooks — 👍 <http://streamich.github.io/react-use>
-- [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done right. For Browser, SSR, and React Server Components. <https://foxact.skk.moe>
+- 🌟 [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done right. For Browser, SSR, and React Server Components. <https://foxact.skk.moe>
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks): A collection of modern, server-safe React hooks – from the ui.dev team <https://usehooks.com>
 - [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that helps you debug components.
 - 🌟 [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source): A better API for making Event Source requests, with all the features of fetch()
@@ -454,14 +458,14 @@ Misc
 - 🌟 [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream): A tiny (736b) utility for Server Sent Event (SSE) streaming via `fetch` and Web Streams API
 - [MattiasBuelens/web-streams-polyfill](https://github.com/MattiasBuelens/web-streams-polyfill): Web Streams, based on the WHATWG spec reference implementation
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international): Type-safe internationalization (i18n) for Next.js <https://next-international.vercel.app>
-- [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string. <https://nuqs.47ng.com>
+- [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string. <https://nuqs.47ng.com>
 - [maslianok/react-resize-detector](https://github.com/maslianok/react-resize-detector): A Cross-Browser, Event-based, Element Resize Detection for React <http://maslianok.github.io/react-resize-detector/>
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware): ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes <https://fezvrasta.github.io/react-resize-aware>
 - 🌟 [hoppergee/heic-to](https://github.com/hoppergee/heic-to): Convert HEIC/HEIF images to JPEG, PNG in browser
-- [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string. <https://nuqs.47ng.com>
 - 🌟 [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action): Type safe and validated Server Actions in your Next.js project. <https://next-safe-action.dev>
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot): 📸 Quickly generate image from DOM node using HTML5 canvas and SVG. <https://toolpkg.com/html-to-image>
 - 🌟 [amrlabib/react-timer-hook](https://github.com/amrlabib/react-timer-hook): React timer hook <https://www.npmjs.com/package/react-timer-hook>
+- 🌟 [texel-org/color](https://github.com/texel-org/color): modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
 
 ### Misc
 
@@ -472,6 +476,7 @@ Misc
 - [gridaco/cors.sh](https://github.com/gridaco/cors.sh): Sick of CORS Errors? <https://cors.sh>
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid): A module used to arrange card elements including content infinitely on a grid layout. <https://naver.github.io/egjs-infinitegrid/>
 - [lazarv/react-server](https://github.com/lazarv/react-server): The easiest way to build React apps with server-side rendering <https://react-server.dev>
+- [freedomofpress/webcat](https://github.com/freedomofpress/webcat): WEBCAT is an architectural framework for providing blocking code signing and verification, integrity and transparency checks for browser-based applications.
 
 ## Visualization (Charts)
 
@@ -495,6 +500,7 @@ Misc
 - [toomuchdesign/react-minimal-pie-chart](https://github.com/toomuchdesign/react-minimal-pie-chart): 🍰 Lightweight but versatile SVG pie/donut charts for React. < 2kB gzipped. <https://toomuchdesign.github.io/react-minimal-pie-chart/index.html>
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts): Performant financial charts built with HTML5 canvas <https://www.tradingview.com/lightweight-charts/>
 - [paper-design/shaders](https://github.com/paper-design/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper <https://paper.design>
+- [naver/billboard.js](https://github.com/naver/billboard.js): 📊 Re-usable, easy interface JavaScript chart library based on D3.js <https://naver.github.io/billboard.js/>
 
 ### Tree / Architecture
 
@@ -510,27 +516,23 @@ Misc
 ## Design / Resources
 
 - [nealmckee/penumbra](https://github.com/nealmckee/penumbra): Penumbra Color Theme
-- 🌟 [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css): LaTeX.css is a CSS library that makes your website look like a LaTeX document <https://latex.now.sh>
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars): Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette. <https://boringavatars.com>
-- 🌟 [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks): System font stack CSS organized by typeface classification for every modern operating system
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 3400 free MIT-licensed high-quality SVG icons for you to use in your web projects. <https://tabler-icons.io>
-- [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations): React-useanimations is a collection of free animated open source icons for React.js. <http://react.useanimations.com>
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide): Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. <https://lucide.dev>
 - [antfu/icones](https://github.com/antfu/icones): ⚡️ Icon Explorer with Instant searching, powered by Iconify <https://icones.js.org/>
 - [iconify/iconify](https://github.com/iconify/iconify): Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components! <https://iconify.design>
 - [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs <https://css.gg>
-- 🌟 [Snow Dashboard UI Kit](https://snow.byewind.com): An advanced Dashboard / SaaS UI kit and design system for Figma. It can help you quickly build Dashboard, SaaS and other projects, and has a very good user experience.
-  - paid required
 - [Simple Icons](https://simpleicons.org/): 2862 Free SVG icons for popular brands
 - [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg): SVG library for React Native, React Native Web, and plain React web projects.
-- [Iconbuddy](iconbuddy.app): The ultimate source for icons.
+- [Iconbuddy](https://iconbuddy.app): The ultimate source for icons.
   - [Figma Plugin](https://dub.sh/iconbuddy-figma)
 - 🌟 [pheralb/svgl](https://github.com/pheralb/svgl): 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS. <https://svgl.app>
 - [tanem/react-svg](https://github.com/tanem/react-svg): 🎨 A React component that injects SVG into the DOM. <https://npm.im/react-svg>
 - [feathericons/feather](https://github.com/feathericons/feather): Simply beautiful open-source icons <https://feathericons.com>
-- [texel-org/color](https://github.com/texel-org/color): modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
 - [Nucleo: The ultimate icon bundle](https://nucleoapp.com/)
 - [Streamline: Your Ultimate Icon Library](https://www.streamlinehq.com/)
+- 🌟 [gilbarbara/logos](https://github.com/gilbarbara/logos): A huge collection of SVG logos <http://svgporn.com/>
+- [devicons/devicon](https://github.com/devicons/devicon): Set of icons representing programming languages, designing & development tools <https://devicon.dev>
 
 ## Further topics
 

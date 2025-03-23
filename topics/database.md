@@ -170,7 +170,7 @@
 - [Snaplet](https://www.snaplet.dev/): Get instant seed data for your relational database
   - Looks like no open source otpion currently
   - Update: Aug, 2024: break-up and accuired by Supabase. Now OSS ...
-- [PowerSync](https://www.powersync.com/): Backend DB <> SQLite sync engine. Build local-first apps with instantly-responsive UI/UX and simplified state transfer.
+- [sqldef/sqldef](https://github.com/sqldef/sqldef): Idempotent schema management for MySQL, PostgreSQL, and more <https://sqldef.github.io>
 
 ### ERD
 

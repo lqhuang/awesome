@@ -184,6 +184,7 @@
   - [grafana/mimir](https://github.com/grafana/mimir): Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. <https://grafana.com/oss/mimir/>
   - [softwaremill/meerkat](https://github.com/softwaremill/meerkat): Bootzooka, but for observability
   - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus): A docker-compose stack for Prometheus monitoring
+  - [fhemberger/prometheus-formatter](https://github.com/fhemberger/prometheus-formatter): Browser extension which makes plain Prometheus/OpenMetrics endpoints easier to read
 - [Polar Signals](https://www.polarsignals.com/): Polar Signals Cloud is an always-on, zero-instrumentation continuous profiling product that helps improve performance, understand incidents, and lower infrastructure costs.
 - [perses/perses](https://github.com/perses/perses): The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! <https://demo.perses.dev>
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent): The production-scale datacenter profiler
@@ -245,6 +246,7 @@
 - [joelparkerhenderson/architecture-decision-record](https://github.com/joelparkerhenderson/architecture-decision-record): Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 - 🌟 [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中英文对译版本
 - [SkillSets](https://skillsets.tech/): Discover the most wanted skills by recruiters. Browse skills required for your job position.
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated coding interview preparation materials for busy software engineers <https://www.techinterviewhandbook.org>
 
 ### Open Source & Community
 

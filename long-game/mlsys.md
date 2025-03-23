@@ -68,7 +68,7 @@
 - [chiphuyen/machine-learning-systems-design](https://github.com/chiphuyen/machine-learning-systems-design): A booklet on machine learning systems design with exercises. NOT the repo for the book "Designing Machine Learning Systems" <https://huyenchip.com/machine-learning-systems-design/toc.html>
 - [stas00/ml-engineering](https://github.com/stas00/ml-engineering): Machine Learning Engineering Open Book <https://stasosphere.com/machine-learning/>
 
-## Framework and libraries
+## Frameworks
 
 ### General framework / Training
 
@@ -79,15 +79,12 @@
 - [online-ml/river](https://github.com/online-ml/river): 🌊 Online machine learning in Python <https://riverml.xyz>
 - 🌟 [geohot/tinygrad](https://github.com/geohot/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ <https://tinygrad.org/>
 - [intelligent-machine-learning/dlrover](https://github.com/intelligent-machine-learning/dlrover): DLRover: An Automatic Distributed Deep Learning System
-- [thu-ml/tianshou](https://github.com/thu-ml/tianshou): An elegant PyTorch deep reinforcement learning library. <https://tianshou.readthedocs.io>
 - [pycaret/pycaret](https://github.com/pycaret/pycaret): An open-source, low-code machine learning library in Python <https://www.pycaret.org>
 - 🌟 [intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex): Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application <https://intel.github.io/scikit-learn-intelex/>
 - [mlpack/mlpack](https://github.com/mlpack/mlpack): mlpack: a fast, header-only C++ machine learning library <https://www.mlpack.org/>
 - [adap/flower](https://github.com/adap/flower): Flower: A Friendly Federated Learning Framework <https://flower.dev>
-- [facebookresearch/Pearl](https://github.com/facebookresearch/Pearl): A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta.
 - [salesforce/jaxformer](https://github.com/salesforce/jaxformer): Minimal library to train LLMs on TPU in JAX with pjit().
 - [elixir-nx/nx](https://github.com/elixir-nx/nx): Multi-dimensional arrays (tensors) and numerical definitions for Elixir
-- [CarperAI/trlx](https://github.com/CarperAI/trlx): A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
 - [huggingface/ratchet](https://github.com/huggingface/ratchet): A cross-platform browser ML framework. <https://ratchet.sh>
 - 🌟 [mosaicml/composer](https://github.com/mosaicml/composer): Supercharge Your Model Training <http://docs.mosaicml.com>
   - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry): LLM training code for MosaicML foundation models <https://www.mosaicml.com/blog/mpt-7b>
@@ -96,7 +93,6 @@
 - [databricks/megablocks](https://github.com/databricks/megablocks): MegaBlocks is a light-weight library for mixture-of-experts (MoE) training.
 - [pytorch/tnt](https://github.com/pytorch/tnt): A lightweight library for PyTorch training tools and utilities <https://pytorch.org/tnt/>
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi): Everything you need to build state-of-the-art foundation models, end-to-end. <https://oumi.ai>
-- [huggingface/trl](https://github.com/huggingface/trl): Train transformer language models with reinforcement learning. <http://hf.co/docs/trl>
 
 ### Optimization
 
@@ -201,16 +197,7 @@ General problems
 - [predibase/lorax](https://github.com/predibase/lorax): Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs <https://predibase.github.io/lorax/>
 - [zml/zml](https://github.com/zml/zml): Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild <https://docs.zml.ai>
   - Interesting ideas
-
-### Benchmark
-
-- [mli/transformers-benchmarks](https://github.com/mli/transformers-benchmarks): real Transformer TeraFLOPS on various GPUs
-- [openai/evals](https://github.com/openai/evals): Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
-- [tensorchord/inference-benchmark](https://github.com/tensorchord/inference-benchmark): WIP Benchmark for machine learning model online serving (LLM, embedding, Stable-Diffusion, Whisper)
-- [mlcommons/algorithmic-efficiency](https://github.com/mlcommons/algorithmic-efficiency): MLCommons Algorithmic Efficiency is a benchmark and competition measuring neural network training speedups due to algorithmic improvements in both training algorithms and models. <https://mlcommons.org/en/groups/research-algorithms/>
-- [mlcommons/training](https://github.com/mlcommons/training): Reference implementations of MLPerf™ training benchmarks <https://mlcommons.org/en/groups/training>
-- [mlcommons/inference](https://github.com/mlcommons/inference): Reference implementations of MLPerf™ inference benchmarks <https://mlcommons.org/en/groups/inference>
-- [mlcommons/logging](https://github.com/mlcommons/logging): MLPerf™ logging library <https://mlcommons.org/en/groups/best-practices-benchmark-infra>
+- [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo): A Datacenter Scale Distributed Inference Serving Framework
 
 ### Workflow pipeline / MLOps
 
@@ -236,16 +223,14 @@ General problems
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio): Label Studio is a multi-type data labeling and annotation tool with standardized output format <https://labelstud.io>
 - [comet-ml/kangas](https://github.com/comet-ml/kangas): 🦘 Explore multimedia datasets at scale <https://github.com/comet-ml/kangas/wiki>
 - [aimhubio/aim](https://github.com/aimhubio/aim): Aim 💫 — An easy-to-use & supercharged open-source experiment tracker. <https://aimstack.io>
+- [facebook/Ax](https://github.com/facebook/Ax): Adaptive Experimentation Platform <https://ax.dev>
 
-## Tensor inference
+### Computing resource scheduler
 
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass): CUDA Templates for Linear Algebra Subroutines
-- [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT): NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference applications. <https://developer.nvidia.com/tensorrt>
-- [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub): NVIDIA curated collection of educational resources related to general purpose GPU programming.
-- [google/XNNPACK](https://github.com/google/XNNPACK): High-efficiency floating-point neural network inference operators for mobile, server, and Web
-- [Azure/MS-AMP](https://github.com/Azure/MS-AMP): Microsoft Automatic Mixed Precision Library <https://azure.github.io/MS-AMP/>
+- [leptonai/gpud](https://github.com/leptonai/gpud): GPUd is designed to ensure GPU efficiency and reliability by actively monitoring GPUs and effectively managing AI/ML workloads.
+- [run-ai/genv](https://github.com/run-ai/genv): GPU environment and cluster management with LLM support <https://www.genv.dev>
 
-## Compiler
+## Compiler and low levels libs
 
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers): A list of awesome compiler projects and papers for tensor computation and deep learning.
 - 🌟 [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler stack for cpu, gpu and specialized accelerators <https://tvm.apache.org>
@@ -272,28 +257,38 @@ General problems
 - [AliveToolkit/alive2](https://github.com/AliveToolkit/alive2): Automatic verification of LLVM optimizations
 - [iree-org/iree](https://github.com/iree-org/iree): A retargetable MLIR-based machine learning compiler and runtime toolkit. <http://iree.dev/>
 - [llvm/eudsl](https://github.com/llvm/eudsl): Embedded Universal DSL: a good DSL for us, by us
+- [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial): MLIR For Beginners tutorial
 
-## Autodiff
+### Tensor inference
 
-- [facebookresearch/shumai](https://github.com/facebookresearch/shumai): Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
-- [google/tangent](https://github.com/google/tangent): Source-to-Source Debuggable Derivatives in Pure Python
-  - [srush/tangent](https://github.com/srush/tangent): Source-to-Source Debuggable Derivatives in Pure Python
-  - [srush/triton-autodiff](https://github.com/srush/triton-autodiff): Experiment of using Tangent to autodiff triton
-- [aesara-devs/aesara](https://github.com/aesara-devs/aesara): Aesara is a Python library for defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays. <https://aesara.readthedocs.io>
-- [google/autobound](https://github.com/google/autobound): AutoBound automatically computes upper and lower bounds on functions.
-- [gtn-org/gtn](https://github.com/gtn-org/gtn): Automatic differentiation with weighted finite-state transducers.
-- [mitsuba-renderer/drjit](https://github.com/mitsuba-renderer/drjit): Dr.Jit — A Just-In-Time-Compiler for Differentiable Rendering
-- [taichi-dev/taichi](https://github.com/taichi-dev/taichi): Productive & portable high-performance programming in Python. <https://taichi-lang.org>
-- [taichi-dev/difftaichi](https://github.com/taichi-dev/difftaichi): 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
-- [NVIDIA/warp](https://github.com/NVIDIA/warp): A Python framework for high performance GPU simulation and graphics <https://nvidia.github.io/warp/>
-- [autodiff/autodiff](https://github.com/autodiff/autodiff): automatic differentiation made easier for C++ <https://autodiff.github.io>
-- [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph): A machine learning library for Rust.
-- [parrt/autodx](https://github.com/parrt/autodx): Simple automatic differentiation via operator overloading for educational purposes
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass): CUDA Templates for Linear Algebra Subroutines
+- [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT): NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference applications. <https://developer.nvidia.com/tensorrt>
+- [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub): NVIDIA curated collection of educational resources related to general purpose GPU programming.
+- [google/XNNPACK](https://github.com/google/XNNPACK): High-efficiency floating-point neural network inference operators for mobile, server, and Web
+- [Azure/MS-AMP](https://github.com/Azure/MS-AMP): Microsoft Automatic Mixed Precision Library <https://azure.github.io/MS-AMP/>
+- [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl): NVIDIA Inference Xfer Library (NIXL)
+- [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python): CUDA Python: Performance meets Productivity <https://nvidia.github.io/cuda-python/>
+- [NVIDIA/nvmath-python](https://github.com/NVIDIA/nvmath-python): NVIDIA Math Libraries for the Python Ecosystem <https://docs.nvidia.com/cuda/nvmath-python/>
 
-## Computing resource scheduler
+## Specific Topics
 
-- [leptonai/gpud](https://github.com/leptonai/gpud): GPUd is designed to ensure GPU efficiency and reliability by actively monitoring GPUs and effectively managing AI/ML workloads.
-- [run-ai/genv](https://github.com/run-ai/genv): GPU environment and cluster management with LLM support <https://www.genv.dev>
+## Reinforcement Learning
+
+- [thu-ml/tianshou](https://github.com/thu-ml/tianshou): An elegant PyTorch deep reinforcement learning library. <https://tianshou.readthedocs.io>
+- 🌟 [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib): Simplifying reinforcement learning for complex game environments <https://puffer.ai/>
+- [facebookresearch/Pearl](https://github.com/facebookresearch/Pearl): A Production-ready Reinforcement Learning AI Agent Library brought by the Applied Reinforcement Learning team at Meta.
+- [CarperAI/trlx](https://github.com/CarperAI/trlx): A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
+- [huggingface/trl](https://github.com/huggingface/trl): Train transformer language models with reinforcement learning. <http://hf.co/docs/trl>
+- [allenai/RL4LMs](https://github.com/allenai/RL4LMs): A modular RL library to fine-tune language models to human preferences <https://rl4lms.apps.allenai.org>
+
+JAX Special
+
+- [keraJLi/rejax](https://github.com/keraJLi/rejax): Rejax is a library of RL algorithms which are implemented in pure Jax.
+- [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl): Really Fast End-to-End Jax RL Implementations
+  - [Achieving Over 4000x Speedups and Meta-Evolving Discoveries with PureJaxRL](https://chrislu.page/blog/meta-disco/)
+  - [PureJaxRL Resources](https://github.com/luchris429/purejaxrl/blob/main/RESOURCES.md)
+- [RobertTLange/gymnax](https://github.com/RobertTLange/gymnax): RL Environments in JAX 🌍
+  - [RobertTLange/gymnax-blines](https://github.com/RobertTLange/gymnax-blines): Baselines for gymnax 🤖
 
 ## Jax ecology
 
@@ -355,15 +350,6 @@ PGM / Probabilistic programming
 - [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro): Probabilistic programming with NumPy powered by JAX for autograd and JIT compilation to GPU/TPU/CPU. <https://num.pyro.ai>
 - [geraschenko/gmrfs](https://github.com/geraschenko/gmrfs): Gaussian Markov Random Fields (GMRFs) and Integrated Nested Laplace Approximation (INLA)
 
-RL
-
-- [keraJLi/rejax](https://github.com/keraJLi/rejax): Rejax is a library of RL algorithms which are implemented in pure Jax.
-- [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl): Really Fast End-to-End Jax RL Implementations
-  - [Achieving Over 4000x Speedups and Meta-Evolving Discoveries with PureJaxRL](https://chrislu.page/blog/meta-disco/)
-  - [PureJaxRL Resources](https://github.com/luchris429/purejaxrl/blob/main/RESOURCES.md)
-- [RobertTLange/gymnax](https://github.com/RobertTLange/gymnax): RL Environments in JAX 🌍
-  - [RobertTLange/gymnax-blines](https://github.com/RobertTLange/gymnax-blines): Baselines for gymnax 🤖
-
 ### DeepMind specialization
 
 - [Using JAX to accelerate our research](https://www.deepmind.com/blog/using-jax-to-accelerate-our-research)
@@ -409,11 +395,27 @@ RL
 - [google-research/kauldron](https://github.com/google-research/kauldron): Modular, scalable library to train ML models <https://kauldron.readthedocs.io/>
 - [google/ml_collections](https://github.com/google/ml_collections): ML Collections is a library of Python Collections designed for ML use cases. <https://ml-collections.readthedocs.io/>
 
-### Utils
+### Manipulating and transforming Ops
 
+- [google/pyglove](https://github.com/google/pyglove): Manipulating Python Programs
+- 🌟 [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning operations reinvented (for pytorch, tensorflow, jax and others) <https://einops.rocks>
+- 🌟 [fferflo/einx](https://github.com/fferflo/einx): Universal Tensor Operations in Einstein-Inspired Notation for Python. <https://einx.readthedocs.io/en/stable/>
+- [google-deepmind/tree](https://github.com/google-deepmind/tree): tree is a library for working with nested data structures <https://tree.readthedocs.io>
+- [NeilGirdhar/tjax](https://github.com/NeilGirdhar/tjax): Tools for JAX
+- [google-research/dataclass_array](https://github.com/google-research/dataclass_array): Dataclasses manipulated as numpy arrays (with batching, reshape, slicing,...) <https://dataclass-array.readthedocs.io>
+- [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses): Pytrees + dataclasses ❤️
+- [Artur-Galstyan/statedict2pytree](https://github.com/Artur-Galstyan/statedict2pytree): No description, website, or topics provided.
+- 🌟 [metaopt/optree](https://github.com/metaopt/optree): OpTree: Optimized PyTree Utilities <https://optree.readthedocs.io>
 - [ayaka14732/einshard](https://github.com/ayaka14732/einshard): High-level array sharding API for JAX <https://einshard.readthedocs.io/>
 - [yixiaoer/einshard](https://github.com/yixiaoer/einshard): Einsum-like high-level array sharding API for JAX <https://einshard.readthedocs.io/>
 - [pymc-devs/pytensor](https://github.com/pymc-devs/pytensor): PyTensor allows you to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays. <https://pytensor.readthedocs.io>
+
+### Utils
+
+- [xl0/lovely-jax](https://github.com/xl0/lovely-jax): JAX Arrays for human consumption <https://xl0.github.io/lovely-jax>
+- [BirkhoffG/jax-dataloader](https://github.com/BirkhoffG/jax-dataloader): Pytorch-like dataloaders in JAX. <https://birkhoffg.github.io/jax-dataloader/>
+- [dlwh/jax_sourceror](https://github.com/dlwh/jax_sourceror): Turn jitted jax functions back into python source code
+- [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector <https://pypi.org/project/jax-smi/>
 
 ## Libraries
 
@@ -424,27 +426,30 @@ RL
 - [huggingface/evaluate](https://github.com/huggingface/evaluate): 🤗 Evaluate: A library for easily evaluating machine learning models and datasets. <https://huggingface.co/docs/evaluate>
 - [mosaicml/streaming](https://github.com/mosaicml/streaming): A Data Streaming Library for Efficient Neural Network Training <https://streaming.docs.mosaicml.com>
 
-## Typing
+### Autodiff
+
+- [facebookresearch/shumai](https://github.com/facebookresearch/shumai): Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
+- [google/tangent](https://github.com/google/tangent): Source-to-Source Debuggable Derivatives in Pure Python
+  - [srush/tangent](https://github.com/srush/tangent): Source-to-Source Debuggable Derivatives in Pure Python
+  - [srush/triton-autodiff](https://github.com/srush/triton-autodiff): Experiment of using Tangent to autodiff triton
+- [aesara-devs/aesara](https://github.com/aesara-devs/aesara): Aesara is a Python library for defining, optimizing, and efficiently evaluating mathematical expressions involving multi-dimensional arrays. <https://aesara.readthedocs.io>
+- [google/autobound](https://github.com/google/autobound): AutoBound automatically computes upper and lower bounds on functions.
+- [gtn-org/gtn](https://github.com/gtn-org/gtn): Automatic differentiation with weighted finite-state transducers.
+- [mitsuba-renderer/drjit](https://github.com/mitsuba-renderer/drjit): Dr.Jit — A Just-In-Time-Compiler for Differentiable Rendering
+- [taichi-dev/taichi](https://github.com/taichi-dev/taichi): Productive & portable high-performance programming in Python. <https://taichi-lang.org>
+- [taichi-dev/difftaichi](https://github.com/taichi-dev/difftaichi): 10 differentiable physical simulators built with Taichi differentiable programming (DiffTaichi, ICLR 2020)
+- [NVIDIA/warp](https://github.com/NVIDIA/warp): A Python framework for high performance GPU simulation and graphics <https://nvidia.github.io/warp/>
+- [autodiff/autodiff](https://github.com/autodiff/autodiff): automatic differentiation made easier for C++ <https://autodiff.github.io>
+- [charles-r-earp/autograph](https://github.com/charles-r-earp/autograph): A machine learning library for Rust.
+- [parrt/autodx](https://github.com/parrt/autodx): Simple automatic differentiation via operator overloading for educational purposes
+
+### Typing
 
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping): Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
 - [pytorch/ao](https://github.com/pytorch/ao): The missing pytorch dtype and layout library for training and inference
 
-## Manipulating and transforming
-
-- [xl0/lovely-jax](https://github.com/xl0/lovely-jax): JAX Arrays for human consumption <https://xl0.github.io/lovely-jax>
-- [google/pyglove](https://github.com/google/pyglove): Manipulating Python Programs
-- 🌟 [arogozhnikov/einops](https://github.com/arogozhnikov/einops): Deep learning operations reinvented (for pytorch, tensorflow, jax and others) <https://einops.rocks>
-- 🌟 [fferflo/einx](https://github.com/fferflo/einx): Universal Tensor Operations in Einstein-Inspired Notation for Python. <https://einx.readthedocs.io/en/stable/>
-- [google-deepmind/tree](https://github.com/google-deepmind/tree): tree is a library for working with nested data structures <https://tree.readthedocs.io>
-- [NeilGirdhar/tjax](https://github.com/NeilGirdhar/tjax): Tools for JAX
-- [google-research/dataclass_array](https://github.com/google-research/dataclass_array): Dataclasses manipulated as numpy arrays (with batching, reshape, slicing,...) <https://dataclass-array.readthedocs.io>
-- [brentyi/jax_dataclasses](https://github.com/brentyi/jax_dataclasses): Pytrees + dataclasses ❤️
-- [Artur-Galstyan/statedict2pytree](https://github.com/Artur-Galstyan/statedict2pytree): No description, website, or topics provided.
-- [BirkhoffG/jax-dataloader](https://github.com/BirkhoffG/jax-dataloader): Pytorch-like dataloaders in JAX. <https://birkhoffg.github.io/jax-dataloader/>
-- 🌟 [metaopt/optree](https://github.com/metaopt/optree): OpTree: Optimized PyTree Utilities <https://optree.readthedocs.io>
-
-## Data store and Data loading
+### Data store and Data loading
 
 - [dmlc/dlpack](https://github.com/dmlc/dlpack): common in-memory tensor structure <https://dmlc.github.io/dlpack/latest>
 - [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor): C++ tensors with broadcasting and lazy computing
@@ -457,8 +462,9 @@ RL
 - [coreweave/tensorizer](https://github.com/coreweave/tensorizer): Module, Model, and Tensor Serialization/Deserialization
 - [facebookresearch/stopes](https://github.com/facebookresearch/stopes): A library for preparing data for machine translation research (monolingual preprocessing, bitext mining, etc.) built by the FAIR NLLB team. <https://facebookresearch.github.io/stopes/>
 - [google/seqio](https://github.com/google/seqio): Task-based datasets, preprocessing, and evaluation for sequence models.
+- [NVIDIA/DALI](https://github.com/NVIDIA/DALI): A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications. <https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html>
 
-## Utils
+### Utils
 
 - [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit): Build and run containers leveraging NVIDIA GPUs
 - [nvidia/container-images/cuda](https://gitlab.com/nvidia/container-images/cuda): Nvidia CUDA Linux Container Image Sources
@@ -471,19 +477,21 @@ RL
 - [Syllo/nvtop](https://github.com/Syllo/nvtop): GPUs process monitoring for AMD, Intel and NVIDIA
 - [msminhas93/nviwatch](https://github.com/msminhas93/nviwatch): NviWatch: A blazingly fast rust based TUI for managing and monitoring NVIDIA GPU processes
 - [wookayin/gpustat](https://github.com/wookayin/gpustat): 📊 A simple command-line utility for querying and monitoring GPU status
-- [facebook/Ax](https://github.com/facebook/Ax): Adaptive Experimentation Platform <https://ax.dev>
 - [google/fiddle](https://github.com/google/fiddle): Fiddle is a Python-first configuration library particularly well suited to ML applications. Fiddle enables deep configurability of parameters in a program, while allowing configuration to be expressed in readable and maintainable Python code.
-- [NVIDIA/DALI](https://github.com/NVIDIA/DALI): A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications. <https://docs.nvidia.com/deeplearning/dali/user-guide/docs/index.html>
-- [dlwh/jax_sourceror](https://github.com/dlwh/jax_sourceror): Turn jitted jax functions back into python source code
-- [ayaka14732/jax-smi](https://github.com/ayaka14732/jax-smi): JAX Synergistic Memory Inspector <https://pypi.org/project/jax-smi/>
 - [pytorch/PiPPy](https://github.com/pytorch/PiPPy): Pipeline Parallelism for PyTorch
 - [fastai/fastcore](https://github.com/fastai/fastcore): Python supercharged for the fastai library <http://fastcore.fast.ai>
 - [parrt/tensor-sensor](https://github.com/parrt/tensor-sensor): The goal of this library is to generate more helpful exception messages for matrix algebra expressions for numpy, pytorch, jax, tensorflow, keras, fastai. <https://github.com/parrt/tensor-sensor>
   - looks great, but no longer active
 
-## Misc
+### Benchmark
 
-- [allenai/RL4LMs](https://github.com/allenai/RL4LMs): A modular RL library to fine-tune language models to human preferences <https://rl4lms.apps.allenai.org>
+- [mli/transformers-benchmarks](https://github.com/mli/transformers-benchmarks): real Transformer TeraFLOPS on various GPUs
+- [openai/evals](https://github.com/openai/evals): Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.
+- [tensorchord/inference-benchmark](https://github.com/tensorchord/inference-benchmark): WIP Benchmark for machine learning model online serving (LLM, embedding, Stable-Diffusion, Whisper)
+- [mlcommons/algorithmic-efficiency](https://github.com/mlcommons/algorithmic-efficiency): MLCommons Algorithmic Efficiency is a benchmark and competition measuring neural network training speedups due to algorithmic improvements in both training algorithms and models. <https://mlcommons.org/en/groups/research-algorithms/>
+- [mlcommons/training](https://github.com/mlcommons/training): Reference implementations of MLPerf™ training benchmarks <https://mlcommons.org/en/groups/training>
+- [mlcommons/inference](https://github.com/mlcommons/inference): Reference implementations of MLPerf™ inference benchmarks <https://mlcommons.org/en/groups/inference>
+- [mlcommons/logging](https://github.com/mlcommons/logging): MLPerf™ logging library <https://mlcommons.org/en/groups/best-practices-benchmark-infra>
 
 ## Happy small projects (to learn)
 

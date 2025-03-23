@@ -59,6 +59,7 @@
 - [sqlpad/sqlpad](https://github.com/sqlpad/sqlpad): Web-based SQL editor. Legacy project in maintenance mode. <https://getsqlpad.com>
 - [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai): Open-source, browser-local data exploration using DuckDB-Wasm and PRQL <https://pretzelai.github.io>
 - [StructuredLabs/preswald](https://github.com/StructuredLabs/preswald): 🐵 Preswald is a full-stack platform for building, deploying, and managing interactive data applications. It brings ingestion, storage, transformation, and visualization into a simple SDK, minimizing complexity while maintaining flexibility for both prototyping and production-grade use cases. <https://www.preswald.com/>
+- [rilldata/rill](https://github.com/rilldata/rill): Rill is a tool for effortlessly transforming data sets into powerful, opinionated dashboards using SQL. BI-as-code. <https://www.rilldata.com>
 
 # Data catlogs
 

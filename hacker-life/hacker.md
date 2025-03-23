@@ -53,6 +53,7 @@
 - 🌟 [elijah-potter/harper](https://github.com/elijah-potter/harper): The Grammar Checker for Developers <https://writewithharper.com>
 - [rrthomas/enchant](https://github.com/rrthomas/enchant): enchant spellchecking library <http://rrthomas.github.io/enchant/>
   - [pyenchant/pyenchant](https://github.com/pyenchant/pyenchant): spellchecking library for python <https://pyenchant.github.io/pyenchant/>
+- 🌟 [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect): A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). <https://huacnlee.github.io/autocorrect>
 
 ### Git
 
@@ -177,13 +178,10 @@
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws)
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): 人教版小学到大学数学
 - [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs <http://public-apis.org>
-- 🌟 [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines): Chinese copywriting guidelines for better written communication／中文文案排版指北
-- [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide): An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io <https://zh-style-guide.readthedocs.io>
 - [ruanyf/weekly](https://github.com/ruanyf/weekly): 科技爱好者周刊，每周五发布
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline): A public release of TimelineBuilder for building personal digital data timelines.
 - [USTC Hackergame](https://github.com/USTC-Hackergame)
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender): 中国节假日、调休、补班日历，ICS 格式，可供 IPhone、Google Calendar、Outlook 等客户端订阅，包含节假日 API
-- [chanind/hanzi-writer](https://github.com/chanind/hanzi-writer): Chinese character stroke order animations and practice quizzes <https://hanziwriter.org>
 - [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world <https://iptv-org.github.io>
 - [自己动手写 Git](https://wyag-zh.hanyujie.xyz/): 从零开始写 Git（Write Yourself a Git，简称 wyag） 的中文翻译 | Chinese translation of Write Yourself a Git
 - [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead): the website blocklist I am maintaining
@@ -234,7 +232,10 @@
   - crazy ...
 - [popcar2/BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist): A filter that blocks spam & misleading websites from appearing in search results via uBlocklist
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
+  - Deprecate finally ...
+  - It also block `openai.com` ...
 - 🌟 [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac): Automatically audit your Mac for basic security hygiene. <https://paretosecurity.com>
+- 🌟 [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker): A tool for checking the security hardening options of the Linux kernel
 
 ## Open Source Software: State, Progress and Future
 

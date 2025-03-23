@@ -73,6 +73,7 @@
 ## Toolchains
 
 - [ndmitchell/shake](https://github.com/ndmitchell/shake): Shake build system <http://shakebuild.com>
+  - [mpickering/build-systems](https://github.com/mpickering/build-systems): Understanding build systems
 - [gitlab - ghc/Hadrian](https://gitlab.haskell.org/ghc/ghc/-/tree/master/hadrian): Hadrian is the build system for the Glasgow Haskell Compiler. It is based on the Shake library.
 - [sol/hpack](https://github.com/sol/hpack): hpack: A modern format for Haskell packages
 - [hspec/hspec](https://github.com/hspec/hspec): A Testing Framework for Haskell <https://hspec.github.io/>

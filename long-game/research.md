@@ -69,6 +69,7 @@
 - [mathquill/mathquill](https://github.com/mathquill/mathquill): Easily type math in your webapp <http://mathquill.com>
 - [FudanSELab/academic-writing-guide](https://github.com/FudanSELab/academic-writing-guide): 一些关于写论文的教程,防止犯一些低级错误
 - [arnog/mathlive](https://github.com/arnog/mathlive): A web component for easy math input <https://cortexjs.io/mathlive>
+- [textext/textext](https://github.com/textext/textext): Re-editable LaTeX/ typst graphics for Inkscape <https://textext.github.io/textext/>
 
 ### LaTex
 
@@ -121,6 +122,7 @@
 - [typst/typst](https://github.com/typst/typst): A new markup-based typesetting system that is powerful and easy to learn. <https://typst.app>
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new language server for Typst, plus a VS Code extension
 - [Leedehai/typst-physics](https://github.com/Leedehai/typst-physics): physica: vectors, fields, differentials, derivatives, Dirac brakets, tensors, and more. See examples in the manual PDF. <https://github.com/Leedehai/typst-physics>
+- [messense/typst-py](https://github.com/messense/typst-py): Python binding to typst
 
 ### Bib
 

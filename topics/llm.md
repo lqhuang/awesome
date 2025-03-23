@@ -6,6 +6,7 @@
 - 🌟 [ray-project/llm-numbers](https://github.com/ray-project/llm-numbers): Numbers every LLM developer should know
 - [wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note): 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题 <https://wdndev.github.io/llm_interview_note>
 - [wdndev/tiny-llm-zh](https://github.com/wdndev/tiny-llm-zh): 从零实现一个小参数量中文大语言模型。
+- [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄 A curated list of awesome .cursorrules files <https://github.com/PatrickJS/awesome-cursorrules>
 
 ## Research
 

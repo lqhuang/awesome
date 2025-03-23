@@ -29,6 +29,7 @@
 - [Quick Tips for Fast Code on the JVM](https://gist.github.com/djspiewak/464c11307cabc80171c90397d4ec34ef)
 - [Abdullahsab3/scala-native-intro](https://github.com/Abdullahsab3/scala-native-intro): A Gentle Introduction to Scala Native
 - [How to Improve JVM-Based Application Startup Time?](https://softwaremill.com/how-to-improve-jvm-based-application-startup-time/): This blog post compares different approaches to speeding up JVM startup time.
+- [softwaremill/scalatimes](https://github.com/softwaremill/scalatimes): <http://scalatimes.com/>
 
 ### Exercises
 
@@ -40,6 +41,10 @@
 - [David's programming examples knowledge base](https://gist.github.com/dacr/c071a7b7d3de633281cbe84a34be47f1)
 - [kubukoz/scala.beauty](https://github.com/kubukoz/scala.beauty): A place for sharing beautiful Scala snippets.
 - [zhongl/type-driven-development-with-scala3](https://github.com/zhongl/type-driven-development-with-scala3): Inspired by Edwin Brady's book "Type-Driven Development with Idris", this project attempts to solve some puzzles in the book using Scala 3.
+- [yadavan88/data-plumber](https://github.com/yadavan88/data-plumber): Moving your data through pipes, with ease!
+  - [Series - Data Plumber - Data Integration Pipeline](https://yadukrishnan.live/series/data-plumber)
+- [yadavan88/cats-effect-intro](https://github.com/yadavan88/cats-effect-intro): An introduction to Cats Effect 3.
+  - [Series - Scala: Cats Effect](https://yadukrishnan.live/series/cats-effect)
 
 ## Master these you rule the world
 
@@ -281,7 +286,6 @@ Do a benchmark (final size while using Scala Native) for them?
 ## Tools
 
 - [JD557/interim](https://github.com/JD557/interim): Immediate mode GUI in pure Scala
-- [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>
 - [scalapy/scalapy](https://github.com/scalapy/scalapy): Use the world of Python from the comfort of Scala!
 - [almond-sh/almond](https://github.com/almond-sh/almond): A Scala kernel for Jupyter <https://almond.sh>
 - [polynote/polynote](https://github.com/polynote/polynote): A better notebook for Scala (and more) <https://polynote.org>
@@ -290,6 +294,9 @@ Do a benchmark (final size while using Scala Native) for them?
 - [felher/s3te](https://github.com/felher/s3te): A scala 3 tree explorer for the reflect module
 - [nrinaudo/kantan.csv](https://github.com/nrinaudo/kantan.csv): CSV handling library for Scala <http://nrinaudo.github.io/kantan.csv/>
 - [bertramdev/hcl4j](https://github.com/bertramdev/hcl4j): HCL is the Hashicorp Configuration Language used in Terraform. This is a java Parser for parsing HCL and converting to Map objects.
+- [VirtusLab/besom](https://github.com/VirtusLab/besom): Besom - a Pulumi SDK for Scala. Also, incidentally, a broom made of twigs tied round a stick. Brooms and besoms are used for protection, to ward off evil spirits, and cleansing of ritual spaces. <https://virtuslab.github.io/besom/>
+  - [VirtusLab/yaga](https://github.com/VirtusLab/yaga): No description, website, or topics provided.
+  - [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>
 
 ## Frameworks
 

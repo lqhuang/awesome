@@ -133,12 +133,16 @@
 - [lovell/farmhash](https://github.com/lovell/farmhash): Node.js implementation of FarmHash, Google's family of high performance hash functions
 - [mixpanel/fuzzbunny](https://github.com/mixpanel/fuzzbunny): Fast fuzzy string searching/matching/highlighting
 - [farzher/fuzzysort](https://github.com/farzher/fuzzysort): Fast SublimeText-like fuzzy search for JavaScript. <https://rawgit.com/farzher/fuzzysort/master/test/test.html>
-- [henrygd/queue](https://github.com/henrygd/queue): Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster
 - [m31coding/fuzzy-search](https://github.com/m31coding/fuzzy-search): A fast, accurate and multilingual fuzzy search library for the frontend.
 - [krisk/Fuse](https://github.com/krisk/Fuse): Lightweight fuzzy-search, in JavaScript <https://fusejs.io/>
-- [andywer/threads.js](https://github.com/andywer/threads.js): 🧵 Make web workers & worker threads as simple as a function call. <https://threads.js.org/>
 - [iliasbhal/simple-async-context](https://github.com/iliasbhal/simple-async-context): Polyfill implementing the TC39 proposal for AsyncContext.
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery): Simple and modern async event emitter
+
+### Concurrency
+
+- [andywer/threads.js](https://github.com/andywer/threads.js): 🧵 Make web workers & worker threads as simple as a function call. <https://threads.js.org/>
+- [henrygd/queue](https://github.com/henrygd/queue): Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster
+- [piscinajs/piscina](https://github.com/piscinajs/piscina): A fast, efficient Node.js Worker Thread Pool implementation <https://piscinajs.dev>
 
 ### SerDe / Schema
 
@@ -193,6 +197,10 @@
 - [nodeshift/opossum](https://github.com/nodeshift/opossum): Node.js circuit breaker - fails fast ⚡️ <https://nodeshift.dev/opossum/>
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3): The fastest and simplest library for SQLite3 in Node.js.
 - [pmndrs/react-nil](https://github.com/pmndrs/react-nil): ⃝ A react null renderer
+- [gajus/slonik](https://github.com/gajus/slonik): A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
+- [aerotoad/neboa](https://github.com/aerotoad/neboa): Type-safe NoSQL with Node & SQLite. 🌫️💽 <https://aerotoad.github.io/neboa/>
+  - mongodb for Nodejs + SQLite
+  - good idea, but no more active
 
 ### format parser / converter
 
@@ -209,6 +217,7 @@
 - [NPM: @smoores/epub](https://www.npmjs.com/package/@smoores/epub)
   - [Announcing: @smoores/epub](https://smoores.dev/post/announcing_smoores_epub/)
 - [jmaister/excellentexport](https://github.com/jmaister/excellentexport): Javascript export to Excel
+- [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver): a streaming interface for archive generation <https://www.archiverjs.com>
 
 ### PDF
 
@@ -269,15 +278,17 @@
 - 🌟 [paulmillr/chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library <https://paulmillr.com>
 - [zgrossbart/jdd](https://github.com/zgrossbart/jdd): A semantic JSON compare tool <http://www.jsondiff.com>
 - 🌟 [le0pard/re2js](https://github.com/le0pard/re2js): RE2JS is the JavaScript port of RE2, a regular expression engine that provides linear time matching <https://re2js.leopard.in.ua/>
+- [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl): Flexible Node.js AI-assisted crawler library <https://coder-hxl.github.io/x-crawl/>
 
 ## Middleware
 
 - [askorama/orama](https://github.com/askorama/orama): 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! <https://docs.oramasearch.com>
-- [tinyplex/tinybase](https://github.com/tinyplex/tinybase): The reactive data store for local‑first apps. <https://tinybase.org>
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit): A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). <https://triplit.dev>
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware): ⚡ The one-liner node.js http-proxy middleware for connect, express, next.js and more
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase): The reactive data store for local‑first apps. <https://tinybase.org>
 - [developit/web-worker](https://github.com/developit/web-worker): Consistent Web Workers in browser and Node. <https://npm.im/web-worker>
 - [tinyhttp/malibu](https://github.com/tinyhttp/malibu): 🏄 Framework-agnostic CSRF middleware for modern Node.js <https://tinyhttp.v1rtl.site/mw/malibu>
+- [cipherstash/protectjs](https://github.com/cipherstash/protectjs): Encrypt and protect data using industry standard algorithms, field level encryption, a unique data key per record, bulk encryption operations, and decryption level identity verification. <https://cipherstash.com>
 
 ## Misc
 
