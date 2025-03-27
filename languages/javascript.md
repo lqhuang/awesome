@@ -137,6 +137,7 @@
 - [krisk/Fuse](https://github.com/krisk/Fuse): Lightweight fuzzy-search, in JavaScript <https://fusejs.io/>
 - [iliasbhal/simple-async-context](https://github.com/iliasbhal/simple-async-context): Polyfill implementing the TC39 proposal for AsyncContext.
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery): Simple and modern async event emitter
+- [run-llama/fluere](https://github.com/run-llama/fluere): 🌊 is a simple, lightweight event-based workflow for JS
 
 ### Concurrency
 

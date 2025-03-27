@@ -113,6 +113,8 @@ Templates
 - [actions/python-versions](https://github.com/actions/python-versions): Python builds for Actions Runner Images
 - [hynek/setup-cached-uv](https://github.com/hynek/setup-cached-uv): Use uv in GitHub Actions by adding one line to the workflow.
 - [astral-sh/setup-uv](https://github.com/astral-sh/setup-uv): Set up your GitHub Actions workflow with a specific version of https://docs.astral.sh/uv/
+- [Free-threaded Python on GitHub Actions](https://hugovk.dev/blog/2025/free-threaded-python-on-github-actions/)
+  - Up to Mar 25, 2025
 
 ### Packaging
 
@@ -299,6 +301,10 @@ Templates
 - [benruijl/symbolica](https://github.com/benruijl/symbolica): A modern computer algebra library for Python and Rust. <https://symbolica.io>
 - [wilson-labs/cola](https://github.com/wilson-labs/cola): Compositional Linear Algebra
 - [shapely/shapely](https://github.com/shapely/shapely): Manipulation and analysis of geometric objects <https://shapely.readthedocs.io/en/stable/>
+- [pydata/sparse](https://github.com/pydata/sparse): Sparse multi-dimensional arrays for the PyData ecosystem <https://sparse.pydata.org>
+- [Quantco/tabmat](https://github.com/Quantco/tabmat): Efficient matrix representations for working with tabular data <https://tabmat.readthedocs.io/>
+- [Quantco/glum](https://github.com/Quantco/glum): High performance Python GLMs with all the features! <https://glum.readthedocs.io/>
+  - Generalized linear models (GLM)
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -366,6 +372,7 @@ Templates
 - [spec-first/connexion](https://github.com/spec-first/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support <https://connexion.readthedocs.io/en/latest>
 - 🌟 [litestar-org/litestar](https://github.com/litestar-org/litestar): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs <https://litestar.dev/>
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users): Ready-to-use and customizable users management for FastAPI <https://fastapi-users.github.io/fastapi-users/>
+- [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc): The python library for real-time communication <https://fastrtc.org/>
 
 #### Web utils
 
@@ -728,6 +735,7 @@ Templates
 - 🌟 [reflex-dev/reflex](https://github.com/reflex-dev/reflex): 🕸 Web apps in pure Python 🐍 <https://reflex.dev>
 - [pycob/pyvibe](https://github.com/pycob/pyvibe): Generate styled HTML pages from Python <https://www.pyvibe.com>
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui): Create web-based interfaces with Python. The nice way. <https://nicegui.io>
+  - ag-grid?
 - 📝 [widgetti/solara](https://github.com/widgetti/solara): A Pure Python, React-style Framework for Scaling Your and Web Apps <https://solara.dev>
   - How reactive signals design?
 - 🌟 [reactive-python/reactpy](https://github.com/reactive-python/reactpy): It's React, but in Python <https://reactpy.dev>

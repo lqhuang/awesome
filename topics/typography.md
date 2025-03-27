@@ -61,3 +61,4 @@ CJK
 - 🌟 [vincentdoerig/latex-css](https://github.com/vincentdoerig/latex-css): LaTeX.css is a CSS library that makes your website look like a LaTeX document <https://latex.now.sh>
 - 🌟 [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks): System font stack CSS organized by typeface classification for every modern operating system
 - [fontsource/fontsource](https://github.com/fontsource/fontsource): Self-host Open Source fonts in neatly bundled NPM packages. <https://fontsource.org>
+- [ZeoSeven™ Fonts](https://fonts.zeoseven.com/): Webfonts CDN in China mainland

@@ -2,6 +2,8 @@
 
 Also containing cpp resources though I totally understand clang and cpp are two languages.
 
+And modern is here now.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?theme=dark&i=c,cpp">
   <img alt="c,cpp" src="https://skillicons.dev/icons?theme=light&i=c,cpp">
@@ -11,18 +13,14 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. <http://fffaraz.github.io/awesome-cpp/>
 - 🌟 [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++ <https://awesomecpp.com>
-- [yuchdev/CppBooks](https://github.com/yuchdev/CppBooks): A comprehensive catalog of modern and classic books on C++ programming language
 - [Clang Compiler User’s Manual](https://clang.llvm.org/docs/UsersManual.html)
 - [Clang command line argument reference](https://clang.llvm.org/docs/ClangCommandLineReference.html)
-- [Learn Modern C++](https://learnmoderncpp.com/): Discover a language matched to today's computing needs
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs): List of single-file C/C++ libraries.
 - 🌟 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
   - > People love to hate build systems.
     - my comment: Yes, definitely
-- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming): Modern C++ Programming Course (C++03/11/14/17/20/23/26) <https://federico-busato.github.io/Modern-CPP-Programming/>
 - [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp): Learning how to write "Less Slow" code in C++20, from numerical micro-kernels and SIMD to coroutines, ranges, and polymorphic state machines <https://ashvardanian.com/posts/google-benchmark/>
 - 🌟 [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css): Custom CSS theme for doxygen html-documentation with lots of customization parameters. <https://jothepro.github.io/doxygen-awesome-css/>
-- [landerrosette/algs4](https://github.com/landerrosette/algs4): Algorithms, 4th edition textbook code in C++
 - [Learn Contemporary C++ | hacking C++](https://hackingcpp.com/index.html): Learn up-to-date, idiomatic C++ with code examples, concise explanations, cheat sheets and infographics. -- Lerne aktuelles, idiomatisches C++ mit Code-Beispielen, knappen Erklärungen und Infografiken.
 - [#1 The state of C++ package management: The big three - twdev.blog](https://twdev.blog/2024/08/cpp_pkgmng1)
   - [#2 The state of C++ package management: The underdogs(?) - twdev.blog](https://twdev.blog/2024/08/cpp_pkgmng2/#cpm)
@@ -31,10 +29,15 @@ Also containing cpp resources though I totally understand clang and cpp are two 
   - in Russian
   - ENG: [C++ programmer's guide to undefined behavior: part 1 of 11](https://pvs-studio.com/en/blog/posts/cpp/1129/)
 - [Software optimization resources - Agner](https://www.agner.org/optimize/)
+- 🌟 [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc): Beej's Guide to C Programming source <https://beej.us/guide/bgc/html/split>
+- [How to Actually Write C](https://zackoverflow.dev/writing/how-to-actually-write-c): How to actually write non-trivial programs in C
+- [Why You Need Sccache](https://elijahpotter.dev/articles/why_you_need_sccache): You might not actually need it.
+- [Padding and alignment in structs](https://elric.pl/blog/struct-padding): Quick explainer of byte ordering in Java class file
+- [Creating A Simple Udp Client Server Application In C](https://mohitmishra786.github.io/chessman/2024/09/25/Creating-a-Simple-UDP-Client-Server-Application-in-C.html)
+- [Mastering Memory Management: From Manual Cleanup To Smart Pointers In C And Cpp](https://mohitmishra786.github.io/chessman/2024/10/05/Mastering-Memory-Management-From-Manual-Cleanup-to-Smart-Pointers-in-C-and-Cpp.html)
 
 ### References
 
-- 🌟 [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc): Beej's Guide to C Programming source <https://beej.us/guide/bgc/html/split>
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 - [C++ reference](https://en.cppreference.com/w/)
 - [C reference](https://en.cppreference.com/w/c)
@@ -49,14 +52,13 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
   - [cmuratori/computer_enhance](https://github.com/cmuratori/computer_enhance): Source code for the https://computerenhance.com programming series
 - [mcinglis/c-style](https://github.com/mcinglis/c-style): My favorite C programming practices.
-- [How to Actually Write C](https://zackoverflow.dev/writing/how-to-actually-write-c): How to actually write non-trivial programs in C
-- [Why You Need Sccache](https://elijahpotter.dev/articles/why_you_need_sccache): You might not actually need it.
-- [Padding and alignment in structs](https://elric.pl/blog/struct-padding): Quick explainer of byte ordering in Java class file
-- [Creating A Simple Udp Client Server Application In C](https://mohitmishra786.github.io/chessman/2024/09/25/Creating-a-Simple-UDP-Client-Server-Application-in-C.html)
-- [Mastering Memory Management: From Manual Cleanup To Smart Pointers In C And Cpp](https://mohitmishra786.github.io/chessman/2024/10/05/Mastering-Memory-Management-From-Manual-Cleanup-to-Smart-Pointers-in-C-and-Cpp.html)
 
 ### Books
 
+- [landerrosette/algs4](https://github.com/landerrosette/algs4): Algorithms, 4th edition textbook code in C++
+- [yuchdev/CppBooks](https://github.com/yuchdev/CppBooks): A comprehensive catalog of modern and classic books on C++ programming language
+- [Learn Modern C++](https://learnmoderncpp.com/): Discover a language matched to today's computing needs
+- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming): Modern C++ Programming Course (C++03/11/14/17/20/23/26) <https://federico-busato.github.io/Modern-CPP-Programming/>
 - [A Tour of C++ (Third edition)](https://www.stroustrup.com/tour3.html): a brief tour of the C++ Programming language and its standard library for experienced programmers.
 - [xiaoweiChen/The-Art-of-Writing-Efficient-Programs](https://github.com/xiaoweiChen/The-Art-of-Writing-Efficient-Programs): 《The Art of Writing Efficient Programs》的非专业个人翻译
 - [xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019](https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019): 📖 作为对《C++ Concurrency in Action - SECOND EDITION》的中文翻译。
@@ -68,6 +70,7 @@ Also containing cpp resources though I totally understand clang and cpp are two 
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese): 《Effective Modern C++》- 完成翻译 <https://cntransgroup.github.io/EffectiveModernCppChinese/>
 - [xiaoweiChen/Learn-LLVM-17](https://github.com/xiaoweiChen/Learn-LLVM-17): 《Learn LLVM 17》的非专业个人翻译
 - [lkimuk/cpp-generative-metaprogramming](https://github.com/lkimuk/cpp-generative-metaprogramming): C++ Generative Metaprogramming
+- [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
 
 ## Toolchain
 

@@ -67,6 +67,7 @@
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all): rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [wolfpld/vv](https://github.com/wolfpld/vv): Terminal image viewer
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin): Human-readable ANSI sequences 🪩
+- [google/codesearch](https://github.com/google/codesearch): Fast, indexed regexp search over large file trees <http://swtch.com/~rsc/regexp/regexp4.html>
 
 ## TUI applications
 

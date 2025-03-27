@@ -111,3 +111,13 @@
 - [extism/extism](https://github.com/extism/extism): Extend anything with WebAssembly. <https://extism.org>
 - [Effect Handlers for WebAssembly](https://wasmfx.dev/)
 - [spinkube/spin-operator](https://github.com/spinkube/spin-operator): Spin Operator is a Kubernetes operator that empowers platform engineers to deploy Spin applications as custom resources to their Kubernetes clusters <https://www.spinkube.dev/docs/spin-operator/>
+- [zksecurity/wasmati](https://github.com/zksecurity/wasmati): Write low-level WebAssembly, from JavaScript
+- [bytecodealliance/registry](https://github.com/bytecodealliance/registry): WebAssembly Registry (Warg)
+
+### The WebAssembly Component Model
+
+Spec: [WebAssembly/component-model](https://github.com/WebAssembly/component-model): Repository for design and specification of the Component Model
+
+- [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen): A language binding generator for WebAssembly interface types
+- [bytecodealliance/jco](https://github.com/bytecodealliance/jco): JavaScript toolchain for working with WebAssembly Components <https://bytecodealliance.github.io/jco/>
+- [bytecodealliance/componentize-py](https://github.com/bytecodealliance/componentize-py): No description, website, or topics provided.
