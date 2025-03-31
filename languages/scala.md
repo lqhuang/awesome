@@ -30,6 +30,9 @@
 - [Abdullahsab3/scala-native-intro](https://github.com/Abdullahsab3/scala-native-intro): A Gentle Introduction to Scala Native
 - [How to Improve JVM-Based Application Startup Time?](https://softwaremill.com/how-to-improve-jvm-based-application-startup-time/): This blog post compares different approaches to speeding up JVM startup time.
 - [softwaremill/scalatimes](https://github.com/softwaremill/scalatimes): <http://scalatimes.com/>
+- [ckipp01/tooling-talks](https://github.com/ckipp01/tooling-talks): A monthly series of talks about tooling. <https://www.tooling-talks.com>
+- [Recommended Scalac Flags for 2.12](https://tpolecat.github.io/2017/04/25/scalac-flags.html)
+  - Updated 10-May-2017
 
 ### Exercises
 
@@ -91,10 +94,22 @@
 ### Mill
 
 - [lewisjkl/header](https://github.com/lewisjkl/header): Header automation and linting 🎉
-- [lefou/millw](https://github.com/lefou/millw): Mill Wrapper Script
+- [sake92/mill-hepek](https://github.com/sake92/mill-hepek): Mill plugin for rendering Scala objects to files
 - [alexarchambault/mill-native-image](https://github.com/alexarchambault/mill-native-image): This is a Mill plugin which allows building executables using GraalVM native-image for your modules.
-- [lolgab/mill-crossplatform](https://github.com/lolgab/mill-crossplatform): Mill Plugin to ease Cross Platform projects <https://lolgab.github.io/mill-crossplatform/>
+- [hoangmaihuy/mill-universal-packager](https://github.com/hoangmaihuy/mill-universal-packager): Universal packaging for Mill
+- [joan38/mill-git](https://github.com/joan38/mill-git): A git version plugin for Mill build tool
+- [joan38/mill-scalafix](https://github.com/joan38/mill-scalafix): A Scalafix plugin for Mill build tool
+- [Avimitin/mill-ivy-fetcher](https://github.com/Avimitin/mill-ivy-fetcher): Scriptlets to convert mill ivy dependencies to Nix expression
+- [DavidGregory084/mill-tpolecat](https://github.com/DavidGregory084/mill-tpolecat): scalac options for the enlightened
+- [lefou/millw](https://github.com/lefou/millw): Mill Wrapper Script
+- [lefou/mill-integrationtest](https://github.com/lefou/mill-integrationtest): Integration testing for mill plugins
+- [lefou/mill-jacoco](https://github.com/lefou/mill-jacoco): Coverage Reporting for Mill
+- [lefou/mill-vcs-version](https://github.com/lefou/mill-vcs-version): Mill plugin to derive a version from (last) git tag and edit state
 - [lolgab/mill-mima](https://github.com/lolgab/mill-mima): MiMa Plugin for Mill <https://lolgab.github.io/mill-mima/>
+- [lolgab/mill-crossplatform](https://github.com/lolgab/mill-crossplatform): Mill Plugin to ease Cross Platform projects <https://lolgab.github.io/mill-crossplatform/>
+- [lolgab/mill-scalablytyped](https://github.com/lolgab/mill-scalablytyped): Scalablytyped Mill Plugin <https://lolgab.github.io/mill-scalablytyped/>
+- [ckipp01/mill-scip](https://github.com/ckipp01/mill-scip): A Mill plugin that generates and SCIP index for your build.
+- [ckipp01/mill-github-dependency-graph](https://github.com/ckipp01/mill-github-dependency-graph): A Mill plugin to submit your dependency graph to the GitHub Dependency Graph API
 
 ### Testing
 
@@ -117,6 +132,8 @@
 ### CI Actions
 
 - [jrouly/scalafmt-native-action](https://github.com/jrouly/scalafmt-native-action): GitHub action to run scalafmt.
+- [ckipp01/mill-dependency-submission](https://github.com/ckipp01/mill-dependency-submission): A GitHub action to submit your dependency graph from your Mill build to GitHub.
+- [ckipp01/mill-ci-release](https://github.com/ckipp01/mill-ci-release): A Mill plugin to help making publishing to Sonatype from GitHub Actions easier.
 
 ### Graal VM
 

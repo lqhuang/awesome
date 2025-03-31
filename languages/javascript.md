@@ -50,6 +50,9 @@
 - [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates): Find newer versions of package dependencies than what your package.json allows
 - 🌟 [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts): 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos <https://heyapi.dev>
+- 🌟 [errsole/errsole.js](https://github.com/errsole/errsole.js): Collect, Store, and Visualize Logs with a Single Module
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): A lightweight Node.js private proxy registry <https://www.verdaccio.org/>
+- [facebook/jscodeshift](https://github.com/facebook/jscodeshift): A JavaScript codemod toolkit. <https://jscodeshift.com>
 
 ### Bundler
 
@@ -88,6 +91,7 @@
 - [avajs/ava](https://github.com/avajs/ava): Node.js test runner that lets you develop with confidence 🚀
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench): 🔎 A simple, tiny and lightweight benchmarking library!
 - [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker): JSON-Schema + fake data generators <http://json-schema-faker.js.org/>
+- [ladjs/supertest](https://github.com/ladjs/supertest): 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API. Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 
 ### Linter / Formatter
 

@@ -200,8 +200,9 @@
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) ! <https://cloudtty.github.io/cloudtty/>
 - [Kubernetes WithOut Kubelet](https://kwok.sigs.k8s.io/): Kubernetes WithOut Kubelet. KWOK is a toolkit that enables setting up a cluster of thousands of Nodes in seconds. Under the scene, all Nodes are simulated to behave like real ones, so the overall approach employs a pretty low resource footprint that you can easily play around on your laptop.
 - 🌟 [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop): Network monitoring & diagnosis suite for Kubernetes <https://kubeskoop.io>
-- 🌟 [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize): Customization of kubernetes YAML configurations
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize): Customization of kubernetes YAML configurations
 - [helmfile/helmfile](https://github.com/helmfile/helmfile): Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. <https://helmfile.readthedocs.io>
+- 🌟 [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew): 📦 Find and install kubectl plugins <https://krew.sigs.k8s.io>
 
 ### Operators
 
@@ -222,6 +223,11 @@
 - [databus23/helm-diff](https://github.com/databus23/helm-diff): A helm plugin that shows a diff explaining what a helm upgrade would change
 - [tommy351/kosko](https://github.com/tommy351/kosko): Organize Kubernetes manifests in JavaScript. <https://kosko.dev>
 - [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes <http://kompose.io>
+- [yannh/kubeconform](https://github.com/yannh/kubeconform): A FAST Kubernetes manifests validator, with support for Custom Resources!
+- [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat): Clean up Kubernetes yaml and json output to make it readable
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <https://trivy.dev>
+- [kubescape/kubescape](https://github.com/kubescape/kubescape): Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. <https://kubescape.io>
+- [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris): Validation of best practices in your Kubernetes clusters <https://www.fairwinds.com/polaris>
 
 ## Hashicorp
 

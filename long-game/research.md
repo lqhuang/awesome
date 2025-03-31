@@ -123,6 +123,7 @@
 - [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp): A brand-new language server for Typst, plus a VS Code extension
 - [Leedehai/typst-physics](https://github.com/Leedehai/typst-physics): physica: vectors, fields, differentials, derivatives, Dirac brakets, tensors, and more. See examples in the manual PDF. <https://github.com/Leedehai/typst-physics>
 - [messense/typst-py](https://github.com/messense/typst-py): Python binding to typst
+- [Robotechnic/diagraph](https://github.com/Robotechnic/diagraph): A typst wasm plugin to use graphviz directly inside documents
 
 ### Bib
 

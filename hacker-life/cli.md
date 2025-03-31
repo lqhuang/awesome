@@ -14,6 +14,15 @@
   - [Latency numbers every programmer should know](https://cheat.sh/latencies)
 - 🌟 [z-shell/zi](https://github.com/z-shell/zi): ✨ A Swiss Army Knife for Zsh - Unix Shell <https://wiki.zshell.dev>
 
+## standard
+
+- [util-linux/util-linux](https://github.com/util-linux/util-linux): <http://en.wikipedia.org/wiki/Util-linux>
+- [uutils/util-linux](https://github.com/uutils/util-linux): Rust reimplementation of the util-linux project
+- [uutils/coreutils](https://github.com/uutils/coreutils): Cross-platform Rust rewrite of the GNU coreutils <https://uutils.github.io/>
+- [uutils/findutils](https://github.com/uutils/findutils): Rust implementation of findutils
+- [uutils/diffutils](https://github.com/uutils/diffutils): Drop-in replacement of diffutils in Rust
+- [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr): 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo, making them the default on an Ubuntu system 🦀
+
 ## command
 
 - [kaplanelad/shellfirm](https://github.com/kaplanelad/shellfirm): Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification

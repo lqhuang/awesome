@@ -122,6 +122,9 @@
 - [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns): 一个 DNS 转发器
 - [errantmind/faf-dns-proxy](https://github.com/errantmind/faf-dns-proxy): A DNS-over-TLS (DoT) Proxy, Engineered for Speed
 - [rtr7/router7](https://github.com/rtr7/router7): router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance. <https://router7.org>
+- 🌟 [BrainicHQ/DoHSpeedTest](https://github.com/BrainicHQ/DoHSpeedTest): An intuitive web tool for real-time testing of DNS over HTTPS (DoH) server speeds directly in your browser, designed to enhance and optimize your internet browsing experience.
+  - [Fastest DNS Speed Test - Find Optimal DNS Server | No Install](https://dnsspeedtest.online/): Experience the only web-based DNS Speed Test. Find the fastest DNS server for your location without any installations or downloads.
+- [xxnuo/dns-benchmark](https://github.com/xxnuo/dns-benchmark): dnspy 是一个批量 DNS 服务器基准测试工具，用于本地测量全世界的 DNS 服务器的可访问性和性能。生成可视化图表。dnspy is a bulk DNS server benchmarking tool used to measure the local accessibility and performance of DNS servers worldwide. It generates visual charts. <https://bench.dash.2020818.xyz/>
 
 ## Tunnel
 

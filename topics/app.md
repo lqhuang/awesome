@@ -66,4 +66,4 @@
 
 ### Examples
 
-- [saulamsal/netflix-ui](https://github.com/saulamsal/netflix-ui): No description, website, or topics provided.
+- [saulamsal/netflix-ui](https://github.com/saulamsal/netflix-ui)

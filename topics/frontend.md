@@ -296,6 +296,7 @@ Misc
 - [microlinkhq/react-json-view](https://github.com/microlinkhq/react-json-view): JSON viewer for React <https://react-json-view.microlink.io>
 - [uiwjs/react-json-view](https://github.com/uiwjs/react-json-view): A React component for displaying and editing javascript arrays and JSON objects. <https://uiwjs.github.io/react-json-view/>
 - [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee): Effortlessly visualize JSON structures as dynamic tree diagrams <https://jsontr.ee>
+- [CarlosNZ/json-edit-react](https://github.com/CarlosNZ/json-edit-react): React component for editing/viewing JSON/object data <https://carlosnz.github.io/json-edit-react/>
 
 #### PDF
 
@@ -413,6 +414,8 @@ Syntax hightlight
 - [galacean/effects-runtime](https://github.com/galacean/effects-runtime): It can load and render cool animation effects <https://www.galacean.com/effects/>
 - [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations): React-useanimations is a collection of free animated open source icons for React.js. <http://react.useanimations.com>
 
+Concrete animations
+
 - [barvian/motion-number](https://github.com/barvian/motion-number): A Framer Motion component that transitions, formats, and localizes numbers. <https://motion-number.barvian.me>
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy): The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. <https://Uiverse.io>
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits): An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces. <https://reactbits.dev>
@@ -466,6 +469,7 @@ Syntax hightlight
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot): 📸 Quickly generate image from DOM node using HTML5 canvas and SVG. <https://toolpkg.com/html-to-image>
 - 🌟 [amrlabib/react-timer-hook](https://github.com/amrlabib/react-timer-hook): React timer hook <https://www.npmjs.com/package/react-timer-hook>
 - 🌟 [texel-org/color](https://github.com/texel-org/color): modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
+- [hypershiphq/react-cookie-manager](https://github.com/hypershiphq/react-cookie-manager): A powerful, customizable React component for cookie consent management with built-in tracking prevention. This component provides a modern, user-friendly way to obtain and manage cookie consent from your website visitors.
 
 ### Misc
 
@@ -477,6 +481,8 @@ Syntax hightlight
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid): A module used to arrange card elements including content infinitely on a grid layout. <https://naver.github.io/egjs-infinitegrid/>
 - [lazarv/react-server](https://github.com/lazarv/react-server): The easiest way to build React apps with server-side rendering <https://react-server.dev>
 - [freedomofpress/webcat](https://github.com/freedomofpress/webcat): WEBCAT is an architectural framework for providing blocking code signing and verification, integrity and transparency checks for browser-based applications.
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js): "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection <https://uaparser.dev/>
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis): Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers <https://anubis.techaro.lol/>
 
 ## Visualization (Charts)
 
@@ -529,10 +535,11 @@ Syntax hightlight
 - 🌟 [pheralb/svgl](https://github.com/pheralb/svgl): 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS. <https://svgl.app>
 - [tanem/react-svg](https://github.com/tanem/react-svg): 🎨 A React component that injects SVG into the DOM. <https://npm.im/react-svg>
 - [feathericons/feather](https://github.com/feathericons/feather): Simply beautiful open-source icons <https://feathericons.com>
-- [Nucleo: The ultimate icon bundle](https://nucleoapp.com/)
+- 🌟 [Nucleo: The ultimate icon bundle](https://nucleoapp.com/)
 - [Streamline: Your Ultimate Icon Library](https://www.streamlinehq.com/)
 - 🌟 [gilbarbara/logos](https://github.com/gilbarbara/logos): A huge collection of SVG logos <http://svgporn.com/>
 - [devicons/devicon](https://github.com/devicons/devicon): Set of icons representing programming languages, designing & development tools <https://devicon.dev>
+- 🌟 [Line Icons](https://lineicons.com/): Make Every Project Unique
 
 ## Further topics
 

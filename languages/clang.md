@@ -111,7 +111,6 @@ And modern is here now.
 ### Debug
 
 - [hugsy/gef](https://github.com/hugsy/gef): GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux <https://hugsy.github.io/gef>
-- [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog): Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer): Run compilers interactively from your web browser and interact with the assembly <https://godbolt.org>
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer): Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser! <https://dogbolt.org>
 - [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux): Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
@@ -123,6 +122,15 @@ And modern is here now.
 ### Profiles
 
 - [gperftools/gperftools](https://github.com/gperftools/gperftools): Main gperftools repository
+
+### Logging
+
+- [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog): Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.
+- [gabime/spdlog](https://github.com/gabime/spdlog): Fast C++ logging library.
+- [KjellKod/g3log](https://github.com/KjellKod/g3log): G3log is an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own. G3log is made with plain C++14 (C++11 support up to release 1.3.2) with no external libraries (except gtest used for unit tests). G3log is made to be cross-platform, currently running on OSX, Windows and several Linux distros. <http://github.com/KjellKod/g3log>
+- [MengRao/fmtlog](https://github.com/MengRao/fmtlog): fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.
+  - aim to lower runtime latency than NanoLog and higher throughput than spdlog
+- [odygrd/quill](https://github.com/odygrd/quill): Asynchronous Low Latency C++ Logging Library
 
 ## OS level
 
@@ -173,6 +181,7 @@ And modern is here now.
 - [openucx/ucx](https://github.com/openucx/ucx): Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group) <http://www.openucx.org>
 - [pantor/inja](https://github.com/pantor/inja): A Template Engine for Modern C++ <https://pantor.github.io/inja/>
 - [nemtrif/utfcpp](https://github.com/nemtrif/utfcpp): UTF-8 with C++ in a Portable Way
+- [EmberEmu/Hexi](https://github.com/EmberEmu/Hexi): Header-only, lightweight C++ library for binary streaming. Network data handling made easy peasy!
 
 ## Async / Concurrency
 
@@ -237,7 +246,6 @@ And modern is here now.
 - [google/cpu_features](https://github.com/google/cpu_features): A cross platform C99 library to get cpu features at runtime.
 - [nihui/ruapu](https://github.com/nihui/ruapu): Detect CPU ISA features with single-file <https://github.com/nihui/ruapu>
 - [jupp0r/prometheus-cpp](https://github.com/jupp0r/prometheus-cpp): Prometheus Client Library for Modern C++
-- [gabime/spdlog](https://github.com/gabime/spdlog): Fast C++ logging library.
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp): A YAML parser and emitter in C++
 - [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface. <https://cliutils.github.io/CLI11/book/>
 

@@ -105,6 +105,8 @@
 - [macmade/Hot](https://github.com/macmade/Hot): Hot is macOS menu bar application that displays the CPU speed limit due to thermal issues. <https://xs-labs.com/en/apps/hot/>
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch): TheBoringNotch: Not so boring notch That Rocks 🎸🎶 <https://theboring.name/>
 - 🌟 [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
+- [Finb/Bark](https://github.com/Finb/Bark): Bark is an iOS App which allows you to push custom notifications to your iPhone <https://bark.day.app>
+  - [cwxiaos/bark-worker](https://github.com/cwxiaos/bark-worker): Bark Server on Cloudflare Worker
 
 ### Free / Paid
 

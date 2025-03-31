@@ -221,6 +221,7 @@ Templates
 - 🌟 [furkanonder/beetrace](https://github.com/furkanonder/beetrace): Trace your python process line by line with low overhead! <https://desktop.github.com>
 - [mgedmin/objgraph](https://github.com/mgedmin/objgraph): Visually explore Python object graphs <http://mg.pov.lt/objgraph/>
   - [Cowboy Debugging Python Memory Leaks](https://rtpg.co/2025/01/01/cowboy-coding-memory)
+- 🌟 [brandtbucher/specialist](https://github.com/brandtbucher/specialist): Visualize CPython's specializing, adaptive interpreter. 🔥
 
 ## Functional Programming in Python
 
@@ -585,8 +586,9 @@ Templates
 - [nficano/humps](https://github.com/nficano/humps): Convert strings (and dictionary keys) between snake case, camel case and pascal case in Python. Inspired by Humps for Node <http://humps.readthedocs.io>
 - [jpvanhal/inflection](https://github.com/jpvanhal/inflection): A port of Ruby on Rails' inflector to Python <https://inflection.readthedocs.io>
 - 🌟 [mesejo/trex](https://github.com/mesejo/trex): Efficient string matching with regular expressions <https://trrex.readthedocs.io/en/latest/>
-- [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz): Fuzzy String Matching in Python
 - [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz): Rapid fuzzy string matching in Python using various string metrics <https://rapidfuzz.github.io/RapidFuzz/>
+- [seatgeek/thefuzz](https://github.com/seatgeek/thefuzz): Fuzzy String Matching in Python
+  - [nol13/fuzzball.js](https://github.com/nol13/fuzzball.js): Easy to use and powerful fuzzy string matching, port of fuzzywuzzy.
 - [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
 - [cpburnz/python-pathspec](https://github.com/cpburnz/python-pathspec): Utility library for gitignore style pattern matching of file paths.
 

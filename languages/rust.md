@@ -430,6 +430,7 @@
 - [maidsafe/qp2p](https://github.com/maidsafe/qp2p): peer-to-peer communications library for Rust based on QUIC protocol
 - [google/tarpc](https://github.com/google/tarpc): An RPC framework for Rust with a focus on ease of use.
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp): a smol tcp/ip stack
+- [pendulum-project/statime](https://github.com/pendulum-project/statime): Implementation of the Precision Time Protocol (PTP) in Rust <https://trifectatech.org>
 
 ### Web
 
