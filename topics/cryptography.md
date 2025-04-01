@@ -32,3 +32,4 @@
 - [usual2970/certimate](https://github.com/usual2970/certimate): 开源的 SSL 证书管理工具，可以帮助你自动申请、部署 SSL 证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire. <https://docs.certimate.me>
 - [square/certstrap](https://github.com/square/certstrap): Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [stacksjs/tlsx](https://github.com/stacksjs/tlsx): 🔐 A TLS library with automation. HTTPS by default through a light-weight library. Similar to mkcert. <https://tlsx.sh>
+- [OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa): easy-rsa - Simple shell based CA utility

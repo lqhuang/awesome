@@ -58,6 +58,12 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii diagram scribbles into happy little SVG <http://ivanceras.github.io/svgbob-editor>
 - [github/cmark-gfm](https://github.com/github/cmark-gfm): GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
 - [jgm/djot](https://github.com/jgm/djot): A light markup language <https://djot.net>
+- [GitLab - antora/antora](https://gitlab.com/antora/antora) A modular documentation site generator that helps you organize and publish content written in AsciiDoc to the web. Ideally suited for users of Asciidoctor.
+- [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor): 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats. <https://asciidoctor.org>
+  - [asciidoctor/asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js): 📜 A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc <https://asciidoctor.org>
+  - [asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf): 📃 Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby. <https://docs.asciidoctor.org/pdf-converter/latest/>
+  - [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram): ↔️ Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, UMLet, Vega, Vega-Lite and WaveDrom. <http://asciidoctor.org>
+  - [asciidoc-py/asciidoc-py](https://github.com/asciidoc-py/asciidoc-py): Legacy python processor for AsciiDoc <https://asciidoc-py.github.io>
 - [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid): A collection of cheatsheets for using Mermaid diagrams on GitHub and elsewhere
 - [terrastruct/d2](https://github.com/terrastruct/d2): D2 is a modern diagram scripting language that turns text to diagrams. <https://d2lang.com> <https://blog.jakelee.co.uk/using-mermaid-for-diagrams-on-github>
 - [sonyxperiadev/dataflow](https://github.com/sonyxperiadev/dataflow): Render graphs using a declarative markup. <https://hackage.haskell.org/package/dataflow>

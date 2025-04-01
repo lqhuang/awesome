@@ -533,6 +533,8 @@ Concrete animations
 - [Iconbuddy](https://iconbuddy.app): The ultimate source for icons.
   - [Figma Plugin](https://dub.sh/iconbuddy-figma)
 - 🌟 [pheralb/svgl](https://github.com/pheralb/svgl): 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS. <https://svgl.app>
+- [Icons | Developer Icons](https://xandemon.github.io/developer-icons/icons/All/): Ready-to-use beautiful tech stack icon components for developers
+- [svg/svgo](https://github.com/svg/svgo): ⚙️ Node.js tool for optimizing SVG files <https://svgo.dev/>
 - [tanem/react-svg](https://github.com/tanem/react-svg): 🎨 A React component that injects SVG into the DOM. <https://npm.im/react-svg>
 - [feathericons/feather](https://github.com/feathericons/feather): Simply beautiful open-source icons <https://feathericons.com>
 - 🌟 [Nucleo: The ultimate icon bundle](https://nucleoapp.com/)

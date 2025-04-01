@@ -138,6 +138,14 @@
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd): 🛡 I2P: End-to-End encrypted and anonymous Internet <https://i2pd.website>
 - [amalshaji/portr](https://github.com/amalshaji/portr): Open source ngrok alternative designed for teams <https://portr.dev>
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py): 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework <https://abhinavsingh.com/proxy-py-a-lightweight-single-file-http-proxy-server-in-python/>
+- [jawj/IKEv2-setup](https://github.com/jawj/IKEv2-setup): Set up Ubuntu Server 20.04 (or 18.04) as an IKEv2 VPN server
+  - Why not Algo? Feel free to use Algo instead. It has similar aims, and now configures WireGuard too.
+- 🌟 [aramperes/onetun](https://github.com/aramperes/onetun): User space WireGuard port-forward in Rust
+
+### Warp
+
+- [rany2/warp.sh](https://github.com/rany2/warp.sh): WARP wireguard config generator in POSIX Shell
+- [ViRb3/wgcf](https://github.com/ViRb3/wgcf): 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 
 ### Mesh network
 
@@ -147,22 +155,17 @@
   - [tailscale/golink](https://github.com/tailscale/golink): A private shortlink service for tailnets
   - [juanfont/headscale](https://github.com/juanfont/headscale): An open source, self-hosted implementation of the Tailscale control server
   - [gurucomputing/headscale-ui](https://github.com/gurucomputing/headscale-ui): A web frontend for the headscale Tailscale-compatible coordination server
-- 🌟 [gravitl/netmaker](https://github.com/gravitl/netmaker): Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. <https://netmaker.io>
+- [gravitl/netmaker](https://github.com/gravitl/netmaker): Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks. <https://netmaker.io>
   - [madacluster/netmaker-terraform-provider](https://github.com/madacluster/netmaker-terraform-provider): Terraform Provider Netmaker
 - 🌟 [firezone/firezone](https://github.com/firezone/firezone): WireGuard®-based VPN server and firewall <https://firezone.dev>
 - Seems good, but they use a custom client cli, which wouldn't be my choice, at least.
   - [netbirdio/netbird](https://github.com/netbirdio/netbird): Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls. <https://netbird.io>
+    - Open issues for supporting wg client
+      - [#2504 Ability to add plain wireguard clients](https://github.com/netbirdio/netbird/issues/2504)
+      - [#2627 Generic Wireguard Client Configs for Universal Wireguard support](https://github.com/netbirdio/netbird/issues/2627)
   - [tonarino/innernet](https://github.com/tonarino/innernet): A private network system that uses WireGuard under the hood. <https://blog.tonari.no/introducing-innernet>
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne): A Smart Ethernet Switch for Earth <https://zerotier.com>
 - [Twingate](https://www.twingate.com/): Twingate makes Zero Trust Network Access easy to deploy, even easier to use, and always secure.
-- wireguard
-  - [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full mesh configuration generator.
-  - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy): The easiest way to run WireGuard VPN + Web-based Admin UI.
-  - watchdog (for IP)
-    - [immortalwrt - wireguard_watchdog](https://github.com/immortalwrt/immortalwrt/blob/master/package/network/utils/wireguard-tools/files/wireguard_watchdog)
-    - [gek64/wgwd](https://github.com/gek64/wgwd): WireGuard watchdog
-    - [mattkasun/wg-watchdog.sh](https://gist.github.com/mattkasun/9a0e90d9d31b2c935d3f6d6e71dbece9)
-- 🌟 [trailofbits/algo](https://github.com/trailofbits/algo): Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
 - [coturn/coturn](https://github.com/coturn/coturn): coturn TURN server project
 - [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun): A list of publicly available STUN servers, refreshed every hour.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn): ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens <https://mudler.github.io/edgevpn>
@@ -170,6 +173,35 @@
 - 🌟 [fosrl/pangolin](https://github.com/fosrl/pangolin): Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI <https://docs.fossorial.io>
   - [fosrl/newt](https://github.com/fosrl/newt): A tunneling client for Pangolin <https://docs.fossorial.io>
   - [fosrl/gerbil](https://github.com/fosrl/gerbil): A simple WireGuard interface management server written in Go <https://docs.fossorial.io>
+
+#### Wireguard
+
+- Resources
+  - [HarvsG/WireGuardMeshes](https://github.com/HarvsG/WireGuardMeshes): A text repo to feature-track WireGuard mesh software
+  - [mikeroyal/WireGuard-Guide](https://github.com/mikeroyal/WireGuard-Guide): WireGuard Guide. Learn all about WireGuard for Networking and in the Cloud (Microsoft Azure, AWS, and Google Cloud).
+  - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs): 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients. <https://docs.sweeting.me/s/wireguard>
+- [k4yt3x/wg-meshconf](https://github.com/k4yt3x/wg-meshconf): WireGuard full mesh configuration generator.
+- [its0x08/wg-install](https://github.com/its0x08/wg-install): Wireguard auto-installer for Ubuntu, Debian, CentOS and Fedora
+- [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui): Wireguard web interface
+- [donaldzou/WGDashboard](https://github.com/donaldzou/WGDashboard): Simple dashboard for WireGuard VPN written in Python & Vue.js <https://donaldzou.dev/WGDashboard-Documentation/>
+- [h44z/wg-portal](https://github.com/h44z/wg-portal): WireGuard Configuration Portal with LDAP connection <https://wgportal.org/>
+- [utilitywarehouse/wiresteward](https://github.com/utilitywarehouse/wiresteward): Wireguard peer manager
+- [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock): Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.
+- 🌟 [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy): The easiest way to run WireGuard VPN + Web-based Admin UI.
+- 🌟 [trailofbits/algo](https://github.com/trailofbits/algo): Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
+- 🌟 [GitLab · Stormblest/mistborn](https://gitlab.com/cyber5k/mistborn): Mistborn is your own virtual private cloud platform and WebUI that manages self hosted services, and secures them with firewall, Wireguard VPN w/ PiHole-DNSCrypt, and IP filtering. Optional...
+  - [GitLab · Stormblest/mistborn-cli](https://gitlab.com/cyber5k/mistborn-cli): Command-line interface for mistborn
+- [psyhomb/wireguard-tools](https://github.com/psyhomb/wireguard-tools): Wireguard helper scripts <https://gitlab.com/psyhomb/wireguard-tools>
+- watchdog (for IP)
+  - [immortalwrt - wireguard_watchdog](https://github.com/immortalwrt/immortalwrt/blob/master/package/network/utils/wireguard-tools/files/wireguard_watchdog)
+  - [gek64/wgwd](https://github.com/gek64/wgwd): WireGuard watchdog
+  - [mattkasun/wg-watchdog.sh](https://gist.github.com/mattkasun/9a0e90d9d31b2c935d3f6d6e71dbece9)
+- 🪦 [vx3r/wg-gen-web](https://github.com/vx3r/wg-gen-web): Simple Web based configuration generator for WireGuard <https://wg-gen-web-demo.127-0-0-1.fr>
+- 🪦 [complexorganizations/wireguard-manager](https://github.com/complexorganizations/wireguard-manager): ✔️ WireGuard-Manager is an innovative tool designed to streamline the deployment and management of WireGuard VPNs. Emphasizing user-friendliness and security, it simplifies the complexities of VPN configuration, offering a robust yet accessible solution for both personal and professional use.
+- 🪦 [perara/wg-manager](https://github.com/perara/wg-manager): A easy to use WireGuard dashboard and management tool
+- 🌟🪦 [influxdata/wirey](https://github.com/influxdata/wirey): Manage local wireguard interfaces in a distributed system
+- 🌟🪦 [elghazal-a/autowire](https://github.com/elghazal-a/autowire): Automatically configure Wireguard interfaces in distributed system. It supports Consul as backend.
+- 🌟🪦 [seashell/drago](https://github.com/seashell/drago): ☁️ Securely connect anything with WireGuard® and manage all your networks from a single place. <https://seashell.github.io/drago>
 
 ## Online tools / Services
 

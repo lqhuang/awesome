@@ -1,5 +1,7 @@
 # Every speed optimization counts
 
+`fffdn` - faster than fast foundation 🤔
+
 ## Reading
 
 - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks) | Blog | Guillaume Endignoux](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html): This post is the second part of my adventures to optimize a Rust workload running on multiple threads.In the first post, I explored how the rayon parallelism framework works, and explained how I designed a faster replacement for my use case.
@@ -22,9 +24,13 @@
   - [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson): Python bindings for the simdjson project. <https://pysimdjson.tkte.ch>
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala): Scala macros for compile-time generation of safe and ultra-fast JSON codecs
 
+sourcemeta
+
 - [sourcemeta/jsonbinpack](https://github.com/sourcemeta/jsonbinpack): A binary JSON serialization format based on JSON Schema 2020-12 with a strong focus on space-efficiency <https://jsonbinpack.sourcemeta.com/>
 - [sourcemeta/blaze](https://github.com/sourcemeta/blaze): The ultra high-performance JSON Schema validator, providing validation in the nano-second range, along with perfect compliance scores. Supports Draft 4, Draft 6, Draft 7, 2019-09 and 2020-12 <http://blaze.sourcemeta.com/>
 - [sourcemeta/jsontoolkit](https://github.com/sourcemeta/jsontoolkit): A swiss-army knife for expressive JSON programming in modern C++. Covers JSON, JSON Pointer, JSONL, and JSON Schema <https://jsontoolkit.sourcemeta.com/>
+
+yyjson
 
 - [ibireme/yyjson](https://github.com/ibireme/yyjson): The fastest JSON library in C <https://ibireme.github.io/yyjson/doc/doxygen/html/>
   - [TkTech/py_yyjson](https://github.com/TkTech/py_yyjson): Fast and flexible Python JSON parsing (and manipulation!) built on the excellent yyjson project. <http://tkte.ch/py_yyjson/>
