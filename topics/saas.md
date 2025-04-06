@@ -24,6 +24,5 @@
     1. online software for saving and organizing the content that is important to you
     2. a toolkit for assembling new worlds from the scraps of the old
   - People describe Are.na as "~playlists, but for ideas~" or an "~Internet memory palace~."
-- [F\*ck Leetcode.](https://www.interviewcoder.co/): Interview Coder is an invisible AI for technical interviews.
-- [interview.sh](https://interview.sh/): Interview.sh AI assistant for technical interviews in the browser.
-  - ........
+- [Interview.sh](https://interview.sh/): Interview.sh AI assistant for technical interviews in the browser.
+  - Contribute by [@franz101](https://github.com/franz101) 🥰
