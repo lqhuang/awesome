@@ -33,6 +33,7 @@
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager): A Download Manager that speeds up your downloads <https://abdownloadmanager.com>
 - [keycastr/keycastr](https://github.com/keycastr/keycastr): KeyCastr, an open-source keystroke visualizer
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz): Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time. <https://mularahul.github.io/keyviz>
+- [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger): Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 
 ### Notes / Knowledge Management
 
@@ -145,7 +146,6 @@
 - [Arq Backup](https://www.arqbackup.com/): Arq backs up your files. You control your data. Arq® is backup software for your Mac or Windows PC.
 - [PDF Gear](https://www.pdfgear.com/): Read, edit, convert, merge, and sign PDF files across devices, for completely free and without signing up.
 - [ProxMobo](https://www.proxmobo.app/): Proxmox VE Monitor & Management
-- [I18n Studio](https://www.i18n.studio/)
 - [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
 - [Droppable](https://www.pixelwrld.co/droppable): Send large files from your Desktop in a couple of clicks.
 - [NotchNook](https://lo.cafe/notchnook): a whole new way of using your `macos`

@@ -11,7 +11,7 @@
 - [CS525 UIUC SP21: Reading List](https://docs.google.com/document/d/1gWQ_Uk60zIH6PvP1P4NYzz4TvrKWGCnltySBxwkradM/)
 - [mwhittaker/consistency_in_distributed_systems](https://github.com/mwhittaker/consistency_in_distributed_systems): Distributed Systems Consistency Reading Group <https://mwhittaker.github.io/consistency_in_distributed_systems>
 - [mwhittaker's review of paper](https://mwhittaker.github.io/papers/): 📄 Paper Summaries <https://mwhittaker.github.io/papers>
-- [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/): Curated list of resources on testing distributed systems
+- 🌟 [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/): Curated list of resources on testing distributed systems
 - [theanalyst/awesome-distributed-systems](https://github.com/theanalyst/awesome-distributed-systems): A curated list to learn about distributed systems
 - [drmingdrmer/consensus-essence](https://github.com/drmingdrmer/consensus-essence): distributed consensus protocol's bugs, flaws, deceptive traps, improvements
 - [dgryski/awesome-consensus](https://github.com/dgryski/awesome-consensus): Awesome list for Paxos and friends

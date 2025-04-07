@@ -32,7 +32,6 @@
 - [rrthomas/enchant](https://github.com/rrthomas/enchant): enchant spellchecking library <http://rrthomas.github.io/enchant/>
   - [pyenchant/pyenchant](https://github.com/pyenchant/pyenchant): spellchecking library for python <https://pyenchant.github.io/pyenchant/>
 - 🌟 [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect): A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). <https://huacnlee.github.io/autocorrect>
-
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint): An extremely fast directory and filename linter - Bring some structure to your project filesystem <https://ls-lint.org>
 
 ## Build systems
@@ -86,6 +85,15 @@ Build cache
 
 ### Nix
 
+Readings
+
+- [Flakes aren't real and cannot hurt you: a guide to using Nix flakes the non-flake way | jade's www site](https://jade.fyi/blog/flakes-arent-real/)
+  - > A flake can then be relegated to merely an entry point and a way of acquiring dependencies that are required for evaluation (build-time dependencies should use `pkgs.fetchurl`, `fetchFromGitHub`, etc).
+  - > I am using `package.nix` to refer to the standard way for writing packages in nixpkgs style, which are invoked with `callPackage`. This is as opposed to writing something directly in `flake.nix` using `pkgs`.
+  - > Package definitions should be written with `callPackage` if possible, rather than inline in `flake.nix`, since using `package.nix` makes them into small, composable, configurable, and portable units of software.
+
+Libs
+
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] <https://nix-community.github.io/awesome-nix/>
 - [nix-community/noogle](https://github.com/nix-community/noogle): https://noogle.dev - nix function exploring. [maintainer=@hsjobeki] <https://noogle.dev>
 - [nix-community/pyproject.nix](https://github.com/nix-community/pyproject.nix): A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]
@@ -95,9 +103,11 @@ Build cache
   - [nix-community/disko-templates](https://github.com/nix-community/disko-templates): Best practice templates for disko - maintainer=@Lassulus
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators): Collection of image builders [maintainer=@Lassulus]
 - [nix-community/nixvim](https://github.com/nix-community/nixvim): Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman] <https://nix-community.github.io/nixvim>
+- [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate): Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix): An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems <https://zero-to-nix.com>
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer): Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
 - [DeterminateSystems/flake-schemas](https://github.com/DeterminateSystems/flake-schemas): Schemas for common flake output types
+- [DeterminateSystems/flake-checker](https://github.com/DeterminateSystems/flake-checker): Health checks for your Nix flakes <https://determinate.systems>
 - [NixOS/nix](https://github.com/NixOS/nix): Nix, the purely functional package manager <https://nixos.org/>
   - [Welcome to nix.dev](https://nix.dev/): nix.dev is the home of official documentation for the Nix ecosystem.
 - 🌟 [oddlama/nix-topology](https://github.com/oddlama/nix-topology): 🍁 Generate infrastructure and network diagrams directly from your NixOS configurations <https://oddlama.github.io/nix-topology>
@@ -113,6 +123,10 @@ Build cache
 - [zhaofengli/attic](https://github.com/zhaofengli/attic): Multi-tenant Nix Binary Cache <https://docs.attic.rs>
 - 🌟 [nix-darwin/nix-darwin](https://github.com/nix-darwin/nix-darwin): nix modules for darwin
 - 🌟 [astro/microvm.nix](https://github.com/astro/microvm.nix): NixOS MicroVMs <https://astro.github.io/microvm.nix/>
+- 🌟 [maralorn/nix-output-monitor](https://github.com/maralorn/nix-output-monitor): Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.
+- [nmattia/niv](https://github.com/nmattia/niv): Easy dependency management for Nix projects <https://github.com/nmattia/niv>
+- [ipetkov/crane](https://github.com/ipetkov/crane): A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching. <https://crane.dev>
+- [lf-/flakey-profile](https://github.com/lf-/flakey-profile): Declarative profiles with nix flakes
 
 ## Security check
 
@@ -154,6 +168,7 @@ Build cache
 - [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog): Automatic Changelog generator using Jinja2 templates. <https://pawamoy.github.io/git-changelog>
 - [antfu/changelogithub](https://github.com/antfu/changelogithub): Generate changelog for GitHub
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog): CHANGELOG generator implemented in Go (Golang). <https://godoc.org/github.com/git-chglog/git-chglog>
+- [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview): GitHub CLI extension to preview Markdown looks like GitHub.
 
 ## GitHub Action
 
@@ -184,6 +199,13 @@ Build cache
 - [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space): ⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [hendrikmuhs/ccache-action](https://github.com/hendrikmuhs/ccache-action): github action to speedup building using ccache
 - [actions/labeler](https://github.com/actions/labeler): An action for automatically labelling pull requests
+- [actions/dependency-review-action](https://github.com/actions/dependency-review-action): A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
+- [actions/attest](https://github.com/actions/attest): Action for generating attestations for workflow artifacts
+- [actions/attest-build-provenance](https://github.com/actions/attest-build-provenance): Action for generating build provenance attestations for workflow artifacts
+- [release-drafter/release-drafter](https://github.com/release-drafter/release-drafter): Drafts your next release notes as pull requests are merged into master. <https://github.com/marketplace/actions/release-drafter>
+- [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment): A GitHub action to create or update an issue or pull request comment
+- [super-linter/super-linter](https://github.com/super-linter/super-linter): Combination of multiple linters to run as a GitHub Action or standalone <https://github.com/super-linter/super-linter>
+- [actions/stale](https://github.com/actions/stale): Marks issues and pull requests that have not had recent interaction
 
 ### GitHub Action Runner
 

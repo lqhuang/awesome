@@ -163,6 +163,7 @@
 
 - [rancher/rancher](https://github.com/rancher/rancher): Complete container management platform <http://rancher.com>
 - 🌟 [k3s-io/k3s](https://github.com/k3s-io/k3s): Lightweight Kubernetes <https://k3s.io>
+  - [k3d-io/k3d](https://github.com/k3d-io/k3d): Little helper to run CNCF's k3s in Docker <https://k3d.io/>
 - 🌟 [rancher/rke2](https://github.com/rancher/rke2): RKE2, also known as RKE Government, is Rancher's next-generation Kubernetes distribution. <https://docs.rke2.io/>
 - [k0sproject/k0s](https://github.com/k0sproject/k0s): k0s - The Zero Friction Kubernetes <https://docs.k0sproject.io>
 - [klueska/kind-with-gpus-examples](https://github.com/klueska/kind-with-gpus-examples): No description, website, or topics provided.
@@ -206,6 +207,7 @@
 - [helmfile/helmfile](https://github.com/helmfile/helmfile): Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. <https://helmfile.readthedocs.io>
 - 🌟 [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew): 📦 Find and install kubectl plugins <https://krew.sigs.k8s.io>
 - [squat/kilo](https://github.com/squat/kilo): Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg) <https://kilo.squat.ai>
+- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb): A cloud native Kubernetes Global Balancer <https://www.k8gb.io>
 
 ### Operators
 

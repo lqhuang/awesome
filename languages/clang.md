@@ -81,6 +81,8 @@ And modern is here now.
 - [cginternals/cmake-init](https://github.com/cginternals/cmake-init): Template for reliable, cross-platform C++ project setup using cmake.
 - [BlankSpruce/gersemi](https://github.com/BlankSpruce/gersemi): A formatter to make your CMake code the real treasure
 - [build-cpp/cmkr](https://github.com/build-cpp/cmkr): Modern build system based on CMake and TOML. <https://cmkr.build>
+- [distcc/distcc](https://github.com/distcc/distcc): distributed builds for C, C++ and Objective C
+- [renatoGarcia/icecream-cpp](https://github.com/renatoGarcia/icecream-cpp): 🍦 Never use cout/printf to debug again
 
 ### Analyzer
 
@@ -110,6 +112,7 @@ And modern is here now.
 
 ### Debug
 
+- 🌟 [rr-debugger/rr](https://github.com/rr-debugger/rr): Record and Replay Framework <http://rr-project.org/>
 - [hugsy/gef](https://github.com/hugsy/gef): GEF (GDB Enhanced Features) - a modern experience for GDB with advanced debugging capabilities for exploit devs & reverse engineers on Linux <https://hugsy.github.io/gef>
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer): Run compilers interactively from your web browser and interact with the assembly <https://godbolt.org>
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer): Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser! <https://dogbolt.org>
@@ -162,6 +165,7 @@ And modern is here now.
 - [jlaumon/Bedrock](https://github.com/jlaumon/Bedrock): Minimal C++20 STL replacement library. Simpler, smaller, and in many cases faster.
 - [floooh/sokol](https://github.com/floooh/sokol): minimal cross-platform standalone C headers <https://floooh.github.io/sokol-html5>
 - [nothings/stb](https://github.com/nothings/stb): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
+- [libffi/libffi](https://github.com/libffi/libffi): A portable foreign-function interface library. <http://sourceware.org/libffi>
 
 ## Libs
 
@@ -191,6 +195,7 @@ And modern is here now.
 - [uNetworking/uSockets](https://github.com/uNetworking/uSockets): Miniscule cross-platform eventing, networking & crypto for async applications
 - [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp): Modern concurrency for C++. Tasks, executors, timers and C++20 coroutines to rule them all
 - 🌟 [facebookexperimental/libunifex](https://github.com/facebookexperimental/libunifex): Unified Executors
+- 🌟 [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec): `std::execution`, the proposed C++ framework for asynchronous and parallel programming.
 - [tidwall/neco](https://github.com/tidwall/neco): Concurrency library for C (coroutines)
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue): A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [dermesser/uvco](https://github.com/dermesser/uvco): C++20 Coroutines running on libuv for intuitive async I/O <https://borgac.net/~lbo/doc/uvco/>

@@ -55,6 +55,7 @@
 
 - [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown as mindmaps with Markmap.
 - 🌟 [ASCII Diagrams](https://asciidiagrams.github.io/): This web page catalogs ASCII diagrams extracted from four open source code-bases: Chromium, Linux, LLVM, and TensorFlow. There are 2156 diagrams in total, of which 504 have been annotated with our design framework.
+- [casparwylie/cascii-core](https://github.com/casparwylie/cascii-core): A web-based ASCII and Unicode diagram builder written in vanilla Javascript <https://cascii.app>
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii diagram scribbles into happy little SVG <http://ivanceras.github.io/svgbob-editor>
 - [github/cmark-gfm](https://github.com/github/cmark-gfm): GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
 - [jgm/djot](https://github.com/jgm/djot): A light markup language <https://djot.net>
@@ -186,6 +187,7 @@
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume): A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! <https://rxresu.me>
 - 🌟 [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons): Showcase your skills on your Github readme or resumé with ease ✨ <https://skillicons.dev>
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 <https://postiz.com>
+- [Nutlope/self.so](https://github.com/Nutlope/self.so): LinkedIn -> personal site generator <https://www.self.so/>
 
 ## ESL
 

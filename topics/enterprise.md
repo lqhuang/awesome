@@ -20,6 +20,7 @@
 - 🌟 [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. <https://oauth2-proxy.github.io/oauth2-proxy>
 - [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher): 🔐 Securely share sensitive information with automatic expiration & deletion after a set number of views or duration. Track who, what and when with full audit logs. <https://docs.pwpush.com>
+- 🌟 [openpubkey/opkssh](https://github.com/openpubkey/opkssh): opkssh (OpenPubkey SSH) <https://eprint.iacr.org/2023/296>
 
 ## Worksuites
 
@@ -233,6 +234,7 @@
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb): 🛡️ Open-source and next-generation Web Application Firewall (WAF) <https://www.bunkerweb.io>
 - 🌟 [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure. <https://goteleport.com>
 - [kunai-project/kunai](https://github.com/kunai-project/kunai): Threat-hunting tool for Linux <https://why.kunai.rocks>
+- [Black Duck](https://www.blackduck.com/): Build high-quality, secure software with application security testing tools and services from Black Duck. We are a Gartner Magic Quadrant Leader in AppSec.
 
 ## Career
 

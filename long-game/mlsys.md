@@ -27,12 +27,14 @@
     - minibatch (parameters updated after a small batch of records)
     - vectorized minibatch (convert for-loop into matrix multiply)
     - vectorized minibatch running on a GPU (use PyTorch to compute on GPU)
+- [vopani/jaxton](https://github.com/vopani/jaxton): 100 exercises to learn JAX
 
 ### Triton
 
 - [MekkCyber/TritonAcademy](https://github.com/MekkCyber/TritonAcademy): A repository to unravel the language of GPUs, making their kernel conversations easy to understand
 - [srush/Triton-Puzzles](https://github.com/srush/Triton-Puzzles): Puzzles for learning Triton
 - [rdyro/Pallas-Puzzles](https://github.com/rdyro/Pallas-Puzzles): This is a direct fork of the Triton Puzzles, but adapted for the Pallas language for using a Triton-like kernel language (Pallas) in JAX.
+- [rkinas/triton-resources](https://github.com/rkinas/triton-resources): A curated list of resources for learning and exploring Triton, OpenAI's programming language for writing efficient GPU code.
 
 ### GPU / CUDA
 
@@ -45,6 +47,10 @@
 - 🌟 [The Ultra-Scale Playbook - a Hugging Face Space by nanotron](https://huggingface.co/spaces/nanotron/ultrascale-playbook): The ultimate guide to training LLM on large GPU Clusters
   - [huggingface/nanotron](https://github.com/huggingface/nanotron): Minimalistic large language model 3D-parallelism training
   - [huggingface/picotron](https://github.com/huggingface/picotron): Minimalistic 4D-parallelism distributed training framework for education purpose
+- [rkinas/cuda-learning](https://github.com/rkinas/cuda-learning): This repository is a curated collection of resources, tutorials, and practical examples designed to guide you through the journey of mastering CUDA programming. Whether you're just starting or looking to optimize and scale your GPU-accelerated applications.
+- [gpu-mode/lectures](https://github.com/gpu-mode/lectures): Material for gpu-mode lectures <https://www.youtube.com/@GPUMODE>
+- [PaddleJitLab/CUDATutorial](https://github.com/PaddleJitLab/CUDATutorial): A self-learning tutorail for CUDA High Performance Programing.
+  - in Chinese
 
 ### TPU
 
@@ -74,7 +80,7 @@
 
 - [ray-project/ray](https://github.com/ray-project/ray): Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads. <https://ray.io>
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb): In-Database Machine Learning <http://mindsdb.com>
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. <https://www.deepspeed.ai/>
+- 🌟 [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. <https://www.deepspeed.ai/>
 - [keras-team/keras-core](https://github.com/keras-team/keras-core): A multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch.
 - [online-ml/river](https://github.com/online-ml/river): 🌊 Online machine learning in Python <https://riverml.xyz>
 - 🌟 [geohot/tinygrad](https://github.com/geohot/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ <https://tinygrad.org/>
@@ -120,16 +126,6 @@ General problems
 
 ### Production-ready network implementation
 
-- [facebookresearch/xformers](https://github.com/facebookresearch/xformers): Hackable and optimized Transformers building blocks, supporting a composable construction. <https://facebookresearch.github.io/xformers>
-- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq): Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq): Repo for external large-scale work
-- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-- [facebookresearch/DiT](https://github.com/facebookresearch/DiT): Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
-- [facebookresearch/lingua](https://github.com/facebookresearch/lingua): Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
-- [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching): A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities. <http://facebookresearch.github.io/flow_matching>
-- [facebookresearch/chai](https://github.com/facebookresearch/chai): CHAI is a library for dynamic pruning of attention heads for efficient LLM inference.
-- [facebookresearch/Lyapunov](https://github.com/facebookresearch/Lyapunov): PyTorch original implementation of "Lyapunov functions a long-standing open problem in mathematics, with symbolic transformers" (NeurIPS 2024).
-
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor): Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax): Model parallel transformers in JAX and Haiku
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax): This repository contains optimised JAX code for OpenAI's Whisper Model, largely built on the 🤗 Hugging Face Transformers Whisper implementation. Compared to OpenAI's PyTorch code, Whisper JAX runs over 70x faster, making it the fastest Whisper implementation available.
@@ -156,6 +152,18 @@ General problems
 - [microsoft/vattention](https://github.com/microsoft/vattention): Dynamic Memory Management for Serving LLMs without PagedAttention
 - [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym): Helpful tools and examples for working with flex-attention
   - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
+
+FAIR specialist
+
+- [facebookresearch/xformers](https://github.com/facebookresearch/xformers): Hackable and optimized Transformers building blocks, supporting a composable construction. <https://facebookresearch.github.io/xformers>
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq): Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq): Repo for external large-scale work
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+- [facebookresearch/DiT](https://github.com/facebookresearch/DiT): Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
+- [facebookresearch/lingua](https://github.com/facebookresearch/lingua): Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
+- [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching): A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities. <http://facebookresearch.github.io/flow_matching>
+- [facebookresearch/chai](https://github.com/facebookresearch/chai): CHAI is a library for dynamic pruning of attention heads for efficient LLM inference.
+- [facebookresearch/Lyapunov](https://github.com/facebookresearch/Lyapunov): PyTorch original implementation of "Lyapunov functions a long-standing open problem in mathematics, with symbolic transformers" (NeurIPS 2024).
 
 ### Inference engine / large-scale deployment
 
@@ -230,7 +238,7 @@ General problems
 - [leptonai/gpud](https://github.com/leptonai/gpud): GPUd is designed to ensure GPU efficiency and reliability by actively monitoring GPUs and effectively managing AI/ML workloads.
 - [run-ai/genv](https://github.com/run-ai/genv): GPU environment and cluster management with LLM support <https://www.genv.dev>
 
-## Compiler and low levels libs
+## Compiler / Kernel / Low level libs
 
 - [merrymercy/awesome-tensor-compilers](https://github.com/merrymercy/awesome-tensor-compilers): A list of awesome compiler projects and papers for tensor computation and deep learning.
 - 🌟 [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler stack for cpu, gpu and specialized accelerators <https://tvm.apache.org>
@@ -247,6 +255,10 @@ General problems
 - [nod-ai/SHARK-Turbine](https://github.com/nod-ai/SHARK-Turbine): Unified compiler/runtime for interfacing with PyTorch Dynamo.
 - [modularml/mojo](https://github.com/modularml/mojo): The Mojo Programming Language <https://docs.modular.com/mojo>
 - [mirage-project/mirage](https://github.com/mirage-project/mirage): Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA <https://mirage-project.readthedocs.io/>
+- [getkeops/keops](https://github.com/getkeops/keops): KErnel OPerationS, on CPUs and GPUs, with autodiff and without memory overflows <https://www.kernel-operations.io>
+- [ppl-ai/pplx-kernels](https://github.com/ppl-ai/pplx-kernels): Perplexity GPU Kernels
+- [ByteDance-Seed/Triton-distributed](https://github.com/ByteDance-Seed/Triton-distributed): Distributed Triton for Parallel Systems
+- [pytorch-labs/tritonbench](https://github.com/pytorch-labs/tritonbench): Tritonbench is a collection of PyTorch custom operators with example inputs to measure their performance.
 
 ### MLIR
 
@@ -353,7 +365,6 @@ PGM / Probabilistic programming
 ### DeepMind specialization
 
 - [Using JAX to accelerate our research](https://www.deepmind.com/blog/using-jax-to-accelerate-our-research)
-- [google-deepmind/jax](https://github.com/google-deepmind/jax): DeepMind JAX Ecosystem
 - [google-deepmind/dm-haiku](https://github.com/google-deepmind/dm-haiku): JAX-based neural network library <https://dm-haiku.readthedocs.io>
 - [google-deepmind/optax](https://github.com/google-deepmind/optax): Optax is a gradient processing and optimization library for JAX. <https://optax.readthedocs.io>
 - [google-deepmind/rlax](https://github.com/google-deepmind/rlax): RLax (pronounced "relax") is a library built on top of JAX that exposes useful building blocks for implementing reinforcement learning agents. <https://rlax.readthedocs.io>
@@ -374,6 +385,7 @@ PGM / Probabilistic programming
 - [google-deepmind/concordia](https://github.com/google-deepmind/concordia): A library for generative social simulation
 - [google-deepmind/uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth): Dermatology ddx dataset, Jax implementations of Monte Carlo conformal prediction, plausibility regions and statistical annotation aggregation from our recent work on uncertain ground truth (TMLR'23 and ArXiv pre-print). <https://davidstutz.de/projects/monte-carlo-conformal-prediction/>
 - [google-deepmind/meltingpot](https://github.com/google-deepmind/meltingpot): A suite of test scenarios for multi-agent reinforcement learning.
+- [google-deepmind/dm_pix](https://github.com/google-deepmind/dm_pix): PIX is an image processing library in JAX, for JAX. <https://dm-pix.readthedocs.io>
 
 ### Google specialization
 
@@ -409,6 +421,7 @@ PGM / Probabilistic programming
 - [ayaka14732/einshard](https://github.com/ayaka14732/einshard): High-level array sharding API for JAX <https://einshard.readthedocs.io/>
 - [yixiaoer/einshard](https://github.com/yixiaoer/einshard): Einsum-like high-level array sharding API for JAX <https://einshard.readthedocs.io/>
 - [pymc-devs/pytensor](https://github.com/pymc-devs/pytensor): PyTensor allows you to define, optimize, and efficiently evaluate mathematical expressions involving multi-dimensional arrays. <https://pytensor.readthedocs.io>
+- [alebeck/chunkax](https://github.com/alebeck/chunkax): A lightweight JAX transform for applying functions to array chunks over arbitrary sizes and dimensions.
 
 ### Utils
 
@@ -425,6 +438,7 @@ PGM / Probabilistic programming
 - [pytorch/kineto](https://github.com/pytorch/kineto): A CPU+GPU Profiling library that provides access to timeline traces and hardware performance counters.
 - [huggingface/evaluate](https://github.com/huggingface/evaluate): 🤗 Evaluate: A library for easily evaluating machine learning models and datasets. <https://huggingface.co/docs/evaluate>
 - [mosaicml/streaming](https://github.com/mosaicml/streaming): A Data Streaming Library for Efficient Neural Network Training <https://streaming.docs.mosaicml.com>
+- [rdyro/torch2jax](https://github.com/rdyro/torch2jax): Wraps PyTorch code in a JIT-compatible way for JAX. Supports automatically defining gradients for reverse-mode AutoDiff. <https://rdyro.github.io/torch2jax/>
 
 ### Autodiff
 
@@ -482,6 +496,7 @@ PGM / Probabilistic programming
 - [fastai/fastcore](https://github.com/fastai/fastcore): Python supercharged for the fastai library <http://fastcore.fast.ai>
 - [parrt/tensor-sensor](https://github.com/parrt/tensor-sensor): The goal of this library is to generate more helpful exception messages for matrix algebra expressions for numpy, pytorch, jax, tensorflow, keras, fastai. <https://github.com/parrt/tensor-sensor>
   - looks great, but no longer active
+- [chaunceyjiang/fake-gpu](https://github.com/chaunceyjiang/fake-gpu): This project is designed to simulate GPU information, making it easier to test scenarios where a GPU is not available.
 
 ### Benchmark
 

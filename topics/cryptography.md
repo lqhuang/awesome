@@ -18,6 +18,8 @@
 - [pyca/cryptography](https://github.com/pyca/cryptography): cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. <https://cryptography.io>
 - [djc/pyrtls](https://github.com/djc/pyrtls): rustls-based modern TLS for Python
 - [aws/s2n-tls](https://github.com/aws/s2n-tls): An implementation of the TLS/SSL protocols <https://aws.github.io/s2n-tls/usage-guide/>
+- [aegis-aead/libaegis](https://github.com/aegis-aead/libaegis): Portable C implementations of the AEGIS family of high-performance authenticated encryption algorithms. <https://datatracker.ietf.org/doc/draft-irtf-cfrg-aegis-aead/>
+- [ogxd/gxhash](https://github.com/ogxd/gxhash): The fastest hashing algorithm 📈 <https://docs.rs/gxhash>
 
 ## Certificate Management
 

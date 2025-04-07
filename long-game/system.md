@@ -23,6 +23,10 @@
 - 🌟 [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
 - 🌟 [Book: An Introduction to libuv](https://nikhilm.github.io/uvbook/index.html)
 - [System and Service Manager](https://systemd.io/): systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.
+- 🌟 [A Universal I/O Abstraction for C++ | cor3ntin](https://cor3ntin.github.io/posts/iouring/)
+  - P2052 - Making modern C++ i/o a consistent API experience from bottom to top.
+  - > Sender-Receiver is genius in my opinion. It’s so damn simple people can’t see just how game changing it is: it makes possible fully deterministic, ultra high performance, extensible, composable, asynchronous standard i/o. That’s huge. No other contemporary systems programming language would have that: not Rust, not Go, not even Erlang.
+  - [A Universal Async Abstraction for C++ | cor3ntin](https://cor3ntin.github.io/posts/executors/)
 
 ## Compiler
 

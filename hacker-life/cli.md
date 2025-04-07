@@ -13,6 +13,8 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need <https://cheat.sh/>
   - [Latency numbers every programmer should know](https://cheat.sh/latencies)
 - 🌟 [z-shell/zi](https://github.com/z-shell/zi): ✨ A Swiss Army Knife for Zsh - Unix Shell <https://wiki.zshell.dev>
+- 🌟🌟🌟 [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty): 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. <https://ghostty.org>
+  - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config): A beautiful config generator for Ghostty terminal. <http://ghostty.zerebos.com/>
 
 ## standard
 
@@ -39,6 +41,7 @@
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs): Your CLI home video recorder 📼
 - [ellie/atuin](https://github.com/ellie/atuin): 🐢 Magical shell history <https://atuin.sh>
 - [blicky/ncdu](https://g.blicky.net/ncdu.git): Ncdu (NCurses Disk Usage) is a disk usage analyzer with an ncurses interface. <https://dev.yorhel.nl/ncdu>
+- [dundee/gdu](https://github.com/dundee/gdu): Fast disk usage analyzer with console interface written in Go
 - [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
 - [exdx/dcp](https://github.com/exdx/dcp): docker cp made easy
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen): Fast file synchronization and network forwarding for remote development <https://mutagen.io>

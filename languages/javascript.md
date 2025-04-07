@@ -59,6 +59,7 @@
 - vite
 - rolldown
 - [SukkaW/stylex-webpack](https://github.com/SukkaW/stylex-webpack): The another webpack/Next.js Plugin for Facebook StyleX
+- [addyosmani/critical](https://github.com/addyosmani/critical): Extract & Inline Critical-path CSS in HTML pages
 
 ### Runtime
 
@@ -68,6 +69,7 @@
 - [privatenumber/tsx](https://github.com/privatenumber/tsx): ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - 🌟 [pi0/platform-node-compat](https://github.com/pi0/platform-node-compat): Display Node.js compatibility of edge runtimes <https://platform-node-compat.deno.dev/>
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs): A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox <https://sebastianwessel.github.io/quickjs/>
+- [holepunchto/bare](https://github.com/holepunchto/bare): Small and modular JavaScript runtime for desktop and mobile <https://bare.pears.com>
 
 ### Testing
 
@@ -201,7 +203,6 @@
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts): Turn your OpenAPI specification into a beautiful TypeScript client <https://npmjs.com/package/@hey-api/openapi-ts>
 - [nodeshift/opossum](https://github.com/nodeshift/opossum): Node.js circuit breaker - fails fast ⚡️ <https://nodeshift.dev/opossum/>
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3): The fastest and simplest library for SQLite3 in Node.js.
-- [pmndrs/react-nil](https://github.com/pmndrs/react-nil): ⃝ A react null renderer
 - [gajus/slonik](https://github.com/gajus/slonik): A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [aerotoad/neboa](https://github.com/aerotoad/neboa): Type-safe NoSQL with Node & SQLite. 🌫️💽 <https://aerotoad.github.io/neboa/>
   - mongodb for Nodejs + SQLite
@@ -274,7 +275,6 @@
 - [toss/es-toolkit](https://github.com/toss/es-toolkit): A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash. <https://es-toolkit.slash.page>
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib): ✨ Standard library for JavaScript and Node.js. ✨ <https://stdlib.io>
 - [rawify/Fraction.js](https://github.com/rawify/Fraction.js): Fraction is a rational numbers library written in JavaScript <https://raw.org/article/rational-numbers-in-javascript/>
-- [cryptocoinjs/base-x](https://github.com/cryptocoinjs/base-x): Encode/decode any base
 - [mathiasbynens/jsesc](https://github.com/mathiasbynens/jsesc): Given some data, jsesc returns the shortest possible stringified & ASCII-safe representation of that data. <https://mths.be/jsesc>
 - [nojacko/node-country-to-iso](https://github.com/nojacko/node-country-to-iso): Convert inconsistent country names and codes into ISO 3166-1 alpha-2. <https://www.npmjs.com/package/country-to-iso>
 - [remusao/tldts](https://github.com/remusao/tldts): JavaScript Library to extract domains, subdomains and public suffixes from complex URIs. <https://npmjs.com/tldts>
@@ -298,8 +298,6 @@
 ## Misc
 
 - [google/zx](https://github.com/google/zx): A tool for writing better scripts <https://google.github.io/zx/>
-- [Quilljou/transmart](https://github.com/Quilljou/transmart): Automate your i18n localization with AI
-- [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
 - 🌟 [jakebailey/hereby](https://github.com/jakebailey/hereby): A simple Node.js task runner <https://hereby.js.org>
 
 ## Effect system on Typescript

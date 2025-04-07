@@ -243,3 +243,4 @@
 - [ICE Test by atec-systems](https://icetest.atec-systems.com)
 - https://dns.surf/
 - [crt.sh](https://crt.sh/): Certificate Search
+- [W.is Whois Lookup](https://w.is)

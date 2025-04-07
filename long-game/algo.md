@@ -23,6 +23,7 @@
 - [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss. <http://paperswelove.org/>
 - [Jason2Brownlee/MachineLearningMischief](https://github.com/Jason2Brownlee/MachineLearningMischief): Machine Learning Mischief: Examples from the dark side of data science
+- [google-deepmind/educational](https://github.com/google-deepmind/educational): This repository contains a collection of educational tutorials that we have prepared for teaching the basics of machine learning to various audiences.
 
 ## Readings
 
@@ -60,11 +61,13 @@
 - [vwxyzjn/cleanrl](https://github.com/vwxyzjn/cleanrl): High-quality single file implementation of Deep Reinforcement Learning algorithms with research-friendly features (PPO, DQN, C51, DDPG, TD3, SAC, PPG) <http://docs.cleanrl.dev>
 - [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl): JAX (Flax) implementation of algorithms for Deep Reinforcement Learning with continuous action spaces.
 - [facebookresearch/MLGym](https://github.com/facebookresearch/MLGym): MLGym A New Framework and Benchmark for Advancing AI Research Agents
+- [epignatelli/navix](https://github.com/epignatelli/navix): Accelerated minigrid environments with JAX
 
 ## Flow models
 
 - [francois-rozet/zuko](https://github.com/francois-rozet/zuko): Normalizing flows in PyTorch <https://zuko.readthedocs.io>
 - [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows): Awesome resources on normalizing flows.
+- [probml/dynamax](https://github.com/probml/dynamax): State Space Models library in JAX <https://probml.github.io/dynamax/>
 
 ## Differentiable programming / PDE / ODE / SDE
 

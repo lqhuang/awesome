@@ -84,7 +84,9 @@
 
 ### Build tools
 
-- [project/pdm](https://github.com/pdm-project/pdm): A modern Python package manager with PEP 582 support. <https://pdm.fming.dev>
+- [pdm-project/pdm](https://github.com/pdm-project/pdm): A modern Python package manager with PEP 582 support. <https://pdm.fming.dev>
+  - [pdm-project/tox-pdm](https://github.com/pdm-project/tox-pdm): A plugin for tox that utilizes PDM as the package manager and installer
+  - [pdm-project/pdm-shear](https://github.com/pdm-project/pdm-shear): Detect and remove unused dependencies for Python projects
 - [pypa/hatch](https://github.com/pypa/hatch): Modern, extensible Python project management <https://hatch.pypa.io/latest>
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi): Package management made easy <https://prefix.dev>
 - [mamba-org/rattler](https://github.com/mamba-org/rattler): Rust crates to work with the Conda ecosystem.
@@ -153,6 +155,7 @@ Templates
 
 - [trailofbits/pip-audit](https://github.com/trailofbits/pip-audit): Audits Python environments and dependency trees for known vulnerabilities
 - 🌟 [pyupio/safety](https://github.com/pyupio/safety): Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected. <https://safetycli.com/product/safety-cli>
+- [ninoseki/vscode-mogami](https://github.com/ninoseki/vscode-mogami): A VS Code extension for checking the latest version of each dependency <https://marketplace.visualstudio.com/items?itemName=ninoseki.vscode-mogami>
 
 ### Test / Mock / Coverage
 
@@ -232,6 +235,7 @@ Templates
 - [cognitedata/Expression](https://github.com/cognitedata/Expression): Pragmatic functional programming for Python inspired by F#
 - 📝 [orsinium-labs/eff](https://github.com/orsinium-labs/eff): Python library to work with algebraic effects
 - [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper): A fast and efficient type assistant for Python, including tensor shape inference
+- [caterinaurban/Typpete](https://github.com/caterinaurban/Typpete): SMT-based Static Type Inference for Python 3.x
 
 ### Typing
 
@@ -400,6 +404,7 @@ Templates
 - [mikeckennedy/content-types](https://github.com/mikeckennedy/content-types): A Python library to map file extensions to MIME types without accessing the file data. <https://pypi.org/project/content-types/>
 - [scrapy/w3lib](https://github.com/scrapy/w3lib): Python library of web-related functions
 - 🌟 [cle-b/httpdbg](https://github.com/cle-b/httpdbg): A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program. <https://httpdbg.readthedocs.io/>
+- 🌟 [di/id](https://github.com/di/id): A tool for generating OIDC identities
 
 ### DB clients and SQL utils
 

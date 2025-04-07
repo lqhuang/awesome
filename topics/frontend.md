@@ -41,8 +41,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [A summary of libraries that are commonly used with React](https://www.frontendundefined.com/posts/summaries/common-react-libraries/)
 - [Common Mistakes When Using React useState Hook (With Code Examples)](https://blog.akshaykaushik.eu.org/common-mistakes-when-using-react-usestate-hook)
 - [How React server components work: an in-depth guide](https://www.plasmic.app/blog/how-react-server-components-work)
-  - What I'm interested: RSC Wire Format
-  - - [alvarlagerlof/rsc-parser](https://github.com/alvarlagerlof/rsc-parser): A parser for the React Server components when sent over the network <https://rsc-parser.vercel.app>
+  - What I'm actually interested: RSC Wire Format
+  - [alvarlagerlof/rsc-parser](https://github.com/alvarlagerlof/rsc-parser): A parser for the React Server components when sent over the network <https://rsc-parser.vercel.app>
 - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 
@@ -187,6 +187,8 @@ Shadcn UI eco system
 - [serafimcloud/21st](https://github.com/serafimcloud/21st): npm for design engineers: largest marketplace of shadcn/ui-based React Tailwind components, blocks and hooks <https://21st.dev>
 - [Meschacirung/cnblocks](https://github.com/Meschacirung/cnblocks): Shadcn marketing blocks <https://nsui.irung.me>
 - [RLabs-Inc/shadcn-themes](https://github.com/RLabs-Inc/shadcn-themes): Generate themes for Shadcn UI using Sacred Geometry Patterns and modern mathematics equations mixed within Color Theory or just pick your colors for each available CSS variable. This project leverages the benefits of the OKLCH color space like perceptual lightness and others. <https://shadcn.rlabs.art>
+- [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn): A visual no-code editor for shadcn/ui components <https://tweakcn.com>
+- [sadmann7/sortable](https://github.com/sadmann7/sortable): A sortable component built with shadcn/ui, radix ui, and dnd-kit. <https://sortable.sadmn.com>
 
 #### Svelte
 
@@ -224,6 +226,19 @@ Genius!
 - 🌟 [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React. <https://sonner.emilkowal.ski>
 - 🌟🌟🌟 [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
   - [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
+
+List
+
+- [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso): The most powerful virtual list component for React <https://virtuoso.dev/>
+- [TanStack/virtual](https://github.com/TanStack/virtual): 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte <https://tanstack.com/virtual>
+- [catamphetamine/virtual-scroller](https://github.com/catamphetamine/virtual-scroller): A component for efficiently rendering large lists of variable height items <https://catamphetamine.gitlab.io/virtual-scroller/?dynamic=%E2%9C%93>
+
+Table
+
+- [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table <https://tanstack.com/table>
+- [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator): Interactive Tables and Data Grids for JavaScript <http://tabulator.info/>
+- [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid): World's most performant DOM-based web table. <https://fast-grid.vercel.app/>
+- 🌟 [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid): 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support. <https://grid.glideapps.com>
 
 Interactive Grid
 
@@ -265,6 +280,53 @@ Select
 
 - [JedWatson/react-select](https://github.com/JedWatson/react-select): The Select Component for React.js <https://react-select.com/>
 - [simonwep/selection](https://github.com/simonwep/selection): ✨ Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks! <https://simonwep.github.io/selection>
+
+Drag / Drop
+
+- [daybrush/moveable](https://github.com/daybrush/moveable): Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable! <https://daybrush.com/moveable/>
+- 🪦? [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit): The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React. <http://dndkit.com>
+  - Unlike most drag and drop libraries, dnd kit intentionally is not built on top of the HTML5 Drag and drop API.
+  - The HTML5 Drag and drop API has some severe limitations. It does not support touch devices or using the keyboard to drag items, which means that the libraries that are built on top of it need to expose an entirely different implementation to support those input methods.
+  - The main tradeoff with not using the HTML5 Drag and drop API is that you won't be able to drag from the desktop or between windows.
+- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd): Drag and Drop for React <http://react-dnd.github.io/react-dnd>
+- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop): Fast drag and drop for any experience on any tech stack <https://atlassian.design/components/pragmatic-drag-and-drop>
+- 🌟 [mathuo/dockview](https://github.com/mathuo/dockview): Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue. <https://dockview.dev>
+- [Shopify/draggable](https://github.com/Shopify/draggable): The JavaScript Drag & Drop library your grandparents warned you about. <https://shopify.github.io/draggable>
+
+Form
+
+- 🌟 [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form): 📋 React Hooks for form state management and validation (Web + React Native) <https://react-hook-form.com>
+- [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 <https://formik.org>
+- [bhch/react-json-form](https://github.com/bhch/react-json-form): JSON editing made easy using form inputs. <https://bhch.github.io/react-json-form>
+- [edmundhung/conform](https://github.com/edmundhung/conform): A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js. <https://conform.guide>
+- [guidone/lets-form](https://github.com/guidone/lets-form): A JSON form generator for React with Material UI / AntDesign / Bootstrap / RSuite / Mantine <https://letsform.dev>
+- [m6io/react-formgen](https://github.com/m6io/react-formgen): Headless, unopinionated, and flexible form generation. <https://react-formgen.vercel.app>
+
+Upload
+
+- [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
+- [rpldy/react-uploady](https://github.com/rpldy/react-uploady): Modern file uploading - components & hooks for React <https://react-uploady.org/>
+- [rafasofizada/pechkin](https://github.com/rafasofizada/pechkin): Asynchronous Node.js file upload (multipart/form-data) handling.
+- [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing): File uploads for modern web devs <https://uploadthing.com>
+- [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
+
+Onboarding
+
+- 🌟 [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js): A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page <https://driverjs.com>
+- [useflytrap/onboarding_lib](https://github.com/useflytrap/onboarding_lib): 🪜 A tiny headless onboarding library with form validation, schema validation using Zod and persistance with unstorage. <https://onboarding-lib.vercel.app>
+- [shepherd-pro/react-shepherd](https://github.com/shepherd-pro/react-shepherd): A React wrapper for the site tour library Shepherd <https://react-shepherd.vercel.app>
+- [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride): Create guided tours in your apps <https://react-joyride.com/>
+- [uixmat/onborda](https://github.com/uixmat/onborda): An onboarding wizard flow for Next.js powered by framer motion <https://onborda.dev>
+
+Media player
+
+- [sampotts/plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player <https://plyr.io>
+- [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer): 🍭 Wow, such a lovely HTML5 danmaku video player <https://dplayer.diygod.dev>
+- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player): JavaScript player library / DASH & HLS client / MSE-EME player
+  - [WINOFFRG/limeplay](https://github.com/WINOFFRG/limeplay): ⭐ NEW: Modern Headless UI Library for Media Player (Shaka Player & HTML5) in React <https://limeplay.me>
+- [bytedance/xgplayer](https://github.com/bytedance/xgplayer): A HTML5 video player with a parser that saves traffic <https://h5player.bytedance.com/>
+- https://player.style/
 
 Misc
 
@@ -317,54 +379,6 @@ Misc
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono): 🕑 Modern Timeline Component for React <https://react-chrono.prabhumurthy.com/>
 - [nucleuscloud/neocron](https://github.com/nucleuscloud/neocron): A modern, lightweight cron scheduling react component styled using tailwind css
 
-#### Form
-
-- 🌟 [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form): 📋 React Hooks for form state management and validation (Web + React Native) <https://react-hook-form.com>
-- [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 <https://formik.org>
-- [bhch/react-json-form](https://github.com/bhch/react-json-form): JSON editing made easy using form inputs. <https://bhch.github.io/react-json-form>
-- [edmundhung/conform](https://github.com/edmundhung/conform): A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js. <https://conform.guide>
-- [guidone/lets-form](https://github.com/guidone/lets-form): A JSON form generator for React with Material UI / AntDesign / Bootstrap / RSuite / Mantine <https://letsform.dev>
-- [m6io/react-formgen](https://github.com/m6io/react-formgen): Headless, unopinionated, and flexible form generation. <https://react-formgen.vercel.app>
-
-#### Upload
-
-- [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
-- [rpldy/react-uploady](https://github.com/rpldy/react-uploady): Modern file uploading - components & hooks for React <https://react-uploady.org/>
-- [rafasofizada/pechkin](https://github.com/rafasofizada/pechkin): Asynchronous Node.js file upload (multipart/form-data) handling.
-- [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing): File uploads for modern web devs <https://uploadthing.com>
-- [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
-
-#### Drag / Drop
-
-- [daybrush/moveable](https://github.com/daybrush/moveable): Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable! <https://daybrush.com/moveable/>
-- 🪦? [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone): Simple HTML5 drag-drop zone with React.js. <https://react-dropzone.js.org>
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit): The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React. <http://dndkit.com>
-  - Unlike most drag and drop libraries, dnd kit intentionally is not built on top of the HTML5 Drag and drop API.
-  - The HTML5 Drag and drop API has some severe limitations. It does not support touch devices or using the keyboard to drag items, which means that the libraries that are built on top of it need to expose an entirely different implementation to support those input methods.
-  - The main tradeoff with not using the HTML5 Drag and drop API is that you won't be able to drag from the desktop or between windows.
-- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd): Drag and Drop for React <http://react-dnd.github.io/react-dnd>
-- [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop): Fast drag and drop for any experience on any tech stack <https://atlassian.design/components/pragmatic-drag-and-drop>
-- 🌟 [mathuo/dockview](https://github.com/mathuo/dockview): Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue. <https://dockview.dev>
-- [Shopify/draggable](https://github.com/Shopify/draggable): The JavaScript Drag & Drop library your grandparents warned you about. <https://shopify.github.io/draggable>
-
-#### Table
-
-- [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table <https://tanstack.com/table>
-- [TanStack/virtual](https://github.com/TanStack/virtual): 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte <https://tanstack.com/virtual>
-- 🌟 [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid): 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support. <https://grid.glideapps.com>
-- [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator): Interactive Tables and Data Grids for JavaScript <http://tabulator.info/>
-- [sadmann7/sortable](https://github.com/sadmann7/sortable): A sortable component built with shadcn/ui, radix ui, and dnd-kit. <https://sortable.sadmn.com>
-- [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid): World's most performant DOM-based web table. <https://fast-grid.vercel.app/>
-- [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso): The most powerful virtual list component for React <https://virtuoso.dev/>
-
-#### Onboarding
-
-- 🌟 [kamranahmedse/driver.js](https://github.com/kamranahmedse/driver.js): A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page <https://driverjs.com>
-- [useflytrap/onboarding_lib](https://github.com/useflytrap/onboarding_lib): 🪜 A tiny headless onboarding library with form validation, schema validation using Zod and persistance with unstorage. <https://onboarding-lib.vercel.app>
-- [shepherd-pro/react-shepherd](https://github.com/shepherd-pro/react-shepherd): A React wrapper for the site tour library Shepherd <https://react-shepherd.vercel.app>
-- [gilbarbara/react-joyride](https://github.com/gilbarbara/react-joyride): Create guided tours in your apps <https://react-joyride.com/>
-- [uixmat/onborda](https://github.com/uixmat/onborda): An onboarding wizard flow for Next.js powered by framer motion <https://onborda.dev>
-
 #### Markdown
 
 - 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown): Markdown component for React <https://remarkjs.github.io/react-markdown>
@@ -413,6 +427,8 @@ Syntax hightlight
 - [animate-css/animate.css](https://github.com/animate-css/animate.css): 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. <https://animate.style/>
 - [galacean/effects-runtime](https://github.com/galacean/effects-runtime): It can load and render cool animation effects <https://www.galacean.com/effects/>
 - [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations): React-useanimations is a collection of free animated open source icons for React.js. <http://react.useanimations.com>
+- [shantinghou/interactive-illustrations](https://github.com/shantinghou/interactive-illustrations): <https://svggles.vercel.app/>
+- [juliangarnier/anime](https://github.com/juliangarnier/anime): JavaScript animation engine <https://animejs.com>
 
 Concrete animations
 
@@ -421,15 +437,6 @@ Concrete animations
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits): An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces. <https://reactbits.dev>
 - [WinterCore/react-text-transition](https://github.com/WinterCore/react-text-transition): Animate your text changes
 - [maxeth/react-type-animation](https://github.com/maxeth/react-type-animation): A React typewriter animation based on typical with extended functionality and customization. <https://react-type-animation.netlify.app/>
-
-#### Media player
-
-- [sampotts/plyr](https://github.com/sampotts/plyr): A simple HTML5, YouTube and Vimeo player <https://plyr.io>
-- [DIYgod/DPlayer](https://github.com/DIYgod/DPlayer): 🍭 Wow, such a lovely HTML5 danmaku video player <https://dplayer.diygod.dev>
-- [shaka-project/shaka-player](https://github.com/shaka-project/shaka-player): JavaScript player library / DASH & HLS client / MSE-EME player
-  - [WINOFFRG/limeplay](https://github.com/WINOFFRG/limeplay): ⭐ NEW: Modern Headless UI Library for Media Player (Shaka Player & HTML5) in React <https://limeplay.me>
-- [bytedance/xgplayer](https://github.com/bytedance/xgplayer): A HTML5 video player with a parser that saves traffic <https://h5player.bytedance.com/>
-- [](https://player.style/)
 
 ## Functional libraries
 
@@ -479,7 +486,6 @@ Concrete animations
 - [evilmartians/figma-polychrom](https://github.com/evilmartians/figma-polychrom): Figma plugin for displaying the contrast level and font size recommendations according to the APCA method <https://www.figma.com/community/plugin/1281280685402026529/polychrom>
 - [gridaco/cors.sh](https://github.com/gridaco/cors.sh): Sick of CORS Errors? <https://cors.sh>
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid): A module used to arrange card elements including content infinitely on a grid layout. <https://naver.github.io/egjs-infinitegrid/>
-- [lazarv/react-server](https://github.com/lazarv/react-server): The easiest way to build React apps with server-side rendering <https://react-server.dev>
 - [freedomofpress/webcat](https://github.com/freedomofpress/webcat): WEBCAT is an architectural framework for providing blocking code signing and verification, integrity and transparency checks for browser-based applications.
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js): "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection <https://uaparser.dev/>
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis): Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers <https://anubis.techaro.lol/>
@@ -542,6 +548,7 @@ Concrete animations
 - 🌟 [gilbarbara/logos](https://github.com/gilbarbara/logos): A huge collection of SVG logos <http://svgporn.com/>
 - [devicons/devicon](https://github.com/devicons/devicon): Set of icons representing programming languages, designing & development tools <https://devicon.dev>
 - 🌟 [Line Icons](https://lineicons.com/): Make Every Project Unique
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own second brain and digital garden for free <https://quartz.jzhao.xyz/>
 
 ## Further topics
 
@@ -562,12 +569,15 @@ Concrete animations
 - [What PWA can do](https://whatpwacando.today/): A Progressive Web App (PWA) is a website that can be installed on your device and provide an app-like experience
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox): 📦 Workbox: JavaScript libraries for Progressive Web Apps <https://developers.google.com/web/tools/workbox/>
 
-### SSG / Server Action
+### SSR / SSG / Server Action
 
 - [craigary/nobelium](https://github.com/craigary/nobelium): A static blog build on top of Notion and NextJS, deployed on Vercel. <https://nobelium.js.org>
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own second brain and digital garden for free <https://quartz.jzhao.xyz/>
 - [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages): CLI to build and develop Next.js apps for Cloudflare Pages <https://www.npmjs.com/package/@cloudflare/next-on-pages>
+- [pmndrs/react-nil](https://github.com/pmndrs/react-nil): ⃝ A react null renderer
+- [lazarv/react-server](https://github.com/lazarv/react-server): The easiest way to build React apps with server-side rendering <https://react-server.dev>
+- [kitajs/html](https://github.com/kitajs/html): 🏛️ Super fast JSX runtime to generate HTML strings that works everywhere. If it supports string we got you covered. <http://kitajs.org/discord>
 
 ### Headless
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser): Lightpanda: the headless browser designed for AI and automation <https://lightpanda.io>
+- [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>

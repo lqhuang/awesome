@@ -26,3 +26,5 @@
   - People describe Are.na as "~playlists, but for ideas~" or an "~Internet memory palace~."
 - [Interview.sh](https://interview.sh/): Interview.sh AI assistant for technical interviews in the browser.
   - Contribute by [@franz101](https://github.com/franz101) 🥰
+- [antiwork/gumroad](https://github.com/antiwork/gumroad): Sell your stuff. See what sticks. <https://gumroad.com/>
+  - [antiwork/iffy](https://github.com/antiwork/iffy): Intelligent content moderation at scale <https://iffy.com>
