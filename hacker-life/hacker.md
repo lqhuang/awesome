@@ -21,7 +21,6 @@
 - 🌟 [facebook/watchman](https://github.com/facebook/watchman): Watches files and records, or triggers actions, when they change. <https://facebook.github.io/watchman/>
 - 🌟 [eradman/entr](https://github.com/eradman/entr): Run arbitrary commands when files change <http://eradman.com/entrproject/>
   - someone said it's better than watchman 🤔
-- 🌟 [facebook/dotslash](https://github.com/facebook/dotslash): Simplified executable deployment <https://dotslash-cli.com>
 - [jdx/mise](https://github.com/jdx/mise): dev tools, env vars, task runner <https://mise.jdx.dev>
 - [agorapulse/pierrot](https://github.com/agorapulse/pierrot): Multi-repository GitHub Governance Tool
 - [Windows Admin Center](https://www.microsoft.com/en-us/windows-server/windows-admin-center): Windows Admin Center is your remote management tool for Windows Server running anywhere–physical, virtual, on-premises, in Azure, or in a hosted environment–at no additional cost.
@@ -35,6 +34,7 @@
   - [tuteng/Best-websites-a-programmer-should-visit-zh](https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh): 程序员应该访问的最佳网站中文版
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know about
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [QOJ.ac](https://qoj.ac/)
 
 ### Git
 
@@ -96,7 +96,6 @@
 - [YunoHost/yunohost](https://github.com/YunoHost/yunohost): YunoHost is an operating system aiming to simplify as much as possible the administration of a server. This repository corresponds to the core code, written mostly in Python and Bash. <https://yunohost.org>
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. <https://sandstorm.io>
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. <https://umbrel.com>
-
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates): 🚢 400+ 1-click Portainer app templates <https://portainer-templates.as93.net>
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny): Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr): fork of overseerr for jellyfin support
@@ -175,6 +174,8 @@
 - [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead): the website blocklist I am maintaining
 - [metowolf/vCards](https://github.com/metowolf/vCards): 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [lvwzhen/medicine](https://github.com/lvwzhen/medicine): 原研药列表 <https://medicine.lvwzhen.com>
+- [Public IPTV](https://publiciptv.com/): Collection of Publicly & Free IPTV Channels , Available in the United States.
+- [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master): 《代码随想录》LeetCode 刷题攻略
 
 ## Branding
 

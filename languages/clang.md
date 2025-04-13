@@ -71,6 +71,7 @@ And modern is here now.
 - [xiaoweiChen/Learn-LLVM-17](https://github.com/xiaoweiChen/Learn-LLVM-17): 《Learn LLVM 17》的非专业个人翻译
 - [lkimuk/cpp-generative-metaprogramming](https://github.com/lkimuk/cpp-generative-metaprogramming): C++ Generative Metaprogramming
 - [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
+- [MeouSker77/Cpp17](https://github.com/MeouSker77/Cpp17): 本书为《C++17 the complete guide》的个人中文翻译，仅供学习和交流使用，侵删
 
 ## Toolchain
 
@@ -176,6 +177,7 @@ And modern is here now.
 - [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
 - [lemire/EWAHBoolArray](https://github.com/lemire/EWAHBoolArray): A compressed bitmap class in C++. <http://lemire.github.io/EWAHBoolArray/>
 - [lewj85/jessesort](https://github.com/lewj85/jessesort): No description, website, or topics provided.
+- [hanickadot/shorty](https://github.com/hanickadot/shorty): No description, website, or topics provided.
 
 ## String
 

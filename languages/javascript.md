@@ -94,6 +94,7 @@
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench): 🔎 A simple, tiny and lightweight benchmarking library!
 - [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker): JSON-Schema + fake data generators <http://json-schema-faker.js.org/>
 - [ladjs/supertest](https://github.com/ladjs/supertest): 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API. Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
+- [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices): Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 
 ### Linter / Formatter
 
@@ -192,6 +193,11 @@
 - [bradymholt/cRonstrue](https://github.com/bradymholt/cRonstrue): JavaScript library that translates Cron expressions into human readable descriptions <http://bradymholt.github.io/cRonstrue/>
 - [P4sca1/cron-schedule](https://github.com/P4sca1/cron-schedule): A zero-dependency cron parser and scheduler for Node.js, Deno and the browser.
 - [jkroso/parse-duration](https://github.com/jkroso/parse-duration): convert a human readable duration to ms
+- [fullcalendar/temporal-polyfill](https://github.com/fullcalendar/temporal-polyfill): A lightweight polyfill for Temporal, successor to the JavaScript Date object
+- [js-temporal/temporal-polyfill](https://github.com/js-temporal/temporal-polyfill): Polyfill for Temporal (under construction)
+- [wanasit/chrono](https://github.com/wanasit/chrono): A natural language date parser in Javascript
+- [spencermountain/spacetime](https://github.com/spencermountain/spacetime): A lightweight javascript timezone library <http://spacetime.how/>
+  - Support for upcoming `Temporal` standards
 
 ### Backend
 

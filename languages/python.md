@@ -81,6 +81,7 @@
 - How to build a signature compatiblity linter on top of ... ?
   - [pomponchik/sigmatch](https://github.com/pomponchik/sigmatch): A quick way to verify function signatures in Python
   - Feel much confident while doing developments using `mima` (Scala)
+- [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer): Run mypy and pyright over millions of lines of code
 
 ### Build tools
 

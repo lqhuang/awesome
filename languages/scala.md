@@ -150,6 +150,7 @@
 ### Shims
 
 - 🌟 [michalbogacz/scala-bazel-monorepo](https://github.com/michalbogacz/scala-bazel-monorepo): Example monorepo with Bazel and Scala
+  - [Overcoming monorepo challenges with Bazel](https://virtuslab.com/blog/backend/overcoming-monorepo-challenges/): In this article, we will examine common monorepo challenges.
 - [ekrich/sconfig](https://github.com/ekrich/sconfig): Scala configuration library supporting HOCON for Scala, Java, Scala.js, and Scala Native
 
 Do a benchmark (final size while using Scala Native) for them?
@@ -218,6 +219,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [earldouglas/linear-scala](https://github.com/earldouglas/linear-scala): Linear types in Scala
 - [scala-ts/scala-ts](https://github.com/scala-ts/scala-ts): 🔧 Scala datamodel transpiler <https://scala-ts.github.io/scala-ts>
 - [bishabosha/ops-mirror](https://github.com/bishabosha/ops-mirror): Type class derivation for services, not data
+- [typelevel/literally](https://github.com/typelevel/literally): Compile time validation of literal values built from strings
 
 ### Formal verification
 
@@ -270,6 +272,7 @@ Do a benchmark (final size while using Scala Native) for them?
 
 - [scala-native/scala-native-cli](https://github.com/scala-native/scala-native-cli): Command Line Interface for Scala Native
 - [bkirwi/decline](https://github.com/bkirwi/decline): A composable command-line parser for Scala. <https://ben.kirw.in/decline/>
+  - [andimiller/decline-completion](https://github.com/andimiller/decline-completion): A module for the decline command line parser to enable bash and zsh autocomplete
 - [alexarchambault/case-app](https://github.com/alexarchambault/case-app): Type-level & seamless command-line argument parsing for Scala
 - [avdv/scalals](https://github.com/avdv/scalals): A colorful ls command, with awesome icons.
 - [joan38/moulin](https://github.com/joan38/moulin): Build multi-projects with Scala CLI

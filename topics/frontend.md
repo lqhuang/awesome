@@ -14,7 +14,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [ericdiviney/react-handbook](https://github.com/ericdiviney/react-handbook): ⚛🤌 Modern approaches to architecture and feature development for production-ready React apps. <https://reacthandbook.dev>
 - [BetaSu/just-react](https://github.com/BetaSu/just-react): 「React 技术揭秘」一本自顶向下的 React 源码分析书 <https://react.iamkasong.com/>
 - 🌟 [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/): A guide that teaches professional developers how to transform component libraries into design systems and set up the production infrastructure used by leading frontend teams.
-- [UI Testing Handbook](https://storybook.js.org/tutorials/ui-testing-handbook/): A guide that highlights UI testing strategies used by scaled front-end teams. You'll learn to verify everything from visual appearance to logic and even detect integration issues. Along the way, we'll demonstrate how you can reduce bugs by automatically running your tests.
 - 🌟 [Patterns.dev](https://www.patterns.dev/): Improve how you architect webapps
 - [feature-sliced/documentation](https://github.com/feature-sliced/documentation): 🍰 Architectural design methodology for Frontend projects <https://feature-sliced.design>
   - [Feature Sliced Design - Examples](https://feature-sliced.design/examples)
@@ -96,9 +95,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ### UI Testing
 
+- [UI Testing Handbook](https://storybook.js.org/tutorials/ui-testing-handbook/): A guide that highlights UI testing strategies used by scaled front-end teams. You'll learn to verify everything from visual appearance to logic and even detect integration issues. Along the way, we'll demonstrate how you can reduce bugs by automatically running your tests.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app): A modified web browser that helps in responsive web development. A web developer's must have dev-tool. <https://responsively.app>
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web): Debug remotely and easily like chrome devtools. <https://pagespy.org>
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro): Painless E2E Automation for Mobile and Web <https://maestro.dev>
+- [nut-tree/nut.js](https://github.com/nut-tree/nut.js): Native UI testing / controlling with node <https://nutjs.dev>
 
 ### Performance Profiles
 
@@ -140,6 +141,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui): 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) <https://heroui.com>
 - [reach/reach-ui](https://github.com/reach/reach-ui): The Accessible Foundation for React Apps and Design Systems <https://reach.tech> #design-system
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui): ⚡️ Simple, Modular & Accessible UI Components for your React Applications <https://chakra-ui.com>
+- [chakra-ui/ark](https://github.com/chakra-ui/ark): Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines <https://ark-ui.com>
 - [horizon-ui/horizon-ui-chakra](https://github.com/horizon-ui/horizon-ui-chakra):The most trendiest & innovative Open Source Admin Template for Chakra UI & React! <https://horizon-ui.com>
 - [adobe/react-spectrum](https://github.com/adobe/react-spectrum): A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences. <https://react-spectrum.adobe.com>
   - 🌟 react-aria
@@ -154,7 +156,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Snow Dashboard UI Kit](https://snow.byewind.com): An advanced Dashboard / SaaS UI kit and design system for Figma. It can help you quickly build Dashboard, SaaS and other projects, and has a very good user experience.
   - paid required
 - 🌟 [hevar/awesome-react-headless-ui-components](https://github.com/hevar/awesome-react-headless-ui-components): No description, website, or topics provided.
-  - it's enough to check this out
 
 My own favorites:
 
@@ -164,6 +165,10 @@ My own favorites:
 - 🌟 [irsyadadl/justd](https://github.com/irsyadadl/justd): Justd is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects. <https://getjustd.com>
   - like shadcn/ui but with Tailwind CSS + React Aria Components instead of Radix UI
   - Some interesting learable usages of `tv` (tailwind variant) lib
+
+#### React Aria eco system
+
+- [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui): shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source. <https://jollyui.dev>
 
 #### radix-ui eco system
 
@@ -189,6 +194,7 @@ Shadcn UI eco system
 - [RLabs-Inc/shadcn-themes](https://github.com/RLabs-Inc/shadcn-themes): Generate themes for Shadcn UI using Sacred Geometry Patterns and modern mathematics equations mixed within Color Theory or just pick your colors for each available CSS variable. This project leverages the benefits of the OKLCH color space like perceptual lightness and others. <https://shadcn.rlabs.art>
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn): A visual no-code editor for shadcn/ui components <https://tweakcn.com>
 - [sadmann7/sortable](https://github.com/sadmann7/sortable): A sortable component built with shadcn/ui, radix ui, and dnd-kit. <https://sortable.sadmn.com>
+- 🌟 [danielpetho/fancy](https://github.com/danielpetho/fancy): A growing library of fancy, fun, animated react components & microinteractions to make the web fun again. Free & Open Source. <https://fancycomponents.dev/>
 
 #### Svelte
 
@@ -437,6 +443,8 @@ Concrete animations
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits): An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces. <https://reactbits.dev>
 - [WinterCore/react-text-transition](https://github.com/WinterCore/react-text-transition): Animate your text changes
 - [maxeth/react-type-animation](https://github.com/maxeth/react-type-animation): A React typewriter animation based on typical with extended functionality and customization. <https://react-type-animation.netlify.app/>
+- [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts): 🔥100+ Free beautifull interactive react/nextjs component based on tailwindcss, framer-motion, gsap etc <https://www.ui-layouts.com>
+- [ui-layouts/cursify](https://github.com/ui-layouts/cursify): Cursor Animation Library for React & Next.js <https://cursify.vercel.app>
 
 ## Functional libraries
 
@@ -512,6 +520,7 @@ Concrete animations
 - [toomuchdesign/react-minimal-pie-chart](https://github.com/toomuchdesign/react-minimal-pie-chart): 🍰 Lightweight but versatile SVG pie/donut charts for React. < 2kB gzipped. <https://toomuchdesign.github.io/react-minimal-pie-chart/index.html>
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts): Performant financial charts built with HTML5 canvas <https://www.tradingview.com/lightweight-charts/>
 - [paper-design/shaders](https://github.com/paper-design/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper <https://paper.design>
+- [konvajs/konva](https://github.com/konvajs/konva): Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. <http://konvajs.org/>
 - [naver/billboard.js](https://github.com/naver/billboard.js): 📊 Re-usable, easy interface JavaScript chart library based on D3.js <https://naver.github.io/billboard.js/>
 
 ### Tree / Architecture
@@ -563,6 +572,7 @@ Concrete animations
 - [google/model-viewer](https://github.com/google/model-viewer): Easily display interactive 3D models on the web and in AR! <https://modelviewer.dev>
 - [Scthe/nanite-webgpu](https://github.com/Scthe/nanite-webgpu): UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis. <https://scthe.github.io/nanite-webgpu/>
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU): TypeGPU is a TypeScript library that enhances the WebGPU API, allowing resource management in a type-safe, declarative way. <http://typegpu.com>
+- [oframe/ogl](https://github.com/oframe/ogl): Minimal WebGL Library <https://oframe.github.io/ogl/examples>
 
 ### PWA
 

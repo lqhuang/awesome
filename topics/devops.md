@@ -13,6 +13,7 @@
 - [buildbarn/bb-deployments](https://github.com/buildbarn/bb-deployments): Example deployments of Buildbarn on various platforms
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit): A pre-commit hook for Ruff.
 - [package-url/purl-spec](https://github.com/package-url/purl-spec): A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby <https://github.com/package-url/purl-spec>
+- [evilmartians/lefthook](https://github.com/evilmartians/lefthook): Fast and powerful Git hooks manager for any type of projects. <http://lefthook.dev/>
 
 ### Misc linters / formatters
 
@@ -137,7 +138,7 @@ Libs
 
 ## API Test
 
-- 🌟 [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) <https://www.usebruno.com/>
+- [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) <https://www.usebruno.com/>
 - 🌟 [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl): Hurl, run and test HTTP requests with plain text. <https://hurl.dev>
 - 🌟 [ducaale/xh](https://github.com/ducaale/xh): Friendly and fast tool for sending HTTP requests
   - Fast httpie

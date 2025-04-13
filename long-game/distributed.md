@@ -72,6 +72,8 @@
 - 🌟 [tqwewe/kameo](https://github.com/tqwewe/kameo): Fault-tolerant Async Actors Built on Tokio <https://crates.io/crates/kameo>
 - [Comparing Rust Actor Libraries: Actix, Coerce, Kameo, Ractor, and Xtra | Ari Seyhun](https://theari.dev/blog/comparing-rust-actor-libraries/): A Comprehensive Performance and Feature Comparison of Five Leading Rust Actor Libraries.
   - 🤣
+- [elfo-rs/elfo](https://github.com/elfo-rs/elfo): An asynchronous distributed actor framework in Rust with robust observability
+  - [The Actoromicon](https://actoromicon.rs/): This book aims to describe a superior approach to build heavily asynchronous and distributed applications based on the actor model using the elfo framework.
 
 ## Middleware
 

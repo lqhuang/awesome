@@ -45,7 +45,6 @@
 - [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
 - [exdx/dcp](https://github.com/exdx/dcp): docker cp made easy
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen): Fast file synchronization and network forwarding for remote development <https://mutagen.io>
-- [chshersh/tool-sync](https://github.com/chshersh/tool-sync): 🧰 Download pre-built binaries of all your favourite tools with a single command
 - 🌟 [dalance/procs](https://github.com/dalance/procs): A modern replacement for ps written in Rust
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker): Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
@@ -66,7 +65,6 @@
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
 - 🌟 [bensadeh/tailspin](https://github.com/bensadeh/tailspin): 🌀 A log file highlighter
-- [ducaale/xh](https://github.com/ducaale/xh): Friendly and fast tool for sending HTTP requests
 - [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - 🌟 [francoismichel/ssh3](https://github.com/francoismichel/ssh3): SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 <https://arxiv.org/abs/2312.08396>
 - [n0-computer/iroh](https://github.com/n0-computer/iroh): Sync anywhere <https://iroh.computer>
@@ -80,6 +78,8 @@
 - [wolfpld/vv](https://github.com/wolfpld/vv): Terminal image viewer
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin): Human-readable ANSI sequences 🪩
 - [google/codesearch](https://github.com/google/codesearch): Fast, indexed regexp search over large file trees <http://swtch.com/~rsc/regexp/regexp4.html>
+- [ynqa/jnv](https://github.com/ynqa/jnv): Interactive JSON filter using jq
+- [davidesantangelo/krep](https://github.com/davidesantangelo/krep): Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale. <https://davidesantangelo.github.io/krep/>
 
 ## TUI applications
 

@@ -46,6 +46,7 @@ Streaming Systems
 - [python-streamz/streamz](https://github.com/python-streamz/streamz): Real-time stream processing for python <https://streamz.readthedocs.io/en/latest/>
 - [tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime): Tremor is an event- or stream-processing system. It is designed to perform well for high-volumetric data both in terms of consumption of memory and CPU resources and in terms of latency. <https://www.tremor.rs/>
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo): Arroyo is a distributed stream processing engine written in Rust <https://arroyo.dev/>
+  - Acquired by Cloudlare at Apr 11, 2025
 - 📝 [cda-group/arcon](https://github.com/cda-group/arcon): State-first Streaming Applications in Rust <https://cda-group.github.io/arcon>
 - [infinyon/fluvio](https://github.com/infinyon/fluvio): Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly. <https://www.fluvio.io/>
 - 🌟📝 [airtai/faststream](https://github.com/airtai/faststream): FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ and NATS. <https://faststream.airt.ai/?utm_source=github&utm_medium=acquisition&utm_campaign=measure>

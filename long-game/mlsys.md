@@ -281,6 +281,7 @@ FAIR specialist
 - [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl): NVIDIA Inference Xfer Library (NIXL)
 - [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python): CUDA Python: Performance meets Productivity <https://nvidia.github.io/cuda-python/>
 - [NVIDIA/nvmath-python](https://github.com/NVIDIA/nvmath-python): NVIDIA Math Libraries for the Python Ecosystem <https://docs.nvidia.com/cuda/nvmath-python/>
+- [cubed-dev/cubed](https://github.com/cubed-dev/cubed): Scalable array processing with bounded memory <https://cubed-dev.github.io/cubed/>
 
 ## Specific Topics
 

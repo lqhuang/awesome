@@ -34,6 +34,7 @@
 - [keycastr/keycastr](https://github.com/keycastr/keycastr): KeyCastr, an open-source keystroke visualizer
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz): Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time. <https://mularahul.github.io/keyviz>
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger): Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
+- 🌟 [johnfactotum/foliate](https://github.com/johnfactotum/foliate): Read e-books in style <https://johnfactotum.github.io/foliate/>
 
 ### Notes / Knowledge Management
 
@@ -151,6 +152,7 @@
 - [NotchNook](https://lo.cafe/notchnook): a whole new way of using your `macos`
 - [LocalCan™ - Local domains and persistent Public URLs](https://www.localcan.com/): LocalCan™ for macOS is a powerful Ngrok alternative, allowing developers to build and test apps with .local domains and secure persistent Public URLs.
 - [Hypercritical: Front and Center](https://hypercritical.co/front-and-center/): no description found
+- [Paste](https://pasteapp.io/): The clipboard as it should be. Paste is a new way to keep, search, and organize everything you copy on your Mac, iPhone, and iPad.
 
 ## Windows
 

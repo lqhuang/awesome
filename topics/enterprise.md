@@ -46,6 +46,8 @@
 - [hddhyq/opencclint](https://github.com/hddhyq/opencclint): 繁简体转换工具 ，基于 OpenCC 支持编辑器和命令行界面 <https://opencclint.vercel.app>
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant): Contributor License Agreement assistant (CLA assistant) <https://cla-assistant.io>
 - [anistark/feluda](https://github.com/anistark/feluda): Detect license usage restrictions in your project! <https://crates.io/crates/feluda>
+- [nalgeon/redka](https://github.com/nalgeon/redka): Redis re-implemented with SQLite
+  - Cool, but only applied on Golang now 🤔
 
 ### Dev environments
 

@@ -63,3 +63,4 @@ yyjson
 - [rapidsai/cucim](https://github.com/rapidsai/cucim): cuCIM - RAPIDS GPU-accelerated image processing library <https://docs.rapids.ai/api/cucim/stable/>
 - [rapidsai/cuvs](https://github.com/rapidsai/cuvs): cuVS - a library for vector search and clustering on the GPU <https://rapids.ai>
 - [rapidsai/devcontainers](https://github.com/rapidsai/devcontainers): This repository contains features and workflows for building development containers to support local dev and CI for NVIDIA RAPIDS, CCCL, and Legate.
+- [rapidsai/cuxfilter](https://github.com/rapidsai/cuxfilter): GPU accelerated cross filtering with cuDF. <https://docs.rapids.ai/api/cuxfilter/stable/>

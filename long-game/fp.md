@@ -14,7 +14,7 @@
 - 🌟 [lazear/types-and-programming-languages](https://github.com/lazear/types-and-programming-languages): Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!
 - [pku-dppl/TAPL-in-MoonBit](https://github.com/pku-dppl/TAPL-in-MoonBit): MoonBit Port of Implementations for Pierce's Types and Programming Languages
 - [Elements of Programming](http://elementsofprogramming.com/): Decomposing programs into a system of algorithmic components
-- [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh): 手撸解释器教程《Crafting Interpreters》中文翻译
+- [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh): 手撸解释器教程《Crafting Interpreters》中文翻译 <https://craftinginterpreters-zh-jet.vercel.app/>
 - [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP): The Dao of Functional Programming
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf): Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source <https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/>
 - [jpvillaisaza/cain](https://github.com/jpvillaisaza/cain): Category theory applied to functional programming (undergraduate project) <https://jpvillaisaza.co/cain/cain.pdf>
