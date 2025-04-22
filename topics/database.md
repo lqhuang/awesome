@@ -245,6 +245,7 @@
 - [WebDB-App/app](https://github.com/WebDB-App/app): Efficient Database IDE <https://webdb.app>
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz): Instant offline SQL-powered data visualisation in your browser <https://sqliteviz.com>
 - [outerbase/studio](https://github.com/outerbase/studio): A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. <https://studio.outerbase.com>
+- [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal): Playaround with SQLite internal
 
 ## GUI / TUI
 

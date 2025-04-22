@@ -144,7 +144,6 @@
 - [HabitKit](https://www.habitkit.app/): The coolest way to track your habits and streaks. Build new habits by tracking your progress in awesome tile-based grid charts and try to fill the squares everyday.
 - [Liftbear Workout Log](https://www.liftbear.app/): The easiest way to track your workouts and sessions. Building an impressive physique requires progressive overload over time. Liftbear helps you keeping track of weights, reps, exercises and much more.
 - [Gifox](https://gifox.app/): The best GIF editing/sharing/recording/conversion app
-- [Arq Backup](https://www.arqbackup.com/): Arq backs up your files. You control your data. Arq® is backup software for your Mac or Windows PC.
 - [PDF Gear](https://www.pdfgear.com/): Read, edit, convert, merge, and sign PDF files across devices, for completely free and without signing up.
 - [ProxMobo](https://www.proxmobo.app/): Proxmox VE Monitor & Management
 - [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
@@ -255,6 +254,9 @@
 - [Storyteller Docs | Storyteller](https://smoores.gitlab.io/storyteller/): A self-hosted platform for automatically aligning ebooks and audiobooks.
 - [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr): A simple, self-hosted service to keep track of your personal library 📚 <https://demo.booklogr.app>
 - [wger-project/wger](https://github.com/wger-project/wger): Self hosted FLOSS fitness/workout, nutrition and weight tracker <https://wger.de>
+- [imputnet/cobalt](https://github.com/imputnet/cobalt): best way to save what you love <https://cobalt.tools>
+  - similar https://dy.kukutool.com/en
+- [koush/scrypted](https://github.com/koush/scrypted): Scrypted is a high performance video integration and automation platform <https://scrypted.app>
 
 ### Email
 

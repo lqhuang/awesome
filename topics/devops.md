@@ -47,6 +47,7 @@
   - [Using GN build -- Artisanal metabuild](https://docs.google.com/presentation/d/15Zwb53JcncHfEwHpnG_PoIbbzQ3GQi_cpujYwbpcbZo/)
   - [timniederhausen/gn](https://github.com/timniederhausen/gn): Standalone (fork) version of Chromium's GN
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink): NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings. <https://nativelink.com>
+- [phusion/holy-build-box](https://github.com/phusion/holy-build-box): System for building cross-distribution Linux binaries <https://phusion.github.io/holy-build-box/>
 
 ### Monorepo
 

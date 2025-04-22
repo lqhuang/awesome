@@ -35,6 +35,8 @@ And modern is here now.
 - [Padding and alignment in structs](https://elric.pl/blog/struct-padding): Quick explainer of byte ordering in Java class file
 - [Creating A Simple Udp Client Server Application In C](https://mohitmishra786.github.io/chessman/2024/09/25/Creating-a-Simple-UDP-Client-Server-Application-in-C.html)
 - [Mastering Memory Management: From Manual Cleanup To Smart Pointers In C And Cpp](https://mohitmishra786.github.io/chessman/2024/10/05/Mastering-Memory-Management-From-Manual-Cleanup-to-Smart-Pointers-in-C-and-Cpp.html)
+- [abseil / C++ Tips of the Week](https://abseil.io/tips/): An open-source collection of core C++ library code
+- [abseil / Performance Guide](https://abseil.io/fast/): An open-source collection of core C++ library code
 
 ### References
 

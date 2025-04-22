@@ -15,6 +15,7 @@ Streaming Systems
   - [Medium: Dunith Dhanushka](https://dunith.medium.com/)
 - [risingwavelabs/awesome-stream-processing](https://github.com/risingwavelabs/awesome-stream-processing): A collection of demonstrations showcasing how stream processing can be used to solve real-world problems. <https://risingwave.com/slack>
 - [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming): a curated list of awesome streaming frameworks, applications, etc <https://manuzhang.github.io/awesome-streaming>
+- [AKalculator](https://2minutestreaming.com/tools/apache-kafka-calculator/): The Apache Kafka® Cost Calculator
 
 ## Streamify
 

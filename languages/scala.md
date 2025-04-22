@@ -177,6 +177,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [lolgab/snunit](https://github.com/lolgab/snunit): Scala Native HTTP server based on NGINX Unit <https://lolgab.github.io/snunit/>
 - [windymelt/esbuild-plugin-scalajs](https://github.com/windymelt/esbuild-plugin-scalajs): ESBuild Plugin to bundle Scala.js module
 - [doofin/vscode-scalajs-hello](https://github.com/doofin/vscode-scalajs-hello): A simple VSCode extension with Scala.js
+- [cheleb/ThreeScalaJS](https://github.com/cheleb/ThreeScalaJS): ScalaJS WebGL utils and demos
 
 ## Featured
 
@@ -290,6 +291,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [lemonlabsuk/scala-uri](https://github.com/lemonlabsuk/scala-uri): Simple scala library for building and parsing URIs
 - [eed3si9n/ifdef](https://github.com/eed3si9n/ifdef): `@ifdef` is an annotation that implements conditional compilation in Scala
 - [Quafadas/scautable](https://github.com/Quafadas/scautable): Table utils, one line CSV imports - the fundamental assumption is that a table is a Iterator of iterable of Product or Tuple <https://quafadas.github.io/scautable/docs>
+- [lbialy/jig](https://github.com/lbialy/jig): A minimal, type-safe configuration library for Scala 3 that focuses on both reading and writing configuration files.
 
 ### Misc
 
@@ -403,11 +405,12 @@ Do a benchmark (final size while using Scala Native) for them?
 - [dragonfly-ai/vector](https://github.com/dragonfly-ai/vector): A Scala.js Vector and Math library for image processing, scientific/information visualization, and game development.
 - [dragonfly-ai/narr](https://github.com/dragonfly-ai/narr): Scala.js abstraction for a common core of features shared by Array[T], js.Array[T], and the JavaScript TypedArray family of Arrays..
 - [Quafadas/vecxt](https://github.com/Quafadas/vecxt): Freeing you from the tyranny of having to choose which platform you write your compute intense workload for. Making cross platform, compute intense linear alegbra problems less... vexing. <https://quafadas.github.io/vecxt/docs>
-- 🌟 [ekrich/sblas](https://github.com/ekrich/sblas): Scala Native BLAS (Basic Linear Algebra Subprograms) supporting Linux and macOS
 - [Quafadas/dedav4s](https://github.com/Quafadas/dedav4s): Declarative Data Viz 4 Scala <https://quafadas.github.io/dedav4s/>
-- 🌟 [sbrunk/storch](https://github.com/sbrunk/storch): GPU accelerated deep learning and numeric computing for Scala 3. <https://storch.dev>
 - [Quafadas/spire_AD](https://github.com/Quafadas/spire_AD): Reverse mode automatic differentiation based on spire <https://quafadas.github.io/spire_AD/docs/index.html>
+- 🌟 [ekrich/sblas](https://github.com/ekrich/sblas): Scala Native BLAS (Basic Linear Algebra Subprograms) supporting Linux and macOS
+- 🌟 [sbrunk/storch](https://github.com/sbrunk/storch): GPU accelerated deep learning and numeric computing for Scala 3. <https://storch.dev>
 - [ComputeNode/cyfra](https://github.com/ComputeNode/cyfra): Multi-platform GPGPU computations with Scala, seamlessly 🚀
+- [audienceproject/crossbow](https://github.com/audienceproject/crossbow): Single node, in-memory DataFrame analytics library.
 
 ### kotlin for Data Intensive System
 

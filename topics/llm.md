@@ -7,6 +7,7 @@
 - [wdndev/llm_interview_note](https://github.com/wdndev/llm_interview_note): 主要记录大语言大模型（LLMs） 算法（应用）工程师相关的知识及面试题 <https://wdndev.github.io/llm_interview_note>
 - [wdndev/tiny-llm-zh](https://github.com/wdndev/tiny-llm-zh): 从零实现一个小参数量中文大语言模型。
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules): 📄 A curated list of awesome .cursorrules files <https://github.com/PatrickJS/awesome-cursorrules>
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent & Windsurf Agent System Prompts, Tools & AI Models.
 
 ## Research
 

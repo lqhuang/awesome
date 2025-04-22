@@ -83,7 +83,6 @@
 - [sagiegurari/cargo-make](https://github.com/sagiegurari/cargo-make): Rust task runner and build tool. <https://sagiegurari.github.io/cargo-make>
 - [japaric/cargo-call-stack](https://github.com/japaric/cargo-call-stack): Whole program static stack analysis
 - [cargo-bins/cargo-binstall](https://github.com/cargo-bins/cargo-binstall): Binary installation for rust projects
-- [LukeMathWalker/cargo-chef](https://github.com/LukeMathWalker/cargo-chef): A cargo-subcommand to speed up Rust Docker builds using Docker layer caching.
 - [obi1kenobi/cargo-semver-checks](https://github.com/obi1kenobi/cargo-semver-checks): Scan your Rust crate for semver violations.
 - 🌟 [pacak/cargo-show-asm](https://github.com/pacak/cargo-show-asm): cargo subcommand showing the assembly, LLVM-IR and MIR generated for Rust code
 - [EmbarkStudios/cargo-about](https://github.com/EmbarkStudios/cargo-about): 📜 Cargo plugin to generate list of all licenses for a crate 🦀 <http://embark.rs>

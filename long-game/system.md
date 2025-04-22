@@ -27,6 +27,11 @@
   - P2052 - Making modern C++ i/o a consistent API experience from bottom to top.
   - > Sender-Receiver is genius in my opinion. It’s so damn simple people can’t see just how game changing it is: it makes possible fully deterministic, ultra high performance, extensible, composable, asynchronous standard i/o. That’s huge. No other contemporary systems programming language would have that: not Rust, not Go, not even Erlang.
   - [A Universal Async Abstraction for C++ | cor3ntin](https://cor3ntin.github.io/posts/executors/)
+- [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
+  - > Generally, there is no "ground truth" for what a target triple is. There isn’t some standards body that assigns these names.
+  - Please notice that `gcc` and `clang` have different target triple.
+  - `gcc -dumpmachine` -> `x86_64-linux-gnu`
+  - `clang -dumpmachine` -> `x86_64-pc-linux-gnu`
 
 ## Compiler
 

@@ -178,3 +178,4 @@
 - [raehik/binrep](https://github.com/raehik/binrep): Useful, efficient, precise binary schema modelling in Haskell
 - [NorfairKing/cursor](https://github.com/NorfairKing/cursor): Cursor data and manipulation
 - [owensmurray/om-legion](https://github.com/owensmurray/om-legion): Core Legion Framework
+- [well-typed/hs-bindgen](https://github.com/well-typed/hs-bindgen): Automatically generate Haskell bindings from C header files

@@ -48,6 +48,7 @@
   - alternative of musl for static libc runtime links
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc): container image to single executable compiler
   - how big for the final binary?
+- 🌟 [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker): A minimal Ubuntu base image modified for Docker-friendliness <http://phusion.github.io/baseimage-docker/>
 
 #### Container ops
 
@@ -223,6 +224,11 @@
 - [knative/eventing](https://github.com/knative/eventing): Event-driven application platform for Kubernetes <https://knative.dev/docs/eventing>
   - lead by Google
 
+### GPU
+
+- [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi): Heterogeneous AI Computing Virtualization Middleware <http://project-hami.io>
+- [NVIDIA/KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler): KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
+
 ### Utils
 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff): A helm plugin that shows a diff explaining what a helm upgrade would change
@@ -288,6 +294,7 @@
   - [haidaraM/ansible-playbook-grapher](https://github.com/haidaraM/ansible-playbook-grapher): A command line tool to create a graph representing your Ansible playbook tasks and roles
   - [willthames/ansible-inventory-grapher](https://github.com/willthames/ansible-inventory-grapher): No description, website, or topics provided.
   - 🌟 [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore): Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools. <https://semaphoreui.com>
+  - [sr.ht - ~cwt/ananta](https://sr.ht/~cwt/ananta/): command-line tool to execute commands on multiple remote hosts
 
 ### Services
 

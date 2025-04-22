@@ -305,6 +305,7 @@
 
 - [google/zx](https://github.com/google/zx): A tool for writing better scripts <https://google.github.io/zx/>
 - 🌟 [jakebailey/hereby](https://github.com/jakebailey/hereby): A simple Node.js task runner <https://hereby.js.org>
+- [Ray-D-Song/lexe](https://github.com/Ray-D-Song/lexe): Package your Node.js application into a single executable file, but only 10MB.🔥
 
 ## Effect system on Typescript
 

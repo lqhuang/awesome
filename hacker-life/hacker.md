@@ -35,6 +35,7 @@
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know): A collection of (mostly) technical things every software developer should know about
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [QOJ.ac](https://qoj.ac/)
+- 🌟 [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools): Browser extension that generates API specs for any app or website <https://chrome.google.com/webstore/detail/openapi-devtools/jelghndoknklgabjgaeppjhommkkmdii>
 
 ### Git
 
@@ -126,6 +127,8 @@
   - [PiKVM - Open and inexpensive IP-KVM on Raspberry Pi](https://pikvm.org/): PiKVM an easy and inexpensive DIY IP-KVM on Raspberry Pi to control remote machines: Full HD, mouse, Mass Storage Drive, VNC, IPMI and much more out of the box. Most modern KVM over IP ever!
   - I'm dreaming this for a long time =.=
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN): Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history <https://hub.docker.com/r/aceberg/watchyourlan>
+- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
+  - [YABS [yet another benchmark]](https://blog.aawadia.dev/2023/08/26/yabs-august-2023/): IntroductionI love how many amazing VPS services are available. I can easily take any project of mine online by deploying a container to a VPS from any of these providers.
 
 ### Start page
 
@@ -138,11 +141,13 @@
 
 ### Backup
 
+- [Arq Backup](https://www.arqbackup.com/): Arq backs up your files. You control your data. Arq® is backup software for your Mac or Windows PC.
 - [zrepl/zrepl](https://github.com/zrepl/zrepl): One-stop ZFS backup & replication solution <https://zrepl.github.io>
 - [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely encrypted backups in the cloud!
 - [borgbackup/borg](https://github.com/borgbackup/borg): Deduplicating archiver with compression and authenticated encryption. <https://www.borgbackup.org>
 - [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program <https://restic.net>
 - [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization <https://forum.syncthing.net>
+- [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync): 🔄 A simple tool to backup and sync your git repositories <https://github.com/AkashRajpurohit/git-sync/wiki>
 
 ## HomeKit / IoT
 

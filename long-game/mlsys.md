@@ -66,6 +66,7 @@
 - [zhaochenyang20/Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial): My learning notes/codes for ML SYS.
 - 🌟 [Python isn't just glue, it's an implicit JIT ecosystem](https://state.smerity.com/smerity/state/01JC39KW1TBEAZTKJJF0BR5ZXD): The ecosystem wears in the desire paths, and when slow Python becomes a problem, the ecosystem doesn't optimize the Python, it paves new roads beneath
 - 🌟 [Decorator JITs - Python as a DSL - Eli Bendersky's website](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
+- 🌟 [A note on common mistakes in benchmarking LLM inference engines](https://docs.google.com/document/d/1fEaaIQoRQLbevRu3pj1_ReOklHkoeE7ELqZJ3pnW-K4/mobilebasic): A Note on Common Mistakes in Benchmarking LLM Inference Engines Proper benchmarking is essential for the development and comparison of various inference optimizations.
 
 ### Books
 

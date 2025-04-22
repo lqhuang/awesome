@@ -121,8 +121,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [shoelace-style/shoelace](https://github.com/shoelace-style/shoelace): A collection of professionally designed, every day UI components built on Web standards. SHOELACE IS BECOMING WEB AWESOME 👇👇👇 <https://webawesome.com>
   - CSS framework for Web Components
 - Tailwind
-  - [themesberg/flowbite](https://github.com/themesberg/flowbite): The most popular and open-source library of Tailwind CSS components <https://flowbite.com>
+  - 🌟 [Wombosvideo/tw-animate-css](https://github.com/Wombosvideo/tw-animate-css): TailwindCSS v4.0 compatible replacement for `tailwindcss-animate` <https://www.npmjs.com/package/tw-animate-css>
   - [TailwindCSS Snippets](https://snippets.alexandru.so/)
+  - [themesberg/flowbite](https://github.com/themesberg/flowbite): The most popular and open-source library of Tailwind CSS components <https://flowbite.com>
   - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline): Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. <https://preline.co>
   - [konstaui/konsta](https://github.com/konstaui/konsta): Mobile UI components made with Tailwind CSS <https://konstaui.com>
   - [markmead/hyperui](https://github.com/markmead/hyperui): Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 <https://hyperui.dev>
@@ -415,6 +416,7 @@ Syntax hightlight
 - [code-hike/codehike](https://github.com/code-hike/codehike): Marvellous code walkthroughs <https://codehike.org>
 - [code-hike/bright](https://github.com/code-hike/bright): React Server Component for syntax highlighting <https://bright.codehike.org>
 - [wooorm/refractor](https://github.com/wooorm/refractor): Lightweight, robust, elegant virtual syntax highlighting using Prism
+- [blenderskool/react-code-block](https://github.com/blenderskool/react-code-block): 🧩 Set of unstyled UI components to build powerful code blocks in React. <https://react-code-block.netlify.app>
 
 #### Animation
 
@@ -470,11 +472,6 @@ Concrete animations
 - 🌟 [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done right. For Browser, SSR, and React Server Components. <https://foxact.skk.moe>
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks): A collection of modern, server-safe React hooks – from the ui.dev team <https://usehooks.com>
 - [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that helps you debug components.
-- 🌟 [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source): A better API for making Event Source requests, with all the features of fetch()
-  - Really?: You cannot pass in custom request headers (for making `EventSource` requests)
-  - [sentool/fetch-event-source](https://github.com/sentool/fetch-event-source): Using the Fetch API to request an SSE endpoint.
-- 🌟 [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream): A tiny (736b) utility for Server Sent Event (SSE) streaming via `fetch` and Web Streams API
-- [MattiasBuelens/web-streams-polyfill](https://github.com/MattiasBuelens/web-streams-polyfill): Web Streams, based on the WHATWG spec reference implementation
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international): Type-safe internationalization (i18n) for Next.js <https://next-international.vercel.app>
 - [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string. <https://nuqs.47ng.com>
 - [maslianok/react-resize-detector](https://github.com/maslianok/react-resize-detector): A Cross-Browser, Event-based, Element Resize Detection for React <http://maslianok.github.io/react-resize-detector/>
@@ -497,6 +494,15 @@ Concrete animations
 - [freedomofpress/webcat](https://github.com/freedomofpress/webcat): WEBCAT is an architectural framework for providing blocking code signing and verification, integrity and transparency checks for browser-based applications.
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js): "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection <https://uaparser.dev/>
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis): Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers <https://anubis.techaro.lol/>
+
+## W3C
+
+- 🌟 [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source): A better API for making Event Source requests, with all the features of fetch()
+  - Really?: You cannot pass in custom request headers (for making `EventSource` requests)
+  - [sentool/fetch-event-source](https://github.com/sentool/fetch-event-source): Using the Fetch API to request an SSE endpoint.
+- 🌟 [lukeed/fetch-event-stream](https://github.com/lukeed/fetch-event-stream): A tiny (736b) utility for Server Sent Event (SSE) streaming via `fetch` and Web Streams API
+- 🌟 [rexxars/eventsource-parser](https://github.com/rexxars/eventsource-parser): Streaming, source-agnostic EventSource/Server-Sent Events parser
+- [MattiasBuelens/web-streams-polyfill](https://github.com/MattiasBuelens/web-streams-polyfill): Web Streams, based on the WHATWG spec reference implementation
 
 ## Visualization (Charts)
 
