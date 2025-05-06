@@ -1,6 +1,6 @@
-# C / Cpp
+# C / Modern Cpp
 
-Also containing cpp resources though I totally understand clang and cpp are two languages.
+Also containing Cpp resources though I totally understand clang and cpp are two languages.
 
 And modern is here now.
 
@@ -206,6 +206,7 @@ And modern is here now.
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro): A library of C++ coroutine abstractions for the coroutines TS
 - [Tradias/asio-grpc](https://github.com/Tradias/asio-grpc): Asynchronous gRPC with Asio/unified executors <https://tradias.github.io/asio-grpc/>
 - [tsoding/coroutines](https://github.com/tsoding/coroutines): Custom coroutines implementation in GNU C
+- [ashvardanian/fork_union](https://github.com/ashvardanian/fork_union): Minimalistic C++ scoped thread-pool designed for SIMT-style 'Fork-Join' parallelism
 
 ## Network
 
@@ -245,6 +246,7 @@ And modern is here now.
 - [WojciechMula/sse4-strstr](https://github.com/WojciechMula/sse4-strstr): SIMD (SWAR/SSE/SSE4/AVX2/AVX512F/ARM Neon) of Karp-Rabin algorithm's modification <http://0x80.pl/articles/simd-strfind.html>
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library <https://dpilger26.github.io/NumCpp>
 - [halide/Halide](https://github.com/halide/Halide): a language for fast, portable data-parallel computation <https://halide-lang.org>
+- 🌟 [flame/blis](https://github.com/flame/blis): BLAS-like Library Instantiation Software Framework
 
 ## Utils
 

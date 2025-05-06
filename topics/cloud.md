@@ -205,10 +205,16 @@
 - [Kubernetes WithOut Kubelet](https://kwok.sigs.k8s.io/): Kubernetes WithOut Kubelet. KWOK is a toolkit that enables setting up a cluster of thousands of Nodes in seconds. Under the scene, all Nodes are simulated to behave like real ones, so the overall approach employs a pretty low resource footprint that you can easily play around on your laptop.
 - 🌟 [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop): Network monitoring & diagnosis suite for Kubernetes <https://kubeskoop.io>
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize): Customization of kubernetes YAML configurations
+  - [dnaeon/kustomize-dot](https://github.com/dnaeon/kustomize-dot): CLI app and kustomize KRM Function plugin which renders a graph of Kubernetes resources and their origins
 - [helmfile/helmfile](https://github.com/helmfile/helmfile): Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. <https://helmfile.readthedocs.io>
 - 🌟 [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew): 📦 Find and install kubectl plugins <https://krew.sigs.k8s.io>
 - [squat/kilo](https://github.com/squat/kilo): Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg) <https://kilo.squat.ai>
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb): A cloud native Kubernetes Global Balancer <https://www.k8gb.io>
+- [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller): Manage admission policies in your Kubernetes cluster with ease <https://kubewarden.io>
+- [Kuadrant/kuadrant-operator](https://github.com/Kuadrant/kuadrant-operator): The Operator to install and manage the lifecycle of the Kuadrant components deployments. <https://kuadrant.io>
+  - How to compare or combine with kong gateway?
+  - [Kuadrant/authorino](https://github.com/Kuadrant/authorino): K8s-native AuthN/AuthZ service to protect your APIs.
+- [kubewharf/godel-rescheduler](https://github.com/kubewharf/godel-rescheduler): Schedulers in large-scale Kubernetes (K8s) clusters, such as the Godel Scheduler, are often required to schedule a large number of Pods within a short period.
 
 ### Operators
 
@@ -216,6 +222,7 @@
 - [flant/shell-operator](https://github.com/flant/shell-operator): Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster <https://flant.github.io/shell-operator/>
 - [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write Kubernetes operators in just a few lines of code <https://kopf.readthedocs.io/>
 - [inlets/inlets-operator](https://github.com/inlets/inlets-operator): Get public TCP LoadBalancers for local Kubernetes clusters <https://docs.inlets.dev/reference/inlets-operator>
+- [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager): A management framework for extending Kubernetes with Operators <https://olm.operatorframework.io>
 
 ### App framework
 

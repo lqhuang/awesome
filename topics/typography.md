@@ -24,6 +24,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [Pitch Collection · Klim Type Foundry](https://klim.co.nz/collections/pitch/): The Pitch Collection is a modern love-letter to the typewriter. Test the fonts, see them in use, read about their design and buy for desktop, web & app.
 - [Recursive Sans & MonoRecursive Sans & Mono](https://www.recursive.design/): A highly flexible variable font for design, code, and UI.
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans): Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim. <https://leon-kim.com/>
+- [arrowtype/recursive](https://github.com/arrowtype/recursive): Recursive Mono & Sans is a variable font family for code & UI <https://recursive.design>
 
 Mono
 
@@ -51,6 +52,7 @@ CJK
   - [lxgw/LxgwNeoXiHei](https://github.com/lxgw/LxgwNeoXiHei): A Chinese sans-serif font derived from IPAex Gothic. 一款衍生于「IPAex ゴシック」的中文黑体字型。
   - [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong): A Chinese serif font derived from IPAmj Mincho. 一款衍生于「IPAmj 明朝」的中文宋体字型。
   - [lxgw/LxgwNeoXiZhi-Screen](https://github.com/lxgw/LxgwNeoXiZhi-Screen): LXGW Neo XiHei and LXGW Neo ZhiSong for Screen Reading.
+- [Hulenkius/sotyr](https://github.com/Hulenkius/sotyr): 仲春仿宋 | Sotyr Fangsong ：聚珍仿宋二号长体的直接复刻项目
 
 ## Web
 

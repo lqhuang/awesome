@@ -60,6 +60,7 @@
 - [thought-machine/please](https://github.com/thought-machine/please): High-performance extensible build system for reproducible multi-language builds. <https://please.build>
 - [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System <http://mesonbuild.com/>
 - [moonrepo/moon](https://github.com/moonrepo/moon): A task runner and repo management tool for the web ecosystem, written in Rust. <https://moonrepo.dev/>
+- [earthly/earthly](https://github.com/earthly/earthly): Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby. <https://earthly.dev>
 
 ### Bazel
 
@@ -161,6 +162,7 @@ Libs
 - [rancher/fleet](https://github.com/rancher/fleet): Deploy workloads from Git to large fleets of Kubernetes clusters <https://fleet.rancher.io/>
 - [buildpacks/pack](https://github.com/buildpacks/pack): CLI for building apps using Cloud Native Buildpacks <https://buildpacks.io>
   - [pivotal/kpack](https://github.com/pivotal/kpack): Kubernetes Native Container Build Service
+- [agola-io/agola](https://github.com/agola-io/agola): Agola: CI/CD Redefined <https://agola.io>
 
 ## Changelog
 

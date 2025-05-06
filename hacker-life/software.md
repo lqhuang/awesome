@@ -169,13 +169,12 @@
 - 🌟 [mirego/accent](https://github.com/mirego/accent): The first developer-oriented translation tool. True asynchronous flow between translators and your team. <https://www.accent.reviews>
 - [leaningtech/webvm](https://github.com/leaningtech/webvm): Virtual Machine for the Web <https://webvm.io>
 - [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
-
 - [harness/gitness](https://github.com/harness/gitness): Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. <https://gitness.com>
 - [stagit](https://git.codemadness.org/stagit/file/README.html): static git page generator
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler): The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte <https://gitbutler.com>
 - [sr.ht/~sircmpwn/sourcehut](https://sr.ht/~sircmpwn/sourcehut/): This is the main project hub for SourceHut itself. To browse our source code, see the "sources" tab at the nav along the top of the page.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD <https://about.gitea.com>
-
+  - [gitea/awesome-gitea: A curated list of awesome projects related to Gitea and its soft-fork instances - awesome-gitea - Gitea: Git with a cup of tea](https://gitea.com/gitea/awesome-gitea/): awesome-gitea - A curated list of awesome projects related to Gitea and its soft-fork instances
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web <https://tsl0922.github.io/ttyd>
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - 🌟 [ekzhang/sshx](https://github.com/ekzhang/sshx): Fast, collaborative live terminal sharing over the web <https://sshx.io>
@@ -250,6 +249,7 @@
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita): Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. <http://www.kavitareader.com>
 - [filegator/filegator](https://github.com/filegator/filegator): Powerful Multi-User File Manager <https://filegator.io>
 - 🌟 [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... <https://www.filestash.app/>
+- [eikek/sharry](https://github.com/eikek/sharry): Sharry is a self-hosted file sharing web application. <https://eikek.github.io/sharry>
 - [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
 - [Storyteller Docs | Storyteller](https://smoores.gitlab.io/storyteller/): A self-hosted platform for automatically aligning ebooks and audiobooks.
 - [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr): A simple, self-hosted service to keep track of your personal library 📚 <https://demo.booklogr.app>
@@ -257,6 +257,7 @@
 - [imputnet/cobalt](https://github.com/imputnet/cobalt): best way to save what you love <https://cobalt.tools>
   - similar https://dy.kukutool.com/en
 - [koush/scrypted](https://github.com/koush/scrypted): Scrypted is a high performance video integration and automation platform <https://scrypted.app>
+- [jugeekuz/HomeShare](https://github.com/jugeekuz/HomeShare): No description, website, or topics provided.
 
 ### Email
 
@@ -274,6 +275,7 @@
 - [tutao/tutanota](https://github.com/tutao/tutanota): Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. <https://tuta.com>
 - 🌟 [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server): Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) <https://stalw.art>
 - [useplunk/plunk](https://github.com/useplunk/plunk): The Open-Source Email Platform <https://www.useplunk.com>
+  - The minimal requirement is AWS SES, if any other SMTP server is possible, it will be greater.
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail): Simple, modern & fast web-based email client <https://snappymail.eu>
 - [Mailu/Mailu](https://github.com/Mailu/Mailu): Insular email distribution - mail server as Docker images <https://mailu.io>
 - [vdukhovni/postfix](https://github.com/vdukhovni/postfix): Postfix MTA by Wietse Venema

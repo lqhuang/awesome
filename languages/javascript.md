@@ -105,6 +105,7 @@
 - [pahen/madge](https://github.com/pahen/madge): Create graphs from your CommonJS, AMD or ES6 module dependencies
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector): Interactive UI for local node modules inspection <https://node-modules.dev>
 - [@next/bundle-analyzer | npmjs](https://www.npmjs.com/package/@next/bundle-analyzer)
+- 🌟 [facebook/memlab](https://github.com/facebook/memlab): A framework for finding JavaScript memory leaks and analyzing heap snapshots <https://facebook.github.io/memlab/>
 
 ### Modernize
 
@@ -169,6 +170,7 @@
 - 🌟 [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es): Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
 - [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema): A standard interface for TypeScript schema validation libraries <https://standardschema.dev>
+- [elysiajs/json-accelerator](https://github.com/elysiajs/json-accelerator): Accelerate JSON stringification by providing OpenAPI/TypeBox shape <https://www.npmjs.com/package/json-accelerator>
 
 ### Parser
 
@@ -269,6 +271,7 @@
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp): An image processing library written entirely in JavaScript for Node, with zero external or native dependencies. <http://jimp-dev.github.io/jimp/>
 - [photopea/UPNG.js](https://github.com/photopea/UPNG.js): Fast and advanced PNG (APNG) decoder and encoder (lossy / lossless)
 - [image-js/fast-png](https://github.com/image-js/fast-png): PNG image decoder and encoder written entirely in JavaScript
+- [riyadhalnur/node-base64-image](https://github.com/riyadhalnur/node-base64-image): Download images from remote URLs or use local images and encode/decode them to Base64 string or Buffer object <http://riyadhalnur.github.io/node-base64-image>
 
 ### Utils
 
@@ -290,6 +293,10 @@
 - [zgrossbart/jdd](https://github.com/zgrossbart/jdd): A semantic JSON compare tool <http://www.jsondiff.com>
 - 🌟 [le0pard/re2js](https://github.com/le0pard/re2js): RE2JS is the JavaScript port of RE2, a regular expression engine that provides linear time matching <https://re2js.leopard.in.ua/>
 - [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl): Flexible Node.js AI-assisted crawler library <https://coder-hxl.github.io/x-crawl/>
+- [isaacs/minimatch](https://github.com/isaacs/minimatch): a glob matcher in javascript
+- [isaacs/node-glob](https://github.com/isaacs/node-glob): glob functionality for node.js
+- [isaacs/st](https://github.com/isaacs/st): A node module for serving static files. Does etags, caching, etc.
+  - "Does etags, caching, etc." How? Try to learn from `st`
 
 ## Middleware
 

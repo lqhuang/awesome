@@ -319,6 +319,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [VirtusLab/besom](https://github.com/VirtusLab/besom): Besom - a Pulumi SDK for Scala. Also, incidentally, a broom made of twigs tied round a stick. Brooms and besoms are used for protection, to ward off evil spirits, and cleansing of ritual spaces. <https://virtuslab.github.io/besom/>
   - [VirtusLab/yaga](https://github.com/VirtusLab/yaga): No description, website, or topics provided.
   - [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>
+- [jpablo/graph-explorer](https://github.com/jpablo/graph-explorer): Explore graphs in a visual way <https://graph-explorer.net>
 
 ## Frameworks
 

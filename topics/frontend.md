@@ -134,6 +134,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements): 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use <https://tailwind-elements.com>
   - [cruip/tailwind-landing-page-template](https://github.com/cruip/tailwind-landing-page-template): Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React. <https://simple.cruip.com>
   - [TailGrids/tailwind-ui-components](https://github.com/TailGrids/tailwind-ui-components): Tailwind CSS UI library, featuring over 600 top-tier Tailwind CSS UI components and blocks. Each one is handcrafted for modern websites, landing pages, web applications, dashboards, ecommerce platforms, and more. <https://tailgrids.com/>
+- [felix-bohlin/ui](https://github.com/felix-bohlin/ui): A CSS UI library exploring how next-gen HTML & CSS features can change the way we create components. Designed to be used by professional teams as well as tinkering hobbyists. <https://open-props-ui.netlify.app/>
+  - only css
 
 #### React
 
@@ -355,8 +357,12 @@ Misc
 - [glidejs/glide](https://github.com/glidejs/glide): A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more <https://glidejs.com>
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu): 🍔 An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations <http://negomi.github.io/react-burger-menu/>
 - [ferrucc-io/emoji-picker](https://github.com/ferrucc-io/emoji-picker): React Emoji picker component styled with Tailwind <https://emoji.ferrucc.io>
+- [liveblocks/frimousse](https://github.com/liveblocks/frimousse): A lightweight, unstyled, and composable emoji picker for React. <https://frimousse.liveblocks.io>
 - [davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners): A collection of loading spinner components for react <https://www.davidhu.io/react-spinners>
 - [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build and send emails using React <https://react.email>
+- [wipeautcrafter/jsfontpicker](https://github.com/wipeautcrafter/jsfontpicker): An open source, free (as in beer), versatile, flexible and lightweight Javascript Font Picker Component for System fonts, Google fonts and custom (woff/ttf) fonts. Features dynamic font loading, favourites, keyboard navigation, fuzzy search, advanced metrics filters, property sorting and much more. Available in multiple languages. <https://jsfontpicker.com/>
+- [talyssonoc/react-katex](https://github.com/talyssonoc/react-katex): Display math in TeX with KaTeX and ReactJS
+  - great but no longer maintained
 
 #### Just render json in better way
 

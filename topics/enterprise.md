@@ -101,6 +101,7 @@
 - [formbricks/formbricks](https://github.com/formbricks/formbricks): Open Source Surveys & Experience Management Solution <https://formbricks.com>
 - [heyform/heyform](https://github.com/heyform/heyform): HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required. <https://heyform.net>
 - [unkeyed/unkey](https://github.com/unkeyed/unkey): Open source API management platform <https://go.unkey.com>
+- [Automated UI and Functional Testing it | Testim.io](https://www.testim.io/): Testim is an automated testing platform for fast authoring of AI-powered stable tests and tools to help you scale quality.
 
 ### Pipelines / Workflow
 
@@ -111,7 +112,6 @@
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): The easiest way to automate your data <https://prefect.io>
 - 🌟 [dagster-io/dagster](https://github.com/dagster-io/dagster): An orchestration platform for the development, production, and observation of data assets. <https://dagster.io>
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai): 🧙 A modern replacement for Airflow. <https://www.mage.ai>
-- [uber/cadence](https://github.com/uber/cadence): Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. <https://cadenceworkflow.io>
 - [temporalio/temporal](https://github.com/temporalio/temporal): Temporal service <https://docs.temporal.io>
 - [ploomber/ploomber](https://github.com/ploomber/ploomber): The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️ <https://ploomber.io>
 - lightweight

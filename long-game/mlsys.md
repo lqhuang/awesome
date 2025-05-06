@@ -51,6 +51,7 @@
 - [gpu-mode/lectures](https://github.com/gpu-mode/lectures): Material for gpu-mode lectures <https://www.youtube.com/@GPUMODE>
 - [PaddleJitLab/CUDATutorial](https://github.com/PaddleJitLab/CUDATutorial): A self-learning tutorail for CUDA High Performance Programing.
   - in Chinese
+- [gpu-mode/resource-stream](https://github.com/gpu-mode/resource-stream): GPU programming related news and material links <https://discord.gg/gpumode>
 
 ### TPU
 
@@ -90,16 +91,18 @@
 - 🌟 [intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex): Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application <https://intel.github.io/scikit-learn-intelex/>
 - [mlpack/mlpack](https://github.com/mlpack/mlpack): mlpack: a fast, header-only C++ machine learning library <https://www.mlpack.org/>
 - [adap/flower](https://github.com/adap/flower): Flower: A Friendly Federated Learning Framework <https://flower.dev>
-- [salesforce/jaxformer](https://github.com/salesforce/jaxformer): Minimal library to train LLMs on TPU in JAX with pjit().
 - [elixir-nx/nx](https://github.com/elixir-nx/nx): Multi-dimensional arrays (tensors) and numerical definitions for Elixir
 - [huggingface/ratchet](https://github.com/huggingface/ratchet): A cross-platform browser ML framework. <https://ratchet.sh>
 - 🌟 [mosaicml/composer](https://github.com/mosaicml/composer): Supercharge Your Model Training <http://docs.mosaicml.com>
   - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry): LLM training code for MosaicML foundation models <https://www.mosaicml.com/blog/mpt-7b>
 - [pytorch/torchtitan](https://github.com/pytorch/torchtitan): A native PyTorch Library for large model training
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale): PyTorch extensions for high performance and large scale training.
+- [NVIDIA-Merlin/Merlin](https://github.com/NVIDIA-Merlin/Merlin): NVIDIA Merlin is an open source library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in production.
+- [crabml/crabml](https://github.com/crabml/crabml): crabml is an ongoing experiment that aims to reimplement GGML using Rust.
 - [databricks/megablocks](https://github.com/databricks/megablocks): MegaBlocks is a light-weight library for mixture-of-experts (MoE) training.
 - [pytorch/tnt](https://github.com/pytorch/tnt): A lightweight library for PyTorch training tools and utilities <https://pytorch.org/tnt/>
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi): Everything you need to build state-of-the-art foundation models, end-to-end. <https://oumi.ai>
+- [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor): Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 
 ### Optimization
 
@@ -127,44 +130,8 @@ General problems
 
 ### Production-ready network implementation
 
-- [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor): Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
-- [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax): Model parallel transformers in JAX and Haiku
-- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax): This repository contains optimised JAX code for OpenAI's Whisper Model, largely built on the 🤗 Hugging Face Transformers Whisper implementation. Compared to OpenAI's PyTorch code, Whisper JAX runs over 70x faster, making it the fastest Whisper implementation available.
-- [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper): Faster Whisper transcription with CTranslate2
-- [NVIDIA-Merlin/Merlin](https://github.com/NVIDIA-Merlin/Merlin): NVIDIA Merlin is an open source library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in production.
-- 🌟 [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention): Fast and memory-efficient exact attention
-- [explosion/curated-transformers](https://github.com/explosion/curated-transformers): 🤖 A PyTorch library of curated Transformer models and their composable components
-- [THUDM/SwissArmyTransformer](https://github.com/THUDM/SwissArmyTransformer): SwissArmyTransformer is a flexible and powerful library to develop your own Transformer variants. <https://THUDM.github.io/SwissArmyTransformer>
-- [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer): Transformer related optimization, including BERT, GPT <https://desktop.github.com>
-- 🌟 [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer): FlashInfer: Kernel Library for LLM Serving <https://flashinfer.ai>
-  - Comprehensive Attention Kernels
-  - Optimized Shared-Prefix Batch Decoding
-  - Accelerate Attention for Compressed/Quantized KV-Cache
-  - no JAX support?
 - [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast): A batched offline inference oriented version of segment-anything
   - [Accelerating Generative AI with PyTorch: Segment Anything, Fast](https://pytorch.org/blog/accelerating-generative-ai/)
-- 🌟 [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast): Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
-  - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
-  - [Horace He (@cHHillee)'s threads about gpt-fast](https://twitter.com/cHHillee/status/1730293330213531844)
-- [crabml/crabml](https://github.com/crabml/crabml): crabml is an ongoing experiment that aims to reimplement GGML using Rust.
-- [shawntan/scattermoe](https://github.com/shawntan/scattermoe): Triton-based implementation of Sparse Mixture of Experts.
-- [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens): Tile primitives for speedy kernels
-  - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
-- [microsoft/vattention](https://github.com/microsoft/vattention): Dynamic Memory Management for Serving LLMs without PagedAttention
-- [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym): Helpful tools and examples for working with flex-attention
-  - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
-
-FAIR specialist
-
-- [facebookresearch/xformers](https://github.com/facebookresearch/xformers): Hackable and optimized Transformers building blocks, supporting a composable construction. <https://facebookresearch.github.io/xformers>
-- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq): Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq): Repo for external large-scale work
-- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-- [facebookresearch/DiT](https://github.com/facebookresearch/DiT): Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
-- [facebookresearch/lingua](https://github.com/facebookresearch/lingua): Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
-- [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching): A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities. <http://facebookresearch.github.io/flow_matching>
-- [facebookresearch/chai](https://github.com/facebookresearch/chai): CHAI is a library for dynamic pruning of attention heads for efficient LLM inference.
-- [facebookresearch/Lyapunov](https://github.com/facebookresearch/Lyapunov): PyTorch original implementation of "Lyapunov functions a long-standing open problem in mathematics, with symbolic transformers" (NeurIPS 2024).
 
 ### Inference engine / large-scale deployment
 
@@ -172,8 +139,6 @@ FAIR specialist
 - [microsoft/torchscale](https://github.com/microsoft/torchscale): Transformers at any scale <https://aka.ms/nlpagi>
 - [microsoft/DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII): MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning): Deep learning framework to train, deploy, and ship AI products Lightning fast. <https://lightning.ai>
-- [alpa-projects/alpa](https://github.com/alpa-projects/alpa): Training and serving large-scale neural networks <https://alpa.ai/>
-- [FMInference/FlexGen](https://github.com/FMInference/FlexGen): Running large language models on a single GPU for throughput-oriented scenarios.
 - [NolanoOrg/cformers](https://github.com/NolanoOrg/cformers): SoTA Transformers with C-backend for fast inference on your CPU.
 - [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn): Lightning fast C++/CUDA neural network framework
 - 🌟 [pytorch/TensorRT](https://github.com/pytorch/TensorRT): PyTorch/TorchScript/FX compiler for NVIDIA GPUs using TensorRT <https://pytorch.org/TensorRT>
@@ -182,28 +147,18 @@ FAIR specialist
 - 📝 [mosecorg/mosec](https://github.com/mosecorg/mosec): A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine <https://mosecorg.github.io/mosec/>
 - [autonomi-ai/nos](https://github.com/autonomi-ai/nos): ⚡️ Nitrous oxide for your AI infrastructure. <https://docs.nos.run/>
 - [iqiyi/xgboost-serving](https://github.com/iqiyi/xgboost-serving): A flexible, high-performance serving system for machine learning models
+- [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens): Tile primitives for speedy kernels
+  - 🌟 [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate): AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - 📝 [triton-inference-server/pytriton](https://github.com/triton-inference-server/pytriton): PyTriton is a Flask/FastAPI-like interface that simplifies Triton's deployment in Python environments. <https://triton-inference-server.github.io/pytriton/>
 - [triton-inference-server/server](https://github.com/triton-inference-server/server): The Triton Inference Server provides an optimized cloud and edge inferencing solution. <https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html>
 - [kserve/kserve](https://github.com/kserve/kserve): Standardized Serverless ML Inference Platform on Kubernetes <https://kserve.github.io/website/>
-- 📝 [ModelTC/lightllm](https://github.com/ModelTC/lightllm): LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance. <https://desktop.github.com>
-- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference): Large Language Model Text Generation Inference <https://huggingface.github.io/text-generation-inference/>
-- 🌟 [pytorch/executorch](https://github.com/pytorch/executorch): End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models <https://pytorch.org/edge>
-- [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers): ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
-- [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse): Sparsity-aware deep learning inference runtime for CPUs <https://neuralmagic.com/deepsparse/>
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [FMInference/FlexGen](https://github.com/FMInference/FlexGen): Running large language models on a single GPU for throughput-oriented scenarios.
-- [alpa-projects/alpa](https://github.com/alpa-projects/alpa): Training and serving large-scale neural networks with auto parallelization. <https://alpa.ai>
 - 🌟 [ml-explore/mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
+- [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse): Sparsity-aware deep learning inference runtime for CPUs <https://neuralmagic.com/deepsparse/>
   - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples): Examples in the MLX framework
   - [MLX Community Projects #654](https://github.com/ml-explore/mlx/discussions/654)
   - [mlx-graphs/mlx-graphs](https://github.com/mlx-graphs/mlx-graphs): Graph Neural Network library made for Apple Silicon <https://mlx-graphs.github.io/mlx-graphs/>
   - [tedwards2412/samplex](https://github.com/tedwards2412/samplex): Package of useful sampling algorithms written in MLX.
-- [rustformers/llm](https://github.com/rustformers/llm): Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
-- [vllm-project/vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs <https://vllm.readthedocs.io>
-- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm): Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. <https://mlc.ai/web-llm>
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for operating large language models(LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
-- [predibase/lorax](https://github.com/predibase/lorax): Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs <https://predibase.github.io/lorax/>
 - [zml/zml](https://github.com/zml/zml): Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild <https://docs.zml.ai>
   - Interesting ideas
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo): A Datacenter Scale Distributed Inference Serving Framework
@@ -219,7 +174,7 @@ FAIR specialist
 - [bentoml/BentoML](https://github.com/bentoml/BentoML): Unified Model Serving Framework 🍱 <https://bentoml.com>
 - [bentoml/Yatai](https://github.com/bentoml/Yatai): Model Deployment at Scale on Kubernetes 🦄️ <https://bentoml.com>
 - [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core): An MLOps framework to package, deploy, monitor and manage thousands of production machine learning models
-- [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot): SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface. <https://skypilot.readthedocs.io>
+- 🌟 [skypilot-org/skypilot](https://github.com/skypilot-org/skypilot): SkyPilot is a framework for easily running machine learning workloads on any cloud through a unified interface. <https://skypilot.readthedocs.io>
 - [sematic-ai/sematic](https://github.com/sematic-ai/sematic): An open-source ML pipeline development platform
 - [uptrain-ai/uptrain](https://github.com/uptrain-ai/uptrain): Your open-source ML monitoring and refinement toolkit. <https://uptrain.ai/>
 - [microsoft/SynapseML](https://github.com/microsoft/SynapseML): Simple and Distributed Machine Learning <http://aka.ms/spark>
@@ -233,6 +188,7 @@ FAIR specialist
 - [comet-ml/kangas](https://github.com/comet-ml/kangas): 🦘 Explore multimedia datasets at scale <https://github.com/comet-ml/kangas/wiki>
 - [aimhubio/aim](https://github.com/aimhubio/aim): Aim 💫 — An easy-to-use & supercharged open-source experiment tracker. <https://aimstack.io>
 - [facebook/Ax](https://github.com/facebook/Ax): Adaptive Experimentation Platform <https://ax.dev>
+- [anyscale/Made-With-ML](https://github.com/anyscale/Made-With-ML):
 
 ### Computing resource scheduler
 
@@ -286,7 +242,19 @@ FAIR specialist
 
 ## Specific Topics
 
-## Reinforcement Learning
+## FAIR specialist
+
+- [facebookresearch/xformers](https://github.com/facebookresearch/xformers): Hackable and optimized Transformers building blocks, supporting a composable construction. <https://facebookresearch.github.io/xformers>
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq): Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq): Repo for external large-scale work
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+- [facebookresearch/DiT](https://github.com/facebookresearch/DiT): Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
+- [facebookresearch/lingua](https://github.com/facebookresearch/lingua): Meta Lingua: a lean, efficient, and easy-to-hack codebase to research LLMs.
+- [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching): A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities. <http://facebookresearch.github.io/flow_matching>
+- [facebookresearch/chai](https://github.com/facebookresearch/chai): CHAI is a library for dynamic pruning of attention heads for efficient LLM inference.
+- [facebookresearch/Lyapunov](https://github.com/facebookresearch/Lyapunov): PyTorch original implementation of "Lyapunov functions a long-standing open problem in mathematics, with symbolic transformers" (NeurIPS 2024).
+
+### Reinforcement Learning
 
 - [thu-ml/tianshou](https://github.com/thu-ml/tianshou): An elegant PyTorch deep reinforcement learning library. <https://tianshou.readthedocs.io>
 - 🌟 [PufferAI/PufferLib](https://github.com/PufferAI/PufferLib): Simplifying reinforcement learning for complex game environments <https://puffer.ai/>
@@ -303,6 +271,49 @@ JAX Special
   - [PureJaxRL Resources](https://github.com/luchris429/purejaxrl/blob/main/RESOURCES.md)
 - [RobertTLange/gymnax](https://github.com/RobertTLange/gymnax): RL Environments in JAX 🌍
   - [RobertTLange/gymnax-blines](https://github.com/RobertTLange/gymnax-blines): Baselines for gymnax 🤖
+- [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib): One repository is all that is necessary for Multi-agent Reinforcement Learning (MARL) <https://marllib.readthedocs.io>
+
+### Language Models / Attention
+
+- 🌟 [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast): Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
+  - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
+  - [Horace He (@cHHillee)'s threads about gpt-fast](https://twitter.com/cHHillee/status/1730293330213531844)
+- [shawntan/scattermoe](https://github.com/shawntan/scattermoe): Triton-based implementation of Sparse Mixture of Experts.
+- [THUDM/SwissArmyTransformer](https://github.com/THUDM/SwissArmyTransformer): SwissArmyTransformer is a flexible and powerful library to develop your own Transformer variants. <https://THUDM.github.io/SwissArmyTransformer>
+- [NVIDIA/FasterTransformer](https://github.com/NVIDIA/FasterTransformer): Transformer related optimization, including BERT, GPT <https://desktop.github.com>
+- 🌟 [flashinfer-ai/flashinfer](https://github.com/flashinfer-ai/flashinfer): FlashInfer: Kernel Library for LLM Serving <https://flashinfer.ai>
+  - Comprehensive Attention Kernels
+  - Optimized Shared-Prefix Batch Decoding
+  - Accelerate Attention for Compressed/Quantized KV-Cache
+  - no JAX support?
+- 🌟 [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention): Fast and memory-efficient exact attention
+- [explosion/curated-transformers](https://github.com/explosion/curated-transformers): 🤖 A PyTorch library of curated Transformer models and their composable components
+- [microsoft/vattention](https://github.com/microsoft/vattention): Dynamic Memory Management for Serving LLMs without PagedAttention
+- [pytorch-labs/attention-gym](https://github.com/pytorch-labs/attention-gym): Helpful tools and examples for working with flex-attention
+  - [FlexAttention: The Flexibility of PyTorch with the Performance of FlashAttention](https://pytorch.org/blog/flexattention/)
+- [alpa-projects/alpa](https://github.com/alpa-projects/alpa): Training and serving large-scale neural networks <https://alpa.ai/>
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen): Running large language models on a single GPU for throughput-oriented scenarios.
+- 📝 [ModelTC/lightllm](https://github.com/ModelTC/lightllm): LightLLM is a Python-based LLM (Large Language Model) inference and serving framework, notable for its lightweight design, easy scalability, and high-speed performance. <https://desktop.github.com>
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference): Large Language Model Text Generation Inference <https://huggingface.github.io/text-generation-inference/>
+- 🌟 [pytorch/executorch](https://github.com/pytorch/executorch): End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models <https://pytorch.org/edge>
+- [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers): ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
+- [FMInference/FlexGen](https://github.com/FMInference/FlexGen): Running large language models on a single GPU for throughput-oriented scenarios.
+- [alpa-projects/alpa](https://github.com/alpa-projects/alpa): Training and serving large-scale neural networks with auto parallelization. <https://alpa.ai>
+- [rustformers/llm](https://github.com/rustformers/llm): Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
+- [vllm-project/vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs <https://vllm.readthedocs.io>
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm): Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. <https://mlc.ai/web-llm>
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for operating large language models(LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
+- [predibase/lorax](https://github.com/predibase/lorax): Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs <https://predibase.github.io/lorax/>,
+- [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper): Faster Whisper transcription with CTranslate2
+
+JAX Special
+
+- [kingoflolz/mesh-transformer-jax](https://github.com/kingoflolz/mesh-transformer-jax): Model parallel transformers in JAX and Haiku
+- [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax): This repository contains optimised JAX code for OpenAI's Whisper Model, largely built on the 🤗 Hugging Face Transformers Whisper implementation. Compared to OpenAI's PyTorch code, Whisper JAX runs over 70x faster, making it the fastest Whisper implementation available.
+- [salesforce/jaxformer](https://github.com/salesforce/jaxformer): Minimal library to train LLMs on TPU in JAX with pjit().
+- [NVIDIA/jaxpp](https://github.com/NVIDIA/jaxpp): JaxPP is a library for JAX that enables flexible MPMD pipeline parallelism for large-scale LLM training
+- [NVIDIA/maxtext-jaxpp](https://github.com/NVIDIA/maxtext-jaxpp): Showcase JaxPP with MaxText
 
 ## Jax ecology
 
@@ -398,16 +409,15 @@ PGM / Probabilistic programming
 - [google/brax](https://github.com/google/brax): Massively parallel rigidbody physics simulation on accelerator hardware.
 - [google/paxml](https://github.com/google/paxml): Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates.
 - [google/praxis](https://github.com/google/praxis): No description, website, or topics provided. This is not an officially supported Google product.
-- [google/maxtext](https://github.com/google/maxtext): A simple, performant and scalable Jax LLM!
+- [google/ml_collections](https://github.com/google/ml_collections): ML Collections is a library of Python Collections designed for ML use cases. <https://ml-collections.readthedocs.io/>
+- [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext): A simple, performant and scalable Jax LLM!
 - [AI-Hypercomputer/JetStream](https://github.com/AI-Hypercomputer/JetStream): JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
-- [google/maxdiffusion](https://github.com/google/maxdiffusion): MaxDiffusion is a Latent Diffusion model written in pure Python/Jax and targeting Google Cloud TPUs.
-- [AI-Hypercomputer/maxdiffusion](https://github.com/AI-Hypercomputer/maxdiffusion): No description, website, or topics provided.
+- [AI-Hypercomputer/maxdiffusion](https://github.com/AI-Hypercomputer/maxdiffusion): MaxDiffusion is a collection of reference implementations of various latent diffusion models written in pure Python/Jax that run on XLA devices including Cloud TPUs and GPUs.
 - [google-research/discs](https://github.com/google-research/discs): DISCS: The code base for the Benchmark for Discrete Sampling
 - [google-research/gpax](https://github.com/google-research/gpax): Gaussian processes in Jax.
 - [google-research/e3x](https://github.com/google-research/e3x): E3x is a JAX library for constructing efficient E(3)-equivariant deep learning architectures built on top of Flax.
 - [google-research/scenic](https://github.com/google-research/scenic): Scenic: A Jax Library for Computer Vision Research and Beyond
 - [google-research/kauldron](https://github.com/google-research/kauldron): Modular, scalable library to train ML models <https://kauldron.readthedocs.io/>
-- [google/ml_collections](https://github.com/google/ml_collections): ML Collections is a library of Python Collections designed for ML use cases. <https://ml-collections.readthedocs.io/>
 
 ### Manipulating and transforming Ops
 
@@ -509,6 +519,8 @@ PGM / Probabilistic programming
 - [mlcommons/training](https://github.com/mlcommons/training): Reference implementations of MLPerf™ training benchmarks <https://mlcommons.org/en/groups/training>
 - [mlcommons/inference](https://github.com/mlcommons/inference): Reference implementations of MLPerf™ inference benchmarks <https://mlcommons.org/en/groups/inference>
 - [mlcommons/logging](https://github.com/mlcommons/logging): MLPerf™ logging library <https://mlcommons.org/en/groups/best-practices-benchmark-infra>
+- [Michaelvll/llm-ie-benchmarks](https://github.com/Michaelvll/llm-ie-benchmarks): A collection of reproducible inference engine benchmarks
+  - Actually, I hope to learn how to use skypilot to set up similar environments quickly here.
 
 ## Happy small projects (to learn)
 

@@ -62,6 +62,7 @@
 - [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl): JAX (Flax) implementation of algorithms for Deep Reinforcement Learning with continuous action spaces.
 - [facebookresearch/MLGym](https://github.com/facebookresearch/MLGym): MLGym A New Framework and Benchmark for Advancing AI Research Agents
 - [epignatelli/navix](https://github.com/epignatelli/navix): Accelerated minigrid environments with JAX
+- [anyscale/rl-course](https://github.com/anyscale/rl-course): No description, website, or topics provided.
 
 ## Flow models
 

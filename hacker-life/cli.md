@@ -80,6 +80,11 @@
 - [google/codesearch](https://github.com/google/codesearch): Fast, indexed regexp search over large file trees <http://swtch.com/~rsc/regexp/regexp4.html>
 - [ynqa/jnv](https://github.com/ynqa/jnv): Interactive JSON filter using jq
 - [davidesantangelo/krep](https://github.com/davidesantangelo/krep): Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale. <https://davidesantangelo.github.io/krep/>
+- [tbillington/kondo](https://github.com/tbillington/kondo): Cleans dependencies and build artifacts from your projects.
+- [AlDanial/cloc](https://github.com/AlDanial/cloc): cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+  - `cloc --vcs=git --not-match-f=pnpm-lock.yaml `
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
+  - `tokei -e pnpm-lock.yaml`
 
 ## TUI applications
 
@@ -105,6 +110,7 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting): The modern API client that lives in your terminal.
 - [buckket/twtxt](https://github.com/buckket/twtxt): Decentralised, minimalist microblogging service for hackers. <http://twtxt.readthedocs.org/en/stable/>
 - [context-labs/mactop](https://github.com/context-labs/mactop): mactop - Apple Silicon Monitor Top
+- 🌟 [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool): Native cross-platform full feature terminal-based sequence editor for git interactive rebase. <https://gitrebasetool.mitmaro.ca/>
 
 ## Monitor
 

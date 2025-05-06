@@ -32,9 +32,11 @@
 - [Chang-LeHung/dive-into-cpython](https://github.com/Chang-LeHung/dive-into-cpython): dive into cpython source code <https://chang-lehung.github.io/dive-into-cpython/>
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals): Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研究员 Anthony Shaw 的《CPython Internals》中文翻译
-  - WARNING: in chinese
+  - in chinese
 - [satori1995/cpython-internal](https://github.com/satori1995/cpython-internal): 深度解析 CPython3.8 源码实现 <https://satori1995.github.io/cpython-internal>
-  - WARNING: in chinese
+  - in chinese
+- [satori1995/python-tech](https://github.com/satori1995/python-tech): Python 实用技巧
+  - in Chinese
 - [python/typing-council](https://github.com/python/typing-council): Decisions by the Python Typing Council
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips): FastAPI Tips by The FastAPI Expert!
 - [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
@@ -136,6 +138,7 @@ Templates
 - 🌟 [devpi/devpi](https://github.com/devpi/devpi): Python PyPi staging server and packaging, testing, release tool <https://doc.devpi.net>
 - [A Comprehensive Guide to Python Project Management and Packaging: Concepts Illustrated with uv – Part I – Reinforced Knowledge](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-i/)
 - [nascheme/cpython_sanity](https://github.com/nascheme/cpython_sanity): Builds of Python, numpy, scipy with sanitizer compile options enabled
+- [AndydeCleyre/zpy](https://github.com/AndydeCleyre/zpy): Manage Python environments in Zsh, with uv or pip-tools <https://andydecleyre.github.io/zpy/>
 
 ### Docs
 
@@ -179,7 +182,7 @@ Templates
   - [mongomock/mongomock](https://github.com/mongomock/mongomock): Small library for mocking pymongo collection objects for testing purposes
   - [barseghyanartur/faker-file](https://github.com/barseghyanartur/faker-file): Create files with fake data. In many formats. With no efforts.
 
-<!-- sep -->
+Misc
 
 - 🌟 [wntrblm/nox](https://github.com/wntrblm/nox): Flexible test automation for Python <https://nox.thea.codes>
 - [tonybaloney/wily](https://github.com/tonybaloney/wily): A Python application for tracking, reporting on timing and complexity in Python code
@@ -233,6 +236,8 @@ Templates
 
 - 🌟 [python/typing](https://github.com/python/typing): Python static typing home. Hosts the documentation and a user help forum. <https://typing.readthedocs.io>
 - 🌟 [mypyc/mypyc](https://github.com/mypyc/mypyc): Compile type annotated Python to fast C extensions <https://mypyc.readthedocs.io>
+- 🌟 [google/pytype](https://github.com/google/pytype): A static type analyzer for Python code <https://google.github.io/pytype>
+- 🌟 [facebook/pyrefly](https://github.com/facebook/pyrefly): A fast type checker and IDE for Python <http://pyrefly.org/>
 - [cognitedata/Expression](https://github.com/cognitedata/Expression): Pragmatic functional programming for Python inspired by F#
 - 📝 [orsinium-labs/eff](https://github.com/orsinium-labs/eff): Python library to work with algebraic effects
 - [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper): A fast and efficient type assistant for Python, including tensor shape inference
@@ -406,6 +411,7 @@ Templates
 - [scrapy/w3lib](https://github.com/scrapy/w3lib): Python library of web-related functions
 - 🌟 [cle-b/httpdbg](https://github.com/cle-b/httpdbg): A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program. <https://httpdbg.readthedocs.io/>
 - 🌟 [di/id](https://github.com/di/id): A tool for generating OIDC identities
+- [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm): Familiar asyncio ORM for python, built with relations in mind <https://tortoise.github.io>
 
 ### DB clients and SQL utils
 
@@ -426,7 +432,7 @@ Templates
 - [memgraph/gqlalchemy](https://github.com/memgraph/gqlalchemy): GQLAlchemy is a library developed with the purpose of assisting in writing and running queries on Memgraph. GQLAlchemy supports high-level connection to Memgraph as well as modular query builder.
 - 📝 [ponyorm/pony](https://github.com/ponyorm/pony): Pony Object Relational Mapper
   - Learn how Monad style applies in Python
-  - [Python’s “Disappointing” Superpowers # Pony ORM](https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/#pony-orm)
+  - [Python’s "Disappointing" Superpowers # Pony ORM](https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/#pony-orm)
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry): A GraphQL library for Python that leverages type annotations 🍓 <https://strawberry.rocks>
 - [ipython/pickleshare](https://github.com/ipython/pickleshare): File system based database that uses python pickles
 - 🌟 [unum-cloud/ustore](https://github.com/unum-cloud/ustore): Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with NetworkX and Pandas interfaces, and bindings for C 99, C++ 17, Python 3, Java, GoLang 🗄️ <https://unum-cloud.github.io/ustore/>

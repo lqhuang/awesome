@@ -68,6 +68,7 @@
 - 🌟 [hengyoush/kyanos](https://github.com/hengyoush/kyanos): Visualize the time packets spend in the kernel, watch & analyze in command line. <https://kyanos.io>
 - [drk1wi/portspoof](https://github.com/drk1wi/portspoof): Portspoof <http://drk1wi.github.io/portspoof/>
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap): View HTTP/HTTPS requests made by any Linux program <https://www.monasticacademy.org>
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py): 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework <https://abhinavsingh.com/proxy-py-a-lightweight-single-file-http-proxy-server-in-python/>
 
 ### Analysis
 

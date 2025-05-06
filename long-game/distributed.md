@@ -25,6 +25,7 @@
 - [Normcore Systems Reading List](https://karanchawla.io/2024/06/24/distributed_systems_reading)
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [Hints for Distributed Systems Design](http://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
+- [Distributed consensus](https://shachaf.net/w/consensus): This page is a relatively informal discussion of distributed consensus and Paxos, what it does, how it works, and some tricks and variants.
 
 ### Books
 
@@ -44,11 +45,12 @@
 - [dora-rs/dora](https://github.com/dora-rs/dora): dora goal is to be a low latency, composable, and distributed data flow. <https://dora-rs.github.io/dora>
 - [hydro-project/hydroflow](https://github.com/hydro-project/hydroflow): Hydro's low-level dataflow runtime <https://hydro-project.github.io/hydroflow>
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus): YTsaurus is a scalable and fault-tolerant open-source big data platform. <https://ytsaurus.tech>
+- [JiahaoYao/awesome-ray](https://github.com/JiahaoYao/awesome-ray): Ray - A curated list of resources: https://github.com/ray-project/ray
 
 ## RPC / Structured data serialization
 
 - 🌟 [rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization framework for Rust
-- [capnproto/capnproto-rust]
+- [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust): Cap'n Proto for Rust
 - [deeptir18/cornflakes](https://github.com/deeptir18/cornflakes): A zero-copy serialization library and networking stack.
 - [faasm/faabric](https://github.com/faasm/faabric): Messaging and state layer for distributed serverless applications <https://faabric.readthedocs.io>
 
@@ -131,6 +133,7 @@
 - 🌟 [dranov/protocol-bugs-list](https://github.com/dranov/protocol-bugs-list): List of bugs found in distributed protocols
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy): ⏰ 🔥 A TCP proxy to simulate network and system conditions for chaos and resiliency testing <https://github.com/shopify/toxiproxy>
 - [reitzensteinm/temper](https://github.com/reitzensteinm/temper): Deterministic simulation of concurrency and failure in distributed systems
+- [Planet DST](https://deterministic-simulation-testing.github.io/planet-dst/): This is a feed aggregator for people and corporations who publish about deterministic simulation testing, property based testing, fault injection, etc.
 
 ## Formal verification
 
