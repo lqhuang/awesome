@@ -86,6 +86,11 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
   - `tokei -e pnpm-lock.yaml`
 
+### Watcher
+
+- 🌟 [parcel-bundler/watcher](https://github.com/parcel-bundler/watcher): 👀 A native C++ Node module for querying and subscribing to filesystem events
+- 🌟 [paulmillr/chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library <https://paulmillr.com>
+
 ## TUI applications
 
 - 🌟 [veeso/termscp](https://github.com/veeso/termscp): 🖥 A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3 <https://termscp.veeso.dev/>

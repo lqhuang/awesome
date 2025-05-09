@@ -45,37 +45,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 
-### CSS collections
-
-- [Transition animations: a practical guide](https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659)
-- 🌟 [phuocng/csslayout](https://github.com/phuocng/csslayout): A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing! <https://phuoc.ng/collection/css-layout>
-- [UI Snippets](https://ui-snippets.dev/)
-- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
-- [The Cleanest Trick for Autogrowing Textareas](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)
-- [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects <https://cssfx.netlify.com>
-- [12 Modern CSS One-Line Upgrades | Modern CSS Solutions](https://moderncss.dev/12-modern-css-one-line-upgrades/): Sometimes, improving your application CSS just takes a one-line upgrade or enhancement! Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.
-- [Modern CSS Solutions](https://moderncss.dev/): A series examining modern CSS solutions to problems Stephanie Eckles (@5t3ph), a seasoned frontend developer, has been solving for 15+ years.
-- 🌟 [lowlighter/matcha](https://github.com/lowlighter/matcha): 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps! <https://matcha.mizu.sh>
-- [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/): A game for learning CSS flexbox
-  - cute :D
-- 🌟 [NeverCease/uchu](https://github.com/NeverCease/uchu): the color palette for internet lovers <https://uchu.style>
-
-## Framework
-
-- [denoland/fresh](https://github.com/denoland/fresh): The next-gen web framework. <https://fresh.deno.dev>
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood): The App Framework for Startups <https://redwoodjs.com>
-- [stacksjs/stacks](https://github.com/stacksjs/stacks): ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster. <https://stacksjs.org>
-- [refinedev/refine](https://github.com/refinedev/refine): Build your React-based CRUD applications, without constraints. <https://refine.dev>
-- [alpinejs/alpine](https://github.com/alpinejs/alpine): A rugged, minimal framework for composing JavaScript behavior in your markup. <https://alpinejs.dev>
-- [trpc/trpc](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. <https://trpc.io>
-- 🌟 [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework <https://waku.gg>
-- [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js): Reactivity without the framework <https://arrow-js.com>
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra): Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
-- 🌟🌟🌟 [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
-- [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js): A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth): Authentication for the Web. <https://authjs.dev>
-- 🌟 [onejs/one](https://github.com/onejs/one): ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. <https://onestack.dev>
-
 ### Templates / Starter kit
 
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app): The best way to start a full-stack, typesafe Next.js app <https://create.t3.gg>
@@ -92,6 +61,74 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter): Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️ <https://next-ts.joaopedro.dev>
 - [al1abb/invoify](https://github.com/al1abb/invoify): An invoice generator app built using Next.js, Typescript, and Shadcn <https://invoify.vercel.app>
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter): Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. <https://next-saas-start.vercel.app>
+
+## CSS
+
+### collections
+
+- [Transition animations: a practical guide](https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659)
+- 🌟 [phuocng/csslayout](https://github.com/phuocng/csslayout): A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing! <https://phuoc.ng/collection/css-layout>
+- [UI Snippets](https://ui-snippets.dev/)
+- [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
+- [The Cleanest Trick for Autogrowing Textareas](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)
+- [jolaleye/cssfx](https://github.com/jolaleye/cssfx): ✨ Beautifully simple click-to-copy CSS effects <https://cssfx.netlify.com>
+- [12 Modern CSS One-Line Upgrades | Modern CSS Solutions](https://moderncss.dev/12-modern-css-one-line-upgrades/): Sometimes, improving your application CSS just takes a one-line upgrade or enhancement! Learn about 12 properties to start incorporating into your projects, and enjoy reducing technical debt, removing JavaScript, and scoring easy wins for user experience.
+- [Modern CSS Solutions](https://moderncss.dev/): A series examining modern CSS solutions to problems Stephanie Eckles (@5t3ph), a seasoned frontend developer, has been solving for 15+ years.
+- 🌟 [lowlighter/matcha](https://github.com/lowlighter/matcha): 🍵 Drop-in semantic styling library in pure CSS. Highly customizable and perfect for simple websites and prototyping web apps! <https://matcha.mizu.sh>
+- [Flexbox Froggy - A game for learning CSS flexbox](https://flexboxfroggy.com/): A game for learning CSS flexbox
+  - cute :D
+- 🌟 [NeverCease/uchu](https://github.com/NeverCease/uchu): the color palette for internet lovers <https://uchu.style>
+
+### CSS Style
+
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips): ⚡️ A collection of tips to help take your CSS skills pro 🦾
+- [andybrewer/mvp](https://github.com/andybrewer/mvp/): MVP.css — Minimalist classless CSS stylesheet for HTML elements <https://andybrewer.github.io/mvp>
+- [Mokshit06/typewind](https://github.com/Mokshit06/typewind): The safety of Typescript with the magic of Tailwind. <https://typewind.vercel.app>
+- [tw-in-js/twind](https://github.com/tw-in-js/twind): The smallest, fastest, most feature complete Tailwind-in-JS solution in existence. <https://twind.style>
+- [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants): 🦄 Tailwindcss first-class variant API <https://tailwind-variants.org>
+- 🌟 [joe-bell/cva](https://github.com/joe-bell/cva): Class Variance Authority <https://cva.style>
+- 🌟 [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge): Merge Tailwind CSS classes without style conflicts <https://npmjs.com/package/tailwind-merge>
+- [gregberge/twc](https://github.com/gregberge/twc): Create reusable React + Tailwind CSS components in one line ✨ <https://react-twc.vercel.app>
+- [color-js/color.js](https://github.com/color-js/color.js): Color conversion & manipulation library by the editors of the CSS Color specifications <https://colorjs.io>
+- [ccc159/loadership](https://github.com/ccc159/loadership): LoaderShip.com is the ultimate CSS-only loader configuration tool that allows you to effortlessly customize and generate stunning loaders for your website. Simply Copy & Paste without any installation or dependency hassle.
+- [picocss/pico](https://github.com/picocss/pico): Minimal CSS Framework for semantic HTML <https://picocss.com>
+- [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit): a pure css implementation of some sunlight streaming in through the window <https://sunlit.pages.dev/>
+
+#### CSS in JS
+
+- [macaron-css/macaron](https://github.com/macaron-css/macaron): Typesafe CSS-in-JS with zero runtime, colocation, maximum safety and productivity <https://macaron.js.org>
+- [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract): Zero-runtime Stylesheets-in-TypeScript <https://vanilla-extract.style>
+- 🪦 [stitchesjs/stitches](https://github.com/stitchesjs/stitches): CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. <https://stitches.dev>
+- [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro): 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
+- [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library <https://linaria.dev>
+- [facebook/stylex](https://github.com/facebook/stylex): StyleX is the styling system for ambitious user interfaces. <https://stylexjs.com>
+- [chakra-ui/panda](https://github.com/chakra-ui/panda): 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️ <https://panda-css.com>
+
+### linters
+
+- [stylelint/stylelint](https://github.com/stylelint/stylelint): A mighty CSS linter that helps you avoid errors and enforce conventions. <https://stylelint.io>
+- [cssnano/cssnano](https://github.com/cssnano/cssnano): A modular minifier, built on top of the PostCSS ecosystem. <https://cssnano.github.io/cssnano/>
+- [FullHuman/purgecss](https://github.com/FullHuman/purgecss): Remove unused CSS <https://purgecss.com>
+- [clean-css/clean-css](https://github.com/clean-css/clean-css): Fast and efficient CSS optimizer for node.js and the Web <https://clean-css.github.io/>
+- [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss): An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. <https://lightningcss.dev>
+
+## UI Engineering
+
+### Framework
+
+- [denoland/fresh](https://github.com/denoland/fresh): The next-gen web framework. <https://fresh.deno.dev>
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood): The App Framework for Startups <https://redwoodjs.com>
+- [stacksjs/stacks](https://github.com/stacksjs/stacks): ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster. <https://stacksjs.org>
+- [refinedev/refine](https://github.com/refinedev/refine): Build your React-based CRUD applications, without constraints. <https://refine.dev>
+- [alpinejs/alpine](https://github.com/alpinejs/alpine): A rugged, minimal framework for composing JavaScript behavior in your markup. <https://alpinejs.dev>
+- [trpc/trpc](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. <https://trpc.io>
+- 🌟 [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework <https://waku.gg>
+- [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js): Reactivity without the framework <https://arrow-js.com>
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra): Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
+- 🌟🌟🌟 [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
+- [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js): A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth): Authentication for the Web. <https://authjs.dev>
+- 🌟 [onejs/one](https://github.com/onejs/one): ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. <https://onestack.dev>
 
 ### UI Testing
 
@@ -123,6 +160,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - Tailwind
   - 🌟 [Wombosvideo/tw-animate-css](https://github.com/Wombosvideo/tw-animate-css): TailwindCSS v4.0 compatible replacement for `tailwindcss-animate` <https://www.npmjs.com/package/tw-animate-css>
   - [TailwindCSS Snippets](https://snippets.alexandru.so/)
+  - [Blog | Tailkits](https://tailkits.com/blog/): Stay informed with our latest articles and enhance your Tailwind projects with expert advice and creative inspiration.
   - [themesberg/flowbite](https://github.com/themesberg/flowbite): The most popular and open-source library of Tailwind CSS components <https://flowbite.com>
   - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline): Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. <https://preline.co>
   - [konstaui/konsta](https://github.com/konstaui/konsta): Mobile UI components made with Tailwind CSS <https://konstaui.com>
@@ -179,6 +217,7 @@ My own favorites:
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor): The react library to build dashboards fast. <https://tremor.so>
   - [tremorlabs/tremor-raw](https://github.com/tremorlabs/tremor-raw): Copy & Paste React components to build modern web applications. <https://tremor.so>
   - in shadcn/ui style
+- [ecklf/tailwindcss-radix](https://github.com/ecklf/tailwindcss-radix): Utilities and variants for styling Radix state <https://tailwindcss-radix.vercel.app>
 
 Shadcn UI eco system
 
@@ -207,25 +246,6 @@ Shadcn UI eco system
 - [pngwn/MDsveX](https://github.com/pngwn/MDsveX): A markdown preprocessor for Svelte. <https://mdsvex.pngwn.io>
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton): The UI toolkit for Svelte and Tailwind. <https://skeleton.dev>
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui): A set of headless, accessible component builders for Svelte. <https://melt-ui.com>
-
-### CSS Style
-
-- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips): ⚡️ A collection of tips to help take your CSS skills pro 🦾
-- [andybrewer/mvp](https://github.com/andybrewer/mvp/): MVP.css — Minimalist classless CSS stylesheet for HTML elements <https://andybrewer.github.io/mvp>
-- [Mokshit06/typewind](https://github.com/Mokshit06/typewind): The safety of Typescript with the magic of Tailwind. <https://typewind.vercel.app>
-- [macaron-css/macaron](https://github.com/macaron-css/macaron): Typesafe CSS-in-JS with zero runtime, colocation, maximum safety and productivity <https://macaron.js.org>
-- [tw-in-js/twind](https://github.com/tw-in-js/twind): The smallest, fastest, most feature complete Tailwind-in-JS solution in existence. <https://twind.style>
-- [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract): Zero-runtime Stylesheets-in-TypeScript <https://vanilla-extract.style>
-- 🪦 [stitchesjs/stitches](https://github.com/stitchesjs/stitches): CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. <https://stitches.dev>
-- [heroui-inc/tailwind-variants](https://github.com/heroui-inc/tailwind-variants): 🦄 Tailwindcss first-class variant API <https://tailwind-variants.org>
-- 🌟 [joe-bell/cva](https://github.com/joe-bell/cva): Class Variance Authority <https://cva.style>
-- 🌟 [dcastil/tailwind-merge](https://github.com/dcastil/tailwind-merge): Merge Tailwind CSS classes without style conflicts <https://npmjs.com/package/tailwind-merge>
-- 🌟 [gregberge/twc](https://github.com/gregberge/twc): Create reusable React + Tailwind CSS components in one line ✨ <https://react-twc.vercel.app>
-- 🌟 [facebook/stylex](https://github.com/facebook/stylex): StyleX is the styling system for ambitious user interfaces. <https://stylexjs.com>
-- [color-js/color.js](https://github.com/color-js/color.js): Color conversion & manipulation library by the editors of the CSS Color specifications <https://colorjs.io>
-- [ccc159/loadership](https://github.com/ccc159/loadership): LoaderShip.com is the ultimate CSS-only loader configuration tool that allows you to effortlessly customize and generate stunning loaders for your website. Simply Copy & Paste without any installation or dependency hassle.
-- [picocss/pico](https://github.com/picocss/pico): Minimal CSS Framework for semantic HTML <https://picocss.com>
-- [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit): a pure css implementation of some sunlight streaming in through the window <https://sunlit.pages.dev/>
 
 ### Components
 
@@ -363,6 +383,7 @@ Misc
 - [wipeautcrafter/jsfontpicker](https://github.com/wipeautcrafter/jsfontpicker): An open source, free (as in beer), versatile, flexible and lightweight Javascript Font Picker Component for System fonts, Google fonts and custom (woff/ttf) fonts. Features dynamic font loading, favourites, keyboard navigation, fuzzy search, advanced metrics filters, property sorting and much more. Available in multiple languages. <https://jsfontpicker.com/>
 - [talyssonoc/react-katex](https://github.com/talyssonoc/react-katex): Display math in TeX with KaTeX and ReactJS
   - great but no longer maintained
+- [tanem/react-svg](https://github.com/tanem/react-svg): 🎨 A React component that injects SVG into the DOM. <https://npm.im/react-svg>
 
 #### Just render json in better way
 
@@ -488,6 +509,7 @@ Concrete animations
 - 🌟 [amrlabib/react-timer-hook](https://github.com/amrlabib/react-timer-hook): React timer hook <https://www.npmjs.com/package/react-timer-hook>
 - 🌟 [texel-org/color](https://github.com/texel-org/color): modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
 - [hypershiphq/react-cookie-manager](https://github.com/hypershiphq/react-cookie-manager): A powerful, customizable React component for cookie consent management with built-in tracking prevention. This component provides a modern, user-friendly way to obtain and manage cookie consent from your website visitors.
+- [svg/svgo](https://github.com/svg/svgo): ⚙️ Node.js tool for optimizing SVG files <https://svgo.dev/>
 
 ### Misc
 
@@ -561,8 +583,6 @@ Concrete animations
   - [Figma Plugin](https://dub.sh/iconbuddy-figma)
 - 🌟 [pheralb/svgl](https://github.com/pheralb/svgl): 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS. <https://svgl.app>
 - [Icons | Developer Icons](https://xandemon.github.io/developer-icons/icons/All/): Ready-to-use beautiful tech stack icon components for developers
-- [svg/svgo](https://github.com/svg/svgo): ⚙️ Node.js tool for optimizing SVG files <https://svgo.dev/>
-- [tanem/react-svg](https://github.com/tanem/react-svg): 🎨 A React component that injects SVG into the DOM. <https://npm.im/react-svg>
 - [feathericons/feather](https://github.com/feathericons/feather): Simply beautiful open-source icons <https://feathericons.com>
 - 🌟 [Nucleo: The ultimate icon bundle](https://nucleoapp.com/)
 - [Streamline: Your Ultimate Icon Library](https://www.streamlinehq.com/)

@@ -249,15 +249,19 @@
 - [adzejs/adze](https://github.com/adzejs/adze): A universal, modern, and extensible logging library for JavaScript and TypeScript. <https://adzejs.com/>
 - [winstonjs/winston](https://github.com/winstonjs/winston): A logger for just about everything. <http://github.com/winstonjs/winston>
 
-### Clients / fetch
+### fetch
 
 - [sindresorhus/ky](https://github.com/sindresorhus/ky): 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - 🌟 [nodejs/undici](https://github.com/nodejs/undici): An HTTP/1.1 client, written from scratch for Node.js <https://nodejs.github.io/undici>
 - [unjs/ofetch](https://github.com/unjs/ofetch): 😱 A better fetch API. Works on node, browser and workers.
-- [discordeno/discordeno](https://github.com/discordeno/discordeno): Discord API library for Node and Deno <https://discordeno.js.org>
 - [epicweb-dev/cachified](https://github.com/epicweb-dev/cachified): 🤑 wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
 - [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch): Advanced fetch client builder
   - highlights: Validate API responses with `zod`, `valibot` or `arktype`
+
+### Clients
+
+- [discordeno/discordeno](https://github.com/discordeno/discordeno): Discord API library for Node and Deno <https://discordeno.js.org>
+- [platformatic/kafka](https://github.com/platformatic/kafka): No description, website, or topics provided.
 
 ### CLI
 
@@ -289,7 +293,6 @@
 - [remusao/tldts](https://github.com/remusao/tldts): JavaScript Library to extract domains, subdomains and public suffixes from complex URIs. <https://npmjs.com/tldts>
 - [kourge/ts-brand](https://github.com/kourge/ts-brand): Reusable type branding in TypeScript
 - [jsonquerylang/jsonquery](https://github.com/jsonquerylang/jsonquery): A lightweight, flexible, and expandable JSON query language <https://jsonquerylang.org/>
-- 🌟 [paulmillr/chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library <https://paulmillr.com>
 - [zgrossbart/jdd](https://github.com/zgrossbart/jdd): A semantic JSON compare tool <http://www.jsondiff.com>
 - 🌟 [le0pard/re2js](https://github.com/le0pard/re2js): RE2JS is the JavaScript port of RE2, a regular expression engine that provides linear time matching <https://re2js.leopard.in.ua/>
 - [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl): Flexible Node.js AI-assisted crawler library <https://coder-hxl.github.io/x-crawl/>
@@ -297,6 +300,8 @@
 - [isaacs/node-glob](https://github.com/isaacs/node-glob): glob functionality for node.js
 - [isaacs/st](https://github.com/isaacs/st): A node module for serving static files. Does etags, caching, etc.
   - "Does etags, caching, etc." How? Try to learn from `st`
+- [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms): Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
+- [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes): Convert bytes to a human readable string: 1337 → 1.34 kB
 
 ## Middleware
 

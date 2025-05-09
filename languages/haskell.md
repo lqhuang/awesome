@@ -179,3 +179,4 @@
 - [NorfairKing/cursor](https://github.com/NorfairKing/cursor): Cursor data and manipulation
 - [owensmurray/om-legion](https://github.com/owensmurray/om-legion): Core Legion Framework
 - [well-typed/hs-bindgen](https://github.com/well-typed/hs-bindgen): Automatically generate Haskell bindings from C header files
+- [diku-dk/futhark](https://github.com/diku-dk/futhark): 💥💻💥 A data-parallel functional programming language <http://futhark-lang.org>

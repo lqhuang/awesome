@@ -700,7 +700,10 @@ Misc
 - [holoviz/panel](https://github.com/holoviz/panel): A high-level app and dashboarding solution for Python
 - [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz): Automatically Visualize any dataset, any size with a single line of code. Created by Ram Seshadri. Collaborators Welcome. Permission Granted upon Request.
 - [pygfx/pygfx](https://github.com/pygfx/pygfx): Like ThreeJS but for Python and based on wgpu <https://pygfx.readthedocs.io>
+- 🌟 [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib): A fast plotting library
+  - [vispy/jupyter_rfb](https://github.com/vispy/jupyter_rfb): Remote Frame Buffer for Jupyter <https://jupyter-rfb.readthedocs.io>
 - [vispy/GSP](https://github.com/vispy/GSP): Graphic Server Protocol <https://vispy.github.io/GSP>
+- [vispy/vispy](https://github.com/vispy/vispy): Main repository for Vispy <http://vispy.org>
 - [sepandhaghighi/samila](https://github.com/sepandhaghighi/samila): Generative Art Generator <https://www.samila.site>
 - [lux-org/lux](https://github.com/lux-org/lux): Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [moshi4/pyCirclize](https://github.com/moshi4/pyCirclize): Circular visualization in Python (Circos Plot, Chord Diagram) <https://moshi4.github.io/pyCirclize>
@@ -739,7 +742,6 @@ Misc
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer): An easy and fast way to create a Python GUI 🐍
 - [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets): A fluent design widgets library based on PyQt5
 - [rerun-io/rerun](https://github.com/rerun-io/rerun): Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui <https://rerun.io>
-- [fastplotlib/fastplotlib](https://github.com/fastplotlib/fastplotlib): A fast plotting library
 - [beeware/toga](https://github.com/beeware/toga): A Python native, OS native GUI toolkit. <https://toga.readthedocs.io/en/latest/>
 - [pyloid/pyloid](https://github.com/pyloid/pyloid): Pyloid is the Python backend version of Electron and Tauri, providing an open-source project that allows you to easily utilize various Python integration features. With Pyloid, developing desktop applications becomes simple, enabling you to build apps by integrating Python's powerful capabilities. <https://docs.pyloid.com/>
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview): Build GUI for your Python program with JavaScript, HTML, and CSS <https://pywebview.flowrl.com>

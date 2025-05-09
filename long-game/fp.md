@@ -9,15 +9,12 @@
 - 🌟 [liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY): Book of Elementary Algorithms and Data structures
 - 🌟 [liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged): Open book about math and programming.
 - [typeclasses/haskell-phrasebook](https://github.com/typeclasses/haskell-phrasebook): The Haskell Phrasebook: a quick intro to Haskell via small annotated example programs <https://typeclasses.com/phrasebook>
-- [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated): A book about category theory <https://abuseofnotation.github.io/category-theory-illustrated/>
 - [haskellfoundation/hs-opt-handbook.github.io](https://github.com/haskellfoundation/hs-opt-handbook.github.io): The Haskell Optimization Handbook <https://haskell.foundation/hs-opt-handbook.github.io/>
 - 🌟 [lazear/types-and-programming-languages](https://github.com/lazear/types-and-programming-languages): Exercises from Benjamin Pierce's "Types and Programming Languages" textbook + extras!
 - [pku-dppl/TAPL-in-MoonBit](https://github.com/pku-dppl/TAPL-in-MoonBit): MoonBit Port of Implementations for Pierce's Types and Programming Languages
 - [Elements of Programming](http://elementsofprogramming.com/): Decomposing programs into a system of algorithmic components
 - [GuoYaxiang/craftinginterpreters_zh](https://github.com/GuoYaxiang/craftinginterpreters_zh): 手撸解释器教程《Crafting Interpreters》中文翻译 <https://craftinginterpreters-zh-jet.vercel.app/>
 - [BartoszMilewski/DaoFP](https://github.com/BartoszMilewski/DaoFP): The Dao of Functional Programming
-- [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf): Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source <https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/>
-- [jpvillaisaza/cain](https://github.com/jpvillaisaza/cain): Category theory applied to functional programming (undergraduate project) <https://jpvillaisaza.co/cain/cain.pdf>
 - [Functional Programming in Lean](https://lean-lang.org/functional_programming_in_lean/):Lean is an interactive theorem prover developed at Microsoft Research, based on dependent type theory. Dependent type theory unites the worlds of programs and proofs; thus, Lean is also a programming language.
 - [Thinking with Types](https://thinkingwithtypes.com/): Type-Level Programming in Haskell. The book that takes you from a competent Haskell programmer to one whose compiler does the work for you.
   - [isovector/thinking-with-types](https://github.com/isovector/thinking-with-types): 📖 source material for Thinking with Types <http://thinkingwithtypes.com>
@@ -27,17 +24,13 @@
 - [Book of Monads](https://leanpub.com/book-of-monads)
   - [chiroptical/book-of-monads](https://github.com/chiroptical/book-of-monads): Finished Book of Monads by Alejandro Serrano-Mena
 - [Agda-zh/PLFA-zh](https://github.com/Agda-zh/PLFA-zh): 《编程语言基础：Agda 描述》，Programming Language Foundations in Agda 中文版 <https://agda-zh.github.io/PLFA-zh/>
-- [choukh/CategoryTheory](https://github.com/choukh/CategoryTheory): A Coq formalization of the textbook Categories and Toposes: Visualized and Explained
 - [dspivak/dependent-types](https://github.com/dspivak/dependent-types): dependent-types
 
 ### Readings
 
 - [Trebor-Huang/history](https://github.com/Trebor-Huang/history): History of type theory (Chinese).
 - [Kerodon](https://kerodon.net): an online resource for homotopy-coherent mathematics
-- [bgavran/Category_Theory_Machine_Learning](https://github.com/bgavran/Category_Theory_Machine_Learning): List of papers studying machine learning through the lens of category theory
 - 🌟 [A quick dive into Julia's type inference algorithm](https://aviatesk.github.io/posts/data-flow-problem/): introduction to dataflow analysis and Julia's local type inference routine
-- [jwiegley/category-theory](https://github.com/jwiegley/category-theory): An axiom-free formalization of category theory in Coq for personal study and practical work
-- [Category Theory in Coq](http://www.megacz.com/berkeley/coq-categories/): This is a quick page I've thrown together for my Coq library formalizing basic category theory. The development follows Steve Awodey's book on category theory; the files are named after chapters and subchapters of that book for easy reference.
 - [yihozhang/most-influential-pl-papers](https://github.com/yihozhang/most-influential-pl-papers): Most influential papers in programming languages
 
 ### Tutorials
@@ -55,6 +48,16 @@
 ## Computation
 
 - [stevana/arrow-loop-state-machines](https://github.com/stevana/arrow-loop-state-machines): Experiment with representing state machines as arrow loop combinators
+
+## Category Theory
+
+- [abuseofnotation/category-theory-illustrated](https://github.com/abuseofnotation/category-theory-illustrated): A book about category theory <https://abuseofnotation.github.io/category-theory-illustrated/>
+- [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf): Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source <https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/>
+- [jpvillaisaza/cain](https://github.com/jpvillaisaza/cain): Category theory applied to functional programming (undergraduate project) <https://jpvillaisaza.co/cain/cain.pdf>
+- [vcvpaiva/Lucy](https://github.com/vcvpaiva/Lucy): Collecting ideas for math concepts and glossaries
+- [choukh/CategoryTheory](https://github.com/choukh/CategoryTheory): A Coq formalization of the textbook Categories and Toposes: Visualized and Explained
+- [jwiegley/category-theory](https://github.com/jwiegley/category-theory): An axiom-free formalization of category theory in Coq for personal study and practical work
+- [Category Theory in Coq](http://www.megacz.com/berkeley/coq-categories/): This is a quick page I've thrown together for my Coq library formalizing basic category theory. The development follows Steve Awodey's book on category theory; the files are named after chapters and subchapters of that book for easy reference.
 
 ## Program analysis
 

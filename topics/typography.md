@@ -25,6 +25,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [Recursive Sans & MonoRecursive Sans & Mono](https://www.recursive.design/): A highly flexible variable font for design, code, and UI.
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans): Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim. <https://leon-kim.com/>
 - [arrowtype/recursive](https://github.com/arrowtype/recursive): Recursive Mono & Sans is a variable font family for code & UI <https://recursive.design>
+- [Font Catalog — Connary Fagen](https://connary.com/fonts/)
 
 Mono
 

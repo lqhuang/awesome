@@ -59,7 +59,7 @@ Streaming Systems
 - [numaproj/numaflow](https://github.com/numaproj/numaflow): Kubernetes-native platform to run massively parallel data/streaming jobs <https://numaflow.numaproj.io>
 - [TouK/nussknacker](https://github.com/TouK/nussknacker): Low-code tool for automating actions on real time data | Stream processing for the users. <https://nussknacker.io>
 - 🌟 [feldera/feldera](https://github.com/feldera/feldera): The Feldera Incremental Computation Engine <https://feldera.com>
-- 🌟 [iggy-rs/iggy](https://github.com/iggy-rs/iggy): Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second. <https://iggy.rs>
+- 🌟 [apache/iggy](https://github.com/apache/iggy): Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed <https://iggy.apache.org>
 - [SkipLabs/skip](https://github.com/SkipLabs/skip): Skip is a framework for building reactive services <https://skiplabs.io>
 - [warpstreamlabs/bento](https://github.com/warpstreamlabs/bento): Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed. <https://warpstreamlabs.github.io/bento/>
 

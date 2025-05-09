@@ -190,6 +190,7 @@ And modern is here now.
 - [pantor/inja](https://github.com/pantor/inja): A Template Engine for Modern C++ <https://pantor.github.io/inja/>
 - [nemtrif/utfcpp](https://github.com/nemtrif/utfcpp): UTF-8 with C++ in a Portable Way
 - [EmberEmu/Hexi](https://github.com/EmberEmu/Hexi): Header-only, lightweight C++ library for binary streaming. Network data handling made easy peasy!
+- [snowballstem/snowball](https://github.com/snowballstem/snowball): Snowball compiler and stemming algorithms <https://snowballstem.org/>
 
 ## Async / Concurrency
 

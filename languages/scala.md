@@ -124,10 +124,13 @@
 
 ### Program Analysis
 
-- [lightbend/mima](https://github.com/lightbend/mima): A tool for catching binary incompatibility in Scala
+- [lightbend-labs/mima](https://github.com/lightbend-labs/mima): A tool for catching binary incompatibility in Scala
+  - [scalacenter/tasty-mima](https://github.com/scalacenter/tasty-mima): TASTy Migration Manager
 - [wartremover/wartremover](https://github.com/wartremover/wartremover): Flexible Scala code linting tool <https://www.wartremover.org>
 - [shardulc/tasty-interpreter](https://github.com/shardulc/tasty-interpreter): Reference interpreter for TASTy, the Scala 3 interchange format
 - [epfl-lara/bolts](https://github.com/epfl-lara/bolts): Bolts: Stainless Verified Scala Examples
+- [lightbend-labs/scala-sculpt](https://github.com/lightbend-labs/scala-sculpt): Dependency extraction for Scala codebases, to aid in modularizing
+  - This is unfinished, unmaintained software. We are releasing it as open source as a public service with the hopes the code will be useful to someone.
 
 ### CI Actions
 
@@ -178,6 +181,9 @@ Do a benchmark (final size while using Scala Native) for them?
 - [windymelt/esbuild-plugin-scalajs](https://github.com/windymelt/esbuild-plugin-scalajs): ESBuild Plugin to bundle Scala.js module
 - [doofin/vscode-scalajs-hello](https://github.com/doofin/vscode-scalajs-hello): A simple VSCode extension with Scala.js
 - [cheleb/ThreeScalaJS](https://github.com/cheleb/ThreeScalaJS): ScalaJS WebGL utils and demos
+- [indoorvivants/cloudflare-worker-types](https://github.com/indoorvivants/cloudflare-worker-types): No description, website, or topics provided.
+- [keynmol/jobby](https://github.com/keynmol/jobby): Smithy4s (Scala + Scala.js) full-stack application <https://blog.indoorvivants.com/tags/series:smithy4s>
+- [keynmol/scalajs-scala-cli-vite-template](https://github.com/keynmol/scalajs-scala-cli-vite-template): Scala.js ❤️ Scala CLI ❤️ Vite
 
 ## Featured
 
@@ -288,7 +294,8 @@ Do a benchmark (final size while using Scala Native) for them?
 - [com-lihaoyi/PPrint](https://github.com/com-lihaoyi/PPrint): Pretty-printing value, types and type-signatures in Scala <https://com-lihaoyi.github.io/PPrint/>
 - 🌟 [com-lihaoyi/sourcecode](https://github.com/com-lihaoyi/sourcecode): Scala library providing "source" metadata to your program, similar to Python's **name**, C++'s **LINE** or Ruby's **FILE**.
 - [Comcast/ip4s](https://github.com/Comcast/ip4s): Defines immutable, safe data structures for describing IP addresses, multicast joins, socket addresses and similar IP & network related data types
-- [lemonlabsuk/scala-uri](https://github.com/lemonlabsuk/scala-uri): Simple scala library for building and parsing URIs
+- [indoorvivants/scala-uri](https://github.com/indoorvivants/scala-uri): Simple scala library for building and parsing URIs
+  - 🪦 [lemonlabsuk/scala-uri](https://github.com/lemonlabsuk/scala-uri): Simple scala library for building and parsing URIs
 - [eed3si9n/ifdef](https://github.com/eed3si9n/ifdef): `@ifdef` is an annotation that implements conditional compilation in Scala
 - [Quafadas/scautable](https://github.com/Quafadas/scautable): Table utils, one line CSV imports - the fundamental assumption is that a table is a Iterator of iterable of Product or Tuple <https://quafadas.github.io/scautable/docs>
 - [lbialy/jig](https://github.com/lbialy/jig): A minimal, type-safe configuration library for Scala 3 that focuses on both reading and writing configuration files.

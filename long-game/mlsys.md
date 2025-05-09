@@ -147,8 +147,6 @@ General problems
 - 📝 [mosecorg/mosec](https://github.com/mosecorg/mosec): A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine <https://mosecorg.github.io/mosec/>
 - [autonomi-ai/nos](https://github.com/autonomi-ai/nos): ⚡️ Nitrous oxide for your AI infrastructure. <https://docs.nos.run/>
 - [iqiyi/xgboost-serving](https://github.com/iqiyi/xgboost-serving): A flexible, high-performance serving system for machine learning models
-- [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens): Tile primitives for speedy kernels
-  - 🌟 [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 - [facebookincubator/AITemplate](https://github.com/facebookincubator/AITemplate): AITemplate is a Python framework which renders neural network into high performance CUDA/HIP C++ code. Specialized for FP16 TensorCore (NVIDIA GPU) and MatrixCore (AMD GPU) inference.
 - 📝 [triton-inference-server/pytriton](https://github.com/triton-inference-server/pytriton): PyTriton is a Flask/FastAPI-like interface that simplifies Triton's deployment in Python environments. <https://triton-inference-server.github.io/pytriton/>
 - [triton-inference-server/server](https://github.com/triton-inference-server/server): The Triton Inference Server provides an optimized cloud and edge inferencing solution. <https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html>
@@ -162,6 +160,10 @@ General problems
 - [zml/zml](https://github.com/zml/zml): Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild <https://docs.zml.ai>
   - Interesting ideas
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo): A Datacenter Scale Distributed Inference Serving Framework
+
+### Distribution kits
+
+- [pytorch/PiPPy](https://github.com/pytorch/PiPPy): Pipeline Parallelism for PyTorch
 
 ### Workflow pipeline / MLOps
 
@@ -211,8 +213,14 @@ General problems
 - [pytorch/glow](https://github.com/pytorch/glow): Compiler for Neural Network hardware accelerators
 - [nod-ai/SHARK-Turbine](https://github.com/nod-ai/SHARK-Turbine): Unified compiler/runtime for interfacing with PyTorch Dynamo.
 - [modularml/mojo](https://github.com/modularml/mojo): The Mojo Programming Language <https://docs.modular.com/mojo>
+
+### Operator and Kernel
+
 - [mirage-project/mirage](https://github.com/mirage-project/mirage): Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA <https://mirage-project.readthedocs.io/>
 - [getkeops/keops](https://github.com/getkeops/keops): KErnel OPerationS, on CPUs and GPUs, with autodiff and without memory overflows <https://www.kernel-operations.io>
+- [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens): Tile primitives for speedy kernels
+  - 🌟 [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+- [pytorch-labs/helion](https://github.com/pytorch-labs/helion): A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.
 - [ppl-ai/pplx-kernels](https://github.com/ppl-ai/pplx-kernels): Perplexity GPU Kernels
 - [ByteDance-Seed/Triton-distributed](https://github.com/ByteDance-Seed/Triton-distributed): Distributed Triton for Parallel Systems
 - [pytorch-labs/tritonbench](https://github.com/pytorch-labs/tritonbench): Tritonbench is a collection of PyTorch custom operators with example inputs to measure their performance.
@@ -504,7 +512,6 @@ PGM / Probabilistic programming
 - [msminhas93/nviwatch](https://github.com/msminhas93/nviwatch): NviWatch: A blazingly fast rust based TUI for managing and monitoring NVIDIA GPU processes
 - [wookayin/gpustat](https://github.com/wookayin/gpustat): 📊 A simple command-line utility for querying and monitoring GPU status
 - [google/fiddle](https://github.com/google/fiddle): Fiddle is a Python-first configuration library particularly well suited to ML applications. Fiddle enables deep configurability of parameters in a program, while allowing configuration to be expressed in readable and maintainable Python code.
-- [pytorch/PiPPy](https://github.com/pytorch/PiPPy): Pipeline Parallelism for PyTorch
 - [fastai/fastcore](https://github.com/fastai/fastcore): Python supercharged for the fastai library <http://fastcore.fast.ai>
 - [parrt/tensor-sensor](https://github.com/parrt/tensor-sensor): The goal of this library is to generate more helpful exception messages for matrix algebra expressions for numpy, pytorch, jax, tensorflow, keras, fastai. <https://github.com/parrt/tensor-sensor>
   - looks great, but no longer active

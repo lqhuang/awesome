@@ -59,6 +59,15 @@
 - 🌟 [Timemator](https://timemator.com/): Tracks your time while you work. Automatically.
 - 🌟 [Optimage](https://optimage.app/): Advanced image optimization tool Automatically compress images achieving the highest compression ratio at consistent image quality.
 
+### Monitor
+
+- [exelban/stats](https://github.com/exelban/stats): macOS system monitor in your menu bar
+- [iStat Menus](https://bjango.com/mac/istatmenus/): The ultimate system monitor for your menu bar, with CPU, GPU, memory, network, disk usage, disk activity, temperatures, fans, battery info and more.
+- [Sensei](https://cindori.com/sensei): Sensei is the ultimate app for optimizing your Mac. Featuring a wide range of advanced cleaning and monitoring features, it's never been easier to maximize your Mac performance.
+  - ⛔ memory leaks in my daily use
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice): Powerful menu bar manager for macOS <https://icemenubar.app>
+- iStatistica
+
 ### Open Source
 
 - [dsully/macos-defaults](https://github.com/dsully/macos-defaults): A tool for managing macOS defaults declaratively via YAML files.
@@ -67,7 +76,6 @@
 - [trycua/lume](https://github.com/trycua/lume): A lightweight CLI and local API server to create, run and manage macOS and Linux virtual machines (VMs) natively on Apple Silicon.
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS <https://alt-tab-macos.netlify.app>
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp): The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
-- [exelban/stats](https://github.com/exelban/stats): macOS system monitor in your menu bar
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a full-fledged code editor for iPad <https://code.thebaselab.com>
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl): 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. <https://monitorcontrol.app/>
 - [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS <https://maccy.app>
@@ -115,9 +123,7 @@
 - 🌟 [TopNotch](https://topnotch.app): Makes the notch disappear like a 🥷
 - [CleanShot X](https://cleanshot.com): Capture your Mac’s screen like a pro.
 - 🌟 [Shottr](https://shottr.cc): Shottr is a small, fast, human-sized screenshot app built for those who care about pixels. It was crafted with Swift, optimized for M1, and is distributed for free.
-- [iStat Menus](https://bjango.com/mac/istatmenus/): The ultimate system monitor for your menu bar, with CPU, GPU, memory, network, disk usage, disk activity, temperatures, fans, battery info and more.
 - [Skim](https://skim-app.sourceforge.io): Skim is a PDF reader and note-taker for OS X. It is designed to help you read and annotate scientific papers in PDF, but is also great for viewing any PDF file.
-- [Sensei](https://cindori.com/sensei): Sensei is the ultimate app for optimizing your Mac. Featuring a wide range of advanced cleaning and monitoring features, it's never been easier to maximize your Mac performance.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more! <https://betterdisplay.pro>
 - [alin23/Lunar](https://github.com/alin23/Lunar): Intelligent adaptive brightness for your external monitors <https://lunar.fyi>
 - [NTFS Disk by Omi](https://omiapps.com/product/1585757563): Best NTFS Disk Manager on Mac App Store
