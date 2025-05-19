@@ -85,6 +85,7 @@
   - `cloc --vcs=git --not-match-f=pnpm-lock.yaml `
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
   - `tokei -e pnpm-lock.yaml`
+- [antonmedv/fx](https://github.com/antonmedv/fx): Terminal JSON viewer & processor <https://fx.wtf>
 
 ### Watcher
 

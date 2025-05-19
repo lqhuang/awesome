@@ -44,6 +44,7 @@
 - [mlc-ai/tokenizers-cpp](https://github.com/mlc-ai/tokenizers-cpp): Universal cross-platform tokenizers binding to HF and sentencepiece
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers): 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production <https://huggingface.co/docs/tokenizers>
 - [google/sentencepiece](https://github.com/google/sentencepiece): Unsupervised text tokenizer for Neural Network-based text generation.
+- [MinishLab/model2vec](https://github.com/MinishLab/model2vec): Fast State-of-the-Art Static Embeddings <https://minishlab.github.io/>
 
 ### String search or operations
 
@@ -66,3 +67,4 @@
 - [pavlin-policar/openTSNE](https://github.com/pavlin-policar/openTSNE): Extensible, parallel implementations of t-SNE <https://opentsne.rtfd.io>
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search): Collections of vector search related libraries, service and research papers
 - [antgroup/vsag](https://github.com/antgroup/vsag): vsag is a vector indexing library used for similarity search.
+- [ashvardanian/jaccard-index](https://github.com/ashvardanian/jaccard-index): Optimizing bit-level Jaccard Index and Population Counts for large-scale quantized Vector Search via Harley-Seal CSA and Lookup Tables <https://github.com/unum-cloud/usearch>

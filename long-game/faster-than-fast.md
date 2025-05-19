@@ -2,6 +2,8 @@
 
 `fffdn` - faster than fast foundation 🤔
 
+Daniel Lemire is dominating this field 😄.
+
 ## Reading
 
 - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks) | Blog | Guillaume Endignoux](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html): This post is the second part of my adventures to optimize a Rust workload running on multiple threads.In the first post, I explored how the rayon parallelism framework works, and explained how I designed a faster replacement for my use case.
@@ -45,12 +47,15 @@ yyjson
 - [TkTech/can_ada](https://github.com/TkTech/can_ada): Python bindings for Ada, a fast and spec-compliant URL parser.
 - [google/re2](https://github.com/google/re2): RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
   - [PyPI: google-re2](https://pypi.org/project/google-re2/)
+- [Ezibenroc/PyRoaringBitMap](https://github.com/Ezibenroc/PyRoaringBitMap): Python library for handling efficiently sorted integer sets.
+- [glitzflitz/pyxorfilter](https://github.com/glitzflitz/pyxorfilter): Python bindings for xorfilter(faster and smaller than bloom and cuckoo filters)
 
 ## Numerical
 
 - 🌟 [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
   - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust): Super-fast float parser in Rust (now part of Rust core) <https://docs.rs/fast-float>
 - [dtolnay/ryu](https://github.com/dtolnay/ryu): Fast floating point to string conversion
+- [lemire/fastrand](https://github.com/lemire/fastrand): Fast random number generation in an interval in Python: Up to 10x faster than random.randint.
 
 ## Rapids AI
 

@@ -69,6 +69,7 @@
 - [crazy-max/diun](https://github.com/crazy-max/diun): Receive notifications when an image is updated on a Docker registry <https://crazymax.dev/diun/>
 - [getwud/wud](https://github.com/getwud/wud): Keep your containers up-to-date! <https://getwud.github.io/wud/>
 - [spegel-org/spegel](https://github.com/spegel-org/spegel): Stateless cluster local OCI registry mirror. <https://spegel.dev>
+- [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko): Build Container Images In Kubernetes
 
 ### OS
 
@@ -246,6 +247,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <https://trivy.dev>
 - [kubescape/kubescape](https://github.com/kubescape/kubescape): Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. <https://kubescape.io>
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris): Validation of best practices in your Kubernetes clusters <https://www.fairwinds.com/polaris>
+- [openreports/reports-api](https://github.com/openreports/reports-api): OpenReports API (Kubernetes CRD) <https://openreports.io/>
 
 ## Hashicorp
 
@@ -302,6 +304,11 @@
   - [willthames/ansible-inventory-grapher](https://github.com/willthames/ansible-inventory-grapher): No description, website, or topics provided.
   - 🌟 [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore): Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools. <https://semaphoreui.com>
   - [sr.ht - ~cwt/ananta](https://sr.ht/~cwt/ananta/): command-line tool to execute commands on multiple remote hosts
+  - [ansible/tox-ansible](https://github.com/ansible/tox-ansible): The tox-ansible plugin dynamically creates a full matrix of python interpreter and ansible-core version environments for running integration, sanity, and unit for an ansible collection both locally and in a Github action. tox virtual environments are leveraged for collection building, collection installation, dependency installation, and testing. <https://ansible.readthedocs.io/projects/tox-ansible/>
+  - [ansible/test-playbooks](https://github.com/ansible/test-playbooks): playbook-tests
+  - [ansible/pytest-ansible](https://github.com/ansible/pytest-ansible): A pytest plugin that enables the use of ansible in tests, enables the use of pytest as a collection unit test runner, and exposes molecule scenarios through a pytest fixture. <https://ansible.readthedocs.io/projects/pytest-ansible/>
+  - [ansible/molecule](https://github.com/ansible/molecule): Molecule aids in the development and testing of Ansible content: collections, playbooks and roles <https://ansible.readthedocs.io/projects/molecule/>
+  - [sky22333/ansible](https://github.com/sky22333/ansible): 轻量级，简单易用的 Ansible Web 管理面板，提供批量主机管理、命令执行、文件传输和 Web 终端等功能。
 
 ### Services
 

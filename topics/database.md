@@ -128,6 +128,9 @@
 - [pgvector/pgvector](https://github.com/pgvector/pgvector): Open-source vector similarity search for Postgres
 - [tensorchord/pgvecto.rs](https://github.com/tensorchord/pgvecto.rs): Vector database plugin for Postgres, written in Rust
 - [asg017/sqlite-vss](https://github.com/asg017/sqlite-vss): A SQLite extension for efficient vector search, based on Faiss!
+- [tensorchord/pg_bestmatch.rs](https://github.com/tensorchord/pg_bestmatch.rs): Generate BM25 sparse vector inside PostgreSQL
+- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec): A vector search SQLite extension that runs anywhere!
+- [1yefuwang1/vectorlite](https://github.com/1yefuwang1/vectorlite): Fast, SQL powered, in-process vector search for any language with an SQLite driver <https://1yefuwang1.github.io/vectorlite/>
 
 ### Postgres
 
@@ -240,8 +243,6 @@
 - [lichuang/awesome-sqlite](https://github.com/lichuang/awesome-sqlite): awesome things related to SQLite
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of SQLite extensions
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry <https://sqlpkg.org>
-- [asg017/sqlite-vec](https://github.com/asg017/sqlite-vec): A vector search SQLite extension that runs anywhere!
-- [1yefuwang1/vectorlite](https://github.com/1yefuwang1/vectorlite): Fast, SQL powered, in-process vector search for any language with an SQLite driver <https://1yefuwang1.github.io/vectorlite/>
 - [WebDB-App/app](https://github.com/WebDB-App/app): Efficient Database IDE <https://webdb.app>
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz): Instant offline SQL-powered data visualisation in your browser <https://sqliteviz.com>
 - [outerbase/studio](https://github.com/outerbase/studio): A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. <https://studio.outerbase.com>

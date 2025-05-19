@@ -126,6 +126,7 @@
 - 🌟 [BrainicHQ/DoHSpeedTest](https://github.com/BrainicHQ/DoHSpeedTest): An intuitive web tool for real-time testing of DNS over HTTPS (DoH) server speeds directly in your browser, designed to enhance and optimize your internet browsing experience.
   - [Fastest DNS Speed Test - Find Optimal DNS Server | No Install](https://dnsspeedtest.online/): Experience the only web-based DNS Speed Test. Find the fastest DNS server for your location without any installations or downloads.
 - [xxnuo/dns-benchmark](https://github.com/xxnuo/dns-benchmark): dnspy 是一个批量 DNS 服务器基准测试工具，用于本地测量全世界的 DNS 服务器的可访问性和性能。生成可视化图表。dnspy is a bulk DNS server benchmarking tool used to measure the local accessibility and performance of DNS servers worldwide. It generates visual charts. <https://bench.dash.2020818.xyz/>
+- [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists): Lists and configuration for our DNS blocking service
 
 ## Tunnel
 
@@ -142,6 +143,8 @@
 - [jawj/IKEv2-setup](https://github.com/jawj/IKEv2-setup): Set up Ubuntu Server 20.04 (or 18.04) as an IKEv2 VPN server
   - Why not Algo? Feel free to use Algo instead. It has similar aims, and now configures WireGuard too.
 - 🌟 [aramperes/onetun](https://github.com/aramperes/onetun): User space WireGuard port-forward in Rust
+- [porech/engarde](https://github.com/porech/engarde): A go network utility to create a reliable IP tunnel over multiple connections
+  - [hanleym/rengarde](https://github.com/hanleym/rengarde): A rust network utility to create a reliable IP tunnel over multiple connections
 
 ### Warp
 
@@ -245,3 +248,5 @@
 - https://dns.surf/
 - [crt.sh](https://crt.sh/): Certificate Search
 - [W.is Whois Lookup](https://w.is)
+- [IPinfo Lite](https://ipinfo.io/lite): Access the most accurate free IP geolocation and ASN data with IPinfo Lite. Use our API or download the full database in a variety of formats.
+- [Ping | Ping.Sx](https://ping.sx/ping): Ping any server from 131 global locations in parallel.

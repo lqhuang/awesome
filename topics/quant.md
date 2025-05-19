@@ -105,6 +105,7 @@
 - [man-group/ArcticDB](https://github.com/man-group/ArcticDB): ArcticDB is a high performance, serverless DataFrame database built for the Python Data Science ecosystem. <http://arcticdb.io>
 - [timkpaine/finance-enums](https://github.com/timkpaine/finance-enums): Standard Financial Enumerations
 - [yellowbean/Hastructure](https://github.com/yellowbean/Hastructure): ABS/MBS cashflow engine written in Haskell, with API to Python and C/Java (on the way) <https://deal-bench.xyz>
+- [reder2000/pyblsc](https://github.com/reder2000/pyblsc): High performance Black & Scholes computation for python
 
 ## Timeseries
 

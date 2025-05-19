@@ -173,6 +173,7 @@ Templates
   - [orsinium-labs/pytypest](https://github.com/orsinium-labs/pytypest): Testing framework that empowers pytest (with better fixtures and parametrization) <https://pytypest.orsinium.dev>
   - [modal-labs/pytest-markdown-docs](https://github.com/modal-labs/pytest-markdown-docs): Run pytest on markdown code fence blocks
   - [Colin-b/pytest_httpx](https://github.com/Colin-b/pytest_httpx): pytest fixture to mock HTTPX <https://colin-b.github.io/pytest_httpx/>
+  - [vberlier/pytest-insta](https://github.com/vberlier/pytest-insta): A practical snapshot testing plugin for pytest.
 - Coverage
   - [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover): Near Zero-Overhead Python Code Coverage
   - [econchick/interrogate](https://github.com/econchick/interrogate): Explain yourself! Interrogate a codebase for docstring coverage. <https://interrogate.readthedocs.io>
@@ -181,10 +182,15 @@ Templates
   - [lundberg/respx](https://github.com/lundberg/respx): Mock HTTPX with awesome request patterns and response side effects 🦋
   - [mongomock/mongomock](https://github.com/mongomock/mongomock): Small library for mocking pymongo collection objects for testing purposes
   - [barseghyanartur/faker-file](https://github.com/barseghyanartur/faker-file): Create files with fake data. In many formats. With no efforts.
+- cross compatibility
+  - 🌟 [wntrblm/nox](https://github.com/wntrblm/nox): Flexible test automation for Python <https://nox.thea.codes>
+  - [tox-dev/tox](https://github.com/tox-dev/tox): Command line driven CI frontend and development task automation tool. <https://tox.wiki>
+    - 🌟 [tox-dev/tox-uv](https://github.com/tox-dev/tox-uv): Use https://github.com/astral-sh/uv with tox
+      - Since `tox-uv`, I started to reuse `tox` for my projects
+    - [tox-dev/toml-fmt](https://github.com/tox-dev/toml-fmt): Format Python TOML configurations.
 
 Misc
 
-- 🌟 [wntrblm/nox](https://github.com/wntrblm/nox): Flexible test automation for Python <https://nox.thea.codes>
 - [tonybaloney/wily](https://github.com/tonybaloney/wily): A Python application for tracking, reporting on timing and complexity in Python code
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis): Run thousands of randomly generated test scenarios based on your API specification and always be sure your API works as expected. <https://schemathesis.readthedocs.io>
 - [hamcrest/PyHamcrest](https://github.com/hamcrest/PyHamcrest): Hamcrest matchers for Python <http://hamcrest.org>
@@ -199,7 +205,6 @@ Misc
 - [se2p/pynguin](https://github.com/se2p/pynguin): The PYthoN General UnIt Test geNerator is a test-generation tool for Python <https://www.pynguin.eu>
 - [15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot): create and update inline snapshots in your python tests <https://15r10nk.github.io/inline-snapshot/>
 - [syrusakbary/snapshottest](https://github.com/syrusakbary/snapshottest): Snapshot Testing utils for Python 📸
-- [vberlier/pytest-insta](https://github.com/vberlier/pytest-insta): A practical snapshot testing plugin for pytest.
 - [Bobronium/parametrize](https://github.com/Bobronium/parametrize): Drop-in @pytest.mark.parametrize replacement working with unittest.TestCase
 - [DRMacIver/shrinkray](https://github.com/DRMacIver/shrinkray): Shrinkray is a modern multi-format test-case reducer
 - [joke2k/faker](https://github.com/joke2k/faker): Faker is a Python package that generates fake data for you. <https://faker.readthedocs.io>
@@ -507,7 +512,7 @@ Misc
 - [omry/omegaconf](https://github.com/omry/omegaconf): Flexible Python configuration system. The last one you will ever need.
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra): Hydra is a framework for elegantly configuring complex applications <https://hydra.cc>
 - [deepmind/fancyflags](https://github.com/deepmind/fancyflags): A Python library for defining flat or nested dictionary flags.
-- [platformdirs/platformdirs](https://github.com/platformdirs/platformdirs): A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir". <https://platformdirs.readthedocs.io>
+- 🌟 [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs): A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir". <https://platformdirs.readthedocs.io>
 - [hynek/environ-config](https://github.com/hynek/environ-config): Python Application Configuration With Environment Variables <https://environ-config.readthedocs.io/>
 
 ### AsyncIO
@@ -606,7 +611,7 @@ Misc
 
 ### Utils
 
-- [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python module for decorators, wrappers and monkey patching.
+- 🌟 [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python module for decorators, wrappers and monkey patching.
 - [Tinche/tightwrap](https://github.com/Tinche/tightwrap): A type-safe `functools.wraps`.
 - [T-baby/pondpond](https://github.com/T-baby/pondpond): Pond is a high performance object-pooling library for Python <https://qin.news/pond>
 - [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle): A Python module to customize the process title
@@ -623,6 +628,7 @@ Misc
 - [fgmacedo/python-statemachine](https://github.com/fgmacedo/python-statemachine): Python Finite State Machines made easy.
 - [operatorequals/httpimport](https://github.com/operatorequals/httpimport): Module for remote in-memory Python package/module loading through HTTP/S
 - [pexpect/pexpect](https://github.com/pexpect/pexpect): A Python module for controlling interactive programs in a pseudo-terminal <http://pexpect.readthedocs.io/>
+- [gruns/icecream](https://github.com/gruns/icecream): 🍦 Never use print() to debug again.
 
 ## Compilers
 

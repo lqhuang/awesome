@@ -35,3 +35,6 @@
 - [square/certstrap](https://github.com/square/certstrap): Tools to bootstrap CAs, certificate requests, and signed certificates.
 - [stacksjs/tlsx](https://github.com/stacksjs/tlsx): 🔐 A TLS library with automation. HTTPS by default through a light-weight library. Similar to mkcert. <https://tlsx.sh>
 - [OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa): easy-rsa - Simple shell based CA utility
+- 🪦📝 [airbnb/ottr](https://github.com/airbnb/ottr): Serverless Public Key Infrastructure Framework
+  - Though it is not maintained anymore, It is still a good idea and I hope to learn from it.
+  - [Meet Ottr: A Serverless Public Key Infrastructure Framework](https://medium.com/airbnb-engineering/meet-ottr-a-serverless-public-key-infrastructure-framework-f6580010ae0c): Ottr is a serverless Public Key Infrastructure framework that handles end-to-end certificate rotations without the use of an agent.

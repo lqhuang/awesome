@@ -13,34 +13,32 @@ And modern is here now.
 
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. <http://fffaraz.github.io/awesome-cpp/>
 - 🌟 [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++ <https://awesomecpp.com>
-- [Clang Compiler User’s Manual](https://clang.llvm.org/docs/UsersManual.html)
-- [Clang command line argument reference](https://clang.llvm.org/docs/ClangCommandLineReference.html)
+- 🌟 [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css): Custom CSS theme for doxygen html-documentation with lots of customization parameters. <https://jothepro.github.io/doxygen-awesome-css/>
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs): List of single-file C/C++ libraries.
+- [Software optimization resources - Agner](https://www.agner.org/optimize/)
 - 🌟 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
   - > People love to hate build systems.
     - my comment: Yes, definitely
 - [ashvardanian/less_slow.cpp](https://github.com/ashvardanian/less_slow.cpp): Learning how to write "Less Slow" code in C++20, from numerical micro-kernels and SIMD to coroutines, ranges, and polymorphic state machines <https://ashvardanian.com/posts/google-benchmark/>
-- 🌟 [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css): Custom CSS theme for doxygen html-documentation with lots of customization parameters. <https://jothepro.github.io/doxygen-awesome-css/>
 - [Learn Contemporary C++ | hacking C++](https://hackingcpp.com/index.html): Learn up-to-date, idiomatic C++ with code examples, concise explanations, cheat sheets and infographics. -- Lerne aktuelles, idiomatisches C++ mit Code-Beispielen, knappen Erklärungen und Infografiken.
 - [#1 The state of C++ package management: The big three - twdev.blog](https://twdev.blog/2024/08/cpp_pkgmng1)
   - [#2 The state of C++ package management: The underdogs(?) - twdev.blog](https://twdev.blog/2024/08/cpp_pkgmng2/#cpm)
   - [#3 The state of C++ package management: The build systems - twdev.blog](https://twdev.blog/2024/09/cpp_pkgmng3/)
-- [Nekrolm/ubbook](https://github.com/Nekrolm/ubbook): C++ programmer's guide to undefined behavior
-  - in Russian
-  - ENG: [C++ programmer's guide to undefined behavior: part 1 of 11](https://pvs-studio.com/en/blog/posts/cpp/1129/)
-- [Software optimization resources - Agner](https://www.agner.org/optimize/)
-- 🌟 [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc): Beej's Guide to C Programming source <https://beej.us/guide/bgc/html/split>
+- [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
+  - [cmuratori/computer_enhance](https://github.com/cmuratori/computer_enhance): Source code for the https://computerenhance.com programming series
 - [How to Actually Write C](https://zackoverflow.dev/writing/how-to-actually-write-c): How to actually write non-trivial programs in C
 - [Why You Need Sccache](https://elijahpotter.dev/articles/why_you_need_sccache): You might not actually need it.
-- [Padding and alignment in structs](https://elric.pl/blog/struct-padding): Quick explainer of byte ordering in Java class file
+- 🌟 [Padding and alignment in structs](https://elric.pl/blog/struct-padding): Quick explainer of byte ordering in Java class file
 - [Creating A Simple Udp Client Server Application In C](https://mohitmishra786.github.io/chessman/2024/09/25/Creating-a-Simple-UDP-Client-Server-Application-in-C.html)
 - [Mastering Memory Management: From Manual Cleanup To Smart Pointers In C And Cpp](https://mohitmishra786.github.io/chessman/2024/10/05/Mastering-Memory-Management-From-Manual-Cleanup-to-Smart-Pointers-in-C-and-Cpp.html)
-- [abseil / C++ Tips of the Week](https://abseil.io/tips/): An open-source collection of core C++ library code
-- [abseil / Performance Guide](https://abseil.io/fast/): An open-source collection of core C++ library code
+- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
+- 🌟 [不可避免的内存安全（Memory Safety）之路](https://hardenedlinux.github.io/system-security/2025/05/07/path-to-memory-safety-inevitable.html)
+  - in Chinese
 
 ### References
 
-- [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
+- [Clang Compiler User’s Manual](https://clang.llvm.org/docs/UsersManual.html)
+- [Clang command line argument reference](https://clang.llvm.org/docs/ClangCommandLineReference.html)
 - [C++ reference](https://en.cppreference.com/w/)
 - [C reference](https://en.cppreference.com/w/c)
 - 🌟 [The C programming language](https://www.c-language.org/)
@@ -51,17 +49,21 @@ And modern is here now.
 - [Learn Makefiles](https://makefiletutorial.com/): With the tastiest examples
   - [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile): 跟我一起写 Makefile 重制版 <https://seisman.github.io/how-to-write-makefile/>
   - [mitjafelicijan/makext](https://github.com/mitjafelicijan/makext): QOL Extensions for GNU Make
-- [Performance-Aware Programming Series](https://www.computerenhance.com/p/table-of-contents)
-  - [cmuratori/computer_enhance](https://github.com/cmuratori/computer_enhance): Source code for the https://computerenhance.com programming series
 - [mcinglis/c-style](https://github.com/mcinglis/c-style): My favorite C programming practices.
+- [abseil / C++ Tips of the Week](https://abseil.io/tips/): An open-source collection of core C++ library code
+- [abseil / Performance Guide](https://abseil.io/fast/): An open-source collection of core C++ library code
 
 ### Books
 
+- 🌟 [beejjorgensen/bgc](https://github.com/beejjorgensen/bgc): Beej's Guide to C Programming source <https://beej.us/guide/bgc/html/split>
 - [landerrosette/algs4](https://github.com/landerrosette/algs4): Algorithms, 4th edition textbook code in C++
 - [yuchdev/CppBooks](https://github.com/yuchdev/CppBooks): A comprehensive catalog of modern and classic books on C++ programming language
 - [Learn Modern C++](https://learnmoderncpp.com/): Discover a language matched to today's computing needs
 - [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming): Modern C++ Programming Course (C++03/11/14/17/20/23/26) <https://federico-busato.github.io/Modern-CPP-Programming/>
 - [A Tour of C++ (Third edition)](https://www.stroustrup.com/tour3.html): a brief tour of the C++ Programming language and its standard library for experienced programmers.
+- [Nekrolm/ubbook](https://github.com/Nekrolm/ubbook): C++ programmer's guide to undefined behavior
+  - in Russian
+  - ENG: [C++ programmer's guide to undefined behavior: part 1 of 11](https://pvs-studio.com/en/blog/posts/cpp/1129/)
 - [xiaoweiChen/The-Art-of-Writing-Efficient-Programs](https://github.com/xiaoweiChen/The-Art-of-Writing-Efficient-Programs): 《The Art of Writing Efficient Programs》的非专业个人翻译
 - [xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019](https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019): 📖 作为对《C++ Concurrency in Action - SECOND EDITION》的中文翻译。
 - [xiaoweiChen/Modern-CMake-for-Cpp](https://github.com/xiaoweiChen/Modern-CMake-for-Cpp): 《Modern CMake for C++》的非专业个人翻译
@@ -169,6 +171,7 @@ And modern is here now.
 - [floooh/sokol](https://github.com/floooh/sokol): minimal cross-platform standalone C headers <https://floooh.github.io/sokol-html5>
 - [nothings/stb](https://github.com/nothings/stb): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
 - [libffi/libffi](https://github.com/libffi/libffi): A portable foreign-function interface library. <http://sourceware.org/libffi>
+- [lemire/rollinghashcpp](https://github.com/lemire/rollinghashcpp): Rolling Hash C++ Library
 
 ## Libs
 

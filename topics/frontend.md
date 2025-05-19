@@ -610,6 +610,8 @@ Concrete animations
 
 - [What PWA can do](https://whatpwacando.today/): A Progressive Web App (PWA) is a website that can be installed on your device and provide an app-like experience
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox): 📦 Workbox: JavaScript libraries for Progressive Web Apps <https://developers.google.com/web/tools/workbox/>
+- [airbnb/goji-js](https://github.com/airbnb/goji-js): React ❤️ Mini Program <https://goji.js.org>
+  - [airbnb/eslint-plugin-miniprogram](https://github.com/airbnb/eslint-plugin-miniprogram): No description, website, or topics provided.
 
 ### SSR / SSG / Server Action
 
@@ -618,6 +620,7 @@ Concrete animations
 - [pmndrs/react-nil](https://github.com/pmndrs/react-nil): ⃝ A react null renderer
 - [lazarv/react-server](https://github.com/lazarv/react-server): The easiest way to build React apps with server-side rendering <https://react-server.dev>
 - [kitajs/html](https://github.com/kitajs/html): 🏛️ Super fast JSX runtime to generate HTML strings that works everywhere. If it supports string we got you covered. <http://kitajs.org/discord>
+- [ije/mono-jsx](https://github.com/ije/mono-jsx): `<html>` as a `Response`.
 
 ### Headless
 

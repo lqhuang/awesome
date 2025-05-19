@@ -34,13 +34,9 @@
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for agent evals and observability <https://agentops.ai>
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo <https://deepwisdom.ai/>
 - [camel-ai/camel](https://github.com/camel-ai/camel): 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org <https://docs.camel-ai.org/>
-
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. <https://superagi.com/>
 - [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori): A reactive runtime for building durable AI agents <https://docs.thousandbirds.ai>
-- [sgl-project/sglang](https://github.com/sgl-project/sglang): SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.
-  - [Fast and Expressive LLM Inference with RadixAttention and SGLang](https://lmsys.org/blog/2024-01-17-sglang/)
 - [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI): The open source platform for AI-native application development. <https://www.tasking.ai>
-
 - [openai/swarm](https://github.com/openai/swarm): Framework for building, orchestrating and deploying multi-agent systems. Managed by OpenAI Solutions team. Experimental framework.
 
 ### Microsoft (is crazy)

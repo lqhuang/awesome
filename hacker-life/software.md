@@ -18,7 +18,8 @@
 - 🌟 [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Easy and blazing-fast book searcher, create and search your private library. <https://github.com/book-searcher-org/book-searcher>
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin): A Calibre plugin to translate ebook into a specified language. <https://bookfere.com/post/1057.html>
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box): server status & toolbox app using Flutter
-- 🌟 [Waydroid](https://waydro.id/): A container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+- [waydroid/waydroid](https://github.com/waydroid/waydroid): Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu. <https://waydro.id>
+  - 🌟 [Waydroid](https://waydro.id/): A container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - 🌟 [Blend OS](https://blendos.co/): The only operating system you'll ever need. A seamless blend of all Linux distributions, Android apps and web apps.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. <https://upscayl.org>
 - [darktable-org/darktable](https://github.com/darktable-org/darktable): darktable is an open source photography workflow application and raw developer <https://www.darktable.org>
@@ -35,6 +36,8 @@
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz): Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time. <https://mularahul.github.io/keyviz>
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger): Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - 🌟 [johnfactotum/foliate](https://github.com/johnfactotum/foliate): Read e-books in style <https://johnfactotum.github.io/foliate/>
+- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop): Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux <https://zenprivacy.net>
+- [Tools | Cloudinary](https://cloudinary.com/tools): Format converters and compressors for images and videos.
 
 ### Notes / Knowledge Management
 
@@ -109,6 +112,7 @@
 - 🌟 [CapSoftware/Cap](https://github.com/CapSoftware/Cap): Effortless, instant screen sharing. Open-source and cross-platform. <https://cap.so>
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice): Powerful menu bar manager for macOS <https://icemenubar.app>
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder): A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具 <https://lihaoyun6.github.io/quickrecorder/>
+- [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
 - [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse): The mouse and trackpad utility for Mac. <https://linearmouse.app>
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad): A virtual monitor for screen sharing
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace): AeroSpace is an i3-like tiling window manager for macOS <https://nikitabobko.github.io/AeroSpace/guide>
@@ -117,9 +121,11 @@
 - 🌟 [Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal): ✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.
 - [Finb/Bark](https://github.com/Finb/Bark): Bark is an iOS App which allows you to push custom notifications to your iPhone <https://bark.day.app>
   - [cwxiaos/bark-worker](https://github.com/cwxiaos/bark-worker): Bark Server on Cloudflare Worker
+- [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight): Quick Look extension for highlight source code files on macOS 10.15 and later.
 
 ### Free / Paid
 
+- [Mac Torrents](https://www.torrentmac.net/): Torrents for Mac. Free Apps, Games & Plugins. Apple Final Cut Pro & Logic Pro X, Adobe Photoshop, Microsoft Office, Pixel Film Studios, ...
 - 🌟 [TopNotch](https://topnotch.app): Makes the notch disappear like a 🥷
 - [CleanShot X](https://cleanshot.com): Capture your Mac’s screen like a pro.
 - 🌟 [Shottr](https://shottr.cc): Shottr is a small, fast, human-sized screenshot app built for those who care about pixels. It was crafted with Swift, optimized for M1, and is distributed for free.
@@ -152,12 +158,16 @@
 - [Gifox](https://gifox.app/): The best GIF editing/sharing/recording/conversion app
 - [PDF Gear](https://www.pdfgear.com/): Read, edit, convert, merge, and sign PDF files across devices, for completely free and without signing up.
 - [ProxMobo](https://www.proxmobo.app/): Proxmox VE Monitor & Management
-- [MrKai77/Loop](https://github.com/MrKai77/Loop): Window management made elegant.
 - [Droppable](https://www.pixelwrld.co/droppable): Send large files from your Desktop in a couple of clicks.
 - [NotchNook](https://lo.cafe/notchnook): a whole new way of using your `macos`
 - [LocalCan™ - Local domains and persistent Public URLs](https://www.localcan.com/): LocalCan™ for macOS is a powerful Ngrok alternative, allowing developers to build and test apps with .local domains and secure persistent Public URLs.
 - [Hypercritical: Front and Center](https://hypercritical.co/front-and-center/): no description found
 - [Paste](https://pasteapp.io/): The clipboard as it should be. Paste is a new way to keep, search, and organize everything you copy on your Mac, iPhone, and iPad.
+- [MacZip](https://ezip.awehunt.com/): Designed for macOS!
+- [iPreview](https://www.ipreview.app/): The Powerful macOS Quick Look Extension App. This App solves the problem that some files cannot be previewed in macOS Quick Look and packed with awesome features.
+- [Titanium Software - Home](https://www.titanium-software.fr/en/index.html): This website contains free operating system utilities for macOS that are developed by Titanium Software: OnyX, Maintenance, Deeper, CalHash, and Access Menu.
+  - OnyX is a multifunction utility for macOS that you can use to verify the startup disk and the structure of its system files, perform cleaning and computer maintenance tasks, configure some hidden parameters of many Apple applications, and more.
+  - Maintenance is an operating system maintenance and cleaning utility for macOS that you can use to perform miscellaneous computer maintenance tasks: rebuild the databases; delete application, font, and system caches; and more.
 
 ## Windows
 
@@ -288,6 +298,7 @@
   - [postfixadmin/postfixadmin](https://github.com/postfixadmin/postfixadmin): PostfixAdmin - web based virtual user administration interface for Postfix mail servers <https://postfixadmin.github.io/postfixadmin>
   - [postfixadmin/docker](https://github.com/postfixadmin/docker): Docker Image for PostfixAdmin <https://hub.docker.com/_/postfixadmin>
   - [mailserver2/mailserver](https://github.com/mailserver2/mailserver): Simple and full-featured mail server using Docker <https://store.docker.com/community/images/mailserver2/mailserver>
+- [Mail-0/Zero](https://github.com/Mail-0/Zero): Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email <https://0.email>
 
 ### Vault / Passwords
 

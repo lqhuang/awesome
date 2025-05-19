@@ -129,6 +129,7 @@
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN): Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history <https://hub.docker.com/r/aceberg/watchyourlan>
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
   - [YABS [yet another benchmark]](https://blog.aawadia.dev/2023/08/26/yabs-august-2023/): IntroductionI love how many amazing VPS services are available. I can easily take any project of mine online by deploying a container to a VPS from any of these providers.
+- 🌟 [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap): A simple wake on lan web app written with SvelteKit, Go and PocketBase.
 
 ### Start page
 
@@ -138,6 +139,7 @@
 - 🌟 [gethomepage/homepage](https://github.com/gethomepage/homepage): A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. <https://gethomepage.dev/>
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer): A very simple static homepage for your server. <https://homer-demo.netlify.app/>
 - [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
+- [hywax/mafl](https://github.com/hywax/mafl): Minimalistic flexible homepage <https://mafl.hywax.space>
 
 ### Backup
 
@@ -231,6 +233,10 @@
   - It also block `openai.com` ...
 - 🌟 [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac): Automatically audit your Mac for basic security hygiene. <https://paretosecurity.com>
 - 🌟 [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker): A tool for checking the security hardening options of the Linux kernel
+- [000pp/Pinkerton](https://github.com/000pp/Pinkerton): 🕵️ Python project to crawl for JavaScript files and search for secrets like API keys, authorization tokens, hardcoded password or related. <https://pinkerton.com>
+- [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser): Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的 web3 空投专用指纹浏览器 <https://virtualbrowser.cc>
+  - Is there any more mature project?
+- [mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser): Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad <https://mullvad.net/browser>
 
 ## Open Source Software: State, Progress and Future
 
@@ -238,3 +244,4 @@
 - [pi0/tired-maintainer](https://github.com/pi0/tired-maintainer): 🗒️ Notes from a tired maintainer
 - 🌟 [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand): A handy guide to financial support for open source
   - [wizicer/FinancialSupportForOpenSource](https://github.com/wizicer/FinancialSupportForOpenSource): 开源项目挣钱实用手册
+- [ossf/alpha-omega](https://github.com/ossf/alpha-omega): Our mission is to catalyze sustainable improvements to critical open source software projects and ecosystems. <https://alpha-omega.dev>

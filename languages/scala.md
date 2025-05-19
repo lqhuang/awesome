@@ -90,6 +90,8 @@
 - [guardian/gha-scala-library-release-workflow](https://github.com/guardian/gha-scala-library-release-workflow): Publishing Scala libraries to Maven Central using GitHub Actions
 - [scalacenter/sbt-version-policy](https://github.com/scalacenter/sbt-version-policy): Compatibility checks for your dependencies
 - [earldouglas/sbt-lit](https://github.com/earldouglas/sbt-lit): Literate programming with sbt
+- [yurique/embedded-files](https://github.com/yurique/embedded-files): An sbt plugin to generate Scala objects containing the contents of glob-specified files as strings or byte-arrays.
+  - Make a mill plugin for this?
 
 ### Mill
 
@@ -171,6 +173,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [quelgar/scala-uv](https://github.com/quelgar/scala-uv): Scala Native language bindings for libuv
 - [RustFields/scala-native-rust-interoperability-example](https://github.com/RustFields/scala-native-rust-interoperability-example): This example shows how to integrate Rust code in a Scala project thanks to the interoperability of Rust and Scala Native with C. The project is structured in the following way:
 - [indoorvivants/scala-native-binary-template](https://github.com/indoorvivants/scala-native-binary-template): Template to bootstrap Scala Native CLI projects, uploading platform binaries to Github Releases artifacts
+- [rwhaling/native-lambda](https://github.com/rwhaling/native-lambda): AWS Lambda Custom Runtime for Scala Native
 
 ### Scala.js
 
@@ -184,6 +187,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [indoorvivants/cloudflare-worker-types](https://github.com/indoorvivants/cloudflare-worker-types): No description, website, or topics provided.
 - [keynmol/jobby](https://github.com/keynmol/jobby): Smithy4s (Scala + Scala.js) full-stack application <https://blog.indoorvivants.com/tags/series:smithy4s>
 - [keynmol/scalajs-scala-cli-vite-template](https://github.com/keynmol/scalajs-scala-cli-vite-template): Scala.js ❤️ Scala CLI ❤️ Vite
+- [hmil/RosHTTP](https://github.com/hmil/RosHTTP): Unified Scala.js + Scala HTTP client API
 
 ## Featured
 
@@ -299,6 +303,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [eed3si9n/ifdef](https://github.com/eed3si9n/ifdef): `@ifdef` is an annotation that implements conditional compilation in Scala
 - [Quafadas/scautable](https://github.com/Quafadas/scautable): Table utils, one line CSV imports - the fundamental assumption is that a table is a Iterator of iterable of Product or Tuple <https://quafadas.github.io/scautable/docs>
 - [lbialy/jig](https://github.com/lbialy/jig): A minimal, type-safe configuration library for Scala 3 that focuses on both reading and writing configuration files.
+- [eikek/calev](https://github.com/eikek/calev): Work with systemd.time like calendar events in Scala
 
 ### Misc
 
@@ -419,6 +424,8 @@ Do a benchmark (final size while using Scala Native) for them?
 - 🌟 [sbrunk/storch](https://github.com/sbrunk/storch): GPU accelerated deep learning and numeric computing for Scala 3. <https://storch.dev>
 - [ComputeNode/cyfra](https://github.com/ComputeNode/cyfra): Multi-platform GPGPU computations with Scala, seamlessly 🚀
 - [audienceproject/crossbow](https://github.com/audienceproject/crossbow): Single node, in-memory DataFrame analytics library.
+- [airbnb/chronon](https://github.com/airbnb/chronon): Chronon is a data platform for serving for AI/ML applications.
+- [airbnb/aerosolve](https://github.com/airbnb/aerosolve): A machine learning package built for humans. <http://airbnb.github.io/aerosolve/>
 
 ### kotlin for Data Intensive System
 

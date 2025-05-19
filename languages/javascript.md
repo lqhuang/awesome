@@ -171,6 +171,8 @@
 - [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema): A standard interface for TypeScript schema validation libraries <https://standardschema.dev>
 - [elysiajs/json-accelerator](https://github.com/elysiajs/json-accelerator): Accelerate JSON stringification by providing OpenAPI/TypeBox shape <https://www.npmjs.com/package/json-accelerator>
+- 🌟 [hyparam/hyparquet](https://github.com/hyparam/hyparquet): parquet file parser for javascript
+  - [hyparam/hysnappy](https://github.com/hyparam/hysnappy): Snappy decompression with WebAssembly
 
 ### Parser
 
@@ -200,6 +202,7 @@
 - [wanasit/chrono](https://github.com/wanasit/chrono): A natural language date parser in Javascript
 - [spencermountain/spacetime](https://github.com/spencermountain/spacetime): A lightweight javascript timezone library <http://spacetime.how/>
   - Support for upcoming `Temporal` standards
+- [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser): Node.js library for parsing crontab instructions
 
 ### Backend
 
@@ -232,6 +235,8 @@
   - [Announcing: @smoores/epub](https://smoores.dev/post/announcing_smoores_epub/)
 - [jmaister/excellentexport](https://github.com/jmaister/excellentexport): Javascript export to Excel
 - [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver): a streaming interface for archive generation <https://www.archiverjs.com>
+- [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV): https://hellocsv.github.io/HelloCSV/
+- [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS): Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more. <https://gitbrent.github.io/PptxGenJS/>
 
 ### PDF
 
@@ -267,6 +272,7 @@
 
 - [sindresorhus/execa](https://github.com/sindresorhus/execa): Process execution for humans
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
+- [webdiscus/ansis](https://github.com/webdiscus/ansis): CJS/ESM ANSI color library for CI, terminals and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
 
 ### Image
 
@@ -302,6 +308,7 @@
   - "Does etags, caching, etc." How? Try to learn from `st`
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms): Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes): Convert bytes to a human readable string: 1337 → 1.34 kB
+- 🌟 [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation.
 
 ## Middleware
 

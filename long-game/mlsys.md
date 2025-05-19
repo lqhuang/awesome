@@ -152,6 +152,9 @@ General problems
 - [triton-inference-server/server](https://github.com/triton-inference-server/server): The Triton Inference Server provides an optimized cloud and edge inferencing solution. <https://docs.nvidia.com/deeplearning/triton-inference-server/user-guide/docs/index.html>
 - [kserve/kserve](https://github.com/kserve/kserve): Standardized Serverless ML Inference Platform on Kubernetes <https://kserve.github.io/website/>
 - 🌟 [ml-explore/mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
+- [vllm-project/vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs <https://vllm.readthedocs.io>
+- [sgl-project/sglang](https://github.com/sgl-project/sglang): SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with LLMs faster and more controllable.
+  - [Fast and Expressive LLM Inference with RadixAttention and SGLang](https://lmsys.org/blog/2024-01-17-sglang/)
 - [neuralmagic/deepsparse](https://github.com/neuralmagic/deepsparse): Sparsity-aware deep learning inference runtime for CPUs <https://neuralmagic.com/deepsparse/>
   - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples): Examples in the MLX framework
   - [MLX Community Projects #654](https://github.com/ml-explore/mlx/discussions/654)
@@ -160,6 +163,7 @@ General problems
 - [zml/zml](https://github.com/zml/zml): Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild <https://docs.zml.ai>
   - Interesting ideas
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo): A Datacenter Scale Distributed Inference Serving Framework
+- [facebookresearch/fastgen](https://github.com/facebookresearch/fastgen): Simple high-throughput inference library
 
 ### Distribution kits
 
@@ -283,6 +287,7 @@ JAX Special
 
 ### Language Models / Attention
 
+- [Can You Run This LLM? VRAM Calculator (Nvidia GPU and Apple Silicon)](https://apxml.com/tools/vram-calculator): Calculate the VRAM required to run any large language model.
 - 🌟 [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast): Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
   - [Accelerating Generative AI with PyTorch II: GPT, Fast](https://pytorch.org/blog/accelerating-generative-ai-2/)
   - [Horace He (@cHHillee)'s threads about gpt-fast](https://twitter.com/cHHillee/status/1730293330213531844)
@@ -306,10 +311,8 @@ JAX Special
 - 🌟 [pytorch/executorch](https://github.com/pytorch/executorch): End-to-end solution for enabling on-device AI across mobile and edge devices for PyTorch models <https://pytorch.org/edge>
 - [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers): ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [FMInference/FlexGen](https://github.com/FMInference/FlexGen): Running large language models on a single GPU for throughput-oriented scenarios.
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa): Training and serving large-scale neural networks with auto parallelization. <https://alpa.ai>
 - [rustformers/llm](https://github.com/rustformers/llm): Run inference for Large Language Models on CPU, with Rust 🦀🚀🦙
-- [vllm-project/vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs <https://vllm.readthedocs.io>
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm): Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support. <https://mlc.ai/web-llm>
 - [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM): An open platform for operating large language models(LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
 - [predibase/lorax](https://github.com/predibase/lorax): Multi-LoRA inference server that scales to 1000s of fine-tuned LLMs <https://predibase.github.io/lorax/>,

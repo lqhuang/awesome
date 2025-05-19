@@ -23,6 +23,7 @@
 - [Simple Haskell](https://www.simplehaskell.org/)
 - [haskell-perf/checklist](https://github.com/haskell-perf/checklist): The Haskell performance checklist
 - [Haskell Optimization Handbook](https://haskell.foundation/hs-opt-handbook.github.io/): no description found
+- 🌟 [Flora :: [Package]](https://flora.pm/): A package repository for the Haskell ecosystem
 
 ### Readings
 
@@ -129,16 +130,16 @@
 
 ## Effect systems
 
+- [patrickt/effects-benchmarks](https://github.com/patrickt/effects-benchmarks): Benchmarking Haskell extensible-effect libraries.
+- [Gautier DI FOLCO • Effects systems benchmark](https://gautier.difolco.dev/2025-01/effects-systems-benchmark/): A software engineer website
 - 🌟 [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful): An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
 - 🌟 [lexi-lambda/eff](https://github.com/lexi-lambda/eff): 🚧 a work in progress effect system for Haskell 🚧
 - [haskell/mtl](https://github.com/haskell/mtl): The Monad Transformer Library <http://www.haskell.org/haskellwiki/Monad_Transformers>
 - 🌟 [fused-effects/fused-effects](https://github.com/fused-effects/fused-effects): A fast, flexible, fused effect system for Haskell
 - [re-xyr/speff](https://github.com/re-xyr/speff): Fast higher-order effect handlers with evidence passing
 - [re-xyr/cleff](https://github.com/re-xyr/cleff): Fast and concise extensible effects <https://hackage.haskell.org/package/cleff>
-- [patrickt/effects-benchmarks](https://github.com/patrickt/effects-benchmarks): Benchmarking Haskell extensible-effect libraries.
 - [polysemy-research/polysemy](https://github.com/polysemy-research/polysemy): ♊ higher-order, no-boilerplate monads
-- [sayo-hs/heftia](https://github.com/sayo-hs/heftia): higher-order effects done right for Haskell
-- [Gautier DI FOLCO • Effects systems benchmark](https://gautier.difolco.dev/2025-01/effects-systems-benchmark/): A software engineer website
+- 🌟 [sayo-hs/heftia](https://github.com/sayo-hs/heftia): A theory‑backed, ultra type‑safe algebraic effects
 
 ## Dependent type
 
