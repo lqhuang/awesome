@@ -62,14 +62,16 @@
 - [ikostrikov/jaxrl](https://github.com/ikostrikov/jaxrl): JAX (Flax) implementation of algorithms for Deep Reinforcement Learning with continuous action spaces.
 - [facebookresearch/MLGym](https://github.com/facebookresearch/MLGym): MLGym A New Framework and Benchmark for Advancing AI Research Agents
 - [epignatelli/navix](https://github.com/epignatelli/navix): Accelerated minigrid environments with JAX
-- [anyscale/rl-course](https://github.com/anyscale/rl-course): No description, website, or topics provided.
-- [RLHFlow/Minimal-RL](https://github.com/RLHFlow/Minimal-RL): No description, website, or topics provided.
+- [anyscale/rl-course](https://github.com/anyscale/rl-course)
+- [RLHFlow/Minimal-RL](https://github.com/RLHFlow/Minimal-RL)
+- [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms): Implementation of all RL algorithms in a simpler way
 
 ## Flow models
 
 - [francois-rozet/zuko](https://github.com/francois-rozet/zuko): Normalizing flows in PyTorch <https://zuko.readthedocs.io>
 - [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows): Awesome resources on normalizing flows.
-- [probml/dynamax](https://github.com/probml/dynamax): State Space Models library in JAX <https://probml.github.io/dynamax/>
+- [facebookresearch/lagrangian-ot](https://github.com/facebookresearch/lagrangian-ot): Neural Optimal Transport with Lagrangian Costs
+- [gpeyre/ot4ml](https://github.com/gpeyre/ot4ml): Optimal Transport for Machine Learners
 
 ## Differentiable programming / PDE / ODE / SDE
 
@@ -96,6 +98,6 @@
 
 ## Misc
 
-- [facebookresearch/lagrangian-ot](https://github.com/facebookresearch/lagrangian-ot): Neural Optimal Transport with Lagrangian Costs
+- [probml/dynamax](https://github.com/probml/dynamax): State Space Models library in JAX <https://probml.github.io/dynamax/>
 - [MichaelTMatthews/Craftax](https://github.com/MichaelTMatthews/Craftax): (Crafter + NetHack) in JAX. ICML 2024 Spotlight.
 - [haoliuhl/ringattention](https://github.com/haoliuhl/ringattention): Large Context Attention

@@ -23,22 +23,6 @@
 
 ## Frameworks
 
-### Agents
-
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain): ⚡ Building applications with LLMs through composability ⚡ <https://python.langchain.com/>
-  - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and projects with the awesome LangChain framework
-- [langgenius/dify](https://github.com/langgenius/dify): One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications. <https://dify.ai>
-- [run-llama/llama_index](https://github.com/run-llama/llama_index): LlamaIndex (formerly GPT Index) is a data framework for your LLM applications <https://docs.llamaindex.ai>
-- [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app): LLM App is a production framework for building and serving AI applications and LLM-enabled real-time data pipelines. <https://pathway.com/developers/showcases/llm-app-pathway/>
-- [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig): aiconfig -- config-driven, source control friendly AI application development <https://aiconfig.lastmileai.dev>
-- [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops): Python SDK for agent evals and observability <https://agentops.ai>
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo <https://deepwisdom.ai/>
-- [camel-ai/camel](https://github.com/camel-ai/camel): 🐫 CAMEL: Finding the Scaling Law of Agents. A multi-agent framework. https://www.camel-ai.org <https://docs.camel-ai.org/>
-- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably. <https://superagi.com/>
-- [ThousandBirdsInc/chidori](https://github.com/ThousandBirdsInc/chidori): A reactive runtime for building durable AI agents <https://docs.thousandbirds.ai>
-- [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI): The open source platform for AI-native application development. <https://www.tasking.ai>
-- [openai/swarm](https://github.com/openai/swarm): Framework for building, orchestrating and deploying multi-agent systems. Managed by OpenAI Solutions team. Experimental framework.
-
 ### Microsoft (is crazy)
 
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel): Integrate cutting-edge LLM technology quickly and easily into your apps <https://aka.ms/semantic-kernel>
@@ -56,6 +40,7 @@
 - [microsoft/genaiscript](https://github.com/microsoft/genaiscript): Automatable GenAI Scripting <https://microsoft.github.io/genaiscript/>
 - [ag2ai/ag2](https://github.com/ag2ai/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ <https://ag2ai.github.io/ag2/>
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp): Playwright Tools for MCP
+- [microsoft/NLWeb](https://github.com/microsoft/NLWeb): Natural Language Web
 
 ### App Builder
 
@@ -72,22 +57,14 @@
 - [a16z-infra/cog-llama-template](https://github.com/a16z-infra/cog-llama-template): LLaMA Cog template
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix): Entropy Based Sampling and Parallel CoT Decoding
 
-### RAG
-
-- [embedchain/embedchain](https://github.com/embedchain/embedchain): The Open Source RAG framework <https://docs.embedchain.ai>
-  - [Demo: Chat with PDF](https://ec-chat-pdf.streamlit.app/)
-- [bclavie/RAGatouille](https://github.com/bclavie/RAGatouille): No description, website, or topics provided.
-- [safevideo/autollm](https://github.com/safevideo/autollm): Ship RAG based LLM web apps in seconds.
-
 ### Tools
 
 - [Helicone/helicone](https://github.com/Helicone/helicone): Helicone is an open-source observability platform for GPT-3 users. Companies save on their OpenAI bills and identify application issues by monitoring their usage, latency, and costs on Helicone. <https://www.helicone.ai/>
 - [langfuse/langfuse](https://github.com/langfuse/langfuse): 🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, Litellm <https://langfuse.com/docs>
 - [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway): A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API. <https://portkey.ai/features/ai-gateway>
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry): Open-source observability for your LLM application, based on OpenTelemetry <https://www.traceloop.com/openllmetry>
-- [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit): OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications. The kit includes an instruction-tuned language models, a moderation model, and an extensible retrieval system for including up-to-date responses from custom repositories.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache): GPTCache is a library for creating semantic cache to store responses from LLM queries. <https://gptcache.readthedocs.io>
-- [mirrors2/opencatd-open](https://github.com/mirrors2/opencatd-open): opencatd-open 是 OpenCat 团队版的开源实现 <https://opencatd.zeabur.app>
+- [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit): OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications. The kit includes an instruction-tuned language models, a moderation model, and an extensible retrieval system for including up-to-date responses from custom repositories.
 - [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI): 🤖 Self-hosted, community-driven, local OpenAI-compatible API. Drop-in replacement for OpenAI running LLMs on consumer-grade hardware. Free Open Source OpenAI alternative. No GPU required. LocalAI is an API to run ggml compatible models: llama, gpt4all, rwkv, whisper, vicuna, koala, gpt4all-j, cerebras, falcon, dolly, starcoder, and many other <https://localai.io>
 - [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm): Seamlessly integrate powerful language models like ChatGPT into scikit-learn for enhanced text analysis tasks.
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla): Gorilla: An API store for LLMs <https://gorilla.cs.berkeley.edu/>
@@ -103,6 +80,7 @@
 - [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer): Enforce the output format (JSON Schema, Regex etc) of a language model
 - [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails): Adding guardrails to large language models. <https://docs.guardrailsai.com/>
 - [simonw/files-to-prompt](https://github.com/simonw/files-to-prompt): Concatenate a directory full of files into a single prompt for use with LLMs
+- [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair): A python module to repair invalid JSON from LLMs <https://pypi.org/project/json-repair/>
 
 ## Model
 
@@ -221,6 +199,7 @@
 - [zou-group/textgrad](https://github.com/zou-group/textgrad): Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients. <http://textgrad.com/>
 - [noahshinn/reflexion](https://github.com/noahshinn/reflexion): [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning
 - [MadcowD/ell](https://github.com/MadcowD/ell): A language model programming framework.
+- [JetBrains/junie-guidelines](https://github.com/JetBrains/junie-guidelines): No description, website, or topics provided.
 
 ### ChatBot UI
 

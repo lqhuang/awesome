@@ -145,6 +145,7 @@
 - 🌟 [aramperes/onetun](https://github.com/aramperes/onetun): User space WireGuard port-forward in Rust
 - [porech/engarde](https://github.com/porech/engarde): A go network utility to create a reliable IP tunnel over multiple connections
   - [hanleym/rengarde](https://github.com/hanleym/rengarde): A rust network utility to create a reliable IP tunnel over multiple connections
+- [torilabs/ipsec-prometheus-exporter](https://github.com/torilabs/ipsec-prometheus-exporter): Prometheus exporter for strongSwan IPsec
 
 ### Warp
 

@@ -28,3 +28,4 @@
   - [antiwork/iffy](https://github.com/antiwork/iffy): Intelligent content moderation at scale <https://iffy.com>
 - [Shapecatcher: Draw the Unicode character you want!](https://shapecatcher.com/): You need to find a specific Unicode character? With Shapecatcher.com you can search through a database of characters by simply drawing your character into a box. It can find the most similar character shapes for your drawing.
 - 🌟 [WebP Cloud Services](https://public.webp.se/): WebP Unleashed!
+- 🌟 [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. 💬 💎 <https://giscus.app>

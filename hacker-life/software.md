@@ -61,6 +61,7 @@
 - 🌟 [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac): Automatically audit your Mac for basic security hygiene. <https://paretosecurity.com>
 - 🌟 [Timemator](https://timemator.com/): Tracks your time while you work. Automatically.
 - 🌟 [Optimage](https://optimage.app/): Advanced image optimization tool Automatically compress images achieving the highest compression ratio at consistent image quality.
+- 🌟 [Antinote: Beautiful Temporary Notes and Calculations](https://antinote.io/): Antinote is a beautiful, fast, and lightweight note-taking macOS app that lets you quickly jot down temporary notes and perform calculations seamlessly.
 
 ### Monitor
 
@@ -283,11 +284,10 @@
 - [RainLoop/rainloop-webmail](https://github.com/RainLoop/rainloop-webmail): Simple, modern & fast web-based email client <http://rainloop.net>
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox): Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box. <https://mailinabox.email>
 - [iredmail/iRedMail](https://github.com/iredmail/iRedMail): Full-featured, open source mail server solution for mainstream Linux/BSD distributions. <https://www.iredmail.org>
-- [poste.io](https://poste.io): SMTP + IMAP + POP3 + Antispam + Antivirus with Web administration + Web email ... on your server in ~5 minutes <https://hub.docker.com/r/analogic/poste.io>
 - [grommunio/gromox](https://github.com/grommunio/gromox): Groupware server backend for the grommunio Distribution, supporting MAPI/HTTP, RPC/HTTP, IMAP, POP3 protocols, PHP-MAPI bindings, and import from PST/OST/MSG/TNEF, EML/ICAL/VCF, KDB <https://gromox.com>
-- [Skiff Mail](https://skiff.com/mail): Skiff Mail protects your inbox by keeping your messages end-to-end encrypted. That means that no one but you has access to your data.
 - 🌟 [albertito/chasquid](https://github.com/albertito/chasquid): SMTP (email) server with a focus on simplicity, security, and ease of operation [mirror] <https://blitiri.com.ar/p/chasquid/>
-- [postalserver/postal](https://github.com/postalserver/postal): 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail <https://postalserver.io>
+- 🌟 [postalserver/postal](https://github.com/postalserver/postal): 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail <https://postalserver.io>
+  - Support OIDC!
 - [tutao/tutanota](https://github.com/tutao/tutanota): Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. <https://tuta.com>
 - 🌟 [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server): Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) <https://stalw.art>
 - [useplunk/plunk](https://github.com/useplunk/plunk): The Open-Source Email Platform <https://www.useplunk.com>
@@ -299,6 +299,16 @@
   - [postfixadmin/docker](https://github.com/postfixadmin/docker): Docker Image for PostfixAdmin <https://hub.docker.com/_/postfixadmin>
   - [mailserver2/mailserver](https://github.com/mailserver2/mailserver): Simple and full-featured mail server using Docker <https://store.docker.com/community/images/mailserver2/mailserver>
 - [Mail-0/Zero](https://github.com/Mail-0/Zero): Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email <https://0.email>
+- [haraka/Haraka](https://github.com/haraka/Haraka): A fast, highly extensible, and event driven SMTP server <https://haraka.github.io>
+  - focus on SMTP server!
+- 🌟 [foxcpp/maddy](https://github.com/foxcpp/maddy): ✉️ Composable all-in-one mail server. <https://maddy.email>
+
+Not OSS:
+
+- [Dovecot](https://www.dovecot.org/): The Secure IMAP server
+- [poste.io](https://poste.io): SMTP + IMAP + POP3 + Antispam + Antivirus with Web administration + Web email ... on your server in ~5 minutes <https://hub.docker.com/r/analogic/poste.io>
+- [Skiff Mail](https://skiff.com/mail): Skiff Mail protects your inbox by keeping your messages end-to-end encrypted. That means that no one but you has access to your data.
+- [CraneMail - Email Hosting & Cloud Storage Productivity Suite](https://namecrane.com/cranemail-email-hosting): Professional email hosting and cloud storage for your own domain.
 
 ### Vault / Passwords
 

@@ -130,6 +130,12 @@
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
   - [YABS [yet another benchmark]](https://blog.aawadia.dev/2023/08/26/yabs-august-2023/): IntroductionI love how many amazing VPS services are available. I can easily take any project of mine online by deploying a container to a VPS from any of these providers.
 - 🌟 [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap): A simple wake on lan web app written with SvelteKit, Go and PocketBase.
+- [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter): Export smartctl statistics to prometheus
+- [FreeIPMI - Home](https://www.gnu.org/software/freeipmi/index.html)
+  - [prometheus-community/ipmi_exporter](https://github.com/prometheus-community/ipmi_exporter): Remote IPMI exporter for Prometheus
+- [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter): SNMP Exporter for Prometheus
+- [google/dnsmasq_exporter](https://github.com/google/dnsmasq_exporter): dnsmasq exporter for Prometheus
+- [hatamiarash7/ipset-exporter](https://github.com/hatamiarash7/ipset-exporter): Export ipset data as Prometheus metric
 
 ### Start page
 

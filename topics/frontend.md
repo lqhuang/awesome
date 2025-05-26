@@ -488,6 +488,7 @@ Concrete animations
 - 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next immutable state by mutating the current one <https://immerjs.github.io/immer>
 - [unadlib/mutative](https://github.com/unadlib/mutative): Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer. <http://mutative.js.org/>
 - [LegendApp/legend-state](https://github.com/LegendApp/legend-state): Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence <https://legendapp.com/open-source/state/>
+- [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector): React useContextSelector hook in userland <https://www.npmjs.com/package/use-context-selector>
 
 ### Utils
 
@@ -522,6 +523,7 @@ Concrete animations
 - [freedomofpress/webcat](https://github.com/freedomofpress/webcat): WEBCAT is an architectural framework for providing blocking code signing and verification, integrity and transparency checks for browser-based applications.
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js): "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection <https://uaparser.dev/>
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis): Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers <https://anubis.techaro.lol/>
+- [theajack/disable-devtool](https://github.com/theajack/disable-devtool): Disable web developer tools from the f12 button, right-click and browser menu <https://theajack.github.io/disable-devtool/>
 
 ## W3C
 
@@ -605,6 +607,7 @@ Concrete animations
 - [Scthe/nanite-webgpu](https://github.com/Scthe/nanite-webgpu): UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis. <https://scthe.github.io/nanite-webgpu/>
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU): TypeGPU is a TypeScript library that enhances the WebGPU API, allowing resource management in a type-safe, declarative way. <http://typegpu.com>
 - [oframe/ogl](https://github.com/oframe/ogl): Minimal WebGL Library <https://oframe.github.io/ogl/examples>
+- [Kitware/vtk-js](https://github.com/Kitware/vtk-js): Visualization Toolkit for the Web <https://kitware.github.io/vtk-js/>
 
 ### PWA
 

@@ -157,7 +157,77 @@
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo): A portable embedded database using Arrow. <https://tonbo.io>
   - embedded OLAP on object storage
 
-## DBA or Extensions
+## Extensions
+
+### PG
+
+HA
+
+- [zalando/patroni](https://github.com/zalando/patroni): A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
+- [zalando/spilo](https://github.com/zalando/spilo): Highly available elephant herd: HA PostgreSQL cluster using Docker
+
+Sharding
+
+- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer): lightweight connection pooler for PostgreSQL <https://www.pgbouncer.org/>
+- [levkk/pgcat](https://github.com/levkk/pgcat): PostgreSQL pooler with sharding, load balancing and failover support.
+- [yandex/odyssey](https://github.com/yandex/odyssey): Scalable PostgreSQL connection pooler
+
+Performance
+
+- [ankane/pghero](https://github.com/ankane/pghero): A performance dashboard for Postgres
+- [aiven/pgtracer](https://github.com/aiven/pgtracer): Tracing tools for PostgreSQL, using eBPF
+- [percona/pg_stat_monitor](https://github.com/percona/pg_stat_monitor): Query Performance Monitoring Tool for PostgreSQL <https://docs.percona.com/pg-stat-monitor/>
+- [pgexporter/pgexporter](https://github.com/pgexporter/pgexporter): Prometheus exporter for PostgreSQL <https://pgexporter.github.io>
+- [pgsty/pg_exporter](https://github.com/pgsty/pg_exporter): Advanced PostgreSQL & Pgbouncer Metrics Exporter for Prometheus <https://pigsty.io>
+- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter): A PostgreSQL metric exporter for Prometheus
+
+Backup
+
+- 🌟 [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest): Reliable PostgreSQL Backup & Restore <https://pgbackrest.org>
+- 🌟 [ankane/pgsync](https://github.com/ankane/pgsync): Sync data from one Postgres database to another
+- [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman): Barman - Backup and Recovery Manager for PostgreSQL <https://www.pgbarman.org>
+
+Migrations
+
+- [eradman/pg-safeupdate](https://github.com/eradman/pg-safeupdate): A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE
+- 🌟 [xataio/pgroll](https://github.com/xataio/pgroll): PostgreSQL zero-downtime migrations made easy <https://www.xata.io>
+
+Misc
+
+- 🌟 [reorg/pg_repack](https://github.com/reorg/pg_repack): Reorganize tables in PostgreSQL databases with minimal locks
+- [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema): PostgreSQL extension providing JSON Schema validation
+- [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman): Partition management extension for PostgreSQL
+- [postgrespro/aqo](https://github.com/postgrespro/aqo): Adaptive query optimization for PostgreSQL
+- [ChenHuajun/pg_roaringbitmap](https://github.com/ChenHuajun/pg_roaringbitmap): RoaringBitmap extension for PostgreSQL
+- [citusdata/pg_cron](https://github.com/citusdata/pg_cron): Run periodic jobs in PostgreSQL
+- [PostgresQL Docs - Appendix F. Additional Supplied Modules and Extensions](https://www.postgresql.org/docs/current/contrib.html)
+  - [F.28. pgcrypto — cryptographic functions](https://www.postgresql.org/docs/current/pgcrypto.html)
+  - [F.32. pg_stat_statements — track statistics of SQL planning and execution](https://www.postgresql.org/docs/current/pgstatstatements.html)
+  - [F.35. pg_trgm — support for similarity of text using trigram matching](https://www.postgresql.org/docs/current/pgtrgm.html)
+  - [F.49. uuid-ossp — a UUID generator](https://www.postgresql.org/docs/current/uuid-ossp.html)
+- [Beyond the Basics: Exploring PostgreSQL Extensions](https://www.timescale.com/learn/postgresql-extensions)
+  - amcheck
+  - hstore
+  - ltree
+  - pgcrypto
+  - pg_stat_statements
+  - pg_trgm
+  - pgvector
+  - uuid-ossp
+- [tcdi/plrust](https://github.com/tcdi/plrust): A Rust procedural language handler for PostgreSQL
+- [ankane/pgslice](https://github.com/ankane/pgslice): Postgres partitioning as easy as pie
+- [zachasme/h3-pg](https://github.com/zachasme/h3-pg): PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system
+  - [uber/h3](https://github.com/uber/h3): Hexagonal hierarchical geospatial indexing system <https://h3geo.org>
+  - [uber/h3-py](https://github.com/uber/h3-py): Python bindings for H3, a hierarchical hexagonal geospatial indexing system <https://uber.github.io/h3-py>
+- 🌟 [PostgREST/postgrest](https://github.com/PostgREST/postgrest): REST API for any Postgres database <https://postgrest.org>
+
+### SQLite
+
+- [lichuang/awesome-sqlite](https://github.com/lichuang/awesome-sqlite): awesome things related to SQLite
+- [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of SQLite extensions
+- [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry <https://sqlpkg.org>
+
+## DBA
 
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord): mirrord lets you easily mirror traffic from your production environment to your development environment.
 - [Qovery/Replibyte](https://github.com/Qovery/Replibyte): Seed your development database with real data ⚡️ <https://www.replibyte.com>
@@ -175,6 +245,23 @@
   - Update: Aug, 2024: break-up and accuired by Supabase. Now OSS ...
 - [sqldef/sqldef](https://github.com/sqldef/sqldef): Idempotent schema management for MySQL, PostgreSQL, and more <https://sqldef.github.io>
 
+### PG
+
+- 🌟 [Vonng/pigsty](https://github.com/Vonng/pigsty): PostgreSQL in Great STYle, Battery-Included Free RDS Alternative! <https://pigsty.cc>
+- [supabase/postgres](https://github.com/supabase/postgres): Unmodified Postgres with some useful plugins
+- [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
+- 🌟 [supabase/dbdev](https://github.com/supabase/dbdev): Database Package Registry for Postgres <https://database.dev>
+- 🌟 [PostgreSQL Configurator](https://pgconfigurator.cybertec-postgresql.com)
+- [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4): pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. <https://www.pgadmin.org>
+- [tembo-io/pgmq](https://github.com/tembo-io/pgmq): A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+  - [Anatomy of a Postgres extension written in Rust: pgmq](https://tembo.io/blog/postgres-extension-in-rust-pgmq)
+- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp): A Language Server for Postgres <https://supabase.com>
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask): PostgreSQL database anonymization and synthetic data generation tool <https://greenmask.io>
+- [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant): PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.
+- [ardentperf/dsef](https://github.com/ardentperf/dsef): DiffStats and ExplainFull: detailed SQL reports for third party help & support
+- [omnigres/omnigres](https://github.com/omnigres/omnigres): Postgres as a Platform
+- [bensheldon/good_job](https://github.com/bensheldon/good_job): Multithreaded, Postgres-based, Active Job backend for Ruby on Rails. <https://goodjob-demo.herokuapp.com/>
+
 ### ERD
 
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler): Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you! <https://pgmodeler.io>
@@ -182,71 +269,6 @@
 - [Wisser/Jailer](https://github.com/Wisser/Jailer): Database Subsetting and Relational Data Browsing Tool. <https://wisser.github.io/Jailer>
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb): Free, simple, and intuitive online database design tool and SQL generator. <https://drawdb.vercel.app>
 - [chartdb/chartdb](https://github.com/chartdb/chartdb): Free and open-source database diagrams editor, visualize and design your DB with a single query. <https://chartdb.io>
-
-### PG
-
-- [zalando/patroni](https://github.com/zalando/patroni): A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
-- [zalando/spilo](https://github.com/zalando/spilo): Highly available elephant herd: HA PostgreSQL cluster using Docker
-- [levkk/pgcat](https://github.com/levkk/pgcat): PostgreSQL pooler with sharding, load balancing and failover support.
-- [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman): Barman - Backup and Recovery Manager for PostgreSQL <https://www.pgbarman.org>
-- [yandex/odyssey](https://github.com/yandex/odyssey): Scalable PostgreSQL connection pooler
-- [ankane/pghero](https://github.com/ankane/pghero): A performance dashboard for Postgres
-- [aiven/pgtracer](https://github.com/aiven/pgtracer): Tracing tools for PostgreSQL, using eBPF
-- [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
-- [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema): PostgreSQL extension providing JSON Schema validation
-- [supabase/postgres](https://github.com/supabase/postgres): Unmodified Postgres with some useful plugins
-- 🌟 [Vonng/pigsty](https://github.com/Vonng/pigsty): PostgreSQL in Great STYle, Battery-Included Free RDS Alternative! <https://pigsty.cc>
-- 🌟 [supabase/dbdev](https://github.com/supabase/dbdev): Database Package Registry for Postgres <https://database.dev>
-- [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman): Partition management extension for PostgreSQL
-- [postgrespro/aqo](https://github.com/postgrespro/aqo): Adaptive query optimization for PostgreSQL
-- 🌟 [PostgreSQL Configurator](https://pgconfigurator.cybertec-postgresql.com)
-- [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4): pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. <https://www.pgadmin.org>
-- [percona/pg_stat_monitor](https://github.com/percona/pg_stat_monitor): Query Performance Monitoring Tool for PostgreSQL <https://docs.percona.com/pg-stat-monitor/>
-- [zalando/spilo](https://github.com/zalando/spilo): Highly available elephant herd: HA PostgreSQL cluster using Docker
-- [tembo-io/pgmq](https://github.com/tembo-io/pgmq): A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-  - [Anatomy of a Postgres extension written in Rust: pgmq](https://tembo.io/blog/postgres-extension-in-rust-pgmq)
-- [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp): A Language Server for Postgres <https://supabase.com>
-- [ChenHuajun/pg_roaringbitmap](https://github.com/ChenHuajun/pg_roaringbitmap): RoaringBitmap extension for PostgreSQL
-- [omnigres/omnigres](https://github.com/omnigres/omnigres): Postgres as a Platform
-- [bensheldon/good_job](https://github.com/bensheldon/good_job): Multithreaded, Postgres-based, Active Job backend for Ruby on Rails. <https://goodjob-demo.herokuapp.com/>
-- [citusdata/pg_cron](https://github.com/citusdata/pg_cron): Run periodic jobs in PostgreSQL
-- [reorg/pg_repack](https://github.com/reorg/pg_repack): Reorganize tables in PostgreSQL databases with minimal locks
-- [PostgresQL Docs - Appendix F. Additional Supplied Modules and Extensions](https://www.postgresql.org/docs/current/contrib.html)
-  - [F.28. pgcrypto — cryptographic functions](https://www.postgresql.org/docs/current/pgcrypto.html)
-  - [F.32. pg_stat_statements — track statistics of SQL planning and execution](https://www.postgresql.org/docs/current/pgstatstatements.html)
-  - [F.35. pg_trgm — support for similarity of text using trigram matching](https://www.postgresql.org/docs/current/pgtrgm.html)
-  - [F.49. uuid-ossp — a UUID generator](https://www.postgresql.org/docs/current/uuid-ossp.html)
-- [Beyond the Basics: Exploring PostgreSQL Extensions](https://www.timescale.com/learn/postgresql-extensions)
-  - amcheck
-  - hstore
-  - ltree
-  - pgcrypto
-  - pg_stat_statements
-  - pg_trgm
-  - pgvector
-  - uuid-ossp
-- [tcdi/plrust](https://github.com/tcdi/plrust): A Rust procedural language handler for PostgreSQL
-- 🌟 [ankane/pgsync](https://github.com/ankane/pgsync): Sync data from one Postgres database to another
-- [ankane/pgslice](https://github.com/ankane/pgslice): Postgres partitioning as easy as pie
-- [eradman/pg-safeupdate](https://github.com/eradman/pg-safeupdate): A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE
-- 🌟 [xataio/pgroll](https://github.com/xataio/pgroll): PostgreSQL zero-downtime migrations made easy <https://www.xata.io>
-- [ardentperf/dsef](https://github.com/ardentperf/dsef): DiffStats and ExplainFull: detailed SQL reports for third party help & support
-- [zachasme/h3-pg](https://github.com/zachasme/h3-pg): PostgreSQL bindings for H3, a hierarchical hexagonal geospatial indexing system
-  - [uber/h3](https://github.com/uber/h3): Hexagonal hierarchical geospatial indexing system <https://h3geo.org>
-  - [uber/h3-py](https://github.com/uber/h3-py): Python bindings for H3, a hierarchical hexagonal geospatial indexing system <https://uber.github.io/h3-py>
-- 🌟 [PostgREST/postgrest](https://github.com/PostgREST/postgrest): REST API for any Postgres database <https://postgrest.org>
-- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask): PostgreSQL database anonymization and synthetic data generation tool <https://greenmask.io>
-- [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant): PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.
-
-### SQLite
-
-- [lichuang/awesome-sqlite](https://github.com/lichuang/awesome-sqlite): awesome things related to SQLite
-- [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of SQLite extensions
-- [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry <https://sqlpkg.org>
-- [WebDB-App/app](https://github.com/WebDB-App/app): Efficient Database IDE <https://webdb.app>
-- [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz): Instant offline SQL-powered data visualisation in your browser <https://sqliteviz.com>
-- [outerbase/studio](https://github.com/outerbase/studio): A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite. <https://studio.outerbase.com>
-- [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal): Playaround with SQLite internal
 
 ## GUI / TUI
 
@@ -258,6 +280,9 @@
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin): The SQL IDE for Your Terminal. <https://harlequin.sh>
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio): Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows. <https://www.beekeeperstudio.io>
 - [pinterest/querybook](https://github.com/pinterest/querybook): Querybook is a Big Data Querying UI, combining collocated table metadata and a simple notebook interface. <https://www.querybook.org>
+- [WebDB-App/app](https://github.com/WebDB-App/app): Efficient Database IDE <https://webdb.app>
+- [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz): Instant offline SQL-powered data visualisation in your browser <https://sqliteviz.com>
+- [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal): Playaround with SQLite internal
 
 ## Testing
 

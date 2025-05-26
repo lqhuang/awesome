@@ -73,7 +73,7 @@
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions): Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go): Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - 🌟 [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff): The fastest pixel-by-pixel image visual difference tool in the world.
-- [ayoisaiah/f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
+- 🌟 [ayoisaiah/f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all): rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [wolfpld/vv](https://github.com/wolfpld/vv): Terminal image viewer
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin): Human-readable ANSI sequences 🪩
@@ -86,6 +86,8 @@
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
   - `tokei -e pnpm-lock.yaml`
 - [antonmedv/fx](https://github.com/antonmedv/fx): Terminal JSON viewer & processor <https://fx.wtf>
+- [mikefarah/yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor <https://mikefarah.gitbook.io/yq/>
+  - not to be confused with kislyuk/yq (python version)
 
 ### Watcher
 
@@ -117,6 +119,7 @@
 - [buckket/twtxt](https://github.com/buckket/twtxt): Decentralised, minimalist microblogging service for hackers. <http://twtxt.readthedocs.org/en/stable/>
 - [context-labs/mactop](https://github.com/context-labs/mactop): mactop - Apple Silicon Monitor Top
 - 🌟 [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool): Native cross-platform full feature terminal-based sequence editor for git interactive rebase. <https://gitrebasetool.mitmaro.ca/>
+- 🌟 [microsoft/edit](https://github.com/microsoft/edit): We all edit.
 
 ## Monitor
 

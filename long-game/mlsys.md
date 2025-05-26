@@ -57,6 +57,7 @@
 
 - [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
 - [TG-TG-TG-TG-TG-TG/TPU-Tutorials](https://github.com/TG-TG-TG-TG-TG-TG/TPU-Tutorials): Some of my TPU tutorials that i will post here.
+- [jax-ml/scaling-book](https://github.com/jax-ml/scaling-book): Home for "How To Scale Your Model", a short blog-style textbook about scaling LLMs on TPUs <https://jax-ml.github.io/scaling-book/>
 
 ### Readings
 
@@ -284,6 +285,7 @@ JAX Special
 - [RobertTLange/gymnax](https://github.com/RobertTLange/gymnax): RL Environments in JAX 🌍
   - [RobertTLange/gymnax-blines](https://github.com/RobertTLange/gymnax-blines): Baselines for gymnax 🤖
 - [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib): One repository is all that is necessary for Multi-agent Reinforcement Learning (MARL) <https://marllib.readthedocs.io>
+- [kscalelabs/ksim](https://github.com/kscalelabs/ksim): RL training library for humanoid locomotion and manipulation. Built on top of MuJoCo and JAX. <https://docs.kscale.dev/docs/ksim>
 
 ### Language Models / Attention
 

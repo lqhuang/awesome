@@ -31,7 +31,7 @@
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers <https://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html>
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers): Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. <https://katacontainers.io/ >
 - [google/gvisor](https://github.com/google/gvisor): Application Kernel for Containers <https://gvisor.dev>
-- [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
+- 🌟 [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless): 🥑 Language focused docker images, minus the operating system.
 - [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs): Automatically set GOMAXPROCS to match Linux container CPU quota. <https://godoc.org/go.uber.org/automaxprocs>
 - [chainguard-images/images](https://github.com/chainguard-images/images): Public Chainguard Images <https://chainguard.dev/chainguard-images>
@@ -136,6 +136,7 @@
 - [memorysafety/river](https://github.com/memorysafety/river): This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.
 - [google/seesaw](https://github.com/google/seesaw): Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 - 🌟 [modal-labs/vprox](https://github.com/modal-labs/vprox): High-availability network proxy / VPN server, powered by WireGuard
+- 🌟 [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway): The Cloud-Native API Gateway and AI Gateway <https://kgateway.dev>
 
 ## Lightweight Tech Stack
 
@@ -297,6 +298,7 @@
 - Ansible
   - [ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible): Awesome Ansible List
   - 🌟 [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot. <https://ara.recordsansible.org>
+  - [prometheus-community/ansible](https://github.com/prometheus-community/ansible): Ansible Collection for Prometheus <https://prometheus-community.github.io/ansible/>
   - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator): A text-based user interface (TUI) for Ansible. <https://ansible.readthedocs.io/projects/navigator/>
   - [ansible/ansible-runner](https://github.com/ansible/ansible-runner): A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible.
   - [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
@@ -309,6 +311,7 @@
   - [ansible/pytest-ansible](https://github.com/ansible/pytest-ansible): A pytest plugin that enables the use of ansible in tests, enables the use of pytest as a collection unit test runner, and exposes molecule scenarios through a pytest fixture. <https://ansible.readthedocs.io/projects/pytest-ansible/>
   - [ansible/molecule](https://github.com/ansible/molecule): Molecule aids in the development and testing of Ansible content: collections, playbooks and roles <https://ansible.readthedocs.io/projects/molecule/>
   - [sky22333/ansible](https://github.com/sky22333/ansible): 轻量级，简单易用的 Ansible Web 管理面板，提供批量主机管理、命令执行、文件传输和 Web 终端等功能。
+  - [lablabs/ansible-role-rke2](https://github.com/lablabs/ansible-role-rke2): Ansible Role to install RKE2 Kubernetes. <https://galaxy.ansible.com/ui/standalone/roles/lablabs/rke2/>
 
 ### Services
 

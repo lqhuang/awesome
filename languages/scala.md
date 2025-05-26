@@ -48,6 +48,7 @@
   - [Series - Data Plumber - Data Integration Pipeline](https://yadukrishnan.live/series/data-plumber)
 - [yadavan88/cats-effect-intro](https://github.com/yadavan88/cats-effect-intro): An introduction to Cats Effect 3.
   - [Series - Scala: Cats Effect](https://yadukrishnan.live/series/cats-effect)
+- 🌟 [yoeo/scala-explained](https://github.com/yoeo/scala-explained): Scala explained with code snippets <https://scalaexplained.github.io/scala-explained/>
 
 ## Master these you rule the world
 
@@ -63,6 +64,7 @@
 
 ### Sbt
 
+- [Introduction - The Book of sbt](https://www.scala-sbt.org/2.x/docs/en/index.html)
 - [@vivekragunathan](https://github.com/vivekragunathan)'s _How I SBT_ series
   - [How I SBT - I](https://blog.rhetoricalmusings.com/posts/how-i-sbt1)
   - [How I SBT - II](https://blog.rhetoricalmusings.com/posts/how-i-sbt2)
@@ -95,6 +97,7 @@
 
 ### Mill
 
+- [Mill as a Direct Style Build Tool :: The Mill Build Tool](https://mill-build.org/blog/12-direct-style-build-tool.html)
 - [lewisjkl/header](https://github.com/lewisjkl/header): Header automation and linting 🎉
 - [sake92/mill-hepek](https://github.com/sake92/mill-hepek): Mill plugin for rendering Scala objects to files
 - [alexarchambault/mill-native-image](https://github.com/alexarchambault/mill-native-image): This is a Mill plugin which allows building executables using GraalVM native-image for your modules.

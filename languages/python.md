@@ -102,6 +102,7 @@
 - [prefix-dev/rip](https://github.com/prefix-dev/rip): Solve and install Python packages quickly with rip (pip in Rust) <https://prefix.dev>
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith): Tooling support for the Polylith Architecture in Python. <https://davidvujic.github.io/python-polylith-docs/>
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath): Inspect and refine PATH environment variable on Windows, Linux and MacOS.
+- [Cabanon/patch-package](https://github.com/Cabanon/patch-package): Python library to automatically create and apply patches from changes made in installed packages.
 
 Templates
 
@@ -405,6 +406,7 @@ Misc
 - [breuleux/jurigged](https://github.com/breuleux/jurigged): Hot reloading for Python
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr): Proxy server to bypass Cloudflare protection
 - [florimondmanca/httpx-sse](https://github.com/florimondmanca/httpx-sse): Consume Server-Sent Event (SSE) messages with HTTPX
+- 🌟 [karpetrosyan/hishel](https://github.com/karpetrosyan/hishel): An elegant HTTP Cache implementation for HTTPX and HTTP Core. <https://hishel.com>
 - [snok/asgi-correlation-id](https://github.com/snok/asgi-correlation-id): Request ID propagation for ASGI apps
 - [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 - [heptapod.host/saajns/hermes](https://heptapod.host/saajns/hermes): Python caching library with tag-based invalidation and dogpile effect prevention

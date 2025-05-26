@@ -14,6 +14,8 @@
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit): A pre-commit hook for Ruff.
 - [package-url/purl-spec](https://github.com/package-url/purl-spec): A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby <https://github.com/package-url/purl-spec>
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook): Fast and powerful Git hooks manager for any type of projects. <http://lefthook.dev/>
+- [sonatype maven central repository](https://central.sonatype.com/)
+  - [Documentation](https://central.sonatype.org/)
 
 ### Misc linters / formatters
 
@@ -67,6 +69,7 @@
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system <https://bazel.build>
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk): A user-friendly launcher for Bazel.
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle): Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+  - [stackb/scala-gazelle](https://github.com/stackb/scala-gazelle): Experimental gazelle extension for scala
 - [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry): The central registry of Bazel modules for the Bzlmod external dependency system. <https://registry.bazel.build>
 - [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib): Common useful functions and rules for Bazel <https://bazel.build/>
 - [bazelbuild/rules_cc](https://github.com/bazelbuild/rules_cc): C++ Rules for Bazel <https://bazel.build>

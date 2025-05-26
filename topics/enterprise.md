@@ -197,6 +197,25 @@
 - [yandex/perforator](https://github.com/yandex/perforator): Perforator is a cluster-wide continuous profiling tool designed for large data centers <https://perforator.tech>
   - made by Yandex and inspired by Google-Wide Profiling.
 
+Exporters
+
+- [prometheus/node_exporter](https://github.com/prometheus/node_exporter): Exporter for machine metrics <https://prometheus.io/>
+- [prometheus-community/pgbouncer_exporter](https://github.com/prometheus-community/pgbouncer_exporter): Prometheus exporter for PgBouncer
+- [prometheus-community/ecs_exporter](https://github.com/prometheus-community/ecs_exporter): Prometheus exporter for Amazon Elastic Container Service (ECS)
+- [prometheus-community/systemd_exporter](https://github.com/prometheus-community/systemd_exporter): Exporter for systemd unit metrics
+- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter): Prometheus Exporter for ValKey & Redis Metrics. Supports ValKey and Redis 2.x, 3.x, 4.x, 5.x, 6.x, and 7.x <https://github.com/oliver006/redis_exporter>
+- [burningalchemist/sql_exporter](https://github.com/burningalchemist/sql_exporter): Database-agnostic SQL Exporter for Prometheus
+- [dundee/disk_usage_exporter](https://github.com/dundee/disk_usage_exporter): Disk Usage Prometheus Exporter
+- [treydock/infiniband_exporter](https://github.com/treydock/infiniband_exporter): No description, website, or topics provided.
+- [danielqsj/kafka_exporter](https://github.com/danielqsj/kafka_exporter): Kafka exporter for Prometheus
+- [prometheus/jmx_exporter](https://github.com/prometheus/jmx_exporter): A process for collecting metrics using JMX MBeans for Prometheus consumption <http://prometheus.github.io/jmx_exporter/>
+- [knyar/nginx-lua-prometheus](https://github.com/knyar/nginx-lua-prometheus): Prometheus metric library for Nginx written in Lua
+- [lablabs/cloudflare-exporter](https://github.com/lablabs/cloudflare-exporter): Prometheus CloudFlare Exporter
+- [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter): Prometheus exporter for custom eBPF metrics
+- [kasd/texporter](https://github.com/kasd/texporter): texporter is a lightweight, high-performance eBPF-based network traffic exporter for Prometheus.
+- [michael-doubez/filestat_exporter](https://github.com/michael-doubez/filestat_exporter): Prometheus exporter gathering metrics about file size, modification time and other stats
+- [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter): Prometheus exporter that mines /proc to report on selected processes
+
 ### Benchmark
 
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier): Fast cross-platform HTTP benchmarking tool written in Go
