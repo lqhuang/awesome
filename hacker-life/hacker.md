@@ -124,6 +124,7 @@
 - [webmin/webmin](https://github.com/webmin/webmin): Powerful and flexible web-based server management control panel <http://www.webmin.com/>
   - [webmin/usermin](https://github.com/webmin/usermin): Usermin source code <http://www.usermin.com/>
 - [stefanpejcic/OpenPanel](https://github.com/stefanpejcic/OpenPanel): A highly customizable web hosting control panel built with Docker 🐳 <https://openpanel.com> F- [pikvm/pikvm](https://github.com/pikvm/pikvm): Open and inexpensive DIY IP-KVM based on Raspberry Pi <https://pikvm.org>
+  - [mofeng-git/One-KVM](https://github.com/mofeng-git/One-KVM): One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。 <https://one-kvm.mofeng.run>
   - [PiKVM - Open and inexpensive IP-KVM on Raspberry Pi](https://pikvm.org/): PiKVM an easy and inexpensive DIY IP-KVM on Raspberry Pi to control remote machines: Full HD, mouse, Mass Storage Drive, VNC, IPMI and much more out of the box. Most modern KVM over IP ever!
   - I'm dreaming this for a long time =.=
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN): Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history <https://hub.docker.com/r/aceberg/watchyourlan>
@@ -136,6 +137,9 @@
 - [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter): SNMP Exporter for Prometheus
 - [google/dnsmasq_exporter](https://github.com/google/dnsmasq_exporter): dnsmasq exporter for Prometheus
 - [hatamiarash7/ipset-exporter](https://github.com/hatamiarash7/ipset-exporter): Export ipset data as Prometheus metric
+- [serversideup/docker-certbot-dns-cloudflare](https://github.com/serversideup/docker-certbot-dns-cloudflare): A simple wrapper around certbot/dns-cloudflare to add a renewal interval. <https://hub.docker.com/r/serversideup/certbot-dns-cloudflare>
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare): DockFlare: Cloudflare Tunnel & Zero Trust manager for Docker/non-docker services
+- 🌟 [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker): Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection. <https://speedtest-tracker.dev/>
 
 ### Start page
 
@@ -217,6 +221,7 @@
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny): a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + nextui + jotai + docker <https://wordsfunny.com>
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead): A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu.com
 - 🌟 [Refactoring English](https://refactoringenglish.com/): Effective writing for software developers
+- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file): Direct File <https://directfile.irs.gov>
 
 ## Security / Privacy
 
@@ -240,9 +245,13 @@
 - 🌟 [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac): Automatically audit your Mac for basic security hygiene. <https://paretosecurity.com>
 - 🌟 [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker): A tool for checking the security hardening options of the Linux kernel
 - [000pp/Pinkerton](https://github.com/000pp/Pinkerton): 🕵️ Python project to crawl for JavaScript files and search for secrets like API keys, authorization tokens, hardcoded password or related. <https://pinkerton.com>
+
+### Browser Fingerprint
+
 - [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser): Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的 web3 空投专用指纹浏览器 <https://virtualbrowser.cc>
   - Is there any more mature project?
 - [mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser): Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad <https://mullvad.net/browser>
+- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension): Browser extension to spoof timezone, geolocation, locale and user agent. <https://vytal.io>
 
 ## Open Source Software: State, Progress and Future
 

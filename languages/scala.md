@@ -33,6 +33,7 @@
 - [ckipp01/tooling-talks](https://github.com/ckipp01/tooling-talks): A monthly series of talks about tooling. <https://www.tooling-talks.com>
 - [Recommended Scalac Flags for 2.12](https://tpolecat.github.io/2017/04/25/scalac-flags.html)
   - Updated 10-May-2017
+- [A solid checklist for configuring new Scala projects](https://softwaremill.com/new-scala-project-checklist/): Important settings and practices worth considering to enrich your builds or enhance the development process. Some of these points are a good fit for templates.
 
 ### Exercises
 
@@ -177,6 +178,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [RustFields/scala-native-rust-interoperability-example](https://github.com/RustFields/scala-native-rust-interoperability-example): This example shows how to integrate Rust code in a Scala project thanks to the interoperability of Rust and Scala Native with C. The project is structured in the following way:
 - [indoorvivants/scala-native-binary-template](https://github.com/indoorvivants/scala-native-binary-template): Template to bootstrap Scala Native CLI projects, uploading platform binaries to Github Releases artifacts
 - [rwhaling/native-lambda](https://github.com/rwhaling/native-lambda): AWS Lambda Custom Runtime for Scala Native
+- 🌟 [spamegg1/modern-systems-scala-native](https://github.com/spamegg1/modern-systems-scala-native): Working through "Modern Systems Programming with Scala Native" by Richard Whaling, in Scala 3 <https://pragprog.com/titles/rwscala/modern-systems-programming-with-scala-native/>
 
 ### Scala.js
 
@@ -191,6 +193,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [keynmol/jobby](https://github.com/keynmol/jobby): Smithy4s (Scala + Scala.js) full-stack application <https://blog.indoorvivants.com/tags/series:smithy4s>
 - [keynmol/scalajs-scala-cli-vite-template](https://github.com/keynmol/scalajs-scala-cli-vite-template): Scala.js ❤️ Scala CLI ❤️ Vite
 - [hmil/RosHTTP](https://github.com/hmil/RosHTTP): Unified Scala.js + Scala HTTP client API
+- [cornerman/colibri](https://github.com/cornerman/colibri): A simple functional reactive library for ScalaJS
 
 ## Featured
 
@@ -247,8 +250,12 @@ Do a benchmark (final size while using Scala Native) for them?
 - [com-lihaoyi/upickle](https://github.com/com-lihaoyi/upickle): uPickle: a simple, fast, dependency-free JSON & Binary (MessagePack) serialization library for Scala <https://com-lihaoyi.github.io/upickle>
 - 🌟 [pureconfig/pureconfig](https://github.com/pureconfig/pureconfig): A boilerplate-free library for loading configuration files
 - [typelevel/fabric](https://github.com/typelevel/fabric): Object-Notation Abstraction for JSON, binary, HOCON, etc.
-- [jwt-scala/jwt-scala](https://github.com/jwt-scala/jwt-scala): JWT support for Scala. Bonus extensions for Play, Play JSON, Json4s, Circe, uPickle, Spray and Argonaut <https://jwt-scala.github.io/jwt-scala/>
 - [frawa/typed-json](https://github.com/frawa/typed-json): Validating Json against Json Schema in Scala. The library is designed to integrate with any Json parser.
+- [fd4s/vulcan](https://github.com/fd4s/vulcan): Functional Avro for Scala <https://fd4s.github.io/vulcan>
+- [apache/fury](https://github.com/apache/fury): A blazingly fast multi-language serialization framework powered by JIT and zero-copy. <https://fury.apache.org/>
+  - [Scala Serialization Guide](https://github.com/apache/fury/blob/main/docs/guide/scala_guide.md)
+- [scalapb/ScalaPB](https://github.com/scalapb/ScalaPB): Protocol buffer compiler for Scala. <https://scalapb.github.io/>
+- [suzaku-io/boopickle](https://github.com/suzaku-io/boopickle): Binary serialization library for efficient network communication
 
 ### Logging
 
@@ -282,6 +289,10 @@ Do a benchmark (final size while using Scala Native) for them?
 - [com-lihaoyi/fastparse](https://github.com/com-lihaoyi/fastparse): Writing Fast Parsers Fast in Scala <https://com-lihaoyi.github.io/fastparse>
 - [j-mie6/parsley](https://github.com/j-mie6/parsley): A fast and modern parser combinator library for Scala
 
+### Web
+
+- [jwt-scala/jwt-scala](https://github.com/jwt-scala/jwt-scala): JWT support for Scala. Bonus extensions for Play, Play JSON, Json4s, Circe, uPickle, Spray and Argonaut <https://jwt-scala.github.io/jwt-scala/>
+
 ### CLI
 
 - [scala-native/scala-native-cli](https://github.com/scala-native/scala-native-cli): Command Line Interface for Scala Native
@@ -307,6 +318,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [Quafadas/scautable](https://github.com/Quafadas/scautable): Table utils, one line CSV imports - the fundamental assumption is that a table is a Iterator of iterable of Product or Tuple <https://quafadas.github.io/scautable/docs>
 - [lbialy/jig](https://github.com/lbialy/jig): A minimal, type-safe configuration library for Scala 3 that focuses on both reading and writing configuration files.
 - [eikek/calev](https://github.com/eikek/calev): Work with systemd.time like calendar events in Scala
+- [jatcwang/difflicious](https://github.com/jatcwang/difflicious): Scala library for readable diffs of values
 
 ### Misc
 
@@ -319,6 +331,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [makingthematrix/signals3](https://github.com/makingthematrix/signals3): A lightweight event streaming library for Scala 3
 - [propensive/contextual](https://github.com/propensive/contextual): Statically-checked string interpolation in Scala <https://propensive.com/contextual/>
 - [andyglow/scala-jsonschema](https://github.com/andyglow/scala-jsonschema): Scala JSON Schema
+- [dataunitylab/jsonoid-discovery](https://github.com/dataunitylab/jsonoid-discovery): Distributed JSON schema discovery <https://dataunitylab.github.io/jsonoid-discovery/>
 
 ## Tools
 

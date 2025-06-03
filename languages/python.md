@@ -419,6 +419,7 @@ Misc
 - 🌟 [cle-b/httpdbg](https://github.com/cle-b/httpdbg): A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program. <https://httpdbg.readthedocs.io/>
 - 🌟 [di/id](https://github.com/di/id): A tool for generating OIDC identities
 - [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm): Familiar asyncio ORM for python, built with relations in mind <https://tortoise.github.io>
+- [CZ-NIC/pyoidc](https://github.com/CZ-NIC/pyoidc): A complete OpenID Connect implementation in Python
 
 ### DB clients and SQL utils
 
@@ -456,6 +457,7 @@ Misc
 - 🌟 [guilatrova/gracy](https://github.com/guilatrova/gracy): Gracy helps you handle failures, logging, retries, throttling, and tracking for all your HTTP interactions.
 - [aiogram/aiogram](https://github.com/aiogram/aiogram): aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio <https://aiogram.dev>
 - [laixintao/prometheus-http-sd](https://github.com/laixintao/prometheus-http-sd): Prometheus HTTP SD framework.
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg): Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation. <https://livingbio.github.io/typed-ffmpeg/>
 
 ## Functional libraries
 
@@ -516,6 +518,8 @@ Misc
 - [deepmind/fancyflags](https://github.com/deepmind/fancyflags): A Python library for defining flat or nested dictionary flags.
 - 🌟 [tox-dev/platformdirs](https://github.com/tox-dev/platformdirs): A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir". <https://platformdirs.readthedocs.io>
 - [hynek/environ-config](https://github.com/hynek/environ-config): Python Application Configuration With Environment Variables <https://environ-config.readthedocs.io/>
+- [DiffSK/configobj](https://github.com/DiffSK/configobj): Python 3+ compatible port of the configobj library <https://configobj.readthedocs.org>
+- [pytest-dev/iniconfig](https://github.com/pytest-dev/iniconfig): iniconfig: brain-dead simple parsing of ini files
 
 ### AsyncIO
 
@@ -631,6 +635,14 @@ Misc
 - [operatorequals/httpimport](https://github.com/operatorequals/httpimport): Module for remote in-memory Python package/module loading through HTTP/S
 - [pexpect/pexpect](https://github.com/pexpect/pexpect): A Python module for controlling interactive programs in a pseudo-terminal <http://pexpect.readthedocs.io/>
 - [gruns/icecream](https://github.com/gruns/icecream): 🍦 Never use print() to debug again.
+- [mahmoud/boltons](https://github.com/mahmoud/boltons): 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library. Nothing like Michael Bolton. <https://boltons.readthedocs.org>
+  - Interesting small utilities:
+    - Atomic File Saving
+    - `funcutils.mro_items(type_obj)`
+    - `strutils.asciify(text, ignore=False)`
+    - `strutils.slugify(text, delim='_', lower=True, ascii=False)`
+      - `strutils.split_punct_ws(text)`
+    - `typeutils.get_all_subclasses(cls)`
 
 ## Compilers
 
@@ -736,6 +748,7 @@ Misc
   - [Marsilea-viz/marsilea](https://github.com/Marsilea-viz/marsilea): Declarative creation of composable visualization for Python (Complex heatmap, Upset plot, Oncoprint and more~) <https://marsilea.rtfd.io/>
 - [Kozea/pygal](https://github.com/Kozea/pygal): PYthon svg GrAph plotting Library <https://www.pygal.org>
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz): A python library for decision tree visualization and model interpretation.
+- [d3blocks/d3blocks](https://github.com/d3blocks/d3blocks): The Python library to create stand-alone and interactive d3 charts.
 
 ### TUI
 

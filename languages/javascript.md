@@ -96,6 +96,11 @@
 - [ladjs/supertest](https://github.com/ladjs/supertest): 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API. Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices): Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 
+Specific
+
+- [axa-group/oauth2-mock-server](https://github.com/axa-group/oauth2-mock-server): A development and test oriented OAuth2 mock server
+- [navikt/mock-oauth2-server](https://github.com/navikt/mock-oauth2-server): A scriptable/customizable web server for testing HTTP clients using OAuth2/OpenID Connect or applications with a dependency to a running OAuth2 server (i.e. APIs requiring signed JWTs from a known issuer)
+
 ### Linter / Formatter
 
 - [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies and exports in your JS/TS project
@@ -218,6 +223,7 @@
 - [aerotoad/neboa](https://github.com/aerotoad/neboa): Type-safe NoSQL with Node & SQLite. 🌫️💽 <https://aerotoad.github.io/neboa/>
   - mongodb for Nodejs + SQLite
   - good idea, but no more active
+- [salsita/node-pg-migrate](https://github.com/salsita/node-pg-migrate): Node.js database migration management for PostgreSQL <https://salsita.github.io/node-pg-migrate>
 
 ### format parser / converter
 

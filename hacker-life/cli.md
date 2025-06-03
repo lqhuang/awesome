@@ -24,6 +24,7 @@
 - [uutils/findutils](https://github.com/uutils/findutils): Rust implementation of findutils
 - [uutils/diffutils](https://github.com/uutils/diffutils): Drop-in replacement of diffutils in Rust
 - [jnsgruk/oxidizr](https://github.com/jnsgruk/oxidizr): 🦀 Install modern Rust-based replacements of packages such as coreutils, findutils, diffutils and sudo, making them the default on an Ubuntu system 🦀
+- [cronie-crond/cronie](https://github.com/cronie-crond/cronie): Cronie cron daemon project
 
 ## command
 

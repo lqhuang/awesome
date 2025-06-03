@@ -117,6 +117,8 @@ Streaming Systems
 - [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou): The Open source Resource as Code framework for Apache Kafka <https://www.jikkou.io>
 - [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui): Open-Source Web UI for managing Apache Kafka clusters <http://ui.docs.kafbat.io>
 - [tansu-io/tansu](https://github.com/tansu-io/tansu): Tansu is an Apache Kafka API compatible broker written in async 🚀 Rust 🦀 <https://tansu.io>
+- [uber/uForwarder](https://github.com/uber/uForwarder): Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
+- [Crystalite/prism](https://github.com/Crystalite/prism): Http to Kafka reactive proxy with auth using Akka
 
 cli
 

@@ -13,7 +13,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [brillout/awesome-react-components](https://github.com/brillout/awesome-react-components): Curated List of React Components & Libraries.
 - [ericdiviney/react-handbook](https://github.com/ericdiviney/react-handbook): ⚛🤌 Modern approaches to architecture and feature development for production-ready React apps. <https://reacthandbook.dev>
 - [BetaSu/just-react](https://github.com/BetaSu/just-react): 「React 技术揭秘」一本自顶向下的 React 源码分析书 <https://react.iamkasong.com/>
-- 🌟 [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/): A guide that teaches professional developers how to transform component libraries into design systems and set up the production infrastructure used by leading frontend teams.
 - 🌟 [Patterns.dev](https://www.patterns.dev/): Improve how you architect webapps
 - [feature-sliced/documentation](https://github.com/feature-sliced/documentation): 🍰 Architectural design methodology for Frontend projects <https://feature-sliced.design>
   - [Feature Sliced Design - Examples](https://feature-sliced.design/examples)
@@ -26,6 +25,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [Dublin Core, what is it good for? – This day’s portion](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for/#content): There are several popular meta schemas out there. Open Graph may be the best supported, but if you want your meta data to be picked up by a particular service you might need to do a bit of research. Or support them all.
   - metadata explaination
   - Sometimes, we can also add meta data to the document head using `json` wrapped in a `<script>` element.
+- 🌟 [React, visualized](https://react.gg/visualized): A visual exploration of core React concepts
 
 ### Readings
 
@@ -44,6 +44,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [alvarlagerlof/rsc-parser](https://github.com/alvarlagerlof/rsc-parser): A parser for the React Server components when sent over the network <https://rsc-parser.vercel.app>
 - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+- 🌟 [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/): A guide that teaches professional developers how to transform component libraries into design systems and set up the production infrastructure used by leading frontend teams.
 
 ### Templates / Starter kit
 
@@ -237,6 +238,8 @@ Shadcn UI eco system
 - [jnsahaj/tweakcn](https://github.com/jnsahaj/tweakcn): A visual no-code editor for shadcn/ui components <https://tweakcn.com>
 - [sadmann7/sortable](https://github.com/sadmann7/sortable): A sortable component built with shadcn/ui, radix ui, and dnd-kit. <https://sortable.sadmn.com>
 - 🌟 [danielpetho/fancy](https://github.com/danielpetho/fancy): A growing library of fancy, fun, animated react components & microinteractions to make the web fun again. Free & Open Source. <https://fancycomponents.dev/>
+- 🌟 [guhrodrrigues/luxe](https://github.com/guhrodrrigues/luxe): Copy and paste components ready to use. Practical. Customizable. <https://luxeui.com>
+  - A great collection to learn how to use motion
 
 #### Svelte
 
@@ -511,6 +514,7 @@ Concrete animations
 - 🌟 [texel-org/color](https://github.com/texel-org/color): modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
 - [hypershiphq/react-cookie-manager](https://github.com/hypershiphq/react-cookie-manager): A powerful, customizable React component for cookie consent management with built-in tracking prevention. This component provides a modern, user-friendly way to obtain and manage cookie consent from your website visitors.
 - [svg/svgo](https://github.com/svg/svgo): ⚙️ Node.js tool for optimizing SVG files <https://svgo.dev/>
+- 🌟 [SukkaW/fast-escape-html](https://github.com/SukkaW/fast-escape-html): Fastest, plain JavaScript-based, HTML escaping library for JavaScript, works in both Node.js and browser. Even faster than a Rust-based one in real world HTMLs!
 
 ### Misc
 
@@ -522,8 +526,9 @@ Concrete animations
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid): A module used to arrange card elements including content infinitely on a grid layout. <https://naver.github.io/egjs-infinitegrid/>
 - [freedomofpress/webcat](https://github.com/freedomofpress/webcat): WEBCAT is an architectural framework for providing blocking code signing and verification, integrity and transparency checks for browser-based applications.
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js): "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection <https://uaparser.dev/>
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis): Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers <https://anubis.techaro.lol/>
 - [theajack/disable-devtool](https://github.com/theajack/disable-devtool): Disable web developer tools from the f12 button, right-click and browser menu <https://theajack.github.io/disable-devtool/>
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis): Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers <https://anubis.techaro.lol/>
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap): Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work <http://capjs.js.org/>
 
 ## W3C
 

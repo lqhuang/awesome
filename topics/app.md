@@ -63,6 +63,7 @@
 - [software-mansion/react-native-executorch](https://github.com/software-mansion/react-native-executorch): React Native ExecuTorch is a declarative way to run AI models in React Native on device, powered by ExecuTorch
 - 🌟 [OP-Engineering/op-sqlite](https://github.com/OP-Engineering/op-sqlite): Fastest SQLite library for react-native by @ospfranco
 - [nativewind/nativewind](https://github.com/nativewind/nativewind): React Native utility-first universal design system - powered by Tailwind CSS <https://nativewind.dev>
+- [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools): Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, React Web, Next.js, Expo, and any platform where
 
 ### Examples
 

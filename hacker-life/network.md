@@ -37,6 +37,7 @@
 - [cloudflare/quiche](https://github.com/cloudflare/quiche): 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3 <https://docs.quic.tech/quiche/>
 - [google/quiche](https://github.com/google/quiche): QUICHE stands for QUIC, Http, Etc. It is Google's production-ready implementation of QUIC, HTTP/2, HTTP/3, and related protocols and tools. It powers Google's servers, Chromium, Envoy, and other projects. It is actively developed and maintained.
 - [litespeedtech/lsquic](https://github.com/litespeedtech/lsquic): LiteSpeed QUIC and HTTP/3 Library
+- [datenlord/open-rdma](https://github.com/datenlord/open-rdma): RoCE v2 hardware and software implementation
 
 ## Tools
 

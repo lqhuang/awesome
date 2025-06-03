@@ -24,6 +24,7 @@
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love): Papers from the computer science community to read and discuss. <http://paperswelove.org/>
 - [Jason2Brownlee/MachineLearningMischief](https://github.com/Jason2Brownlee/MachineLearningMischief): Machine Learning Mischief: Examples from the dark side of data science
 - [google-deepmind/educational](https://github.com/google-deepmind/educational): This repository contains a collection of educational tutorials that we have prepared for teaching the basics of machine learning to various audiences.
+- [julrog/nn_vis](https://github.com/julrog/nn_vis): A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation.
 
 ## Readings
 
@@ -101,3 +102,4 @@
 - [probml/dynamax](https://github.com/probml/dynamax): State Space Models library in JAX <https://probml.github.io/dynamax/>
 - [MichaelTMatthews/Craftax](https://github.com/MichaelTMatthews/Craftax): (Crafter + NetHack) in JAX. ICML 2024 Spotlight.
 - [haoliuhl/ringattention](https://github.com/haoliuhl/ringattention): Large Context Attention
+- [shap/shap](https://github.com/shap/shap): A game theoretic approach to explain the output of any machine learning model. <https://shap.readthedocs.io>

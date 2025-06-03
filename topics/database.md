@@ -227,6 +227,10 @@ Misc
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of SQLite extensions
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry <https://sqlpkg.org>
 
+### DuckDB
+
+- [mehd-io/duckdb-extension-radar](https://github.com/mehd-io/duckdb-extension-radar): This repo contains information about DuckDB extensions found on GitHub. Refreshed daily
+
 ## DBA
 
 - [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord): mirrord lets you easily mirror traffic from your production environment to your development environment.

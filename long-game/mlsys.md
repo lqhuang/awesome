@@ -52,6 +52,7 @@
 - [PaddleJitLab/CUDATutorial](https://github.com/PaddleJitLab/CUDATutorial): A self-learning tutorail for CUDA High Performance Programing.
   - in Chinese
 - [gpu-mode/resource-stream](https://github.com/gpu-mode/resource-stream): GPU programming related news and material links <https://discord.gg/gpumode>
+- [ENCCS/gpu-programming](https://github.com/ENCCS/gpu-programming): Meta-GPU lesson covering general aspects of GPU programming as well as specific frameworks <https://enccs.github.io/gpu-programming/>
 
 ### TPU
 
@@ -196,6 +197,7 @@ General problems
 - [aimhubio/aim](https://github.com/aimhubio/aim): Aim 💫 — An easy-to-use & supercharged open-source experiment tracker. <https://aimstack.io>
 - [facebook/Ax](https://github.com/facebook/Ax): Adaptive Experimentation Platform <https://ax.dev>
 - [anyscale/Made-With-ML](https://github.com/anyscale/Made-With-ML):
+- [mlop-ai/mlop](https://github.com/mlop-ai/mlop): Next Generation Experimental Tracking for Machine Learning Operations <https://mlop.ai>
 
 ### Computing resource scheduler
 
@@ -521,6 +523,8 @@ PGM / Probabilistic programming
 - [parrt/tensor-sensor](https://github.com/parrt/tensor-sensor): The goal of this library is to generate more helpful exception messages for matrix algebra expressions for numpy, pytorch, jax, tensorflow, keras, fastai. <https://github.com/parrt/tensor-sensor>
   - looks great, but no longer active
 - [chaunceyjiang/fake-gpu](https://github.com/chaunceyjiang/fake-gpu): This project is designed to simulate GPU information, making it easier to test scenarios where a GPU is not available.
+- 🌟 [NVIDIA/nvbandwidth](https://github.com/NVIDIA/nvbandwidth): A tool for bandwidth measurements on NVIDIA GPUs.
+- [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter): Count the MACs / FLOPs of your PyTorch model.
 
 ### Benchmark
 

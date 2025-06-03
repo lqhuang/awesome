@@ -82,6 +82,7 @@
 - [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial): XDP tutorial
 - [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace): Monitor DNS queries by host processes using eBPF!
 - [bpfsnoop/bpfsnoop](https://github.com/bpfsnoop/bpfsnoop): Modernized kernel functions, kernel tracepoints and bpf progs tracing tool for the bpf era. <https://bpfsnoop.com>
+- [netblue30/firejail](https://github.com/netblue30/firejail): Linux namespaces and seccomp-bpf sandbox <https://firejail.wordpress.com>
 
 ## Serialization Protocl
 

@@ -49,6 +49,10 @@
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc): container image to single executable compiler
   - how big for the final binary?
 - 🌟 [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker): A minimal Ubuntu base image modified for Docker-friendliness <http://phusion.github.io/baseimage-docker/>
+- [dockur/windows](https://github.com/dockur/windows): Windows inside a Docker container.
+- [dockur/windows-arm](https://github.com/dockur/windows-arm): Windows for ARM in a Docker container.
+- [dockur/macos](https://github.com/dockur/macos): macOS inside a Docker container.
+- [jrz/container-shell](https://github.com/jrz/container-shell): Starts and attaches a sandboxed shell using docker with access to the current or project directory
 
 #### Container ops
 
@@ -92,6 +96,15 @@
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd): firecracker-containerd enables containerd to manage containers as Firecracker microVMs
 - [harvester/harvester](https://github.com/harvester/harvester): Open source hyperconverged infrastructure (HCI) software <https://harvesterhci.io/>
   - developed from SUSE
+- [GitLab · labs/Kwakky](https://gitlab.nic.cz/labs/kwakky): Kwakky runs virtual machines and manages networks between them in a clean and well automatable way.
+  - I like the idea of cli provided by the project
+  - Create a cluster `flock-sim create <path>`
+  - Start a machine `flock-sim start <path> <name> [<deffile>]`
+  - Shell to a machine `flock-sim shell <path> <name>`
+  - Run a command at a machine `flock-sim cmd <path> <name> <args>`
+  - Create a dummy network device `flock-sim dummy <path> <machname> <ifname>`
+  - Create a point-to-point link `flock-sim ptp <path> <machnameA> <ifnameA> <machnameB> <ifnameB>`
+  - Does anyone know similar projects with more mature ecosystem?
 
 ### Storage
 
@@ -312,6 +325,7 @@
   - [ansible/molecule](https://github.com/ansible/molecule): Molecule aids in the development and testing of Ansible content: collections, playbooks and roles <https://ansible.readthedocs.io/projects/molecule/>
   - [sky22333/ansible](https://github.com/sky22333/ansible): 轻量级，简单易用的 Ansible Web 管理面板，提供批量主机管理、命令执行、文件传输和 Web 终端等功能。
   - [lablabs/ansible-role-rke2](https://github.com/lablabs/ansible-role-rke2): Ansible Role to install RKE2 Kubernetes. <https://galaxy.ansible.com/ui/standalone/roles/lablabs/rke2/>
+  - [serversideup/docker-ansible](https://github.com/serversideup/docker-ansible): ⚡️ Run Ansible anywhere with a lightweight and powerful Docker image. <https://hub.docker.com/r/serversideup/ansible>
 
 ### Services
 

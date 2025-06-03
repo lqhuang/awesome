@@ -50,6 +50,7 @@
 - [Haskell for Readers](https://haskell-for-readers.nomeata.de/): Welcome to the lecture series “Haskell for Readers”. This workshop is uniquely tailored to those who need to read, rather than write Haskell code: auditors, scientists, managers, testers etc.
 - [google/haskell-trainings](https://github.com/google/haskell-trainings): Haskell 101 and 102: slides and codelabs
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell): 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests <https://kowainik.github.io/projects/learn4haskell>
+- [0rphee/haskellings](https://github.com/0rphee/haskellings): No description, website, or topics provided.
 
 ## Best choices
 
@@ -110,6 +111,7 @@
   - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant)
 - [google/proto-lens](https://github.com/google/proto-lens): API for protocol buffers using modern Haskell language and library patterns. <https://google.github.io/proto-lens>
 - [seanhess/hyperbole](https://github.com/seanhess/hyperbole): Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView
+- 🌟 [dmjio/miso](https://github.com/dmjio/miso): 🍜 A tasty Haskell front-end framework <https://haskell-miso.org>
 
 ## Clients
 
@@ -181,3 +183,4 @@
 - [owensmurray/om-legion](https://github.com/owensmurray/om-legion): Core Legion Framework
 - [well-typed/hs-bindgen](https://github.com/well-typed/hs-bindgen): Automatically generate Haskell bindings from C header files
 - [diku-dk/futhark](https://github.com/diku-dk/futhark): 💥💻💥 A data-parallel functional programming language <http://futhark-lang.org>
+- [biegunka/terminal-size](https://github.com/biegunka/terminal-size): Get terminal window width and height <http://biegunka.github.io/terminal-size>

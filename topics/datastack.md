@@ -8,6 +8,7 @@
 - [Data Engineering Architecture](https://www.ssp.sh/brain/data-engineering-architecture/)
 - [Data-Asset Reusability - 📖 Data Engineering Design Patterns (DEDP)](https://www.dedp.online/part-2/5-dep/data-asset-reusability-pattern.html): Accelerate data engineering development through code and data reuse patterns, from templating to materialization and abstraction.
 - [Scaling Beyond Postgres: How to Choose a Real-Time Analytical Database | Rill](https://www.rilldata.com/blog/scaling-beyond-postgres-how-to-choose-a-real-time-analytical-database#the-limitations-of-postgres-for-analytics): This blog explores how real-time databases address critical analytical requirements. We highlight the differences between cloud data warehouses like Snowflake and BigQuery, legacy OLAP databases like Vertica, and a new class of real-time analytical databases like ClickHouse and StarRocks that combine elements of both of these categories. We will also examine the categories of today's analytics solutions and how to choose the right one.
+- [SQL, Python & More for DuckDB | DuckDB Snippets](https://duckdbsnippets.com/): Share and vote for your favorites with the DuckDB community.
 
 ## Query
 
@@ -15,14 +16,16 @@
 - [machow/siuba](https://github.com/machow/siuba): Python library for using dplyr like syntax with pandas and SQL <https://siuba.org>
 - 🌟 [sfu-db/lineagex](https://github.com/sfu-db/lineagex): A Column Level Lineage Graph for SQL.
 
-## Warehouse
+## Warehouse / Iceberg
 
 - [polaris-catalog/polaris](https://github.com/polaris-catalog/polaris): The interoperable, open source catalog for Apache Iceberg <http://polaris.io/>
+- [nimtable/nimtable](https://github.com/nimtable/nimtable): The Control Plane for Apache Iceberg <https://go.nimtable.com/slack>
 
 ## Data Format
 
 - parquet
 - arrow
+- nanoarrow
 - [lancedb/lance](https://github.com/lancedb/lance): Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming.. <https://lancedb.github.io/lance/>
 - [facebookexternal/nimble](https://github.com/facebookexternal/nimble): New file format for storage of large columnar datasets.
 
@@ -33,6 +36,7 @@
   - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core): dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications. <https://getdbt.com>
   - [dbt-labs/metricflow](https://github.com/dbt-labs/metricflow): MetricFlow allows you to define, build, and maintain metrics in code. <https://docs.getdbt.com/docs/build/about-metricflow>
 - 🌟 [dlt-hub/dlt](https://github.com/dlt-hub/dlt): data load tool (dlt) is an open source Python library that makes data loading easy 🛠️ <https://dlthub.com/docs>
+- [TobikoData/sqlmesh](https://github.com/TobikoData/sqlmesh): Scalable and efficient data transformation framework - backwards compatible with dbt. <https://www.tobikodata.com/sqlmesh>
 - [carbonfact/lea](https://github.com/carbonfact/lea): 🏃‍♀️ Minimalist alternative to dbt
 - [evidence-dev/evidence](https://github.com/evidence-dev/evidence): Evidence enables analysts to deliver a polished business intelligence system using SQL and markdown <https://evidence.dev>
 - 🌟 [airbytehq/airbyte](https://github.com/airbytehq/airbyte): Data integration platform for ELT pipelines from APIs, databases & files to warehouses & lakes. <https://airbyte.com/>

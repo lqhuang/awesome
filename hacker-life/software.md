@@ -123,6 +123,7 @@
 - [Finb/Bark](https://github.com/Finb/Bark): Bark is an iOS App which allows you to push custom notifications to your iPhone <https://bark.day.app>
   - [cwxiaos/bark-worker](https://github.com/cwxiaos/bark-worker): Bark Server on Cloudflare Worker
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight): Quick Look extension for highlight source code files on macOS 10.15 and later.
+- [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar): Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 
 ### Free / Paid
 
@@ -180,6 +181,8 @@
 - [subhra74/xdm](https://github.com/subhra74/xdm): Powerfull download accelerator and video downloader <https://xtremedownloadmanager.com/>
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil): Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI): UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers <https://www.marticliment.com/unigetui/>
+- [meetrevision/playbook](https://github.com/meetrevision/playbook): A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility <https://www.revi.cc>
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas): 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. <https://atlasos.net>
 
 ## Developer
 
@@ -195,9 +198,11 @@
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web <https://tsl0922.github.io/ttyd>
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - 🌟 [ekzhang/sshx](https://github.com/ekzhang/sshx): Fast, collaborative live terminal sharing over the web <https://sshx.io>
+- [tmate-io/tmate](https://github.com/tmate-io/tmate): Instant Terminal Sharing <https://tmate.io/>
 - [nirui/sshwifty](https://github.com/nirui/sshwifty): Web SSH & Telnet (WebSSH & WebTelnet client) 🔮 <https://sshwifty-demo.nirui.org>
 - [raphamorim/rio](https://github.com/raphamorim/rio): A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. <https://raphamorim.io/rio>
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm): The open source server management software for SSH, VNC & RDP <http://docs.nexterm.dev/>
+- [serversideup/docker-ssh](https://github.com/serversideup/docker-ssh): Simple SSH container. Great for secure connections into clusters. <https://hub.docker.com/r/serversideup/docker-ssh>
 
 ## CN Related
 
@@ -275,6 +280,8 @@
   - similar https://dy.kukutool.com/en
 - [koush/scrypted](https://github.com/koush/scrypted): Scrypted is a high performance video integration and automation platform <https://scrypted.app>
 - [jugeekuz/HomeShare](https://github.com/jugeekuz/HomeShare): No description, website, or topics provided.
+- [git.deuxfleurs.fr - Deuxfleurs/garage](https://git.deuxfleurs.fr/Deuxfleurs/garage): garage - S3-compatible object store for small self-hosted geo-distributed deployments
+- [logscore/Nimbus](https://github.com/logscore/Nimbus): An open source alternative to Google Drive, One Drive, iCloud, etc. <https://nimbus-cloud-storage.vercel.app>
 
 ### Email
 
@@ -302,6 +309,7 @@
 - [haraka/Haraka](https://github.com/haraka/Haraka): A fast, highly extensible, and event driven SMTP server <https://haraka.github.io>
   - focus on SMTP server!
 - 🌟 [foxcpp/maddy](https://github.com/foxcpp/maddy): ✉️ Composable all-in-one mail server. <https://maddy.email>
+- [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail): BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV <http://www.billionmail.com/>
 
 Not OSS:
 

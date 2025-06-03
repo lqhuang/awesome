@@ -85,7 +85,7 @@ And modern is here now.
 - [cpp-best-practices/cmake_template](https://github.com/cpp-best-practices/cmake_template): This is a C++ Best Practices GitHub template for getting up and running with C++ quickly.
 - [cginternals/cmake-init](https://github.com/cginternals/cmake-init): Template for reliable, cross-platform C++ project setup using cmake.
 - [BlankSpruce/gersemi](https://github.com/BlankSpruce/gersemi): A formatter to make your CMake code the real treasure
-- [build-cpp/cmkr](https://github.com/build-cpp/cmkr): Modern build system based on CMake and TOML. <https://cmkr.build>
+- 🌟 [build-cpp/cmkr](https://github.com/build-cpp/cmkr): Modern build system based on CMake and TOML. <https://cmkr.build>
 - [distcc/distcc](https://github.com/distcc/distcc): distributed builds for C, C++ and Objective C
 - [renatoGarcia/icecream-cpp](https://github.com/renatoGarcia/icecream-cpp): 🍦 Never use cout/printf to debug again
 
@@ -172,6 +172,7 @@ And modern is here now.
 - [nothings/stb](https://github.com/nothings/stb): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
 - [libffi/libffi](https://github.com/libffi/libffi): A portable foreign-function interface library. <http://sourceware.org/libffi>
 - [lemire/rollinghashcpp](https://github.com/lemire/rollinghashcpp): Rolling Hash C++ Library
+- [foonathan/lexy](https://github.com/foonathan/lexy): C++ parsing DSL <https://lexy.foonathan.net>
 
 ## Libs
 
@@ -183,6 +184,10 @@ And modern is here now.
 - [lemire/EWAHBoolArray](https://github.com/lemire/EWAHBoolArray): A compressed bitmap class in C++. <http://lemire.github.io/EWAHBoolArray/>
 - [lewj85/jessesort](https://github.com/lewj85/jessesort): No description, website, or topics provided.
 - [hanickadot/shorty](https://github.com/hanickadot/shorty): No description, website, or topics provided.
+- [ToruNiina/toml11](https://github.com/ToruNiina/toml11): TOML for Modern C++ <https://toruniina.github.io/toml11/>
+- [USCiLab/cereal](https://github.com/USCiLab/cereal): A C++11 library for serialization
+- [felixguendling/cista](https://github.com/felixguendling/cista): Cista is a simple, high-performance, zero-copy C++ serialization & reflection library. <https://cista.rocks>
+- [Loki-Astari/ThorsSerializer](https://github.com/Loki-Astari/ThorsSerializer): No description, website, or topics provided.
 
 ## String
 
