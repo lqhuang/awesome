@@ -135,6 +135,7 @@ Templates
   - [defold/build-size](https://github.com/defold/build-size): Graph showing the Defold engine and editor sizes for all supported platforms
 - [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel): 🎡 Build Python wheels for all the platforms on CI with minimal configuration.
 - [pyupio/dparse](https://github.com/pyupio/dparse): A parser for Python dependency files
+- [wimglenn/johnnydep](https://github.com/wimglenn/johnnydep): Display dependency tree of Python distribution
 - [hynek/build-and-inspect-python-package](https://github.com/hynek/build-and-inspect-python-package): Build and Inspect Python Packages in Your CI
 - 🌟 [devpi/devpi](https://github.com/devpi/devpi): Python PyPi staging server and packaging, testing, release tool <https://doc.devpi.net>
 - [A Comprehensive Guide to Python Project Management and Packaging: Concepts Illustrated with uv – Part I – Reinforced Knowledge](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-i/)
@@ -322,6 +323,7 @@ Misc
 - [Quantco/tabmat](https://github.com/Quantco/tabmat): Efficient matrix representations for working with tabular data <https://tabmat.readthedocs.io/>
 - [Quantco/glum](https://github.com/Quantco/glum): High performance Python GLMs with all the features! <https://glum.readthedocs.io/>
   - Generalized linear models (GLM)
+- [kylebarron/arro3](https://github.com/kylebarron/arro3): A minimal Python library for Apache Arrow, connecting to the Rust arrow crate <https://kylebarron.dev/arro3/core>
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -390,6 +392,7 @@ Misc
 - 🌟 [litestar-org/litestar](https://github.com/litestar-org/litestar): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs <https://litestar.dev/>
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users): Ready-to-use and customizable users management for FastAPI <https://fastapi-users.github.io/fastapi-users/>
 - [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc): The python library for real-time communication <https://fastrtc.org/>
+- [python-hyper/wsproto](https://github.com/python-hyper/wsproto): Sans-IO WebSocket protocol implementation <https://wsproto.readthedocs.io/>
 
 #### Web utils
 
@@ -399,6 +402,7 @@ Misc
 - [oauthlib/oauthlib](https://github.com/oauthlib/oauthlib): A generic, spec-compliant, thorough implementation of the OAuth request-signing logic
 - [lepture/authlib](https://github.com/lepture/authlib): The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS,JWE,JWK,JWA,JWT included. <https://authlib.org>
 - [authlib/joserfc](https://github.com/authlib/joserfc): Implementations of JOSE RFCs in Python <https://jose.authlib.org>
+- [aogier/starlette-authlib](https://github.com/aogier/starlette-authlib): A drop-in replacement for Starlette session middleware, using Authlib's jwt
 - 🌟 [pyca/bcrypt](https://github.com/pyca/bcrypt): Modern(-ish) password hashing for your software and your servers
 - [mpdavis/python-jose](https://github.com/mpdavis/python-jose): A JOSE implementation in Python
 - 📝 [Lancetnik/Propan](https://github.com/Lancetnik/Propan): Propan is a powerful and easy-to-use Python framework for building asynchronous web services that interact with Any MQ Broker <https://lancetnik.github.io/Propan/>
@@ -418,23 +422,26 @@ Misc
 - [scrapy/w3lib](https://github.com/scrapy/w3lib): Python library of web-related functions
 - 🌟 [cle-b/httpdbg](https://github.com/cle-b/httpdbg): A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program. <https://httpdbg.readthedocs.io/>
 - 🌟 [di/id](https://github.com/di/id): A tool for generating OIDC identities
-- [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm): Familiar asyncio ORM for python, built with relations in mind <https://tortoise.github.io>
 - [CZ-NIC/pyoidc](https://github.com/CZ-NIC/pyoidc): A complete OpenID Connect implementation in Python
+- [abersheeran/asgi-ratelimit](https://github.com/abersheeran/asgi-ratelimit): A ASGI Middleware to rate limit
+- [aio-libs/yarl](https://github.com/aio-libs/yarl): Yet another URL library <https://yarl.readthedocs.io>
+- [python-babel/babel](https://github.com/python-babel/babel): The official repository for Babel, the Python Internationalization Library <http://babel.pocoo.org/>
 
 ### DB clients and SQL utils
 
+- 🌟 [tobymao/sqlglot](https://github.com/tobymao/sqlglot): Python SQL Parser and Transpiler
+- 🌟 [litestar-org/advanced-alchemy](https://github.com/litestar-org/advanced-alchemy): A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy <http://docs.advanced-alchemy.litestar.dev/>
+- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic): A database migrations tool for SQLAlchemy.
+- [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen): Automatic model code generator for SQLAlchemy
+- [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm): Familiar asyncio ORM for python, built with relations in mind <https://tortoise.github.io>
 - [nackjicholson/aiosql](https://github.com/nackjicholson/aiosql): Simple SQL in Python
 - [roman-right/beanie](https://github.com/roman-right/beanie): Asynchronous Python ODM for MongoDB
 - [art049/odmantic](https://github.com/art049/odmantic): Async ODM (Object Document Mapper) for MongoDB based on python type hints
-- [tobymao/sqlglot](https://github.com/tobymao/sqlglot): Python SQL Parser and Transpiler
 - [mcfunley/pugsql](https://github.com/mcfunley/pugsql): A HugSQL-inspired database library for Python <https://pugsql.org>
-- [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen): Automatic model code generator for SQLAlchemy
 - [RaRe-Technologies/sqlitedict](https://github.com/RaRe-Technologies/sqlitedict): Persistent dict, backed by sqlite3 and pickle, multithread-safe.
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils): Python CLI utility and library for manipulating SQLite databases
   - [simonw/sqlite-utils-tui](https://github.com/simonw/sqlite-utils-tui): Terminal UI for sqlite-utils
 - [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py): Prisma Client Python is an auto-generated and fully type-safe database client designed for ease of use <https://prisma-client-py.readthedocs.io>
-- [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic): A database migrations tool for SQLAlchemy.
-- [jolt-org/advanced-alchemy](https://github.com/jolt-org/advanced-alchemy): A carefully crafted, thoroughly tested, optimized companion library for SQLAlchemy <https://docs.advanced-alchemy.jolt.rs/>
 - [influxdata/flightsql-dbapi](https://github.com/influxdata/flightsql-dbapi): DB API 2 interface for Flight SQL with SQLAlchemy extras.
 - [nalgeon/sqlean.py](https://github.com/nalgeon/sqlean.py): Python's sqlite3 + extensions
 - [memgraph/gqlalchemy](https://github.com/memgraph/gqlalchemy): GQLAlchemy is a library developed with the purpose of assisting in writing and running queries on Memgraph. GQLAlchemy supports high-level connection to Memgraph as well as modular query builder.
@@ -444,14 +451,12 @@ Misc
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry): A GraphQL library for Python that leverages type annotations 🍓 <https://strawberry.rocks>
 - [ipython/pickleshare](https://github.com/ipython/pickleshare): File system based database that uses python pickles
 - 🌟 [unum-cloud/ustore](https://github.com/unum-cloud/ustore): Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with NetworkX and Pandas interfaces, and bindings for C 99, C++ 17, Python 3, Java, GoLang 🗄️ <https://unum-cloud.github.io/ustore/>
-- [kylebarron/arro3](https://github.com/kylebarron/arro3): A minimal Python library for Apache Arrow, connecting to the Rust arrow crate <https://kylebarron.dev/arro3/core>
-- [sauljabin/kaskade](https://github.com/sauljabin/kaskade): kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style! <https://github.com/sauljabin/kaskade>
-- [aio-libs/yarl](https://github.com/aio-libs/yarl): Yet another URL library <https://yarl.readthedocs.io>
 - 🌟 [coleifer/pysqlite3](https://github.com/coleifer/pysqlite3): SQLite3 DB-API 2.0 driver from Python 3, packaged separately, with improvements
 - [litements/litequeue](https://github.com/litements/litequeue): Queue built on top of SQLite <https://litements.polyrand.net/queue/>
 
 ### API clients
 
+- [sauljabin/kaskade](https://github.com/sauljabin/kaskade): kaskade is a text user interface for kafka, which allows you to interact and consume topics from your terminal in style! <https://github.com/sauljabin/kaskade>
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub): Typed interactions with the GitHub API v3 <https://pygithub.readthedocs.io>
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit): The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
 - 🌟 [guilatrova/gracy](https://github.com/guilatrova/gracy): Gracy helps you handle failures, logging, retries, throttling, and tracking for all your HTTP interactions.
@@ -619,6 +624,7 @@ Misc
 
 - 🌟 [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt): A Python module for decorators, wrappers and monkey patching.
 - [Tinche/tightwrap](https://github.com/Tinche/tightwrap): A type-safe `functools.wraps`.
+- [treyhunner/better-dedent](https://github.com/treyhunner/better-dedent): textwrap.dedent with t-string support
 - [T-baby/pondpond](https://github.com/T-baby/pondpond): Pond is a high performance object-pooling library for Python <https://qin.news/pond>
 - [dvarrazzo/py-setproctitle](https://github.com/dvarrazzo/py-setproctitle): A Python module to customize the process title
 - [mahmoud/glom](https://github.com/mahmoud/glom): ☄️ Python's nested data operator (and CLI), for all your declarative restructuring needs. Got data? Glom it! ☄️ <https://glom.readthedocs.io>
@@ -643,6 +649,7 @@ Misc
     - `strutils.slugify(text, delim='_', lower=True, ascii=False)`
       - `strutils.split_punct_ws(text)`
     - `typeutils.get_all_subclasses(cls)`
+- 🌟 [pallets/itsdangerous](https://github.com/pallets/itsdangerous): Safely pass trusted data to untrusted environments and back. <https://itsdangerous.palletsprojects.com>
 
 ## Compilers
 

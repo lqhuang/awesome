@@ -34,6 +34,7 @@
 - [Recommended Scalac Flags for 2.12](https://tpolecat.github.io/2017/04/25/scalac-flags.html)
   - Updated 10-May-2017
 - [A solid checklist for configuring new Scala projects](https://softwaremill.com/new-scala-project-checklist/): Important settings and practices worth considering to enrich your builds or enhance the development process. Some of these points are a good fit for templates.
+- [zainab-ali/aquascape](https://github.com/zainab-ali/aquascape): Alternative fs2 docs <https://zainab-ali.github.io/aquascape/>
 
 ### Exercises
 
@@ -50,6 +51,7 @@
 - [yadavan88/cats-effect-intro](https://github.com/yadavan88/cats-effect-intro): An introduction to Cats Effect 3.
   - [Series - Scala: Cats Effect](https://yadukrishnan.live/series/cats-effect)
 - 🌟 [yoeo/scala-explained](https://github.com/yoeo/scala-explained): Scala explained with code snippets <https://scalaexplained.github.io/scala-explained/>
+- [rockthejvm/scala-macros-metaprogramming](https://github.com/rockthejvm/scala-macros-metaprogramming): The official repository of the Scala Macros and Metaprogramming course on Rock the JVM
 
 ## Master these you rule the world
 
@@ -95,6 +97,7 @@
 - [earldouglas/sbt-lit](https://github.com/earldouglas/sbt-lit): Literate programming with sbt
 - [yurique/embedded-files](https://github.com/yurique/embedded-files): An sbt plugin to generate Scala objects containing the contents of glob-specified files as strings or byte-arrays.
   - Make a mill plugin for this?
+- [47degrees/sbt-microsites](https://github.com/47degrees/sbt-microsites): An sbt plugin to create awesome microsites for your project <https://47degrees.github.io/sbt-microsites/>
 
 ### Mill
 
@@ -116,6 +119,9 @@
 - [lolgab/mill-scalablytyped](https://github.com/lolgab/mill-scalablytyped): Scalablytyped Mill Plugin <https://lolgab.github.io/mill-scalablytyped/>
 - [ckipp01/mill-scip](https://github.com/ckipp01/mill-scip): A Mill plugin that generates and SCIP index for your build.
 - [ckipp01/mill-github-dependency-graph](https://github.com/ckipp01/mill-github-dependency-graph): A Mill plugin to submit your dependency graph to the GitHub Dependency Graph API
+- [carlosedp/mill-aliases](https://github.com/carlosedp/mill-aliases): A Scala Mill plugin adding task aliases to the build configuration
+- 🌟 [carlosedp/mill-zsh-completions](https://github.com/carlosedp/mill-zsh-completions): Zsh plugin adding Scala Mill build tool completions and prompt display
+- [carlosedp/mill-docker-nativeimage](https://github.com/carlosedp/mill-docker-nativeimage): A Scala Mill plugin to build container images with Native Image (GraalVM Binaries) application
 
 ### Testing
 
@@ -127,12 +133,23 @@
 - [spotify/ratatool](https://github.com/spotify/ratatool): A tool for data sampling, data generation, and data diffing
 - [ScalaMock/ScalaMock](https://github.com/ScalaMock/ScalaMock): Native Scala mocking framework <http://scalamock.org/>
 - [sageserpent-open/americium](https://github.com/sageserpent-open/americium): Generation of test case data for Scala and Java, in the spirit of QuickCheck. When your test fails, it gives you a minimised failing test case and a way of reproducing the failure immediately.
+- [typelevel/scalacheck](https://github.com/typelevel/scalacheck): Property-based testing for Scala <http://www.scalacheck.org>
+  - [typelevel/scalacheck-effect](https://github.com/typelevel/scalacheck-effect): Effectful property testing built on ScalaCheck
+  - [47degrees/scalacheck-toolbox](https://github.com/47degrees/scalacheck-toolbox): A helping hand for generating sensible data with ScalaCheck <https://47degrees.github.io/scalacheck-toolbox/>
+  - [alexarchambault/scalacheck-shapeless](https://github.com/alexarchambault/scalacheck-shapeless): Generation of arbitrary case classes / ADTs instances with scalacheck and shapeless
+  - [scalameta/munit-scalacheck](https://github.com/scalameta/munit-scalacheck): Scalacheck integration for munit
+- [eed3si9n/verify](https://github.com/eed3si9n/verify): Scala Verify is a minimal testing framework for Scala. Trust, but verify.
+
+### Linter
+
+- [scalastyle/scalastyle](https://github.com/scalastyle/scalastyle): scalastyle <http://www.scalastyle.org>
+- [scapegoat-scala/scapegoat](https://github.com/scapegoat-scala/scapegoat): Scala compiler plugin for static code analysis
+- [wartremover/wartremover](https://github.com/wartremover/wartremover): Flexible Scala code linting tool <https://www.wartremover.org/>
 
 ### Program Analysis
 
 - [lightbend-labs/mima](https://github.com/lightbend-labs/mima): A tool for catching binary incompatibility in Scala
   - [scalacenter/tasty-mima](https://github.com/scalacenter/tasty-mima): TASTy Migration Manager
-- [wartremover/wartremover](https://github.com/wartremover/wartremover): Flexible Scala code linting tool <https://www.wartremover.org>
 - [shardulc/tasty-interpreter](https://github.com/shardulc/tasty-interpreter): Reference interpreter for TASTy, the Scala 3 interchange format
 - [epfl-lara/bolts](https://github.com/epfl-lara/bolts): Bolts: Stainless Verified Scala Examples
 - [lightbend-labs/scala-sculpt](https://github.com/lightbend-labs/scala-sculpt): Dependency extraction for Scala codebases, to aid in modularizing
@@ -194,6 +211,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [keynmol/scalajs-scala-cli-vite-template](https://github.com/keynmol/scalajs-scala-cli-vite-template): Scala.js ❤️ Scala CLI ❤️ Vite
 - [hmil/RosHTTP](https://github.com/hmil/RosHTTP): Unified Scala.js + Scala HTTP client API
 - [cornerman/colibri](https://github.com/cornerman/colibri): A simple functional reactive library for ScalaJS
+- [scala-wasm/scala-wasm](https://github.com/scala-wasm/scala-wasm): Friendly fork of Scala.js, target stand-alone Wasm leveraging WASI and Component Model <https://www.scala-js.org/>
 
 ## Featured
 
@@ -205,17 +223,16 @@ Do a benchmark (final size while using Scala Native) for them?
 - [raquo/Airstream](https://github.com/raquo/Airstream): State propagation and event streams with mandatory ownership and no glitches
 - [devlaam/Leucine](https://github.com/devlaam/Leucine): Small x-platform actor framework
 - [pathikrit/better-files](https://github.com/pathikrit/better-files): Simple, safe and intuitive Scala I/O <https://pathikrit.github.io/better-files/>
+  - `scala.io.Source` is just for reading, not writing.
 - [agourlay/cornichon](https://github.com/agourlay/cornichon): Scala DSL for testing HTTP JSON API <http://agourlay.github.io/cornichon>
-- [mjakubowski84/parquet4s](https://github.com/mjakubowski84/parquet4s): Read and write Parquet in Scala. Use Scala classes as schema. No need to start a cluster. <https://mjakubowski84.github.io/parquet4s/>
-- [ParquetFileFormat.scala in spark src](https://github.com/apache/spark/blob/master/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/parquet/ParquetFileFormat.scala)
 - [theiterators/http4s-stir](https://github.com/theiterators/http4s-stir): http4s-stir offers Pekko HTTP-style (Akka HTTP-style) DSL directives for http4s using cats-effect's IO as an effect system
-- [kzmake/uuid7s](https://github.com/kzmake/uuid7s): UUID version 7 in Scala
-- [wvlet/airframe](https://github.com/wvlet/airframe): Essential Building Blocks for Scala <https://wvlet.org/airframe>
-  - ulid
-- [VirtusLab/scala-yaml](https://github.com/VirtusLab/scala-yaml):
 - [softwaremill/bootzooka](https://github.com/softwaremill/bootzooka): Simple project to quickly start developing a Scala-based microservice or web application, without the need to write login, user registration etc. <https://softwaremill.github.io/bootzooka/>
 - [mpilquist/persistence](https://github.com/mpilquist/persistence): Various persistent collections for Scala
 - [scala-graph/scala-graph](https://github.com/scala-graph/scala-graph): Graph for Scala is intended to provide basic graph functionality seamlessly fitting into the Scala Collection Library. Like the well known members of scala.collection, Graph for Scala is an in-memory graph library aiming at editing and traversing graphs, finding cycles etc. in a user-friendly way.
+- 🌟 [outr/lightdb](https://github.com/outr/lightdb): Bare Metal Modular Database
+- [szeiger/perfio](https://github.com/szeiger/perfio): Fast and Convenient I/O for the JVM
+  - > @StefanZeiger: It's written in Java and uses modern features like the FFM and Vector API.
+  - What if we use similar highlights for Scala Native?
 
 ### Experiments
 
@@ -249,6 +266,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala): Scala macros for compile-time generation of safe and ultra-fast JSON codecs
 - [com-lihaoyi/upickle](https://github.com/com-lihaoyi/upickle): uPickle: a simple, fast, dependency-free JSON & Binary (MessagePack) serialization library for Scala <https://com-lihaoyi.github.io/upickle>
 - 🌟 [pureconfig/pureconfig](https://github.com/pureconfig/pureconfig): A boilerplate-free library for loading configuration files
+- [outr/profig](https://github.com/outr/profig): Powerful configuration management for Scala (JSON, properties, command-line arguments, and environment variables)
 - [typelevel/fabric](https://github.com/typelevel/fabric): Object-Notation Abstraction for JSON, binary, HOCON, etc.
 - [frawa/typed-json](https://github.com/frawa/typed-json): Validating Json against Json Schema in Scala. The library is designed to integrate with any Json parser.
 - [fd4s/vulcan](https://github.com/fd4s/vulcan): Functional Avro for Scala <https://fd4s.github.io/vulcan>
@@ -256,6 +274,7 @@ Do a benchmark (final size while using Scala Native) for them?
   - [Scala Serialization Guide](https://github.com/apache/fury/blob/main/docs/guide/scala_guide.md)
 - [scalapb/ScalaPB](https://github.com/scalapb/ScalaPB): Protocol buffer compiler for Scala. <https://scalapb.github.io/>
 - [suzaku-io/boopickle](https://github.com/suzaku-io/boopickle): Binary serialization library for efficient network communication
+- [VirtusLab/scala-yaml](https://github.com/VirtusLab/scala-yaml):
 
 ### Logging
 
@@ -283,6 +302,9 @@ Do a benchmark (final size while using Scala Native) for them?
 - [finagle/finch](https://github.com/finagle/finch): Scala combinator library for building Finagle HTTP services <https://finagle.github.io/finch>
 - [com-lihaoyi/scalasql](https://github.com/com-lihaoyi/scalasql): Query SQL databases from Scala via concise, type-safe, and familiar case classes and collection operations. Supports Postgres, MySql, H2, and Sqlite out of the box
 - [slack-scala-client/slack-scala-client](https://github.com/slack-scala-client/slack-scala-client): A scala library for interacting with the slack api and real time messaging interface
+- [mjakubowski84/parquet4s](https://github.com/mjakubowski84/parquet4s): Read and write Parquet in Scala. Use Scala classes as schema. No need to start a cluster. <https://mjakubowski84.github.io/parquet4s/>
+- [ParquetFileFormat.scala in spark src](https://github.com/apache/spark/blob/master/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/parquet/ParquetFileFormat.scala)
+- [47degrees/github4s](https://github.com/47degrees/github4s): A GitHub API wrapper written in Scala <http://47degrees.github.io/github4s>
 
 ### Parser
 
@@ -319,6 +341,12 @@ Do a benchmark (final size while using Scala Native) for them?
 - [lbialy/jig](https://github.com/lbialy/jig): A minimal, type-safe configuration library for Scala 3 that focuses on both reading and writing configuration files.
 - [eikek/calev](https://github.com/eikek/calev): Work with systemd.time like calendar events in Scala
 - [jatcwang/difflicious](https://github.com/jatcwang/difflicious): Scala library for readable diffs of values
+- [kzmake/uuid7s](https://github.com/kzmake/uuid7s): UUID version 7 in Scala
+- [ant8e/uuid4cats-effect](https://github.com/ant8e/uuid4cats-effect): UUID V1, V4, V6, V7 & TypeID generation with cats-effect
+  - extract core to an individual library and a cats-effect support lib?
+- [wvlet/airframe](https://github.com/wvlet/airframe): Essential Building Blocks for Scala <https://wvlet.org/airframe>
+  - ulid
+- 🌟 [outr/perfolation](https://github.com/outr/perfolation): Performance focused interpolation
 
 ### Misc
 
@@ -398,7 +426,6 @@ Do a benchmark (final size while using Scala Native) for them?
 - 🌟 [trace4cats/trace4cats](https://github.com/trace4cats/trace4cats): Distributed app tracing implementation in pure scala using cats-effect
 - [typelevel/toolkit](https://github.com/typelevel/toolkit): Quickstart your next app with the Typelevel Toolkit!
 - [cb372/cats-retry](https://github.com/cb372/cats-retry): A library for retrying actions that can fail. <https://cb372.github.io/cats-retry/>
-- [typelevel/scalacheck-effect](https://github.com/typelevel/scalacheck-effect): Effectful property testing built on ScalaCheck
 - [typelevel/cats-effect-testing](https://github.com/typelevel/cats-effect-testing): Integration between cats-effect and test frameworks
 - [typelevel/munit-cats-effect](https://github.com/typelevel/munit-cats-effect): Integration library for MUnit & cats-effect
 - [armanbilge/calico](https://github.com/armanbilge/calico): Pure, reactive UI library for Scala.js <https://armanbilge.github.io/calico>

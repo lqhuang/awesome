@@ -70,6 +70,7 @@
 - [drk1wi/portspoof](https://github.com/drk1wi/portspoof): Portspoof <http://drk1wi.github.io/portspoof/>
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap): View HTTP/HTTPS requests made by any Linux program <https://www.monasticacademy.org>
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py): 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework <https://abhinavsingh.com/proxy-py-a-lightweight-single-file-http-proxy-server-in-python/>
+- [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester): 测试当前网络的 NAT 类型（STUN）
 
 ### Analysis
 
@@ -252,3 +253,4 @@
 - [W.is Whois Lookup](https://w.is)
 - [IPinfo Lite](https://ipinfo.io/lite): Access the most accurate free IP geolocation and ASN data with IPinfo Lite. Use our API or download the full database in a variety of formats.
 - [Ping | Ping.Sx](https://ping.sx/ping): Ping any server from 131 global locations in parallel.
+- [Check My NAT](https://www.checkmynat.com/): Online Service for NAT Type Detecting

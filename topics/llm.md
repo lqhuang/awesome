@@ -41,6 +41,10 @@
 - [ag2ai/ag2](https://github.com/ag2ai/ag2): AG2 (formerly AutoGen) is a programming framework for agentic AI. Join the community at: https://discord.gg/pAbnFJrkgZ <https://ag2ai.github.io/ag2/>
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp): Playwright Tools for MCP
 - [microsoft/NLWeb](https://github.com/microsoft/NLWeb): Natural Language Web
+  - [What is NLWeb? | Glama](https://glama.ai/blog/2025-06-01-what-is-nlweb): Learn about NLWeb, a protocol for building conversational interfaces to websites using MCP and Schema.org.
+    - Currently, websites have structured data (Schema.org) but no standard way for AI agents or conversational interfaces to access it.
+    - NLWeb creates a standard protocol for conversational access to web content. Like RSS did for syndication, NLWeb does for AI interactions - one implementation serves both human chat interfaces and programmatic agent access.
+    - The key insight: Instead of building custom NLP for every site, NLWeb leverages LLMs' existing understanding of Schema.org to create instant conversational interfaces.
 
 ### App Builder
 

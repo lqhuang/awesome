@@ -32,6 +32,7 @@
 - [Kerodon](https://kerodon.net): an online resource for homotopy-coherent mathematics
 - 🌟 [A quick dive into Julia's type inference algorithm](https://aviatesk.github.io/posts/data-flow-problem/): introduction to dataflow analysis and Julia's local type inference routine
 - [yihozhang/most-influential-pl-papers](https://github.com/yihozhang/most-influential-pl-papers): Most influential papers in programming languages
+- 🌟 [Favorite compiler and interpreter resources](https://eatonphil.com/compilers-and-interpreters.html): by Phil Eaton
 
 ### Tutorials
 

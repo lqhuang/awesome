@@ -53,6 +53,8 @@
 - [dockur/windows-arm](https://github.com/dockur/windows-arm): Windows for ARM in a Docker container.
 - [dockur/macos](https://github.com/dockur/macos): macOS inside a Docker container.
 - [jrz/container-shell](https://github.com/jrz/container-shell): Starts and attaches a sandboxed shell using docker with access to the current or project directory
+- 🌟 [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/containerization](https://github.com/apple/containerization): Containerization is a Swift package for running Linux containers on macOS.
 
 #### Container ops
 
@@ -105,6 +107,10 @@
   - Create a dummy network device `flock-sim dummy <path> <machname> <ifname>`
   - Create a point-to-point link `flock-sim ptp <path> <machnameA> <ifnameA> <machnameB> <ifnameB>`
   - Does anyone know similar projects with more mature ecosystem?
+- [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor): A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security. <https://www.cloudhypervisor.org>
+- [cirruslabs/vetu](https://github.com/cirruslabs/vetu): Create, publish and virtualize ephemeral Linux VMs with ease
+- [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS and Linux VMs on Apple Silicon to use in CI and other automations <https://tart.run>
+- [cirruslabs/orchard](https://github.com/cirruslabs/orchard): Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 
 ### Storage
 
@@ -238,6 +244,7 @@
 - [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write Kubernetes operators in just a few lines of code <https://kopf.readthedocs.io/>
 - [inlets/inlets-operator](https://github.com/inlets/inlets-operator): Get public TCP LoadBalancers for local Kubernetes clusters <https://docs.inlets.dev/reference/inlets-operator>
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager): A management framework for extending Kubernetes with Operators <https://olm.operatorframework.io>
+- [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus): Use Prometheus to monitor Kubernetes and applications running on Kubernetes <https://prometheus-operator.dev/>
 
 ### App framework
 
@@ -279,6 +286,17 @@
 - 🌟 [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer): CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [tenable/terrascan](https://github.com/tenable/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure. <https://runterrascan.io>
 - [mr-karan/nomcfg](https://github.com/mr-karan/nomcfg): https://nomcfg.mrkaran.dev/
+
+## Bare-metal Infra / OpenStack
+
+- [openstack/bifrost](https://github.com/openstack/bifrost): Ansible roles and playbooks to enable a standalone Ironic install. Mirror of code maintained at opendev.org. <https://opendev.org/openstack/bifrost>
+- [openstack/openstack-ansible](https://github.com/openstack/openstack-ansible): Ansible playbooks for deploying OpenStack. Mirror of code maintained at opendev.org. <https://opendev.org/openstack/openstack-ansible>
+- [openstack/ironic](https://github.com/openstack/ironic): A service for managing and provisioning Bare Metal servers. Mirror of code maintained at opendev.org. <https://opendev.org/openstack/ironic>
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api): Home for Cluster API, a subproject of sig-cluster-lifecycle <https://cluster-api.sigs.k8s.io>
+- [Metal³ - Metal Kubed](https://metal3.io/): Metal3.io aims to build on baremetal host provisioning technologies to provide a Kubernetes native API for managing bare metal hosts via a provisioning stack that is also running on Kubernetes.
+  - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator): Bare metal host provisioning integration for Kubernetes
+- [99cloud/lab-openstack](https://github.com/99cloud/lab-openstack): lab for OpenStack
+- [vexxhost/atmosphere](https://github.com/vexxhost/atmosphere): Simple & easy private cloud platform featuring VMs, Kubernetes & bare-metal
 
 ## Infrastructure less
 

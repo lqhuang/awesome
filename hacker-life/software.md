@@ -124,6 +124,8 @@
   - [cwxiaos/bark-worker](https://github.com/cwxiaos/bark-worker): Bark Server on Cloudflare Worker
 - [sbarex/SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight): Quick Look extension for highlight source code files on macOS 10.15 and later.
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar): Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
+- [allenv0/AirPosture](https://github.com/allenv0/AirPosture): Turn your AirPods into a posture coach on macOS <https://www.reddit.com/r/macapps/comments/1kztuya/airpods_as_a_posture_coach_on_mac/>
+- 🌟 [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI): A SwiftUI based macOS GUI for rsync. <https://rsyncui.netlify.app/docs/>
 
 ### Free / Paid
 
@@ -170,6 +172,7 @@
 - [Titanium Software - Home](https://www.titanium-software.fr/en/index.html): This website contains free operating system utilities for macOS that are developed by Titanium Software: OnyX, Maintenance, Deeper, CalHash, and Access Menu.
   - OnyX is a multifunction utility for macOS that you can use to verify the startup disk and the structure of its system files, perform cleaning and computer maintenance tasks, configure some hidden parameters of many Apple applications, and more.
   - Maintenance is an operating system maintenance and cleaning utility for macOS that you can use to perform miscellaneous computer maintenance tasks: rebuild the databases; delete application, font, and system caches; and more.
+- [Revisual](https://revisualapp.com/): HUD replacement app for your Mac. The HUDs your Mac deserves
 
 ## Windows
 
@@ -183,6 +186,10 @@
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI): UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers <https://www.marticliment.com/unigetui/>
 - [meetrevision/playbook](https://github.com/meetrevision/playbook): A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility <https://www.revi.cc>
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas): 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. <https://atlasos.net>
+- [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search): Official repository for Fluent Search, use to report issues or ask for a new feature <https://fluentsearch.net>
+- 🌟 [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar): Everything integration for the Windows taskbar.
+- [fairhopeweb/JunkCtrl](https://github.com/fairhopeweb/JunkCtrl): JunkCTRL
+- [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer): A tool to "Fix" Windows 11
 
 ## Developer
 
@@ -282,6 +289,7 @@
 - [jugeekuz/HomeShare](https://github.com/jugeekuz/HomeShare): No description, website, or topics provided.
 - [git.deuxfleurs.fr - Deuxfleurs/garage](https://git.deuxfleurs.fr/Deuxfleurs/garage): garage - S3-compatible object store for small self-hosted geo-distributed deployments
 - [logscore/Nimbus](https://github.com/logscore/Nimbus): An open source alternative to Google Drive, One Drive, iCloud, etc. <https://nimbus-cloud-storage.vercel.app>
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT): The next-generation file converter. Open source, fully local\* and free forever. <https://vert.sh>
 
 ### Email
 

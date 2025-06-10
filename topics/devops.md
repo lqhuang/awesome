@@ -16,6 +16,7 @@
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook): Fast and powerful Git hooks manager for any type of projects. <http://lefthook.dev/>
 - [sonatype maven central repository](https://central.sonatype.com/)
   - [Documentation](https://central.sonatype.org/)
+- 🌟 [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog): Find, verify, and analyze leaked credentials <https://trufflesecurity.com>
 
 ### Misc linters / formatters
 
@@ -182,7 +183,6 @@ Libs
 - 🌟 [woodruffw/zizmor](https://github.com/woodruffw/zizmor): A static analysis tool for GitHub Actions <https://woodruffw.github.io/zizmor/>
 - [actions/runner-images](https://github.com/actions/runner-images): GitHub Actions runner images
 - 🌟 [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub <https://desktop.github.com>
-- [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS and Linux VMs on Apple Silicon to use in CI and other automations <https://tart.run>
 - [docker/metadata-action](https://github.com/docker/metadata-action): GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [rhysd/actionlint](https://github.com/rhysd/actionlint): :octocat: Static checker for GitHub Actions workflow files <https://rhysd.github.io/actionlint>
 - [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally 🚀

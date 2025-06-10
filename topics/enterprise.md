@@ -24,6 +24,7 @@
 
 ## Worksuites
 
+- [keygen-sh/keygen-api](https://github.com/keygen-sh/keygen-api): Keygen is a fair source software licensing and distribution API built with Ruby on Rails. For developers, by developers. <https://keygen.sh>
 - [lukevella/rallly](https://github.com/lukevella/rallly): Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier. <https://rallly.co>
 
 ## Dev tools
@@ -256,6 +257,7 @@ Exporters
 - 🌟 [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure. <https://goteleport.com>
 - [kunai-project/kunai](https://github.com/kunai-project/kunai): Threat-hunting tool for Linux <https://why.kunai.rocks>
 - [Black Duck](https://www.blackduck.com/): Build high-quality, secure software with application security testing tools and services from Black Duck. We are a Gartner Magic Quadrant Leader in AppSec.
+- [greenbone/docs](https://github.com/greenbone/docs): Documentation for the Greenbone Community Edition <https://greenbone.github.io/docs/>
 
 ## Career
 

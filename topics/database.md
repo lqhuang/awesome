@@ -230,6 +230,16 @@ Misc
 ### DuckDB
 
 - [mehd-io/duckdb-extension-radar](https://github.com/mehd-io/duckdb-extension-radar): This repo contains information about DuckDB extensions found on GitHub. Refreshed daily
+- [Core Extensions – DuckDB](https://duckdb.org/docs/stable/core_extensions/overview): List of Core Extensions
+  - `autocomplete`
+  - `encodings`
+  - `icu`
+- [Community Extensions – DuckDB Community](https://duckdb.org/community_extensions/list_of_extensions): This page lists DuckDB's Community Extensions.
+  - `arrow`
+  - `nanoarrow`
+  - `datasketches`
+  - `faiss`
+- [cwida/duckpgq-extension](https://github.com/cwida/duckpgq-extension): DuckDB extension that adds support for SQL/PGQ and graph algorithms <https://duckpgq.org>
 
 ## DBA
 

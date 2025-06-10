@@ -140,6 +140,7 @@
 - [serversideup/docker-certbot-dns-cloudflare](https://github.com/serversideup/docker-certbot-dns-cloudflare): A simple wrapper around certbot/dns-cloudflare to add a renewal interval. <https://hub.docker.com/r/serversideup/certbot-dns-cloudflare>
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare): DockFlare: Cloudflare Tunnel & Zero Trust manager for Docker/non-docker services
 - 🌟 [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker): Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection. <https://speedtest-tracker.dev/>
+- [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring): Cluster monitoring stack for clusters based on Prometheus Operator
 
 ### Start page
 
@@ -206,6 +207,7 @@
 - 🌟 [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons): Showcase your skills on your Github readme or resumé with ease ✨ <https://skillicons.dev>
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 <https://postiz.com>
 - [Nutlope/self.so](https://github.com/Nutlope/self.so): LinkedIn -> personal site generator <https://www.self.so/>
+- [时间去哪儿了：柳比歇夫时间记录法实践手册](https://shijian.tujunjie.com/): 柳比歇夫时间记录法实践手册，aTimeLogger 从入门到精通
 
 ## ESL
 
@@ -232,19 +234,23 @@
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server): An evolving how-to guide for securing a Linux server.
 - [Email Self-Defense](https://emailselfdefense.fsf.org)
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. <https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>
-- [rfc-st/humble](https://github.com/rfc-st/humble): A humble, and fast!, security-oriented HTTP headers analyzer. <https://github.com/rfc-st/humble>
+- 🌟 [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker): A tool for checking the security hardening options of the Linux kernel
+
+### Tools
+
 - [elceef/dnstwist](https://github.com/elceef/dnstwist): Domain name permutation engine for detecting homograph phishing attacks, typo squatting, and brand impersonation <https://dnstwist.it>
 - [infinition/Bjorn](https://github.com/infinition/Bjorn): Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.
 - [Test Ad Block - Toolz](https://d3ward.github.io/toolz/adblock.html)
+- [rfc-st/humble](https://github.com/rfc-st/humble): A humble, and fast!, security-oriented HTTP headers analyzer. <https://github.com/rfc-st/humble>
 - 🌟 [soxoj/maigret](https://github.com/soxoj/maigret): 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites <https://t.me/osint_maigret_bot>
   - crazy ...
 - [popcar2/BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist): A filter that blocks spam & misleading websites from appearing in search results via uBlocklist
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
   - Deprecate finally ...
   - It also block `openai.com` ...
-- 🌟 [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac): Automatically audit your Mac for basic security hygiene. <https://paretosecurity.com>
-- 🌟 [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker): A tool for checking the security hardening options of the Linux kernel
 - [000pp/Pinkerton](https://github.com/000pp/Pinkerton): 🕵️ Python project to crawl for JavaScript files and search for secrets like API keys, authorization tokens, hardcoded password or related. <https://pinkerton.com>
+- 🌟 [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac): Automatically audit your Mac for basic security hygiene. <https://paretosecurity.com>
+- [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault): A self-hostable, end-to-end encrypted password manager with a built-in alias generator and email server. <https://aliasvault.net>
 
 ### Browser Fingerprint
 
@@ -252,6 +258,7 @@
   - Is there any more mature project?
 - [mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser): Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad <https://mullvad.net/browser>
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension): Browser extension to spoof timezone, geolocation, locale and user agent. <https://vytal.io>
+- [zhom/donutbrowser](https://github.com/zhom/donutbrowser): Simple Yet Powerful Browser Orchestrator 🍩 <https://donutbrowser.com>
 
 ## Open Source Software: State, Progress and Future
 
@@ -260,3 +267,4 @@
 - 🌟 [nayafia/lemonade-stand](https://github.com/nayafia/lemonade-stand): A handy guide to financial support for open source
   - [wizicer/FinancialSupportForOpenSource](https://github.com/wizicer/FinancialSupportForOpenSource): 开源项目挣钱实用手册
 - [ossf/alpha-omega](https://github.com/ossf/alpha-omega): Our mission is to catalyze sustainable improvements to critical open source software projects and ecosystems. <https://alpha-omega.dev>
+- [Open Source Pledge](https://opensourcepledge.com/): Open Source software powers the world, but who supports the maintainers? We do.

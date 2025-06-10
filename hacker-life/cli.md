@@ -83,7 +83,7 @@
 - [davidesantangelo/krep](https://github.com/davidesantangelo/krep): Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale. <https://davidesantangelo.github.io/krep/>
 - [tbillington/kondo](https://github.com/tbillington/kondo): Cleans dependencies and build artifacts from your projects.
 - [AlDanial/cloc](https://github.com/AlDanial/cloc): cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
-  - `cloc --vcs=git --not-match-f=pnpm-lock.yaml `
+  - `cloc --vcs=git --not-match-f=pnpm-lock.yaml`
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
   - `tokei -e pnpm-lock.yaml`
 - [antonmedv/fx](https://github.com/antonmedv/fx): Terminal JSON viewer & processor <https://fx.wtf>

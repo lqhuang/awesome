@@ -62,6 +62,12 @@ Streaming Systems
 - 🌟 [apache/iggy](https://github.com/apache/iggy): Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed <https://iggy.apache.org>
 - [SkipLabs/skip](https://github.com/SkipLabs/skip): Skip is a framework for building reactive services <https://skiplabs.io>
 - [warpstreamlabs/bento](https://github.com/warpstreamlabs/bento): Fancy stream processing made operationally mundane. This repository is a fork of the original project before the license was changed. <https://warpstreamlabs.github.io/bento/>
+- Apache datasketches: A software library of stochastic streaming algorithms
+  - DataSketches is an open source, high-performance library of stochastic streaming algorithms commonly called "sketches" in the data sciences. Sketches are small, stateful programs that process massive data as a stream and can provide approximate answers, with mathematical guarantees, to computationally difficult queries orders-of-magnitude faster than traditional, exact methods.
+  - [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp): Core C++ Sketch Library <https://datasketches.apache.org>
+  - [apache/datasketches-python](https://github.com/apache/datasketches-python): Apache datasketches <https://datasketches.apache.org>
+  - [apache/datasketches-postgresql](https://github.com/apache/datasketches-postgresql): PostgreSQL extension providing approximate algorithms based on apache/datasketches-cpp <https://datasketches.apache.org>
+  - [apache/datasketches-spark](https://github.com/apache/datasketches-spark): Apache datasketches <https://datasketches.apache.org>
 
 ### Streaming Database
 
