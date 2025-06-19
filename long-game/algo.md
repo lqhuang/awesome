@@ -25,6 +25,7 @@
 - [Jason2Brownlee/MachineLearningMischief](https://github.com/Jason2Brownlee/MachineLearningMischief): Machine Learning Mischief: Examples from the dark side of data science
 - [google-deepmind/educational](https://github.com/google-deepmind/educational): This repository contains a collection of educational tutorials that we have prepared for teaching the basics of machine learning to various audiences.
 - [julrog/nn_vis](https://github.com/julrog/nn_vis): A project for processing neural networks and rendering to gain insights on the architecture and parameters of a model through a decluttered representation.
+- [gavinkhung/machine-learning-visualized](https://github.com/gavinkhung/machine-learning-visualized): ML algorithms implemented and derived from first-principles in Jupyter Notebooks and NumPy <https://ml-visualized.com/>
 
 ## Readings
 
@@ -66,6 +67,7 @@
 - [anyscale/rl-course](https://github.com/anyscale/rl-course)
 - [RLHFlow/Minimal-RL](https://github.com/RLHFlow/Minimal-RL)
 - [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms): Implementation of all RL algorithms in a simpler way
+- [Reinforcement Learning Guide | Unsloth Documentation](https://docs.unsloth.ai/basics/reinforcement-learning-guide)
 
 ## Flow models
 

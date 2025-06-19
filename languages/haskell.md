@@ -184,3 +184,5 @@
 - [well-typed/hs-bindgen](https://github.com/well-typed/hs-bindgen): Automatically generate Haskell bindings from C header files
 - [diku-dk/futhark](https://github.com/diku-dk/futhark): 💥💻💥 A data-parallel functional programming language <http://futhark-lang.org>
 - [biegunka/terminal-size](https://github.com/biegunka/terminal-size): Get terminal window width and height <http://biegunka.github.io/terminal-size>
+- [UnkindPartition/tasty](https://github.com/UnkindPartition/tasty): Modern and extensible testing framework for Haskell
+  - [MichaelXavier/tasty-tap](https://github.com/MichaelXavier/tasty-tap): TAP (Test Anything Protocol) formatter for tasty

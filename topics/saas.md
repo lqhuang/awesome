@@ -29,3 +29,4 @@
 - [Shapecatcher: Draw the Unicode character you want!](https://shapecatcher.com/): You need to find a specific Unicode character? With Shapecatcher.com you can search through a database of characters by simply drawing your character into a box. It can find the most similar character shapes for your drawing.
 - 🌟 [WebP Cloud Services](https://public.webp.se/): WebP Unleashed!
 - 🌟 [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. 💬 💎 <https://giscus.app>
+- [Background remover - dverso studio](https://tools.dverso.io/bgremove/): Remove your background using sentakki-chan laundry services - Remove the background from any image without connecting to any services, locally on your browser with the help of sentakki chan

@@ -34,6 +34,9 @@ And modern is here now.
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 - 🌟 [不可避免的内存安全（Memory Safety）之路](https://hardenedlinux.github.io/system-security/2025/05/07/path-to-memory-safety-inevitable.html)
   - in Chinese
+- [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter): 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more. <https://thelartians.github.io/ModernCppStarter>
+  - [It’s Time To Do CMake Right | pablo arias](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/)
+- [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template): A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 
 ### References
 
@@ -88,6 +91,10 @@ And modern is here now.
 - 🌟 [build-cpp/cmkr](https://github.com/build-cpp/cmkr): Modern build system based on CMake and TOML. <https://cmkr.build>
 - [distcc/distcc](https://github.com/distcc/distcc): distributed builds for C, C++ and Objective C
 - [renatoGarcia/icecream-cpp](https://github.com/renatoGarcia/icecream-cpp): 🍦 Never use cout/printf to debug again
+- [SanderMertens/bake](https://github.com/SanderMertens/bake): Bake, A build system for building, testing and running C & C++ projects
+- 🌟 [cmake-presets(7) — CMake Documentation](https://cmake.org/cmake/help/latest/manual/cmake-presets.7.html)
+  - [martin-fieber.de | A TL;DR about CMake Presets](https://martin-fieber.de/blog/cmake-presets/): Utilizing CMake's presets was the missing piece to truly make it easy to set up and maintain projects, now that I have developed a few opinions of how I want them to be set up.
+- [CPack — CMake Documentation](https://cmake.org/cmake/help/latest/module/CPack.html)
 
 ### Analyzer
 
@@ -105,6 +112,7 @@ And modern is here now.
   - [The C Bounded Model Checker: Criminally Underused | Hey There Buddo!](https://www.philipzucker.com/cbmc_tut/)
 - [csmith-project/creduce](https://github.com/csmith-project/creduce): C-Reduce, a C and C++ program reducer
 - [HBehrens/puncover](https://github.com/HBehrens/puncover): Analyses C/C++ build output for code size, static variables, and stack usage
+- 🌟 [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use): A tool for use with clang to analyze #includes in C and C++ source files <https://include-what-you-use.org>
 
 ### CI
 

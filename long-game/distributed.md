@@ -26,6 +26,7 @@
 - [A Distributed Systems Reading List](https://dancres.github.io/Pages/)
 - [Hints for Distributed Systems Design](http://muratbuffalo.blogspot.com/2023/10/hints-for-distributed-systems-design.html)
 - [Distributed consensus](https://shachaf.net/w/consensus): This page is a relatively informal discussion of distributed consensus and Paxos, what it does, how it works, and some tricks and variants.
+- [Distributed systems theory for the distributed systems engineer | Paper Trail](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
 
 ### Books
 

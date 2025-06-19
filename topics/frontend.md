@@ -480,6 +480,8 @@ Concrete animations
 - [maxeth/react-type-animation](https://github.com/maxeth/react-type-animation): A React typewriter animation based on typical with extended functionality and customization. <https://react-type-animation.netlify.app/>
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts): 🔥100+ Free beautifull interactive react/nextjs component based on tailwindcss, framer-motion, gsap etc <https://www.ui-layouts.com>
 - [ui-layouts/cursify](https://github.com/ui-layouts/cursify): Cursor Animation Library for React & Next.js <https://cursify.vercel.app>
+- 🌟 [jonathanleane/partycles](https://github.com/jonathanleane/partycles): A lightweight, performant React library for adding delightful animation effects to your applications. Perfect for celebrating user achievements, form submissions, or any moment worth highlighting.
+- 🌟 [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react): Apple's Liquid Glass effect for React
 
 ## Functional libraries
 
@@ -518,6 +520,8 @@ Concrete animations
 - [hypershiphq/react-cookie-manager](https://github.com/hypershiphq/react-cookie-manager): A powerful, customizable React component for cookie consent management with built-in tracking prevention. This component provides a modern, user-friendly way to obtain and manage cookie consent from your website visitors.
 - [svg/svgo](https://github.com/svg/svgo): ⚙️ Node.js tool for optimizing SVG files <https://svgo.dev/>
 - 🌟 [SukkaW/fast-escape-html](https://github.com/SukkaW/fast-escape-html): Fastest, plain JavaScript-based, HTML escaping library for JavaScript, works in both Node.js and browser. Even faster than a Rust-based one in real world HTMLs!
+- 🌟 [Assortment/darkmodejs](https://github.com/Assortment/darkmodejs): Utility package for managing Dark Mode on the web <https://darkmodejs-demo.netlify.com/>
+  - small and clean, you can even just in-tree it
 
 ### Misc
 
@@ -532,6 +536,7 @@ Concrete animations
 - [theajack/disable-devtool](https://github.com/theajack/disable-devtool): Disable web developer tools from the f12 button, right-click and browser menu <https://theajack.github.io/disable-devtool/>
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis): Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers <https://anubis.techaro.lol/>
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap): Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work <http://capjs.js.org/>
+- [grpc/grpc-web](https://github.com/grpc/grpc-web): gRPC for Web Clients <https://grpc.io>
 
 ## W3C
 
@@ -615,6 +620,7 @@ Concrete animations
 - [Scthe/nanite-webgpu](https://github.com/Scthe/nanite-webgpu): UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis. <https://scthe.github.io/nanite-webgpu/>
 - [software-mansion/TypeGPU](https://github.com/software-mansion/TypeGPU): TypeGPU is a TypeScript library that enhances the WebGPU API, allowing resource management in a type-safe, declarative way. <http://typegpu.com>
 - [oframe/ogl](https://github.com/oframe/ogl): Minimal WebGL Library <https://oframe.github.io/ogl/examples>
+  - lightweight three.js alternative
 - [Kitware/vtk-js](https://github.com/Kitware/vtk-js): Visualization Toolkit for the Web <https://kitware.github.io/vtk-js/>
 
 ### PWA

@@ -277,6 +277,12 @@ Misc
 - [rustedpy/result](https://github.com/rustedpy/result): A simple Rust like Result type for Python 3. Fully type annotated.
 - [rustedpy/maybe](https://github.com/rustedpy/maybe): A simple Rust like Option type for Python 3. Fully type annotated.
 
+### Free threading
+
+- [Python Free-Threading Guide](https://py-free-threading.github.io/): The free-threading guide is a centralized collection of documentation and trackers around compatibility with free-threaded CPython for the Python open source ecosystem
+- [dpdani/cereggii](https://github.com/dpdani/cereggii): Thread synchronization utilities for Python <https://dpdani.github.io/cereggii/>
+- [facebookincubator/ft_utils](https://github.com/facebookincubator/ft_utils): A library of utilities to support efficient, scalable Python development leveraging Free Threaded Python.
+
 ### FP style libraries
 
 - [sfermigier/awesome-functional-python](https://github.com/sfermigier/awesome-functional-python): A curated list of awesome things related to functional programming in Python.
@@ -327,6 +333,7 @@ Misc
 
 ### Pandas Ecosystem / DataFrame orient
 
+- [pandas Ecosystem](https://pandas.pydata.org/community/ecosystem.html)
 - [vaexio/vaex](https://github.com/vaexio/vaex): Out-of-Core hybrid Apache Arrow/NumPy DataFrame for Python, ML, visualization and exploration of big tabular data at a billion rows per second 🚀 <https://vaex.io>
 - [ibis-project/ibis](https://github.com/ibis-project/ibis): Expressive analytics in Python at any scale. <http://ibis-project.org>
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft): Python DataFrame for Complex Data
@@ -686,12 +693,6 @@ Misc
 
 ## Misc
 
-- [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf): A Python library for reading and writing PDF, powered by qpdf
-- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint): The awesome document factory <https://weasyprint.org>
-- [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax): A Python library to inspect and modify the internal structure of a PDF file <https://pdfsyntax.dev>
-- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched <http://ocrmypdf.readthedocs.io/>
-- [py-pdf/pypdf](https://github.com/py-pdf/pypdf): A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files <https://pypdf.readthedocs.io/en/latest/>
-
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py): Type-safe and powerful Python library to generate SVG files
 - [Kozea/CairoSVG](https://github.com/Kozea/CairoSVG): Convert your vector images <https://courtbouillon.org/cairosvg>
 - [openstack/stevedore](https://github.com/openstack/stevedore): Manage dynamic plugins for Python applications. Mirror of code maintained at opendev.org. <https://opendev.org/openstack/stevedore>
@@ -711,6 +712,14 @@ Misc
 - [heuer/segno](https://github.com/heuer/segno): Python QR Code and Micro QR Code encoder <https://pypi.org/project/segno/>
 - 🌟 [google/magika](https://github.com/google/magika): Detect file content types with deep learning <https://google.github.io/magika/>
 - [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor): A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts. <http://pyarmor.dashingsoft.com>
+
+pdf
+
+- [pikepdf/pikepdf](https://github.com/pikepdf/pikepdf): A Python library for reading and writing PDF, powered by qpdf
+- [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint): The awesome document factory <https://weasyprint.org>
+- [desgeeko/pdfsyntax](https://github.com/desgeeko/pdfsyntax): A Python library to inspect and modify the internal structure of a PDF file <https://pdfsyntax.dev>
+- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF): OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched <http://ocrmypdf.readthedocs.io/>
+- [py-pdf/pypdf](https://github.com/py-pdf/pypdf): A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files <https://pypdf.readthedocs.io/en/latest/>
 
 ## Pyodide
 

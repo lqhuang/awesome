@@ -12,7 +12,6 @@
 - 🌟 [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! <https://metrics.lecoq.io>
 - [zealdocs/zeal](https://github.com/zealdocs/zeal): Offline documentation browser inspired by Dash <https://zealdocs.org>
 - 🌟 [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your project. 🌐 Share with the world! <http://socialify.git.ci>
-- 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC <https://manfred.life/quicssh>
 - [Finb/Bark](https://github.com/Finb/Bark): Bark is an iOS App which allows you to push custom notifications to your iPhone <https://bark.day.app>
 - [axodotdev/oranda](https://github.com/axodotdev/oranda): 🎁 generate beautiful landing pages for your developer tools <https://opensource.axo.dev/oranda/>
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors): GNU/Linux 一键更换系统软件源脚本 <https://linuxmirrors.cn>
@@ -42,7 +41,7 @@
 - [10 levels of Git aliases: Advanced and beyond](https://www.eficode.com/blog/10-levels-of-git-aliases-advanced-and-beyond)
 - 🌟 [alexkaratarakis/gitattributes](https://github.com/alexkaratarakis/gitattributes): A collection of useful .gitattributes templates
 - 🌟 [hickford/git-credential-oauth](https://github.com/hickford/git-credential-oauth): A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth. <https://pkg.go.dev/github.com/hickford/git-credential-oauth>
-- [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly rewrite git repository history (filter-branch replacement)
+- 🌟 [newren/git-filter-repo](https://github.com/newren/git-filter-repo): Quickly rewrite git repository history (filter-branch replacement)
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner): Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala <https://rtyley.github.io/bfg-repo-cleaner/>
 - [tj/git-extras](https://github.com/tj/git-extras): GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [github/git-sizer](https://github.com/github/git-sizer): Compute various size metrics for a Git repository, flagging those that might cause problems
@@ -51,6 +50,7 @@
 - [zegl/extremely-linear](https://github.com/zegl/extremely-linear): Extremely Linear Git History // git-linearize <https://westling.dev/b/extremely-linear-git>
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless): High-velocity, monorepo-scale workflow for Git
 - [jackiotyu/git-worktree-manager](https://github.com/jackiotyu/git-worktree-manager): Quickly manage and switch Git Worktrees in VSCode <https://marketplace.visualstudio.com/items?itemName=jackiotyu.git-worktree-manager>
+- [josh-project/josh](https://github.com/josh-project/josh): Just One Single History <https://josh-project.github.io/josh/>
 
 ### Code as Graph
 
@@ -98,17 +98,17 @@
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. <https://sandstorm.io>
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. <https://umbrel.com>
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates): 🚢 400+ 1-click Portainer app templates <https://portainer-templates.as93.net>
-- [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny): Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
-- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr): fork of overseerr for jellyfin support
+- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. <https://netboot.xyz>
+
+### Cases / Setup
+
 - [khuedoan/homelab](https://github.com/khuedoan/homelab): Modern self-hosting infrastructure, fully automated from empty disk to operating services with a single command. <https://homelab.khuedoan.com>
 - [MetinSeylan/homelab](https://github.com/MetinSeylan/homelab): bare-metal homelab k8s automation <https://metin.sh>
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. <https://netboot.xyz>
 - [Alexware Systems](https://alexwaresystems.pages.alexware.systems/homepage/)
   - not a project, but an example
   - hackers' dream LOL
+- [r-morato/RM-Homelab](https://github.com/r-morato/RM-Homelab): Journal of my path building and maintaining my homelab
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder): 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
-- [gnmyt/myspeed](https://github.com/gnmyt/myspeed): A speed test analysis software that shows your internet speed for up to 30 days <https://myspeed.dev>
-- [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live): For more information, please see http://smartos.org/ For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
 
 ### Admin
 
@@ -117,7 +117,6 @@
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy): A general purpose HTTP reverse proxy and forwarding tool. Now written in Go! <https://zoraxy.aroz.org>
 - [Notifiarr](https://notifiarr.com/): Notification aggregation, system monitoring & more
   - [Notifiarr Documentation](https://notifiarr.wiki/): You just found one of the coolest tools on the Internet for a homelab enthusiast. We do notifications. We do them right.
-- [sshguard/sshguard](https://bitbucket.org/sshguard/sshguard/): SSHGuard protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends. <https://www.sshguard.net>
 - [Sanjeet990/Astroluma](https://github.com/Sanjeet990/Astroluma): Astroluma is a feature-rich, user-friendly dashboard designed to help you manage multiple aspects of your daily tasks and services. <https://getastroluma.com/>
 - [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin): A curated list of amazingly awesome open-source sysadmin resources.
 - [hestiacp/hestiacp](https://github.com/hestiacp/hestiacp): Hestia Control Panel | A lightweight and powerful control panel for the modern web. <https://hestiacp.com>
@@ -131,16 +130,31 @@
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
   - [YABS [yet another benchmark]](https://blog.aawadia.dev/2023/08/26/yabs-august-2023/): IntroductionI love how many amazing VPS services are available. I can easily take any project of mine online by deploying a container to a VPS from any of these providers.
 - 🌟 [seriousm4x/UpSnap](https://github.com/seriousm4x/UpSnap): A simple wake on lan web app written with SvelteKit, Go and PocketBase.
-- [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter): Export smartctl statistics to prometheus
 - [FreeIPMI - Home](https://www.gnu.org/software/freeipmi/index.html)
   - [prometheus-community/ipmi_exporter](https://github.com/prometheus-community/ipmi_exporter): Remote IPMI exporter for Prometheus
+- [serversideup/docker-certbot-dns-cloudflare](https://github.com/serversideup/docker-certbot-dns-cloudflare): A simple wrapper around certbot/dns-cloudflare to add a renewal interval. <https://hub.docker.com/r/serversideup/certbot-dns-cloudflare>
+- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare): DockFlare: Cloudflare Tunnel & Zero Trust manager for Docker/non-docker services
+- [need4swede/Portall](https://github.com/need4swede/Portall): Port Management Interface
+- [crocofied/CoreControl](https://github.com/crocofied/CoreControl): Dashboard to manage your entire server infrastructure <https://corecontrol.xyz>
+- [netbox-community/netbox](https://github.com/netbox-community/netbox): The premiere source of truth powering network automation. Open source under Apache 2. <https://netbox.dev>
+
+### Monitoring
+
+- [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter): Export smartctl statistics to prometheus
 - [prometheus/snmp_exporter](https://github.com/prometheus/snmp_exporter): SNMP Exporter for Prometheus
 - [google/dnsmasq_exporter](https://github.com/google/dnsmasq_exporter): dnsmasq exporter for Prometheus
 - [hatamiarash7/ipset-exporter](https://github.com/hatamiarash7/ipset-exporter): Export ipset data as Prometheus metric
-- [serversideup/docker-certbot-dns-cloudflare](https://github.com/serversideup/docker-certbot-dns-cloudflare): A simple wrapper around certbot/dns-cloudflare to add a renewal interval. <https://hub.docker.com/r/serversideup/certbot-dns-cloudflare>
-- [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare): DockFlare: Cloudflare Tunnel & Zero Trust manager for Docker/non-docker services
 - 🌟 [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker): Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection. <https://speedtest-tracker.dev/>
 - [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring): Cluster monitoring stack for clusters based on Prometheus Operator
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse): A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
+- [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny): Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
+- [gnmyt/myspeed](https://github.com/gnmyt/myspeed): A speed test analysis software that shows your internet speed for up to 30 days <https://myspeed.dev>
+- [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live): For more information, please see http://smartos.org/ For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
+
+### Docker tools
+
+- [hollowpnt92/docker-port-viewer](https://github.com/hollowpnt92/docker-port-viewer): No description, website, or topics provided.
+- [crocofied/PortNote](https://github.com/crocofied/PortNote): Keep track of used ports
 
 ### Start page
 

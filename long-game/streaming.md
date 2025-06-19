@@ -16,6 +16,10 @@ Streaming Systems
 - [risingwavelabs/awesome-stream-processing](https://github.com/risingwavelabs/awesome-stream-processing): A collection of demonstrations showcasing how stream processing can be used to solve real-world problems. <https://risingwave.com/slack>
 - [manuzhang/awesome-streaming](https://github.com/manuzhang/awesome-streaming): a curated list of awesome streaming frameworks, applications, etc <https://manuzhang.github.io/awesome-streaming>
 - [AKalculator](https://2minutestreaming.com/tools/apache-kafka-calculator/): The Apache Kafka® Cost Calculator
+- [Event Pipelines (Part 1): Backpressure and Buffering | by Tim Cuthbertson | Zendesk Engineering](https://zendesk.engineering/event-pipelines-part-1-backpressure-and-buffering-1bba0ed3451e)
+  - cute animations for backpressure LoL
+- [Event Pipelines (Part 2): Observing and Optimising | by Tim Cuthbertson | Zendesk Engineering](https://zendesk.engineering/event-processing-pipelines-observing-and-optimising-part-2-8cf044ae754b)
+  - I guess streaming algorithms like sketches or reservoir sampling may help a lot here?
 
 ## Streamify
 

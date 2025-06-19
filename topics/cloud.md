@@ -138,6 +138,8 @@
 
 ### Routing / Gateway
 
+- [cristaloleg/awesome-load-balancing](https://github.com/cristaloleg/awesome-load-balancing): A curated list of awesome load balancers and proxies. Software, libraries, posts, talks.
+- [gRPC Load Balancing | gRPC](https://grpc.io/blog/grpc-load-balancing): This post describes various load balancing scenarios seen when deploying gRPC. If you use gRPC with multiple backends, this document is for you.
 - [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 - [metallb/metallb](https://github.com/metallb/metallb): A network load-balancer implementation for Kubernetes using standard routing protocols <https://metallb.universe.tf>
 - Nginx
@@ -156,6 +158,7 @@
 - [google/seesaw](https://github.com/google/seesaw): Seesaw v2 is a Linux Virtual Server (LVS) based load balancing platform.
 - 🌟 [modal-labs/vprox](https://github.com/modal-labs/vprox): High-availability network proxy / VPN server, powered by WireGuard
 - 🌟 [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway): The Cloud-Native API Gateway and AI Gateway <https://kgateway.dev>
+- [github/glb-director](https://github.com/github/glb-director): GitHub Load Balancer Director and supporting tooling.
 
 ## Lightweight Tech Stack
 
@@ -269,6 +272,7 @@
 - [kubescape/kubescape](https://github.com/kubescape/kubescape): Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. <https://kubescape.io>
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris): Validation of best practices in your Kubernetes clusters <https://www.fairwinds.com/polaris>
 - [openreports/reports-api](https://github.com/openreports/reports-api): OpenReports API (Kubernetes CRD) <https://openreports.io/>
+- [anchore/syft](https://github.com/anchore/syft): CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 
 ## Hashicorp
 

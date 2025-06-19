@@ -35,9 +35,12 @@
 - [srush/Triton-Puzzles](https://github.com/srush/Triton-Puzzles): Puzzles for learning Triton
 - [rdyro/Pallas-Puzzles](https://github.com/rdyro/Pallas-Puzzles): This is a direct fork of the Triton Puzzles, but adapted for the Pallas language for using a Triton-like kernel language (Pallas) in JAX.
 - [rkinas/triton-resources](https://github.com/rkinas/triton-resources): A curated list of resources for learning and exploring Triton, OpenAI's programming language for writing efficient GPU code.
+- [Jokeren/triton-samples](https://github.com/Jokeren/triton-samples)
+- [Deep-Learning-Profiling-Tools/triton-viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz): Triton-Viz: A Visualization Toolkit for programming with Triton
 
 ### GPU / CUDA
 
+- [Jokeren/Awesome-GPU](https://github.com/Jokeren/Awesome-GPU): Awesome resources for GPUs
 - [cuda-mode/resource-stream](https://github.com/cuda-mode/resource-stream): CUDA related news and material links
 - [MekkCyber/CutlassAcademy](https://github.com/MekkCyber/CutlassAcademy): A curated collection of resources, tutorials, and best practices for learning and mastering NVIDIA CUTLASS
 - [LeetGPU](https://leetgpu.com/challenges): LeetGPU - Online CUDA Playground
@@ -53,6 +56,7 @@
   - in Chinese
 - [gpu-mode/resource-stream](https://github.com/gpu-mode/resource-stream): GPU programming related news and material links <https://discord.gg/gpumode>
 - [ENCCS/gpu-programming](https://github.com/ENCCS/gpu-programming): Meta-GPU lesson covering general aspects of GPU programming as well as specific frameworks <https://enccs.github.io/gpu-programming/>
+- [leimao/CUTLASS-Examples](https://github.com/leimao/CUTLASS-Examples): CUTLASS and CuTe Examples
 
 ### TPU
 
@@ -231,6 +235,12 @@ General problems
 - [ppl-ai/pplx-kernels](https://github.com/ppl-ai/pplx-kernels): Perplexity GPU Kernels
 - [ByteDance-Seed/Triton-distributed](https://github.com/ByteDance-Seed/Triton-distributed): Distributed Triton for Parallel Systems
 - [pytorch-labs/tritonbench](https://github.com/pytorch-labs/tritonbench): Tritonbench is a collection of PyTorch custom operators with example inputs to measure their performance.
+- [NVIDIA/cuEquivariance](https://github.com/NVIDIA/cuEquivariance): cuEquivariance is a math library that is a collective of low-level primitives and tensor ops to accelerate widely-used models, like DiffDock, MACE, Allegro and NEQUIP, based on equivariant neural networks.
+- [huggingface/kernels](https://github.com/huggingface/kernels): Load compute kernels from the Hub
+  - I should say Hugging Face is extremely smart to build things like this (unified interfaces and make a hub).
+  - The only problem is PyTorch is the only one supported currently (June5 2025).
+- [huggingface/kernel-builder](https://github.com/huggingface/kernel-builder): 👷 Build compute kernels
+  - [Writing Hub kernels with kernel-builder](https://github.com/huggingface/kernel-builder/blob/main/docs/writing-kernels.md)
 
 ### MLIR
 
@@ -499,7 +509,7 @@ PGM / Probabilistic programming
 - [google/tensorstore](https://github.com/google/tensorstore): Library for reading and writing large multi-dimensional arrays. <https://google.github.io/tensorstore/>
 - [mlcommons/croissant](https://github.com/mlcommons/croissant): Croissant is a high-level format for machine learning datasets that brings together four rich layers. <https://mlcommons.org/croissant>
 - [facebookresearch/spdl](https://github.com/facebookresearch/spdl): Scalable and Performant Data Loading
-- [google/grain](https://github.com/google/grain): Library for reading and processing ML training data. <https://google-grain.readthedocs.io>
+- 🌟 [google/grain](https://github.com/google/grain): Library for reading and processing ML training data. <https://google-grain.readthedocs.io>
 - [coreweave/tensorizer](https://github.com/coreweave/tensorizer): Module, Model, and Tensor Serialization/Deserialization
 - [facebookresearch/stopes](https://github.com/facebookresearch/stopes): A library for preparing data for machine translation research (monolingual preprocessing, bitext mining, etc.) built by the FAIR NLLB team. <https://facebookresearch.github.io/stopes/>
 - [google/seqio](https://github.com/google/seqio): Task-based datasets, preprocessing, and evaluation for sequence models.

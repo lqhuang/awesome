@@ -38,6 +38,7 @@
 - [google/quiche](https://github.com/google/quiche): QUICHE stands for QUIC, Http, Etc. It is Google's production-ready implementation of QUIC, HTTP/2, HTTP/3, and related protocols and tools. It powers Google's servers, Chromium, Envoy, and other projects. It is actively developed and maintained.
 - [litespeedtech/lsquic](https://github.com/litespeedtech/lsquic): LiteSpeed QUIC and HTTP/3 Library
 - [datenlord/open-rdma](https://github.com/datenlord/open-rdma): RoCE v2 hardware and software implementation
+- [Nordix/nfqueue-loadbalancer](https://github.com/Nordix/nfqueue-loadbalancer): A load-balancer based on the NFQUEUE iptables target
 
 ## Tools
 
@@ -71,6 +72,7 @@
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap): View HTTP/HTTPS requests made by any Linux program <https://www.monasticacademy.org>
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py): 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework <https://abhinavsingh.com/proxy-py-a-lightweight-single-file-http-proxy-server-in-python/>
 - [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester): 测试当前网络的 NAT 类型（STUN）
+- 🌟 [cloudflare/ipvs](https://github.com/cloudflare/ipvs): Package ipvs allows you to manage Linux IPVS services and destinations
 
 ### Analysis
 
@@ -90,6 +92,16 @@
 - [zeek/zeek](https://github.com/zeek/zeek): Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. <https://www.zeek.org>
 - [Suricata](https://suricata.io/): Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
 - [mdlayher/corerad](https://github.com/mdlayher/corerad): CoreRAD is an extensible and observable IPv6 Neighbor Discovery Protocol router advertisement daemon. Apache 2.0 Licensed. <https://corerad.net>
+- [Orb](https://orb.net/): Understand your Internet Experience. A new app from the creators of Speedtest & Downdetector.
+  - not oss project
+
+## SDN and network simulation
+
+- [nsnam/ns-3-dev - GitLab](https://gitlab.com/nsnam/ns-3-dev): ns-3 development repository <https://www.nsnam.org/>
+- [GNS3/gns3-server](https://github.com/GNS3/gns3-server): GNS3 server <https://gns3.com/>
+- [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks <https://mininet.org>
+- [containernet/containernet](https://github.com/containernet/containernet): Mininet fork adding support for container-based (e.g. Docker) emulated hosts. <https://containernet.github.io>
+- [srl-labs/containerlab](https://github.com/srl-labs/containerlab): container-based networking labs <https://containerlab.dev>
 
 ### RouterOS Automation?
 
@@ -107,6 +119,7 @@
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy): Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns. <https://addons.mozilla.org/en-US/firefox/addon/smartproxy/>
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor): A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks): tun2socks - powered by gVisor TCP/IP stack <https://github.com/xjasonlyu/tun2socks/wiki>
+- [doxx/darkflare](https://github.com/doxx/darkflare): DarkFlare Firewall Piercing (TCP over CDN)
 
 ## DNS
 
@@ -148,6 +161,7 @@
 - [porech/engarde](https://github.com/porech/engarde): A go network utility to create a reliable IP tunnel over multiple connections
   - [hanleym/rengarde](https://github.com/hanleym/rengarde): A rust network utility to create a reliable IP tunnel over multiple connections
 - [torilabs/ipsec-prometheus-exporter](https://github.com/torilabs/ipsec-prometheus-exporter): Prometheus exporter for strongSwan IPsec
+- [SideStore/StosVPN](https://github.com/SideStore/StosVPN): A VPN that works with SideStore and StikJIT. that supports being offline and much stabler then WireGuard
 
 ### Warp
 
@@ -173,13 +187,18 @@
   - [tonarino/innernet](https://github.com/tonarino/innernet): A private network system that uses WireGuard under the hood. <https://blog.tonari.no/introducing-innernet>
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne): A Smart Ethernet Switch for Earth <https://zerotier.com>
 - [Twingate](https://www.twingate.com/): Twingate makes Zero Trust Network Access easy to deploy, even easier to use, and always secure.
-- [coturn/coturn](https://github.com/coturn/coturn): coturn TURN server project
-- [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun): A list of publicly available STUN servers, refreshed every hour.
 - [mudler/edgevpn](https://github.com/mudler/edgevpn): ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens <https://mudler.github.io/edgevpn>
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier): A simple, decentralized mesh VPN with WireGuard support. <https://easytier.cn>
 - 🌟 [fosrl/pangolin](https://github.com/fosrl/pangolin): Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI <https://docs.fossorial.io>
   - [fosrl/newt](https://github.com/fosrl/newt): A tunneling client for Pangolin <https://docs.fossorial.io>
   - [fosrl/gerbil](https://github.com/fosrl/gerbil): A simple WireGuard interface management server written in Go <https://docs.fossorial.io>
+
+STUN / TURN / ICE
+
+- [pradt2/always-online-stun](https://github.com/pradt2/always-online-stun): A list of publicly available STUN servers, refreshed every hour.
+- [coturn/coturn](https://github.com/coturn/coturn): coturn TURN server project
+- [pion/ice](https://github.com/pion/ice): A Go implementation of ICE <https://pion.ly/>
+  - [pion/awesome-pion](https://github.com/pion/awesome-pion): A curated list of awesome things related to Pion <https://pion.ly/>
 
 #### Wireguard
 
@@ -254,3 +273,4 @@
 - [IPinfo Lite](https://ipinfo.io/lite): Access the most accurate free IP geolocation and ASN data with IPinfo Lite. Use our API or download the full database in a variety of formats.
 - [Ping | Ping.Sx](https://ping.sx/ping): Ping any server from 131 global locations in parallel.
 - [Check My NAT](https://www.checkmynat.com/): Online Service for NAT Type Detecting
+- [dsgnr/portchecker.io](https://github.com/dsgnr/portchecker.io): portchecker.io is a free online utility to check the port status of a given hostname or IP address. <https://portchecker.io>

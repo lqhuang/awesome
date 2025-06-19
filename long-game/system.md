@@ -54,9 +54,21 @@
 ## Memory allocator
 
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a compact general purpose allocator with excellent performance.
+- [microsoft/snmalloc](https://github.com/microsoft/snmalloc): Message passing based allocator
+- [google/tcmalloc](https://github.com/google/tcmalloc): TCMalloc is Google's customized implementation of C's `malloc()` and C++'s `operator new` used for memory allocation within our C and C++ code. TCMalloc is a fast, multi-threaded malloc implementation.
 - [foonathan/memory](https://github.com/foonathan/memory): STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write. <https://memory.foonathan.net>
 - [mjansson/rpmalloc](https://github.com/mjansson/rpmalloc): Public domain cross platform lock free thread caching 16-byte aligned memory allocator implemented in C
-- [microsoft/snmalloc](https://github.com/microsoft/snmalloc): Message passing based allocator
+- [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc):
+  - [jemalloc Postmortem](https://jasone.github.io/2025/06/12/jemalloc-postmortem/): The jemalloc memory allocator was first conceived in early 2004, and hasbeen in public use for about 20 years now. Thanks to the nature of open source software licensing, `jemalloc` will remain publicly available indefinitely. But active upstream development has come to anend.
+  - > So sad 🥹
+  - Highlights:
+    - Facebook's internal telemetry is a wonder to behold, and it is a massive boon to have performance data from myriad services informing memory allocator development. I don’t think it’s an accident that two of the fastest memory allocators of the past decade (tcmalloc and jemalloc) benefit from such data.
+    - The nature of jemalloc development noticeably shifted around the time that Facebook rebranded itself as Meta. Facebook infrastructure engineering reduced investment in core technology, instead emphasizing _return_ on investment.
+    - Corporate cultures shift in compliance with both external and internal pressures.
+    - In above sections I mentioned several phase-specific failures, but there were some generic failures that surprised me despite a career focused on open source development.
+      - As mentioned, removing Valgrind caused some bad sentiment. But the root of the problem is lack of awareness about external uses and needs.
+      - Even though jemalloc development remained completely out in the open (not siloed inside Facebook), the project never grew to retain primary contributors from other organizations.
+      - ... but jemalloc needed more than open development to thrive as an independent project.
 
 ## Linux Tuning
 

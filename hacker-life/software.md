@@ -173,6 +173,7 @@
   - OnyX is a multifunction utility for macOS that you can use to verify the startup disk and the structure of its system files, perform cleaning and computer maintenance tasks, configure some hidden parameters of many Apple applications, and more.
   - Maintenance is an operating system maintenance and cleaning utility for macOS that you can use to perform miscellaneous computer maintenance tasks: rebuild the databases; delete application, font, and system caches; and more.
 - [Revisual](https://revisualapp.com/): HUD replacement app for your Mac. The HUDs your Mac deserves
+- [Timerge – Smart, Effortless Break Reminder for macOS](https://likang.dev/timerge/): Timerge is a smart, effortless break reminder app for macOS that tracks your real-time activity and gently nudges you to take breaks without disrupting your workflow. Stay productive and refreshed!
 
 ## Windows
 
@@ -202,6 +203,9 @@
 - [sr.ht/~sircmpwn/sourcehut](https://sr.ht/~sircmpwn/sourcehut/): This is the main project hub for SourceHut itself. To browse our source code, see the "sources" tab at the nav along the top of the page.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD <https://about.gitea.com>
   - [gitea/awesome-gitea: A curated list of awesome projects related to Gitea and its soft-fork instances - awesome-gitea - Gitea: Git with a cup of tea](https://gitea.com/gitea/awesome-gitea/): awesome-gitea - A curated list of awesome projects related to Gitea and its soft-fork instances
+
+SSH
+
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web <https://tsl0922.github.io/ttyd>
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
 - 🌟 [ekzhang/sshx](https://github.com/ekzhang/sshx): Fast, collaborative live terminal sharing over the web <https://sshx.io>
@@ -210,6 +214,8 @@
 - [raphamorim/rio](https://github.com/raphamorim/rio): A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. <https://raphamorim.io/rio>
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm): The open source server management software for SSH, VNC & RDP <http://docs.nexterm.dev/>
 - [serversideup/docker-ssh](https://github.com/serversideup/docker-ssh): Simple SSH container. Great for secure connections into clusters. <https://hub.docker.com/r/serversideup/docker-ssh>
+- 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC <https://manfred.life/quicssh>
+- [sshguard/sshguard](https://bitbucket.org/sshguard/sshguard/): SSHGuard protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends. <https://www.sshguard.net>
 
 ## CN Related
 
@@ -279,7 +285,8 @@
 - [filegator/filegator](https://github.com/filegator/filegator): Powerful Multi-User File Manager <https://filegator.io>
 - 🌟 [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... <https://www.filestash.app/>
 - [eikek/sharry](https://github.com/eikek/sharry): Sharry is a self-hosted file sharing web application. <https://eikek.github.io/sharry>
-- [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
+- 🌟 [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
+- 🌟 [pavlobu/deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work! <https://deskreen.com>
 - [Storyteller Docs | Storyteller](https://smoores.gitlab.io/storyteller/): A self-hosted platform for automatically aligning ebooks and audiobooks.
 - [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr): A simple, self-hosted service to keep track of your personal library 📚 <https://demo.booklogr.app>
 - [wger-project/wger](https://github.com/wger-project/wger): Self hosted FLOSS fitness/workout, nutrition and weight tracker <https://wger.de>
@@ -290,6 +297,7 @@
 - [git.deuxfleurs.fr - Deuxfleurs/garage](https://git.deuxfleurs.fr/Deuxfleurs/garage): garage - S3-compatible object store for small self-hosted geo-distributed deployments
 - [logscore/Nimbus](https://github.com/logscore/Nimbus): An open source alternative to Google Drive, One Drive, iCloud, etc. <https://nimbus-cloud-storage.vercel.app>
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT): The next-generation file converter. Open source, fully local\* and free forever. <https://vert.sh>
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr): fork of overseerr for jellyfin support
 
 ### Email
 

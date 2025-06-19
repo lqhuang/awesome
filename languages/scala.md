@@ -35,6 +35,9 @@
   - Updated 10-May-2017
 - [A solid checklist for configuring new Scala projects](https://softwaremill.com/new-scala-project-checklist/): Important settings and practices worth considering to enrich your builds or enhance the development process. Some of these points are a good fit for templates.
 - [zainab-ali/aquascape](https://github.com/zainab-ali/aquascape): Alternative fs2 docs <https://zainab-ali.github.io/aquascape/>
+- 🌟 [dcapwell/scala-tour](https://github.com/dcapwell/scala-tour): My notes for scala <http://dcapwell.github.io/scala-tour/>
+  - although it is already 11 years ago, it is still a good read
+  - why not make a Scala 3 version of it?
 
 ### Exercises
 
@@ -129,7 +132,7 @@
 - [disneystreaming/weaver-test](https://github.com/disneystreaming/weaver-test): A test framework that runs everything in parallel. <https://disneystreaming.github.io/weaver-test>
 - [etorreborre/specs2](https://github.com/etorreborre/specs2):Software Specifications for Scala <https://etorreborre.github.io/specs2>
 - [gatling/gatling](https://github.com/gatling/gatling): Modern Load Testing as Code <https://gatling.io>
-- [gatling/gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin): Gatling Plugin for SBT <https://gatling.io>
+  - [gatling/gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin): Gatling Plugin for SBT <https://gatling.io>
 - [spotify/ratatool](https://github.com/spotify/ratatool): A tool for data sampling, data generation, and data diffing
 - [ScalaMock/ScalaMock](https://github.com/ScalaMock/ScalaMock): Native Scala mocking framework <http://scalamock.org/>
 - [sageserpent-open/americium](https://github.com/sageserpent-open/americium): Generation of test case data for Scala and Java, in the spirit of QuickCheck. When your test fails, it gives you a minimised failing test case and a way of reproducing the failure immediately.
@@ -139,6 +142,7 @@
   - [alexarchambault/scalacheck-shapeless](https://github.com/alexarchambault/scalacheck-shapeless): Generation of arbitrary case classes / ADTs instances with scalacheck and shapeless
   - [scalameta/munit-scalacheck](https://github.com/scalameta/munit-scalacheck): Scalacheck integration for munit
 - [eed3si9n/verify](https://github.com/eed3si9n/verify): Scala Verify is a minimal testing framework for Scala. Trust, but verify.
+- [MartinHH/scalacheck-derived](https://github.com/MartinHH/scalacheck-derived): Automatic derivation of scalacheck Arbitrary instances for Scala 3.
 
 ### Linter
 
@@ -151,6 +155,7 @@
 - [lightbend-labs/mima](https://github.com/lightbend-labs/mima): A tool for catching binary incompatibility in Scala
   - [scalacenter/tasty-mima](https://github.com/scalacenter/tasty-mima): TASTy Migration Manager
 - [shardulc/tasty-interpreter](https://github.com/shardulc/tasty-interpreter): Reference interpreter for TASTy, the Scala 3 interchange format
+- [scalacenter/tasty-query](https://github.com/scalacenter/tasty-query): TASTy Query is a compiler-independent library to semantically analyze TASTy - an intermediate representation of Scala 3 code.
 - [epfl-lara/bolts](https://github.com/epfl-lara/bolts): Bolts: Stainless Verified Scala Examples
 - [lightbend-labs/scala-sculpt](https://github.com/lightbend-labs/scala-sculpt): Dependency extraction for Scala codebases, to aid in modularizing
   - This is unfinished, unmaintained software. We are releasing it as open source as a public service with the hopes the code will be useful to someone.
@@ -160,6 +165,7 @@
 - [jrouly/scalafmt-native-action](https://github.com/jrouly/scalafmt-native-action): GitHub action to run scalafmt.
 - [ckipp01/mill-dependency-submission](https://github.com/ckipp01/mill-dependency-submission): A GitHub action to submit your dependency graph from your Mill build to GitHub.
 - [ckipp01/mill-ci-release](https://github.com/ckipp01/mill-ci-release): A Mill plugin to help making publishing to Sonatype from GitHub Actions easier.
+- [Compiling Scala Native in a GitHub Action; Alternatives to GraalVM - Steven Skelton](https://www.stevenskelton.ca/compiling-scala-native-github-actions-alternative-to-graalvm/)
 
 ### Graal VM
 
@@ -170,6 +176,7 @@
 - [jpablo/type-explorer](https://github.com/jpablo/type-explorer): Code exploration via diagrams
 - [VirtusLab/graphbuddy](https://github.com/VirtusLab/graphbuddy): Graph Buddy helps you to understand the code better <https://graphbuddy.virtuslab.com/>
 - [VirtusLab/scala-cli-setup](https://github.com/VirtusLab/scala-cli-setup): ▶️ Scala CLI setup GitHub Action
+- 🌟 [indoorvivants/sn-vcpkg](https://github.com/indoorvivants/sn-vcpkg): SBT/Mill plugins and CLI to install C/C++ dependencies using Vcpkg (https://vcpkg.io/en/index.html), with Scala Native integration
 
 ## Cross platforms
 
@@ -195,7 +202,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [RustFields/scala-native-rust-interoperability-example](https://github.com/RustFields/scala-native-rust-interoperability-example): This example shows how to integrate Rust code in a Scala project thanks to the interoperability of Rust and Scala Native with C. The project is structured in the following way:
 - [indoorvivants/scala-native-binary-template](https://github.com/indoorvivants/scala-native-binary-template): Template to bootstrap Scala Native CLI projects, uploading platform binaries to Github Releases artifacts
 - [rwhaling/native-lambda](https://github.com/rwhaling/native-lambda): AWS Lambda Custom Runtime for Scala Native
-- 🌟 [spamegg1/modern-systems-scala-native](https://github.com/spamegg1/modern-systems-scala-native): Working through "Modern Systems Programming with Scala Native" by Richard Whaling, in Scala 3 <https://pragprog.com/titles/rwscala/modern-systems-programming-with-scala-native/>
+- [spamegg1/modern-systems-scala-native](https://github.com/spamegg1/modern-systems-scala-native): Working through "Modern Systems Programming with Scala Native" by Richard Whaling, in Scala 3 <https://pragprog.com/titles/rwscala/modern-systems-programming-with-scala-native/>
 
 ### Scala.js
 
@@ -212,6 +219,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [hmil/RosHTTP](https://github.com/hmil/RosHTTP): Unified Scala.js + Scala HTTP client API
 - [cornerman/colibri](https://github.com/cornerman/colibri): A simple functional reactive library for ScalaJS
 - [scala-wasm/scala-wasm](https://github.com/scala-wasm/scala-wasm): Friendly fork of Scala.js, target stand-alone Wasm leveraging WASI and Component Model <https://www.scala-js.org/>
+- [armanbilge/calico](https://github.com/armanbilge/calico): Pure, reactive UI library for Scala.js <https://armanbilge.github.io/calico>
 
 ## Featured
 
@@ -314,6 +322,8 @@ Do a benchmark (final size while using Scala Native) for them?
 ### Web
 
 - [jwt-scala/jwt-scala](https://github.com/jwt-scala/jwt-scala): JWT support for Scala. Bonus extensions for Play, Play JSON, Json4s, Circe, uPickle, Spray and Argonaut <https://jwt-scala.github.io/jwt-scala/>
+- [creativescala/krop](https://github.com/creativescala/krop): A simple and functional web service library <http://www.creativescala.org/krop/>
+- [eikek/htmx4s](https://github.com/eikek/htmx4s): Scala (3) library aiming to make working with htmx more convenient.
 
 ### CLI
 
@@ -360,6 +370,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [propensive/contextual](https://github.com/propensive/contextual): Statically-checked string interpolation in Scala <https://propensive.com/contextual/>
 - [andyglow/scala-jsonschema](https://github.com/andyglow/scala-jsonschema): Scala JSON Schema
 - [dataunitylab/jsonoid-discovery](https://github.com/dataunitylab/jsonoid-discovery): Distributed JSON schema discovery <https://dataunitylab.github.io/jsonoid-discovery/>
+- [aherlihy/carac](https://github.com/aherlihy/carac): A Datalog execution engine for Scala
 
 ## Tools
 
@@ -395,7 +406,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [marcinzh/turbolift](https://github.com/marcinzh/turbolift): Algebraic Effects for Scala 3 <https://marcinzh.github.io/turbolift>
 - [rcardin/yaes](https://github.com/rcardin/yaes): An experimental effect system in Scala using capability passing style
 
-## War of eco systems
+## Eco systems
 
 ### Akka / Pekko
 
@@ -428,7 +439,6 @@ Do a benchmark (final size while using Scala Native) for them?
 - [cb372/cats-retry](https://github.com/cb372/cats-retry): A library for retrying actions that can fail. <https://cb372.github.io/cats-retry/>
 - [typelevel/cats-effect-testing](https://github.com/typelevel/cats-effect-testing): Integration between cats-effect and test frameworks
 - [typelevel/munit-cats-effect](https://github.com/typelevel/munit-cats-effect): Integration library for MUnit & cats-effect
-- [armanbilge/calico](https://github.com/armanbilge/calico): Pure, reactive UI library for Scala.js <https://armanbilge.github.io/calico>
 - [evolution-gaming/scache](https://github.com/evolution-gaming/scache): Cache in Scala with cats-effect
 - [mockito/mockito-scala](https://github.com/mockito/mockito-scala): Mockito for Scala language <http://mockito.org>
 - [http4s/http4s-armeria](https://github.com/http4s/http4s-armeria): Armeria backend for http4s
@@ -438,6 +448,8 @@ Do a benchmark (final size while using Scala Native) for them?
 - [ollls/quartz-h2](https://github.com/ollls/quartz-h2): Asynchronous Java NIO http/2 only packet streaming server with TLS encryption implemented as Scala CATS effect. Direct native translation of fs2 stream chunks into http2 packets ( inbound and outbound ).
 - [theiterators/http4s-stir](https://github.com/theiterators/http4s-stir): http4s-stir offers Pekko HTTP-style (Akka HTTP-style) DSL directives for http4s using cats-effect's IO as an effect system
 - [gnieh/fs2-data](https://github.com/gnieh/fs2-data): streaming data parsing and transformation library <https://fs2-data.gnieh.org>
+- [nivox/fs2-backpressure-sensor](https://github.com/nivox/fs2-backpressure-sensor): Backpressure sensor implementation for fs2
+  - [timbertson/backpressure-sensor](https://github.com/timbertson/backpressure-sensor): Measure backpressure in reactive streams pipelines
 
 ### ZIO
 
@@ -469,6 +481,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [audienceproject/crossbow](https://github.com/audienceproject/crossbow): Single node, in-memory DataFrame analytics library.
 - [airbnb/chronon](https://github.com/airbnb/chronon): Chronon is a data platform for serving for AI/ML applications.
 - [airbnb/aerosolve](https://github.com/airbnb/aerosolve): A machine learning package built for humans. <http://airbnb.github.io/aerosolve/>
+- [Kright/ArrayView](https://github.com/Kright/ArrayView): Scala library for efficient multi-dimensional arrays
 
 ### kotlin for Data Intensive System
 

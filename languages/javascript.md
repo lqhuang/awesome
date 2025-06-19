@@ -84,7 +84,7 @@
 - [Chromatic](https://www.chromatic.com/): Ship UIs faster by automating grunt work. Chromatic automates visual & interaction tests for Storybook. Connect CI/CD and Figma workflows to streamline stakeholder sign-off. Generate versioned component docs.
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check): Property based testing framework for JavaScript (like QuickCheck) written in TypeScript <https://fast-check.dev/>
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch): Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack <https://nightwatchjs.org>
-- 🌟 [mswjs/msw](https://github.com/mswjs/msw): Seamless REST/GraphQL API mocking library for browser and Node.js. <https://mswjs.io>
+- 🌟 [mswjs/msw](https://github.com/mswjs/msw): Industry standard API mocking for JavaScript. <https://mswjs.io>
 - [faker-js/faker](https://github.com/faker-js/faker): Generate massive amounts of fake data in the browser and node.js <https://fakerjs.dev>
 - [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
 - 🌟 [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
@@ -184,6 +184,7 @@ Specific
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio): The fast, flexible, and elegant library for parsing and manipulating HTML and XML. <https://cheerio.js.org/>
 - [xmldom/xmldom](https://github.com/xmldom/xmldom): A pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2): The fast & forgiving HTML and XML parser <https://feedic.com/htmlparser2>
+- [fb55/entities](https://github.com/fb55/entities): encode & decode HTML & XML entities with ease & speed
 - [inikulin/parse5](https://github.com/inikulin/parse5): HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [postalsys/postal-mime](https://github.com/postalsys/postal-mime): Email parser for browser and serverless environments
 - [markedjs/marked](https://github.com/markedjs/marked): A markdown parser and compiler. Built for speed. <https://marked.js.org>
@@ -208,6 +209,8 @@ Specific
 - [spencermountain/spacetime](https://github.com/spencermountain/spacetime): A lightweight javascript timezone library <http://spacetime.how/>
   - Support for upcoming `Temporal` standards
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser): Node.js library for parsing crontab instructions
+- [photostructure/tz-lookup](https://github.com/photostructure/tz-lookup): JavaScript Library for Timezone Lookup by Location
+- [evansiroky/node-geo-tz](https://github.com/evansiroky/node-geo-tz): A node.js module to find the timezone based on gps coordinates
 
 ### Backend
 
@@ -259,6 +262,7 @@ Specific
 
 - [adzejs/adze](https://github.com/adzejs/adze): A universal, modern, and extensible logging library for JavaScript and TypeScript. <https://adzejs.com/>
 - [winstonjs/winston](https://github.com/winstonjs/winston): A logger for just about everything. <http://github.com/winstonjs/winston>
+- [dahlia/logtape](https://github.com/dahlia/logtape): Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions <http://logtape.org/>
 
 ### fetch
 
@@ -279,6 +283,7 @@ Specific
 - [sindresorhus/execa](https://github.com/sindresorhus/execa): Process execution for humans
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
 - [webdiscus/ansis](https://github.com/webdiscus/ansis): CJS/ESM ANSI color library for CI, terminals and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
+- [bloomberg/stricli](https://github.com/bloomberg/stricli): Build complex CLIs with type safety and no dependencies <https://bloomberg.github.io/stricli>
 
 ### Image
 
@@ -287,6 +292,7 @@ Specific
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp): An image processing library written entirely in JavaScript for Node, with zero external or native dependencies. <http://jimp-dev.github.io/jimp/>
 - [photopea/UPNG.js](https://github.com/photopea/UPNG.js): Fast and advanced PNG (APNG) decoder and encoder (lossy / lossless)
 - [image-js/fast-png](https://github.com/image-js/fast-png): PNG image decoder and encoder written entirely in JavaScript
+- [image-js/image-js](https://github.com/image-js/image-js): Image processing and manipulation in JavaScript <https://image-js.github.io/image-js>
 - [riyadhalnur/node-base64-image](https://github.com/riyadhalnur/node-base64-image): Download images from remote URLs or use local images and encode/decode them to Base64 string or Buffer object <http://riyadhalnur.github.io/node-base64-image>
 
 ### Utils
@@ -315,6 +321,7 @@ Specific
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms): Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes): Convert bytes to a human readable string: 1337 → 1.34 kB
 - 🌟 [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation.
+- 🌟 [image-js/iobuffer](https://github.com/image-js/iobuffer): Read and write binary data in ArrayBuffers <https://image-js.github.io/iobuffer/>
 
 ## Middleware
 

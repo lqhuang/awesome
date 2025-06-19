@@ -130,3 +130,7 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom): Yet another cross-platform graphical process/system monitor. <https://clementtsang.github.io/bottom>
 - [aristocratos/btop](https://github.com/aristocratos/btop): A monitor of resources
 - [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility <https://amanusk.github.io/s-tui>
+
+## Debugging
+
+- [bach-sh/bach](https://github.com/bach-sh/bach): Bach Testing Framework <https://bach.sh>

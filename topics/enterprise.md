@@ -84,7 +84,6 @@
 
 ### DevOps
 
-- [netbox-community/netbox](https://github.com/netbox-community/netbox): The premiere source of truth powering network automation. Open source under Apache 2. <https://netbox.dev>
 - 🌟 [novuhq/novu](https://github.com/novuhq/novu): 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more... <https://novu.co>
 - 🌟 [caronc/apprise](https://github.com/caronc/apprise): Apprise - Push Notifications that work with just about every platform! <https://hub.docker.com/r/caronc/apprise>
 - [svix/svix-webhooks](https://github.com/svix/svix-webhooks): The enterprise-ready webhooks service 🦀 <https://www.svix.com>
@@ -276,6 +275,7 @@ Exporters
 - 🌟 [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中英文对译版本
 - [SkillSets](https://skillsets.tech/): Discover the most wanted skills by recruiters. Browse skills required for your job position.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated coding interview preparation materials for busy software engineers <https://www.techinterviewhandbook.org>
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 <https://postiz.com>
 
 ### Open Source & Community
 
