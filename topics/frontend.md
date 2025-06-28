@@ -69,6 +69,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [Transition animations: a practical guide](https://uxdesign.cc/transition-animations-a-practical-guide-5dba4d42f659)
 - 🌟 [phuocng/csslayout](https://github.com/phuocng/csslayout): A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing! <https://phuoc.ng/collection/css-layout>
+- 🌟 [prazzon/Flexbox-Labs](https://github.com/prazzon/Flexbox-Labs): A web app for creating flexible layouts with the power of CSS Flexbox. <https://flexboxlabs.netlify.app/>
 - [UI Snippets](https://ui-snippets.dev/)
 - [An Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/)
 - [The Cleanest Trick for Autogrowing Textareas](https://css-tricks.com/the-cleanest-trick-for-autogrowing-textareas/)
@@ -129,10 +130,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework <https://waku.gg>
 - [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js): Reactivity without the framework <https://arrow-js.com>
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra): Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
-- 🌟🌟🌟 [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
+- [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js): A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth): Authentication for the Web. <https://authjs.dev>
-- 🌟 [onejs/one](https://github.com/onejs/one): ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. <https://onestack.dev>
+- [onejs/one](https://github.com/onejs/one): ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. <https://onestack.dev>
 
 ### UI Testing
 
@@ -201,6 +202,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Snow Dashboard UI Kit](https://snow.byewind.com): An advanced Dashboard / SaaS UI kit and design system for Figma. It can help you quickly build Dashboard, SaaS and other projects, and has a very good user experience.
   - paid required
 - 🌟 [hevar/awesome-react-headless-ui-components](https://github.com/hevar/awesome-react-headless-ui-components): No description, website, or topics provided.
+- [semrush/intergalactic](https://github.com/semrush/intergalactic): Intergalactic Design System is a constantly developing design system and library of React components. <https://developer.semrush.com/intergalactic/>
 
 My own favorites:
 
@@ -243,6 +245,7 @@ Shadcn UI eco system
 - 🌟 [danielpetho/fancy](https://github.com/danielpetho/fancy): A growing library of fancy, fun, animated react components & microinteractions to make the web fun again. Free & Open Source. <https://fancycomponents.dev/>
 - 🌟 [guhrodrrigues/luxe](https://github.com/guhrodrrigues/luxe): Copy and paste components ready to use. Practical. Customizable. <https://luxeui.com>
   - A great collection to learn how to use motion
+- [shadcn/ui registry — UI.pub](https://uipub.com/): Premium shadcn/ui components registry. UI Kits, Blocks, Templates.
 
 #### Svelte
 
@@ -267,6 +270,7 @@ List
 - [petyosi/react-virtuoso](https://github.com/petyosi/react-virtuoso): The most powerful virtual list component for React <https://virtuoso.dev/>
 - [TanStack/virtual](https://github.com/TanStack/virtual): 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte <https://tanstack.com/virtual>
 - [catamphetamine/virtual-scroller](https://github.com/catamphetamine/virtual-scroller): A component for efficiently rendering large lists of variable height items <https://catamphetamine.gitlab.io/virtual-scroller/?dynamic=%E2%9C%93>
+- [luciodale/react-searchable-dropdown](https://github.com/luciodale/react-searchable-dropdown): single and multi selection, virtualized, new option creation, search, and more
 
 Table
 
@@ -363,16 +367,26 @@ Media player
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer): A HTML5 video player with a parser that saves traffic <https://h5player.bytedance.com/>
 - https://player.style/
 
+Spinners
+
+- [davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners): A collection of loading spinner components for react <https://www.davidhu.io/react-spinners>
+- [huozhi/respinner](https://github.com/huozhi/respinner): Pretty and customizable svg spinners for React.js <https://respinner.vercel.app>
+
+Emoji
+
+- [ferrucc-io/emoji-picker](https://github.com/ferrucc-io/emoji-picker): React Emoji picker component styled with Tailwind <https://emoji.ferrucc.io>
+- [liveblocks/frimousse](https://github.com/liveblocks/frimousse): A lightweight, unstyled, and composable emoji picker for React. <https://frimousse.liveblocks.io>
+
 Misc
 
 - [vercel/satori](https://github.com/vercel/satori): Enlightened library to convert HTML and CSS to SVG <https://og-playground.vercel.app/>
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys): A tiny (~400 B) & modern library for keybindings. <https://jamiebuilds.github.io/tinykeys/>
 - [DiiiaZoTe/next-route-visualizer](https://github.com/DiiiaZoTe/next-route-visualizer): <https://next-route-visualizer.vercel.app>
 - [Oblosys/react-lifecycle-visualizer](https://github.com/Oblosys/react-lifecycle-visualizer): Real-time visualizer for React lifecycle methods <https://codesandbox.io/s/github/Oblosys/react-lifecycle-visualizer/tree/master/examples/parent-child-demo?file=/src/samples/New.js>
-- [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit): A lightweight magic-move library for configurable layout transitions
 - [nygardk/react-share](https://github.com/nygardk/react-share): Social media share buttons and share counts for React
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js): 🌞 A lightweight JavaScript library that generates customizable heat maps to visualize date-based activity and trends. <https://www.william-troup.com/heat-js>
 - 🌟 [bitjson/qr-code](https://github.com/bitjson/qr-code): A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element. <https://qr.bitjson.com/>
+- [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit): A lightweight magic-move library for configurable layout transitions
 - [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions): Use CSS View Transitions API in Next.js App Router. <https://next-view-transitions.vercel.app>
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars): A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling. <https://kingsora.github.io/OverlayScrollbars>
 - [Temzasse/react-modal-sheet](https://github.com/Temzasse/react-modal-sheet): Flexible bottom sheet component built with Framer Motion to provide buttery smooth UX while keeping accessibility in mind 🪐 <https://temzasse.github.io/react-modal-sheet/>
@@ -382,14 +396,12 @@ Misc
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words): React component to highlight words within a larger body of text <https://bvaughn.github.io/react-highlight-words/>
 - [glidejs/glide](https://github.com/glidejs/glide): A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more <https://glidejs.com>
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu): 🍔 An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations <http://negomi.github.io/react-burger-menu/>
-- [ferrucc-io/emoji-picker](https://github.com/ferrucc-io/emoji-picker): React Emoji picker component styled with Tailwind <https://emoji.ferrucc.io>
-- [liveblocks/frimousse](https://github.com/liveblocks/frimousse): A lightweight, unstyled, and composable emoji picker for React. <https://frimousse.liveblocks.io>
-- [davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners): A collection of loading spinner components for react <https://www.davidhu.io/react-spinners>
 - [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build and send emails using React <https://react.email>
 - [wipeautcrafter/jsfontpicker](https://github.com/wipeautcrafter/jsfontpicker): An open source, free (as in beer), versatile, flexible and lightweight Javascript Font Picker Component for System fonts, Google fonts and custom (woff/ttf) fonts. Features dynamic font loading, favourites, keyboard navigation, fuzzy search, advanced metrics filters, property sorting and much more. Available in multiple languages. <https://jsfontpicker.com/>
 - [talyssonoc/react-katex](https://github.com/talyssonoc/react-katex): Display math in TeX with KaTeX and ReactJS
   - great but no longer maintained
 - [tanem/react-svg](https://github.com/tanem/react-svg): 🎨 A React component that injects SVG into the DOM. <https://npm.im/react-svg>
+- [xiaody/react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis): Simple multiline ellipsis component for React.JS <https://xiaody.github.io/react-lines-ellipsis/>
 
 #### Just render json in better way
 
@@ -450,6 +462,7 @@ Syntax hightlight
 - [code-hike/bright](https://github.com/code-hike/bright): React Server Component for syntax highlighting <https://bright.codehike.org>
 - [wooorm/refractor](https://github.com/wooorm/refractor): Lightweight, robust, elegant virtual syntax highlighting using Prism
 - [blenderskool/react-code-block](https://github.com/blenderskool/react-code-block): 🧩 Set of unstyled UI components to build powerful code blocks in React. <https://react-code-block.netlify.app>
+- [andreruffert/syntax-highlight-element](https://github.com/andreruffert/syntax-highlight-element): 👓 Syntax Highlighting using the CSS Custom Highlight API <https://andreruffert.github.io/syntax-highlight-element/>
 
 #### Animation
 
@@ -537,6 +550,8 @@ Concrete animations
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis): Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers <https://anubis.techaro.lol/>
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap): Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work <http://capjs.js.org/>
 - [grpc/grpc-web](https://github.com/grpc/grpc-web): gRPC for Web Clients <https://grpc.io>
+- [nkzw-tech/remdx](https://github.com/nkzw-tech/remdx): Beautiful Minimalist React & MDX Presentations
+  - finally a react version of slidev
 
 ## W3C
 
@@ -605,6 +620,7 @@ Concrete animations
 - [devicons/devicon](https://github.com/devicons/devicon): Set of icons representing programming languages, designing & development tools <https://devicon.dev>
 - 🌟 [Line Icons](https://lineicons.com/): Make Every Project Unique
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own second brain and digital garden for free <https://quartz.jzhao.xyz/>
+- [YuheshPandian/ICONIC](https://github.com/YuheshPandian/ICONIC): ⚡A developer-oriented library of sleek, bubble-shaped skill icons designed for GitHub READMEs, portfolios, and resumes. <https://iconic-api.onrender.com>
 
 ## Further topics
 
@@ -622,6 +638,8 @@ Concrete animations
 - [oframe/ogl](https://github.com/oframe/ogl): Minimal WebGL Library <https://oframe.github.io/ogl/examples>
   - lightweight three.js alternative
 - [Kitware/vtk-js](https://github.com/Kitware/vtk-js): Visualization Toolkit for the Web <https://kitware.github.io/vtk-js/>
+- 🌟 [compute-toys/compute.toys](https://github.com/compute-toys/compute.toys): Shadertoy for WebGPU compute shaders. <https://compute.toys>
+- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js <https://docs.pmnd.rs/react-three-fiber>
 
 ### PWA
 

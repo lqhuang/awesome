@@ -76,6 +76,8 @@
 - [getwud/wud](https://github.com/getwud/wud): Keep your containers up-to-date! <https://getwud.github.io/wud/>
 - [spegel-org/spegel](https://github.com/spegel-org/spegel): Stateless cluster local OCI registry mirror. <https://spegel.dev>
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko): Build Container Images In Kubernetes
+- [simonw/alpine-edit](https://github.com/simonw/alpine-edit): Microsoft edit packaged as a Docker container to run on a Mac
+  - `vim` is too big for striped container image, `edit` is a good alternative
 
 ### OS
 
@@ -85,6 +87,8 @@
 - 🌟 [systemd/mkosi](https://github.com/systemd/mkosi): 💽 Build Bespoke OS Images
 - [uapi-group/specifications](https://github.com/uapi-group/specifications): UAPI Group Specifications <https://uapi-group.org/specifications/>
 - [flatcar/coreos-cloudinit](https://github.com/flatcar/coreos-cloudinit): Simple configuration tool for Flatcar Container Linux <https://github.com/flatcar/flatcar/issues>
+- [rancher/elemental](https://github.com/rancher/elemental): Elemental is a software stack enabling centralized, full cloud-native OS management with Kubernetes. <https://elemental.docs.rancher.com/>
+- [hashicorp/packer](https://github.com/hashicorp/packer): Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. <https://developer.hashicorp.com/packer>
 
 ### Virtual Machines
 
@@ -92,12 +96,9 @@
 - 🌟 [89luca89/distrobox](https://github.com/89luca89/distrobox): Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox <https://distrobox.it/>
   - [Arch Linux Wiki - Distrobox](https://wiki.archlinux.org/title/Distrobox)
 - [hashicorp/vagrant](https://github.com/hashicorp/vagrant): Vagrant is a tool for building and distributing development environments. <https://www.vagrantup.com>
-- [tteck/Proxmox](https://github.com/tteck/Proxmox): Proxmox VE Helper-Scripts <https://helper-scripts.com/>
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight): Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
 - [hyperlight-dev/hyperlight-wasm](https://github.com/hyperlight-dev/hyperlight-wasm): hyperlight-wasm is a rust library crate that enables Wasm Modules and components to be run inside lightweight Virtual Machine backed Sandbox. It is built on top of Hyperlight.
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd): firecracker-containerd enables containerd to manage containers as Firecracker microVMs
-- [harvester/harvester](https://github.com/harvester/harvester): Open source hyperconverged infrastructure (HCI) software <https://harvesterhci.io/>
-  - developed from SUSE
 - [GitLab · labs/Kwakky](https://gitlab.nic.cz/labs/kwakky): Kwakky runs virtual machines and manages networks between them in a clean and well automatable way.
   - I like the idea of cli provided by the project
   - Create a cluster `flock-sim create <path>`
@@ -111,6 +112,17 @@
 - [cirruslabs/vetu](https://github.com/cirruslabs/vetu): Create, publish and virtualize ephemeral Linux VMs with ease
 - [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS and Linux VMs on Apple Silicon to use in CI and other automations <https://tart.run>
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard): Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
+- [google/crosvm](https://github.com/google/crosvm): The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/crosvm/crosvm/ <https://crosvm.dev/book/>
+
+Type 1 hypervisors
+
+- [tteck/Proxmox](https://github.com/tteck/Proxmox): Proxmox VE Helper-Scripts <https://helper-scripts.com/>
+- [MacRimi/ProxMenux](https://github.com/MacRimi/ProxMenux): ProxMenux An Interactive Menu for Proxmox VE Management
+- [harvester/harvester](https://github.com/harvester/harvester): Open source hyperconverged infrastructure (HCI) software <https://harvesterhci.io/>
+  - developed by SUSE
+  - acutally a Kubernetes distribution with KubeVirt
+  - but looks great
+- [xcp-ng/xcp](https://github.com/xcp-ng/xcp): Entry point for issues and wiki. Also contains some scripts and sources. <https://xcp-ng.org>
 
 ### Storage
 
@@ -118,6 +130,7 @@
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse): FUSE-based file system backed by Amazon S3
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3): A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [drivendataorg/cloudpathlib](https://github.com/drivendataorg/cloudpathlib): Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage. <https://cloudpathlib.drivendata.org>
+- [s3gw-tech/s3gw](https://github.com/s3gw-tech/s3gw): Container able to run on a Kubernetes cluster, providing S3-compatible endpoints to applications. <https://s3gw.tech>
 
 ### Serverless
 
@@ -193,6 +206,7 @@
 - [k0sproject/k0s](https://github.com/k0sproject/k0s): k0s - The Zero Friction Kubernetes <https://docs.k0sproject.io>
 - [klueska/kind-with-gpus-examples](https://github.com/klueska/kind-with-gpus-examples): No description, website, or topics provided.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup): bootstrap K3s over SSH in < 60s 🚀 <https://github.com/sponsors/alexellis>
+- 🌟 [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray): Deploy a Production Ready Kubernetes Cluster
 
 ### Cluster Management (or UIs)
 
@@ -204,50 +218,75 @@
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard): The missing UI for Helm - visualize your releases
 - [kubernetes/kubeadm](https://github.com/kubernetes/kubeadm): Aggregator for issues filed against kubeadm
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps): A web-based UI for deploying and managing applications in Kubernetes clusters <https://kubeapps.dev>
-- 🌟 [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray): Deploy a Production Ready Kubernetes Cluster
 - [KusionStack/karpor](https://github.com/KusionStack/karpor): Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams. <https://karpor-demo.kusionstack.io>
+- [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp): A Kubernetes web UI that is fully-featured, user-friendly and extensible <https://headlamp.dev>
+- 🌟 [kubernetes/dashboard](https://github.com/kubernetes/dashboard): General-purpose web UI for Kubernetes clusters
+  - [int128/kauthproxy](https://github.com/int128/kauthproxy): Local authentication proxy for Kubernetes Dashboard (kubectl auth-proxy)
+
+### kubectl plugins
+
+- [knight42/krelay](https://github.com/knight42/krelay): A better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster.
+- 🌟 [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew): 📦 Find and install kubectl plugins <https://krew.sigs.k8s.io>
+  - [Kubectl plugins available · Krew](https://krew.sigs.k8s.io/plugins/)
+- [ahmetb/kubectl-tree](https://github.com/ahmetb/kubectl-tree): kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)
+- [guessi/kubectl-grep](https://github.com/guessi/kubectl-grep): Filter Kubernetes resources by matching their names
+- [kubepug/kubepug](https://github.com/kubepug/kubepug): Kubernetes PreUpGrade (Checker) <https://kubepug.xyz/>
+- [keisku/kubectl-explore](https://github.com/keisku/kubectl-explore): A better kubectl explain with the fuzzy finder
+- [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace): Schedule bpftrace programs on your kubernetes cluster using the kubectl
+- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget): Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF <https://www.inspektor-gadget.io>
+- [NimbleArchitect/kubectl-ice](https://github.com/NimbleArchitect/kubectl-ice): Kubectl-ice is an open-source tool for Kubernetes users to monitor and optimize container resource usage. Features include usage breakdowns for pods and containers, making scaling and optimization easier. The tool is compatible with major cloud providers and is actively developed by a community of contributors
+- [yonahd/kor](https://github.com/yonahd/kor): A Golang Tool to discover unused Kubernetes Resources
+- [vladimirvivien/ktop](https://github.com/vladimirvivien/ktop): A top-like tool for your Kubernetes clusters
+- [kubernetes-sigs/kubectl-validate](https://github.com/kubernetes-sigs/kubectl-validate): No description, website, or topics provided.
+- [microsoft/retina](https://github.com/microsoft/retina): eBPF distributed networking observability tool for Kubernetes <https://retina.sh>
+- [robscott/kube-capacity](https://github.com/robscott/kube-capacity): A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster
+- [kubectl ray](https://docs.ray.io/en/latest/cluster/kubernetes/user-guides/kubectl-plugin.html#kubectl-plugin)
+- [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate): CLI tool to easily migrate Kubernetes persistent volumes
+- [ahmetb/kubectx](https://github.com/ahmetb/kubectx): Faster way to switch between clusters and namespaces in kubectl <https://kubectx.dev>
+- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell): Exec into node via kubectl
 
 ### CNI
 
 - [cilium/hubble](https://github.com/cilium/hubble): Hubble - Network, Service & Security Observability for Kubernetes using eBPF
 - [cilium/tetragon](https://github.com/cilium/tetragon): eBPF-based Security Observability and Runtime Enforcement <https://tetragon.io>
 
+### CSI
+
+- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv): CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using LVM.
+
 ### Featured
 
 - [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s): A simple, extensible Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl <https://kr8s.org>
 - [kumahq/kuma](https://github.com/kumahq/kuma): 🐻 The multi-zone service mesh for containers, Kubernetes and VMs. Built with Envoy. CNCF Sandbox Project. <https://kuma.io/install>
 - [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler): Autoscaling components for Kubernetes
-- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets): External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. <https://external-secrets.io/main>
-- [radius-project/radius](https://github.com/radius-project/radius): Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps. <https://radapp.io>
-- [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv): CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using LVM.
-- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold): Easy and Repeatable Kubernetes Development <https://skaffold.dev/>
-- [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector): Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
-- [knight42/krelay](https://github.com/knight42/krelay): A better alternative to `kubectl port-forward` that can forward TCP or UDP traffic to IP/Host which is accessible inside the cluster.
 - [STRRL/cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller): 🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.
-- [kyverno/kyverno](https://github.com/kyverno/kyverno): Kubernetes Native Policy Management <https://kyverno.io>
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty): A Friendly Kubernetes CloudShell (Web Terminal) ! <https://cloudtty.github.io/cloudtty/>
 - [Kubernetes WithOut Kubelet](https://kwok.sigs.k8s.io/): Kubernetes WithOut Kubelet. KWOK is a toolkit that enables setting up a cluster of thousands of Nodes in seconds. Under the scene, all Nodes are simulated to behave like real ones, so the overall approach employs a pretty low resource footprint that you can easily play around on your laptop.
 - 🌟 [alibaba/kubeskoop](https://github.com/alibaba/kubeskoop): Network monitoring & diagnosis suite for Kubernetes <https://kubeskoop.io>
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize): Customization of kubernetes YAML configurations
-  - [dnaeon/kustomize-dot](https://github.com/dnaeon/kustomize-dot): CLI app and kustomize KRM Function plugin which renders a graph of Kubernetes resources and their origins
-- [helmfile/helmfile](https://github.com/helmfile/helmfile): Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. <https://helmfile.readthedocs.io>
-- 🌟 [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew): 📦 Find and install kubectl plugins <https://krew.sigs.k8s.io>
 - [squat/kilo](https://github.com/squat/kilo): Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg) <https://kilo.squat.ai>
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb): A cloud native Kubernetes Global Balancer <https://www.k8gb.io>
-- [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller): Manage admission policies in your Kubernetes cluster with ease <https://kubewarden.io>
-- [Kuadrant/kuadrant-operator](https://github.com/Kuadrant/kuadrant-operator): The Operator to install and manage the lifecycle of the Kuadrant components deployments. <https://kuadrant.io>
-  - How to compare or combine with kong gateway?
-  - [Kuadrant/authorino](https://github.com/Kuadrant/authorino): K8s-native AuthN/AuthZ service to protect your APIs.
 - [kubewharf/godel-rescheduler](https://github.com/kubewharf/godel-rescheduler): Schedulers in large-scale Kubernetes (K8s) clusters, such as the Godel Scheduler, are often required to schedule a large number of Pods within a short period.
+- [kubecfg/kubecfg](https://github.com/kubecfg/kubecfg): A tool for managing complex enterprise Kubernetes environments as code.
 
 ### Operators
 
 - [The registry for Kubernetes Operators](https://operatorhub.io/)
+- [Kuadrant/kuadrant-operator](https://github.com/Kuadrant/kuadrant-operator): The Operator to install and manage the lifecycle of the Kuadrant components deployments. <https://kuadrant.io>
+  - How to compare or combine with kong gateway?
+  - [Kuadrant/authorino](https://github.com/Kuadrant/authorino): K8s-native AuthN/AuthZ service to protect your APIs.
 - [flant/shell-operator](https://github.com/flant/shell-operator): Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster <https://flant.github.io/shell-operator/>
 - [nolar/kopf](https://github.com/nolar/kopf): A Python framework to write Kubernetes operators in just a few lines of code <https://kopf.readthedocs.io/>
 - [inlets/inlets-operator](https://github.com/inlets/inlets-operator): Get public TCP LoadBalancers for local Kubernetes clusters <https://docs.inlets.dev/reference/inlets-operator>
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager): A management framework for extending Kubernetes with Operators <https://olm.operatorframework.io>
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus): Use Prometheus to monitor Kubernetes and applications running on Kubernetes <https://prometheus-operator.dev/>
+
+### Templates
+
+- [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold): Easy and Repeatable Kubernetes Development <https://skaffold.dev/>
+- [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes <http://kompose.io>
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize): Customization of kubernetes YAML configurations
+  - [dnaeon/kustomize-dot](https://github.com/dnaeon/kustomize-dot): CLI app and kustomize KRM Function plugin which renders a graph of Kubernetes resources and their origins
+- [helmfile/helmfile](https://github.com/helmfile/helmfile): Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. <https://helmfile.readthedocs.io>
 
 ### App framework
 
@@ -261,18 +300,28 @@
 - [Project-HAMi/HAMi](https://github.com/Project-HAMi/HAMi): Heterogeneous AI Computing Virtualization Middleware <http://project-hami.io>
 - [NVIDIA/KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler): KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
 
+### RBAC / Secrets
+
+- [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets): External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets. <https://external-secrets.io/main>
+- [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector): Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
+- [kyverno/kyverno](https://github.com/kyverno/kyverno): Kubernetes Native Policy Management <https://kyverno.io>
+- [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller): Manage admission policies in your Kubernetes cluster with ease <https://kubewarden.io>
+
+### Security
+
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <https://trivy.dev>
+- [kubescape/kubescape](https://github.com/kubescape/kubescape): Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. <https://kubescape.io>
+
 ### Utils
 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff): A helm plugin that shows a diff explaining what a helm upgrade would change
 - [tommy351/kosko](https://github.com/tommy351/kosko): Organize Kubernetes manifests in JavaScript. <https://kosko.dev>
-- [kubernetes/kompose](https://github.com/kubernetes/kompose): Convert Compose to Kubernetes <http://kompose.io>
 - [yannh/kubeconform](https://github.com/yannh/kubeconform): A FAST Kubernetes manifests validator, with support for Custom Resources!
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat): Clean up Kubernetes yaml and json output to make it readable
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <https://trivy.dev>
-- [kubescape/kubescape](https://github.com/kubescape/kubescape): Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. <https://kubescape.io>
 - [FairwindsOps/polaris](https://github.com/FairwindsOps/polaris): Validation of best practices in your Kubernetes clusters <https://www.fairwinds.com/polaris>
 - [openreports/reports-api](https://github.com/openreports/reports-api): OpenReports API (Kubernetes CRD) <https://openreports.io/>
 - [anchore/syft](https://github.com/anchore/syft): CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence): Local development against a remote Kubernetes or OpenShift cluster <https://www.telepresence.io>
 
 ## Hashicorp
 
@@ -316,6 +365,10 @@
 - [zeabur/zeabur](https://github.com/zeabur/zeabur): A platform that helps you deploy services with one click. <https://zeabur.com>
 - [Flightcontrol](https://www.flightcontrol.dev/): Developer-first AWS infrastructure. Designed for teams that want the benefits of AWS without hiring devops.
 - [Koyeb](https://www.koyeb.com/): Koyeb is a developer-friendly serverless platform. No ops, servers, or infrastructure management.
+- [radius-project/radius](https://github.com/radius-project/radius): Radius is a cloud-native, portable application platform that makes app development easier for teams building cloud-native apps. <https://radapp.io>
+  - k8s in the backend
+- [czhu12/canine](https://github.com/czhu12/canine): Power of Kubernetes, Simplicity of Heroku <https://canine.sh>
+  - k8s in the backend
 
 ## Cloud Foundry
 

@@ -129,10 +129,8 @@
 ### Testing
 
 - [reibitto/be-kind-rewind](https://github.com/reibitto/be-kind-rewind): A VCR testing library for Scala
-- [disneystreaming/weaver-test](https://github.com/disneystreaming/weaver-test): A test framework that runs everything in parallel. <https://disneystreaming.github.io/weaver-test>
+- [typelevel/weaver-test](https://github.com/typelevel/weaver-test): A test framework that runs everything in parallel. <https://typelevel.github.io/weaver-test>
 - [etorreborre/specs2](https://github.com/etorreborre/specs2):Software Specifications for Scala <https://etorreborre.github.io/specs2>
-- [gatling/gatling](https://github.com/gatling/gatling): Modern Load Testing as Code <https://gatling.io>
-  - [gatling/gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin): Gatling Plugin for SBT <https://gatling.io>
 - [spotify/ratatool](https://github.com/spotify/ratatool): A tool for data sampling, data generation, and data diffing
 - [ScalaMock/ScalaMock](https://github.com/ScalaMock/ScalaMock): Native Scala mocking framework <http://scalamock.org/>
 - [sageserpent-open/americium](https://github.com/sageserpent-open/americium): Generation of test case data for Scala and Java, in the spirit of QuickCheck. When your test fails, it gives you a minimised failing test case and a way of reproducing the failure immediately.
@@ -143,6 +141,16 @@
   - [scalameta/munit-scalacheck](https://github.com/scalameta/munit-scalacheck): Scalacheck integration for munit
 - [eed3si9n/verify](https://github.com/eed3si9n/verify): Scala Verify is a minimal testing framework for Scala. Trust, but verify.
 - [MartinHH/scalacheck-derived](https://github.com/MartinHH/scalacheck-derived): Automatic derivation of scalacheck Arbitrary instances for Scala 3.
+
+### Benchmarking
+
+- [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler): Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events <https://github.com/async-profiler/async-profiler/releases>
+- [gatling/gatling](https://github.com/gatling/gatling): Modern Load Testing as Code <https://gatling.io>
+  - [gatling/gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin): Gatling Plugin for SBT <https://gatling.io>
+- [scalameter/scalameter](https://github.com/scalameter/scalameter): Microbenchmarking and performance regression testing framework for the JVM platform. <http://scalameter.github.io>
+- [scala/compiler-benchmark](https://github.com/scala/compiler-benchmark): Benchmarks for scalac
+- [fosskers/scala-benchmarks](https://github.com/fosskers/scala-benchmarks): An independent set of benchmarks for testing common Scala idioms.
+- [rossabaker/scalabench](https://github.com/rossabaker/scalabench): A quick and dirty Scala microbenchmarking framework
 
 ### Linter
 
@@ -337,6 +345,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [neandertech/cue4s](https://github.com/neandertech/cue4s): Experimental library for CLI prompts in Scala 3, available on JS, JVM, and Native platforms
 - [oyvindberg/tui-scala](https://github.com/oyvindberg/tui-scala): Beautiful Text-based User Interfaces for Scala
 - [creativescala/terminus](https://github.com/creativescala/terminus): Terminal interaction for Scala
+- [scopt/scopt](https://github.com/scopt/scopt): command line options parsing for Scala
 
 ### Utils
 
@@ -357,6 +366,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [wvlet/airframe](https://github.com/wvlet/airframe): Essential Building Blocks for Scala <https://wvlet.org/airframe>
   - ulid
 - 🌟 [outr/perfolation](https://github.com/outr/perfolation): Performance focused interpolation
+- [arainko/chanterelle](https://github.com/arainko/chanterelle): No description, website, or topics provided.
 
 ### Misc
 

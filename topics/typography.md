@@ -54,6 +54,7 @@ CJK
   - [lxgw/LxgwNeoZhiSong](https://github.com/lxgw/LxgwNeoZhiSong): A Chinese serif font derived from IPAmj Mincho. 一款衍生于「IPAmj 明朝」的中文宋体字型。
   - [lxgw/LxgwNeoXiZhi-Screen](https://github.com/lxgw/LxgwNeoXiZhi-Screen): LXGW Neo XiHei and LXGW Neo ZhiSong for Screen Reading.
 - [Hulenkius/sotyr](https://github.com/Hulenkius/sotyr): 仲春仿宋 | Sotyr Fangsong ：聚珍仿宋二号长体的直接复刻项目
+- [chenh96/yahei-sarasa](https://github.com/chenh96/yahei-sarasa): Sarasa UI -> Microsoft YaHei UI
 
 ## Web
 

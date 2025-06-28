@@ -84,6 +84,7 @@
   - [pomponchik/sigmatch](https://github.com/pomponchik/sigmatch): A quick way to verify function signatures in Python
   - Feel much confident while doing developments using `mima` (Scala)
 - [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer): Run mypy and pyright over millions of lines of code
+- [kmichel/python-importtime-graph](https://github.com/kmichel/python-importtime-graph): Display a treemap of the timings reported by python -X importtime <https://kmichel.github.io/python-importtime-graph/>
 
 ### Build tools
 
@@ -353,6 +354,7 @@ Misc
 - [narwhals-dev/narwhals](https://github.com/narwhals-dev/narwhals): Lightweight and extensible compatibility layer between dataframe libraries! <https://narwhals-dev.github.io/narwhals/>
 - [fireducks-dev/fireducks](https://github.com/fireducks-dev/fireducks): Create an issue on FireDucks
 - [sfu-db/dataprep](https://github.com/sfu-db/dataprep): Open-source low code data preparation library in python. Collect, clean and visualization your data in python with a few lines of code. <http://dataprep.ai>
+- 🌟 [ADAPT@UIUC - PandasBench](https://adapt.cs.illinois.edu/projects/PandasBench.html): We describe how we constructed the first benchmark for the Pandas API, and how we used it to evaluate modern Pandas optimization techniques.
 
 ### Jupyter ecosystem
 
@@ -674,6 +676,8 @@ Misc
 - 🌟 [pocketpy/pocketpy](https://github.com/pocketpy/pocketpy): Portable Python 3.x Interpreter in Modern C <https://pocketpy.dev/>
 - [cslarsen/minijit](https://github.com/cslarsen/minijit): A basic x86-64 JIT compiler written from scratch in stock Python <https://csl.name/post/python-jit/>
 - [cslarsen/python-simple-vm](https://github.com/cslarsen/python-simple-vm): A simple virtual machine w/constant folding implemented in Python <https://csl.name/post/vm/>
+- [Pylir/Pylir](https://github.com/Pylir/Pylir): An optimizing ahead-of-time Python Compiler <https://pylir.github.io/Pylir/>
+  - llvm + mlir
 
 ### Parsers
 

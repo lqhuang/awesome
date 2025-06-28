@@ -32,6 +32,8 @@
   - Please notice that `gcc` and `clang` have different target triple.
   - `gcc -dumpmachine` -> `x86_64-linux-gnu`
   - `clang -dumpmachine` -> `x86_64-pc-linux-gnu`
+- [The Kernel in the Mind](https://www.linkedin.com/pulse/kernel-mind-moon-hee-lee-miwze/): Understanding Linux Kernel Before Code This isn’t a guide to writing kernel code. It’s an effort to understand how the Linux kernel thinks.
+  - [心中的内核 - 在阅读内核代码之前先理解内核](https://cppguide.cn/pages/the-kernel-in-the-mind-contents/)
 
 ## Compiler
 

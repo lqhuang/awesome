@@ -63,6 +63,7 @@
 - [ayaka14732/tpu-starter](https://github.com/ayaka14732/tpu-starter): Everything you want to know about Google Cloud TPU
 - [TG-TG-TG-TG-TG-TG/TPU-Tutorials](https://github.com/TG-TG-TG-TG-TG-TG/TPU-Tutorials): Some of my TPU tutorials that i will post here.
 - [jax-ml/scaling-book](https://github.com/jax-ml/scaling-book): Home for "How To Scale Your Model", a short blog-style textbook about scaling LLMs on TPUs <https://jax-ml.github.io/scaling-book/>
+- [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html): The main strongpoint for TPUs is in their scalability. This is achieved through a co-design of both the hardware side (e.g. energy efficiency and modularity) and the software side (e.g. XLA compiler).
 
 ### Readings
 
@@ -241,6 +242,7 @@ General problems
   - The only problem is PyTorch is the only one supported currently (June5 2025).
 - [huggingface/kernel-builder](https://github.com/huggingface/kernel-builder): 👷 Build compute kernels
   - [Writing Hub kernels with kernel-builder](https://github.com/huggingface/kernel-builder/blob/main/docs/writing-kernels.md)
+- [mirage-project/mirage](https://github.com/mirage-project/mirage): Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA <https://mirage-project.readthedocs.io/>
 
 ### MLIR
 

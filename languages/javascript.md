@@ -60,6 +60,7 @@
 - rolldown
 - [SukkaW/stylex-webpack](https://github.com/SukkaW/stylex-webpack): The another webpack/Next.js Plugin for Facebook StyleX
 - [addyosmani/critical](https://github.com/addyosmani/critical): Extract & Inline Critical-path CSS in HTML pages
+- 🌟 [filipsobol/sonda](https://github.com/filipsobol/sonda): Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks <https://sonda.dev/>
 
 ### Runtime
 
@@ -70,6 +71,7 @@
 - 🌟 [pi0/platform-node-compat](https://github.com/pi0/platform-node-compat): Display Node.js compatibility of edge runtimes <https://platform-node-compat.deno.dev/>
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs): A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox <https://sebastianwessel.github.io/quickjs/>
 - [holepunchto/bare](https://github.com/holepunchto/bare): Small and modular JavaScript runtime for desktop and mobile <https://bare.pears.com>
+- [gnh1201/welsonjs](https://github.com/gnh1201/welsonjs): WelsonJS - Build a Windows app on the Windows built-in JavaScript engine <https://catswords.social/@catswords_oss>
 
 ### Testing
 
@@ -118,6 +120,8 @@ Specific
 - [unjs/mlly](https://github.com/unjs/mlly): 🤝 Missing ECMAScript module utils for Node.js
 - [unjs/destr](https://github.com/unjs/destr): 🚀 Faster, secure and convenient alternative for JSON.parse
 - 🌟 [slevithan/regex](https://github.com/slevithan/regex): Regex template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices
+- 🌟 [es-tooling/module-replacements](https://github.com/es-tooling/module-replacements): A manifest of JS modules and their more modern/active replacements
+  - [Module replacements](https://github.com/es-tooling/module-replacements/blob/main/docs/modules/README.md): This is a list of all modules we suggest replacing, along with documentation to suggest alternatives.
 
 ### Parser
 
@@ -158,7 +162,7 @@ Specific
 - [henrygd/queue](https://github.com/henrygd/queue): Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster
 - [piscinajs/piscina](https://github.com/piscinajs/piscina): A fast, efficient Node.js Worker Thread Pool implementation <https://piscinajs.dev>
 
-### SerDe / Schema
+### Schema
 
 - 🌟 [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first schema validation with static type inference <https://zod.dev>
   - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema): Converts Zod schemas to Json schemas
@@ -171,13 +175,21 @@ Specific
 - [tskj/typescript-json-decoder](https://github.com/tskj/typescript-json-decoder): Json Decoder for Typescript
 - [gcanti/io-ts](https://github.com/gcanti/io-ts): Runtime type system for IO decoding/encoding <https://gcanti.github.io/io-ts/>
 - [Effect-TS/schema](https://github.com/Effect-TS/schema): Modeling the schema of data structures as first-class values <https://effect-ts.github.io/schema>
-- 🌟 [blitz-js/superjson](https://github.com/blitz-js/superjson): Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
-- 🌟 [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es): Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
 - [vinejs/vine](https://github.com/vinejs/vine): VineJS is a form data validation library for Node.js
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema): A standard interface for TypeScript schema validation libraries <https://standardschema.dev>
+- [kriszyp/cbor-x](https://github.com/kriszyp/cbor-x): Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning
+- [kriszyp/msgpackr](https://github.com/kriszyp/msgpackr): Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]
+- [mtth/avsc](https://github.com/mtth/avsc): Avro for JavaScript ⚡
+
+# SerDe
+
+- 🌟 [blitz-js/superjson](https://github.com/blitz-js/superjson): Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+- 🌟 [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es): Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
+- [mapbox/pbf](https://github.com/mapbox/pbf): A low-level, lightweight protocol buffers implementation in JavaScript.
 - [elysiajs/json-accelerator](https://github.com/elysiajs/json-accelerator): Accelerate JSON stringification by providing OpenAPI/TypeBox shape <https://www.npmjs.com/package/json-accelerator>
 - 🌟 [hyparam/hyparquet](https://github.com/hyparam/hyparquet): parquet file parser for javascript
   - [hyparam/hysnappy](https://github.com/hyparam/hysnappy): Snappy decompression with WebAssembly
+- [eemeli/yaml](https://github.com/eemeli/yaml): YAML parser and stringifier for JavaScript <https://eemeli.org/yaml>
 
 ### Parser
 
@@ -190,6 +202,8 @@ Specific
 - [markedjs/marked](https://github.com/markedjs/marked): A markdown parser and compiler. Built for speed. <https://marked.js.org>
   - [cure53/DOMPurify](https://github.com/cure53/DOMPurify): DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo: <https://cure53.de/purify>
 - [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html): Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
+- [tinyhttp/milliparsec](https://github.com/tinyhttp/milliparsec): 🌌 Tiniest body parser in the universe. Built for modern Node.js <https://npm.im/milliparsec>
+- [tinyhttp/content-type](https://github.com/tinyhttp/content-type): content-type rewrite in TypeScript and ESM
 
 ### Date
 
@@ -276,7 +290,8 @@ Specific
 ### Clients
 
 - [discordeno/discordeno](https://github.com/discordeno/discordeno): Discord API library for Node and Deno <https://discordeno.js.org>
-- [platformatic/kafka](https://github.com/platformatic/kafka): No description, website, or topics provided.
+- [platformatic/kafka](https://github.com/platformatic/kafka): A modern, high-performance, pure TypeScript/JavaScript type safe client for Apache Kafka.
+- [good-lly/s3mini](https://github.com/good-lly/s3mini): 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @Backblaze @digitalocean @garagehq <https://www.npmjs.com/package/s3mini>
 
 ### CLI
 
@@ -304,6 +319,7 @@ Specific
   - simple and easy LOL
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch): The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [toss/es-toolkit](https://github.com/toss/es-toolkit): A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash. <https://es-toolkit.slash.page>
+- [PuruVJ/neotraverse](https://github.com/PuruVJ/neotraverse): No description, website, or topics provided.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib): ✨ Standard library for JavaScript and Node.js. ✨ <https://stdlib.io>
 - [rawify/Fraction.js](https://github.com/rawify/Fraction.js): Fraction is a rational numbers library written in JavaScript <https://raw.org/article/rational-numbers-in-javascript/>
 - [mathiasbynens/jsesc](https://github.com/mathiasbynens/jsesc): Given some data, jsesc returns the shortest possible stringified & ASCII-safe representation of that data. <https://mths.be/jsesc>
@@ -322,6 +338,8 @@ Specific
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes): Convert bytes to a human readable string: 1337 → 1.34 kB
 - 🌟 [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation.
 - 🌟 [image-js/iobuffer](https://github.com/image-js/iobuffer): Read and write binary data in ArrayBuffers <https://image-js.github.io/iobuffer/>
+- [thecodrr/fdir](https://github.com/thecodrr/fdir): ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s <https://thecodrr.github.io/fdir/>
+- [josdejong/mathjs](https://github.com/josdejong/mathjs): An extensive math library for JavaScript and Node.js <https://mathjs.org>
 
 ## Middleware
 

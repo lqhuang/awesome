@@ -35,12 +35,12 @@ And modern is here now.
 - 🌟 [不可避免的内存安全（Memory Safety）之路](https://hardenedlinux.github.io/system-security/2025/05/07/path-to-memory-safety-inevitable.html)
   - in Chinese
 - [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter): 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more. <https://thelartians.github.io/ModernCppStarter>
-  - [It’s Time To Do CMake Right | pablo arias](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/)
+  - [It's Time To Do CMake Right | pablo arias](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/)
 - [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template): A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 
 ### References
 
-- [Clang Compiler User’s Manual](https://clang.llvm.org/docs/UsersManual.html)
+- [Clang Compiler User's Manual](https://clang.llvm.org/docs/UsersManual.html)
 - [Clang command line argument reference](https://clang.llvm.org/docs/ClangCommandLineReference.html)
 - [C++ reference](https://en.cppreference.com/w/)
 - [C reference](https://en.cppreference.com/w/c)
@@ -55,6 +55,8 @@ And modern is here now.
 - [mcinglis/c-style](https://github.com/mcinglis/c-style): My favorite C programming practices.
 - [abseil / C++ Tips of the Week](https://abseil.io/tips/): An open-source collection of core C++ library code
 - [abseil / Performance Guide](https://abseil.io/fast/): An open-source collection of core C++ library code
+- [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html): no description found
+  - [谷歌 C++ 风格指南 | CppGuide 社区](https://cppguide.cn/LatestGoogleCppStyleGuideForCpp17&20/)
 
 ### Books
 
@@ -224,6 +226,7 @@ And modern is here now.
 - [Tradias/asio-grpc](https://github.com/Tradias/asio-grpc): Asynchronous gRPC with Asio/unified executors <https://tradias.github.io/asio-grpc/>
 - [tsoding/coroutines](https://github.com/tsoding/coroutines): Custom coroutines implementation in GNU C
 - [ashvardanian/fork_union](https://github.com/ashvardanian/fork_union): Minimalistic C++ scoped thread-pool designed for SIMT-style 'Fork-Join' parallelism
+- [alandefreitas/futures](https://github.com/alandefreitas/futures): C++ Better Futures <https://alandefreitas.github.io/futures/>
 
 ## Network
 

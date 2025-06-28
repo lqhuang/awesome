@@ -253,7 +253,6 @@ SSH
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️ Streaming torrent client for the web <https://webtorrent.io>
 - [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted): Self-hosted version of webtor.io implemented as an all-in-one Docker image
 - [jesec/flood](https://github.com/jesec/flood): A modern web UI for various torrent clients with a Node.js backend and React frontend. <https://flood.js.org>
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web File Browser <https://filebrowser.org>
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus): 云探针、多服务器探针、云监控、多服务器云监控，演示： <https://tz.cloudcpp.com>
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust): ✨ Rust 版 ServerStatus 探针、威力加强版 <https://ssr.rs/>
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io): 📚 LookScanned.io - Make your PDFs look scanned <https://lookscanned.io>
@@ -282,9 +281,6 @@ SSH
 - 🌟 [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader): A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web <https://koodoreader.com>
 - [chrox/readest](https://github.com/chrox/readest): Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. <https://readest.com>
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita): Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. <http://www.kavitareader.com>
-- [filegator/filegator](https://github.com/filegator/filegator): Powerful Multi-User File Manager <https://filegator.io>
-- 🌟 [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... <https://www.filestash.app/>
-- [eikek/sharry](https://github.com/eikek/sharry): Sharry is a self-hosted file sharing web application. <https://eikek.github.io/sharry>
 - 🌟 [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
 - 🌟 [pavlobu/deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work! <https://deskreen.com>
 - [Storyteller Docs | Storyteller](https://smoores.gitlab.io/storyteller/): A self-hosted platform for automatically aligning ebooks and audiobooks.
@@ -298,6 +294,21 @@ SSH
 - [logscore/Nimbus](https://github.com/logscore/Nimbus): An open source alternative to Google Drive, One Drive, iCloud, etc. <https://nimbus-cloud-storage.vercel.app>
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT): The next-generation file converter. Open source, fully local\* and free forever. <https://vert.sh>
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr): fork of overseerr for jellyfin support
+- [Flomp/wanderer](https://github.com/Flomp/wanderer): wanderer is a self-hosted trail database. Save your adventures! <https://wanderer.to>
+- [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool): 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database. <https://workout.cool>
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack): A self hosted media tracker.
+
+### Cloud Disk
+
+NextCloud is crazily BIG now, so I will say no here.
+
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web File Browser <https://filebrowser.org>
+- [filegator/filegator](https://github.com/filegator/filegator): Powerful Multi-User File Manager <https://filegator.io>
+- 🌟 [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... <https://www.filestash.app/>
+- [eikek/sharry](https://github.com/eikek/sharry): Sharry is a self-hosted file sharing web application. <https://eikek.github.io/sharry>
+- [owncloud/ocis](https://github.com/owncloud/ocis): ⚛️ ownCloud Infinite Scale Stack <https://doc.owncloud.com/ocis/next/>
+- 🌟 [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud): This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services. <https://opencloud.eu>
+- [cs3org/reva](https://github.com/cs3org/reva): WebDAV/gRPC/HTTP high performance server to link high level clients to storage backends <https://reva.link>
 
 ### Email
 

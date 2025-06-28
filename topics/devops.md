@@ -247,6 +247,7 @@ Libs
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment): A GitHub action to create or update an issue or pull request comment
 - [super-linter/super-linter](https://github.com/super-linter/super-linter): Combination of multiple linters to run as a GitHub Action or standalone <https://github.com/super-linter/super-linter>
 - [actions/stale](https://github.com/actions/stale): Marks issues and pull requests that have not had recent interaction
+- [FidelusAleksander/ai-translate-action](https://github.com/FidelusAleksander/ai-translate-action): GitHub Action for AI-powered file translation between different languages
 
 ### GitHub Action Runner
 

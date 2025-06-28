@@ -27,6 +27,10 @@
 
 ## React Native (cross platforms)
 
+### Resources
+
+- [The Future of React Native Graphics: WebGPU, Skia, and Beyond (2025) - Shopify](https://shopify.engineering/webgpu-skia-web-graphics#): In the last three years, React Native Skia has established itself as the go-to solution for 2D graphics on React Native. And we are seeing many users pushing the boundaries of what can be done with the library.
+
 ### Framework
 
 - 🌟 [expo/expo](https://github.com/expo/expo): An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. <https://docs.expo.dev>
@@ -42,6 +46,7 @@
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler): Declarative API exposing platform native touch and gesture system to React Native. <https://docs.swmansion.com/react-native-gesture-handler/>
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated): React Native's Animated library reimplemented <https://docs.swmansion.com/react-native-reanimated/>
 - [software-mansion/react-native-screens](https://github.com/software-mansion/react-native-screens): Native navigation primitives for your React Native app.
+- [software-mansion-labs/react-native-webgpu-worklets](https://github.com/software-mansion-labs/react-native-webgpu-worklets): ThreeJS + wgpu-matrix + TypeGPU for WebGPU on Reanimated Worklets
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation): Routing and navigation for your React Native apps <https://reactnavigation.org>
 - [infinitered/ignite](https://github.com/infinitered/ignite): Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper): Material Design for React Native (Android & iOS) <https://reactnativepaper.com>
