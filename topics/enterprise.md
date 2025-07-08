@@ -129,6 +129,7 @@
 
 ### HPC Cluster manager / Job Scheduler
 
+- [HPC Wiki](https://hpc-wiki.info/hpc/HPC_Wiki)
 - [SchedMD/slurm](https://github.com/SchedMD/slurm): Slurm: A Highly Scalable Workload Manager <https://slurm.schedmd.com>
 - [openpbs/openpbs](https://github.com/openpbs/openpbs): An HPC workload manager and job scheduler for desktops, clusters, and clouds. <https://www.openpbs.org/>
 - [spack/spack](https://github.com/spack/spack): A flexible package manager that supports multiple versions, configurations, platforms, and compilers. <https://spack.io>
@@ -216,6 +217,11 @@ Exporters
 - [michael-doubez/filestat_exporter](https://github.com/michael-doubez/filestat_exporter): Prometheus exporter gathering metrics about file size, modification time and other stats
 - [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter): Prometheus exporter that mines /proc to report on selected processes
 
+Visual stack
+
+- [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs): Grafana Labs' Jsonnet libraries
+- [monitoring-mixins/website](https://github.com/monitoring-mixins/website): Prometheus monitoring mixins <https://monitoring.mixins.dev>
+
 ### Benchmark
 
 - [codesenberg/bombardier](https://github.com/codesenberg/bombardier): Fast cross-platform HTTP benchmarking tool written in Go
@@ -257,6 +263,7 @@ Exporters
 - [kunai-project/kunai](https://github.com/kunai-project/kunai): Threat-hunting tool for Linux <https://why.kunai.rocks>
 - [Black Duck](https://www.blackduck.com/): Build high-quality, secure software with application security testing tools and services from Black Duck. We are a Gartner Magic Quadrant Leader in AppSec.
 - [greenbone/docs](https://github.com/greenbone/docs): Documentation for the Greenbone Community Edition <https://greenbone.github.io/docs/>
+- [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex): Cortex: a Powerful Observable Analysis and Active Response Engine <https://strangebee.com/cortex/>
 
 ## Career
 

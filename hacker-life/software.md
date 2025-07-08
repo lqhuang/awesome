@@ -38,6 +38,8 @@
 - 🌟 [johnfactotum/foliate](https://github.com/johnfactotum/foliate): Read e-books in style <https://johnfactotum.github.io/foliate/>
 - [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop): Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux <https://zenprivacy.net>
 - [Tools | Cloudinary](https://cloudinary.com/tools): Format converters and compressors for images and videos.
+- 🌟 [deskflow/deskflow](https://github.com/deskflow/deskflow): Share a single keyboard and mouse between multiple computers. <https://deskflow.org>
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite): An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing <https://graphite.rs>
 
 ### Notes / Knowledge Management
 
@@ -216,6 +218,8 @@ SSH
 - [serversideup/docker-ssh](https://github.com/serversideup/docker-ssh): Simple SSH container. Great for secure connections into clusters. <https://hub.docker.com/r/serversideup/docker-ssh>
 - 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC <https://manfred.life/quicssh>
 - [sshguard/sshguard](https://bitbucket.org/sshguard/sshguard/): SSHGuard protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends. <https://www.sshguard.net>
+- [billchurch/webssh2](https://github.com/billchurch/webssh2): Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
+- [zhaojh329/rtty](https://github.com/zhaojh329/rtty): 🐛 Access your terminal from anywhere via the web. <https://rttys.net>
 
 ## CN Related
 
@@ -355,3 +359,6 @@ Not OSS:
 - [Buttercup](https://github.com/buttercup): Buttercup credentials management application
 - [hashicorp/vault](https://github.com/hashicorp/vault): A tool for secrets management, encryption as a service, and privileged access management <https://www.vaultproject.io/>
 - 🌟 [getsops/sops](https://github.com/getsops/sops): Simple and flexible tool for managing secrets
+- [Bubka/2FAuth](https://github.com/Bubka/2FAuth): A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes <https://docs.2fauth.app/>
+- [twofas/2fas-pass-server](https://github.com/twofas/2fas-pass-server): Source code for 2FAS Pass server
+- [soruly/pasu](https://github.com/soruly/pasu): Self-hosted TOTP authenticator PWA with FIDO2 (WebAuthn) <https://pasu.soruly.moe>

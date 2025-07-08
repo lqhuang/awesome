@@ -34,6 +34,7 @@
   - [A Roaringish phrase search algorithm](https://softwaredoug.com/blog/2024/01/21/search-array-phrase-algorithm): How phrase search works in search array by intersecting roaring-like numpy arrays.
 - 🌟 [textstat/textstat](https://github.com/textstat/textstat): 📝 python package to calculate readability statistics of a text object - paragraphs, sentences, articles. <https://textstat.org>
 - [jax-ml/jax-tpu-embedding](https://github.com/jax-ml/jax-tpu-embedding): No description, website, or topics provided.
+- [typesense/typesense](https://github.com/typesense/typesense): Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences <https://typesense.org>
 
 ## tokenizer / BPE
 

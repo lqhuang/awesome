@@ -172,6 +172,8 @@ Type 1 hypervisors
 - 🌟 [modal-labs/vprox](https://github.com/modal-labs/vprox): High-availability network proxy / VPN server, powered by WireGuard
 - 🌟 [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway): The Cloud-Native API Gateway and AI Gateway <https://kgateway.dev>
 - [github/glb-director](https://github.com/github/glb-director): GitHub Load Balancer Director and supporting tooling.
+- [envoyproxy/envoy](https://github.com/envoyproxy/envoy): Cloud-native high-performance edge/middle/service proxy <https://www.envoyproxy.io>
+  - [envoyproxy/gateway](https://github.com/envoyproxy/gateway): Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway <https://gateway.envoyproxy.io>
 
 ## Lightweight Tech Stack
 
@@ -189,6 +191,7 @@ Type 1 hypervisors
 - [beam-cloud/beta9](https://github.com/beam-cloud/beta9): The open-source serverless GPU container runtime. <https://docs.beta9.beam.cloud>
 - [piku/piku](https://github.com/piku/piku): The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. <http://piku.github.io>
 - [sst/sst](https://github.com/sst/sst): Build full-stack apps on your own infrastructure. <https://sst.dev>
+- [psviderski/uncloud](https://github.com/psviderski/uncloud): A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ <https://uncloud.run>
 
 ## K8S
 
@@ -222,6 +225,7 @@ Type 1 hypervisors
 - [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp): A Kubernetes web UI that is fully-featured, user-friendly and extensible <https://headlamp.dev>
 - 🌟 [kubernetes/dashboard](https://github.com/kubernetes/dashboard): General-purpose web UI for Kubernetes clusters
   - [int128/kauthproxy](https://github.com/int128/kauthproxy): Local authentication proxy for Kubernetes Dashboard (kubectl auth-proxy)
+- [zxh326/kite](https://github.com/zxh326/kite): 🪁 A modern, lightweight Kubernetes dashboard <https://kite-demo.zzde.me/>
 
 ### kubectl plugins
 
@@ -311,6 +315,7 @@ Type 1 hypervisors
 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <https://trivy.dev>
 - [kubescape/kubescape](https://github.com/kubescape/kubescape): Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. <https://kubescape.io>
+- [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security): [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
 
 ### Utils
 

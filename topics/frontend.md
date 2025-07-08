@@ -22,10 +22,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [web.dev](https://web.dev/): Building a better web, together
   - [Learn web development](https://web.dev/learn)
     - [Learn CSS](https://web.dev/learn/css): An evergreen CSS course and reference to level up your web styling expertise.
-- 🌟 [Dublin Core, what is it good for? – This day’s portion](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for/#content): There are several popular meta schemas out there. Open Graph may be the best supported, but if you want your meta data to be picked up by a particular service you might need to do a bit of research. Or support them all.
+- 🌟 [Dublin Core, what is it good for? – This day's portion](https://www.thisdaysportion.com/posts/dublin-core-what-is-it-good-for/#content): There are several popular meta schemas out there. Open Graph may be the best supported, but if you want your meta data to be picked up by a particular service you might need to do a bit of research. Or support them all.
   - metadata explaination
   - Sometimes, we can also add meta data to the document head using `json` wrapped in a `<script>` element.
 - 🌟 [React, visualized](https://react.gg/visualized): A visual exploration of core React concepts
+- [HerringtonDarkholme/web-deps](https://github.com/HerringtonDarkholme/web-deps): <https://web-deps.vercel.app/>
+  - quite interesting to see the dependencies of core eco system libraries
+  - inspired from [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams <https://excalidraw.com>
 
 ### Readings
 
@@ -83,6 +86,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - cute :D
 - 🌟 [NeverCease/uchu](https://github.com/NeverCease/uchu): the color palette for internet lovers <https://uchu.style>
 - [Fluid Responsive Design | Utopia](https://utopia.fyi/): Elegantly scale type and space without breakpoints
+- [Kelp](https://kelpui.com/): A UI library for people who love HTML, powered by modern CSS and Web Components.
 
 ### CSS Style
 
@@ -402,6 +406,7 @@ Misc
   - great but no longer maintained
 - [tanem/react-svg](https://github.com/tanem/react-svg): 🎨 A React component that injects SVG into the DOM. <https://npm.im/react-svg>
 - [xiaody/react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis): Simple multiline ellipsis component for React.JS <https://xiaody.github.io/react-lines-ellipsis/>
+- [Qovery/react-xtermjs](https://github.com/Qovery/react-xtermjs): Xterm.js for React <https://www.npmjs.com/package/react-xtermjs>
 
 #### Just render json in better way
 
@@ -552,6 +557,7 @@ Concrete animations
 - [grpc/grpc-web](https://github.com/grpc/grpc-web): gRPC for Web Clients <https://grpc.io>
 - [nkzw-tech/remdx](https://github.com/nkzw-tech/remdx): Beautiful Minimalist React & MDX Presentations
   - finally a react version of slidev
+- [spaansba/ForesightJS](https://github.com/spaansba/ForesightJS): Lightweight JavaScript library that predicts user intent based on mouse movements and keyboard navigation. Perfect for smart prefetching. <https://foresightjs.com/>
 
 ## W3C
 
@@ -621,6 +627,8 @@ Concrete animations
 - 🌟 [Line Icons](https://lineicons.com/): Make Every Project Unique
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own second brain and digital garden for free <https://quartz.jzhao.xyz/>
 - [YuheshPandian/ICONIC](https://github.com/YuheshPandian/ICONIC): ⚡A developer-oriented library of sleek, bubble-shaped skill icons designed for GitHub READMEs, portfolios, and resumes. <https://iconic-api.onrender.com>
+- 🌟 [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage): The homepage of Phosphor Icons, a flexible icon family for everyone <https://phosphoricons.com>
+- [emilwidlund/harmony](https://github.com/emilwidlund/harmony): A new kind of color picker for React <https://harmony.sh>
 
 ## Further topics
 

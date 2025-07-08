@@ -40,6 +40,7 @@
 - [graninas/functional-declarative-design-methodology](https://github.com/graninas/functional-declarative-design-methodology): Article: Functional Declarative Design
 - [nuprl/10PL](https://github.com/nuprl/10PL): 10 papers that all PhD students in programming languages ought to know, for some value of 10
 - [RangerNJU/Static-Program-Analysis-Book](https://github.com/RangerNJU/Static-Program-Analysis-Book): Getting started with static program analysis. 静态程序分析入门教程。
+- [Gabriella439/grace](https://github.com/Gabriella439/grace): A ready-to-fork interpreted functional language with type inference
 
 ### Talks
 

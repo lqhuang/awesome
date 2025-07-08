@@ -381,6 +381,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [andyglow/scala-jsonschema](https://github.com/andyglow/scala-jsonschema): Scala JSON Schema
 - [dataunitylab/jsonoid-discovery](https://github.com/dataunitylab/jsonoid-discovery): Distributed JSON schema discovery <https://dataunitylab.github.io/jsonoid-discovery/>
 - [aherlihy/carac](https://github.com/aherlihy/carac): A Datalog execution engine for Scala
+- [joernio/joern](https://github.com/joernio/joern): Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc <https://joern.io/>
 
 ## Tools
 
@@ -397,6 +398,7 @@ Do a benchmark (final size while using Scala Native) for them?
   - [VirtusLab/yaga](https://github.com/VirtusLab/yaga): No description, website, or topics provided.
   - [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>
 - [jpablo/graph-explorer](https://github.com/jpablo/graph-explorer): Explore graphs in a visual way <https://graph-explorer.net>
+- [awslabs/deequ](https://github.com/awslabs/deequ): Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 
 ## Frameworks
 
@@ -492,6 +494,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [airbnb/chronon](https://github.com/airbnb/chronon): Chronon is a data platform for serving for AI/ML applications.
 - [airbnb/aerosolve](https://github.com/airbnb/aerosolve): A machine learning package built for humans. <http://airbnb.github.io/aerosolve/>
 - [Kright/ArrayView](https://github.com/Kright/ArrayView): Scala library for efficient multi-dimensional arrays
+- [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp): State of the Art Natural Language Processing <https://sparknlp.org/>
 
 ### kotlin for Data Intensive System
 

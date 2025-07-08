@@ -129,6 +129,7 @@ Streaming Systems
 - [tansu-io/tansu](https://github.com/tansu-io/tansu): Tansu is an Apache Kafka API compatible broker written in async 🚀 Rust 🦀 <https://tansu.io>
 - [uber/uForwarder](https://github.com/uber/uForwarder): Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
 - [Crystalite/prism](https://github.com/Crystalite/prism): Http to Kafka reactive proxy with auth using Akka
+- [yahoo/CMAK](https://github.com/yahoo/CMAK): CMAK is a tool for managing Apache Kafka clusters
 
 cli
 

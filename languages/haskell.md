@@ -17,6 +17,7 @@
   - [All Cats Are Grey](https://github.com/JeanHuguesdeRaigniac/effects-landscape/tree/main/v1)
 - 🌟 [State of the Haskell ecosystem (@Gabriella439)](https://github.com/Gabriella439/post-rfc/blob/main/sotu.md)
 <!-- - [学习 haskell 的过程中有哪些值得一做的练手项目？](https://www.zhihu.com/question/61225796/answer/185412037) -->
+- 🌟 [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads)
 - [Haskell Poll Results](https://www.stephendiehl.com/posts/poll.html)
 - [/wiki/haskell/learning Links](http://jackkelly.name/wiki/haskell/learning.html)
 - [haskell-perf/checklist](https://github.com/haskell-perf/checklist): The Haskell performance checklist
@@ -83,43 +84,24 @@
 - [haskell/criterion](https://github.com/haskell/criterion): A powerful but simple library for measuring the performance of Haskell code. <http://www.serpentine.com/criterion>
 - [tfausak/cabal-gild](https://github.com/tfausak/cabal-gild): 👑 Format Haskell package descriptions. <https://hackage.haskell.org/package/cabal-gild>
 - [tfausak/imp](https://github.com/tfausak/imp): 😈 Automatically import Haskell modules. <https://hackage.haskell.org/package/imp>
+- [well-typed/hs-bindgen](https://github.com/well-typed/hs-bindgen): Automatically generate Haskell bindings from C header files
+- [brandonchinn178/skelly](https://github.com/brandonchinn178/skelly): Skelly is an opinionated build system for Haskell.
+- [chshersh/dr-cabal](https://github.com/chshersh/dr-cabal): 📊 Haskell dependencies build times profiler
+- [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell): Maintainable configuration files <https://dhall-lang.org>
+
+## Testing
+
+- [UnkindPartition/tasty](https://github.com/UnkindPartition/tasty): Modern and extensible testing framework for Haskell
+  - [MichaelXavier/tasty-tap](https://github.com/MichaelXavier/tasty-tap): TAP (Test Anything Protocol) formatter for tasty
+- [NorfairKing/sydtest](https://github.com/NorfairKing/sydtest): A modern testing framework for Haskell with good defaults and advanced testing features.
 
 ## Parser
 
 - [haskell/alex](https://github.com/haskell/alex): A lexical analyser generator for Haskell <https://hackage.haskell.org/package/alex>
 - [haskell/happy](https://github.com/haskell/happy): The Happy parser generator for Haskell
 - [Bodigrim/blaze-markup](https://github.com/Bodigrim/blaze-markup): Core modules for a blazing fast markup combinator library
-
-## CLI
-
-- [chshersh/iris](https://github.com/chshersh/iris): 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
-- [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative): Applicative option parser
-- [tweag/ormolu](https://github.com/tweag/ormolu): A formatter for Haskell source code <https://ormolu-live.tweag.io>
-- [jaspervdj/patat](https://github.com/jaspervdj/patat): Terminal-based presentations using Pandoc
-
-## Web
-
-- [yesodweb/wai](https://github.com/yesodweb/wai): Haskell Web Application Interface
-- [monadicsystems/okapi](https://github.com/monadicsystems/okapi): A web microframework for Haskell based on monadic parsing <https://www.okapi.wiki>
-- [reflex-frp/reflex](https://github.com/reflex-frp/reflex): Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse. <https://reflex-frp.org>
-- [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk): Functional reactive web and mobile applications, with batteries included. <https://reflex-frp.org>
-- [haskell-servant/servant](https://github.com/haskell-servant/servant): Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more! <https://docs.servant.dev/>
-- 🌟 [scotty-web/scotty](https://github.com/scotty-web/scotty): Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) <http://hackage.haskell.org/package/scotty>
-- [yesodweb/yesod](https://github.com/yesodweb/yesod): A RESTful Haskell web framework built on WAI. <http://www.yesodweb.com/>
-- [Airsequel/haskell-template](https://github.com/Airsequel/haskell-template): Opinionated template for new Haskell projects.
-- [nicolashery/example-handlers-haskell](https://github.com/nicolashery/example-handlers-haskell): Example of non-trivial web handlers in Haskell web frameworks Scotty, Yesod, and Servant
-  - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant)
-- [google/proto-lens](https://github.com/google/proto-lens): API for protocol buffers using modern Haskell language and library patterns. <https://google.github.io/proto-lens>
-- [seanhess/hyperbole](https://github.com/seanhess/hyperbole): Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView
-- 🌟 [dmjio/miso](https://github.com/dmjio/miso): 🍜 A tasty Haskell front-end framework <https://haskell-miso.org>
-
-## Clients
-
-- [yesodweb/persistent](https://github.com/yesodweb/persistent): Persistence interface for Haskell allowing multiple storage methods.
-- [circuithub/rel8](https://github.com/circuithub/rel8): Hey! Hey! Can u rel8? <https://rel8.readthedocs.io>
-- [morphismtech/squeal](https://github.com/morphismtech/squeal): Squeal, a deep embedding of SQL in Haskell
-- [well-typed/grapesy](https://github.com/well-typed/grapesy): Native Haskell gRPC client and server based on `http2`
-- [obsidiansystems/gargoyle](https://github.com/obsidiansystems/gargoyle): A framework for managing daemons from Haskell and libraries for use with postgresql and nix
+- [AJChapman/formatting](https://github.com/AJChapman/formatting): Format strings type-safely with combinators
+- [tweag/capability](https://github.com/tweag/capability): Extensional capabilities and deriving combinators
 
 ## Logging and tracing
 
@@ -152,26 +134,64 @@
 - [tweag/linear-base](https://github.com/tweag/linear-base): Standard library for linear types in Haskell.
 - [Bodigrim/linear-builder](https://github.com/Bodigrim/linear-builder): Strict Text and ByteString builder, which hides mutable buffer behind linear types and takes amortized linear time. <https://hackage.haskell.org/package/text-builder-linear>
 
+## Data and numerical
+
+- [haskell-numerics/hmatrix](https://github.com/haskell-numerics/hmatrix): Linear algebra and numerical computation
+  - [Enter the matrix, Haskell style - Tweag](https://www.tweag.io/blog/2017-08-31-hmatrix/)
+- [haskell-repa/repa](https://github.com/haskell-repa/repa): High performance, regular, shape polymorphic parallel arrays. <http://repa.ouroborus.net>
+- [lehins/massiv](https://github.com/lehins/massiv): Efficient Haskell Arrays featuring Parallel computation
+- [AccelerateHS/accelerate](https://github.com/AccelerateHS/accelerate): Embedded language for high-performance array computations <https://www.acceleratehs.org>
+- no more active now
+  - [tmcdonell/cublas](https://github.com/tmcdonell/cublas): Haskell FFI bindings to CUDA BLAS library
+  - [DataHaskell/dh-core](https://github.com/DataHaskell/dh-core): Functional data science
+  - [capn-freako/Haskell_ML](https://github.com/capn-freako/Haskell_ML): Various examples of machine learning, in Haskell.
+  - [achirkin/easytensor](https://github.com/achirkin/easytensor): Many-dimensional type-safe numeric ops <https://hackage.haskell.org/package/easytensor>
+
+## CLI
+
+- [chshersh/iris](https://github.com/chshersh/iris): 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines
+- [pcapriotti/optparse-applicative](https://github.com/pcapriotti/optparse-applicative): Applicative option parser
+- [tweag/ormolu](https://github.com/tweag/ormolu): A formatter for Haskell source code <https://ormolu-live.tweag.io>
+- [jaspervdj/patat](https://github.com/jaspervdj/patat): Terminal-based presentations using Pandoc
+- [biegunka/terminal-size](https://github.com/biegunka/terminal-size): Get terminal window width and height <http://biegunka.github.io/terminal-size>
+- [kowainik/shellmet](https://github.com/kowainik/shellmet): 🐚 Out of the shell solution for scripting in Haskell <https://kowainik.github.io/projects/shellmet>
+
+## Web
+
+- [yesodweb/wai](https://github.com/yesodweb/wai): Haskell Web Application Interface
+- [monadicsystems/okapi](https://github.com/monadicsystems/okapi): A web microframework for Haskell based on monadic parsing <https://www.okapi.wiki>
+- [reflex-frp/reflex](https://github.com/reflex-frp/reflex): Interactive programs without callbacks or side-effects. Functional Reactive Programming (FRP) uses composable events and time-varying values to describe interactive systems as pure functions. Just like other pure functional code, functional reactive code is easier to get right on the first try, maintain, and reuse. <https://reflex-frp.org>
+- [obsidiansystems/obelisk](https://github.com/obsidiansystems/obelisk): Functional reactive web and mobile applications, with batteries included. <https://reflex-frp.org>
+- [haskell-servant/servant](https://github.com/haskell-servant/servant): Main repository for the servant libraries — DSL for describing, serving, querying, mocking, documenting web applications and more! <https://docs.servant.dev/>
+- 🌟 [scotty-web/scotty](https://github.com/scotty-web/scotty): Haskell web framework inspired by Ruby's Sinatra, using WAI and Warp (Official Repository) <http://hackage.haskell.org/package/scotty>
+- [yesodweb/yesod](https://github.com/yesodweb/yesod): A RESTful Haskell web framework built on WAI. <http://www.yesodweb.com/>
+- [Airsequel/haskell-template](https://github.com/Airsequel/haskell-template): Opinionated template for new Haskell projects.
+- [nicolashery/example-handlers-haskell](https://github.com/nicolashery/example-handlers-haskell): Example of non-trivial web handlers in Haskell web frameworks Scotty, Yesod, and Servant
+  - [Comparing request handlers in Scotty, Yesod, and Servant](https://nicolashery.com/comparing-scotty-yesod-servant)
+- [google/proto-lens](https://github.com/google/proto-lens): API for protocol buffers using modern Haskell language and library patterns. <https://google.github.io/proto-lens>
+- [seanhess/hyperbole](https://github.com/seanhess/hyperbole): Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView
+- 🌟 [dmjio/miso](https://github.com/dmjio/miso): 🍜 A tasty Haskell front-end framework <https://haskell-miso.org>
+
+## Clients
+
+- [yesodweb/persistent](https://github.com/yesodweb/persistent): Persistence interface for Haskell allowing multiple storage methods.
+- [circuithub/rel8](https://github.com/circuithub/rel8): Hey! Hey! Can u rel8? <https://rel8.readthedocs.io>
+- [morphismtech/squeal](https://github.com/morphismtech/squeal): Squeal, a deep embedding of SQL in Haskell
+- [well-typed/grapesy](https://github.com/well-typed/grapesy): Native Haskell gRPC client and server based on `http2`
+- [obsidiansystems/gargoyle](https://github.com/obsidiansystems/gargoyle): A framework for managing daemons from Haskell and libraries for use with postgresql and nix
+
 ## Other good libs
 
-- [chshersh/dr-cabal](https://github.com/chshersh/dr-cabal): 📊 Haskell dependencies build times profiler
-- [brandonchinn178/skelly](https://github.com/brandonchinn178/skelly): Skelly is an opinionated build system for Haskell.
-- [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell): Maintainable configuration files <https://dhall-lang.org>
 - 🌟 [deadpendency/deadpendency](https://github.com/deadpendency/deadpendency): Check if my repo's dependencies are dead (projects)! <https://deadpendency.com/>
-- [tweag/capability](https://github.com/tweag/capability): Extensional capabilities and deriving combinators
 - [patrickt/fastsum](https://github.com/patrickt/fastsum): A fast open-union type, suitable for 100+ contained alternatives.
 - [HeinrichApfelmus/reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana): Library for functional reactive programming in Haskell. <https://wiki.haskell.org/Reactive-banana>
 - [acowley/concurrent-machines](https://github.com/acowley/concurrent-machines): Concurrency features for the Haskell machines package
 - [well-typed/blockio-uring](https://github.com/well-typed/blockio-uring): Library to perform batches of asynchronous disk IO operations. Implemented using Linux io_uring API.
-- [AJChapman/formatting](https://github.com/AJChapman/formatting): Format strings type-safely with combinators
 - [devonhollowood/search-algorithms](https://github.com/devonhollowood/search-algorithms): Haskell library containing common graph search algorithms
 - [haskellari/these](https://github.com/haskellari/these): An either-or-both data type, with corresponding hybrid error/writer monad transformer.
 - [tfausak/witch](https://github.com/tfausak/witch): 🧙‍♀️ Convert values from one type into another. <https://hackage.haskell.org/package/witch>
 - [haskell-unordered-containers/unordered-containers](https://github.com/haskell-unordered-containers/unordered-containers): Efficient hashing-based container types
 - [guibou/PyF](https://github.com/guibou/PyF): Haskell QuasiQuoter for String Formatting
-- [haskell-repa/repa](https://github.com/haskell-repa/repa): High performance, regular, shape polymorphic parallel arrays. <http://repa.ouroborus.net>
-- [NorfairKing/sydtest](https://github.com/NorfairKing/sydtest): A modern testing framework for Haskell with good defaults and advanced testing features.
-- [kowainik/shellmet](https://github.com/kowainik/shellmet): 🐚 Out of the shell solution for scripting in Haskell <https://kowainik.github.io/projects/shellmet>
 - [klapaucius/vector-hashtables](https://github.com/klapaucius/vector-hashtables): Mutable vector-hashtables
 - [channable/alfred-margaret](https://github.com/channable/alfred-margaret): Fast Aho-Corasick string searching <https://tech.channable.com/posts/2019-03-13-how-we-made-haskell-search-strings-as-fast-as-rust.html>
 - [chrisdone/hell](https://github.com/chrisdone/hell): Haskell-based shell scripting language
@@ -181,8 +201,4 @@
 - [raehik/binrep](https://github.com/raehik/binrep): Useful, efficient, precise binary schema modelling in Haskell
 - [NorfairKing/cursor](https://github.com/NorfairKing/cursor): Cursor data and manipulation
 - [owensmurray/om-legion](https://github.com/owensmurray/om-legion): Core Legion Framework
-- [well-typed/hs-bindgen](https://github.com/well-typed/hs-bindgen): Automatically generate Haskell bindings from C header files
 - [diku-dk/futhark](https://github.com/diku-dk/futhark): 💥💻💥 A data-parallel functional programming language <http://futhark-lang.org>
-- [biegunka/terminal-size](https://github.com/biegunka/terminal-size): Get terminal window width and height <http://biegunka.github.io/terminal-size>
-- [UnkindPartition/tasty](https://github.com/UnkindPartition/tasty): Modern and extensible testing framework for Haskell
-  - [MichaelXavier/tasty-tap](https://github.com/MichaelXavier/tasty-tap): TAP (Test Anything Protocol) formatter for tasty

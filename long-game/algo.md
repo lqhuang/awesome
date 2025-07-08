@@ -88,6 +88,7 @@
 - [risteskilab/deq-neural-operators](https://github.com/risteskilab/deq-neural-operators): Deep Equilibrium Based Neural Operators for Steady State PDEs
 - [y1xiaoc/fwdlap](https://github.com/y1xiaoc/fwdlap): Forward mode laplacian implemented in JAX tracer <https://github.com/y1xiaoc/fwdlap>
 - [microsoft/folx](https://github.com/microsoft/folx): Implementation of Forward Laplacian algorithm in JAX
+- [ExtensityAI/symbolicai](https://github.com/ExtensityAI/symbolicai): Compositional Differentiable Programming Library
 
 ## Graph
 

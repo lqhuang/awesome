@@ -17,6 +17,7 @@
 - [sonatype maven central repository](https://central.sonatype.com/)
   - [Documentation](https://central.sonatype.org/)
 - 🌟 [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog): Find, verify, and analyze leaked credentials <https://trufflesecurity.com>
+- [janestreet/iron](https://github.com/janestreet/iron): Jane Street code review system
 
 ### Misc linters / formatters
 
@@ -37,6 +38,7 @@
   - [pyenchant/pyenchant](https://github.com/pyenchant/pyenchant): spellchecking library for python <https://pyenchant.github.io/pyenchant/>
 - 🌟 [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect): A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). <https://huacnlee.github.io/autocorrect>
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint): An extremely fast directory and filename linter - Bring some structure to your project filesystem <https://ls-lint.org>
+- [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell
 
 ## Build systems
 
@@ -174,6 +176,10 @@ Libs
   - [python-tap/pytest-tap](https://github.com/python-tap/pytest-tap): Test Anything Protocol (TAP) reporting plugin for pytest <http://tappy.readthedocs.io/en/latest/>
 - Cpp
   - [kinow/gtest-tap-listener](https://github.com/kinow/gtest-tap-listener): GoogleTest TAP Listener <https://tupilabs.com/tap4j/>
+- [aiiie/cram](https://github.com/aiiie/cram): Functional tests for command line applications
+  - archived still good to learn the design
+  - [Cram: It's test time](https://bitheap.org/cram/)
+- 🌟 [Jane Street Blog - What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
 
 ### API Test
 

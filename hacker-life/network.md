@@ -236,7 +236,11 @@ STUN / TURN / ICE
 - [Is using HTTP3?](https://http3.is)
 - [HTTP/3 Check](https://http3check.net)
 - [IPLeak.net](https://ipleak.net)
-- [DSN leak test](https://www.dnsleaktest.com/):
+- [DSN leak test](https://www.dnsleaktest.com/)
+- Surfshark DNS Leak Test
+  - [What is my IP address location?](https://surfshark.com/what-is-my-ip)
+  - [Check for DNS leaks](https://surfshark.com/dns-leak-test)
+  - [Check for WebRTC leaks](https://surfshark.com/webrtc-leak-test)
 - [Globalping](https://www.jsdelivr.com/globalping)
 - 🌟 [Web Check](https://web-check.xyz/)
   - [Lissy93/web-check](https://github.com/Lissy93/web-check): 🕵️‍♂️ All-in-one OSINT tool for analysing any website
@@ -248,15 +252,14 @@ STUN / TURN / ICE
 - [Netify](https://www.netify.ai/): Network Intelligence - Simplified. Netify provides full transparency into what’s happening on the network. Local deep packet network monitoring coupled with cloud-based analytics to deliver exceptional, business-driven results.
 - [IP Guide](https://ip.guide/): Your guide to internet numbers
   - `curl -sL ip.guide`
-- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP): A better IP Toolbox. Easy to check what's your IPs, IP informations, check for DNS leaks, examine WebRTC connections, speed test, and test website availability. || 🇨🇳 一个更好的 IP 工具箱。可以查看 IP、IP 信息（代理前后）、检查 DNS 泄露、检查 WebRTC 连接、网速测试、测试网站可用性等。 <https://ipcheck.ing>
+- [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP): A better IP Toolbox. Easy to check what's your IPs, IP informations, check for DNS leaks, examine WebRTC connections, speed test, and test website availability. <https://ipcheck.ing>
 - [Cloudflare Speed Test](https://speed.cloudflare.com/)
 - [Fast](https://fast.com/)
 - [Skk IP Test](https://ip.skk.moe/)
 - [IP.SB](https://ip.sb/)
-- https://www.islegitsite.com/
-- https://www.ssllabs.com/ssltest/
-- https://www.cloudflare.com/ssl/encrypted-sni/
-- https://ipcheck.ing/
+- [Is That Website Legit?](https://www.islegitsite.com/): Best security tool to check if a website is legit or potentially scam.
+- 🌟 [SSL Server Test (Powered by Qualys SSL Labs)](https://www.ssllabs.com/ssltest/): A comprehensive free SSL test for your public web servers.
+- [Browsing Experience Security Check](https://www.cloudflare.com/ssl/encrypted-sni/)
 - [BGP View](https://bgpview.docs.apiary.io)
 - [BrowserScan](https://www.browserscan.net/)
 - 🌟 [hackclub/how-did-i-get-here](https://github.com/hackclub/how-did-i-get-here): A tool/website/article by @kognise about how routing on the Internet works. <https://how-did-i-get-here.net>
@@ -267,7 +270,7 @@ STUN / TURN / ICE
 - [Private proxy IPv4](https://proxy-ipv4.com): Proxy for Traffic arbitrage, SMM, SEO and PPC activities
 - https://iplark.com/
 - [ICE Test by atec-systems](https://icetest.atec-systems.com)
-- https://dns.surf/
+- [DNS.Surf](https://dns.surf/): Exploring the Fascinating Journey of DNS Resolution Worldwide!
 - [crt.sh](https://crt.sh/): Certificate Search
 - [W.is Whois Lookup](https://w.is)
 - [IPinfo Lite](https://ipinfo.io/lite): Access the most accurate free IP geolocation and ASN data with IPinfo Lite. Use our API or download the full database in a variety of formats.

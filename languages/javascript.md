@@ -113,6 +113,8 @@ Specific
 - [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector): Interactive UI for local node modules inspection <https://node-modules.dev>
 - [@next/bundle-analyzer | npmjs](https://www.npmjs.com/package/@next/bundle-analyzer)
 - 🌟 [facebook/memlab](https://github.com/facebook/memlab): A framework for finding JavaScript memory leaks and analyzing heap snapshots <https://facebook.github.io/memlab/>
+- [keithamus/sort-package-json](https://github.com/keithamus/sort-package-json): Sort an Object or package.json based on the well-known package.json keys
+  - [matzkoh/prettier-plugin-packagejson](https://github.com/matzkoh/prettier-plugin-packagejson): Prettier plugin for package.json
 
 ### Modernize
 
@@ -141,6 +143,7 @@ Specific
   - [fiberplane/awesome-honc](https://github.com/fiberplane/awesome-honc): A curated list of awesome HONC projects <https://honc.dev>
   - [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter): Rate Limit middleware for Hono Server <https://hono-rate-limiter.vercel.app>
   - [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi): A plugin for Hono to generate OpenAPI Swagger documentation
+  - [w3cj/hono-open-api-starter](https://github.com/w3cj/hono-open-api-starter): A starter template for building fully documented type-safe JSON APIs with Hono and Open API <https://www.youtube.com/watch?v=sNh9PoM9sUE>
 
 ## Functional libraries
 
@@ -334,11 +337,12 @@ Specific
 - [isaacs/node-glob](https://github.com/isaacs/node-glob): glob functionality for node.js
 - [isaacs/st](https://github.com/isaacs/st): A node module for serving static files. Does etags, caching, etc.
   - "Does etags, caching, etc." How? Try to learn from `st`
+- [thecodrr/fdir](https://github.com/thecodrr/fdir): ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s <https://thecodrr.github.io/fdir/>
+- [SuperchupuDev/tinyglobby](https://github.com/SuperchupuDev/tinyglobby): A fast and minimal alternative to globby and fast-glob <https://npmjs.com/package/tinyglobby>
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms): Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes): Convert bytes to a human readable string: 1337 → 1.34 kB
 - 🌟 [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation.
 - 🌟 [image-js/iobuffer](https://github.com/image-js/iobuffer): Read and write binary data in ArrayBuffers <https://image-js.github.io/iobuffer/>
-- [thecodrr/fdir](https://github.com/thecodrr/fdir): ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s <https://thecodrr.github.io/fdir/>
 - [josdejong/mathjs](https://github.com/josdejong/mathjs): An extensive math library for JavaScript and Node.js <https://mathjs.org>
 
 ## Middleware

@@ -115,6 +115,8 @@ And modern is here now.
 - [csmith-project/creduce](https://github.com/csmith-project/creduce): C-Reduce, a C and C++ program reducer
 - [HBehrens/puncover](https://github.com/HBehrens/puncover): Analyses C/C++ build output for code size, static variables, and stack usage
 - 🌟 [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use): A tool for use with clang to analyze #includes in C and C++ source files <https://include-what-you-use.org>
+- [TypeSanitizer — Clang documentation](https://clang.llvm.org/docs/TypeSanitizer.html)
+  - We have type sanitizer now 😄
 
 ### CI
 
@@ -198,6 +200,7 @@ And modern is here now.
 - [USCiLab/cereal](https://github.com/USCiLab/cereal): A C++11 library for serialization
 - [felixguendling/cista](https://github.com/felixguendling/cista): Cista is a simple, high-performance, zero-copy C++ serialization & reflection library. <https://cista.rocks>
 - [Loki-Astari/ThorsSerializer](https://github.com/Loki-Astari/ThorsSerializer): No description, website, or topics provided.
+- [MaJerle/lwrb](https://github.com/MaJerle/lwrb): Lightweight generic ring buffer manager library
 
 ## String
 

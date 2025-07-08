@@ -49,6 +49,8 @@
 - [microsoft/verified-storage](https://github.com/microsoft/verified-storage): Storage systems with verified correctness properties
 - 🌟 [kaimast/lsm-rs](https://github.com/kaimast/lsm-rs): Modular, Asynchronous Implementation of a Log-Structured Merge Tree
 - [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite. <https://logica.dev>
+- [clflushopt/tpchgen-rs](https://github.com/clflushopt/tpchgen-rs): TPC-H benchmark data generation in pure Rust
+  - [tpchgen-rs World’s fastest open source TPC-H data generator, written in Rust - Apache DataFusion Blog](https://datafusion.apache.org/blog/2025/04/10/fastest-tpch-generator/)
 
 ### Practices
 
@@ -220,6 +222,7 @@ Misc
   - [uber/h3](https://github.com/uber/h3): Hexagonal hierarchical geospatial indexing system <https://h3geo.org>
   - [uber/h3-py](https://github.com/uber/h3-py): Python bindings for H3, a hierarchical hexagonal geospatial indexing system <https://uber.github.io/h3-py>
 - 🌟 [PostgREST/postgrest](https://github.com/PostgREST/postgrest): REST API for any Postgres database <https://postgrest.org>
+- [plv8/pljs](https://github.com/plv8/pljs): PLJS - Javascript Language Plugin for PostgreSQL
 
 ### SQLite
 

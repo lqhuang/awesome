@@ -55,8 +55,8 @@
 
 ## Memory allocator
 
-- [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a compact general purpose allocator with excellent performance.
-- [microsoft/snmalloc](https://github.com/microsoft/snmalloc): Message passing based allocator
+- 🌟 [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a compact general purpose allocator with excellent performance.
+- 🌟 [microsoft/snmalloc](https://github.com/microsoft/snmalloc): Message passing based allocator
 - [google/tcmalloc](https://github.com/google/tcmalloc): TCMalloc is Google's customized implementation of C's `malloc()` and C++'s `operator new` used for memory allocation within our C and C++ code. TCMalloc is a fast, multi-threaded malloc implementation.
 - [foonathan/memory](https://github.com/foonathan/memory): STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write. <https://memory.foonathan.net>
 - [mjansson/rpmalloc](https://github.com/mjansson/rpmalloc): Public domain cross platform lock free thread caching 16-byte aligned memory allocator implemented in C

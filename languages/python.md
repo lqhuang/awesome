@@ -237,6 +237,7 @@ Misc
 - [mgedmin/objgraph](https://github.com/mgedmin/objgraph): Visually explore Python object graphs <http://mg.pov.lt/objgraph/>
   - [Cowboy Debugging Python Memory Leaks](https://rtpg.co/2025/01/01/cowboy-coding-memory)
 - 🌟 [brandtbucher/specialist](https://github.com/brandtbucher/specialist): Visualize CPython's specializing, adaptive interpreter. 🔥
+- [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen): An intuitive and low-overhead instrumentation tool for Python <https://dowhen.readthedocs.io/>
 
 ## Functional Programming in Python
 

@@ -26,6 +26,8 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [cmiscm/leonsans](https://github.com/cmiscm/leonsans): Leon Sans is a geometric sans-serif typeface made with code in 2019 by Jongmin Kim. <https://leon-kim.com/>
 - [arrowtype/recursive](https://github.com/arrowtype/recursive): Recursive Mono & Sans is a variable font family for code & UI <https://recursive.design>
 - [Font Catalog — Connary Fagen](https://connary.com/fonts/)
+- Optima
+- [Departure Mono](https://departuremono.com/): Departure Mono is a monospaced pixel font by Helena Zhang, licensed under the SIL OFL.
 
 Mono
 
@@ -41,6 +43,22 @@ Mono
 - [MonoLisa](https://www.monolisa.dev/): A font family designed for software developers. Font follows function.
 - [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
 - [TX-02 Berkeley Mono™ Typeface](https://usgraphics.com/products/berkeley-mono): A love letter to the golden era of computing.
+- [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono): A monospaced pixel font with a lo-fi, techy vibe <https://departuremono.com/>
+
+Math fonts
+
+- [Math Fonts in Microsoft Office | Random Walks](https://mrchasemath.com/2013/01/05/math-fonts-in-microsoft-office/)
+- [CTAN: /tex-archive/fonts/Asana-Math](https://www.ctan.org/tex-archive/fonts/Asana-Math/)
+  - compatible with Palatino
+- Latin Modern & Latin Modern Math
+  - the modernization of the Computer Modern family
+  - [The Latin Modern (LM) Family of Fonts — GUST Web Presence](https://www.gust.org.pl/projects/e-foundry/latin-modern/)
+  - [The Latin Modern Math (LM Math) font — GUST Web Presence](https://www.gust.org.pl/projects/e-foundry/lm-math)
+- STIX math
+  - STIX (The Scientific and Technical Information eXchange)
+  - work togher with Times New Roman
+  - [stipub/stixfonts](https://github.com/stipub/stixfonts): OpenType Unicode fonts for Scientific, Technical, and Mathematical texts
+  - alternative XITS Math
 
 CJK
 
