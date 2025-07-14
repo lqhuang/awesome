@@ -150,6 +150,7 @@
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny): Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed): A speed test analysis software that shows your internet speed for up to 30 days <https://myspeed.dev>
 - [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live): For more information, please see http://smartos.org/ For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
+- [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics): 🚀 Open source monitoring tool built with Node.js <https://lunalytics.xyz>
 
 ### Docker tools
 

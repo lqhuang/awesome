@@ -292,15 +292,20 @@ Do a benchmark (final size while using Scala Native) for them?
 - [suzaku-io/boopickle](https://github.com/suzaku-io/boopickle): Binary serialization library for efficient network communication
 - [VirtusLab/scala-yaml](https://github.com/VirtusLab/scala-yaml):
 
-### Logging
+### Logging and OpenTelemetry
+
+Logging
 
 - 🌟 [outr/scribe](https://github.com/outr/scribe): The fastest logging library in the world. Built from scratch in Scala and programmatically configurable.
 - [valskalla/odin](https://github.com/valskalla/odin): Fast & Functional logger in Scala
   - no longer maintained?
 
-### Tracing
+OpenTelemetry
 
 - [kamon-io/Kamon](https://github.com/kamon-io/Kamon): Distributed Tracing, Metrics and Context Propagation for applications running on the JVM
+- [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer): Akka extension and agent exposing application telemetry and events via OpenTelemetry interface
+- [typelevel/otel4s](https://github.com/typelevel/otel4s): An OpenTelemetry library for Scala based on Cats-Effect
+- [deeptshukla/play-observability](https://github.com/deeptshukla/play-observability): Opentelemetry with Scala and Play Framework Example
 
 ### Clients
 
@@ -367,6 +372,7 @@ Do a benchmark (final size while using Scala Native) for them?
   - ulid
 - 🌟 [outr/perfolation](https://github.com/outr/perfolation): Performance focused interpolation
 - [arainko/chanterelle](https://github.com/arainko/chanterelle): No description, website, or topics provided.
+- [geirolz/cats-xml](https://github.com/geirolz/cats-xml): A functional library to work with XML in Scala using Cats. <https://geirolz.github.io/cats-xml/>
 
 ### Misc
 
@@ -424,7 +430,6 @@ Do a benchmark (final size while using Scala Native) for them?
 
 - [sangria-graphql/sangria](https://github.com/sangria-graphql/sangria): Scala GraphQL implementation <https://sangria-graphql.github.io>
 - [paypal/squbs](https://github.com/paypal/squbs): Akka Streams & Akka HTTP for Large-Scale Production Deployments <http://paypal.github.io/squbs>
-- [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer): Akka extension and agent exposing application telemetry and events via OpenTelemetry interface
 - [ing-bank/baker](https://github.com/ing-bank/baker): Orchestrate microservice-based process flows <https://ing-bank.github.io/baker>
 - [awagen/kolibri](https://github.com/awagen/kolibri): Repository gathering all projects of Kolibri. Kolibri provides a framework for concurrent, clusterable multi-node executions. Its based on Akka, written in Scala. Initial use-case job definitions focus on evaluations of search systems and examples of state sharding. Given the flexibility of the implementation, more jobs are planned, such as load... <https://awagen.github.io/kolibri>
 - [akka/akka-persistence-r2dbc](https://github.com/akka/akka-persistence-r2dbc): R2DBC Plugin for Akka Persistence <https://doc.akka.io/docs/akka-persistence-r2dbc/current/index.html>
@@ -445,7 +450,6 @@ Do a benchmark (final size while using Scala Native) for them?
 - [typelevel/log4cats](https://github.com/typelevel/log4cats): Logging Tools For Interaction with cats-effect <https://typelevel.org/log4cats/>
 - 🌟 [LEGO/woof](https://github.com/LEGO/woof): A pure Scala 3 logging library with no reflection
 - [tpolecat/natchez](https://github.com/tpolecat/natchez): functional tracing for cats
-- [typelevel/otel4s](https://github.com/typelevel/otel4s): An OpenTelemetry library for Scala based on Cats-Effect
 - 🌟 [trace4cats/trace4cats](https://github.com/trace4cats/trace4cats): Distributed app tracing implementation in pure scala using cats-effect
 - [typelevel/toolkit](https://github.com/typelevel/toolkit): Quickstart your next app with the Typelevel Toolkit!
 - [cb372/cats-retry](https://github.com/cb372/cats-retry): A library for retrying actions that can fail. <https://cb372.github.io/cats-retry/>

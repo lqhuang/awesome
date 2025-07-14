@@ -97,6 +97,7 @@
 
 ### Latex Templates
 
+- [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex): A Tufte-inspired LaTeX class for producing handouts, papers, and books <https://tufte-latex.github.io/tufte-latex/>
 - [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint): 📝 A nicely formatted LaTeX preprint template
 - [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook): Elegant LaTeX Template for Books
 - [ice1000/multi-school-sop](https://github.com/ice1000/multi-school-sop): A latex template for writing statement-of-purpose for many schools at the same time

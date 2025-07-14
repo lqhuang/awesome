@@ -201,6 +201,7 @@ And modern is here now.
 - [felixguendling/cista](https://github.com/felixguendling/cista): Cista is a simple, high-performance, zero-copy C++ serialization & reflection library. <https://cista.rocks>
 - [Loki-Astari/ThorsSerializer](https://github.com/Loki-Astari/ThorsSerializer): No description, website, or topics provided.
 - [MaJerle/lwrb](https://github.com/MaJerle/lwrb): Lightweight generic ring buffer manager library
+- [GNOME/libxml2](https://github.com/GNOME/libxml2): Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2 <https://gitlab.gnome.org/GNOME/libxml2>
 
 ## String
 

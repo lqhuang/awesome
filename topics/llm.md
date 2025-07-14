@@ -10,6 +10,8 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools): FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent & Windsurf Agent System Prompts, Tools & AI Models.
 - [jamez-bondos/awesome-gpt4o-images](https://github.com/jamez-bondos/awesome-gpt4o-images): Awesome curated collection of GPT-4o images & prompts. Explore diverse AI-generated art styles (Ghibli, 3D, etc.) from OpenAI's latest model.
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering): "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A practical, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. <https://deepwiki.com/davidkimai/Context-Engineering>
+- 🌟 [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents): What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+- [LLM Inference in Production | BentoML](https://bentoml.com/llm/): A practical handbook for engineers building, optimizing, scaling and operating LLM inference systems in production.
 
 ## Research
 
@@ -46,6 +48,7 @@
     - Currently, websites have structured data (Schema.org) but no standard way for AI agents or conversational interfaces to access it.
     - NLWeb creates a standard protocol for conversational access to web content. Like RSS did for syndication, NLWeb does for AI interactions - one implementation serves both human chat interfaces and programmatic agent access.
     - The key insight: Instead of building custom NLP for every site, NLWeb leverages LLMs' existing understanding of Schema.org to create instant conversational interfaces.
+- [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui): A research prototype of a human-centered web agent <https://www.microsoft.com/en-us/research/blog/magentic-ui-an-experimental-human-centered-web-agent/>
 
 ### App Builder
 
@@ -77,6 +80,7 @@
 - [smpanaro/more-ane-transformers](https://github.com/smpanaro/more-ane-transformers): Run transformers (incl. LLMs) on the Apple Neural Engine.
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured): Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines. <https://www.unstructured.io/>
 - [lm-sys/arena-hard-auto](https://github.com/lm-sys/arena-hard-auto): Arena-Hard-Auto: An automatic LLM benchmark.
+- [kstonekuan/simple-chromium-ai](https://github.com/kstonekuan/simple-chromium-ai): A lightweight TypeScript wrapper for Chrome's built-in AI Prompt API that trades flexibility for simplicity and type safety. <https://www.npmjs.com/package/simple-chromium-ai>
 
 ### Enforce
 

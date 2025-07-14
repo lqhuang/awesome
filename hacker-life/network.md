@@ -73,6 +73,11 @@
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py): 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "Web Server" framework • ➵ ➶ ➷ ➠ "PubSub" framework • 👷 "Work" acceptor & executor framework <https://abhinavsingh.com/proxy-py-a-lightweight-single-file-http-proxy-server-in-python/>
 - [HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester): 测试当前网络的 NAT 类型（STUN）
 - 🌟 [cloudflare/ipvs](https://github.com/cloudflare/ipvs): Package ipvs allows you to manage Linux IPVS services and destinations
+- [raboof/nethogs](https://github.com/raboof/nethogs): Linux 'net top' tool
+- [iptraf-ng/iptraf-ng](https://github.com/iptraf-ng/iptraf-ng): IPTraf-ng is a console-based network monitoring program for Linux that displays information about IP traffic.
+- [elesiuta/picosnitch](https://github.com/elesiuta/picosnitch): Monitor Network Traffic Per Executable, Beautifully Visualized <https://elesiuta.github.io/picosnitch/>
+- [mikaku/Monitorix](https://github.com/mikaku/Monitorix): Monitorix is a free, open source, lightweight system monitoring tool. <https://www.monitorix.org>
+- [NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore): Nagios Core
 
 ### Analysis
 

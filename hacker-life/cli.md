@@ -15,6 +15,9 @@
 - 🌟 [z-shell/zi](https://github.com/z-shell/zi): ✨ A Swiss Army Knife for Zsh - Unix Shell <https://wiki.zshell.dev>
 - 🌟🌟🌟 [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty): 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration. <https://ghostty.org>
   - [zerebos/ghostty-config](https://github.com/zerebos/ghostty-config): A beautiful config generator for Ghostty terminal. <http://ghostty.zerebos.com/>
+- 🌟 [ANSI Escape Codes](https://ansi.tools/): View and inspect ANSI escape sequences in the browser. See a visual rendering and a detailed breakdown of all control codes.
+  - [webpro/ANSI.tools](https://github.com/webpro/ANSI.tools): https://ansi.tools
+  - Any similar tools for HTML escape codes? 🥹😭
 
 ## standard
 
@@ -39,6 +42,7 @@
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless): jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. <https://jless.io>
 - [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹 <https://asciinema.org>
 - [asciinema/agg](https://github.com/asciinema/agg): asciinema gif generator
+- [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli): Share terminal sessions via SVG and CSS
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs): Your CLI home video recorder 📼
 - [ellie/atuin](https://github.com/ellie/atuin): 🐢 Magical shell history <https://atuin.sh>
 - [blicky/ncdu](https://g.blicky.net/ncdu.git): Ncdu (NCurses Disk Usage) is a disk usage analyzer with an ncurses interface. <https://dev.yorhel.nl/ncdu>
@@ -89,6 +93,7 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx): Terminal JSON viewer & processor <https://fx.wtf>
 - [mikefarah/yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor <https://mikefarah.gitbook.io/yq/>
   - not to be confused with kislyuk/yq (python version)
+- [ashish0kumar/stormy](https://github.com/ashish0kumar/stormy): 🌦️ Minimal, customizable and neofetch-like weather CLI based on rainy
 
 ### Watcher
 
@@ -121,6 +126,7 @@
 - [context-labs/mactop](https://github.com/context-labs/mactop): mactop - Apple Silicon Monitor Top
 - 🌟 [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool): Native cross-platform full feature terminal-based sequence editor for git interactive rebase. <https://gitrebasetool.mitmaro.ca/>
 - 🌟 [microsoft/edit](https://github.com/microsoft/edit): We all edit.
+- [tenox7/ttyplot](https://github.com/tenox7/ttyplot): a realtime plotting utility for terminal/console with data input from stdin
 
 ## Monitor
 

@@ -39,6 +39,7 @@
 - 🌟 [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect): A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). <https://huacnlee.github.io/autocorrect>
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint): An extremely fast directory and filename linter - Bring some structure to your project filesystem <https://ls-lint.org>
 - [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell
+- [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
 
 ## Build systems
 

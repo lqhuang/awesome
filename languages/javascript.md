@@ -115,6 +115,7 @@ Specific
 - 🌟 [facebook/memlab](https://github.com/facebook/memlab): A framework for finding JavaScript memory leaks and analyzing heap snapshots <https://facebook.github.io/memlab/>
 - [keithamus/sort-package-json](https://github.com/keithamus/sort-package-json): Sort an Object or package.json based on the well-known package.json keys
   - [matzkoh/prettier-plugin-packagejson](https://github.com/matzkoh/prettier-plugin-packagejson): Prettier plugin for package.json
+- [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint): ✨ Experimental proof-of-concept typescript-go powered JS/TS linter written in Go
 
 ### Modernize
 
@@ -161,9 +162,15 @@ Specific
 
 ### Concurrency
 
-- [andywer/threads.js](https://github.com/andywer/threads.js): 🧵 Make web workers & worker threads as simple as a function call. <https://threads.js.org/>
 - [henrygd/queue](https://github.com/henrygd/queue): Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster
 - [piscinajs/piscina](https://github.com/piscinajs/piscina): A fast, efficient Node.js Worker Thread Pool implementation <https://piscinajs.dev>
+- [poolifier/poolifier](https://github.com/poolifier/poolifier): Fast and small Node.js worker_threads and cluster worker pool <https://poolifier.github.io/poolifier/>
+
+### Web worker
+
+- [andywer/threads.js](https://github.com/andywer/threads.js): 🧵 Make web workers & worker threads as simple as a function call. <https://threads.js.org/>
+- [developit/web-worker](https://github.com/developit/web-worker): Consistent Web Workers in browser and Node. <https://npm.im/web-worker>
+- [GoogleChromeLabs/comlink](https://github.com/GoogleChromeLabs/comlink): Comlink makes WebWorkers enjoyable.
 
 ### Schema
 
@@ -295,6 +302,7 @@ Specific
 - [discordeno/discordeno](https://github.com/discordeno/discordeno): Discord API library for Node and Deno <https://discordeno.js.org>
 - [platformatic/kafka](https://github.com/platformatic/kafka): A modern, high-performance, pure TypeScript/JavaScript type safe client for Apache Kafka.
 - [good-lly/s3mini](https://github.com/good-lly/s3mini): 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @Backblaze @digitalocean @garagehq <https://www.npmjs.com/package/s3mini>
+- [grammyjs/grammY](https://github.com/grammyjs/grammY): The Telegram Bot Framework. <https://grammy.dev>
 
 ### CLI
 
@@ -344,14 +352,13 @@ Specific
 - 🌟 [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation.
 - 🌟 [image-js/iobuffer](https://github.com/image-js/iobuffer): Read and write binary data in ArrayBuffers <https://image-js.github.io/iobuffer/>
 - [josdejong/mathjs](https://github.com/josdejong/mathjs): An extensive math library for JavaScript and Node.js <https://mathjs.org>
+- 🌟 [shuding/legid](https://github.com/shuding/legid): A library for generating safe, legit and random URL-compat IDs.
 
 ## Middleware
 
-- [askorama/orama](https://github.com/askorama/orama): 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! <https://docs.oramasearch.com>
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit): A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). <https://triplit.dev>
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware): ⚡ The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase): The reactive data store for local‑first apps. <https://tinybase.org>
-- [developit/web-worker](https://github.com/developit/web-worker): Consistent Web Workers in browser and Node. <https://npm.im/web-worker>
 - [tinyhttp/malibu](https://github.com/tinyhttp/malibu): 🏄 Framework-agnostic CSRF middleware for modern Node.js <https://tinyhttp.v1rtl.site/mw/malibu>
 - [cipherstash/protectjs](https://github.com/cipherstash/protectjs): Encrypt and protect data using industry standard algorithms, field level encryption, a unique data key per record, bulk encryption operations, and decryption level identity verification. <https://cipherstash.com>
 

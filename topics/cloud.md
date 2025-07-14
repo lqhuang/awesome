@@ -20,6 +20,7 @@
 - [learnk8s](https://learnk8s.io/): Kubernetes training for engineers. Develop the knowledge and skills to get the most out of Kubernetes with hands-on online courses and instructor-led classes.
 - [virtual-kubelet/systemk](https://github.com/virtual-kubelet/systemk): Systemk is a systemd backend for the virtual-kubelet. Instead of starting containers, you start systemd units.
   - Interesting idea that manipulating systemd units like containers
+- 🌟 [GetDeploying](https://getdeploying.com/): Compare cloud providers for your next project
 
 ## Cloud native
 
@@ -78,6 +79,7 @@
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko): Build Container Images In Kubernetes
 - [simonw/alpine-edit](https://github.com/simonw/alpine-edit): Microsoft edit packaged as a Docker container to run on a Mac
   - `vim` is too big for striped container image, `edit` is a good alternative
+- 🌟 [tilt-dev/tilt](https://github.com/tilt-dev/tilt): Define your dev environment as code. For microservice apps on Kubernetes. <https://tilt.dev/>
 
 ### OS
 
@@ -283,6 +285,7 @@ Type 1 hypervisors
 - [inlets/inlets-operator](https://github.com/inlets/inlets-operator): Get public TCP LoadBalancers for local Kubernetes clusters <https://docs.inlets.dev/reference/inlets-operator>
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager): A management framework for extending Kubernetes with Operators <https://olm.operatorframework.io>
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus): Use Prometheus to monitor Kubernetes and applications running on Kubernetes <https://prometheus-operator.dev/>
+- [sgl-project/ome](https://github.com/sgl-project/ome): OME is a Kubernetes operator for enterprise-grade management and serving of Large Language Models (LLMs) <http://docs.sglang.ai/ome/>
 
 ### Templates
 
@@ -406,6 +409,7 @@ Type 1 hypervisors
   - [sky22333/ansible](https://github.com/sky22333/ansible): 轻量级，简单易用的 Ansible Web 管理面板，提供批量主机管理、命令执行、文件传输和 Web 终端等功能。
   - [lablabs/ansible-role-rke2](https://github.com/lablabs/ansible-role-rke2): Ansible Role to install RKE2 Kubernetes. <https://galaxy.ansible.com/ui/standalone/roles/lablabs/rke2/>
   - [serversideup/docker-ansible](https://github.com/serversideup/docker-ansible): ⚡️ Run Ansible anywhere with a lightweight and powerful Docker image. <https://hub.docker.com/r/serversideup/ansible>
+  - [Testing Ansible roles with Molecule, libvirt (vagrant-libvirt) and QEMU/KVM - TauCeti blog](https://www.tauceti.blog/posts/testing-ansible-roles-with-molecule-libvirt-vagrant-qemu-kvm/): Integrate Ansible role tests with Molecule into an existing role using libvirt + QEMU/KVM
 
 ### Services
 

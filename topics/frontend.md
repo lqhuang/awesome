@@ -407,6 +407,7 @@ Misc
 - [tanem/react-svg](https://github.com/tanem/react-svg): 🎨 A React component that injects SVG into the DOM. <https://npm.im/react-svg>
 - [xiaody/react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis): Simple multiline ellipsis component for React.JS <https://xiaody.github.io/react-lines-ellipsis/>
 - [Qovery/react-xtermjs](https://github.com/Qovery/react-xtermjs): Xterm.js for React <https://www.npmjs.com/package/react-xtermjs>
+- [zachleat/line-numbers](https://github.com/zachleat/line-numbers): A web component to add line numbers next to various HTML elements <https://zachleat.github.io/line-numbers/demo.html>
 
 #### Just render json in better way
 
@@ -558,6 +559,8 @@ Concrete animations
 - [nkzw-tech/remdx](https://github.com/nkzw-tech/remdx): Beautiful Minimalist React & MDX Presentations
   - finally a react version of slidev
 - [spaansba/ForesightJS](https://github.com/spaansba/ForesightJS): Lightweight JavaScript library that predicts user intent based on mouse movements and keyboard navigation. Perfect for smart prefetching. <https://foresightjs.com/>
+- [askorama/orama](https://github.com/askorama/orama): 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! <https://docs.oramasearch.com>
+- [Pagefind/pagefind](https://github.com/Pagefind/pagefind): Static low-bandwidth search at scale <https://pagefind.app>
 
 ## W3C
 
@@ -629,6 +632,7 @@ Concrete animations
 - [YuheshPandian/ICONIC](https://github.com/YuheshPandian/ICONIC): ⚡A developer-oriented library of sleek, bubble-shaped skill icons designed for GitHub READMEs, portfolios, and resumes. <https://iconic-api.onrender.com>
 - 🌟 [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage): The homepage of Phosphor Icons, a flexible icon family for everyone <https://phosphoricons.com>
 - [emilwidlund/harmony](https://github.com/emilwidlund/harmony): A new kind of color picker for React <https://harmony.sh>
+- 🌟 [jpswalsh/academicons](https://github.com/jpswalsh/academicons): An icon font for academics <https://jpswalsh.github.io/academicons>
 
 ## Further topics
 
