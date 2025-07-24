@@ -57,6 +57,7 @@
 - [gpu-mode/resource-stream](https://github.com/gpu-mode/resource-stream): GPU programming related news and material links <https://discord.gg/gpumode>
 - [ENCCS/gpu-programming](https://github.com/ENCCS/gpu-programming): Meta-GPU lesson covering general aspects of GPU programming as well as specific frameworks <https://enccs.github.io/gpu-programming/>
 - [leimao/CUTLASS-Examples](https://github.com/leimao/CUTLASS-Examples): CUTLASS and CuTe Examples
+- [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub): NVIDIA curated collection of educational resources related to general purpose GPU programming.
 
 ### TPU
 
@@ -171,6 +172,7 @@ General problems
   - Interesting ideas
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo): A Datacenter Scale Distributed Inference Serving Framework
 - [facebookresearch/fastgen](https://github.com/facebookresearch/fastgen): Simple high-throughput inference library
+- [trymirai/uzu](https://github.com/trymirai/uzu): A high-performance inference engine for AI models <https://trymirai.com>
 
 ### Distribution kits
 

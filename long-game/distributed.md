@@ -28,6 +28,9 @@
 - [Distributed consensus](https://shachaf.net/w/consensus): This page is a relatively informal discussion of distributed consensus and Paxos, what it does, how it works, and some tricks and variants.
 - [Distributed systems theory for the distributed systems engineer | Paper Trail](https://www.the-paper-trail.org/post/2014-08-09-distributed-systems-theory-for-the-distributed-systems-engineer/)
 - [sled simulation guide (jepsen-proof engineering) | sled-rs.github.io](https://sled.rs/simulation.html): no description found
+- 🌟 [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/): A list of key concepts for building and testing reliable distributed systems, with basic definitions and deep references.
+- [Consensus algorithms at scale: Part 1 - Introduction — PlanetScale](https://planetscale.com/blog/consensus-algorithms-at-scale-part-1): This is a multi-part blog series and will be updated with links to the corresponding posts.
+  - There are parts 2, 3, 4, 5, 6, 7 and 8.
 
 ### Books
 

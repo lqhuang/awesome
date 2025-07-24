@@ -14,6 +14,7 @@
 - [zxyle/PDF-Explained](https://github.com/zxyle/PDF-Explained): 《PDF 解析》 <https://zxyle.github.io/PDF-Explained/>
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. <https://blog.bytebytego.com/>
 - [Admol/SystemDesign](https://github.com/Admol/SystemDesign): 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide） <https://learning-guide.gitbook.io/system-design-interview>
+- 🌟 [Series of posts on HTTP status codes](https://evertpot.com/http/)
 
 ## Middleware
 

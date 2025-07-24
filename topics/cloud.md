@@ -115,6 +115,7 @@
 - [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS and Linux VMs on Apple Silicon to use in CI and other automations <https://tart.run>
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard): Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 - [google/crosvm](https://github.com/google/crosvm): The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/crosvm/crosvm/ <https://crosvm.dev/book/>
+- [libriscv/kvmserver](https://github.com/libriscv/kvmserver): Fast per-request isolation for Linux executables with TinyKVM
 
 Type 1 hypervisors
 

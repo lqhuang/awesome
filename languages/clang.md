@@ -164,6 +164,8 @@ And modern is here now.
 - [ned14/quickcpplib](https://github.com/ned14/quickcpplib): Eliminate all the tedious hassle when making state-of-the-art C++ 14 - 23 libraries!
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp): Abseil Common Libraries (C++) <https://abseil.io>
 - [facebook/folly](https://github.com/facebook/folly): An open-source C++ library developed and used at Facebook. <https://groups.google.com/forum/?fromgroups#!forum/facebook-folly>
+- [mcy/best](https://github.com/mcy/best): The Best Library: a C++ STL replacement
+  - [The Best C++ Library · mcyoung](https://mcyoung.xyz/2025/07/14/best/)
 
 ## System programming
 
@@ -185,6 +187,7 @@ And modern is here now.
 - [libffi/libffi](https://github.com/libffi/libffi): A portable foreign-function interface library. <http://sourceware.org/libffi>
 - [lemire/rollinghashcpp](https://github.com/lemire/rollinghashcpp): Rolling Hash C++ Library
 - [foonathan/lexy](https://github.com/foonathan/lexy): C++ parsing DSL <https://lexy.foonathan.net>
+- [tidwall/pogocache](https://github.com/tidwall/pogocache): Fast caching software with a focus on low latency and cpu efficiency. <https://pogocache.com>
 
 ## Libs
 
@@ -266,11 +269,11 @@ And modern is here now.
 - [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning): The PennyLane-Lightning plugin provides a fast state-vector simulator written in C++ for use with PennyLane <https://docs.pennylane.ai/projects/lightning>
 - [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
 - [shibatch/sleef](https://github.com/shibatch/sleef): SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT <https://sleef.org>
-- [flame/blis](https://github.com/flame/blis): BLAS-like Library Instantiation Software Framework
+- 🌟 [flame/blis](https://github.com/flame/blis): BLAS-like Library Instantiation Software Framework
 - [WojciechMula/sse4-strstr](https://github.com/WojciechMula/sse4-strstr): SIMD (SWAR/SSE/SSE4/AVX2/AVX512F/ARM Neon) of Karp-Rabin algorithm's modification <http://0x80.pl/articles/simd-strfind.html>
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library <https://dpilger26.github.io/NumCpp>
 - [halide/Halide](https://github.com/halide/Halide): a language for fast, portable data-parallel computation <https://halide-lang.org>
-- 🌟 [flame/blis](https://github.com/flame/blis): BLAS-like Library Instantiation Software Framework
+- [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS): OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. <http://www.openblas.net>
 
 ## Utils
 

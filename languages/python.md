@@ -104,6 +104,7 @@
 - [DavidVujic/python-polylith](https://github.com/DavidVujic/python-polylith): Tooling support for the Polylith Architecture in Python. <https://davidvujic.github.io/python-polylith-docs/>
 - [epogrebnyak/justpath](https://github.com/epogrebnyak/justpath): Inspect and refine PATH environment variable on Windows, Linux and MacOS.
 - [Cabanon/patch-package](https://github.com/Cabanon/patch-package): Python library to automatically create and apply patches from changes made in installed packages.
+- [jameslamb/pydistcheck](https://github.com/jameslamb/pydistcheck): Linter that finds portability issues in Python package distributions (wheels, sdists, conda packages). <https://pydistcheck.readthedocs.io/>
 
 Templates
 
@@ -157,6 +158,7 @@ Templates
 - [readthedocs-examples/awesome-read-the-docs](https://github.com/readthedocs-examples/awesome-read-the-docs): A curated list of awesome Read the Docs projects <https://readthedocs.org/>
 - [psincraian/pepy](https://github.com/psincraian/pepy): pepy is a site to get statistics information about any Python package. <https://pepy.tech>
 - 🌟 [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid): Mermaid diagrams in yours sphinx powered docs <http://sphinxcontrib-mermaid-demo.readthedocs.io/en/latest/>
+- [lepture/sphinx-iconify](https://github.com/lepture/sphinx-iconify): A sphinx extension to use `<iconify-icon>` web component. <https://sphinx-iconify.lepture.com/>
 
 ### Security
 
@@ -732,6 +734,7 @@ pdf
 - [spylang/spy](https://github.com/spylang/spy): SPy language
   - [Over the clouds: CPython, Pyodide and SPy - Antonio Cuni's blog](http://antocuni.eu/2025/02/26/over-the-clouds-cpython-pyodide-and-spy/)
   - [A peek into a possible future of Python in the browser - Łukasz LangaSearch](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/)
+- [pyodide/pyodide-recipes](https://github.com/pyodide/pyodide-recipes): Collections of package recipes for Pyodide
 
 ## Visualization
 
@@ -806,3 +809,4 @@ pdf
 - [google/mesop](https://github.com/google/mesop): Build delightful web apps quickly in Python 🚀
 - [TexteaInc/funix](https://github.com/TexteaInc/funix): Building web apps without manually creating widgets <http://funix.io>
 - [rio-labs/rio](https://github.com/rio-labs/rio): WebApps in pure Python. No JavaScript, HTML and CSS needed <https://rio.dev>
+- [Knio/dominate](https://github.com/Knio/dominate): Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API. It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn another template language, and to take advantage of the more powerful features of Python.

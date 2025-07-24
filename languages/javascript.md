@@ -296,6 +296,7 @@ Specific
 - [epicweb-dev/cachified](https://github.com/epicweb-dev/cachified): 🤑 wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
 - [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch): Advanced fetch client builder
   - highlights: Validate API responses with `zod`, `valibot` or `arktype`
+- [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch): ⚡ Fetching and realtime data exchange framework. <https://hyperfetch.bettertyped.com/>
 
 ### Clients
 
@@ -303,6 +304,8 @@ Specific
 - [platformatic/kafka](https://github.com/platformatic/kafka): A modern, high-performance, pure TypeScript/JavaScript type safe client for Apache Kafka.
 - [good-lly/s3mini](https://github.com/good-lly/s3mini): 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @Backblaze @digitalocean @garagehq <https://www.npmjs.com/package/s3mini>
 - [grammyjs/grammY](https://github.com/grammyjs/grammY): The Telegram Bot Framework. <https://grammy.dev>
+- [dahlia/upyo](https://github.com/dahlia/upyo): Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers. It works on Node.js, Deno, Bun, and edge functions. <https://upyo.org/>
+- [mjmlio/mjml](https://github.com/mjmlio/mjml): MJML: the only framework that makes responsive-email easy <https://mjml.io>
 
 ### CLI
 
@@ -352,7 +355,8 @@ Specific
 - 🌟 [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation.
 - 🌟 [image-js/iobuffer](https://github.com/image-js/iobuffer): Read and write binary data in ArrayBuffers <https://image-js.github.io/iobuffer/>
 - [josdejong/mathjs](https://github.com/josdejong/mathjs): An extensive math library for JavaScript and Node.js <https://mathjs.org>
-- 🌟 [shuding/legid](https://github.com/shuding/legid): A library for generating safe, legit and random URL-compat IDs.
+- [shuding/legid](https://github.com/shuding/legid): A library for generating safe, legit and random URL-compat IDs.
+- 🌟 [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff): A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 
 ## Middleware
 

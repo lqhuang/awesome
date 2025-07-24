@@ -34,6 +34,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [Ref Callbacks, React 19 and the Compiler | TkDodo's blog](https://tkdodo.eu/blog/ref-callbacks-react-19-and-the-compiler): Reflecting on useCallback, how the Compiler changed my thinking about it, and what React 19 has in store for Ref Callbacks...
 - [Jack Duvall's Blog - All Javascript Keyboard Shortcut Libraries Are Broken](https://blog.duvallj.pw/posts/2025-01-10-all-javascript-keyboard-shortcut-libraries-are-broken.html): Either subtly, or not-so-subtly. There is no way to fix the more subtle variant, and the only solution is to Give Up (on supporting a large subset of keyboard shortcuts).
+- [The History of React Through Code | Playful Programming](https://playfulprogramming.com/posts/react-history-through-code#Continuing-consistency-in-IO-handling): Learn React's history using pragmatic code samples and deep dives. This journey reveals the consistent design in React's APIs stemming from the very beginning.
 
 ### Tutorials
 
@@ -370,6 +371,7 @@ Media player
   - [WINOFFRG/limeplay](https://github.com/WINOFFRG/limeplay): ⭐ NEW: Modern Headless UI Library for Media Player (Shaka Player & HTML5) in React <https://limeplay.me>
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer): A HTML5 video player with a parser that saves traffic <https://h5player.bytedance.com/>
 - https://player.style/
+- 🌟 [cookpete/react-player](https://github.com/cookpete/react-player): A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion <https://cookpete.github.io/react-player>
 
 Spinners
 

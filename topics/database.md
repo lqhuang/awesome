@@ -167,6 +167,7 @@ HA
 
 - [zalando/patroni](https://github.com/zalando/patroni): A template for PostgreSQL High Availability with Etcd, Consul, ZooKeeper, or Kubernetes
 - [zalando/spilo](https://github.com/zalando/spilo): Highly available elephant herd: HA PostgreSQL cluster using Docker
+- [aws/pgactive](https://github.com/aws/pgactive): Active-active Replication Extension for PostgreSQL (pgactive)
 
 Sharding
 
@@ -247,6 +248,7 @@ Misc
   - `datasketches`
   - `faiss`
 - [cwida/duckpgq-extension](https://github.com/cwida/duckpgq-extension): DuckDB extension that adds support for SQL/PGQ and graph algorithms <https://duckpgq.org>
+- [sirius-db/sirius](https://github.com/sirius-db/sirius): Sirius is a GPU-native SQL engine. It plugs into existing databases such as DuckDB via the standard Substrait query format, requiring no query rewrites or major system changes.
 
 ## DBA
 

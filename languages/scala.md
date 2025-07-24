@@ -100,6 +100,7 @@
 - [earldouglas/sbt-lit](https://github.com/earldouglas/sbt-lit): Literate programming with sbt
 - [yurique/embedded-files](https://github.com/yurique/embedded-files): An sbt plugin to generate Scala objects containing the contents of glob-specified files as strings or byte-arrays.
   - Make a mill plugin for this?
+  - [frawa/inline-files](https://github.com/frawa/inline-files): This is a macro library for Scala 3. Sometimes is is useful to access file contents without going to the file system. It comes in handly for ScalaJS projects, as files are read during compile time only.
 - [47degrees/sbt-microsites](https://github.com/47degrees/sbt-microsites): An sbt plugin to create awesome microsites for your project <https://47degrees.github.io/sbt-microsites/>
 
 ### Mill
@@ -107,6 +108,7 @@
 - [Mill as a Direct Style Build Tool :: The Mill Build Tool](https://mill-build.org/blog/12-direct-style-build-tool.html)
 - [lewisjkl/header](https://github.com/lewisjkl/header): Header automation and linting 🎉
 - [sake92/mill-hepek](https://github.com/sake92/mill-hepek): Mill plugin for rendering Scala objects to files
+- [sake92/mill-openapi4s](https://github.com/sake92/mill-openapi4s): Mill plugin for openapi4s
 - [alexarchambault/mill-native-image](https://github.com/alexarchambault/mill-native-image): This is a Mill plugin which allows building executables using GraalVM native-image for your modules.
 - [hoangmaihuy/mill-universal-packager](https://github.com/hoangmaihuy/mill-universal-packager): Universal packaging for Mill
 - [joan38/mill-git](https://github.com/joan38/mill-git): A git version plugin for Mill build tool
@@ -144,7 +146,7 @@
 
 ### Benchmarking
 
-- [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler): Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events <https://github.com/async-profiler/async-profiler/releases>
+- 🌟 [async-profiler/async-profiler](https://github.com/async-profiler/async-profiler): Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events <https://github.com/async-profiler/async-profiler/releases>
 - [gatling/gatling](https://github.com/gatling/gatling): Modern Load Testing as Code <https://gatling.io>
   - [gatling/gatling-sbt-plugin](https://github.com/gatling/gatling-sbt-plugin): Gatling Plugin for SBT <https://gatling.io>
 - [scalameter/scalameter](https://github.com/scalameter/scalameter): Microbenchmarking and performance regression testing framework for the JVM platform. <http://scalameter.github.io>
@@ -337,6 +339,7 @@ OpenTelemetry
 - [jwt-scala/jwt-scala](https://github.com/jwt-scala/jwt-scala): JWT support for Scala. Bonus extensions for Play, Play JSON, Json4s, Circe, uPickle, Spray and Argonaut <https://jwt-scala.github.io/jwt-scala/>
 - [creativescala/krop](https://github.com/creativescala/krop): A simple and functional web service library <http://www.creativescala.org/krop/>
 - [eikek/htmx4s](https://github.com/eikek/htmx4s): Scala (3) library aiming to make working with htmx more convenient.
+- [sake92/openapi4s](https://github.com/sake92/openapi4s): openapi4s
 
 ### CLI
 
@@ -414,7 +417,7 @@ OpenTelemetry
 
 ## Stream / Effect systems / Experiments
 
-- 🌟 [atnos-org/eff](https://github.com/atnos-org/eff): Eff monad for cats <https://atnos-org.github.io/eff>
+- [atnos-org/eff](https://github.com/atnos-org/eff): Eff monad for cats <https://atnos-org.github.io/eff>
 - [TomasMikula/libretto](https://github.com/TomasMikula/libretto): Declarative concurrency and stream processing library for Scala
 - [strymonas/strymonas-scala](https://github.com/strymonas/strymonas-scala): Fast streams for Scala 3
   - So I could make a Python version? 🤔
@@ -423,6 +426,7 @@ OpenTelemetry
 - [getkyo/kyo](https://github.com/getkyo/kyo): Toolkit for Scala Development <https://getkyo.io>
 - [marcinzh/turbolift](https://github.com/marcinzh/turbolift): Algebraic Effects for Scala 3 <https://marcinzh.github.io/turbolift>
 - [rcardin/yaes](https://github.com/rcardin/yaes): An experimental effect system in Scala using capability passing style
+- [lbialy/comparing-effect-systems](https://github.com/lbialy/comparing-effect-systems): No description, website, or topics provided.
 
 ## Eco systems
 
@@ -499,6 +503,7 @@ OpenTelemetry
 - [airbnb/aerosolve](https://github.com/airbnb/aerosolve): A machine learning package built for humans. <http://airbnb.github.io/aerosolve/>
 - [Kright/ArrayView](https://github.com/Kright/ArrayView): Scala library for efficient multi-dimensional arrays
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp): State of the Art Natural Language Processing <https://sparknlp.org/>
+- [luhenry/netlib](https://github.com/luhenry/netlib): An high-performance, hardware-accelerated implementation of Netlib in Java
 
 ### kotlin for Data Intensive System
 

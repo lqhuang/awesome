@@ -14,6 +14,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [TypescaleF](https://typescale.com/): eate stunning typography, generate CSS, and find inspiration.
 - [Programming Fonts](https://www.programmingfonts.org/): Test drive all the programming fonts!
 - [Bunny Fonts | Explore Faster & GDPR friendly Fonts](https://fonts.bunny.net/): Bunny Fonts help make the internet faster, safer and GDPR compliant!
+- [didierverna/etap](https://github.com/didierverna/etap): Experimental Typesetting Algorithms Platform
 
 ## Fonts
 
@@ -44,6 +45,7 @@ Mono
 - [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/)
 - [TX-02 Berkeley Mono™ Typeface](https://usgraphics.com/products/berkeley-mono): A love letter to the golden era of computing.
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono): A monospaced pixel font with a lo-fi, techy vibe <https://departuremono.com/>
+- [cormullion/juliamono](https://github.com/cormullion/juliamono): repository for JuliaMono, a monospaced font with reasonable Unicode support. <https://juliamono.netlify.app/>
 
 Math fonts
 
@@ -84,3 +86,4 @@ CJK
 - 🌟 [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks): System font stack CSS organized by typeface classification for every modern operating system
 - [fontsource/fontsource](https://github.com/fontsource/fontsource): Self-host Open Source fonts in neatly bundled NPM packages. <https://fontsource.org>
 - [ZeoSeven™ Fonts](https://fonts.zeoseven.com/): Webfonts CDN in China mainland
+- [sofish/typo.css](https://github.com/sofish/typo.css): 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版 <http://typo.sofi.sh>

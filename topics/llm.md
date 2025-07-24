@@ -12,6 +12,7 @@
 - [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering): "Context engineering is the delicate art and science of filling the context window with just the right information for the next step." — Andrej Karpathy. A practical, first-principles handbook inspired by Karpathy and 3Blue1Brown for moving beyond prompt engineering to the wider discipline of context design, orchestration, and optimization. <https://deepwiki.com/davidkimai/Context-Engineering>
 - 🌟 [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents): What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [LLM Inference in Production | BentoML](https://bentoml.com/llm/): A practical handbook for engineers building, optimizing, scaling and operating LLM inference systems in production.
+- 🌟 [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison): From DeepSeek-V3 to Kimi K2: A Look At Modern LLM Architecture Design
 
 ## Research
 

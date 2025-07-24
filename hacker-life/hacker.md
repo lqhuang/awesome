@@ -283,3 +283,4 @@
   - [wizicer/FinancialSupportForOpenSource](https://github.com/wizicer/FinancialSupportForOpenSource): 开源项目挣钱实用手册
 - [ossf/alpha-omega](https://github.com/ossf/alpha-omega): Our mission is to catalyze sustainable improvements to critical open source software projects and ecosystems. <https://alpha-omega.dev>
 - [Open Source Pledge](https://opensourcepledge.com/): Open Source software powers the world, but who supports the maintainers? We do.
+- 🌟 [jonschlinkert/maintainers-guide-to-staying-positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive): Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome! <https://github.com/jonschlinkert>

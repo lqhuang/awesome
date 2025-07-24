@@ -39,7 +39,6 @@
 - [bootandy/dust](https://github.com/bootandy/dust): A more intuitive version of du in rust
 - [Byron/dua-cli](https://github.com/Byron/dua-cli): View disk space usage and delete unwanted data, fast.
 - [rejetto/hfs](https://github.com/rejetto/hfs/): HFS is a web file server to run on your computer. Share folders or even a single file thanks to the virtual file system. <https://telegram.dog/hfsusers>
-- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless): jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. <https://jless.io>
 - [asciinema/asciinema](https://github.com/asciinema/asciinema): Terminal session recorder 📹 <https://asciinema.org>
 - [asciinema/agg](https://github.com/asciinema/agg): asciinema gif generator
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli): Share terminal sessions via SVG and CSS
@@ -49,7 +48,6 @@
 - [dundee/gdu](https://github.com/dundee/gdu): Fast disk usage analyzer with console interface written in Go
 - [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
 - [exdx/dcp](https://github.com/exdx/dcp): docker cp made easy
-- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen): Fast file synchronization and network forwarding for remote development <https://mutagen.io>
 - 🌟 [dalance/procs](https://github.com/dalance/procs): A modern replacement for ps written in Rust
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker): Nosey Parker is a command-line program that finds secrets and sensitive information in textual data and Git history.
 - [nelhage/reptyr](https://github.com/nelhage/reptyr): Reparent a running program to a new terminal
@@ -72,7 +70,6 @@
 - 🌟 [bensadeh/tailspin](https://github.com/bensadeh/tailspin): 🌀 A log file highlighter
 - [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - 🌟 [francoismichel/ssh3](https://github.com/francoismichel/ssh3): SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 <https://arxiv.org/abs/2312.08396>
-- [n0-computer/iroh](https://github.com/n0-computer/iroh): Sync anywhere <https://iroh.computer>
 - 🌟 [alexpovel/srgn](https://github.com/alexpovel/srgn): A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`. <https://crates.io/crates/srgn/>
 - [timvw/qv](https://github.com/timvw/qv): Quickly view your data
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions): Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
@@ -83,17 +80,29 @@
 - [wolfpld/vv](https://github.com/wolfpld/vv): Terminal image viewer
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin): Human-readable ANSI sequences 🪩
 - [google/codesearch](https://github.com/google/codesearch): Fast, indexed regexp search over large file trees <http://swtch.com/~rsc/regexp/regexp4.html>
-- [ynqa/jnv](https://github.com/ynqa/jnv): Interactive JSON filter using jq
 - [davidesantangelo/krep](https://github.com/davidesantangelo/krep): Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale. <https://davidesantangelo.github.io/krep/>
 - [tbillington/kondo](https://github.com/tbillington/kondo): Cleans dependencies and build artifacts from your projects.
 - [AlDanial/cloc](https://github.com/AlDanial/cloc): cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
   - `cloc --vcs=git --not-match-f=pnpm-lock.yaml`
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
   - `tokei -e pnpm-lock.yaml`
+- [ashish0kumar/stormy](https://github.com/ashish0kumar/stormy): 🌦️ Minimal, customizable and neofetch-like weather CLI based on rainy
+- 🌟 [kdabir/has](https://github.com/kdabir/has): ✅ checks presence of various command line tools and their versions on the path
+
+### JSON/YAML transformation
+
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless): jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data. <https://jless.io>
+- [ynqa/jnv](https://github.com/ynqa/jnv): Interactive JSON filter using jq
 - [antonmedv/fx](https://github.com/antonmedv/fx): Terminal JSON viewer & processor <https://fx.wtf>
 - [mikefarah/yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor <https://mikefarah.gitbook.io/yq/>
   - not to be confused with kislyuk/yq (python version)
-- [ashish0kumar/stormy](https://github.com/ashish0kumar/stormy): 🌦️ Minimal, customizable and neofetch-like weather CLI based on rainy
+
+### Syncing
+
+- [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen): Fast file synchronization and network forwarding for remote development <https://mutagen.io>
+- [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization <https://syncthing.net/>
+- [n0-computer/iroh](https://github.com/n0-computer/iroh): Sync anywhere <https://iroh.computer>
+- [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 
 ### Watcher
 
@@ -127,6 +136,8 @@
 - 🌟 [MitMaro/git-interactive-rebase-tool](https://github.com/MitMaro/git-interactive-rebase-tool): Native cross-platform full feature terminal-based sequence editor for git interactive rebase. <https://gitrebasetool.mitmaro.ca/>
 - 🌟 [microsoft/edit](https://github.com/microsoft/edit): We all edit.
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot): a realtime plotting utility for terminal/console with data input from stdin
+- [hzqtc/taproom](https://github.com/hzqtc/taproom): An interactive TUI for Homebrew
+- [vifm/vifm](https://github.com/vifm/vifm): Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. <https://vifm.info>
 
 ## Monitor
 

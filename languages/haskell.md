@@ -124,6 +124,8 @@
 - [re-xyr/cleff](https://github.com/re-xyr/cleff): Fast and concise extensible effects <https://hackage.haskell.org/package/cleff>
 - [polysemy-research/polysemy](https://github.com/polysemy-research/polysemy): ♊ higher-order, no-boilerplate monads
 - 🌟 [sayo-hs/heftia](https://github.com/sayo-hs/heftia): A theory‑backed, ultra type‑safe algebraic effects
+- [sayo-hs/kontrolle](https://github.com/sayo-hs/kontrolle): Experimental, type-safe algebraic effects
+  - inspired by kyo
 
 ## Dependent type
 
@@ -202,3 +204,5 @@
 - [NorfairKing/cursor](https://github.com/NorfairKing/cursor): Cursor data and manipulation
 - [owensmurray/om-legion](https://github.com/owensmurray/om-legion): Core Legion Framework
 - [diku-dk/futhark](https://github.com/diku-dk/futhark): 💥💻💥 A data-parallel functional programming language <http://futhark-lang.org>
+- [byteverse/chronos](https://github.com/byteverse/chronos): Haskell time library focusing on performance
+- [ndmitchell/record-dot-preprocessor](https://github.com/ndmitchell/record-dot-preprocessor): A preprocessor for a Haskell record syntax using dot

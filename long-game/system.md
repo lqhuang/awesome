@@ -71,6 +71,7 @@
       - As mentioned, removing Valgrind caused some bad sentiment. But the root of the problem is lack of awareness about external uses and needs.
       - Even though jemalloc development remained completely out in the open (not siloed inside Facebook), the project never grew to retain primary contributors from other organizations.
       - ... but jemalloc needed more than open development to thrive as an independent project.
+- [ivmai/bdwgc](https://github.com/ivmai/bdwgc): The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc) <https://www.hboehm.info/gc/>
 
 ## Linux Tuning
 
