@@ -134,6 +134,8 @@ Type 1 hypervisors
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3): A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [drivendataorg/cloudpathlib](https://github.com/drivendataorg/cloudpathlib): Python pathlib-style classes for cloud storage services such as Amazon S3, Azure Blob Storage, and Google Cloud Storage. <https://cloudpathlib.drivendata.org>
 - [s3gw-tech/s3gw](https://github.com/s3gw-tech/s3gw): Container able to run on a Kubernetes cluster, providing S3-compatible endpoints to applications. <https://s3gw.tech>
+- [ebogdum/callfs](https://github.com/ebogdum/callfs): CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer networks
+- [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs): macOS: mount any linux-supported filesystem read/write using NFS and a microVM
 
 ### Serverless
 
@@ -274,6 +276,8 @@ Type 1 hypervisors
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb): A cloud native Kubernetes Global Balancer <https://www.k8gb.io>
 - [kubewharf/godel-rescheduler](https://github.com/kubewharf/godel-rescheduler): Schedulers in large-scale Kubernetes (K8s) clusters, such as the Godel Scheduler, are often required to schedule a large number of Pods within a short period.
 - [kubecfg/kubecfg](https://github.com/kubecfg/kubecfg): A tool for managing complex enterprise Kubernetes environments as code.
+- [acrlabs/simkube](https://github.com/acrlabs/simkube): Record-and-replay Kubernetes simulator based on KWOK <https://simkube.dev>
+- [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter): Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 
 ### Operators
 

@@ -41,7 +41,6 @@
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg): A Docker-powered stateless API for PDF files. <https://gotenberg.dev>
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
 - [Sketch Systems](https://sketch.systems): Explore how your product should work, before building it. Sketch.systems helps software designers think about complex product behavior. Sketch out states, add prototypes, and clarify questions quickly.
-- [recap-build/recap](https://github.com/recap-build/recap): Read and write schemas from web service, databases, and schema registries in a standard format <https://recap.build>
 - 🌟 [apache/incubator-answer](https://github.com/apache/incubator-answer): A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer. <https://answer.apache.org>
 - 🌟 [scalar/scalar](https://github.com/scalar/scalar): Beautiful API references from Swagger/OpenAPI files ✨ <https://scalar.com/swagger-editor>
 - [hddhyq/opencclint](https://github.com/hddhyq/opencclint): 繁简体转换工具 ，基于 OpenCC 支持编辑器和命令行界面 <https://opencclint.vercel.app>
@@ -103,6 +102,8 @@
 - [unkeyed/unkey](https://github.com/unkeyed/unkey): Open source API management platform <https://go.unkey.com>
 - [Automated UI and Functional Testing it | Testim.io](https://www.testim.io/): Testim is an automated testing platform for fast authoring of AI-powered stable tests and tools to help you scale quality.
 - [Unleash/unleash](https://github.com/Unleash/unleash): Open-source feature management platform <https://getunleash.io>
+- [LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/): Maximize the value of every software feature through automation and feature management.
+- [ConfigCat - Feature Flag Service for Teams](https://configcat.com/): ConfigCat is a feature flag service for teams with unlimited seats, awesome support, and a reasonable price tag that takes 10 mins to learn.
 
 ### Pipelines / Workflow
 
@@ -250,7 +251,7 @@ Visual stack
 - [StrangeBee](https://strangebee.com/): Empowering incident responders worldwide One Case Management Platform for all SOCs, CERTs & CSIRTs
 - [certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR): Fast Incident Response
 
-## Security
+## Security / Audit
 
 - [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass): Check your WAF before an attacker does this one <https://nemesida-waf.com/>
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine): 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 <https://waf-ce.chaitin.cn/>
@@ -265,6 +266,7 @@ Visual stack
 - [Black Duck](https://www.blackduck.com/): Build high-quality, secure software with application security testing tools and services from Black Duck. We are a Gartner Magic Quadrant Leader in AppSec.
 - [greenbone/docs](https://github.com/greenbone/docs): Documentation for the Greenbone Community Edition <https://greenbone.github.io/docs/>
 - [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex): Cortex: a Powerful Observable Analysis and Active Response Engine <https://strangebee.com/cortex/>
+- 🌟 [google/oss-rebuild](https://github.com/google/oss-rebuild): Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
 
 ## Career
 

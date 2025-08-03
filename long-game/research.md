@@ -131,6 +131,7 @@
 - [citation-js/citation-js](https://github.com/citation-js/citation-js): Core functionality of Citation.js, as well as the original plugins (CSL, BibTeX, RIS, DOI, Wikidata, and BibJSON) <https://citation.js.org>
 - [jlegewie/zotfile](https://github.com/jlegewie/zotfile): Zotero plugin to manage your attachments: automatically rename, move, and attach PDFs (or other files) to Zotero items, sync PDFs from your Zotero library to your (mobile) PDF reader (e.g. an iPad, Android tablet, etc.), and extract PDF annotations.
 - [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style): GB/T 7714-2015 BibTeX Style
+- [urschrei/pyzotero](https://github.com/urschrei/pyzotero): Pyzotero: a Python client for the Zotero API <https://pyzotero.readthedocs.org>
 
 ### VIS
 

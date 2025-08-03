@@ -335,7 +335,6 @@
 - 🌟 [pest-parser/pest](https://github.com/pest-parser/pest): The Elegant Parser <https://pest.rs/>
 - 🌟 [zesterer/chumsky](https://github.com/zesterer/chumsky): A parser library for humans with powerful error recovery.
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs): Extensible SQL Lexer and Parser for Rust
-- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter): An incremental parsing system for programming tools <https://tree-sitter.github.io>
 - [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan): Rowan is a library for lossless syntax trees, inspired in part by Swift's libsyntax.
 - 🌟 [egraphs-good/egg](https://github.com/egraphs-good/egg): egg is a flexible, high-performance e-graph library <https://egraphs-good.github.io>
   - [egraphs-good/egglog](https://github.com/egraphs-good/egglog): egraphs + datalog! <https://egraphs-good.github.io/egglog/>

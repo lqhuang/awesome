@@ -12,6 +12,7 @@
 - [typehero/typehero](https://github.com/typehero/typehero): Connect, collaborate, and grow with a community of TypeScript developers <https://typehero.dev>
 - [Cypress Tips & Tricks](https://cypress.tips/)
 - 🌟 [Maximization/nodejs-toolbox-catalog](https://github.com/Maximization/nodejs-toolbox-catalog): Catalog of categories and libraries for Node.js Toolbox <https://nodejstoolbox.com>
+- [The JavaScript Date Quiz](https://jsdate.wtf/): How well do you know JavaScript's Date class?
 
 ## Books
 
@@ -116,6 +117,7 @@ Specific
 - [keithamus/sort-package-json](https://github.com/keithamus/sort-package-json): Sort an Object or package.json based on the well-known package.json keys
   - [matzkoh/prettier-plugin-packagejson](https://github.com/matzkoh/prettier-plugin-packagejson): Prettier plugin for package.json
 - [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint): ✨ Experimental proof-of-concept typescript-go powered JS/TS linter written in Go
+- [eslint/markdown](https://github.com/eslint/markdown): Lint JavaScript code blocks in Markdown documents
 
 ### Modernize
 
@@ -352,11 +354,20 @@ Specific
 - [SuperchupuDev/tinyglobby](https://github.com/SuperchupuDev/tinyglobby): A fast and minimal alternative to globby and fast-glob <https://npmjs.com/package/tinyglobby>
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms): Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes): Convert bytes to a human readable string: 1337 → 1.34 kB
-- 🌟 [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation.
+- [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation.
+- [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff): A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - 🌟 [image-js/iobuffer](https://github.com/image-js/iobuffer): Read and write binary data in ArrayBuffers <https://image-js.github.io/iobuffer/>
 - [josdejong/mathjs](https://github.com/josdejong/mathjs): An extensive math library for JavaScript and Node.js <https://mathjs.org>
 - [shuding/legid](https://github.com/shuding/legid): A library for generating safe, legit and random URL-compat IDs.
-- 🌟 [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff): A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
+- [inspect-js/object-inspect](https://github.com/inspect-js/object-inspect): string representations of objects in node and the browser
+
+Deep equal
+
+- [chaijs/deep-eql](https://github.com/chaijs/deep-eql): Improved deep equality testing for Node.js and the browser.
+- [FormidableLabs/react-fast-compare](https://github.com/FormidableLabs/react-fast-compare): fastest deep equal comparison for React
+- [planttheidea/fast-equals](https://github.com/planttheidea/fast-equals): A blazing fast equality comparison, either shallow or deep
+- [`isEqual` - es-toolkit](https://es-toolkit.dev/reference/predicate/isEqual.html)
+- [inspect-js/node-deep-equal](https://github.com/inspect-js/node-deep-equal): node's assert.deepEqual algorithm
 
 ## Middleware
 
@@ -365,6 +376,7 @@ Specific
 - [tinyplex/tinybase](https://github.com/tinyplex/tinybase): The reactive data store for local‑first apps. <https://tinybase.org>
 - [tinyhttp/malibu](https://github.com/tinyhttp/malibu): 🏄 Framework-agnostic CSRF middleware for modern Node.js <https://tinyhttp.v1rtl.site/mw/malibu>
 - [cipherstash/protectjs](https://github.com/cipherstash/protectjs): Encrypt and protect data using industry standard algorithms, field level encryption, a unique data key per record, bulk encryption operations, and decryption level identity verification. <https://cipherstash.com>
+- [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible): Atomic counters and rate limiting tools. Limit resource access at any scale.
 
 ## Misc
 

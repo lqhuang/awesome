@@ -439,6 +439,7 @@ PGM / Probabilistic programming
 - [google/paxml](https://github.com/google/paxml): Pax is a Jax-based machine learning framework for training large scale models. Pax allows for advanced and fully configurable experimentation and parallelization, and has demonstrated industry leading model flop utilization rates.
 - [google/praxis](https://github.com/google/praxis): No description, website, or topics provided. This is not an officially supported Google product.
 - [google/ml_collections](https://github.com/google/ml_collections): ML Collections is a library of Python Collections designed for ML use cases. <https://ml-collections.readthedocs.io/>
+- [google/qwix](https://github.com/google/qwix): a Jax quantization library <https://qwix.readthedocs.io>
 - [AI-Hypercomputer/maxtext](https://github.com/AI-Hypercomputer/maxtext): A simple, performant and scalable Jax LLM!
 - [AI-Hypercomputer/JetStream](https://github.com/AI-Hypercomputer/JetStream): JetStream is a throughput and memory optimized engine for LLM inference on XLA devices, starting with TPUs (and GPUs in future -- PRs welcome).
 - [AI-Hypercomputer/maxdiffusion](https://github.com/AI-Hypercomputer/maxdiffusion): MaxDiffusion is a collection of reference implementations of various latent diffusion models written in pure Python/Jax that run on XLA devices including Cloud TPUs and GPUs.

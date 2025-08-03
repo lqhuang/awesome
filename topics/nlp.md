@@ -35,6 +35,9 @@
 - 🌟 [textstat/textstat](https://github.com/textstat/textstat): 📝 python package to calculate readability statistics of a text object - paragraphs, sentences, articles. <https://textstat.org>
 - [jax-ml/jax-tpu-embedding](https://github.com/jax-ml/jax-tpu-embedding): No description, website, or topics provided.
 - [typesense/typesense](https://github.com/typesense/typesense): Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences <https://typesense.org>
+  - 🌟 [wooorm/franc](https://github.com/wooorm/franc): Natural language detection <https://wooorm.com/franc/>
+  - [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs): Natural language detection library for Rust. Try demo online: https://whatlang.org/
+  - [cyb3rk0tik/pyfranc](https://github.com/cyb3rk0tik/pyfranc): Text language detection basic on trigrams.
 
 ## tokenizer / BPE
 
@@ -69,3 +72,4 @@
 - [currentslab/awesome-vector-search](https://github.com/currentslab/awesome-vector-search): Collections of vector search related libraries, service and research papers
 - [antgroup/vsag](https://github.com/antgroup/vsag): vsag is a vector indexing library used for similarity search.
 - [ashvardanian/jaccard-index](https://github.com/ashvardanian/jaccard-index): Optimizing bit-level Jaccard Index and Population Counts for large-scale quantized Vector Search via Harley-Seal CSA and Lookup Tables <https://github.com/unum-cloud/usearch>
+- 🌟 [cwida/PDX](https://github.com/cwida/PDX): ⚡ Faster similarity search with PDX: A vertical data layout for vectors <https://www.lkuffo.com/sub-milisecond-similarity-search-with-pdx/>

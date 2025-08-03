@@ -100,6 +100,7 @@
 - [apache/age](https://github.com/apache/age): Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL. <https://age.apache.org>
 - [puppygraph/puppygraph-query](https://github.com/puppygraph/puppygraph-query): PuppyGraph standalone web server for visualize graph queries.
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph): SPARQL graph database
+- [kuzudb/kuzu](https://github.com/kuzudb/kuzu): Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher. <https://kuzudb.com/>
 
 ### KV
 
@@ -247,7 +248,7 @@ Misc
   - `nanoarrow`
   - `datasketches`
   - `faiss`
-- [cwida/duckpgq-extension](https://github.com/cwida/duckpgq-extension): DuckDB extension that adds support for SQL/PGQ and graph algorithms <https://duckpgq.org>
+- 🌟 [cwida/duckpgq-extension](https://github.com/cwida/duckpgq-extension): DuckDB extension that adds support for SQL/PGQ and graph algorithms <https://duckpgq.org>
 - [sirius-db/sirius](https://github.com/sirius-db/sirius): Sirius is a GPU-native SQL engine. It plugs into existing databases such as DuckDB via the standard Substrait query format, requiring no query rewrites or major system changes.
 
 ## DBA

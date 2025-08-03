@@ -88,6 +88,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [NeverCease/uchu](https://github.com/NeverCease/uchu): the color palette for internet lovers <https://uchu.style>
 - [Fluid Responsive Design | Utopia](https://utopia.fyi/): Elegantly scale type and space without breakpoints
 - [Kelp](https://kelpui.com/): A UI library for people who love HTML, powered by modern CSS and Web Components.
+- [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises): These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP).
 
 ### CSS Style
 
@@ -354,6 +355,7 @@ Upload
 - [rafasofizada/pechkin](https://github.com/rafasofizada/pechkin): Asynchronous Node.js file upload (multipart/form-data) handling.
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing): File uploads for modern web devs <https://uploadthing.com>
 - [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
+- [Nic13Gamer/better-upload](https://github.com/Nic13Gamer/better-upload): Simple and easy file uploads for React. Upload files directly to any S3-compatible service with minimal setup. <https://better-upload.com>
 
 Onboarding
 
@@ -460,6 +462,7 @@ Misc
 - [mdx-editor/editor](https://github.com/mdx-editor/editor): A rich text editor React component for markdown <https://mdxeditor.dev/>
 - [facebook/lexical](https://github.com/facebook/lexical): Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance. <https://lexical.dev>
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react): Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins <https://monaco-react.surenatoyan.com/>
+- [esm-dev/modern-monaco](https://github.com/esm-dev/modern-monaco): A modern version of Monaco Editor.
 - [basecamp/trix](https://github.com/basecamp/trix): A rich text editor for everyday writing <https://trix-editor.org/>
 - [udecode/plate](https://github.com/udecode/plate): Rich-text editor with shadcn <https://platejs.org>
 - [FormidableLabs/use-editable](https://github.com/FormidableLabs/use-editable): A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)
@@ -511,13 +514,22 @@ Concrete animations
 - [pmndrs/zustand](https://github.com/pmndrs/zustand): 🐻 Bear necessities for state management in React <https://zustand-demo.pmnd.rs>
 - [pmndrs/jotai](https://github.com/pmndrs/jotai): 👻 Primitive and flexible state management for React <https://jotai.org>
   - [saasquatch/bunshi](https://github.com/saasquatch/bunshi): Molecule pattern for jotai, valtio, zustand, nanostores, xstate, react and vue <https://www.bunshi.org/>
-  - [himself65/jotai-ai](https://github.com/himself65/jotai-ai): A Jōtai utility package compatible with Vercel AI SDK
+  - [jotaijs/jotai-ai](https://github.com/himself65/jotai-ai): A Jōtai utility package compatible with Vercel AI SDK
   - [jotaijs/jotai-cache](https://github.com/jotaijs/jotai-cache): No description, website, or topics provided.
+  - [jotaijs/jotai-scope](https://github.com/jotaijs/jotai-scope): 👻🔭 Isolate Jotai atoms with scope
+  - [jotaijs/jotai-eager](https://github.com/jotaijs/jotai-eager): Jōtai utilities that help with asynchronous atoms
+  - [jotaijs/jotai-effect](https://github.com/jotaijs/jotai-effect): A Jōtai utility package for reactive side-effects
+  - [jotaijs/jotai-signal](https://github.com/jotaijs/jotai-signal): 👻🚩
+  - [jotaijs/jotai-immer](https://github.com/jotaijs/jotai-immer): Jotai integration library for Immer
+  - [jotaijs/jotai-history](https://github.com/jotaijs/jotai-history): A Jōtai utility package for advanced state history management
+  - [jotaijs/jotai-scheduler](https://github.com/jotaijs/jotai-scheduler): A Jōtai utility package for better performance and user experience.
+  - [jotaijs/jotai-transaction](https://github.com/jotaijs/jotai-transaction): Utility package for executing atomic transactions in Jotai.
 - [statelyai/xstate](https://github.com/statelyai/xstate):State machines and statecharts for the modern web. <https://xstate.js.org/docs>
 - 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next immutable state by mutating the current one <https://immerjs.github.io/immer>
 - [unadlib/mutative](https://github.com/unadlib/mutative): Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer. <http://mutative.js.org/>
 - [LegendApp/legend-state](https://github.com/LegendApp/legend-state): Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence <https://legendapp.com/open-source/state/>
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector): React useContextSelector hook in userland <https://www.npmjs.com/package/use-context-selector>
+- [marsbos/fluent-state](https://github.com/marsbos/fluent-state): Fluent, reactive & immutable local state management for React.
 
 ### Utils
 
@@ -608,6 +620,7 @@ Concrete animations
 - [memgraph/orb](https://github.com/memgraph/orb): Graph visualization library
 - [holtzy/react-graph-gallery](https://github.com/holtzy/react-graph-gallery): A set of graph examples showing how to make react and d3.js work together <https://www.react-graph-gallery.com>
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph): React component for 2D, 3D, VR and AR force directed graphs <https://vasturiano.github.io/react-force-graph/example/large-graph/>
+- 🌟 [reaviz/reagraph](https://github.com/reaviz/reagraph): 🕸 WebGL Graph Visualizations for React. Maintained by @goodcodeus. <https://reagraph.dev>
 
 ## Design / Resources
 
@@ -654,6 +667,7 @@ Concrete animations
 - [Kitware/vtk-js](https://github.com/Kitware/vtk-js): Visualization Toolkit for the Web <https://kitware.github.io/vtk-js/>
 - 🌟 [compute-toys/compute.toys](https://github.com/compute-toys/compute.toys): Shadertoy for WebGPU compute shaders. <https://compute.toys>
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js <https://docs.pmnd.rs/react-three-fiber>
+- [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl): React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React. <https://react-unity-webgl.dev>
 
 ### PWA
 

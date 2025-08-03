@@ -142,6 +142,7 @@
 - [spinkube/spin-operator](https://github.com/spinkube/spin-operator): Spin Operator is a Kubernetes operator that empowers platform engineers to deploy Spin applications as custom resources to their Kubernetes clusters <https://www.spinkube.dev/docs/spin-operator/>
 - [zksecurity/wasmati](https://github.com/zksecurity/wasmati): Write low-level WebAssembly, from JavaScript
 - [bytecodealliance/registry](https://github.com/bytecodealliance/registry): WebAssembly Registry (Warg)
+- [topheman/webassembly-component-model-experiments](https://github.com/topheman/webassembly-component-model-experiments): WebAssembly Component Model based REPL with sandboxed multi-language plugin system - unified codebase runs in CLI (Rust) and web (TypeScript) <https://topheman.github.io/webassembly-component-model-experiments/>
 
 ### The WebAssembly Component Model
 

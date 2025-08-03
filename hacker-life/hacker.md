@@ -51,6 +51,8 @@
 - [arxanas/git-branchless](https://github.com/arxanas/git-branchless): High-velocity, monorepo-scale workflow for Git
 - [jackiotyu/git-worktree-manager](https://github.com/jackiotyu/git-worktree-manager): Quickly manage and switch Git Worktrees in VSCode <https://marketplace.visualstudio.com/items?itemName=jackiotyu.git-worktree-manager>
 - [josh-project/josh](https://github.com/josh-project/josh): Just One Single History <https://josh-project.github.io/josh/>
+- 🌟 [jj-vcs/jj](https://github.com/jj-vcs/jj): A Git-compatible VCS that is both simple and powerful <https://jj-vcs.github.io/jj/>
+- 🌟 [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats): ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository. <https://git-quick-stats.sh>
 
 ### Code as Graph
 
@@ -223,6 +225,7 @@
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 <https://postiz.com>
 - [Nutlope/self.so](https://github.com/Nutlope/self.so): LinkedIn -> personal site generator <https://www.self.so/>
 - [时间去哪儿了：柳比歇夫时间记录法实践手册](https://shijian.tujunjie.com/): 柳比歇夫时间记录法实践手册，aTimeLogger 从入门到精通
+- [851235550/how-to-buy-house](https://github.com/851235550/how-to-buy-house): 根据国家统计局资料整理房价走势 <https://how-to-buy-house.vercel.app>
 
 ## ESL
 
@@ -274,6 +277,8 @@
 - [mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser): Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad <https://mullvad.net/browser>
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension): Browser extension to spoof timezone, geolocation, locale and user agent. <https://vytal.io>
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser): Simple Yet Powerful Browser Orchestrator 🍩 <https://donutbrowser.com>
+- 🌟 [Web fingerprinting is worse than I thought - Bitestring's Blog](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
+  - At least, try to set `resistFingerprinting=true` in `about:config` for Firefox
 
 ## Open Source Software: State, Progress and Future
 

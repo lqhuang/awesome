@@ -52,6 +52,7 @@
   - How fast for ultra fast matching engine?
 - [barter-rs/barter-rs](https://github.com/barter-rs/barter-rs): Open-source Rust framework for building event-driven live-trading & backtesting systems <https://github.com/orgs/barter-rs/repositories>
 - [javifalces/HFTFramework](https://github.com/javifalces/HFTFramework): HFTFramework utilized for research on " A reinforcement learning approach to improve the performance of the Avellaneda-Stoikov market-making algorithm "
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader): A high-performance algorithmic trading platform and event-driven backtester <https://nautilustrader.io>
 
 ## Backtesting
 

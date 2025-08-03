@@ -84,14 +84,17 @@
 - [pundit-community/pundit.js](https://github.com/pundit-community/pundit.js): [WIP] Minimal authorisation through a plain old JavaScript object. <https://pundit-community.github.io/pundit.js/>
 - [stack-auth/stack](https://github.com/stack-auth/stack): Open-source Auth0/Clerk alternative <https://stack-auth.com>
 - 🌟 [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id): A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. <https://pocket-id.org>
+- [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
+- 🌟 [toolbeam/openauth](https://github.com/toolbeam/openauth): ▦ Universal, standards-based auth provider. <https://openauth.js.org>
+- 🌟 [lastlogin-net/obligator](https://github.com/lastlogin-net/obligator): Simple and opinionated OpenID Connect server designed for self-hosters <https://lastlogin.net/>
 
 ## Analytics
 
-- 🌟 [usefathom/fathom](https://github.com/usefathom/fathom): Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact. <https://usefathom.com>
-- 🌟 [plausible/analytics](https://github.com/plausible/analytics): Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. <https://plausible.io>
+- [usefathom/fathom](https://github.com/usefathom/fathom): Fathom Lite. Simple, privacy-focused website analytics. Built with Golang & Preact. <https://usefathom.com>
+- [plausible/analytics](https://github.com/plausible/analytics): Simple, open-source, lightweight (< 1 KB) and privacy-friendly web analytics alternative to Google Analytics. <https://plausible.io>
 - [milesmcc/shynet](https://github.com/milesmcc/shynet): Modern, privacy-friendly, and detailed web analytics that works without cookies or JS.
 - [PostHog/posthog](https://github.com/PostHog/posthog): 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host. <https://posthog.com>
-- 🌟 [steven-tey/dub](https://github.com/steven-tey/dub): An open-source link shortener with built-in analytics + free custom domains. <https://dub.co>
+- [steven-tey/dub](https://github.com/steven-tey/dub): An open-source link shortener with built-in analytics + free custom domains. <https://dub.co>
 - [shlinkio/shlink](https://github.com/shlinkio/shlink): The definitive self-hosted URL shortener <https://shlink.io>
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale): Scalable web analytics you run yourself on Cloudflare <https://counterscale.dev>
 

@@ -29,6 +29,8 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [Font Catalog — Connary Fagen](https://connary.com/fonts/)
 - Optima
 - [Departure Mono](https://departuremono.com/): Departure Mono is a monospaced pixel font by Helena Zhang, licensed under the SIL OFL.
+- [Atkinson Hyperlegible Font - Braille Institute](https://www.brailleinstitute.org/freefont/): Read easier with Atkinson Hyperlegible Font, crafted for low-vision readers.
+  - designed to improve legibility and readability for individuals with low vision. These carefully crafted fonts feature clear, highly distinctive letters and numbers that make reading easier and more accessible.
 
 Mono
 
@@ -75,6 +77,7 @@ CJK
   - [lxgw/LxgwNeoXiZhi-Screen](https://github.com/lxgw/LxgwNeoXiZhi-Screen): LXGW Neo XiHei and LXGW Neo ZhiSong for Screen Reading.
 - [Hulenkius/sotyr](https://github.com/Hulenkius/sotyr): 仲春仿宋 | Sotyr Fangsong ：聚珍仿宋二号长体的直接复刻项目
 - [chenh96/yahei-sarasa](https://github.com/chenh96/yahei-sarasa): Sarasa UI -> Microsoft YaHei UI
+- [DrXie/OSFCC](https://github.com/DrXie/OSFCC): Open Source Fonts Collection for Chinese <https://drxie.github.io/OSFCC/>
 
 ## Web
 
@@ -87,3 +90,4 @@ CJK
 - [fontsource/fontsource](https://github.com/fontsource/fontsource): Self-host Open Source fonts in neatly bundled NPM packages. <https://fontsource.org>
 - [ZeoSeven™ Fonts](https://fonts.zeoseven.com/): Webfonts CDN in China mainland
 - [sofish/typo.css](https://github.com/sofish/typo.css): 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版 <http://typo.sofi.sh>
+- [shanleiguang/vRain](https://github.com/shanleiguang/vRain): 中文古籍刻本風格直排電子書製作工具 Chinese ancient ebook making tool

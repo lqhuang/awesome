@@ -193,6 +193,7 @@
 - 🌟 [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar): Everything integration for the Windows taskbar.
 - [fairhopeweb/JunkCtrl](https://github.com/fairhopeweb/JunkCtrl): JunkCTRL
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer): A tool to "Fix" Windows 11
+- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ## Developer
 
@@ -313,6 +314,7 @@ NextCloud is crazily BIG now, so I will say no here.
 - [owncloud/ocis](https://github.com/owncloud/ocis): ⚛️ ownCloud Infinite Scale Stack <https://doc.owncloud.com/ocis/next/>
 - 🌟 [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud): This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services. <https://opencloud.eu>
 - [cs3org/reva](https://github.com/cs3org/reva): WebDAV/gRPC/HTTP high performance server to link high level clients to storage backends <https://reva.link>
+- [9001/copyparty](https://github.com/9001/copyparty): Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 
 ### Email
 

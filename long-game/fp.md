@@ -25,6 +25,7 @@
   - [chiroptical/book-of-monads](https://github.com/chiroptical/book-of-monads): Finished Book of Monads by Alejandro Serrano-Mena
 - [Agda-zh/PLFA-zh](https://github.com/Agda-zh/PLFA-zh): 《编程语言基础：Agda 描述》，Programming Language Foundations in Agda 中文版 <https://agda-zh.github.io/PLFA-zh/>
 - [dspivak/dependent-types](https://github.com/dspivak/dependent-types): dependent-types
+- [Programming Languages: Application and Interpretation](https://www.plai.org/): This is the Web site for Programming Languages: Application and Interpretation, often referred to by its initials as PLAI (pronounce it like "play"). Over the years well over fifty academic institutions (that I know of) have used PLAI.
 
 ### Readings
 
@@ -97,3 +98,9 @@
 
 - [lean-dojo/LeanDojo](https://github.com/lean-dojo/LeanDojo): Tool for data extraction and interacting with Lean programmatically. <https://leandojo.org>
 - [ImperialCollegeLondon/group-theory-game](https://github.com/ImperialCollegeLondon/group-theory-game): Building group theory from scratch in Lean
+
+## Misc
+
+- 🌟 [tweag/topiary](https://github.com/tweag/topiary): Topiary aims to be a uniform formatter for simple languages, as part of the Tree-sitter ecosystem. <https://topiary.tweag.io/>
+- [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter): An incremental parsing system for programming tools <https://tree-sitter.github.io>
+- [wenkokke/hs-tree-sitter](https://github.com/wenkokke/hs-tree-sitter): No description, website, or topics provided.

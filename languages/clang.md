@@ -57,6 +57,7 @@ And modern is here now.
 - [abseil / Performance Guide](https://abseil.io/fast/): An open-source collection of core C++ library code
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html): no description found
   - [谷歌 C++ 风格指南 | CppGuide 社区](https://cppguide.cn/LatestGoogleCppStyleGuideForCpp17&20/)
+- 🌟 [cppstat](https://cppstat.dev/): C++ Compiler Support Status
 
 ### Books
 
@@ -274,6 +275,7 @@ And modern is here now.
 - [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library <https://dpilger26.github.io/NumCpp>
 - [halide/Halide](https://github.com/halide/Halide): a language for fast, portable data-parallel computation <https://halide-lang.org>
 - [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS): OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. <http://www.openblas.net>
+- [kokkos/kokkos](https://github.com/kokkos/kokkos): Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction <https://kokkos.org>
 
 ## Utils
 
@@ -293,3 +295,5 @@ And modern is here now.
 - [The Fil-C Memory Safety Manifesto: FUGC Yeah!](https://github.com/pizlonator/llvm-project-deluge/blob/deluge/Manifesto.md)
 - [Snektron/pareas](https://github.com/Snektron/pareas): GPU-accelerated compiler
 - [Vexu/arocc](https://github.com/Vexu/arocc): A modern fully featured C compiler.
+- [compiler-research/CppInterOp](https://github.com/compiler-research/CppInterOp): A Clang-based C++ Interoperability Library
+- [root-project/cling](https://github.com/root-project/cling): The cling C++ interpreter

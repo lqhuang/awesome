@@ -18,10 +18,11 @@
   - [Documentation](https://central.sonatype.org/)
 - 🌟 [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog): Find, verify, and analyze leaked credentials <https://trufflesecurity.com>
 - [janestreet/iron](https://github.com/janestreet/iron): Jane Street code review system
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji): An emoji guide for your commit messages. 😜 <https://gitmoji.dev>
+  - LoL
 
 ### Misc linters / formatters
 
-- 🌟 [tweag/topiary](https://github.com/tweag/topiary): Topiary aims to be a uniform formatter for simple languages, as part of the Tree-sitter ecosystem. <https://topiary.tweag.io/>
 - [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter): ⚡️Lightning-fast linter for .env files. Written in Rust 🦀 <https://dotenv-linter.github.io>
 - [Jinjiang/zhlint](https://github.com/Jinjiang/zhlint): A linting tool for Chinese language. <https://jinjiang.dev/zhlint/>
 - [stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI v3.1, v3.0, and v2.0 as well as AsyncAPI v2.x. <https://stoplight.io/spectral>
@@ -40,6 +41,7 @@
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint): An extremely fast directory and filename linter - Bring some structure to your project filesystem <https://ls-lint.org>
 - [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell
 - [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
+- [codacy](https://github.com/codacy): Codacy helps to build effortless code quality and security for developers. Build clean, secure code efficiently and fearlessly with Codacy.
 
 ## Build systems
 

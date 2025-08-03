@@ -28,6 +28,7 @@
 - nanoarrow
 - [lancedb/lance](https://github.com/lancedb/lance): Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming.. <https://lancedb.github.io/lance/>
 - [facebookexternal/nimble](https://github.com/facebookexternal/nimble): New file format for storage of large columnar datasets.
+- 🌟 [cwida/FastLanes](https://github.com/cwida/FastLanes): Next-Gen Big Data File Format <https://fastlanes.io/>
 
 ## ELT / ETL
 
@@ -72,6 +73,7 @@
 - [MarquezProject/marquez](https://github.com/MarquezProject/marquez): Collect, aggregate, and visualize a data ecosystem's metadata <https://marquezproject.ai>F
 - [datahub-project/datahub](https://github.com/datahub-project/datahub): The Metadata Platform for your Data and AI Stack <https://datahubproject.io>
 - [opendatadiscovery/odd-platform](https://github.com/opendatadiscovery/odd-platform): First open-source data discovery and observability platform. We make a life for data practitioners easy so you can focus on your business. <https://opendatadiscovery.org>
+- [recap-build/recap](https://github.com/recap-build/recap): Read and write schemas from web service, databases, and schema registries in a standard format <https://recap.build>
 
 ## Data governance
 

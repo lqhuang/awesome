@@ -191,6 +191,7 @@
 - [Bklieger/groqbook](https://github.com/Bklieger/groqbook): Groqbook: Generate entire books in seconds using Groq and Llama3 <https://groqbook.streamlit.app>
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern): Automate browser-based workflows with LLMs and Computer Vision <https://www.skyvern.com>
 - [getgrit/gritql](https://github.com/getgrit/gritql): GritQL is a query language for searching, linting, and modifying code. <https://docs.grit.io/>
+- [divar-ir/ai-doc-gen](https://github.com/divar-ir/ai-doc-gen): AI-powered multi-agent system that automatically analyzes codebases and generates comprehensive documentation. Features GitLab integration, concurrent processing, and multiple LLM support for better code understanding and developer onboarding.
 
 ### LLM Prompts
 
@@ -229,3 +230,10 @@
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development <https://librechat.ai/>
 - [TypingMind/typingmind](https://github.com/TypingMind/typingmind): The most advanced Web UI for AI chat <https://www.typingmind.com>
 - [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick): A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
+
+## Agents
+
+- [OpenPipe/ART](https://github.com/OpenPipe/ART): Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more! <https://art.openpipe.ai>
+- [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe): Turn expensive prompts into cheap fine-tuned models <https://openpipe.ai>
+- [charmbracelet/crush](https://github.com/charmbracelet/crush): The glamourous AI coding agent for your favourite terminal 💘
+- [wshobson/agents](https://github.com/wshobson/agents): A collection of production-ready subagents for Claude Code <https://sethhobson.com>

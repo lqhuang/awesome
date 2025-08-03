@@ -169,6 +169,10 @@
 - [epfl-lara/bolts](https://github.com/epfl-lara/bolts): Bolts: Stainless Verified Scala Examples
 - [lightbend-labs/scala-sculpt](https://github.com/lightbend-labs/scala-sculpt): Dependency extraction for Scala codebases, to aid in modularizing
   - This is unfinished, unmaintained software. We are releasing it as open source as a public service with the hopes the code will be useful to someone.
+- [nitay93/scala-z3](https://github.com/nitay93/scala-z3): Scala API for Z3 SAT solver
+- [epfl-lara/ScalaZ3](https://github.com/epfl-lara/ScalaZ3): DSL in Scala for Constraint Solving with Z3 SMT Solver
+  - [Scala^Z3: Integration of Scala and Z3](https://lara.epfl.ch/w/scalaz3)
+  - [Examples of Using Z3 with Scala](https://lara.epfl.ch/w/jniz3-scala-examples)
 
 ### CI Actions
 
@@ -251,6 +255,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [szeiger/perfio](https://github.com/szeiger/perfio): Fast and Convenient I/O for the JVM
   - > @StefanZeiger: It's written in Java and uses modern features like the FFM and Vector API.
   - What if we use similar highlights for Scala Native?
+- [arainko/chanterelle](https://github.com/arainko/chanterelle): chanterelle is a library that provides a map-like DSL over named tuples. Scala 3 only. Some chanterelles are scaly.
 
 ### Experiments
 
@@ -391,6 +396,7 @@ OpenTelemetry
 - [dataunitylab/jsonoid-discovery](https://github.com/dataunitylab/jsonoid-discovery): Distributed JSON schema discovery <https://dataunitylab.github.io/jsonoid-discovery/>
 - [aherlihy/carac](https://github.com/aherlihy/carac): A Datalog execution engine for Scala
 - [joernio/joern](https://github.com/joernio/joern): Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc <https://joern.io/>
+- [Nestor10/fishy-scala-quill-jsonb-example](https://github.com/Nestor10/fishy-scala-quill-jsonb-example): 🐟 Scala 3 + ZIO + Quill + PostgreSQL JSONB example with Dr. Seuss inspired fish data
 
 ## Tools
 
@@ -470,6 +476,7 @@ OpenTelemetry
 - [gnieh/fs2-data](https://github.com/gnieh/fs2-data): streaming data parsing and transformation library <https://fs2-data.gnieh.org>
 - [nivox/fs2-backpressure-sensor](https://github.com/nivox/fs2-backpressure-sensor): Backpressure sensor implementation for fs2
   - [timbertson/backpressure-sensor](https://github.com/timbertson/backpressure-sensor): Measure backpressure in reactive streams pipelines
+- [permutive-engineering/prometheus4cats-contrib](https://github.com/permutive-engineering/prometheus4cats-contrib): Prometheus4Cats instumentation for thrid party libaries
 
 ### ZIO
 

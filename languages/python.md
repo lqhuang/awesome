@@ -22,6 +22,7 @@
 - [henryiii/pygpu-minicourse](https://github.com/henryiii/pygpu-minicourse): Princeton mini course on GPUs in Python
 - [Xiang-cd/GPUProcessPoolExecutor](https://github.com/Xiang-cd/GPUProcessPoolExecutor): A implementation of GPUProcessPoolExecutor to perform light weighted GPU parallel tasks.
 - [pablogsal/python-horror-show](https://github.com/pablogsal/python-horror-show): Strange and odd python snippets explained
+- [fstrings.wtf - Python F-String Quiz](https://fstrings.wtf/): Test your knowledge of Python's f-string formatting with this interactive quiz. How well do you know Python's string formatting quirks?
 
 ### Readings
 
@@ -662,6 +663,7 @@ Misc
       - `strutils.split_punct_ws(text)`
     - `typeutils.get_all_subclasses(cls)`
 - 🌟 [pallets/itsdangerous](https://github.com/pallets/itsdangerous): Safely pass trusted data to untrusted environments and back. <https://itsdangerous.palletsprojects.com>
+- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles): Simple, modern and fast file watching and code reload for Python, written in Rust <https://watchfiles.helpmanual.io>
 
 ## Compilers
 
@@ -681,6 +683,7 @@ Misc
 - [cslarsen/python-simple-vm](https://github.com/cslarsen/python-simple-vm): A simple virtual machine w/constant folding implemented in Python <https://csl.name/post/vm/>
 - [Pylir/Pylir](https://github.com/Pylir/Pylir): An optimizing ahead-of-time Python Compiler <https://pylir.github.io/Pylir/>
   - llvm + mlir
+- [wlav/cppyy](https://github.com/wlav/cppyy): cppyy provides fully automatic, dynamic Python-C++ bindings by leveraging the Cling C++ interpreter and LLVM.
 
 ### Parsers
 
