@@ -256,17 +256,19 @@ General problems
 - [iree-org/iree](https://github.com/iree-org/iree): A retargetable MLIR-based machine learning compiler and runtime toolkit. <http://iree.dev/>
 - [llvm/eudsl](https://github.com/llvm/eudsl): Embedded Universal DSL: a good DSL for us, by us
 - [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial): MLIR For Beginners tutorial
+- [KEKE046/mlir-tutorial](https://github.com/KEKE046/mlir-tutorial): Hands-On Practical MLIR Tutorial
 
 ### Tensor inference
 
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass): CUDA Templates for Linear Algebra Subroutines
+- [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend): cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT): NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference applications. <https://developer.nvidia.com/tensorrt>
 - [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub): NVIDIA curated collection of educational resources related to general purpose GPU programming.
+- [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python): CUDA Python: Performance meets Productivity <https://nvidia.github.io/cuda-python/>
+- [NVIDIA/nvmath-python](https://github.com/NVIDIA/nvmath-python): NVIDIA Math Libraries for the Python Ecosystem <https://docs.nvidia.com/cuda/nvmath-python/>
 - [google/XNNPACK](https://github.com/google/XNNPACK): High-efficiency floating-point neural network inference operators for mobile, server, and Web
 - [Azure/MS-AMP](https://github.com/Azure/MS-AMP): Microsoft Automatic Mixed Precision Library <https://azure.github.io/MS-AMP/>
 - [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl): NVIDIA Inference Xfer Library (NIXL)
-- [NVIDIA/cuda-python](https://github.com/NVIDIA/cuda-python): CUDA Python: Performance meets Productivity <https://nvidia.github.io/cuda-python/>
-- [NVIDIA/nvmath-python](https://github.com/NVIDIA/nvmath-python): NVIDIA Math Libraries for the Python Ecosystem <https://docs.nvidia.com/cuda/nvmath-python/>
 - [cubed-dev/cubed](https://github.com/cubed-dev/cubed): Scalable array processing with bounded memory <https://cubed-dev.github.io/cubed/>
 
 ## Specific Topics

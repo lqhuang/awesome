@@ -107,19 +107,29 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 #### CSS in JS
 
+- [andreipfeiffer/css-in-js](https://github.com/andreipfeiffer/css-in-js): A thorough analysis of all the current CSS-in-JS solutions with SSR & TypeScript support for Next.js
 - [macaron-css/macaron](https://github.com/macaron-css/macaron): Typesafe CSS-in-JS with zero runtime, colocation, maximum safety and productivity <https://macaron.js.org>
 - [vanilla-extract-css/vanilla-extract](https://github.com/vanilla-extract-css/vanilla-extract): Zero-runtime Stylesheets-in-TypeScript <https://vanilla-extract.style>
+  - `sprinkles`: Zero-runtime atomic CSS framework for vanilla-extract.
 - 🪦 [stitchesjs/stitches](https://github.com/stitchesjs/stitches): CSS-in-JS with near-zero runtime, SSR, multi-variant support, and a best-in-class developer experience. <https://stitches.dev>
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro): 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library <https://linaria.dev>
+- [vercel/styled-jsx](https://github.com/vercel/styled-jsx): Full CSS support for JSX without compromises <http://npmjs.com/styled-jsx>
 - [facebook/stylex](https://github.com/facebook/stylex): StyleX is the styling system for ambitious user interfaces. <https://stylexjs.com>
 - [chakra-ui/panda](https://github.com/chakra-ui/panda): 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️ <https://panda-css.com>
+  - [muijf/pandacss-preset-typography](https://github.com/muijf/pandacss-preset-typography): Typography preset for PandaCSS, inspired by TailwindCSS Typography, for beautiful and consistent text styling. <https://docs.muijf.com/pandacss-preset-typography>
+  - [YannBirba/pandacss-preset-react-aria-components](https://github.com/YannBirba/pandacss-preset-react-aria-components): A 🐼 PandaCSS preset for React aria components
+  - [astahmer/panda-monorepo](https://github.com/astahmer/panda-monorepo): example of a panda monorepo usage with a consuming app and multiple ui-lib providers
+  - [astahmer/tw2panda](https://github.com/astahmer/tw2panda): Easily migrate code from tailwind to Panda CSS <https://tailwind-to-panda.vercel.app/>
+  - [astahmer/pandabox](https://github.com/astahmer/pandabox): a toolbox for Panda CSS <https://pandabox.vercel.app/>
+- [styled-components/polished](https://github.com/styled-components/polished): A lightweight toolset for writing styles in JavaScript ✨ <https://polished.js.org/>
+- [mui/pigment-css](https://github.com/mui/pigment-css): Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
 
 ### linters
 
 - [stylelint/stylelint](https://github.com/stylelint/stylelint): A mighty CSS linter that helps you avoid errors and enforce conventions. <https://stylelint.io>
 - [cssnano/cssnano](https://github.com/cssnano/cssnano): A modular minifier, built on top of the PostCSS ecosystem. <https://cssnano.github.io/cssnano/>
-- [FullHuman/purgecss](https://github.com/FullHuman/purgecss): Remove unused CSS <https://purgecss.com>
+- 🌟 [FullHuman/purgecss](https://github.com/FullHuman/purgecss): Remove unused CSS <https://purgecss.com>
 - [clean-css/clean-css](https://github.com/clean-css/clean-css): Fast and efficient CSS optimizer for node.js and the Web <https://clean-css.github.io/>
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss): An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. <https://lightningcss.dev>
 
@@ -132,13 +142,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [stacksjs/stacks](https://github.com/stacksjs/stacks): ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster. <https://stacksjs.org>
 - [refinedev/refine](https://github.com/refinedev/refine): Build your React-based CRUD applications, without constraints. <https://refine.dev>
 - [alpinejs/alpine](https://github.com/alpinejs/alpine): A rugged, minimal framework for composing JavaScript behavior in your markup. <https://alpinejs.dev>
-- [trpc/trpc](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. <https://trpc.io>
 - 🌟 [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework <https://waku.gg>
 - [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js): Reactivity without the framework <https://arrow-js.com>
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra): Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
 - [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js): A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth): Authentication for the Web. <https://authjs.dev>
 - [onejs/one](https://github.com/onejs/one): ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. <https://onestack.dev>
 
 ### UI Testing
@@ -148,6 +156,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [HuolalaTech/page-spy-web](https://github.com/HuolalaTech/page-spy-web): Debug remotely and easily like chrome devtools. <https://pagespy.org>
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro): Painless E2E Automation for Mobile and Web <https://maestro.dev>
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js): Native UI testing / controlling with node <https://nutjs.dev>
+- [astahmer/atomic-css-devtools](https://github.com/astahmer/atomic-css-devtools): A devtool panel for debugging Atomic CSS rules as if they were not atomic. Available on chrome & firefox. Works with TailwindCSS, Panda CSS, and any atomic CSS library <https://chromewebstore.google.com/detail/atomic-css-devtools/cbjhfeooiomphlikkblgdageenemhpgc>
 
 ### Performance Profiles
 
@@ -185,6 +194,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [TailGrids/tailwind-ui-components](https://github.com/TailGrids/tailwind-ui-components): Tailwind CSS UI library, featuring over 600 top-tier Tailwind CSS UI components and blocks. Each one is handcrafted for modern websites, landing pages, web applications, dashboards, ecommerce platforms, and more. <https://tailgrids.com/>
 - [felix-bohlin/ui](https://github.com/felix-bohlin/ui): A CSS UI library exploring how next-gen HTML & CSS features can change the way we create components. Designed to be used by professional teams as well as tinkering hobbyists. <https://open-props-ui.netlify.app/>
   - only css
+- [cschroeter/park-ui](https://github.com/cschroeter/park-ui): Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks. <https://park-ui.com>
 
 #### React
 
@@ -252,6 +262,7 @@ Shadcn UI eco system
 - 🌟 [guhrodrrigues/luxe](https://github.com/guhrodrrigues/luxe): Copy and paste components ready to use. Practical. Customizable. <https://luxeui.com>
   - A great collection to learn how to use motion
 - [shadcn/ui registry — UI.pub](https://uipub.com/): Premium shadcn/ui components registry. UI Kits, Blocks, Templates.
+- [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components): A collection of neobrutalism-styled Tailwind components. <https://neobrutalism.dev>
 
 #### Svelte
 
@@ -648,6 +659,8 @@ Concrete animations
 - 🌟 [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage): The homepage of Phosphor Icons, a flexible icon family for everyone <https://phosphoricons.com>
 - [emilwidlund/harmony](https://github.com/emilwidlund/harmony): A new kind of color picker for React <https://harmony.sh>
 - 🌟 [jpswalsh/academicons](https://github.com/jpswalsh/academicons): An icon font for academics <https://jpswalsh.github.io/academicons>
+- [HeyHuazi/SVGLOGO](https://github.com/HeyHuazi/SVGLOGO): SVG LOGO for China <https://svglogo.top/>
+- [中国大学矢量校徽大全](https://www.urongda.com/): 汇集全国高校的矢量校徽，提供高质量的可缩放 SVG 文件，适合设计师、学生和机构使用。
 
 ## Further topics
 

@@ -53,6 +53,7 @@
 
 ### Libs
 
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth): Authentication for the Web. <https://authjs.dev>
 - [WorkOS](https://github.com/workos): WorkOS is a set of building blocks for quickly adding enterprise features to your app. You’ll be shipping quickly with a market-proven solution for your customers. <https://workos.com/>
 - [Clerk](https://github.com/clerkinc): More than authentication - Complete user management <https://clerk.dev/>
 - [Auth0](https://github.com/auth0): Next.js SDK for signing in with Auth0 <https://auth0.com>
@@ -87,6 +88,7 @@
 - [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
 - 🌟 [toolbeam/openauth](https://github.com/toolbeam/openauth): ▦ Universal, standards-based auth provider. <https://openauth.js.org>
 - 🌟 [lastlogin-net/obligator](https://github.com/lastlogin-net/obligator): Simple and opinionated OpenID Connect server designed for self-hosters <https://lastlogin.net/>
+- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The simplest way to protect your apps with a login screen. <https://tinyauth.app>
 
 ## Analytics
 

@@ -114,7 +114,7 @@
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects and displays high-resolution traces of what a process is doing <https://magic-trace.org>
 - [KDAB/hotspot](https://github.com/KDAB/hotspot): The Linux perf GUI for performance analysis.
 - [twitter/rezolus](https://github.com/twitter/rezolus): Systems performance telemetry
-- [google/perfetto](https://github.com/google/perfetto): Performance instrumentation and tracing for Android, Linux and Chrome <https://www.perfetto.dev>
+- [google/perfetto](https://github.com/google/perfetto): Production-grade client-side tracing, profiling, and analysis for complex software systems. <https://www.perfetto.dev>
 - 🌟 [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math): Techniques and numbers for estimating system's performance from first-principles <https://www.youtube.com/watch?v=IxkSlnrRFqc>
 - 🌟 [namhyung/uftrace](https://github.com/namhyung/uftrace): Function graph tracer for C/C++/Rust <https://uftrace.github.io/slide>
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
@@ -129,6 +129,8 @@
 
 ## WASM Runtime
 
+- [WebAssembly: Yes, but for What? - ACM Queue](https://queue.acm.org/detail.cfm?id=3746171): The keys to a successful Wasm deployment
+  - Review article for WebAssembly in the first 10 years
 - [wasm3/wasm3](https://github.com/wasm3/wasm3): 🚀 The fastest WebAssembly interpreter, and the most universal runtime
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime): Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer): 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
@@ -143,6 +145,7 @@
 - [zksecurity/wasmati](https://github.com/zksecurity/wasmati): Write low-level WebAssembly, from JavaScript
 - [bytecodealliance/registry](https://github.com/bytecodealliance/registry): WebAssembly Registry (Warg)
 - [topheman/webassembly-component-model-experiments](https://github.com/topheman/webassembly-component-model-experiments): WebAssembly Component Model based REPL with sandboxed multi-language plugin system - unified codebase runs in CLI (Rust) and web (TypeScript) <https://topheman.github.io/webassembly-component-model-experiments/>
+- [bytecodealliance/wizer](https://github.com/bytecodealliance/wizer): The WebAssembly Pre-Initializer
 
 ### The WebAssembly Component Model
 

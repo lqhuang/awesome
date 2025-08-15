@@ -80,18 +80,17 @@
   - [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn): A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε
   - [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX): 《简单粗暴 LaTeX》出版图书开源仓库 | The opensource repo for my published LaTeX book.
   - [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook): LaTeX 论文写作教程 (中文版)
+  - [latex3/mathtools](https://github.com/latex3/mathtools): Mathematical tools to use with amsmath
 - [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner): arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 - [brucemiller/LaTeXML](https://github.com/brucemiller/LaTeXML): LaTeXML: a TeX and LaTeX to XML/HTML/ePub/MathML translator. <http://dlmf.nist.gov/LaTeXML/>
 - [jgm/texmath](https://github.com/jgm/texmath): A Haskell library for converting LaTeX math to MathML.
 - [jonbarron/tabilize](https://github.com/jonbarron/tabilize): Simple code for generating a color-coded latex table from raw data
 - [gpoore/minted](https://github.com/gpoore/minted): minted is a LaTeX package that provides syntax highlighting using the Pygments library. Highlighted source code can be customized using fancyvrb.
-
 - [google/latexify_py](https://github.com/google/latexify_py): Generates LaTeX math description from Python functions.
 - [VikParuchuri/texify](https://github.com/VikParuchuri/texify): Math OCR model that outputs LaTeX and markdown <https://www.datalab.to>
 - [WGUNDERWOOD/tex-fmt](https://github.com/WGUNDERWOOD/tex-fmt): An extremely fast LaTeX formatter written in Rust
 - [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl): Perl script to add indentation (leading horizontal space) to LaTeX files. It can modify line breaks before, during and after code blocks; it can perform text wrapping and paragraph line break removal. It can also perform string-based and regex-based substitutions/replacements. The script is customisable through its YAML interface.
 - [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips): Tips for Writing a Research Paper using LaTeX
-
 - [TeXipedia](https://www.texipedia.com/): Find LaTeX symbols fast
 - [NanoMichael/MicroTeX](https://github.com/NanoMichael/MicroTeX): A dynamic, cross-platform, and embeddable LaTeX rendering library
 

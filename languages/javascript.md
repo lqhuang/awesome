@@ -178,6 +178,10 @@ Specific
 
 - 🌟 [colinhacks/zod](https://github.com/colinhacks/zod): TypeScript-first schema validation with static type inference <https://zod.dev>
   - [StefanTerdell/zod-to-json-schema](https://github.com/StefanTerdell/zod-to-json-schema): Converts Zod schemas to Json schemas
+  - [timdeschryver/zod-fixture](https://github.com/timdeschryver/zod-fixture): Creating fixtures based on zod schemas <https://zod-fixture.timdeschryver.dev/>
+  - [LorisSigrist/zocker](https://github.com/LorisSigrist/zocker): Generate realistic mock-data from your `zod` schemas <http://zocker.sigrist.dev/>
+  - [soc221b/zod-schema-faker](https://github.com/soc221b/zod-schema-faker): Generate mock data from zod schemas. Powered by @faker-js/faker and randexp.js. <https://stackblitz.com/edit/zod-schema-faker?file=src%2Fmain.ts>
+  - [danscan/zod-jsonrpc](https://github.com/danscan/zod-jsonrpc): Create type-safe JSON-RPC API clients and servers in JS/TS using any transport.
 - 🌟 [arktypeio/arktype](https://github.com/arktypeio/arktype): TypeScript's 1:1 validator, optimized from editor to runtime <https://arktype.io/>
   - highlight: pattern matching / integrable with `hono`
   - [ArkType Docs: Match](https://arktype.io/docs/match): Optimized runtime validation for TypeScript syntax
@@ -202,6 +206,7 @@ Specific
 - 🌟 [hyparam/hyparquet](https://github.com/hyparam/hyparquet): parquet file parser for javascript
   - [hyparam/hysnappy](https://github.com/hyparam/hysnappy): Snappy decompression with WebAssembly
 - [eemeli/yaml](https://github.com/eemeli/yaml): YAML parser and stringifier for JavaScript <https://eemeli.org/yaml>
+- [vercel/bidc](https://github.com/vercel/bidc): Bidirectional Channels for JavaScript
 
 ### Parser
 
@@ -253,6 +258,8 @@ Specific
   - mongodb for Nodejs + SQLite
   - good idea, but no more active
 - [salsita/node-pg-migrate](https://github.com/salsita/node-pg-migrate): Node.js database migration management for PostgreSQL <https://salsita.github.io/node-pg-migrate>
+- [trpc/trpc](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. <https://trpc.io>
+- [unnoq/orpc](https://github.com/unnoq/orpc): Typesafe APIs Made Simple 🪄 <https://orpc.unnoq.com>
 
 ### format parser / converter
 
@@ -350,7 +357,7 @@ Specific
 - [isaacs/node-glob](https://github.com/isaacs/node-glob): glob functionality for node.js
 - [isaacs/st](https://github.com/isaacs/st): A node module for serving static files. Does etags, caching, etc.
   - "Does etags, caching, etc." How? Try to learn from `st`
-- [thecodrr/fdir](https://github.com/thecodrr/fdir): ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s <https://thecodrr.github.io/fdir/>
+- 🌟 [thecodrr/fdir](https://github.com/thecodrr/fdir): ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s <https://thecodrr.github.io/fdir/>
 - [SuperchupuDev/tinyglobby](https://github.com/SuperchupuDev/tinyglobby): A fast and minimal alternative to globby and fast-glob <https://npmjs.com/package/tinyglobby>
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms): Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes): Convert bytes to a human readable string: 1337 → 1.34 kB

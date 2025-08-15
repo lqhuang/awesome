@@ -80,6 +80,8 @@
 - [simonw/alpine-edit](https://github.com/simonw/alpine-edit): Microsoft edit packaged as a Docker container to run on a Mac
   - `vim` is too big for striped container image, `edit` is a good alternative
 - 🌟 [tilt-dev/tilt](https://github.com/tilt-dev/tilt): Define your dev environment as code. For microservice apps on Kubernetes. <https://tilt.dev/>
+- 🌟 [psviderski/unregistry](https://github.com/psviderski/unregistry): Push docker images directly to remote servers without an external registry <https://uncloud.run>
+- [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content <https://distribution.github.io/distribution>
 
 ### OS
 
@@ -91,6 +93,7 @@
 - [flatcar/coreos-cloudinit](https://github.com/flatcar/coreos-cloudinit): Simple configuration tool for Flatcar Container Linux <https://github.com/flatcar/flatcar/issues>
 - [rancher/elemental](https://github.com/rancher/elemental): Elemental is a software stack enabling centralized, full cloud-native OS management with Kubernetes. <https://elemental.docs.rancher.com/>
 - [hashicorp/packer](https://github.com/hashicorp/packer): Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. <https://developer.hashicorp.com/packer>
+- [cobbler/cobbler](https://github.com/cobbler/cobbler): Cobbler is a versatile Linux deployment server <https://cobbler.github.io>
 
 ### Virtual Machines
 
@@ -166,6 +169,8 @@ Type 1 hypervisors
   - [denji/nginx-tuning](https://github.com/denji/nginx-tuning): NGINX tuning for best performance <https://git.io/vSvsq>
   - [nginx/unit](https://github.com/nginx/unit): NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes. <https://unit.nginx.org>
   - [dvershinin/gixy](https://github.com/dvershinin/gixy): NGINX configuration static analyzer <https://gixy.getpagespeed.com>
+  - [nginx/nginx-acme](https://github.com/nginx/nginx-acme): An NGINX module with the implementation of the automatic certificate management (ACMEv2) protocol <https://nginx.org>
+    - [NGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog](https://blog.nginx.org/blog/native-support-for-acme-protocol): no description found
 - [facebookincubator/katran](https://github.com/facebookincubator/katran): A high performance layer 4 load balancer
 - [projectcontour/contour](https://github.com/projectcontour/contour): Contour is a Kubernetes ingress controller using Envoy proxy. <https://projectcontour.io>
 - [megaease/easegress](https://github.com/megaease/easegress): A Cloud Native traffic orchestration system <https://megaease.com/easegress/>
@@ -324,6 +329,9 @@ Type 1 hypervisors
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <https://trivy.dev>
 - [kubescape/kubescape](https://github.com/kubescape/kubescape): Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. <https://kubescape.io>
 - [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security): [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
+- [zegl/kube-score](https://github.com/zegl/kube-score): Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kubernetes. <https://kube-score.com>
+  - `brew install kube-score`
+  - `kubectl krew install score`
 
 ### Utils
 

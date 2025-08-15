@@ -89,6 +89,8 @@
   - [DistributedClocks/shiviz](https://github.com/DistributedClocks/shiviz): A tool to visualize distributed system logs <https://bestchai.bitbucket.io/shiviz/>
 - [mark-when/markwhen](https://github.com/mark-when/markwhen): Make a cascading timeline from markdown-like text. Supports simple American/European date styles, ISO8601, images, links, locations, and more. <https://markwhen.com>
 - [3rd/tsdiagram](https://github.com/3rd/tsdiagram): Create diagrams and plan your code with TypeScript. <https://tsdiagram.com>
+- [k1LoW/deck](https://github.com/k1LoW/deck): deck is a tool for creating deck using Markdown and Google Slides.
+  - Sync markdown slides to Google presentation. Awesome!
 
 ## Homelab
 
@@ -101,6 +103,7 @@
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. <https://umbrel.com>
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates): 🚢 400+ 1-click Portainer app templates <https://portainer-templates.as93.net>
 - [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. <https://netboot.xyz>
+- [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server): ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot) <https://cosmos-cloud.io>
 
 ### Cases / Setup
 
@@ -226,6 +229,8 @@
 - [Nutlope/self.so](https://github.com/Nutlope/self.so): LinkedIn -> personal site generator <https://www.self.so/>
 - [时间去哪儿了：柳比歇夫时间记录法实践手册](https://shijian.tujunjie.com/): 柳比歇夫时间记录法实践手册，aTimeLogger 从入门到精通
 - [851235550/how-to-buy-house](https://github.com/851235550/how-to-buy-house): 根据国家统计局资料整理房价走势 <https://how-to-buy-house.vercel.app>
+- [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life): By Dr. Piotr Wozniak
+  - [睡眠好，学习好，生活好](https://colerar.github.io/Chinese-Translation-Good-sleep-good-learning-good-life)
 
 ## ESL
 
@@ -289,3 +294,5 @@
 - [ossf/alpha-omega](https://github.com/ossf/alpha-omega): Our mission is to catalyze sustainable improvements to critical open source software projects and ecosystems. <https://alpha-omega.dev>
 - [Open Source Pledge](https://opensourcepledge.com/): Open Source software powers the world, but who supports the maintainers? We do.
 - 🌟 [jonschlinkert/maintainers-guide-to-staying-positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive): Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome! <https://github.com/jonschlinkert>
+- 🌟 [Building competency is better than therapy](https://world.hey.com/dhh/building-competency-is-better-than-therapy-4622c6b7)
+- [The Inevitability of Mixing Open Source and Money | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/): Thoughts on funding maintainers through the pledge

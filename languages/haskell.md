@@ -184,6 +184,8 @@
 
 ## Other good libs
 
+- [mstksg/functor-combinators](https://github.com/mstksg/functor-combinators): Combine and enhance Functors <https://hackage.haskell.org/package/functor-combinators>
+- [ekmett/free](https://github.com/ekmett/free): free monads <http://hackage.haskell.org/package/free>
 - 🌟 [deadpendency/deadpendency](https://github.com/deadpendency/deadpendency): Check if my repo's dependencies are dead (projects)! <https://deadpendency.com/>
 - [patrickt/fastsum](https://github.com/patrickt/fastsum): A fast open-union type, suitable for 100+ contained alternatives.
 - [HeinrichApfelmus/reactive-banana](https://github.com/HeinrichApfelmus/reactive-banana): Library for functional reactive programming in Haskell. <https://wiki.haskell.org/Reactive-banana>

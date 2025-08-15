@@ -415,6 +415,7 @@
 - [tokio-rs/bytes](https://github.com/tokio-rs/bytes): Utilities for working with bytes
 - [rinja-rs/rinja](https://github.com/rinja-rs/rinja): A template rendering engine based on Jinja, generating type-safe Rust code at compile time. <https://rinja.readthedocs.io>
 - [cessen/ropey](https://github.com/cessen/ropey): A utf8 text rope for manipulating and editing large texts.
+- [cratesland/cronexpr](https://github.com/cratesland/cronexpr): Calculate the next timestamp matching a given crontab pattern <https://docs.rs/cronexpr>
 
 ## Domain related
 

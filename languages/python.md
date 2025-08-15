@@ -43,6 +43,7 @@
 - [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
   - [scientific-python/cookie](https://github.com/scientific-python/cookie): Scientific Python Library Development Guide and Cookiecutter <https://learn.scientific-python.org/development>
 - [Python extensions should be lazy](https://www.gauge.sh/blog/python-extensions-should-be-lazy)
+- [Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly | Ken Jin](https://fidget-spinner.github.io/posts/jit-reflections.html)
 
 ### Books
 

@@ -48,6 +48,9 @@ Mono
 - [TX-02 Berkeley Mono™ Typeface](https://usgraphics.com/products/berkeley-mono): A love letter to the golden era of computing.
 - [rektdeckard/departure-mono](https://github.com/rektdeckard/departure-mono): A monospaced pixel font with a lo-fi, techy vibe <https://departuremono.com/>
 - [cormullion/juliamono](https://github.com/cormullion/juliamono): repository for JuliaMono, a monospaced font with reasonable Unicode support. <https://juliamono.netlify.app/>
+- [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code): The Google Sans Code font family
+- [source-foundry/Hack](https://github.com/source-foundry/Hack): A typeface designed for source code <http://sourcefoundry.org/hack/>
+- [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono): Commit Mono is an anonymous and neutral programming typeface. <https://commitmono.com/>
 
 Math fonts
 

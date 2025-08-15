@@ -5,6 +5,19 @@
   <img alt="github,githubactions,nix" src="https://skillicons.dev/icons?theme=light&i=github,githubactions,nix">
 </picture>
 
+## Resources
+
+- [sonatype maven central repository](https://central.sonatype.com/)
+  - [Documentation](https://central.sonatype.org/)
+- [Calendar Versioning — CalVer](https://calver.org/): Timely Project Versioning
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji): An emoji guide for your commit messages. 😜 <https://gitmoji.dev>
+  - 🤣
+- [Server World](https://www.server-world.info/en/): The site for people they like to build Network Servers with CentOS, Ubuntu, Fedora, Debian, Windows Server
+  - Oldest website style
+  - Latest setup guides
+  - Aha, awesome
+  - Ok. I see, the default language is Japanese ... so ... Got it!
+
 ## Tools
 
 - [Testcontainers](https://github.com/testcontainers): Testcontainers is an open source framework for providing throwaway, lightweight instances of databases, message brokers, web browsers, or just about anything that can run in a Docker container.
@@ -14,12 +27,10 @@
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit): A pre-commit hook for Ruff.
 - [package-url/purl-spec](https://github.com/package-url/purl-spec): A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby <https://github.com/package-url/purl-spec>
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook): Fast and powerful Git hooks manager for any type of projects. <http://lefthook.dev/>
-- [sonatype maven central repository](https://central.sonatype.com/)
-  - [Documentation](https://central.sonatype.org/)
 - 🌟 [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog): Find, verify, and analyze leaked credentials <https://trufflesecurity.com>
 - [janestreet/iron](https://github.com/janestreet/iron): Jane Street code review system
-- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji): An emoji guide for your commit messages. 😜 <https://gitmoji.dev>
-  - LoL
+- [j178/prefligit](https://github.com/j178/prefligit): ⚡ Better `pre-commit`, re-engineered in Rust
+- [gitlab:chrony/chrony](https://gitlab.com/chrony/chrony): Advanced NTP client and server
 
 ### Misc linters / formatters
 
@@ -42,6 +53,7 @@
 - [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell
 - [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
 - [codacy](https://github.com/codacy): Codacy helps to build effortless code quality and security for developers. Build clean, secure code efficiently and fearlessly with Codacy.
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged): 🚫💩 — Run tasks like formatters and linters against staged git files <https://www.npmjs.com/package/lint-staged>
 
 ## Build systems
 
@@ -56,6 +68,10 @@
   - [timniederhausen/gn](https://github.com/timniederhausen/gn): Standalone (fork) version of Chromium's GN
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink): NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings. <https://nativelink.com>
 - [phusion/holy-build-box](https://github.com/phusion/holy-build-box): System for building cross-distribution Linux binaries <https://phusion.github.io/holy-build-box/>
+- [gh:cross-tools](https://github.com/cross-tools): Cross-compile toolchains
+  - [cross-tools/clang-cross](https://github.com/cross-tools/clang-cross): Cross-compile toolchain with clang and {gnu, musl} libc
+  - [cross-tools/gnu-cross](https://github.com/cross-tools/gnu-cross): Cross-compile toolchain with gnu libc
+  - [cross-tools/musl-cross](https://github.com/cross-tools/musl-cross): Cross-compile toolchain with musl libc
 
 ### Monorepo
 
@@ -83,6 +99,7 @@
 - [bazelbuild/rules_python](https://github.com/bazelbuild/rules_python): Bazel Python Rules <https://rules-python.readthedocs.io>
 - [bazelbuild/rules_nodejs](https://github.com/bazelbuild/rules_nodejs): NodeJS toolchain for Bazel. <https://bazelbuild.github.io/rules_nodejs/>
 - [bazelbuild/rules_scala](https://github.com/bazelbuild/rules_scala): Scala rules for Bazel
+  - [ValdemarGr/mezel](https://github.com/ValdemarGr/mezel): Scala BSP implementation for Bazel.
 - [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust): Rust rules for Bazel <https://bazelbuild.github.io/rules_rust/>
 - [bazelbuild/rules_proto](https://github.com/bazelbuild/rules_proto): Protocol buffer rules for Bazel
 - [tweag/rules_haskell](https://github.com/tweag/rules_haskell): Haskell rules for Bazel. <https://haskell.build>
@@ -223,13 +240,14 @@ Libs
 
 ## GitHub Action
 
-- 🌟 [woodruffw/zizmor](https://github.com/woodruffw/zizmor): A static analysis tool for GitHub Actions <https://woodruffw.github.io/zizmor/>
+- [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally 🚀
+- [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw): Run, validate and execute GitHub Actions locally. <https://github.com/bahdotsh/wrkflw>
 - [actions/runner-images](https://github.com/actions/runner-images): GitHub Actions runner images
+- [nedbat/watchgha](https://github.com/nedbat/watchgha): Live display of current GitHub action runs
+- [rhysd/actionlint](https://github.com/rhysd/actionlint): :octocat: Static checker for GitHub Actions workflow files <https://rhysd.github.io/actionlint>
+- 🌟 [woodruffw/zizmor](https://github.com/woodruffw/zizmor): A static analysis tool for GitHub Actions <https://woodruffw.github.io/zizmor/>
 - 🌟 [sdras/awesome-actions](https://github.com/sdras/awesome-actions): A curated list of awesome actions to use on GitHub <https://desktop.github.com>
 - [docker/metadata-action](https://github.com/docker/metadata-action): GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
-- [rhysd/actionlint](https://github.com/rhysd/actionlint): :octocat: Static checker for GitHub Actions workflow files <https://rhysd.github.io/actionlint>
-- [nektos/act](https://github.com/nektos/act): Run your GitHub Actions locally 🚀
-- [nedbat/watchgha](https://github.com/nedbat/watchgha): Live display of current GitHub action runs
 - [shapehq/tartelet](https://github.com/shapehq/tartelet): ⚙️💻 A macOS app that makes it a breeze to manage multiple GitHub Actions runners in ephemeral virtual machines on a single host machine. The benefits are that runners can run in parallel, and each job runs in an isolated environment.
 - [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery): Automatically review and improve your Python code. ⭐ this repo and Sourcery Starbot will send you a PR. Or install our CLI to improve your code locally <https://sourcery.ai>
 - 🌟 [renovatebot/renovate](https://github.com/renovatebot/renovate): Universal dependency update tool that fits into your workflows. <https://renovatebot.com>
@@ -257,6 +275,8 @@ Libs
 - [super-linter/super-linter](https://github.com/super-linter/super-linter): Combination of multiple linters to run as a GitHub Action or standalone <https://github.com/super-linter/super-linter>
 - [actions/stale](https://github.com/actions/stale): Marks issues and pull requests that have not had recent interaction
 - [FidelusAleksander/ai-translate-action](https://github.com/FidelusAleksander/ai-translate-action): GitHub Action for AI-powered file translation between different languages
+- [aws-actions/aws-lambda-deploy](https://github.com/aws-actions/aws-lambda-deploy): Deploys a Lambda function.
+- [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials): Configure AWS credential environment variables for use in other GitHub Actions.
 
 ### GitHub Action Runner
 

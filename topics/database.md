@@ -101,6 +101,8 @@
 - [puppygraph/puppygraph-query](https://github.com/puppygraph/puppygraph-query): PuppyGraph standalone web server for visualize graph queries.
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph): SPARQL graph database
 - [kuzudb/kuzu](https://github.com/kuzudb/kuzu): Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher. <https://kuzudb.com/>
+- [OneSparse/OneSparse](https://github.com/OneSparse/OneSparse): Accelerated Sparse Linear Algebra with Postgres and SuiteSparse
+  - [Billions of Edges Per Second with Postgres](https://onesparse.com/blog/2025/07/01/billions-of-edges-per-second-with-postgres.html)
 
 ### KV
 
@@ -235,6 +237,7 @@ Misc
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync): SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. <https://sqlsync.dev>
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite): Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite <https://vlcn.io>
 - [danthegoodman1/gRPSQLite](https://github.com/danthegoodman1/gRPSQLite): A SQLite VFS for remote databases via gRPC
+- [erans/pgsqlite](https://github.com/erans/pgsqlite): A PostgreSQL protocol adapter for SQLite databases. This project allows PostgreSQL clients to connect to and query SQLite databases using the PostgreSQL wire protocol.
 
 ### DuckDB
 

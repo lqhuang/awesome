@@ -68,6 +68,7 @@
 - [RLHFlow/Minimal-RL](https://github.com/RLHFlow/Minimal-RL)
 - [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms): Implementation of all RL algorithms in a simpler way
 - [Reinforcement Learning Guide | Unsloth Documentation](https://docs.unsloth.ai/basics/reinforcement-learning-guide)
+- [An Incomplete Theory for RL – Gene Li](https://gene.ttic.edu/blog/incomplete-rl): no description found
 
 ## Flow models
 
@@ -75,6 +76,7 @@
 - [janosh/awesome-normalizing-flows](https://github.com/janosh/awesome-normalizing-flows): Awesome resources on normalizing flows.
 - [facebookresearch/lagrangian-ot](https://github.com/facebookresearch/lagrangian-ot): Neural Optimal Transport with Lagrangian Costs
 - [gpeyre/ot4ml](https://github.com/gpeyre/ot4ml): Optimal Transport for Machine Learners
+- [yifan123/flow_grpo](https://github.com/yifan123/flow_grpo): An official implementation of Flow-GRPO: Training Flow Matching Models via Online RL <https://arxiv.org/pdf/2505.05470>
 
 ## Differentiable programming / PDE / ODE / SDE
 

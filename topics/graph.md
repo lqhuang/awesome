@@ -18,6 +18,7 @@
 
 - [graphistry/pygraphistry](https://github.com/graphistry/pygraphistry): PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
 - [GraphBLAS/LAGraph](https://github.com/GraphBLAS/LAGraph): This is a library plus a test harness for collecting algorithms that use the GraphBLAS. For test coverage reports, see <https://graphblas.org/LAGraph>.
+- [python-graphblas/python-graphblas](https://github.com/python-graphblas/python-graphblas): Python library for GraphBLAS: high-performance sparse linear algebra for scalable graph analytics <https://python-graphblas.readthedocs.io/en/stable/>
 - [DrTimothyAldenDavis/GraphBLAS](https://github.com/DrTimothyAldenDavis/GraphBLAS): SuiteSparse:GraphBLAS: graph algorithms in the language of linear algebra. For production: (default) STABLE branch. Code development: (non-default) MASTER branch. video intro: https://youtu.be/Tj5y6d7FegI . The libgraphblas.so is Apache2 licensed. The MATLAB interface is GNU GPL3. NOTE: PRs without signed CONTRIBUTOR AGREEMENT can't be accepted.
 - 🌟 [networkit/networkit](https://github.com/networkit/networkit): NetworKit is a growing open-source toolkit for large-scale network analysis. <https://networkit.github.io>
 - [Qiskit/rustworkx](https://github.com/Qiskit/rustworkx): A high performance Python graph library implemented in Rust.

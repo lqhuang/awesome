@@ -38,6 +38,7 @@
 - 🌟 [dcapwell/scala-tour](https://github.com/dcapwell/scala-tour): My notes for scala <http://dcapwell.github.io/scala-tour/>
   - although it is already 11 years ago, it is still a good read
   - why not make a Scala 3 version of it?
+- [Welcome to FP Illuminated](https://fpilluminated.org/)
 
 ### Exercises
 
@@ -167,12 +168,16 @@
 - [shardulc/tasty-interpreter](https://github.com/shardulc/tasty-interpreter): Reference interpreter for TASTy, the Scala 3 interchange format
 - [scalacenter/tasty-query](https://github.com/scalacenter/tasty-query): TASTy Query is a compiler-independent library to semantically analyze TASTy - an intermediate representation of Scala 3 code.
 - [epfl-lara/bolts](https://github.com/epfl-lara/bolts): Bolts: Stainless Verified Scala Examples
-- [lightbend-labs/scala-sculpt](https://github.com/lightbend-labs/scala-sculpt): Dependency extraction for Scala codebases, to aid in modularizing
-  - This is unfinished, unmaintained software. We are releasing it as open source as a public service with the hopes the code will be useful to someone.
 - [nitay93/scala-z3](https://github.com/nitay93/scala-z3): Scala API for Z3 SAT solver
 - [epfl-lara/ScalaZ3](https://github.com/epfl-lara/ScalaZ3): DSL in Scala for Constraint Solving with Z3 SMT Solver
   - [Scala^Z3: Integration of Scala and Z3](https://lara.epfl.ch/w/scalaz3)
   - [Examples of Using Z3 with Scala](https://lara.epfl.ch/w/jniz3-scala-examples)
+
+### Compiler plugins
+
+- [com-lihaoyi/acyclic](https://github.com/com-lihaoyi/acyclic): Acyclic is a Scala compiler plugin to let you prohibit circular dependencies between files
+- [lightbend-labs/scala-sculpt](https://github.com/lightbend-labs/scala-sculpt): Dependency extraction for Scala codebases, to aid in modularizing
+  - This is unfinished, unmaintained software. We are releasing it as open source as a public service with the hopes the code will be useful to someone.
 
 ### CI Actions
 
@@ -234,6 +239,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [cornerman/colibri](https://github.com/cornerman/colibri): A simple functional reactive library for ScalaJS
 - [scala-wasm/scala-wasm](https://github.com/scala-wasm/scala-wasm): Friendly fork of Scala.js, target stand-alone Wasm leveraging WASI and Component Model <https://www.scala-js.org/>
 - [armanbilge/calico](https://github.com/armanbilge/calico): Pure, reactive UI library for Scala.js <https://armanbilge.github.io/calico>
+- [japgolly/scalajs-react](https://github.com/japgolly/scalajs-react): Facebook's React on Scala.JS <https://japgolly.github.io/scalajs-react/>
 
 ## Featured
 
@@ -256,6 +262,7 @@ Do a benchmark (final size while using Scala Native) for them?
   - > @StefanZeiger: It's written in Java and uses modern features like the FFM and Vector API.
   - What if we use similar highlights for Scala Native?
 - [arainko/chanterelle](https://github.com/arainko/chanterelle): chanterelle is a library that provides a map-like DSL over named tuples. Scala 3 only. Some chanterelles are scaly.
+- [MateuszKubuszok/hearth](https://github.com/MateuszKubuszok/hearth): The first Scala macros' standard library. <https://scala-hearth.readthedocs.io>
 
 ### Experiments
 
@@ -351,7 +358,7 @@ OpenTelemetry
 - [scala-native/scala-native-cli](https://github.com/scala-native/scala-native-cli): Command Line Interface for Scala Native
 - [bkirwi/decline](https://github.com/bkirwi/decline): A composable command-line parser for Scala. <https://ben.kirw.in/decline/>
   - [andimiller/decline-completion](https://github.com/andimiller/decline-completion): A module for the decline command line parser to enable bash and zsh autocomplete
-- [alexarchambault/case-app](https://github.com/alexarchambault/case-app): Type-level & seamless command-line argument parsing for Scala
+- [alexarchambault/case-app](https://github.com/alexarchambault/case-app): Type-level & seamless command-line argument parsing for Scala <https://alexarchambault.github.io/case-app/>
 - [avdv/scalals](https://github.com/avdv/scalals): A colorful ls command, with awesome icons.
 - [joan38/moulin](https://github.com/joan38/moulin): Build multi-projects with Scala CLI
 - [com-lihaoyi/mainargs](https://github.com/com-lihaoyi/mainargs): A small, convenient, dependency-free library for command-line argument parsing in Scala
@@ -359,6 +366,7 @@ OpenTelemetry
 - [oyvindberg/tui-scala](https://github.com/oyvindberg/tui-scala): Beautiful Text-based User Interfaces for Scala
 - [creativescala/terminus](https://github.com/creativescala/terminus): Terminal interaction for Scala
 - [scopt/scopt](https://github.com/scopt/scopt): command line options parsing for Scala
+- [mattlianje/layoutz](https://github.com/mattlianje/layoutz): Simple, beautiful CLI output
 
 ### Utils
 
@@ -368,7 +376,7 @@ OpenTelemetry
 - [Comcast/ip4s](https://github.com/Comcast/ip4s): Defines immutable, safe data structures for describing IP addresses, multicast joins, socket addresses and similar IP & network related data types
 - [indoorvivants/scala-uri](https://github.com/indoorvivants/scala-uri): Simple scala library for building and parsing URIs
   - 🪦 [lemonlabsuk/scala-uri](https://github.com/lemonlabsuk/scala-uri): Simple scala library for building and parsing URIs
-- [eed3si9n/ifdef](https://github.com/eed3si9n/ifdef): `@ifdef` is an annotation that implements conditional compilation in Scala
+- 🌟 [eed3si9n/ifdef](https://github.com/eed3si9n/ifdef): `@ifdef` is an annotation that implements conditional compilation in Scala
 - [Quafadas/scautable](https://github.com/Quafadas/scautable): Table utils, one line CSV imports - the fundamental assumption is that a table is a Iterator of iterable of Product or Tuple <https://quafadas.github.io/scautable/docs>
 - [lbialy/jig](https://github.com/lbialy/jig): A minimal, type-safe configuration library for Scala 3 that focuses on both reading and writing configuration files.
 - [eikek/calev](https://github.com/eikek/calev): Work with systemd.time like calendar events in Scala
@@ -381,6 +389,7 @@ OpenTelemetry
 - 🌟 [outr/perfolation](https://github.com/outr/perfolation): Performance focused interpolation
 - [arainko/chanterelle](https://github.com/arainko/chanterelle): No description, website, or topics provided.
 - [geirolz/cats-xml](https://github.com/geirolz/cats-xml): A functional library to work with XML in Scala using Cats. <https://geirolz.github.io/cats-xml/>
+- [tototoshi/scala-csv](https://github.com/tototoshi/scala-csv): CSV Reader/Writer for Scala
 
 ### Misc
 
@@ -397,6 +406,7 @@ OpenTelemetry
 - [aherlihy/carac](https://github.com/aherlihy/carac): A Datalog execution engine for Scala
 - [joernio/joern](https://github.com/joernio/joern): Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc <https://joern.io/>
 - [Nestor10/fishy-scala-quill-jsonb-example](https://github.com/Nestor10/fishy-scala-quill-jsonb-example): 🐟 Scala 3 + ZIO + Quill + PostgreSQL JSONB example with Dr. Seuss inspired fish data
+- [alexarchambault/plotly-scala](https://github.com/alexarchambault/plotly-scala): Scala bindings for plotly.js <http://plotly-scala.org>
 
 ## Tools
 

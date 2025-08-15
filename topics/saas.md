@@ -1,6 +1,7 @@
 # Interesting Projects / SaaS (by One Idea)
 
 - 🌟 [Val Town](https://www.val.town/): If GitHub Gists could run And AWS Lambda were fun
+  - [Community Showcase](https://www.val.town/explore/community-showcase): Hand-picked creations from the Val Town community.
 - [Doodle Board](https://www.doodleboard.pro/): An all-in-one whiteboard with built-in doodle styles to help you easily organize, and present your ideas.
 - [Tally](https://tally.so/): The simplest way to create forms highlight
 - [Glasp](https://glasp.co/): Collect and Share Your Favorite Words. Highlight & save notes on any web page ✍️
@@ -30,3 +31,4 @@
 - 🌟 [WebP Cloud Services](https://public.webp.se/): WebP Unleashed!
 - 🌟 [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. 💬 💎 <https://giscus.app>
 - [pomdtr/smallweb](https://github.com/pomdtr/smallweb): Your Internet Folder <https://www.smallweb.run>
+- [dnlzro/horizon](https://github.com/dnlzro/horizon): The current sky at your approximate location, rendered as a CSS gradient <https://sky.dlazaro.ca>

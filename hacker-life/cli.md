@@ -117,6 +117,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi): 💥 Blazing fast terminal file manager written in Rust, based on async I/O. <https://yazi-rs.github.io/docs/>
 - [yorukot/superfile](https://github.com/yorukot/superfile): Pretty fancy and modern terminal file manager <https://superfile.netlify.app>
 - [Canop/broot](https://github.com/Canop/broot): A new way to see and navigate directory trees : https://dystroy.org/broot
+- [sayanarijit/xplr](https://github.com/sayanarijit/xplr): A hackable, minimal, fast TUI file explorer <https://xplr.dev>
 - [thetacom/hexabyte](https://github.com/thetacom/hexabyte): A modern, modular, and robust TUI hex editor. <http://io.thetacom.info/hexabyte/>
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash): A beautiful CLI dashboard for GitHub 🚀 <https://dlvhdr.github.io/gh-dash>
 - 🌟 [charmbracelet/wish](https://github.com/charmbracelet/wish): Make SSH apps, just like that! 💫
@@ -138,6 +139,7 @@
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot): a realtime plotting utility for terminal/console with data input from stdin
 - [hzqtc/taproom](https://github.com/hzqtc/taproom): An interactive TUI for Homebrew
 - [vifm/vifm](https://github.com/vifm/vifm): Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. <https://vifm.info>
+- [Owloops/updo](https://github.com/Owloops/updo): Uptime monitoring CLI tool with alerting and advanced settings <https://www.owloops.com/landings/open-source>
 
 ## Monitor
 

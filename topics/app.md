@@ -22,8 +22,10 @@
 
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor): Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️ <https://capacitorjs.com>
 - [neutralinojs/neutralinojs](https://github.com/neutralinojs/neutralinojs): Portable and lightweight cross-platform desktop application development framework <https://neutralino.js.org>
+- [nwjs/nw.js](https://github.com/nwjs/nw.js): Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies. <https://nwjs.io>
 - [velopack/velopack](https://github.com/velopack/velopack): Installer and automatic update framework for cross-platform desktop applications <https://velopack.io>
 - 🌟 [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app): 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
+- [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison): An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
 
 ## React Native (cross platforms)
 
