@@ -104,6 +104,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [ccc159/loadership](https://github.com/ccc159/loadership): LoaderShip.com is the ultimate CSS-only loader configuration tool that allows you to effortlessly customize and generate stunning loaders for your website. Simply Copy & Paste without any installation or dependency hassle.
 - [picocss/pico](https://github.com/picocss/pico): Minimal CSS Framework for semantic HTML <https://picocss.com>
 - [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit): a pure css implementation of some sunlight streaming in through the window <https://sunlit.pages.dev/>
+- [bigskysoftware/missing](https://github.com/bigskysoftware/missing): The classless-ish CSS library you've been missing <https://missing.style>
 
 #### CSS in JS
 
@@ -366,7 +367,7 @@ Upload
 - [rafasofizada/pechkin](https://github.com/rafasofizada/pechkin): Asynchronous Node.js file upload (multipart/form-data) handling.
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing): File uploads for modern web devs <https://uploadthing.com>
 - [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
-- [Nic13Gamer/better-upload](https://github.com/Nic13Gamer/better-upload): Simple and easy file uploads for React. Upload files directly to any S3-compatible service with minimal setup. <https://better-upload.com>
+- 🌟 [Nic13Gamer/better-upload](https://github.com/Nic13Gamer/better-upload): Simple and easy file uploads for React. Upload files directly to any S3-compatible service with minimal setup. <https://better-upload.com>
 
 Onboarding
 

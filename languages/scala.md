@@ -56,6 +56,7 @@
   - [Series - Scala: Cats Effect](https://yadukrishnan.live/series/cats-effect)
 - 🌟 [yoeo/scala-explained](https://github.com/yoeo/scala-explained): Scala explained with code snippets <https://scalaexplained.github.io/scala-explained/>
 - [rockthejvm/scala-macros-metaprogramming](https://github.com/rockthejvm/scala-macros-metaprogramming): The official repository of the Scala Macros and Metaprogramming course on Rock the JVM
+- [paul-snively/interview](https://github.com/paul-snively/interview): An intermediate-to-senior Scala/Cats/cats-effect/http4s interview question I designed
 
 ## Master these you rule the world
 

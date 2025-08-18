@@ -82,6 +82,10 @@
 - 🌟 [tilt-dev/tilt](https://github.com/tilt-dev/tilt): Define your dev environment as code. For microservice apps on Kubernetes. <https://tilt.dev/>
 - 🌟 [psviderski/unregistry](https://github.com/psviderski/unregistry): Push docker images directly to remote servers without an external registry <https://uncloud.run>
 - [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content <https://distribution.github.io/distribution>
+- Podman
+  - [containers/prometheus-podman-exporter](https://github.com/containers/prometheus-podman-exporter): Prometheus exporter for podman environments exposing containers, pods, images, volumes and networks information.
+  - [containers/containerimage-py](https://github.com/containers/containerimage-py): A python library for interacting with container images and container image registries
+  - [containers/podman-tui](https://github.com/containers/podman-tui): Podman Terminal UI
 
 ### OS
 
@@ -464,3 +468,5 @@ Type 1 hypervisors
 - [go-acme/lego](https://github.com/go-acme/lego): Let's Encrypt/ACME client and library written in Go <https://go-acme.github.io/lego/>
 - [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files <https://rclone.org>
 - [apache/libcloud](https://github.com/apache/libcloud): Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API. <https://libcloud.apache.org>
+- [apache/openwhisk](https://github.com/apache/openwhisk): Apache OpenWhisk is an open source serverless cloud platform <https://openwhisk.apache.org/>
+  - Scala project 🤔

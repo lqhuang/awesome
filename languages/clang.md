@@ -38,6 +38,9 @@ And modern is here now.
   - [It's Time To Do CMake Right | pablo arias](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/)
 - [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template): A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 - [oz123/awesome-c](https://github.com/oz123/awesome-c): A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
+- [Are We Modules Yet?](https://arewemodulesyet.org/)
+- 🌟 [gitlab:CLIUtils/modern-cmake](https://gitlab.com/CLIUtils/modern-cmake): A book about using CMake for your projects. <https://cliutils.gitlab.io/modern-cmake>
+  - [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN): Chinese(simplified) translation of famous cmake tutorial Modern CMake. GitHub Pages : https://modern-cmake-cn.github.io/Modern-CMake-zh_CN/
 
 ### References
 
@@ -100,6 +103,7 @@ And modern is here now.
   - [martin-fieber.de | A TL;DR about CMake Presets](https://martin-fieber.de/blog/cmake-presets/): Utilizing CMake's presets was the missing piece to truly make it easy to set up and maintain projects, now that I have developed a few opinions of how I want them to be set up.
 - [CPack — CMake Documentation](https://cmake.org/cmake/help/latest/module/CPack.html)
 - 🌟 [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake): 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
+- [renn0xtek9/CMakeDependencyDiagram](https://github.com/renn0xtek9/CMakeDependencyDiagram): CMakeDependencyDiagrams Module
 
 ### Analyzer
 
@@ -209,6 +213,8 @@ And modern is here now.
 - [MaJerle/lwrb](https://github.com/MaJerle/lwrb): Lightweight generic ring buffer manager library
 - [GNOME/libxml2](https://github.com/GNOME/libxml2): Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2 <https://gitlab.gnome.org/GNOME/libxml2>
 - [microsoft/proxy](https://github.com/microsoft/proxy): Proxy: Next Generation Polymorphism in C++ <https://microsoft.github.io/proxy/docs/specifications.html>
+- [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp): SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. <http://srombauts.github.io/SQLiteCpp>
+- [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm): ❤️ SQLite ORM light header only library for modern C++
 
 ## String
 

@@ -32,3 +32,4 @@
 - 🌟 [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. 💬 💎 <https://giscus.app>
 - [pomdtr/smallweb](https://github.com/pomdtr/smallweb): Your Internet Folder <https://www.smallweb.run>
 - [dnlzro/horizon](https://github.com/dnlzro/horizon): The current sky at your approximate location, rendered as a CSS gradient <https://sky.dlazaro.ca>
+- [cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature): what if signatures were determined by keyboard? <https://signature.cnrad.dev>

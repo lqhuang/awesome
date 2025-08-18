@@ -40,15 +40,20 @@ Streaming Systems
 
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog): An open source documentation tool to bring discoverability to your event-driven architectures <https://eventcatalog.dev>
 
-## Frameworks
+## Libs
 
 - 🌟 [thatdot/quine](https://github.com/thatdot/quine): Quine • a streaming graph • Slack: quine-io.slack.com <https://quine.io>
+- 🌟 [twitter/algebird](https://github.com/twitter/algebird): Abstract Algebra for Scala <https://twitter.github.io/algebird>
+- [addthis/stream-lib](https://github.com/addthis/stream-lib): Stream summarizer and cardinality estimator.
+- [python-streamz/streamz](https://github.com/python-streamz/streamz): Real-time stream processing for python <https://streamz.readthedocs.io/en/latest/>
+
+## Frameworks
+
 - 🌟 [bytewax/bytewax](https://github.com/bytewax/bytewax): A Python framework for building highly scalable dataflows. <https://docs.bytewax.io>
 - 🌟 [pathwaycom/pathway](https://github.com/pathwaycom/pathway): Pathway is an open framework for high-throughput and low-latency real-time data processing. <https://pathway.com>
 - 🌟 [quixio/quix-streams](https://github.com/quixio/quix-streams): Quix Streams - A library for telemetry data streaming. Python Stream Processing <https://quix.io/>
 - 🌟 [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow): A modular implementation of timely dataflow in Rust -🌟 [TimelyDataflow/differential-dataflow](https://github.com/TimelyDataflow/differential-dataflow): An implementation of differential dataflow using timely dataflow on Rust.
 - [hazelcast/hazelcast](https://github.com/hazelcast/hazelcast): Open-source distributed computation and storage platform. Real-time Stream Processing Unconference. Save Your Spot https://hazelcast.com/lp/unconference/ <https://www.hazelcast.com/>
-- [python-streamz/streamz](https://github.com/python-streamz/streamz): Real-time stream processing for python <https://streamz.readthedocs.io/en/latest/>
 - [tremor-rs/tremor-runtime](https://github.com/tremor-rs/tremor-runtime): Tremor is an event- or stream-processing system. It is designed to perform well for high-volumetric data both in terms of consumption of memory and CPU resources and in terms of latency. <https://www.tremor.rs/>
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo): Arroyo is a distributed stream processing engine written in Rust <https://arroyo.dev/>
   - Acquired by Cloudlare at Apr 11, 2025

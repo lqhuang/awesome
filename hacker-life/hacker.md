@@ -142,6 +142,7 @@
 - [need4swede/Portall](https://github.com/need4swede/Portall): Port Management Interface
 - [crocofied/CoreControl](https://github.com/crocofied/CoreControl): Dashboard to manage your entire server infrastructure <https://corecontrol.xyz>
 - [netbox-community/netbox](https://github.com/netbox-community/netbox): The premiere source of truth powering network automation. Open source under Apache 2. <https://netbox.dev>
+- [FOGProject/fogproject](https://github.com/FOGProject/fogproject): An open source computer cloning & management system <https://fogproject.org>
 
 ### Monitoring
 

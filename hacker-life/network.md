@@ -79,6 +79,7 @@
 - [mikaku/Monitorix](https://github.com/mikaku/Monitorix): Monitorix is a free, open source, lightweight system monitoring tool. <https://www.monitorix.org>
 - [NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore): Nagios Core
 - [nitefood/asn](https://github.com/nitefood/asn): ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
+- [jpr5/ngrep](https://github.com/jpr5/ngrep): ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF f… <https://github.com/jpr5/ngrep>
 
 ### Analysis
 

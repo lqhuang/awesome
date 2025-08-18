@@ -302,6 +302,8 @@ SSH
 - [Flomp/wanderer](https://github.com/Flomp/wanderer): wanderer is a self-hosted trail database. Save your adventures! <https://wanderer.to>
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool): 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database. <https://workout.cool>
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack): A self hosted media tracker.
+- [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet): A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. <https://bitmagnet.io/>
+
 
 ### Cloud Disk
 
