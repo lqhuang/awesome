@@ -26,6 +26,8 @@
 - [velopack/velopack](https://github.com/velopack/velopack): Installer and automatic update framework for cross-platform desktop applications <https://velopack.io>
 - 🌟 [daltonmenezes/electron-app](https://github.com/daltonmenezes/electron-app): 💅 An Electron app boilerplate with React 19, TypeScript 5, Tailwind 4, shadcn/ui, Electron Vite, Biome, GitHub Action releases and more.
 - [Elanis/web-to-desktop-framework-comparison](https://github.com/Elanis/web-to-desktop-framework-comparison): An objective comparison of multiple frameworks that allow us to "transform" our web apps to desktop applications.
+- [gitlab:sciter-engine](https://gitlab.com/sciter-engine): Sciter Engine related projects
+- [gh:sciter-sdk](https://github.com/sciter-sdk): Sciter SDK bindings
 
 ## React Native (cross platforms)
 

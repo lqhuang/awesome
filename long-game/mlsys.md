@@ -227,6 +227,7 @@ General problems
 - [pytorch/glow](https://github.com/pytorch/glow): Compiler for Neural Network hardware accelerators
 - [nod-ai/SHARK-Turbine](https://github.com/nod-ai/SHARK-Turbine): Unified compiler/runtime for interfacing with PyTorch Dynamo.
 - [modularml/mojo](https://github.com/modularml/mojo): The Mojo Programming Language <https://docs.modular.com/mojo>
+- [NVIDIA/tilus](https://github.com/NVIDIA/tilus): Tilus is a tile-level kernel programming language, implemented in Python. <https://nvidia.github.io/tilus/>
 
 ### Operator and Kernel
 
@@ -246,7 +247,7 @@ General problems
   - [Writing Hub kernels with kernel-builder](https://github.com/huggingface/kernel-builder/blob/main/docs/writing-kernels.md)
 - [mirage-project/mirage](https://github.com/mirage-project/mirage): Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA <https://mirage-project.readthedocs.io/>
 
-### MLIR
+### XLA / MLIR
 
 - [endorlabs/MIRAI](https://github.com/endorlabs/MIRAI): MIRAI is an abstract interpreter for the Rust compiler's mid-level intermediate representation (MIR). It is intended to become a widely used static analysis tool for Rust.
 - [raviqqe/melior](https://github.com/raviqqe/melior): The rustic MLIR bindings in Rust <https://raviqqe.github.io/melior/melior/>
@@ -257,6 +258,7 @@ General problems
 - [llvm/eudsl](https://github.com/llvm/eudsl): Embedded Universal DSL: a good DSL for us, by us
 - [j2kun/mlir-tutorial](https://github.com/j2kun/mlir-tutorial): MLIR For Beginners tutorial
 - [KEKE046/mlir-tutorial](https://github.com/KEKE046/mlir-tutorial): Hands-On Practical MLIR Tutorial
+- [ezyang/xla-redist-ref](https://github.com/ezyang/xla-redist-ref): Extract redistribution plans from XLA
 
 ### Tensor inference
 

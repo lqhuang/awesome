@@ -67,6 +67,7 @@
 ### Benchmark
 
 - [marcinzh/effect-zoo](https://github.com/marcinzh/effect-zoo): Effect Zoo for Scala
+- [nokia/stm-benchmark](https://github.com/nokia/stm-benchmark): Benchmarks for software transactional memory (STM) implementations on the JVM
 
 ## Toolchains
 
@@ -273,6 +274,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [sideeffffect/scala-rust-interop](https://github.com/sideeffffect/scala-rust-interop): Scala <-> Rust interop
 - [softwaremill/ox](https://github.com/softwaremill/ox): Developer-friendly structured concurrency library for the JVM <https://softwaremill.community/c/ox/12>
 - [kitlangton/quotidian](https://github.com/kitlangton/quotidian): A menagerie of macro utilities and extensions for Scala 3
+- [durban/choam](https://github.com/durban/choam): Experiments with composable lock-free concurrency
 
 ### Types
 
@@ -353,6 +355,8 @@ OpenTelemetry
 - [creativescala/krop](https://github.com/creativescala/krop): A simple and functional web service library <http://www.creativescala.org/krop/>
 - [eikek/htmx4s](https://github.com/eikek/htmx4s): Scala (3) library aiming to make working with htmx more convenient.
 - [sake92/openapi4s](https://github.com/sake92/openapi4s): openapi4s
+- [Kordyjan/pytanie](https://github.com/Kordyjan/pytanie): Quick and easy library for working with GraphQL queries.
+- 🌟 [TomasMikula/jing](https://github.com/TomasMikula/jing): Typesafe, spec-first APIs without codegen. Just Import 'N' Go!
 
 ### CLI
 
@@ -368,6 +372,7 @@ OpenTelemetry
 - [creativescala/terminus](https://github.com/creativescala/terminus): Terminal interaction for Scala
 - [scopt/scopt](https://github.com/scopt/scopt): command line options parsing for Scala
 - [mattlianje/layoutz](https://github.com/mattlianje/layoutz): Simple, beautiful CLI output
+- [indoorvivants/decline-derive](https://github.com/indoorvivants/decline-derive): Derive Decline CLIs automatically from your enums and case classes in Scala 3
 
 ### Utils
 
@@ -488,6 +493,7 @@ OpenTelemetry
 - [nivox/fs2-backpressure-sensor](https://github.com/nivox/fs2-backpressure-sensor): Backpressure sensor implementation for fs2
   - [timbertson/backpressure-sensor](https://github.com/timbertson/backpressure-sensor): Measure backpressure in reactive streams pipelines
 - [permutive-engineering/prometheus4cats-contrib](https://github.com/permutive-engineering/prometheus4cats-contrib): Prometheus4Cats instumentation for thrid party libaries
+- [cloudmark/cats-actors](https://github.com/cloudmark/cats-actors): Cats Actors framework for building apps which are reactive. Cats actors uses a conceptual actor model as a higher level abstraction for concurrency.
 
 ### ZIO
 
