@@ -72,6 +72,8 @@
   - [cross-tools/clang-cross](https://github.com/cross-tools/clang-cross): Cross-compile toolchain with clang and {gnu, musl} libc
   - [cross-tools/gnu-cross](https://github.com/cross-tools/gnu-cross): Cross-compile toolchain with gnu libc
   - [cross-tools/musl-cross](https://github.com/cross-tools/musl-cross): Cross-compile toolchain with musl libc
+- [CACI-International/cpp-toolchain](https://github.com/CACI-International/cpp-toolchain): A portable C++ (cross-)compiler toolchain
+  - [bcr:portable_cc_toolchain](https://registry.bazel.build/modules/portable_cc_toolchain)
 
 ### Monorepo
 
@@ -91,26 +93,141 @@
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system <https://bazel.build>
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk): A user-friendly launcher for Bazel.
 - [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle): Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
-  - [stackb/scala-gazelle](https://github.com/stackb/scala-gazelle): Experimental gazelle extension for scala
+  - [bcr:gazelle](https://registry.bazel.build/modules/gazelle/0.42.0)
 - [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry): The central registry of Bazel modules for the Bzlmod external dependency system. <https://registry.bazel.build>
-- [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib): Common useful functions and rules for Bazel <https://bazel.build/>
-- [bazelbuild/rules_cc](https://github.com/bazelbuild/rules_cc): C++ Rules for Bazel <https://bazel.build>
-- [bazelbuild/rules_foreign_cc](https://github.com/bazelbuild/rules_foreign_cc): Build rules for interfacing with "foreign" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson) <https://bazelbuild.github.io/rules_foreign_cc>
-- [bazelbuild/rules_python](https://github.com/bazelbuild/rules_python): Bazel Python Rules <https://rules-python.readthedocs.io>
 - [bazelbuild/rules_nodejs](https://github.com/bazelbuild/rules_nodejs): NodeJS toolchain for Bazel. <https://bazelbuild.github.io/rules_nodejs/>
-- [bazelbuild/rules_scala](https://github.com/bazelbuild/rules_scala): Scala rules for Bazel
-  - [ValdemarGr/mezel](https://github.com/ValdemarGr/mezel): Scala BSP implementation for Bazel.
+  - [bcr:rules_nodejs](https://registry.bazel.build/modules/rules_nodejs)
 - [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust): Rust rules for Bazel <https://bazelbuild.github.io/rules_rust/>
 - [bazelbuild/rules_proto](https://github.com/bazelbuild/rules_proto): Protocol buffer rules for Bazel
 - [tweag/rules_haskell](https://github.com/tweag/rules_haskell): Haskell rules for Bazel. <https://haskell.build>
+  - [bcr:rules_haskell](https://registry.bazel.build/modules/rules_haskell)
 - [tweag/rules_nixpkgs](https://github.com/tweag/rules_nixpkgs): Rules for importing Nixpkgs packages into Bazel. <https://nix-bazel.build/>
   - [Bazel and Nix: A Migration Experience](https://www.tweag.io/blog/2022-12-15-bazel-nix-migration-experience/)
+- [tweag/rules_sh](https://github.com/tweag/rules_sh): Shell rules for Bazel
+  - [bcr:rules_sh](https://registry.bazel.build/modules/rules_sh)
+- [bazelbuild/rules_shell](https://github.com/bazelbuild/rules_shell): This repository contains the Bazel ruleset for shell scripts.
+  - [bcr:rules_shell](https://registry.bazel.build/modules/rules_shell)
+- [JetBrains/hirschgarten](https://github.com/JetBrains/hirschgarten): A new approach to Bazel support for IntelliJ IDEA <https://youtrack.jetbrains.com/issues/BAZEL>
+
+CC
+
+- [bazelbuild/rules_cc](https://github.com/bazelbuild/rules_cc): C++ Rules for Bazel <https://bazel.build>
+  - [bcr:rules_cc](https://registry.bazel.build/modules/rules_cc)
+- [bazelbuild/rules_foreign_cc](https://github.com/bazelbuild/rules_foreign_cc): Build rules for interfacing with "foreign" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson) <https://bazelbuild.github.io/rules_foreign_cc>
+  - [bcr:rules_foreign_cc](https://registry.bazel.build/modules/rules_foreign_cc)
+- [ClangTools/rules_cc_resources](https://github.com/ClangTools/rules_cc_resources): bazel rules cc resource
+  - [bcr:rules_cc_resources](https://registry.bazel.build/modules/rules_cc_resources)
+- [bazel-contrib/rules_cuda](https://github.com/bazel-contrib/rules_cuda): Starlark implementation of bazel rules for CUDA. <https://bazel-contrib.github.io/rules_cuda/>
+  - [bcr:rules_cuda](https://registry.bazel.build/modules/rules_cuda)
+- [EngFlow/gazelle_cc](https://github.com/EngFlow/gazelle_cc): Public repository for the Gazelle C++ extension
+  - [bcr:gazelle_cc](https://registry.bazel.build/modules/gazelle_cc)
+- [hedronvision/bazel-compile-commands-extractor](https://github.com/hedronvision/bazel-compile-commands-extractor): Goal: Enable awesome tooling for Bazel users of the C language family.
+- [wolfd/bazel-compile-commands](https://github.com/wolfd/bazel-compile-commands): Another bazel compile_commands.json extractor.
+  - [bcr:wolfd_bazel_compile_commands](https://registry.bazel.build/modules/wolfd_bazel_compile_commands)
+- [kiron1/bazel-compile-commands](https://github.com/kiron1/bazel-compile-commands): Generate a `compile_commands.json` from a Bazel workspace
+- [rizsotto/Bear](https://github.com/rizsotto/Bear): Bear is a tool that generates a compilation database for clang tooling.
+
+Python
+
+- [bazelbuild/rules_python](https://github.com/bazelbuild/rules_python): Bazel Python Rules <https://rules-python.readthedocs.io>
+  - [bcr:rules_python](https://registry.bazel.build/modules/rules_python)
+  - [bcr:rules_python_gazelle_plugin](https://registry.bazel.build/modules/rules_python_gazelle_plugin)
 - [spietras/rules_conda](https://github.com/spietras/rules_conda): Rules for creating conda environments in Bazel 💚 <https://spietras.github.io/rules_conda>
 - [nicholasjng/nanobind-bazel](https://github.com/nicholasjng/nanobind-bazel): Bazel defs and rules for building Python projects with nanobind extensions.
+  - [bcr:nanobind_bazel](https://registry.bazel.build/modules/nanobind_bazel)
+- [pybind/pybind11_bazel](https://github.com/pybind/pybind11_bazel): Bazel wrapper around the pybind11 repository
+  - [bcr:pybind11_bazel](https://registry.bazel.build/modules/pybind11_bazel)
+- [theoremlp/rules_mypy](https://github.com/theoremlp/rules_mypy): a Bazel mypy aspect
+  - [bcr:rules_mypy](https://registry.bazel.build/modules/rules_mypy)
+- [theoremlp/rules_uv](https://github.com/theoremlp/rules_uv): Bazel rules for running uv
+  - [bcr:rules_uv](https://registry.bazel.build/modules/rules_uv)
+- [periareon/rules_venv](https://github.com/periareon/rules_venv): Bazel rules for Python. <https://periareon.github.io/rules_venv/>
+  - [bcr:rules_venv](https://registry.bazel.build/modules/rules_venv)
+
+Scala
+
+- [bazelbuild/rules_scala](https://github.com/bazelbuild/rules_scala): Scala rules for Bazel
+  - [bcr:rules_scala](https://registry.bazel.build/modules/rules_scala)
+- [ValdemarGr/mezel](https://github.com/ValdemarGr/mezel): Scala BSP implementation for Bazel.
+- [bazelbuild/rules_java](https://github.com/bazelbuild/rules_java): Java rules for Bazel
+  - [bcr:rules_java](https://registry.bazel.build/modules/rules_java)
+- [sgammon/rules_graalvm](https://github.com/sgammon/rules_graalvm): Build GraalVM native binaries with Bazel <https://sgammon.github.io/rules_graalvm/>
+  - [bcr:rules_graalvm](https://registry.bazel.build/modules/rules_graalvm)
+- [bazel-contrib/rules_jvm_external](https://github.com/bazel-contrib/rules_jvm_external): Bazel rules to resolve, fetch and export Maven artifacts
+  - [bcr:rules_jvm_external](https://registry.bazel.build/modules/rules_jvm_external): no description found
+- [stackb/scala-gazelle](https://github.com/stackb/scala-gazelle): Experimental gazelle extension for scala
+
+Toolchains
+
+- [bcr:llvm-project](https://registry.bazel.build/modules/llvm-project)
+- [bazel-contrib/toolchains_llvm](https://github.com/bazel-contrib/toolchains_llvm): LLVM toolchain for bazel
+  - [bcr:toolchains_llvm](https://registry.bazel.build/modules/toolchains_llvm)
+- [gitlab.arm.com/bazel/toolchain_utils](https://gitlab.arm.com/bazel/toolchain_utils): A Bazel ruleset to enable concise toolchain registration.
+  - [bcr:toolchain_utils](https://registry.bazel.build/modules/toolchain_utils)
+- [bazel-contrib/musl-toolchain](https://github.com/bazel-contrib/musl-toolchain): No description, website, or topics provided.
+  - [bcr:toolchains_musl](https://registry.bazel.build/modules/toolchains_musl)
+- [cerisier/toolchains_llvm_bootstrapped](https://github.com/cerisier/toolchains_llvm_bootstrapped): A zero sysroot, fully hermetic C/C++ cross compilation toolchain for Bazel based on LLVM.
+  - [bcr:toolchains_llvm_bootstrapped](https://registry.bazel.build/modules/toolchains_llvm_bootstrapped)
+
+Cloud
+
+- [bazel-contrib/rules_oci](https://github.com/bazel-contrib/rules_oci): Bazel rules for building OCI containers <https://registry.build/github/bazel-contrib/rules_oci>
+  - [bcr:rules_oci](https://registry.bazel.build/modules/rules_oci)
+- [bazel-contrib/rules_distroless](https://github.com/bazel-contrib/rules_distroless): Bazel helper rules to aid with some of the steps needed to create a Linux / Debian installation. These rules are designed to replace commands such as `apt-get install`, `passwd`, `groupadd`, `useradd`, `update-ca-certificates`.
+  - [bcr:rules_distroless](https://registry.bazel.build/modules/rules_distroless)
+- [vimana-cloud/rules_wasm](https://github.com/vimana-cloud/rules_wasm): Bazel tools for working with WebAssembly components
+  - [bcr:rules_wasm](https://registry.bazel.build/modules/rules_wasm)
 
 Build cache
 
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink): NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and specialized hardware. <https://nativelink.com>
+
+Utils
+
+- [bazel-contrib/supply-chain](https://github.com/bazel-contrib/supply-chain): This repository contains Bazel modules for injecting and collecting supply-chain metadata into builds.
+  - [bcr:supply-chain-go](https://registry.bazel.build/modules/supply-chain-go)
+- [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib): Common useful functions and rules for Bazel <https://bazel.build/>
+  - [bcr:bazel_skylib](https://registry.bazel.build/modules/bazel_skylib)
+- [buildbuddy-io/bazel_env.bzl](https://github.com/buildbuddy-io/bazel_env.bzl): A virtual environment for Bazel-managed tools and toolchains.
+  - [bcr:bazel_env.bzl](https://registry.bazel.build/modules/bazel_env.bzl)
+- [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts): Lightweight C++ command line option parser
+  - [bcr:cxxopts](https://registry.bazel.build/modules/cxxopts)
+- [bazel-contrib/bazel_features](https://github.com/bazel-contrib/bazel_features): Support Bazel "feature detection" from starlark <https://docs.google.com/document/d/1HJf3gMYIrzmTRqbD4nWXH2eJRHXjLrOU0mmIeZplUzY/edit#heading=h.5mcn15i0e1ch> Others
+  - [bcr:bazel_features](https://registry.bazel.build/modules/bazel_features)
+- [gitlab.arm.com/bazel/rules_curl](https://gitlab.arm.com/bazel/rules_curl): A Bazel ruleset for performing operations with cURL
+  - [bcr:rules_curl](https://registry.bazel.build/modules/rules_curl)
+- [bazel-contrib/rules_fuzzing](https://github.com/bazel-contrib/rules_fuzzing): Bazel Starlark extensions for defining fuzz tests in Bazel projects
+  - [bcr:rules_fuzzing](https://registry.bazel.build/modules/rules_fuzzing)
+- [bazel-contrib/rules_jsonnet](https://github.com/bazel-contrib/rules_jsonnet): Jsonnet rules for Bazel <https://bazelbuild.github.io/rules_jsonnet/>
+  - [bcr:rules_jsonnet](https://registry.bazel.build/modules/rules_jsonnet)
+- [aignas/rules_shellcheck](https://github.com/aignas/rules_shellcheck): Run shellcheck as part of your bazel tests.
+  - [bcr:rules_shellcheck](https://registry.bazel.build/modules/rules_shellcheck)
+- [bazel-contrib/tar.bzl](https://github.com/bazel-contrib/tar.bzl): Bazel rule wrapping the BSD tar executable from libarchive <https://registry.build/github/bazel-contrib/tar.bzl>
+  - [bcr:tar.bzl](https://registry.bazel.build/modules/tar.bzl)
+
+Fastlink for my own projects
+
+- [bcr:catch2](https://registry.bazel.build/modules/catch2)
+- [bcr:curl](https://registry.bazel.build/modules/curl)
+- [bcr:cutlass](https://registry.bazel.build/modules/cutlass)
+- [bcr:eigen](https://registry.bazel.build/modules/eigen)
+- [bcr:abseil-cpp](https://registry.bazel.build/modules/abseil-cpp)
+- [bcr:googletest](https://registry.bazel.build/modules/googletest)
+- [bcr:fast_double_parser](https://registry.bazel.build/modules/fast_double_parser)
+- [bcr:protobuf](https://registry.bazel.build/modules/protobuf/3.19.6)
+- [bcr:highway](https://registry.bazel.build/modules/highway)
+- [bcr:liburing](https://registry.bazel.build/modules/liburing)
+- [bcr:libuv](https://registry.bazel.build/modules/libuv)
+- [bcr:mimalloc](https://registry.bazel.build/modules/mimalloc)
+- [bcr:nanobind](https://registry.bazel.build/modules/nanobind)
+- [bcr:ninja](https://registry.bazel.build/modules/ninja)
+- [bcr:pcre2](https://registry.bazel.build/modules/pcre2)
+- [bcr:rocksdb](https://registry.bazel.build/modules/rocksdb)
+- [bcr:spdlog](https://registry.bazel.build/modules/spdlog)
+- [bcr:sqlite3](https://registry.bazel.build/modules/sqlite3)
+- [bcr:tcmalloc](https://registry.bazel.build/modules/tcmalloc)
+- [bcr:z3](https://registry.bazel.build/modules/z3).
+- [bcr:zstd](https://registry.bazel.build/modules/zstd)
 
 ### Nix
 
@@ -156,6 +273,7 @@ Libs
 - [nmattia/niv](https://github.com/nmattia/niv): Easy dependency management for Nix projects <https://github.com/nmattia/niv>
 - [ipetkov/crane](https://github.com/ipetkov/crane): A Nix library for building cargo projects. Never build twice thanks to incremental artifact caching. <https://crane.dev>
 - [lf-/flakey-profile](https://github.com/lf-/flakey-profile): Declarative profiles with nix flakes
+- [wimpysworld/nothing-but-nix](https://github.com/wimpysworld/nothing-but-nix): Create a 130GB Nix ️store in GitHub runners ❄️ Multi-partition BTRFS RAID-0 for /nix 💪 Brutally purges unnecessary software 🪓 Dynamically grows the Nix store 📈 <https://wimpysworld.com/posts/nothing-but-nix-github-actions/>
 
 ## Security check
 

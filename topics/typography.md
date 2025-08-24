@@ -31,6 +31,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [Departure Mono](https://departuremono.com/): Departure Mono is a monospaced pixel font by Helena Zhang, licensed under the SIL OFL.
 - [Atkinson Hyperlegible Font - Braille Institute](https://www.brailleinstitute.org/freefont/): Read easier with Atkinson Hyperlegible Font, crafted for low-vision readers.
   - designed to improve legibility and readability for individuals with low vision. These carefully crafted fonts feature clear, highly distinctive letters and numbers that make reading easier and more accessible.
+- [github/mona-sans](https://github.com/github/mona-sans): Mona Sans, a variable font from GitHub <http://github.com/mona-sans>
 
 Mono
 
@@ -81,6 +82,7 @@ CJK
 - [Hulenkius/sotyr](https://github.com/Hulenkius/sotyr): 仲春仿宋 | Sotyr Fangsong ：聚珍仿宋二号长体的直接复刻项目
 - [chenh96/yahei-sarasa](https://github.com/chenh96/yahei-sarasa): Sarasa UI -> Microsoft YaHei UI
 - [DrXie/OSFCC](https://github.com/DrXie/OSFCC): Open Source Fonts Collection for Chinese <https://drxie.github.io/OSFCC/>
+- [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans): 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 <https://atelier-anchor.com/typefaces/smiley-sans/>
 
 ## Web
 

@@ -135,6 +135,7 @@
 - [SchedMD/slurm](https://github.com/SchedMD/slurm): Slurm: A Highly Scalable Workload Manager <https://slurm.schedmd.com>
 - [openpbs/openpbs](https://github.com/openpbs/openpbs): An HPC workload manager and job scheduler for desktops, clusters, and clouds. <https://www.openpbs.org/>
 - [spack/spack](https://github.com/spack/spack): A flexible package manager that supports multiple versions, configurations, platforms, and compilers. <https://spack.io>
+- [openhpc/ohpc](https://github.com/openhpc/ohpc): OpenHPC Integration, Packaging, and Test Repo <http://openhpc.community>
 
 ### Uptime / Monitoring
 

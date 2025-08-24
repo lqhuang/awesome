@@ -271,6 +271,7 @@ Misc
   - Looks like no open source otpion currently
   - Update: Aug, 2024: break-up and accuired by Supabase. Now OSS ...
 - [sqldef/sqldef](https://github.com/sqldef/sqldef): Idempotent schema management for MySQL, PostgreSQL, and more <https://sqldef.github.io>
+- [pressly/goose](https://github.com/pressly/goose): A database migration tool. Supports SQL migrations and Go functions. <http://pressly.github.io/goose/>
 
 ### PG
 
