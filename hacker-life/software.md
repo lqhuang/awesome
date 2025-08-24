@@ -194,6 +194,7 @@
 - [fairhopeweb/JunkCtrl](https://github.com/fairhopeweb/JunkCtrl): JunkCTRL
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer): A tool to "Fix" Windows 11
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+- [Duplicate Cleaner](https://www.duplicatecleaner.com/): Find and remove duplicate files with Duplicate Cleaner, the premier free and pro solution.
 
 ## Developer
 
@@ -303,7 +304,7 @@ SSH
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool): 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database. <https://workout.cool>
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack): A self hosted media tracker.
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet): A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. <https://bitmagnet.io/>
-
+- [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Follow everything in one place <https://folo.is>
 
 ### Cloud Disk
 

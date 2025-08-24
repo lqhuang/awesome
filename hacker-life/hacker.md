@@ -35,6 +35,7 @@
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [QOJ.ac](https://qoj.ac/)
 - 🌟 [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools): Browser extension that generates API specs for any app or website <https://chrome.google.com/webstore/detail/openapi-devtools/jelghndoknklgabjgaeppjhommkkmdii>
+- [gruhn/regex-utils](https://github.com/gruhn/regex-utils): TypeScript library for regex equivalence, intersection, complement and other utilities that go beyond string matching. <https://gruhn.github.io/regex-utils/>
 
 ### Git
 
