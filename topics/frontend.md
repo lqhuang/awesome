@@ -465,6 +465,7 @@ Misc
 - [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it): Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed <https://markdown-it.github.io>
   - [antfu/markdown-it-async](https://github.com/antfu/markdown-it-async): Enhance markdown-it to support async highlight function.
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown): ✨ A Markdown Editor <https://github.com/Tencent/cherry-markdown/wiki>
+- [vercel/streamdown](https://github.com/vercel/streamdown): A drop-in replacement for react-markdown, designed for AI-powered streaming. <https://streamdown.ai/>
 
 #### Editor
 
@@ -478,6 +479,7 @@ Misc
 - [basecamp/trix](https://github.com/basecamp/trix): A rich text editor for everyday writing <https://trix-editor.org/>
 - [udecode/plate](https://github.com/udecode/plate): Rich-text editor with shadcn <https://platejs.org>
 - [FormidableLabs/use-editable](https://github.com/FormidableLabs/use-editable): A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)
+- [panphora/overtype](https://github.com/panphora/overtype): The markdown editor that's just a textarea https://overtype.dev
 
 Syntax hightlight
 
