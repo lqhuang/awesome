@@ -382,10 +382,6 @@ Misc
 
 ### Prob
 
-- [py-why/dowhy](https://github.com/py-why/dowhy): DoWhy is a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks. <https://py-why.github.io/dowhy>
-- [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy): Python Library for learning (Structure and Parameter), inference (Probabilistic and Causal), and simulations in Bayesian Networks. <https://pgmpy.org>
-- [fmfn/BayesianOptimization](https://github.com/fmfn/BayesianOptimization): A Python implementation of global optimization with gaussian processes.
-- [pymc-labs/CausalPy](https://github.com/pymc-labs/CausalPy): A Python package for causal inference in quasi-experimental settings <https://causalpy.readthedocs.io>
 - [pydata/patsy](https://github.com/pydata/patsy): Describing statistical models in Python using symbolic formulas <https://patsy.readthedocs.io>
 - [Pyomo/pyomo](https://github.com/Pyomo/pyomo): An object-oriented algebraic modeling language in Python for structured optimization problems. <https://www.pyomo.org>
 

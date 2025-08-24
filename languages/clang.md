@@ -215,6 +215,7 @@ And modern is here now.
 - [microsoft/proxy](https://github.com/microsoft/proxy): Proxy: Next Generation Polymorphism in C++ <https://microsoft.github.io/proxy/docs/specifications.html>
 - [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp): SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. <http://srombauts.github.io/SQLiteCpp>
 - [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm): ❤️ SQLite ORM light header only library for modern C++
+- [weidai11/cryptopp](https://github.com/weidai11/cryptopp): free C++ class library of cryptographic schemes <https://cryptopp.com>
 
 ## String
 

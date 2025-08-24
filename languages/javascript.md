@@ -260,6 +260,7 @@ Specific
 - [salsita/node-pg-migrate](https://github.com/salsita/node-pg-migrate): Node.js database migration management for PostgreSQL <https://salsita.github.io/node-pg-migrate>
 - [trpc/trpc](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. <https://trpc.io>
 - [unnoq/orpc](https://github.com/unnoq/orpc): Typesafe APIs Made Simple 🪄 <https://orpc.unnoq.com>
+- [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest): Sidequest is a modern, scalable background job processor for Node.js applications. <https://sidequestjs.com>
 
 ### format parser / converter
 
