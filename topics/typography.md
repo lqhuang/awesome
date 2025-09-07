@@ -15,6 +15,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [Programming Fonts](https://www.programmingfonts.org/): Test drive all the programming fonts!
 - [Bunny Fonts | Explore Faster & GDPR friendly Fonts](https://fonts.bunny.net/): Bunny Fonts help make the internet faster, safer and GDPR compliant!
 - [didierverna/etap](https://github.com/didierverna/etap): Experimental Typesetting Algorithms Platform
+- [wangwenho/HanziGen](https://github.com/wangwenho/HanziGen): 基於深度學習的漢字字形補全系統
 
 ## Fonts
 
@@ -83,6 +84,8 @@ CJK
 - [chenh96/yahei-sarasa](https://github.com/chenh96/yahei-sarasa): Sarasa UI -> Microsoft YaHei UI
 - [DrXie/OSFCC](https://github.com/DrXie/OSFCC): Open Source Fonts Collection for Chinese <https://drxie.github.io/OSFCC/>
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans): 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 <https://atelier-anchor.com/typefaces/smiley-sans/>
+- [tonyhuan/GuanKiapTsingKhai](https://github.com/tonyhuan/GuanKiapTsingKhai): 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)及偽直排字型(各單字旋轉 90 度形成直書排版)。
+- [shanleiguang/vRain](https://github.com/shanleiguang/vRain): 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator
 
 ## Web
 

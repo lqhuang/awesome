@@ -98,6 +98,7 @@
 - [rancher/elemental](https://github.com/rancher/elemental): Elemental is a software stack enabling centralized, full cloud-native OS management with Kubernetes. <https://elemental.docs.rancher.com/>
 - [hashicorp/packer](https://github.com/hashicorp/packer): Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. <https://developer.hashicorp.com/packer>
 - [cobbler/cobbler](https://github.com/cobbler/cobbler): Cobbler is a versatile Linux deployment server <https://cobbler.github.io>
+- [bin456789/reinstall](https://github.com/bin456789/reinstall): 一键 DD/重装脚本 (One-click reinstall OS on VPS)
 
 ### Virtual Machines
 
@@ -143,6 +144,7 @@ Type 1 hypervisors
 - [s3gw-tech/s3gw](https://github.com/s3gw-tech/s3gw): Container able to run on a Kubernetes cluster, providing S3-compatible endpoints to applications. <https://s3gw.tech>
 - [ebogdum/callfs](https://github.com/ebogdum/callfs): CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer networks
 - [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs): macOS: mount any linux-supported filesystem read/write using NFS and a microVM
+- [Barre/ZeroFS](https://github.com/Barre/ZeroFS): ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. <https://www.zerofs.net>
 
 ### Serverless
 

@@ -336,6 +336,8 @@ Misc
 - [Quantco/glum](https://github.com/Quantco/glum): High performance Python GLMs with all the features! <https://glum.readthedocs.io/>
   - Generalized linear models (GLM)
 - [kylebarron/arro3](https://github.com/kylebarron/arro3): A minimal Python library for Apache Arrow, connecting to the Rust arrow crate <https://kylebarron.dev/arro3/core>
+- [bgunebakan/puhu](https://github.com/bgunebakan/puhu): A modern, high-performance image processing library for Python, powered by Rust.
+- [MAIF/shapash](https://github.com/MAIF/shapash): 🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models <https://maif.github.io/shapash/>
 
 ### Pandas Ecosystem / DataFrame orient
 

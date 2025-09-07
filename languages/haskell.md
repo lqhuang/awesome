@@ -72,6 +72,7 @@
 - [ndmitchell/uniplate](https://github.com/ndmitchell/uniplate): Haskell library for simple, concise and fast generic operations.
 - [snowleopard/alga](https://github.com/snowleopard/alga): Algebraic graphs
 - [facebook/Haxl](https://github.com/facebook/Haxl): A Haskell library that simplifies access to remote data, such as databases or web-based services.
+- [Bodigrim/bitvec](https://github.com/Bodigrim/bitvec): Bit vectors: 8x less memory, up to 3500x faster than Vector Bool <https://hackage.haskell.org/package/bitvec>
 
 ## Toolchains
 

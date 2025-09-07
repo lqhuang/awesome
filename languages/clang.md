@@ -34,13 +34,11 @@ And modern is here now.
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 - 🌟 [不可避免的内存安全（Memory Safety）之路](https://hardenedlinux.github.io/system-security/2025/05/07/path-to-memory-safety-inevitable.html)
   - in Chinese
-- [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter): 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more. <https://thelartians.github.io/ModernCppStarter>
-  - [It's Time To Do CMake Right | pablo arias](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/)
-- [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template): A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 - [oz123/awesome-c](https://github.com/oz123/awesome-c): A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [Are We Modules Yet?](https://arewemodulesyet.org/)
 - 🌟 [gitlab:CLIUtils/modern-cmake](https://gitlab.com/CLIUtils/modern-cmake): A book about using CMake for your projects. <https://cliutils.gitlab.io/modern-cmake>
   - [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN): Chinese(simplified) translation of famous cmake tutorial Modern CMake. GitHub Pages : https://modern-cmake-cn.github.io/Modern-CMake-zh_CN/
+- 🌟 [Debugging C++ with Visual Studio Code under macOS – Daniel Lemire's blog](https://lemire.me/blog/2025/08/24/debugging-c-with-visual-studio-code-under-macos/): no description found
 
 ### References
 
@@ -86,6 +84,13 @@ And modern is here now.
 - [lkimuk/cpp-generative-metaprogramming](https://github.com/lkimuk/cpp-generative-metaprogramming): C++ Generative Metaprogramming
 - [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
 - [MeouSker77/Cpp17](https://github.com/MeouSker77/Cpp17): 本书为《C++17 the complete guide》的个人中文翻译，仅供学习和交流使用，侵删
+- [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial): 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/ <https://changkun.de/modern-cpp/>
+
+### Project templates and starters
+
+- [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter): 🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more. <https://thelartians.github.io/ModernCppStarter>
+  - [It's Time To Do CMake Right | pablo arias](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/)
+- [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template): A template for modern C++ projects using CMake, Clang-Format, CI, unit testing and more, with support for downstream inclusion.
 
 ## Toolchain
 
@@ -103,6 +108,7 @@ And modern is here now.
   - [martin-fieber.de | A TL;DR about CMake Presets](https://martin-fieber.de/blog/cmake-presets/): Utilizing CMake's presets was the missing piece to truly make it easy to set up and maintain projects, now that I have developed a few opinions of how I want them to be set up.
 - [CPack — CMake Documentation](https://cmake.org/cmake/help/latest/module/CPack.html)
 - 🌟 [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake): 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
+  - used by Daniel Lemire 😋
 - [renn0xtek9/CMakeDependencyDiagram](https://github.com/renn0xtek9/CMakeDependencyDiagram): CMakeDependencyDiagrams Module
 
 ### Analyzer
@@ -124,6 +130,7 @@ And modern is here now.
 - 🌟 [include-what-you-use/include-what-you-use](https://github.com/include-what-you-use/include-what-you-use): A tool for use with clang to analyze #includes in C and C++ source files <https://include-what-you-use.org>
 - [TypeSanitizer — Clang documentation](https://clang.llvm.org/docs/TypeSanitizer.html)
   - We have type sanitizer now 😄
+- [clice-project/clice](https://github.com/clice-project/clice): A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence <https://clice.io>
 
 ### CI
 
@@ -149,6 +156,7 @@ And modern is here now.
 ### Profiles
 
 - [gperftools/gperftools](https://github.com/gperftools/gperftools): Main gperftools repository
+- [lingzolabs/tracer](https://github.com/lingzolabs/tracer): Tracer is a header-only lightweight performance tracing library for recording and analyzing C++ program execution. It helps developers identify performance bottlenecks, analyze function execution times, and outputs results in Chrome Tracing compatible format for easy visualization.
 
 ### Logging
 
@@ -195,29 +203,34 @@ And modern is here now.
 - [lemire/rollinghashcpp](https://github.com/lemire/rollinghashcpp): Rolling Hash C++ Library
 - [foonathan/lexy](https://github.com/foonathan/lexy): C++ parsing DSL <https://lexy.foonathan.net>
 - [tidwall/pogocache](https://github.com/tidwall/pogocache): Fast caching software with a focus on low latency and cpu efficiency. <https://pogocache.com>
+- [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
+- [manjaroman2/compression_algo_comparision](https://github.com/manjaroman2/compression_algo_comparision): LZTURBO vs ZSTD vs BROTLI vs LZMA vs ZPAQ
+- [inikep/lzbench](https://github.com/inikep/lzbench): lzbench is an in-memory benchmark of open-source compressors
 
 ## Libs
 
 - [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
-- [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
 - [KaHIP/KaHIP](https://github.com/KaHIP/KaHIP): KaHIP -- Karlsruhe HIGH Quality Partitioning. <https://kahip.github.io>
 - [martinus/unordered_dense](https://github.com/martinus/unordered_dense): A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
 - [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
 - [lemire/EWAHBoolArray](https://github.com/lemire/EWAHBoolArray): A compressed bitmap class in C++. <http://lemire.github.io/EWAHBoolArray/>
 - [lewj85/jessesort](https://github.com/lewj85/jessesort): No description, website, or topics provided.
 - [hanickadot/shorty](https://github.com/hanickadot/shorty): No description, website, or topics provided.
-- [ToruNiina/toml11](https://github.com/ToruNiina/toml11): TOML for Modern C++ <https://toruniina.github.io/toml11/>
-- [USCiLab/cereal](https://github.com/USCiLab/cereal): A C++11 library for serialization
-- [felixguendling/cista](https://github.com/felixguendling/cista): Cista is a simple, high-performance, zero-copy C++ serialization & reflection library. <https://cista.rocks>
-- [Loki-Astari/ThorsSerializer](https://github.com/Loki-Astari/ThorsSerializer): No description, website, or topics provided.
 - [MaJerle/lwrb](https://github.com/MaJerle/lwrb): Lightweight generic ring buffer manager library
 - [GNOME/libxml2](https://github.com/GNOME/libxml2): Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2 <https://gitlab.gnome.org/GNOME/libxml2>
 - [microsoft/proxy](https://github.com/microsoft/proxy): Proxy: Next Generation Polymorphism in C++ <https://microsoft.github.io/proxy/docs/specifications.html>
-- [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp): SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. <http://srombauts.github.io/SQLiteCpp>
-- [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm): ❤️ SQLite ORM light header only library for modern C++
 - [weidai11/cryptopp](https://github.com/weidai11/cryptopp): free C++ class library of cryptographic schemes <https://cryptopp.com>
 
-## String
+### Serde
+
+- [ToruNiina/toml11](https://github.com/ToruNiina/toml11): TOML for Modern C++ <https://toruniina.github.io/toml11/>
+- 🌟 [nlohmann/json](https://github.com/nlohmann/json): JSON for Modern C++ <https://json.nlohmann.me>
+- [Loki-Astari/ThorsSerializer](https://github.com/Loki-Astari/ThorsSerializer): No description, website, or topics provided.
+- [USCiLab/cereal](https://github.com/USCiLab/cereal): A C++11 library for serialization
+- [felixguendling/cista](https://github.com/felixguendling/cista): Cista is a simple, high-performance, zero-copy C++ serialization & reflection library. <https://cista.rocks>
+- [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp): A YAML parser and emitter in C++
+
+### String
 
 - [zrax/string_theory](https://github.com/zrax/string_theory): Flexible modern C++ string library with type-safe formatting
 - [soasis/text](https://github.com/soasis/text): A spicy text library for C++ that has the explicit goal of enabling the entire ecosystem to share in proper forward progress towards a bright Unicode future. <https://ztdtext.readthedocs.io/en/latest/>
@@ -242,6 +255,7 @@ And modern is here now.
 - 🌟 [facebookexperimental/libunifex](https://github.com/facebookexperimental/libunifex): Unified Executors
 - 🌟 [NVIDIA/stdexec](https://github.com/NVIDIA/stdexec): `std::execution`, the proposed C++ framework for asynchronous and parallel programming.
 - [tidwall/neco](https://github.com/tidwall/neco): Concurrency library for C (coroutines)
+- [cameron314/readerwriterqueue](https://github.com/cameron314/readerwriterqueue): A fast single-producer, single-consumer lock-free queue for C++
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue): A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [dermesser/uvco](https://github.com/dermesser/uvco): C++20 Coroutines running on libuv for intuitive async I/O <https://borgac.net/~lbo/doc/uvco/>
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro): A library of C++ coroutine abstractions for the coroutines TS
@@ -249,12 +263,14 @@ And modern is here now.
 - [tsoding/coroutines](https://github.com/tsoding/coroutines): Custom coroutines implementation in GNU C
 - [ashvardanian/fork_union](https://github.com/ashvardanian/fork_union): Minimalistic C++ scoped thread-pool designed for SIMT-style 'Fork-Join' parallelism
 - [alandefreitas/futures](https://github.com/alandefreitas/futures): C++ Better Futures <https://alandefreitas.github.io/futures/>
+- [cmuparlay/parlaylib](https://github.com/cmuparlay/parlaylib): A Toolkit for Programming Parallel Algorithms on Shared-Memory Multicore Machines
+- [cmuparlay/PAM](https://github.com/cmuparlay/PAM): Parallel Balanced Binary Tree Structures
 
-## Network
+### Network
 
 - [erpc-io/eRPC](https://github.com/erpc-io/eRPC): Efficient RPCs for datacenter networks <https://erpc.io/>
 
-## Framework
+### Framework
 
 - [scylladb/seastar](https://github.com/scylladb/seastar): High performance server-side application framework <http://seastar.io>
 - [facebook/wangle](https://github.com/facebook/wangle): Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
@@ -262,12 +278,32 @@ And modern is here now.
 - [skypjack/uvw](https://github.com/skypjack/uvw): Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library!
 - [mratsim/weave](https://github.com/mratsim/weave): A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead The Curse of Strong Typing
 
+### Web
+
+- [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp): SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. <http://srombauts.github.io/SQLiteCpp>
+- [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm): ❤️ SQLite ORM light header only library for modern C++
+
+### Cli
+
+- [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI): 💻 C++ Functional Terminal User Interface. ❤️
+- 🌟 [p-ranav/argparse](https://github.com/p-ranav/argparse): Argument Parser for Modern C++
+- [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface. <https://cliutils.github.io/CLI11/book/>
+
+## Utils
+
+- [intel/hyperscan](https://github.com/intel/hyperscan): High-performance regular expression matching library <https://www.hyperscan.io>
+- [TartanLlama/expected](https://github.com/TartanLlama/expected): C++11/14/17 std::expected with functional-style extensions <https://tl.tartanllama.xyz>
+- [google/cpu_features](https://github.com/google/cpu_features): A cross platform C99 library to get cpu features at runtime.
+- [nihui/ruapu](https://github.com/nihui/ruapu): Detect CPU ISA features with single-file <https://github.com/nihui/ruapu>
+- [jupp0r/prometheus-cpp](https://github.com/jupp0r/prometheus-cpp): Prometheus Client Library for Modern C++
+- [gflags/gflags](https://github.com/gflags/gflags): The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at: <https://gflags.github.io/gflags/>
+
 ## GPU / CUDA
 
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire): ArrayFire: a general purpose GPU library. <https://arrayfire.com>
-- [NVIDIA/cccl](https://github.com/NVIDIA/cccl): CUDA C++ Core Libraries
-- [lights0123/hipscript](https://github.com/lights0123/hipscript): Online compiler for HIP and NVIDIA® CUDA® code to WebGPU <https://hipscript.lights0123.com/>
 - [NVIDIA/cccl](https://github.com/NVIDIA/cccl): CUDA Core Compute Libraries <https://nvidia.github.io/cccl/>
+- [lights0123/hipscript](https://github.com/lights0123/hipscript): Online compiler for HIP and NVIDIA® CUDA® code to WebGPU <https://hipscript.lights0123.com/>
+- [NVIDIA/MatX](https://github.com/NVIDIA/MatX): An efficient C++17 GPU numerical computing library with Python-like syntax <https://nvidia.github.io/MatX>
 
 ## HPC / SIMD / Vectorization
 
@@ -290,18 +326,6 @@ And modern is here now.
 - [halide/Halide](https://github.com/halide/Halide): a language for fast, portable data-parallel computation <https://halide-lang.org>
 - [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS): OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. <http://www.openblas.net>
 - [kokkos/kokkos](https://github.com/kokkos/kokkos): Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction <https://kokkos.org>
-
-## Utils
-
-- [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI): 💻 C++ Functional Terminal User Interface. ❤️
-- [intel/hyperscan](https://github.com/intel/hyperscan): High-performance regular expression matching library <https://www.hyperscan.io>
-- 🌟 [p-ranav/argparse](https://github.com/p-ranav/argparse): Argument Parser for Modern C++
-- [TartanLlama/expected](https://github.com/TartanLlama/expected): C++11/14/17 std::expected with functional-style extensions <https://tl.tartanllama.xyz>
-- [google/cpu_features](https://github.com/google/cpu_features): A cross platform C99 library to get cpu features at runtime.
-- [nihui/ruapu](https://github.com/nihui/ruapu): Detect CPU ISA features with single-file <https://github.com/nihui/ruapu>
-- [jupp0r/prometheus-cpp](https://github.com/jupp0r/prometheus-cpp): Prometheus Client Library for Modern C++
-- [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp): A YAML parser and emitter in C++
-- [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface. <https://cliutils.github.io/CLI11/book/>
 
 ## Compiler beyond default Clang
 

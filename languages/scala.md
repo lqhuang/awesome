@@ -156,6 +156,7 @@
 - [scala/compiler-benchmark](https://github.com/scala/compiler-benchmark): Benchmarks for scalac
 - [fosskers/scala-benchmarks](https://github.com/fosskers/scala-benchmarks): An independent set of benchmarks for testing common Scala idioms.
 - [rossabaker/scalabench](https://github.com/rossabaker/scalabench): A quick and dirty Scala microbenchmarking framework
+- [cmu-pasta/fray](https://github.com/cmu-pasta/fray): A controlled concurrency testing framework for the JVM
 
 ### Linter
 
@@ -224,6 +225,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [indoorvivants/scala-native-binary-template](https://github.com/indoorvivants/scala-native-binary-template): Template to bootstrap Scala Native CLI projects, uploading platform binaries to Github Releases artifacts
 - [rwhaling/native-lambda](https://github.com/rwhaling/native-lambda): AWS Lambda Custom Runtime for Scala Native
 - [spamegg1/modern-systems-scala-native](https://github.com/spamegg1/modern-systems-scala-native): Working through "Modern Systems Programming with Scala Native" by Richard Whaling, in Scala 3 <https://pragprog.com/titles/rwscala/modern-systems-programming-with-scala-native/>
+- [keynmol/scala-native-interop-livecoding-lsug](https://github.com/keynmol/scala-native-interop-livecoding-lsug): Live coding session demonstrating approaches to interop with C, C++, Assembly from Scala 3 Native
 
 ### Scala.js
 
@@ -323,6 +325,7 @@ OpenTelemetry
 - [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer): Akka extension and agent exposing application telemetry and events via OpenTelemetry interface
 - [typelevel/otel4s](https://github.com/typelevel/otel4s): An OpenTelemetry library for Scala based on Cats-Effect
 - [deeptshukla/play-observability](https://github.com/deeptshukla/play-observability): Opentelemetry with Scala and Play Framework Example
+- [jodersky/ustats](https://github.com/jodersky/ustats): A simple and intuitive metrics collection library for Prometheus.
 
 ### Clients
 
@@ -343,6 +346,7 @@ OpenTelemetry
 - [mjakubowski84/parquet4s](https://github.com/mjakubowski84/parquet4s): Read and write Parquet in Scala. Use Scala classes as schema. No need to start a cluster. <https://mjakubowski84.github.io/parquet4s/>
 - [ParquetFileFormat.scala in spark src](https://github.com/apache/spark/blob/master/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/parquet/ParquetFileFormat.scala)
 - [47degrees/github4s](https://github.com/47degrees/github4s): A GitHub API wrapper written in Scala <http://47degrees.github.io/github4s>
+- [AlexITC/geminilive4s](https://github.com/AlexITC/geminilive4s): Gemini Live API for Scala
 
 ### Parser
 
@@ -494,6 +498,7 @@ OpenTelemetry
   - [timbertson/backpressure-sensor](https://github.com/timbertson/backpressure-sensor): Measure backpressure in reactive streams pipelines
 - [permutive-engineering/prometheus4cats-contrib](https://github.com/permutive-engineering/prometheus4cats-contrib): Prometheus4Cats instumentation for thrid party libaries
 - [cloudmark/cats-actors](https://github.com/cloudmark/cats-actors): Cats Actors framework for building apps which are reactive. Cats actors uses a conceptual actor model as a higher level abstraction for concurrency.
+- [joshuakfarrar/apollo](https://github.com/joshuakfarrar/apollo): A Devise-like authentication library for Http4s
 
 ### ZIO
 

@@ -74,6 +74,8 @@
 - [github/stack-graphs](https://github.com/github/stack-graphs): Rust implementation of stack graphs <https://docs.rs/stack-graphs/*/stack_graphs/>
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep): Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. <https://semgrep.dev>
 - [cu1ch3n/type-inference-zoo](https://github.com/cu1ch3n/type-inference-zoo): 🦖 Implementations of various type inference algorithms. Online interactive playground is available at https://zoo.cuichen.cc/ <https://zoo.cuichen.cc/>
+- [cu1ch3n/typ-how](https://github.com/cu1ch3n/typ-how): A online playground to explore with type Inference algorithms. <https://typ.how>
+- [MPLLang/parallel-ml-bench](https://github.com/MPLLang/parallel-ml-bench): Parallel ML benchmark suite
 
 ## Effect systems
 

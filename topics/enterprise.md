@@ -48,6 +48,7 @@
 - [anistark/feluda](https://github.com/anistark/feluda): Detect license usage restrictions in your project! <https://crates.io/crates/feluda>
 - [nalgeon/redka](https://github.com/nalgeon/redka): Redis re-implemented with SQLite
   - Cool, but only applied on Golang now 🤔
+- [suxess-it/kubriX](https://github.com/suxess-it/kubriX): kubriX is a curated, opinionated, and highly flexible Internal Developer Platform (IDP) for Kubernetes.
 
 ### Dev environments
 

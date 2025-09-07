@@ -126,6 +126,7 @@
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools): Intel PMU profiling tools
 - [davidmarkclements/0x](https://github.com/davidmarkclements/0x): 🔥 single-command flamegraph profiling 🔥
+- [HewlettPackard/LinuxKI](https://github.com/HewlettPackard/LinuxKI): LinuxKI Toolset (Trace-based performance analysis tool)
 
 ## WASM Runtime
 

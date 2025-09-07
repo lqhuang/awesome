@@ -144,6 +144,7 @@
 - [crocofied/CoreControl](https://github.com/crocofied/CoreControl): Dashboard to manage your entire server infrastructure <https://corecontrol.xyz>
 - [netbox-community/netbox](https://github.com/netbox-community/netbox): The premiere source of truth powering network automation. Open source under Apache 2. <https://netbox.dev>
 - [FOGProject/fogproject](https://github.com/FOGProject/fogproject): An open source computer cloning & management system <https://fogproject.org>
+- [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek): Simple dashboard for quick access to Docker container web interfaces across multiple hosts
 
 ### Monitoring
 

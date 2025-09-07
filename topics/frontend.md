@@ -29,6 +29,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [HerringtonDarkholme/web-deps](https://github.com/HerringtonDarkholme/web-deps): <https://web-deps.vercel.app/>
   - quite interesting to see the dependencies of core eco system libraries
   - inspired from [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams <https://excalidraw.com>
+- 🌟 [Intl Playground](https://intlin.site/): `Intl.DateTimeFormat` playground
 
 ### Readings
 
@@ -120,11 +121,13 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [chakra-ui/panda](https://github.com/chakra-ui/panda): 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️ <https://panda-css.com>
   - [muijf/pandacss-preset-typography](https://github.com/muijf/pandacss-preset-typography): Typography preset for PandaCSS, inspired by TailwindCSS Typography, for beautiful and consistent text styling. <https://docs.muijf.com/pandacss-preset-typography>
   - [YannBirba/pandacss-preset-react-aria-components](https://github.com/YannBirba/pandacss-preset-react-aria-components): A 🐼 PandaCSS preset for React aria components
-  - [astahmer/panda-monorepo](https://github.com/astahmer/panda-monorepo): example of a panda monorepo usage with a consuming app and multiple ui-lib providers
+  - [astahmer/panda-monorepo-setup](https://github.com/astahmer/panda-monorepo-setup): Panda monorepo setup examples <https://github.com/astahmer/panda-monorepo-setup>
   - [astahmer/tw2panda](https://github.com/astahmer/tw2panda): Easily migrate code from tailwind to Panda CSS <https://tailwind-to-panda.vercel.app/>
   - [astahmer/pandabox](https://github.com/astahmer/pandabox): a toolbox for Panda CSS <https://pandabox.vercel.app/>
+  - [amandaguthrie/panda-css-presets](https://github.com/amandaguthrie/panda-css-presets): Panda CSS plugin and preset collection
 - [styled-components/polished](https://github.com/styled-components/polished): A lightweight toolset for writing styles in JavaScript ✨ <https://polished.js.org/>
 - [mui/pigment-css](https://github.com/mui/pigment-css): Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
+- [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui): 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨ <https://kuma-ui.com>
 
 ### linters
 
@@ -196,6 +199,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [felix-bohlin/ui](https://github.com/felix-bohlin/ui): A CSS UI library exploring how next-gen HTML & CSS features can change the way we create components. Designed to be used by professional teams as well as tinkering hobbyists. <https://open-props-ui.netlify.app/>
   - only css
 - [cschroeter/park-ui](https://github.com/cschroeter/park-ui): Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks. <https://park-ui.com>
+- [PallasUI/pallas-ui](https://github.com/PallasUI/pallas-ui):
 
 #### React
 
@@ -289,6 +293,7 @@ List
 - [TanStack/virtual](https://github.com/TanStack/virtual): 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte <https://tanstack.com/virtual>
 - [catamphetamine/virtual-scroller](https://github.com/catamphetamine/virtual-scroller): A component for efficiently rendering large lists of variable height items <https://catamphetamine.gitlab.io/virtual-scroller/?dynamic=%E2%9C%93>
 - [luciodale/react-searchable-dropdown](https://github.com/luciodale/react-searchable-dropdown): single and multi selection, virtualized, new option creation, search, and more
+- [bvaughn/react-window](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data <https://react-window.now.sh/>
 
 Table
 
@@ -314,6 +319,7 @@ Rough Notation
 - [rough-stuff/rough](https://github.com/rough-stuff/rough): Create graphics with a hand-drawn, sketchy, appearance <http://roughjs.com>
   - [rough-stuff/rough-notation](https://github.com/rough-stuff/rough-notation): Create and animate hand-drawn annotations on a web page <https://roughnotation.com/>
   - [linkstrifer/react-rough-notation](https://github.com/linkstrifer/react-rough-notation): React wrapper for rough-notation <https://www.npmjs.com/package/react-rough-notation>
+- [jwilber/roughViz](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. <https://www.jwilber.me/roughviz/>
 
 Image zoom
 
@@ -324,6 +330,7 @@ Tree
 
 - [lukasbach/react-complex-tree](https://github.com/lukasbach/react-complex-tree): Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop <https://rct.lukasbach.com>
 - [zxch3n/tidy](https://github.com/zxch3n/tidy): A tree visualization tool written in Rust
+- [lukasbach/headless-tree](https://github.com/lukasbach/headless-tree): The definitive tree component for the Web <https://headless-tree.lukasbach.com/>
 
 Input
 
@@ -424,6 +431,8 @@ Misc
 - [xiaody/react-lines-ellipsis](https://github.com/xiaody/react-lines-ellipsis): Simple multiline ellipsis component for React.JS <https://xiaody.github.io/react-lines-ellipsis/>
 - [Qovery/react-xtermjs](https://github.com/Qovery/react-xtermjs): Xterm.js for React <https://www.npmjs.com/package/react-xtermjs>
 - [zachleat/line-numbers](https://github.com/zachleat/line-numbers): A web component to add line numbers next to various HTML elements <https://zachleat.github.io/line-numbers/demo.html>
+- [maximux13/waveform-renderer](https://github.com/maximux13/waveform-renderer):
+- [codeberg:chrisn/peaks.js](https://codeberg.org/chrisn/peaks.js): JavaScript UI component for interacting with audio waveforms
 
 #### Just render json in better way
 
@@ -589,6 +598,9 @@ Concrete animations
 - [spaansba/ForesightJS](https://github.com/spaansba/ForesightJS): Lightweight JavaScript library that predicts user intent based on mouse movements and keyboard navigation. Perfect for smart prefetching. <https://foresightjs.com/>
 - [askorama/orama](https://github.com/askorama/orama): 🌌 Fast, dependency-free, full-text and vector search engine with typo tolerance, filters, facets, stemming, and more. Works with any JavaScript runtime, browser, server, service! <https://docs.oramasearch.com>
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind): Static low-bandwidth search at scale <https://pagefind.app>
+- [QwikDev/partytown](https://github.com/QwikDev/partytown): Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉 <https://partytown.qwik.dev>
+  - [Partytown: Optimize Third Party Scripts with Web Workers | DebugBear](https://www.debugbear.com/blog/partytown-web-workers): Third-party resources often weigh down websites and can be tricky to fine-tune for performance. Learn how to use web workers and Partytown to improve your page speed.
+- 🌟 [unjs/ipx](https://github.com/unjs/ipx): 🖼️ High performance, secure and easy-to-use image optimizer.
 
 ## W3C
 
@@ -664,6 +676,7 @@ Concrete animations
 - 🌟 [jpswalsh/academicons](https://github.com/jpswalsh/academicons): An icon font for academics <https://jpswalsh.github.io/academicons>
 - [HeyHuazi/SVGLOGO](https://github.com/HeyHuazi/SVGLOGO): SVG LOGO for China <https://svglogo.top/>
 - [中国大学矢量校徽大全](https://www.urongda.com/): 汇集全国高校的矢量校徽，提供高质量的可缩放 SVG 文件，适合设计师、学生和机构使用。
+- [azat-io/eyecons](https://github.com/azat-io/eyecons): 🎨 Advanced VS Code icon theme with adaptive icon colors that match the editor’s color theme <https://eyecons.dev>
 
 ## Further topics
 
@@ -684,6 +697,7 @@ Concrete animations
 - 🌟 [compute-toys/compute.toys](https://github.com/compute-toys/compute.toys): Shadertoy for WebGPU compute shaders. <https://compute.toys>
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js <https://docs.pmnd.rs/react-three-fiber>
 - [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl): React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React. <https://react-unity-webgl.dev>
+- [StateLayer](https://statelayer.com/): A declarative 3D component framework!
 
 ### PWA
 
@@ -691,6 +705,7 @@ Concrete animations
 - [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox): 📦 Workbox: JavaScript libraries for Progressive Web Apps <https://developers.google.com/web/tools/workbox/>
 - [airbnb/goji-js](https://github.com/airbnb/goji-js): React ❤️ Mini Program <https://goji.js.org>
   - [airbnb/eslint-plugin-miniprogram](https://github.com/airbnb/eslint-plugin-miniprogram): No description, website, or topics provided.
+- [Optimizing PWAs For Different Display Modes — Smashing MagazineClear SearchBack to top](https://www.smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/)
 
 ### SSR / SSG / Server Action
 

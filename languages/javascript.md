@@ -162,6 +162,14 @@ Specific
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery): Simple and modern async event emitter
 - [run-llama/fluere](https://github.com/run-llama/fluere): 🌊 is a simple, lightweight event-based workflow for JS
 
+### FP Style
+
+- [everweij/typescript-result](https://github.com/everweij/typescript-result): Supercharge your TypeScript error handling with a powerful Result type that transforms chaotic try-catch blocks into elegant, type-safe code. <http://www.typescript-result.dev/>
+- [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern): 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
+- [poppinss/traits](https://github.com/poppinss/traits): A tiny library to add support for Traits in Javascript and Typescript projects
+- [traits-ts/core](https://github.com/traits-ts/core): Traits for TypeScript Classes (Core) <https://traits-ts.org>
+- [traits-ts/stdlib](https://github.com/traits-ts/stdlib): Traits for TypeScript Classes (Standard Library) <https://traits-ts.org>
+
 ### Concurrency
 
 - [henrygd/queue](https://github.com/henrygd/queue): Tiny async queue with concurrency control. Like p-limit or fastq, but smaller and faster
@@ -197,7 +205,7 @@ Specific
 - [kriszyp/msgpackr](https://github.com/kriszyp/msgpackr): Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]
 - [mtth/avsc](https://github.com/mtth/avsc): Avro for JavaScript ⚡
 
-# SerDe
+### SerDe
 
 - 🌟 [blitz-js/superjson](https://github.com/blitz-js/superjson): Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - 🌟 [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es): Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
@@ -243,6 +251,14 @@ Specific
 - [photostructure/tz-lookup](https://github.com/photostructure/tz-lookup): JavaScript Library for Timezone Lookup by Location
 - [evansiroky/node-geo-tz](https://github.com/evansiroky/node-geo-tz): A node.js module to find the timezone based on gps coordinates
 
+### Dependency Injection
+
+- [microsoft/tsyringe](https://github.com/microsoft/tsyringe): Lightweight dependency injection container for JavaScript/TypeScript
+- [inversify/InversifyJS](https://github.com/inversify/InversifyJS): A powerful and lightweight inversion of control container for JavaScript & Node.js apps powered by TypeScript. <http://inversify.io/>
+- [typestack/typedi](https://github.com/typestack/typedi): Simple yet powerful dependency injection tool for JavaScript and TypeScript. <https://docs.typestack.community/typedi/v/develop/01-getting-started>
+- [mgechev/injection-js](https://github.com/mgechev/injection-js): Dependency injection library for JavaScript and TypeScript in 5.1K. It is an extraction of the Angular's ReflectiveInjector which means that it's well designed, feature complete, fast, reliable and well tested.
+- [darky/ts-fp-di](https://github.com/darky/ts-fp-di): Tiny TypeScript functional dependency injection, based on AsyncLocalStorage. Supports Node.js, Deno <https://darky.github.io/ts-fp-di/>
+
 ### Backend
 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm): TypeScript ORM that feels like writing SQL <https://orm.drizzle.team>
@@ -261,6 +277,8 @@ Specific
 - [trpc/trpc](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. <https://trpc.io>
 - [unnoq/orpc](https://github.com/unnoq/orpc): Typesafe APIs Made Simple 🪄 <https://orpc.unnoq.com>
 - [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest): Sidequest is a modern, scalable background job processor for Node.js applications. <https://sidequestjs.com>
+- [tim-smart/sqlfx](https://github.com/tim-smart/sqlfx): A SQL toolkit for Effect-TS <https://tim-smart.github.io/sqlfx/>
+- [jawj/zapatos](https://github.com/jawj/zapatos): Zero-abstraction Postgres for TypeScript: a non-ORM database library <https://jawj.github.io/zapatos/>
 
 ### format parser / converter
 
@@ -316,6 +334,7 @@ Specific
 - [grammyjs/grammY](https://github.com/grammyjs/grammY): The Telegram Bot Framework. <https://grammy.dev>
 - [dahlia/upyo](https://github.com/dahlia/upyo): Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers. It works on Node.js, Deno, Bun, and edge functions. <https://upyo.org/>
 - [mjmlio/mjml](https://github.com/mjmlio/mjml): MJML: the only framework that makes responsive-email easy <https://mjml.io>
+- [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet): Google Sheets API wrapper for Javascript / Typescript <https://theoephraim.github.io/node-google-spreadsheet>
 
 ### CLI
 
@@ -343,6 +362,7 @@ Specific
   - simple and easy LOL
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch): The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [toss/es-toolkit](https://github.com/toss/es-toolkit): A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash. <https://es-toolkit.slash.page>
+- [Oaxoa/fp-filters](https://github.com/Oaxoa/fp-filters): A curated list of ready-to-use (functional programming) array filters (TS / ESM / CJS)
 - [PuruVJ/neotraverse](https://github.com/PuruVJ/neotraverse): No description, website, or topics provided.
 - [stdlib-js/stdlib](https://github.com/stdlib-js/stdlib): ✨ Standard library for JavaScript and Node.js. ✨ <https://stdlib.io>
 - [rawify/Fraction.js](https://github.com/rawify/Fraction.js): Fraction is a rational numbers library written in JavaScript <https://raw.org/article/rational-numbers-in-javascript/>
@@ -368,6 +388,7 @@ Specific
 - [josdejong/mathjs](https://github.com/josdejong/mathjs): An extensive math library for JavaScript and Node.js <https://mathjs.org>
 - [shuding/legid](https://github.com/shuding/legid): A library for generating safe, legit and random URL-compat IDs.
 - [inspect-js/object-inspect](https://github.com/inspect-js/object-inspect): string representations of objects in node and the browser
+- [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny): Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser. <https://mediabunny.dev/>
 
 Deep equal
 
@@ -397,5 +418,7 @@ Deep equal
 
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts): Functional programming in TypeScript
 - [Effect-TS/effect](https://github.com/Effect-TS/effect): A fully-fledged functional effect system for TypeScript with a rich standard library <https://effect-ts.github.io/effect>
+  - [PaulJPhilp/EffectPatterns](https://github.com/PaulJPhilp/EffectPatterns): A community-driven knowledge base of practical patterns for Effect-TS.
 - [gigobyte/purify](https://github.com/gigobyte/purify): Functional programming library for TypeScript <https://gigobyte.github.io/purify>
 - [Snowflyt/tinyeffect](https://github.com/Snowflyt/tinyeffect): A tiny TypeScript library for handling side effects in a unified way using algebraic effects, offering a type-safe approach for async operations, error handling, dependency injection, and more. <https://github.com/Snowflyt/tinyeffect>
+- [thefrontside/effection](https://github.com/thefrontside/effection): Structured concurrency and effects for JavaScript <https://frontside.com/effection>

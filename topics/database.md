@@ -238,6 +238,8 @@ Misc
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite): Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite <https://vlcn.io>
 - [danthegoodman1/gRPSQLite](https://github.com/danthegoodman1/gRPSQLite): A SQLite VFS for remote databases via gRPC
 - [erans/pgsqlite](https://github.com/erans/pgsqlite): A PostgreSQL protocol adapter for SQLite databases. This project allows PostgreSQL clients to connect to and query SQLite databases using the PostgreSQL wire protocol.
+- [oldmoe/heistogram_sqlite](https://github.com/oldmoe/heistogram_sqlite): The Heistogram quantile approximation library as a SQLite extension
+- [oldmoe/roaringlite](https://github.com/oldmoe/roaringlite): Roaring Bitmaps extension for SQLite
 
 ### DuckDB
 

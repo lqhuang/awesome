@@ -58,6 +58,8 @@
 - [ENCCS/gpu-programming](https://github.com/ENCCS/gpu-programming): Meta-GPU lesson covering general aspects of GPU programming as well as specific frameworks <https://enccs.github.io/gpu-programming/>
 - [leimao/CUTLASS-Examples](https://github.com/leimao/CUTLASS-Examples): CUTLASS and CuTe Examples
 - [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub): NVIDIA curated collection of educational resources related to general purpose GPU programming.
+- [HanGuo97/cutedsl-utilities](https://github.com/HanGuo97/cutedsl-utilities): No description, website, or topics provided.
+- [Cute-DSL – Ian’s Blog](https://ianbarber.blog/2025/07/04/cute-dsl/): In May Nvidia shipped CuTe‑DSL, the Python library they teased at GTC earlier in the year that mirrors CUTLASS’s C++ tensor‑layout . Then, at the start of June, the ‑dev label disappeared (so presumably its production ready now). The pitch is simple: Write speed‑of‑light kernels from the comfort of Python. Of course, nothing about CUDA…
 
 ### TPU
 
@@ -177,6 +179,7 @@ General problems
 ### Distribution kits
 
 - [pytorch/PiPPy](https://github.com/pytorch/PiPPy): Pipeline Parallelism for PyTorch
+- [meta-pytorch/monarch](https://github.com/meta-pytorch/monarch): PyTorch Single Controller <https://meta-pytorch.org/monarch>
 
 ### Workflow pipeline / MLOps
 
@@ -210,6 +213,7 @@ General problems
 
 - [leptonai/gpud](https://github.com/leptonai/gpud): GPUd is designed to ensure GPU efficiency and reliability by actively monitoring GPUs and effectively managing AI/ML workloads.
 - [run-ai/genv](https://github.com/run-ai/genv): GPU environment and cluster management with LLM support <https://www.genv.dev>
+- [NVIDIA/grove](https://github.com/NVIDIA/grove): Kubernetes enhancements for Network Topology Aware Gang Scheduling & Autoscaling
 
 ## Compiler / Kernel / Low level libs
 
@@ -246,6 +250,7 @@ General problems
 - [huggingface/kernel-builder](https://github.com/huggingface/kernel-builder): 👷 Build compute kernels
   - [Writing Hub kernels with kernel-builder](https://github.com/huggingface/kernel-builder/blob/main/docs/writing-kernels.md)
 - [mirage-project/mirage](https://github.com/mirage-project/mirage): Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA <https://mirage-project.readthedocs.io/>
+- [Relaxed-System-Lab/Flash-Sparse-Attention](https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention): 🚀🚀 Efficient implementations of Native Sparse Attention <https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention>
 
 ### XLA / MLIR
 
@@ -262,7 +267,7 @@ General problems
 
 ### Tensor inference
 
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass): CUDA Templates for Linear Algebra Subroutines
+- 🌟 [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass): CUDA Templates for Linear Algebra Subroutines
 - [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend): cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT): NVIDIA® TensorRT™, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference applications. <https://developer.nvidia.com/tensorrt>
 - [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub): NVIDIA curated collection of educational resources related to general purpose GPU programming.
@@ -375,6 +380,7 @@ JAX Special
 - [ZQZCalin/trainit](https://github.com/ZQZCalin/trainit): Trainit is a machine learning training pipeline based on jax. It is also built on optax for optimizers, equinox for models, wandb for logging, and hydra for convenient configuration management.
 - [benabed/clipy](https://github.com/benabed/clipy): pure python clik implementation with jax support.
 - [RobertTLange/evosax](https://github.com/RobertTLange/evosax): Evolution Strategies in JAX 🦎
+- [jaxleyverse/jaxley](https://github.com/jaxleyverse/jaxley): Differentiable neuron simulations with biophysical detail on CPU, GPU, or TPU. <https://jaxley.readthedocs.io>
 
 patrick-kidger
 
@@ -597,3 +603,4 @@ PGM / Probabilistic programming
   - [symbolic_differentiation.py](https://github.com/JINO-ROHIT/mini-AutoGrad/blob/main/mini-grad/symbolic_differentiation.py)
 - [jax-ml/jax-llm-examples](https://github.com/jax-ml/jax-llm-examples)
   - DeepSeek R1
+- [Lancern/mini-qwen-py](https://github.com/Lancern/mini-qwen-py): A toy implementation of Qwen3 inference

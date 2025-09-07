@@ -51,6 +51,8 @@
 - 🌟 [harvard-edge/cs249r_book](https://github.com/harvard-edge/cs249r_book): Collaborative book Machine Learning Systems <https://harvard-edge.github.io/cs249r_book/>
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh): 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被 60 个国家的 400 所大学用于教学。 <http://zh.d2l.ai>
 - [natolambert/rlhf-book](https://github.com/natolambert/rlhf-book): Textbook on reinforcement learning from human feedback <https://rlhfbook.com/>
+- 🌟 [Ma-Lab-Berkeley/deep-representation-learning-book](https://github.com/Ma-Lab-Berkeley/deep-representation-learning-book): Learning Deep Representations of Data Distributions <https://ma-lab-berkeley.github.io/deep-representation-learning-book/>
+- [A Data-Centric Introduction to Computing](https://dcic-world.org/)
 
 ## Workshop
 
@@ -91,6 +93,7 @@
 - [y1xiaoc/fwdlap](https://github.com/y1xiaoc/fwdlap): Forward mode laplacian implemented in JAX tracer <https://github.com/y1xiaoc/fwdlap>
 - [microsoft/folx](https://github.com/microsoft/folx): Implementation of Forward Laplacian algorithm in JAX
 - [ExtensityAI/symbolicai](https://github.com/ExtensityAI/symbolicai): Compositional Differentiable Programming Library
+- [NVIDIA/physicsnemo](https://github.com/NVIDIA/physicsnemo): Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods <https://developer.nvidia.com/physicsnemo>
 
 ## Prob / Bayesian Inference
 
@@ -116,3 +119,4 @@
 - [MichaelTMatthews/Craftax](https://github.com/MichaelTMatthews/Craftax): (Crafter + NetHack) in JAX. ICML 2024 Spotlight.
 - [haoliuhl/ringattention](https://github.com/haoliuhl/ringattention): Large Context Attention
 - [shap/shap](https://github.com/shap/shap): A game theoretic approach to explain the output of any machine learning model. <https://shap.readthedocs.io>
+- [geometric-intelligence/TopoBench](https://github.com/geometric-intelligence/TopoBench): TopoBench is a Python library designed to standardize benchmarking and accelerate research in Topological Deep Learning
