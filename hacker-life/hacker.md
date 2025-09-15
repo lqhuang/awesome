@@ -36,6 +36,7 @@
 - [QOJ.ac](https://qoj.ac/)
 - 🌟 [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools): Browser extension that generates API specs for any app or website <https://chrome.google.com/webstore/detail/openapi-devtools/jelghndoknklgabjgaeppjhommkkmdii>
 - [gruhn/regex-utils](https://github.com/gruhn/regex-utils): TypeScript library for regex equivalence, intersection, complement and other utilities that go beyond string matching. <https://gruhn.github.io/regex-utils/>
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own second brain and digital garden for free <https://quartz.jzhao.xyz/>
 
 ### Git
 
@@ -92,6 +93,7 @@
 - [3rd/tsdiagram](https://github.com/3rd/tsdiagram): Create diagrams and plan your code with TypeScript. <https://tsdiagram.com>
 - [k1LoW/deck](https://github.com/k1LoW/deck): deck is a tool for creating deck using Markdown and Google Slides.
   - Sync markdown slides to Google presentation. Awesome!
+- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW): Make beautiful isometric infrastructure diagrams
 
 ## Homelab
 
@@ -234,6 +236,7 @@
 - [851235550/how-to-buy-house](https://github.com/851235550/how-to-buy-house): 根据国家统计局资料整理房价走势 <https://how-to-buy-house.vercel.app>
 - [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life): By Dr. Piotr Wozniak
   - [睡眠好，学习好，生活好](https://colerar.github.io/Chinese-Translation-Good-sleep-good-learning-good-life)
+- [keenancrane/LaTweet](https://github.com/keenancrane/LaTweet): Web-based long-form microblog authoring tool with rich text and math support. <https://keenancrane.github.io/LaTweet/>
 
 ## ESL
 
@@ -277,6 +280,7 @@
 - [000pp/Pinkerton](https://github.com/000pp/Pinkerton): 🕵️ Python project to crawl for JavaScript files and search for secrets like API keys, authorization tokens, hardcoded password or related. <https://pinkerton.com>
 - 🌟 [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac): Automatically audit your Mac for basic security hygiene. <https://paretosecurity.com>
 - [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault): A self-hostable, end-to-end encrypted password manager with a built-in alias generator and email server. <https://aliasvault.net>
+- [amark/gun](https://github.com/amark/gun): An open source cybersecurity protocol for syncing decentralized graph data. <https://gun.eco/docs>
 
 ### Browser Fingerprint
 

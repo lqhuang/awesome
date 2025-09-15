@@ -20,6 +20,7 @@
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book): The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security): Awesome Node.js Security resources
 - [Effective TypeScript](https://effectivetypescript.com/)
+- [NodeBook - A Deep Dive into the Runtime](https://www.thenodebook.com/): Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments. Each chapter includes hands-on labs, real-world examples, and performance insights. Start your journey to becoming a Node.js expert today.
 
 ### Readings
 
@@ -62,6 +63,7 @@
 - [SukkaW/stylex-webpack](https://github.com/SukkaW/stylex-webpack): The another webpack/Next.js Plugin for Facebook StyleX
 - [addyosmani/critical](https://github.com/addyosmani/critical): Extract & Inline Critical-path CSS in HTML pages
 - 🌟 [filipsobol/sonda](https://github.com/filipsobol/sonda): Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks <https://sonda.dev/>
+- 🌟 [nodejs-loaders/nodejs-loaders](https://github.com/nodejs-loaders/nodejs-loaders): This repo provides a variety of loaders to facilitate quick and easy local development and CI testing. <https://www.npmjs.com/org/nodejs-loaders>
 
 ### Runtime
 
@@ -118,6 +120,7 @@ Specific
   - [matzkoh/prettier-plugin-packagejson](https://github.com/matzkoh/prettier-plugin-packagejson): Prettier plugin for package.json
 - [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint): ✨ Experimental proof-of-concept typescript-go powered JS/TS linter written in Go
 - [eslint/markdown](https://github.com/eslint/markdown): Lint JavaScript code blocks in Markdown documents
+- [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x): `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin. <https://npm.im/eslint-plugin-import-x>
 
 ### Modernize
 
@@ -169,6 +172,7 @@ Specific
 - [poppinss/traits](https://github.com/poppinss/traits): A tiny library to add support for Traits in Javascript and Typescript projects
 - [traits-ts/core](https://github.com/traits-ts/core): Traits for TypeScript Classes (Core) <https://traits-ts.org>
 - [traits-ts/stdlib](https://github.com/traits-ts/stdlib): Traits for TypeScript Classes (Standard Library) <https://traits-ts.org>
+- [rametta/pratica](https://github.com/rametta/pratica): 🥃 Functional Algebraic Data Types
 
 ### Concurrency
 
@@ -342,6 +346,7 @@ Specific
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
 - [webdiscus/ansis](https://github.com/webdiscus/ansis): CJS/ESM ANSI color library for CI, terminals and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
 - [bloomberg/stricli](https://github.com/bloomberg/stricli): Build complex CLIs with type safety and no dependencies <https://bloomberg.github.io/stricli>
+- [dahlia/optique](https://github.com/dahlia/optique): Type-safe combinatorial CLI parser for TypeScript <http://optique.dev/>
 
 ### Image
 
@@ -361,6 +366,7 @@ Specific
 - 🌟 [xthezealot/npmprune](https://github.com/xthezealot/npmprune): Prune unnecessary files from node_modules
   - simple and easy LOL
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch): The smallest, simplest and fastest JavaScript pixel-level image comparison library
+- [teimurjan/blazediff](https://github.com/teimurjan/blazediff): Blazing-fast pixel-by-pixel image comparison with block-based optimization. 1.5x times faster than pixelmatch.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit): A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash. <https://es-toolkit.slash.page>
 - [Oaxoa/fp-filters](https://github.com/Oaxoa/fp-filters): A curated list of ready-to-use (functional programming) array filters (TS / ESM / CJS)
 - [PuruVJ/neotraverse](https://github.com/PuruVJ/neotraverse): No description, website, or topics provided.

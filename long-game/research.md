@@ -22,6 +22,7 @@
 - [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet): A comprehensive 10-page probability cheatsheet that covers a semester's worth of introduction to probability. <http://www.wzchen.com/probability-cheatsheet>
 - 🌟 [mitmath/computational-thinking](https://github.com/mitmath/computational-thinking): Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia <https://computationalthinking.mit.edu/>
 - [mathematical-tours/mathematical-tours.github.io](https://github.com/mathematical-tours/mathematical-tours.github.io): Site web of the Mathematical Tours
+- [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources): A list of resources in different fields of Computer Science
 
 ## Numerical Analysis
 
@@ -36,6 +37,7 @@
 - [PythonOT/POT](https://github.com/PythonOT/POT): POT : Python Optimal Transport <https://PythonOT.github.io/>
   - [a gallery of all the POT example files](https://pythonot.github.io/auto_examples/index.html)
 - [strasdat/Sophus](https://github.com/strasdat/Sophus): C++ implementation of Lie Groups using Eigen.
+- 🌟🌟 [se-for-sci/se-for-sci.github.io](https://github.com/se-for-sci/se-for-sci.github.io): Software Engineering for Scientific Computing <https://se-for-sci.github.io/>
 
 ## Probability
 

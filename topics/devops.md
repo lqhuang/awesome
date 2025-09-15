@@ -26,6 +26,7 @@
 - [apache/buildstream](https://github.com/apache/buildstream): BuildStream, the software integration tool <https://buildstream.build/>
 - [buildbarn/bb-deployments](https://github.com/buildbarn/bb-deployments): Example deployments of Buildbarn on various platforms
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit): A pre-commit hook for Ruff.
+- [j178/prek](https://github.com/j178/prek): ⚡ Better `pre-commit`, re-engineered in Rust <https://prek.j178.dev/>
 - [package-url/purl-spec](https://github.com/package-url/purl-spec): A minimal specification for purl aka. a package "mostly universal" URL, join the discussion at https://gitter.im/package-url/Lobby <https://github.com/package-url/purl-spec>
 - [evilmartians/lefthook](https://github.com/evilmartians/lefthook): Fast and powerful Git hooks manager for any type of projects. <http://lefthook.dev/>
 - 🌟 [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog): Find, verify, and analyze leaked credentials <https://trufflesecurity.com>
@@ -94,8 +95,6 @@
 
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system <https://bazel.build>
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk): A user-friendly launcher for Bazel.
-- [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle): Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
-  - [bcr:gazelle](https://registry.bazel.build/modules/gazelle/0.42.0)
 - [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry): The central registry of Bazel modules for the Bzlmod external dependency system. <https://registry.bazel.build>
 - [bazelbuild/rules_nodejs](https://github.com/bazelbuild/rules_nodejs): NodeJS toolchain for Bazel. <https://bazelbuild.github.io/rules_nodejs/>
   - [bcr:rules_nodejs](https://registry.bazel.build/modules/rules_nodejs)
@@ -114,7 +113,13 @@
 - [bazel-contrib/bazelrc-preset.bzl](https://github.com/bazel-contrib/bazelrc-preset.bzl): Convenience for setting groups of related Bazel flags
 - [Tinder/bazel-diff](https://github.com/Tinder/bazel-diff): Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 - [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator): Determines which Bazel targets were affected between two git commits.
+
+gazelle
+
 - [alexeagle/gazelle-prebuilt](https://github.com/alexeagle/gazelle-prebuilt): A statically-linked, compiled binary to generate BUILD files using Gazelle
+- [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle): Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+  - [bcr:gazelle](https://registry.bazel.build/modules/gazelle/0.42.0)
+- [Calsign/gazelle_rust](https://github.com/Calsign/gazelle_rust): Gazelle language plugin for Rust.
 
 OS
 
@@ -428,6 +433,7 @@ Libs
 - [FidelusAleksander/ai-translate-action](https://github.com/FidelusAleksander/ai-translate-action): GitHub Action for AI-powered file translation between different languages
 - [aws-actions/aws-lambda-deploy](https://github.com/aws-actions/aws-lambda-deploy): Deploys a Lambda function.
 - [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials): Configure AWS credential environment variables for use in other GitHub Actions.
+- [actions/github-script](https://github.com/actions/github-script): Write workflows scripting the GitHub API in JavaScript
 
 ### GitHub Action Runner
 

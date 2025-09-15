@@ -87,6 +87,8 @@
 - [jpr5/ngrep](https://github.com/jpr5/ngrep): ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF f… <https://github.com/jpr5/ngrep>
 - [pmacct/pmacct](https://github.com/pmacct/pmacct): pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry]. <http://www.pmacct.net>
 - [ntop/ntopng](https://github.com/ntop/ntopng): Web-based Traffic and Security Network Traffic Monitoring <http://www.ntop.org>
+- [coder/httpjail](https://github.com/coder/httpjail): Monitor and restrict HTTP/HTTPS requests from processes
+  - PoC project. Quite interesting.
 
 ### Observability
 
@@ -286,3 +288,4 @@ STUN / TURN / ICE
 - [Ping | Ping.Sx](https://ping.sx/ping): Ping any server from 131 global locations in parallel.
 - [Check My NAT](https://www.checkmynat.com/): Online Service for NAT Type Detecting
 - [dsgnr/portchecker.io](https://github.com/dsgnr/portchecker.io): portchecker.io is a free online utility to check the port status of a given hostname or IP address. <https://portchecker.io>
+- [Browser Fingerprint Detector | Device Tracking Detection Tool | Golden Owl AI - OSINT](https://fingerprint.goldenowl.ai/): Advanced Browser Fingerprint Detector by Golden Owl OSINT. Detect device tracking, analyze your digital footprint, check uniqueness score, and protect your privacy online. Free browser fingerprint test tool for security researchers and privacy enthusiasts.

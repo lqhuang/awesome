@@ -157,6 +157,7 @@ And modern is here now.
 
 - [gperftools/gperftools](https://github.com/gperftools/gperftools): Main gperftools repository
 - [lingzolabs/tracer](https://github.com/lingzolabs/tracer): Tracer is a header-only lightweight performance tracing library for recording and analyzing C++ program execution. It helps developers identify performance bottlenecks, analyze function execution times, and outputs results in Chrome Tracing compatible format for easy visualization.
+- [google/benchmark](https://github.com/google/benchmark): A microbenchmark support library
 
 ### Logging
 
@@ -220,6 +221,7 @@ And modern is here now.
 - [GNOME/libxml2](https://github.com/GNOME/libxml2): Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2 <https://gitlab.gnome.org/GNOME/libxml2>
 - [microsoft/proxy](https://github.com/microsoft/proxy): Proxy: Next Generation Polymorphism in C++ <https://microsoft.github.io/proxy/docs/specifications.html>
 - [weidai11/cryptopp](https://github.com/weidai11/cryptopp): free C++ class library of cryptographic schemes <https://cryptopp.com>
+- [flanglet/kanzi-cpp](https://github.com/flanglet/kanzi-cpp): Fast lossless data compression in C++
 
 ### Serde
 
@@ -259,16 +261,17 @@ And modern is here now.
 - [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue): A fast multi-producer, multi-consumer lock-free concurrent queue for C++11
 - [dermesser/uvco](https://github.com/dermesser/uvco): C++20 Coroutines running on libuv for intuitive async I/O <https://borgac.net/~lbo/doc/uvco/>
 - [lewissbaker/cppcoro](https://github.com/lewissbaker/cppcoro): A library of C++ coroutine abstractions for the coroutines TS
-- [Tradias/asio-grpc](https://github.com/Tradias/asio-grpc): Asynchronous gRPC with Asio/unified executors <https://tradias.github.io/asio-grpc/>
 - [tsoding/coroutines](https://github.com/tsoding/coroutines): Custom coroutines implementation in GNU C
 - [ashvardanian/fork_union](https://github.com/ashvardanian/fork_union): Minimalistic C++ scoped thread-pool designed for SIMT-style 'Fork-Join' parallelism
 - [alandefreitas/futures](https://github.com/alandefreitas/futures): C++ Better Futures <https://alandefreitas.github.io/futures/>
 - [cmuparlay/parlaylib](https://github.com/cmuparlay/parlaylib): A Toolkit for Programming Parallel Algorithms on Shared-Memory Multicore Machines
 - [cmuparlay/PAM](https://github.com/cmuparlay/PAM): Parallel Balanced Binary Tree Structures
 
-### Network
+### Network / RPC
 
+- [Tradias/asio-grpc](https://github.com/Tradias/asio-grpc): Asynchronous gRPC with Asio/unified executors <https://tradias.github.io/asio-grpc/>
 - [erpc-io/eRPC](https://github.com/erpc-io/eRPC): Efficient RPCs for datacenter networks <https://erpc.io/>
+- [PragmaTwice/protopuf](https://github.com/PragmaTwice/protopuf): Protocol Puffers: A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20
 
 ### Framework
 
@@ -304,6 +307,7 @@ And modern is here now.
 - [NVIDIA/cccl](https://github.com/NVIDIA/cccl): CUDA Core Compute Libraries <https://nvidia.github.io/cccl/>
 - [lights0123/hipscript](https://github.com/lights0123/hipscript): Online compiler for HIP and NVIDIA® CUDA® code to WebGPU <https://hipscript.lights0123.com/>
 - [NVIDIA/MatX](https://github.com/NVIDIA/MatX): An efficient C++17 GPU numerical computing library with Python-like syntax <https://nvidia.github.io/MatX>
+- [NVIDIA/gdrcopy](https://github.com/NVIDIA/gdrcopy): A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology
 
 ## HPC / SIMD / Vectorization
 

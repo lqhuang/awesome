@@ -277,6 +277,7 @@ General problems
 - [Azure/MS-AMP](https://github.com/Azure/MS-AMP): Microsoft Automatic Mixed Precision Library <https://azure.github.io/MS-AMP/>
 - [ai-dynamo/nixl](https://github.com/ai-dynamo/nixl): NVIDIA Inference Xfer Library (NIXL)
 - [cubed-dev/cubed](https://github.com/cubed-dev/cubed): Scalable array processing with bounded memory <https://cubed-dev.github.io/cubed/>
+- [NVIDIA/NVSHMEM](https://github.com/NVIDIA/NVSHMEM): NVIDIA NVSHMEM is a parallel programming interface for NVIDIA GPUs based on OpenSHMEM. NVSHMEM can significantly reduce multi-process communication and coordination overheads by allowing programmers to perform one-sided communication from within CUDA kernels and on CUDA streams.
 
 ## Specific Topics
 
@@ -300,6 +301,8 @@ General problems
 - [CarperAI/trlx](https://github.com/CarperAI/trlx): A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
 - [huggingface/trl](https://github.com/huggingface/trl): Train transformer language models with reinforcement learning. <http://hf.co/docs/trl>
 - [allenai/RL4LMs](https://github.com/allenai/RL4LMs): A modular RL library to fine-tune language models to human preferences <https://rl4lms.apps.allenai.org>
+- [THUDM/slime](https://github.com/THUDM/slime): slime is a LLM post-training framework for RL Scaling. <https://thudm.github.io/slime>
+- [PrimeIntellect-ai/prime-rl](https://github.com/PrimeIntellect-ai/prime-rl): Decentralized RL Training at Scale
 
 JAX Special
 
@@ -381,6 +384,7 @@ JAX Special
 - [benabed/clipy](https://github.com/benabed/clipy): pure python clik implementation with jax support.
 - [RobertTLange/evosax](https://github.com/RobertTLange/evosax): Evolution Strategies in JAX 🦎
 - [jaxleyverse/jaxley](https://github.com/jaxleyverse/jaxley): Differentiable neuron simulations with biophysical detail on CPU, GPU, or TPU. <https://jaxley.readthedocs.io>
+- [divyamakkar0/JAXformer](https://github.com/divyamakkar0/JAXformer): This is a zero-to-one guide on scaling modern transformers with n-dimensional parallelism. <https://jaxformer.com>
 
 patrick-kidger
 
@@ -514,6 +518,7 @@ PGM / Probabilistic programming
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping): Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [google/jaxtyping](https://github.com/google/jaxtyping): Type annotations and runtime checking for shape and dtype of JAX arrays, and PyTrees.
 - [pytorch/ao](https://github.com/pytorch/ao): The missing pytorch dtype and layout library for training and inference
+- [stackav-oss/dltype](https://github.com/stackav-oss/dltype): Deep Learning Type Library
 
 ### Data store and Data loading
 

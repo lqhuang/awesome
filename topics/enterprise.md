@@ -112,6 +112,7 @@
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines): A curated list of awesome open source workflow engines
 - [orchest/orchest](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️ <https://orchest.io>
 - 🌟 [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services. <https://n8n.io>
+  - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows): all of the workflows of n8n i could find (also from the site itself)
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): The easiest way to automate your data <https://prefect.io>
 - 🌟 [dagster-io/dagster](https://github.com/dagster-io/dagster): An orchestration platform for the development, production, and observation of data assets. <https://dagster.io>
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai): 🧙 A modern replacement for Airflow. <https://www.mage.ai>

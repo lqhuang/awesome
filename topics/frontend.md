@@ -67,6 +67,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter): Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️ <https://next-ts.joaopedro.dev>
 - [al1abb/invoify](https://github.com/al1abb/invoify): An invoice generator app built using Next.js, Typescript, and Shadcn <https://invoify.vercel.app>
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter): Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. <https://next-saas-start.vercel.app>
+- [upstash/jstack](https://github.com/upstash/jstack): Build seriously fast, lightweight and end-to-end typesafe Next.js apps <https://jstack.app/>
 
 ## CSS
 
@@ -90,6 +91,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Fluid Responsive Design | Utopia](https://utopia.fyi/): Elegantly scale type and space without breakpoints
 - [Kelp](https://kelpui.com/): A UI library for people who love HTML, powered by modern CSS and Web Components.
 - [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises): These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP).
+- [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/): A demonstration of what can be accomplished visually through CSS-based design.
 
 ### CSS Style
 
@@ -106,6 +108,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [picocss/pico](https://github.com/picocss/pico): Minimal CSS Framework for semantic HTML <https://picocss.com>
 - [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit): a pure css implementation of some sunlight streaming in through the window <https://sunlit.pages.dev/>
 - [bigskysoftware/missing](https://github.com/bigskysoftware/missing): The classless-ish CSS library you've been missing <https://missing.style>
+- 🌟 [argyleink/open-props](https://github.com/argyleink/open-props): CSS custom properties to help accelerate adaptive and consistent design. <https://open-props.style>
+- [papercss/papercss](https://github.com/papercss/papercss): The Less Formal CSS Framework <https://getpapercss.com>
 
 #### CSS in JS
 
@@ -152,6 +156,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js): A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
 - [onejs/one](https://github.com/onejs/one): ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. <https://onestack.dev>
+- [nuejs/nue](https://github.com/nuejs/nue): Standards first web framework taking HTML, CSS, JS, and WASM to their peak <https://nuejs.org>
+- [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation): Routing and navigation for React Native and Web apps <https://reactnavigation.org>
 
 ### UI Testing
 
@@ -200,6 +206,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - only css
 - [cschroeter/park-ui](https://github.com/cschroeter/park-ui): Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks. <https://park-ui.com>
 - [PallasUI/pallas-ui](https://github.com/PallasUI/pallas-ui):
+- [uber/baseweb](https://github.com/uber/baseweb): A React Component library implementing the Base design language <https://baseweb.design>
 
 #### React
 
@@ -224,6 +231,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - paid required
 - 🌟 [hevar/awesome-react-headless-ui-components](https://github.com/hevar/awesome-react-headless-ui-components): No description, website, or topics provided.
 - [semrush/intergalactic](https://github.com/semrush/intergalactic): Intergalactic Design System is a constantly developing design system and library of React components. <https://developer.semrush.com/intergalactic/>
+- [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped): Professionally crafted React & Figma components for building beautiful products or starting your own design system
 
 My own favorites:
 
@@ -412,6 +420,7 @@ Misc
 - [Oblosys/react-lifecycle-visualizer](https://github.com/Oblosys/react-lifecycle-visualizer): Real-time visualizer for React lifecycle methods <https://codesandbox.io/s/github/Oblosys/react-lifecycle-visualizer/tree/master/examples/parent-child-demo?file=/src/samples/New.js>
 - [nygardk/react-share](https://github.com/nygardk/react-share): Social media share buttons and share counts for React
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js): 🌞 A lightweight JavaScript library that generates customizable heat maps to visualize date-based activity and trends. <https://www.william-troup.com/heat-js>
+- [sakthilkv/react-horizontal-heatmap](https://github.com/sakthilkv/react-horizontal-heatmap): A lightweight React component for rendering a horizontal heatmap. Perfect for timelines, activity charts, or health status indicators. Fully customizable colors, box size, and spacing.
 - 🌟 [bitjson/qr-code](https://github.com/bitjson/qr-code): A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element. <https://qr.bitjson.com/>
 - [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit): A lightweight magic-move library for configurable layout transitions
 - [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions): Use CSS View Transitions API in Next.js App Router. <https://next-view-transitions.vercel.app>
@@ -433,6 +442,8 @@ Misc
 - [zachleat/line-numbers](https://github.com/zachleat/line-numbers): A web component to add line numbers next to various HTML elements <https://zachleat.github.io/line-numbers/demo.html>
 - [maximux13/waveform-renderer](https://github.com/maximux13/waveform-renderer):
 - [codeberg:chrisn/peaks.js](https://codeberg.org/chrisn/peaks.js): JavaScript UI component for interacting with audio waveforms
+- [emilwidlund/harmony](https://github.com/emilwidlund/harmony): A new kind of color picker for React <https://harmony.sh>
+- [georgedoescode/garden-jamstack-posters](https://github.com/georgedoescode/garden-jamstack-posters): A peculiar little website that uses Eleventy + Netlify + Puppeteer to create generative poster designs <https://garden.georgefrancis.dev>
 
 #### Just render json in better way
 
@@ -525,10 +536,15 @@ Concrete animations
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits): An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces. <https://reactbits.dev>
 - [WinterCore/react-text-transition](https://github.com/WinterCore/react-text-transition): Animate your text changes
 - [maxeth/react-type-animation](https://github.com/maxeth/react-type-animation): A React typewriter animation based on typical with extended functionality and customization. <https://react-type-animation.netlify.app/>
+- [tameemsafi/typewriterjs](https://github.com/tameemsafi/typewriterjs): A simple yet powerful native javascript plugin for a cool typewriter effect. <https://www.npmjs.com/package/typewriter-effect>
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts): 🔥100+ Free beautifull interactive react/nextjs component based on tailwindcss, framer-motion, gsap etc <https://www.ui-layouts.com>
 - [ui-layouts/cursify](https://github.com/ui-layouts/cursify): Cursor Animation Library for React & Next.js <https://cursify.vercel.app>
 - 🌟 [jonathanleane/partycles](https://github.com/jonathanleane/partycles): A lightweight, performant React library for adding delightful animation effects to your applications. Perfect for celebrating user achievements, form submissions, or any moment worth highlighting.
 - 🌟 [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react): Apple's Liquid Glass effect for React
+- [maxwellito/vivus](https://github.com/maxwellito/vivus): JavaScript library to make drawing animation on SVG
+- [HelloQingGuo/react-vivus](https://github.com/HelloQingGuo/react-vivus): ✨ React wrapper for vivus.js ✨ <https://helloqingguo.github.io/react-vivus/>
+- [awesome-reveal/react-awesome-reveal](https://github.com/awesome-reveal/react-awesome-reveal): React components to add reveal animations using the Intersection Observer API and CSS Animations. <https://react-awesome-reveal.morello.dev>
+- [Liquid Glass in the Browser](https://kube.io/blog/liquid-glass-css-svg): Explore how to recreate Apple's stunning Liquid Glass effect using CSS, SVG Displacement Maps, and refraction calculations.
 
 ## Functional libraries
 
@@ -650,33 +666,49 @@ Concrete animations
 
 ## Design / Resources
 
-- [nealmckee/penumbra](https://github.com/nealmckee/penumbra): Penumbra Color Theme
+### SVG utilities
+
+- [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js): The lightweight library for manipulating and animating SVG <https://svgjs.dev>
+- [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg): SVG library for React Native, React Native Web, and plain React web projects.
+
+### OSS
+
+- 🌟 [pheralb/svgl](https://github.com/pheralb/svgl): 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS. <https://svgl.app>
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars): Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette. <https://boringavatars.com>
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 3400 free MIT-licensed high-quality SVG icons for you to use in your web projects. <https://tabler-icons.io>
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide): Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. <https://lucide.dev>
 - [antfu/icones](https://github.com/antfu/icones): ⚡️ Icon Explorer with Instant searching, powered by Iconify <https://icones.js.org/>
 - [iconify/iconify](https://github.com/iconify/iconify): Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components! <https://iconify.design>
 - [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs <https://css.gg>
-- [Simple Icons](https://simpleicons.org/): 2862 Free SVG icons for popular brands
-- [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg): SVG library for React Native, React Native Web, and plain React web projects.
-- [Iconbuddy](https://iconbuddy.app): The ultimate source for icons.
-  - [Figma Plugin](https://dub.sh/iconbuddy-figma)
-- 🌟 [pheralb/svgl](https://github.com/pheralb/svgl): 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS. <https://svgl.app>
-- [Icons | Developer Icons](https://xandemon.github.io/developer-icons/icons/All/): Ready-to-use beautiful tech stack icon components for developers
 - [feathericons/feather](https://github.com/feathericons/feather): Simply beautiful open-source icons <https://feathericons.com>
-- 🌟 [Nucleo: The ultimate icon bundle](https://nucleoapp.com/)
-- [Streamline: Your Ultimate Icon Library](https://www.streamlinehq.com/)
-- 🌟 [gilbarbara/logos](https://github.com/gilbarbara/logos): A huge collection of SVG logos <http://svgporn.com/>
-- [devicons/devicon](https://github.com/devicons/devicon): Set of icons representing programming languages, designing & development tools <https://devicon.dev>
-- 🌟 [Line Icons](https://lineicons.com/): Make Every Project Unique
-- [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own second brain and digital garden for free <https://quartz.jzhao.xyz/>
-- [YuheshPandian/ICONIC](https://github.com/YuheshPandian/ICONIC): ⚡A developer-oriented library of sleek, bubble-shaped skill icons designed for GitHub READMEs, portfolios, and resumes. <https://iconic-api.onrender.com>
 - 🌟 [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage): The homepage of Phosphor Icons, a flexible icon family for everyone <https://phosphoricons.com>
-- [emilwidlund/harmony](https://github.com/emilwidlund/harmony): A new kind of color picker for React <https://harmony.sh>
+- [YuheshPandian/ICONIC](https://github.com/YuheshPandian/ICONIC): ⚡A developer-oriented library of sleek, bubble-shaped skill icons designed for GitHub READMEs, portfolios, and resumes. <https://iconic-api.onrender.com>
 - 🌟 [jpswalsh/academicons](https://github.com/jpswalsh/academicons): An icon font for academics <https://jpswalsh.github.io/academicons>
 - [HeyHuazi/SVGLOGO](https://github.com/HeyHuazi/SVGLOGO): SVG LOGO for China <https://svglogo.top/>
-- [中国大学矢量校徽大全](https://www.urongda.com/): 汇集全国高校的矢量校徽，提供高质量的可缩放 SVG 文件，适合设计师、学生和机构使用。
 - [azat-io/eyecons](https://github.com/azat-io/eyecons): 🎨 Advanced VS Code icon theme with adaptive icon colors that match the editor’s color theme <https://eyecons.dev>
+
+### Collections
+
+- [Icon Library trends](https://getstack.dev/category/iconset): Discover most popular Icon Library and alternatives across open-source GitHub repositories
+- [Simple Icons](https://simpleicons.org/): 2862 Free SVG icons for popular brands
+- [Iconbuddy](https://iconbuddy.app): The ultimate source for icons.
+  - [Figma Plugin](https://dub.sh/iconbuddy-figma)
+- 🌟 [Nucleo: The ultimate icon bundle](https://nucleoapp.com/)
+- [Streamline: Your Ultimate Icon Library](https://www.streamlinehq.com/)
+- [Amicons](https://amicons.design/): 700+ friendly icons for Creators & Teams
+- 🌟 [Line Icons](https://lineicons.com/): Make Every Project Unique
+- [Iconsax](https://iconsax.io/): Iconsax - Iconsax is a collection of icons for designers and developer
+- [Remix Icon](https://remixicon.com/): Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.
+- [Symbols](https://www.symbols.dev/): Open source SF symbols for the web.
+- [Hugeicons](https://hugeicons.com/): Explore the world's most complete icon library: 40,000+ icons, 9 unique styles, and 59 categories. Perfect for UI/UX designers, developers, and creators using Figma, React, Flutter, and more.
+
+### Logos / Brand icons
+
+- [Icons | Developer Icons](https://xandemon.github.io/developer-icons/icons/All/): Ready-to-use beautiful tech stack icon components for developers
+- [gilbarbara/logos](https://github.com/gilbarbara/logos): A huge collection of SVG logos <http://svgporn.com/>
+- [devicons/devicon](https://github.com/devicons/devicon): Set of icons representing programming languages, designing & development tools <https://devicon.dev>
+- 🌟 [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
+- [中国大学矢量校徽大全](https://www.urongda.com/): 汇集全国高校的矢量校徽，提供高质量的可缩放 SVG 文件，适合设计师、学生和机构使用。
 
 ## Further topics
 
@@ -696,6 +728,8 @@ Concrete animations
 - [Kitware/vtk-js](https://github.com/Kitware/vtk-js): Visualization Toolkit for the Web <https://kitware.github.io/vtk-js/>
 - 🌟 [compute-toys/compute.toys](https://github.com/compute-toys/compute.toys): Shadertoy for WebGPU compute shaders. <https://compute.toys>
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js <https://docs.pmnd.rs/react-three-fiber>
+- [pmndrs/timeline](https://github.com/pmndrs/timeline): → Write composable 3D behaviors like a story. <https://pmndrs.github.io/timeline/>
+  - By generators 🤔
 - [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl): React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React. <https://react-unity-webgl.dev>
 - [StateLayer](https://statelayer.com/): A declarative 3D component framework!
 

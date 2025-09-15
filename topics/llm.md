@@ -83,6 +83,7 @@
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured): Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines. <https://www.unstructured.io/>
 - [lm-sys/arena-hard-auto](https://github.com/lm-sys/arena-hard-auto): Arena-Hard-Auto: An automatic LLM benchmark.
 - [kstonekuan/simple-chromium-ai](https://github.com/kstonekuan/simple-chromium-ai): A lightweight TypeScript wrapper for Chrome's built-in AI Prompt API that trades flexibility for simplicity and type safety. <https://www.npmjs.com/package/simple-chromium-ai>
+- [midday-ai/ai-sdk-devtools](https://github.com/midday-ai/ai-sdk-devtools): No description, website, or topics provided.
 
 ### Enforce
 

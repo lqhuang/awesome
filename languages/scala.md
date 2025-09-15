@@ -226,6 +226,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [rwhaling/native-lambda](https://github.com/rwhaling/native-lambda): AWS Lambda Custom Runtime for Scala Native
 - [spamegg1/modern-systems-scala-native](https://github.com/spamegg1/modern-systems-scala-native): Working through "Modern Systems Programming with Scala Native" by Richard Whaling, in Scala 3 <https://pragprog.com/titles/rwscala/modern-systems-programming-with-scala-native/>
 - [keynmol/scala-native-interop-livecoding-lsug](https://github.com/keynmol/scala-native-interop-livecoding-lsug): Live coding session demonstrating approaches to interop with C, C++, Assembly from Scala 3 Native
+- [openjdk/jextract](https://github.com/openjdk/jextract): https://openjdk.org/projects/code-tools
 
 ### Scala.js
 
@@ -267,12 +268,14 @@ Do a benchmark (final size while using Scala Native) for them?
   - What if we use similar highlights for Scala Native?
 - [arainko/chanterelle](https://github.com/arainko/chanterelle): chanterelle is a library that provides a map-like DSL over named tuples. Scala 3 only. Some chanterelles are scaly.
 - [MateuszKubuszok/hearth](https://github.com/MateuszKubuszok/hearth): The first Scala macros' standard library. <https://scala-hearth.readthedocs.io>
+- [scafi/scafi3](https://github.com/scafi/scafi3): scafi3 is a Scala 3 DSL for Aggregate Programming.
 
 ### Experiments
 
 - [scala/scala-async](https://github.com/scala/scala-async): An asynchronous programming facility for Scala
 - [rssh/dotty-cps-async](https://github.com/rssh/dotty-cps-async): experimental CPS transformer for dotty
-- [lampepfl/async](https://github.com/lampepfl/async): A strawman for a low-level async library in Scala 3
+- [lampepfl/gears](https://github.com/lampepfl/gears): A strawman for a low-level async library in Scala 3. <https://lampepfl.github.io/gears/>
+  - [tanishiking/gears-playground](https://github.com/tanishiking/gears-playground): A kitchen sink for a playground for lampepfl/gears httpss://github.com/lampepfl/gears, a strawman for a low-level async library in Scala 3.
 - [sideeffffect/scala-rust-interop](https://github.com/sideeffffect/scala-rust-interop): Scala <-> Rust interop
 - [softwaremill/ox](https://github.com/softwaremill/ox): Developer-friendly structured concurrency library for the JVM <https://softwaremill.community/c/ox/12>
 - [kitlangton/quotidian](https://github.com/kitlangton/quotidian): A menagerie of macro utilities and extensions for Scala 3
@@ -310,6 +313,7 @@ Do a benchmark (final size while using Scala Native) for them?
 - [scalapb/ScalaPB](https://github.com/scalapb/ScalaPB): Protocol buffer compiler for Scala. <https://scalapb.github.io/>
 - [suzaku-io/boopickle](https://github.com/suzaku-io/boopickle): Binary serialization library for efficient network communication
 - [VirtusLab/scala-yaml](https://github.com/VirtusLab/scala-yaml):
+- [silvabyte/Chez](https://github.com/silvabyte/Chez): Chez: Type-Safe JSON Schema Ecosystem for Scala 3
 
 ### Logging and OpenTelemetry
 

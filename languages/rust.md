@@ -301,6 +301,7 @@
 - 🌟 [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync): Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization.
   - [Every Request, Every Microsecond: Scalable machine learning at Cloudflare](https://blog.cloudflare.com/scalable-machine-learning-at-cloudflare/)
 - [unicode-rs/unicode-segmentation](https://github.com/unicode-rs/unicode-segmentation): Grapheme Cluster and Word boundaries according to UAX#29 rules <https://unicode-rs.github.io/unicode-segmentation>
+- [reem/rust-ordered-float](https://github.com/reem/rust-ordered-float): No description, website, or topics provided.
 
 ### Meomory
 

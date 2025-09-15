@@ -181,6 +181,7 @@ Templates
   - [modal-labs/pytest-markdown-docs](https://github.com/modal-labs/pytest-markdown-docs): Run pytest on markdown code fence blocks
   - [Colin-b/pytest_httpx](https://github.com/Colin-b/pytest_httpx): pytest fixture to mock HTTPX <https://colin-b.github.io/pytest_httpx/>
   - [vberlier/pytest-insta](https://github.com/vberlier/pytest-insta): A practical snapshot testing plugin for pytest.
+  - [craigahobbs/unittest-parallel](https://github.com/craigahobbs/unittest-parallel): Parallel unit test runner for Python with coverage support
 - Coverage
   - [plasma-umass/slipcover](https://github.com/plasma-umass/slipcover): Near Zero-Overhead Python Code Coverage
   - [econchick/interrogate](https://github.com/econchick/interrogate): Explain yourself! Interrogate a codebase for docstring coverage. <https://interrogate.readthedocs.io>
@@ -775,6 +776,7 @@ pdf
 - [Kozea/pygal](https://github.com/Kozea/pygal): PYthon svg GrAph plotting Library <https://www.pygal.org>
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz): A python library for decision tree visualization and model interpretation.
 - [d3blocks/d3blocks](https://github.com/d3blocks/d3blocks): The Python library to create stand-alone and interactive d3 charts.
+- [y-sunflower/dayplot](https://github.com/y-sunflower/dayplot): Calendar heatmaps made super simple and highly customizable <https://y-sunflower.github.io/dayplot/>
 
 ### TUI
 

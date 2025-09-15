@@ -29,6 +29,8 @@
 - [lancedb/lance](https://github.com/lancedb/lance): Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming.. <https://lancedb.github.io/lance/>
 - [facebookexternal/nimble](https://github.com/facebookexternal/nimble): New file format for storage of large columnar datasets.
 - 🌟 [cwida/FastLanes](https://github.com/cwida/FastLanes): Next-Gen Big Data File Format <https://fastlanes.io/>
+  - [spiraldb/fastlanes](https://github.com/spiraldb/fastlanes): Rust implementation of the FastLanes compression library
+- [vortex-data/vortex](https://github.com/vortex-data/vortex): An extensible, state of the art columnar file format. Formerly at @spiraldb, now a Linux Foundation project. <https://vortex.dev>
 
 ## ELT / ETL
 

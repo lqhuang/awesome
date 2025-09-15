@@ -349,6 +349,7 @@ Type 1 hypervisors
 - [openreports/reports-api](https://github.com/openreports/reports-api): OpenReports API (Kubernetes CRD) <https://openreports.io/>
 - [anchore/syft](https://github.com/anchore/syft): CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence): Local development against a remote Kubernetes or OpenShift cluster <https://www.telepresence.io>
+- [educates/educates-training-platform](https://github.com/educates/educates-training-platform): A platform for hosting interactive workshop environments in Kubernetes, or on top of a local container runtime. <https://educates.dev>
 
 ## Hashicorp
 
