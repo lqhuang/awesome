@@ -128,6 +128,7 @@
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar): Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 - [allenv0/AirPosture](https://github.com/allenv0/AirPosture): Turn your AirPods into a posture coach on macOS <https://www.reddit.com/r/macapps/comments/1kztuya/airpods_as_a_posture_coach_on_mac/>
 - 🌟 [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI): A SwiftUI based macOS GUI for rsync. <https://rsyncui.netlify.app/docs/>
+- [cpvalente/ontime](https://github.com/cpvalente/ontime): Free, open-source time keeping for live events <https://www.getontime.no>
 
 ### Free / Paid
 
@@ -207,6 +208,8 @@
 - [sr.ht/~sircmpwn/sourcehut](https://sr.ht/~sircmpwn/sourcehut/): This is the main project hub for SourceHut itself. To browse our source code, see the "sources" tab at the nav along the top of the page.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD <https://about.gitea.com>
   - [gitea/awesome-gitea: A curated list of awesome projects related to Gitea and its soft-fork instances - awesome-gitea - Gitea: Git with a cup of tea](https://gitea.com/gitea/awesome-gitea/): awesome-gitea - A curated list of awesome projects related to Gitea and its soft-fork instances
+- 🌟 [picosh/pgit](https://github.com/picosh/pgit): static site generator for git repos <https://git.erock.io>
+- [picosh/pico](https://github.com/picosh/pico): The ultimate ssh powered services for developers <https://pico.sh>
 
 SSH
 
@@ -222,6 +225,7 @@ SSH
 - [sshguard/sshguard](https://bitbucket.org/sshguard/sshguard/): SSHGuard protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends. <https://www.sshguard.net>
 - [billchurch/webssh2](https://github.com/billchurch/webssh2): Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty): 🐛 Access your terminal from anywhere via the web. <https://rttys.net>
+- [shell-pool/shpool](https://github.com/shell-pool/shpool): Think tmux, then aim... lower
 
 ## CN Related
 
@@ -305,12 +309,14 @@ SSH
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack): A self hosted media tracker.
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet): A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. <https://bitmagnet.io/>
 - [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Follow everything in one place <https://folo.is>
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 
 ### Cloud Disk
 
 NextCloud is crazily BIG now, so I will say no here.
 
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web File Browser <https://filebrowser.org>
+- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser): 📂 Web File Browser
 - [filegator/filegator](https://github.com/filegator/filegator): Powerful Multi-User File Manager <https://filegator.io>
 - 🌟 [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... <https://www.filestash.app/>
 - [eikek/sharry](https://github.com/eikek/sharry): Sharry is a self-hosted file sharing web application. <https://eikek.github.io/sharry>
@@ -318,6 +324,7 @@ NextCloud is crazily BIG now, so I will say no here.
 - 🌟 [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud): This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services. <https://opencloud.eu>
 - [cs3org/reva](https://github.com/cs3org/reva): WebDAV/gRPC/HTTP high performance server to link high level clients to storage backends <https://reva.link>
 - [9001/copyparty](https://github.com/9001/copyparty): Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [Forceu/Gokapi](https://github.com/Forceu/Gokapi): Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
 
 ### Email
 

@@ -46,6 +46,7 @@ Streaming Systems
 - 🌟 [twitter/algebird](https://github.com/twitter/algebird): Abstract Algebra for Scala <https://twitter.github.io/algebird>
 - [addthis/stream-lib](https://github.com/addthis/stream-lib): Stream summarizer and cardinality estimator.
 - [python-streamz/streamz](https://github.com/python-streamz/streamz): Real-time stream processing for python <https://streamz.readthedocs.io/en/latest/>
+- [memiiso/pydbzengine](https://github.com/memiiso/pydbzengine): Enables Python developers to leverage Debezium's CDC capabilities with custom event handlers and seamless integration.
 
 ## Frameworks
 

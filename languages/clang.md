@@ -39,6 +39,7 @@ And modern is here now.
 - 🌟 [gitlab:CLIUtils/modern-cmake](https://gitlab.com/CLIUtils/modern-cmake): A book about using CMake for your projects. <https://cliutils.gitlab.io/modern-cmake>
   - [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN): Chinese(simplified) translation of famous cmake tutorial Modern CMake. GitHub Pages : https://modern-cmake-cn.github.io/Modern-CMake-zh_CN/
 - 🌟 [Debugging C++ with Visual Studio Code under macOS – Daniel Lemire's blog](https://lemire.me/blog/2025/08/24/debugging-c-with-visual-studio-code-under-macos/): no description found
+- [Keith-S-Thompson/how-to-c-response/blob/master/README.md](https://github.com/Keith-S-Thompson/how-to-c-response/blob/master/README.md):
 
 ### References
 
@@ -231,6 +232,7 @@ And modern is here now.
 - [USCiLab/cereal](https://github.com/USCiLab/cereal): A C++11 library for serialization
 - [felixguendling/cista](https://github.com/felixguendling/cista): Cista is a simple, high-performance, zero-copy C++ serialization & reflection library. <https://cista.rocks>
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp): A YAML parser and emitter in C++
+- [rxi/sj.h](https://github.com/rxi/sj.h): A tiny little JSON parsing library
 
 ### String
 

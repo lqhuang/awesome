@@ -68,6 +68,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [al1abb/invoify](https://github.com/al1abb/invoify): An invoice generator app built using Next.js, Typescript, and Shadcn <https://invoify.vercel.app>
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter): Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. <https://next-saas-start.vercel.app>
 - [upstash/jstack](https://github.com/upstash/jstack): Build seriously fast, lightweight and end-to-end typesafe Next.js apps <https://jstack.app/>
+- [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare): 🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready with automated CI/CD and generous free tiers.
 
 ## CSS
 
@@ -302,6 +303,7 @@ List
 - [catamphetamine/virtual-scroller](https://github.com/catamphetamine/virtual-scroller): A component for efficiently rendering large lists of variable height items <https://catamphetamine.gitlab.io/virtual-scroller/?dynamic=%E2%9C%93>
 - [luciodale/react-searchable-dropdown](https://github.com/luciodale/react-searchable-dropdown): single and multi selection, virtualized, new option creation, search, and more
 - [bvaughn/react-window](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data <https://react-window.now.sh/>
+- 🌟 [inokawa/virtua](https://github.com/inokawa/virtua): A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte. <https://inokawa.github.io/virtua/>
 
 Table
 
@@ -374,6 +376,7 @@ Form
 - [edmundhung/conform](https://github.com/edmundhung/conform): A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js. <https://conform.guide>
 - [guidone/lets-form](https://github.com/guidone/lets-form): A JSON form generator for React with Material UI / AntDesign / Bootstrap / RSuite / Mantine <https://letsform.dev>
 - [m6io/react-formgen](https://github.com/m6io/react-formgen): Headless, unopinionated, and flexible form generation. <https://react-formgen.vercel.app>
+- [form-atoms/form-atoms](https://github.com/form-atoms/form-atoms): Jotai form atoms <https://codesandbox.io/s/getting-started-with-form-atoms-v2-ddhgq2?file=/src/App.tsx>
 
 Upload
 
@@ -563,6 +566,7 @@ Concrete animations
   - [jotaijs/jotai-history](https://github.com/jotaijs/jotai-history): A Jōtai utility package for advanced state history management
   - [jotaijs/jotai-scheduler](https://github.com/jotaijs/jotai-scheduler): A Jōtai utility package for better performance and user experience.
   - [jotaijs/jotai-transaction](https://github.com/jotaijs/jotai-transaction): Utility package for executing atomic transactions in Jotai.
+  - [form-atoms/form-atoms](https://github.com/form-atoms/form-atoms): Jotai form atoms <https://codesandbox.io/s/getting-started-with-form-atoms-v2-ddhgq2?file=/src/App.tsx>
 - [statelyai/xstate](https://github.com/statelyai/xstate):State machines and statecharts for the modern web. <https://xstate.js.org/docs>
 - 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next immutable state by mutating the current one <https://immerjs.github.io/immer>
 - [unadlib/mutative](https://github.com/unadlib/mutative): Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer. <http://mutative.js.org/>
@@ -594,6 +598,7 @@ Concrete animations
 - 🌟 [SukkaW/fast-escape-html](https://github.com/SukkaW/fast-escape-html): Fastest, plain JavaScript-based, HTML escaping library for JavaScript, works in both Node.js and browser. Even faster than a Rust-based one in real world HTMLs!
 - 🌟 [Assortment/darkmodejs](https://github.com/Assortment/darkmodejs): Utility package for managing Dark Mode on the web <https://darkmodejs-demo.netlify.com/>
   - small and clean, you can even just in-tree it
+- [kane50613/takumi](https://github.com/kane50613/takumi): Render your React components to images. Available for Rust, Node.js, and WebAssembly. <https://takumi.kane.tw>
 
 ### Misc
 

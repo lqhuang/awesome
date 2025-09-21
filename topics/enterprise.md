@@ -270,6 +270,9 @@ Visual stack
 - [greenbone/docs](https://github.com/greenbone/docs): Documentation for the Greenbone Community Edition <https://greenbone.github.io/docs/>
 - [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex): Cortex: a Powerful Observable Analysis and Active Response Engine <https://strangebee.com/cortex/>
 - 🌟 [google/oss-rebuild](https://github.com/google/oss-rebuild): Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date): Informative site with EoL dates of everything <https://endoflife.date>
+- [Thinkst Canary](https://canary.tools/): Most companies discover they've been breached way too late. Thinkst Canary fixes this: just 2 minutes of setup; nearly 0 false positives, no ongoing overhead, and you can detect attackers long before they dig in.
+  - [Canarytokens](https://canarytokens.org/nest/): Canarytokens is a free tool that helps you discover you’ve been breached by having attackers announce themselves.
 
 ## Career
 

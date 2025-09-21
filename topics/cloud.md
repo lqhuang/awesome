@@ -21,6 +21,7 @@
 - [virtual-kubelet/systemk](https://github.com/virtual-kubelet/systemk): Systemk is a systemd backend for the virtual-kubelet. Instead of starting containers, you start systemd units.
   - Interesting idea that manipulating systemd units like containers
 - 🌟 [GetDeploying](https://getdeploying.com/): Compare cloud providers for your next project
+- [Hypervisor in 1,000 Lines](https://1000hv.seiya.me/en/): Write your first hypervisor from scratch, in 1K LoC.
 
 ## Cloud native
 
@@ -134,6 +135,8 @@ Type 1 hypervisors
   - acutally a Kubernetes distribution with KubeVirt
   - but looks great
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp): Entry point for issues and wiki. Also contains some scripts and sources. <https://xcp-ng.org>
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE): Proxmox VE Helper-Scripts (Community Edition) <https://Helper-Scripts.com>
+- [ccheshirecat/flint](https://github.com/ccheshirecat/flint): Lightweight tool for managing linux virtual machines
 
 ### Storage
 
@@ -208,6 +211,7 @@ Type 1 hypervisors
 - [piku/piku](https://github.com/piku/piku): The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. <http://piku.github.io>
 - [sst/sst](https://github.com/sst/sst): Build full-stack apps on your own infrastructure. <https://sst.dev>
 - [psviderski/uncloud](https://github.com/psviderski/uncloud): A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ <https://uncloud.run>
+- [hunvreus/devpush](https://github.com/hunvreus/devpush): Like Vercel, but open source and for all languages. <https://devpu.sh>
 
 ## K8S
 

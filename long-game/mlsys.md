@@ -221,6 +221,7 @@ General problems
 - 🌟 [apache/tvm](https://github.com/apache/tvm): Open deep learning compiler stack for cpu, gpu and specialized accelerators <https://tvm.apache.org>
   - [inducer/loopy](https://github.com/inducer/loopy): A code generator for array-based code on CPUs and GPUs <http://mathema.tician.de/software/loopy>
   - [wzh99/relay-mlir](https://github.com/wzh99/relay-mlir): An MLIR-based toy DL compiler for TVM Relay.
+  - [apache/tvm-ffi](https://github.com/apache/tvm-ffi): TVM FFI <https://tvm.apache.org/ffi>
 - 🌟 [openai/triton](https://github.com/openai/triton): Development repository for the Triton language and compiler
 - 🌟 [llvm/torch-mlir](https://github.com/llvm/torch-mlir): The Torch-MLIR project aims to provide first class support from the PyTorch ecosystem to the MLIR ecosystem.
 - 🌟 [openxla/xla](https://github.com/openxla/xla): A machine learning compiler for GPUs, CPUs, and ML accelerators

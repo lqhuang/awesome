@@ -213,6 +213,7 @@
 - [USTC Hackergame](https://github.com/USTC-Hackergame)
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender): 中国节假日、调休、补班日历，ICS 格式，可供 IPhone、Google Calendar、Outlook 等客户端订阅，包含节假日 API
 - [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world <https://iptv-org.github.io>
+- [ngo5/IPTV](https://github.com/ngo5/IPTV): IPV4/IPV6 TVBOX 电视直播点播源收集
 - [自己动手写 Git](https://wyag-zh.hanyujie.xyz/): 从零开始写 Git（Write Yourself a Git，简称 wyag） 的中文翻译 | Chinese translation of Write Yourself a Git
 - [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead): the website blocklist I am maintaining
 - [metowolf/vCards](https://github.com/metowolf/vCards): 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
@@ -281,6 +282,7 @@
 - 🌟 [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac): Automatically audit your Mac for basic security hygiene. <https://paretosecurity.com>
 - [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault): A self-hostable, end-to-end encrypted password manager with a built-in alias generator and email server. <https://aliasvault.net>
 - [amark/gun](https://github.com/amark/gun): An open source cybersecurity protocol for syncing decentralized graph data. <https://gun.eco/docs>
+- [Tails](https://tails.net/): is a portable operating system that protects against surveillance and censorship.
 
 ### Browser Fingerprint
 
@@ -291,6 +293,12 @@
 - [zhom/donutbrowser](https://github.com/zhom/donutbrowser): Simple Yet Powerful Browser Orchestrator 🍩 <https://donutbrowser.com>
 - 🌟 [Web fingerprinting is worse than I thought - Bitestring's Blog](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
   - At least, try to set `resistFingerprinting=true` in `about:config` for Firefox
+- [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools): List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
+- [daijro/camoufox](https://github.com/daijro/camoufox): 🦊 Anti-detect browser <https://camoufox.com>
+- [Kameleo](https://kameleo.io/): Kameleo is an anti-detect browser for managing multiple accounts on platforms like Facebook, Amazon, and LinkedIn. Protect your digital identity with advanced fingerprinting technology and proxies to prevent account bans.
+- [GoLogin](https://gologin.com/): Antidetect Browser GoLogin: Manage multiple accounts.
+- [Octo Browser](https://octobrowser.net/): Octo Browser is a fast anti-detect browser for multi-accounting with maximum protection against browser identification.
+- [Ghost Browser](https://ghostbrowser.com/): Ghost Browser helps you focus on the task at hand and get stuff done in a private clutter free environment.
 
 ## Open Source Software: State, Progress and Future
 
