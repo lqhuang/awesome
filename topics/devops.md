@@ -33,6 +33,7 @@
 - [janestreet/iron](https://github.com/janestreet/iron): Jane Street code review system
 - [j178/prefligit](https://github.com/j178/prefligit): ⚡ Better `pre-commit`, re-engineered in Rust
 - [gitlab:chrony/chrony](https://gitlab.com/chrony/chrony): Advanced NTP client and server
+- [GitHub App - DosuBot](https://github.com/apps/dosubot): Dosu is an AI-powered Github maintainer agent. Dosu helps open source maintainers encourage contributors, organize issues, triage bugs, answer questions, and more.
 
 ### Misc linters / formatters
 

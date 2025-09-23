@@ -88,6 +88,7 @@
   - `tokei -e pnpm-lock.yaml`
 - [ashish0kumar/stormy](https://github.com/ashish0kumar/stormy): 🌦️ Minimal, customizable and neofetch-like weather CLI based on rainy
 - 🌟 [kdabir/has](https://github.com/kdabir/has): ✅ checks presence of various command line tools and their versions on the path
+- [aptible/supercronic](https://github.com/aptible/supercronic): Cron for containers
 
 ### JSON/YAML transformation
 

@@ -70,6 +70,24 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [upstash/jstack](https://github.com/upstash/jstack): Build seriously fast, lightweight and end-to-end typesafe Next.js apps <https://jstack.app/>
 - [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare): 🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready with automated CI/CD and generous free tiers.
 
+## Framework
+
+- [denoland/fresh](https://github.com/denoland/fresh): The next-gen web framework. <https://fresh.deno.dev>
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood): The App Framework for Startups <https://redwoodjs.com>
+- [stacksjs/stacks](https://github.com/stacksjs/stacks): ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster. <https://stacksjs.org>
+- [refinedev/refine](https://github.com/refinedev/refine): Build your React-based CRUD applications, without constraints. <https://refine.dev>
+- [alpinejs/alpine](https://github.com/alpinejs/alpine): A rugged, minimal framework for composing JavaScript behavior in your markup. <https://alpinejs.dev>
+- 🌟 [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework <https://waku.gg>
+- [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js): Reactivity without the framework <https://arrow-js.com>
+- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra): Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
+- [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
+- [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js): A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
+- [onejs/one](https://github.com/onejs/one): ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. <https://onestack.dev>
+- [nuejs/nue](https://github.com/nuejs/nue): Standards first web framework taking HTML, CSS, JS, and WASM to their peak <https://nuejs.org>
+- [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation): Routing and navigation for React Native and Web apps <https://reactnavigation.org>
+- [vikejs/vike](https://github.com/vikejs/vike): The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability. <https://vike.dev>
+- [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs): Bleeding-edge React framework powered by Vite <https://rakkasjs.org>
+
 ## CSS
 
 ### collections
@@ -144,22 +162,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ## UI Engineering
 
-### Framework
-
-- [denoland/fresh](https://github.com/denoland/fresh): The next-gen web framework. <https://fresh.deno.dev>
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood): The App Framework for Startups <https://redwoodjs.com>
-- [stacksjs/stacks](https://github.com/stacksjs/stacks): ⚛️ Type-safe full-stack framework for Artisans. Develop modern clouds, apps & framework-agnostic libraries, faster. <https://stacksjs.org>
-- [refinedev/refine](https://github.com/refinedev/refine): Build your React-based CRUD applications, without constraints. <https://refine.dev>
-- [alpinejs/alpine](https://github.com/alpinejs/alpine): A rugged, minimal framework for composing JavaScript behavior in your markup. <https://alpinejs.dev>
-- 🌟 [dai-shi/waku](https://github.com/dai-shi/waku): Minimalistic React Framework <https://waku.gg>
-- [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js): Reactivity without the framework <https://arrow-js.com>
-- [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra): Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
-- [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
-- [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js): A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
-- [onejs/one](https://github.com/onejs/one): ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. <https://onestack.dev>
-- [nuejs/nue](https://github.com/nuejs/nue): Standards first web framework taking HTML, CSS, JS, and WASM to their peak <https://nuejs.org>
-- [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation): Routing and navigation for React Native and Web apps <https://reactnavigation.org>
-
 ### UI Testing
 
 - [UI Testing Handbook](https://storybook.js.org/tutorials/ui-testing-handbook/): A guide that highlights UI testing strategies used by scaled front-end teams. You'll learn to verify everything from visual appearance to logic and even detect integration issues. Along the way, we'll demonstrate how you can reduce bugs by automatically running your tests.
@@ -224,8 +226,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react): Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications. <https://react.keepdesign.io>
 - [cloudscape-design/components](https://github.com/cloudscape-design/components): React components for Cloudscape Design System <https://cloudscape.design/>
 - [tamagui/tamagui](https://github.com/tamagui/tamagui): Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler. <https://tamagui.dev>
-- [magicuidesign/magicui](https://github.com/magicuidesign/magicui): UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. <https://magicui.design>
-- [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui): <https://cult-ui.com/>
 - [mui/base-ui](https://github.com/mui/base-ui): Base UI is an open-source library of accessible, unstyled UI components for React. <https://base-ui.com>
 - [Tailspark](https://tailspark.co/): Beautiful Components & Templates built in Tailwind CSS
 - [Snow Dashboard UI Kit](https://snow.byewind.com): An advanced Dashboard / SaaS UI kit and design system for Figma. It can help you quickly build Dashboard, SaaS and other projects, and has a very good user experience.
@@ -409,6 +409,8 @@ Spinners
 
 - [davidhu2000/react-spinners](https://github.com/davidhu2000/react-spinners): A collection of loading spinner components for react <https://www.davidhu.io/react-spinners>
 - [huozhi/respinner](https://github.com/huozhi/respinner): Pretty and customizable svg spinners for React.js <https://respinner.vercel.app>
+- [loadingio/loading.css](https://github.com/loadingio/loading.css): 40+ Handcrafted CSS animations dedicated for your loaders <https://loading.io/animation/>
+- [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners): A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)
 
 Emoji
 
@@ -531,9 +533,12 @@ Syntax hightlight
 - [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations): React-useanimations is a collection of free animated open source icons for React.js. <http://react.useanimations.com>
 - [shantinghou/interactive-illustrations](https://github.com/shantinghou/interactive-illustrations): <https://svggles.vercel.app/>
 - [juliangarnier/anime](https://github.com/juliangarnier/anime): JavaScript animation engine <https://animejs.com>
+- [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery): A customizable, modular, responsive, lightbox gallery plugin. <https://www.lightgalleryjs.com/>
 
 Concrete animations
 
+- [magicuidesign/magicui](https://github.com/magicuidesign/magicui): UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source. <https://magicui.design>
+- [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui): <https://cult-ui.com/>
 - [barvian/motion-number](https://github.com/barvian/motion-number): A Framer Motion component that transitions, formats, and localizes numbers. <https://motion-number.barvian.me>
 - [uiverse-io/galaxy](https://github.com/uiverse-io/galaxy): The largest Open-Source UI Library! Community-made and free to use. Made with either CSS or Tailwind. <https://Uiverse.io>
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits): An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces. <https://reactbits.dev>
@@ -548,6 +553,9 @@ Concrete animations
 - [HelloQingGuo/react-vivus](https://github.com/HelloQingGuo/react-vivus): ✨ React wrapper for vivus.js ✨ <https://helloqingguo.github.io/react-vivus/>
 - [awesome-reveal/react-awesome-reveal](https://github.com/awesome-reveal/react-awesome-reveal): React components to add reveal animations using the Intersection Observer API and CSS Animations. <https://react-awesome-reveal.morello.dev>
 - [Liquid Glass in the Browser](https://kube.io/blog/liquid-glass-css-svg): Explore how to recreate Apple's stunning Liquid Glass effect using CSS, SVG Displacement Maps, and refraction calculations.
+- [AmanShakya0018/forgeui](https://github.com/AmanShakya0018/forgeui): ForgeUI is a customizable, developer-friendly React component library, enabling rapid UI development with modern design, seamless integration, and reusable components tailored for modern web projects. <https://forgeui.in>
+- [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers): Tasty CSS-animated Hamburgers <https://jonsuh.com/hamburgers>
+- [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake): CSS classes to move your DOM! <https://elrumordelaluz.github.io/csshake/>
 
 ## Functional libraries
 

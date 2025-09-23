@@ -173,6 +173,7 @@
 - [torilabs/ipsec-prometheus-exporter](https://github.com/torilabs/ipsec-prometheus-exporter): Prometheus exporter for strongSwan IPsec
 - [SideStore/StosVPN](https://github.com/SideStore/StosVPN): A VPN that works with SideStore and StikJIT. that supports being offline and much stabler then WireGuard
 - [ethack/docker-vpn](https://github.com/ethack/docker-vpn): Conveniently connect to Cisco AnyConnect or OpenVPN endpoints using a docker container
+- [alebeck/boring](https://github.com/alebeck/boring): The `boring` SSH tunnel manager
 
 ### Warp
 

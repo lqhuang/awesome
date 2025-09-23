@@ -406,6 +406,9 @@ Misc
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users): Ready-to-use and customizable users management for FastAPI <https://fastapi-users.github.io/fastapi-users/>
 - [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc): The python library for real-time communication <https://fastrtc.org/>
 - [python-hyper/wsproto](https://github.com/python-hyper/wsproto): Sans-IO WebSocket protocol implementation <https://wsproto.readthedocs.io/>
+- [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto): Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
+  - [h2o/picohttpparser](https://github.com/h2o/picohttpparser): tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
+  - [h2o/h2o](https://github.com/h2o/h2o): H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server <https://h2o.examp1e.net>
 
 #### Web utils
 

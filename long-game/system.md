@@ -34,6 +34,8 @@
   - `clang -dumpmachine` -> `x86_64-pc-linux-gnu`
 - [The Kernel in the Mind](https://www.linkedin.com/pulse/kernel-mind-moon-hee-lee-miwze/): Understanding Linux Kernel Before Code This isn’t a guide to writing kernel code. It’s an effort to understand how the Linux kernel thinks.
   - [心中的内核 - 在阅读内核代码之前先理解内核](https://cppguide.cn/pages/the-kernel-in-the-mind-contents/)
+- [Latency, Throughput, and Port Usage Information](https://uops.info/index.html): This website provides more than 700,000 pages with detailed latency, throughput, and port usage data for most instructions on many recent x86 microarchitectures.
+- [Memory, Cache, CPU optimization resources.md](https://gist.github.com/ocornut/cb980ea183e848685a36)
 
 ## Compiler
 
@@ -113,6 +115,9 @@
 - [koute/bytehound](https://github.com/koute/bytehound): A memory profiler for Linux.
 - [rubrikinc/wachy](https://github.com/rubrikinc/wachy): A UI for eBPF-based performance debugging
 - [janestreet/magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects and displays high-resolution traces of what a process is doing <https://magic-trace.org>
+- [Intel® VTune™ Profile](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html): Use advanced sampling and profiling methods to quickly analyze code, isolate issues, and deliver performance insight on modern CPUs, GPUs, and FPGAs.
+- [intel/perfmon](https://github.com/intel/perfmon): Intel Performance Monitoring Units (PMUs) <https://perfmon-events.intel.com/>
+  - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools): Intel PMU profiling tools
 - [KDAB/hotspot](https://github.com/KDAB/hotspot): The Linux perf GUI for performance analysis.
 - [twitter/rezolus](https://github.com/twitter/rezolus): Systems performance telemetry
 - [google/perfetto](https://github.com/google/perfetto): Production-grade client-side tracing, profiling, and analysis for complex software systems. <https://www.perfetto.dev>
@@ -125,7 +130,6 @@
 - [bsc-mem/PROFET](https://github.com/bsc-mem/PROFET): Analytical model that quantifies the impact of the main memory on application performance and system power and energy consumption.
 - [intel/pcm](https://github.com/intel/pcm): Intel® Performance Counter Monitor (Intel® PCM)
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
-- [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools): Intel PMU profiling tools
 - [davidmarkclements/0x](https://github.com/davidmarkclements/0x): 🔥 single-command flamegraph profiling 🔥
 - [HewlettPackard/LinuxKI](https://github.com/HewlettPackard/LinuxKI): LinuxKI Toolset (Trace-based performance analysis tool)
 - [indragiek/uniprof](https://github.com/indragiek/uniprof): Universal CPU profiler designed for humans and AI agents <https://uniprof.sh>
@@ -149,6 +153,7 @@
 - [bytecodealliance/registry](https://github.com/bytecodealliance/registry): WebAssembly Registry (Warg)
 - [topheman/webassembly-component-model-experiments](https://github.com/topheman/webassembly-component-model-experiments): WebAssembly Component Model based REPL with sandboxed multi-language plugin system - unified codebase runs in CLI (Rust) and web (TypeScript) <https://topheman.github.io/webassembly-component-model-experiments/>
 - [bytecodealliance/wizer](https://github.com/bytecodealliance/wizer): The WebAssembly Pre-Initializer
+- [tyoma/micro-profiler](https://github.com/tyoma/micro-profiler): Cross-platform low-footprint realtime C/C++ Profiler <https://visualstudiogallery.msdn.microsoft.com/133d5764-b32b-4ec9-8ee8-5546eca64584>
 
 ### The WebAssembly Component Model
 

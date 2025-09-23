@@ -212,14 +212,15 @@
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline): A public release of TimelineBuilder for building personal digital data timelines.
 - [USTC Hackergame](https://github.com/USTC-Hackergame)
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender): 中国节假日、调休、补班日历，ICS 格式，可供 IPhone、Google Calendar、Outlook 等客户端订阅，包含节假日 API
-- [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world <https://iptv-org.github.io>
-- [ngo5/IPTV](https://github.com/ngo5/IPTV): IPV4/IPV6 TVBOX 电视直播点播源收集
 - [自己动手写 Git](https://wyag-zh.hanyujie.xyz/): 从零开始写 Git（Write Yourself a Git，简称 wyag） 的中文翻译 | Chinese translation of Write Yourself a Git
 - [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead): the website blocklist I am maintaining
+- [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master): 《代码随想录》LeetCode 刷题攻略
 - [metowolf/vCards](https://github.com/metowolf/vCards): 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [lvwzhen/medicine](https://github.com/lvwzhen/medicine): 原研药列表 <https://medicine.lvwzhen.com>
+- [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world <https://iptv-org.github.io>
+- [ngo5/IPTV](https://github.com/ngo5/IPTV): IPV4/IPV6 TVBOX 电视直播点播源收集
 - [Public IPTV](https://publiciptv.com/): Collection of Publicly & Free IPTV Channels , Available in the United States.
-- [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master): 《代码随想录》LeetCode 刷题攻略
+- [MoonTechLab/Selene](https://github.com/MoonTechLab/Selene): 一个以 MoonTV v100 版本为后端的 Android/iOS 客户端，针对移动端体验优化
 
 ## Branding
 
@@ -299,6 +300,7 @@
 - [GoLogin](https://gologin.com/): Antidetect Browser GoLogin: Manage multiple accounts.
 - [Octo Browser](https://octobrowser.net/): Octo Browser is a fast anti-detect browser for multi-accounting with maximum protection against browser identification.
 - [Ghost Browser](https://ghostbrowser.com/): Ghost Browser helps you focus on the task at hand and get stuff done in a private clutter free environment.
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp): All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 <https://floorp.app>
 
 ## Open Source Software: State, Progress and Future
 

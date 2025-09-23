@@ -75,6 +75,9 @@
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs): A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox <https://sebastianwessel.github.io/quickjs/>
 - [holepunchto/bare](https://github.com/holepunchto/bare): Small and modular JavaScript runtime for desktop and mobile <https://bare.pears.com>
 - [gnh1201/welsonjs](https://github.com/gnh1201/welsonjs): WelsonJS - Build a Windows app on the Windows built-in JavaScript engine <https://catswords.social/@catswords_oss>
+- 🌟 [just-js/lo](https://github.com/just-js/lo): it's JavaScript Jim, but not as we know it. 👾
+  - [just-js/just](https://github.com/just-js/just): the only javascript runtime to hit no.1 on techempower 🔥 <https://just.billywhizz.io/>
+    - Yep ... It's true, such crazy.
 
 ### Testing
 
@@ -100,6 +103,7 @@
 - [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker): JSON-Schema + fake data generators <http://json-schema-faker.js.org/>
 - [ladjs/supertest](https://github.com/ladjs/supertest): 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API. Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices): Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
+- [nock/nock](https://github.com/nock/nock): HTTP server mocking and expectations library for Node.js
 
 Specific
 
@@ -266,6 +270,7 @@ Specific
 ### Backend
 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm): TypeScript ORM that feels like writing SQL <https://orm.drizzle.team>
+- [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm): TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases. <https://mikro-orm.io>
 - [knex/knex](https://github.com/knex/knex): A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use. <https://knexjs.org/>
 - [yomorun/presencejs](https://github.com/yomorun/presencejs): @yomo/presencejs ⚡️ made realtime web applications edge-aware by YoMo, WebTransport based, provide fallback to WebSocket automatically. <https://presence.js.org>
 - [gajus/slonik](https://github.com/gajus/slonik): A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
@@ -283,6 +288,8 @@ Specific
 - [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest): Sidequest is a modern, scalable background job processor for Node.js applications. <https://sidequestjs.com>
 - [tim-smart/sqlfx](https://github.com/tim-smart/sqlfx): A SQL toolkit for Effect-TS <https://tim-smart.github.io/sqlfx/>
 - [jawj/zapatos](https://github.com/jawj/zapatos): Zero-abstraction Postgres for TypeScript: a non-ORM database library <https://jawj.github.io/zapatos/>
+- [hattipjs/hattip](https://github.com/hattipjs/hattip): Like Express, but for the future
+- [h3js/rou3](https://github.com/h3js/rou3): 🌳 Lightweight and fast rou(ter) for JavaScript
 
 ### format parser / converter
 

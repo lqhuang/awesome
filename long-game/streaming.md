@@ -78,6 +78,7 @@ Streaming Systems
   - [apache/datasketches-python](https://github.com/apache/datasketches-python): Apache datasketches <https://datasketches.apache.org>
   - [apache/datasketches-postgresql](https://github.com/apache/datasketches-postgresql): PostgreSQL extension providing approximate algorithms based on apache/datasketches-cpp <https://datasketches.apache.org>
   - [apache/datasketches-spark](https://github.com/apache/datasketches-spark): Apache datasketches <https://datasketches.apache.org>
+- [artie-labs/transfer](https://github.com/artie-labs/transfer): Database replication platform that leverages change data capture. Stream production data from databases to your data warehouse (Snowflake, BigQuery, Redshift, Databricks) in real-time. <https://artie.com>
 
 ### Streaming Database
 
@@ -131,7 +132,7 @@ Streaming Systems
 - 🌟 [AutoMQ/automq](https://github.com/AutoMQ/automq): A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%. <https://www.automq.com>
 - [seglo/kafka-lag-exporter](https://github.com/seglo/kafka-lag-exporter): Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
 - [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou): The Open source Resource as Code framework for Apache Kafka <https://www.jikkou.io>
-- [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui): Open-Source Web UI for managing Apache Kafka clusters <http://ui.docs.kafbat.io>
+- 🌟 [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui): Open-Source Web UI for managing Apache Kafka clusters <http://ui.docs.kafbat.io>
 - [tansu-io/tansu](https://github.com/tansu-io/tansu): Tansu is an Apache Kafka API compatible broker written in async 🚀 Rust 🦀 <https://tansu.io>
 - [uber/uForwarder](https://github.com/uber/uForwarder): Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
 - [Crystalite/prism](https://github.com/Crystalite/prism): Http to Kafka reactive proxy with auth using Akka

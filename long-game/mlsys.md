@@ -610,3 +610,4 @@ PGM / Probabilistic programming
 - [jax-ml/jax-llm-examples](https://github.com/jax-ml/jax-llm-examples)
   - DeepSeek R1
 - [Lancern/mini-qwen-py](https://github.com/Lancern/mini-qwen-py): A toy implementation of Qwen3 inference
+- [pierrot-lc/jax-gnn](https://github.com/pierrot-lc/jax-gnn): GNN implemented using JAX and Equinox <https://pierrot-lc.dev/posts/2024-09-02_jax-gnn/>

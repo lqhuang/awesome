@@ -292,6 +292,7 @@ Visual stack
 - [SkillSets](https://skillsets.tech/): Discover the most wanted skills by recruiters. Browse skills required for your job position.
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated coding interview preparation materials for busy software engineers <https://www.techinterviewhandbook.org>
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 <https://postiz.com>
+- [shared-recruiting-co/shared-recruiting-co](https://github.com/shared-recruiting-co/shared-recruiting-co): SRC (Shared Recruiting Co.) is an open-source, candidate-centric recruiting platform <https://sharedrecruiting.co>
 
 ### Open Source & Community
 

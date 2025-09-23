@@ -153,6 +153,8 @@ And modern is here now.
 ### Docs
 
 - [jnikula/hawkmoth](https://github.com/jnikula/hawkmoth): Hawkmoth - Sphinx Autodoc for C <https://jnikula.github.io/hawkmoth/>
+- [breathe-doc/breathe](https://github.com/breathe-doc/breathe): ReStructuredText and Sphinx bridge to Doxygen <https://breathe-doc.org>
+- [svenevs/exhale](https://github.com/svenevs/exhale): Automatic C++ library api documentation generation: breathe doxygen in and exhale it out.
 
 ### Profiles
 
@@ -177,12 +179,20 @@ And modern is here now.
 
 - [JacksonAllan/CC](https://github.com/JacksonAllan/CC): A small, usability-oriented generic container library.
 - [stclib/STC](https://github.com/stclib/STC): A modern, user friendly, generic, type-safe and fast C99 container library: String, Vector, Sorted and Unordered Map and Set, Deque, Forward List, Smart Pointers, Bitset and Random numbers.
-- [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers. <https://greg7mdp.github.io/parallel-hashmap>
+- [TheNumbat/rpp](https://github.com/TheNumbat/rpp): Minimal Rust-inspired C++20 STL replacement
+- [jlaumon/Bedrock](https://github.com/jlaumon/Bedrock): Minimal C++20 STL replacement library. Simpler, smaller, and in many cases faster.
 - [ned14/quickcpplib](https://github.com/ned14/quickcpplib): Eliminate all the tedious hassle when making state-of-the-art C++ 14 - 23 libraries!
 - [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp): Abseil Common Libraries (C++) <https://abseil.io>
 - [facebook/folly](https://github.com/facebook/folly): An open-source C++ library developed and used at Facebook. <https://groups.google.com/forum/?fromgroups#!forum/facebook-folly>
 - [mcy/best](https://github.com/mcy/best): The Best Library: a C++ STL replacement
   - [The Best C++ Library · mcyoung](https://mcyoung.xyz/2025/07/14/best/)
+
+## Safer CPP
+
+- [foonathan/type_safe](https://github.com/foonathan/type_safe): Zero overhead utilities for preventing bugs at compile time <https://type_safe.foonathan.net>
+- [rollbear/strong_type](https://github.com/rollbear/strong_type): An additive strong typedef library for C++14/17/20
+- [duneroadrunner/SaferCPlusPlus](https://github.com/duneroadrunner/SaferCPlusPlus): A collection of safe data types that are compatible with, and can substitute for, common unsafe native c++ types
+- [duneroadrunner/scpptool](https://github.com/duneroadrunner/scpptool): scpptool is a command line tool to help enforce a memory and data race safe subset of C++.
 
 ## System programming
 
@@ -194,11 +204,8 @@ And modern is here now.
 - [facebook/CacheLib](https://github.com/facebook/CacheLib): Pluggable in-process caching engine to build and scale high performance services <https://www.cachelib.org>
 - [tcbrindle/flux](https://github.com/tcbrindle/flux): A C++20 library for sequence-orientated programming <https://tristanbrindle.com/flux/>
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
-- [foonathan/type_safe](https://github.com/foonathan/type_safe): Zero overhead utilities for preventing bugs at compile time <https://type_safe.foonathan.net>
 - [randombit/botan](https://github.com/randombit/botan): Cryptography Toolkit <https://botan.randombit.net>
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
-- [TheNumbat/rpp](https://github.com/TheNumbat/rpp): Minimal Rust-inspired C++20 STL replacement
-- [jlaumon/Bedrock](https://github.com/jlaumon/Bedrock): Minimal C++20 STL replacement library. Simpler, smaller, and in many cases faster.
 - [floooh/sokol](https://github.com/floooh/sokol): minimal cross-platform standalone C headers <https://floooh.github.io/sokol-html5>
 - [nothings/stb](https://github.com/nothings/stb): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
 - [libffi/libffi](https://github.com/libffi/libffi): A portable foreign-function interface library. <http://sourceware.org/libffi>
@@ -211,18 +218,22 @@ And modern is here now.
 
 ## Libs
 
-- [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 - [KaHIP/KaHIP](https://github.com/KaHIP/KaHIP): KaHIP -- Karlsruhe HIGH Quality Partitioning. <https://kahip.github.io>
-- [martinus/unordered_dense](https://github.com/martinus/unordered_dense): A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
-- [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
-- [lemire/EWAHBoolArray](https://github.com/lemire/EWAHBoolArray): A compressed bitmap class in C++. <http://lemire.github.io/EWAHBoolArray/>
-- [lewj85/jessesort](https://github.com/lewj85/jessesort): No description, website, or topics provided.
 - [hanickadot/shorty](https://github.com/hanickadot/shorty): No description, website, or topics provided.
-- [MaJerle/lwrb](https://github.com/MaJerle/lwrb): Lightweight generic ring buffer manager library
 - [GNOME/libxml2](https://github.com/GNOME/libxml2): Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2 <https://gitlab.gnome.org/GNOME/libxml2>
 - [microsoft/proxy](https://github.com/microsoft/proxy): Proxy: Next Generation Polymorphism in C++ <https://microsoft.github.io/proxy/docs/specifications.html>
 - [weidai11/cryptopp](https://github.com/weidai11/cryptopp): free C++ class library of cryptographic schemes <https://cryptopp.com>
 - [flanglet/kanzi-cpp](https://github.com/flanglet/kanzi-cpp): Fast lossless data compression in C++
+
+### Data Structures
+
+- [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
+- [MaJerle/lwrb](https://github.com/MaJerle/lwrb): Lightweight generic ring buffer manager library
+- [martinus/unordered_dense](https://github.com/martinus/unordered_dense): A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
+- [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
+- [lemire/EWAHBoolArray](https://github.com/lemire/EWAHBoolArray): A compressed bitmap class in C++. <http://lemire.github.io/EWAHBoolArray/>
+- [lewj85/jessesort](https://github.com/lewj85/jessesort): No description, website, or topics provided.
+- [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers. <https://greg7mdp.github.io/parallel-hashmap>
 
 ### Serde
 
