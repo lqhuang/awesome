@@ -189,13 +189,19 @@
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil): Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI): UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers <https://www.marticliment.com/unigetui/>
 - [meetrevision/playbook](https://github.com/meetrevision/playbook): A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility <https://www.revi.cc>
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas): 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. <https://atlasos.net>
 - [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search): Official repository for Fluent Search, use to report issues or ask for a new feature <https://fluentsearch.net>
 - 🌟 [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar): Everything integration for the Windows taskbar.
 - [fairhopeweb/JunkCtrl](https://github.com/fairhopeweb/JunkCtrl): JunkCTRL
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer): A tool to "Fix" Windows 11
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 - [Duplicate Cleaner](https://www.duplicatecleaner.com/): Find and remove duplicate files with Duplicate Cleaner, the premier free and pro solution.
+
+Distributions
+
+nano11 > AtlasOS ≈ ReviOS > Tiny11 > Win11 LTSC
+
+- [ntdevlabs/nano11](https://github.com/ntdevlabs/nano11): Script to build possibly the most trimmed-down Windows 11 experience.
+- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas): 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. <https://atlasos.net>
 
 ## Developer
 
@@ -300,7 +306,7 @@ SSH
   - similar https://dy.kukutool.com/en
 - [koush/scrypted](https://github.com/koush/scrypted): Scrypted is a high performance video integration and automation platform <https://scrypted.app>
 - [jugeekuz/HomeShare](https://github.com/jugeekuz/HomeShare): No description, website, or topics provided.
-- [git.deuxfleurs.fr - Deuxfleurs/garage](https://git.deuxfleurs.fr/Deuxfleurs/garage): garage - S3-compatible object store for small self-hosted geo-distributed deployments
+- [git.deuxfleurs.fr:Deuxfleurs/garage](https://git.deuxfleurs.fr/Deuxfleurs/garage): garage - S3-compatible object store for small self-hosted geo-distributed deployments
 - [logscore/Nimbus](https://github.com/logscore/Nimbus): An open source alternative to Google Drive, One Drive, iCloud, etc. <https://nimbus-cloud-storage.vercel.app>
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT): The next-generation file converter. Open source, fully local\* and free forever. <https://vert.sh>
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr): fork of overseerr for jellyfin support
@@ -310,6 +316,7 @@ SSH
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet): A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. <https://bitmagnet.io/>
 - [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Follow everything in one place <https://folo.is>
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX): 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+- [iceshrimp.dev:iceshrimp/iceshrimp](https://iceshrimp.dev/iceshrimp/iceshrimp): iceshrimp - YAMF (Yet another Misskey fork) bringing you no-nonsense fixes, features & improvements you actually want since 2023 <https://iceshrimp.dev/>
 
 ### Cloud Disk
 

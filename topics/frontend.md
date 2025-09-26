@@ -87,6 +87,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation): Routing and navigation for React Native and Web apps <https://reactnavigation.org>
 - [vikejs/vike](https://github.com/vikejs/vike): The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability. <https://vike.dev>
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs): Bleeding-edge React framework powered by Vite <https://rakkasjs.org>
+- [jurisjs/juris](https://github.com/jurisjs/juris): JURIS is JavaScript Unified Reactive Interface Solution, the first and only Non-Blocking Reactive Object Framework for the web <https://jurisjs.com>
 
 ## CSS
 
@@ -129,6 +130,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [bigskysoftware/missing](https://github.com/bigskysoftware/missing): The classless-ish CSS library you've been missing <https://missing.style>
 - 🌟 [argyleink/open-props](https://github.com/argyleink/open-props): CSS custom properties to help accelerate adaptive and consistent design. <https://open-props.style>
 - [papercss/papercss](https://github.com/papercss/papercss): The Less Formal CSS Framework <https://getpapercss.com>
+- [cferdinandi/kraken](https://github.com/cferdinandi/kraken): A lightweight, mobile-first boilerplate for front-end web developers. <http://cferdinandi.github.io/kraken>
+- 🌟 [webtui/webtui](https://github.com/webtui/webtui): <https://webtui.ironclad.sh/>
+  - Interesting!
 
 #### CSS in JS
 
@@ -173,6 +177,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 ### Performance Profiles
 
+- [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals): Essential metrics for a healthy site. <https://web.dev/vitals>
 - [instantpage/instant.page](https://github.com/instantpage/instant.page): Make your site’s pages instant in 1 minute and improve your conversion rate by 1% <https://instant.page>
 - [perfsee/perfsee](https://github.com/perfsee/perfsee): a set of tools for measuring and debugging performance of frontend applications <https://perfsee.com>
 - [Zizzamia/perfume.js](https://github.com/Zizzamia/perfume.js): Web performance library for measuring all performance vitals metrics <https://zizzamia.github.io/perfume/>
@@ -449,6 +454,7 @@ Misc
 - [codeberg:chrisn/peaks.js](https://codeberg.org/chrisn/peaks.js): JavaScript UI component for interacting with audio waveforms
 - [emilwidlund/harmony](https://github.com/emilwidlund/harmony): A new kind of color picker for React <https://harmony.sh>
 - [georgedoescode/garden-jamstack-posters](https://github.com/georgedoescode/garden-jamstack-posters): A peculiar little website that uses Eleventy + Netlify + Puppeteer to create generative poster designs <https://garden.georgefrancis.dev>
+- 🌟 [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom): 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016) <https://rpearce.github.io/react-medium-image-zoom/>
 
 #### Just render json in better way
 

@@ -86,6 +86,7 @@ CJK
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans): 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 <https://atelier-anchor.com/typefaces/smiley-sans/>
 - [tonyhuan/GuanKiapTsingKhai](https://github.com/tonyhuan/GuanKiapTsingKhai): 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)及偽直排字型(各單字旋轉 90 度形成直書排版)。
 - [shanleiguang/vRain](https://github.com/shanleiguang/vRain): 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator
+- [wordshub/free-font](https://github.com/wordshub/free-font): 大概是 2020 年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中... <https://wordshub.github.io/free-font/>
 
 ## Web
 

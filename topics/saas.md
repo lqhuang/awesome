@@ -33,3 +33,5 @@
 - [pomdtr/smallweb](https://github.com/pomdtr/smallweb): Your Internet Folder <https://www.smallweb.run>
 - [dnlzro/horizon](https://github.com/dnlzro/horizon): The current sky at your approximate location, rendered as a CSS gradient <https://sky.dlazaro.ca>
 - [cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature): what if signatures were determined by keyboard? <https://signature.cnrad.dev>
+- [git.0x0.st:mia/0x0](https://git.0x0.st/mia/0x0): 0x0 - No-bullshit file hosting and URL shortening service
+  - [Calinou/0x0](https://github.com/Calinou/0x0): curl wrapper script to upload local or remote files to 0x0.st

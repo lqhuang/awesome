@@ -58,6 +58,8 @@
 - [capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust): Cap'n Proto for Rust
 - [deeptir18/cornflakes](https://github.com/deeptir18/cornflakes): A zero-copy serialization library and networking stack.
 - [faasm/faabric](https://github.com/faasm/faabric): Messaging and state layer for distributed serverless applications <https://faabric.readthedocs.io>
+- 🌟 [cloudflare/capnweb](https://github.com/cloudflare/capnweb): JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+  - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/): Cap'n Web is a new open source, JavaScript-native RPC protocol for use in browsers and web servers. It provides the expressive power of Cap'n Proto, but with no schemas and no boilerplate.
 
 ## Actor frameworks
 

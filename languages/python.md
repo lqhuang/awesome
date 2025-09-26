@@ -615,6 +615,7 @@ Misc
 - [dgrunwald/rust-cpython](https://github.com/dgrunwald/rust-cpython): Rust <-> Python bindings
 - [mityax/rustimport](https://github.com/mityax/rustimport): Import Rust source files directly from Python!
 - [cloudflare/stpyv8](https://github.com/cloudflare/stpyv8): Python 3 and JavaScript interoperability. Successor To PyV8 (https://github.com/flier/pyv8)
+- [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV): Pythonic bindings for FFmpeg's libraries. <https://pyav.basswood-io.com/>
 
 ### Command line interface
 
