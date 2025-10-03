@@ -233,6 +233,7 @@ General problems
 - [nod-ai/SHARK-Turbine](https://github.com/nod-ai/SHARK-Turbine): Unified compiler/runtime for interfacing with PyTorch Dynamo.
 - [modularml/mojo](https://github.com/modularml/mojo): The Mojo Programming Language <https://docs.modular.com/mojo>
 - [NVIDIA/tilus](https://github.com/NVIDIA/tilus): Tilus is a tile-level kernel programming language, implemented in Python. <https://nvidia.github.io/tilus/>
+- [SzymonOzog/Penny](https://github.com/SzymonOzog/Penny): Hand-Rolled GPU communications library
 
 ### Operator and Kernel
 
@@ -548,6 +549,7 @@ PGM / Probabilistic programming
 - [XuehaiPan/nvitop](https://github.com/XuehaiPan/nvitop): An interactive NVIDIA-GPU process viewer and beyond, the one-stop solution for GPU process management. <https://nvitop.readthedocs.io/>
 - [Syllo/nvtop](https://github.com/Syllo/nvtop): GPUs process monitoring for AMD, Intel and NVIDIA
 - [msminhas93/nviwatch](https://github.com/msminhas93/nviwatch): NviWatch: A blazingly fast rust based TUI for managing and monitoring NVIDIA GPU processes
+- [kagehq/gpu-kill](https://github.com/kagehq/gpu-kill): Manage your GPUs across NVIDIA, AMD, Intel, and Apple Silicon systems. <https://gpukill.com>
 - [wookayin/gpustat](https://github.com/wookayin/gpustat): 📊 A simple command-line utility for querying and monitoring GPU status
 - [google/fiddle](https://github.com/google/fiddle): Fiddle is a Python-first configuration library particularly well suited to ML applications. Fiddle enables deep configurability of parameters in a program, while allowing configuration to be expressed in readable and maintainable Python code.
 - [fastai/fastcore](https://github.com/fastai/fastcore): Python supercharged for the fastai library <http://fastcore.fast.ai>

@@ -26,6 +26,7 @@
 - [Agda-zh/PLFA-zh](https://github.com/Agda-zh/PLFA-zh): 《编程语言基础：Agda 描述》，Programming Language Foundations in Agda 中文版 <https://agda-zh.github.io/PLFA-zh/>
 - [dspivak/dependent-types](https://github.com/dspivak/dependent-types): dependent-types
 - [Programming Languages: Application and Interpretation](https://www.plai.org/): This is the Web site for Programming Languages: Application and Interpretation, often referred to by its initials as PLAI (pronounce it like "play"). Over the years well over fifty academic institutions (that I know of) have used PLAI.
+- [pfalcon/ssabook](https://github.com/pfalcon/ssabook): Mirror of InriaForge SSABook repository: https://gforge.inria.fr/projects/ssabook/ (was scheduled for retirement at the end of 2020, was still online as of 2021-03, but then gone by 2021-09). <https://pfalcon.github.io/ssabook/latest/>
 
 ### Readings
 
@@ -76,6 +77,7 @@
 - [cu1ch3n/type-inference-zoo](https://github.com/cu1ch3n/type-inference-zoo): 🦖 Implementations of various type inference algorithms. Online interactive playground is available at https://zoo.cuichen.cc/ <https://zoo.cuichen.cc/>
 - [cu1ch3n/typ-how](https://github.com/cu1ch3n/typ-how): A online playground to explore with type Inference algorithms. <https://typ.how>
 - [MPLLang/parallel-ml-bench](https://github.com/MPLLang/parallel-ml-bench): Parallel ML benchmark suite
+- 🌟 [semgrep/semgrep](https://github.com/semgrep/semgrep): Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. <https://semgrep.dev>
 
 ## Effect systems
 

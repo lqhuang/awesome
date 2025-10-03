@@ -330,6 +330,7 @@ OpenTelemetry
 - [typelevel/otel4s](https://github.com/typelevel/otel4s): An OpenTelemetry library for Scala based on Cats-Effect
 - [deeptshukla/play-observability](https://github.com/deeptshukla/play-observability): Opentelemetry with Scala and Play Framework Example
 - [jodersky/ustats](https://github.com/jodersky/ustats): A simple and intuitive metrics collection library for Prometheus.
+- [microprofile/microprofile-telemetry](https://github.com/microprofile/microprofile-telemetry): microprofile telemetry
 
 ### Clients
 

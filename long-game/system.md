@@ -85,6 +85,7 @@
 - [sysprog21/lkmpg](https://github.com/sysprog21/lkmpg): The Linux Kernel Module Programming Guide (updated for 5.0+ kernels) <https://sysprog21.github.io/lkmpg/>
 - 🌟 [dendibakh/perf-book](https://github.com/dendibakh/perf-book): The book "Performance Analysis and Tuning on Modern CPU" <https://book.easyperf.net/perf_book>
 - [tanelpoder/0xtools](https://github.com/tanelpoder/0xtools): 0x.Tools: X-Ray vision for Linux systems <https://tanelpoder.com/posts/xcapture-v3-alpha-ebpf-performance-analysis-with-duckdb/>
+- 🌟 [dzaima/intrinsics-viewer](https://github.com/dzaima/intrinsics-viewer): x86-64, ARM, and RVV intrinsics viewer <https://dzaima.github.io/intrinsics-viewer/>
 
 ## BPF
 

@@ -148,6 +148,7 @@
 - [netbox-community/netbox](https://github.com/netbox-community/netbox): The premiere source of truth powering network automation. Open source under Apache 2. <https://netbox.dev>
 - [FOGProject/fogproject](https://github.com/FOGProject/fogproject): An open source computer cloning & management system <https://fogproject.org>
 - [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek): Simple dashboard for quick access to Docker container web interfaces across multiple hosts
+- [kottster/kottster](https://github.com/kottster/kottster): Instant Node.js admin panel. Secure, self-hosted, and easy to set up <https://kottster.app>
 
 ### Monitoring
 

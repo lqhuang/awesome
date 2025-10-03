@@ -79,6 +79,7 @@ Streaming Systems
   - [apache/datasketches-postgresql](https://github.com/apache/datasketches-postgresql): PostgreSQL extension providing approximate algorithms based on apache/datasketches-cpp <https://datasketches.apache.org>
   - [apache/datasketches-spark](https://github.com/apache/datasketches-spark): Apache datasketches <https://datasketches.apache.org>
 - [artie-labs/transfer](https://github.com/artie-labs/transfer): Database replication platform that leverages change data capture. Stream production data from databases to your data warehouse (Snowflake, BigQuery, Redshift, Databricks) in real-time. <https://artie.com>
+- [liftbridge-io/liftbridge](https://github.com/liftbridge-io/liftbridge): Lightweight, fault-tolerant message streams. <https://liftbridge.io>
 
 ### Streaming Database
 

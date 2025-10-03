@@ -214,6 +214,7 @@
 - [noahshinn/reflexion](https://github.com/noahshinn/reflexion): [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning
 - [MadcowD/ell](https://github.com/MadcowD/ell): A language model programming framework.
 - [JetBrains/junie-guidelines](https://github.com/JetBrains/junie-guidelines): No description, website, or topics provided.
+- [webgptorg/promptbook](https://github.com/webgptorg/promptbook): It's time for a paradigm shift! The future of software is in plain English ✨ <https://ptbk.io>
 
 ### ChatBot UI
 

@@ -55,6 +55,7 @@
 - 🌟 [errsole/errsole.js](https://github.com/errsole/errsole.js): Collect, Store, and Visualize Logs with a Single Module
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): A lightweight Node.js private proxy registry <https://www.verdaccio.org/>
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift): A JavaScript codemod toolkit. <https://jscodeshift.com>
+- [platformatic/massimo](https://github.com/platformatic/massimo): Massimo is an API SDK client and CLI tool for creating clients for remote OpenAPI or GraphQL APIs <https://massimohttp.dev>
 
 ### Bundler
 
@@ -90,20 +91,23 @@
 - [sinonjs/sinon](https://github.com/sinonjs/sinon): Test spies, stubs and mocks for JavaScript. <https://sinonjs.org/>
 - vitest
 - [Chromatic](https://www.chromatic.com/): Ship UIs faster by automating grunt work. Chromatic automates visual & interaction tests for Storybook. Connect CI/CD and Figma workflows to streamline stakeholder sign-off. Generate versioned component docs.
-- [dubzzz/fast-check](https://github.com/dubzzz/fast-check): Property based testing framework for JavaScript (like QuickCheck) written in TypeScript <https://fast-check.dev/>
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch): Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack <https://nightwatchjs.org>
 - 🌟 [mswjs/msw](https://github.com/mswjs/msw): Industry standard API mocking for JavaScript. <https://mswjs.io>
-- [faker-js/faker](https://github.com/faker-js/faker): Generate massive amounts of fake data in the browser and node.js <https://fakerjs.dev>
-- [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
-- 🌟 [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
 - [fastify/light-my-request](https://github.com/fastify/light-my-request): Fake HTTP injection library
-- [wheresrhys/fetch-mock](https://github.com/wheresrhys/fetch-mock): Mock http requests made using fetch <http://www.wheresrhys.co.uk/fetch-mock/>
+- 🌟 [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
 - [avajs/ava](https://github.com/avajs/ava): Node.js test runner that lets you develop with confidence 🚀
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench): 🔎 A simple, tiny and lightweight benchmarking library!
-- [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker): JSON-Schema + fake data generators <http://json-schema-faker.js.org/>
 - [ladjs/supertest](https://github.com/ladjs/supertest): 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API. Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices): Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
+- [wheresrhys/fetch-mock](https://github.com/wheresrhys/fetch-mock): Mock http requests made using fetch <http://www.wheresrhys.co.uk/fetch-mock/>
 - [nock/nock](https://github.com/nock/nock): HTTP server mocking and expectations library for Node.js
+- [tstyche/tstyche](https://github.com/tstyche/tstyche): Everything You Need for Type Testing. <https://tstyche.org>
+
+Fake Data
+
+- [faker-js/faker](https://github.com/faker-js/faker): Generate massive amounts of fake data in the browser and node.js <https://fakerjs.dev>
+- [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
+- [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker): JSON-Schema + fake data generators <http://json-schema-faker.js.org/>
 
 Specific
 
@@ -134,11 +138,13 @@ Specific
 - 🌟 [slevithan/regex](https://github.com/slevithan/regex): Regex template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices
 - 🌟 [es-tooling/module-replacements](https://github.com/es-tooling/module-replacements): A manifest of JS modules and their more modern/active replacements
   - [Module replacements](https://github.com/es-tooling/module-replacements/blob/main/docs/modules/README.md): This is a list of all modules we suggest replacing, along with documentation to suggest alternatives.
+- [codpro2005/ts-regexp](https://github.com/codpro2005/ts-regexp): A RegExp wrapper providing stronger type safety.
 
 ### Parser
 
 - 🌟 [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser, mangler and compressor toolkit for ES6+ <https://terser.org>
 - 🌟 [ohmjs/ohm](https://github.com/ohmjs/ohm): A library and language for building parsers, interpreters, compilers, etc.
+- [sinclairzx81/parsebox](https://github.com/sinclairzx81/parsebox): Parser Combinators in the TypeScript Type System
 
 ### Profile
 
@@ -212,6 +218,7 @@ Specific
 - [kriszyp/cbor-x](https://github.com/kriszyp/cbor-x): Ultra-fast CBOR encoder/decoder with extensions for records and structural cloning
 - [kriszyp/msgpackr](https://github.com/kriszyp/msgpackr): Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]
 - [mtth/avsc](https://github.com/mtth/avsc): Avro for JavaScript ⚡
+- [sam-goodwin/zod-class](https://github.com/sam-goodwin/zod-class): Create a Class from a ZodObject schema in one line
 
 ### SerDe
 
@@ -428,7 +435,7 @@ Deep equal
 - [Ray-D-Song/lexe](https://github.com/Ray-D-Song/lexe): Package your Node.js application into a single executable file, but only 10MB.🔥
 - [humanwhocodes/crosspost](https://github.com/humanwhocodes/crosspost): A JavaScript utility for posting across multiple social networks at once
 
-## Effect system on Typescript
+## Effect system or Type system on Typescript
 
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts): Functional programming in TypeScript
 - [Effect-TS/effect](https://github.com/Effect-TS/effect): A fully-fledged functional effect system for TypeScript with a rich standard library <https://effect-ts.github.io/effect>
@@ -436,3 +443,4 @@ Deep equal
 - [gigobyte/purify](https://github.com/gigobyte/purify): Functional programming library for TypeScript <https://gigobyte.github.io/purify>
 - [Snowflyt/tinyeffect](https://github.com/Snowflyt/tinyeffect): A tiny TypeScript library for handling side effects in a unified way using algebraic effects, offering a type-safe approach for async operations, error handling, dependency injection, and more. <https://github.com/Snowflyt/tinyeffect>
 - [thefrontside/effection](https://github.com/thefrontside/effection): Structured concurrency and effects for JavaScript <https://frontside.com/effection>
+- [dqbd/ts-math-evaluate](https://github.com/dqbd/ts-math-evaluate): Type-level math expression evaluator for TypeScript. <https://ts-math-evaluate.vercel.app/>

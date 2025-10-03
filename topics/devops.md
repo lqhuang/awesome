@@ -57,6 +57,8 @@
 - [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
 - [codacy](https://github.com/codacy): Codacy helps to build effortless code quality and security for developers. Build clean, secure code efficiently and fearlessly with Codacy.
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged): 🚫💩 — Run tasks like formatters and linters against staged git files <https://www.npmjs.com/package/lint-staged>
+- [dqbd/ts-math-evaluate](https://github.com/dqbd/ts-math-evaluate): Type-level math expression evaluator for TypeScript. <https://ts-math-evaluate.vercel.app/>
+- [adrienverge/yamllint](https://github.com/adrienverge/yamllint): A linter for YAML files.
 
 ## Build systems
 
