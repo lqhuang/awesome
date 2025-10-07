@@ -531,6 +531,7 @@ Misc
     - looks great
 - 🌟 [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever): ⏰ Modern datetime library for Python <https://whenever.rtfd.io>
   - [Ten Python datetime pitfalls, and what libraries are (not) doing about it | Arie Bovenberg](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/): It’s no secret that the Python datetime library has its quirks. Not only are there probably more than you think; third-party libraries don’t address most of them! I created a new library to explore what a better datetime library could look like.
+- [dateutil/dateutil](https://github.com/dateutil/dateutil): Useful extensions to the standard Python datetime features
 
 ### Configuration
 

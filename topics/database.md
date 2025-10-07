@@ -12,6 +12,7 @@
 - [kvko/sqlmap-wiki-zhcn](https://github.com/kvko/sqlmap-wiki-zhcn): 可能是最完整的 sqlmap 中文文档。 <https://sqlmap.highlight.ink>
 - [ben-n93/SQL-tips-and-tricks](https://github.com/ben-n93/SQL-tips-and-tricks): SQL tips and tricks
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything): How to reduce complexity and move faster? Just Postgres for everything.
+- [SQLBolt](https://sqlbolt.com/): SQLBolt provides a set of interactive lessons and exercises to help you learn SQL
 
 ### Books
 
@@ -227,6 +228,7 @@ Misc
   - [uber/h3-py](https://github.com/uber/h3-py): Python bindings for H3, a hierarchical hexagonal geospatial indexing system <https://uber.github.io/h3-py>
 - 🌟 [PostgREST/postgrest](https://github.com/PostgREST/postgrest): REST API for any Postgres database <https://postgrest.org>
 - [plv8/pljs](https://github.com/plv8/pljs): PLJS - Javascript Language Plugin for PostgreSQL
+- [darold/pgFormatter](https://github.com/darold/pgFormatter): A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at http://sqlformat.darold.net/
 
 ### SQLite
 
@@ -240,6 +242,7 @@ Misc
 - [erans/pgsqlite](https://github.com/erans/pgsqlite): A PostgreSQL protocol adapter for SQLite databases. This project allows PostgreSQL clients to connect to and query SQLite databases using the PostgreSQL wire protocol.
 - [oldmoe/heistogram_sqlite](https://github.com/oldmoe/heistogram_sqlite): The Heistogram quantile approximation library as a SQLite extension
 - [oldmoe/roaringlite](https://github.com/oldmoe/roaringlite): Roaring Bitmaps extension for SQLite
+- [vectorlitedb/vectorlitedb](https://github.com/vectorlitedb/vectorlitedb): The SQLite for vector embeddings — A simple, embedded vector database that stores everything in a single file.
 
 ### DuckDB
 
@@ -277,7 +280,8 @@ Misc
 
 ### PG
 
-- 🌟 [Vonng/pigsty](https://github.com/Vonng/pigsty): PostgreSQL in Great STYle, Battery-Included Free RDS Alternative! <https://pigsty.cc>
+- 🌟 - [pgsty/pigsty](https://github.com/pgsty/pigsty): Free RDS for PostgreSQL — Pigsty <https://pgsty.com>
+- [vitabaks/autobase](https://github.com/vitabaks/autobase): Automated database platform for PostgreSQL® - Your own DBaaS. <https://autobase.tech>
 - [supabase/postgres](https://github.com/supabase/postgres): Unmodified Postgres with some useful plugins
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
 - 🌟 [supabase/dbdev](https://github.com/supabase/dbdev): Database Package Registry for Postgres <https://database.dev>
@@ -291,6 +295,10 @@ Misc
 - [ardentperf/dsef](https://github.com/ardentperf/dsef): DiffStats and ExplainFull: detailed SQL reports for third party help & support
 - [omnigres/omnigres](https://github.com/omnigres/omnigres): Postgres as a Platform
 - [bensheldon/good_job](https://github.com/bensheldon/good_job): Multithreaded, Postgres-based, Active Job backend for Ruby on Rails. <https://goodjob-demo.herokuapp.com/>
+
+### SQLite
+
+- [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal): Playaround with SQLite internal
 
 ### ERD
 

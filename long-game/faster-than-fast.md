@@ -37,9 +37,10 @@ yyjson
 - [ibireme/yyjson](https://github.com/ibireme/yyjson): The fastest JSON library in C <https://ibireme.github.io/yyjson/doc/doxygen/html/>
   - [TkTech/py_yyjson](https://github.com/TkTech/py_yyjson): Fast and flexible Python JSON parsing (and manipulation!) built on the excellent yyjson project. <http://tkte.ch/py_yyjson/>
 
-## UTF
+## UTF / Strings
 
 - [simdutf/simdutf](https://github.com/simdutf/simdutf): Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension. Part of Node.js, WebKit/Safari, Ladybird, Cloudflare Workers and Bun. <https://simdutf.github.io/simdutf/>
+- [ashvardanian/StringWars](https://github.com/ashvardanian/StringWars): Comparing performance-oriented string-processing libraries for substring search, multi-pattern matching, hashing, edit-distances, sketching, and sorting across CPUs and GPUs in Rust 🦀 and Python 🐍 <https://ashvardanian.com/posts/stringwars-on-gpus/>
 
 ## Speed up Python
 
@@ -56,6 +57,8 @@ yyjson
   - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust): Super-fast float parser in Rust (now part of Rust core) <https://docs.rs/fast-float>
 - [dtolnay/ryu](https://github.com/dtolnay/ryu): Fast floating point to string conversion
 - [lemire/fastrand](https://github.com/lemire/fastrand): Fast random number generation in an interval in Python: Up to 10x faster than random.randint.
+- [fast-pack/FastPFOR](https://github.com/fast-pack/FastPFOR): The FastPFOR C++ library: Fast integer compression
+- [fast-pack/JavaFastPFOR](https://github.com/fast-pack/JavaFastPFOR): A simple integer compression library in Java
 
 ## Rapids AI
 

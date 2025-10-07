@@ -129,6 +129,7 @@
 - [allenv0/AirPosture](https://github.com/allenv0/AirPosture): Turn your AirPods into a posture coach on macOS <https://www.reddit.com/r/macapps/comments/1kztuya/airpods_as_a_posture_coach_on_mac/>
 - 🌟 [rsyncOSX/RsyncUI](https://github.com/rsyncOSX/RsyncUI): A SwiftUI based macOS GUI for rsync. <https://rsyncui.netlify.app/docs/>
 - [cpvalente/ontime](https://github.com/cpvalente/ontime): Free, open-source time keeping for live events <https://www.getontime.no>
+- [RoversX/LaunchNext](https://github.com/RoversX/LaunchNext): Bring your Launchpad back in MacOS26+, highly customizable, powerful, free.
 
 ### Free / Paid
 
@@ -232,12 +233,14 @@ SSH
 - [billchurch/webssh2](https://github.com/billchurch/webssh2): Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty): 🐛 Access your terminal from anywhere via the web. <https://rttys.net>
 - [shell-pool/shpool](https://github.com/shell-pool/shpool): Think tmux, then aim... lower
+- [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal): Re-Connectable secure remote shell <https://mistertea.github.io/EternalTerminal/>
 
 ## CN Related
 
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号 RSS 生成。(前端重构中)
 - [doocs/md](https://github.com/doocs/md): ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 <https://doocs.github.io/md/>
   - [doocs/docker-md](https://github.com/doocs/docker-md): 🐋 doocs/md 项目 的 docker 镜像
+- [lyricat/wechat-format](https://github.com/lyricat/wechat-format): 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML <https://quaily.com/tools/markdown-to-wx/>
 - [tianyaxiang/neurapress](https://github.com/tianyaxiang/neurapress): NeuraPress <https://md.leti.ltd/>
 - [latentcat/mpmath](https://github.com/latentcat/mpmath): 微信公众号公式编辑插件 <https://troyni.com/mpmath>
 - 🌟 [djyde/notepal](https://github.com/djyde/notepal): A simple tool to import/export your book note <https://notepal.randysoft.org>
@@ -360,6 +363,7 @@ NextCloud is crazily BIG now, so I will say no here.
   - focus on SMTP server!
 - 🌟 [foxcpp/maddy](https://github.com/foxcpp/maddy): ✉️ Composable all-in-one mail server. <https://maddy.email>
 - [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail): BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV <http://www.billionmail.com/>
+- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart): All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). <https://stalw.art>
 
 Not OSS:
 

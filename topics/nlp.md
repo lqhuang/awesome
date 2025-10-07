@@ -63,6 +63,7 @@
 - [matsui528/rii](https://github.com/matsui528/rii): Fast and memory-efficient ANN with a subset-search functionality
 - [microsoft/DiskANN](https://github.com/microsoft/DiskANN): Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search
 - [unum-cloud/usearch](https://github.com/unum-cloud/usearch): Smaller & Faster Vector Search Engine for C++, Python, JavaScript, Rust, Java, GoLang, Wolfram <https://unum-cloud.github.io/usearch/>
+  - [ashvardanian/SpaceV](https://github.com/ashvardanian/SpaceV): Billion-scale Semantic Search dataset derived from Microsoft SpaceV for Vector Search benchmarks with smaller subsets <https://github.com/unum-cloud/usearch>
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo): Vector search for humans. <https://www.marqo.ai/>
 - [nmslib/hnswlib](https://github.com/nmslib/hnswlib): Header-only C++/python library for fast approximate nearest neighbors <https://github.com/nmslib/hnswlib>
 - [nmslib/nmslib](https://github.com/nmslib/nmslib): Non-Metric Space Library (NMSLIB): An efficient similarity search library and a toolkit for evaluation of k-NN methods for generic non-metric spaces.

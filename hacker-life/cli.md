@@ -43,7 +43,8 @@
 - [asciinema/agg](https://github.com/asciinema/agg): asciinema gif generator
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli): Share terminal sessions via SVG and CSS
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs): Your CLI home video recorder 📼
-- [ellie/atuin](https://github.com/ellie/atuin): 🐢 Magical shell history <https://atuin.sh>
+- [atuinsh/atuin](https://github.com/atuinsh/atuin): ✨ Magical shell history <https://atuin.sh>
+  - [atuinsh/desktop](https://github.com/atuinsh/desktop): 📖 Runbooks that run <https://atuin.sh>
 - [blicky/ncdu](https://g.blicky.net/ncdu.git): Ncdu (NCurses Disk Usage) is a disk usage analyzer with an ncurses interface. <https://dev.yorhel.nl/ncdu>
 - [dundee/gdu](https://github.com/dundee/gdu): Fast disk usage analyzer with console interface written in Go
 - [lra/mackup](https://github.com/lra/mackup): Keep your application settings in sync (OS X/Linux)
@@ -89,6 +90,7 @@
 - [ashish0kumar/stormy](https://github.com/ashish0kumar/stormy): 🌦️ Minimal, customizable and neofetch-like weather CLI based on rainy
 - 🌟 [kdabir/has](https://github.com/kdabir/has): ✅ checks presence of various command line tools and their versions on the path
 - [aptible/supercronic](https://github.com/aptible/supercronic): Cron for containers
+- [70sh1/eddy](https://github.com/70sh1/eddy): Simple, fast CLI file encryption tool
 
 ### JSON/YAML transformation
 
@@ -104,6 +106,9 @@
 - [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization <https://syncthing.net/>
 - [n0-computer/iroh](https://github.com/n0-computer/iroh): Sync anywhere <https://iroh.computer>
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
+- [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer): Tools for synching and streaming files from Windows to Linux
+  - not maintained anymore
+  - still great example to learn from
 
 ### Watcher
 
@@ -154,3 +159,7 @@
 ## Debugging
 
 - [bach-sh/bach](https://github.com/bach-sh/bach): Bach Testing Framework <https://bach.sh>
+
+## Terminal helpers (Ghosty / iTerm2 / etc.)
+
+- [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders): A repository containing many free shaders to use with ghostty (the terminal)

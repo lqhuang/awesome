@@ -29,8 +29,6 @@
 
 - [ncopa/su-exec](https://github.com/ncopa/su-exec): switch user and group id and exec
 - [tianon/gosu](https://github.com/tianon/gosu): Simple Go-based setuid+setgid+setgroups+exec
-- [krallin/tini](https://github.com/krallin/tini): A tiny but valid `init` for containers
-- [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers <https://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html>
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers): Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. <https://katacontainers.io/ >
 - [google/gvisor](https://github.com/google/gvisor): Application Kernel for Containers <https://gvisor.dev>
 - 🌟 [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
@@ -40,7 +38,6 @@
 - [orsinium-labs/docked](https://github.com/orsinium-labs/docked): A friendly and safe alternative to Dockefile. Write Docker images using the full power of Python. <https://docked.orsinium.dev>
 - [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner): Delete untagged image refs in Google Container Registry or Artifact Registry
 - [uber/kraken](https://github.com/uber/kraken): P2P Docker registry capable of distributing TBs of data in seconds
-- 🌟 [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust): Horust is a supervisor / init system written in rust and designed to run inside containers. <https://federicoponzi.github.io/Horust/>
 - [nestybox/sysbox](https://github.com/nestybox/sysbox): An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. <https://hub.docker.com/r/sickcodes/docker-osx>
 - [agoda-com/macOS-vz-kubelet](https://github.com/agoda-com/macOS-vz-kubelet): Run native macOS workloads on Kubernetes
@@ -57,6 +54,16 @@
 - [jrz/container-shell](https://github.com/jrz/container-shell): Starts and attaches a sandboxed shell using docker with access to the current or project directory
 - 🌟 [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
 - [apple/containerization](https://github.com/apple/containerization): Containerization is a Swift package for running Linux containers on macOS.
+
+#### Init systems
+
+- [krallin/tini](https://github.com/krallin/tini): A tiny but valid `init` for containers
+- [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers <https://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html>
+- [g-pape/runit](https://github.com/g-pape/runit): a UNIX init scheme with service supervision <https://smarden.org/runit/>
+- [skarnet/s6](https://github.com/skarnet/s6): The s6 supervision suite. <https://skarnet.org/software/s6/>
+- [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust): Horust is a supervisor / init system written in rust and designed to run inside containers. <https://federicoponzi.github.io/Horust/>
+- [bitbucket:tildeslash/monit](https://bitbucket.org/tildeslash/monit): Monit is an open source utility for managing and monitoring, processes, programs, files, directories and filesystems on a UNIX system.
+  - [M/Monit Wiki | Configuration Examples](https://mmonit.com/wiki/Monit/ConfigurationExamples)
 
 #### Container ops
 
@@ -87,6 +94,8 @@
   - [containers/prometheus-podman-exporter](https://github.com/containers/prometheus-podman-exporter): Prometheus exporter for podman environments exposing containers, pods, images, volumes and networks information.
   - [containers/containerimage-py](https://github.com/containers/containerimage-py): A python library for interacting with container images and container image registries
   - [containers/podman-tui](https://github.com/containers/podman-tui): Podman Terminal UI
+- [ofkm/arcane](https://github.com/ofkm/arcane): Modern Docker Management, Designed for Everyone <https://arcane.ofkm.dev>
+- [slicer69/sysvinit](https://github.com/slicer69/sysvinit): Classic init software for Linux
 
 ### OS
 
@@ -125,6 +134,8 @@
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard): Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 - [google/crosvm](https://github.com/google/crosvm): The Chrome OS Virtual Machine Monitor - Mirror of https://chromium.googlesource.com/crosvm/crosvm/ <https://crosvm.dev/book/>
 - [libriscv/kvmserver](https://github.com/libriscv/kvmserver): Fast per-request isolation for Linux executables with TinyKVM
+- [ublue-os/bluefin](https://github.com/ublue-os/bluefin): The next generation Linux workstation, designed for reliability, performance, and sustainability. <https://projectbluefin.io>
+- [alvistack/vagrant-debian](https://github.com/alvistack/vagrant-debian): Vagrant Box Packaging for Debian
 
 Type 1 hypervisors
 
@@ -148,6 +159,8 @@ Type 1 hypervisors
 - [ebogdum/callfs](https://github.com/ebogdum/callfs): CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer networks
 - [nohajc/anylinuxfs](https://github.com/nohajc/anylinuxfs): macOS: mount any linux-supported filesystem read/write using NFS and a microVM
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS): ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. <https://www.zerofs.net>
+- [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs): A distributed file system
+- [cxl-micron-reskit/famfs](https://github.com/cxl-micron-reskit/famfs): This is the user space repo for famfs, the fabric-attached memory file system
 
 ### Serverless
 
@@ -212,6 +225,7 @@ Type 1 hypervisors
 - [sst/sst](https://github.com/sst/sst): Build full-stack apps on your own infrastructure. <https://sst.dev>
 - [psviderski/uncloud](https://github.com/psviderski/uncloud): A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ <https://uncloud.run>
 - [hunvreus/devpush](https://github.com/hunvreus/devpush): Like Vercel, but open source and for all languages. <https://devpu.sh>
+- [mrusme/planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...) <https://xn--gckvb8fzb.com>
 
 ## K8S
 
@@ -230,6 +244,7 @@ Type 1 hypervisors
 - [klueska/kind-with-gpus-examples](https://github.com/klueska/kind-with-gpus-examples): No description, website, or topics provided.
 - [alexellis/k3sup](https://github.com/alexellis/k3sup): bootstrap K3s over SSH in < 60s 🚀 <https://github.com/sponsors/alexellis>
 - 🌟 [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray): Deploy a Production Ready Kubernetes Cluster
+- [alvistack/ansible-collection-kubernetes](https://github.com/alvistack/ansible-collection-kubernetes): Ansible collection for deploying Kubernetes
 
 ### Cluster Management (or UIs)
 
@@ -342,6 +357,11 @@ Type 1 hypervisors
 - [zegl/kube-score](https://github.com/zegl/kube-score): Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kubernetes. <https://kube-score.com>
   - `brew install kube-score`
   - `kubectl krew install score`
+- [someengineering/fixinventory](https://github.com/someengineering/fixinventory): Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes. <https://fixinventory.org>
+- [OperantAI/woodpecker](https://github.com/OperantAI/woodpecker): Red Teaming for AI and Cloud <https://operant.ai>
+- [FogSecurity/yes3-scanner](https://github.com/FogSecurity/yes3-scanner): YES3 Scanner: S3 Security Scanner for Access and Ransomware Protection <http://fogsecurity.io>
+- [falcosecurity/falco](https://github.com/falcosecurity/falco): Cloud Native Runtime Security <https://falco.org>
+- [aquasecurity/tracee](https://github.com/aquasecurity/tracee): Linux Runtime Security and Forensics using eBPF <https://aquasecurity.github.io/tracee/latest>
 
 ### Utils
 
@@ -425,7 +445,7 @@ Type 1 hypervisors
   - [haidaraM/ansible-playbook-grapher](https://github.com/haidaraM/ansible-playbook-grapher): A command line tool to create a graph representing your Ansible playbook tasks and roles
   - [willthames/ansible-inventory-grapher](https://github.com/willthames/ansible-inventory-grapher): No description, website, or topics provided.
   - 🌟 [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore): Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools. <https://semaphoreui.com>
-  - [sr.ht - ~cwt/ananta](https://sr.ht/~cwt/ananta/): command-line tool to execute commands on multiple remote hosts
+  - [sr.ht:~cwt/ananta](https://sr.ht/~cwt/ananta/): command-line tool to execute commands on multiple remote hosts
   - [ansible/tox-ansible](https://github.com/ansible/tox-ansible): The tox-ansible plugin dynamically creates a full matrix of python interpreter and ansible-core version environments for running integration, sanity, and unit for an ansible collection both locally and in a Github action. tox virtual environments are leveraged for collection building, collection installation, dependency installation, and testing. <https://ansible.readthedocs.io/projects/tox-ansible/>
   - [ansible/test-playbooks](https://github.com/ansible/test-playbooks): playbook-tests
   - [ansible/pytest-ansible](https://github.com/ansible/pytest-ansible): A pytest plugin that enables the use of ansible in tests, enables the use of pytest as a collection unit test runner, and exposes molecule scenarios through a pytest fixture. <https://ansible.readthedocs.io/projects/pytest-ansible/>
@@ -434,6 +454,7 @@ Type 1 hypervisors
   - [lablabs/ansible-role-rke2](https://github.com/lablabs/ansible-role-rke2): Ansible Role to install RKE2 Kubernetes. <https://galaxy.ansible.com/ui/standalone/roles/lablabs/rke2/>
   - [serversideup/docker-ansible](https://github.com/serversideup/docker-ansible): ⚡️ Run Ansible anywhere with a lightweight and powerful Docker image. <https://hub.docker.com/r/serversideup/ansible>
   - [Testing Ansible roles with Molecule, libvirt (vagrant-libvirt) and QEMU/KVM - TauCeti blog](https://www.tauceti.blog/posts/testing-ansible-roles-with-molecule-libvirt-vagrant-qemu-kvm/): Integrate Ansible role tests with Molecule into an existing role using libvirt + QEMU/KVM
+- [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy): Infrastructure as TypeScript <https://alchemy.run>
 
 ### Services
 

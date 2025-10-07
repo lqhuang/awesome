@@ -43,8 +43,9 @@
 ## Tools
 
 - 🌟 [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. <https://mitmproxy.org>
+- [jeromesegura/fiddleitm](https://github.com/jeromesegura/fiddleitm): Your Swiss Army knife to analyze malicious web traffic based on mitmproxy.- [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks. <https://www.bettercap.org>
+- [dstotijn/hetty](https://github.com/dstotijn/hetty): An HTTP toolkit for security research. <https://hetty.xyz>
 - 🌟 [gojue/ecapture](https://github.com/gojue/ecapture): capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android x86_64/Aarch64. <https://ecapture.cc>
-- [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks. <https://www.bettercap.org>
 - 🌟 [secdev/scapy](https://github.com/secdev/scapy): Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3. <https://scapy.net>
 - [beyondcode/expose](https://github.com/beyondcode/expose): A beautiful, fully open-source, tunneling service - written in pure PHP <https://expose.dev>
 - [traviscross/mtr](https://github.com/traviscross/mtr): Official repository for mtr, a network diagnostic tool <http://www.bitwizard.nl/mtr>
@@ -80,6 +81,9 @@
 - [NagiosEnterprises/nagioscore](https://github.com/NagiosEnterprises/nagioscore): Nagios Core
 - [nitefood/asn](https://github.com/nitefood/asn): ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - [jpr5/ngrep](https://github.com/jpr5/ngrep): ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF f… <https://github.com/jpr5/ngrep>
+- [xykt/NetQuality](https://github.com/xykt/NetQuality): 网络质量检测脚本 - Network Quality Check Script
+- [OWASP/Nettacker](https://github.com/OWASP/Nettacker): Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management <https://owasp.org/nettacker>
+- [t3l3machus/Villain](https://github.com/t3l3machus/Villain): Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them among connected sibling servers (Villain instances running on different machines).
 
 ### Analysis
 
@@ -174,6 +178,7 @@
 - [SideStore/StosVPN](https://github.com/SideStore/StosVPN): A VPN that works with SideStore and StikJIT. that supports being offline and much stabler then WireGuard
 - [ethack/docker-vpn](https://github.com/ethack/docker-vpn): Conveniently connect to Cisco AnyConnect or OpenVPN endpoints using a docker container
 - [alebeck/boring](https://github.com/alebeck/boring): The `boring` SSH tunnel manager
+- [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp): A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-driven world. <https://opennhp.org/>
 
 ### Warp
 

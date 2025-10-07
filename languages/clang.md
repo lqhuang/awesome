@@ -40,6 +40,8 @@ And modern is here now.
   - [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN): Chinese(simplified) translation of famous cmake tutorial Modern CMake. GitHub Pages : https://modern-cmake-cn.github.io/Modern-CMake-zh_CN/
 - 🌟 [Debugging C++ with Visual Studio Code under macOS – Daniel Lemire's blog](https://lemire.me/blog/2025/08/24/debugging-c-with-visual-studio-code-under-macos/): no description found
 - [Keith-S-Thompson/how-to-c-response/blob/master/README.md](https://github.com/Keith-S-Thompson/how-to-c-response/blob/master/README.md):
+- [Practical Guide to Bare Metal C++](https://arobenko.github.io/bare_metal_cpp/)
+  - using C++ in embedded bare metal development.
 
 ### References
 
@@ -141,6 +143,7 @@ And modern is here now.
 
 - 🌟 [catchorg/Catch2](https://github.com/catchorg/Catch2): A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) <https://discord.gg/4CWS9zD>
 - [google/googletest](https://github.com/google/googletest): GoogleTest - Google Testing and Mocking Framework <https://google.github.io/googletest/>
+- [eranpeer/FakeIt](https://github.com/eranpeer/FakeIt): C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
 
 ### Debug
 
@@ -186,6 +189,7 @@ And modern is here now.
 - [facebook/folly](https://github.com/facebook/folly): An open-source C++ library developed and used at Facebook. <https://groups.google.com/forum/?fromgroups#!forum/facebook-folly>
 - [mcy/best](https://github.com/mcy/best): The Best Library: a C++ STL replacement
   - [The Best C++ Library · mcyoung](https://mcyoung.xyz/2025/07/14/best/)
+- [tcbrindle/flux](https://github.com/tcbrindle/flux): A C++20 library for sequence-orientated programming <https://tristanbrindle.com/flux/>
 
 ## Safer CPP
 
@@ -202,7 +206,6 @@ And modern is here now.
 - [scandum/blitsort](https://github.com/scandum/blitsort): Blitsort is an in-place stable adaptive rotate mergesort / quicksort.
 - [Blosc/c-blosc2](https://github.com/Blosc/c-blosc2): A fast, compressed, persistent binary data store library for C. <https://www.blosc.org>
 - [facebook/CacheLib](https://github.com/facebook/CacheLib): Pluggable in-process caching engine to build and scale high performance services <https://www.cachelib.org>
-- [tcbrindle/flux](https://github.com/tcbrindle/flux): A C++20 library for sequence-orientated programming <https://tristanbrindle.com/flux/>
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
 - [randombit/botan](https://github.com/randombit/botan): Cryptography Toolkit <https://botan.randombit.net>
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
@@ -298,6 +301,9 @@ And modern is here now.
 
 - [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp): SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. <http://srombauts.github.io/SQLiteCpp>
 - [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm): ❤️ SQLite ORM light header only library for modern C++
+- [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm): Nift - world's fastest cross-platform open source website generator. <https://nift.dev/>
+- [AbstractXan/Mizi](https://github.com/AbstractXan/Mizi): A simple markdown to website generator written in C++. <https://abstractxan.xyz/site/mizi__site_generator>
+- [felipetavares/bake](https://github.com/felipetavares/bake): Bake is a templated blog generator.
 
 ### Cli
 

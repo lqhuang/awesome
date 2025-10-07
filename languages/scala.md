@@ -208,7 +208,7 @@
   - [Overcoming monorepo challenges with Bazel](https://virtuslab.com/blog/backend/overcoming-monorepo-challenges/): In this article, we will examine common monorepo challenges.
 - [ekrich/sconfig](https://github.com/ekrich/sconfig): Scala configuration library supporting HOCON for Scala, Java, Scala.js, and Scala Native
 
-Do a benchmark (final size while using Scala Native) for them?
+Do a benchmark (for final size while using Scala Native)?
 
 - [vpavkin/dtc](https://github.com/vpavkin/dtc): Provides type classes for datetime values. Works both on JVM & ScalaJS. <https://vpavkin.github.io/dtc/api>
 - [cquiroz/scala-java-time](https://github.com/cquiroz/scala-java-time): Implementation of the `java.time` API in scala. Especially useful for scala.js <http://cquiroz.github.io/scala-java-time/>
@@ -366,6 +366,7 @@ OpenTelemetry
 - [sake92/openapi4s](https://github.com/sake92/openapi4s): openapi4s
 - [Kordyjan/pytanie](https://github.com/Kordyjan/pytanie): Quick and easy library for working with GraphQL queries.
 - 🌟 [TomasMikula/jing](https://github.com/TomasMikula/jing): Typesafe, spec-first APIs without codegen. Just Import 'N' Go!
+- [cornerman/sloth](https://github.com/cornerman/sloth): Type safe RPC in scala
 
 ### CLI
 
@@ -437,6 +438,7 @@ OpenTelemetry
 - [VirtusLab/besom](https://github.com/VirtusLab/besom): Besom - a Pulumi SDK for Scala. Also, incidentally, a broom made of twigs tied round a stick. Brooms and besoms are used for protection, to ward off evil spirits, and cleansing of ritual spaces. <https://virtuslab.github.io/besom/>
   - [VirtusLab/yaga](https://github.com/VirtusLab/yaga): No description, website, or topics provided.
   - [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>
+- [MagentaJohn/FlicFlac](https://github.com/MagentaJohn/FlicFlac): Preparing for AI on FLY.IO
 - [jpablo/graph-explorer](https://github.com/jpablo/graph-explorer): Explore graphs in a visual way <https://graph-explorer.net>
 - [awslabs/deequ](https://github.com/awslabs/deequ): Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 

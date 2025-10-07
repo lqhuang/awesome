@@ -21,6 +21,8 @@
 - [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher): 🔐 Securely share sensitive information with automatic expiration & deletion after a set number of views or duration. Track who, what and when with full audit logs. <https://docs.pwpush.com>
 - 🌟 [openpubkey/opkssh](https://github.com/openpubkey/opkssh): opkssh (OpenPubkey SSH) <https://eprint.iacr.org/2023/296>
+- [CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD): BloodyAD is an Active Directory Privilege Escalation Framework
+- [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
 
 ## Worksuites
 
@@ -226,6 +228,7 @@ Visual stack
 
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs): Grafana Labs' Jsonnet libraries
 - [monitoring-mixins/website](https://github.com/monitoring-mixins/website): Prometheus monitoring mixins <https://monitoring.mixins.dev>
+- [perses/perses](https://github.com/perses/perses): The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come! <https://perses.dev>
 
 ### Benchmark
 
@@ -254,25 +257,30 @@ Visual stack
 - [StrangeBee](https://strangebee.com/): Empowering incident responders worldwide One Case Management Platform for all SOCs, CERTs & CSIRTs
 - [certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR): Fast Incident Response
 
-## Security / Audit
+## Security
 
 - [nemesida-waf/waf-bypass](https://github.com/nemesida-waf/waf-bypass): Check your WAF before an attacker does this one <https://nemesida-waf.com/>
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine): 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 <https://waf-ce.chaitin.cn/>
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb): 🛡️ Make your web services secure by default ! <https://www.bunkerweb.io>
+- 🌟 [alexandreborges/malwoverview](https://github.com/alexandreborges/malwoverview): Malwoverview is a first response tool used for threat hunting and offers intel information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, Malware Bazaar, ThreatFox, Triage, InQuest, VxExchange and IPInfo, and it is also able to scan Android devices against VT. <https://github.com/alexandreborges/malwoverview>
 - [Security-Onion-Solutions/securityonion](https://github.com/Security-Onion-Solutions/securityonion): Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek. <https://securityonion.net>
 - [snort3/snort3](https://github.com/snort3/snort3): Snort++
 - [OSSEC](https://www.ossec.net/): OSSEC is a scalable, multi-platform, open source Host-based Intrusion Detection System (HIDS)
 - [wazuh/wazuh](https://github.com/wazuh/wazuh): Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. <https://wazuh.com/>
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb): 🛡️ Open-source and next-generation Web Application Firewall (WAF) <https://www.bunkerweb.io>
 - 🌟 [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure. <https://goteleport.com>
-- [kunai-project/kunai](https://github.com/kunai-project/kunai): Threat-hunting tool for Linux <https://why.kunai.rocks>
 - [Black Duck](https://www.blackduck.com/): Build high-quality, secure software with application security testing tools and services from Black Duck. We are a Gartner Magic Quadrant Leader in AppSec.
 - [greenbone/docs](https://github.com/greenbone/docs): Documentation for the Greenbone Community Edition <https://greenbone.github.io/docs/>
 - [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex): Cortex: a Powerful Observable Analysis and Active Response Engine <https://strangebee.com/cortex/>
-- 🌟 [google/oss-rebuild](https://github.com/google/oss-rebuild): Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
-- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date): Informative site with EoL dates of everything <https://endoflife.date>
 - [Thinkst Canary](https://canary.tools/): Most companies discover they've been breached way too late. Thinkst Canary fixes this: just 2 minutes of setup; nearly 0 false positives, no ongoing overhead, and you can detect attackers long before they dig in.
   - [Canarytokens](https://canarytokens.org/nest/): Canarytokens is a free tool that helps you discover you’ve been breached by having attackers announce themselves.
+- [blacklanternsecurity/baddns](https://github.com/blacklanternsecurity/baddns): Check subdomains for subdomain takeovers and other DNS tomfoolery
+- [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz): "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
+- [commixproject/commix](https://github.com/commixproject/commix): Automated All-in-One OS Command Injection Exploitation Tool. <https://commixproject.com>
+- [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck): OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. <https://owasp.org/www-project-dependency-check/>
+- [rohitcoder/hawk-eye](https://github.com/rohitcoder/hawk-eye): A powerful scanner to scan your Filesystem, S3, MySQL, Redis, Google Cloud Storage and Firebase storage for PII and sensitive data.
+- [intigriti/misconfig-mapper](https://github.com/intigriti/misconfig-mapper): Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets! <https://bugology.intigriti.io/misconfig-mapper-docs>
+- 🌟 [bitorscanner/Bitor](https://github.com/bitorscanner/Bitor): Bitor Scanning Software <https://bitor.dev>
 
 ## Career
 
@@ -298,6 +306,8 @@ Visual stack
 
 - [github/opensource.guide](https://github.com/github/opensource.guide): 📚 Community guides for open source creators <https://opensource.guide/>
 - [polarsource/polar](https://github.com/polarsource/polar): Polar gives open source maintainers a better and funded backlog based on what drives the most impact within their community. <https://polar.sh>
+- [ossf/scorecard](https://github.com/ossf/scorecard): OpenSSF Scorecard - Security health metrics for Open Source <https://scorecard.dev>
+- [GitHub Docs - About GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
 
 ## Billing
 

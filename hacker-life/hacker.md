@@ -37,6 +37,7 @@
 - 🌟 [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools): Browser extension that generates API specs for any app or website <https://chrome.google.com/webstore/detail/openapi-devtools/jelghndoknklgabjgaeppjhommkkmdii>
 - [gruhn/regex-utils](https://github.com/gruhn/regex-utils): TypeScript library for regex equivalence, intersection, complement and other utilities that go beyond string matching. <https://gruhn.github.io/regex-utils/>
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own second brain and digital garden for free <https://quartz.jzhao.xyz/>
+- [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit): BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an "Awesome Bluetooth Security" way
 
 ### Git
 
@@ -56,6 +57,7 @@
 - 🌟 [jj-vcs/jj](https://github.com/jj-vcs/jj): A Git-compatible VCS that is both simple and powerful <https://jj-vcs.github.io/jj/>
 - 🌟 [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats): ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository. <https://git-quick-stats.sh>
 - [codeberg:forgejo/forgejo](https://codeberg.org/forgejo/forgejo): forgejo - Beyond coding. We forge. <https://forgejo.org/>
+- [radicle:seed.radicle.xyz](https://app.radicle.xyz/nodes/seed.radicle.xyz): Explore the Radicle network
 
 ### Code as Graph
 
@@ -149,6 +151,8 @@
 - [FOGProject/fogproject](https://github.com/FOGProject/fogproject): An open source computer cloning & management system <https://fogproject.org>
 - [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek): Simple dashboard for quick access to Docker container web interfaces across multiple hosts
 - [kottster/kottster](https://github.com/kottster/kottster): Instant Node.js admin panel. Secure, self-hosted, and easy to set up <https://kottster.app>
+- [crocofied/PortNote](https://github.com/crocofied/PortNote): Keep track of used ports
+- [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas): Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning. <https://atlasdemo.vnerd.nl>
 
 ### Monitoring
 
@@ -287,6 +291,11 @@
 - [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault): A self-hostable, end-to-end encrypted password manager with a built-in alias generator and email server. <https://aliasvault.net>
 - [amark/gun](https://github.com/amark/gun): An open source cybersecurity protocol for syncing decentralized graph data. <https://gun.eco/docs>
 - [Tails](https://tails.net/): is a portable operating system that protects against surveillance and censorship.
+- [Ge0rg3/StegOnline](https://github.com/Ge0rg3/StegOnline): A web-based, accessible and open-source port of StegSolve. <https://georgeom.net/StegOnline/>
+  - Extract and Embed data using LSB steganography techniques
+  - [Giotino/stegsolve](https://github.com/Giotino/stegsolve)
+  - https://wiki.bi0s.in/steganography/stegsolve/
+- [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch): 🔍 Search anyone's digital footprint across 300+ websites
 
 ### Browser Fingerprint
 

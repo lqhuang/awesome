@@ -68,7 +68,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [al1abb/invoify](https://github.com/al1abb/invoify): An invoice generator app built using Next.js, Typescript, and Shadcn <https://invoify.vercel.app>
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter): Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. <https://next-saas-start.vercel.app>
 - [upstash/jstack](https://github.com/upstash/jstack): Build seriously fast, lightweight and end-to-end typesafe Next.js apps <https://jstack.app/>
-- [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare): 🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready with automated CI/CD and generous free tiers.
+- [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare): 🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready with automated CI/CD and generous free tiers. <https://deepwiki.com/ifindev/fullstack-next-cloudflare>
 
 ## Framework
 
@@ -310,12 +310,13 @@ List
 - [bvaughn/react-window](https://github.com/bvaughn/react-window): React components for efficiently rendering large lists and tabular data <https://react-window.now.sh/>
 - 🌟 [inokawa/virtua](https://github.com/inokawa/virtua): A zero-config, fast and small (~3kB) virtual list (and grid) component for React, Vue, Solid and Svelte. <https://inokawa.github.io/virtua/>
 
-Table
+Table / Grid
 
 - [TanStack/table](https://github.com/TanStack/table): 🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table <https://tanstack.com/table>
 - [olifolkerd/tabulator](https://github.com/olifolkerd/tabulator): Interactive Tables and Data Grids for JavaScript <http://tabulator.info/>
 - [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid): World's most performant DOM-based web table. <https://fast-grid.vercel.app/>
 - 🌟 [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid): 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support. <https://grid.glideapps.com>
+- [bryntum/grid-performance](https://github.com/bryntum/grid-performance): Performance comparison for JavaScript data grid components
 
 Interactive Grid
 
@@ -354,6 +355,7 @@ Input
 - [beholdr/maska](https://github.com/beholdr/maska): Simple zero-dependency input mask for Vue, Svelte, Alpine.js and vanilla JS. <https://beholdr.github.io/maska/>
 - [goveo/react-international-phone](https://github.com/goveo/react-international-phone): ☎️ International phone input component for React <https://react-international-phone.vercel.app/>
 - [williamcotton/search-input-query](https://github.com/williamcotton/search-input-query): Search input query parser and React component
+- [cchanxzy/react-currency-input-field](https://github.com/cchanxzy/react-currency-input-field): React component for an input field
 
 Select
 
@@ -455,6 +457,7 @@ Misc
 - [emilwidlund/harmony](https://github.com/emilwidlund/harmony): A new kind of color picker for React <https://harmony.sh>
 - [georgedoescode/garden-jamstack-posters](https://github.com/georgedoescode/garden-jamstack-posters): A peculiar little website that uses Eleventy + Netlify + Puppeteer to create generative poster designs <https://garden.georgefrancis.dev>
 - 🌟 [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom): 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016) <https://rpearce.github.io/react-medium-image-zoom/>
+- [bryntum/chronograph](https://github.com/bryntum/chronograph): A reactive state management system with novel and unique properties <https://bryntum.github.io/chronograph/docs/>
 
 #### Just render json in better way
 

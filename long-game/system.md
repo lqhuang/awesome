@@ -59,6 +59,7 @@
 ## Memory allocator
 
 - 🌟 [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a compact general purpose allocator with excellent performance.
+- [MaskRay/mimalloc-lite](https://github.com/MaskRay/mimalloc-lite): mimalloc is a compact general purpose allocator with excellent performance. <https://microsoft.github.io/mimalloc>
 - 🌟 [microsoft/snmalloc](https://github.com/microsoft/snmalloc): Message passing based allocator
 - [google/tcmalloc](https://github.com/google/tcmalloc): TCMalloc is Google's customized implementation of C's `malloc()` and C++'s `operator new` used for memory allocation within our C and C++ code. TCMalloc is a fast, multi-threaded malloc implementation.
 - [foonathan/memory](https://github.com/foonathan/memory): STL compatible C++ memory allocator library using a new RawAllocator concept that is similar to an Allocator but easier to use and write. <https://memory.foonathan.net>
@@ -102,6 +103,9 @@
 - [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace): Monitor DNS queries by host processes using eBPF!
 - [bpfsnoop/bpfsnoop](https://github.com/bpfsnoop/bpfsnoop): Modernized kernel functions, kernel tracepoints and bpf progs tracing tool for the bpf era. <https://bpfsnoop.com>
 - [netblue30/firejail](https://github.com/netblue30/firejail): Linux namespaces and seccomp-bpf sandbox <https://firejail.wordpress.com>
+- [foniod/redbpf](https://github.com/foniod/redbpf): Rust library for building and running BPF/eBPF modules
+- [aya-rs/aya](https://github.com/aya-rs/aya): Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. <https://aya-rs.dev/book>
+- [kunai-project/kunai](https://github.com/kunai-project/kunai): Threat-hunting tool for Linux <https://why.kunai.rocks>
 
 ## Serialization Protocl
 
@@ -134,6 +138,8 @@
 - [davidmarkclements/0x](https://github.com/davidmarkclements/0x): 🔥 single-command flamegraph profiling 🔥
 - [HewlettPackard/LinuxKI](https://github.com/HewlettPackard/LinuxKI): LinuxKI Toolset (Trace-based performance analysis tool)
 - [indragiek/uniprof](https://github.com/indragiek/uniprof): Universal CPU profiler designed for humans and AI agents <https://uniprof.sh>
+- 🌟 [YS-L/flamelens](https://github.com/YS-L/flamelens): Flamegraph viewer in the terminal
+- [microsoft/SysmonForLinux](https://github.com/microsoft/SysmonForLinux): Sysmon for Linux
 
 ## WASM Runtime
 

@@ -181,6 +181,7 @@
 - [circuithub/rel8](https://github.com/circuithub/rel8): Hey! Hey! Can u rel8? <https://rel8.readthedocs.io>
 - [morphismtech/squeal](https://github.com/morphismtech/squeal): Squeal, a deep embedding of SQL in Haskell
 - [well-typed/grapesy](https://github.com/well-typed/grapesy): Native Haskell gRPC client and server based on `http2`
+  - [grapesy: industrial strength gRPC library for Haskell](https://well-typed.com/blog/2025/01/grapesy/)
 - [obsidiansystems/gargoyle](https://github.com/obsidiansystems/gargoyle): A framework for managing daemons from Haskell and libraries for use with postgresql and nix
 
 ## Other good libs
@@ -201,8 +202,6 @@
 - [channable/alfred-margaret](https://github.com/channable/alfred-margaret): Fast Aho-Corasick string searching <https://tech.channable.com/posts/2019-03-13-how-we-made-haskell-search-strings-as-fast-as-rust.html>
 - [chrisdone/hell](https://github.com/chrisdone/hell): Haskell-based shell scripting language
   - [Hell (Haskell shell): Year in Review](https://chrisdone.com/posts/hell-year-in-review-2025/)
-- [well-typed/grapesy](https://github.com/well-typed/grapesy): Native Haskell gRPC client and server based on `http2`
-  - [grapesy: industrial strength gRPC library for Haskell](https://well-typed.com/blog/2025/01/grapesy/)
 - [raehik/binrep](https://github.com/raehik/binrep): Useful, efficient, precise binary schema modelling in Haskell
 - [NorfairKing/cursor](https://github.com/NorfairKing/cursor): Cursor data and manipulation
 - [owensmurray/om-legion](https://github.com/owensmurray/om-legion): Core Legion Framework

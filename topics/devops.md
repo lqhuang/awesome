@@ -322,6 +322,14 @@ Libs
 - [google/osv.dev](https://github.com/google/osv.dev): Open source vulnerability DB and triage service. <https://osv.dev>
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks): Protect and discover secrets using Gitleaks 🔑 <https://gitleaks.io>
 - [google/oss-fuzz](https://github.com/google/oss-fuzz): OSS-Fuzz - continuous fuzzing for open source software. <https://google.github.io/oss-fuzz>
+- [fossas/fossa-cli](https://github.com/fossas/fossa-cli): Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems. <https://fossa.com>
+- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker): Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
+- 🌟 [google/oss-rebuild](https://github.com/google/oss-rebuild): Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date): Informative site with EoL dates of everything <https://endoflife.date>
+- 🌟 [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool): The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with an SBOM or a list of components and versions. <https://cve-bin-tool.readthedocs.io/en/latest/>
+- [safedep/vet](https://github.com/safedep/vet): Protect against malicious open source packages 🤖 <https://safedep.io>
+- [SiriusScan/Sirius](https://github.com/SiriusScan/Sirius): Sirius is an open-source comprehensive vulnerability scanner that leverages community-driven security intelligence and automated penetration testing capabilities.
+- [future-architect/vuls](https://github.com/future-architect/vuls): Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices <https://vuls.io/>
 
 # Testing
 
@@ -359,25 +367,7 @@ Libs
   - archived still good to learn the design
   - [Cram: It's test time](https://bitheap.org/cram/)
 - 🌟 [Jane Street Blog - What if writing tests was a joyful experience?](https://blog.janestreet.com/the-joy-of-expect-tests/)
-
-### API Test
-
-- [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) <https://www.usebruno.com/>
-- 🌟 [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl): Hurl, run and test HTTP requests with plain text. <https://hurl.dev>
-- 🌟 [ducaale/xh](https://github.com/ducaale/xh): Friendly and fast tool for sending HTTP requests
-  - Fast httpie
-- [httpie/desktop](https://github.com/httpie/desktop): 🚀 HTTPie Desktop — cross-platform API testing client for humans. Painlessly test REST, GraphQL, and HTTP APIs. <https://httpie.io>
-- [Kong/insomnia](https://github.com/Kong/insomnia): The open-source, cross-platform API client for GraphQL, REST, WebSockets and gRPC. <https://insomnia.rest>
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch): 👽 Open source API development ecosystem - https://hoppscotch.io <https://hoppscotch.io>
-- [reqable/reqable-app](https://github.com/reqable/reqable-app): Reqable issue track repo <https://reqable.com>
-- [Rapid API](https://rapidapi.com/): previous <https://paw.cloud> <https://rapidapi.com>
-- [testingisdocumenting/znai](https://github.com/testingisdocumenting/znai): Build functional, maintainable, beautiful User Guides with markdown and Znai plugins. Instant pages navigation. Local search. Multiple integrations to work with Python, Java, C++, OpenAPI, etc. Transform "getting started" sections into slideshow for your workshops. Manage multiple documentations with self-deployed znai hub. <https://testingisdocumenting.org/znai>
-- [keploy/keploy](https://github.com/keploy/keploy): Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work! <https://keploy.io>
-- [scalar/scalar](https://github.com/scalar/scalar): Scalar is an open-source API platform: ✨ 1st-Class OpenAPI/Swagger Support <https://scalar.com>
-- [requestly/requestly](https://github.com/requestly/requestly): Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postman, Insomnia, Bruno and Charles Proxy. <https://requestly.com>
-- 🌟 [mountain-loop/yaak](https://github.com/mountain-loop/yaak): The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 <https://yaak.app>
-  - SSE and gRPC
-- 🌟 [mockoon/mockoon](https://github.com/mockoon/mockoon): Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source. <https://mockoon.com>
+- [Syslifters/sysreptor](https://github.com/Syslifters/sysreptor): A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, customize, and automate your pentest reports with ease. <https://docs.sysreptor.com>
 
 ## GitOps
 

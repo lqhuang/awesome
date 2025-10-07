@@ -119,8 +119,6 @@
 - [tikv/minitrace-rust](https://github.com/tikv/minitrace-rust): Extremely fast tracing library for Rust
 - [flamegraph-rs/flamegraph](https://github.com/flamegraph-rs/flamegraph): Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3
 - [jonhoo/inferno](https://github.com/jonhoo/inferno): A Rust port of FlameGraph
-- [foniod/redbpf](https://github.com/foniod/redbpf): Rust library for building and running BPF/eBPF modules
-- [aya-rs/aya](https://github.com/aya-rs/aya): Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. <https://aya-rs.dev/book>
 - [nnethercote/dhat-rs](https://github.com/nnethercote/dhat-rs): Heap profiling and ad hoc profiling for Rust programs.
 - [davidbarsky/tracing-tree](https://github.com/davidbarsky/tracing-tree): Instrument your application with tracing and get tree-structured summaries of your application activity with timing information on the console
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie): An ergonomic and safe syscall interception framework for Linux.
@@ -455,6 +453,7 @@
 - [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs): Rust bindings for the C++ api of PyTorch.
 - [burn-rs/burn](https://github.com/burn-rs/burn): BURN: Burn Unstoppable Rusty Neurons <https://burn-rs.github.io/>
 - [huggingface/candle](https://github.com/huggingface/candle): Minimalist ML framework for Rust
+- [Nonanti/mathcore](https://github.com/Nonanti/mathcore): Symbolic math library and computer algebra system for Rust
 
 ### Clients
 
@@ -466,7 +465,8 @@
 - [foundationdb-rs/foundationdb-rs](https://github.com/foundationdb-rs/foundationdb-rs): FoundationDB Rust client api <https://crates.io/crates/foundationdb>
 - [duckdb/duckdb-rs](https://github.com/duckdb/duckdb-rs): Ergonomic bindings to duckdb for Rust
 - [amqp-rs/lapin](https://github.com/amqp-rs/lapin): AMQP client library in Rust, with a clean, futures based API
-- [MrCroxx/foyer](https://github.com/MrCroxx/foyer): Hybrid in-memory and disk cache in Rust <https://github.com/mrcroxx/foyer>
+- 🌟 [foyer-rs/foyer](https://github.com/foyer-rs/foyer): Hybrid in-memory and disk cache in Rust <https://foyer-rs.github.io/foyer>
+- [s2-streamstore/cachey](https://github.com/s2-streamstore/cachey): Read-through cache for object storage <http://cachey.dev>
 - 🌟 [cloudflare/pingora/tinyufo](https://github.com/cloudflare/pingora/tree/main/tinyufo): TinyUFO is a fast and efficient in-memory cache. It adopts the state-of-the-art S3-FIFO as well as TinyLFU algorithms to achieve high throughput and high hit ratio as the same time.
   - small, lightweight, but efficient and portable
   - Count–min sketch
@@ -480,6 +480,7 @@
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming): A visualization library for Rust
 - [TheDan64/inkwell](https://github.com/TheDan64/inkwell): It's a New Kind of Wrapper for Exposing LLVM (Safely) <https://thedan64.github.io/inkwell/>
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee): ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more! <https://lychee.cli.rs>
+- [Mononofu/kaihan](https://github.com/Mononofu/kaihan): custom static site generator used for https://www.furidamu.org/
 
 ### TUI
 
