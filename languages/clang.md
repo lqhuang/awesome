@@ -180,6 +180,8 @@ And modern is here now.
 
 ## Extra standard libs
 
+### Better STL / libc++
+
 - [JacksonAllan/CC](https://github.com/JacksonAllan/CC): A small, usability-oriented generic container library.
 - [stclib/STC](https://github.com/stclib/STC): A modern, user friendly, generic, type-safe and fast C99 container library: String, Vector, Sorted and Unordered Map and Set, Deque, Forward List, Smart Pointers, Bitset and Random numbers.
 - [TheNumbat/rpp](https://github.com/TheNumbat/rpp): Minimal Rust-inspired C++20 STL replacement
@@ -190,6 +192,14 @@ And modern is here now.
 - [mcy/best](https://github.com/mcy/best): The Best Library: a C++ STL replacement
   - [The Best C++ Library · mcyoung](https://mcyoung.xyz/2025/07/14/best/)
 - [tcbrindle/flux](https://github.com/tcbrindle/flux): A C++20 library for sequence-orientated programming <https://tristanbrindle.com/flux/>
+- [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems. <https://pocoproject.org>
+- [gitlab:GNOME/GLib](https://gitlab.gnome.org/GNOME/glib/): Low-level core library that forms the basis for projects such as GTK and GNOME.
+
+### Better libc
+
+- [rustyrussell/ccan](https://github.com/rustyrussell/ccan): The C Code Archive Network <http://ccodearchive.net/>
+- [apache/apr](https://github.com/apache/apr): Mirror of Apache Portable Runtime
+- [dcreager/libcork](https://github.com/dcreager/libcork): A simple, easily embeddable cross-platform C library <https://libcork.io/>
 
 ## Safer CPP
 

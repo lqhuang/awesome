@@ -13,6 +13,7 @@
 - [Cypress Tips & Tricks](https://cypress.tips/)
 - 🌟 [Maximization/nodejs-toolbox-catalog](https://github.com/Maximization/nodejs-toolbox-catalog): Catalog of categories and libraries for Node.js Toolbox <https://nodejstoolbox.com>
 - [The JavaScript Date Quiz](https://jsdate.wtf/): How well do you know JavaScript's Date class?
+- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices): How to stay safe from NPM supply chain attacks
 
 ## Books
 
@@ -240,7 +241,7 @@ Specific
 - [inikulin/parse5](https://github.com/inikulin/parse5): HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [postalsys/postal-mime](https://github.com/postalsys/postal-mime): Email parser for browser and serverless environments
 - [markedjs/marked](https://github.com/markedjs/marked): A markdown parser and compiler. Built for speed. <https://marked.js.org>
-  - [cure53/DOMPurify](https://github.com/cure53/DOMPurify): DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo: <https://cure53.de/purify>
+- 🌟 [cure53/DOMPurify](https://github.com/cure53/DOMPurify): DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo: <https://cure53.de/purify>
 - [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html): Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
 - [tinyhttp/milliparsec](https://github.com/tinyhttp/milliparsec): 🌌 Tiniest body parser in the universe. Built for modern Node.js <https://npm.im/milliparsec>
 - [tinyhttp/content-type](https://github.com/tinyhttp/content-type): content-type rewrite in TypeScript and ESM
@@ -344,6 +345,7 @@ Specific
 - [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch): Advanced fetch client builder
   - highlights: Validate API responses with `zod`, `valibot` or `arktype`
 - [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch): ⚡ Fetching and realtime data exchange framework. <https://hyperfetch.bettertyped.com/>
+- [fetch-kit/ffetch](https://github.com/fetch-kit/ffetch): TypeScript-first fetch wrapper with configurable timeouts, retries, and circuit-breaker baked in.
 
 ### Clients
 

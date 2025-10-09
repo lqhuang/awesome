@@ -39,6 +39,7 @@
   - although it is already 11 years ago, it is still a good read
   - why not make a Scala 3 version of it?
 - [Welcome to FP Illuminated](https://fpilluminated.org/)
+- - [How to disable significant indentation in Scala](https://gist.github.com/kubukoz/95dc1abd3f5bc028b95a3927d73c4698/): How to disable significant indentation in Scala. GitHub Gist: instantly share code, notes, and snippets.
 
 ### Exercises
 

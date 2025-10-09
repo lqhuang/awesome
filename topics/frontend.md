@@ -393,6 +393,7 @@ Upload
 - [pingdotgg/uploadthing](https://github.com/pingdotgg/uploadthing): File uploads for modern web devs <https://uploadthing.com>
 - [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
 - 🌟 [Nic13Gamer/better-upload](https://github.com/Nic13Gamer/better-upload): Simple and easy file uploads for React. Upload files directly to any S3-compatible service with minimal setup. <https://better-upload.com>
+- [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi): free, open-source file scanner <https://pompelmi.github.io/pompelmi/>
 
 Onboarding
 
@@ -565,6 +566,8 @@ Concrete animations
 - [AmanShakya0018/forgeui](https://github.com/AmanShakya0018/forgeui): ForgeUI is a customizable, developer-friendly React component library, enabling rapid UI development with modern design, seamless integration, and reusable components tailored for modern web projects. <https://forgeui.in>
 - [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers): Tasty CSS-animated Hamburgers <https://jonsuh.com/hamburgers>
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake): CSS classes to move your DOM! <https://elrumordelaluz.github.io/csshake/>
+- 🌟 [paper-design/shaders](https://github.com/paper-design/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper <https://paper.design>
+- [shaders.com](https://shaders.com/): shader magic ✨ for frontend frameworks
 
 ## Functional libraries
 
@@ -670,7 +673,6 @@ Concrete animations
 - [lepture/github-gist](https://github.com/lepture/github-gist): Web component for GitHub Gist <https://lab.lepture.com/github-gist/>
 - [toomuchdesign/react-minimal-pie-chart](https://github.com/toomuchdesign/react-minimal-pie-chart): 🍰 Lightweight but versatile SVG pie/donut charts for React. < 2kB gzipped. <https://toomuchdesign.github.io/react-minimal-pie-chart/index.html>
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts): Performant financial charts built with HTML5 canvas <https://www.tradingview.com/lightweight-charts/>
-- [paper-design/shaders](https://github.com/paper-design/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper <https://paper.design>
 - [konvajs/konva](https://github.com/konvajs/konva): Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. <http://konvajs.org/>
 - [naver/billboard.js](https://github.com/naver/billboard.js): 📊 Re-usable, easy interface JavaScript chart library based on D3.js <https://naver.github.io/billboard.js/>
 

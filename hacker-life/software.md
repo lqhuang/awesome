@@ -246,6 +246,7 @@ SSH
 - 🌟 [djyde/notepal](https://github.com/djyde/notepal): A simple tool to import/export your book note <https://notepal.randysoft.org>
   - export WeBook to Readwise
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成 HTML、Word、CSV 文档永久保存，对聊天记录进行分析生成年度聊天报告
+- [lyricat/wechat-format](https://github.com/lyricat/wechat-format): 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML <https://quaily.com/tools/markdown-to-wx/>
 
 ## Services
 
@@ -318,6 +319,7 @@ SSH
 - [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack): A self hosted media tracker.
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet): A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. <https://bitmagnet.io/>
 - [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Follow everything in one place <https://folo.is>
+- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): RSS reader for macOS and iOS. <https://netnewswire.com/>
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX): 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [iceshrimp.dev:iceshrimp/iceshrimp](https://iceshrimp.dev/iceshrimp/iceshrimp): iceshrimp - YAMF (Yet another Misskey fork) bringing you no-nonsense fixes, features & improvements you actually want since 2023 <https://iceshrimp.dev/>
 

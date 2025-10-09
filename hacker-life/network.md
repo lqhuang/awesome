@@ -156,6 +156,7 @@
   - [Fastest DNS Speed Test - Find Optimal DNS Server | No Install](https://dnsspeedtest.online/): Experience the only web-based DNS Speed Test. Find the fastest DNS server for your location without any installations or downloads.
 - [xxnuo/dns-benchmark](https://github.com/xxnuo/dns-benchmark): dnspy 是一个批量 DNS 服务器基准测试工具，用于本地测量全世界的 DNS 服务器的可访问性和性能。生成可视化图表。dnspy is a bulk DNS server benchmarking tool used to measure the local accessibility and performance of DNS servers worldwide. It generates visual charts. <https://bench.dash.2020818.xyz/>
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists): Lists and configuration for our DNS blocking service
+- [unfrl/dug](https://github.com/unfrl/dug): A global DNS propagation checker that gives pretty output. Written in dotnet core
 
 ## Tunnel
 

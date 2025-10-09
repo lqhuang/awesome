@@ -60,6 +60,7 @@
 - [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub): NVIDIA curated collection of educational resources related to general purpose GPU programming.
 - [HanGuo97/cutedsl-utilities](https://github.com/HanGuo97/cutedsl-utilities): No description, website, or topics provided.
 - [Cute-DSL – Ian’s Blog](https://ianbarber.blog/2025/07/04/cute-dsl/): In May Nvidia shipped CuTe‑DSL, the Python library they teased at GTC earlier in the year that mirrors CUTLASS’s C++ tensor‑layout . Then, at the start of June, the ‑dev label disappeared (so presumably its production ready now). The pitch is simple: Write speed‑of‑light kernels from the comfort of Python. Of course, nothing about CUDA…
+- [flashinfer-ai/cubloaty](https://github.com/flashinfer-ai/cubloaty): a size profiler for cuda binary
 
 ### TPU
 
@@ -613,3 +614,5 @@ PGM / Probabilistic programming
   - DeepSeek R1
 - [Lancern/mini-qwen-py](https://github.com/Lancern/mini-qwen-py): A toy implementation of Qwen3 inference
 - [pierrot-lc/jax-gnn](https://github.com/pierrot-lc/jax-gnn): GNN implemented using JAX and Equinox <https://pierrot-lc.dev/posts/2024-09-02_jax-gnn/>
+
+- [cvxpy/cvxpylayers](https://github.com/cvxpy/cvxpylayers): Differentiable convex optimization layers

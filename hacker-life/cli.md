@@ -91,6 +91,8 @@
 - 🌟 [kdabir/has](https://github.com/kdabir/has): ✅ checks presence of various command line tools and their versions on the path
 - [aptible/supercronic](https://github.com/aptible/supercronic): Cron for containers
 - [70sh1/eddy](https://github.com/70sh1/eddy): Simple, fast CLI file encryption tool
+- [jfernandez/mdserve](https://github.com/jfernandez/mdserve): Fast markdown preview server with live reload and theme support.
+- [joknarf/pgtree](https://github.com/joknarf/pgtree): Unix process hierachy tree for specific processes (mixed pgrep + pstree) <https://joknarf.github.io/joknarf-tools>
 
 ### JSON/YAML transformation
 
@@ -99,6 +101,8 @@
 - [antonmedv/fx](https://github.com/antonmedv/fx): Terminal JSON viewer & processor <https://fx.wtf>
 - [mikefarah/yq](https://github.com/mikefarah/yq): yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor <https://mikefarah.gitbook.io/yq/>
   - not to be confused with kislyuk/yq (python version)
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc): CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts.
+  - great but in Python T_T
 
 ### Syncing
 

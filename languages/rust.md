@@ -123,6 +123,7 @@
 - [davidbarsky/tracing-tree](https://github.com/davidbarsky/tracing-tree): Instrument your application with tracing and get tree-structured summaries of your application activity with timing information on the console
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie): An ergonomic and safe syscall interception framework for Linux.
 - [fast/fastrace](https://github.com/fast/fastrace): A tracing library 10~100x faster than others <https://docs.rs/fastrace/>
+- [pawurb/hotpath](https://github.com/pawurb/hotpath): A simple Rust profiler that shows exactly where your code spends time and allocates
 
 ### Program analysis
 
@@ -147,6 +148,7 @@
 ## Concurrency / Parallelelism
 
 - 🌟 [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam): Tools for concurrent programming in Rust
+  - [frostyplanet/crossfire-rs](https://github.com/frostyplanet/crossfire-rs): A lockless mpmc/mpsc to support async base on crossbeam
 - 🌟 [rayon-rs/rayon](https://github.com/rayon-rs/rayon): Rayon: A data parallelism library for Rust
 - [jonhoo/left-right](https://github.com/jonhoo/left-right): A lock-free, read-optimized, concurrency primitive.
 - [jonhoo/bus](https://github.com/jonhoo/bus): Efficient, lock-free, bounded Rust broadcast channel
@@ -495,6 +497,7 @@
 - [console-rs/indicatif](https://github.com/console-rs/indicatif): A command line progress reporting library for Rust
 - [ad4mx/spinoff](https://github.com/ad4mx/spinoff): 💻 Simple Rust library for displaying spinners in the terminal
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui): Rust library to build rich terminal user interfaces (TUIs) and dashboards
+  - [junkdog/tachyonfx](https://github.com/junkdog/tachyonfx): Effects and animation library for Ratatui applications
 - [rust-cli/anstyle](https://github.com/rust-cli/anstyle): ANSI text styling <https://docs.rs/anstyle>
 - [sigoden/argc](https://github.com/sigoden/argc): Easily create feature-rich CLIs in bash.
 

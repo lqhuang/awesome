@@ -123,6 +123,7 @@
 - [steven-tey/dub](https://github.com/steven-tey/dub): An open-source link shortener with built-in analytics + free custom domains. <https://dub.co>
 - [shlinkio/shlink](https://github.com/shlinkio/shlink): The definitive self-hosted URL shortener <https://shlink.io>
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale): Scalable web analytics you run yourself on Cloudflare <https://counterscale.dev>
+- [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel): Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements. <https://openpanel.dev>
 
 ## CMS
 
@@ -179,3 +180,4 @@
 - [upstash/edge-flags](https://github.com/upstash/edge-flags): Feature flags for serverless functions <https://edge-flags.vercel.app>
 - 🌟 [upstash/ratelimit-js](https://github.com/upstash/ratelimit-js): Rate limiting library for serverless runtimes <https://ratelimit-with-upstash.vercel.app/>
 - [middyjs/middy](https://github.com/middyjs/middy): 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵 <https://middy.js.org>
+- 🌟 [Build your application easily and efficiently with serverless containers | Nathan Peck](https://nathanpeck.com/build-your-application-easily-efficiently-serverless-containers/): I delivered this talk at AWS re:Invent 2022, as part of the serverless containers track. It compares the ease and efficiency of AWS Lambda, AWS App Runner, and AWS Fargate, with a particular focus on the built-in features of each compute model, and how it scales as you receive large amounts of concurrent web traffic.

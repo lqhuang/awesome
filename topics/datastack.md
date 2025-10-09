@@ -55,6 +55,7 @@
   - federated distribute computing?
 - [TobikoData/sqlmesh](https://github.com/TobikoData/sqlmesh): Efficient data transformation and modeling framework that is backwards compatible with dbt. <https://sqlmesh.com>
 - [xorq-labs/xorq](https://github.com/xorq-labs/xorq): deferred computational framework for multi-engine pipelines <https://docs.xorq.dev>
+- [lakehq/sail](https://github.com/lakehq/sail): LakeSail's computation framework with a mission to unify batch processing, stream processing, and compute-intensive AI workloads. <https://lakesail.com>
 
 ## Visualize frontend / BI
 

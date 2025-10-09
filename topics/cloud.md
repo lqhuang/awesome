@@ -348,6 +348,7 @@ Type 1 hypervisors
 - [emberstack/kubernetes-reflector](https://github.com/emberstack/kubernetes-reflector): Custom Kubernetes controller that can be used to replicate secrets, configmaps and certificates.
 - [kyverno/kyverno](https://github.com/kyverno/kyverno): Kubernetes Native Policy Management <https://kyverno.io>
 - [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller): Manage admission policies in your Kubernetes cluster with ease <https://kubewarden.io>
+- [projectcapsule/capsule](https://github.com/projectcapsule/capsule): Multi-tenancy and policy-based framework for Kubernetes. <https://projectcapsule.dev/>
 
 ### Security
 

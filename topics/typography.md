@@ -53,6 +53,7 @@ Mono
 - [googlefonts/googlesans-code](https://github.com/googlefonts/googlesans-code): The Google Sans Code font family
 - [source-foundry/Hack](https://github.com/source-foundry/Hack): A typeface designed for source code <http://sourcefoundry.org/hack/>
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono): Commit Mono is an anonymous and neutral programming typeface. <https://commitmono.com/>
+- [paper-design/paper-mono](https://github.com/paper-design/paper-mono): A beautiful monospace font for design and code by Paper.
 
 Math fonts
 
