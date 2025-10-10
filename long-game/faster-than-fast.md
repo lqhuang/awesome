@@ -14,6 +14,10 @@ Daniel Lemire is dominating this field 😄.
 - [algorithmica-org/algorithmica](https://github.com/algorithmica-org/algorithmica): A computer science textbook <https://algorithmica.org/>
 - [sslotin/amh-code](https://github.com/sslotin/amh-code): Complete implementations from "Algorithms for Modern Hardware" <https://en.algorithmica.org/hpc>
 
+## GOAT
+
+- [google/nsync](https://github.com/google/nsync): nsync is a C library that exports various synchronization primitives, such as mutexes
+
 ## json
 
 > On-Demand parser (DOM based parser)
