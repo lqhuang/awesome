@@ -27,33 +27,31 @@
 
 ### Container
 
-- [ncopa/su-exec](https://github.com/ncopa/su-exec): switch user and group id and exec
-- [tianon/gosu](https://github.com/tianon/gosu): Simple Go-based setuid+setgid+setgroups+exec
-- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers): Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. <https://katacontainers.io/ >
+#### Runtime
+
 - [google/gvisor](https://github.com/google/gvisor): Application Kernel for Containers <https://gvisor.dev>
-- 🌟 [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless): 🥑 Language focused docker images, minus the operating system.
-- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs): Automatically set GOMAXPROCS to match Linux container CPU quota. <https://godoc.org/go.uber.org/automaxprocs>
-- [chainguard-images/images](https://github.com/chainguard-images/images): Public Chainguard Images <https://chainguard.dev/chainguard-images>
-- [orsinium-labs/docked](https://github.com/orsinium-labs/docked): A friendly and safe alternative to Dockefile. Write Docker images using the full power of Python. <https://docked.orsinium.dev>
-- [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner): Delete untagged image refs in Google Container Registry or Artifact Registry
-- [uber/kraken](https://github.com/uber/kraken): P2P Docker registry capable of distributing TBs of data in seconds
 - [nestybox/sysbox](https://github.com/nestybox/sysbox): An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. <https://hub.docker.com/r/sickcodes/docker-osx>
-- [agoda-com/macOS-vz-kubelet](https://github.com/agoda-com/macOS-vz-kubelet): Run native macOS workloads on Kubernetes
-  - [How We Integrated Native macOS Workloads with Kubernetes](https://medium.com/agoda-engineering/how-we-integrated-native-macos-workloads-with-kubernetes-b4d3c14881a0)
+- 🌟 [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+  - [apple/containerization](https://github.com/apple/containerization): Containerization is a Swift package for running Linux containers on macOS.
+
+#### Base images
+
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless): 🥑 Language focused docker images, minus the operating system.
+- [canonical/chisel](https://github.com/canonical/chisel): Chisel is a software tool for carving and cutting Debian packages!
+  - Be able to distroless-like Ubuntu base image
 - 🌟 [slimtoolkit/slim](https://github.com/slimtoolkit/slim): Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- 🌟 [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
-  - alternative of musl for static libc runtime links
-- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc): container image to single executable compiler
-  - how big for the final binary?
-- 🌟 [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker): A minimal Ubuntu base image modified for Docker-friendliness <http://phusion.github.io/baseimage-docker/>
+- [chainguard-images/images](https://github.com/chainguard-images/images): Public Chainguard Images <https://chainguard.dev/chainguard-images>
+- [bitnami/minideb](https://github.com/bitnami/minideb): A small image based on Debian designed for use in containers <https://bitnami.com>
+- [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker): A minimal Ubuntu base image modified for Docker-friendliness <http://phusion.github.io/baseimage-docker/>
+- [phusion/passenger-docker](https://github.com/phusion/passenger-docker): Docker base images for Ruby, Python, Node.js and Meteor web apps
+- [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar): No description or website provided.
+- [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine): No description or website provided.
+- [linuxserver/docker-baseimage-debian](https://github.com/linuxserver/docker-baseimage-debian): Debian Baseimages
+- [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu): No description or website provided.
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. <https://hub.docker.com/r/sickcodes/docker-osx>
 - [dockur/windows](https://github.com/dockur/windows): Windows inside a Docker container.
 - [dockur/windows-arm](https://github.com/dockur/windows-arm): Windows for ARM in a Docker container.
 - [dockur/macos](https://github.com/dockur/macos): macOS inside a Docker container.
-- [jrz/container-shell](https://github.com/jrz/container-shell): Starts and attaches a sandboxed shell using docker with access to the current or project directory
-- 🌟 [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
-- [apple/containerization](https://github.com/apple/containerization): Containerization is a Swift package for running Linux containers on macOS.
 
 #### Init systems
 
@@ -61,41 +59,61 @@
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers <https://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html>
 - [g-pape/runit](https://github.com/g-pape/runit): a UNIX init scheme with service supervision <https://smarden.org/runit/>
 - [skarnet/s6](https://github.com/skarnet/s6): The s6 supervision suite. <https://skarnet.org/software/s6/>
+  - [skarnet/s6-rc](https://github.com/skarnet/s6-rc): A service manager for s6. <https://skarnet.org/software/s6-rc/>
+  - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay): s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
+  - [just-containers/s6-overlay-helpers](https://github.com/just-containers/s6-overlay-helpers): Small binary utilities, specific to s6-overlay
 - [FedericoPonzi/Horust](https://github.com/FedericoPonzi/Horust): Horust is a supervisor / init system written in rust and designed to run inside containers. <https://federicoponzi.github.io/Horust/>
 - [bitbucket:tildeslash/monit](https://bitbucket.org/tildeslash/monit): Monit is an open source utility for managing and monitoring, processes, programs, files, directories and filesystems on a UNIX system.
   - [M/Monit Wiki | Configuration Examples](https://mmonit.com/wiki/Monit/ConfigurationExamples)
+- [slicer69/sysvinit](https://github.com/slicer69/sysvinit): Classic init software for Linux
+
+#### First class tools
+
+- [ncopa/su-exec](https://github.com/ncopa/su-exec): switch user and group id and exec
+- [tianon/gosu](https://github.com/tianon/gosu): Simple Go-based setuid+setgid+setgroups+exec
+- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs): Automatically set GOMAXPROCS to match Linux container CPU quota. <https://godoc.org/go.uber.org/automaxprocs>
+- [jrz/container-shell](https://github.com/jrz/container-shell): Starts and attaches a sandboxed shell using docker with access to the current or project directory
+- [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. <https://containrrr.dev/watchtower>
+- [simonw/alpine-edit](https://github.com/simonw/alpine-edit): Microsoft edit packaged as a Docker container to run on a Mac
+  - `vim` is too big for striped container image, `edit` is a good alternative
+
+#### Registry
+
+- [uber/kraken](https://github.com/uber/kraken): P2P Docker registry capable of distributing TBs of data in seconds
+- [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner): Delete untagged image refs in Google Container Registry or Artifact Registry
+- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui): The simplest and most complete UI for your private registry <https://joxit.dev/docker-registry-ui/>
+- [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter): Fast container image distribution plugin with lazy pulling <https://github.com/containerd/containerd/issues/3731>
+- [containers/skopeo](https://github.com/containers/skopeo): Work with remote images registries - retrieving information, images, signing content
+- 🌟 [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser): 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails. <https://hub.docker.com/r/klausmeyer/docker-registry-browser/>
 
 #### Container ops
 
-- [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. <https://containrrr.dev/watchtower>
+- 🌟 [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
 - [containers/conmon](https://github.com/containers/conmon): An OCI container runtime monitor.
-- [containers/skopeo](https://github.com/containers/skopeo): Work with remote images registries - retrieving information, images, signing content
 - [wagoodman/dive](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
-- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 - [bcicen/ctop](https://github.com/bcicen/ctop): Top-like interface for container metrics <https://ctop.sh/>
-- [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter): Fast container image distribution plugin with lazy pulling <https://github.com/containerd/containerd/issues/3731>
-- 🌟 [amir20/dozzle](https://github.com/amir20/dozzle): Realtime log viewer for docker containers. <https://dozzle.dev/>
-- [louislam/dockge](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager <https://dockge.kuma.pet>
-- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc): container image to single executable compiler
-- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui): The simplest and most complete UI for your private registry <https://joxit.dev/docker-registry-ui/>
-- 🌟 [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser): 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails. <https://hub.docker.com/r/klausmeyer/docker-registry-browser/>
-- [composecraft/composecraft](https://github.com/composecraft/composecraft): Compose craft is a tool to help you manage, edit and share docker compose files in a GUI way.
-- 🌟 [docker/docker-py](https://github.com/docker/docker-py): A Python library for the Docker Engine API <https://docker-py.readthedocs.io/>
-- [crazy-max/diun](https://github.com/crazy-max/diun): Receive notifications when an image is updated on a Docker registry <https://crazymax.dev/diun/>
-- [getwud/wud](https://github.com/getwud/wud): Keep your containers up-to-date! <https://getwud.github.io/wud/>
-- [spegel-org/spegel](https://github.com/spegel-org/spegel): Stateless cluster local OCI registry mirror. <https://spegel.dev>
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko): Build Container Images In Kubernetes
-- [simonw/alpine-edit](https://github.com/simonw/alpine-edit): Microsoft edit packaged as a Docker container to run on a Mac
-  - `vim` is too big for striped container image, `edit` is a good alternative
-- 🌟 [tilt-dev/tilt](https://github.com/tilt-dev/tilt): Define your dev environment as code. For microservice apps on Kubernetes. <https://tilt.dev/>
+- [spegel-org/spegel](https://github.com/spegel-org/spegel): Stateless cluster local OCI registry mirror. <https://spegel.dev>
 - 🌟 [psviderski/unregistry](https://github.com/psviderski/unregistry): Push docker images directly to remote servers without an external registry <https://uncloud.run>
 - [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content <https://distribution.github.io/distribution>
 - Podman
   - [containers/prometheus-podman-exporter](https://github.com/containers/prometheus-podman-exporter): Prometheus exporter for podman environments exposing containers, pods, images, volumes and networks information.
   - [containers/containerimage-py](https://github.com/containers/containerimage-py): A python library for interacting with container images and container image registries
   - [containers/podman-tui](https://github.com/containers/podman-tui): Podman Terminal UI
+
+#### Container utils
+
+- [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
+- [amir20/dozzle](https://github.com/amir20/dozzle): Realtime log viewer for docker containers. <https://dozzle.dev/>
+- [louislam/dockge](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager <https://dockge.kuma.pet>
+- [composecraft/composecraft](https://github.com/composecraft/composecraft): Compose craft is a tool to help you manage, edit and share docker compose files in a GUI way.
+- [orsinium-labs/docked](https://github.com/orsinium-labs/docked): A friendly and safe alternative to Dockefile. Write Docker images using the full power of Python. <https://docked.orsinium.dev>
+- 🌟 [docker/docker-py](https://github.com/docker/docker-py): A Python library for the Docker Engine API <https://docker-py.readthedocs.io/>
+- [crazy-max/diun](https://github.com/crazy-max/diun): Receive notifications when an image is updated on a Docker registry <https://crazymax.dev/diun/>
+- [getwud/wud](https://github.com/getwud/wud): Keep your containers up-to-date! <https://getwud.github.io/wud/>
 - [ofkm/arcane](https://github.com/ofkm/arcane): Modern Docker Management, Designed for Everyone <https://arcane.ofkm.dev>
-- [slicer69/sysvinit](https://github.com/slicer69/sysvinit): Classic init software for Linux
+- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc): container image to single executable compiler
+  - how big for the final binary?
 
 ### OS
 
@@ -129,6 +147,7 @@
   - Create a point-to-point link `flock-sim ptp <path> <machnameA> <ifnameA> <machnameB> <ifnameB>`
   - Does anyone know similar projects with more mature ecosystem?
 - [cloud-hypervisor/cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor): A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security. <https://www.cloudhypervisor.org>
+- [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers): Kata Containers version 2.x repository. Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. <https://katacontainers.io/ >
 - [cirruslabs/vetu](https://github.com/cirruslabs/vetu): Create, publish and virtualize ephemeral Linux VMs with ease
 - [cirruslabs/tart](https://github.com/cirruslabs/tart): macOS and Linux VMs on Apple Silicon to use in CI and other automations <https://tart.run>
 - [cirruslabs/orchard](https://github.com/cirruslabs/orchard): Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
@@ -136,6 +155,8 @@
 - [libriscv/kvmserver](https://github.com/libriscv/kvmserver): Fast per-request isolation for Linux executables with TinyKVM
 - [ublue-os/bluefin](https://github.com/ublue-os/bluefin): The next generation Linux workstation, designed for reliability, performance, and sustainability. <https://projectbluefin.io>
 - [alvistack/vagrant-debian](https://github.com/alvistack/vagrant-debian): Vagrant Box Packaging for Debian
+- [agoda-com/macOS-vz-kubelet](https://github.com/agoda-com/macOS-vz-kubelet): Run native macOS workloads on Kubernetes
+  - [How We Integrated Native macOS Workloads with Kubernetes](https://medium.com/agoda-engineering/how-we-integrated-native-macos-workloads-with-kubernetes-b4d3c14881a0)
 
 Type 1 hypervisors
 
