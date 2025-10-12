@@ -255,20 +255,16 @@ SSH
 - [XPoet/picx](https://github.com/XPoet/picx): 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。 <https://picx.xpoet.cn>
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk): 🌌 自托管评论系统 | Your self-hosted comment system <https://artalk.js.org>
 
-### Self-hosted services
+## Self-hosted services
+
+### Awesome
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A list of Free Software network services and web applications which can be hosted on your own servers
+
+### Apps
+
 - [PikaPods](https://www.pikapods.com/): Instant Open Source App Hosting
 - 🌟 [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone. <https://cal.com>
-- 🌟 [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible <https://docs.rsshub.app>
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark service
-- [knadh/listmonk](https://github.com/knadh/listmonk): High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. <https://listmonk.app>
-- [simple-login/app](https://github.com/simple-login/app): The SimpleLogin back-end <https://simplelogin.io>
-- [microfeed/microfeed](https://github.com/microfeed/microfeed): a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls. <https://www.microfeed.org>
-- [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨ <https://photoprism.app>
-- [immich-app/immich](https://github.com/immich-app/immich): Self-hosted photo and video backup solution directly from your mobile phone. <https://immich.app>
-- [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee): A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. <https://lycheeorg.github.io>
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore): Omnivore is a complete, open source read-it-later solution for people who like reading. <https://omnivore.app>
 - 🌟 [matrix-org/dendrite](https://github.com/matrix-org/dendrite): Dendrite is a second-generation Matrix homeserver written in Go! <https://matrix-org.github.io/dendrite/>
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️ Streaming torrent client for the web <https://webtorrent.io>
 - [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted): Self-hosted version of webtor.io implemented as an all-in-one Docker image
@@ -279,49 +275,58 @@ SSH
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances <https://maybe.co>
 - 🌟 [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. <https://massgrave.dev>
 - [11notes/docker-kms](https://github.com/11notes/docker-kms): Activate any version of Windows and Office, forever
-- [~mlb/linkhut](https://sr.ht/~mlb/linkhut/): linkhut is an open source social bookmarking website. <https://ln.ht/>
 - [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker
-- [ente-io/ente](https://github.com/ente-io/ente): Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos <https://ente.io>
-- [knadh/listmonk](https://github.com/knadh/listmonk): High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. <https://listmonk.app>
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles. <https://linkwarden.app>
 - [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru): 🔮 Screen Guru takes clean screenshot of any websites <https://screen.guru>
 - [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar): No description, website, or topics provided.
-- [~bitfehler/m2dir](https://sr.ht/~bitfehler/m2dir/): M2dir aims to provide a standardized way to store a collection of email messages as files. It is similar to Maildir/Maildir++, but aims to be simpler and more thoroughly specified.
-  - [M2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
-- [bolcom/unFTP](https://github.com/bolcom/unFTP): A FTP(S) server with a couple of twists written in Rust. Follow and talk to us on https://t.me/unftp. Docs on https://unftp.rs
 - [tasks/tasks](https://github.com/tasks/tasks): Bringing Astrid Tasks back from the dead <http://tasks.org>
-- [floccusaddon/floccus](https://github.com/floccusaddon/floccus): ☁️ Sync your bookmarks privately across browsers and devices <https://floccus.org>
 - 🌟 [afadil/wealthfolio](https://github.com/afadil/wealthfolio): A Beautiful Private and Secure Desktop Investment Tracking Application <https://wealthfolio.app>
 - [louisgrasset/touitomamout](https://github.com/louisgrasset/touitomamout): Touitomamout is an easy way to synchronize your Twitter's tweets 🦤 to Mastodon 🦣 and Bluesky post ☁️ (also known as Twitter to Mastodon & Bluesky crossposter) <https://hub.docker.com/r/louisgrasset/touitomamout>
-- [hectorqin/reader](https://github.com/hectorqin/reader): 阅读 3 服务器版，桌面端，iOS 可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点 star，关注一下公众号【假装大佬】❗️ Demo 服务器由于未备案已被关停，建议自行搭建
-- [gedoor/legado](https://github.com/gedoor/legado): Legado 3.0 Book Reader with powerful controls & full functions❤️ 阅读 3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [workadventure/workadventure](https://github.com/workadventure/workadventure): A collaborative web application (virtual office) presented as a 16-bit RPG video game <https://workadventu.re>
   - [workadventure/awesome-workadventure](https://github.com/workadventure/awesome-workadventure): A curated list of awesome resources developed by the community related to WorkAdventure
 - [HermanMartinus/bearblog](https://github.com/HermanMartinus/bearblog): Free, no-nonsense, super fast blogging.
+- 🌟 [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
+- 🌟 [pavlobu/deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work! <https://deskreen.com>
+- [wger-project/wger](https://github.com/wger-project/wger): Self hosted FLOSS fitness/workout, nutrition and weight tracker <https://wger.de>
+- 🌟 [imputnet/cobalt](https://github.com/imputnet/cobalt): best way to save what you love <https://cobalt.tools>
+  - similar https://dy.kukutool.com/en
+- [git.deuxfleurs.fr:Deuxfleurs/garage](https://git.deuxfleurs.fr/Deuxfleurs/garage): garage - S3-compatible object store for small self-hosted geo-distributed deployments
+- [VERT-sh/VERT](https://github.com/VERT-sh/VERT): The next-generation file converter. Open source, fully local\* and free forever. <https://vert.sh>
+- [Flomp/wanderer](https://github.com/Flomp/wanderer): wanderer is a self-hosted trail database. Save your adventures! <https://wanderer.to>
+- [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool): 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database. <https://workout.cool>
+- [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet): A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. <https://bitmagnet.io/>
+- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+- [iceshrimp.dev:iceshrimp/iceshrimp](https://iceshrimp.dev/iceshrimp/iceshrimp): iceshrimp - YAMF (Yet another Misskey fork) bringing you no-nonsense fixes, features & improvements you actually want since 2023 <https://iceshrimp.dev/>
+
+### Media
+
+- [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨ <https://photoprism.app>
+- [immich-app/immich](https://github.com/immich-app/immich): Self-hosted photo and video backup solution directly from your mobile phone. <https://immich.app>
+- [LycheeOrg/Lychee](https://github.com/LycheeOrg/Lychee): A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos. <https://lycheeorg.github.io>
+- [ente-io/ente](https://github.com/ente-io/ente): Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos <https://ente.io>
+- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack): A self hosted media tracker.
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr): fork of overseerr for jellyfin support
+- [koush/scrypted](https://github.com/koush/scrypted): Scrypted is a high performance video integration and automation platform <https://scrypted.app>
+
+### Reader / RSS / Bookmarks
+
+- 🌟 [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub): 🍰 Everything is RSSible <https://docs.rsshub.app>
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding): Self-hosted bookmark service
+- 🌟 [knadh/listmonk](https://github.com/knadh/listmonk): High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app. <https://listmonk.app>
+- [microfeed/microfeed](https://github.com/microfeed/microfeed): a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls. <https://www.microfeed.org>
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore): Omnivore is a complete, open source read-it-later solution for people who like reading. <https://omnivore.app>
+- [~mlb/linkhut](https://sr.ht/~mlb/linkhut/): linkhut is an open source social bookmarking website. <https://ln.ht/>
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles. <https://linkwarden.app>
+- [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr): A simple, self-hosted service to keep track of your personal library 📚 <https://demo.booklogr.app>
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus): ☁️ Sync your bookmarks privately across browsers and devices <https://floccus.org>
+- [hectorqin/reader](https://github.com/hectorqin/reader): 阅读 3 服务器版，桌面端，iOS 可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点 star，关注一下公众号【假装大佬】❗️ Demo 服务器由于未备案已被关停，建议自行搭建
+- [gedoor/legado](https://github.com/gedoor/legado): Legado 3.0 Book Reader with powerful controls & full functions❤️ 阅读 3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - 🌟 [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader): A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web <https://koodoreader.com>
 - [chrox/readest](https://github.com/chrox/readest): Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. <https://readest.com>
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita): Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. <http://www.kavitareader.com>
-- 🌟 [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
-- 🌟 [pavlobu/deskreen](https://github.com/pavlobu/deskreen): Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work! <https://deskreen.com>
 - [Storyteller Docs | Storyteller](https://smoores.gitlab.io/storyteller/): A self-hosted platform for automatically aligning ebooks and audiobooks.
-- [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr): A simple, self-hosted service to keep track of your personal library 📚 <https://demo.booklogr.app>
-- [wger-project/wger](https://github.com/wger-project/wger): Self hosted FLOSS fitness/workout, nutrition and weight tracker <https://wger.de>
-- [imputnet/cobalt](https://github.com/imputnet/cobalt): best way to save what you love <https://cobalt.tools>
-  - similar https://dy.kukutool.com/en
-- [koush/scrypted](https://github.com/koush/scrypted): Scrypted is a high performance video integration and automation platform <https://scrypted.app>
-- [jugeekuz/HomeShare](https://github.com/jugeekuz/HomeShare): No description, website, or topics provided.
-- [git.deuxfleurs.fr:Deuxfleurs/garage](https://git.deuxfleurs.fr/Deuxfleurs/garage): garage - S3-compatible object store for small self-hosted geo-distributed deployments
-- [logscore/Nimbus](https://github.com/logscore/Nimbus): An open source alternative to Google Drive, One Drive, iCloud, etc. <https://nimbus-cloud-storage.vercel.app>
-- [VERT-sh/VERT](https://github.com/VERT-sh/VERT): The next-generation file converter. Open source, fully local\* and free forever. <https://vert.sh>
-- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr): fork of overseerr for jellyfin support
-- [Flomp/wanderer](https://github.com/Flomp/wanderer): wanderer is a self-hosted trail database. Save your adventures! <https://wanderer.to>
-- [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool): 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database. <https://workout.cool>
-- [FuzzyGrim/Yamtrack](https://github.com/FuzzyGrim/Yamtrack): A self hosted media tracker.
-- [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet): A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. <https://bitmagnet.io/>
-- [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Follow everything in one place <https://folo.is>
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): RSS reader for macOS and iOS. <https://netnewswire.com/>
-- [C4illin/ConvertX](https://github.com/C4illin/ConvertX): 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-- [iceshrimp.dev:iceshrimp/iceshrimp](https://iceshrimp.dev/iceshrimp/iceshrimp): iceshrimp - YAMF (Yet another Misskey fork) bringing you no-nonsense fixes, features & improvements you actually want since 2023 <https://iceshrimp.dev/>
+- [Lighthouse - The feed reader for finding actionable content](https://lighthouseapp.io/blog/feed-reader-deep-dive): A reimagined RSS feed reader, optimized for people who are serious, intentional, and proactive about their content consumption.
+- [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Follow everything in one place <https://folo.is>
 
 ### Cloud Disk
 
@@ -337,9 +342,14 @@ NextCloud is crazily BIG now, so I will say no here.
 - [cs3org/reva](https://github.com/cs3org/reva): WebDAV/gRPC/HTTP high performance server to link high level clients to storage backends <https://reva.link>
 - [9001/copyparty](https://github.com/9001/copyparty): Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [Forceu/Gokapi](https://github.com/Forceu/Gokapi): Lightweight selfhosted Firefox Send alternative without public upload. AWS S3 supported.
+- [logscore/Nimbus](https://github.com/logscore/Nimbus): An open source alternative to Google Drive, One Drive, iCloud, etc. <https://nimbus-cloud-storage.vercel.app>
+- [jugeekuz/HomeShare](https://github.com/jugeekuz/HomeShare): HomeShare - A File Server in your Home PC ⚡
+- [bolcom/unFTP](https://github.com/bolcom/unFTP): A FTP(S) server with a couple of twists written in Rust. Follow and talk to us on https://t.me/unftp. Docs on https://unftp.rs
 
 ### Email
 
+- [srht:bitfehler/m2dir](https://sr.ht/~bitfehler/m2dir/): M2dir aims to provide a standardized way to store a collection of email messages as files. It is similar to Maildir/Maildir++, but aims to be simpler and more thoroughly specified.
+  - [M2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized): mailcow: dockerized - 🐮 + 🐋 = 💕 <https://mailcow.email/>
 - [mjl-/mox](https://github.com/mjl-/mox): modern full-featured open source secure mail server for low-maintenance self-hosted email
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail): The Roundcube Webmail suite <https://roundcube.net>

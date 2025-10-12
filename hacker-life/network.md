@@ -295,4 +295,4 @@ STUN / TURN / ICE
 - [Ping | Ping.Sx](https://ping.sx/ping): Ping any server from 131 global locations in parallel.
 - [Check My NAT](https://www.checkmynat.com/): Online Service for NAT Type Detecting
 - [dsgnr/portchecker.io](https://github.com/dsgnr/portchecker.io): portchecker.io is a free online utility to check the port status of a given hostname or IP address. <https://portchecker.io>
-- [Browser Fingerprint Detector | Device Tracking Detection Tool | Golden Owl AI - OSINT](https://fingerprint.goldenowl.ai/): Advanced Browser Fingerprint Detector by Golden Owl OSINT. Detect device tracking, analyze your digital footprint, check uniqueness score, and protect your privacy online. Free browser fingerprint test tool for security researchers and privacy enthusiasts.
+- [WebBrowserTools](https://webbrowsertools.com/): The community of open-source projects to help improve the privacy and security of your online appearance
