@@ -63,7 +63,6 @@
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat): Implementation of Nougat Neural Optical Understanding for Academic Documents <https://facebookresearch.github.io/nougat/>
 - [stacks/stacks-project](https://github.com/stacks/stacks-project): Repository for the Stacks Project <http://stacks.math.columbia.edu>
 - [uemurax/morg](https://github.com/uemurax/morg): Organize mathematical thoughts
-- [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex): Make Zotero effective for us LaTeX holdouts <https://retorque.re/zotero-better-bibtex/>
 
 ## Tech/Paper writting & Press print
 
@@ -95,6 +94,7 @@
 - [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips): Tips for Writing a Research Paper using LaTeX
 - [TeXipedia](https://www.texipedia.com/): Find LaTeX symbols fast
 - [NanoMichael/MicroTeX](https://github.com/NanoMichael/MicroTeX): A dynamic, cross-platform, and embeddable LaTeX rendering library
+- [michael-brade/LaTeX.js](https://github.com/michael-brade/LaTeX.js): JavaScript LaTeX to HTML5 translator <https://latex.js.org>
 
 ### Latex Templates
 
@@ -135,6 +135,8 @@
 - [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style): GB/T 7714-2015 BibTeX Style
 - [urschrei/pyzotero](https://github.com/urschrei/pyzotero): Pyzotero: a Python client for the Zotero API <https://pyzotero.readthedocs.org>
 - 🌟 [FlamingTempura/bibtex-tidy](https://github.com/FlamingTempura/bibtex-tidy): Cleaner and Formatter for BibTeX files <https://flamingtempura.github.io/bibtex-tidy/>
+- [retorquere/zotero-better-bibtex](https://github.com/retorquere/zotero-better-bibtex): Make Zotero effective for us LaTeX holdouts <https://retorque.re/zotero-better-bibtex/>
+- [MuiseDestiny/zotero-attanger](https://github.com/MuiseDestiny/zotero-attanger): Attachment Manager for Zotero
 
 ### VIS
 

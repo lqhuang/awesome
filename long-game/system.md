@@ -87,6 +87,9 @@
 - 🌟 [dendibakh/perf-book](https://github.com/dendibakh/perf-book): The book "Performance Analysis and Tuning on Modern CPU" <https://book.easyperf.net/perf_book>
 - [tanelpoder/0xtools](https://github.com/tanelpoder/0xtools): 0x.Tools: X-Ray vision for Linux systems <https://tanelpoder.com/posts/xcapture-v3-alpha-ebpf-performance-analysis-with-duckdb/>
 - 🌟 [dzaima/intrinsics-viewer](https://github.com/dzaima/intrinsics-viewer): x86-64, ARM, and RVV intrinsics viewer <https://dzaima.github.io/intrinsics-viewer/>
+- [openSUSE/snapper](https://github.com/openSUSE/snapper): Manage filesystem snapshots and allow undo of system modifications <http://snapper.io/>
+- [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): earlyoom - Early OOM Daemon for Linux
+  - If you hope to disable SWAP, please at lesat enable earlyoom to let you have a good sleep.
 
 ## BPF
 

@@ -193,6 +193,8 @@
 ### Graal VM
 
 - [oracle/graalvm-reachability-metadata](https://github.com/oracle/graalvm-reachability-metadata): Repository which contains community-driven collection of GraalVM reachability metadata for open-source libraries.
+- [alina-yur/graalvm-in-practice](https://github.com/alina-yur/graalvm-in-practice): GraalVM Deep Dive for Devoxx Belgium
+  - [Deep Dive: GraalVM in Practice by Alina Yurenko | YouTube](https://www.youtube.com/watch?v=1J6mbMReOnI)
 
 ### Tools
 
@@ -270,6 +272,8 @@ Do a benchmark (for final size while using Scala Native)?
 - [arainko/chanterelle](https://github.com/arainko/chanterelle): chanterelle is a library that provides a map-like DSL over named tuples. Scala 3 only. Some chanterelles are scaly.
 - [MateuszKubuszok/hearth](https://github.com/MateuszKubuszok/hearth): The first Scala macros' standard library. <https://scala-hearth.readthedocs.io>
 - [scafi/scafi3](https://github.com/scafi/scafi3): scafi3 is a Scala 3 DSL for Aggregate Programming.
+- [JCTools/JCTools](https://github.com/JCTools/JCTools): <http://jctools.github.io/JCTools/>
+  - Java Concurrency Tools for the JVM. This project aims to offer some concurrent data structures currently missing from the JDK:
 
 ### Experiments
 
@@ -316,7 +320,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [VirtusLab/scala-yaml](https://github.com/VirtusLab/scala-yaml):
 - [silvabyte/Chez](https://github.com/silvabyte/Chez): Chez: Type-Safe JSON Schema Ecosystem for Scala 3
 
-### Logging and OpenTelemetry
+### Logging and Observability
 
 Logging
 
@@ -324,7 +328,13 @@ Logging
 - [valskalla/odin](https://github.com/valskalla/odin): Fast & Functional logger in Scala
   - no longer maintained?
 
-OpenTelemetry
+Metrics
+
+- [dropwizard/metrics](https://github.com/dropwizard/metrics): 📈 Capturing JVM- and application-level metrics. So you know what's going on. <https://metrics.dropwizard.io>
+- [erikvanoosten/metrics-scala](https://github.com/erikvanoosten/metrics-scala): The scala API for Dropwizard's Metrics.
+- [oshi/oshi](https://github.com/oshi/oshi): Native Operating System and Hardware Information <https://oshi.ooo>
+
+Tracing and OpenTelemetry
 
 - [kamon-io/Kamon](https://github.com/kamon-io/Kamon): Distributed Tracing, Metrics and Context Propagation for applications running on the JVM
 - [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer): Akka extension and agent exposing application telemetry and events via OpenTelemetry interface

@@ -4,17 +4,22 @@
 
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc): A curated list of useful resources for gRPC
 - [johnlui/PPHC](https://github.com/johnlui/PPHC): 📙《高并发的哲学原理》开源图书
+  - in Chinese
 - [Software Engineering Books](https://software-engineering-books.com/): I’ve been a software engineer for over 10 years now, and I’ve successfully passed through all stages of grief. I’m also an avid reader. This page contains my collection of books that have helped me the most throughout my career.
 - [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google): 《Software Engineering at Google》的中文翻译版本
 - [heynickc/awesome-ddd](https://github.com/heynickc/awesome-ddd): A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 - [smirnov-am/awesome-saas-boilerplates](https://github.com/smirnov-am/awesome-saas-boilerplates): No description, website, or topics provided.
 - [isno/theByteBook](https://github.com/isno/theByteBook): ⭐ 出版作品开源。深入讲解内核网络、Kubernetes、ServiceMesh、容器等云原生相关技术。经历实践检验的 DevOps、SRE 指南。如发现错误，谢谢提 issue <https://www.thebyte.com.cn>
+  - in Chinese
 - 🌟 [Cactus-proj/A-Philosophy-of-Software-Design-zh](https://github.com/Cactus-proj/A-Philosophy-of-Software-Design-zh): A Philosophy of Software Design 《软件设计的哲学》中文翻译 <https://cactus-proj.github.io/A-Philosophy-of-Software-Design-zh/>
 - 🌟 [Go7hic/A-Philosophy-of-Software-Design](https://github.com/Go7hic/A-Philosophy-of-Software-Design): 《软件设计哲学》 <https://go7hic.github.io/A-Philosophy-of-Software-Design/#/>
 - [zxyle/PDF-Explained](https://github.com/zxyle/PDF-Explained): 《PDF 解析》 <https://zxyle.github.io/PDF-Explained/>
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. <https://blog.bytebytego.com/>
 - [Admol/SystemDesign](https://github.com/Admol/SystemDesign): 系统设计面试：内幕指南（System Design Interview: An Insider’s Guide） <https://learning-guide.gitbook.io/system-design-interview>
+  - in Chinese
 - 🌟 [Series of posts on HTTP status codes](https://evertpot.com/http/)
+- [zouyingjie/cloudnativenotes](https://github.com/zouyingjie/cloudnativenotes): 云原生架构笔记
+  - in Chinese
 
 ## Testing
 

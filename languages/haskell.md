@@ -208,3 +208,4 @@
 - [diku-dk/futhark](https://github.com/diku-dk/futhark): 💥💻💥 A data-parallel functional programming language <http://futhark-lang.org>
 - [byteverse/chronos](https://github.com/byteverse/chronos): Haskell time library focusing on performance
 - [ndmitchell/record-dot-preprocessor](https://github.com/ndmitchell/record-dot-preprocessor): A preprocessor for a Haskell record syntax using dot
+- [nikita-volkov/postgresql-connection-string](https://github.com/nikita-volkov/postgresql-connection-string): PostgreSQL connection string structured model, parser and builder <https://hackage.haskell.org/package/postgresql-connection-string>

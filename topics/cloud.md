@@ -31,8 +31,10 @@
 
 - [google/gvisor](https://github.com/google/gvisor): Application Kernel for Containers <https://gvisor.dev>
 - [nestybox/sysbox](https://github.com/nestybox/sysbox): An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
-- 🌟 [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
   - [apple/containerization](https://github.com/apple/containerization): Containerization is a Swift package for running Linux containers on macOS.
+- 🌟 [passt](https://passt.top/passt/about/): Plug A Simple Socket Transport
+  - passt and pasta unprivileged (rootless) user-mode networking for VMs and containers, replacement for slirp, slirp4netns, libslirp, integrates with qemu, libvirt, Podman, Kata Containers
 
 #### Base images
 
@@ -44,19 +46,18 @@
 - [bitnami/minideb](https://github.com/bitnami/minideb): A small image based on Debian designed for use in containers <https://bitnami.com>
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker): A minimal Ubuntu base image modified for Docker-friendliness <http://phusion.github.io/baseimage-docker/>
 - [phusion/passenger-docker](https://github.com/phusion/passenger-docker): Docker base images for Ruby, Python, Node.js and Meteor web apps
-- [linuxserver/docker-unrar](https://github.com/linuxserver/docker-unrar): No description or website provided.
 - [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine): No description or website provided.
 - [linuxserver/docker-baseimage-debian](https://github.com/linuxserver/docker-baseimage-debian): Debian Baseimages
 - [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu): No description or website provided.
-- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. <https://hub.docker.com/r/sickcodes/docker-osx>
-- [dockur/windows](https://github.com/dockur/windows): Windows inside a Docker container.
-- [dockur/windows-arm](https://github.com/dockur/windows-arm): Windows for ARM in a Docker container.
-- [dockur/macos](https://github.com/dockur/macos): macOS inside a Docker container.
+- [debuerreotype/debuerreotype](https://github.com/debuerreotype/debuerreotype): reproducible, snapshot-based Debian rootfs builder
+  - [debuerreotype/docker-debian-artifacts](https://github.com/debuerreotype/docker-debian-artifacts): Official builds of debuerreotype-generated Debian tarballs for use in Docker <https://docker.debian.net>
+  - [ReproducibleInstalls - Debian Wiki](https://wiki.debian.org/ReproducibleInstalls)
 
 #### Init systems
 
 - [krallin/tini](https://github.com/krallin/tini): A tiny but valid `init` for containers
 - [Yelp/dumb-init](https://github.com/Yelp/dumb-init): A minimal init system for Linux containers <https://engineeringblog.yelp.com/2016/01/dumb-init-an-init-for-docker.html>
+- [openSUSE/catatonit](https://github.com/openSUSE/catatonit): A container init that is so simple it's effectively brain-dead.
 - [g-pape/runit](https://github.com/g-pape/runit): a UNIX init scheme with service supervision <https://smarden.org/runit/>
 - [skarnet/s6](https://github.com/skarnet/s6): The s6 supervision suite. <https://skarnet.org/software/s6/>
   - [skarnet/s6-rc](https://github.com/skarnet/s6-rc): A service manager for s6. <https://skarnet.org/software/s6-rc/>
@@ -100,6 +101,21 @@
   - [containers/prometheus-podman-exporter](https://github.com/containers/prometheus-podman-exporter): Prometheus exporter for podman environments exposing containers, pods, images, volumes and networks information.
   - [containers/containerimage-py](https://github.com/containers/containerimage-py): A python library for interacting with container images and container image registries
   - [containers/podman-tui](https://github.com/containers/podman-tui): Podman Terminal UI
+
+### Filesystem
+
+- [composefs/composefs](https://github.com/composefs/composefs): The reliability of disk images, the flexibility of files
+- [containers/composefs-rs](https://github.com/containers/composefs-rs): Rust library for the composefs filesystem
+
+#### Interesting images
+
+- [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX): Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers. <https://hub.docker.com/r/sickcodes/docker-osx>
+- [dockur/windows](https://github.com/dockur/windows): Windows inside a Docker container.
+- [dockur/windows-arm](https://github.com/dockur/windows-arm): Windows for ARM in a Docker container.
+- [dockur/macos](https://github.com/dockur/macos): macOS inside a Docker container.
+- [mviereck/x11docker](https://github.com/mviereck/x11docker): Run GUI applications and desktops in docker and podman containers. Focus on security.
+- [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop): Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
+- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server): No description or website provided.
 
 #### Container utils
 

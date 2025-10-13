@@ -427,6 +427,7 @@ Libs
 - [aws-actions/aws-lambda-deploy](https://github.com/aws-actions/aws-lambda-deploy): Deploys a Lambda function.
 - [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials): Configure AWS credential environment variables for use in other GitHub Actions.
 - [actions/github-script](https://github.com/actions/github-script): Write workflows scripting the GitHub API in JavaScript
+- [redhat-actions/buildah-build](https://github.com/redhat-actions/buildah-build): GitHub Action to use 'buildah' to build a container image. <https://github.com/marketplace/actions/buildah-build>
 
 ### GitHub Action Runner
 

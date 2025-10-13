@@ -230,6 +230,7 @@ Visual stack
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs): Grafana Labs' Jsonnet libraries
 - [monitoring-mixins/website](https://github.com/monitoring-mixins/website): Prometheus monitoring mixins <https://monitoring.mixins.dev>
 - [perses/perses](https://github.com/perses/perses): The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come! <https://perses.dev>
+- [openobserve/openobserve](https://github.com/openobserve/openobserve): 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). <https://openobserve.ai>
 
 ### Benchmark
 

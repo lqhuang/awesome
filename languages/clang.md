@@ -197,6 +197,7 @@ And modern is here now.
 
 ### Better libc
 
+- [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
 - [rustyrussell/ccan](https://github.com/rustyrussell/ccan): The C Code Archive Network <http://ccodearchive.net/>
 - [apache/apr](https://github.com/apache/apr): Mirror of Apache Portable Runtime
 - [dcreager/libcork](https://github.com/dcreager/libcork): A simple, easily embeddable cross-platform C library <https://libcork.io/>

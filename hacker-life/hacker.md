@@ -21,6 +21,7 @@
 - 🌟 [eradman/entr](https://github.com/eradman/entr): Run arbitrary commands when files change <http://eradman.com/entrproject/>
   - someone said it's better than watchman 🤔
 - [jdx/mise](https://github.com/jdx/mise): dev tools, env vars, task runner <https://mise.jdx.dev>
+- [eirikb/gg](https://github.com/eirikb/gg): Universal tools wrapper
 - [agorapulse/pierrot](https://github.com/agorapulse/pierrot): Multi-repository GitHub Governance Tool
 - [Windows Admin Center](https://www.microsoft.com/en-us/windows-server/windows-admin-center): Windows Admin Center is your remote management tool for Windows Server running anywhere–physical, virtual, on-premises, in Azure, or in a hosted environment–at no additional cost.
   - Windows alternative for cockpit! And it's purely free!
