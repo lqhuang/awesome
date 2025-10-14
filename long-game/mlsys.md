@@ -134,6 +134,7 @@
 General problems
 
 - [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy): A Python-embedded modeling language for convex optimization problems. <https://www.cvxpy.org>
+  - [cvxpy/cvxpylayers](https://github.com/cvxpy/cvxpylayers): Differentiable convex optimization layers
 - [ceres-solver/ceres-solver](https://github.com/ceres-solver/ceres-solver): A large scale non-linear optimization library <http://ceres-solver.org>
 - [google/or-tools](https://github.com/google/or-tools): Google's Operations Research tools <https://developers.google.com/optimization>
 - [coin-or/pulp](https://github.com/coin-or/pulp): A python Linear Programming API <http://coin-or.github.io/pulp/>
@@ -615,5 +616,4 @@ PGM / Probabilistic programming
   - DeepSeek R1
 - [Lancern/mini-qwen-py](https://github.com/Lancern/mini-qwen-py): A toy implementation of Qwen3 inference
 - [pierrot-lc/jax-gnn](https://github.com/pierrot-lc/jax-gnn): GNN implemented using JAX and Equinox <https://pierrot-lc.dev/posts/2024-09-02_jax-gnn/>
-
-- [cvxpy/cvxpylayers](https://github.com/cvxpy/cvxpylayers): Differentiable convex optimization layers
+- [karpathy/nanochat](https://github.com/karpathy/nanochat): The best ChatGPT that $100 can buy.
