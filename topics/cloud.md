@@ -492,6 +492,7 @@ Type 1 hypervisors
   - [lablabs/ansible-role-rke2](https://github.com/lablabs/ansible-role-rke2): Ansible Role to install RKE2 Kubernetes. <https://galaxy.ansible.com/ui/standalone/roles/lablabs/rke2/>
   - [serversideup/docker-ansible](https://github.com/serversideup/docker-ansible): ⚡️ Run Ansible anywhere with a lightweight and powerful Docker image. <https://hub.docker.com/r/serversideup/ansible>
   - [Testing Ansible roles with Molecule, libvirt (vagrant-libvirt) and QEMU/KVM - TauCeti blog](https://www.tauceti.blog/posts/testing-ansible-roles-with-molecule-libvirt-vagrant-qemu-kvm/): Integrate Ansible role tests with Molecule into an existing role using libvirt + QEMU/KVM
+  - [githubixx/ansible-role-harden-linux](https://github.com/githubixx/ansible-role-harden-linux): Ansible role for hardening Linux <https://www.tauceti.blog/post/kubernetes-the-not-so-hard-way-with-ansible-harden-the-instances/>
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy): Infrastructure as TypeScript <https://alchemy.run>
 
 ### Services

@@ -106,6 +106,8 @@
   - Make a mill plugin for this?
   - [frawa/inline-files](https://github.com/frawa/inline-files): This is a macro library for Scala 3. Sometimes is is useful to access file contents without going to the file system. It comes in handly for ScalaJS projects, as files are read during compile time only.
 - [47degrees/sbt-microsites](https://github.com/47degrees/sbt-microsites): An sbt plugin to create awesome microsites for your project <https://47degrees.github.io/sbt-microsites/>
+- [tpunder/fm-sbt-s3-resolver](https://github.com/tpunder/fm-sbt-s3-resolver): SBT Plugin that adds support for resolving and publishing using Amazon S3
+  - I hope a mill plugin 🤩
 
 ### Mill
 
@@ -130,6 +132,7 @@
 - [ckipp01/mill-github-dependency-graph](https://github.com/ckipp01/mill-github-dependency-graph): A Mill plugin to submit your dependency graph to the GitHub Dependency Graph API
 - [carlosedp/mill-aliases](https://github.com/carlosedp/mill-aliases): A Scala Mill plugin adding task aliases to the build configuration
 - 🌟 [carlosedp/mill-zsh-completions](https://github.com/carlosedp/mill-zsh-completions): Zsh plugin adding Scala Mill build tool completions and prompt display
+  - Now, mill (after 1.0) has built-in completions generation
 - [carlosedp/mill-docker-nativeimage](https://github.com/carlosedp/mill-docker-nativeimage): A Scala Mill plugin to build container images with Native Image (GraalVM Binaries) application
 
 ### Testing

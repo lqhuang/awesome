@@ -103,6 +103,7 @@
 - [Bodigrim/blaze-markup](https://github.com/Bodigrim/blaze-markup): Core modules for a blazing fast markup combinator library
 - [AJChapman/formatting](https://github.com/AJChapman/formatting): Format strings type-safely with combinators
 - [tweag/capability](https://github.com/tweag/capability): Extensional capabilities and deriving combinators
+- 🌟 [raehik/symparsec](https://github.com/raehik/symparsec): Type level string parser combinators
 
 ## Logging and tracing
 
@@ -183,6 +184,7 @@
 - [well-typed/grapesy](https://github.com/well-typed/grapesy): Native Haskell gRPC client and server based on `http2`
   - [grapesy: industrial strength gRPC library for Haskell](https://well-typed.com/blog/2025/01/grapesy/)
 - [obsidiansystems/gargoyle](https://github.com/obsidiansystems/gargoyle): A framework for managing daemons from Haskell and libraries for use with postgresql and nix
+- [Tritlo/duckdb-haskell](https://github.com/Tritlo/duckdb-haskell): Haskell bindings for DuckDB
 
 ## Other good libs
 

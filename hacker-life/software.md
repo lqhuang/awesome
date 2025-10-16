@@ -10,7 +10,6 @@
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut): The swiss army knife of lossless video/audio editing <https://mifi.no/losslesscut>
 - 🌟 [mltframework/shotcut](https://github.com/mltframework/shotcut): cross-platform (Qt), open-source (GPLv3) video editor <https://www.shotcut.org>
   - Open source alternative to Adode Pr
-- [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed for reading research papers and technical books. <https://sioyek.info>
 - [Pixcall](https://pixcall.com): 助力个人和团队以更好的方式管理图片、视频、文档等数字资产
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists): Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. <https://reacher.email>
 - [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source KVM (switch) software
@@ -35,11 +34,15 @@
 - [keycastr/keycastr](https://github.com/keycastr/keycastr): KeyCastr, an open-source keystroke visualizer
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz): Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time. <https://mularahul.github.io/keyviz>
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger): Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
-- 🌟 [johnfactotum/foliate](https://github.com/johnfactotum/foliate): Read e-books in style <https://johnfactotum.github.io/foliate/>
-- [ZenPrivacy/zen-desktop](https://github.com/ZenPrivacy/zen-desktop): Simple, free and efficient ad-blocker and privacy guard for Windows, macOS and Linux <https://zenprivacy.net>
 - [Tools | Cloudinary](https://cloudinary.com/tools): Format converters and compressors for images and videos.
 - 🌟 [deskflow/deskflow](https://github.com/deskflow/deskflow): Share a single keyboard and mouse between multiple computers. <https://deskflow.org>
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite): An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing <https://graphite.rs>
+
+### Reader
+
+- [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed for reading research papers and technical books. <https://sioyek.info>
+- 🌟 [johnfactotum/foliate](https://github.com/johnfactotum/foliate): Read e-books in style <https://johnfactotum.github.io/foliate/>
+- 🌟 [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices <http://koreader.rocks/>
 
 ### Notes / Knowledge Management
 
@@ -314,7 +317,7 @@ SSH
 - [microfeed/microfeed](https://github.com/microfeed/microfeed): a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls. <https://www.microfeed.org>
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore): Omnivore is a complete, open source read-it-later solution for people who like reading. <https://omnivore.app>
 - [~mlb/linkhut](https://sr.ht/~mlb/linkhut/): linkhut is an open source social bookmarking website. <https://ln.ht/>
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles. <https://linkwarden.app>
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles. <https://linkwarden.app>
 - [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr): A simple, self-hosted service to keep track of your personal library 📚 <https://demo.booklogr.app>
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus): ☁️ Sync your bookmarks privately across browsers and devices <https://floccus.org>
 - [hectorqin/reader](https://github.com/hectorqin/reader): 阅读 3 服务器版，桌面端，iOS 可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点 star，关注一下公众号【假装大佬】❗️ Demo 服务器由于未备案已被关停，建议自行搭建

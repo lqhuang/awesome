@@ -48,14 +48,14 @@
 
 ### Fingerprint Browser
 
-- [Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser): Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的 web3 空投专用指纹浏览器 <https://virtualbrowser.cc>
-  - Is there any more mature project?
-- [mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser): Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad <https://mullvad.net/browser>
-- [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension): Browser extension to spoof timezone, geolocation, locale and user agent. <https://vytal.io>
-- [zhom/donutbrowser](https://github.com/zhom/donutbrowser): Simple Yet Powerful Browser Orchestrator 🍩 <https://donutbrowser.com>
 - 🌟 [Web fingerprinting is worse than I thought - Bitestring's Blog](https://www.bitestring.com/posts/2023-03-19-web-fingerprinting-is-worse-than-I-thought.html)
   - At least, try to set `resistFingerprinting=true` in `about:config` for Firefox
 - [TheGP/untidetect-tools](https://github.com/TheGP/untidetect-tools): List of anti-detect and humanizing tools and browsers, including captcha solvers and sms-activation.
+- [zen-browser/desktop](https://github.com/zen-browser/desktop): Welcome to a calmer internet <https://zen-browser.app>
+- [BrowserWorks/waterfox](https://github.com/BrowserWorks/waterfox): The official Waterfox 💧 source code repository <https://www.waterfox.net>
+- [mullvad/mullvad-browser](https://github.com/mullvad/mullvad-browser): Privacy-focused browser for Linux, macOS and Windows. Made in collaboration between @torproject and @mullvad <https://mullvad.net/browser>
+- [codeberg:https://codeberg.org/librewolf/source](https://codeberg.org/librewolf/source): Codeberg is a non-profit, community-led organization that aims to help free and open source projects prosper by giving them a safe and friendly home. <https://librewolf.net/>
+- [zhom/donutbrowser](https://github.com/zhom/donutbrowser): Simple Yet Powerful Browser Orchestrator 🍩 <https://donutbrowser.com>
 - [daijro/camoufox](https://github.com/daijro/camoufox): 🦊 Anti-detect browser <https://camoufox.com>
 - [Kameleo](https://kameleo.io/): Kameleo is an anti-detect browser for managing multiple accounts on platforms like Facebook, Amazon, and LinkedIn. Protect your digital identity with advanced fingerprinting technology and proxies to prevent account bans.
 - [GoLogin](https://gologin.com/): Antidetect Browser GoLogin: Manage multiple accounts.
@@ -79,6 +79,8 @@
 - [JShelter](https://jshelter.org/): An anti-malware Web browser extension to mitigate potential threats from JavaScript, including fingerprinting, tracking, and data collection!
   - [pagure.io:JShelter/webextension](https://pagure.io/JShelter/webextension): This is the official repository for JShelter webextension <https://JShelter.org>
   - [Chrome](https://chromewebstore.google.com/detail/jshelter/ammoloihpcbognfddfjcljgembpibcmb)
+- [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega): Manage and switch between multiple proxies quickly & easily.
+  - [Chrome](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped)
 
 Firefox Only
 
@@ -88,6 +90,7 @@ Firefox Only
   - [ACK-J/Port_Authority](https://github.com/ACK-J/Port_Authority): Blocks websites from using javascript to port scan your computer/network and dynamically blocks all LexisNexis endpoints from running their invasive data collection scripts.
 - [Chameleon](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext)
   - [sereneblue/chameleon](https://github.com/sereneblue/chameleon): WebExtension port of Random Agent Spoofer <https://sereneblue.github.io/chameleon>
+- 🌟 [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox): Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
 
 Chrome Only
 

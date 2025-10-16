@@ -194,6 +194,7 @@ And modern is here now.
 - [tcbrindle/flux](https://github.com/tcbrindle/flux): A C++20 library for sequence-orientated programming <https://tristanbrindle.com/flux/>
 - [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems. <https://pocoproject.org>
 - [gitlab:GNOME/GLib](https://gitlab.gnome.org/GNOME/glib/): Low-level core library that forms the basis for projects such as GTK and GNOME.
+- [mpark/patterns](https://github.com/mpark/patterns): This is an experimental library that has evolved to P2688 <https://wg21.link/p2688>
 
 ### Better libc
 
