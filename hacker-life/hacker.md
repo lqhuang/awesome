@@ -12,7 +12,6 @@
 - 🌟 [lowlighter/metrics](https://github.com/lowlighter/metrics): 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! <https://metrics.lecoq.io>
 - [zealdocs/zeal](https://github.com/zealdocs/zeal): Offline documentation browser inspired by Dash <https://zealdocs.org>
 - 🌟 [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your project. 🌐 Share with the world! <http://socialify.git.ci>
-- [Finb/Bark](https://github.com/Finb/Bark): Bark is an iOS App which allows you to push custom notifications to your iPhone <https://bark.day.app>
 - [axodotdev/oranda](https://github.com/axodotdev/oranda): 🎁 generate beautiful landing pages for your developer tools <https://opensource.axo.dev/oranda/>
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors): GNU/Linux 一键更换系统软件源脚本 <https://linuxmirrors.cn>
 - [chanhx/crabviz](https://github.com/chanhx/crabviz): 🦀 A tool to generate interactive call graphs for multiple languages
@@ -205,11 +204,10 @@
 - [adriankumpf/teslamate](https://github.com/adriankumpf/teslamate): A self-hosted data logger for your Tesla 🚘 <https://docs.teslamate.org>
 - [smartHomeHub/SmartIR](https://github.com/smartHomeHub/SmartIR): Home Assistant integration to manage climate systems, TVs, fans and lights using IR/RF controllers. Compatible with Broadlink, Xiaomi, MQTT, LOOKin and ESPHome
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys): A privacy-first, open-source home assistant <https://gladysassistant.com>
+- [MichaIng/DietPi](https://github.com/MichaIng/DietPi): Lightweight justice for your single-board computer! <https://dietpi.com/>
 
 ## Misc
 
-- [llwslc/grammar-club](https://github.com/llwslc/grammar-club): 《语法俱乐部》- 旋元佑 <https://llwslc.github.io/grammar-club>
-- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner): 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers <https://qwerty.kaiyi.cool>
 - [zhaoolee/ins](https://github.com/zhaoolee/ins): 🍭 互联网从业者的灵感数据库，无广告，Github Actions 自动检测网站访问速度
 - 🌟 [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh): 💻📖 对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws)
@@ -250,6 +248,8 @@
 
 ## ESL
 
+- [llwslc/grammar-club](https://github.com/llwslc/grammar-club): 《语法俱乐部》- 旋元佑 <https://llwslc.github.io/grammar-club>
+- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner): 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers <https://qwerty.kaiyi.cool>
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词 <https://cpwp.netlify.app>
 - [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English): 专为程序员编写的英语学习指南 v1.2 <https://a-programmers-guide-to-english.harryyu.me>
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks): 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持 epub、mobi、pdf 格式, 每周更新
@@ -257,7 +257,6 @@
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english): 人人都能用英语
 - [FaYin](https://fayin.love/): 练习发音的好助手, 支持美式音标、英式音标，以及字母表的发音
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm): Learning English through the method of constructing sentences with conjunctions <https://earthworm.cuixueshe.com>
-- [llwslc/grammar-club](https://github.com/llwslc/grammar-club): 《语法俱乐部》- 旋元佑 <https://llwslc.github.io/grammar-club/>
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips): An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程。 <https://byoungd.github.io/English-level-up-tips/>
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny): a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + nextui + jotai + docker <https://wordsfunny.com>
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead): A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu.com

@@ -218,7 +218,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 #### React
 
-- 🌟 [ariakit/ariakit](https://github.com/ariakit/ariakit): Toolkit for building accessible web apps with React <https://ariakit.org>
+- [ariakit/ariakit](https://github.com/ariakit/ariakit): Toolkit for building accessible web apps with React <https://ariakit.org>
 - [mantinedev/mantine](https://github.com/mantinedev/mantine/): React components library with native dark theme support <https://mantine.dev>
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui): 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) <https://heroui.com>
 - [reach/reach-ui](https://github.com/reach/reach-ui): The Accessible Foundation for React Apps and Design Systems <https://reach.tech> #design-system
@@ -231,25 +231,22 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [StaticMania/keep-react](https://github.com/StaticMania/keep-react): Keep React is an open-source component library built on Tailwind CSS and React.js. It provides a versatile set of pre-designed UI components to build modern web applications. <https://react.keepdesign.io>
 - [cloudscape-design/components](https://github.com/cloudscape-design/components): React components for Cloudscape Design System <https://cloudscape.design/>
 - [tamagui/tamagui](https://github.com/tamagui/tamagui): Style React apps fast with 100% parity on React Native, an optional UI kit and optimizing compiler. <https://tamagui.dev>
-- [mui/base-ui](https://github.com/mui/base-ui): Base UI is an open-source library of accessible, unstyled UI components for React. <https://base-ui.com>
+- 🌟 [mui/base-ui](https://github.com/mui/base-ui): Base UI is an open-source library of accessible, unstyled UI components for React. <https://base-ui.com>
 - [Tailspark](https://tailspark.co/): Beautiful Components & Templates built in Tailwind CSS
 - [Snow Dashboard UI Kit](https://snow.byewind.com): An advanced Dashboard / SaaS UI kit and design system for Figma. It can help you quickly build Dashboard, SaaS and other projects, and has a very good user experience.
   - paid required
 - 🌟 [hevar/awesome-react-headless-ui-components](https://github.com/hevar/awesome-react-headless-ui-components): No description, website, or topics provided.
 - [semrush/intergalactic](https://github.com/semrush/intergalactic): Intergalactic Design System is a constantly developing design system and library of React components. <https://developer.semrush.com/intergalactic/>
 - [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped): Professionally crafted React & Figma components for building beautiful products or starting your own design system
-
-My own favorites:
-
 - 🌟 [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui): A JavaScript library to position floating elements and create interactions for them. <https://floating-ui.com>
 - [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz. <https://radix-ui.com>
   - [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
-- 🌟 [irsyadadl/justd](https://github.com/irsyadadl/justd): Justd is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects. <https://getjustd.com>
-  - like shadcn/ui but with Tailwind CSS + React Aria Components instead of Radix UI
-  - Some interesting learable usages of `tv` (tailwind variant) lib
 
 #### React Aria eco system
 
+- 🌟 [irsyadadl/justd](https://github.com/irsyadadl/justd): Justd is a chill set of React components, built on top of React Aria Components and Tailwind CSS. Easy to customize and just copy & paste into your React projects. <https://getjustd.com>
+  - like shadcn/ui but with Tailwind CSS + React Aria Components instead of Radix UI
+  - Some interesting learable usages of `tv` (tailwind variant) lib
 - [jolbol1/jolly-ui](https://github.com/jolbol1/jolly-ui): shadcn/ui compatible react aria components that you can copy and paste into your apps. Accessible. Customizable. Open Source. <https://jollyui.dev>
 
 #### radix-ui eco system
@@ -282,6 +279,10 @@ Shadcn UI eco system
   - A great collection to learn how to use motion
 - [shadcn/ui registry — UI.pub](https://uipub.com/): Premium shadcn/ui components registry. UI Kits, Blocks, Templates.
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components): A collection of neobrutalism-styled Tailwind components. <https://neobrutalism.dev>
+
+#### Base-ui eco system
+
+- [cosscom/coss](https://github.com/cosscom/coss): coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet. <https://coss.com>
 
 #### Svelte
 
@@ -725,6 +726,7 @@ Concrete animations
 - [Remix Icon](https://remixicon.com/): Remix Icon is a set of open source neutral style system symbols elaborately crafted for designers and developers. All of the icons are free to use for both personal and commercial.
 - [Symbols](https://www.symbols.dev/): Open source SF symbols for the web.
 - [Hugeicons](https://hugeicons.com/): Explore the world's most complete icon library: 40,000+ icons, 9 unique styles, and 59 categories. Perfect for UI/UX designers, developers, and creators using Figma, React, Flutter, and more.
+- https://icons8.com/icons/sf-regular
 
 ### Logos / Brand icons
 
@@ -756,6 +758,7 @@ Concrete animations
   - By generators 🤔
 - [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl): React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React. <https://react-unity-webgl.dev>
 - [StateLayer](https://statelayer.com/): A declarative 3D component framework!
+- [pmndrs/triplex](https://github.com/pmndrs/triplex): The open source visual workspace for React / Three Fiber. Build the 2D and 3D web. <https://triplex.dev>
 
 ### PWA
 

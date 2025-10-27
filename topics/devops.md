@@ -211,7 +211,7 @@ Cloud
 - [bazelbuild/rules_docker](https://github.com/bazelbuild/rules_docker): Rules for building and handling Docker images with Bazel
 - [bazel-contrib/rules_oci](https://github.com/bazel-contrib/rules_oci): Bazel rules for building OCI containers <https://registry.build/github/bazel-contrib/rules_oci>
   - [bcr:rules_oci](https://registry.bazel.build/modules/rules_oci)
-- [tweag/rules_img](https://github.com/tweag/rules_img): Modern Bazel rules for building OCI container images with advanced performance optimizations <https://registry.bazel.build/modules/rules_img>
+- [bazel-contrib/rules_img](https://github.com/bazel-contrib/rules_img): Modern Bazel rules for building OCI container images with advanced performance optimizations <https://registry.bazel.build/modules/rules_img>
 - [bazel-contrib/rules_distroless](https://github.com/bazel-contrib/rules_distroless): Bazel helper rules to aid with some of the steps needed to create a Linux / Debian installation. These rules are designed to replace commands such as `apt-get install`, `passwd`, `groupadd`, `useradd`, `update-ca-certificates`.
   - [bcr:rules_distroless](https://registry.bazel.build/modules/rules_distroless)
 - [vimana-cloud/rules_wasm](https://github.com/vimana-cloud/rules_wasm): Bazel tools for working with WebAssembly components
@@ -435,3 +435,5 @@ Libs
 - [BuildJet: For GitHub Actions](https://buildjet.com/for-github-actions): Make GitHub Actions Faster. Managed performance runners for Github Actions.
 - [Actuated](https://actuated.dev/): Fast and secure GitHub Actions on your own infrastructure.
 - [blacksmith](https://www.blacksmith.sh/): ‍Twice as fast. Half the cost. Speed up your GitHub Actions with a one-line code change, by running them on high-performance gaming CPUs instead of GitHub's older server hardware
+- [Source.dev](https://www.source.dev/): AI-native software tools that accelerate development of next-generation devices. SourceFS the fastest way to build Android.
+  - not a runner but can speed up builds

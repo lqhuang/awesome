@@ -15,6 +15,7 @@
 - [neumannt/saneql](https://github.com/neumannt/saneql): Prototype compiler from SaneQL to SQL <https://saneql.com/>
 - [machow/siuba](https://github.com/machow/siuba): Python library for using dplyr like syntax with pandas and SQL <https://siuba.org>
 - 🌟 [sfu-db/lineagex](https://github.com/sfu-db/lineagex): A Column Level Lineage Graph for SQL.
+- [uwdata/arquero](https://github.com/uwdata/arquero): Query processing and transformation of array-backed data tables. <https://idl.uw.edu/arquero/>
 
 ## Warehouse / Iceberg
 
@@ -46,7 +47,6 @@
 - [meltano/meltano](https://github.com/meltano/meltano): Extract & Load with joy — CLI & version control for ELT without limitations. No more black box. Let your creativity flow. <https://meltano.com>
 - 🌟 [roapi/roapi](https://github.com/roapi/roapi): Create full-fledged APIs for slowly moving datasets without writing a single line of code. <https://roapi.github.io/docs>
 - [PeerDB-io/peerdb](https://github.com/PeerDB-io/peerdb): Postgres first ETL/ELT, enabling 10x faster data movement in and out of Postgres 🐘 🚀 <https://peerdb.io>
-- [uwdata/arquero](https://github.com/uwdata/arquero): Query processing and transformation of array-backed data tables. <https://uwdata.github.io/arquero>
 - [chrthomsen/pygrametl](https://github.com/chrthomsen/pygrametl): Official repository for pygrametl - ETL programming in Python <http://pygrametl.org>
 - [level-vc/useful](https://github.com/level-vc/useful): The open-source Useful SDK. One python decorator in the Useful library allows for full observability of Python functions within an ETL. <https://usefulmachines.dev/>
 - [iterative/datachain](https://github.com/iterative/datachain): AI-data warehouse to enrich, transform and analyze data from cloud storages <https://docs.datachain.ai>

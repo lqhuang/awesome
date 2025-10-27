@@ -25,6 +25,9 @@
 
 - [nucleuscloud/neosync](https://github.com/nucleuscloud/neosync): Open source data anonymization and synthetic data orchestration for developers. Create high fidelity synthetic data and sync it across your environments. <https://www.neosync.dev>
 - [hahwul/dalfox](https://github.com/hahwul/dalfox): 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. <https://dalfox.hahwul.com>
+- [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin): HTTP Request & Response Service, written in Python + Flask. <https://httpbin.org>
+- [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin): A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib. <https://httpbingo.org>
+- [moul/grpcbin](https://github.com/moul/grpcbin): httpbin like for gRPC <https://grpcb.in/>
 
 ### API Test
 
@@ -129,6 +132,7 @@
 - [shlinkio/shlink](https://github.com/shlinkio/shlink): The definitive self-hosted URL shortener <https://shlink.io>
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale): Scalable web analytics you run yourself on Cloudflare <https://counterscale.dev>
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel): Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements. <https://openpanel.dev>
+- [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit): 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. <https://rybbit.com>
 
 ## CMS
 

@@ -134,6 +134,7 @@
 - 🌟 [carlosedp/mill-zsh-completions](https://github.com/carlosedp/mill-zsh-completions): Zsh plugin adding Scala Mill build tool completions and prompt display
   - Now, mill (after 1.0) has built-in completions generation
 - [carlosedp/mill-docker-nativeimage](https://github.com/carlosedp/mill-docker-nativeimage): A Scala Mill plugin to build container images with Native Image (GraalVM Binaries) application
+- [vic/mill-docker](https://github.com/vic/mill-docker): Build minimalist distroless docker images for your java applications using Mill
 
 ### Testing
 
@@ -490,6 +491,7 @@ Tracing and OpenTelemetry
 - [lightbend-labs/scala-logging](https://github.com/lightbend-labs/scala-logging): Convenient and performant logging library for Scala wrapping SLF4J.
 - [rkuhn/akka-typed-session](https://github.com/rkuhn/akka-typed-session): add-on to Akka Typed that tracks effects for use with Session Types
 - [theiterators/pekko-http-microservice](https://github.com/theiterators/pekko-http-microservice): Example of http (micro)service in Scala & pekko
+- [tanin47/playfast](https://github.com/tanin47/playfast): An omakase-style PlayFramework template. Ready to deploy in minutes.
 
 ### Typelevel
 

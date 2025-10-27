@@ -150,6 +150,7 @@
 - [hzqtc/taproom](https://github.com/hzqtc/taproom): An interactive TUI for Homebrew
 - [vifm/vifm](https://github.com/vifm/vifm): Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. <https://vifm.info>
 - [Owloops/updo](https://github.com/Owloops/updo): Uptime monitoring CLI tool with alerting and advanced settings <https://www.owloops.com/landings/open-source>
+- [neurocyte/flow](https://github.com/neurocyte/flow): Flow Control: a programmer's text editor <https://flow-control.dev>
 
 ## Monitor
 

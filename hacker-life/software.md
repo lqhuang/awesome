@@ -14,8 +14,6 @@
 - [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists): Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend. <https://reacher.email>
 - [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source KVM (switch) software
 - [fireyy/caricare](https://github.com/fireyy/caricare): A simple cross-platform desktop application for S3-Compatible Object Storage. Built in Rust using egui.
-- 🌟 [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Easy and blazing-fast book searcher, create and search your private library. <https://github.com/book-searcher-org/book-searcher>
-- [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin): A Calibre plugin to translate ebook into a specified language. <https://bookfere.com/post/1057.html>
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box): server status & toolbox app using Flutter
 - [waydroid/waydroid](https://github.com/waydroid/waydroid): Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu. <https://waydro.id>
   - 🌟 [Waydroid](https://waydro.id/): A container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
@@ -37,12 +35,14 @@
 - [Tools | Cloudinary](https://cloudinary.com/tools): Format converters and compressors for images and videos.
 - 🌟 [deskflow/deskflow](https://github.com/deskflow/deskflow): Share a single keyboard and mouse between multiple computers. <https://deskflow.org>
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite): An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing <https://graphite.rs>
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis): A free, secure and open source app for Android to manage your 2-step verification tokens. <https://getaegis.app>
 
 ### Reader
 
 - [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed for reading research papers and technical books. <https://sioyek.info>
 - 🌟 [johnfactotum/foliate](https://github.com/johnfactotum/foliate): Read e-books in style <https://johnfactotum.github.io/foliate/>
 - 🌟 [koreader/koreader](https://github.com/koreader/koreader): An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices <http://koreader.rocks/>
+- 🌟 [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher): Easy and blazing-fast book searcher, create and search your private library. <https://github.com/book-searcher-org/book-searcher>
 
 ### Notes / Knowledge Management
 
@@ -304,10 +304,12 @@ SSH
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr): fork of overseerr for jellyfin support
 - [koush/scrypted](https://github.com/koush/scrypted): Scrypted is a high performance video integration and automation platform <https://scrypted.app>
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT): The next-generation file converter. Open source, fully local\* and free forever. <https://vert.sh>
+  - [VERT-sh/vertd](https://github.com/VERT-sh/vertd): VERT's solution to crappy video conversion services. <https://vert.sh>
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet): A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. <https://bitmagnet.io/>
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX): 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - 🌟 [imputnet/cobalt](https://github.com/imputnet/cobalt): best way to save what you love <https://cobalt.tools>
   - similar https://dy.kukutool.com/en
+- [Tribler/tribler](https://github.com/Tribler/tribler): Privacy enhanced BitTorrent client with P2P content discovery <https://www.tribler.org>
 
 ### Reader / RSS / Bookmarks
 
@@ -323,12 +325,16 @@ SSH
 - [hectorqin/reader](https://github.com/hectorqin/reader): 阅读 3 服务器版，桌面端，iOS 可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点 star，关注一下公众号【假装大佬】❗️ Demo 服务器由于未备案已被关停，建议自行搭建
 - [gedoor/legado](https://github.com/gedoor/legado): Legado 3.0 Book Reader with powerful controls & full functions❤️ 阅读 3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - 🌟 [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader): A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web <https://koodoreader.com>
-- [chrox/readest](https://github.com/chrox/readest): Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. <https://readest.com>
+- 🌟 [readest/readest](https://github.com/readest/readest): Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. <https://readest.com>
+  - Built as a modern rewrite of Foliate
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita): Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. <http://www.kavitareader.com>
 - [Storyteller Docs | Storyteller](https://smoores.gitlab.io/storyteller/): A self-hosted platform for automatically aligning ebooks and audiobooks.
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): RSS reader for macOS and iOS. <https://netnewswire.com/>
 - [Lighthouse - The feed reader for finding actionable content](https://lighthouseapp.io/blog/feed-reader-deep-dive): A reimagined RSS feed reader, optimized for people who are serious, intentional, and proactive about their content consumption.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Follow everything in one place <https://folo.is>
+- [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin): A Calibre plugin to translate ebook into a specified language. <https://bookfere.com/post/1057.html>
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web): 📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): One webpage for every book ever published! <https://openlibrary.org>
 
 ### Cloud Disk
 
@@ -348,6 +354,7 @@ NextCloud is crazily BIG now, so I will say no here.
 - [jugeekuz/HomeShare](https://github.com/jugeekuz/HomeShare): HomeShare - A File Server in your Home PC ⚡
 - [bolcom/unFTP](https://github.com/bolcom/unFTP): A FTP(S) server with a couple of twists written in Rust. Follow and talk to us on https://t.me/unftp. Docs on https://unftp.rs
 - [git.deuxfleurs.fr:Deuxfleurs/garage](https://git.deuxfleurs.fr/Deuxfleurs/garage): garage - S3-compatible object store for small self-hosted geo-distributed deployments
+- [linagora/twake-drive](https://github.com/linagora/twake-drive): The open-source alternative to Google Drive.
 
 ### Email
 

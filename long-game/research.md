@@ -95,6 +95,9 @@
 - [TeXipedia](https://www.texipedia.com/): Find LaTeX symbols fast
 - [NanoMichael/MicroTeX](https://github.com/NanoMichael/MicroTeX): A dynamic, cross-platform, and embeddable LaTeX rendering library
 - [michael-brade/LaTeX.js](https://github.com/michael-brade/LaTeX.js): JavaScript LaTeX to HTML5 translator <https://latex.js.org>
+- [plastex/plastex](https://github.com/plastex/plastex): plasTeX is a Python package that processes LaTeX documents into an XML-DOM-like object which can be used to generate various types of output.
+  - [PatrickMassot/plastexdepgraph](https://github.com/PatrickMassot/plastexdepgraph): Dependency graph plugin for plasTeX
+  - [ElifUskuplu/KnowTex](https://github.com/ElifUskuplu/KnowTex): Knowledge Dependency from TeX
 
 ### Latex Templates
 

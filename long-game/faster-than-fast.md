@@ -45,6 +45,7 @@ yyjson
 
 - [simdutf/simdutf](https://github.com/simdutf/simdutf): Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension. Part of Node.js, WebKit/Safari, Ladybird, Cloudflare Workers and Bun. <https://simdutf.github.io/simdutf/>
 - [ashvardanian/StringWars](https://github.com/ashvardanian/StringWars): Comparing performance-oriented string-processing libraries for substring search, multi-pattern matching, hashing, edit-distances, sketching, and sorting across CPUs and GPUs in Rust 🦀 and Python 🐍 <https://ashvardanian.com/posts/stringwars-on-gpus/>
+- [soasis/text](https://github.com/soasis/text): A spicy text library for C++ that has the explicit goal of enabling the entire ecosystem to share in proper forward progress towards a bright Unicode future. <https://ztdtext.readthedocs.io/en/latest/>
 
 ## Speed up Python
 

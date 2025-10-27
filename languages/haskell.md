@@ -95,6 +95,7 @@
 - [UnkindPartition/tasty](https://github.com/UnkindPartition/tasty): Modern and extensible testing framework for Haskell
   - [MichaelXavier/tasty-tap](https://github.com/MichaelXavier/tasty-tap): TAP (Test Anything Protocol) formatter for tasty
 - [NorfairKing/sydtest](https://github.com/NorfairKing/sydtest): A modern testing framework for Haskell with good defaults and advanced testing features.
+- [sol/doctest](https://github.com/sol/doctest): An implementation of Python's doctest for Haskell <https://hackage.haskell.org/package/doctest>
 
 ## Parser
 

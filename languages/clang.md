@@ -142,6 +142,7 @@ And modern is here now.
 ### Test suites
 
 - 🌟 [catchorg/Catch2](https://github.com/catchorg/Catch2): A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch) <https://discord.gg/4CWS9zD>
+- 🌟 [doctest/doctest](https://github.com/doctest/doctest): The fastest feature-rich C++11/14/17/20/23 single-header testing framework <https://bit.ly/doctest-docs>
 - [google/googletest](https://github.com/google/googletest): GoogleTest - Google Testing and Mocking Framework <https://google.github.io/googletest/>
 - [eranpeer/FakeIt](https://github.com/eranpeer/FakeIt): C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
 
@@ -301,6 +302,7 @@ And modern is here now.
 - [Tradias/asio-grpc](https://github.com/Tradias/asio-grpc): Asynchronous gRPC with Asio/unified executors <https://tradias.github.io/asio-grpc/>
 - [erpc-io/eRPC](https://github.com/erpc-io/eRPC): Efficient RPCs for datacenter networks <https://erpc.io/>
 - [PragmaTwice/protopuf](https://github.com/PragmaTwice/protopuf): Protocol Puffers: A little, highly templated, and protobuf-compatible serialization/deserialization header-only library written in C++20
+- 🌟 [mapbox/protozero](https://github.com/mapbox/protozero): Minimalist protocol buffer decoder and encoder in C++
 
 ### Framework
 
@@ -332,6 +334,7 @@ And modern is here now.
 - [nihui/ruapu](https://github.com/nihui/ruapu): Detect CPU ISA features with single-file <https://github.com/nihui/ruapu>
 - [jupp0r/prometheus-cpp](https://github.com/jupp0r/prometheus-cpp): Prometheus Client Library for Modern C++
 - [gflags/gflags](https://github.com/gflags/gflags): The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at: <https://gflags.github.io/gflags/>
+- [soasis/platform](https://github.com/soasis/platform): A library for messing with platfom-dependent configurations and libraries, and sometimes hiding their cores.
 
 ## GPU / CUDA
 

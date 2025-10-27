@@ -101,6 +101,12 @@
   - [containers/prometheus-podman-exporter](https://github.com/containers/prometheus-podman-exporter): Prometheus exporter for podman environments exposing containers, pods, images, volumes and networks information.
   - [containers/containerimage-py](https://github.com/containers/containerimage-py): A python library for interacting with container images and container image registries
   - [containers/podman-tui](https://github.com/containers/podman-tui): Podman Terminal UI
+- [docker/docker-py](https://github.com/docker/docker-py): A Python library for the Docker Engine API <https://docker-py.readthedocs.io/>
+- 🌟 [orsinium-labs/docked](https://github.com/orsinium-labs/docked): A friendly and safe alternative to Dockefile. Write Docker images using the full power of Python. <https://docked.orsinium.dev>
+  - Great idea for operating container images with Python scripts.
+  - So sad that the project is not maintained for a long time.
+- [getwud/wud](https://github.com/getwud/wud): Keep your containers up-to-date! <https://getwud.github.io/wud/>
+- [crazy-max/diun](https://github.com/crazy-max/diun): Receive notifications when an image is updated on a Docker registry <https://crazymax.dev/diun/>
 
 ### Filesystem
 
@@ -117,16 +123,12 @@
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop): Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server): No description or website provided.
 
-#### Container utils
+#### Container status / Dashboard
 
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker
 - [amir20/dozzle](https://github.com/amir20/dozzle): Realtime log viewer for docker containers. <https://dozzle.dev/>
 - [louislam/dockge](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager <https://dockge.kuma.pet>
 - [composecraft/composecraft](https://github.com/composecraft/composecraft): Compose craft is a tool to help you manage, edit and share docker compose files in a GUI way.
-- [orsinium-labs/docked](https://github.com/orsinium-labs/docked): A friendly and safe alternative to Dockefile. Write Docker images using the full power of Python. <https://docked.orsinium.dev>
-- 🌟 [docker/docker-py](https://github.com/docker/docker-py): A Python library for the Docker Engine API <https://docker-py.readthedocs.io/>
-- [crazy-max/diun](https://github.com/crazy-max/diun): Receive notifications when an image is updated on a Docker registry <https://crazymax.dev/diun/>
-- [getwud/wud](https://github.com/getwud/wud): Keep your containers up-to-date! <https://getwud.github.io/wud/>
 - [ofkm/arcane](https://github.com/ofkm/arcane): Modern Docker Management, Designed for Everyone <https://arcane.ofkm.dev>
 - [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc): container image to single executable compiler
   - how big for the final binary?
@@ -198,6 +200,7 @@ Type 1 hypervisors
 - [Barre/ZeroFS](https://github.com/Barre/ZeroFS): ZeroFS - The Filesystem That Makes S3 your Primary Storage. ZeroFS is 9P/NFS/NBD on top of S3. <https://www.zerofs.net>
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs): A distributed file system
 - [cxl-micron-reskit/famfs](https://github.com/cxl-micron-reskit/famfs): This is the user space repo for famfs, the fabric-attached memory file system
+- [scality/Zenko](https://github.com/scality/Zenko): Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud. <https://www.zenko.io>
 
 ### Serverless
 
@@ -230,6 +233,7 @@ Type 1 hypervisors
   - [dvershinin/gixy](https://github.com/dvershinin/gixy): NGINX configuration static analyzer <https://gixy.getpagespeed.com>
   - [nginx/nginx-acme](https://github.com/nginx/nginx-acme): An NGINX module with the implementation of the automatic certificate management (ACMEv2) protocol <https://nginx.org>
     - [NGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog](https://blog.nginx.org/blog/native-support-for-acme-protocol): no description found
+  - [google/ngx_brotli](https://github.com/google/ngx_brotli): NGINX module for Brotli compression
 - [facebookincubator/katran](https://github.com/facebookincubator/katran): A high performance layer 4 load balancer
 - [projectcontour/contour](https://github.com/projectcontour/contour): Contour is a Kubernetes ingress controller using Envoy proxy. <https://projectcontour.io>
 - [megaease/easegress](https://github.com/megaease/easegress): A Cloud Native traffic orchestration system <https://megaease.com/easegress/>

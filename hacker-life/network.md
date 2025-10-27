@@ -24,6 +24,7 @@
 - [espoal/awesome-iouring](https://github.com/espoal/awesome-iouring): Delightful io_uring packages and resources
 - [curl/everything-curl](https://github.com/curl/everything-curl): The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. <https://everything.curl.dev/>
 - [Linux Network Performance Ultimate Guide | kiennt26](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/): Author: Kien Nguyen <kiennt2609@gmail.com> A minimal Hugo theme with Tailwind CSS
+- 🌟 [The world in which IPv6 was a good design - apenwarr](https://apenwarr.ca/log/20170810)
 
 ## Libraries
 
@@ -149,6 +150,7 @@
 - [devanshbatham/DNSleuth](https://github.com/devanshbatham/DNSleuth): DNSleuth sniffs DNS packets, i.e, allowing you to spy on the DNS queries your machine is making
 - [felixonmars/dnsmasq-china-list](https://github.com/felixonmars/dnsmasq-china-list): Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.
 - [pymumu/smartdns](https://github.com/pymumu/smartdns): A local DNS server to obtain the fastest website IP for the best Internet experience，一个本地 DNS 服务器，获取最快的网站 IP，获得最佳上网体验。
+  - [mokeyish/smartdns-rs](https://github.com/mokeyish/smartdns-rs): A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoQ, DoH, DoH3.
 - [IrineSistiana/mosdns](https://github.com/IrineSistiana/mosdns): 一个 DNS 转发器
 - [errantmind/faf-dns-proxy](https://github.com/errantmind/faf-dns-proxy): A DNS-over-TLS (DoT) Proxy, Engineered for Speed
 - [rtr7/router7](https://github.com/rtr7/router7): router7 is a small home internet router completely written in Go. It is implemented as a gokrazy appliance. <https://router7.org>
@@ -180,6 +182,7 @@
 - [ethack/docker-vpn](https://github.com/ethack/docker-vpn): Conveniently connect to Cisco AnyConnect or OpenVPN endpoints using a docker container
 - [alebeck/boring](https://github.com/alebeck/boring): The `boring` SSH tunnel manager
 - [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp): A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-driven world. <https://opennhp.org/>
+- [yosebyte/nodepass](https://github.com/yosebyte/nodepass): A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. <https://nodepass.eu>
 
 ### Warp
 
@@ -296,3 +299,5 @@ STUN / TURN / ICE
 - [Check My NAT](https://www.checkmynat.com/): Online Service for NAT Type Detecting
 - [dsgnr/portchecker.io](https://github.com/dsgnr/portchecker.io): portchecker.io is a free online utility to check the port status of a given hostname or IP address. <https://portchecker.io>
 - [WebBrowserTools](https://webbrowsertools.com/): The community of open-source projects to help improve the privacy and security of your online appearance
+
+- [qvis: tools and visualizations for QUIC and HTTP/3](https://qvis.quictools.info/#/files): no description found

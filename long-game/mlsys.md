@@ -360,6 +360,7 @@ JAX Special
 - [salesforce/jaxformer](https://github.com/salesforce/jaxformer): Minimal library to train LLMs on TPU in JAX with pjit().
 - [NVIDIA/jaxpp](https://github.com/NVIDIA/jaxpp): JaxPP is a library for JAX that enables flexible MPMD pipeline parallelism for large-scale LLM training
 - [NVIDIA/maxtext-jaxpp](https://github.com/NVIDIA/maxtext-jaxpp): Showcase JaxPP with MaxText
+- [google/tunix](https://github.com/google/tunix): A JAX-native LLM Post-Training Library
 
 ## Jax ecology
 

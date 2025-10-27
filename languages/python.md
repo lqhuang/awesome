@@ -39,7 +39,6 @@
 - [satori1995/python-tech](https://github.com/satori1995/python-tech): Python 实用技巧
   - in Chinese
 - [python/typing-council](https://github.com/python/typing-council): Decisions by the Python Typing Council
-- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips): FastAPI Tips by The FastAPI Expert!
 - [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
   - [scientific-python/cookie](https://github.com/scientific-python/cookie): Scientific Python Library Development Guide and Cookiecutter <https://learn.scientific-python.org/development>
 - [Python extensions should be lazy](https://www.gauge.sh/blog/python-extensions-should-be-lazy)
@@ -161,6 +160,7 @@ Templates
 - [psincraian/pepy](https://github.com/psincraian/pepy): pepy is a site to get statistics information about any Python package. <https://pepy.tech>
 - 🌟 [mgaitan/sphinxcontrib-mermaid](https://github.com/mgaitan/sphinxcontrib-mermaid): Mermaid diagrams in yours sphinx powered docs <http://sphinxcontrib-mermaid-demo.readthedocs.io/en/latest/>
 - [lepture/sphinx-iconify](https://github.com/lepture/sphinx-iconify): A sphinx extension to use `<iconify-icon>` web component. <https://sphinx-iconify.lepture.com/>
+- [samuelcolvin/mkdocs-run-code](https://github.com/samuelcolvin/mkdocs-run-code): No description, website, or topics provided.
 
 ### Security
 
@@ -404,6 +404,8 @@ Misc
 - [spec-first/connexion](https://github.com/spec-first/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support <https://connexion.readthedocs.io/en/latest>
 - 🌟 [litestar-org/litestar](https://github.com/litestar-org/litestar): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs <https://litestar.dev/>
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users): Ready-to-use and customizable users management for FastAPI <https://fastapi-users.github.io/fastapi-users/>
+- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips): FastAPI Tips by The FastAPI Expert!
+- [NRWLDev/fastapi-problem](https://github.com/NRWLDev/fastapi-problem): Problem details for FASTApi.
 - [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc): The python library for real-time communication <https://fastrtc.org/>
 - [python-hyper/wsproto](https://github.com/python-hyper/wsproto): Sans-IO WebSocket protocol implementation <https://wsproto.readthedocs.io/>
 - [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto): Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.

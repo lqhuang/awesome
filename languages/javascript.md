@@ -231,6 +231,8 @@ Specific
   - [hyparam/hysnappy](https://github.com/hyparam/hysnappy): Snappy decompression with WebAssembly
 - [eemeli/yaml](https://github.com/eemeli/yaml): YAML parser and stringifier for JavaScript <https://eemeli.org/yaml>
 - [vercel/bidc](https://github.com/vercel/bidc): Bidirectional Channels for JavaScript
+- [rictic/jsonriver](https://github.com/rictic/jsonriver): A simple, fast streaming JSON parser built on standards. <https://rictic.github.io/jsonriver/>
+- 🌟 [oozcitak/xmlbuilder2](https://github.com/oozcitak/xmlbuilder2): An XML builder for node.js
 
 ### Parser
 
@@ -329,6 +331,9 @@ Specific
 - [modesty/pdf2json](https://github.com/modesty/pdf2json): A PDF file parser that converts PDF binaries to text based JSON, powered by a fork of PDF.JS
 - [unjs/unpdf](https://github.com/unjs/unpdf): 📄 Utilities to work with PDFs in Node.js, browser and workers
 - [parallax/jsPDF](https://github.com/parallax/jsPDF): Client-side JavaScript PDF generation for everyone. <https://parall.ax/products/jspdf>
+- [htmldocs-js/htmldocs](https://github.com/htmldocs-js/htmldocs): The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind <https://htmldocs.com>
+- [MatthewHerbst/react-to-print](https://github.com/MatthewHerbst/react-to-print): Print React components in the browser <https://www.npmjs.com/package/react-to-print>
+- [lmn1919/dompdf.js](https://github.com/lmn1919/dompdf.js): A JavaScript library that can convert HTML into an editable, non-image-based, printable PDF;一个 js 库，可以将 HTML 转化成可编辑、非图片式、高清晰度、小体积、可打印的 PDF
 
 ### Logging
 
@@ -346,6 +351,7 @@ Specific
   - highlights: Validate API responses with `zod`, `valibot` or `arktype`
 - [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch): ⚡ Fetching and realtime data exchange framework. <https://hyperfetch.bettertyped.com/>
 - [fetch-kit/ffetch](https://github.com/fetch-kit/ffetch): TypeScript-first fetch wrapper with configurable timeouts, retries, and circuit-breaker baked in.
+- [elbywan/wretch](https://github.com/elbywan/wretch): A tiny wrapper built around fetch with an intuitive syntax. 🍬
 
 ### Clients
 
@@ -356,6 +362,8 @@ Specific
 - [dahlia/upyo](https://github.com/dahlia/upyo): Upyo is a simple and cross-runtime library for sending email messages using SMTP and various email providers. It works on Node.js, Deno, Bun, and edge functions. <https://upyo.org/>
 - [mjmlio/mjml](https://github.com/mjmlio/mjml): MJML: the only framework that makes responsive-email easy <https://mjml.io>
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet): Google Sheets API wrapper for Javascript / Typescript <https://theoephraim.github.io/node-google-spreadsheet>
+- [postalsys/emailengine](https://github.com/postalsys/emailengine): Headless email client <https://emailengine.app/>
+- [postalsys/imapflow](https://github.com/postalsys/imapflow): IMAP Client library for EmailEngine Email API (https://emailengine.app) <https://imapflow.com>
 
 ### CLI
 
@@ -412,6 +420,7 @@ Specific
 - [shuding/legid](https://github.com/shuding/legid): A library for generating safe, legit and random URL-compat IDs.
 - [inspect-js/object-inspect](https://github.com/inspect-js/object-inspect): string representations of objects in node and the browser
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny): Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser. <https://mediabunny.dev/>
+- [rawify/MaxIntervalCover.js](https://github.com/rawify/MaxIntervalCover.js): The RAW MaxIntervalCover library computes the optimal subset of non-overlapping intervals that maximizes total covered length
 
 Deep equal
 
