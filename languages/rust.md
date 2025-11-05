@@ -252,6 +252,7 @@
 - [cloudflare/trie-hard](https://github.com/cloudflare/trie-hard): Novel implementation of a Trie data structure optimized for small, sparse maps
 - [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya): A fast and ergonomic concurrent hash-table for read-heavy workloads.
 - [ngernest/urn-rs](https://github.com/ngernest/urn-rs): A Rust implementation of the Urn data structure for efficient random sampling
+- [djc/hashlink](https://github.com/djc/hashlink): An updated version of linked-hash-map and friends
 
 ### CRDT
 

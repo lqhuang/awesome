@@ -35,3 +35,4 @@
 - [cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature): what if signatures were determined by keyboard? <https://signature.cnrad.dev>
 - [git.0x0.st:mia/0x0](https://git.0x0.st/mia/0x0): 0x0 - No-bullshit file hosting and URL shortening service
   - [Calinou/0x0](https://github.com/Calinou/0x0): curl wrapper script to upload local or remote files to 0x0.st
+- [tanrax/org-social](https://github.com/tanrax/org-social): Org Social is a decentralized social network that runs on an Org Mode file over HTTP.

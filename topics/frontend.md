@@ -133,6 +133,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [cferdinandi/kraken](https://github.com/cferdinandi/kraken): A lightweight, mobile-first boilerplate for front-end web developers. <http://cferdinandi.github.io/kraken>
 - 🌟 [webtui/webtui](https://github.com/webtui/webtui): <https://webtui.ironclad.sh/>
   - Interesting!
+- [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons): Functional css for humans <https://tachyons.io>
+- [homebound-team/truss](https://github.com/homebound-team/truss): A TypeScript DSL for writing utility CSS in React/JSX
 
 #### CSS in JS
 
@@ -155,6 +157,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [styled-components/polished](https://github.com/styled-components/polished): A lightweight toolset for writing styles in JavaScript ✨ <https://polished.js.org/>
 - [mui/pigment-css](https://github.com/mui/pigment-css): Pigment CSS is a zero-runtime CSS-in-JS library that extracts the colocated styles to their own CSS files at build time.
 - [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui): 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨ <https://kuma-ui.com>
+- [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled): A familiar and performant compile time CSS-in-JS library for React. <https://compiledcssinjs.com>
+- [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks): Hook into advanced CSS features from native inline styles. <https://css-hooks.com>
 
 ### linters
 
@@ -279,10 +283,12 @@ Shadcn UI eco system
   - A great collection to learn how to use motion
 - [shadcn/ui registry — UI.pub](https://uipub.com/): Premium shadcn/ui components registry. UI Kits, Blocks, Templates.
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components): A collection of neobrutalism-styled Tailwind components. <https://neobrutalism.dev>
+- [FranciscoMoretti/shadcn-lazy-tooltip](https://github.com/FranciscoMoretti/shadcn-lazy-tooltip): 8x faster Shadcn Tooltip by lazy loading
 
 #### Base-ui eco system
 
 - [cosscom/coss](https://github.com/cosscom/coss): coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet. <https://coss.com>
+- [anxndsgn/FigUI](https://github.com/anxndsgn/FigUI): FigUI is a figma ui3 style component library using react, tailwind and base-ui <https://figui.dev>
 
 #### Svelte
 
@@ -362,6 +368,7 @@ Select
 
 - [JedWatson/react-select](https://github.com/JedWatson/react-select): The Select Component for React.js <https://react-select.com/>
 - [simonwep/selection](https://github.com/simonwep/selection): ✨ Viselect - A high performance and lightweight library to add a visual way of selecting elements, just like on your Desktop. Zero dependencies, super small. Support for major frameworks! <https://simonwep.github.io/selection>
+- [brianvoe/slim-select](https://github.com/brianvoe/slim-select): Slim advanced select dropdown <http://slimselectjs.com>
 
 Drag / Drop
 
@@ -569,8 +576,11 @@ Concrete animations
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake): CSS classes to move your DOM! <https://elrumordelaluz.github.io/csshake/>
 - 🌟 [paper-design/shaders](https://github.com/paper-design/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper <https://paper.design>
 - [shaders.com](https://shaders.com/): shader magic ✨ for frontend frameworks
+- [shajidhasan/spoilerjs](https://github.com/shajidhasan/spoilerjs): A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations. <https://spoilerjs.sh4jid.me>
 
 ## Functional libraries
+
+- 🌟 [molefrog/wouter](https://github.com/molefrog/wouter): 🥢 A minimalist-friendly ~2.1KB routing for React and Preact <https://npm.im/wouter>
 
 ### State management
 
@@ -611,15 +621,15 @@ Concrete animations
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware): ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes <https://fezvrasta.github.io/react-resize-aware>
 - 🌟 [hoppergee/heic-to](https://github.com/hoppergee/heic-to): Convert HEIC/HEIF images to JPEG, PNG in browser
 - 🌟 [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action): Type safe and validated Server Actions in your Next.js project. <https://next-safe-action.dev>
-- [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot): 📸 Quickly generate image from DOM node using HTML5 canvas and SVG. <https://toolpkg.com/html-to-image>
 - 🌟 [amrlabib/react-timer-hook](https://github.com/amrlabib/react-timer-hook): React timer hook <https://www.npmjs.com/package/react-timer-hook>
-- 🌟 [texel-org/color](https://github.com/texel-org/color): modern color library for image processing and creative coding (oklab, xyz, p3, rec2020 + more)
 - [hypershiphq/react-cookie-manager](https://github.com/hypershiphq/react-cookie-manager): A powerful, customizable React component for cookie consent management with built-in tracking prevention. This component provides a modern, user-friendly way to obtain and manage cookie consent from your website visitors.
 - [svg/svgo](https://github.com/svg/svgo): ⚙️ Node.js tool for optimizing SVG files <https://svgo.dev/>
 - 🌟 [SukkaW/fast-escape-html](https://github.com/SukkaW/fast-escape-html): Fastest, plain JavaScript-based, HTML escaping library for JavaScript, works in both Node.js and browser. Even faster than a Rust-based one in real world HTMLs!
 - 🌟 [Assortment/darkmodejs](https://github.com/Assortment/darkmodejs): Utility package for managing Dark Mode on the web <https://darkmodejs-demo.netlify.com/>
   - small and clean, you can even just in-tree it
 - [kane50613/takumi](https://github.com/kane50613/takumi): Render your React components to images. Available for Rust, Node.js, and WebAssembly. <https://takumi.kane.tw>
+- [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot): 📸 Quickly generate image from DOM node using HTML5 canvas and SVG. <https://toolpkg.com/html-to-image>
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom): snapDOM captures HTML elements to images with exceptional speed and accuracy. <https://snapdom.dev>
 
 ### Misc
 
@@ -676,6 +686,8 @@ Concrete animations
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts): Performant financial charts built with HTML5 canvas <https://www.tradingview.com/lightweight-charts/>
 - [konvajs/konva](https://github.com/konvajs/konva): Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. <http://konvajs.org/>
 - [naver/billboard.js](https://github.com/naver/billboard.js): 📊 Re-usable, easy interface JavaScript chart library based on D3.js <https://naver.github.io/billboard.js/>
+- [recharts/recharts](https://github.com/recharts/recharts): Redefined chart library built with React and D3 <http://recharts.org>
+- [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts): A Beautiful & Animated Chart UI Website built on top of shadcn & recharts. <https://evilcharts.com>
 
 ### Tree / Architecture
 
@@ -694,7 +706,6 @@ Concrete animations
 ### SVG utilities
 
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js): The lightweight library for manipulating and animating SVG <https://svgjs.dev>
-- [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg): SVG library for React Native, React Native Web, and plain React web projects.
 
 ### OSS
 
@@ -711,6 +722,7 @@ Concrete animations
 - 🌟 [jpswalsh/academicons](https://github.com/jpswalsh/academicons): An icon font for academics <https://jpswalsh.github.io/academicons>
 - [HeyHuazi/SVGLOGO](https://github.com/HeyHuazi/SVGLOGO): SVG LOGO for China <https://svglogo.top/>
 - [azat-io/eyecons](https://github.com/azat-io/eyecons): 🎨 Advanced VS Code icon theme with adaptive icon colors that match the editor’s color theme <https://eyecons.dev>
+- [Obra-Studio/obra-icons-mr](https://github.com/Obra-Studio/obra-icons-mr): Obra Icons monorepo <https://icons.obra.studio/>
 
 ### Collections
 

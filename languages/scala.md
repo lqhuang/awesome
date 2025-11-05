@@ -168,6 +168,7 @@
 - [scalastyle/scalastyle](https://github.com/scalastyle/scalastyle): scalastyle <http://www.scalastyle.org>
 - [scapegoat-scala/scapegoat](https://github.com/scapegoat-scala/scapegoat): Scala compiler plugin for static code analysis
 - [wartremover/wartremover](https://github.com/wartremover/wartremover): Flexible Scala code linting tool <https://www.wartremover.org/>
+- [tanin47/scalafix-forbidden-symbol](https://github.com/tanin47/scalafix-forbidden-symbol): A Scalafix rule to forbid the usage of specified packages, classes, methods, and enums.
 
 ### Program Analysis
 
@@ -180,6 +181,7 @@
 - [epfl-lara/ScalaZ3](https://github.com/epfl-lara/ScalaZ3): DSL in Scala for Constraint Solving with Z3 SMT Solver
   - [Scala^Z3: Integration of Scala and Z3](https://lara.epfl.ch/w/scalaz3)
   - [Examples of Using Z3 with Scala](https://lara.epfl.ch/w/jniz3-scala-examples)
+- [scapegoat-scala/scapegoat](https://github.com/scapegoat-scala/scapegoat): Scala compiler plugin for static code analysis
 
 ### Compiler plugins
 
@@ -549,6 +551,7 @@ Tracing and OpenTelemetry
 - [Quafadas/spire_AD](https://github.com/Quafadas/spire_AD): Reverse mode automatic differentiation based on spire <https://quafadas.github.io/spire_AD/docs/index.html>
 - 🌟 [ekrich/sblas](https://github.com/ekrich/sblas): Scala Native BLAS (Basic Linear Algebra Subprograms) supporting Linux and macOS
 - 🌟 [sbrunk/storch](https://github.com/sbrunk/storch): GPU accelerated deep learning and numeric computing for Scala 3. <https://storch.dev>
+  - [bytedeco/storch-numpy](https://github.com/bytedeco/storch-numpy): Pure Numpy ON Scala3
 - [ComputeNode/cyfra](https://github.com/ComputeNode/cyfra): Multi-platform GPGPU computations with Scala, seamlessly 🚀
 - [audienceproject/crossbow](https://github.com/audienceproject/crossbow): Single node, in-memory DataFrame analytics library.
 - [airbnb/chronon](https://github.com/airbnb/chronon): Chronon is a data platform for serving for AI/ML applications.
@@ -556,6 +559,7 @@ Tracing and OpenTelemetry
 - [Kright/ArrayView](https://github.com/Kright/ArrayView): Scala library for efficient multi-dimensional arrays
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp): State of the Art Natural Language Processing <https://sparknlp.org/>
 - [luhenry/netlib](https://github.com/luhenry/netlib): An high-performance, hardware-accelerated implementation of Netlib in Java
+- [projectglow/glow](https://github.com/projectglow/glow): An open-source toolkit for large-scale genomic analysis <https://projectglow.io>
 
 ### kotlin for Data Intensive System
 

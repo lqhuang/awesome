@@ -8,6 +8,8 @@
 
 - [life4/enc](https://github.com/life4/enc): 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
 - [gchq/CyberChef](https://github.com/gchq/CyberChef): The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis <https://gchq.github.io/CyberChef>
+- [openxpki/openxpki](https://github.com/openxpki/openxpki): OpenXPKI Code <http://www.openxpki.org>
+- [openca/libpki](https://github.com/openca/libpki): Easy-to-use high-level library for PKI-enabled applications
 
 ## Libraries
 
@@ -20,6 +22,8 @@
 - [aws/s2n-tls](https://github.com/aws/s2n-tls): An implementation of the TLS/SSL protocols <https://aws.github.io/s2n-tls/usage-guide/>
 - [aegis-aead/libaegis](https://github.com/aegis-aead/libaegis): Portable C implementations of the AEGIS family of high-performance authenticated encryption algorithms. <https://datatracker.ietf.org/doc/draft-irtf-cfrg-aegis-aead/>
 - [ogxd/gxhash](https://github.com/ogxd/gxhash): The fastest hashing algorithm 📈 <https://docs.rs/gxhash>
+- [besser82/libxcrypt](https://github.com/besser82/libxcrypt): Extended crypt library for descrypt, md5crypt, bcrypt, and others
+  - support obsolete crypt API for glibc compatibility with musl libc
 
 ## Certificate Management
 

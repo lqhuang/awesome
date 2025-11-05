@@ -40,24 +40,6 @@
 - 🌟 [Schniz/fnm](https://github.com/Schniz/fnm): 🚀 Fast and simple Node.js version manager, built in Rust <https://fnm.vercel.app>
 - [volta-cli/volta](https://github.com/volta-cli/volta): Volta: JS Toolchains as Code. ⚡ <https://volta.sh>
 
-### Tools
-
-- [neon-bindings/neon](https://github.com/neon-bindings/neon): Rust bindings for writing safe and fast native Node.js modules. <https://www.neon-bindings.com/>
-- [vercel/turbo](https://github.com/vercel/turbo): Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. <https://turbo.build>
-- [jsr-io/jsr](https://github.com/jsr-io/jsr): The open-source package registry for modern JavaScript and TypeScript <https://jsr.io>
-- 🌟 [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc): Documentation generator for TypeScript projects. <https://typedoc.org>
-- [AdiRishi/turborepo-remote-cache-cloudflare](https://github.com/AdiRishi/turborepo-remote-cache-cloudflare): An implementation of the turborepo-remote-cache server custom made for Cloudflare Workers <https://adirishi.github.io/turborepo-remote-cache-cloudflare/>
-- 🌟 [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs <https://openapi-ts.dev>
-- [vltpkg/vltpkg](https://github.com/vltpkg/vltpkg): the vlt monorepo <https://vlt.sh>
-  - awesome built-in vis for deps
-- [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm scripts to make them smarter and more efficient.
-- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates): Find newer versions of package dependencies than what your package.json allows
-- 🌟 [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts): 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos <https://heyapi.dev>
-- 🌟 [errsole/errsole.js](https://github.com/errsole/errsole.js): Collect, Store, and Visualize Logs with a Single Module
-- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): A lightweight Node.js private proxy registry <https://www.verdaccio.org/>
-- [facebook/jscodeshift](https://github.com/facebook/jscodeshift): A JavaScript codemod toolkit. <https://jscodeshift.com>
-- [platformatic/massimo](https://github.com/platformatic/massimo): Massimo is an API SDK client and CLI tool for creating clients for remote OpenAPI or GraphQL APIs <https://massimohttp.dev>
-
 ### Bundler
 
 - vite
@@ -66,6 +48,24 @@
 - [addyosmani/critical](https://github.com/addyosmani/critical): Extract & Inline Critical-path CSS in HTML pages
 - 🌟 [filipsobol/sonda](https://github.com/filipsobol/sonda): Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks <https://sonda.dev/>
 - 🌟 [nodejs-loaders/nodejs-loaders](https://github.com/nodejs-loaders/nodejs-loaders): This repo provides a variety of loaders to facilitate quick and easy local development and CI testing. <https://www.npmjs.com/org/nodejs-loaders>
+
+### Linter / Formatter
+
+- [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies and exports in your JS/TS project
+- [webpro-nl/knip](https://github.com/webpro-nl/knip): ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! <https://knip.dev>
+- [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js): quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
+- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser): Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD. <https://npmjs.com/dependency-cruiser>
+- [pahen/madge](https://github.com/pahen/madge): Create graphs from your CommonJS, AMD or ES6 module dependencies
+- [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector): Interactive UI for local node modules inspection <https://node-modules.dev>
+- [@next/bundle-analyzer | npmjs](https://www.npmjs.com/package/@next/bundle-analyzer)
+- 🌟 [facebook/memlab](https://github.com/facebook/memlab): A framework for finding JavaScript memory leaks and analyzing heap snapshots <https://facebook.github.io/memlab/>
+- [keithamus/sort-package-json](https://github.com/keithamus/sort-package-json): Sort an Object or package.json based on the well-known package.json keys
+  - [matzkoh/prettier-plugin-packagejson](https://github.com/matzkoh/prettier-plugin-packagejson): Prettier plugin for package.json
+- [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint): ✨ Experimental proof-of-concept typescript-go powered JS/TS linter written in Go
+- [eslint/markdown](https://github.com/eslint/markdown): Lint JavaScript code blocks in Markdown documents
+- [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x): `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin. <https://npm.im/eslint-plugin-import-x>
+- [gasket-tools/gasket](https://github.com/gasket-tools/gasket): Identify bridges from JS to Native or JS to WASM in V8 embedders
+- [luoling8192/better-import](https://github.com/luoling8192/better-import): CLI tool to detect replaceable dependencies in your package.json files.
 
 ### Runtime
 
@@ -115,21 +115,22 @@ Specific
 - [axa-group/oauth2-mock-server](https://github.com/axa-group/oauth2-mock-server): A development and test oriented OAuth2 mock server
 - [navikt/mock-oauth2-server](https://github.com/navikt/mock-oauth2-server): A scriptable/customizable web server for testing HTTP clients using OAuth2/OpenID Connect or applications with a dependency to a running OAuth2 server (i.e. APIs requiring signed JWTs from a known issuer)
 
-### Linter / Formatter
+### Tools
 
-- [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies and exports in your JS/TS project
-- [webpro-nl/knip](https://github.com/webpro-nl/knip): ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! <https://knip.dev>
-- [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js): quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
-- [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser): Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD. <https://npmjs.com/dependency-cruiser>
-- [pahen/madge](https://github.com/pahen/madge): Create graphs from your CommonJS, AMD or ES6 module dependencies
-- [antfu/node-modules-inspector](https://github.com/antfu/node-modules-inspector): Interactive UI for local node modules inspection <https://node-modules.dev>
-- [@next/bundle-analyzer | npmjs](https://www.npmjs.com/package/@next/bundle-analyzer)
-- 🌟 [facebook/memlab](https://github.com/facebook/memlab): A framework for finding JavaScript memory leaks and analyzing heap snapshots <https://facebook.github.io/memlab/>
-- [keithamus/sort-package-json](https://github.com/keithamus/sort-package-json): Sort an Object or package.json based on the well-known package.json keys
-  - [matzkoh/prettier-plugin-packagejson](https://github.com/matzkoh/prettier-plugin-packagejson): Prettier plugin for package.json
-- [typescript-eslint/tsgolint](https://github.com/typescript-eslint/tsgolint): ✨ Experimental proof-of-concept typescript-go powered JS/TS linter written in Go
-- [eslint/markdown](https://github.com/eslint/markdown): Lint JavaScript code blocks in Markdown documents
-- [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x): `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin. <https://npm.im/eslint-plugin-import-x>
+- [neon-bindings/neon](https://github.com/neon-bindings/neon): Rust bindings for writing safe and fast native Node.js modules. <https://www.neon-bindings.com/>
+- [vercel/turbo](https://github.com/vercel/turbo): Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. <https://turbo.build>
+- [jsr-io/jsr](https://github.com/jsr-io/jsr): The open-source package registry for modern JavaScript and TypeScript <https://jsr.io>
+- 🌟 [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc): Documentation generator for TypeScript projects. <https://typedoc.org>
+- [AdiRishi/turborepo-remote-cache-cloudflare](https://github.com/AdiRishi/turborepo-remote-cache-cloudflare): An implementation of the turborepo-remote-cache server custom made for Cloudflare Workers <https://adirishi.github.io/turborepo-remote-cache-cloudflare/>
+- 🌟 [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs <https://openapi-ts.dev>
+- [vltpkg/vltpkg](https://github.com/vltpkg/vltpkg): the vlt monorepo <https://vlt.sh>
+  - awesome built-in vis for deps
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates): Find newer versions of package dependencies than what your package.json allows
+- 🌟 [errsole/errsole.js](https://github.com/errsole/errsole.js): Collect, Store, and Visualize Logs with a Single Module
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): A lightweight Node.js private proxy registry <https://www.verdaccio.org/>
+- [facebook/jscodeshift](https://github.com/facebook/jscodeshift): A JavaScript codemod toolkit. <https://jscodeshift.com>
+- [platformatic/massimo](https://github.com/platformatic/massimo): Massimo is an API SDK client and CLI tool for creating clients for remote OpenAPI or GraphQL APIs <https://massimohttp.dev>
+- [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack): A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations <https://better-t-stack.dev>
 
 ### Modernize
 
@@ -285,7 +286,7 @@ Specific
 - [yomorun/presencejs](https://github.com/yomorun/presencejs): @yomo/presencejs ⚡️ made realtime web applications edge-aware by YoMo, WebTransport based, provide fallback to WebSocket automatically. <https://presence.js.org>
 - [gajus/slonik](https://github.com/gajus/slonik): A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [Muhammad-Magdi/pgmq-js](https://github.com/Muhammad-Magdi/pgmq-js): Postgres Message Queue (PGMQ) JavaScript Client Library
-- [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts): Turn your OpenAPI specification into a beautiful TypeScript client <https://npmjs.com/package/@hey-api/openapi-ts>
+- 🌟 [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts): 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos <https://heyapi.dev>
 - [nodeshift/opossum](https://github.com/nodeshift/opossum): Node.js circuit breaker - fails fast ⚡️ <https://nodeshift.dev/opossum/>
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3): The fastest and simplest library for SQLite3 in Node.js.
 - [gajus/slonik](https://github.com/gajus/slonik): A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
@@ -434,13 +435,14 @@ Deep equal
 
 - [aspen-cloud/triplit](https://github.com/aspen-cloud/triplit): A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte). <https://triplit.dev>
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware): ⚡ The one-liner node.js http-proxy middleware for connect, express, next.js and more
-- [tinyplex/tinybase](https://github.com/tinyplex/tinybase): The reactive data store for local‑first apps. <https://tinybase.org>
+- [tinyplex/tinybase](https://github.com/tinyplex/tinybase): The reactive data store for local-first apps. <https://tinybase.org>
 - [tinyhttp/malibu](https://github.com/tinyhttp/malibu): 🏄 Framework-agnostic CSRF middleware for modern Node.js <https://tinyhttp.v1rtl.site/mw/malibu>
 - [cipherstash/protectjs](https://github.com/cipherstash/protectjs): Encrypt and protect data using industry standard algorithms, field level encryption, a unique data key per record, bulk encryption operations, and decryption level identity verification. <https://cipherstash.com>
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible): Atomic counters and rate limiting tools. Limit resource access at any scale.
 
 ## Misc
 
+- [google/wireit](https://github.com/google/wireit): Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [google/zx](https://github.com/google/zx): A tool for writing better scripts <https://google.github.io/zx/>
 - 🌟 [jakebailey/hereby](https://github.com/jakebailey/hereby): A simple Node.js task runner <https://hereby.js.org>
 - [Ray-D-Song/lexe](https://github.com/Ray-D-Song/lexe): Package your Node.js application into a single executable file, but only 10MB.🔥

@@ -295,6 +295,8 @@ Misc
 - [ardentperf/dsef](https://github.com/ardentperf/dsef): DiffStats and ExplainFull: detailed SQL reports for third party help & support
 - [omnigres/omnigres](https://github.com/omnigres/omnigres): Postgres as a Platform
 - [bensheldon/good_job](https://github.com/bensheldon/good_job): Multithreaded, Postgres-based, Active Job backend for Ruby on Rails. <https://goodjob-demo.herokuapp.com/>
+- 🌟 [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus): PostgreSQL monitoring and backups (with UI and self hosted) <https://postgresus.com>
+- [pgEdge/spock](https://github.com/pgEdge/spock): Logical multi-master PostgreSQL replication <https://www.pgedge.com/get-started/>
 
 ### SQLite
 

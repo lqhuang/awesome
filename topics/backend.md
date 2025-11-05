@@ -47,6 +47,14 @@
 - 🌟 [mountain-loop/yaak](https://github.com/mountain-loop/yaak): The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 <https://yaak.app>
   - SSE and gRPC
 - 🌟 [mockoon/mockoon](https://github.com/mockoon/mockoon): Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source. <https://mockoon.com>
+- [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools): Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities | 专业的 WebSocket 调试工具，提供监控、消息模拟和流量拦截等功能 <https://websocket-devtools.com>
+
+#### Benchmark
+
+- [codesenberg/bombardier](https://github.com/codesenberg/bombardier): Fast cross-platform HTTP benchmarking tool written in Go
+- [wg/wrk](https://github.com/wg/wrk): Modern HTTP benchmarking tool
+- [lnx-search/rewrk](https://github.com/lnx-search/rewrk): A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks.
+- [hatoo/oha](https://github.com/hatoo/oha): Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 
 ## Middleware
 
@@ -71,6 +79,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable): 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. <https://aitable.ai>
 - [dream-num/univer](https://github.com/dream-num/univer): Univer is an open-source alternative to Google Sheets, Slides, and Docs <https://univer.ai>
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase): A blazingly fast, single-file, and open-source server for your application with type-safe restful APIs, auth, admin dashboard, and more. <https://trailbase.io>
+- [legions-developer/invoicely](https://github.com/legions-developer/invoicely): Invoicely is a simple and easy to use invoice generator where you can create beautiful and professional invoices in minutes. ~ Proudly OSS <https://invoicely.gg>
 
 ## Auth
 

@@ -38,29 +38,27 @@
 ### Framework
 
 - 🌟 [expo/expo](https://github.com/expo/expo): An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. <https://docs.expo.dev>
-- [nandorojo/solito](https://github.com/nandorojo/solito): 🧍‍♂️ React Native + Next.js, unified. <https://solito.dev>
+- 🌟 [nandorojo/solito](https://github.com/nandorojo/solito): 🧍‍♂️ React Native + Next.js, unified. <https://solito.dev>
 - [necolas/react-native-web](https://github.com/necolas/react-native-web): Cross-platform React UI packages <https://necolas.github.io/react-native-web>
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Next-generation HTML renderer for apps and games <https://ultralig.ht>
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows): A framework for building native Windows apps with React. <https://microsoft.github.io/react-native-windows/>
 - [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos): A framework for building native macOS apps with React. <https://microsoft.github.io/react-native-windows/>
-- [NativeBase: Universal Components for React & React Native](https://nativebase.io/): NativeBase 3.0 lets you build consistently across android, iOS & web. It is inspired by the Styled System and is accessible, highly themeable, and responsive.
 
 ### Libs
 
 - [software-mansion/react-native-gesture-handler](https://github.com/software-mansion/react-native-gesture-handler): Declarative API exposing platform native touch and gesture system to React Native. <https://docs.swmansion.com/react-native-gesture-handler/>
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated): React Native's Animated library reimplemented <https://docs.swmansion.com/react-native-reanimated/>
 - [software-mansion/react-native-screens](https://github.com/software-mansion/react-native-screens): Native navigation primitives for your React Native app.
+- [software-mansion/react-native-executorch](https://github.com/software-mansion/react-native-executorch): React Native ExecuTorch is a declarative way to run AI models in React Native on device, powered by ExecuTorch
+- [software-mansion/react-native-svg](https://github.com/software-mansion/react-native-svg): SVG library for React Native, React Native Web, and plain React web projects.
 - [software-mansion-labs/react-native-webgpu-worklets](https://github.com/software-mansion-labs/react-native-webgpu-worklets): ThreeJS + wgpu-matrix + TypeGPU for WebGPU on Reanimated Worklets
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation): Routing and navigation for your React Native apps <https://reactnavigation.org>
 - [infinitered/ignite](https://github.com/infinitered/ignite): Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper): Material Design for React Native (Android & iOS) <https://reactnativepaper.com>
 - [callstack/react-native-pager-view](https://github.com/callstack/react-native-pager-view): React Native wrapper for the Android ViewPager and iOS UIPageViewController.
 - [callstack/react-native-testing-library](https://github.com/callstack/react-native-testing-library): 🦉 Simple and complete React Native testing utilities that encourage good testing practices. <https://callstack.github.io/react-native-testing-library/>
-- [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten): 💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode <https://akveo.github.io/react-native-ui-kitten/>
-- [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib): UI Components Library for React Native <https://wix.github.io/react-native-ui-lib/>
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia): High-performance React Native Graphics using Skia <https://shopify.github.io/react-native-skia>
 - 🌟 [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript): ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java). Use what you love ❤️ Angular, Capacitor, Ionic, React, Solid, Svelte, Vue with: SwiftUI, Jetpack Compose, Flutter and you name it compatible. <https://nativescript.org/>
-- 🌟 [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui): Universal headless components for React Native, Next.js & React with beautiful & optional styling (alpha) <https://gluestack.io/>
 - [facebook/yoga](https://github.com/facebook/yoga): Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates. <https://yogalayout.dev/>
   - [facebook/litho](https://github.com/facebook/litho): A declarative framework for building efficient UIs on Android. <https://fblitho.com>
   - [facebook/componentkit](https://github.com/facebook/componentkit): A React-inspired view framework for iOS. <http://www.componentkit.org/>
@@ -69,11 +67,19 @@
 - [margelo/react-native-filament](https://github.com/margelo/react-native-filament): 🐧 A real-time physically based 3D rendering engine for React Native <https://margelo.github.io/react-native-filament/>
 - 🌟 [jaredh159/tailwind-react-native-classnames](https://github.com/jaredh159/tailwind-react-native-classnames): simple, expressive API for tailwindcss + react-native
 - [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables): Universal shadcn/ui for React Native featuring a focused collection of components - Crafted with NativeWind v4 and accessibility in mind. <https://rnr-docs.vercel.app>
-- [software-mansion/react-native-executorch](https://github.com/software-mansion/react-native-executorch): React Native ExecuTorch is a declarative way to run AI models in React Native on device, powered by ExecuTorch
 - 🌟 [OP-Engineering/op-sqlite](https://github.com/OP-Engineering/op-sqlite): Fastest SQLite library for react-native by @ospfranco
 - [nativewind/nativewind](https://github.com/nativewind/nativewind): React Native utility-first universal design system - powered by Tailwind CSS <https://nativewind.dev>
 - [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools): Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, React Web, Next.js, Expo, and any platform where
-- [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles): Level up your React Native StyleSheet <https://unistyl.es>
+
+### UI
+
+- [NativeBase: Universal Components for React & React Native](https://nativebase.io/): NativeBase 3.0 lets you build consistently across android, iOS & web. It is inspired by the Styled System and is accessible, highly themeable, and responsive.
+- [akveo/react-native-ui-kitten](https://github.com/akveo/react-native-ui-kitten): 💥 React Native UI Library based on Eva Design System 🌚✨Dark Mode <https://akveo.github.io/react-native-ui-kitten/>
+- [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib): UI Components Library for React Native <https://wix.github.io/react-native-ui-lib/>
+- 🌟 [gluestack/gluestack-ui](https://github.com/gluestack/gluestack-ui): Universal headless components for React Native, Next.js & React with beautiful & optional styling (alpha) <https://gluestack.io/>
+- 🌟 [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles): Level up your React Native StyleSheet <https://unistyl.es>
+- [Unistyles-OSS/uniwind](https://github.com/Unistyles-OSS/uniwind): From the creators of Unistyles: The fastest Tailwind bindings for React Native <https://docs.uniwind.dev>
+- [Shopify/restyle](https://github.com/Shopify/restyle): A type-enforced system for building UI components in React Native with TypeScript. <https://shopify.github.io/restyle/>
 
 ### Examples
 

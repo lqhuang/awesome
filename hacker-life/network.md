@@ -68,6 +68,7 @@
 - [bytedance/netcap](https://github.com/bytedance/netcap): No description, website, or topics provided.
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich): Terminal bandwidth utilization tool
 - 🌟 [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core): NextTrace, an open source visual route tracking CLI tool <https://www.nxtrace.org>
+  - [nxtrace/nexttraceweb](https://github.com/nxtrace/nexttraceweb): MTR 风格的 NextTrace 网页 WRAPPER <https://nxtrace.github.io/nexttraceweb/>
 - [nitefood/asn](https://github.com/nitefood/asn): ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - 🌟 [hengyoush/kyanos](https://github.com/hengyoush/kyanos): Visualize the time packets spend in the kernel, watch & analyze in command line. <https://kyanos.io>
 - [drk1wi/portspoof](https://github.com/drk1wi/portspoof): Portspoof <http://drk1wi.github.io/portspoof/>
@@ -299,5 +300,4 @@ STUN / TURN / ICE
 - [Check My NAT](https://www.checkmynat.com/): Online Service for NAT Type Detecting
 - [dsgnr/portchecker.io](https://github.com/dsgnr/portchecker.io): portchecker.io is a free online utility to check the port status of a given hostname or IP address. <https://portchecker.io>
 - [WebBrowserTools](https://webbrowsertools.com/): The community of open-source projects to help improve the privacy and security of your online appearance
-
 - [qvis: tools and visualizations for QUIC and HTTP/3](https://qvis.quictools.info/#/files): no description found

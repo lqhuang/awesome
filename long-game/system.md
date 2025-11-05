@@ -117,6 +117,8 @@
 
 ## Performance profile / tracing
 
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool
+- 🌟 [andrewrk/poop](https://github.com/andrewrk/poop): Performance Optimizer Observation Platform
 - [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
 - 🌟 [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget): The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts. <https://www.inspektor-gadget.io>

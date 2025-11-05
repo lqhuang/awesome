@@ -83,11 +83,17 @@ CJK
   - [lxgw/LxgwNeoXiZhi-Screen](https://github.com/lxgw/LxgwNeoXiZhi-Screen): LXGW Neo XiHei and LXGW Neo ZhiSong for Screen Reading.
 - [Hulenkius/sotyr](https://github.com/Hulenkius/sotyr): 仲春仿宋 | Sotyr Fangsong ：聚珍仿宋二号长体的直接复刻项目
 - [chenh96/yahei-sarasa](https://github.com/chenh96/yahei-sarasa): Sarasa UI -> Microsoft YaHei UI
+- [ACh-K/Cubic-11](https://github.com/ACh-K/Cubic-11): 免費開源的 11×11 中文點陣體
 - [DrXie/OSFCC](https://github.com/DrXie/OSFCC): Open Source Fonts Collection for Chinese <https://drxie.github.io/OSFCC/>
 - [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans): 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体 <https://atelier-anchor.com/typefaces/smiley-sans/>
 - [tonyhuan/GuanKiapTsingKhai](https://github.com/tonyhuan/GuanKiapTsingKhai): 原俠正楷，整合「芫荽」及「霞鶩文楷輕便版」這二個基於「Klee One」改造的中文字型，並提供簡轉繁字型(簡體改以繁體顯示)及偽直排字型(各單字旋轉 90 度形成直書排版)。
+- [SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font): Zpix (最像素) is a pixel font (中文像素字体), supporting English, Chinese (Simplified + Traditional) and Japanese. <https://zpix.vercel.app/>
 - [shanleiguang/vRain](https://github.com/shanleiguang/vRain): 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator
 - [wordshub/free-font](https://github.com/wordshub/free-font): 大概是 2020 年最全的免费可商用字体，这里收录的商免字体都能找到明确的授权出处，可以放心使用，持续更新中... <https://wordshub.github.io/free-font/>
+- [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font): Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。 <https://wangchujiang.com/free-font/>
+- [Haixing-Hu/latex-chinese-fonts](https://github.com/Haixing-Hu/latex-chinese-fonts): Simplified Chinese fonts for the LaTeX typesetting.
+- 🌟 [KonghaYao/chinese-free-web-font-storage](https://github.com/KonghaYao/chinese-free-web-font-storage): 中文网字计划 (Chinese Webfont Project) 是一个免费的中文 web 字体库，支持在线加载及查看字体信息。Explore our free CJK web font library that enables online loading and font information viewing. <https://chinese-font.netlify.app/>
+- [DoveOutland/Common-Chinese-office-fonts-font-library-](https://github.com/DoveOutland/Common-Chinese-office-fonts-font-library-): 根据《党政机关公文格式》（GB/T 9704-2012）。现将办公常用的中文字体（字库）文件上传（仿宋\_GB2312、楷体\_GB2312、方正小标宋简体、方正楷体\_GBK、Times New Roman 等...），供日常办公使用。仅供非商业用途使用
 
 ## Web
 

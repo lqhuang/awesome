@@ -113,6 +113,9 @@ And modern is here now.
 - 🌟 [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake): 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
   - used by Daniel Lemire 😋
 - [renn0xtek9/CMakeDependencyDiagram](https://github.com/renn0xtek9/CMakeDependencyDiagram): CMakeDependencyDiagrams Module
+- [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make): Simple makefile-based build for musl cross compiler
+- [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure): wrap autotools configure scripts to build with Cosmopolitan Libc
+- [ahgamut/cosmo-gcc-plugin](https://github.com/ahgamut/cosmo-gcc-plugin): A GCC plugin to help build C code with Cosmopolitan Libc
 
 ### Analyzer
 
@@ -232,6 +235,8 @@ And modern is here now.
 - [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
 - [manjaroman2/compression_algo_comparision](https://github.com/manjaroman2/compression_algo_comparision): LZTURBO vs ZSTD vs BROTLI vs LZMA vs ZPAQ
 - [inikep/lzbench](https://github.com/inikep/lzbench): lzbench is an in-memory benchmark of open-source compressors
+- [graphitemaster/detour](https://github.com/graphitemaster/detour): A detour through the Linux dynamic linker
+- [srht:~jprotopopov/kefir](https://sr.ht/~jprotopopov/kefir/): : C17/C23 compiler implementation from scratch
 
 ## Libs
 

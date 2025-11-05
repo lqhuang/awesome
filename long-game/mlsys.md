@@ -59,7 +59,7 @@
 - [leimao/CUTLASS-Examples](https://github.com/leimao/CUTLASS-Examples): CUTLASS and CuTe Examples
 - [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub): NVIDIA curated collection of educational resources related to general purpose GPU programming.
 - [HanGuo97/cutedsl-utilities](https://github.com/HanGuo97/cutedsl-utilities): No description, website, or topics provided.
-- [Cute-DSL – Ian’s Blog](https://ianbarber.blog/2025/07/04/cute-dsl/): In May Nvidia shipped CuTe‑DSL, the Python library they teased at GTC earlier in the year that mirrors CUTLASS’s C++ tensor‑layout . Then, at the start of June, the ‑dev label disappeared (so presumably its production ready now). The pitch is simple: Write speed‑of‑light kernels from the comfort of Python. Of course, nothing about CUDA…
+- [Cute-DSL – Ian’s Blog](https://ianbarber.blog/2025/07/04/cute-dsl/): In May Nvidia shipped CuTe-DSL, the Python library they teased at GTC earlier in the year that mirrors CUTLASS’s C++ tensor‑layout . Then, at the start of June, the ‑dev label disappeared (so presumably its production ready now). The pitch is simple: Write speed‑of‑light kernels from the comfort of Python. Of course, nothing about CUDA…
 - [flashinfer-ai/cubloaty](https://github.com/flashinfer-ai/cubloaty): a size profiler for cuda binary
 - [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA): 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.🎉 <https://github.com/xlite-dev/LeetCUDA>
 
@@ -256,6 +256,7 @@ General problems
   - [Writing Hub kernels with kernel-builder](https://github.com/huggingface/kernel-builder/blob/main/docs/writing-kernels.md)
 - [mirage-project/mirage](https://github.com/mirage-project/mirage): Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA <https://mirage-project.readthedocs.io/>
 - [Relaxed-System-Lab/Flash-Sparse-Attention](https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention): 🚀🚀 Efficient implementations of Native Sparse Attention <https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention>
+- [pytorch/helion](https://github.com/pytorch/helion): A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.
 
 ### XLA / MLIR
 

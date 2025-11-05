@@ -77,26 +77,36 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower): A process for automating Docker container base image updates. <https://containrrr.dev/watchtower>
 - [simonw/alpine-edit](https://github.com/simonw/alpine-edit): Microsoft edit packaged as a Docker container to run on a Mac
   - `vim` is too big for striped container image, `edit` is a good alternative
+- 🌟 [nicolaka/netshoot](https://github.com/nicolaka/netshoot): a Docker + Kubernetes network trouble-shooting swiss-army container
 
 #### Registry
 
+- [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content <https://distribution.github.io/distribution>
+  - [registry | Docker Hub](https://hub.docker.com/_/registry): Distribution implementation for storing and distributing of container images and artifacts
 - [uber/kraken](https://github.com/uber/kraken): P2P Docker registry capable of distributing TBs of data in seconds
-- [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner): Delete untagged image refs in Google Container Registry or Artifact Registry
-- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui): The simplest and most complete UI for your private registry <https://joxit.dev/docker-registry-ui/>
-- [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter): Fast container image distribution plugin with lazy pulling <https://github.com/containerd/containerd/issues/3731>
+- [spegel-org/spegel](https://github.com/spegel-org/spegel): Stateless cluster local OCI registry mirror. <https://spegel.dev>
+- [dragonflyoss/dragonfly](https://github.com/dragonflyoss/dragonfly): Delivers efficient, stable, and secure data distribution and acceleration powered by P2P technology, with an optional content-addressable filesystem that accelerates OCI container launch. <https://d7y.io>
+- [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus): Nydus - the Dragonfly image service, providing fast, secure and easy access to container images. <https://nydus.dev/>
 - [containers/skopeo](https://github.com/containers/skopeo): Work with remote images registries - retrieving information, images, signing content
+- [quay/quay](https://github.com/quay/quay): Build, Store, and Distribute your Applications and Containers
+- [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy): An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, registry.k8s.io, ghcr.io)
+- 🌟 [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui): The simplest and most complete UI for your private registry <https://joxit.dev/docker-registry-ui/>
 - 🌟 [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser): 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails. <https://hub.docker.com/r/klausmeyer/docker-registry-browser/>
+- [Quiq/registry-ui](https://github.com/Quiq/registry-ui): Web UI for Docker Registry
+- [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser): 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails. <https://hub.docker.com/r/klausmeyer/docker-registry-browser/>
 
 #### Container ops
 
 - 🌟 [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
+- [quay/clair](https://github.com/quay/clair): Vulnerability Static Analysis for Containers <https://quay.github.io/clair/>
+  - [quay/container-security-operator](https://github.com/quay/container-security-operator): Identify image vulnerabilities in Kubernetes pods
 - [containers/conmon](https://github.com/containers/conmon): An OCI container runtime monitor.
 - [wagoodman/dive](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
 - [bcicen/ctop](https://github.com/bcicen/ctop): Top-like interface for container metrics <https://ctop.sh/>
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko): Build Container Images In Kubernetes
-- [spegel-org/spegel](https://github.com/spegel-org/spegel): Stateless cluster local OCI registry mirror. <https://spegel.dev>
 - 🌟 [psviderski/unregistry](https://github.com/psviderski/unregistry): Push docker images directly to remote servers without an external registry <https://uncloud.run>
-- [distribution/distribution](https://github.com/distribution/distribution): The toolkit to pack, ship, store, and deliver container content <https://distribution.github.io/distribution>
+- [GoogleCloudPlatform/gcr-cleaner](https://github.com/GoogleCloudPlatform/gcr-cleaner): Delete untagged image refs in Google Container Registry or Artifact Registry
+- 🌟 [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter): Fast container image distribution plugin with lazy pulling <https://github.com/containerd/containerd/issues/3731>
 - Podman
   - [containers/prometheus-podman-exporter](https://github.com/containers/prometheus-podman-exporter): Prometheus exporter for podman environments exposing containers, pods, images, volumes and networks information.
   - [containers/containerimage-py](https://github.com/containers/containerimage-py): A python library for interacting with container images and container image registries
@@ -107,6 +117,8 @@
   - So sad that the project is not maintained for a long time.
 - [getwud/wud](https://github.com/getwud/wud): Keep your containers up-to-date! <https://getwud.github.io/wud/>
 - [crazy-max/diun](https://github.com/crazy-max/diun): Receive notifications when an image is updated on a Docker registry <https://crazymax.dev/diun/>
+- [log-forge/logforge](https://github.com/log-forge/logforge): All in one UI, for Docker. Real-time logs, Interactive terminals, Custom alerts/notifications/Automations, File system access. <https://www.logforge.dev/>
+- 🌟 [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <https://trivy.dev>
 
 ### Filesystem
 
@@ -121,7 +133,6 @@
 - [dockur/macos](https://github.com/dockur/macos): macOS inside a Docker container.
 - [mviereck/x11docker](https://github.com/mviereck/x11docker): Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop): Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
-- [linuxserver/docker-code-server](https://github.com/linuxserver/docker-code-server): No description or website provided.
 
 #### Container status / Dashboard
 
@@ -201,6 +212,7 @@ Type 1 hypervisors
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs): A distributed file system
 - [cxl-micron-reskit/famfs](https://github.com/cxl-micron-reskit/famfs): This is the user space repo for famfs, the fabric-attached memory file system
 - [scality/Zenko](https://github.com/scality/Zenko): Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud. <https://www.zenko.io>
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs): SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. <https://seaweedfs.com>
 
 ### Serverless
 
@@ -214,6 +226,10 @@ Type 1 hypervisors
 - [DBOS](https://www.dbos.dev/): DBOS is a serverless platform that radically simplifies backend development in Python and TypeScript. Build 10x faster and scale to millions with a single click.
 - 🌟 [unikraft/unikraft](https://github.com/unikraft/unikraft): Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. <http://unikraft.org/>
 
+### Durable Functions / FaaS
+
+- [earendil-works/absurd](https://github.com/earendil-works/absurd): An experiment in durability
+
 ### Tools
 
 - [homeport/dyff](https://github.com/homeport/dyff): /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
@@ -226,9 +242,10 @@ Type 1 hypervisors
 - [traefik/traefik](https://github.com/traefik/traefik): The Cloud Native Application Proxy
 - [metallb/metallb](https://github.com/metallb/metallb): A network load-balancer implementation for Kubernetes using standard routing protocols <https://metallb.universe.tf>
 - Nginx
+  - [denji/nginx-tuning](https://github.com/denji/nginx-tuning): NGINX tuning for best performance <https://git.io/vSvsq>
+  - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook): How to improve NGINX performance, security, and other important things.
   - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager): Docker container for managing Nginx proxy hosts with a simple, powerful interface <https://nginxproxymanager.com>
   - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io): ⚙️ NGINX config generator on steroids 💉 <https://do.co/nginxconfig>
-  - [denji/nginx-tuning](https://github.com/denji/nginx-tuning): NGINX tuning for best performance <https://git.io/vSvsq>
   - [nginx/unit](https://github.com/nginx/unit): NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes. <https://unit.nginx.org>
   - [dvershinin/gixy](https://github.com/dvershinin/gixy): NGINX configuration static analyzer <https://gixy.getpagespeed.com>
   - [nginx/nginx-acme](https://github.com/nginx/nginx-acme): An NGINX module with the implementation of the automatic certificate management (ACMEv2) protocol <https://nginx.org>
@@ -377,6 +394,7 @@ Type 1 hypervisors
   - lead by Microsoft
 - [knative/eventing](https://github.com/knative/eventing): Event-driven application platform for Kubernetes <https://knative.dev/docs/eventing>
   - lead by Google
+- [kubevela/kubevela](https://github.com/kubevela/kubevela): The Modern Application Platform. <https://kubevela.io>
 
 ### GPU
 
@@ -393,7 +411,6 @@ Type 1 hypervisors
 
 ### Security
 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <https://trivy.dev>
 - [kubescape/kubescape](https://github.com/kubescape/kubescape): Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. <https://kubescape.io>
 - [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security): [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
 - [zegl/kube-score](https://github.com/zegl/kube-score): Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kubernetes. <https://kube-score.com>

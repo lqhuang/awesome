@@ -36,6 +36,8 @@
 - 🌟 [deskflow/deskflow](https://github.com/deskflow/deskflow): Share a single keyboard and mouse between multiple computers. <https://deskflow.org>
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite): An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing <https://graphite.rs>
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis): A free, secure and open source app for Android to manage your 2-step verification tokens. <https://getaegis.app>
+- [TibixDev/winboat](https://github.com/TibixDev/winboat): Run Windows apps on 🐧 Linux with ✨ seamless integration <https://www.winboat.app/>
+  - Interesting, I also thought about this idea before, RDP is a missing piece in Windows ecosystem
 
 ### Reader
 

@@ -61,6 +61,7 @@
 - [Quansight-Labs/free-threaded-compatibility](https://github.com/Quansight-Labs/free-threaded-compatibility): A central repository to keep track of the status of work on and support for free-threaded CPython (see PEP 703), with a focus on the scientific and ML/AI ecosystem
 - [edgedb/memhive](https://github.com/edgedb/memhive): a highly experimental Python subinterpreters orchestrator with support for structured data sharing.
 - [facebookincubator/ft_utils](https://github.com/facebookincubator/ft_utils): A library of utilities to support efficient, scalable Python development leveraging Free Threaded Python.
+- 🌟 [hugovk/free-threaded-wheels](https://github.com/hugovk/free-threaded-wheels): <https://hugovk.github.io/free-threaded-wheels/>
 
 ## Toolchains
 

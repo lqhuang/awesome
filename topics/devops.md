@@ -34,6 +34,7 @@
 - [j178/prefligit](https://github.com/j178/prefligit): ⚡ Better `pre-commit`, re-engineered in Rust
 - [gitlab:chrony/chrony](https://gitlab.com/chrony/chrony): Advanced NTP client and server
 - [GitHub App - DosuBot](https://github.com/apps/dosubot): Dosu is an AI-powered Github maintainer agent. Dosu helps open source maintainers encourage contributors, organize issues, triage bugs, answer questions, and more.
+- [hcavarsan/pipedash](https://github.com/hcavarsan/pipedash): A desktop app for managing CI/CD pipelines from multiple providers
 
 ### Misc linters / formatters
 
@@ -90,6 +91,7 @@
 - [pantsbuild/pants](https://github.com/pantsbuild/pants): The Pantsbuild developer workflow system <https://www.pantsbuild.org>
 - [thought-machine/please](https://github.com/thought-machine/please): High-performance extensible build system for reproducible multi-language builds. <https://please.build>
 - [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System <http://mesonbuild.com/>
+- [muon-build/muon](https://github.com/muon-build/muon): An implementation of the meson build system in c99 <https://muon.build>
 - [moonrepo/moon](https://github.com/moonrepo/moon): A task runner and repo management tool for the web ecosystem, written in Rust. <https://moonrepo.dev/>
 - [earthly/earthly](https://github.com/earthly/earthly): Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby. <https://earthly.dev>
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink): NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware. <https://nativelink.com>
@@ -330,6 +332,10 @@ Libs
 - [safedep/vet](https://github.com/safedep/vet): Protect against malicious open source packages 🤖 <https://safedep.io>
 - [SiriusScan/Sirius](https://github.com/SiriusScan/Sirius): Sirius is an open-source comprehensive vulnerability scanner that leverages community-driven security intelligence and automated penetration testing capabilities.
 - [future-architect/vuls](https://github.com/future-architect/vuls): Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices <https://vuls.io/>
+- [myugan/awesome-cicd-security](https://github.com/myugan/awesome-cicd-security): 📚 A curated list of awesome CI CD security resources
+- [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf): Python reference implementation of The Update Framework (TUF) <https://theupdateframework.com/>
+- [ossf/wg-securing-software-repos](https://github.com/ossf/wg-securing-software-repos): OpenSSF Working Group on Securing Software Repositories
+- [repository-service-tuf/repository-service-tuf](https://github.com/repository-service-tuf/repository-service-tuf): Umbrella Repository Service for TUF
 
 # Testing
 
@@ -434,6 +440,6 @@ Libs
 - [Octopus Deploy](https://octopus.com/github): Use GitHub and Octopus together to manage your most complex deployment scenarios
 - [BuildJet: For GitHub Actions](https://buildjet.com/for-github-actions): Make GitHub Actions Faster. Managed performance runners for Github Actions.
 - [Actuated](https://actuated.dev/): Fast and secure GitHub Actions on your own infrastructure.
-- [blacksmith](https://www.blacksmith.sh/): ‍Twice as fast. Half the cost. Speed up your GitHub Actions with a one-line code change, by running them on high-performance gaming CPUs instead of GitHub's older server hardware
+- [blacksmith](https://www.blacksmith.sh/): Twice as fast. Half the cost. Speed up your GitHub Actions with a one-line code change, by running them on high-performance gaming CPUs instead of GitHub's older server hardware
 - [Source.dev](https://www.source.dev/): AI-native software tools that accelerate development of next-generation devices. SourceFS the fastest way to build Android.
   - not a runner but can speed up builds

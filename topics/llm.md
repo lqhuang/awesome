@@ -51,6 +51,7 @@
     - The key insight: Instead of building custom NLP for every site, NLWeb leverages LLMs' existing understanding of Schema.org to create instant conversational interfaces.
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui): A research prototype of a human-centered web agent <https://www.microsoft.com/en-us/research/blog/magentic-ui-an-experimental-human-centered-web-agent/>
 - [microsoft/poml](https://github.com/microsoft/poml): Prompt Orchestration Markup Language <https://microsoft.github.io/poml/>
+- [microsoft/amplifier](https://github.com/microsoft/amplifier): Amplifier: Metacognitive AI Development
 
 ### App Builder
 

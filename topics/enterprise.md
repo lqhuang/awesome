@@ -232,14 +232,6 @@ Visual stack
 - [perses/perses](https://github.com/perses/perses): The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come! <https://perses.dev>
 - [openobserve/openobserve](https://github.com/openobserve/openobserve): 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). <https://openobserve.ai>
 
-### Benchmark
-
-- [codesenberg/bombardier](https://github.com/codesenberg/bombardier): Fast cross-platform HTTP benchmarking tool written in Go
-- [wg/wrk](https://github.com/wg/wrk): Modern HTTP benchmarking tool
-- [lnx-search/rewrk](https://github.com/lnx-search/rewrk): A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks.
-- [hatoo/oha](https://github.com/hatoo/oha): Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool
-
 ### Logging viewer / Logging search
 
 - [jitsucom/jitsu](https://github.com/jitsucom/jitsu): Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams. Set-up a real-time data pipeline in minutes, not days <https://jitsu.com>

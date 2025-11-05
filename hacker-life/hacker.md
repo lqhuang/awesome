@@ -58,6 +58,7 @@
 - 🌟 [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats): ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository. <https://git-quick-stats.sh>
 - [codeberg:forgejo/forgejo](https://codeberg.org/forgejo/forgejo): forgejo - Beyond coding. We forge. <https://forgejo.org/>
 - [radicle:seed.radicle.xyz](https://app.radicle.xyz/nodes/seed.radicle.xyz): Explore the Radicle network
+- [自己动手写 Git](https://wyag-zh.hanyujie.xyz/): 从零开始写 Git（Write Yourself a Git，简称 wyag） 的中文翻译 | Chinese translation of Write Yourself a Git
 
 ### Code as Graph
 
@@ -97,6 +98,9 @@
 - [k1LoW/deck](https://github.com/k1LoW/deck): deck is a tool for creating deck using Markdown and Google Slides.
   - Sync markdown slides to Google presentation. Awesome!
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW): Make beautiful isometric infrastructure diagrams
+- [mozilla-spidermonkey/iongraph](https://github.com/mozilla-spidermonkey/iongraph): An interactive visualizer for the SpiderMonkey Ion compiler backend. Work in progress.
+  - [Who needs Graphviz when you can build it yourself? | SpiderMonkey](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html): Exploring a new layout algorithm for control flow graphs.
+- [podlite/podlite](https://github.com/podlite/podlite): Implementation of Podlite markup language <https://podlite.org>
 
 ## Homelab
 
@@ -120,6 +124,7 @@
   - hackers' dream LOL
 - [r-morato/RM-Homelab](https://github.com/r-morato/RM-Homelab): Journal of my path building and maintaining my homelab
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder): 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
+- [ProxMox Cluster - Soup-to-Nutz | scyto](https://gist.github.com/scyto/76e94832927a89d977ea989da157e9dc): my proxmox cluster.
 
 ### Admin
 
@@ -153,6 +158,7 @@
 - [kottster/kottster](https://github.com/kottster/kottster): Instant Node.js admin panel. Secure, self-hosted, and easy to set up <https://kottster.app>
 - [crocofied/PortNote](https://github.com/crocofied/PortNote): Keep track of used ports
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas): Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning. <https://atlasdemo.vnerd.nl>
+- [mayanayza/netvisor](https://github.com/mayanayza/netvisor): Automatically discover and visually document network topology.
 
 ### Monitoring
 
@@ -218,7 +224,6 @@
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline): A public release of TimelineBuilder for building personal digital data timelines.
 - [USTC Hackergame](https://github.com/USTC-Hackergame)
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender): 中国节假日、调休、补班日历，ICS 格式，可供 IPhone、Google Calendar、Outlook 等客户端订阅，包含节假日 API
-- [自己动手写 Git](https://wyag-zh.hanyujie.xyz/): 从零开始写 Git（Write Yourself a Git，简称 wyag） 的中文翻译 | Chinese translation of Write Yourself a Git
 - [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead): the website blocklist I am maintaining
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master): 《代码随想录》LeetCode 刷题攻略
 - [metowolf/vCards](https://github.com/metowolf/vCards): 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
@@ -227,6 +232,8 @@
 - [ngo5/IPTV](https://github.com/ngo5/IPTV): IPV4/IPV6 TVBOX 电视直播点播源收集
 - [Public IPTV](https://publiciptv.com/): Collection of Publicly & Free IPTV Channels , Available in the United States.
 - [MoonTechLab/Selene](https://github.com/MoonTechLab/Selene): 一个以 MoonTV v100 版本为后端的 Android/iOS 客户端，针对移动端体验优化
+- [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): 💥 Funny comments <https://blankj.com/2017/01/11/awesome-comment>
+- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB): 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github 最有毒的仓库, 中国表情包大集合, 聚欢乐~ <https://v2fy.com/ChineseBQB/>
 
 ## Branding
 
