@@ -98,8 +98,6 @@
 #### Container ops
 
 - 🌟 [google/cadvisor](https://github.com/google/cadvisor): Analyzes resource usage and performance characteristics of running containers.
-- [quay/clair](https://github.com/quay/clair): Vulnerability Static Analysis for Containers <https://quay.github.io/clair/>
-  - [quay/container-security-operator](https://github.com/quay/container-security-operator): Identify image vulnerabilities in Kubernetes pods
 - [containers/conmon](https://github.com/containers/conmon): An OCI container runtime monitor.
 - [wagoodman/dive](https://github.com/wagoodman/dive): A tool for exploring each layer in a docker image
 - [bcicen/ctop](https://github.com/bcicen/ctop): Top-like interface for container metrics <https://ctop.sh/>
@@ -118,7 +116,13 @@
 - [getwud/wud](https://github.com/getwud/wud): Keep your containers up-to-date! <https://getwud.github.io/wud/>
 - [crazy-max/diun](https://github.com/crazy-max/diun): Receive notifications when an image is updated on a Docker registry <https://crazymax.dev/diun/>
 - [log-forge/logforge](https://github.com/log-forge/logforge): All in one UI, for Docker. Real-time logs, Interactive terminals, Custom alerts/notifications/Automations, File system access. <https://www.logforge.dev/>
+
+### Security / Audit / Jail
+
+- [quay/clair](https://github.com/quay/clair): Vulnerability Static Analysis for Containers <https://quay.github.io/clair/>
+  - [quay/container-security-operator](https://github.com/quay/container-security-operator): Identify image vulnerabilities in Kubernetes pods
 - 🌟 [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <https://trivy.dev>
+- [Runtime-Radar/runtime-radar](https://github.com/Runtime-Radar/runtime-radar): Runtime Radar is an open-source solution for monitoring runtime security events and responding to incidents in containerized environments.
 
 ### Filesystem
 
@@ -229,6 +233,7 @@ Type 1 hypervisors
 ### Durable Functions / FaaS
 
 - [earendil-works/absurd](https://github.com/earendil-works/absurd): An experiment in durability
+  - [Absurd Workflows: Durable Execution With Just Postgres | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2025/11/3/absurd-workflows/): Durable execution with just postgres.
 
 ### Tools
 
@@ -461,6 +466,7 @@ Type 1 hypervisors
   - [metal3-io/baremetal-operator](https://github.com/metal3-io/baremetal-operator): Bare metal host provisioning integration for Kubernetes
 - [99cloud/lab-openstack](https://github.com/99cloud/lab-openstack): lab for OpenStack
 - [vexxhost/atmosphere](https://github.com/vexxhost/atmosphere): Simple & easy private cloud platform featuring VMs, Kubernetes & bare-metal
+- [OpenNebula/one](https://github.com/OpenNebula/one): The open source Cloud & Edge Computing Platform bringing real freedom to your Enterprise Cloud 🚀 <http://opennebula.io>
 
 ## Infrastructure less
 

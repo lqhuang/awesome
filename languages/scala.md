@@ -254,6 +254,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [scala-wasm/scala-wasm](https://github.com/scala-wasm/scala-wasm): Friendly fork of Scala.js, target stand-alone Wasm leveraging WASI and Component Model <https://www.scala-js.org/>
 - [armanbilge/calico](https://github.com/armanbilge/calico): Pure, reactive UI library for Scala.js <https://armanbilge.github.io/calico>
 - [japgolly/scalajs-react](https://github.com/japgolly/scalajs-react): Facebook's React on Scala.JS <https://japgolly.github.io/scalajs-react/>
+- [buntec/scala-js-snabbdom](https://github.com/buntec/scala-js-snabbdom): A Scala.js port of the Snabbdom virtual DOM library
 
 ## Featured
 

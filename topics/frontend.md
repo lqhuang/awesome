@@ -69,6 +69,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter): Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. <https://next-saas-start.vercel.app>
 - [upstash/jstack](https://github.com/upstash/jstack): Build seriously fast, lightweight and end-to-end typesafe Next.js apps <https://jstack.app/>
 - [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare): 🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready with automated CI/CD and generous free tiers. <https://deepwiki.com/ifindev/fullstack-next-cloudflare>
+- [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster): A highly performant e-commerce template using Next.js <https://next-faster.vercel.app>
 
 ## Framework
 
@@ -289,6 +290,7 @@ Shadcn UI eco system
 
 - [cosscom/coss](https://github.com/cosscom/coss): coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet. <https://coss.com>
 - [anxndsgn/FigUI](https://github.com/anxndsgn/FigUI): FigUI is a figma ui3 style component library using react, tailwind and base-ui <https://figui.dev>
+- [HeseUI - Foundation components built on top of Base UI using shadcn design system for modern web applications.](https://www.heseui.com/): Foundation components built on top of Base UI using shadcn design system for modern web applications.
 
 #### Svelte
 
@@ -630,6 +632,7 @@ Concrete animations
 - [kane50613/takumi](https://github.com/kane50613/takumi): Render your React components to images. Available for Rust, Node.js, and WebAssembly. <https://takumi.kane.tw>
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot): 📸 Quickly generate image from DOM node using HTML5 canvas and SVG. <https://toolpkg.com/html-to-image>
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom): snapDOM captures HTML elements to images with exceptional speed and accuracy. <https://snapdom.dev>
+- [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js): Sitemap-generating framework for node.js
 
 ### Misc
 

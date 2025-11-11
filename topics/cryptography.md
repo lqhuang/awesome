@@ -10,6 +10,7 @@
 - [gchq/CyberChef](https://github.com/gchq/CyberChef): The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis <https://gchq.github.io/CyberChef>
 - [openxpki/openxpki](https://github.com/openxpki/openxpki): OpenXPKI Code <http://www.openxpki.org>
 - [openca/libpki](https://github.com/openca/libpki): Easy-to-use high-level library for PKI-enabled applications
+- [jedisct1/minisign](https://github.com/jedisct1/minisign): A dead simple tool to sign files and verify digital signatures. <https://jedisct1.github.io/minisign/>
 
 ## Libraries
 

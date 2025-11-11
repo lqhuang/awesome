@@ -160,6 +160,15 @@
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas): Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning. <https://atlasdemo.vnerd.nl>
 - [mayanayza/netvisor](https://github.com/mayanayza/netvisor): Automatically discover and visually document network topology.
 
+### Virtualization
+
+- [cockpit-project/cockpit-machines](https://github.com/cockpit-project/cockpit-machines): Cockpit UI for virtual machines
+- [retspen/webvirtcloud](https://github.com/retspen/webvirtcloud): WebVirtCloud is virtualization web interface for admins and users
+- [apache/cloudstack](https://github.com/apache/cloudstack): Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform <https://cloudstack.apache.org/>
+  - [oVirt/ovirt-engine](https://github.com/oVirt/ovirt-engine): The oVirt Engine virtualization manager
+  - [oVirt/ovirt-web-ui](https://github.com/oVirt/ovirt-web-ui): Modern lightweight UI for standard (non-admin) oVirt users <https://www.ovirt.org>
+  - [oVirt/ovirt-ansible-collection](https://github.com/oVirt/ovirt-ansible-collection): Ansible collection with official oVirt modules and roles
+
 ### Monitoring
 
 - [prometheus-community/smartctl_exporter](https://github.com/prometheus-community/smartctl_exporter): Export smartctl statistics to prometheus

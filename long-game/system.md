@@ -56,6 +56,10 @@
 - [davidlattimore/wild](https://github.com/davidlattimore/wild): A very fast linker for Linux
 - [untitaker/hyperlink](https://github.com/untitaker/hyperlink): Very fast link checker for CI.
 
+### Tools
+
+- [ziglang/libc-abi-tools](https://github.com/ziglang/libc-abi-tools): A repository that collects libc ABI files for multiple versions and a tool to combine them into one dataset.
+
 ## Memory allocator
 
 - 🌟 [microsoft/mimalloc](https://github.com/microsoft/mimalloc): mimalloc is a compact general purpose allocator with excellent performance.
@@ -145,6 +149,10 @@
 - [indragiek/uniprof](https://github.com/indragiek/uniprof): Universal CPU profiler designed for humans and AI agents <https://uniprof.sh>
 - 🌟 [YS-L/flamelens](https://github.com/YS-L/flamelens): Flamegraph viewer in the terminal
 - [microsoft/SysmonForLinux](https://github.com/microsoft/SysmonForLinux): Sysmon for Linux
+
+## Misc
+
+- 🌟 [orhun/binsider](https://github.com/orhun/binsider): Analyze ELF binaries like a boss 😼🕵️‍♂️ <https://binsider.dev/>
 
 ## WASM Runtime
 

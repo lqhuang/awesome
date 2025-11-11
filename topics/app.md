@@ -43,6 +43,7 @@
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Next-generation HTML renderer for apps and games <https://ultralig.ht>
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows): A framework for building native Windows apps with React. <https://microsoft.github.io/react-native-windows/>
 - [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos): A framework for building native macOS apps with React. <https://microsoft.github.io/react-native-windows/>
+- [Snapchat/Valdi](https://github.com/Snapchat/Valdi): Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. <https://discord.gg/uJyNEeYX2U>
 
 ### Libs
 

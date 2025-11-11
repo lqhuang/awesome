@@ -207,6 +207,7 @@ And modern is here now.
 - [apache/apr](https://github.com/apache/apr): Mirror of Apache Portable Runtime
 - [dcreager/libcork](https://github.com/dcreager/libcork): A simple, easily embeddable cross-platform C library <https://libcork.io/>
 - [skarnet/skalibs](https://github.com/skarnet/skalibs): The skarnet.org C system programming library <https://skarnet.org/software/skalibs/>
+- [diet libc](https://www.fefe.de/dietlibc/): - a libc optimized for small size
 
 ## Safer CPP
 
@@ -348,6 +349,7 @@ And modern is here now.
 - [lights0123/hipscript](https://github.com/lights0123/hipscript): Online compiler for HIP and NVIDIA® CUDA® code to WebGPU <https://hipscript.lights0123.com/>
 - [NVIDIA/MatX](https://github.com/NVIDIA/MatX): An efficient C++17 GPU numerical computing library with Python-like syntax <https://nvidia.github.io/MatX>
 - [NVIDIA/gdrcopy](https://github.com/NVIDIA/gdrcopy): A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology
+- [shader-slang/slang](https://github.com/shader-slang/slang): Making it easier to work with shaders <http://shader-slang.com>
 
 ## HPC / SIMD / Vectorization
 

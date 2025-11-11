@@ -69,6 +69,7 @@
 - [TG-TG-TG-TG-TG-TG/TPU-Tutorials](https://github.com/TG-TG-TG-TG-TG-TG/TPU-Tutorials): Some of my TPU tutorials that i will post here.
 - [jax-ml/scaling-book](https://github.com/jax-ml/scaling-book): Home for "How To Scale Your Model", a short blog-style textbook about scaling LLMs on TPUs <https://jax-ml.github.io/scaling-book/>
 - [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html): The main strongpoint for TPUs is in their scalability. This is achieved through a co-design of both the hardware side (e.g. energy efficiency and modularity) and the software side (e.g. XLA compiler).
+- 🌟 [Tiny TPU](https://www.tinytpu.com/): An attempt to understand and build a TPU-by complete novices.
 
 ### Readings
 
@@ -563,6 +564,7 @@ PGM / Probabilistic programming
 - [chaunceyjiang/fake-gpu](https://github.com/chaunceyjiang/fake-gpu): This project is designed to simulate GPU information, making it easier to test scenarios where a GPU is not available.
 - 🌟 [NVIDIA/nvbandwidth](https://github.com/NVIDIA/nvbandwidth): A tool for bandwidth measurements on NVIDIA GPUs.
 - [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter): Count the MACs / FLOPs of your PyTorch model.
+- [aikitoria/nanotrace](https://github.com/aikitoria/nanotrace): Low overhead tracing library and trace visualizer for pipelined CUDA kernels
 
 ### Benchmark
 

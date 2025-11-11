@@ -247,6 +247,8 @@ Utils
   - [bcr:tar.bzl](https://registry.bazel.build/modules/tar.bzl)
 - [zaucy/bzlws](https://github.com/zaucy/bzlws): Bazel rules for interacting with bazel build artifacts and bringing them into your workspace
   - [bcr:bzlws](https://registry.bazel.build/modules/bzlws)
+- 🌟 [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy): BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. <https://buildbuddy.io>
+- [tweag/skyscope](https://github.com/tweag/skyscope): A tool for visualising and exploring Bazel Skyframe graphs.
 
 Fastlink for my own projects
 
@@ -336,6 +338,8 @@ Libs
 - [theupdateframework/python-tuf](https://github.com/theupdateframework/python-tuf): Python reference implementation of The Update Framework (TUF) <https://theupdateframework.com/>
 - [ossf/wg-securing-software-repos](https://github.com/ossf/wg-securing-software-repos): OpenSSF Working Group on Securing Software Repositories
 - [repository-service-tuf/repository-service-tuf](https://github.com/repository-service-tuf/repository-service-tuf): Umbrella Repository Service for TUF
+- [GurkhaShieldForce/VulnRisk_Public](https://github.com/GurkhaShieldForce/VulnRisk_Public): VulnRisk - Open Source Vulnerability Risk Assessment Platform <https://vulnrisk.animogovcon.com/>
+- [AppOmni-Labs/heisenberg-ssc-health-check](https://github.com/AppOmni-Labs/heisenberg-ssc-health-check): Analyzes software dependencies across GitHub repositories to identify security vulnerabilities and health risks in your supply chain.
 
 # Testing
 

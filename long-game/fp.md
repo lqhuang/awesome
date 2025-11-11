@@ -62,6 +62,7 @@
 - [choukh/CategoryTheory](https://github.com/choukh/CategoryTheory): A Coq formalization of the textbook Categories and Toposes: Visualized and Explained
 - [jwiegley/category-theory](https://github.com/jwiegley/category-theory): An axiom-free formalization of category theory in Coq for personal study and practical work
 - [Category Theory in Coq](http://www.megacz.com/berkeley/coq-categories/): This is a quick page I've thrown together for my Coq library formalizing basic category theory. The development follows Steve Awodey's book on category theory; the files are named after chapters and subchapters of that book for easy reference.
+- [prathyvsh/category-theory-resources](https://github.com/prathyvsh/category-theory-resources): Resources for learning Category Theory for an enthusiast
 
 ## Program analysis
 

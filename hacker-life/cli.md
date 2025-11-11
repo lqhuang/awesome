@@ -6,8 +6,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 - [awesome-macos-command-line](https://git.herrbischoff.com/awesome-macos-command-line/about/):A curated list of shell commands and tools specific to macOS.
 - [awesome-command-line-apps](https://git.herrbischoff.com/awesome-command-line-apps/about/): A curated list of useful command line apps, in celebration of the TUI.
-- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
-- 🌟 [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
+- [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell): A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php. - 🌟 [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix): A collection of modern/faster/saner alternatives to common unix commands.
 - [xuxiaodong/usingcli-book](https://github.com/xuxiaodong/usingcli-book): 像黑客一样使用命令行 <https://selfhostedserver.com/usingcli-book>
 - [kushaldas/lym](https://github.com/kushaldas/lym): Linux command line for you and me <https://lym.readthedocs.io/en/latest>
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh): the only cheat sheet you need <https://cheat.sh/>
@@ -18,6 +17,8 @@
 - 🌟 [ANSI Escape Codes](https://ansi.tools/): View and inspect ANSI escape sequences in the browser. See a visual rendering and a detailed breakdown of all control codes.
   - [webpro/ANSI.tools](https://github.com/webpro/ANSI.tools): https://ansi.tools
   - Any similar tools for HTML escape codes? 🥹😭
+- 🌟 [jdx/usage](https://github.com/jdx/usage): A specification for CLIs <https://usage.jdx.dev>
+  - Interesting idea
 
 ## standard
 
@@ -43,6 +44,10 @@
 - [asciinema/agg](https://github.com/asciinema/agg): asciinema gif generator
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli): Share terminal sessions via SVG and CSS
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs): Your CLI home video recorder 📼
+- 🌟 [charmbracelet/gum](https://github.com/charmbracelet/gum): A tool for glamorous shell scripts 🎀
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin): Human-readable ANSI sequences 🪩
+- 🌟 [charmbracelet/wish](https://github.com/charmbracelet/wish): Make SSH apps, just like that! 💫
+- [charmbracelet/glow](https://github.com/charmbracelet/glow): Render markdown on the CLI, with pizzazz! 💅🏻
 - [atuinsh/atuin](https://github.com/atuinsh/atuin): ✨ Magical shell history <https://atuin.sh>
   - [atuinsh/desktop](https://github.com/atuinsh/desktop): 📖 Runbooks that run <https://atuin.sh>
 - [blicky/ncdu](https://g.blicky.net/ncdu.git): Ncdu (NCurses Disk Usage) is a disk usage analyzer with an ncurses interface. <https://dev.yorhel.nl/ncdu>
@@ -62,7 +67,6 @@
 - 🌟 [binpash/try](https://github.com/binpash/try): "Do, or do not. There is no try." We're setting out to change that: `try cmd` and commit---or not.
 - 🌟 [pvolok/mprocs](https://github.com/pvolok/mprocs): Run multiple commands in parallel
 - [DarthSim/overmind](https://github.com/DarthSim/overmind): Process manager for Procfile-based applications and tmux
-- 🌟 [charmbracelet/gum](https://github.com/charmbracelet/gum): A tool for glamorous shell scripts 🎀
 - 🌟 [rs/dnstrace](https://github.com/rs/dnstrace): DNS resolution tracing tool
 - [wilfred/difftastic](https://github.com/wilfred/difftastic): a structural diff that understands syntax 🟥🟩 <https://difftastic.wilfred.me.uk/>
 - [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, and blame output <https://dandavison.github.io/delta/>
@@ -71,28 +75,35 @@
 - 🌟 [bensadeh/tailspin](https://github.com/bensadeh/tailspin): 🌀 A log file highlighter
 - [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - 🌟 [francoismichel/ssh3](https://github.com/francoismichel/ssh3): SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 <https://arxiv.org/abs/2312.08396>
-- 🌟 [alexpovel/srgn](https://github.com/alexpovel/srgn): A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`. <https://crates.io/crates/srgn/>
 - [timvw/qv](https://github.com/timvw/qv): Quickly view your data
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions): Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go): Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - 🌟 [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff): The fastest pixel-by-pixel image visual difference tool in the world.
 - 🌟 [ayoisaiah/f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
-- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all): rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [wolfpld/vv](https://github.com/wolfpld/vv): Terminal image viewer
-- [charmbracelet/sequin](https://github.com/charmbracelet/sequin): Human-readable ANSI sequences 🪩
-- [google/codesearch](https://github.com/google/codesearch): Fast, indexed regexp search over large file trees <http://swtch.com/~rsc/regexp/regexp4.html>
-- [davidesantangelo/krep](https://github.com/davidesantangelo/krep): Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale. <https://davidesantangelo.github.io/krep/>
-- [tbillington/kondo](https://github.com/tbillington/kondo): Cleans dependencies and build artifacts from your projects.
-- [AlDanial/cloc](https://github.com/AlDanial/cloc): cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
-  - `cloc --vcs=git --not-match-f=pnpm-lock.yaml`
-- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
-  - `tokei -e pnpm-lock.yaml`
 - [ashish0kumar/stormy](https://github.com/ashish0kumar/stormy): 🌦️ Minimal, customizable and neofetch-like weather CLI based on rainy
 - 🌟 [kdabir/has](https://github.com/kdabir/has): ✅ checks presence of various command line tools and their versions on the path
 - [aptible/supercronic](https://github.com/aptible/supercronic): Cron for containers
 - [70sh1/eddy](https://github.com/70sh1/eddy): Simple, fast CLI file encryption tool
 - [jfernandez/mdserve](https://github.com/jfernandez/mdserve): Fast markdown preview server with live reload and theme support.
 - [joknarf/pgtree](https://github.com/joknarf/pgtree): Unix process hierachy tree for specific processes (mixed pgrep + pstree) <https://joknarf.github.io/joknarf-tools>
+- [orhun/systeroid](https://github.com/orhun/systeroid): A more powerful alternative to sysctl(8) with a terminal user interface 🐧 <https://systeroid.cli.rs>
+
+### Texting
+
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all): rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [google/codesearch](https://github.com/google/codesearch): Fast, indexed regexp search over large file trees <http://swtch.com/~rsc/regexp/regexp4.html>
+- [davidesantangelo/krep](https://github.com/davidesantangelo/krep): Blazingly fast text search tool with multiple algorithms (Boyer-Moore, KMP, Rabin-Karp), SIMD acceleration, multi-threading, and regex support. Outperforms traditional tools with memory-mapped I/O and hardware optimizations for who need rapid pattern matching at scale. <https://davidesantangelo.github.io/krep/>
+- 🌟 [alexpovel/srgn](https://github.com/alexpovel/srgn): A code surgeon for precise text and code transplantation. A marriage of `tr`/`sed`, `rg` and `tree-sitter`. <https://crates.io/crates/srgn/>
+- [AlDanial/cloc](https://github.com/AlDanial/cloc): cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+  - `cloc --vcs=git --not-match-f=pnpm-lock.yaml`
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
+  - `tokei -e pnpm-lock.yaml`
+
+### Binary installer
+
+- [tbillington/kondo](https://github.com/tbillington/kondo): Cleans dependencies and build artifacts from your projects.
+- [zyedidia/eget](https://github.com/zyedidia/eget): Easily install prebuilt binaries from GitHub.
 
 ### JSON/YAML transformation
 
@@ -113,6 +124,7 @@
 - [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer): Tools for synching and streaming files from Windows to Linux
   - not maintained anymore
   - still great example to learn from
+- [Kena-Njonge/osync](https://github.com/Kena-Njonge/osync): No description, website, or topics provided.
 
 ### Watcher
 
@@ -130,7 +142,6 @@
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr): A hackable, minimal, fast TUI file explorer <https://xplr.dev>
 - [thetacom/hexabyte](https://github.com/thetacom/hexabyte): A modern, modular, and robust TUI hex editor. <http://io.thetacom.info/hexabyte/>
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash): A beautiful CLI dashboard for GitHub 🚀 <https://dlvhdr.github.io/gh-dash>
-- 🌟 [charmbracelet/wish](https://github.com/charmbracelet/wish): Make SSH apps, just like that! 💫
 - [sqshq/sampler](https://github.com/sqshq/sampler): Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file. <https://sampler.dev>
 - [tstack/lnav](https://github.com/tstack/lnav): Log file navigator <http://lnav.org>
 - [dloss/klp](https://github.com/dloss/klp): Lightweight CLI viewer for structured log files and streams (logfmt, JSONL and many others)
@@ -151,6 +162,8 @@
 - [vifm/vifm](https://github.com/vifm/vifm): Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt. <https://vifm.info>
 - [Owloops/updo](https://github.com/Owloops/updo): Uptime monitoring CLI tool with alerting and advanced settings <https://www.owloops.com/landings/open-source>
 - [neurocyte/flow](https://github.com/neurocyte/flow): Flow Control: a programmer's text editor <https://flow-control.dev>
+- [orhun/kmon](https://github.com/orhun/kmon): Linux Kernel Manager and Activity Monitor 🐧💻 <https://kmon.cli.rs>
+- [orhun/gpg-tui](https://github.com/orhun/gpg-tui): Manage your GnuPG keys with ease! 🔐 <https://blog.orhun.dev/introducing-gpg-tui/>
 
 ## Monitor
 

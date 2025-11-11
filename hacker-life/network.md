@@ -301,3 +301,4 @@ STUN / TURN / ICE
 - [dsgnr/portchecker.io](https://github.com/dsgnr/portchecker.io): portchecker.io is a free online utility to check the port status of a given hostname or IP address. <https://portchecker.io>
 - [WebBrowserTools](https://webbrowsertools.com/): The community of open-source projects to help improve the privacy and security of your online appearance
 - [qvis: tools and visualizations for QUIC and HTTP/3](https://qvis.quictools.info/#/files): no description found
+- [RDAP Whois Query Tool - Domain, IP & ASN Lookup](https://rdap.ss/): Free RDAP-based WHOIS lookup tool for domains, IPv4, IPv6 addresses, and ASN numbers. Fast, accurate, and privacy-focused domain information.

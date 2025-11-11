@@ -343,7 +343,7 @@ SSH
 NextCloud is crazily BIG now, so I will say no here.
 
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser): 📂 Web File Browser <https://filebrowser.org>
-- [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser): 📂 Web File Browser
+- 🌟 [gtsteffaniak/filebrowser](https://github.com/gtsteffaniak/filebrowser): 📂 Web File Browser
 - [filegator/filegator](https://github.com/filegator/filegator): Powerful Multi-User File Manager <https://filegator.io>
 - 🌟 [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash): 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ... <https://www.filestash.app/>
 - [eikek/sharry](https://github.com/eikek/sharry): Sharry is a self-hosted file sharing web application. <https://eikek.github.io/sharry>

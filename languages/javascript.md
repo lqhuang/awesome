@@ -66,6 +66,7 @@
 - [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x): `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin. <https://npm.im/eslint-plugin-import-x>
 - [gasket-tools/gasket](https://github.com/gasket-tools/gasket): Identify bridges from JS to Native or JS to WASM in V8 embedders
 - [luoling8192/better-import](https://github.com/luoling8192/better-import): CLI tool to detect replaceable dependencies in your package.json files.
+- [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector): Visualize The Oxlint.
 
 ### Runtime
 
@@ -103,6 +104,8 @@
 - [wheresrhys/fetch-mock](https://github.com/wheresrhys/fetch-mock): Mock http requests made using fetch <http://www.wheresrhys.co.uk/fetch-mock/>
 - [nock/nock](https://github.com/nock/nock): HTTP server mocking and expectations library for Node.js
 - [tstyche/tstyche](https://github.com/tstyche/tstyche): Everything You Need for Type Testing. <https://tstyche.org>
+- [sinonjs/sinon](https://github.com/sinonjs/sinon): Test spies, stubs and mocks for JavaScript. <https://sinonjs.org/>
+- [sinonjs/fake-timers](https://github.com/sinonjs/fake-timers): Fake setTimeout and friends (collectively known as "timers"). Useful in your JavaScript tests. Extracted from Sinon.JS
 
 Fake Data
 
@@ -373,6 +376,7 @@ Specific
 - [webdiscus/ansis](https://github.com/webdiscus/ansis): CJS/ESM ANSI color library for CI, terminals and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
 - [bloomberg/stricli](https://github.com/bloomberg/stricli): Build complex CLIs with type safety and no dependencies <https://bloomberg.github.io/stricli>
 - [dahlia/optique](https://github.com/dahlia/optique): Type-safe combinatorial CLI parser for TypeScript <http://optique.dev/>
+- [privatenumber/type-flag](https://github.com/privatenumber/type-flag): ⛳️ Typed command-line arguments parser for Node.js
 
 ### Image
 
@@ -422,6 +426,7 @@ Specific
 - [inspect-js/object-inspect](https://github.com/inspect-js/object-inspect): string representations of objects in node and the browser
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny): Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser. <https://mediabunny.dev/>
 - [rawify/MaxIntervalCover.js](https://github.com/rawify/MaxIntervalCover.js): The RAW MaxIntervalCover library computes the optimal subset of non-overlapping intervals that maximizes total covered length
+- [sindresorhus/on-change](https://github.com/sindresorhus/on-change): Watch an object or array for changes
 
 Deep equal
 

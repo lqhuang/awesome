@@ -48,6 +48,7 @@
   - SSE and gRPC
 - 🌟 [mockoon/mockoon](https://github.com/mockoon/mockoon): Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source. <https://mockoon.com>
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools): Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities | 专业的 WebSocket 调试工具，提供监控、消息模拟和流量拦截等功能 <https://websocket-devtools.com>
+- 🌟 [bjesus/pipet](https://github.com/bjesus/pipet): Swiss-army tool for scraping and extracting data from online assets, made for hackers
 
 #### Benchmark
 

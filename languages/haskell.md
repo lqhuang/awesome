@@ -41,9 +41,12 @@
 - [可应用函子的可组合性之缘起](https://zhuanlan.zhihu.com/p/699260802)
 - [Understanding contravariance](https://typeclasses.com/contravariance)
 - [Avoiding space leaks at all costs](https://chshersh.com/space-leak)
-- [Alexis King’s Blog](https://lexi-lambda.github.io/)
-  - IMHO, I suggest reading all the posts.
+- [Alexis King's Blog](https://lexi-lambda.github.io/)
+  - IMHO, I will suggest reading all the posts.
 - [GHC - Dependent Types: Current Status](https://ghc.serokell.io/dh)
+- [Haskell generics explained](https://markkarpov.com/tutorial/generics)
+- [Exceptions tutorial](https://markkarpov.com/tutorial/exceptions)
+- [Haskell's kind system - a primer · dcastro](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
 
 ### Courses
 
@@ -104,7 +107,10 @@
 - [Bodigrim/blaze-markup](https://github.com/Bodigrim/blaze-markup): Core modules for a blazing fast markup combinator library
 - [AJChapman/formatting](https://github.com/AJChapman/formatting): Format strings type-safely with combinators
 - [tweag/capability](https://github.com/tweag/capability): Extensional capabilities and deriving combinators
-- 🌟 [raehik/symparsec](https://github.com/raehik/symparsec): Type level string parser combinators
+- [raehik/symparsec](https://github.com/raehik/symparsec): Type level string parser combinators
+- [haskell/attoparsec](https://github.com/haskell/attoparsec): A fast Haskell library for parsing ByteStrings <http://hackage.haskell.org/package/attoparsec>
+- [mrkkrp/megaparsec](https://github.com/mrkkrp/megaparsec): Industrial-strength monadic parser combinator library
+  - [Megaparsec tutorial](https://markkarpov.com/tutorial/megaparsec.html)
 
 ## Logging and tracing
 
@@ -133,6 +139,7 @@
 ## Dependent type
 
 - [ollef/sixty](https://github.com/ollef/sixty): Dependent type checker using normalisation by evaluation
+- [goldfirere/singletons](https://github.com/goldfirere/singletons): Fake dependent types in Haskell using singletons
 
 ## Linear Haskell
 
@@ -176,6 +183,8 @@
 - [google/proto-lens](https://github.com/google/proto-lens): API for protocol buffers using modern Haskell language and library patterns. <https://google.github.io/proto-lens>
 - [seanhess/hyperbole](https://github.com/seanhess/hyperbole): Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView
 - 🌟 [dmjio/miso](https://github.com/dmjio/miso): 🍜 A tasty Haskell front-end framework <https://haskell-miso.org>
+- [kazu-yamamoto/http2](https://github.com/kazu-yamamoto/http2): HTTP/2.0 library including HPACK
+- [kazu-yamamoto/quic](https://github.com/kazu-yamamoto/quic): IETF QUIC library in Haskell
 
 ## Clients
 
@@ -212,3 +221,6 @@
 - [byteverse/chronos](https://github.com/byteverse/chronos): Haskell time library focusing on performance
 - [ndmitchell/record-dot-preprocessor](https://github.com/ndmitchell/record-dot-preprocessor): A preprocessor for a Haskell record syntax using dot
 - [nikita-volkov/postgresql-connection-string](https://github.com/nikita-volkov/postgresql-connection-string): PostgreSQL connection string structured model, parser and builder <https://hackage.haskell.org/package/postgresql-connection-string>
+- [tweag/monad-bayes](https://github.com/tweag/monad-bayes): A library for probabilistic programming in Haskell.
+- [haskell-tls/hs-tls](https://github.com/haskell-tls/hs-tls): TLS/SSL implementation in haskell
+- [sellout/duoids](https://github.com/sellout/duoids): Unifying parallel and sequential operations

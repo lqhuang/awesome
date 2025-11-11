@@ -151,6 +151,7 @@
 - [electric-sql/pglite](https://github.com/electric-sql/pglite): Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno <https://electric-sql.com>
 - 🌟 [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb): DuckDB-powered Postgres for high performance apps & analytics.
 - 🌟 [paradedb/pg_analytics](https://github.com/paradedb/pg_analytics): DuckDB-powered analytics for Postgres <https://paradedb.com>
+- [Mooncake-Labs/moonlink](https://github.com/Mooncake-Labs/moonlink): Fully Managed, Streaming Ingestion (CDC) into your Lakehouse <https://www.mooncake.dev/moonlink>
 
 ### Embedded / In-memory
 
