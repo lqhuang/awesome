@@ -35,6 +35,7 @@
 - [gitlab:chrony/chrony](https://gitlab.com/chrony/chrony): Advanced NTP client and server
 - [GitHub App - DosuBot](https://github.com/apps/dosubot): Dosu is an AI-powered Github maintainer agent. Dosu helps open source maintainers encourage contributors, organize issues, triage bugs, answer questions, and more.
 - [hcavarsan/pipedash](https://github.com/hcavarsan/pipedash): A desktop app for managing CI/CD pipelines from multiple providers
+- [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon): 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
 
 ### Misc linters / formatters
 
@@ -341,7 +342,7 @@ Libs
 - [GurkhaShieldForce/VulnRisk_Public](https://github.com/GurkhaShieldForce/VulnRisk_Public): VulnRisk - Open Source Vulnerability Risk Assessment Platform <https://vulnrisk.animogovcon.com/>
 - [AppOmni-Labs/heisenberg-ssc-health-check](https://github.com/AppOmni-Labs/heisenberg-ssc-health-check): Analyzes software dependencies across GitHub repositories to identify security vulnerabilities and health risks in your supply chain.
 
-# Testing
+## Testing
 
 ### TAP (Test Anything Protocol)
 
@@ -386,6 +387,133 @@ Libs
 - [buildpacks/pack](https://github.com/buildpacks/pack): CLI for building apps using Cloud Native Buildpacks <https://buildpacks.io>
   - [pivotal/kpack](https://github.com/pivotal/kpack): Kubernetes Native Container Build Service
 - [agola-io/agola](https://github.com/agola-io/agola): Agola: CI/CD Redefined <https://agola.io>
+
+### Ansible
+
+- [ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible): Awesome Ansible List
+- [ansible/ansible-dev-tools](https://github.com/ansible/ansible-dev-tools): Ansible automation developer tools <https://ansible.readthedocs.io/projects/dev-tools/>
+- [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator): A text-based user interface (TUI) for Ansible. <https://ansible.readthedocs.io/projects/navigator/>
+- [ansible/ansible-runner](https://github.com/ansible/ansible-runner): A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible.
+- [ansible/ansible-builder](https://github.com/ansible/ansible-builder): An Ansible execution environment builder <https://ansible-builder.rtfd.io>
+- [ansible/tox-ansible](https://github.com/ansible/tox-ansible): The tox-ansible plugin dynamically creates a full matrix of python interpreter and ansible-core version environments for running integration, sanity, and unit for an ansible collection both locally and in a Github action. tox virtual environments are leveraged for collection building, collection installation, dependency installation, and testing. <https://ansible.readthedocs.io/projects/tox-ansible/>
+- [ansible/ansible-policy](https://github.com/ansible/ansible-policy): ansible-policy is a prototype implementation which allows us to define and set constraints to the Ansible project in OPA Rego language.
+
+#### Novel ideas
+
+- [ansible/receptor](https://github.com/ansible/receptor): Project Receptor is a flexible multi-service relayer with remote execution and orchestration capabilities linking controllers with executors across a mesh of nodes.
+  - [ansible/receptor-collection](https://github.com/ansible/receptor-collection): This collection prepares and configures a node for running Receptor.
+- [ansible/automation-reports](https://github.com/ansible/automation-reports)
+- [ansible/ansible-rulebook](https://github.com/ansible/ansible-rulebook): Event driven automation for Ansible.
+  - > The real world is full of events that change the state of our software and systems. Our automation needs to be able to react to those events. Introducing _ansible-rulebook_; a command line tool that allows you to recognize events that you care about and react accordingly by running a playbook or other actions.
+  - interesting, but no more examples yet
+  - [ansible/event-driven-ansible](https://github.com/ansible/event-driven-ansible): Ansible Collection for EDA <https://galaxy.ansible.com/ui/repo/published/ansible/eda/docs/>
+- 🌟 [mitogen-hq/mitogen](https://github.com/mitogen-hq/mitogen): Distributed self-replicating programs in Python <https://mitogen.networkgenomics.com/>
+  - [Mitogen for Ansible — Mitogen Documentation](https://mitogen.networkgenomics.com/ansible_detailed.html)
+  - [serverscom/ansible-collection-mitogen](https://github.com/serverscom/ansible-collection-mitogen): Mitogen-enabling collection for Ansible
+  - [robertdebock/ansible-role-mitogen](https://github.com/robertdebock/ansible-role-mitogen): Install and configure mitogen on your system. <https://robertdebock.nl/>
+- 🌟 [hashicorp/packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible): Packer plugin for Ansible Provisioner <https://www.packer.io/docs/provisioners/ansible>
+  - [geerlingguy/ansible-role-packer](https://github.com/geerlingguy/ansible-role-packer): Ansible Role - Packer <https://galaxy.ansible.com/geerlingguy/packer/>
+  - [geerlingguy/ansible-role-packer-debian](https://github.com/geerlingguy/ansible-role-packer-debian): Ansible Role - Packer Debian/Ubuntu Configuration for Vagrant VirtualBox <https://galaxy.ansible.com/geerlingguy/packer-debian/>
+  - [geerlingguy/packer-boxes](https://github.com/geerlingguy/packer-boxes): Jeff Geerling's Packer build configurations for Vagrant boxes. <https://app.vagrantup.com/geerlingguy>
+
+#### Testing
+
+- [HewlettPackard/monkeyble](https://github.com/HewlettPackard/monkeyble): End-to-end testing framework for Ansible <https://hewlettpackard.github.io/monkeyble/>
+- [ansible/test-playbooks](https://github.com/ansible/test-playbooks): playbook-tests
+- [ansible/pytest-ansible](https://github.com/ansible/pytest-ansible): A pytest plugin that enables the use of ansible in tests, enables the use of pytest as a collection unit test runner, and exposes molecule scenarios through a pytest fixture. <https://ansible.readthedocs.io/projects/pytest-ansible/>
+- [ansible/molecule](https://github.com/ansible/molecule): Molecule aids in the development and testing of Ansible content: collections, playbooks and roles <https://ansible.readthedocs.io/projects/molecule/>
+  - [Testing Ansible roles with Molecule, libvirt (vagrant-libvirt) and QEMU/KVM - TauCeti blog](https://www.tauceti.blog/posts/testing-ansible-roles-with-molecule-libvirt-vagrant-qemu-kvm/): Integrate Ansible role tests with Molecule into an existing role using libvirt + QEMU/KVM
+
+#### Dashboards
+
+- 🌟 [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore): Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools. <https://semaphoreui.com>
+- [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+  - [HewlettPackard/squest](https://github.com/HewlettPackard/squest): Service request portal on top of Ansible Tower/AWX <https://hewlettpackard.github.io/squest/latest>
+- [sky22333/ansible](https://github.com/sky22333/ansible): 轻量级，简单易用的 Ansible Web 管理面板，提供批量主机管理、命令执行、文件传输和 Web 终端等功能。
+
+#### Tools
+
+- [thegeeklab/ansible-doctor](https://github.com/thegeeklab/ansible-doctor): Annotation based documentation for your Ansible roles <https://ansible-doctor.geekdocs.de>
+- 🌟 [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot. <https://ara.recordsansible.org>
+- [haidaraM/ansible-playbook-grapher](https://github.com/haidaraM/ansible-playbook-grapher): A command line tool to create a graph representing your Ansible playbook tasks and roles
+- [willthames/ansible-inventory-grapher](https://github.com/willthames/ansible-inventory-grapher): No description, website, or topics provided.
+- [sr.ht:~cwt/ananta](https://sr.ht/~cwt/ananta/): command-line tool to execute commands on multiple remote hosts
+- [serversideup/docker-ansible](https://github.com/serversideup/docker-ansible): ⚡️ Run Ansible anywhere with a lightweight and powerful Docker image. <https://hub.docker.com/r/serversideup/ansible>
+
+#### Galaxy
+
+- [Ansible | R. de Bock](https://robertdebock.nl/ansible.html): Simple and compatible on many platforms.
+- [Jeff Geerling’s Ansible Content](https://ansible.jeffgeerling.com/)
+  - [geerlingguy/ansible-for-devops](https://github.com/geerlingguy/ansible-for-devops): Ansible for DevOps examples. <https://www.ansiblefordevops.com>
+  - [geerlingguy/ansible-for-kubernetes](https://github.com/geerlingguy/ansible-for-kubernetes): Ansible and Kubernetes examples from Ansible for Kubernetes Book <https://www.ansibleforkubernetes.com>
+  - [geerlingguy/ansible-role-security](https://github.com/geerlingguy/ansible-role-security): Ansible Role - Security <https://galaxy.ansible.com/geerlingguy/security/>
+  - [geerlingguy/ansible-role-ntp](https://github.com/geerlingguy/ansible-role-ntp): Ansible Role - NTP <https://galaxy.ansible.com/geerlingguy/ntp/>
+  - [geerlingguy/ansible-role-nodejs](https://github.com/geerlingguy/ansible-role-nodejs): Ansible Role - Node.js <https://galaxy.ansible.com/geerlingguy/nodejs/>
+  - [geerlingguy/ansible-role-java](https://github.com/geerlingguy/ansible-role-java): Ansible Role - Java <https://galaxy.ansible.com/geerlingguy/java/>
+  - [geerlingguy/ansible-role-node_exporter](https://github.com/geerlingguy/ansible-role-node_exporter): Ansible role - Node exporter <https://galaxy.ansible.com/geerlingguy/node_exporter>
+  - [geerlingguy/ansible-role-nginx](https://github.com/geerlingguy/ansible-role-nginx): Ansible Role - Nginx <https://galaxy.ansible.com/geerlingguy/nginx/>
+  - [geerlingguy/ansible-role-kubernetes](https://github.com/geerlingguy/ansible-role-kubernetes): Ansible Role - Kubernetes <https://galaxy.ansible.com/geerlingguy/kubernetes/>
+  - [geerlingguy/ansible-role-certbot](https://github.com/geerlingguy/ansible-role-certbot): Ansible Role - Certbot (for Let's Encrypt) <https://galaxy.ansible.com/geerlingguy/certbot/>
+  - [geerlingguy/ansible-role-ansible](https://github.com/geerlingguy/ansible-role-ansible): Ansible Role - Ansible <https://galaxy.ansible.com/geerlingguy/ansible/>
+- [Linux System Roles](https://linux-system-roles.github.io/): Welcome to the Linux System Roles project homepage! A collection of Ansible roles and modules
+  - [linux-system-roles/kernel_settings](https://github.com/linux-system-roles/kernel_settings): Role to use to set kernel tuning parameters <https://linux-system-roles.github.io/kernel_settings/>
+  - [linux-system-roles/bootloader](https://github.com/linux-system-roles/bootloader): Ansible role for bootloader and kernel command line management <https://linux-system-roles.github.io/bootloader/>
+  - [linux-system-roles/systemd](https://github.com/linux-system-roles/systemd): Ansible role to manage systemd <https://linux-system-roles.github.io/systemd/>
+  - [linux-system-roles/journald](https://github.com/linux-system-roles/journald): Ansible role for managing systemd journald settings <https://linux-system-roles.github.io/journald/>
+  - [linux-system-roles/network](https://github.com/linux-system-roles/network): An ansible role to configure networking <https://linux-system-roles.github.io/network/>
+  - [linux-system-roles/podman](https://github.com/linux-system-roles/podman): Management of podman, including systemd services that use podman <https://linux-system-roles.github.io/podman/>
+- [buluma](https://github.com/buluma?tab=repositories&q=ansible)
+  - [buluma/ansible-role-nvim](https://github.com/buluma/ansible-role-nvim): Nvim Install and Setup
+  - [buluma/ansible-role-bootstrap](https://github.com/buluma/ansible-role-bootstrap): Prepare your system to be managed by Ansible. <https://galaxy.ansible.com/ui/standalone/roles/buluma/bootstrap/>
+  - [buluma/ansible-role-ara](https://github.com/buluma/ansible-role-ara): Install and configure ara on your system. <https://galaxy.ansible.com/buluma/ara>
+  - [buluma/ansible-role-kernel](https://github.com/buluma/ansible-role-kernel): Build and install a kernel.
+  - [buluma/ansible-role-netdata](https://github.com/buluma/ansible-role-netdata): Install and configure netdata.
+  - [buluma/ansible-role-buildtools](https://github.com/buluma/ansible-role-buildtools): Install buildtools on your system. <https://galaxy.ansible.com/buluma/buildtools>
+- [StackHPC](https://github.com/orgs/stackhpc/repositories?q=ansible)
+  - [stackhpc/ansible-libvirt](https://github.com/stackhpc/ansible-libvirt): Ansible playbooks for managing libvirt hypervisors and VMs
+    - [stackhpc/ansible-role-libvirt-host](https://github.com/stackhpc/ansible-role-libvirt-host): This role configures a host as a Libvirt/KVM hypervisor. It can also configure storage pools and networks on the host.
+    - [stackhpc/ansible-role-libvirt-vm](https://github.com/stackhpc/ansible-role-libvirt-vm): This role configures and creates VMs on a KVM hypervisor.
+  - [stackhpc/ansible-collection-linux](https://github.com/stackhpc/ansible-collection-linux): Ansible collection for managing Linux operating systems
+  - [stackhpc/ansible-collection-keycloak](https://github.com/stackhpc/ansible-collection-keycloak): Ansible collection for deploying the Keycloak OCI container
+  - [stackhpc/ansible-nvidia-nvue](https://github.com/stackhpc/ansible-nvidia-nvue): No description, website, or topics provided.
+  - [stackhpc/ansible-role-luks](https://github.com/stackhpc/ansible-role-luks): Ansible role to setup of LUKS encryption
+
+Collections
+
+- [prometheus-community/ansible](https://github.com/prometheus-community/ansible): Ansible Collection for Prometheus <https://prometheus-community.github.io/ansible/>
+- [haxorof/ansible-collection-virtualization](https://github.com/haxorof/ansible-collection-virtualization): Ansible collection containing roles for different kind of virtualization technologies.
+- [haxorof/ansible-collection-sonatype-nexus](https://github.com/haxorof/ansible-collection-sonatype-nexus): Ansible collection for managing Sonatype Nexus Repository Manager 3.x
+- [damex/ansible-collections-systemd](https://github.com/damex/ansible-collections-systemd): ansible systemd collection
+- [damex/ansible-collections-cloudflare](https://github.com/damex/ansible-collections-cloudflare): ansible cloudflare collection
+
+Roles
+
+- [lablabs/ansible-role-rke2](https://github.com/lablabs/ansible-role-rke2): Ansible Role to install RKE2 Kubernetes. <https://galaxy.ansible.com/ui/standalone/roles/lablabs/rke2/>
+- [lablabs/ansible-collection-wireguard](https://github.com/lablabs/ansible-collection-wireguard): Ansible Collection to deploy Wireguard server <https://galaxy.ansible.com/lablabs/wireguard>
+- [PyratLabs/ansible-role-k3s](https://github.com/PyratLabs/ansible-role-k3s): Ansible role for installing k3s as either a standalone server or HA cluster.
+- [michaelrigart/ansible-role-interfaces](https://github.com/michaelrigart/ansible-role-interfaces): An ansible role for configuring different network interfaces
+- [mrlesmithjr/ansible-netplan](https://github.com/mrlesmithjr/ansible-netplan): Ansible role to manage Netplan
+- [hifis-net/ansible-collection-toolkit](https://github.com/hifis-net/ansible-collection-toolkit): This Ansible collection provides production-ready Ansible roles used for providing services used in research and by research software engineers, but not exclusively. <https://galaxy.ansible.com/ui/repo/published/hifis/toolkit/>
+- [arillso/ansible.system](https://github.com/arillso/ansible.system): This is an Ansible collection that installs and then configures various system. <https://guide.arillso.io/collections/arillso/system/index.html>
+- [cloudalchemy/ansible-coredns](https://github.com/cloudalchemy/ansible-coredns): Ansible provisioning of CoreDNS
+- [nginx/ansible-role-nginx](https://github.com/nginx/ansible-role-nginx): Ansible role for installing NGINX <https://galaxy.ansible.com/nginxinc/nginx>
+- [nginx/ansible-role-nginx-config](https://github.com/nginx/ansible-role-nginx-config): Ansible role for configuring NGINX <https://galaxy.ansible.com/nginxinc/nginx_config>
+- [nginxinc/ansible-role-nginx-app-protect](https://github.com/nginxinc/ansible-role-nginx-app-protect): Ansible role to install and configure NGINX App Protect (WAF and DoS) for NGINX Plus on your target host <https://galaxy.ansible.com/nginxinc/nginx_app_protect>
+- [nginxinc/ansible-role-nginx-management-suite](https://github.com/nginxinc/ansible-role-nginx-management-suite): Ansible role for the NGINX Management Suite
+- 🌟 [giovtorres/ansible-role-tuned](https://github.com/giovtorres/ansible-role-tuned): Ansible Role - tuned <https://galaxy.ansible.com/ui/standalone/roles/giovtorres/tuned/documentation/>
+
+Security hardening
+
+- [githubixx/ansible-role-harden-linux](https://github.com/githubixx/ansible-role-harden-linux): Ansible role for hardening Linux <https://www.tauceti.blog/post/kubernetes-the-not-so-hard-way-with-ansible-harden-the-instances/>
+- [dhira13/ansible_hardening](https://github.com/dhira13/ansible_hardening): ansible for hardening image
+
+Archived or outdated but still useful
+
+- [NVIDIA/ansible-role-nvidia-docker](https://github.com/NVIDIA/ansible-role-nvidia-docker): No description, website, or topics provided.
+- [NVIDIA/ansible-role-nvidia-driver](https://github.com/NVIDIA/ansible-role-nvidia-driver): No description, website, or topics provided.
+- [dev-sec/ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening): This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL <http://dev-sec.io/>
+- [dev-sec/ansible-nginx-hardening](https://github.com/dev-sec/ansible-nginx-hardening): This Ansible role provides secure nginx configurations. <http://dev-sec.io/>
+- [giovtorres/ansible-role-rngd](https://github.com/giovtorres/ansible-role-rngd): Ansible Role - rngd
 
 ## Changelog
 
