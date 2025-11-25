@@ -31,6 +31,8 @@
 - 🌟 [A distributed systems reliability glossary](https://antithesis.com/resources/reliability_glossary/): A list of key concepts for building and testing reliable distributed systems, with basic definitions and deep references.
 - [Consensus algorithms at scale: Part 1 - Introduction — PlanetScale](https://planetscale.com/blog/consensus-algorithms-at-scale-part-1): This is a multi-part blog series and will be updated with links to the corresponding posts.
   - There are parts 2, 3, 4, 5, 6, 7 and 8.
+- [Generalized Consensus: Recap | Multigres](https://multigres.com/blog/generalized-consensus)
+  - A full series on Generalized Consensus. Good stuff.
 
 ### Books
 

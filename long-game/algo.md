@@ -71,6 +71,7 @@
 - [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms): Implementation of all RL algorithms in a simpler way
 - [Reinforcement Learning Guide | Unsloth Documentation](https://docs.unsloth.ai/basics/reinforcement-learning-guide)
 - [An Incomplete Theory for RL – Gene Li](https://gene.ttic.edu/blog/incomplete-rl): no description found
+- [MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning): This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."
 
 ## Flow models
 

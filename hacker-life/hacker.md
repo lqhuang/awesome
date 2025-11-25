@@ -125,10 +125,10 @@
 - [r-morato/RM-Homelab](https://github.com/r-morato/RM-Homelab): Journal of my path building and maintaining my homelab
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder): 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [ProxMox Cluster - Soup-to-Nutz | scyto](https://gist.github.com/scyto/76e94832927a89d977ea989da157e9dc): my proxmox cluster.
+- [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack): Miniature rack builds, for portable or compact Homelabs. <http://mini-rack.jeffgeerling.com/>
 
 ### Admin
 
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST <https://ntfy.sh>
 - [yusing/go-proxy](https://github.com/yusing/go-proxy): Easy to use reverse proxy with docker integration
 - [tobychui/zoraxy](https://github.com/tobychui/zoraxy): A general purpose HTTP reverse proxy and forwarding tool. Now written in Go! <https://zoraxy.aroz.org>
 - [Notifiarr](https://notifiarr.com/): Notification aggregation, system monitoring & more
@@ -152,13 +152,14 @@
 - [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare): DockFlare: Cloudflare Tunnel & Zero Trust manager for Docker/non-docker services
 - [need4swede/Portall](https://github.com/need4swede/Portall): Port Management Interface
 - [crocofied/CoreControl](https://github.com/crocofied/CoreControl): Dashboard to manage your entire server infrastructure <https://corecontrol.xyz>
+  - [crocofied/PortNote](https://github.com/crocofied/PortNote): Keep track of used ports
 - [netbox-community/netbox](https://github.com/netbox-community/netbox): The premiere source of truth powering network automation. Open source under Apache 2. <https://netbox.dev>
 - [FOGProject/fogproject](https://github.com/FOGProject/fogproject): An open source computer cloning & management system <https://fogproject.org>
 - [dockpeek/dockpeek](https://github.com/dockpeek/dockpeek): Simple dashboard for quick access to Docker container web interfaces across multiple hosts
 - [kottster/kottster](https://github.com/kottster/kottster): Instant Node.js admin panel. Secure, self-hosted, and easy to set up <https://kottster.app>
-- [crocofied/PortNote](https://github.com/crocofied/PortNote): Keep track of used ports
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas): Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning. <https://atlasdemo.vnerd.nl>
 - [mayanayza/netvisor](https://github.com/mayanayza/netvisor): Automatically discover and visually document network topology.
+- [arensb/ansible-truenas](https://github.com/arensb/ansible-truenas): Ansible collection to manage TrueNAS
 
 ### Virtualization
 
@@ -182,11 +183,11 @@
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed): A speed test analysis software that shows your internet speed for up to 30 days <https://myspeed.dev>
 - [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live): For more information, please see http://smartos.org/ For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics): 🚀 Open source monitoring tool built with Node.js <https://lunalytics.xyz>
+- [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz): Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more! <https://kuvasz-uptime.dev/>
 
 ### Docker tools
 
 - [hollowpnt92/docker-port-viewer](https://github.com/hollowpnt92/docker-port-viewer): No description, website, or topics provided.
-- [crocofied/PortNote](https://github.com/crocofied/PortNote): Keep track of used ports
 
 ### Start page
 
@@ -212,7 +213,6 @@
 
 - [homebridge/homebridge](https://github.com/homebridge/homebridge): HomeKit support for the impatient. <https://homebridge.io>
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant): A curated list of amazingly awesome Home Assistant resources. <https://awesome-ha.com>
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST <https://ntfy.sh>
 - [unpoller/unpoller](https://github.com/unpoller/unpoller): Application: Collect ALL UniFi Controller, Site, Device & Client Data - Export to InfluxDB or Prometheus <https://unpoller.com>
 - [thunder439/QNASMINI](https://github.com/thunder439/QNASMINI): QNAS MINI 是 6 盘位 2.5 寸 NAS
 - [workerforce/unifi-ddns](https://github.com/workerforce/unifi-ddns): Cloudflare DDNS (Dynamic DNS) support for UniFi OS <https://workerforce.github.io/unifi-ddns/>

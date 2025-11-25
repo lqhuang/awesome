@@ -75,6 +75,7 @@
 - 🌟 [bensadeh/tailspin](https://github.com/bensadeh/tailspin): 🌀 A log file highlighter
 - [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - 🌟 [francoismichel/ssh3](https://github.com/francoismichel/ssh3): SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 <https://arxiv.org/abs/2312.08396>
+- [mobile-shell/mosh](https://github.com/mobile-shell/mosh): Mobile Shell <https://mosh.org>
 - [timvw/qv](https://github.com/timvw/qv): Quickly view your data
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions): Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go): Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
@@ -164,6 +165,7 @@
 - [neurocyte/flow](https://github.com/neurocyte/flow): Flow Control: a programmer's text editor <https://flow-control.dev>
 - [orhun/kmon](https://github.com/orhun/kmon): Linux Kernel Manager and Activity Monitor 🐧💻 <https://kmon.cli.rs>
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui): Manage your GnuPG keys with ease! 🔐 <https://blog.orhun.dev/introducing-gpg-tui/>
+- 🌟 [pamburus/hl](https://github.com/pamburus/hl): A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 
 ## Monitor
 
@@ -173,6 +175,9 @@
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom): Yet another cross-platform graphical process/system monitor. <https://clementtsang.github.io/bottom>
 - [aristocratos/btop](https://github.com/aristocratos/btop): A monitor of resources
 - [amanusk/s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility <https://amanusk.github.io/s-tui>
+- [facebookincubator/below](https://github.com/facebookincubator/below): A time traveling resource monitor for modern Linux systems
+  - > The name "below" stems from the fact that the below developers rejected many of atop's design and style decisions.
+  - no deb package in system manager for now T_T
 
 ## Debugging
 

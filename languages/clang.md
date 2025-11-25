@@ -42,6 +42,7 @@ And modern is here now.
 - [Keith-S-Thompson/how-to-c-response/blob/master/README.md](https://github.com/Keith-S-Thompson/how-to-c-response/blob/master/README.md):
 - [Practical Guide to Bare Metal C++](https://arobenko.github.io/bare_metal_cpp/)
   - using C++ in embedded bare metal development.
+- [Making the Clang AST Leaner and Faster | The C++ Alliance](https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html)
 
 ### References
 
@@ -116,6 +117,9 @@ And modern is here now.
 - [richfelker/musl-cross-make](https://github.com/richfelker/musl-cross-make): Simple makefile-based build for musl cross compiler
 - [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure): wrap autotools configure scripts to build with Cosmopolitan Libc
 - [ahgamut/cosmo-gcc-plugin](https://github.com/ahgamut/cosmo-gcc-plugin): A GCC plugin to help build C code with Cosmopolitan Libc
+- [xmake-io/xmake](https://github.com/xmake-io/xmake): 🔥 A cross-platform build utility based on Lua <https://xmake.io>
+  - lua as build script language
+  - Xmake ≈ Make/Ninja + CMake/Meson + Vcpkg/Conan + distcc + ccache/sccache
 
 ### Analyzer
 
@@ -162,6 +166,7 @@ And modern is here now.
 - [jnikula/hawkmoth](https://github.com/jnikula/hawkmoth): Hawkmoth - Sphinx Autodoc for C <https://jnikula.github.io/hawkmoth/>
 - [breathe-doc/breathe](https://github.com/breathe-doc/breathe): ReStructuredText and Sphinx bridge to Doxygen <https://breathe-doc.org>
 - [svenevs/exhale](https://github.com/svenevs/exhale): Automatic C++ library api documentation generation: breathe doxygen in and exhale it out.
+- [cppalliance/mrdocs](https://github.com/cppalliance/mrdocs): MrDocs: A Clang/LLVM tool for building reference documentation from C++ code and javadoc comments. <https://mrdocs.com>
 
 ### Profiles
 

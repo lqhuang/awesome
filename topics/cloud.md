@@ -35,6 +35,7 @@
   - [apple/containerization](https://github.com/apple/containerization): Containerization is a Swift package for running Linux containers on macOS.
 - 🌟 [passt](https://passt.top/passt/about/): Plug A Simple Socket Transport
   - passt and pasta unprivileged (rootless) user-mode networking for VMs and containers, replacement for slirp, slirp4netns, libslirp, integrates with qemu, libvirt, Podman, Kata Containers
+- [containerd/nerdbox](https://github.com/containerd/nerdbox): containerd sandbox runtime using vms
 
 #### Base images
 
@@ -116,18 +117,15 @@
 - [getwud/wud](https://github.com/getwud/wud): Keep your containers up-to-date! <https://getwud.github.io/wud/>
 - [crazy-max/diun](https://github.com/crazy-max/diun): Receive notifications when an image is updated on a Docker registry <https://crazymax.dev/diun/>
 - [log-forge/logforge](https://github.com/log-forge/logforge): All in one UI, for Docker. Real-time logs, Interactive terminals, Custom alerts/notifications/Automations, File system access. <https://www.logforge.dev/>
+- [shadow-maint/shadow](https://github.com/shadow-maint/shadow): Upstream shadow tree
+- 🌟 [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell
+- 🌟 [goodwithtech/dockle](https://github.com/goodwithtech/dockle): Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start <https://containers.goodwith.tech/>
 
-### Security / Audit / Jail
-
-- [quay/clair](https://github.com/quay/clair): Vulnerability Static Analysis for Containers <https://quay.github.io/clair/>
-  - [quay/container-security-operator](https://github.com/quay/container-security-operator): Identify image vulnerabilities in Kubernetes pods
-- 🌟 [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <https://trivy.dev>
-- [Runtime-Radar/runtime-radar](https://github.com/Runtime-Radar/runtime-radar): Runtime Radar is an open-source solution for monitoring runtime security events and responding to incidents in containerized environments.
-
-### Filesystem
+#### Filesystem
 
 - [composefs/composefs](https://github.com/composefs/composefs): The reliability of disk images, the flexibility of files
 - [containers/composefs-rs](https://github.com/containers/composefs-rs): Rust library for the composefs filesystem
+- [erofs/docs](https://github.com/erofs/docs): EROFS documentation repo for https://erofs.docs.kernel.org <https://erofs.docs.kernel.org>
 
 #### Interesting images
 
@@ -160,6 +158,13 @@
 - [hashicorp/packer](https://github.com/hashicorp/packer): Packer is a tool for creating identical machine images for multiple platforms from a single source configuration. <https://developer.hashicorp.com/packer>
 - [cobbler/cobbler](https://github.com/cobbler/cobbler): Cobbler is a versatile Linux deployment server <https://cobbler.github.io>
 - [bin456789/reinstall](https://github.com/bin456789/reinstall): 一键 DD/重装脚本 (One-click reinstall OS on VPS)
+- 🌟 [fossable/goldboot](https://github.com/fossable/goldboot): Build golden images with CI <https://www.fossable.org/projects/goldboot>
+- [velvet-os/imagebuilder](https://github.com/velvet-os/imagebuilder): velvet os - simple script framework to build debian 13 trixie (in older versions also 12/bookworm, 11/bullseye and some ubuntu) bootable usb / sd card images for some arm and intel devices - lots of prebuilt images as well <https://velvet-os.github.io/>
+  - GPL-3.0
+- [endlessm/eos-image-builder](https://github.com/endlessm/eos-image-builder): Endless image builder <https://support.endlessos.org/en/deployment/image-builder>
+  - GPL-2.0
+- [osbuild/osbuild](https://github.com/osbuild/osbuild): Build-Pipelines for Operating System Artifacts <https://www.osbuild.org>
+  - [osbuild/osbuild-composer](https://github.com/osbuild/osbuild-composer): An HTTP service for building bootable OS images. <https://www.osbuild.org>
 
 ### Virtual Machines
 
@@ -217,6 +222,8 @@ Type 1 hypervisors
 - [cxl-micron-reskit/famfs](https://github.com/cxl-micron-reskit/famfs): This is the user space repo for famfs, the fabric-attached memory file system
 - [scality/Zenko](https://github.com/scality/Zenko): Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud. <https://www.zenko.io>
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs): SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. <https://seaweedfs.com>
+- [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs): Finally, a good FUSE FS implementation over S3
+- [tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs): High performance FUSE filesystem for AI workloads with S3 compatible backends
 
 ### Serverless
 
@@ -346,6 +353,9 @@ Type 1 hypervisors
 - [utkuozdemir/pv-migrate](https://github.com/utkuozdemir/pv-migrate): CLI tool to easily migrate Kubernetes persistent volumes
 - [ahmetb/kubectx](https://github.com/ahmetb/kubectx): Faster way to switch between clusters and namespaces in kubectl <https://kubectx.dev>
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell): Exec into node via kubectl
+- [zegl/kube-score](https://github.com/zegl/kube-score): Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kubernetes. <https://kube-score.com>
+  - `brew install kube-score`
+  - `kubectl krew install score`
 
 ### CNI
 
@@ -413,19 +423,6 @@ Type 1 hypervisors
 - [kyverno/kyverno](https://github.com/kyverno/kyverno): Kubernetes Native Policy Management <https://kyverno.io>
 - [kubewarden/kubewarden-controller](https://github.com/kubewarden/kubewarden-controller): Manage admission policies in your Kubernetes cluster with ease <https://kubewarden.io>
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule): Multi-tenancy and policy-based framework for Kubernetes. <https://projectcapsule.dev/>
-
-### Security
-
-- [kubescape/kubescape](https://github.com/kubescape/kubescape): Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. <https://kubescape.io>
-- [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security): [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
-- [zegl/kube-score](https://github.com/zegl/kube-score): Kubernetes object analysis with recommendations for improved reliability and security. kube-score actively prevents downtime and bugs in your Kubernetes YAML and Charts. Static code analysis for Kubernetes. <https://kube-score.com>
-  - `brew install kube-score`
-  - `kubectl krew install score`
-- [someengineering/fixinventory](https://github.com/someengineering/fixinventory): Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes. <https://fixinventory.org>
-- [OperantAI/woodpecker](https://github.com/OperantAI/woodpecker): Red Teaming for AI and Cloud <https://operant.ai>
-- [FogSecurity/yes3-scanner](https://github.com/FogSecurity/yes3-scanner): YES3 Scanner: S3 Security Scanner for Access and Ransomware Protection <http://fogsecurity.io>
-- [falcosecurity/falco](https://github.com/falcosecurity/falco): Cloud Native Runtime Security <https://falco.org>
-- [aquasecurity/tracee](https://github.com/aquasecurity/tracee): Linux Runtime Security and Forensics using eBPF <https://aquasecurity.github.io/tracee/latest>
 
 ### Utils
 
@@ -500,26 +497,6 @@ Type 1 hypervisors
 - [pulumi/pulumi](https://github.com/pulumi/pulumi): Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀 <https://www.pulumi.com>
 - [crossplane/crossplane](https://github.com/crossplane/crossplane): Cloud Native Control Planes <https://crossplane.io/>
 - [Azure/bicep](https://github.com/Azure/bicep): Bicep is a declarative language for describing and deploying Azure resources
-- Ansible
-  - [ansible-community/awesome-ansible](https://github.com/ansible-community/awesome-ansible): Awesome Ansible List
-  - 🌟 [ansible-community/ara](https://github.com/ansible-community/ara): ARA Records Ansible and makes it easier to understand and troubleshoot. <https://ara.recordsansible.org>
-  - [prometheus-community/ansible](https://github.com/prometheus-community/ansible): Ansible Collection for Prometheus <https://prometheus-community.github.io/ansible/>
-  - [ansible/ansible-navigator](https://github.com/ansible/ansible-navigator): A text-based user interface (TUI) for Ansible. <https://ansible.readthedocs.io/projects/navigator/>
-  - [ansible/ansible-runner](https://github.com/ansible/ansible-runner): A tool and python library that helps when interfacing with Ansible directly or as part of another system whether that be through a container image interface, as a standalone tool, or as a Python module that can be imported. The goal is to provide a stable and consistent interface abstraction to Ansible.
-  - [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-  - [haidaraM/ansible-playbook-grapher](https://github.com/haidaraM/ansible-playbook-grapher): A command line tool to create a graph representing your Ansible playbook tasks and roles
-  - [willthames/ansible-inventory-grapher](https://github.com/willthames/ansible-inventory-grapher): No description, website, or topics provided.
-  - 🌟 [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore): Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools. <https://semaphoreui.com>
-  - [sr.ht:~cwt/ananta](https://sr.ht/~cwt/ananta/): command-line tool to execute commands on multiple remote hosts
-  - [ansible/tox-ansible](https://github.com/ansible/tox-ansible): The tox-ansible plugin dynamically creates a full matrix of python interpreter and ansible-core version environments for running integration, sanity, and unit for an ansible collection both locally and in a Github action. tox virtual environments are leveraged for collection building, collection installation, dependency installation, and testing. <https://ansible.readthedocs.io/projects/tox-ansible/>
-  - [ansible/test-playbooks](https://github.com/ansible/test-playbooks): playbook-tests
-  - [ansible/pytest-ansible](https://github.com/ansible/pytest-ansible): A pytest plugin that enables the use of ansible in tests, enables the use of pytest as a collection unit test runner, and exposes molecule scenarios through a pytest fixture. <https://ansible.readthedocs.io/projects/pytest-ansible/>
-  - [ansible/molecule](https://github.com/ansible/molecule): Molecule aids in the development and testing of Ansible content: collections, playbooks and roles <https://ansible.readthedocs.io/projects/molecule/>
-  - [sky22333/ansible](https://github.com/sky22333/ansible): 轻量级，简单易用的 Ansible Web 管理面板，提供批量主机管理、命令执行、文件传输和 Web 终端等功能。
-  - [lablabs/ansible-role-rke2](https://github.com/lablabs/ansible-role-rke2): Ansible Role to install RKE2 Kubernetes. <https://galaxy.ansible.com/ui/standalone/roles/lablabs/rke2/>
-  - [serversideup/docker-ansible](https://github.com/serversideup/docker-ansible): ⚡️ Run Ansible anywhere with a lightweight and powerful Docker image. <https://hub.docker.com/r/serversideup/ansible>
-  - [Testing Ansible roles with Molecule, libvirt (vagrant-libvirt) and QEMU/KVM - TauCeti blog](https://www.tauceti.blog/posts/testing-ansible-roles-with-molecule-libvirt-vagrant-qemu-kvm/): Integrate Ansible role tests with Molecule into an existing role using libvirt + QEMU/KVM
-  - [githubixx/ansible-role-harden-linux](https://github.com/githubixx/ansible-role-harden-linux): Ansible role for hardening Linux <https://www.tauceti.blog/post/kubernetes-the-not-so-hard-way-with-ansible-harden-the-instances/>
 - [alchemy-run/alchemy](https://github.com/alchemy-run/alchemy): Infrastructure as TypeScript <https://alchemy.run>
 
 ### Services
@@ -552,6 +529,21 @@ Type 1 hypervisors
 - [The Duckbill Group](https://www.duckbillgroup.com/): If your AWS bill keeps rising — and your blood pressure is doing the same — then you should be working with our team of cloud cost management experts.
 - [opencost/opencost](https://github.com/opencost/opencost): Cost monitoring for Kubernetes workloads and cloud costs <http://opencost.io>
 - [Vantage](https://www.vantage.sh/): Understand cloud costs and automate savings. See how much Vantage can reduce your bill by connecting accounts.
+
+## Infra Security and Audit
+
+- [quay/clair](https://github.com/quay/clair): Vulnerability Static Analysis for Containers <https://quay.github.io/clair/>
+  - [quay/container-security-operator](https://github.com/quay/container-security-operator): Identify image vulnerabilities in Kubernetes pods
+- 🌟 [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <https://trivy.dev>
+- [aquasecurity/tracee](https://github.com/aquasecurity/tracee): Linux Runtime Security and Forensics using eBPF <https://aquasecurity.github.io/tracee/latest>
+- [Runtime-Radar/runtime-radar](https://github.com/Runtime-Radar/runtime-radar): Runtime Radar is an open-source solution for monitoring runtime security events and responding to incidents in containerized environments.
+- [someengineering/fixinventory](https://github.com/someengineering/fixinventory): Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes. <https://fixinventory.org>
+- [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security): [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
+- [falcosecurity/falco](https://github.com/falcosecurity/falco): Cloud Native Runtime Security <https://falco.org>
+- 🌟 [FogSecurity/yes3-scanner](https://github.com/FogSecurity/yes3-scanner): YES3 Scanner: S3 Security Scanner for Access and Ransomware Protection <http://fogsecurity.io>
+- 🌟 [Checkmarx/kics](https://github.com/Checkmarx/kics): Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. <https://kics.io>
+- [kubescape/kubescape](https://github.com/kubescape/kubescape): Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. <https://kubescape.io>
+- [OperantAI/woodpecker](https://github.com/OperantAI/woodpecker): Red Teaming for AI and Cloud <https://operant.ai>
 
 ## Utils
 

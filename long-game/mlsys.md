@@ -313,7 +313,7 @@ General problems
 
 JAX Special
 
-- [keraJLi/rejax](https://github.com/keraJLi/rejax): Rejax is a library of RL algorithms which are implemented in pure Jax.
+- [keraJLi/rejax](https://github.com/keraJLi/rejax): Hardware-Accelerated Reinforcement Learning Algorithms in pure Jax!
 - [luchris429/purejaxrl](https://github.com/luchris429/purejaxrl): Really Fast End-to-End Jax RL Implementations
   - [Achieving Over 4000x Speedups and Meta-Evolving Discoveries with PureJaxRL](https://chrislu.page/blog/meta-disco/)
   - [PureJaxRL Resources](https://github.com/luchris429/purejaxrl/blob/main/RESOURCES.md)

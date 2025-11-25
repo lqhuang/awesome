@@ -14,14 +14,17 @@
 - 🌟 [Maximization/nodejs-toolbox-catalog](https://github.com/Maximization/nodejs-toolbox-catalog): Catalog of categories and libraries for Node.js Toolbox <https://nodejstoolbox.com>
 - [The JavaScript Date Quiz](https://jsdate.wtf/): How well do you know JavaScript's Date class?
 - [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices): How to stay safe from NPM supply chain attacks
+- [JavaScript engines zoo](https://zoo.js.org/)
 
-## Books
+### Books
 
 - [sudongyuer/javascript-mental-models](https://github.com/sudongyuer/javascript-mental-models): 💘 帮助你建立良好的 JavaScript 心智模型 <https://sudongyuer.github.io/javascript-mental-models>
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book): The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
 - [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security): Awesome Node.js Security resources
 - [Effective TypeScript](https://effectivetypescript.com/)
 - [NodeBook - A Deep Dive into the Runtime](https://www.thenodebook.com/): Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments. Each chapter includes hands-on labs, real-world examples, and performance insights. Start your journey to becoming a Node.js expert today.
+- [ivankra/javascript-zoo](https://github.com/ivankra/javascript-zoo): JavaScript engines zoo <https://zoo.js.org>
+  - [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 ### Readings
 
@@ -30,6 +33,24 @@
 - 🌟 [How to Write TypeScript Like a Haskeller](https://serokell.io/blog/typescript-for-haskellers)
 - [How to Prerelease an npm Package – Cloud Four](https://cloudfour.com/thinks/how-to-prerelease-an-npm-package/): Recently, we overhauled our shared ESLint config, and I needed to release an alpha version. Thankfully, it turns out to be straightforward, once you know how to do it.
 - 🌟 [Tutorial: publishing ESM-based npm packages with TypeScript](https://2ality.com/2025/02/typescript-esm-packages.html)
+
+### Runtime
+
+- [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. <https://bun.sh>
+- [awslabs/llrt](https://github.com/awslabs/llrt): LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+- [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node): TypeScript execution and REPL for node.js <https://typestrong.org/ts-node>
+- [privatenumber/tsx](https://github.com/privatenumber/tsx): ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
+- 🌟 [pi0/platform-node-compat](https://github.com/pi0/platform-node-compat): Display Node.js compatibility of edge runtimes <https://platform-node-compat.deno.dev/>
+- [bellard/quickjs](https://github.com/bellard/quickjs): Public repository of the QuickJS Javascript Engine. <https://bellard.org/quickjs>
+- [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs): A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox <https://sebastianwessel.github.io/quickjs/>
+- [quickjs-ng/quickjs](https://github.com/quickjs-ng/quickjs): QuickJS, the Next Generation: a mighty JavaScript engine <https://quickjs-ng.github.io/quickjs/>
+- [holepunchto/bare](https://github.com/holepunchto/bare): Small and modular JavaScript runtime for desktop and mobile <https://bare.pears.com>
+- [gnh1201/welsonjs](https://github.com/gnh1201/welsonjs): WelsonJS - Build a Windows app on the Windows built-in JavaScript engine <https://catswords.social/@catswords_oss>
+- 🌟 [just-js/lo](https://github.com/just-js/lo): it's JavaScript Jim, but not as we know it. 👾
+  - [just-js/just](https://github.com/just-js/just): the only javascript runtime to hit no.1 on techempower 🔥 <https://just.billywhizz.io/>
+    - Yep ... It's true, such crazy.
+- [ccxvii/mujs](https://github.com/ccxvii/mujs): https://codeberg.org/ccxvii/mujs
+- [engine262/engine262](https://github.com/engine262/engine262): An implementation of ECMA-262 in JavaScript <https://engine262.js.org>
 
 ## Toolchain
 
@@ -43,6 +64,7 @@
 ### Bundler
 
 - vite
+  - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite): ⚡️ A curated list of awesome things related to Vite.js <https://github.com/vitejs/vite>
 - rolldown
 - [SukkaW/stylex-webpack](https://github.com/SukkaW/stylex-webpack): The another webpack/Next.js Plugin for Facebook StyleX
 - [addyosmani/critical](https://github.com/addyosmani/critical): Extract & Inline Critical-path CSS in HTML pages
@@ -67,20 +89,6 @@
 - [gasket-tools/gasket](https://github.com/gasket-tools/gasket): Identify bridges from JS to Native or JS to WASM in V8 embedders
 - [luoling8192/better-import](https://github.com/luoling8192/better-import): CLI tool to detect replaceable dependencies in your package.json files.
 - [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector): Visualize The Oxlint.
-
-### Runtime
-
-- [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. <https://bun.sh>
-- [awslabs/llrt](https://github.com/awslabs/llrt): LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
-- [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node): TypeScript execution and REPL for node.js <https://typestrong.org/ts-node>
-- [privatenumber/tsx](https://github.com/privatenumber/tsx): ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
-- 🌟 [pi0/platform-node-compat](https://github.com/pi0/platform-node-compat): Display Node.js compatibility of edge runtimes <https://platform-node-compat.deno.dev/>
-- [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs): A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox <https://sebastianwessel.github.io/quickjs/>
-- [holepunchto/bare](https://github.com/holepunchto/bare): Small and modular JavaScript runtime for desktop and mobile <https://bare.pears.com>
-- [gnh1201/welsonjs](https://github.com/gnh1201/welsonjs): WelsonJS - Build a Windows app on the Windows built-in JavaScript engine <https://catswords.social/@catswords_oss>
-- 🌟 [just-js/lo](https://github.com/just-js/lo): it's JavaScript Jim, but not as we know it. 👾
-  - [just-js/just](https://github.com/just-js/just): the only javascript runtime to hit no.1 on techempower 🔥 <https://just.billywhizz.io/>
-    - Yep ... It's true, such crazy.
 
 ### Testing
 
@@ -134,6 +142,7 @@ Specific
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift): A JavaScript codemod toolkit. <https://jscodeshift.com>
 - [platformatic/massimo](https://github.com/platformatic/massimo): Massimo is an API SDK client and CLI tool for creating clients for remote OpenAPI or GraphQL APIs <https://massimohttp.dev>
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack): A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations <https://better-t-stack.dev>
+- [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks): 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
 
 ### Modernize
 
@@ -165,6 +174,7 @@ Specific
   - [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter): Rate Limit middleware for Hono Server <https://hono-rate-limiter.vercel.app>
   - [rhinobase/hono-openapi](https://github.com/rhinobase/hono-openapi): A plugin for Hono to generate OpenAPI Swagger documentation
   - [w3cj/hono-open-api-starter](https://github.com/w3cj/hono-open-api-starter): A starter template for building fully documented type-safe JSON APIs with Hono and Open API <https://www.youtube.com/watch?v=sNh9PoM9sUE>
+- [insel-null/lemmih](https://github.com/insel-null/lemmih): 🌐🗄️ A simple, performance-focused Web framework. <https://www.npmjs.com/package/lemmih>
 
 ## Functional libraries
 
@@ -237,6 +247,7 @@ Specific
 - [vercel/bidc](https://github.com/vercel/bidc): Bidirectional Channels for JavaScript
 - [rictic/jsonriver](https://github.com/rictic/jsonriver): A simple, fast streaming JSON parser built on standards. <https://rictic.github.io/jsonriver/>
 - 🌟 [oozcitak/xmlbuilder2](https://github.com/oozcitak/xmlbuilder2): An XML builder for node.js
+- [querycatai/jaison](https://github.com/querycatai/jaison): No description, website, or topics provided.
 
 ### Parser
 
@@ -356,6 +367,7 @@ Specific
 - [BetterTyped/hyper-fetch](https://github.com/BetterTyped/hyper-fetch): ⚡ Fetching and realtime data exchange framework. <https://hyperfetch.bettertyped.com/>
 - [fetch-kit/ffetch](https://github.com/fetch-kit/ffetch): TypeScript-first fetch wrapper with configurable timeouts, retries, and circuit-breaker baked in.
 - [elbywan/wretch](https://github.com/elbywan/wretch): A tiny wrapper built around fetch with an intuitive syntax. 🍬
+- 🌟 [JCMais/node-libcurl](https://github.com/JCMais/node-libcurl): libcurl bindings for Node.js <https://npmjs.org/package/node-libcurl>
 
 ### Clients
 
@@ -368,15 +380,19 @@ Specific
 - [theoephraim/node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet): Google Sheets API wrapper for Javascript / Typescript <https://theoephraim.github.io/node-google-spreadsheet>
 - [postalsys/emailengine](https://github.com/postalsys/emailengine): Headless email client <https://emailengine.app/>
 - [postalsys/imapflow](https://github.com/postalsys/imapflow): IMAP Client library for EmailEngine Email API (https://emailengine.app) <https://imapflow.com>
+- 🌟 [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit): A type-safe, elegant iMessage SDK for macOS with zero dependencies <https://photon.codes>
 
 ### CLI
 
 - [sindresorhus/execa](https://github.com/sindresorhus/execa): Process execution for humans
+- [sindresorhus/fkill](https://github.com/sindresorhus/fkill): Fabulously kill processes. Cross-platform.
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
 - [webdiscus/ansis](https://github.com/webdiscus/ansis): CJS/ESM ANSI color library for CI, terminals and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
 - [bloomberg/stricli](https://github.com/bloomberg/stricli): Build complex CLIs with type safety and no dependencies <https://bloomberg.github.io/stricli>
 - [dahlia/optique](https://github.com/dahlia/optique): Type-safe combinatorial CLI parser for TypeScript <http://optique.dev/>
+- [privatenumber/cleye](https://github.com/privatenumber/cleye): 👁‍🗨 Strongly typed CLI development for Node.js
 - [privatenumber/type-flag](https://github.com/privatenumber/type-flag): ⛳️ Typed command-line arguments parser for Node.js
+- [privatenumber/tasuku](https://github.com/privatenumber/tasuku): ✅ タスク — The minimal task visualizer for Node.js
 
 ### Image
 

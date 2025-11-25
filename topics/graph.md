@@ -14,6 +14,8 @@
 
 - [alibaba/GraphScope](https://github.com/alibaba/GraphScope): 🔨 🍇 💻 🚀 GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba 来自阿里巴巴的一站式大规模图计算系统 图分析 图查询 图机器学习 <https://graphscope.io>
 
+## GQL
+
 ## Libraries
 
 - [graphistry/pygraphistry](https://github.com/graphistry/pygraphistry): PyGraphistry is a Python library to quickly load, shape, embed, and explore big graphs with the GPU-accelerated Graphistry visual graph analyzer
@@ -37,3 +39,4 @@
 - [gephi/gephi-lite](https://github.com/gephi/gephi-lite): A web-based, lighter version of Gephi
 - [medialab/ipysigma](https://github.com/medialab/ipysigma): A Jupyter widget using sigma.js to render interactive networks. <https://medialab.github.io/ipysigma/demo.html>
 - [iansseijelly/bagpype](https://github.com/iansseijelly/bagpype): No description, website, or topics provided.
+- [opengql/editor](https://github.com/opengql/editor): GQL code editor. <https://opengql.github.io/editor/>

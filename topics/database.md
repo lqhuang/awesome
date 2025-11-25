@@ -303,6 +303,10 @@ Misc
 
 - [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal): Playaround with SQLite internal
 
+### DuckDB
+
+- [phare/sloggo](https://github.com/phare/sloggo): Minimal RFC 5424 syslog collector and viewer based on DuckDB. Runs as a single, resource-friendly process.
+
 ### ERD
 
 - [pgmodeler/pgmodeler](https://github.com/pgmodeler/pgmodeler): Open-source data modeling tool designed for PostgreSQL. No more typing DDL commands. Let pgModeler do the work for you! <https://pgmodeler.io>

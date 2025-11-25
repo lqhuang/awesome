@@ -47,6 +47,7 @@
 - [Rust 语言术语中英文对照表](https://rustwiki.org/wiki/translate/english-chinese-glossary-of-rust/)
 - [rewrite-bigdata-in-rust/RBIR](https://github.com/rewrite-bigdata-in-rust/RBIR): No description, website, or topics provided.
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies): Analysis of various tricky Rust code
+- 🌟 [Elements of Rust – Core Types and Traits](https://rustcurious.com/elements/): A complete map of the Rust type system
 
 ## Build
 
@@ -188,6 +189,7 @@
 - [smol-rs/async-channel](https://github.com/smol-rs/async-channel): Async multi-producer multi-consumer channel
 - 🌟 [fereidani/kanal](https://github.com/fereidani/kanal): Fastest sync and async channel that Rust deserves
 - [compio-rs/compio](https://github.com/compio-rs/compio): A thread-per-core Rust runtime with IOCP/io_uring/polling.
+- [Azure/kimojio-rs](https://github.com/Azure/kimojio-rs): A thread-per-core Linux io_uring async runtime for Rust optimized for latency.
 
 ### Futures
 
@@ -338,7 +340,7 @@
 - 🌟 [pest-parser/pest](https://github.com/pest-parser/pest): The Elegant Parser <https://pest.rs/>
 - 🌟 [zesterer/chumsky](https://github.com/zesterer/chumsky): A parser library for humans with powerful error recovery.
 - [sqlparser-rs/sqlparser-rs](https://github.com/sqlparser-rs/sqlparser-rs): Extensible SQL Lexer and Parser for Rust
-- [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan): Rowan is a library for lossless syntax trees, inspired in part by Swift's libsyntax.
+- 🌟 [rust-analyzer/rowan](https://github.com/rust-analyzer/rowan): Rowan is a library for lossless syntax trees, inspired in part by Swift's libsyntax.
 - 🌟 [egraphs-good/egg](https://github.com/egraphs-good/egg): egg is a flexible, high-performance e-graph library <https://egraphs-good.github.io>
   - [egraphs-good/egglog](https://github.com/egraphs-good/egglog): egraphs + datalog! <https://egraphs-good.github.io/egglog/>
     - https://arxiv.org/abs/2304.04332

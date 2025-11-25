@@ -257,6 +257,7 @@ Misc
 - 📝 [orsinium-labs/eff](https://github.com/orsinium-labs/eff): Python library to work with algebraic effects
 - [RightTyper/RightTyper](https://github.com/RightTyper/RightTyper): A fast and efficient type assistant for Python, including tensor shape inference
 - [caterinaurban/Typpete](https://github.com/caterinaurban/Typpete): SMT-based Static Type Inference for Python 3.x
+- [Python Type System Conformance Test Results](https://htmlpreview.github.io/?https://github.com/python/typing/blob/main/conformance/results/results.html)
 
 ### Typing
 
@@ -629,6 +630,7 @@ Misc
 - [vlandeiro/yakari](https://github.com/vlandeiro/yakari): Yakari: an interactive command building tool
 - 🌟 [laike9m/pdir2](https://github.com/laike9m/pdir2): Pretty dir() printing with joy:beer:
 - [patrick-kidger/wadler_lindig](https://github.com/patrick-kidger/wadler_lindig): A Wadler--Lindig pretty printer for Python <https://docs.kidger.site/wadler_lindig/>
+- 🌟 [iterative/shtab](https://github.com/iterative/shtab): ↔️ Automagic shell tab completion for Python CLI applications <https://docs.iterative.ai/shtab>
 
 ### Strings
 

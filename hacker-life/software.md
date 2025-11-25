@@ -201,6 +201,8 @@
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer): A tool to "Fix" Windows 11
 - [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 - [Duplicate Cleaner](https://www.duplicatecleaner.com/): Find and remove duplicate files with Duplicate Cleaner, the premier free and pro solution.
+- 🌟 [File Pilot - Next-gen file explorer](https://filepilot.tech/): File Pilot is a file explorer built from scratch for light-speed performance, with a modern and robust interface.
+  - Non-free. But I think it's worth it.
 
 Distributions
 
@@ -255,7 +257,7 @@ SSH
 
 ## Services
 
-- [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. :octocat: 💬 💎 <https://giscus.app>
+- 🌟 [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. :octocat: 💬 💎 <https://giscus.app>
 - [djyde/cusdis](https://github.com/djyde/cusdis): lightweight, privacy-friendly alternative to Disqus. <https://cusdis.com>
 - [XPoet/picx](https://github.com/XPoet/picx): 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。 <https://picx.xpoet.cn>
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk): 🌌 自托管评论系统 | Your self-hosted comment system <https://artalk.js.org>
@@ -294,6 +296,8 @@ SSH
 - [Flomp/wanderer](https://github.com/Flomp/wanderer): wanderer is a self-hosted trail database. Save your adventures! <https://wanderer.to>
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool): 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database. <https://workout.cool>
 - [iceshrimp.dev:iceshrimp/iceshrimp](https://iceshrimp.dev/iceshrimp/iceshrimp): iceshrimp - YAMF (Yet another Misskey fork) bringing you no-nonsense fixes, features & improvements you actually want since 2023 <https://iceshrimp.dev/>
+- 🌟 [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST <https://ntfy.sh>
+- [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash): A self hosted dashboard and organizer for Excalidraw with live collaboration.
 
 ### Media
 
@@ -337,6 +341,8 @@ SSH
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin): A Calibre plugin to translate ebook into a specified language. <https://bookfere.com/post/1057.html>
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web): 📚 Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): One webpage for every book ever published! <https://openlibrary.org>
+- [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app <https://www.xbrowsersync.org/>
+  - not maintained anymore, but the public services are still running. LoL
 
 ### Cloud Disk
 

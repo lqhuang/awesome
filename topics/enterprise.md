@@ -141,6 +141,7 @@
 - [openpbs/openpbs](https://github.com/openpbs/openpbs): An HPC workload manager and job scheduler for desktops, clusters, and clouds. <https://www.openpbs.org/>
 - [spack/spack](https://github.com/spack/spack): A flexible package manager that supports multiple versions, configurations, platforms, and compilers. <https://spack.io>
 - [openhpc/ohpc](https://github.com/openhpc/ohpc): OpenHPC Integration, Packaging, and Test Repo <http://openhpc.community>
+- [stackhpc/ansible-slurm-appliance](https://github.com/stackhpc/ansible-slurm-appliance): A Slurm-based HPC workload management environment, driven by Ansible.
 
 ### Uptime / Monitoring
 
@@ -261,6 +262,7 @@ Visual stack
 - [snort3/snort3](https://github.com/snort3/snort3): Snort++
 - [OSSEC](https://www.ossec.net/): OSSEC is a scalable, multi-platform, open source Host-based Intrusion Detection System (HIDS)
 - [wazuh/wazuh](https://github.com/wazuh/wazuh): Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. <https://wazuh.com/>
+  - [wazuh/wazuh-ansible](https://github.com/wazuh/wazuh-ansible): Wazuh - Ansible playbook <https://wazuh.com>
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb): 🛡️ Open-source and next-generation Web Application Firewall (WAF) <https://www.bunkerweb.io>
 - 🌟 [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure. <https://goteleport.com>
 - [Black Duck](https://www.blackduck.com/): Build high-quality, secure software with application security testing tools and services from Black Duck. We are a Gartner Magic Quadrant Leader in AppSec.

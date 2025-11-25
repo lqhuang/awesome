@@ -29,10 +29,11 @@
   - [antiwork/iffy](https://github.com/antiwork/iffy): Intelligent content moderation at scale <https://iffy.com>
 - [Shapecatcher: Draw the Unicode character you want!](https://shapecatcher.com/): You need to find a specific Unicode character? With Shapecatcher.com you can search through a database of characters by simply drawing your character into a box. It can find the most similar character shapes for your drawing.
 - 🌟 [WebP Cloud Services](https://public.webp.se/): WebP Unleashed!
-- 🌟 [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. 💬 💎 <https://giscus.app>
 - [pomdtr/smallweb](https://github.com/pomdtr/smallweb): Your Internet Folder <https://www.smallweb.run>
 - [dnlzro/horizon](https://github.com/dnlzro/horizon): The current sky at your approximate location, rendered as a CSS gradient <https://sky.dlazaro.ca>
 - [cnrad/keyboard-signature](https://github.com/cnrad/keyboard-signature): what if signatures were determined by keyboard? <https://signature.cnrad.dev>
 - [git.0x0.st:mia/0x0](https://git.0x0.st/mia/0x0): 0x0 - No-bullshit file hosting and URL shortening service
   - [Calinou/0x0](https://github.com/Calinou/0x0): curl wrapper script to upload local or remote files to 0x0.st
 - [tanrax/org-social](https://github.com/tanrax/org-social): Org Social is a decentralized social network that runs on an Org Mode file over HTTP.
+- [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/): Treat yourself to an awesome web address, a devastatingly gorgeous profile page, a stellar email address, and tons more
+- [odoo/odoo](https://github.com/odoo/odoo): Odoo. Open Source Apps To Grow Your Business. <https://www.odoo.com>

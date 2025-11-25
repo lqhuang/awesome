@@ -9,6 +9,7 @@
 
 - [Pre-built iOS Binaries: Reducing React Native Dev Start Time from Minutes to Seconds | Monarch Money](https://www.monarchmoney.com/blog/pre-built-ios-binaries-reducing-react-native-dev-start-time-from-minutes-to): Using pre-built binaries, we reduced our React Native app build time from minutes to seconds.
 - [marioaguzman/toolbar](https://github.com/marioaguzman/toolbar): Programmatically constructing an NSToolbar
+- [Automating the Release Process for a Desktop Application | DoltHub Blog](https://www.dolthub.com/blog/2025-09-11-automating-desktop-release-process/): We recently automated the release process for the Dolt Workbench desktop application using GitHub Actions. This article discusses how we did it.
 
 ## SwiftUI
 
@@ -44,6 +45,10 @@
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows): A framework for building native Windows apps with React. <https://microsoft.github.io/react-native-windows/>
 - [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos): A framework for building native macOS apps with React. <https://microsoft.github.io/react-native-windows/>
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi): Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. <https://discord.gg/uJyNEeYX2U>
+- [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom): React Strict DOM (RSD) standardizes the development of styled React components for web and native. <https://facebook.github.io/react-strict-dom>
+  - React Strict DOM lets you create user interfaces that look and feel right on every platform. Web apps are rendered to HTML and rely on static CSS. Native apps look and feel native because the UI is truly native, not a web view.
+  - Strict CSS styling provides a battle-tested, predictable, optimized way to encapsulate component styles on both web and native. On the web this is powered by StyleX.
+  - Not mature, but promising.
 
 ### Libs
 
@@ -70,6 +75,7 @@
 - [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables): Universal shadcn/ui for React Native featuring a focused collection of components - Crafted with NativeWind v4 and accessibility in mind. <https://rnr-docs.vercel.app>
 - 🌟 [OP-Engineering/op-sqlite](https://github.com/OP-Engineering/op-sqlite): Fastest SQLite library for react-native by @ospfranco
 - [nativewind/nativewind](https://github.com/nativewind/nativewind): React Native utility-first universal design system - powered by Tailwind CSS <https://nativewind.dev>
+  - [Nativewind: Speeding up Styling in React Native](https://hashrocket.com/blog/posts/nativewind-speeding-up-styling-in-react-native): How Nativewind can speed up your React Native Development
 - [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools): Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, React Web, Next.js, Expo, and any platform where
 
 ### UI

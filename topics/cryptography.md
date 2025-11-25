@@ -11,6 +11,7 @@
 - [openxpki/openxpki](https://github.com/openxpki/openxpki): OpenXPKI Code <http://www.openxpki.org>
 - [openca/libpki](https://github.com/openca/libpki): Easy-to-use high-level library for PKI-enabled applications
 - [jedisct1/minisign](https://github.com/jedisct1/minisign): A dead simple tool to sign files and verify digital signatures. <https://jedisct1.github.io/minisign/>
+- [anchordotdev/cli](https://github.com/anchordotdev/cli): `anchor` provides a command line interface for the Anchor.dev certificate management platform.
 
 ## Libraries
 

@@ -55,7 +55,6 @@
   - [pyenchant/pyenchant](https://github.com/pyenchant/pyenchant): spellchecking library for python <https://pyenchant.github.io/pyenchant/>
 - 🌟 [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect): A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). <https://huacnlee.github.io/autocorrect>
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint): An extremely fast directory and filename linter - Bring some structure to your project filesystem <https://ls-lint.org>
-- [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell
 - [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
 - [codacy](https://github.com/codacy): Codacy helps to build effortless code quality and security for developers. Build clean, secure code efficiently and fearlessly with Codacy.
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged): 🚫💩 — Run tasks like formatters and linters against staged git files <https://www.npmjs.com/package/lint-staged>
@@ -67,6 +66,7 @@
 ### toolchain
 
 - 🌟 [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build system with a focus on speed <https://ninja-build.org>
+  - [buntec/ninja-so-fancy](https://github.com/buntec/ninja-so-fancy): ninja build output for humans
 - [michaelforney/samurai](https://github.com/michaelforney/samurai): ninja-compatible build tool written in C
 - [tweag/jupyenv](https://github.com/tweag/jupyenv): Declarative and reproducible Jupyter environments - powered by Nix <https://jupyenv.io>
 - [gn/gn](https://gn.googlesource.com/gn/): GN is a meta-build system that generates build files for Ninja.
@@ -96,6 +96,8 @@
 - [moonrepo/moon](https://github.com/moonrepo/moon): A task runner and repo management tool for the web ecosystem, written in Rust. <https://moonrepo.dev/>
 - [earthly/earthly](https://github.com/earthly/earthly): Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby. <https://earthly.dev>
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink): NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware. <https://nativelink.com>
+- [microsoft/aspire.dev](https://github.com/microsoft/aspire.dev): The official website for all things aspire.dev. <https://aspire.dev>
+  - ???
 
 ### Bazel
 
@@ -477,6 +479,10 @@ Libs
   - [stackhpc/ansible-collection-keycloak](https://github.com/stackhpc/ansible-collection-keycloak): Ansible collection for deploying the Keycloak OCI container
   - [stackhpc/ansible-nvidia-nvue](https://github.com/stackhpc/ansible-nvidia-nvue): No description, website, or topics provided.
   - [stackhpc/ansible-role-luks](https://github.com/stackhpc/ansible-role-luks): Ansible role to setup of LUKS encryption
+- [AlviStack](https://github.com/alvistack)
+  - [alvistack/ansible-role-podman](https://github.com/alvistack/ansible-role-podman): Ansible Role for Podman Installation
+  - [alvistack/ansible-collection-kubernetes](https://github.com/alvistack/ansible-collection-kubernetes): Ansible collection for deploying Kubernetes
+    - [alvistack/vagrant-kubernetes](https://github.com/alvistack/vagrant-kubernetes): Vagrant Box Packaging for Kubernetes
 
 Collections
 
@@ -574,4 +580,8 @@ Archived or outdated but still useful
 - [Actuated](https://actuated.dev/): Fast and secure GitHub Actions on your own infrastructure.
 - [blacksmith](https://www.blacksmith.sh/): Twice as fast. Half the cost. Speed up your GitHub Actions with a one-line code change, by running them on high-performance gaming CPUs instead of GitHub's older server hardware
 - [Source.dev](https://www.source.dev/): AI-native software tools that accelerate development of next-generation devices. SourceFS the fastest way to build Android.
+
   - not a runner but can speed up builds
+
+- [telekom-mms/ansible-collection-acme](https://github.com/telekom-mms/ansible-collection-acme): An Ansible collection for issuing certificates via the ACME protocol.
+- [telekom-mms/Automated-Ansible-Role-Documentation](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation): Generate documentation automatically from an Ansible role's metadata

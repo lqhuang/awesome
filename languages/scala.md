@@ -39,7 +39,7 @@
   - although it is already 11 years ago, it is still a good read
   - why not make a Scala 3 version of it?
 - [Welcome to FP Illuminated](https://fpilluminated.org/)
-- - [How to disable significant indentation in Scala](https://gist.github.com/kubukoz/95dc1abd3f5bc028b95a3927d73c4698/): How to disable significant indentation in Scala. GitHub Gist: instantly share code, notes, and snippets.
+- [Scala Adoption Tracker](https://business4s.org/scala-adoption-tracker/): Crowdsourced list of companies and projects adopting Scala.
 
 ### Exercises
 
@@ -162,6 +162,8 @@
 - [fosskers/scala-benchmarks](https://github.com/fosskers/scala-benchmarks): An independent set of benchmarks for testing common Scala idioms.
 - [rossabaker/scalabench](https://github.com/rossabaker/scalabench): A quick and dirty Scala microbenchmarking framework
 - [cmu-pasta/fray](https://github.com/cmu-pasta/fray): A controlled concurrency testing framework for the JVM
+  - [Deterministic Concurrent Testing Using Fray](https://softwaremill.com/deterministic-concurrent-testing-using-fray/): Fray enables writing concurrent tests for the JVM, deterministically simulating various thread interleaving, and if needed, replaying runs that failed, using a standard Java debugger. Let's take a closer look at how Fray can be used and how it works.
+  - [JetBrains/lincheck](https://github.com/JetBrains/lincheck): Framework for testing concurrent code on JVM languages
 
 ### Linter
 
@@ -208,6 +210,7 @@
 - [VirtusLab/graphbuddy](https://github.com/VirtusLab/graphbuddy): Graph Buddy helps you to understand the code better <https://graphbuddy.virtuslab.com/>
 - [VirtusLab/scala-cli-setup](https://github.com/VirtusLab/scala-cli-setup): ▶️ Scala CLI setup GitHub Action
 - 🌟 [indoorvivants/sn-vcpkg](https://github.com/indoorvivants/sn-vcpkg): SBT/Mill plugins and CLI to install C/C++ dependencies using Vcpkg (https://vcpkg.io/en/index.html), with Scala Native integration
+- [simple-scala-tooling/zinc-cli](https://github.com/simple-scala-tooling/zinc-cli): Three Buildtools for the Scala - devs of functional programming, Seven for the Java - lords in their enterprise hall, Nine for Javascript Mortals, doomed to `npm install`, One for the Dev Lord on their throne, In the Land of localhost where the compile errors lie. One Buildtool to rule them all, One buildtool to fix them ...
 
 ## Cross platforms
 
@@ -385,6 +388,7 @@ Tracing and OpenTelemetry
 - [Kordyjan/pytanie](https://github.com/Kordyjan/pytanie): Quick and easy library for working with GraphQL queries.
 - 🌟 [TomasMikula/jing](https://github.com/TomasMikula/jing): Typesafe, spec-first APIs without codegen. Just Import 'N' Go!
 - [cornerman/sloth](https://github.com/cornerman/sloth): Type safe RPC in scala
+- [yoohaemin/decrel](https://github.com/yoohaemin/decrel): Composable relations for Scala <https://decrel.yoohaemin.com>
 
 ### CLI
 
@@ -401,6 +405,7 @@ Tracing and OpenTelemetry
 - [scopt/scopt](https://github.com/scopt/scopt): command line options parsing for Scala
 - [mattlianje/layoutz](https://github.com/mattlianje/layoutz): Simple, beautiful CLI output
 - [indoorvivants/decline-derive](https://github.com/indoorvivants/decline-derive): Derive Decline CLIs automatically from your enums and case classes in Scala 3
+- [scallop/scallop](https://github.com/scallop/scallop): a simple Scala CLI parsing library
 
 ### Utils
 
@@ -441,6 +446,7 @@ Tracing and OpenTelemetry
 - [joernio/joern](https://github.com/joernio/joern): Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc <https://joern.io/>
 - [Nestor10/fishy-scala-quill-jsonb-example](https://github.com/Nestor10/fishy-scala-quill-jsonb-example): 🐟 Scala 3 + ZIO + Quill + PostgreSQL JSONB example with Dr. Seuss inspired fish data
 - [alexarchambault/plotly-scala](https://github.com/alexarchambault/plotly-scala): Scala bindings for plotly.js <http://plotly-scala.org>
+- [ramytanios/rendezvous](https://github.com/ramytanios/rendezvous): Implementation of the `Rendezvous Hashing` algorithm with an illustrative GUI 🤓
 
 ## Tools
 
@@ -513,18 +519,26 @@ Tracing and OpenTelemetry
 - [typelevel/munit-cats-effect](https://github.com/typelevel/munit-cats-effect): Integration library for MUnit & cats-effect
 - [evolution-gaming/scache](https://github.com/evolution-gaming/scache): Cache in Scala with cats-effect
 - [mockito/mockito-scala](https://github.com/mockito/mockito-scala): Mockito for Scala language <http://mockito.org>
-- [http4s/http4s-armeria](https://github.com/http4s/http4s-armeria): Armeria backend for http4s
 - [typelevel/cats-parse](https://github.com/typelevel/cats-parse): A parsing library for the cats ecosystem
 - [laserdisc-io/laserdisc](https://github.com/laserdisc-io/laserdisc): A Future-free Fs2 native pure FP Redis client <http://laserdisc.io>
+- [permutive-engineering/prometheus4cats-contrib](https://github.com/permutive-engineering/prometheus4cats-contrib): Prometheus4Cats instumentation for thrid party libaries
+- [cloudmark/cats-actors](https://github.com/cloudmark/cats-actors): Cats Actors framework for building apps which are reactive. Cats actors uses a conceptual actor model as a higher level abstraction for concurrency.
+- [buntec/ff4s](https://github.com/buntec/ff4s): A purely functional web UI library for Scala.js <https://buntec.github.io/ff4s/>
+
+fs2
+
 - [fthomas/fs2-cron](https://github.com/fthomas/fs2-cron): FS2 streams based on cron expressions
-- [ollls/quartz-h2](https://github.com/ollls/quartz-h2): Asynchronous Java NIO http/2 only packet streaming server with TLS encryption implemented as Scala CATS effect. Direct native translation of fs2 stream chunks into http2 packets ( inbound and outbound ).
-- [theiterators/http4s-stir](https://github.com/theiterators/http4s-stir): http4s-stir offers Pekko HTTP-style (Akka HTTP-style) DSL directives for http4s using cats-effect's IO as an effect system
+- [ollls/quartz-h2](https://github.com/ollls/quartz-h2): Asynchronous Java NIO http/2 only packet streaming server with TLS encryption implemented as Scala CATS effect. Direct native translation of fs2 stream chunks into http2 packets (inbound and outbound).
 - [gnieh/fs2-data](https://github.com/gnieh/fs2-data): streaming data parsing and transformation library <https://fs2-data.gnieh.org>
 - [nivox/fs2-backpressure-sensor](https://github.com/nivox/fs2-backpressure-sensor): Backpressure sensor implementation for fs2
   - [timbertson/backpressure-sensor](https://github.com/timbertson/backpressure-sensor): Measure backpressure in reactive streams pipelines
-- [permutive-engineering/prometheus4cats-contrib](https://github.com/permutive-engineering/prometheus4cats-contrib): Prometheus4Cats instumentation for thrid party libaries
-- [cloudmark/cats-actors](https://github.com/cloudmark/cats-actors): Cats Actors framework for building apps which are reactive. Cats actors uses a conceptual actor model as a higher level abstraction for concurrency.
+
+http4s
+
+- [http4s/http4s-armeria](https://github.com/http4s/http4s-armeria): Armeria backend for http4s
+- [pac4j/http4s-pac4j](https://github.com/pac4j/http4s-pac4j): Security library for http4s
 - [joshuakfarrar/apollo](https://github.com/joshuakfarrar/apollo): A Devise-like authentication library for Http4s
+- [theiterators/http4s-stir](https://github.com/theiterators/http4s-stir): http4s-stir offers Pekko HTTP-style (Akka HTTP-style) DSL directives for http4s using cats-effect's IO as an effect system
 
 ### ZIO
 
@@ -561,6 +575,8 @@ Tracing and OpenTelemetry
 - [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp): State of the Art Natural Language Processing <https://sparknlp.org/>
 - [luhenry/netlib](https://github.com/luhenry/netlib): An high-performance, hardware-accelerated implementation of Netlib in Java
 - [projectglow/glow](https://github.com/projectglow/glow): An open-source toolkit for large-scale genomic analysis <https://projectglow.io>
+- [vagmcs/Optimus](https://github.com/vagmcs/Optimus): Optimus is a mathematical programming library for Scala.
+- [metarank/metarank](https://github.com/metarank/metarank): A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine <https://metarank.ai>
 
 ### kotlin for Data Intensive System
 

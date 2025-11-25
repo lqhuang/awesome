@@ -1,8 +1,5 @@
 {
   "[markdown]": {
-    "editor.unicodeHighlight.ambiguousCharacters": true,
-    "editor.unicodeHighlight.invisibleCharacters": true,
-    "diffEditor.ignoreTrimWhitespace": false,
     "editor.formatOnSave": true,
     "editor.formatOnSaveMode": "file",
     "editor.quickSuggestions": {

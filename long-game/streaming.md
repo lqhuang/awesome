@@ -134,7 +134,7 @@ Streaming Systems
 - [seglo/kafka-lag-exporter](https://github.com/seglo/kafka-lag-exporter): Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
 - [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou): The Open source Resource as Code framework for Apache Kafka <https://www.jikkou.io>
 - 🌟 [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui): Open-Source Web UI for managing Apache Kafka clusters <http://ui.docs.kafbat.io>
-- [tansu-io/tansu](https://github.com/tansu-io/tansu): Tansu is an Apache Kafka API compatible broker written in async 🚀 Rust 🦀 <https://tansu.io>
+- [tansu-io/tansu](https://github.com/tansu-io/tansu): Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake <https://tansu.io>
 - [uber/uForwarder](https://github.com/uber/uForwarder): Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
 - [Crystalite/prism](https://github.com/Crystalite/prism): Http to Kafka reactive proxy with auth using Akka
 - [yahoo/CMAK](https://github.com/yahoo/CMAK): CMAK is a tool for managing Apache Kafka clusters
@@ -145,6 +145,7 @@ cli
 - [kcctl/kcctl](https://github.com/kcctl/kcctl): A modern and intuitive command line client for Kafka Connect
 - [birdayz/kaf](https://github.com/birdayz/kaf): Modern CLI for Apache Kafka, written in Go.
 - [deviceinsight/kafkactl](https://github.com/deviceinsight/kafkactl): Command Line Tool for managing Apache Kafka <https://deviceinsight.github.io/kafkactl/>
+- [softwaremill/kcpilot](https://github.com/softwaremill/kcpilot): CLI tool to help you investigate your Kafka clusters <https://softwaremill.github.io/kcpilot/>
 
 ### Utils
 

@@ -67,6 +67,7 @@
 ## Program analysis
 
 - 🌟 [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep): ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust <https://ast-grep.github.io>
+  - [reviewdog/action-ast-grep](https://github.com/reviewdog/action-ast-grep): 🐶 Run ast-grep(sg) with reviewdog
 - [facebookincubator/Glean](https://github.com/facebookincubator/Glean): System for collecting, deriving and working with facts about source code. <https://glean.software/>
   - [Indexing Hackage: Glean vs. hiedb · Simon Marlow](https://simonmar.github.io/posts/2025-05-22-Glean-Haskell.html)
 - [github/semantic](https://github.com/github/semantic): Parsing, analyzing, and comparing source code across many languages
@@ -81,6 +82,7 @@
 - [cu1ch3n/typ-how](https://github.com/cu1ch3n/typ-how): A online playground to explore with type Inference algorithms. <https://typ.how>
 - [MPLLang/parallel-ml-bench](https://github.com/MPLLang/parallel-ml-bench): Parallel ML benchmark suite
 - 🌟 [semgrep/semgrep](https://github.com/semgrep/semgrep): Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. <https://semgrep.dev>
+- [AST explorer](https://astexplorer.net/): An online AST explorer.
 
 ## Effect systems
 
@@ -111,3 +113,5 @@
 - 🌟 [tweag/topiary](https://github.com/tweag/topiary): Topiary aims to be a uniform formatter for simple languages, as part of the Tree-sitter ecosystem. <https://topiary.tweag.io/>
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter): An incremental parsing system for programming tools <https://tree-sitter.github.io>
 - [wenkokke/hs-tree-sitter](https://github.com/wenkokke/hs-tree-sitter): No description, website, or topics provided.
+
+- [Control structures in programming languages | Control structures in programming languages: from goto to algebraic effects](https://xavierleroy.org/control-structures/): no description found

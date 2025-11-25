@@ -36,6 +36,8 @@
   - [心中的内核 - 在阅读内核代码之前先理解内核](https://cppguide.cn/pages/the-kernel-in-the-mind-contents/)
 - [Latency, Throughput, and Port Usage Information](https://uops.info/index.html): This website provides more than 700,000 pages with detailed latency, throughput, and port usage data for most instructions on many recent x86 microarchitectures.
 - [Memory, Cache, CPU optimization resources.md](https://gist.github.com/ocornut/cb980ea183e848685a36)
+- [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design): A curated list of data oriented design resources.
+- [Memory Management Reference](https://www.memorymanagement.org/): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
 
 ## Compiler
 
@@ -55,6 +57,14 @@
 - [kubkon/bold](https://github.com/kubkon/bold): bold: the bold linker
 - [davidlattimore/wild](https://github.com/davidlattimore/wild): A very fast linker for Linux
 - [untitaker/hyperlink](https://github.com/untitaker/hyperlink): Very fast link checker for CI.
+
+### Fuzzing
+
+- [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus): The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more! <https://aflplus.plus>
+  - [rust-fuzz/afl.rs](https://github.com/rust-fuzz/afl.rs): 🐇 Fuzzing Rust code with American Fuzzy Lop <https://rust-fuzz.github.io/book/afl.html>
+  - [jwilk/python-afl](https://github.com/jwilk/python-afl): American Fuzzy Lop fork server and instrumentation for pure-Python code <https://jwilk.net/software/python-afl>
+- [libFuzzer – a library for coverage-guided fuzz testing. — LLVM 22.0.0git documentation](https://llvm.org/docs/LibFuzzer.html)
+- [google/oss-fuzz](https://github.com/google/oss-fuzz): OSS-Fuzz - continuous fuzzing for open source software. <https://google.github.io/oss-fuzz>
 
 ### Tools
 
@@ -94,6 +104,7 @@
 - [openSUSE/snapper](https://github.com/openSUSE/snapper): Manage filesystem snapshots and allow undo of system modifications <http://snapper.io/>
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): earlyoom - Early OOM Daemon for Linux
   - If you hope to disable SWAP, please at lesat enable earlyoom to let you have a good sleep.
+- [dev-sec/linux-baseline](https://github.com/dev-sec/linux-baseline): DevSec Linux Baseline - InSpec Profile <https://dev-sec.io/baselines/linux/>
 
 ## BPF
 
@@ -149,10 +160,12 @@
 - [indragiek/uniprof](https://github.com/indragiek/uniprof): Universal CPU profiler designed for humans and AI agents <https://uniprof.sh>
 - 🌟 [YS-L/flamelens](https://github.com/YS-L/flamelens): Flamegraph viewer in the terminal
 - [microsoft/SysmonForLinux](https://github.com/microsoft/SysmonForLinux): Sysmon for Linux
+- 🌟 [wolfpld/tracy](https://github.com/wolfpld/tracy): Frame profiler <https://tracy.nereid.pl/>
 
 ## Misc
 
 - 🌟 [orhun/binsider](https://github.com/orhun/binsider): Analyze ELF binaries like a boss 😼🕵️‍♂️ <https://binsider.dev/>
+- [google/nsjail](https://github.com/google/nsjail): A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security. <https://nsjail.dev>
 
 ## WASM Runtime
 

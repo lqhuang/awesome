@@ -36,6 +36,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Ref Callbacks, React 19 and the Compiler | TkDodo's blog](https://tkdodo.eu/blog/ref-callbacks-react-19-and-the-compiler): Reflecting on useCallback, how the Compiler changed my thinking about it, and what React 19 has in store for Ref Callbacks...
 - [Jack Duvall's Blog - All Javascript Keyboard Shortcut Libraries Are Broken](https://blog.duvallj.pw/posts/2025-01-10-all-javascript-keyboard-shortcut-libraries-are-broken.html): Either subtly, or not-so-subtly. There is no way to fix the more subtle variant, and the only solution is to Give Up (on supporting a large subset of keyboard shortcuts).
 - [The History of React Through Code | Playful Programming](https://playfulprogramming.com/posts/react-history-through-code#Continuing-consistency-in-IO-handling): Learn React's history using pragmatic code samples and deep dives. This journey reveals the consistent design in React's APIs stemming from the very beginning.
+- 🌟 [Hardest Problem in Computer Science: Centering Things @ tonsky.me](https://tonsky.me/blog/centering/): Somehow we forgot how to center rectangles and must find our way back
 
 ### Tutorials
 
@@ -113,6 +114,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Kelp](https://kelpui.com/): A UI library for people who love HTML, powered by modern CSS and Web Components.
 - [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises): These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP).
 - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/): A demonstration of what can be accomplished visually through CSS-based design.
+- 🌟 [Tag archive for CSS – Frontend Masters Blog](https://frontendmasters.com/blog/tag/css/): Frontend Masters Boost is a blog about web development. It's written by the team at Frontend Masters, course instructors from the industry, and curated guest authors. The goal is to help you on your path to becoming a senior developer, or to be an even better one.
 
 ### CSS Style
 
@@ -148,6 +150,14 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [callstack/linaria](https://github.com/callstack/linaria): Zero-runtime CSS in JS library <https://linaria.dev>
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx): Full CSS support for JSX without compromises <http://npmjs.com/styled-jsx>
 - [facebook/stylex](https://github.com/facebook/stylex): StyleX is the styling system for ambitious user interfaces. <https://stylexjs.com>
+  - [Dwlad90/stylex-swc-plugin](https://github.com/Dwlad90/stylex-swc-plugin): Community NAPI-RS/SWC plugin for StyleX.
+  - [nonzzz/stylex-extend](https://github.com/nonzzz/stylex-extend): An unofficial stylexjs extension <https://nonzzz.github.io/stylex-extend/>
+  - [SukkaW/stylex-webpack](https://github.com/SukkaW/stylex-webpack): The another webpack/Next.js Plugin for Facebook StyleX
+  - [HorusGoul/vite-plugin-stylex](https://github.com/HorusGoul/vite-plugin-stylex): Vite Plugin for StyleX
+  - [eryue0220/unplugin-stylex](https://github.com/eryue0220/unplugin-stylex): StyleX integration for Vite, esbuild, webpack, rollup and rspack.
+  - [nmn/tw-to-stylex](https://github.com/nmn/tw-to-stylex): A simpler code translator to convert code using Tailwind to code using StyleX
+  - [nonzzz/stylex-extend](https://github.com/nonzzz/stylex-extend): An unofficial stylexjs extension <https://nonzzz.github.io/stylex-extend/>
+  - [nedjulius/prettier-plugin-stylex-key-sort](https://github.com/nedjulius/prettier-plugin-stylex-key-sort): Prettier plugin that auto-sorts StyleX keys
 - [chakra-ui/panda](https://github.com/chakra-ui/panda): 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️ <https://panda-css.com>
   - [muijf/pandacss-preset-typography](https://github.com/muijf/pandacss-preset-typography): Typography preset for PandaCSS, inspired by TailwindCSS Typography, for beautiful and consistent text styling. <https://docs.muijf.com/pandacss-preset-typography>
   - [YannBirba/pandacss-preset-react-aria-components](https://github.com/YannBirba/pandacss-preset-react-aria-components): A 🐼 PandaCSS preset for React aria components
@@ -160,6 +170,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [kuma-ui/kuma-ui](https://github.com/kuma-ui/kuma-ui): 🐻‍❄️ A Headless, Utility-First, and Zero-Runtime UI Component Library ✨ <https://kuma-ui.com>
 - [atlassian-labs/compiled](https://github.com/atlassian-labs/compiled): A familiar and performant compile time CSS-in-JS library for React. <https://compiledcssinjs.com>
 - [css-hooks/css-hooks](https://github.com/css-hooks/css-hooks): Hook into advanced CSS features from native inline styles. <https://css-hooks.com>
+- [robinweser/fela](https://github.com/robinweser/fela): State-Driven Styling in JavaScript <http://fela.js.org>
 
 ### linters
 
@@ -404,6 +415,8 @@ Upload
 - [pqina/filepond](https://github.com/pqina/filepond): 🌊 A flexible and fun JavaScript file upload library <https://pqina.nl/filepond>
 - 🌟 [Nic13Gamer/better-upload](https://github.com/Nic13Gamer/better-upload): Simple and easy file uploads for React. Upload files directly to any S3-compatible service with minimal setup. <https://better-upload.com>
 - [pompelmi/pompelmi](https://github.com/pompelmi/pompelmi): free, open-source file scanner <https://pompelmi.github.io/pompelmi/>
+- [muxinc/elements](https://github.com/muxinc/elements): Custom elements for working with media in the browser that Just Work™ <https://elements-demo-nextjs.vercel.app>
+- [muxinc/upchunk](https://github.com/muxinc/upchunk): Uploads Chunks! Takes big files, splits them up, then uploads each one with care (and PUT requests).
 
 Onboarding
 
@@ -456,6 +469,7 @@ Misc
 - [glidejs/glide](https://github.com/glidejs/glide): A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more <https://glidejs.com>
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu): 🍔 An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations <http://negomi.github.io/react-burger-menu/>
 - [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build and send emails using React <https://react.email>
+  - [inboundemail/react-email-templates](https://github.com/inboundemail/react-email-templates): High quality, reusable email templates build on react-email. <https://react-email-templates-eight.vercel.app>
 - [wipeautcrafter/jsfontpicker](https://github.com/wipeautcrafter/jsfontpicker): An open source, free (as in beer), versatile, flexible and lightweight Javascript Font Picker Component for System fonts, Google fonts and custom (woff/ttf) fonts. Features dynamic font loading, favourites, keyboard navigation, fuzzy search, advanced metrics filters, property sorting and much more. Available in multiple languages. <https://jsfontpicker.com/>
 - [talyssonoc/react-katex](https://github.com/talyssonoc/react-katex): Display math in TeX with KaTeX and ReactJS
   - great but no longer maintained
@@ -469,6 +483,7 @@ Misc
 - [georgedoescode/garden-jamstack-posters](https://github.com/georgedoescode/garden-jamstack-posters): A peculiar little website that uses Eleventy + Netlify + Puppeteer to create generative poster designs <https://garden.georgefrancis.dev>
 - 🌟 [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom): 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016) <https://rpearce.github.io/react-medium-image-zoom/>
 - [bryntum/chronograph](https://github.com/bryntum/chronograph): A reactive state management system with novel and unique properties <https://bryntum.github.io/chronograph/docs/>
+- [wigggle-ui/ui](https://github.com/wigggle-ui/ui): A beautiful collection of copy-and-paste widgets for your next project. <https://wigggle-ui.vercel.app>
 
 #### Just render json in better way
 
@@ -579,6 +594,7 @@ Concrete animations
 - 🌟 [paper-design/shaders](https://github.com/paper-design/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper <https://paper.design>
 - [shaders.com](https://shaders.com/): shader magic ✨ for frontend frameworks
 - [shajidhasan/spoilerjs](https://github.com/shajidhasan/spoilerjs): A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations. <https://spoilerjs.sh4jid.me>
+- [Liquid Glass in the Browser: Refraction with CSS and SVG — kube.io](https://kube.io/blog/liquid-glass-css-svg/): Explore how to recreate Apple's stunning Liquid Glass effect using CSS, SVG Displacement Maps, and refraction calculations.
 
 ## Functional libraries
 
@@ -616,7 +632,6 @@ Concrete animations
 - [streamich/react-use](https://github.com/streamich/react-use): React Hooks — 👍 <http://streamich.github.io/react-use>
 - 🌟 [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done right. For Browser, SSR, and React Server Components. <https://foxact.skk.moe>
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks): A collection of modern, server-safe React hooks – from the ui.dev team <https://usehooks.com>
-- [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that helps you debug components.
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international): Type-safe internationalization (i18n) for Next.js <https://next-international.vercel.app>
 - [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string. <https://nuqs.47ng.com>
 - [maslianok/react-resize-detector](https://github.com/maslianok/react-resize-detector): A Cross-Browser, Event-based, Element Resize Detection for React <http://maslianok.github.io/react-resize-detector/>
@@ -634,9 +649,17 @@ Concrete animations
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom): snapDOM captures HTML elements to images with exceptional speed and accuracy. <https://snapdom.dev>
 - [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js): Sitemap-generating framework for node.js
 
+### Dev Tools
+
+- [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that helps you debug components.
+- [aidenybai/million](https://github.com/aidenybai/million): Make React Faster. Automatically. <https://million.dev>
+- [astahmer/atomic-css-devtools](https://github.com/astahmer/atomic-css-devtools): A devtool panel for debugging Atomic CSS rules as if they were not atomic. Available on chrome & firefox. Works with TailwindCSS, Panda CSS, and any atomic CSS library <https://chromewebstore.google.com/detail/atomic-css-devtools/cbjhfeooiomphlikkblgdageenemhpgc>
+- [darula-hpp/react-source-lens](https://github.com/darula-hpp/react-source-lens): Instantly locate any React component's source code with a single keystroke. Hover + Cmd+Shift+O = your editor opens the exact file and line.
+- [theajack/disable-devtool](https://github.com/theajack/disable-devtool): Disable web developer tools from the f12 button, right-click and browser menu <https://theajack.github.io/disable-devtool/>
+- [jsx-tool/jsx-tool](https://github.com/jsx-tool/jsx-tool): A lightweight development server that bridges your browser and filesystem for real-time React component editing. <https://jsxtool.com>
+
 ### Misc
 
-- [aidenybai/million](https://github.com/aidenybai/million): Make React Faster. Automatically. <https://million.dev>
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle): A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code. <http://formidable.com/open-source/spectacle/>
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy): Fast and secure standalone server for resizing and converting remote images <https://imgproxy.net>
 - [evilmartians/figma-polychrom](https://github.com/evilmartians/figma-polychrom): Figma plugin for displaying the contrast level and font size recommendations according to the APCA method <https://www.figma.com/community/plugin/1281280685402026529/polychrom>
@@ -644,7 +667,6 @@ Concrete animations
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid): A module used to arrange card elements including content infinitely on a grid layout. <https://naver.github.io/egjs-infinitegrid/>
 - [freedomofpress/webcat](https://github.com/freedomofpress/webcat): WEBCAT is an architectural framework for providing blocking code signing and verification, integrity and transparency checks for browser-based applications.
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js): "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection <https://uaparser.dev/>
-- [theajack/disable-devtool](https://github.com/theajack/disable-devtool): Disable web developer tools from the f12 button, right-click and browser menu <https://theajack.github.io/disable-devtool/>
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis): Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers <https://anubis.techaro.lol/>
 - [tiagorangel1/cap](https://github.com/tiagorangel1/cap): Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work <http://capjs.js.org/>
 - [grpc/grpc-web](https://github.com/grpc/grpc-web): gRPC for Web Clients <https://grpc.io>
@@ -716,6 +738,7 @@ Concrete animations
 - [boringdesigners/boring-avatars](https://github.com/boringdesigners/boring-avatars): Boring avatars is a tiny JavaScript React library that generates custom, SVG-based avatars from any username and color palette. <https://boringavatars.com>
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons): A set of over 3400 free MIT-licensed high-quality SVG icons for you to use in your web projects. <https://tabler-icons.io>
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide): Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. <https://lucide.dev>
+  - [pqoqubbw/icons](https://github.com/pqoqubbw/icons): beautifully crafted animated icons <https://lucide-animated.com>
 - [antfu/icones](https://github.com/antfu/icones): ⚡️ Icon Explorer with Instant searching, powered by Iconify <https://icones.js.org/>
 - [iconify/iconify](https://github.com/iconify/iconify): Universal icon framework. One syntax for FontAwesome, Material Design Icons, DashIcons, Feather Icons, EmojiOne, Noto Emoji and many other open source icon sets (100+ icon sets, 100,000+ icons). SVG framework, React, Vue and Svelte components! <https://iconify.design>
 - [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs <https://css.gg>
@@ -742,6 +765,7 @@ Concrete animations
 - [Symbols](https://www.symbols.dev/): Open source SF symbols for the web.
 - [Hugeicons](https://hugeicons.com/): Explore the world's most complete icon library: 40,000+ icons, 9 unique styles, and 59 categories. Perfect for UI/UX designers, developers, and creators using Figma, React, Flutter, and more.
 - https://icons8.com/icons/sf-regular
+- [Home | helpy-ui](https://helpy-ui.com/): Find Tools That Cover Your Code
 
 ### Logos / Brand icons
 
@@ -750,6 +774,7 @@ Concrete animations
 - [devicons/devicon](https://github.com/devicons/devicon): Set of icons representing programming languages, designing & development tools <https://devicon.dev>
 - 🌟 [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [中国大学矢量校徽大全](https://www.urongda.com/): 汇集全国高校的矢量校徽，提供高质量的可缩放 SVG 文件，适合设计师、学生和机构使用。
+- [Logo API - Logo.dev](https://www.logo.dev/): Get company logos via API in seconds. Access millions of verified brand logos in SVG, PNG & WebP. Free tier with generous monthly requests. Start now.
 
 ## Further topics
 
@@ -774,6 +799,10 @@ Concrete animations
 - [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl): React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React. <https://react-unity-webgl.dev>
 - [StateLayer](https://statelayer.com/): A declarative 3D component framework!
 - [pmndrs/triplex](https://github.com/pmndrs/triplex): The open source visual workspace for React / Three Fiber. Build the 2D and 3D web. <https://triplex.dev>
+
+### Engine
+
+- [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay): 🦖 A JavaScript/TypeScript Game Library that feels like a game. <https://kaplayjs.com>
 
 ### PWA
 

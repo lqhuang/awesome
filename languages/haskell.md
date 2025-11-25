@@ -55,6 +55,7 @@
 - [google/haskell-trainings](https://github.com/google/haskell-trainings): Haskell 101 and 102: slides and codelabs
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell): 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests <https://kowainik.github.io/projects/learn4haskell>
 - [0rphee/haskellings](https://github.com/0rphee/haskellings): No description, website, or topics provided.
+- [moocfi/haskell-mooc](https://github.com/moocfi/haskell-mooc): Haskell MOOC University of Helsinki
 
 ## Best choices
 
