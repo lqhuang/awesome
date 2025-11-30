@@ -432,6 +432,7 @@ Libs
 - [ansible/awx](https://github.com/ansible/awx): AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
   - [HewlettPackard/squest](https://github.com/HewlettPackard/squest): Service request portal on top of Ansible Tower/AWX <https://hewlettpackard.github.io/squest/latest>
 - [sky22333/ansible](https://github.com/sky22333/ansible): 轻量级，简单易用的 Ansible Web 管理面板，提供批量主机管理、命令执行、文件传输和 Web 终端等功能。
+- [node-pulse/admiral](https://github.com/node-pulse/admiral): Node Pulse Admiral - Unified server fleet dashboard—visualize Prometheus metrics, automate deployments with built-in and community-contributed Ansible playbooks, and manage servers via web-based SSH terminal <https://nodepulse.sh>
 
 #### Tools
 
@@ -585,3 +586,5 @@ Archived or outdated but still useful
 
 - [telekom-mms/ansible-collection-acme](https://github.com/telekom-mms/ansible-collection-acme): An Ansible collection for issuing certificates via the ACME protocol.
 - [telekom-mms/Automated-Ansible-Role-Documentation](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation): Generate documentation automatically from an Ansible role's metadata
+
+https://reproducible-builds.org/tools/

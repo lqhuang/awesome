@@ -13,6 +13,7 @@
 - [ben-n93/SQL-tips-and-tricks](https://github.com/ben-n93/SQL-tips-and-tricks): SQL tips and tricks
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything): How to reduce complexity and move faster? Just Postgres for everything.
 - [SQLBolt](https://sqlbolt.com/): SQLBolt provides a set of interactive lessons and exercises to help you learn SQL
+- 🌟 [Modern SQL: A lot has changed since SQL-92](https://modern-sql.com/): SQL has evolved. Beyond the relational model. Discover it now.
 
 ### Books
 

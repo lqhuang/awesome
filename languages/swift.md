@@ -44,7 +44,7 @@
 
 - [Quick/Quick](https://github.com/Quick/Quick): The Swift (and Objective-C) testing framework. <http://quick.github.io/Quick/>
 - [realm/SwiftLint](https://github.com/realm/SwiftLint): A tool to enforce Swift style and conventions. <https://realm.github.io/SwiftLint>
-- [tuist/tuist](https://github.com/tuist/tuist): 🚀 Create, maintain, and interact with Xcode projects at scale <https://tuist.io>
+- 🌟 [tuist/tuist](https://github.com/tuist/tuist): 🚀 Create, maintain, and interact with Xcode projects at scale <https://tuist.io>
 - [peripheryapp/periphery](https://github.com/peripheryapp/periphery): A tool to identify unused code in Swift projects.
 - [nalexn/ViewInspector](https://github.com/nalexn/ViewInspector): Runtime introspection and unit testing of SwiftUI views
 - [yonaskolb/Mint](https://github.com/yonaskolb/Mint): A package manager that installs and runs executable Swift packages

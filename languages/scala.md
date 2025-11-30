@@ -40,6 +40,7 @@
   - why not make a Scala 3 version of it?
 - [Welcome to FP Illuminated](https://fpilluminated.org/)
 - [Scala Adoption Tracker](https://business4s.org/scala-adoption-tracker/): Crowdsourced list of companies and projects adopting Scala.
+- [Blog of Red Hat App Services Performance Team](https://redhatperf.github.io/)
 
 ### Exercises
 

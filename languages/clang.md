@@ -15,7 +15,7 @@ And modern is here now.
 - 🌟 [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++ <https://awesomecpp.com>
 - 🌟 [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css): Custom CSS theme for doxygen html-documentation with lots of customization parameters. <https://jothepro.github.io/doxygen-awesome-css/>
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs): List of single-file C/C++ libraries.
-- [Software optimization resources - Agner](https://www.agner.org/optimize/)
+- 🌟https://blog.scottlogic.com/2025/11/26/putting-spec-kit-through-its-paces-radical-idea-or-reinvented-waterfall.html [Software optimization resources - Agner](https://www.agner.org/optimize/)
 - 🌟 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
   - > People love to hate build systems.
     - my comment: Yes, definitely
@@ -386,3 +386,5 @@ And modern is here now.
 - [Vexu/arocc](https://github.com/Vexu/arocc): A modern fully featured C compiler.
 - [compiler-research/CppInterOp](https://github.com/compiler-research/CppInterOp): A Clang-based C++ Interoperability Library
 - [root-project/cling](https://github.com/root-project/cling): The cling C++ interpreter
+
+- [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers): C++ Fixed Containers

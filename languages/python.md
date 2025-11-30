@@ -824,3 +824,8 @@ pdf
 - [TexteaInc/funix](https://github.com/TexteaInc/funix): Building web apps without manually creating widgets <http://funix.io>
 - [rio-labs/rio](https://github.com/rio-labs/rio): WebApps in pure Python. No JavaScript, HTML and CSS needed <https://rio.dev>
 - [Knio/dominate](https://github.com/Knio/dominate): Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API. It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn another template language, and to take advantage of the more powerful features of Python.
+
+
+
+- [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica): A modern computer algebra library for Python and Rust. <https://symbolica.io>
+

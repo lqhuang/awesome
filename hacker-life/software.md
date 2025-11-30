@@ -7,6 +7,7 @@
 - [elkowar/eww](https://github.com/elkowar/eww): ElKowars wacky widgets <https://elkowar.github.io/eww>
 - 🌟 [LanguageTool](https://languagetool.org): Instantly Enhance Your Writing
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake is a open-source tool, built by volunteers, for converting video from nearly any format to a selection of modern, widely supported codecs. <https://handbrake.fr>
+  - [jlesage/docker-handbrake](https://github.com/jlesage/docker-handbrake): Docker container for HandBrake
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut): The swiss army knife of lossless video/audio editing <https://mifi.no/losslesscut>
 - 🌟 [mltframework/shotcut](https://github.com/mltframework/shotcut): cross-platform (Qt), open-source (GPLv3) video editor <https://www.shotcut.org>
   - Open source alternative to Adode Pr
@@ -280,7 +281,6 @@ SSH
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io): 📚 LookScanned.io - Make your PDFs look scanned <https://lookscanned.io>
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances <https://maybe.co>
 - 🌟 [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. <https://massgrave.dev>
-- [11notes/docker-kms](https://github.com/11notes/docker-kms): Activate any version of Windows and Office, forever
 - [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker
 - [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru): 🔮 Screen Guru takes clean screenshot of any websites <https://screen.guru>
 - [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar): No description, website, or topics provided.
@@ -299,6 +299,14 @@ SSH
 - 🌟 [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST <https://ntfy.sh>
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash): A self hosted dashboard and organizer for Excalidraw with live collaboration.
 
+### PDF / File tools
+
+- [11notes/docker-kms](https://github.com/11notes/docker-kms): Activate any version of Windows and Office, forever
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): #1 Locally hosted web application that allows you to perform various operations on PDF files <https://stirlingpdf.com>
+- [alam00000/bentopdf](https://github.com/alam00000/bentopdf): A Privacy First PDF Toolkit <https://bentopdf.com/>
+- [iib0011/omni-tools](https://github.com/iib0011/omni-tools): Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! <https://omnitools.app>
+- [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools): Collection of handy online tools for developers, with great UX. <https://it-tools.tech>
+
 ### Media
 
 - [photoprism/photoprism](https://github.com/photoprism/photoprism): AI-Powered Photos App for the Decentralized Web 🌈💎✨ <https://photoprism.app>
@@ -309,6 +317,7 @@ SSH
 - [jesec/flood](https://github.com/jesec/flood): A modern web UI for various torrent clients with a Node.js backend and React frontend. <https://flood.js.org>
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr): fork of overseerr for jellyfin support
 - [koush/scrypted](https://github.com/koush/scrypted): Scrypted is a high performance video integration and automation platform <https://scrypted.app>
+- [kerberos-io/agent](https://github.com/kerberos-io/agent): An open and scalable video surveillance system for anyone making this world a better and more peaceful place. <https://kerberos.io>
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT): The next-generation file converter. Open source, fully local\* and free forever. <https://vert.sh>
   - [VERT-sh/vertd](https://github.com/VERT-sh/vertd): VERT's solution to crappy video conversion services. <https://vert.sh>
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet): A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. <https://bitmagnet.io/>
@@ -316,6 +325,8 @@ SSH
 - 🌟 [imputnet/cobalt](https://github.com/imputnet/cobalt): best way to save what you love <https://cobalt.tools>
   - similar https://dy.kukutool.com/en
 - [Tribler/tribler](https://github.com/Tribler/tribler): Privacy enhanced BitTorrent client with P2P content discovery <https://www.tribler.org>
+- [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr): Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 
 ### Reader / RSS / Bookmarks
 
@@ -343,6 +354,8 @@ SSH
 - [internetarchive/openlibrary](https://github.com/internetarchive/openlibrary): One webpage for every book ever published! <https://openlibrary.org>
 - [xbrowsersync/app](https://github.com/xbrowsersync/app): xBrowserSync browser extensions / mobile app <https://www.xbrowsersync.org/>
   - not maintained anymore, but the public services are still running. LoL
+- [gitlab:LazyLibrarian/LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian): LazyLibrarian is a SickBeard, CouchPotato, Headphones-like application for ebooks, audiobooks and magazines
+- [booklore-app/booklore](https://github.com/booklore-app/booklore): BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics. <https://demo.booklore.dev>
 
 ### Cloud Disk
 
@@ -362,7 +375,7 @@ NextCloud is crazily BIG now, so I will say no here.
 - [jugeekuz/HomeShare](https://github.com/jugeekuz/HomeShare): HomeShare - A File Server in your Home PC ⚡
 - [bolcom/unFTP](https://github.com/bolcom/unFTP): A FTP(S) server with a couple of twists written in Rust. Follow and talk to us on https://t.me/unftp. Docs on https://unftp.rs
 - [git.deuxfleurs.fr:Deuxfleurs/garage](https://git.deuxfleurs.fr/Deuxfleurs/garage): garage - S3-compatible object store for small self-hosted geo-distributed deployments
-- [linagora/twake-drive](https://github.com/linagora/twake-drive): The open-source alternative to Google Drive.
+- [linagora/twake-drive](https://github.com/linagora/twake-drive): Twake Drive Web App <https://twake-drive.com>
 
 ### Email
 
@@ -415,3 +428,4 @@ Not OSS:
 - [Bubka/2FAuth](https://github.com/Bubka/2FAuth): A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes <https://docs.2fauth.app/>
 - [twofas/2fas-pass-server](https://github.com/twofas/2fas-pass-server): Source code for 2FAS Pass server
 - [soruly/pasu](https://github.com/soruly/pasu): Self-hosted TOTP authenticator PWA with FIDO2 (WebAuthn) <https://pasu.soruly.moe>
+- [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api): Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! <https://passbolt.com>

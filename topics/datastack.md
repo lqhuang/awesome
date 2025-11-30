@@ -107,3 +107,6 @@
 - [datapane/datapane](https://github.com/datapane/datapane): Datapane is the easiest way to create data science reports from Python. <https://datapane.com>
 - [finos/perspective](https://github.com/finos/perspective): A data visualization and analytics component, especially well-suited for large and/or streaming datasets. <https://perspective.finos.org>
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server): Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library. <https://atomicserver.eu>
+
+- [kaushiksrini/parqeye](https://github.com/kaushiksrini/parqeye): Peek inside Parquet files right from your terminal
+

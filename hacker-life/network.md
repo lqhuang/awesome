@@ -86,6 +86,7 @@
 - [xykt/NetQuality](https://github.com/xykt/NetQuality): 网络质量检测脚本 - Network Quality Check Script
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker): Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management <https://owasp.org/nettacker>
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain): Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them among connected sibling servers (Villain instances running on different machines).
+- 🌟 [frankovo/dns-benchmark-tool](https://github.com/frankovo/dns-benchmark-tool): Fast, comprehensive DNS performance testing with DNSSEC validation, DoH/DoT support, and enterprise features <https://www.buildtools.net/>
 
 ### Analysis
 
@@ -302,3 +303,7 @@ STUN / TURN / ICE
 - [WebBrowserTools](https://webbrowsertools.com/): The community of open-source projects to help improve the privacy and security of your online appearance
 - [qvis: tools and visualizations for QUIC and HTTP/3](https://qvis.quictools.info/#/files): no description found
 - [RDAP Whois Query Tool - Domain, IP & ASN Lookup](https://rdap.ss/): Free RDAP-based WHOIS lookup tool for domains, IPv4, IPv6 addresses, and ASN numbers. Fast, accurate, and privacy-focused domain information.
+- [GreyNoise IP Check](https://check.labs.greynoise.io/): Check if your IP address has been observed by GreyNoise sensors. Instantly detect malicious activity, compromised devices, and security threats affecting your network.
+
+- [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns): DNS over HTTPS config profiles for iOS & macOS <https://paulmillr.com/posts/encrypted-dns/>
+  - [Paul Miller — iOS 14, Big Sur and DNS over HTTPS](https://paulmillr.com/posts/encrypted-dns/): Paul Miller. I make projects which help developers to build awesome things

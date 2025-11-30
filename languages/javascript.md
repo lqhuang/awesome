@@ -66,10 +66,10 @@
 - vite
   - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite): ⚡️ A curated list of awesome things related to Vite.js <https://github.com/vitejs/vite>
 - rolldown
-- [SukkaW/stylex-webpack](https://github.com/SukkaW/stylex-webpack): The another webpack/Next.js Plugin for Facebook StyleX
 - [addyosmani/critical](https://github.com/addyosmani/critical): Extract & Inline Critical-path CSS in HTML pages
 - 🌟 [filipsobol/sonda](https://github.com/filipsobol/sonda): Universal visualizer and analyzer for JavaScript and CSS. Compatible with most bundlers and frameworks <https://sonda.dev/>
 - 🌟 [nodejs-loaders/nodejs-loaders](https://github.com/nodejs-loaders/nodejs-loaders): This repo provides a variety of loaders to facilitate quick and easy local development and CI testing. <https://www.npmjs.com/org/nodejs-loaders>
+- 🌟 [colinhacks/zshy](https://github.com/colinhacks/zshy): 🐒 Bundler-free build tool for TypeScript libraries. Powered by tsc.
 
 ### Linter / Formatter
 
@@ -89,6 +89,13 @@
 - [gasket-tools/gasket](https://github.com/gasket-tools/gasket): Identify bridges from JS to Native or JS to WASM in V8 embedders
 - [luoling8192/better-import](https://github.com/luoling8192/better-import): CLI tool to detect replaceable dependencies in your package.json files.
 - [yuyinws/oxlint-inspector](https://github.com/yuyinws/oxlint-inspector): Visualize The Oxlint.
+- [Rel1cx/eslint-react](https://github.com/Rel1cx/eslint-react): 4-7x faster composable ESLint rules for React and friends. <https://eslint-react.xyz>
+- [eslint-stylistic/eslint-stylistic](https://github.com/eslint-stylistic/eslint-stylistic): Monorepo for ESLint Stylistic plugins and configs <https://eslint.style>
+- [eslint-community/eslint-plugin-es-x](https://github.com/eslint-community/eslint-plugin-es-x): ESLint plugin about ECMAScript syntactic features. <https://eslint-community.github.io/eslint-plugin-es-x/>
+- [un-ts/eslint-plugin-import-x](https://github.com/un-ts/eslint-plugin-import-x): `eslint-plugin-import-x` is a fork of `eslint-plugin-import` that aims to provide a more performant and more lightweight version of the original plugin. <https://npm.im/eslint-plugin-import-x>
+- [un-ts/prettier](https://github.com/un-ts/prettier): 📦 Opinionated but Incredible Prettier plugins. <https://prettier.vercel.app>
+- [eslint-community/eslint-plugin-n](https://github.com/eslint-community/eslint-plugin-n): Additional ESLint rules for Node.js
+- [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security): ESLint rules for Node Security
 
 ### Testing
 
@@ -150,9 +157,16 @@ Specific
 - [unjs/mlly](https://github.com/unjs/mlly): 🤝 Missing ECMAScript module utils for Node.js
 - [unjs/destr](https://github.com/unjs/destr): 🚀 Faster, secure and convenient alternative for JSON.parse
 - 🌟 [slevithan/regex](https://github.com/slevithan/regex): Regex template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices
+- 🌟 [e18e/awesome-e18e](https://github.com/e18e/awesome-e18e): A curated list of awesome e18e-focused packages
+- [es-tooling/fd-package-json](https://github.com/es-tooling/fd-package-json): Utilities for finding the closest package.json file
 - 🌟 [es-tooling/module-replacements](https://github.com/es-tooling/module-replacements): A manifest of JS modules and their more modern/active replacements
   - [Module replacements](https://github.com/es-tooling/module-replacements/blob/main/docs/modules/README.md): This is a list of all modules we suggest replacing, along with documentation to suggest alternatives.
 - [codpro2005/ts-regexp](https://github.com/codpro2005/ts-regexp): A RegExp wrapper providing stronger type safety.
+- [43081j/picoquery](https://github.com/43081j/picoquery): A small library for parsing and serializing query strings
+- [Tinylibs](https://github.com/tinylibs)
+  - [tinylibs/tinypool](https://github.com/tinylibs/tinypool): 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB) <https://npmjs.com/package/tinypool>
+  - [tinylibs/tinyexec](https://github.com/tinylibs/tinyexec): 📟 A tiny, higher level interface around child_process
+- [lukeed/empathic](https://github.com/lukeed/empathic): A set of small Node.js utilities to understand your pathing needs.
 
 ### Parser
 
@@ -243,11 +257,13 @@ Specific
 - [elysiajs/json-accelerator](https://github.com/elysiajs/json-accelerator): Accelerate JSON stringification by providing OpenAPI/TypeBox shape <https://www.npmjs.com/package/json-accelerator>
 - 🌟 [hyparam/hyparquet](https://github.com/hyparam/hyparquet): parquet file parser for javascript
   - [hyparam/hysnappy](https://github.com/hyparam/hysnappy): Snappy decompression with WebAssembly
-- [eemeli/yaml](https://github.com/eemeli/yaml): YAML parser and stringifier for JavaScript <https://eemeli.org/yaml>
+- 🌟 [eemeli/yaml](https://github.com/eemeli/yaml): YAML parser and stringifier for JavaScript <https://eemeli.org/yaml>
 - [vercel/bidc](https://github.com/vercel/bidc): Bidirectional Channels for JavaScript
 - [rictic/jsonriver](https://github.com/rictic/jsonriver): A simple, fast streaming JSON parser built on standards. <https://rictic.github.io/jsonriver/>
 - 🌟 [oozcitak/xmlbuilder2](https://github.com/oozcitak/xmlbuilder2): An XML builder for node.js
 - [querycatai/jaison](https://github.com/querycatai/jaison): No description, website, or topics provided.
+- [Simon-He95/markdown-it-ts](https://github.com/Simon-He95/markdown-it-ts): A modern, type-safe rewrite of markdown-it in TypeScript: pluggable rules, split parse/render, CommonMark-compatible; fast one-shot parsing and even faster streaming/incremental updates. <https://www.npmjs.com/package/markdown-it-ts>
+- [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js): A JSON-LD Processor and API implementation in JavaScript <https://json-ld.org/>
 
 ### Parser
 
@@ -255,7 +271,7 @@ Specific
 - [xmldom/xmldom](https://github.com/xmldom/xmldom): A pure JavaScript W3C standard-based (XML DOM Level 2 Core) `DOMParser` and `XMLSerializer` module.
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2): The fast & forgiving HTML and XML parser <https://feedic.com/htmlparser2>
 - [fb55/entities](https://github.com/fb55/entities): encode & decode HTML & XML entities with ease & speed
-- [inikulin/parse5](https://github.com/inikulin/parse5): HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
+- 🌟 [inikulin/parse5](https://github.com/inikulin/parse5): HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [postalsys/postal-mime](https://github.com/postalsys/postal-mime): Email parser for browser and serverless environments
 - [markedjs/marked](https://github.com/markedjs/marked): A markdown parser and compiler. Built for speed. <https://marked.js.org>
 - 🌟 [cure53/DOMPurify](https://github.com/cure53/DOMPurify): DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo: <https://cure53.de/purify>
@@ -393,6 +409,8 @@ Specific
 - [privatenumber/cleye](https://github.com/privatenumber/cleye): 👁‍🗨 Strongly typed CLI development for Node.js
 - [privatenumber/type-flag](https://github.com/privatenumber/type-flag): ⛳️ Typed command-line arguments parser for Node.js
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku): ✅ タスク — The minimal task visualizer for Node.js
+- [infinitered/gluegun](https://github.com/infinitered/gluegun): A delightful toolkit for building TypeScript-powered command-line apps.
+- [tinylibs/picospinner](https://github.com/tinylibs/picospinner): A lightweight, no dependency, pluggable CLI spinner library.
 
 ### Image
 
@@ -403,6 +421,15 @@ Specific
 - [image-js/fast-png](https://github.com/image-js/fast-png): PNG image decoder and encoder written entirely in JavaScript
 - [image-js/image-js](https://github.com/image-js/image-js): Image processing and manipulation in JavaScript <https://image-js.github.io/image-js>
 - [riyadhalnur/node-base64-image](https://github.com/riyadhalnur/node-base64-image): Download images from remote URLs or use local images and encode/decode them to Base64 string or Buffer object <http://riyadhalnur.github.io/node-base64-image>
+
+### Glob
+
+- [isaacs/minimatch](https://github.com/isaacs/minimatch): a glob matcher in javascript
+- [isaacs/node-glob](https://github.com/isaacs/node-glob): glob functionality for node.js
+- [thecodrr/fdir](https://github.com/thecodrr/fdir): ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s <https://thecodrr.github.io/fdir/>
+- [micromatch/picomatch](https://github.com/micromatch/picomatch): Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, i… <https://github.com/micromatch>
+- 🌟 [SuperchupuDev/tinyglobby](https://github.com/SuperchupuDev/tinyglobby): A fast and minimal alternative to globby and fast-glob <https://npmjs.com/package/tinyglobby>
+  - depends on `fdir` and `picomatch`
 
 ### Utils
 
@@ -426,12 +453,8 @@ Specific
 - [zgrossbart/jdd](https://github.com/zgrossbart/jdd): A semantic JSON compare tool <http://www.jsondiff.com>
 - 🌟 [le0pard/re2js](https://github.com/le0pard/re2js): RE2JS is the JavaScript port of RE2, a regular expression engine that provides linear time matching <https://re2js.leopard.in.ua/>
 - [coder-hxl/x-crawl](https://github.com/coder-hxl/x-crawl): Flexible Node.js AI-assisted crawler library <https://coder-hxl.github.io/x-crawl/>
-- [isaacs/minimatch](https://github.com/isaacs/minimatch): a glob matcher in javascript
-- [isaacs/node-glob](https://github.com/isaacs/node-glob): glob functionality for node.js
 - [isaacs/st](https://github.com/isaacs/st): A node module for serving static files. Does etags, caching, etc.
   - "Does etags, caching, etc." How? Try to learn from `st`
-- 🌟 [thecodrr/fdir](https://github.com/thecodrr/fdir): ⚡ The fastest directory crawler & globbing library for NodeJS. Crawls 1m files in < 1s <https://thecodrr.github.io/fdir/>
-- [SuperchupuDev/tinyglobby](https://github.com/SuperchupuDev/tinyglobby): A fast and minimal alternative to globby and fast-glob <https://npmjs.com/package/tinyglobby>
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms): Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes): Convert bytes to a human readable string: 1337 → 1.34 kB
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation.
@@ -443,6 +466,8 @@ Specific
 - [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny): Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser. <https://mediabunny.dev/>
 - [rawify/MaxIntervalCover.js](https://github.com/rawify/MaxIntervalCover.js): The RAW MaxIntervalCover library computes the optimal subset of non-overlapping intervals that maximizes total covered length
 - [sindresorhus/on-change](https://github.com/sindresorhus/on-change): Watch an object or array for changes
+- 🌟 [101arrowz/fflate](https://github.com/101arrowz/fflate): High performance (de)compression in an 8kB package <https://101arrowz.github.io/fflate>
+- 🌟 [cometkim/unicode-segmenter](https://github.com/cometkim/unicode-segmenter): A lightweight implementation of the Unicode Text Segmentation (UAX #29)
 
 Deep equal
 

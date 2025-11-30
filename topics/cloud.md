@@ -556,3 +556,11 @@ Type 1 hypervisors
 - [apache/libcloud](https://github.com/apache/libcloud): Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API. <https://libcloud.apache.org>
 - [apache/openwhisk](https://github.com/apache/openwhisk): Apache OpenWhisk is an open source serverless cloud platform <https://openwhisk.apache.org/>
   - Scala project 🤔
+
+
+
+- [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter): A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step.
+
+The stargz-snapshotter implements a lazy image fetcher based on the eStargz custom image format, and the soci-snapshotter provides one based on the OCI specification for those who can’t or don’t want to convert images to a new format to support lazy distribution.
+
+

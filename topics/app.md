@@ -77,6 +77,7 @@
 - [nativewind/nativewind](https://github.com/nativewind/nativewind): React Native utility-first universal design system - powered by Tailwind CSS <https://nativewind.dev>
   - [Nativewind: Speeding up Styling in React Native](https://hashrocket.com/blog/posts/nativewind-speeding-up-styling-in-react-native): How Nativewind can speed up your React Native Development
 - [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools): Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, React Web, Next.js, Expo, and any platform where
+- [WrathChaos/react-native-bounceable](https://github.com/WrathChaos/react-native-bounceable): 🚀 Animate and bounce any component with RNBounceable for React Native <https://freakycoder.com>
 
 ### UI
 

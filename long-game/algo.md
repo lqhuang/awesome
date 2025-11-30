@@ -95,6 +95,8 @@
 - [microsoft/folx](https://github.com/microsoft/folx): Implementation of Forward Laplacian algorithm in JAX
 - [ExtensityAI/symbolicai](https://github.com/ExtensityAI/symbolicai): Compositional Differentiable Programming Library
 - [NVIDIA/physicsnemo](https://github.com/NVIDIA/physicsnemo): Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods <https://developer.nvidia.com/physicsnemo>
+- [peterparity/symder](https://github.com/peterparity/symder): SymDer: Symbolic Derivative Approach to Discovering Sparse Interpretable Dynamics from Partial Observations <https://doi.org/10.1038/s42005-022-00987-z>
+  - [vaibhawvipul/lorenz-attractor-simulation](https://github.com/vaibhawvipul/lorenz-attractor-simulation): A comprehensive implementation of the Lorenz system demonstrating chaos theory through interactive visualizations and animations with extensive customization options.
 
 ## Prob / Bayesian Inference
 

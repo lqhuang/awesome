@@ -116,6 +116,8 @@
 - [pytorch/tnt](https://github.com/pytorch/tnt): A lightweight library for PyTorch training tools and utilities <https://pytorch.org/tnt/>
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi): Everything you need to build state-of-the-art foundation models, end-to-end. <https://oumi.ai>
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor): Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+- [d0rc/egg.c](https://github.com/d0rc/egg.c): EGGROLL in C, integer-only training of a language model directly on the CPU
+  - [ESHyperscale/nano-egg](https://github.com/ESHyperscale/nano-egg): Evolution Pretraining Fully in Int Formats
 
 ### Optimization
 

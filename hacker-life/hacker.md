@@ -57,6 +57,7 @@
 - 🌟 [jj-vcs/jj](https://github.com/jj-vcs/jj): A Git-compatible VCS that is both simple and powerful <https://jj-vcs.github.io/jj/>
 - 🌟 [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats): ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository. <https://git-quick-stats.sh>
 - [codeberg:forgejo/forgejo](https://codeberg.org/forgejo/forgejo): forgejo - Beyond coding. We forge. <https://forgejo.org/>
+  - [codeberg:ForgeFed/ForgeFed](https://codeberg.org/ForgeFed/ForgeFed): ForgeFed - ActivityPub-based forge federation protocol <https://forgefed.org/>
 - [radicle:seed.radicle.xyz](https://app.radicle.xyz/nodes/seed.radicle.xyz): Explore the Radicle network
 - [自己动手写 Git](https://wyag-zh.hanyujie.xyz/): 从零开始写 Git（Write Yourself a Git，简称 wyag） 的中文翻译 | Chinese translation of Write Yourself a Git
 
@@ -112,7 +113,7 @@
 - [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm): Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. <https://sandstorm.io>
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel): A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi or any x86 system. <https://umbrel.com>
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates): 🚢 400+ 1-click Portainer app templates <https://portainer-templates.as93.net>
-- [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. <https://netboot.xyz>
+- 🌟 [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. <https://netboot.xyz>
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server): ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot) <https://cosmos-cloud.io>
 
 ### Cases / Setup
@@ -177,6 +178,7 @@
 - [google/dnsmasq_exporter](https://github.com/google/dnsmasq_exporter): dnsmasq exporter for Prometheus
 - [hatamiarash7/ipset-exporter](https://github.com/hatamiarash7/ipset-exporter): Export ipset data as Prometheus metric
 - 🌟 [alexjustesen/speedtest-tracker](https://github.com/alexjustesen/speedtest-tracker): Speedtest Tracker is a self-hosted application that monitors the performance and uptime of your internet connection. <https://speedtest-tracker.dev/>
+- [openspeedtest/Speed-Test](https://github.com/openspeedtest/Speed-Test): SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like XMLHttpRequest (XHR), HTML, CSS, JS, & SVG. No Third-Party frameworks or libraries are Required. Started in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013. <https://openspeedtest.com>
 - [carlosedp/cluster-monitoring](https://github.com/carlosedp/cluster-monitoring): Cluster monitoring stack for clusters based on Prometheus Operator
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse): A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
 - [AnalogJ/scrutiny](https://github.com/AnalogJ/scrutiny): Hard Drive S.M.A.R.T Monitoring, Historical Trends & Real World Failure Thresholds
@@ -206,7 +208,7 @@
 - [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely encrypted backups in the cloud!
 - [borgbackup/borg](https://github.com/borgbackup/borg): Deduplicating archiver with compression and authenticated encryption. <https://www.borgbackup.org>
 - [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program <https://restic.net>
-- [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization <https://forum.syncthing.net>
+- 🌟 [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization <https://forum.syncthing.net>
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync): 🔄 A simple tool to backup and sync your git repositories <https://github.com/AkashRajpurohit/git-sync/wiki>
 
 ## HomeKit / IoT
@@ -275,7 +277,8 @@
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm): Learning English through the method of constructing sentences with conjunctions <https://earthworm.cuixueshe.com>
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips): An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程。 <https://byoungd.github.io/English-level-up-tips/>
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny): a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + nextui + jotai + docker <https://wordsfunny.com>
-- [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead): A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 一款革命性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。https://fluent.thinkstu.com
+- [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator): A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) <https://github.com/fishjar/kiss-translator>
+- [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead): Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。 <https://fluent.thinkstu.com>
 - 🌟 [Refactoring English](https://refactoringenglish.com/): Effective writing for software developers
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file): Direct File <https://directfile.irs.gov>
 

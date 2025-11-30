@@ -186,3 +186,7 @@
 ## Terminal helpers (Ghosty / iTerm2 / etc.)
 
 - [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders): A repository containing many free shaders to use with ghostty (the terminal)
+
+
+
+

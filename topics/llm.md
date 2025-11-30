@@ -52,6 +52,7 @@
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui): A research prototype of a human-centered web agent <https://www.microsoft.com/en-us/research/blog/magentic-ui-an-experimental-human-centered-web-agent/>
 - [microsoft/poml](https://github.com/microsoft/poml): Prompt Orchestration Markup Language <https://microsoft.github.io/poml/>
 - [microsoft/amplifier](https://github.com/microsoft/amplifier): Amplifier: Metacognitive AI Development
+- [microsoft/fara](https://github.com/microsoft/fara): Fara-7B: An Efficient Agentic Model for Computer Use
 
 ### App Builder
 
@@ -242,3 +243,6 @@
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe): Turn expensive prompts into cheap fine-tuned models <https://openpipe.ai>
 - [charmbracelet/crush](https://github.com/charmbracelet/crush): The glamourous AI coding agent for your favourite terminal 💘
 - [wshobson/agents](https://github.com/wshobson/agents): A collection of production-ready subagents for Claude Code <https://sethhobson.com>
+
+- [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps): An awesome & curated list of best LLMOps tools for developers
+- [LMCache/LMCache](https://github.com/LMCache/LMCache): Supercharge Your LLM with the Fastest KV Cache Layer <https://lmcache.ai/>

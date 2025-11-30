@@ -23,6 +23,8 @@
 - 🌟 [openpubkey/opkssh](https://github.com/openpubkey/opkssh): opkssh (OpenPubkey SSH) <https://eprint.iacr.org/2023/296>
 - [CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD): BloodyAD is an Active Directory Privilege Escalation Framework
 - [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
+- [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure. <https://goteleport.com>
+- 🌟 [warp-tech/warpgate](https://github.com/warp-tech/warpgate): Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software <https://warpgate.null.page>
 
 ## Worksuites
 
@@ -84,6 +86,7 @@
 - [Driver.ai](https://www.driver.ai/): Decode technology, instantly. Create high-quality tech docs and onboard twice as fast.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): A community-supported supercharged version of paperless: scan, index and archive all your physical documents <https://docs.paperless-ngx.com>
 - [eikek/docspell](https://github.com/eikek/docspell): Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort. <https://docspell.org>
+- 🌟 [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate): Web based localization tool with tight version control integration. <https://weblate.org/>
 
 ### DevOps
 
@@ -156,8 +159,8 @@
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel): 现代化、开源的 Linux 服务器运维管理面板。 <https://1panel.cn/>
 - [Better Stack](https://betterstack.com/): Reliability is the ultimate feature.
 - [Oh Dear](https://ohdear.app/): the all-in-one monitoring tool for your entire website
-- [TwiN/gatus](https://github.com/TwiN/gatus): ⛑ Automated developer-oriented status page <https://gatus.io>
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks): A cron monitoring tool written in Python & Django <https://healthchecks.io>
+- 🌟 [TwiN/gatus](https://github.com/TwiN/gatus): ⛑ Automated developer-oriented status page <https://gatus.io>
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks): Open-source cron job and background task monitoring service, written in Python & Django <https://healthchecks.io>
 - [Crisp Status](https://crisp.chat/en/status): A public status page to alert users when something goes wrong.
 - [keephq/keep](https://github.com/keephq/keep): Open source alerts management platform <https://www.keephq.dev>
 - 🌟 [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus): The open-source status page <https://openstatus.dev>
@@ -165,7 +168,6 @@
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit): Cockpit is a web-based graphical interface for servers. <http://www.cockpit-project.org/>
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime): OneUptime is the complete open-source observability platform. <https://oneuptime.com>
 - 🌟 [Hydrozen.io](https://hydrozen.io/): Monitor availability of your websites, Cronjobs, APIs, Domains, SSL etc.
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks): Open-source cron job and background task monitoring service, written in Python & Django <https://healthchecks.io>
 - [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime): BlueWave Uptime is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful visualizations. Get powerful insights and proactive alerts to keep your services running smoothly. <https://uptime-demo.bluewavelabs.ca/>
 - [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate): Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. <https://checkmate-demo.bluewavelabs.ca/>
 - [bluewave-labs/capture](https://github.com/bluewave-labs/capture): An open source hardware monitoring agent for Checkmate <https://pkg.go.dev/github.com/bluewave-labs/capture>
@@ -248,7 +250,7 @@ Visual stack
 
 ## Incident
 
-- PagerDuty
+- [PagerDuty](https://www.pagerduty.com/): Transform critical operations with PagerDuty's AI first Operations Platform.
 - [StrangeBee](https://strangebee.com/): Empowering incident responders worldwide One Case Management Platform for all SOCs, CERTs & CSIRTs
 - [certsocietegenerale/FIR](https://github.com/certsocietegenerale/FIR): Fast Incident Response
 
@@ -264,7 +266,6 @@ Visual stack
 - [wazuh/wazuh](https://github.com/wazuh/wazuh): Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads. <https://wazuh.com/>
   - [wazuh/wazuh-ansible](https://github.com/wazuh/wazuh-ansible): Wazuh - Ansible playbook <https://wazuh.com>
 - [bunkerity/bunkerweb](https://github.com/bunkerity/bunkerweb): 🛡️ Open-source and next-generation Web Application Firewall (WAF) <https://www.bunkerweb.io>
-- 🌟 [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure. <https://goteleport.com>
 - [Black Duck](https://www.blackduck.com/): Build high-quality, secure software with application security testing tools and services from Black Duck. We are a Gartner Magic Quadrant Leader in AppSec.
 - [greenbone/docs](https://github.com/greenbone/docs): Documentation for the Greenbone Community Edition <https://greenbone.github.io/docs/>
 - [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex): Cortex: a Powerful Observable Analysis and Active Response Engine <https://strangebee.com/cortex/>

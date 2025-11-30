@@ -35,6 +35,7 @@
 - [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch): 🔍 Search anyone's digital footprint across 300+ websites
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark): Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！ <https://blindwatermark.github.io/blind_watermark/#/en/>
 - [freedomofpress/webcat](https://github.com/freedomofpress/webcat): WEBCAT is an architectural framework for providing blocking code signing and verification, integrity and transparency checks for browser-based applications.
+- [Twitter / X Accounts Based in China · Chinese Propaganda Accounts](https://basedinchina.com/?page=2): Twitter / X accounts that list China as location despite the Great Firewall, sorted by engagement (Followers + Tweets + Likes).
 
 ### Checker
 

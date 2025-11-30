@@ -98,6 +98,9 @@
 - [kristoff-it/zine](https://github.com/kristoff-it/zine): Fast, Scalable, Flexible Static Site Generator (SSG) <https://zine-ssg.io>
 - [kristoff-it/ziggy](https://github.com/kristoff-it/ziggy): A data serialization language for expressing clear API messages, config files, etc. <https://ziggy-lang.io>
 - [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml): HTML Language Server & Templating Language Library
+- [GhostKellz/zquic](https://github.com/GhostKellz/zquic): zquic is a lightweight, high-performance QUIC (HTTP/3 transport layer) implementation written in pure Zig.
+- [ianic/tls.zig](https://github.com/ianic/tls.zig): TLS 1.3/1.2 client and TLS 1.3 server in Zig
+- [Zig Bits 0x4: Building an HTTP client/server from scratch - Orhun's Blog](https://blog.orhun.dev/zig-bits-04/): FOSS • Linux • Programming
 
 ## Misc
 

@@ -71,6 +71,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [upstash/jstack](https://github.com/upstash/jstack): Build seriously fast, lightweight and end-to-end typesafe Next.js apps <https://jstack.app/>
 - [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare): 🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready with automated CI/CD and generous free tiers. <https://deepwiki.com/ifindev/fullstack-next-cloudflare>
 - [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster): A highly performant e-commerce template using Next.js <https://next-faster.vercel.app>
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter): Admin Dashboard Starter Template with Next.js 16 and Shadcn UI <https://dub.sh/shadcn-dashboard>
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin): Admin Dashboard UI built with Shadcn and Vite. <https://shadcn-admin.netlify.app/>
+- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard): Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 <https://next-shadcn-admin-dashboard.vercel.app>
 
 ## Framework
 
@@ -296,6 +299,7 @@ Shadcn UI eco system
 - [shadcn/ui registry — UI.pub](https://uipub.com/): Premium shadcn/ui components registry. UI Kits, Blocks, Templates.
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components): A collection of neobrutalism-styled Tailwind components. <https://neobrutalism.dev>
 - [FranciscoMoretti/shadcn-lazy-tooltip](https://github.com/FranciscoMoretti/shadcn-lazy-tooltip): 8x faster Shadcn Tooltip by lazy loading
+- [ephraimduncan/blocks](https://github.com/ephraimduncan/blocks): An open-source library of UI blocks. Built with React, Tailwind and shadcn/ui <https://blocks.so>
 
 #### Base-ui eco system
 
@@ -435,6 +439,7 @@ Media player
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer): A HTML5 video player with a parser that saves traffic <https://h5player.bytedance.com/>
 - https://player.style/
 - 🌟 [cookpete/react-player](https://github.com/cookpete/react-player): A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion <https://cookpete.github.io/react-player>
+- [ibrahimcesar/react-lite-youtube-embed](https://github.com/ibrahimcesar/react-lite-youtube-embed): 📺 < A private by default, faster and cleaner YouTube embed component for React applications /> <https://ibrahimcesar.github.io/react-lite-youtube-embed/>
 
 Spinners
 
@@ -484,6 +489,7 @@ Misc
 - 🌟 [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom): 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016) <https://rpearce.github.io/react-medium-image-zoom/>
 - [bryntum/chronograph](https://github.com/bryntum/chronograph): A reactive state management system with novel and unique properties <https://bryntum.github.io/chronograph/docs/>
 - [wigggle-ui/ui](https://github.com/wigggle-ui/ui): A beautiful collection of copy-and-paste widgets for your next project. <https://wigggle-ui.vercel.app>
+- [roerohan/react-vnc](https://github.com/roerohan/react-vnc): A React Component to connect to a websockified VNC server using noVNC. <https://npmjs.com/package/react-vnc>
 
 #### Just render json in better way
 
@@ -512,6 +518,7 @@ Misc
 - 🌟 [github/relative-time-element](https://github.com/github/relative-time-element): Web component extensions to the standard <time> element. <https://github.github.io/relative-time-element/examples/>
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono): 🕑 Modern Timeline Component for React <https://react-chrono.prabhumurthy.com/>
 - [nucleuscloud/neocron](https://github.com/nucleuscloud/neocron): A modern, lightweight cron scheduling react component styled using tailwind css
+- [nhn/tui.calendar](https://github.com/nhn/tui.calendar): 🍞📅A JavaScript calendar that has everything you need. <http://ui.toast.com/tui-calendar>
 
 #### Markdown
 
