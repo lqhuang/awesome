@@ -278,6 +278,7 @@ Visual stack
 - [rohitcoder/hawk-eye](https://github.com/rohitcoder/hawk-eye): A powerful scanner to scan your Filesystem, S3, MySQL, Redis, Google Cloud Storage and Firebase storage for PII and sensitive data.
 - [intigriti/misconfig-mapper](https://github.com/intigriti/misconfig-mapper): Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets! <https://bugology.intigriti.io/misconfig-mapper-docs>
 - 🌟 [bitorscanner/Bitor](https://github.com/bitorscanner/Bitor): Bitor Scanning Software <https://bitor.dev>
+- [D00Movenok/BounceBack](https://github.com/D00Movenok/BounceBack): ↕️🤫 Stealth redirector for your red team operation security
 
 ## Career
 

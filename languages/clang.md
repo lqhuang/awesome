@@ -283,6 +283,7 @@ And modern is here now.
 - [nemtrif/utfcpp](https://github.com/nemtrif/utfcpp): UTF-8 with C++ in a Portable Way
 - [EmberEmu/Hexi](https://github.com/EmberEmu/Hexi): Header-only, lightweight C++ library for binary streaming. Network data handling made easy peasy!
 - [snowballstem/snowball](https://github.com/snowballstem/snowball): Snowball compiler and stemming algorithms <https://snowballstem.org/>
+- [vitaut/schubfach](https://github.com/vitaut/schubfach): A C++ implementation of the Schubfach algorithm - fast and accurate conversion of IEEE-754 double values to decimal strings
 
 ## Parser
 

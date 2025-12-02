@@ -87,6 +87,7 @@
 - [OWASP/Nettacker](https://github.com/OWASP/Nettacker): Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management <https://owasp.org/nettacker>
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain): Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them among connected sibling servers (Villain instances running on different machines).
 - 🌟 [frankovo/dns-benchmark-tool](https://github.com/frankovo/dns-benchmark-tool): Fast, comprehensive DNS performance testing with DNSSEC validation, DoH/DoT support, and enterprise features <https://www.buildtools.net/>
+- [ycd/dstp](https://github.com/ycd/dstp): 🧪 Run common networking tests against any site.
 
 ### Analysis
 
@@ -134,7 +135,7 @@
 - [daeuniverse/dae](https://github.com/daeuniverse/dae): A Linux high-performance transparent proxy solution based on eBPF.
 - [salarcode/SmartProxy](https://github.com/salarcode/SmartProxy): Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns. <https://addons.mozilla.org/en-US/firefox/addon/smartproxy/>
 - [sigoden/proxyfor](https://github.com/sigoden/proxyfor): A lightweight proxy for capturing HTTP(S) and WS(S) traffic.
-- [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks): tun2socks - powered by gVisor TCP/IP stack <https://github.com/xjasonlyu/tun2socks/wiki>
+- 🌟 [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks): tun2socks - powered by gVisor TCP/IP stack <https://github.com/xjasonlyu/tun2socks/wiki>
 - [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel): Tun2Socks (Linux/Android/BSD/macOS/iOS/Windows) (IPv4/IPv6/TCP/UDP)
 - [doxx/darkflare](https://github.com/doxx/darkflare): DarkFlare Firewall Piercing (TCP over CDN)
 

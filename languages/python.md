@@ -599,6 +599,7 @@ Misc
 - [xmlsec/python-xmlsec](https://github.com/xmlsec/python-xmlsec): Python bindings for the XML Security Library.
 - [keleshev/schema](https://github.com/keleshev/schema): Schema validation just got Pythonic
 - [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic): Entity relationship diagrams for Python data model classes like Pydantic <https://erdantic.drivendata.org/>
+- 🌟 [trailofbits/fickling](https://github.com/trailofbits/fickling): A Python pickling decompiler and static analyzer
 
 ### Logging
 
@@ -825,7 +826,4 @@ pdf
 - [rio-labs/rio](https://github.com/rio-labs/rio): WebApps in pure Python. No JavaScript, HTML and CSS needed <https://rio.dev>
 - [Knio/dominate](https://github.com/Knio/dominate): Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API. It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn another template language, and to take advantage of the more powerful features of Python.
 
-
-
 - [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica): A modern computer algebra library for Python and Rust. <https://symbolica.io>
-

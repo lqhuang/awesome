@@ -53,6 +53,7 @@
 - [microsoft/poml](https://github.com/microsoft/poml): Prompt Orchestration Markup Language <https://microsoft.github.io/poml/>
 - [microsoft/amplifier](https://github.com/microsoft/amplifier): Amplifier: Metacognitive AI Development
 - [microsoft/fara](https://github.com/microsoft/fara): Fara-7B: An Efficient Agentic Model for Computer Use
+- 🌟 [microsoft/presidio](https://github.com/microsoft/presidio): An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines. <https://microsoft.github.io/presidio>
 
 ### App Builder
 

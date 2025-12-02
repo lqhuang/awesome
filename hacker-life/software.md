@@ -297,6 +297,7 @@ SSH
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool): 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database. <https://workout.cool>
 - [iceshrimp.dev:iceshrimp/iceshrimp](https://iceshrimp.dev/iceshrimp/iceshrimp): iceshrimp - YAMF (Yet another Misskey fork) bringing you no-nonsense fixes, features & improvements you actually want since 2023 <https://iceshrimp.dev/>
 - 🌟 [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST <https://ntfy.sh>
+- [gotify/server](https://github.com/gotify/server): A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) <https://gotify.net>
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash): A self hosted dashboard and organizer for Excalidraw with live collaboration.
 
 ### PDF / File tools

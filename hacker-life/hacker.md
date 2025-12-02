@@ -60,6 +60,7 @@
   - [codeberg:ForgeFed/ForgeFed](https://codeberg.org/ForgeFed/ForgeFed): ForgeFed - ActivityPub-based forge federation protocol <https://forgefed.org/>
 - [radicle:seed.radicle.xyz](https://app.radicle.xyz/nodes/seed.radicle.xyz): Explore the Radicle network
 - [自己动手写 Git](https://wyag-zh.hanyujie.xyz/): 从零开始写 Git（Write Yourself a Git，简称 wyag） 的中文翻译 | Chinese translation of Write Yourself a Git
+- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue): A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 
 ### Code as Graph
 
@@ -200,6 +201,7 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer): A very simple static homepage for your server. <https://homer-demo.netlify.app/>
 - [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
 - [hywax/mafl](https://github.com/hywax/mafl): Minimalistic flexible homepage <https://mafl.hywax.space>
+- [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core): A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
 
 ### Backup
 

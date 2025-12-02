@@ -806,6 +806,8 @@ Concrete animations
 - [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl): React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React. <https://react-unity-webgl.dev>
 - [StateLayer](https://statelayer.com/): A declarative 3D component framework!
 - [pmndrs/triplex](https://github.com/pmndrs/triplex): The open source visual workspace for React / Three Fiber. Build the 2D and 3D web. <https://triplex.dev>
+- [The Book of Shaders](https://thebookofshaders.com/): Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+  - Cool! And it has a lot of multi-lang translations
 
 ### Engine
 

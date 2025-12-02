@@ -263,6 +263,7 @@ Type 1 hypervisors
   - [nginx/nginx-acme](https://github.com/nginx/nginx-acme): An NGINX module with the implementation of the automatic certificate management (ACMEv2) protocol <https://nginx.org>
     - [NGINX Introduces Native Support for ACME Protocol  – NGINX Community Blog](https://blog.nginx.org/blog/native-support-for-acme-protocol): no description found
   - [google/ngx_brotli](https://github.com/google/ngx_brotli): NGINX module for Brotli compression
+  - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui): Yet another WebUI for Nginx <https://nginxui.com>
 - [facebookincubator/katran](https://github.com/facebookincubator/katran): A high performance layer 4 load balancer
 - [projectcontour/contour](https://github.com/projectcontour/contour): Contour is a Kubernetes ingress controller using Envoy proxy. <https://projectcontour.io>
 - [megaease/easegress](https://github.com/megaease/easegress): A Cloud Native traffic orchestration system <https://megaease.com/easegress/>

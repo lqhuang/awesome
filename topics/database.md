@@ -315,6 +315,7 @@ Misc
 - [Wisser/Jailer](https://github.com/Wisser/Jailer): Database Subsetting and Relational Data Browsing Tool. <https://wisser.github.io/Jailer>
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb): Free, simple, and intuitive online database design tool and SQL generator. <https://drawdb.vercel.app>
 - [chartdb/chartdb](https://github.com/chartdb/chartdb): Free and open-source database diagrams editor, visualize and design your DB with a single query. <https://chartdb.io>
+- [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy): Entity Relation Diagrams generation tool
 
 ## GUI / TUI
 
