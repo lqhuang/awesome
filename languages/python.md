@@ -341,6 +341,7 @@ Misc
 - [kylebarron/arro3](https://github.com/kylebarron/arro3): A minimal Python library for Apache Arrow, connecting to the Rust arrow crate <https://kylebarron.dev/arro3/core>
 - [bgunebakan/puhu](https://github.com/bgunebakan/puhu): A modern, high-performance image processing library for Python, powered by Rust.
 - [MAIF/shapash](https://github.com/MAIF/shapash): 🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models <https://maif.github.io/shapash/>
+- 🌟 [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica): A modern computer algebra library for Python and Rust. <https://symbolica.io>
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -446,6 +447,7 @@ Misc
 - [abersheeran/asgi-ratelimit](https://github.com/abersheeran/asgi-ratelimit): A ASGI Middleware to rate limit
 - [aio-libs/yarl](https://github.com/aio-libs/yarl): Yet another URL library <https://yarl.readthedocs.io>
 - [python-babel/babel](https://github.com/python-babel/babel): The official repository for Babel, the Python Internationalization Library <http://babel.pocoo.org/>
+- [efe/yesglot](https://github.com/efe/yesglot): LLM-powered Django translations ✨ Just call me "python manage.py translatemessages" <https://pypi.org/project/yesglot/>
 
 ### DB clients and SQL utils
 
@@ -825,5 +827,3 @@ pdf
 - [TexteaInc/funix](https://github.com/TexteaInc/funix): Building web apps without manually creating widgets <http://funix.io>
 - [rio-labs/rio](https://github.com/rio-labs/rio): WebApps in pure Python. No JavaScript, HTML and CSS needed <https://rio.dev>
 - [Knio/dominate](https://github.com/Knio/dominate): Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API. It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn another template language, and to take advantage of the more powerful features of Python.
-
-- [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica): A modern computer algebra library for Python and Rust. <https://symbolica.io>

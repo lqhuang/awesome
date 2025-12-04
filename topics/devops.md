@@ -343,6 +343,9 @@ Libs
 - [repository-service-tuf/repository-service-tuf](https://github.com/repository-service-tuf/repository-service-tuf): Umbrella Repository Service for TUF
 - [GurkhaShieldForce/VulnRisk_Public](https://github.com/GurkhaShieldForce/VulnRisk_Public): VulnRisk - Open Source Vulnerability Risk Assessment Platform <https://vulnrisk.animogovcon.com/>
 - [AppOmni-Labs/heisenberg-ssc-health-check](https://github.com/AppOmni-Labs/heisenberg-ssc-health-check): Analyzes software dependencies across GitHub repositories to identify security vulnerabilities and health risks in your supply chain.
+- 🌟 [sigstore/cosign](https://github.com/sigstore/cosign): Code signing and transparency for containers and binaries
+- [sigstore/rekor](https://github.com/sigstore/rekor): Software Supply Chain Transparency Log <https://sigstore.dev>
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa): Supply-chain Levels for Software Artifacts <https://slsa.dev>
 
 ## Testing
 

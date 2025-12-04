@@ -74,8 +74,6 @@
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
 - 🌟 [bensadeh/tailspin](https://github.com/bensadeh/tailspin): 🌀 A log file highlighter
 - [Xfennec/progress](https://github.com/Xfennec/progress): Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
-- 🌟 [francoismichel/ssh3](https://github.com/francoismichel/ssh3): SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 <https://arxiv.org/abs/2312.08396>
-- [mobile-shell/mosh](https://github.com/mobile-shell/mosh): Mobile Shell <https://mosh.org>
 - [timvw/qv](https://github.com/timvw/qv): Quickly view your data
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions): Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go): Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
@@ -89,6 +87,14 @@
 - [jfernandez/mdserve](https://github.com/jfernandez/mdserve): Fast markdown preview server with live reload and theme support.
 - [joknarf/pgtree](https://github.com/joknarf/pgtree): Unix process hierachy tree for specific processes (mixed pgrep + pstree) <https://joknarf.github.io/joknarf-tools>
 - [orhun/systeroid](https://github.com/orhun/systeroid): A more powerful alternative to sysctl(8) with a terminal user interface 🐧 <https://systeroid.cli.rs>
+
+### SSH
+
+- 🌟 [francoismichel/ssh3](https://github.com/francoismichel/ssh3): SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/abs/2312.08396 <https://arxiv.org/abs/2312.08396>
+- [mobile-shell/mosh](https://github.com/mobile-shell/mosh): Mobile Shell <https://mosh.org>
+- [martanne/abduco](https://github.com/martanne/abduco): abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. Together with dvtm it provides a simpler and cleaner alternative to tmux or screen.
+- [shell-pool/shpool](https://github.com/shell-pool/shpool): Think tmux, then aim... lower
+- [neurosnap/zmx](https://github.com/neurosnap/zmx): Session persistence for terminal processes
 
 ### Texting
 
@@ -186,7 +192,3 @@
 ## Terminal helpers (Ghosty / iTerm2 / etc.)
 
 - [hackr-sh/ghostty-shaders](https://github.com/hackr-sh/ghostty-shaders): A repository containing many free shaders to use with ghostty (the terminal)
-
-
-
-

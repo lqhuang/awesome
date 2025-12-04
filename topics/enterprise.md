@@ -299,6 +299,7 @@ Visual stack
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook): 💯 Curated coding interview preparation materials for busy software engineers <https://www.techinterviewhandbook.org>
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 <https://postiz.com>
 - [shared-recruiting-co/shared-recruiting-co](https://github.com/shared-recruiting-co/shared-recruiting-co): SRC (Shared Recruiting Co.) is an open-source, candidate-centric recruiting platform <https://sharedrecruiting.co>
+- [moabukar/tech-vault](https://github.com/moabukar/tech-vault): A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/) <https://tech-vault-web.vercel.app/>
 
 ### Open Source & Community
 

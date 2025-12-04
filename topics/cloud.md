@@ -120,6 +120,8 @@
 - [shadow-maint/shadow](https://github.com/shadow-maint/shadow): Upstream shadow tree
 - 🌟 [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell
 - 🌟 [goodwithtech/dockle](https://github.com/goodwithtech/dockle): Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start <https://containers.goodwith.tech/>
+- [google/go-containerregistry](https://github.com/google/go-containerregistry): Go library and CLIs for working with container registries
+  - Provide: `crane`, `gcrane`, `krane`, etc.
 
 #### Filesystem
 
@@ -545,6 +547,7 @@ Type 1 hypervisors
 - 🌟 [Checkmarx/kics](https://github.com/Checkmarx/kics): Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. <https://kics.io>
 - [kubescape/kubescape](https://github.com/kubescape/kubescape): Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. <https://kubescape.io>
 - [OperantAI/woodpecker](https://github.com/OperantAI/woodpecker): Red Teaming for AI and Cloud <https://operant.ai>
+- [buildsec/frsca](https://github.com/buildsec/frsca): Factory for Repeatable Secure Creation of Artifacts (aka FRSCA pronounced Fresca) aims to help secure the supply chain by securing build pipelines. <https://buildsec.github.io/frsca>
 
 ## Utils
 
@@ -557,11 +560,5 @@ Type 1 hypervisors
 - [apache/libcloud](https://github.com/apache/libcloud): Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API. <https://libcloud.apache.org>
 - [apache/openwhisk](https://github.com/apache/openwhisk): Apache OpenWhisk is an open source serverless cloud platform <https://openwhisk.apache.org/>
   - Scala project 🤔
-
-
-
 - [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter): A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step.
-
-The stargz-snapshotter implements a lazy image fetcher based on the eStargz custom image format, and the soci-snapshotter provides one based on the OCI specification for those who can’t or don’t want to convert images to a new format to support lazy distribution.
-
-
+  - The stargz-snapshotter implements a lazy image fetcher based on the eStargz custom image format, and the soci-snapshotter provides one based on the OCI specification for those who can’t or don’t want to convert images to a new format to support lazy distribution.

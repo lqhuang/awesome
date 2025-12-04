@@ -240,6 +240,9 @@ Do a benchmark (for final size while using Scala Native)?
 - [spamegg1/modern-systems-scala-native](https://github.com/spamegg1/modern-systems-scala-native): Working through "Modern Systems Programming with Scala Native" by Richard Whaling, in Scala 3 <https://pragprog.com/titles/rwscala/modern-systems-programming-with-scala-native/>
 - [keynmol/scala-native-interop-livecoding-lsug](https://github.com/keynmol/scala-native-interop-livecoding-lsug): Live coding session demonstrating approaches to interop with C, C++, Assembly from Scala 3 Native
 - [openjdk/jextract](https://github.com/openjdk/jextract): https://openjdk.org/projects/code-tools
+- [indoorvivants/sn-bindgen](https://github.com/indoorvivants/sn-bindgen): Scala 3 native binding generator + libclang facade <https://sn-bindgen.indoorvivants.com>
+  - [indoorvivants/sn-bindgen-examples](https://github.com/indoorvivants/sn-bindgen-examples): Examples of using Scala 3 Native to interop with various C libraries using sn-bindgen
+  - [indoorvivants/sn-bindgen-web](https://github.com/indoorvivants/sn-bindgen-web): Web interface to sn-bindgen (https://sn-bindgen.indoorvivants.com/) to generate Scala 3 Native bindings to C header files <https://sn-bindgen-web.indoorvivants.com/>
 
 ### Scala.js
 
@@ -308,6 +311,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [scala-ts/scala-ts](https://github.com/scala-ts/scala-ts): 🔧 Scala datamodel transpiler <https://scala-ts.github.io/scala-ts>
 - [bishabosha/ops-mirror](https://github.com/bishabosha/ops-mirror): Type class derivation for services, not data
 - [typelevel/literally](https://github.com/typelevel/literally): Compile time validation of literal values built from strings
+- [rssh/scala-appcontext](https://github.com/rssh/scala-appcontext): Minimalistic type-driven dependency-injection library
 
 ### Formal verification
 

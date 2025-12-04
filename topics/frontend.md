@@ -475,6 +475,7 @@ Misc
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu): 🍔 An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations <http://negomi.github.io/react-burger-menu/>
 - [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build and send emails using React <https://react.email>
   - [inboundemail/react-email-templates](https://github.com/inboundemail/react-email-templates): High quality, reusable email templates build on react-email. <https://react-email-templates-eight.vercel.app>
+  - [arikchakma/maily.to](https://github.com/arikchakma/maily.to): Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. <https://maily.to>
 - [wipeautcrafter/jsfontpicker](https://github.com/wipeautcrafter/jsfontpicker): An open source, free (as in beer), versatile, flexible and lightweight Javascript Font Picker Component for System fonts, Google fonts and custom (woff/ttf) fonts. Features dynamic font loading, favourites, keyboard navigation, fuzzy search, advanced metrics filters, property sorting and much more. Available in multiple languages. <https://jsfontpicker.com/>
 - [talyssonoc/react-katex](https://github.com/talyssonoc/react-katex): Display math in TeX with KaTeX and ReactJS
   - great but no longer maintained
@@ -576,6 +577,7 @@ Syntax hightlight
 - [shantinghou/interactive-illustrations](https://github.com/shantinghou/interactive-illustrations): <https://svggles.vercel.app/>
 - [juliangarnier/anime](https://github.com/juliangarnier/anime): JavaScript animation engine <https://animejs.com>
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery): A customizable, modular, responsive, lightbox gallery plugin. <https://www.lightgalleryjs.com/>
+- [All SVG Icons](https://allsvgicons.com/): Free and Open Source SVG Vector Icons
 
 Concrete animations
 
@@ -834,3 +836,5 @@ Concrete animations
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser): Lightpanda: the headless browser designed for AI and automation <https://lightpanda.io>
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
+
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis): Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. <https://mitosis.builder.io>

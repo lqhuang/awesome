@@ -39,6 +39,7 @@
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis): A free, secure and open source app for Android to manage your 2-step verification tokens. <https://getaegis.app>
 - [TibixDev/winboat](https://github.com/TibixDev/winboat): Run Windows apps on 🐧 Linux with ✨ seamless integration <https://www.winboat.app/>
   - Interesting, I also thought about this idea before, RDP is a missing piece in Windows ecosystem
+- [the-ora/browser](https://github.com/the-ora/browser): Less noise, more browsing. <https://orabrowser.com/>
 
 ### Reader
 
@@ -307,6 +308,7 @@ SSH
 - [alam00000/bentopdf](https://github.com/alam00000/bentopdf): A Privacy First PDF Toolkit <https://bentopdf.com/>
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools): Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! <https://omnitools.app>
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools): Collection of handy online tools for developers, with great UX. <https://it-tools.tech>
+- [mfts/papermark](https://github.com/mfts/papermark): Papermark is the open-source DocSend alternative with built-in analytics and custom domains. <https://papermark.io>
 
 ### Media
 
@@ -328,6 +330,7 @@ SSH
 - [Tribler/tribler](https://github.com/Tribler/tribler): Privacy enhanced BitTorrent client with P2P content discovery <https://www.tribler.org>
 - [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr): Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
+- [Afilmory/afilmory](https://github.com/Afilmory/afilmory): Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. <https://afilmory.art/>
 
 ### Reader / RSS / Bookmarks
 
@@ -357,6 +360,8 @@ SSH
   - not maintained anymore, but the public services are still running. LoL
 - [gitlab:LazyLibrarian/LazyLibrarian](https://gitlab.com/LazyLibrarian/LazyLibrarian): LazyLibrarian is a SickBeard, CouchPotato, Headphones-like application for ebooks, audiobooks and magazines
 - [booklore-app/booklore](https://github.com/booklore-app/booklore): BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics. <https://demo.booklore.dev>
+- [LeslieLeung/glean](https://github.com/LeslieLeung/glean): A self-hosted RSS reader and personal knowledge management tool.
+- 🌟 [zelestcarlyone/stacks](https://github.com/zelestcarlyone/stacks): Lightweight download manager for Anna's Archive with fast downloads, web UI, and API support.
 
 ### Cloud Disk
 

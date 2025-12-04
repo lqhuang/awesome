@@ -5,17 +5,15 @@
 - [Doodle Board](https://www.doodleboard.pro/): An all-in-one whiteboard with built-in doodle styles to help you easily organize, and present your ideas.
 - [Tally](https://tally.so/): The simplest way to create forms highlight
 - [Glasp](https://glasp.co/): Collect and Share Your Favorite Words. Highlight & save notes on any web page ✍️
-- [ppresume](https://ppresume.com/): A LaTeX Based Resume Builder. that helps people create beautifully typed resumes in minutes
 - 🌟 [GetDeploying](https://getdeploying.com/): Find and compare cloud providers for your next project.
 - [hi.new](https://hey.new/): Prevent spam.
 - [苹果 M 系列处理器参数大全](http://kylebing.cn/tools/apple-chip/)
 - 🌟 [Copy Book](https://copybook.me/): Copy book is a collection of commonly used texts. So whenever you need a copy for a design or if you ever get stuck in the middle of development, you can use copy book.
+- [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator): Generate a customized Privacy Policy and Terms of Use document for your mobile apps <https://app-privacy-policy-generator.nisrulz.com/>
 - [polarsource/polar](https://github.com/polarsource/polar): An open source Merchant of Record. Sell SaaS and digital products in minutes. <https://polar.sh>
   - why not stripe?
 - [Ok! So... Draw online](https://okso.app/): The drawing app to express, grasp, and organize your thoughts and ideas
-- [mfts/papermark](https://github.com/mfts/papermark): Papermark is the open-source DocSend alternative with built-in analytics and custom domains. <https://papermark.io>
 - 🌟 [t3dotgg/stripe-recommendations](https://github.com/t3dotgg/stripe-recommendations): I've built with Stripe for years. This is how I do it without going mad.
-- [arikchakma/maily.to](https://github.com/arikchakma/maily.to): Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. <https://maily.to>
 - [public.me](https://public.me/blog): blog and share updates with everyone. **using imessage**.
 - [Are.na](https://www.are.na/)
   - Awesome!
@@ -37,8 +35,4 @@
 - [tanrax/org-social](https://github.com/tanrax/org-social): Org Social is a decentralized social network that runs on an Org Mode file over HTTP.
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/): Treat yourself to an awesome web address, a devastatingly gorgeous profile page, a stellar email address, and tons more
 - [odoo/odoo](https://github.com/odoo/odoo): Odoo. Open Source Apps To Grow Your Business. <https://www.odoo.com>
-
-
-
 - [Deep-ai-inc/ch.at](https://github.com/Deep-ai-inc/ch.at): Universal Basic Chat
-
