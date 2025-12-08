@@ -44,6 +44,7 @@
 - [llvm/llvm-project](https://github.com/llvm/llvm-project): The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. <http://llvm.org>
 - 🌟 [vnmakarov/mir](https://github.com/vnmakarov/mir): A lightweight JIT compiler based on MIR (Medium Internal Representation) and C11 JIT compiler and interpreter based on MIR
 - 🌟 [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj): A Compiler Writing Journey
+- [backengineering/llvm-msvc](https://github.com/backengineering/llvm-msvc): LLVM fork with explicit compatibility with MSVC 2022 features.
 
 ## Toolchains
 

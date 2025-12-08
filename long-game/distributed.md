@@ -36,7 +36,7 @@
 
 ### Books
 
-- [ept/ddia-references](https://github.com/ept/ddia-references): Literature references for “Designing Data-Intensive Applications”
+- [ept/ddia-references](https://github.com/ept/ddia-references): Literature references for "Designing Data-Intensive Applications"
   - [DistSysCorp/ddia](https://github.com/DistSysCorp/ddia): DDIA 逐章精读 <https://ddia.qtmuniao.com>
 - [Distributed Systems](https://www.distributed-systems.net/): M. van Steen and A.S. Tanenbaum, Distributed Systems, 4th ed., distributed-systems.net, 2023.
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book):This is a book about the programming constructs we use to build distributed systems. <http://dist-prog-book.com/chapter/2/futures.html>

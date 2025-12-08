@@ -231,6 +231,7 @@ Misc
 - 🌟 [PostgREST/postgrest](https://github.com/PostgREST/postgrest): REST API for any Postgres database <https://postgrest.org>
 - [plv8/pljs](https://github.com/plv8/pljs): PLJS - Javascript Language Plugin for PostgreSQL
 - [darold/pgFormatter](https://github.com/darold/pgFormatter): A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at http://sqlformat.darold.net/
+- [graphile/crystal](https://github.com/graphile/crystal): 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more! <https://graphile.org/>
 
 ### SQLite
 
@@ -316,6 +317,7 @@ Misc
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb): Free, simple, and intuitive online database design tool and SQL generator. <https://drawdb.vercel.app>
 - [chartdb/chartdb](https://github.com/chartdb/chartdb): Free and open-source database diagrams editor, visualize and design your DB with a single query. <https://chartdb.io>
 - [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy): Entity Relation Diagrams generation tool
+- 🌟 [dineug/erd-editor](https://github.com/dineug/erd-editor): Entity-Relationship Diagram Editor <https://erd-editor.io>
 
 ## GUI / TUI
 

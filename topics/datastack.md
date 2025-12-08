@@ -95,6 +95,7 @@
 - [feast-dev/feast](https://github.com/feast-dev/feast): Feature Store for Machine Learning <https://feast.dev>
 - [argilla-io/argilla](https://github.com/argilla-io/argilla): Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency. <https://docs.argilla.io>
 - [doccano/doccano](https://github.com/doccano/doccano): Open source annotation tool for machine learning practitioners.
+- [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine): OpenRefine is a free, open source power tool for working with messy data and improving it <https://openrefine.org/>
 
 ## Data Observability
 
@@ -109,4 +110,3 @@
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server): Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library. <https://atomicserver.eu>
 
 - [kaushiksrini/parqeye](https://github.com/kaushiksrini/parqeye): Peek inside Parquet files right from your terminal
-

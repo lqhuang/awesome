@@ -299,6 +299,7 @@ Type 1 hypervisors
 - [psviderski/uncloud](https://github.com/psviderski/uncloud): A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨ <https://uncloud.run>
 - [hunvreus/devpush](https://github.com/hunvreus/devpush): Like Vercel, but open source and for all languages. <https://devpu.sh>
 - [mrusme/planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...) <https://xn--gckvb8fzb.com>
+- [dokku/dokku](https://github.com/dokku/dokku): A docker-powered PaaS that helps you build and manage the lifecycle of applications <https://dokku.com>
 
 ## K8S
 
@@ -561,4 +562,7 @@ Type 1 hypervisors
 - [apache/openwhisk](https://github.com/apache/openwhisk): Apache OpenWhisk is an open source serverless cloud platform <https://openwhisk.apache.org/>
   - Scala project 🤔
 - [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter): A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step.
+
   - The stargz-snapshotter implements a lazy image fetcher based on the eStargz custom image format, and the soci-snapshotter provides one based on the OCI specification for those who can’t or don’t want to convert images to a new format to support lazy distribution.
+
+- [meshery/meshery](https://github.com/meshery/meshery): Meshery, the cloud native manager <https://meshery.io>

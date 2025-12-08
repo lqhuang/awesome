@@ -242,6 +242,7 @@ General problems
 - [modularml/mojo](https://github.com/modularml/mojo): The Mojo Programming Language <https://docs.modular.com/mojo>
 - [NVIDIA/tilus](https://github.com/NVIDIA/tilus): Tilus is a tile-level kernel programming language, implemented in Python. <https://nvidia.github.io/tilus/>
 - [SzymonOzog/Penny](https://github.com/SzymonOzog/Penny): Hand-Rolled GPU communications library
+- 🌟 [NVIDIA/cutile-python](https://github.com/NVIDIA/cutile-python): cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
 
 ### Operator and Kernel
 

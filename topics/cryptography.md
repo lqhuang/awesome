@@ -4,6 +4,10 @@
 
 - [Choosing a hash function for 2030 and beyond: SHA-2 vs SHA-3 vs BLAKE3](https://kerkour.com/fast-secure-hash-function-sha256-sha512-sha3-blake3)
 
+## Services
+
+- [keys.openpgp.org](https://keys.openpgp.org/)
+
 ## Tools
 
 - [life4/enc](https://github.com/life4/enc): 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
@@ -28,6 +32,7 @@
 - [ogxd/gxhash](https://github.com/ogxd/gxhash): The fastest hashing algorithm 📈 <https://docs.rs/gxhash>
 - [besser82/libxcrypt](https://github.com/besser82/libxcrypt): Extended crypt library for descrypt, md5crypt, bcrypt, and others
   - support obsolete crypt API for glibc compatibility with musl libc
+- [gitlab:sequoia-pgp/sequoia](https://gitlab.com/sequoia-pgp/sequoia): Sequoia is a complete implementation of OpenPGP as defined by RFC 9580 as well as the deprecated OpenPGP as defined by RFC 4880, and various related standards.
 
 ## Certificate Management
 

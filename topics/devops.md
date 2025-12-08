@@ -81,6 +81,8 @@
   - [cross-tools/musl-cross](https://github.com/cross-tools/musl-cross): Cross-compile toolchain with musl libc
 - [CACI-International/cpp-toolchain](https://github.com/CACI-International/cpp-toolchain): A portable C++ (cross-)compiler toolchain
   - [bcr:portable_cc_toolchain](https://registry.bazel.build/modules/portable_cc_toolchain)
+- [cps-org/cps](https://github.com/cps-org/cps): Common Package Specification — A cross-tool mechanism for locating software dependencies <https://cps-org.github.io/cps/>
+  - next generation of `pkg-config` 🤔
 
 ### Monorepo
 
