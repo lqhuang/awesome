@@ -234,6 +234,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [cschroeter/park-ui](https://github.com/cschroeter/park-ui): Beautifully designed components built with Ark UI and Panda CSS that work with a variety of JS frameworks. <https://park-ui.com>
 - [PallasUI/pallas-ui](https://github.com/PallasUI/pallas-ui):
 - [uber/baseweb](https://github.com/uber/baseweb): A React Component library implementing the Base design language <https://baseweb.design>
+- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis): Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. <https://mitosis.builder.io>
 
 #### React
 
@@ -657,6 +658,8 @@ Concrete animations
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot): 📸 Quickly generate image from DOM node using HTML5 canvas and SVG. <https://toolpkg.com/html-to-image>
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom): snapDOM captures HTML elements to images with exceptional speed and accuracy. <https://snapdom.dev>
 - [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js): Sitemap-generating framework for node.js
+- [TanStack/pacer](https://github.com/TanStack/pacer): Utilities for debouncing, throttling, rate limiting, and queueing. Non-async and Async. <https://tanstack.com/pacer>
+  - Official note: TanStack Pacer is currently mostly a client-side only library, but it is being designed to be able to potentially be used on the server-side as well.
 
 ### Dev Tools
 
@@ -722,6 +725,7 @@ Concrete animations
 - [naver/billboard.js](https://github.com/naver/billboard.js): 📊 Re-usable, easy interface JavaScript chart library based on D3.js <https://naver.github.io/billboard.js/>
 - [recharts/recharts](https://github.com/recharts/recharts): Redefined chart library built with React and D3 <http://recharts.org>
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts): A Beautiful & Animated Chart UI Website built on top of shadcn & recharts. <https://evilcharts.com>
+- [adobe/react-spectrum-charts](https://github.com/adobe/react-spectrum-charts): Build compelling visualizations using declarative react components. <http://opensource.adobe.com/react-spectrum-charts/>
 
 ### Tree / Architecture
 
@@ -836,5 +840,3 @@ Concrete animations
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser): Lightpanda: the headless browser designed for AI and automation <https://lightpanda.io>
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
-
-- [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis): Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more. <https://mitosis.builder.io>

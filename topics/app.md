@@ -71,6 +71,7 @@
 - [andrew-levy/swiftui-react-native](https://github.com/andrew-levy/swiftui-react-native): Bringing SwiftUI features to your React Native app. It's like if React Native and SwiftUI had a child. <http://swiftui-react-native.vercel.app>
 - [kishikawakatsumi/applelocalization-web](https://github.com/kishikawakatsumi/applelocalization-web): An unofficial Apple localization terms glossary that allows you to search for standard localization texts provided by the Apple platform. <https://applelocalization.com/>
 - [margelo/react-native-filament](https://github.com/margelo/react-native-filament): 🐧 A real-time physically based 3D rendering engine for React Native <https://margelo.github.io/react-native-filament/>
+- [margelo/react-native-quick-crypto](https://github.com/margelo/react-native-quick-crypto): ⚡️ A fast implementation of Node's `crypto` module written in C/C++ JSI <https://margelo.com>
 - 🌟 [jaredh159/tailwind-react-native-classnames](https://github.com/jaredh159/tailwind-react-native-classnames): simple, expressive API for tailwindcss + react-native
 - [mrzachnugent/react-native-reusables](https://github.com/mrzachnugent/react-native-reusables): Universal shadcn/ui for React Native featuring a focused collection of components - Crafted with NativeWind v4 and accessibility in mind. <https://rnr-docs.vercel.app>
 - 🌟 [OP-Engineering/op-sqlite](https://github.com/OP-Engineering/op-sqlite): Fastest SQLite library for react-native by @ospfranco
@@ -78,6 +79,7 @@
   - [Nativewind: Speeding up Styling in React Native](https://hashrocket.com/blog/posts/nativewind-speeding-up-styling-in-react-native): How Nativewind can speed up your React Native Development
 - [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools): Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, React Web, Next.js, Expo, and any platform where
 - [WrathChaos/react-native-bounceable](https://github.com/WrathChaos/react-native-bounceable): 🚀 Animate and bounce any component with RNBounceable for React Native <https://freakycoder.com>
+- [bbernag/react-native-date](https://github.com/bbernag/react-native-date): High-performance native date library for React Native, powered by C++ and [Nitro Modules](https://nitro.margelo.com/) <https://bbernag.github.io/react-native-date/>
 
 ### UI
 

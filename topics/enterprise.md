@@ -3,10 +3,10 @@
 ## Enterprise access control
 
 - [Indent](https://indent.com): On-demand access without the wait. Indent provides team members with on-demand access to cloud apps and infrastructure in seconds, not days.
-- [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver): JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。 <http://www.jumpserver.org>
 - [dromara/orion-visor](https://github.com/dromara/orion-visor): 一款高颜值、现代化的自动化运维及轻量堡垒机，提供服务器智能运维解决方案。支持资产管理分组、SSH SFTP 终端、文件上传下载、文件在线编辑、命令批量执行、多主机文件分发、cron 表达式配置计划任务，安全保障等。该项目是由 java 实现, 前端使用 vue + arco, 后端使用 springboot, 支持 docker 部署的服务器运维, linux windows 系统运维平台。 <https://visor.dromara.org/>
 - [moul/sshportal](https://github.com/moul/sshportal): 🎩 simple, fun and transparent SSH (and telnet) bastion server <https://manfred.life/sshportal>
+- [ovh/the-bastion](https://github.com/ovh/the-bastion): Authentication, authorization, traceability and auditability for SSH accesses. <https://ovh.github.io/the-bastion/>
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit): SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [duncs/clusterssh](https://github.com/duncs/clusterssh): Cluster SSH - Cluster Admin Via SSH <https://github.com/duncs/clusterssh/wiki>
 - [Apache Guacamole](https://guacamole.incubator.apache.org/): Apache Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
@@ -17,12 +17,9 @@
 - [greenpau/caddy-security](https://github.com/greenpau/caddy-security): 🔐 Authentication, Authorization, and Accounting (AAA) App and Plugin for Caddy v2. 💎 Implements Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA/2FA with App Authenticators and Yubico. 💎 Authorization with JWT/PASETO tokens. 🔐 <https://authp.github.io>
 - [build-trust/ockam](https://github.com/build-trust/ockam): Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications – at massive scale. <https://ockam.io>
 - [NangoHQ/nango](https://github.com/NangoHQ/nango): Get OAuth tokens for APIs - fast & secure. <https://www.nango.dev>
-- 🌟 [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. <https://oauth2-proxy.github.io/oauth2-proxy>
-- [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
 - [pglombardo/PasswordPusher](https://github.com/pglombardo/PasswordPusher): 🔐 Securely share sensitive information with automatic expiration & deletion after a set number of views or duration. Track who, what and when with full audit logs. <https://docs.pwpush.com>
 - 🌟 [openpubkey/opkssh](https://github.com/openpubkey/opkssh): opkssh (OpenPubkey SSH) <https://eprint.iacr.org/2023/296>
 - [CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD): BloodyAD is an Active Directory Privilege Escalation Framework
-- [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
 - [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure. <https://goteleport.com>
 - 🌟 [warp-tech/warpgate](https://github.com/warp-tech/warpgate): Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software <https://warpgate.null.page>
 
@@ -110,7 +107,9 @@
 - [Automated UI and Functional Testing it | Testim.io](https://www.testim.io/): Testim is an automated testing platform for fast authoring of AI-powered stable tests and tools to help you scale quality.
 - [Unleash/unleash](https://github.com/Unleash/unleash): Open-source feature management platform <https://getunleash.io>
 - [LaunchDarkly: Feature Flags, Feature Management, and Experimentation](https://launchdarkly.com/): Maximize the value of every software feature through automation and feature management.
-- [ConfigCat - Feature Flag Service for Teams](https://configcat.com/): ConfigCat is a feature flag service for teams with unlimited seats, awesome support, and a reasonable price tag that takes 10 mins to learn.
+- [ConfigCat](https://configcat.com/): ConfigCat is a feature flag service for teams with unlimited seats, awesome support, and a reasonable price tag that takes 10 mins to learn.
+- [Gemfury: Private RubyGems, npm, PyPI, NuGet, Composer & more](https://gemfury.com/): Gemfury is a hosted repository for your public and private packages, where they are safe and within reach.
+- [Cloudsmith: Cloud-Native Artifact Management Platform](https://cloudsmith.com/): A fully-managed, enterprise-scale solution to control, secure, and distribute software packages and containers.
 
 ### Pipelines / Workflow
 

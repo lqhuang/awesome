@@ -13,6 +13,7 @@
 - 🌟 [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents): What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [LLM Inference in Production | BentoML](https://bentoml.com/llm/): A practical handbook for engineers building, optimizing, scaling and operating LLM inference systems in production.
 - 🌟 [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison): From DeepSeek-V3 to Kimi K2: A Look At Modern LLM Architecture Design
+- [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps): An awesome & curated list of best LLMOps tools for developers
 
 ## Research
 
@@ -24,6 +25,8 @@
 ## Eng
 
 - [October2001/Awesome-KV-Cache-Compression](https://github.com/October2001/Awesome-KV-Cache-Compression): 📰 Must-read papers on KV Cache Compression (constantly updating 🤗).
+- [LMCache/LMCache](https://github.com/LMCache/LMCache): Supercharge Your LLM with the Fastest KV Cache Layer <https://lmcache.ai/>
+- [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress): LLM KV cache compression made easy
 
 ## Frameworks
 
@@ -244,6 +247,4 @@
 - [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe): Turn expensive prompts into cheap fine-tuned models <https://openpipe.ai>
 - [charmbracelet/crush](https://github.com/charmbracelet/crush): The glamourous AI coding agent for your favourite terminal 💘
 - [wshobson/agents](https://github.com/wshobson/agents): A collection of production-ready subagents for Claude Code <https://sethhobson.com>
-
-- [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps): An awesome & curated list of best LLMOps tools for developers
-- [LMCache/LMCache](https://github.com/LMCache/LMCache): Supercharge Your LLM with the Fastest KV Cache Layer <https://lmcache.ai/>
+- [droidrun/droidrun](https://github.com/droidrun/droidrun): Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖 <https://droidrun.ai>

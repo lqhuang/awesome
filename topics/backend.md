@@ -132,6 +132,8 @@
 - 🌟 [toolbeam/openauth](https://github.com/toolbeam/openauth): ▦ Universal, standards-based auth provider. <https://openauth.js.org>
 - 🌟 [lastlogin-net/obligator](https://github.com/lastlogin-net/obligator): Simple and opinionated OpenID Connect server designed for self-hosters <https://lastlogin.net/>
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The simplest way to protect your apps with a login screen. <https://tinyauth.app>
+- 🌟 [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. <https://oauth2-proxy.github.io/oauth2-proxy>
+- [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
 
 ## Analytics
 

@@ -41,6 +41,8 @@
 - [Welcome to FP Illuminated](https://fpilluminated.org/)
 - [Scala Adoption Tracker](https://business4s.org/scala-adoption-tracker/): Crowdsourced list of companies and projects adopting Scala.
 - [Blog of Red Hat App Services Performance Team](https://redhatperf.github.io/)
+- [Project Amber](https://openjdk.org/projects/amber/)
+- [Tag: Performance – Inside.java](https://inside.java/tag/performance)
 
 ### Exercises
 
@@ -210,8 +212,9 @@
 - [jpablo/type-explorer](https://github.com/jpablo/type-explorer): Code exploration via diagrams
 - [VirtusLab/graphbuddy](https://github.com/VirtusLab/graphbuddy): Graph Buddy helps you to understand the code better <https://graphbuddy.virtuslab.com/>
 - [VirtusLab/scala-cli-setup](https://github.com/VirtusLab/scala-cli-setup): ▶️ Scala CLI setup GitHub Action
-- 🌟 [indoorvivants/sn-vcpkg](https://github.com/indoorvivants/sn-vcpkg): SBT/Mill plugins and CLI to install C/C++ dependencies using Vcpkg (https://vcpkg.io/en/index.html), with Scala Native integration
+- [indoorvivants/sn-vcpkg](https://github.com/indoorvivants/sn-vcpkg): SBT/Mill plugins and CLI to install C/C++ dependencies using Vcpkg (https://vcpkg.io/en/index.html), with Scala Native integration
 - [simple-scala-tooling/zinc-cli](https://github.com/simple-scala-tooling/zinc-cli): Three Buildtools for the Scala - devs of functional programming, Seven for the Java - lords in their enterprise hall, Nine for Javascript Mortals, doomed to `npm install`, One for the Dev Lord on their throne, In the Land of localhost where the compile errors lie. One Buildtool to rule them all, One buildtool to fix them ...
+- [softwaremill/maven-badges](https://github.com/softwaremill/maven-badges): A node.js implementation of https://github.com/jirutka/maven-badges, originally created in ruby.
 
 ## Cross platforms
 

@@ -22,6 +22,7 @@
   - Interesting idea that manipulating systemd units like containers
 - 🌟 [GetDeploying](https://getdeploying.com/): Compare cloud providers for your next project
 - [Hypervisor in 1,000 Lines](https://1000hv.seiya.me/en/): Write your first hypervisor from scratch, in 1K LoC.
+- [CDN Performance Analytics & Comparison](https://www.cdnperf.com/)
 
 ## Cloud native
 
@@ -116,6 +117,7 @@
   - So sad that the project is not maintained for a long time.
 - [getwud/wud](https://github.com/getwud/wud): Keep your containers up-to-date! <https://getwud.github.io/wud/>
 - [crazy-max/diun](https://github.com/crazy-max/diun): Receive notifications when an image is updated on a Docker registry <https://crazymax.dev/diun/>
+- [mag37/dockcheck](https://github.com/mag37/dockcheck): CLI tool to automate docker image updates. Selective, notifications, autoprune, no pre-pulling. <https://mag37.org>
 - [log-forge/logforge](https://github.com/log-forge/logforge): All in one UI, for Docker. Real-time logs, Interactive terminals, Custom alerts/notifications/Automations, File system access. <https://www.logforge.dev/>
 - [shadow-maint/shadow](https://github.com/shadow-maint/shadow): Upstream shadow tree
 - 🌟 [hadolint/hadolint](https://github.com/hadolint/hadolint): Dockerfile linter, validate inline bash, written in Haskell

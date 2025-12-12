@@ -35,6 +35,7 @@
 - 🌟 [A quick dive into Julia's type inference algorithm](https://aviatesk.github.io/posts/data-flow-problem/): introduction to dataflow analysis and Julia's local type inference routine
 - [yihozhang/most-influential-pl-papers](https://github.com/yihozhang/most-influential-pl-papers): Most influential papers in programming languages
 - 🌟 [Favorite compiler and interpreter resources](https://eatonphil.com/compilers-and-interpreters.html): by Phil Eaton
+- 🌟 [Control structures in programming languages | Control structures in programming languages: from goto to algebraic effects](https://xavierleroy.org/control-structures/)
 
 ### Tutorials
 
@@ -83,6 +84,7 @@
 - [MPLLang/parallel-ml-bench](https://github.com/MPLLang/parallel-ml-bench): Parallel ML benchmark suite
 - 🌟 [semgrep/semgrep](https://github.com/semgrep/semgrep): Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. <https://semgrep.dev>
 - [AST explorer](https://astexplorer.net/): An online AST explorer.
+- [trailofbits/codeql-queries](https://github.com/trailofbits/codeql-queries): CodeQL queries developed by Trail of Bits
 
 ## Effect systems
 
@@ -113,5 +115,3 @@
 - 🌟 [tweag/topiary](https://github.com/tweag/topiary): Topiary aims to be a uniform formatter for simple languages, as part of the Tree-sitter ecosystem. <https://topiary.tweag.io/>
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter): An incremental parsing system for programming tools <https://tree-sitter.github.io>
 - [wenkokke/hs-tree-sitter](https://github.com/wenkokke/hs-tree-sitter): No description, website, or topics provided.
-
-- [Control structures in programming languages | Control structures in programming languages: from goto to algebraic effects](https://xavierleroy.org/control-structures/): no description found

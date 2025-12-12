@@ -191,6 +191,7 @@
 ### Docker tools
 
 - [hollowpnt92/docker-port-viewer](https://github.com/hollowpnt92/docker-port-viewer): No description, website, or topics provided.
+- [clemcer/LoggiFly](https://github.com/clemcer/LoggiFly): Get Alerts from your Docker Container Logs <https://clemcer.github.io/LoggiFly/>
 
 ### Start page
 

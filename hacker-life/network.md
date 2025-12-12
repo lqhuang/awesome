@@ -25,6 +25,7 @@
 - [curl/everything-curl](https://github.com/curl/everything-curl): The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl. <https://everything.curl.dev/>
 - [Linux Network Performance Ultimate Guide | kiennt26](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/): Author: Kien Nguyen <kiennt2609@gmail.com> A minimal Hugo theme with Tailwind CSS
 - 🌟 [The world in which IPv6 was a good design - apenwarr](https://apenwarr.ca/log/20170810)
+- [devanshbatham/Everything-About-DNS](https://github.com/devanshbatham/Everything-About-DNS): DNS Explained : This repo aims to explain the basics of DNS at different levels of complexity for readers with various technical backgrounds.
 
 ## Libraries
 
@@ -88,6 +89,8 @@
 - [t3l3machus/Villain](https://github.com/t3l3machus/Villain): Villain is a high level stage 0/1 C2 framework that can handle multiple reverse TCP & HoaxShell-based shells, enhance their functionality with additional features (commands, utilities) and share them among connected sibling servers (Villain instances running on different machines).
 - 🌟 [frankovo/dns-benchmark-tool](https://github.com/frankovo/dns-benchmark-tool): Fast, comprehensive DNS performance testing with DNSSEC validation, DoH/DoT support, and enterprise features <https://www.buildtools.net/>
 - [ycd/dstp](https://github.com/ycd/dstp): 🧪 Run common networking tests against any site.
+- [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns): DNS over HTTPS config profiles for iOS & macOS <https://paulmillr.com/posts/encrypted-dns/>
+  - [Paul Miller — iOS 14, Big Sur and DNS over HTTPS](https://paulmillr.com/posts/encrypted-dns/): Paul Miller. I make projects which help developers to build awesome things
 
 ### Analysis
 
@@ -305,6 +308,3 @@ STUN / TURN / ICE
 - [qvis: tools and visualizations for QUIC and HTTP/3](https://qvis.quictools.info/#/files): no description found
 - [RDAP Whois Query Tool - Domain, IP & ASN Lookup](https://rdap.ss/): Free RDAP-based WHOIS lookup tool for domains, IPv4, IPv6 addresses, and ASN numbers. Fast, accurate, and privacy-focused domain information.
 - [GreyNoise IP Check](https://check.labs.greynoise.io/): Check if your IP address has been observed by GreyNoise sensors. Instantly detect malicious activity, compromised devices, and security threats affecting your network.
-
-- [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns): DNS over HTTPS config profiles for iOS & macOS <https://paulmillr.com/posts/encrypted-dns/>
-  - [Paul Miller — iOS 14, Big Sur and DNS over HTTPS](https://paulmillr.com/posts/encrypted-dns/): Paul Miller. I make projects which help developers to build awesome things

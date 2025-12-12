@@ -222,6 +222,7 @@ General problems
 - [leptonai/gpud](https://github.com/leptonai/gpud): GPUd is designed to ensure GPU efficiency and reliability by actively monitoring GPUs and effectively managing AI/ML workloads.
 - [run-ai/genv](https://github.com/run-ai/genv): GPU environment and cluster management with LLM support <https://www.genv.dev>
 - [NVIDIA/grove](https://github.com/NVIDIA/grove): Kubernetes enhancements for Network Topology Aware Gang Scheduling & Autoscaling
+- 🌟 [NVIDIA/KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler): KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
 
 ## Compiler / Kernel / Low level libs
 
@@ -243,6 +244,8 @@ General problems
 - [NVIDIA/tilus](https://github.com/NVIDIA/tilus): Tilus is a tile-level kernel programming language, implemented in Python. <https://nvidia.github.io/tilus/>
 - [SzymonOzog/Penny](https://github.com/SzymonOzog/Penny): Hand-Rolled GPU communications library
 - 🌟 [NVIDIA/cutile-python](https://github.com/NVIDIA/cutile-python): cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+- [tile-ai/tilelang](https://github.com/tile-ai/tilelang): Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels <https://tilelang.com/>
+- [tile-ai/tilescale](https://github.com/tile-ai/tilescale): Tile-based language built for AI computation across all scales <https://tilelang.com/>
 
 ### Operator and Kernel
 

@@ -15,6 +15,7 @@
 - [The JavaScript Date Quiz](https://jsdate.wtf/): How well do you know JavaScript's Date class?
 - [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices): How to stay safe from NPM supply chain attacks
 - [JavaScript engines zoo](https://zoo.js.org/)
+- [Depx | Dependency analysis](https://depx.co/): Analyse your dependencies, get the full picture before you install.
 
 ### Books
 
@@ -38,8 +39,6 @@
 
 - [oven-sh/bun](https://github.com/oven-sh/bun): Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one. <https://bun.sh>
 - [awslabs/llrt](https://github.com/awslabs/llrt): LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
-- [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node): TypeScript execution and REPL for node.js <https://typestrong.org/ts-node>
-- [privatenumber/tsx](https://github.com/privatenumber/tsx): ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - 🌟 [pi0/platform-node-compat](https://github.com/pi0/platform-node-compat): Display Node.js compatibility of edge runtimes <https://platform-node-compat.deno.dev/>
 - [bellard/quickjs](https://github.com/bellard/quickjs): Public repository of the QuickJS Javascript Engine. <https://bellard.org/quickjs>
 - [sebastianwessel/quickjs](https://github.com/sebastianwessel/quickjs): A typescript package to execute JavaScript and TypeScript code in a webassembly quickjs sandbox <https://sebastianwessel.github.io/quickjs/>
@@ -97,6 +96,14 @@
 - [eslint-community/eslint-plugin-n](https://github.com/eslint-community/eslint-plugin-n): Additional ESLint rules for Node.js
 - [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security): ESLint rules for Node Security
 
+### Runner
+
+- [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node): TypeScript execution and REPL for node.js <https://typestrong.org/ts-node>
+- [privatenumber/tsx](https://github.com/privatenumber/tsx): ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
+- [poppinss/ts-exec](https://github.com/poppinss/ts-exec): Execute TypeScript on Node using SWC
+  - one advantage over nodejs type stripping is it supports jsx out of box
+  - and work with node natively `node --import=@poppinss/ts-exec ./src/index.ts`
+
 ### Testing
 
 - [dubzzz/fast-check](https://github.com/dubzzz/fast-check): Property based testing framework for JavaScript (like QuickCheck) written in TypeScript <https://fast-check.dev/>
@@ -127,6 +134,7 @@ Fake Data
 - [faker-js/faker](https://github.com/faker-js/faker): Generate massive amounts of fake data in the browser and node.js <https://fakerjs.dev>
 - [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
 - [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker): JSON-Schema + fake data generators <http://json-schema-faker.js.org/>
+- 🌟 [poppinss/file-generator](https://github.com/poppinss/file-generator): Generate fake in-memory files for varying sizes
 
 Specific
 
@@ -264,6 +272,7 @@ Specific
 - [querycatai/jaison](https://github.com/querycatai/jaison): No description, website, or topics provided.
 - [Simon-He95/markdown-it-ts](https://github.com/Simon-He95/markdown-it-ts): A modern, type-safe rewrite of markdown-it in TypeScript: pluggable rules, split parse/render, CommonMark-compatible; fast one-shot parsing and even faster streaming/incremental updates. <https://www.npmjs.com/package/markdown-it-ts>
 - [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js): A JSON-LD Processor and API implementation in JavaScript <https://json-ld.org/>
+- 🌟 [jacob-ebey/turbo-stream](https://github.com/jacob-ebey/turbo-stream): A streaming data transport format that aims to support built-in features such as Promises, Dates, RegExps, Maps, Sets and more. <https://turbo-stream.pages.dev/>
 
 ### Parser
 
@@ -278,6 +287,26 @@ Specific
 - [apostrophecms/sanitize-html](https://github.com/apostrophecms/sanitize-html): Clean up user-submitted HTML, preserving whitelisted elements and whitelisted attributes on a per-element basis. Built on htmlparser2 for speed and tolerance
 - [tinyhttp/milliparsec](https://github.com/tinyhttp/milliparsec): 🌌 Tiniest body parser in the universe. Built for modern Node.js <https://npm.im/milliparsec>
 - [tinyhttp/content-type](https://github.com/tinyhttp/content-type): content-type rewrite in TypeScript and ESM
+- [keichi/binary-parser](https://github.com/keichi/binary-parser): A blazing-fast declarative parser builder for binary data
+
+### format parser / converter
+
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
+- [thejoshwolfe/yazl](https://github.com/thejoshwolfe/yazl): yet another zip library for node
+- [thejoshwolfe/yauzl](https://github.com/thejoshwolfe/yauzl): yet another unzip library for node
+- [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
+- [mholt/PapaParse](https://github.com/mholt/PapaParse): Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input <http://PapaParse.com>
+- [dolanmiu/docx](https://github.com/dolanmiu/docx): Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. <https://docx.js.org/>
+- [rgrove/parse-xml](https://github.com/rgrove/parse-xml): A fast, safe, compliant XML parser for Node.js and browsers. <https://rgrove.github.io/parse-xml>
+- [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text): Advanced html to text converter
+- [jeet-dhandha/xlsx-parse-table](https://github.com/jeet-dhandha/xlsx-parse-table): No description, website, or topics provided.
+- [git.sheetjs.com/sheetjs/sheetjs](https://git.sheetjs.com/sheetjs/sheetjs): sheetjs - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [NPM: @smoores/epub](https://www.npmjs.com/package/@smoores/epub)
+  - [Announcing: @smoores/epub](https://smoores.dev/post/announcing_smoores_epub/)
+- [jmaister/excellentexport](https://github.com/jmaister/excellentexport): Javascript export to Excel
+- [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver): a streaming interface for archive generation <https://www.archiverjs.com>
+- [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV): https://hellocsv.github.io/HelloCSV/
+- [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS): Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more. <https://gitbrent.github.io/PptxGenJS/>
 
 ### Date
 
@@ -299,6 +328,7 @@ Specific
 - [harrisiirak/cron-parser](https://github.com/harrisiirak/cron-parser): Node.js library for parsing crontab instructions
 - [photostructure/tz-lookup](https://github.com/photostructure/tz-lookup): JavaScript Library for Timezone Lookup by Location
 - [evansiroky/node-geo-tz](https://github.com/evansiroky/node-geo-tz): A node.js module to find the timezone based on gps coordinates
+- [poppinss/intl-formatter](https://github.com/poppinss/intl-formatter): JavaScript Internationalization API, memoized for speed and performance
 
 ### Dependency Injection
 
@@ -332,25 +362,6 @@ Specific
 - [hattipjs/hattip](https://github.com/hattipjs/hattip): Like Express, but for the future
 - [h3js/rou3](https://github.com/h3js/rou3): 🌳 Lightweight and fast rou(ter) for JavaScript
 - [graphile/worker](https://github.com/graphile/worker): High performance Node.js/PostgreSQL job queue (also suitable for getting jobs generated by PostgreSQL triggers/functions out into a different work queue) <http://worker.graphile.org/>
-
-### format parser / converter
-
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
-- [thejoshwolfe/yazl](https://github.com/thejoshwolfe/yazl): yet another zip library for node
-- [thejoshwolfe/yauzl](https://github.com/thejoshwolfe/yauzl): yet another unzip library for node
-- [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
-- [mholt/PapaParse](https://github.com/mholt/PapaParse): Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input <http://PapaParse.com>
-- [dolanmiu/docx](https://github.com/dolanmiu/docx): Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. <https://docx.js.org/>
-- [rgrove/parse-xml](https://github.com/rgrove/parse-xml): A fast, safe, compliant XML parser for Node.js and browsers. <https://rgrove.github.io/parse-xml>
-- [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text): Advanced html to text converter
-- [jeet-dhandha/xlsx-parse-table](https://github.com/jeet-dhandha/xlsx-parse-table): No description, website, or topics provided.
-- [git.sheetjs.com/sheetjs/sheetjs](https://git.sheetjs.com/sheetjs/sheetjs): sheetjs - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
-- [NPM: @smoores/epub](https://www.npmjs.com/package/@smoores/epub)
-  - [Announcing: @smoores/epub](https://smoores.dev/post/announcing_smoores_epub/)
-- [jmaister/excellentexport](https://github.com/jmaister/excellentexport): Javascript export to Excel
-- [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver): a streaming interface for archive generation <https://www.archiverjs.com>
-- [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV): https://hellocsv.github.io/HelloCSV/
-- [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS): Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more. <https://gitbrent.github.io/PptxGenJS/>
 
 ### PDF
 
@@ -411,6 +422,7 @@ Specific
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku): ✅ タスク — The minimal task visualizer for Node.js
 - [infinitered/gluegun](https://github.com/infinitered/gluegun): A delightful toolkit for building TypeScript-powered command-line apps.
 - [tinylibs/picospinner](https://github.com/tinylibs/picospinner): A lightweight, no dependency, pluggable CLI spinner library.
+- [larswaechter/voici.js](https://github.com/larswaechter/voici.js): A Node.js library for pretty printing your data on the terminal🎨 <https://voici.larswaechter.dev>
 
 ### Image
 
@@ -421,6 +433,9 @@ Specific
 - [image-js/fast-png](https://github.com/image-js/fast-png): PNG image decoder and encoder written entirely in JavaScript
 - [image-js/image-js](https://github.com/image-js/image-js): Image processing and manipulation in JavaScript <https://image-js.github.io/image-js>
 - [riyadhalnur/node-base64-image](https://github.com/riyadhalnur/node-base64-image): Download images from remote URLs or use local images and encode/decode them to Base64 string or Buffer object <http://riyadhalnur.github.io/node-base64-image>
+- [photostructure/exiftool-vendored.js](https://github.com/photostructure/exiftool-vendored.js): Fast, cross-platform Node.js access to ExifTool <https://photostructure.github.io/exiftool-vendored.js/>
+- [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch): The smallest, simplest and fastest JavaScript pixel-level image comparison library
+- [teimurjan/blazediff](https://github.com/teimurjan/blazediff): Blazing-fast pixel-by-pixel image comparison with block-based optimization. 1.5x times faster than pixelmatch.
 
 ### Glob
 
@@ -430,6 +445,7 @@ Specific
 - [micromatch/picomatch](https://github.com/micromatch/picomatch): Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, i… <https://github.com/micromatch>
 - 🌟 [SuperchupuDev/tinyglobby](https://github.com/SuperchupuDev/tinyglobby): A fast and minimal alternative to globby and fast-glob <https://npmjs.com/package/tinyglobby>
   - depends on `fdir` and `picomatch`
+- [paulmillr/readdirp](https://github.com/paulmillr/readdirp): Recursive version of fs.readdir with small RAM & CPU footprint.
 
 ### Utils
 
@@ -438,8 +454,6 @@ Specific
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
 - 🌟 [xthezealot/npmprune](https://github.com/xthezealot/npmprune): Prune unnecessary files from node_modules
   - simple and easy LOL
-- [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch): The smallest, simplest and fastest JavaScript pixel-level image comparison library
-- [teimurjan/blazediff](https://github.com/teimurjan/blazediff): Blazing-fast pixel-by-pixel image comparison with block-based optimization. 1.5x times faster than pixelmatch.
 - [toss/es-toolkit](https://github.com/toss/es-toolkit): A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash. <https://es-toolkit.slash.page>
 - [Oaxoa/fp-filters](https://github.com/Oaxoa/fp-filters): A curated list of ready-to-use (functional programming) array filters (TS / ESM / CJS)
 - [PuruVJ/neotraverse](https://github.com/PuruVJ/neotraverse): No description, website, or topics provided.
@@ -468,6 +482,7 @@ Specific
 - [sindresorhus/on-change](https://github.com/sindresorhus/on-change): Watch an object or array for changes
 - 🌟 [101arrowz/fflate](https://github.com/101arrowz/fflate): High performance (de)compression in an 8kB package <https://101arrowz.github.io/fflate>
 - 🌟 [cometkim/unicode-segmenter](https://github.com/cometkim/unicode-segmenter): A lightweight implementation of the Unicode Text Segmentation (UAX #29)
+- [poppinss/string](https://github.com/poppinss/string): A collection of helpers to perform operations on/related to a string value
 
 Deep equal
 

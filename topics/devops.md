@@ -36,6 +36,13 @@
 - [GitHub App - DosuBot](https://github.com/apps/dosubot): Dosu is an AI-powered Github maintainer agent. Dosu helps open source maintainers encourage contributors, organize issues, triage bugs, answer questions, and more.
 - [hcavarsan/pipedash](https://github.com/hcavarsan/pipedash): A desktop app for managing CI/CD pipelines from multiple providers
 - [traderepublic/Cilicon](https://github.com/traderepublic/Cilicon): 🛠️ Self-Hosted ephemeral macOS CI on Apple Silicon
+- 🌟 [Mergify](https://mergify.com/): Mergify helps dev teams ship faster with CI Insights, Merge Queue, Merge Protections and Workflow Automation. Fix flaky tests, keep main green, and boost CI/CD.
+- 🌟 [The stacking workflow](https://www.stacking.dev/): Stacked PRs. Stacked diffs. Stacked changes. A better workflow to manage pull requests.
+  - [Graphite](https://graphite.com/): Graphite helps teams on GitHub deliver higher quality software, faster.
+  - [ezyang/ghstack](https://github.com/ezyang/ghstack): Submit stacked diffs to GitHub on the command line
+  - [git-town/git-town](https://github.com/git-town/git-town): Git branches made easy <https://www.git-town.com>
+  - [ejoffe/spr](https://github.com/ejoffe/spr): Stacked Pull Requests on GitHub
+- [coder/pulldash](https://github.com/coder/pulldash): Review pull requests in a high-performance UI, driven by keybinds. <https://pulldash.com>
 
 ### Misc linters / formatters
 
@@ -60,6 +67,11 @@
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged): 🚫💩 — Run tasks like formatters and linters against staged git files <https://www.npmjs.com/package/lint-staged>
 - [dqbd/ts-math-evaluate](https://github.com/dqbd/ts-math-evaluate): Type-level math expression evaluator for TypeScript. <https://ts-math-evaluate.vercel.app/>
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint): A linter for YAML files.
+
+### Reproducibility
+
+- 🌟 [Reproducible Builds](https://reproducible-builds.org): Reproducible builds are a set of software development practices that create an independently-verifiable path from source to binary code.
+  - [Tools](https://reproducible-builds.org/tools/)
 
 ## Build systems
 
@@ -586,10 +598,6 @@ Archived or outdated but still useful
 - [Actuated](https://actuated.dev/): Fast and secure GitHub Actions on your own infrastructure.
 - [blacksmith](https://www.blacksmith.sh/): Twice as fast. Half the cost. Speed up your GitHub Actions with a one-line code change, by running them on high-performance gaming CPUs instead of GitHub's older server hardware
 - [Source.dev](https://www.source.dev/): AI-native software tools that accelerate development of next-generation devices. SourceFS the fastest way to build Android.
-
   - not a runner but can speed up builds
-
 - [telekom-mms/ansible-collection-acme](https://github.com/telekom-mms/ansible-collection-acme): An Ansible collection for issuing certificates via the ACME protocol.
 - [telekom-mms/Automated-Ansible-Role-Documentation](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation): Generate documentation automatically from an Ansible role's metadata
-
-https://reproducible-builds.org/tools/

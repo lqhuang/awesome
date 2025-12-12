@@ -43,6 +43,7 @@ And modern is here now.
 - [Practical Guide to Bare Metal C++](https://arobenko.github.io/bare_metal_cpp/)
   - using C++ in embedded bare metal development.
 - [Making the Clang AST Leaner and Faster | The C++ Alliance](https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html)
+- [CppQuiz.org](https://cppquiz.org/)
 
 ### References
 
@@ -120,6 +121,11 @@ And modern is here now.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake): 🔥 A cross-platform build utility based on Lua <https://xmake.io>
   - lua as build script language
   - Xmake ≈ Make/Ninja + CMake/Meson + Vcpkg/Conan + distcc + ccache/sccache
+
+### Prebuilts
+
+- [rsms/llvmbox](https://github.com/rsms/llvmbox): Self contained, fully static llvm tools & libs
+- [Mandi-Sa/clang](https://github.com/Mandi-Sa/clang): Clang/LLVM/Binutils prebuilts with Full LTO, PGO and BOLT optimization.
 
 ### Analyzer
 

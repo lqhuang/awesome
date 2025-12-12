@@ -48,10 +48,6 @@
 
 ## Toolchains
 
-### Build
-
-- [rsms/llvmbox](https://github.com/rsms/llvmbox): Self contained, fully static llvm tools & libs
-
 ### Linker
 
 - 🌟 [rui314/mold](https://github.com/rui314/mold): mold: Mold: A Modern Linker 🦠

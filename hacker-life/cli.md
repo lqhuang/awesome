@@ -87,6 +87,7 @@
 - [jfernandez/mdserve](https://github.com/jfernandez/mdserve): Fast markdown preview server with live reload and theme support.
 - [joknarf/pgtree](https://github.com/joknarf/pgtree): Unix process hierachy tree for specific processes (mixed pgrep + pstree) <https://joknarf.github.io/joknarf-tools>
 - [orhun/systeroid](https://github.com/orhun/systeroid): A more powerful alternative to sysctl(8) with a terminal user interface 🐧 <https://systeroid.cli.rs>
+- [antonmedv/gitmal](https://github.com/antonmedv/gitmal): A static page generator for repos
 
 ### SSH
 
@@ -137,6 +138,7 @@
 
 - 🌟 [parcel-bundler/watcher](https://github.com/parcel-bundler/watcher): 👀 A native C++ Node module for querying and subscribing to filesystem events
 - 🌟 [paulmillr/chokidar](https://github.com/paulmillr/chokidar): Minimal and efficient cross-platform file watching library <https://paulmillr.com>
+  - [poppinss/chokidar-ts](https://github.com/poppinss/chokidar-ts): File watcher for TypeScript projects
 
 ## TUI applications
 

@@ -332,6 +332,7 @@ SSH
 - [alexta69/metube](https://github.com/alexta69/metube): Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr): Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory): Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. <https://afilmory.art/>
+- [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe): Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map. <https://chronoframe.bh8.ga/>
 
 ### Reader / RSS / Bookmarks
 
