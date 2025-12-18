@@ -96,6 +96,7 @@
 - [martanne/abduco](https://github.com/martanne/abduco): abduco provides session management i.e. it allows programs to be run independently from its controlling terminal. That is programs can be detached - run in the background - and then later reattached. Together with dvtm it provides a simpler and cleaner alternative to tmux or screen.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool): Think tmux, then aim... lower
 - [neurosnap/zmx](https://github.com/neurosnap/zmx): Session persistence for terminal processes
+- 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC <https://manfred.life/quicssh>
 
 ### Texting
 

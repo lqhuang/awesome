@@ -27,6 +27,7 @@
 - [October2001/Awesome-KV-Cache-Compression](https://github.com/October2001/Awesome-KV-Cache-Compression): 📰 Must-read papers on KV Cache Compression (constantly updating 🤗).
 - [LMCache/LMCache](https://github.com/LMCache/LMCache): Supercharge Your LLM with the Fastest KV Cache Layer <https://lmcache.ai/>
 - [NVIDIA/kvpress](https://github.com/NVIDIA/kvpress): LLM KV cache compression made easy
+- [mckinsey/agents-at-scale-ark](https://github.com/mckinsey/agents-at-scale-ark): Provider-agnostic operations for agentic resources. ARK codifies patterns and practices developed across dozens of agentic application projects. <https://mckinsey.github.io/agents-at-scale-ark/>
 
 ## Frameworks
 

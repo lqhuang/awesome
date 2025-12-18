@@ -75,3 +75,4 @@
 - [ashvardanian/jaccard-index](https://github.com/ashvardanian/jaccard-index): Optimizing bit-level Jaccard Index and Population Counts for large-scale quantized Vector Search via Harley-Seal CSA and Lookup Tables <https://github.com/unum-cloud/usearch>
 - 🌟 [cwida/PDX](https://github.com/cwida/PDX): ⚡ Faster similarity search with PDX: A vertical data layout for vectors <https://www.lkuffo.com/sub-milisecond-similarity-search-with-pdx/>
 - 🌟 [apple/embedding-atlas](https://github.com/apple/embedding-atlas): Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata. <https://apple.github.io/embedding-atlas/>
+- 🌟 [stefanwebb/hnsw-illustrated](https://github.com/stefanwebb/hnsw-illustrated): A small implementation of Hierarchical Navigable Small Worlds (HNSW), a vector search algorithm, for learning purposes

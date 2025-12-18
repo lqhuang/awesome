@@ -89,18 +89,19 @@
 ### Web
 
 - [zigzap/zap](https://github.com/zigzap/zap): blazingly fast backends in zig
-  - Zap is the zig replacement for the REST APIs I used to write in python with Flask and mongodb, etc.
+  - > Zap is the zig replacement for the REST APIs I used to write in python with Flask and mongodb, etc.
   - Flask ???
 - [tardy-org/zzz](https://github.com/tardy-org/zzz): A framework for writing performant and reliable networked services.
 - [karlseguin/pg.zig](https://github.com/karlseguin/pg.zig): Native PostgreSQL driver / client for Zig
 - [karlseguin/websocket.zig](https://github.com/karlseguin/websocket.zig): A websocket implementation for zig
+- [karlseguin/http.zig](https://github.com/karlseguin/http.zig): An HTTP/1.1 server for zig
 - [kristoff-it/supermd](https://github.com/kristoff-it/supermd): SuperMD is an extension of Markdown used by https://zine-ssg.io
 - [kristoff-it/zine](https://github.com/kristoff-it/zine): Fast, Scalable, Flexible Static Site Generator (SSG) <https://zine-ssg.io>
 - [kristoff-it/ziggy](https://github.com/kristoff-it/ziggy): A data serialization language for expressing clear API messages, config files, etc. <https://ziggy-lang.io>
 - [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml): HTML Language Server & Templating Language Library
 - [GhostKellz/zquic](https://github.com/GhostKellz/zquic): zquic is a lightweight, high-performance QUIC (HTTP/3 transport layer) implementation written in pure Zig.
 - [ianic/tls.zig](https://github.com/ianic/tls.zig): TLS 1.3/1.2 client and TLS 1.3 server in Zig
-- [Zig Bits 0x4: Building an HTTP client/server from scratch - Orhun's Blog](https://blog.orhun.dev/zig-bits-04/): FOSS • Linux • Programming
+- [Zig Bits 0x4: Building an HTTP client/server from scratch - Orhun's Blog](https://blog.orhun.dev/zig-bits-04/)
 
 ## Misc
 

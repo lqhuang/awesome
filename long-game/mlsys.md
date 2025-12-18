@@ -99,7 +99,8 @@
 - 🌟 [deepspeedai/DeepSpeed](https://github.com/deepspeedai/DeepSpeed): DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective. <https://www.deepspeed.ai/>
 - [keras-team/keras-core](https://github.com/keras-team/keras-core): A multi-backend implementation of the Keras API, with support for TensorFlow, JAX, and PyTorch.
 - [online-ml/river](https://github.com/online-ml/river): 🌊 Online machine learning in Python <https://riverml.xyz>
-- 🌟 [geohot/tinygrad](https://github.com/geohot/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️ <https://tinygrad.org/>
+- 🌟 [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad): You like pytorch? You like micrograd? You love tinygrad! ❤️
+  - [tinygrad/teenygrad](https://github.com/tinygrad/teenygrad): If tinygrad wasn't small enough for you...
 - [intelligent-machine-learning/dlrover](https://github.com/intelligent-machine-learning/dlrover): DLRover: An Automatic Distributed Deep Learning System
 - [pycaret/pycaret](https://github.com/pycaret/pycaret): An open-source, low-code machine learning library in Python <https://www.pycaret.org>
 - 🌟 [intel/scikit-learn-intelex](https://github.com/intel/scikit-learn-intelex): Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application <https://intel.github.io/scikit-learn-intelex/>
@@ -221,8 +222,10 @@ General problems
 
 - [leptonai/gpud](https://github.com/leptonai/gpud): GPUd is designed to ensure GPU efficiency and reliability by actively monitoring GPUs and effectively managing AI/ML workloads.
 - [run-ai/genv](https://github.com/run-ai/genv): GPU environment and cluster management with LLM support <https://www.genv.dev>
-- [NVIDIA/grove](https://github.com/NVIDIA/grove): Kubernetes enhancements for Network Topology Aware Gang Scheduling & Autoscaling
-- 🌟 [NVIDIA/KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler): KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
+- [ai-dynamo/grove](https://github.com/ai-dynamo/grove): Kubernetes enhancements for Network Topology Aware Gang Scheduling & Autoscaling
+  - previous name: NVIDIA/grove
+- [NVIDIA/KAI-Scheduler](https://github.com/NVIDIA/KAI-Scheduler): KAI Scheduler is an open source Kubernetes Native scheduler for AI workloads at large scale
+- [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator): NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes <https://docs.nvidia.com/datacenter/cloud-native/gpu-operator/latest/index.html>
 
 ## Compiler / Kernel / Low level libs
 
@@ -593,7 +596,6 @@ PGM / Probabilistic programming
 - [karpathy/llm.c](https://github.com/karpathy/llm.c): LLM training in simple, raw C/CUDA
 - [pranftw/neograd](https://github.com/pranftw/neograd): A deep learning framework created from scratch with Python and NumPy <https://neograd.readthedocs.io>
 - [mohammadpz/pytorch_forward_forward](https://github.com/mohammadpz/pytorch_forward_forward): Implementation of Hinton's forward-forward (FF) algorithm - an alternative to back-propagation
-- [tinygrad/teenygrad](https://github.com/tinygrad/teenygrad): If tinygrad wasn't small enough for you...
 - [lucidrains/x-transformers](https://github.com/lucidrains/x-transformers): A simple but complete full-attention transformer with a set of promising experimental features from various papers
 - [lucidrains/ring-attention-pytorch](https://github.com/lucidrains/ring-attention-pytorch): Explorations into Ring Attention, from Liu et al. at Berkeley AI
 - [lucidrains/vector-quantize-pytorch](https://github.com/lucidrains/vector-quantize-pytorch): Vector (and Scalar) Quantization, in Pytorch

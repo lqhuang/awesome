@@ -189,11 +189,13 @@
 - [alebeck/boring](https://github.com/alebeck/boring): The `boring` SSH tunnel manager
 - [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp): A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-driven world. <https://opennhp.org/>
 - [yosebyte/nodepass](https://github.com/yosebyte/nodepass): A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. <https://nodepass.eu>
+- 🌟 [jpillora/chisel](https://github.com/jpillora/chisel): A fast TCP/UDP tunnel over HTTP
 
 ### Warp
 
 - [rany2/warp.sh](https://github.com/rany2/warp.sh): WARP wireguard config generator in POSIX Shell
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf): 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
+- [distillium/warp-native](https://github.com/distillium/warp-native): This script installs Cloudflare WARP in native mode via WireGuard as an interface, without using warp-cli
 
 ### Mesh network
 

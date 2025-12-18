@@ -309,6 +309,8 @@ Misc
   - Simple and no extra magic!
 - 🌟 [ebonnal/streamable](https://github.com/ebonnal/streamable): [Python] Stream-like manipulation of iterables.
 - [Jordan-Kowal/pipe-operator](https://github.com/Jordan-Kowal/pipe-operator): Elixir's pipe operator in Python <https://pypi.org/project/pipe-operator/>
+- 🌟 [suned/stateless](https://github.com/suned/stateless): Statically typed, purely functional effects for Python.
+- [HerringtonDarkholme/Koka](https://github.com/HerringtonDarkholme/Koka): Effect.py 
 
 ## Domain libraries
 

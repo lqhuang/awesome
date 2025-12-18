@@ -26,6 +26,7 @@
 - [NodeBook - A Deep Dive into the Runtime](https://www.thenodebook.com/): Learn and Master the complex parts of the Node.js Runtime. From V8's Turbofan optimizer to production deployments. Each chapter includes hands-on labs, real-world examples, and performance insights. Start your journey to becoming a Node.js expert today.
 - [ivankra/javascript-zoo](https://github.com/ivankra/javascript-zoo): JavaScript engines zoo <https://zoo.js.org>
   - [Eloquent JavaScript](https://eloquentjavascript.net/)
+- [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges): Collection of TypeScript type challenges with online judge <https://tsch.js.org/>
 
 ### Readings
 
@@ -436,6 +437,7 @@ Specific
 - [photostructure/exiftool-vendored.js](https://github.com/photostructure/exiftool-vendored.js): Fast, cross-platform Node.js access to ExifTool <https://photostructure.github.io/exiftool-vendored.js/>
 - [mapbox/pixelmatch](https://github.com/mapbox/pixelmatch): The smallest, simplest and fastest JavaScript pixel-level image comparison library
 - [teimurjan/blazediff](https://github.com/teimurjan/blazediff): Blazing-fast pixel-by-pixel image comparison with block-based optimization. 1.5x times faster than pixelmatch.
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff): A very fast SIMD-first image comparison library (with nodejs API)
 
 ### Glob
 

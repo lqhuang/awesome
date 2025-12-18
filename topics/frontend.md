@@ -30,6 +30,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - quite interesting to see the dependencies of core eco system libraries
   - inspired from [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams <https://excalidraw.com>
 - 🌟 [Intl Playground](https://intlin.site/): `Intl.DateTimeFormat` playground
+- [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react): Cheatsheets for experienced React developers getting started with TypeScript <https://react-typescript-cheatsheet.netlify.app>
 
 ### Readings
 
@@ -454,6 +455,49 @@ Emoji
 - [ferrucc-io/emoji-picker](https://github.com/ferrucc-io/emoji-picker): React Emoji picker component styled with Tailwind <https://emoji.ferrucc.io>
 - [liveblocks/frimousse](https://github.com/liveblocks/frimousse): A lightweight, unstyled, and composable emoji picker for React. <https://frimousse.liveblocks.io>
 
+Just render json in better way
+
+- [Himself65/rich-data](https://github.com/Himself65/rich-data): Data Viewer <https://rich-data.dev>
+- [YYsuni/react18-json-view](https://github.com/YYsuni/react18-json-view): JSON viewer for react18 <https://jv.yysuni.com/>
+- [microlinkhq/react-json-view](https://github.com/microlinkhq/react-json-view): JSON viewer for React <https://react-json-view.microlink.io>
+- [uiwjs/react-json-view](https://github.com/uiwjs/react-json-view): A React component for displaying and editing javascript arrays and JSON objects. <https://uiwjs.github.io/react-json-view/>
+- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee): Effortlessly visualize JSON structures as dynamic tree diagrams <https://jsontr.ee>
+- [CarlosNZ/json-edit-react](https://github.com/CarlosNZ/json-edit-react): React component for editing/viewing JSON/object data <https://carlosnz.github.io/json-edit-react/>
+
+PDF
+
+- [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf): Display PDFs in your React app as easily as if they were images. <https://projects.wojtekmaj.pl/react-pdf>
+  - **DISPLAY** pdf
+- [diegomura/react-pdf](https://github.com/diegomura/react-pdf): 📄 Create PDF files using React <https://react-pdf.org>
+  - **CREATE** pdf
+- [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination): A React pagination component which intelligently renders to the available width <https://react-responsive-pagination.elantha.com>
+- [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf): Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. <https://react.onedoclabs.com/>
+- [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick): View and Interact with PDFs in React SolidJS, Svelte and JavaScript apps <https://pdfslick.dev>
+
+DateTime related
+
+- [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar): Ultimate calendar for your React app. <https://projects.wojtekmaj.pl/react-calendar>
+- [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker): A date picker for your React app. <https://projects.wojtekmaj.pl/react-date-picker>
+- [fymmot/inclusive-dates](https://github.com/fymmot/inclusive-dates): A human-friendly datepicker – now as a Web Component! Supports natural language input through Chrono.js. Fully accessible with keyboard and screen reader. Contributions welcome! <https://fymmot.github.io/inclusive-dates/>
+- 🌟 [github/relative-time-element](https://github.com/github/relative-time-element): Web component extensions to the standard <time> element. <https://github.github.io/relative-time-element/examples/>
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono): 🕑 Modern Timeline Component for React <https://react-chrono.prabhumurthy.com/>
+- [nucleuscloud/neocron](https://github.com/nucleuscloud/neocron): A modern, lightweight cron scheduling react component styled using tailwind css
+- [nhn/tui.calendar](https://github.com/nhn/tui.calendar): 🍞📅A JavaScript calendar that has everything you need. <http://ui.toast.com/tui-calendar>
+
+Markdown
+
+- 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown): Markdown component for React <https://remarkjs.github.io/react-markdown>
+- [remarkjs/remark](https://github.com/remarkjs/remark): markdown processor powered by plugins part of the @unifiedjs collective <https://remark.js.org>
+- [micromark/micromark](https://github.com/micromark/micromark): small, safe, and great commonmark (optionally gfm) compliant markdown parser <https://unifiedjs.com>
+  - [micromark/micromark-extension-mdxjs-esm](https://github.com/micromark/micromark-extension-mdxjs-esm): micromark extension to support MDX JS import/exports <https://unifiedjs.com>
+- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx): 🏭 The most lightweight, customizable React markdown component. <https://markdown-to-jsx.quantizor.dev/>
+- [Milkdown/milkdown](https://github.com/Milkdown/milkdown): 🍼 Plugin driven WYSIWYG markdown editor framework. <https://milkdown.dev>
+- [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote): Load mdx content from anywhere through getStaticProps in next.js
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it): Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed <https://markdown-it.github.io>
+  - [antfu/markdown-it-async](https://github.com/antfu/markdown-it-async): Enhance markdown-it to support async highlight function.
+- [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown): ✨ A Markdown Editor <https://github.com/Tencent/cherry-markdown/wiki>
+- [vercel/streamdown](https://github.com/vercel/streamdown): A drop-in replacement for react-markdown, designed for AI-powered streaming. <https://streamdown.ai/>
+
 Misc
 
 - [vercel/satori](https://github.com/vercel/satori): Enlightened library to convert HTML and CSS to SVG <https://og-playground.vercel.app/>
@@ -492,49 +536,7 @@ Misc
 - [bryntum/chronograph](https://github.com/bryntum/chronograph): A reactive state management system with novel and unique properties <https://bryntum.github.io/chronograph/docs/>
 - [wigggle-ui/ui](https://github.com/wigggle-ui/ui): A beautiful collection of copy-and-paste widgets for your next project. <https://wigggle-ui.vercel.app>
 - [roerohan/react-vnc](https://github.com/roerohan/react-vnc): A React Component to connect to a websockified VNC server using noVNC. <https://npmjs.com/package/react-vnc>
-
-#### Just render json in better way
-
-- [Himself65/rich-data](https://github.com/Himself65/rich-data): Data Viewer <https://rich-data.dev>
-- [YYsuni/react18-json-view](https://github.com/YYsuni/react18-json-view): JSON viewer for react18 <https://jv.yysuni.com/>
-- [microlinkhq/react-json-view](https://github.com/microlinkhq/react-json-view): JSON viewer for React <https://react-json-view.microlink.io>
-- [uiwjs/react-json-view](https://github.com/uiwjs/react-json-view): A React component for displaying and editing javascript arrays and JSON objects. <https://uiwjs.github.io/react-json-view/>
-- [xzitlou/jsontr.ee](https://github.com/xzitlou/jsontr.ee): Effortlessly visualize JSON structures as dynamic tree diagrams <https://jsontr.ee>
-- [CarlosNZ/json-edit-react](https://github.com/CarlosNZ/json-edit-react): React component for editing/viewing JSON/object data <https://carlosnz.github.io/json-edit-react/>
-
-#### PDF
-
-- [wojtekmaj/react-pdf](https://github.com/wojtekmaj/react-pdf): Display PDFs in your React app as easily as if they were images. <https://projects.wojtekmaj.pl/react-pdf>
-  - **DISPLAY** pdf
-- [diegomura/react-pdf](https://github.com/diegomura/react-pdf): 📄 Create PDF files using React <https://react-pdf.org>
-  - **CREATE** pdf
-- [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination): A React pagination component which intelligently renders to the available width <https://react-responsive-pagination.elantha.com>
-- [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf): Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. <https://react.onedoclabs.com/>
-- [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick): View and Interact with PDFs in React SolidJS, Svelte and JavaScript apps <https://pdfslick.dev>
-
-#### DateTime related
-
-- [wojtekmaj/react-calendar](https://github.com/wojtekmaj/react-calendar): Ultimate calendar for your React app. <https://projects.wojtekmaj.pl/react-calendar>
-- [wojtekmaj/react-date-picker](https://github.com/wojtekmaj/react-date-picker): A date picker for your React app. <https://projects.wojtekmaj.pl/react-date-picker>
-- [fymmot/inclusive-dates](https://github.com/fymmot/inclusive-dates): A human-friendly datepicker – now as a Web Component! Supports natural language input through Chrono.js. Fully accessible with keyboard and screen reader. Contributions welcome! <https://fymmot.github.io/inclusive-dates/>
-- 🌟 [github/relative-time-element](https://github.com/github/relative-time-element): Web component extensions to the standard <time> element. <https://github.github.io/relative-time-element/examples/>
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono): 🕑 Modern Timeline Component for React <https://react-chrono.prabhumurthy.com/>
-- [nucleuscloud/neocron](https://github.com/nucleuscloud/neocron): A modern, lightweight cron scheduling react component styled using tailwind css
-- [nhn/tui.calendar](https://github.com/nhn/tui.calendar): 🍞📅A JavaScript calendar that has everything you need. <http://ui.toast.com/tui-calendar>
-
-#### Markdown
-
-- 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown): Markdown component for React <https://remarkjs.github.io/react-markdown>
-- [remarkjs/remark](https://github.com/remarkjs/remark): markdown processor powered by plugins part of the @unifiedjs collective <https://remark.js.org>
-- [micromark/micromark](https://github.com/micromark/micromark): small, safe, and great commonmark (optionally gfm) compliant markdown parser <https://unifiedjs.com>
-  - [micromark/micromark-extension-mdxjs-esm](https://github.com/micromark/micromark-extension-mdxjs-esm): micromark extension to support MDX JS import/exports <https://unifiedjs.com>
-- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx): 🏭 The most lightweight, customizable React markdown component. <https://markdown-to-jsx.quantizor.dev/>
-- [Milkdown/milkdown](https://github.com/Milkdown/milkdown): 🍼 Plugin driven WYSIWYG markdown editor framework. <https://milkdown.dev>
-- [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote): Load mdx content from anywhere through getStaticProps in next.js
-- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it): Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed <https://markdown-it.github.io>
-  - [antfu/markdown-it-async](https://github.com/antfu/markdown-it-async): Enhance markdown-it to support async highlight function.
-- [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown): ✨ A Markdown Editor <https://github.com/Tencent/cherry-markdown/wiki>
-- [vercel/streamdown](https://github.com/vercel/streamdown): A drop-in replacement for react-markdown, designed for AI-powered streaming. <https://streamdown.ai/>
+- [typsusan-zzz/canvas-drawing-editor](https://github.com/typsusan-zzz/canvas-drawing-editor): 强大的 Canvas 画布编辑器 Web Component，零依赖，支持 Vue 2/3、React、Angular 和原生 HTML | A powerful canvas-based drawing editor Web Component - Zero dependencies, works with Vue 2/3, React, Angular, and vanilla HTML <https://typsusan-zzz.github.io/canvas-drawing-editor/>
 
 #### Editor
 
@@ -605,6 +607,7 @@ Concrete animations
 - [shaders.com](https://shaders.com/): shader magic ✨ for frontend frameworks
 - [shajidhasan/spoilerjs](https://github.com/shajidhasan/spoilerjs): A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations. <https://spoilerjs.sh4jid.me>
 - [Liquid Glass in the Browser: Refraction with CSS and SVG — kube.io](https://kube.io/blog/liquid-glass-css-svg/): Explore how to recreate Apple's stunning Liquid Glass effect using CSS, SVG Displacement Maps, and refraction calculations.
+- [winterx/color4bg.js](https://github.com/winterx/color4bg.js): Cool colorful backgrounds, generated by JS
 
 ## Functional libraries
 
@@ -656,7 +659,7 @@ Concrete animations
   - small and clean, you can even just in-tree it
 - [kane50613/takumi](https://github.com/kane50613/takumi): Render your React components to images. Available for Rust, Node.js, and WebAssembly. <https://takumi.kane.tw>
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot): 📸 Quickly generate image from DOM node using HTML5 canvas and SVG. <https://toolpkg.com/html-to-image>
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom): snapDOM captures HTML elements to images with exceptional speed and accuracy. <https://snapdom.dev>
+- 🌟 [zumerlab/snapdom](https://github.com/zumerlab/snapdom): snapDOM captures HTML elements to images with exceptional speed and accuracy. <https://snapdom.dev>
 - [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js): Sitemap-generating framework for node.js
 - [TanStack/pacer](https://github.com/TanStack/pacer): Utilities for debouncing, throttling, rate limiting, and queueing. Non-async and Async. <https://tanstack.com/pacer>
   - Official note: TanStack Pacer is currently mostly a client-side only library, but it is being designed to be able to potentially be used on the server-side as well.
@@ -757,6 +760,7 @@ Concrete animations
 - [astrit/css.gg](https://github.com/astrit/css.gg): 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs <https://css.gg>
 - [feathericons/feather](https://github.com/feathericons/feather): Simply beautiful open-source icons <https://feathericons.com>
 - 🌟 [phosphor-icons/homepage](https://github.com/phosphor-icons/homepage): The homepage of Phosphor Icons, a flexible icon family for everyone <https://phosphoricons.com>
+  - [phosphor-icons/react](https://github.com/phosphor-icons/react): A flexible icon family for React <https://phosphoricons.com>
 - [YuheshPandian/ICONIC](https://github.com/YuheshPandian/ICONIC): ⚡A developer-oriented library of sleek, bubble-shaped skill icons designed for GitHub READMEs, portfolios, and resumes. <https://iconic-api.onrender.com>
 - 🌟 [jpswalsh/academicons](https://github.com/jpswalsh/academicons): An icon font for academics <https://jpswalsh.github.io/academicons>
 - [HeyHuazi/SVGLOGO](https://github.com/HeyHuazi/SVGLOGO): SVG LOGO for China <https://svglogo.top/>
@@ -779,6 +783,7 @@ Concrete animations
 - [Hugeicons](https://hugeicons.com/): Explore the world's most complete icon library: 40,000+ icons, 9 unique styles, and 59 categories. Perfect for UI/UX designers, developers, and creators using Figma, React, Flutter, and more.
 - https://icons8.com/icons/sf-regular
 - [Home | helpy-ui](https://helpy-ui.com/): Find Tools That Cover Your Code
+- [basmilius/weather-icons](https://github.com/basmilius/weather-icons): Free to use animated weather icons. <https://meteocons.com>
 
 ### Logos / Brand icons
 

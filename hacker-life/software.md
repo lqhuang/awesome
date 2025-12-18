@@ -40,6 +40,7 @@
 - [TibixDev/winboat](https://github.com/TibixDev/winboat): Run Windows apps on 🐧 Linux with ✨ seamless integration <https://www.winboat.app/>
   - Interesting, I also thought about this idea before, RDP is a missing piece in Windows ecosystem
 - [the-ora/browser](https://github.com/the-ora/browser): Less noise, more browsing. <https://orabrowser.com/>
+- 🌟 [KDE/labplot](https://github.com/KDE/labplot): LabPlot is a FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone. <https://invent.kde.org/education/labplot>
 
 ### Reader
 
@@ -228,7 +229,7 @@ nano11 > AtlasOS ≈ ReviOS > Tiny11 > Win11 LTSC
 - 🌟 [picosh/pgit](https://github.com/picosh/pgit): static site generator for git repos <https://git.erock.io>
 - [picosh/pico](https://github.com/picosh/pico): The ultimate ssh powered services for developers <https://pico.sh>
 
-SSH
+Terminal / SSH
 
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd): Share your terminal over the web <https://tsl0922.github.io/ttyd>
 - [shellhub-io/shellhub](https://github.com/shellhub-io/shellhub): 💻 Get seamless remote access to any Linux device. Centralized SSH for the edge and cloud computing
@@ -238,12 +239,12 @@ SSH
 - [raphamorim/rio](https://github.com/raphamorim/rio): A hardware-accelerated GPU terminal emulator powered by WebGPU, focusing to run in desktops and browsers. <https://raphamorim.io/rio>
 - [gnmyt/Nexterm](https://github.com/gnmyt/Nexterm): The open source server management software for SSH, VNC & RDP <http://docs.nexterm.dev/>
 - [serversideup/docker-ssh](https://github.com/serversideup/docker-ssh): Simple SSH container. Great for secure connections into clusters. <https://hub.docker.com/r/serversideup/docker-ssh>
-- 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC <https://manfred.life/quicssh>
 - [sshguard/sshguard](https://bitbucket.org/sshguard/sshguard/): SSHGuard protects hosts from brute-force attacks against SSH and other services. It aggregates system logs and blocks repeat offenders using one of several firewall backends. <https://www.sshguard.net>
 - [billchurch/webssh2](https://github.com/billchurch/webssh2): Web SSH Client using ssh2, socket.io, xterm.js, and express. webssh webssh2
 - [zhaojh329/rtty](https://github.com/zhaojh329/rtty): 🐛 Access your terminal from anywhere via the web. <https://rttys.net>
 - [shell-pool/shpool](https://github.com/shell-pool/shpool): Think tmux, then aim... lower
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal): Re-Connectable secure remote shell <https://mistertea.github.io/EternalTerminal/>
+- [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm): A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal. <https://kingtoolbox.github.io>
 
 ## CN Related
 
@@ -364,6 +365,7 @@ SSH
 - [booklore-app/booklore](https://github.com/booklore-app/booklore): BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics. <https://demo.booklore.dev>
 - [LeslieLeung/glean](https://github.com/LeslieLeung/glean): A self-hosted RSS reader and personal knowledge management tool.
 - 🌟 [zelestcarlyone/stacks](https://github.com/zelestcarlyone/stacks): Lightweight download manager for Anna's Archive with fast downloads, web UI, and API support.
+- 🌟 [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search <https://karakeep.app>
 
 ### Cloud Disk
 

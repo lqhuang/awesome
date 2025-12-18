@@ -8,6 +8,8 @@ Daniel Lemire is dominating this field 😄.
 
 - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks) | Blog | Guillaume Endignoux](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html): This post is the second part of my adventures to optimize a Rust workload running on multiple threads.In the first post, I explored how the rayon parallelism framework works, and explained how I designed a faster replacement for my use case.
 - [Performance Speed Limits | Performance Matters](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html): A laundry list of speed limits that your code can’t exceed.
+- [penberg/awesome-low-latency](https://github.com/penberg/awesome-low-latency): Patterns and resources of low latency programming.
+- [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
 
 ## Algorithmica
 
@@ -41,11 +43,19 @@ yyjson
 - [ibireme/yyjson](https://github.com/ibireme/yyjson): The fastest JSON library in C <https://ibireme.github.io/yyjson/doc/doxygen/html/>
   - [TkTech/py_yyjson](https://github.com/TkTech/py_yyjson): Fast and flexible Python JSON parsing (and manipulation!) built on the excellent yyjson project. <http://tkte.ch/py_yyjson/>
 
-## UTF / Strings
+## UTF
 
 - [simdutf/simdutf](https://github.com/simdutf/simdutf): Unicode routines (UTF8, UTF16, UTF32) and Base64: billions of characters per second using SSE2, AVX2, NEON, AVX-512, RISC-V Vector Extension. Part of Node.js, WebKit/Safari, Ladybird, Cloudflare Workers and Bun. <https://simdutf.github.io/simdutf/>
 - [ashvardanian/StringWars](https://github.com/ashvardanian/StringWars): Comparing performance-oriented string-processing libraries for substring search, multi-pattern matching, hashing, edit-distances, sketching, and sorting across CPUs and GPUs in Rust 🦀 and Python 🐍 <https://ashvardanian.com/posts/stringwars-on-gpus/>
 - [soasis/text](https://github.com/soasis/text): A spicy text library for C++ that has the explicit goal of enabling the entire ecosystem to share in proper forward progress towards a bright Unicode future. <https://ztdtext.readthedocs.io/en/latest/>
+
+## Strings
+
+- [dtolnay/ryu](https://github.com/dtolnay/ryu): Fast floating point to string conversion
+- [jk-jeon/dragonbox](https://github.com/jk-jeon/dragonbox): Reference implementation of Dragonbox in C++
+- [vitaut/zmij](https://github.com/vitaut/zmij): A double-to-string conversion algorithm based on Schubfach
+  - [Faster double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
+- [xjb714/xjb](https://github.com/xjb714/xjb): fast float to string algorithm.
 
 ## Speed up Python
 
@@ -60,7 +70,6 @@ yyjson
 
 - 🌟 [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
   - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust): Super-fast float parser in Rust (now part of Rust core) <https://docs.rs/fast-float>
-- [dtolnay/ryu](https://github.com/dtolnay/ryu): Fast floating point to string conversion
 - [lemire/fastrand](https://github.com/lemire/fastrand): Fast random number generation in an interval in Python: Up to 10x faster than random.randint.
 - [fast-pack/FastPFOR](https://github.com/fast-pack/FastPFOR): The FastPFOR C++ library: Fast integer compression
 - [fast-pack/JavaFastPFOR](https://github.com/fast-pack/JavaFastPFOR): A simple integer compression library in Java

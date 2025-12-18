@@ -229,7 +229,8 @@
 ## Misc
 
 - [zhaoolee/ins](https://github.com/zhaoolee/ins): 🍭 互联网从业者的灵感数据库，无广告，Github Actions 自动检测网站访问速度
-- 🌟 [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh): 💻📖 对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+- 🌟 [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws): 🧠 Laws, Theories, Principles and Patterns for developers and technologists. <http://hacker-laws.com/>
+  - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh): 💻📖 对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws)
 - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): 🥢 像老乡鸡 🐔 那样做饭。主要部分于 2024 年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. <https://cooklikehoc.soilzhu.su>
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): 人教版小学到大学数学

@@ -193,6 +193,7 @@
 - [com-lihaoyi/acyclic](https://github.com/com-lihaoyi/acyclic): Acyclic is a Scala compiler plugin to let you prohibit circular dependencies between files
 - [lightbend-labs/scala-sculpt](https://github.com/lightbend-labs/scala-sculpt): Dependency extraction for Scala codebases, to aid in modularizing
   - This is unfinished, unmaintained software. We are releasing it as open source as a public service with the hopes the code will be useful to someone.
+- [edin-dal/scair](https://github.com/edin-dal/scair): ScaIR - Democratizing Compilers <https://edin-dal.github.io/scair/>
 
 ### CI Actions
 
@@ -265,6 +266,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [armanbilge/calico](https://github.com/armanbilge/calico): Pure, reactive UI library for Scala.js <https://armanbilge.github.io/calico>
 - [japgolly/scalajs-react](https://github.com/japgolly/scalajs-react): Facebook's React on Scala.JS <https://japgolly.github.io/scalajs-react/>
 - [buntec/scala-js-snabbdom](https://github.com/buntec/scala-js-snabbdom): A Scala.js port of the Snabbdom virtual DOM library
+- [pme123/vscode-scalajs-hello](https://github.com/pme123/vscode-scalajs-hello): A Hello World VS Code extension with ScalaJS.
 
 ## Featured
 
@@ -381,6 +383,8 @@ Tracing and OpenTelemetry
 - [ParquetFileFormat.scala in spark src](https://github.com/apache/spark/blob/master/sql/core/src/main/scala/org/apache/spark/sql/execution/datasources/parquet/ParquetFileFormat.scala)
 - [47degrees/github4s](https://github.com/47degrees/github4s): A GitHub API wrapper written in Scala <http://47degrees.github.io/github4s>
 - [AlexITC/geminilive4s](https://github.com/AlexITC/geminilive4s): Gemini Live API for Scala
+- [timbertson/foperator](https://github.com/timbertson/foperator): Functional k8s operator framework, in scala
+- [joan38/kubernetes-client](https://github.com/joan38/kubernetes-client): A Kubernetes client for Scala
 
 ### Parser
 
@@ -397,6 +401,7 @@ Tracing and OpenTelemetry
 - 🌟 [TomasMikula/jing](https://github.com/TomasMikula/jing): Typesafe, spec-first APIs without codegen. Just Import 'N' Go!
 - [cornerman/sloth](https://github.com/cornerman/sloth): Type safe RPC in scala
 - [yoohaemin/decrel](https://github.com/yoohaemin/decrel): Composable relations for Scala <https://decrel.yoohaemin.com>
+- [arkida39/baku](https://github.com/arkida39/baku): A Scala Tapir extension to cleanly decouple API definitions from server and security logic.
 
 ### CLI
 
@@ -557,6 +562,19 @@ http4s
 - [tailcallhq/zio-compose](https://github.com/tailcallhq/zio-compose): A Scala DSL to write type-safe programs for distributed computing
 - [hmemcpy/zio-clippy](https://github.com/hmemcpy/zio-clippy): A Scala compiler plugin for better ZIO type mismatch errors.
 
+## Chips
+
+- [chipsalliance/chisel](https://github.com/chipsalliance/chisel): Chisel: A Modern Hardware Design Language <https://www.chisel-lang.org/>
+- [chipsalliance/chisel-template](https://github.com/chipsalliance/chisel-template): A template project for beginning new Chisel work
+- [chipsalliance/rocket-chip](https://github.com/chipsalliance/rocket-chip): Rocket Chip Generator
+- [schoeberl/chisel-book](https://github.com/schoeberl/chisel-book): Digital Design with Chisel
+- [schoeberl/chisel-lab](https://github.com/schoeberl/chisel-lab): Lab exercises for Chisel in the digital electronics 2 course at DTU
+- [doofin/dependentChisel](https://github.com/doofin/dependentChisel): Chisel on Scala 3 with improved bit width inference
+- [riscv/learn](https://github.com/riscv/learn): Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. <https://riscv.org/>
+- [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan): Open-source high-performance RISC-V processor <https://xiangshan.cc>
+- [chadyuu/riscv-chisel-book](https://github.com/chadyuu/riscv-chisel-book): No description, website, or topics provided.
+- [OSCPU/chisel-playground](https://github.com/OSCPU/chisel-playground): No description, website, or topics provided.
+
 ## Could we make Scala great (in Science Computing) ~~again~~?
 
 ### Numerical for Scala
@@ -585,6 +603,8 @@ http4s
 - [projectglow/glow](https://github.com/projectglow/glow): An open-source toolkit for large-scale genomic analysis <https://projectglow.io>
 - [vagmcs/Optimus](https://github.com/vagmcs/Optimus): Optimus is a mathematical programming library for Scala.
 - [metarank/metarank](https://github.com/metarank/metarank): A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine <https://metarank.ai>
+- [windymelt/hnsw-scala](https://github.com/windymelt/hnsw-scala): Experimental implementation for HNSW in Scala 3
+- [tribbloid/shapesafe](https://github.com/tribbloid/shapesafe): SHAPE/S∀F∃: static prover/type-checker for N-D array programming in Scala, a use case of intuitionistic type theory
 
 ### kotlin for Data Intensive System
 

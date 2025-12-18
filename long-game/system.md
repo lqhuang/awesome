@@ -38,6 +38,7 @@
 - [Memory, Cache, CPU optimization resources.md](https://gist.github.com/ocornut/cb980ea183e848685a36)
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design): A curated list of data oriented design resources.
 - [Memory Management Reference](https://www.memorymanagement.org/): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
+- 🌟 [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook/)
 
 ## Compiler
 
@@ -126,6 +127,7 @@
 
 - [capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto serialization/RPC system - core tools and C++ library <https://capnproto.org>
 - [google/riegeli](https://github.com/google/riegeli): Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.
+- [evanw/kiwi](https://github.com/evanw/kiwi): A schema-based binary format for efficiently encoding trees of data <http://evanw.github.io/kiwi/>
 
 ## Performance profile / tracing
 

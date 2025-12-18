@@ -299,6 +299,10 @@ Visual stack
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app): 📨 The ultimate social media scheduling tool, with a bunch of AI 🤖 <https://postiz.com>
 - [shared-recruiting-co/shared-recruiting-co](https://github.com/shared-recruiting-co/shared-recruiting-co): SRC (Shared Recruiting Co.) is an open-source, candidate-centric recruiting platform <https://sharedrecruiting.co>
 - [moabukar/tech-vault](https://github.com/moabukar/tech-vault): A list of many interview questions & real-world challenges in Tech! (https://tech-vault-web.vercel.app/) <https://tech-vault-web.vercel.app/>
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap): Interactive roadmaps, guides and other educational content to help developers grow in their careers. <https://roadmap.sh>
+- [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
+- [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
+- [charlax/professional-programming](https://github.com/charlax/professional-programming): A collection of learning resources for curious software engineers
 
 ### Open Source & Community
 
