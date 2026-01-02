@@ -383,6 +383,7 @@ Specific
 - [adzejs/adze](https://github.com/adzejs/adze): A universal, modern, and extensible logging library for JavaScript and TypeScript. <https://adzejs.com/>
 - [winstonjs/winston](https://github.com/winstonjs/winston): A logger for just about everything. <http://github.com/winstonjs/winston>
 - [dahlia/logtape](https://github.com/dahlia/logtape): Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions <http://logtape.org/>
+- [fullstack-build/tslog](https://github.com/fullstack-build/tslog): 📝 tslog - Universal Logger for TypeScript and JavaScript <https://tslog.js.org>
 
 ### fetch
 
@@ -520,3 +521,5 @@ Deep equal
 - [Snowflyt/tinyeffect](https://github.com/Snowflyt/tinyeffect): A tiny TypeScript library for handling side effects in a unified way using algebraic effects, offering a type-safe approach for async operations, error handling, dependency injection, and more. <https://github.com/Snowflyt/tinyeffect>
 - [thefrontside/effection](https://github.com/thefrontside/effection): Structured concurrency and effects for JavaScript <https://frontside.com/effection>
 - [dqbd/ts-math-evaluate](https://github.com/dqbd/ts-math-evaluate): Type-level math expression evaluator for TypeScript. <https://ts-math-evaluate.vercel.app/>
+
+- [teimurjan/blazediff](https://github.com/teimurjan/blazediff): Blazing-fast diff ecosystem for JavaScript applications <https://blazediff.dev>

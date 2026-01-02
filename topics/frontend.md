@@ -401,6 +401,7 @@ Drag / Drop
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop): Fast drag and drop for any experience on any tech stack <https://atlassian.design/components/pragmatic-drag-and-drop>
 - 🌟 [mathuo/dockview](https://github.com/mathuo/dockview): Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue. <https://dockview.dev>
 - [Shopify/draggable](https://github.com/Shopify/draggable): The JavaScript Drag & Drop library your grandparents warned you about. <https://shopify.github.io/draggable>
+- [jgthms/picknplace.js](https://github.com/jgthms/picknplace.js): A proof of concept of a viable drag and drop alternative <http://jgthms.com/picknplace.js/>
 
 Form
 

@@ -41,6 +41,7 @@
 - [litespeedtech/lsquic](https://github.com/litespeedtech/lsquic): LiteSpeed QUIC and HTTP/3 Library
 - [datenlord/open-rdma](https://github.com/datenlord/open-rdma): RoCE v2 hardware and software implementation
 - [Nordix/nfqueue-loadbalancer](https://github.com/Nordix/nfqueue-loadbalancer): A load-balancer based on the NFQUEUE iptables target
+- [mullvad/gotatun](https://github.com/mullvad/gotatun): Userspace WireGuard® Implementation in Rust
 
 ## Tools
 

@@ -310,7 +310,7 @@ Misc
 - 🌟 [ebonnal/streamable](https://github.com/ebonnal/streamable): [Python] Stream-like manipulation of iterables.
 - [Jordan-Kowal/pipe-operator](https://github.com/Jordan-Kowal/pipe-operator): Elixir's pipe operator in Python <https://pypi.org/project/pipe-operator/>
 - 🌟 [suned/stateless](https://github.com/suned/stateless): Statically typed, purely functional effects for Python.
-- [HerringtonDarkholme/Koka](https://github.com/HerringtonDarkholme/Koka): Effect.py 
+- [HerringtonDarkholme/Koka](https://github.com/HerringtonDarkholme/Koka): Effect.py
 
 ## Domain libraries
 
@@ -829,3 +829,5 @@ pdf
 - [TexteaInc/funix](https://github.com/TexteaInc/funix): Building web apps without manually creating widgets <http://funix.io>
 - [rio-labs/rio](https://github.com/rio-labs/rio): WebApps in pure Python. No JavaScript, HTML and CSS needed <https://rio.dev>
 - [Knio/dominate](https://github.com/Knio/dominate): Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API. It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn another template language, and to take advantage of the more powerful features of Python.
+- [tomasr8/pyjsx](https://github.com/tomasr8/pyjsx): Write JSX directly in Python
+  - [frostming/textual-jsx](https://github.com/frostming/textual-jsx): Example library to enable JSX support in Textual

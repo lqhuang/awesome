@@ -98,6 +98,7 @@
 - [plastex/plastex](https://github.com/plastex/plastex): plasTeX is a Python package that processes LaTeX documents into an XML-DOM-like object which can be used to generate various types of output.
   - [PatrickMassot/plastexdepgraph](https://github.com/PatrickMassot/plastexdepgraph): Dependency graph plugin for plasTeX
   - [ElifUskuplu/KnowTex](https://github.com/ElifUskuplu/KnowTex): Knowledge Dependency from TeX
+- [juliaferraioli/tex-customizations](https://github.com/juliaferraioli/tex-customizations): Various packages and classes for LaTeX
 
 ### Latex Templates
 
@@ -132,6 +133,7 @@
 - [messense/typst-py](https://github.com/messense/typst-py): Python binding to typst
 - [Robotechnic/diagraph](https://github.com/Robotechnic/diagraph): A typst wasm plugin to use graphviz directly inside documents
 - [OverflowCat/chiandiau](https://github.com/OverflowCat/chiandiau): Display tone-based jumpy pronunciations in Typst
+- [rendercv/rendercv](https://github.com/rendercv/rendercv): Typst-based CV/resume generator for academics and engineers <https://docs.rendercv.com>
 
 ### Bib
 

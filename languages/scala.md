@@ -439,7 +439,6 @@ Tracing and OpenTelemetry
 - [wvlet/airframe](https://github.com/wvlet/airframe): Essential Building Blocks for Scala <https://wvlet.org/airframe>
   - ulid
 - 🌟 [outr/perfolation](https://github.com/outr/perfolation): Performance focused interpolation
-- [arainko/chanterelle](https://github.com/arainko/chanterelle): No description, website, or topics provided.
 - [geirolz/cats-xml](https://github.com/geirolz/cats-xml): A functional library to work with XML in Scala using Cats. <https://geirolz.github.io/cats-xml/>
 - [tototoshi/scala-csv](https://github.com/tototoshi/scala-csv): CSV Reader/Writer for Scala
 

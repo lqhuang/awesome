@@ -200,7 +200,6 @@
   - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus): A docker-compose stack for Prometheus monitoring
   - [fhemberger/prometheus-formatter](https://github.com/fhemberger/prometheus-formatter): Browser extension which makes plain Prometheus/OpenMetrics endpoints easier to read
 - [Polar Signals](https://www.polarsignals.com/): Polar Signals Cloud is an always-on, zero-instrumentation continuous profiling product that helps improve performance, understand incidents, and lower infrastructure costs.
-- [perses/perses](https://github.com/perses/perses): The CNCF candidate for observability visualisation. Already supports Prometheus - more data sources to come! <https://demo.perses.dev>
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent): The production-scale datacenter profiler
 - [google/mtail](https://github.com/google/mtail): extract internal monitoring data from application logs for collection in a timeseries database
 - [nyrkio/nyrkio](https://github.com/nyrkio/nyrkio): Nyrkiö is an open source platform for detecting performance changes <https://nyrkio.com>
@@ -231,7 +230,7 @@ Visual stack
 
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs): Grafana Labs' Jsonnet libraries
 - [monitoring-mixins/website](https://github.com/monitoring-mixins/website): Prometheus monitoring mixins <https://monitoring.mixins.dev>
-- [perses/perses](https://github.com/perses/perses): The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come! <https://perses.dev>
+- 🌟 [perses/perses](https://github.com/perses/perses): The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come! <https://perses.dev>
 - [openobserve/openobserve](https://github.com/openobserve/openobserve): 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). <https://openobserve.ai>
 
 ### Logging viewer / Logging search

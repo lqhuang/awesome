@@ -56,6 +56,7 @@
 - [kowainik/learn4haskell](https://github.com/kowainik/learn4haskell): 👩‍🏫 👨‍🏫 Learn Haskell basics in 4 pull requests <https://kowainik.github.io/projects/learn4haskell>
 - [0rphee/haskellings](https://github.com/0rphee/haskellings): No description, website, or topics provided.
 - [moocfi/haskell-mooc](https://github.com/moocfi/haskell-mooc): Haskell MOOC University of Helsinki
+- [sjakobi/awesome-haskell-tutorial-modules](https://github.com/sjakobi/awesome-haskell-tutorial-modules): A curated list of awesome Haskell tutorial modules
 
 ## Best choices
 
@@ -159,6 +160,7 @@
   - [DataHaskell/dh-core](https://github.com/DataHaskell/dh-core): Functional data science
   - [capn-freako/Haskell_ML](https://github.com/capn-freako/Haskell_ML): Various examples of machine learning, in Haskell.
   - [achirkin/easytensor](https://github.com/achirkin/easytensor): Many-dimensional type-safe numeric ops <https://hackage.haskell.org/package/easytensor>
+- [raehik/type-level-prng](https://github.com/raehik/type-level-prng): Type level pseudorandom number generators
 
 ## CLI
 

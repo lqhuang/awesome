@@ -88,6 +88,7 @@
 - [joknarf/pgtree](https://github.com/joknarf/pgtree): Unix process hierachy tree for specific processes (mixed pgrep + pstree) <https://joknarf.github.io/joknarf-tools>
 - [orhun/systeroid](https://github.com/orhun/systeroid): A more powerful alternative to sysctl(8) with a terminal user interface 🐧 <https://systeroid.cli.rs>
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal): A static page generator for repos
+- [x-motemen/ghq](https://github.com/x-motemen/ghq): Remote repository management made easy
 
 ### SSH
 

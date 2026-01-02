@@ -41,6 +41,7 @@
   - Interesting, I also thought about this idea before, RDP is a missing piece in Windows ecosystem
 - [the-ora/browser](https://github.com/the-ora/browser): Less noise, more browsing. <https://orabrowser.com/>
 - 🌟 [KDE/labplot](https://github.com/KDE/labplot): LabPlot is a FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone. <https://invent.kde.org/education/labplot>
+- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW): A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 
 ### Reader
 
@@ -245,6 +246,7 @@ Terminal / SSH
 - [shell-pool/shpool](https://github.com/shell-pool/shpool): Think tmux, then aim... lower
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal): Re-Connectable secure remote shell <https://mistertea.github.io/EternalTerminal/>
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm): A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal. <https://kingtoolbox.github.io>
+- [google/werm](https://github.com/google/werm): Tab-friendly terminal multiplexer via Chrome
 
 ## CN Related
 
