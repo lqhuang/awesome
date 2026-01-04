@@ -286,6 +286,7 @@ Fastlink for my own projects
 - [bcr:pcre2](https://registry.bazel.build/modules/pcre2)
 - [bcr:rocksdb](https://registry.bazel.build/modules/rocksdb)
 - [bcr:spdlog](https://registry.bazel.build/modules/spdlog)
+- [bcr:cpp-httplib](https://registry.bazel.build/modules/cpp-httplib)
 - [bcr:sqlite3](https://registry.bazel.build/modules/sqlite3)
 - [bcr:tcmalloc](https://registry.bazel.build/modules/tcmalloc)
 - [bcr:z3](https://registry.bazel.build/modules/z3).

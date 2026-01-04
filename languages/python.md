@@ -406,6 +406,7 @@ Misc
 - 📝 [falconry/falcon](https://github.com/falconry/falcon): The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale. <https://falcon.readthedocs.io/en/stable/>
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall): Remote Procedure Calls - 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & 🔜 REST over io_uring and SIMDJSON ☎️ <https://unum-cloud.github.io/ucall/>
 - 🌟 [django/asgiref](https://github.com/django/asgiref): ASGI specification and utilities <https://asgi.readthedocs.io/en/latest>
+- [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx): A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
 - [spec-first/connexion](https://github.com/spec-first/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support <https://connexion.readthedocs.io/en/latest>
 - 🌟 [litestar-org/litestar](https://github.com/litestar-org/litestar): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs <https://litestar.dev/>
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users): Ready-to-use and customizable users management for FastAPI <https://fastapi-users.github.io/fastapi-users/>

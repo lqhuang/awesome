@@ -232,6 +232,7 @@ Misc
 - [plv8/pljs](https://github.com/plv8/pljs): PLJS - Javascript Language Plugin for PostgreSQL
 - [darold/pgFormatter](https://github.com/darold/pgFormatter): A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at http://sqlformat.darold.net/
 - [graphile/crystal](https://github.com/graphile/crystal): 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more! <https://graphile.org/>
+- [CrystallineCore/Biscuit](https://github.com/CrystallineCore/Biscuit): Biscuit is a specialized PostgreSQL index access method (IAM) designed for blazing-fast pattern matching on LIKE queries, with native support for multi-column searches. It eliminates the recheck overhead of trigram indexes while delivering significant performance improvements on wildcard-heavy queries.
 
 ### SQLite
 

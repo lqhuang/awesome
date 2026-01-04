@@ -210,6 +210,8 @@ And modern is here now.
 - [pocoproject/poco](https://github.com/pocoproject/poco): The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems. <https://pocoproject.org>
 - [gitlab:GNOME/GLib](https://gitlab.gnome.org/GNOME/glib/): Low-level core library that forms the basis for projects such as GTK and GNOME.
 - [mpark/patterns](https://github.com/mpark/patterns): This is an experimental library that has evolved to P2688 <https://wg21.link/p2688>
+- [nonstd-lite/expected-lite](https://github.com/nonstd-lite/expected-lite): expected lite - C++23 expected objects for C++11 and later in a single-file header-only library
+- [microsoft/GSL](https://github.com/microsoft/GSL): Guidelines Support Library
 
 ### Better libc
 
@@ -258,6 +260,8 @@ And modern is here now.
 - [microsoft/proxy](https://github.com/microsoft/proxy): Proxy: Next Generation Polymorphism in C++ <https://microsoft.github.io/proxy/docs/specifications.html>
 - [weidai11/cryptopp](https://github.com/weidai11/cryptopp): free C++ class library of cryptographic schemes <https://cryptopp.com>
 - [flanglet/kanzi-cpp](https://github.com/flanglet/kanzi-cpp): Fast lossless data compression in C++
+- [g-truc/glm](https://github.com/g-truc/glm): OpenGL Mathematics (GLM) <https://glm.g-truc.net>
+- [skypjack/entt](https://github.com/skypjack/entt): Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more <https://github.com/skypjack/entt/wiki>
 
 ### Data Structures
 
@@ -267,7 +271,8 @@ And modern is here now.
 - [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
 - [lemire/EWAHBoolArray](https://github.com/lemire/EWAHBoolArray): A compressed bitmap class in C++. <http://lemire.github.io/EWAHBoolArray/>
 - [lewj85/jessesort](https://github.com/lewj85/jessesort): No description, website, or topics provided.
-- [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers. <https://greg7mdp.github.io/parallel-hashmap>
+- 🌟 [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers. <https://greg7mdp.github.io/parallel-hashmap>
+- [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers): C++ Fixed Containers
 
 ### Serde
 
@@ -278,6 +283,8 @@ And modern is here now.
 - [felixguendling/cista](https://github.com/felixguendling/cista): Cista is a simple, high-performance, zero-copy C++ serialization & reflection library. <https://cista.rocks>
 - [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp): A YAML parser and emitter in C++
 - [rxi/sj.h](https://github.com/rxi/sj.h): A tiny little JSON parsing library
+- [vincentlaucsb/csv-parser](https://github.com/vincentlaucsb/csv-parser): A high-performance, fully-featured CSV parser and serializer for modern C++.
+- [benhoyt/inih](https://github.com/benhoyt/inih): Simple .INI file parser in C, good for embedded systems
 
 ### String
 
@@ -314,6 +321,7 @@ And modern is here now.
 - [alandefreitas/futures](https://github.com/alandefreitas/futures): C++ Better Futures <https://alandefreitas.github.io/futures/>
 - [cmuparlay/parlaylib](https://github.com/cmuparlay/parlaylib): A Toolkit for Programming Parallel Algorithms on Shared-Memory Multicore Machines
 - [cmuparlay/PAM](https://github.com/cmuparlay/PAM): Parallel Balanced Binary Tree Structures
+- [bshoshany/thread-pool](https://github.com/bshoshany/thread-pool): BS::thread_pool: a fast, lightweight, modern, and easy-to-use C++17 / C++20 / C++23 thread pool library
 
 ### Network / RPC
 
@@ -332,6 +340,7 @@ And modern is here now.
 
 ### Web
 
+- 🌟 [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib): A C++ header-only HTTP/HTTPS server and client library
 - [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp): SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. <http://srombauts.github.io/SQLiteCpp>
 - [fnc12/sqlite_orm](https://github.com/fnc12/sqlite_orm): ❤️ SQLite ORM light header only library for modern C++
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm): Nift - world's fastest cross-platform open source website generator. <https://nift.dev/>
@@ -343,6 +352,7 @@ And modern is here now.
 - [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI): 💻 C++ Functional Terminal User Interface. ❤️
 - 🌟 [p-ranav/argparse](https://github.com/p-ranav/argparse): Argument Parser for Modern C++
 - [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface. <https://cliutils.github.io/CLI11/book/>
+- [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts): Lightweight C++ command line option parser
 
 ## Utils
 
@@ -353,6 +363,7 @@ And modern is here now.
 - [jupp0r/prometheus-cpp](https://github.com/jupp0r/prometheus-cpp): Prometheus Client Library for Modern C++
 - [gflags/gflags](https://github.com/gflags/gflags): The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at: <https://gflags.github.io/gflags/>
 - [soasis/platform](https://github.com/soasis/platform): A library for messing with platfom-dependent configurations and libraries, and sometimes hiding their cores.
+- [p-ranav/tabulate](https://github.com/p-ranav/tabulate): Table Maker for Modern C++
 
 ## GPU / CUDA
 
@@ -393,5 +404,3 @@ And modern is here now.
 - [Vexu/arocc](https://github.com/Vexu/arocc): A modern fully featured C compiler.
 - [compiler-research/CppInterOp](https://github.com/compiler-research/CppInterOp): A Clang-based C++ Interoperability Library
 - [root-project/cling](https://github.com/root-project/cling): The cling C++ interpreter
-
-- [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers): C++ Fixed Containers

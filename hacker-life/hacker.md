@@ -162,6 +162,16 @@
 - [karam-ajaj/atlas](https://github.com/karam-ajaj/atlas): Open-source tool for network discovery, visualization, and monitoring. Built with Go, FastAPI, and React, supports Docker host scanning. <https://atlasdemo.vnerd.nl>
 - [mayanayza/netvisor](https://github.com/mayanayza/netvisor): Automatically discover and visually document network topology.
 - [arensb/ansible-truenas](https://github.com/arensb/ansible-truenas): Ansible collection to manage TrueNAS
+- [mother-of-all-self-hosting/mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook): 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
+  - [mother-of-all-self-hosting/ansible-role-postgres-backup](https://github.com/mother-of-all-self-hosting/ansible-role-postgres-backup): An Ansible role that sets up prodrigestivill/docker-postgres-backup-local to run as a Docker container wrapped in a systemd service
+  - [mother-of-all-self-hosting/ansible-role-cadvisor](https://github.com/mother-of-all-self-hosting/ansible-role-cadvisor): An Ansible role for installing the cAdvisor (Container Advisor) software
+  - [mother-of-all-self-hosting/ansible-role-infisical](https://github.com/mother-of-all-self-hosting/ansible-role-infisical): An Ansible role for setting up Infisical: an open-source end-to-end encrypted platform for securely managing secrets and configs across your team, devices, and infrastructure <https://infisical.com/>
+  - [mother-of-all-self-hosting/ansible-role-prometheus](https://github.com/mother-of-all-self-hosting/ansible-role-prometheus): An Ansible role for installing Prometheus
+  - [mother-of-all-self-hosting/ansible-role-authelia](https://github.com/mother-of-all-self-hosting/ansible-role-authelia): An Ansible role for installing the Authelia authentication server
+  - [mother-of-all-self-hosting/ansible-role-semaphore](https://github.com/mother-of-all-self-hosting/ansible-role-semaphore): Ansible role to deploy Semaphore UI, a modern UI for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools
+  - [mother-of-all-self-hosting/ansible-role-forgejo](https://github.com/mother-of-all-self-hosting/ansible-role-forgejo): An Ansible role for deploying Forgejo, a community-driven fork of Gitea
+  - [mother-of-all-self-hosting/ansible-role-valkey](https://github.com/mother-of-all-self-hosting/ansible-role-valkey): A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+  - [mother-of-all-self-hosting/ansible-role-keycloak](https://github.com/mother-of-all-self-hosting/ansible-role-keycloak): An Ansible role for installing the Keycloak open source identity and access management solution
 
 ### Virtualization
 
