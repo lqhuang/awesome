@@ -262,6 +262,7 @@ Specific
 
 - 🌟 [blitz-js/superjson](https://github.com/blitz-js/superjson): Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - 🌟 [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es): Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
+- ~~[protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js): Protocol Buffers for JavaScript & TypeScript.~~
 - [mapbox/pbf](https://github.com/mapbox/pbf): A low-level, lightweight protocol buffers implementation in JavaScript.
 - [elysiajs/json-accelerator](https://github.com/elysiajs/json-accelerator): Accelerate JSON stringification by providing OpenAPI/TypeBox shape <https://www.npmjs.com/package/json-accelerator>
 - 🌟 [hyparam/hyparquet](https://github.com/hyparam/hyparquet): parquet file parser for javascript

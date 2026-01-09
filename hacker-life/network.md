@@ -92,6 +92,8 @@
 - [ycd/dstp](https://github.com/ycd/dstp): 🧪 Run common networking tests against any site.
 - [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns): DNS over HTTPS config profiles for iOS & macOS <https://paulmillr.com/posts/encrypted-dns/>
   - [Paul Miller — iOS 14, Big Sur and DNS over HTTPS](https://paulmillr.com/posts/encrypted-dns/): Paul Miller. I make projects which help developers to build awesome things
+- [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping): Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
+- [mkirchner/tcping](https://github.com/mkirchner/tcping): Check if a desired port is reachable via TCP
 
 ### Analysis
 

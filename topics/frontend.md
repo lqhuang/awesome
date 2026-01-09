@@ -730,6 +730,7 @@ Concrete animations
 - [recharts/recharts](https://github.com/recharts/recharts): Redefined chart library built with React and D3 <http://recharts.org>
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts): A Beautiful & Animated Chart UI Website built on top of shadcn & recharts. <https://evilcharts.com>
 - [adobe/react-spectrum-charts](https://github.com/adobe/react-spectrum-charts): Build compelling visualizations using declarative react components. <http://opensource.adobe.com/react-spectrum-charts/>
+- [wbkd/awesome-d3](https://github.com/wbkd/awesome-d3): A list of D3 libraries, plugins and utilities <https://d3-discovery.net/>
 
 ### Tree / Architecture
 
@@ -846,3 +847,7 @@ Concrete animations
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser): Lightpanda: the headless browser designed for AI and automation <https://lightpanda.io>
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
+
+
+- [SukkaW/fooldevs](https://github.com/SukkaW/fooldevs): Trick Wappalyzer into misidentifying web technologies used on your websites
+

@@ -33,9 +33,9 @@
 - [Chang-LeHung/dive-into-cpython](https://github.com/Chang-LeHung/dive-into-cpython): dive into cpython source code <https://chang-lehung.github.io/dive-into-cpython/>
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals): Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研究员 Anthony Shaw 的《CPython Internals》中文翻译
-  - in chinese
+  - in Chinese
 - [satori1995/cpython-internal](https://github.com/satori1995/cpython-internal): 深度解析 CPython3.8 源码实现 <https://satori1995.github.io/cpython-internal>
-  - in chinese
+  - in Chinese
 - [satori1995/python-tech](https://github.com/satori1995/python-tech): Python 实用技巧
   - in Chinese
 - [python/typing-council](https://github.com/python/typing-council): Decisions by the Python Typing Council
@@ -43,6 +43,8 @@
   - [scientific-python/cookie](https://github.com/scientific-python/cookie): Scientific Python Library Development Guide and Cookiecutter <https://learn.scientific-python.org/development>
 - [Python extensions should be lazy](https://www.gauge.sh/blog/python-extensions-should-be-lazy)
 - [Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly | Ken Jin](https://fidget-spinner.github.io/posts/jit-reflections.html)
+- [Friendly Python notes](https://gist.github.com/PsiACE/8df7647b9bca2ebb28c418ac946599f6): Friendly Python notes under Frost Ming's "friendly python" tag
+  - in Chinese
 
 ### Books
 

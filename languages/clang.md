@@ -44,6 +44,8 @@ And modern is here now.
   - using C++ in embedded bare metal development.
 - [Making the Clang AST Leaner and Faster | The C++ Alliance](https://cppalliance.org/mizvekov,/clang/2025/10/20/Making-Clang-AST-Leaner-Faster.html)
 - [CppQuiz.org](https://cppquiz.org/)
+- 🌟 [Clang Hardening Cheat Sheet - Ten Years Later - Quarkslab's blog](https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html): Ten years ago, we published a Clang Hardening Cheat Sheet. Since then, both the threat landscape and the Clang toolchain have evolved significantly. This blog post presents the new mitigations available in Clang to improve the security of your applications.
+  - [Clang Hardening Cheat Sheet - Quarkslab's blog](https://blog.quarkslab.com/clang-hardening-cheat-sheet.html): While improving the documentation (d'oh!) of our home grew obfuscator based on LLVM, we wrote a cheat sheet on clang's hardening features, and some of ld ones. It turns out existing hardening guides generally focus on GCC, while Clang also has an interesting set of hardening features. So let's share it in this blog post!
 
 ### References
 
@@ -404,3 +406,5 @@ And modern is here now.
 - [Vexu/arocc](https://github.com/Vexu/arocc): A modern fully featured C compiler.
 - [compiler-research/CppInterOp](https://github.com/compiler-research/CppInterOp): A Clang-based C++ Interoperability Library
 - [root-project/cling](https://github.com/root-project/cling): The cling C++ interpreter
+
+- [rizsotto/Bear](https://github.com/rizsotto/Bear): Bear is a tool that generates a compilation database for clang tooling.

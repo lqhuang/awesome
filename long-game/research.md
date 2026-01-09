@@ -134,6 +134,8 @@
 - [Robotechnic/diagraph](https://github.com/Robotechnic/diagraph): A typst wasm plugin to use graphviz directly inside documents
 - [OverflowCat/chiandiau](https://github.com/OverflowCat/chiandiau): Display tone-based jumpy pronunciations in Typst
 - [rendercv/rendercv](https://github.com/rendercv/rendercv): Typst-based CV/resume generator for academics and engineers <https://docs.rendercv.com>
+- 🌟 [vsheg/tufted](https://github.com/vsheg/tufted): Responsive web layout with wide margins, elegant sidenotes, and restrained typography <https://tufted.vsheg.com/>
+  - [Yousa-Mirage/Tufted-Blog-Template](https://github.com/Yousa-Mirage/Tufted-Blog-Template): 基于 Typst 的 Tufte 风格博客网站模板。A beautiful blog template using the Tufte style, powered by Typst. <https://little-yousa-mirage.github.io/>
 
 ### Bib
 

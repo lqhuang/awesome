@@ -172,6 +172,7 @@
   - [mother-of-all-self-hosting/ansible-role-forgejo](https://github.com/mother-of-all-self-hosting/ansible-role-forgejo): An Ansible role for deploying Forgejo, a community-driven fork of Gitea
   - [mother-of-all-self-hosting/ansible-role-valkey](https://github.com/mother-of-all-self-hosting/ansible-role-valkey): A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
   - [mother-of-all-self-hosting/ansible-role-keycloak](https://github.com/mother-of-all-self-hosting/ansible-role-keycloak): An Ansible role for installing the Keycloak open source identity and access management solution
+- [ad4mts/zfdash](https://github.com/ad4mts/zfdash): ZFS Management GUI & Web UI for Linux, macOS and FreeBSD. Provides both Desktop GUI and Web UI interfaces. Simplifies common ZFS administration tasks for pools, datasets, volumes, and snapshots, including creation, destruction, property editing, snapshots, rollback, and encryption management.
 
 ### Virtualization
 

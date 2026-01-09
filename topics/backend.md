@@ -29,7 +29,10 @@
 - [hahwul/dalfox](https://github.com/hahwul/dalfox): 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation. <https://dalfox.hahwul.com>
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin): HTTP Request & Response Service, written in Python + Flask. <https://httpbin.org>
 - [mccutchen/go-httpbin](https://github.com/mccutchen/go-httpbin): A reasonably complete and well-tested golang port of httpbin, with zero dependencies outside the go stdlib. <https://httpbingo.org>
+- [gaul/java-httpbin](https://github.com/gaul/java-httpbin): A Java-based HTTP server that lets you locally test your HTTP client, retry logic, streaming behavior, timeouts, etc. with the endpoints of httpbin.org
 - [moul/grpcbin](https://github.com/moul/grpcbin): httpbin like for gRPC <https://grpcb.in/>
+- [gaul/java-httpbin](https://github.com/gaul/java-httpbin): A Java-based HTTP server that lets you locally test your HTTP client, retry logic, streaming behavior, timeouts, etc. with the endpoints of httpbin.org
+- [jaredwray/mockhttp](https://github.com/jaredwray/mockhttp): A simple HTTP server that can be used to mock HTTP responses for testing purposes. Inspired by httpbin and built using nodejs and fastify with the idea of running it via https://mockhttp.org, via docker jaredwray/mockhttp, or nodejs npm install jaredwray/mockhttp. <https://mockhttp.org>
 
 ### API Test
 

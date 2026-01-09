@@ -18,6 +18,7 @@
   - Aha, awesome
   - Ok. I see, the default language is Japanese ... so ... Got it!
 - 🌟 [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
+- 🌟 [The Package Management Landscape | Andrew Nesbitt](https://nesbitt.io/2026/01/03/the-package-management-landscape.html): A directory of tools, systems, and services that relate to package management.
 
 ## Tools
 

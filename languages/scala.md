@@ -297,7 +297,9 @@ Do a benchmark (for final size while using Scala Native)?
 ### Experiments
 
 - [scala/scala-async](https://github.com/scala/scala-async): An asynchronous programming facility for Scala
-- [rssh/dotty-cps-async](https://github.com/rssh/dotty-cps-async): experimental CPS transformer for dotty
+- [dotty-cps-async/dotty-cps-async](https://github.com/dotty-cps-async/dotty-cps-async): experimental CPS transformer for dotty
+  - [dotty-cps-async/rl-monad](https://github.com/dotty-cps-async/rl-monad): monadic infrastructure for reinforcement learning.
+  - [dotty-cps-async/durable-monad](https://github.com/dotty-cps-async/durable-monad): Durable monad for Scala with workflow engine
 - [lampepfl/gears](https://github.com/lampepfl/gears): A strawman for a low-level async library in Scala 3. <https://lampepfl.github.io/gears/>
   - [tanishiking/gears-playground](https://github.com/tanishiking/gears-playground): A kitchen sink for a playground for lampepfl/gears httpss://github.com/lampepfl/gears, a strawman for a low-level async library in Scala 3.
 - [sideeffffect/scala-rust-interop](https://github.com/sideeffffect/scala-rust-interop): Scala <-> Rust interop
@@ -573,6 +575,7 @@ http4s
 - [OpenXiangShan/XiangShan](https://github.com/OpenXiangShan/XiangShan): Open-source high-performance RISC-V processor <https://xiangshan.cc>
 - [chadyuu/riscv-chisel-book](https://github.com/chadyuu/riscv-chisel-book): No description, website, or topics provided.
 - [OSCPU/chisel-playground](https://github.com/OSCPU/chisel-playground): No description, website, or topics provided.
+- [djiangtw/see-riscv-run-public](https://github.com/djiangtw/see-riscv-run-public): A comprehensive guide to RISC-V architecture from ISA fundamentals to system design. Licensed under CC BY 4.0.
 
 ## Could we make Scala great (in Science Computing) ~~again~~?
 
@@ -611,3 +614,5 @@ http4s
 - [Kotlin/dataframe](https://github.com/Kotlin/dataframe): Structured data processing in Kotlin <https://kotlin.github.io/dataframe/>
 - [SciProgCentre/kmath](https://github.com/SciProgCentre/kmath): Kotlin mathematics extensions library
 - 🌟 [breandan/kotlingrad](https://github.com/breandan/kotlingrad): 🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types <https://breandan.net/public/masters_thesis.pdf#page=49>
+
+- [ghik/zerowaste](https://github.com/ghik/zerowaste): Scala compiler plugin to detect unused expressions
