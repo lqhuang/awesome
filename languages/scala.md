@@ -194,6 +194,7 @@
 - [lightbend-labs/scala-sculpt](https://github.com/lightbend-labs/scala-sculpt): Dependency extraction for Scala codebases, to aid in modularizing
   - This is unfinished, unmaintained software. We are releasing it as open source as a public service with the hopes the code will be useful to someone.
 - [edin-dal/scair](https://github.com/edin-dal/scair): ScaIR - Democratizing Compilers <https://edin-dal.github.io/scair/>
+- [ghik/zerowaste](https://github.com/ghik/zerowaste): Scala compiler plugin to detect unused expressions
 
 ### CI Actions
 
@@ -267,6 +268,8 @@ Do a benchmark (for final size while using Scala Native)?
 - [japgolly/scalajs-react](https://github.com/japgolly/scalajs-react): Facebook's React on Scala.JS <https://japgolly.github.io/scalajs-react/>
 - [buntec/scala-js-snabbdom](https://github.com/buntec/scala-js-snabbdom): A Scala.js port of the Snabbdom virtual DOM library
 - [pme123/vscode-scalajs-hello](https://github.com/pme123/vscode-scalajs-hello): A Hello World VS Code extension with ScalaJS.
+- [ptrdom/scalajs-vite](https://github.com/ptrdom/scalajs-vite): Bundles Scala.js projects and their npm dependencies with Vite
+- [ptrdom/scalajs-electron-quick-start](https://github.com/ptrdom/scalajs-electron-quick-start): electron-quick-start conversion to Scala.js
 
 ## Featured
 
@@ -461,6 +464,7 @@ Tracing and OpenTelemetry
 - [Nestor10/fishy-scala-quill-jsonb-example](https://github.com/Nestor10/fishy-scala-quill-jsonb-example): 🐟 Scala 3 + ZIO + Quill + PostgreSQL JSONB example with Dr. Seuss inspired fish data
 - [alexarchambault/plotly-scala](https://github.com/alexarchambault/plotly-scala): Scala bindings for plotly.js <http://plotly-scala.org>
 - [ramytanios/rendezvous](https://github.com/ramytanios/rendezvous): Implementation of the `Rendezvous Hashing` algorithm with an illustrative GUI 🤓
+- [nivanov/cosplay](https://github.com/nivanov/cosplay): 🕹 2D ASCII Game Engine for Scala3 <https://cosplayengine.com>
 
 ## Tools
 
@@ -614,5 +618,3 @@ http4s
 - [Kotlin/dataframe](https://github.com/Kotlin/dataframe): Structured data processing in Kotlin <https://kotlin.github.io/dataframe/>
 - [SciProgCentre/kmath](https://github.com/SciProgCentre/kmath): Kotlin mathematics extensions library
 - 🌟 [breandan/kotlingrad](https://github.com/breandan/kotlingrad): 🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types <https://breandan.net/public/masters_thesis.pdf#page=49>
-
-- [ghik/zerowaste](https://github.com/ghik/zerowaste): Scala compiler plugin to detect unused expressions

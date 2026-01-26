@@ -44,6 +44,7 @@
   - [git-town/git-town](https://github.com/git-town/git-town): Git branches made easy <https://www.git-town.com>
   - [ejoffe/spr](https://github.com/ejoffe/spr): Stacked Pull Requests on GitHub
 - [coder/pulldash](https://github.com/coder/pulldash): Review pull requests in a high-performance UI, driven by keybinds. <https://pulldash.com>
+- [kainctl/isd](https://github.com/kainctl/isd): isd (interactive systemd) – a better way to work with systemd units <https://kainctl.github.io/isd/>
 
 ### Misc linters / formatters
 
@@ -68,6 +69,10 @@
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged): 🚫💩 — Run tasks like formatters and linters against staged git files <https://www.npmjs.com/package/lint-staged>
 - [dqbd/ts-math-evaluate](https://github.com/dqbd/ts-math-evaluate): Type-level math expression evaluator for TypeScript. <https://ts-math-evaluate.vercel.app/>
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint): A linter for YAML files.
+- [un-ts/sh-syntax](https://github.com/un-ts/sh-syntax): A WASM shell parser and formatter with bash support, based on `mvdan/sh` <https://npm.im/sh-syntax>
+- [un-ts/prettier/tree/master/packages/sh](https://github.com/un-ts/prettier/tree/master/packages/sh):
+- [hukkin/mdformat](https://github.com/hukkin/mdformat): CommonMark compliant Markdown formatter <https://mdformat.rtfd.io>
+- [hukkin/mdformat-shfmt](https://github.com/hukkin/mdformat-shfmt): Mdformat plugin to format shell code blocks
 
 ### Reproducibility
 

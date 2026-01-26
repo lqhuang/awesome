@@ -109,6 +109,7 @@
 
 - [lean-dojo/LeanDojo](https://github.com/lean-dojo/LeanDojo): Tool for data extraction and interacting with Lean programmatically. <https://leandojo.org>
 - [ImperialCollegeLondon/group-theory-game](https://github.com/ImperialCollegeLondon/group-theory-game): Building group theory from scratch in Lean
+- [leanprover/cslib](https://github.com/leanprover/cslib): The Lean Computer Science Library (CSLib) <https://www.cslib.io/>
 
 ## Misc
 

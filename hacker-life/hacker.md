@@ -38,6 +38,7 @@
 - [gruhn/regex-utils](https://github.com/gruhn/regex-utils): TypeScript library for regex equivalence, intersection, complement and other utilities that go beyond string matching. <https://gruhn.github.io/regex-utils/>
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own second brain and digital garden for free <https://quartz.jzhao.xyz/>
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit): BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an "Awesome Bluetooth Security" way
+- [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis): 🎨 Regex visualizer & editor <https://regex-vis.com>
 
 ### Git
 
@@ -103,6 +104,7 @@
 - [mozilla-spidermonkey/iongraph](https://github.com/mozilla-spidermonkey/iongraph): An interactive visualizer for the SpiderMonkey Ion compiler backend. Work in progress.
   - [Who needs Graphviz when you can build it yourself? | SpiderMonkey](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html): Exploring a new layout algorithm for control flow graphs.
 - [podlite/podlite](https://github.com/podlite/podlite): Implementation of Podlite markup language <https://podlite.org>
+- [eclipse-sprotty/sprotty](https://github.com/eclipse-sprotty/sprotty): A diagramming framework for the web <https://sprotty.org/>
 
 ## Homelab
 
@@ -260,6 +262,7 @@
 - [MoonTechLab/Selene](https://github.com/MoonTechLab/Selene): 一个以 MoonTV v100 版本为后端的 Android/iOS 客户端，针对移动端体验优化
 - [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): 💥 Funny comments <https://blankj.com/2017/01/11/awesome-comment>
 - [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB): 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github 最有毒的仓库, 中国表情包大集合, 聚欢乐~ <https://v2fy.com/ChineseBQB/>
+- [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md): 更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。 <https://bm.md>
 
 ## Branding
 
@@ -278,6 +281,7 @@
 - [Good sleep, good learning, good life](https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life): By Dr. Piotr Wozniak
   - [睡眠好，学习好，生活好](https://colerar.github.io/Chinese-Translation-Good-sleep-good-learning-good-life)
 - [keenancrane/LaTweet](https://github.com/keenancrane/LaTweet): Web-based long-form microblog authoring tool with rich text and math support. <https://keenancrane.github.io/LaTweet/>
+- [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib): This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
 
 ## ESL
 

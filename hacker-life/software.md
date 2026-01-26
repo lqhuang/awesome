@@ -208,10 +208,11 @@
 - [Duplicate Cleaner](https://www.duplicatecleaner.com/): Find and remove duplicate files with Duplicate Cleaner, the premier free and pro solution.
 - 🌟 [File Pilot - Next-gen file explorer](https://filepilot.tech/): File Pilot is a file explorer built from scratch for light-speed performance, with a modern and robust interface.
   - Non-free. But I think it's worth it.
+- 🌟 [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser): Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers. <https://justthebrowser.com/>
 
 Distributions
 
-nano11 > AtlasOS ≈ ReviOS > Tiny11 > Win11 LTSC
+Size: nano11 > AtlasOS ≈ ReviOS > Tiny11 > Win11 LTSC
 
 - [ntdevlabs/nano11](https://github.com/ntdevlabs/nano11): Script to build possibly the most trimmed-down Windows 11 experience.
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas): 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. <https://atlasos.net>
@@ -304,6 +305,7 @@ Terminal / SSH
 - 🌟 [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy): Send push notifications to your phone or desktop using PUT/POST <https://ntfy.sh>
 - [gotify/server](https://github.com/gotify/server): A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) <https://gotify.net>
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash): A self hosted dashboard and organizer for Excalidraw with live collaboration.
+- [BioHazard786/warpdrop](https://github.com/BioHazard786/warpdrop): A simple, secure p2p file sharing tool using WebRTC technology. <https://warpdrop.qzz.io>
 
 ### PDF / File tools
 

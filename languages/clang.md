@@ -67,6 +67,7 @@ And modern is here now.
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html): no description found
   - [谷歌 C++ 风格指南 | CppGuide 社区](https://cppguide.cn/LatestGoogleCppStyleGuideForCpp17&20/)
 - 🌟 [cppstat](https://cppstat.dev/): C++ Compiler Support Status
+- [Womangling](https://womangling.noratrieb.dev/): This website will teach you C++ Itanium Symbol Name Mangling. Itanium-style mangling is used on a lot of platforms, including Linux. Since C++ mangling (the entire ABI) is considered stable today, you will be able to use this knowledge forever!
 
 ### Books
 
@@ -149,6 +150,7 @@ And modern is here now.
 - [TypeSanitizer — Clang documentation](https://clang.llvm.org/docs/TypeSanitizer.html)
   - We have type sanitizer now 😄
 - [clice-project/clice](https://github.com/clice-project/clice): A next-generation C++ language server for modern C++, focused on high performance and deep code intelligence <https://clice.io>
+- [rizsotto/Bear](https://github.com/rizsotto/Bear): Bear is a tool that generates a compilation database for clang tooling.
 
 ### CI
 
@@ -223,6 +225,7 @@ And modern is here now.
 - [dcreager/libcork](https://github.com/dcreager/libcork): A simple, easily embeddable cross-platform C library <https://libcork.io/>
 - [skarnet/skalibs](https://github.com/skarnet/skalibs): The skarnet.org C system programming library <https://skarnet.org/software/skalibs/>
 - [diet libc](https://www.fefe.de/dietlibc/): - a libc optimized for small size
+- [picolibc/picolibc](https://github.com/picolibc/picolibc): picolibc - a C library designed for embedded 32- and 64- bit systems. <https://keithp.com/picolibc>
 
 ## Safer CPP
 
@@ -253,6 +256,11 @@ And modern is here now.
 - [inikep/lzbench](https://github.com/inikep/lzbench): lzbench is an in-memory benchmark of open-source compressors
 - [graphitemaster/detour](https://github.com/graphitemaster/detour): A detour through the Linux dynamic linker
 - [srht:~jprotopopov/kefir](https://sr.ht/~jprotopopov/kefir/): : C17/C23 compiler implementation from scratch
+- z-libs:
+  - [z-libs/zrand.h](https://github.com/z-libs/zrand.h): A statistically robust, header-only PCG random number library for C/C++.
+  - [z-libs/zstr.h](https://github.com/z-libs/zstr.h): A modern, header-only string library for C/C++ using Small String Optimization (SSO) and Views.
+  - [z-libs/zlist.h](https://github.com/z-libs/zlist.h): A type-safe, header-only generic doubly linked list library for C/C++ using X-Macros.
+  - [z-libs/zfile.h](https://github.com/z-libs/zfile.h): A cross-platform, header-only file system library for C/C++ that simplifies path manipulation, file I/O, and directory traversal.
 
 ## Libs
 
@@ -406,5 +414,3 @@ And modern is here now.
 - [Vexu/arocc](https://github.com/Vexu/arocc): A modern fully featured C compiler.
 - [compiler-research/CppInterOp](https://github.com/compiler-research/CppInterOp): A Clang-based C++ Interoperability Library
 - [root-project/cling](https://github.com/root-project/cling): The cling C++ interpreter
-
-- [rizsotto/Bear](https://github.com/rizsotto/Bear): Bear is a tool that generates a compilation database for clang tooling.

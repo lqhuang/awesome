@@ -31,6 +31,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - inspired from [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw): Virtual whiteboard for sketching hand-drawn like diagrams <https://excalidraw.com>
 - 🌟 [Intl Playground](https://intlin.site/): `Intl.DateTimeFormat` playground
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react): Cheatsheets for experienced React developers getting started with TypeScript <https://react-typescript-cheatsheet.netlify.app>
+- [HTTP:COLON](https://httpcolon.dev/): The best tool for HTTP
 
 ### Readings
 
@@ -678,7 +679,6 @@ Concrete animations
 
 - [FormidableLabs/spectacle](https://github.com/FormidableLabs/spectacle): A React-based library for creating sleek presentations using JSX syntax that gives you the ability to live demo your code. <http://formidable.com/open-source/spectacle/>
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy): Fast and secure standalone server for resizing and converting remote images <https://imgproxy.net>
-- [evilmartians/figma-polychrom](https://github.com/evilmartians/figma-polychrom): Figma plugin for displaying the contrast level and font size recommendations according to the APCA method <https://www.figma.com/community/plugin/1281280685402026529/polychrom>
 - [gridaco/cors.sh](https://github.com/gridaco/cors.sh): Sick of CORS Errors? <https://cors.sh>
 - [naver/egjs-infinitegrid](https://github.com/naver/egjs-infinitegrid): A module used to arrange card elements including content infinitely on a grid layout. <https://naver.github.io/egjs-infinitegrid/>
 - [freedomofpress/webcat](https://github.com/freedomofpress/webcat): WEBCAT is an architectural framework for providing blocking code signing and verification, integrity and transparency checks for browser-based applications.
@@ -694,6 +694,7 @@ Concrete animations
 - [QwikDev/partytown](https://github.com/QwikDev/partytown): Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉 <https://partytown.qwik.dev>
   - [Partytown: Optimize Third Party Scripts with Web Workers | DebugBear](https://www.debugbear.com/blog/partytown-web-workers): Third-party resources often weigh down websites and can be tricky to fine-tune for performance. Learn how to use web workers and Partytown to improve your page speed.
 - 🌟 [unjs/ipx](https://github.com/unjs/ipx): 🖼️ High performance, secure and easy-to-use image optimizer.
+- [SukkaW/fooldevs](https://github.com/SukkaW/fooldevs): Trick Wappalyzer into misidentifying web technologies used on your websites
 
 ## W3C
 
@@ -768,6 +769,11 @@ Concrete animations
 - [HeyHuazi/SVGLOGO](https://github.com/HeyHuazi/SVGLOGO): SVG LOGO for China <https://svglogo.top/>
 - [azat-io/eyecons](https://github.com/azat-io/eyecons): 🎨 Advanced VS Code icon theme with adaptive icon colors that match the editor’s color theme <https://eyecons.dev>
 - [Obra-Studio/obra-icons-mr](https://github.com/Obra-Studio/obra-icons-mr): Obra Icons monorepo <https://icons.obra.studio/>
+
+### Figma
+
+- [evilmartians/figma-polychrom](https://github.com/evilmartians/figma-polychrom): Figma plugin for displaying the contrast level and font size recommendations according to the APCA method <https://www.figma.com/community/plugin/1281280685402026529/polychrom>
+- [gavinmcfarland/plugma](https://github.com/gavinmcfarland/plugma): Take Figma plugin development to the next level <https://plugma.dev>
 
 ### Collections
 
@@ -847,7 +853,3 @@ Concrete animations
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser): Lightpanda: the headless browser designed for AI and automation <https://lightpanda.io>
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
-
-
-- [SukkaW/fooldevs](https://github.com/SukkaW/fooldevs): Trick Wappalyzer into misidentifying web technologies used on your websites
-

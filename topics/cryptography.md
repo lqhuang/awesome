@@ -21,17 +21,35 @@
 
 ## Libraries
 
+### Crypto Primitives
+
 - [wbond/oscrypto](https://github.com/wbond/oscrypto): Compiler-free Python crypto library backed by the OS, supporting CPython and PyPy
-- [wbond/certbuilder](https://github.com/wbond/certbuilder): Python library for generating and signing X.509 certificates
 - [wbond/asn1crypto](https://github.com/wbond/asn1crypto): Python ASN.1 library with a focus on performance and a pythonic API
 - [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3): the official Rust and C implementations of the BLAKE3 cryptographic hash function
 - [pyca/cryptography](https://github.com/pyca/cryptography): cryptography is a package designed to expose cryptographic primitives and recipes to Python developers. <https://cryptography.io>
-- [djc/pyrtls](https://github.com/djc/pyrtls): rustls-based modern TLS for Python
-- [aws/s2n-tls](https://github.com/aws/s2n-tls): An implementation of the TLS/SSL protocols <https://aws.github.io/s2n-tls/usage-guide/>
+- [aws/aws-lc](https://github.com/aws/aws-lc): AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.
 - [aegis-aead/libaegis](https://github.com/aegis-aead/libaegis): Portable C implementations of the AEGIS family of high-performance authenticated encryption algorithms. <https://datatracker.ietf.org/doc/draft-irtf-cfrg-aegis-aead/>
 - [ogxd/gxhash](https://github.com/ogxd/gxhash): The fastest hashing algorithm 📈 <https://docs.rs/gxhash>
 - [besser82/libxcrypt](https://github.com/besser82/libxcrypt): Extended crypt library for descrypt, md5crypt, bcrypt, and others
   - support obsolete crypt API for glibc compatibility with musl libc
+
+### TLS
+
+- [djc/pyrtls](https://github.com/djc/pyrtls): rustls-based modern TLS for Python
+- [aws/s2n-tls](https://github.com/aws/s2n-tls): An implementation of the TLS/SSL protocols <https://aws.github.io/s2n-tls/usage-guide/>
+- [quictls/quictls](https://github.com/quictls/quictls): The official repository for the QuicTLS project.
+- [google/boringssl](https://github.com/google/boringssl): Mirror of BoringSSL <https://boringssl.googlesource.com/boringssl>
+  - [cloudflare/boring](https://github.com/cloudflare/boring): BoringSSL bindings for the Rust programming language.
+  - [apple/swift-crypto](https://github.com/apple/swift-crypto): Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms. <https://apple.github.io/swift-crypto>
+  - [google/mundane](https://github.com/google/mundane): Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).
+  - [aegis-aead/boringssl](https://github.com/aegis-aead/boringssl): BoringSSL, with support for the AEGIS cipher suites.
+- [openssl/openssl](https://github.com/openssl/openssl): TLS/SSL and crypto library <https://www.openssl.org>
+  - [rust-openssl/rust-openssl](https://github.com/rust-openssl/rust-openssl): OpenSSL bindings for Rust
+  - [pyca/pyopenssl](https://github.com/pyca/pyopenssl): A Python wrapper around the OpenSSL library <https://pyopenssl.org/>
+
+### Misc
+
+- [wbond/certbuilder](https://github.com/wbond/certbuilder): Python library for generating and signing X.509 certificates
 - [gitlab:sequoia-pgp/sequoia](https://gitlab.com/sequoia-pgp/sequoia): Sequoia is a complete implementation of OpenPGP as defined by RFC 9580 as well as the deprecated OpenPGP as defined by RFC 4880, and various related standards.
 
 ## Certificate Management

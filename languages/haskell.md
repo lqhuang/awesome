@@ -94,6 +94,7 @@
 - [brandonchinn178/skelly](https://github.com/brandonchinn178/skelly): Skelly is an opinionated build system for Haskell.
 - [chshersh/dr-cabal](https://github.com/chshersh/dr-cabal): 📊 Haskell dependencies build times profiler
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell): Maintainable configuration files <https://dhall-lang.org>
+- [well-typed/haskell-debugger](https://github.com/well-typed/haskell-debugger): A modern step-through debugger for GHC Haskell <https://well-typed.github.io/haskell-debugger>
 
 ## Testing
 

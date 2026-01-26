@@ -140,6 +140,7 @@
 - 🌟 [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. <https://oauth2-proxy.github.io/oauth2-proxy>
 - [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
 - [awslabs/ssosync](https://github.com/awslabs/ssosync): Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda
+- [authzed/spicedb](https://github.com/authzed/spicedb): Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data <https://authzed.com/docs>
 
 ## Analytics
 

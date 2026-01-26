@@ -180,6 +180,7 @@ Sharding
 - [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer): lightweight connection pooler for PostgreSQL <https://www.pgbouncer.org/>
 - [levkk/pgcat](https://github.com/levkk/pgcat): PostgreSQL pooler with sharding, load balancing and failover support.
 - [yandex/odyssey](https://github.com/yandex/odyssey): Scalable PostgreSQL connection pooler
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog): PostgreSQL connection pooler, load balancer and database sharder. <https://pgdog.dev>
 
 Performance
 
@@ -233,6 +234,9 @@ Misc
 - [darold/pgFormatter](https://github.com/darold/pgFormatter): A PostgreSQL SQL syntax beautifier that can work as a console program or as a CGI. On-line demo site at http://sqlformat.darold.net/
 - [graphile/crystal](https://github.com/graphile/crystal): 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more! <https://graphile.org/>
 - [CrystallineCore/Biscuit](https://github.com/CrystallineCore/Biscuit): Biscuit is a specialized PostgreSQL index access method (IAM) designed for blazing-fast pattern matching on LIKE queries, with native support for multi-column searches. It eliminates the recheck overhead of trigram indexes while delivering significant performance improvements on wildcard-heavy queries.
+- [pgmq/pgmq](https://github.com/pgmq/pgmq): A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. <https://pgmq.github.io/pgmq/>
+  - [Anatomy of a Postgres extension written in Rust: pgmq](https://tembo.io/blog/postgres-extension-in-rust-pgmq)
+  - [dvlkv/prisma-pgmq](https://github.com/dvlkv/prisma-pgmq): A TypeScript library that provides type-safe methods for PostgreSQL Message Queue (PGMQ) operations in your Prisma-based applications.
 
 ### SQLite
 
@@ -291,8 +295,6 @@ Misc
 - 🌟 [supabase/dbdev](https://github.com/supabase/dbdev): Database Package Registry for Postgres <https://database.dev>
 - 🌟 [PostgreSQL Configurator](https://pgconfigurator.cybertec-postgresql.com)
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4): pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. <https://www.pgadmin.org>
-- [tembo-io/pgmq](https://github.com/tembo-io/pgmq): A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
-  - [Anatomy of a Postgres extension written in Rust: pgmq](https://tembo.io/blog/postgres-extension-in-rust-pgmq)
 - [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp): A Language Server for Postgres <https://supabase.com>
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask): PostgreSQL database anonymization and synthetic data generation tool <https://greenmask.io>
 - [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant): PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.
@@ -301,6 +303,11 @@ Misc
 - [bensheldon/good_job](https://github.com/bensheldon/good_job): Multithreaded, Postgres-based, Active Job backend for Ruby on Rails. <https://goodjob-demo.herokuapp.com/>
 - 🌟 [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus): PostgreSQL monitoring and backups (with UI and self hosted) <https://postgresus.com>
 - [pgEdge/spock](https://github.com/pgEdge/spock): Logical multi-master PostgreSQL replication <https://www.pgedge.com/get-started/>
+- [darold/pgbadger](https://github.com/darold/pgbadger): A fast PostgreSQL Log Analyzer <http://pgbadger.darold.net/>
+- [pgpool/pgpool2](https://github.com/pgpool/pgpool2): This is the official mirror of git://git.postgresql.org/git/pgpool2.git. Note that this is just a _mirror_ - we don't work with pull requests on github. Please subscribe to pgpool-hackers mailing list from our website and submit your patch to this mailing list. <https://www.pgpool.net>
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg): CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance <https://cloudnative-pg.io>
+- [xataio/pgstream](https://github.com/xataio/pgstream): PostgreSQL replication with DDL changes <https://xata.io/documentation/opensource/pgstream/overview>
+- [eulerto/wal2json](https://github.com/eulerto/wal2json): JSON output plugin for changeset extraction
 
 ### SQLite
 

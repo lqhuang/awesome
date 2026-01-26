@@ -294,7 +294,6 @@ Type 1 hypervisors
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy): Open Source Alternative to Vercel, Netlify and Heroku. <https://dokploy.com/>
 - [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick): Bare metal to production ready in mins; your own fly server on your VPS. <https://www.sidekickdeploy.com>
 - [basecamp/kamal](https://github.com/basecamp/kamal): Deploy web apps anywhere. <https://kamal-deploy.org>
-- [dstackai/dstack](https://github.com/dstackai/dstack): dstack is a lightweight, open-source alternative to Kubernetes & Slurm, simplifying AI container orchestration with multi-cloud & on-prem support. It natively supports NVIDIA, AMD, & TPU. <https://dstack.ai/docs>
 - [taubyte/tau](https://github.com/taubyte/tau): Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. <https://tau.how>
 - [beam-cloud/beta9](https://github.com/beam-cloud/beta9): The open-source serverless GPU container runtime. <https://docs.beta9.beam.cloud>
 - [piku/piku](https://github.com/piku/piku): The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers. <http://piku.github.io>
@@ -373,6 +372,7 @@ Type 1 hypervisors
 ### CSI
 
 - [openebs/lvm-localpv](https://github.com/openebs/lvm-localpv): CSI Driver for dynamic provisioning of Persistent Local Volumes for Kubernetes using LVM.
+- [rook/rook](https://github.com/rook/rook): Storage Orchestration for Kubernetes <https://rook.io>
 
 ### Featured
 
@@ -389,6 +389,7 @@ Type 1 hypervisors
 - [kubecfg/kubecfg](https://github.com/kubecfg/kubecfg): A tool for managing complex enterprise Kubernetes environments as code.
 - [acrlabs/simkube](https://github.com/acrlabs/simkube): Record-and-replay Kubernetes simulator based on KWOK <https://simkube.dev>
 - [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter): Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [meshery/meshery](https://github.com/meshery/meshery): Meshery, the cloud native manager <https://meshery.io>
 
 ### Operators
 
@@ -567,7 +568,4 @@ Type 1 hypervisors
 - [apache/openwhisk](https://github.com/apache/openwhisk): Apache OpenWhisk is an open source serverless cloud platform <https://openwhisk.apache.org/>
   - Scala project 🤔
 - [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter): A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step.
-
   - The stargz-snapshotter implements a lazy image fetcher based on the eStargz custom image format, and the soci-snapshotter provides one based on the OCI specification for those who can’t or don’t want to convert images to a new format to support lazy distribution.
-
-- [meshery/meshery](https://github.com/meshery/meshery): Meshery, the cloud native manager <https://meshery.io>

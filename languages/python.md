@@ -89,6 +89,7 @@
   - Feel much confident while doing developments using `mima` (Scala)
 - [hauntsaninja/mypy_primer](https://github.com/hauntsaninja/mypy_primer): Run mypy and pyright over millions of lines of code
 - [kmichel/python-importtime-graph](https://github.com/kmichel/python-importtime-graph): Display a treemap of the timings reported by python -X importtime <https://kmichel.github.io/python-importtime-graph/>
+- [owenlamont/uv-secure](https://github.com/owenlamont/uv-secure): Scan your uv.lock file for dependencies with known vulnerabilities
 
 ### Build tools
 
@@ -629,6 +630,7 @@ Misc
 - [mityax/rustimport](https://github.com/mityax/rustimport): Import Rust source files directly from Python!
 - [cloudflare/stpyv8](https://github.com/cloudflare/stpyv8): Python 3 and JavaScript interoperability. Successor To PyV8 (https://github.com/flier/pyv8)
 - [PyAV-Org/PyAV](https://github.com/PyAV-Org/PyAV): Pythonic bindings for FFmpeg's libraries. <https://pyav.basswood-io.com/>
+- [remorses/napi-python](https://github.com/remorses/napi-python): Import NAPI npm packages in Python. Like node-canvas, sharp, node-pty
 
 ### Command line interface
 

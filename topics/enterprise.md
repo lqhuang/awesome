@@ -144,6 +144,7 @@
 - [spack/spack](https://github.com/spack/spack): A flexible package manager that supports multiple versions, configurations, platforms, and compilers. <https://spack.io>
 - [openhpc/ohpc](https://github.com/openhpc/ohpc): OpenHPC Integration, Packaging, and Test Repo <http://openhpc.community>
 - [stackhpc/ansible-slurm-appliance](https://github.com/stackhpc/ansible-slurm-appliance): A Slurm-based HPC workload management environment, driven by Ansible.
+- [dstackai/dstack](https://github.com/dstackai/dstack): dstack is an open-source control plane for running development, training, and inference jobs on GPUs—across hyperscalers, neoclouds, or on-prem. <https://dstack.ai/docs>
 
 ### Uptime / Monitoring
 
