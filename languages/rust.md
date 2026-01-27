@@ -435,6 +435,7 @@
 - [google/tarpc](https://github.com/google/tarpc): An RPC framework for Rust with a focus on ease of use.
 - [smoltcp-rs/smoltcp](https://github.com/smoltcp-rs/smoltcp): a smol tcp/ip stack
 - [pendulum-project/statime](https://github.com/pendulum-project/statime): Implementation of the Precision Time Protocol (PTP) in Rust <https://trifectatech.org>
+- [plabayo/rama](https://github.com/plabayo/rama): modular service framework to move and transform network packets <https://ramaproxy.org>
 
 ### Web
 

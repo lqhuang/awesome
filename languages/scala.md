@@ -217,6 +217,7 @@
 - [indoorvivants/sn-vcpkg](https://github.com/indoorvivants/sn-vcpkg): SBT/Mill plugins and CLI to install C/C++ dependencies using Vcpkg (https://vcpkg.io/en/index.html), with Scala Native integration
 - [simple-scala-tooling/zinc-cli](https://github.com/simple-scala-tooling/zinc-cli): Three Buildtools for the Scala - devs of functional programming, Seven for the Java - lords in their enterprise hall, Nine for Javascript Mortals, doomed to `npm install`, One for the Dev Lord on their throne, In the Land of localhost where the compile errors lie. One Buildtool to rule them all, One buildtool to fix them ...
 - [softwaremill/maven-badges](https://github.com/softwaremill/maven-badges): A node.js implementation of https://github.com/jirutka/maven-badges, originally created in ruby.
+- [Vineflower/vineflower](https://github.com/Vineflower/vineflower): Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler. <https://vineflower.org/>
 
 ## Cross platforms
 

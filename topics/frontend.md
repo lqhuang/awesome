@@ -403,6 +403,8 @@ Drag / Drop
 - 🌟 [mathuo/dockview](https://github.com/mathuo/dockview): Zero dependency Docking Layout Manager. Supports Vanilla TypeScript, React and Vue. <https://dockview.dev>
 - [Shopify/draggable](https://github.com/Shopify/draggable): The JavaScript Drag & Drop library your grandparents warned you about. <https://shopify.github.io/draggable>
 - [jgthms/picknplace.js](https://github.com/jgthms/picknplace.js): A proof of concept of a viable drag and drop alternative <http://jgthms.com/picknplace.js/>
+- [TahaSh/swapy](https://github.com/TahaSh/swapy): ✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of code https://swapy.tahazsh.com/
+  - Commercial license
 
 Form
 
@@ -827,6 +829,7 @@ Concrete animations
 - [pmndrs/triplex](https://github.com/pmndrs/triplex): The open source visual workspace for React / Three Fiber. Build the 2D and 3D web. <https://triplex.dev>
 - [The Book of Shaders](https://thebookofshaders.com/): Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
   - Cool! And it has a lot of multi-lang translations
+- [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU): Beautiful, open source, WebGPU-based charting library
 
 ### Engine
 

@@ -182,6 +182,7 @@ Specific
 - 🌟 [terser/terser](https://github.com/terser/terser): 🗜 JavaScript parser, mangler and compressor toolkit for ES6+ <https://terser.org>
 - 🌟 [ohmjs/ohm](https://github.com/ohmjs/ohm): A library and language for building parsers, interpreters, compilers, etc.
 - [sinclairzx81/parsebox](https://github.com/sinclairzx81/parsebox): Parser Combinators in the TypeScript Type System
+- [acornjs/acorn](https://github.com/acornjs/acorn): A small, fast, JavaScript-based JavaScript parser
 
 ### Profile
 
@@ -380,6 +381,7 @@ Specific
 - [htmldocs-js/htmldocs](https://github.com/htmldocs-js/htmldocs): The modern alternative to LaTeX. Create PDF documents templates using React, JSX, and Tailwind <https://htmldocs.com>
 - [MatthewHerbst/react-to-print](https://github.com/MatthewHerbst/react-to-print): Print React components in the browser <https://www.npmjs.com/package/react-to-print>
 - [lmn1919/dompdf.js](https://github.com/lmn1919/dompdf.js): A JavaScript library that can convert HTML into an editable, non-image-based, printable PDF;一个 js 库，可以将 HTML 转化成可编辑、非图片式、高清晰度、小体积、可打印的 PDF
+- [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer): A PDF viewer that seamlessly integrates with any JavaScript project <https://www.embedpdf.com>
 
 ### Logging
 

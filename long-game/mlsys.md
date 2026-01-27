@@ -63,6 +63,7 @@
 - [flashinfer-ai/cubloaty](https://github.com/flashinfer-ai/cubloaty): a size profiler for cuda binary
 - [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA): 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.🎉 <https://github.com/xlite-dev/LeetCUDA>
 - 🌟 [modular/mojo-gpu-puzzles](https://github.com/modular/mojo-gpu-puzzles): Learn GPU Programming in Mojo🔥 by Solving Puzzles <https://puzzles.modular.com/>
+- 🌟 [Dao-AILab/quack](https://github.com/Dao-AILab/quack): A Quirky Assortment of CuTe Kernels
 
 ### TPU
 
