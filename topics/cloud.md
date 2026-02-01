@@ -229,6 +229,7 @@ Type 1 hypervisors
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs): SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. <https://seaweedfs.com>
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs): Finally, a good FUSE FS implementation over S3
 - [tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs): High performance FUSE filesystem for AI workloads with S3 compatible backends
+- [supabase/storage](https://github.com/supabase/storage): S3 compatible object storage service that stores metadata in Postgres <https://supabase.com/docs/guides/storage>
 
 ### Serverless
 

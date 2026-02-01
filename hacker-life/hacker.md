@@ -78,6 +78,7 @@
   - [asciidoctor/asciidoctor-diagram](https://github.com/asciidoctor/asciidoctor-diagram): ↔️ Asciidoctor diagram extension, with support for AsciiToSVG, BlockDiag (BlockDiag, SeqDiag, ActDiag, NwDiag), Ditaa, Erd, GraphViz, Mermaid, Msc, PlantUML, Shaape, SvgBob, Syntrax, UMLet, Vega, Vega-Lite and WaveDrom. <http://asciidoctor.org>
   - [asciidoc-py/asciidoc-py](https://github.com/asciidoc-py/asciidoc-py): Legacy python processor for AsciiDoc <https://asciidoc-py.github.io>
 - [JakeSteam/Mermaid](https://github.com/JakeSteam/Mermaid): A collection of cheatsheets for using Mermaid diagrams on GitHub and elsewhere
+- 🌟 [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid): No description, website, or topics provided.
 - [terrastruct/d2](https://github.com/terrastruct/d2): D2 is a modern diagram scripting language that turns text to diagrams. <https://d2lang.com> <https://blog.jakelee.co.uk/using-mermaid-for-diagrams-on-github>
 - [sonyxperiadev/dataflow](https://github.com/sonyxperiadev/dataflow): Render graphs using a declarative markup. <https://hackage.haskell.org/package/dataflow>
 - [structurizr](https://github.com/structurizr): Visualise and document your software architecture with the C4 model <https://structurizr.com>

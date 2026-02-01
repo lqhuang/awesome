@@ -53,6 +53,7 @@
 - [EvgSkv/logica](https://github.com/EvgSkv/logica): Logica is a logic programming language that compiles to SQL. It runs on DuckDB, Google BigQuery, PostgreSQL and SQLite. <https://logica.dev>
 - [clflushopt/tpchgen-rs](https://github.com/clflushopt/tpchgen-rs): TPC-H benchmark data generation in pure Rust
   - [tpchgen-rs World’s fastest open source TPC-H data generator, written in Rust - Apache DataFusion Blog](https://datafusion.apache.org/blog/2025/04/10/fastest-tpch-generator/)
+- [microsoft/bf-tree](https://github.com/microsoft/bf-tree): Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
 
 ### Practices
 
@@ -200,7 +201,6 @@ Backup
 Migrations
 
 - [eradman/pg-safeupdate](https://github.com/eradman/pg-safeupdate): A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE
-- 🌟 [xataio/pgroll](https://github.com/xataio/pgroll): PostgreSQL zero-downtime migrations made easy <https://www.xata.io>
 
 Misc
 
@@ -288,11 +288,12 @@ Misc
 
 ### PG
 
-- 🌟 - [pgsty/pigsty](https://github.com/pgsty/pigsty): Free RDS for PostgreSQL — Pigsty <https://pgsty.com>
+- [pgsty/pigsty](https://github.com/pgsty/pigsty): Free RDS for PostgreSQL — Pigsty <https://pgsty.com>
 - [vitabaks/autobase](https://github.com/vitabaks/autobase): Automated database platform for PostgreSQL® - Your own DBaaS. <https://autobase.tech>
 - [supabase/postgres](https://github.com/supabase/postgres): Unmodified Postgres with some useful plugins
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
 - 🌟 [supabase/dbdev](https://github.com/supabase/dbdev): Database Package Registry for Postgres <https://database.dev>
+- [supabase/postgres-meta](https://github.com/supabase/postgres-meta): A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries <https://supabase.com>
 - 🌟 [PostgreSQL Configurator](https://pgconfigurator.cybertec-postgresql.com)
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4): pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. <https://www.pgadmin.org>
 - [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp): A Language Server for Postgres <https://supabase.com>
@@ -308,6 +309,14 @@ Misc
 - [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg): CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance <https://cloudnative-pg.io>
 - [xataio/pgstream](https://github.com/xataio/pgstream): PostgreSQL replication with DDL changes <https://xata.io/documentation/opensource/pgstream/overview>
 - [eulerto/wal2json](https://github.com/eulerto/wal2json): JSON output plugin for changeset extraction
+- [supabase/etl](https://github.com/supabase/etl): Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines. <https://supabase.github.io/etl/>
+- [supabase/splinter](https://github.com/supabase/splinter): Supabase Postgres Linter: Performance and Security Advisors <https://supabase.github.io/splinter/>
+
+Migrations
+
+- [yandex/pgmigrate](https://github.com/yandex/pgmigrate): Simple tool to evolve PostgreSQL schema easily.
+- [supabase/pg-delta](https://github.com/supabase/pg-delta): Postgres migrations made easy
+- [xataio/pgroll](https://github.com/xataio/pgroll): PostgreSQL zero-downtime migrations made easy <https://www.xata.io>
 
 ### SQLite
 

@@ -141,6 +141,8 @@
 - [bazel-contrib/bazelrc-preset.bzl](https://github.com/bazel-contrib/bazelrc-preset.bzl): Convenience for setting groups of related Bazel flags
 - [Tinder/bazel-diff](https://github.com/Tinder/bazel-diff): Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 - [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator): Determines which Bazel targets were affected between two git commits.
+- [bazeltools/bazelfe](https://github.com/bazeltools/bazelfe): Set of tools to handle errors/work with bazel invocations
+- [bazeltools/bazel-deps](https://github.com/bazeltools/bazel-deps): Generate bazel dependencies for maven artifacts
 
 gazelle
 

@@ -255,6 +255,7 @@
 - [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya): A fast and ergonomic concurrent hash-table for read-heavy workloads.
 - [ngernest/urn-rs](https://github.com/ngernest/urn-rs): A Rust implementation of the Urn data structure for efficient random sampling
 - [djc/hashlink](https://github.com/djc/hashlink): An updated version of linked-hash-map and friends
+- [psila-ai/orasort](https://github.com/psila-ai/orasort): Production grade Orasort implementation
 
 ### CRDT
 

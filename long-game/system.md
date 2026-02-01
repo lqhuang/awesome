@@ -102,7 +102,9 @@
 - [openSUSE/snapper](https://github.com/openSUSE/snapper): Manage filesystem snapshots and allow undo of system modifications <http://snapper.io/>
 - [rfjakob/earlyoom](https://github.com/rfjakob/earlyoom): earlyoom - Early OOM Daemon for Linux
   - If you hope to disable SWAP, please at lesat enable earlyoom to let you have a good sleep.
+- [facebookincubator/oomd](https://github.com/facebookincubator/oomd): A userspace out-of-memory killer
 - [dev-sec/linux-baseline](https://github.com/dev-sec/linux-baseline): DevSec Linux Baseline - InSpec Profile <https://dev-sec.io/baselines/linux/>
+- [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope): Astrological CPU Scheduler
 
 ## BPF
 

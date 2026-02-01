@@ -90,6 +90,7 @@
 - [antonmedv/gitmal](https://github.com/antonmedv/gitmal): A static page generator for repos
 - [x-motemen/ghq](https://github.com/x-motemen/ghq): Remote repository management made easy
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr): Why is this running?
+- [binpash/pash](https://github.com/binpash/pash): PaSh: Light-touch Data-Parallel Shell Processing
 
 ### SSH
 
@@ -110,6 +111,7 @@
   - `cloc --vcs=git --not-match-f=pnpm-lock.yaml`
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei): Count your code, quickly.
   - `tokei -e pnpm-lock.yaml`
+- [boyter/scc](https://github.com/boyter/scc): Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 
 ### Binary installer
 

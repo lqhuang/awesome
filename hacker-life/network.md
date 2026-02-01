@@ -117,6 +117,7 @@
 - [mdlayher/corerad](https://github.com/mdlayher/corerad): CoreRAD is an extensible and observable IPv6 Neighbor Discovery Protocol router advertisement daemon. Apache 2.0 Licensed. <https://corerad.net>
 - [Orb](https://orb.net/): Understand your Internet Experience. A new app from the creators of Speedtest & Downdetector.
   - not oss project
+- [LibreQoE/LibreQoS](https://github.com/LibreQoE/LibreQoS): A Quality of Experience and Smart Queue Management system for ISPs. Leverage CAKE to improve network responsiveness, enforce bandwidth plans, and reduce bufferbloat. <https://libreqos.io/>
 
 ## SDN and network simulation
 
@@ -193,6 +194,7 @@
 - [OpenNHP/opennhp](https://github.com/OpenNHP/opennhp): A lightweight, cryptography-powered, open-source toolkit built to enforce Zero Trust security for infrastructure, applications, and data in the AI-driven world. <https://opennhp.org/>
 - [yosebyte/nodepass](https://github.com/yosebyte/nodepass): A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. <https://nodepass.eu>
 - 🌟 [jpillora/chisel](https://github.com/jpillora/chisel): A fast TCP/UDP tunnel over HTTP
+- 🌟 [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel): Modern, fast and obfuscated VPN protocol <https://trusttunnel.org/>
 
 ### Warp
 

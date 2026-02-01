@@ -391,6 +391,7 @@ Tracing and OpenTelemetry
 - [AlexITC/geminilive4s](https://github.com/AlexITC/geminilive4s): Gemini Live API for Scala
 - [timbertson/foperator](https://github.com/timbertson/foperator): Functional k8s operator framework, in scala
 - [joan38/kubernetes-client](https://github.com/joan38/kubernetes-client): A Kubernetes client for Scala
+- [bot4s/telegram](https://github.com/bot4s/telegram): Telegram Bot API Wrapper for Scala
 
 ### Parser
 
@@ -447,6 +448,7 @@ Tracing and OpenTelemetry
 - 🌟 [outr/perfolation](https://github.com/outr/perfolation): Performance focused interpolation
 - [geirolz/cats-xml](https://github.com/geirolz/cats-xml): A functional library to work with XML in Scala using Cats. <https://geirolz.github.io/cats-xml/>
 - [tototoshi/scala-csv](https://github.com/tototoshi/scala-csv): CSV Reader/Writer for Scala
+- [encalmo/xmlwriter](https://github.com/encalmo/xmlwriter): Macro-powered fast XML serialization library for Scala 3. <https://encalmo.github.io/xmlwriter/>
 
 ### Misc
 

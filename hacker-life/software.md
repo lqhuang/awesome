@@ -142,6 +142,7 @@
 - [tisfeng/Easydict](https://github.com/tisfeng/Easydict): 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text.
 - [PORTS](https://ports.alasdairmonk.com/): See What's Running on Your Ports
   - I love this app. But looks like it's still in early development.
+- [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski): 🌈 Convert videos to high-quality GIFs on your Mac <https://sindresorhus.com/gifski>
 
 ### Free / Paid
 
@@ -190,6 +191,8 @@
   - Maintenance is an operating system maintenance and cleaning utility for macOS that you can use to perform miscellaneous computer maintenance tasks: rebuild the databases; delete application, font, and system caches; and more.
 - [Revisual](https://revisualapp.com/): HUD replacement app for your Mac. The HUDs your Mac deserves
 - [Timerge – Smart, Effortless Break Reminder for macOS](https://likang.dev/timerge/): Timerge is a smart, effortless break reminder app for macOS that tracks your real-time activity and gently nudges you to take breaks without disrupting your workflow. Stay productive and refreshed!
+- 🌟 [Notchie - Invisible Mac Teleprompter for Screen Sharing](https://www.notchie.app/): Read scripts naturally during video calls without anyone knowing. Notchie is a Mac teleprompter that hides in your notch and stays invisible during screen sharing on Zoom, Teams, Meet, and OBS.
+  - Genius idea!
 
 ## Windows
 

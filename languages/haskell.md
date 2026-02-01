@@ -138,6 +138,8 @@
 - 🌟 [sayo-hs/heftia](https://github.com/sayo-hs/heftia): A theory‑backed, ultra type‑safe algebraic effects
 - [sayo-hs/kontrolle](https://github.com/sayo-hs/kontrolle): Experimental, type-safe algebraic effects
   - inspired by kyo
+- [jhgarner/Theseus](https://github.com/jhgarner/Theseus): An experimental and still heavily in progress Haskell effect system library supporting coroutines and higher order effects.
+- [Theseus: Worry free algebraic and higher order effects - Announcements - Haskell Community](https://discourse.haskell.org/t/theseus-worry-free-algebraic-and-higher-order-effects/13563/2)
 
 ## Dependent type
 

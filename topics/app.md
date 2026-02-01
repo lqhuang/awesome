@@ -19,6 +19,13 @@
 - [gingerbeardman/apple-human-interface-guidelines](https://github.com/gingerbeardman/apple-human-interface-guidelines): Apple Human Interface Guidelines, et al.
 - [SKIP.tools](https://skip.tools/): Build native apps for iPhone and Android with Skip. Skip brings Swift app development to Android.
 - [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui): Build SwiftUI-style apps that run in the browser <https://elementary.codes>
+- [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle): A software update framework for macOS <https://sparkle-project.org>
+
+### Utils
+
+- [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg): A shell script to build fancy DMGs
+- [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg): Create a good-looking DMG for your macOS app in seconds
+- [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults): 💾 Swifty and modern UserDefaults <https://swiftpackageindex.com/sindresorhus/Defaults/documentation/defaults>
 
 ## Electron like
 

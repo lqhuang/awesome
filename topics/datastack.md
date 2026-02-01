@@ -21,6 +21,7 @@
 
 - [polaris-catalog/polaris](https://github.com/polaris-catalog/polaris): The interoperable, open source catalog for Apache Iceberg <http://polaris.io/>
 - [nimtable/nimtable](https://github.com/nimtable/nimtable): The Control Plane for Apache Iceberg <https://go.nimtable.com/slack>
+- [supabase/iceberg-js](https://github.com/supabase/iceberg-js): A small, framework-agnostic JavaScript/TypeScript client for the Apache Iceberg REST Catalog.
 
 ## Data Format
 
