@@ -39,6 +39,7 @@
 - [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design): A curated list of data oriented design resources.
 - [Memory Management Reference](https://www.memorymanagement.org/): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
 - 🌟 [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook/)
+- [Glibc Heap Internals](https://www.deep-kondah.com/glibc-heap-internals/)
 
 ## Compiler
 

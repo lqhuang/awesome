@@ -31,7 +31,7 @@
 - 🌟 [kasmtech/KasmVNC](https://github.com/kasmtech/KasmVNC): Modern VNC Server and client, web based and secure
 - [amir1376/ab-download-manager](https://github.com/amir1376/ab-download-manager): A Download Manager that speeds up your downloads <https://abdownloadmanager.com>
 - [keycastr/keycastr](https://github.com/keycastr/keycastr): KeyCastr, an open-source keystroke visualizer
-- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz): Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time. <https://mularahul.github.io/keyviz>
+- [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz): Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time. <https://keyviz.org>
 - [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger): Small python-gtk application, which helps the user to merge or split PDF documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface.
 - [Tools | Cloudinary](https://cloudinary.com/tools): Format converters and compressors for images and videos.
 - 🌟 [deskflow/deskflow](https://github.com/deskflow/deskflow): Share a single keyboard and mouse between multiple computers. <https://deskflow.org>

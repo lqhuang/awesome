@@ -202,6 +202,7 @@
 - 🌟 [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
 - [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe): A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
 - 🌟 [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate): Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases! <https://buf.build/bufbuild/protovalidate>
+- [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc): Documentation generator plugin for Google Protocol Buffers
 
 ## Serverless
 

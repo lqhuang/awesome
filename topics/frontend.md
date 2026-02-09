@@ -563,6 +563,7 @@ Syntax hightlight
 - [wooorm/refractor](https://github.com/wooorm/refractor): Lightweight, robust, elegant virtual syntax highlighting using Prism
 - [blenderskool/react-code-block](https://github.com/blenderskool/react-code-block): 🧩 Set of unstyled UI components to build powerful code blocks in React. <https://react-code-block.netlify.app>
 - [andreruffert/syntax-highlight-element](https://github.com/andreruffert/syntax-highlight-element): 👓 Syntax Highlighting using the CSS Custom Highlight API <https://andreruffert.github.io/syntax-highlight-element/>
+- [huozhi/sugar-high](https://github.com/huozhi/sugar-high): ✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped <https://sugar-high.vercel.app>
 
 #### Animation
 

@@ -577,6 +577,7 @@ PGM / Probabilistic programming
 - 🌟 [NVIDIA/nvbandwidth](https://github.com/NVIDIA/nvbandwidth): A tool for bandwidth measurements on NVIDIA GPUs.
 - [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter): Count the MACs / FLOPs of your PyTorch model.
 - [aikitoria/nanotrace](https://github.com/aikitoria/nanotrace): Low overhead tracing library and trace visualizer for pipelined CUDA kernels
+- [sail-sg/odc](https://github.com/sail-sg/odc): On demand communication
 
 ### Benchmark
 

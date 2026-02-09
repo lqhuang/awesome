@@ -68,7 +68,8 @@
 - 🌟 [pvolok/mprocs](https://github.com/pvolok/mprocs): Run multiple commands in parallel
 - [DarthSim/overmind](https://github.com/DarthSim/overmind): Process manager for Procfile-based applications and tmux
 - 🌟 [rs/dnstrace](https://github.com/rs/dnstrace): DNS resolution tracing tool
-- [wilfred/difftastic](https://github.com/wilfred/difftastic): a structural diff that understands syntax 🟥🟩 <https://difftastic.wilfred.me.uk/>
+- 🌟 [wilfred/difftastic](https://github.com/wilfred/difftastic): a structural diff that understands syntax 🟥🟩 <https://difftastic.wilfred.me.uk/>
+- 🌟 [codeberg:mergiraf/mergiraf](https://codeberg.org/mergiraf/mergiraf): A syntax-aware git merge driver for a growing collection of programming languages and file formats.
 - [dandavison/delta](https://github.com/dandavison/delta): A syntax-highlighting pager for git, diff, grep, and blame output <https://dandavison.github.io/delta/>
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
@@ -77,7 +78,6 @@
 - [timvw/qv](https://github.com/timvw/qv): Quickly view your data
 - [sigoden/argc-completions](https://github.com/sigoden/argc-completions): Completions for any shell. Supports 1000+ commands. Automaticlly generate completion definition from help text and man page.
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go): Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
-- 🌟 [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff): The fastest pixel-by-pixel image visual difference tool in the world.
 - 🌟 [ayoisaiah/f2](https://github.com/ayoisaiah/f2): F2 is a cross-platform command-line tool for batch renaming files and directories quickly and safely. Written in Go!
 - [wolfpld/vv](https://github.com/wolfpld/vv): Terminal image viewer
 - [ashish0kumar/stormy](https://github.com/ashish0kumar/stormy): 🌦️ Minimal, customizable and neofetch-like weather CLI based on rainy

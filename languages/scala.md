@@ -271,6 +271,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [pme123/vscode-scalajs-hello](https://github.com/pme123/vscode-scalajs-hello): A Hello World VS Code extension with ScalaJS.
 - [ptrdom/scalajs-vite](https://github.com/ptrdom/scalajs-vite): Bundles Scala.js projects and their npm dependencies with Vite
 - [ptrdom/scalajs-electron-quick-start](https://github.com/ptrdom/scalajs-electron-quick-start): electron-quick-start conversion to Scala.js
+- [linux-root/tauri-scala-desktop-app](https://github.com/linux-root/tauri-scala-desktop-app): No description, website, or topics provided.
 
 ## Featured
 
@@ -311,17 +312,21 @@ Do a benchmark (for final size while using Scala Native)?
 - [kitlangton/quotidian](https://github.com/kitlangton/quotidian): A menagerie of macro utilities and extensions for Scala 3
 - [durban/choam](https://github.com/durban/choam): Experiments with composable lock-free concurrency
 
+### Compile Time
+
+- 🌟 [arainko/ducktape](https://github.com/arainko/ducktape): Automatic and customizable compile time transformations between similar case classes and sealed traits/enums, essentially a thing that glues your code. Scala 3 only. Or is it duct 🤔
+- [typelevel/literally](https://github.com/typelevel/literally): Compile time validation of literal values built from strings
+- [dwickern/scala-nameof](https://github.com/dwickern/scala-nameof): Get the name of an variable, function, class member, or type as a string--at compile-time!
+
 ### Types
 
 - 🌟 [fthomas/refined](https://github.com/fthomas/refined): Refinement types for Scala
 - [Iltotore/iron](https://github.com/Iltotore/iron): Strong type constraints for Scala <https://iltotore.github.io/iron/docs>
-- 🌟 [scalalandio/chimney](https://github.com/scalalandio/chimney): Scala library for boilerplate-free, type-safe data transformations <https://scalalandio.github.io/chimney>
-- 🌟 [softwaremill/quicklens](https://github.com/softwaremill/quicklens): Modify deeply nested case class fields <https://softwaremill.com/open-source/>
-- 🌟 [arainko/ducktape](https://github.com/arainko/ducktape): Automatic and customizable compile time transformations between similar case classes and sealed traits/enums, essentially a thing that glues your code. Scala 3 only. Or is it duct 🤔
+- 🌟 [scalalandio/chimney](https://github.com/scalalandio/chimney): Scala library for boilerplate-free, type-safe data transformations <https://scalalandio.github.io/chimney> 🌟 [softwaremill/quicklens](https://github.com/softwaremill/quicklens): Modify deeply nested case class fields <https://softwaremill.com/open-source/>
+
 - [earldouglas/linear-scala](https://github.com/earldouglas/linear-scala): Linear types in Scala
 - [scala-ts/scala-ts](https://github.com/scala-ts/scala-ts): 🔧 Scala datamodel transpiler <https://scala-ts.github.io/scala-ts>
 - [bishabosha/ops-mirror](https://github.com/bishabosha/ops-mirror): Type class derivation for services, not data
-- [typelevel/literally](https://github.com/typelevel/literally): Compile time validation of literal values built from strings
 - [rssh/scala-appcontext](https://github.com/rssh/scala-appcontext): Minimalistic type-driven dependency-injection library
 
 ### Formal verification
@@ -449,6 +454,7 @@ Tracing and OpenTelemetry
 - [geirolz/cats-xml](https://github.com/geirolz/cats-xml): A functional library to work with XML in Scala using Cats. <https://geirolz.github.io/cats-xml/>
 - [tototoshi/scala-csv](https://github.com/tototoshi/scala-csv): CSV Reader/Writer for Scala
 - [encalmo/xmlwriter](https://github.com/encalmo/xmlwriter): Macro-powered fast XML serialization library for Scala 3. <https://encalmo.github.io/xmlwriter/>
+- [outr/perfolation](https://github.com/outr/perfolation): Performance focused interpolation
 
 ### Misc
 

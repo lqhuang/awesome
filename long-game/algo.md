@@ -97,6 +97,7 @@
 - [NVIDIA/physicsnemo](https://github.com/NVIDIA/physicsnemo): Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods <https://developer.nvidia.com/physicsnemo>
 - [peterparity/symder](https://github.com/peterparity/symder): SymDer: Symbolic Derivative Approach to Discovering Sparse Interpretable Dynamics from Partial Observations <https://doi.org/10.1038/s42005-022-00987-z>
   - [vaibhawvipul/lorenz-attractor-simulation](https://github.com/vaibhawvipul/lorenz-attractor-simulation): A comprehensive implementation of the Lorenz system demonstrating chaos theory through interactive visualizations and animations with extensive customization options.
+- [sail-sg/jrystal](https://github.com/sail-sg/jrystal): A JAX-based Differentiable Density Functional Theory Framework for Materials <https://sail-sg.github.io/jrystal/>
 
 ## Prob / Bayesian Inference
 
@@ -109,6 +110,7 @@
 ## Graph
 
 - [apple/ml-gbc](https://github.com/apple/ml-gbc): Graph-based captioning interconnects region captions to form an integral, structured, and fine-grained description of an image. This codebase contains code for the following purposes.
+- [naganandy/graph-based-deep-learning-literature](https://github.com/naganandy/graph-based-deep-learning-literature): links to conference publications in graph-based deep learning
 
 ## Category for ML
 

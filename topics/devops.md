@@ -131,6 +131,7 @@
 - [aspect-build/toolchains_protoc](https://github.com/aspect-build/toolchains_protoc): EXPERIMENTAL: Pre-built protoc binary toolchain for Bazel, fetched from official protobuf releases
 - [tweag/rules_haskell](https://github.com/tweag/rules_haskell): Haskell rules for Bazel. <https://haskell.build>
   - [bcr:rules_haskell](https://registry.bazel.build/modules/rules_haskell)
+  - [Adventures in uncertainty: Bazel, Haskell, and Build-System Joy ](https://blog.sumtypeofway.com/posts/bazel-haskell-build-system-joy.html)
 - [tweag/rules_nixpkgs](https://github.com/tweag/rules_nixpkgs): Rules for importing Nixpkgs packages into Bazel. <https://nix-bazel.build/>
   - [Bazel and Nix: A Migration Experience](https://www.tweag.io/blog/2022-12-15-bazel-nix-migration-experience/)
 - [tweag/credential-helper](https://github.com/tweag/credential-helper): A credential-helper framework and agent for Bazel and similar tools implementing the credential-helper spec. <https://registry.bazel.build/modules/tweag-credential-helper>
@@ -243,6 +244,7 @@ Cloud
   - [bcr:rules_distroless](https://registry.bazel.build/modules/rules_distroless)
 - [vimana-cloud/rules_wasm](https://github.com/vimana-cloud/rules_wasm): Bazel tools for working with WebAssembly components
   - [bcr:rules_wasm](https://registry.bazel.build/modules/rules_wasm)
+- [ekhabarov/bazel-k8s-envoy](https://github.com/ekhabarov/bazel-k8s-envoy): Demo: build gRPC micoservices with Bazel and deploy them to k8s <https://ekhabarov.com/envoy>
 
 Build cache
 
@@ -355,6 +357,7 @@ Libs
 - [fossas/fossa-cli](https://github.com/fossas/fossa-cli): Fast, portable and reliable dependency analysis for any codebase. Supports license & vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems. <https://fossa.com>
 - [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker): Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history.
 - 🌟 [google/oss-rebuild](https://github.com/google/oss-rebuild): Securing open-source package ecosystems by originating, validating, and augmenting build attestations.
+  - [google/oss-policies-info](https://github.com/google/oss-policies-info): This repository contains a summary of the support policies adopted by several Google Open Source projects.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date): Informative site with EoL dates of everything <https://endoflife.date>
 - 🌟 [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool): The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with an SBOM or a list of components and versions. <https://cve-bin-tool.readthedocs.io/en/latest/>
 - [safedep/vet](https://github.com/safedep/vet): Protect against malicious open source packages 🤖 <https://safedep.io>
@@ -415,6 +418,7 @@ Libs
 - [buildpacks/pack](https://github.com/buildpacks/pack): CLI for building apps using Cloud Native Buildpacks <https://buildpacks.io>
   - [pivotal/kpack](https://github.com/pivotal/kpack): Kubernetes Native Container Build Service
 - [agola-io/agola](https://github.com/agola-io/agola): Agola: CI/CD Redefined <https://agola.io>
+- [werf/werf](https://github.com/werf/werf): A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices. <https://werf.io>
 
 ### Ansible
 

@@ -200,6 +200,7 @@
 - [agoda-com/macOS-vz-kubelet](https://github.com/agoda-com/macOS-vz-kubelet): Run native macOS workloads on Kubernetes
   - [How We Integrated Native macOS Workloads with Kubernetes](https://medium.com/agoda-engineering/how-we-integrated-native-macos-workloads-with-kubernetes-b4d3c14881a0)
 - [boxlite-labs/boxlite](https://github.com/boxlite-labs/boxlite): SQLite-like agent runtime: an embeddable micro-VM that stores agent state and runs agent logic safely. <https://boxlite-labs.github.io/website/>
+- [microsoft/litebox](https://github.com/microsoft/litebox): A security-focused library OS supporting kernel- and user-mode execution
 
 Type 1 hypervisors
 

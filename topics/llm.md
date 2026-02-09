@@ -202,6 +202,7 @@
 - [getgrit/gritql](https://github.com/getgrit/gritql): GritQL is a query language for searching, linting, and modifying code. <https://docs.grit.io/>
 - [divar-ir/ai-doc-gen](https://github.com/divar-ir/ai-doc-gen): AI-powered multi-agent system that automatically analyzes codebases and generates comprehensive documentation. Features GitLab integration, concurrent processing, and multiple LLM support for better code understanding and developer onboarding.
 - [leigest519/ScreenCoder](https://github.com/leigest519/ScreenCoder): ScreenCoder — Turn any UI screenshot into clean, editable HTML/CSS with full control. Fast, accurate, and easy to customize.
+- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw): My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs.
 
 ### LLM Prompts
 

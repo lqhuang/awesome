@@ -71,6 +71,7 @@
 - 🌟 [coilhq/tigerbeetle](https://github.com/coilhq/tigerbeetle): A distributed financial accounting database designed for mission critical safety and performance to power the future of financial services. <https://www.tigerbeetle.com>
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB): A truly Open Source MongoDB alternative <https://www.ferretdb.io>
 - [orioledb/orioledb](https://github.com/orioledb/orioledb): OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦
+- [google/googlesql](https://github.com/google/googlesql): GoogleSQL(formerly ZetaSQL) - Analyzer Framework for SQL
 
 ### Novel SQLite
 
