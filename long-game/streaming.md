@@ -132,7 +132,7 @@ Streaming Systems
 - [WarpStream](https://www.warpstream.com): Stream more, manage less. WarpStream is a Kafka compatible data streaming platform built directly on top of object storage: no inter-AZ bandwidth costs, no disks to manage, and infinitely scalable, all within your VPC.
 - 🌟 [AutoMQ/automq](https://github.com/AutoMQ/automq): A cloud native implementation for Apache Kafka, reducing your cloud infrastructure bill by up to 90%. <https://www.automq.com>
 - [seglo/kafka-lag-exporter](https://github.com/seglo/kafka-lag-exporter): Monitor Kafka Consumer Group Latency with Kafka Lag Exporter
-- [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou): The Open source Resource as Code framework for Apache Kafka <https://www.jikkou.io>
+- 🌟 [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou): The Open source Resource as Code framework for Apache Kafka <https://www.jikkou.io>
 - 🌟 [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui): Open-Source Web UI for managing Apache Kafka clusters <http://ui.docs.kafbat.io>
 - [tansu-io/tansu](https://github.com/tansu-io/tansu): Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake <https://tansu.io>
 - [uber/uForwarder](https://github.com/uber/uForwarder): Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.

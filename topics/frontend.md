@@ -120,6 +120,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [TheOdinProject/css-exercises](https://github.com/TheOdinProject/css-exercises): These exercises consist of a series of CSS-related tasks intended to complement the HTML and CSS content on The Odin Project (TOP).
 - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/): A demonstration of what can be accomplished visually through CSS-based design.
 - 🌟 [Tag archive for CSS – Frontend Masters Blog](https://frontendmasters.com/blog/tag/css/): Frontend Masters Boost is a blog about web development. It's written by the team at Frontend Masters, course instructors from the industry, and curated guest authors. The goal is to help you on your path to becoming a senior developer, or to be an even better one.
+- [keithamus/css-minify-tests](https://github.com/keithamus/css-minify-tests): A correctness test suite for CSS minifiers. <https://www.keithcirkel.co.uk/css-minify-tests/>
 
 ### CSS Style
 

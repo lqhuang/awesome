@@ -218,6 +218,9 @@
 - [simple-scala-tooling/zinc-cli](https://github.com/simple-scala-tooling/zinc-cli): Three Buildtools for the Scala - devs of functional programming, Seven for the Java - lords in their enterprise hall, Nine for Javascript Mortals, doomed to `npm install`, One for the Dev Lord on their throne, In the Land of localhost where the compile errors lie. One Buildtool to rule them all, One buildtool to fix them ...
 - [softwaremill/maven-badges](https://github.com/softwaremill/maven-badges): A node.js implementation of https://github.com/jirutka/maven-badges, originally created in ruby.
 - [Vineflower/vineflower](https://github.com/Vineflower/vineflower): Modern Java decompiler aiming to be as accurate as possible, with an emphasis on output quality. Fork of the Fernflower decompiler. <https://vineflower.org/>
+- [oracle/visualvm](https://github.com/oracle/visualvm): VisualVM is an All-in-One Java Troubleshooting Tool <https://visualvm.github.io/>
+- [mthmulders/mcs](https://github.com/mthmulders/mcs): Search the Maven Central Repository from your command line! <https://maarten.mulders.it/projects/mcs/>
+- [kordamp/jarviz](https://github.com/kordamp/jarviz): ☕️ JAR file analyzer
 
 ## Cross platforms
 
@@ -350,6 +353,8 @@ Do a benchmark (for final size while using Scala Native)?
 - [suzaku-io/boopickle](https://github.com/suzaku-io/boopickle): Binary serialization library for efficient network communication
 - [VirtusLab/scala-yaml](https://github.com/VirtusLab/scala-yaml):
 - [silvabyte/Chez](https://github.com/silvabyte/Chez): Chez: Type-Safe JSON Schema Ecosystem for Scala 3
+- [snakeyaml/snakeyaml](https://github.com/snakeyaml/snakeyaml): Mirror of https://bitbucket.org/snakeyaml/snakeyaml <https://bitbucket.org/snakeyaml/snakeyaml>
+  - JVM only
 
 ### Logging and Observability
 
@@ -559,6 +564,7 @@ fs2
 - [gnieh/fs2-data](https://github.com/gnieh/fs2-data): streaming data parsing and transformation library <https://fs2-data.gnieh.org>
 - [nivox/fs2-backpressure-sensor](https://github.com/nivox/fs2-backpressure-sensor): Backpressure sensor implementation for fs2
   - [timbertson/backpressure-sensor](https://github.com/timbertson/backpressure-sensor): Measure backpressure in reactive streams pipelines
+- [codiff/fairstream](https://github.com/codiff/fairstream)
 
 http4s
 
@@ -620,6 +626,7 @@ http4s
 - [metarank/metarank](https://github.com/metarank/metarank): A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine <https://metarank.ai>
 - [windymelt/hnsw-scala](https://github.com/windymelt/hnsw-scala): Experimental implementation for HNSW in Scala 3
 - [tribbloid/shapesafe](https://github.com/tribbloid/shapesafe): SHAPE/S∀F∃: static prover/type-checker for N-D array programming in Scala, a use case of intuitionistic type theory
+- [beehive-lab/TornadoVM](https://github.com/beehive-lab/TornadoVM): TornadoVM: A practical and efficient heterogeneous programming framework for managed languages <https://www.tornadovm.org>
 
 ### kotlin for Data Intensive System
 

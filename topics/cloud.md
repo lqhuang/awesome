@@ -54,6 +54,7 @@
 - [debuerreotype/debuerreotype](https://github.com/debuerreotype/debuerreotype): reproducible, snapshot-based Debian rootfs builder
   - [debuerreotype/docker-debian-artifacts](https://github.com/debuerreotype/docker-debian-artifacts): Official builds of debuerreotype-generated Debian tarballs for use in Docker <https://docker.debian.net>
   - [ReproducibleInstalls - Debian Wiki](https://wiki.debian.org/ReproducibleInstalls)
+- [rtvkiz/minimal](https://github.com/rtvkiz/minimal): Minimal CVE Hardened container image collection
 
 #### Init systems
 

@@ -311,6 +311,7 @@ Terminal / SSH
 - [gotify/server](https://github.com/gotify/server): A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) <https://gotify.net>
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash): A self hosted dashboard and organizer for Excalidraw with live collaboration.
 - [BioHazard786/warpdrop](https://github.com/BioHazard786/warpdrop): A simple, secure p2p file sharing tool using WebRTC technology. <https://warpdrop.qzz.io>
+- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer): A free and open source instant messaging and VoIP platform built for friends, groups, and communities. <https://fluxer.app>
 
 ### PDF / File tools
 
