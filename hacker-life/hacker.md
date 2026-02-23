@@ -57,18 +57,9 @@
 - [josh-project/josh](https://github.com/josh-project/josh): Just One Single History <https://josh-project.github.io/josh/>
 - 🌟 [jj-vcs/jj](https://github.com/jj-vcs/jj): A Git-compatible VCS that is both simple and powerful <https://jj-vcs.github.io/jj/>
 - 🌟 [git-quick-stats/git-quick-stats](https://github.com/git-quick-stats/git-quick-stats): ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository. <https://git-quick-stats.sh>
-- [codeberg:forgejo/forgejo](https://codeberg.org/forgejo/forgejo): forgejo - Beyond coding. We forge. <https://forgejo.org/>
-  - [codeberg:ForgeFed/ForgeFed](https://codeberg.org/ForgeFed/ForgeFed): ForgeFed - ActivityPub-based forge federation protocol <https://forgefed.org/>
-- [radicle:seed.radicle.xyz](https://app.radicle.xyz/nodes/seed.radicle.xyz): Explore the Radicle network
 - [自己动手写 Git](https://wyag-zh.hanyujie.xyz/): 从零开始写 Git（Write Yourself a Git，简称 wyag） 的中文翻译 | Chinese translation of Write Yourself a Git
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue): A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [entireio/cli](https://github.com/entireio/cli): Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning. <https://entire.io>
-- [gitblit-org/gitblit](https://github.com/gitblit-org/gitblit): pure java git solution <http://gitblit.com>
-- [eclipse-jgit/jgit](https://github.com/eclipse-jgit/jgit): JGit, the Java implementation of git <https://projects.eclipse.org/projects/technology.jgit>
-- [gsrc:gerrit/gerrit](https://gerrit.googlesource.com/gerrit/): Gerrit is a code review and project management tool for Git based projects.
-  - [gh:GerritCodeReview/gerrit](https://github.com/GerritCodeReview/gerrit): Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit)
-  - [Gerrit Code Review for Git](https://gerrithub.io/Documentation/index.html)
-  - [gsrc:gerrit/gitiles](https://gerrit.googlesource.com/gitiles/): A simple JGit repository browser
 
 ### Code as Graph
 

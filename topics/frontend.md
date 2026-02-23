@@ -683,6 +683,8 @@ Concrete animations
 - [darula-hpp/react-source-lens](https://github.com/darula-hpp/react-source-lens): Instantly locate any React component's source code with a single keystroke. Hover + Cmd+Shift+O = your editor opens the exact file and line.
 - [theajack/disable-devtool](https://github.com/theajack/disable-devtool): Disable web developer tools from the f12 button, right-click and browser menu <https://theajack.github.io/disable-devtool/>
 - [jsx-tool/jsx-tool](https://github.com/jsx-tool/jsx-tool): A lightweight development server that bridges your browser and filesystem for real-time React component editing. <https://jsxtool.com>
+- [ultroned/xray-react](https://github.com/ultroned/xray-react): 🩻 React layout debugging tool that lets you open source code in your local IDE by clicking UI elements.
+- [aidenybai/react-grab](https://github.com/aidenybai/react-grab): Select context for coding agents directly from your website <https://react-grab.com>
 
 ### Misc
 

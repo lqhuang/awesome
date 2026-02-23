@@ -246,6 +246,8 @@ Misc
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of SQLite extensions
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry <https://sqlpkg.org>
 - [sqliteai/sqlite-js](https://github.com/sqliteai/sqlite-js): Create custom SQLite functions in JavaScript. Extend your database with scalars, aggregates, window functions, and collations directly in JavaScript. <https://sqlite.ai>
+- [sqliteai/sqlite-vector](https://github.com/sqliteai/sqlite-vector): SQLite-Vector is a cross-platform, ultra-efficient SQLite extension that brings vector search capabilities to your embedded database. <https://sqlite.ai/>
+- [sqliteai/sqlite-sync](https://github.com/sqliteai/sqlite-sync): SQLiteSync is a local-first SQLite extension using CRDTs for seamless, conflict-free data sync and real-time collaboration across devices. <https://sqlite.ai>
 - [orbitinghail/sqlsync](https://github.com/orbitinghail/sqlsync): SQLSync is a collaborative offline-first wrapper around SQLite. It is designed to synchronize web application state between users, devices, and the edge. <https://sqlsync.dev>
 - [vlcn-io/cr-sqlite](https://github.com/vlcn-io/cr-sqlite): Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite <https://vlcn.io>
 - [danthegoodman1/gRPSQLite](https://github.com/danthegoodman1/gRPSQLite): A SQLite VFS for remote databases via gRPC

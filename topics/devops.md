@@ -376,6 +376,8 @@ Libs
 
 ## Testing
 
+- [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden): Define, test, and document APIs like a developer, not a SaaS user. No accounts. No lock-in. No telemetry. Just Markdown, Git, hotkeys, and your damn specs. <https://voiden.md>
+
 ### TAP (Test Anything Protocol)
 
 - [TestAnything/Specification](https://github.com/TestAnything/Specification): Working towards a new TAP specification
@@ -604,6 +606,9 @@ Archived or outdated but still useful
 - [aws-actions/configure-aws-credentials](https://github.com/aws-actions/configure-aws-credentials): Configure AWS credential environment variables for use in other GitHub Actions.
 - [actions/github-script](https://github.com/actions/github-script): Write workflows scripting the GitHub API in JavaScript
 - [redhat-actions/buildah-build](https://github.com/redhat-actions/buildah-build): GitHub Action to use 'buildah' to build a container image. <https://github.com/marketplace/actions/buildah-build>
+- 🌟 [github/gh-aw](https://github.com/github/gh-aw): GitHub Agentic Workflows <https://gh.io/gh-aw>
+  - [Welcome to Peli's Agent Factory | GitHub Agentic Workflows](https://github.github.com/gh-aw/blog/2026-01-12-welcome-to-pelis-agent-factory/): It's basically a candy shop chocolate factory of agentic workflows.
+- [microsoft/GitHubCopilotLicenseAssignment](https://github.com/microsoft/GitHubCopilotLicenseAssignment): Disclaimer: this GitHub Repository will not assign you a GitHub Copilot License. This repository is a template to enable a self-service solution to automate the process of assigning GitHub Copilot licenses in your GitHub organization. You can check the following repository as an example using this solution: <https://github.com/DevExpGbb/GitHubCopilotLicenseAssignment>
 
 ### GitHub Action Runner
 

@@ -197,6 +197,8 @@
 - [yosebyte/nodepass](https://github.com/yosebyte/nodepass): A secure, efficient TCP/UDP tunneling solution that delivers fast, reliable access across network restrictions using pre-established TLS/TCP connections. <https://nodepass.eu>
 - 🌟 [jpillora/chisel](https://github.com/jpillora/chisel): A fast TCP/UDP tunnel over HTTP
 - 🌟 [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel): Modern, fast and obfuscated VPN protocol <https://trusttunnel.org/>
+- [softwaremill/sandcat](https://github.com/softwaremill/sandcat): A dev container setup that routes all container traffic through a transparent mitmproxy via WireGuard, enforcing network access rules and injecting secrets at the proxy level
+- [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock): Matchlock secures AI agent workloads with a Linux-based sandbox.
 
 ### Warp
 

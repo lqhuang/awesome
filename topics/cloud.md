@@ -306,6 +306,7 @@ Type 1 hypervisors
 - [hunvreus/devpush](https://github.com/hunvreus/devpush): Like Vercel, but open source and for all languages. <https://devpu.sh>
 - [mrusme/planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...) <https://xn--gckvb8fzb.com>
 - [dokku/dokku](https://github.com/dokku/dokku): A docker-powered PaaS that helps you build and manage the lifecycle of applications <https://dokku.com>
+- [biersoeckli/QuickStack](https://github.com/biersoeckli/QuickStack): Build, run and monitor your apps on any server from a single, easy-to-use UI. <https://quickstack.dev>
 
 ## K8S
 

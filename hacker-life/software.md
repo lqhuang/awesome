@@ -227,12 +227,8 @@ Size: nano11 > AtlasOS ≈ ReviOS > Tiny11 > Win11 LTSC
 - 🌟 [mirego/accent](https://github.com/mirego/accent): The first developer-oriented translation tool. True asynchronous flow between translators and your team. <https://www.accent.reviews>
 - [leaningtech/webvm](https://github.com/leaningtech/webvm): Virtual Machine for the Web <https://webvm.io>
 - [m1k1o/neko](https://github.com/m1k1o/neko): A self hosted virtual browser that runs in docker and uses WebRTC. <https://neko.m1k1o.net/>
-- [harness/gitness](https://github.com/harness/gitness): Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery. <https://gitness.com>
 - [stagit](https://git.codemadness.org/stagit/file/README.html): static git page generator
 - [gitbutlerapp/gitbutler](https://github.com/gitbutlerapp/gitbutler): The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte <https://gitbutler.com>
-- [sr.ht/~sircmpwn/sourcehut](https://sr.ht/~sircmpwn/sourcehut/): This is the main project hub for SourceHut itself. To browse our source code, see the "sources" tab at the nav along the top of the page.
-- [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD <https://about.gitea.com>
-  - [gitea/awesome-gitea: A curated list of awesome projects related to Gitea and its soft-fork instances - awesome-gitea - Gitea: Git with a cup of tea](https://gitea.com/gitea/awesome-gitea/): awesome-gitea - A curated list of awesome projects related to Gitea and its soft-fork instances
 - 🌟 [picosh/pgit](https://github.com/picosh/pgit): static site generator for git repos <https://git.erock.io>
 - [picosh/pico](https://github.com/picosh/pico): The ultimate ssh powered services for developers <https://pico.sh>
 
@@ -311,10 +307,25 @@ Terminal / SSH
 - [gotify/server](https://github.com/gotify/server): A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui) <https://gotify.net>
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash): A self hosted dashboard and organizer for Excalidraw with live collaboration.
 - [BioHazard786/warpdrop](https://github.com/BioHazard786/warpdrop): A simple, secure p2p file sharing tool using WebRTC technology. <https://warpdrop.qzz.io>
-- [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer): A free and open source instant messaging and VoIP platform built for friends, groups, and communities. <https://fluxer.app>
-- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis): Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers <https://anubis.techaro.lol/>
-- [tiagorangel1/cap](https://github.com/tiagorangel1/cap): Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work <http://capjs.js.org/>
-- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service): No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun "no," or want to simulate being turned down in style. <https://naas.isalman.dev/no>
+- [polius/FileSync](https://github.com/polius/FileSync): Send files from one device to many in real-time. <https://filesync.app>
+
+### Git hosting
+
+- [harness/harness](https://github.com/harness/harness): Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. <https://www.harness.io/open-source>
+- [sr.ht/~sircmpwn/sourcehut](https://sr.ht/~sircmpwn/sourcehut/): This is the main project hub for SourceHut itself. To browse our source code, see the "sources" tab at the nav along the top of the page.
+- [go-gitea/gitea](https://github.com/go-gitea/gitea): Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD <https://about.gitea.com>
+  - [gitea/awesome-gitea: A curated list of awesome projects related to Gitea and its soft-fork instances - awesome-gitea - Gitea: Git with a cup of tea](https://gitea.com/gitea/awesome-gitea/): awesome-gitea - A curated list of awesome projects related to Gitea and its soft-fork instances
+- [codeberg:forgejo/forgejo](https://codeberg.org/forgejo/forgejo): forgejo - Beyond coding. We forge. <https://forgejo.org/>
+  - [codeberg:ForgeFed/ForgeFed](https://codeberg.org/ForgeFed/ForgeFed): ForgeFed - ActivityPub-based forge federation protocol <https://forgefed.org/>
+- [radicle:seed.radicle.xyz](https://app.radicle.xyz/nodes/seed.radicle.xyz): Explore the Radicle network
+- [codeberg:sitaramc/gitolite](https://codeberg.org/sitaramc/gitolite): gitolite - Social coding. Without the "social" :-)
+- [zx2c4/cgit](https://git.zx2c4.com/cgit/): A hyperfast web frontend for git repositories written in C.
+- [gitblit-org/gitblit](https://github.com/gitblit-org/gitblit): pure java git solution <http://gitblit.com>
+- [eclipse-jgit/jgit](https://github.com/eclipse-jgit/jgit): JGit, the Java implementation of git <https://projects.eclipse.org/projects/technology.jgit>
+- [gsrc:gerrit/gerrit](https://gerrit.googlesource.com/gerrit/): Gerrit is a code review and project management tool for Git based projects.
+  - [gh:GerritCodeReview/gerrit](https://github.com/GerritCodeReview/gerrit): Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit)
+  - [Gerrit Code Review for Git](https://gerrithub.io/Documentation/index.html)
+  - [gsrc:gerrit/gitiles](https://gerrit.googlesource.com/gitiles/): A simple JGit repository browser
 
 ### PDF / File tools
 

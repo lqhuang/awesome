@@ -125,6 +125,7 @@
 - [facebookexperimental/reverie](https://github.com/facebookexperimental/reverie): An ergonomic and safe syscall interception framework for Linux.
 - [fast/fastrace](https://github.com/fast/fastrace): A tracing library 10~100x faster than others <https://docs.rs/fastrace/>
 - [pawurb/hotpath](https://github.com/pawurb/hotpath): A simple Rust profiler that shows exactly where your code spends time and allocates
+- [cong-or/hud](https://github.com/cong-or/hud): Find code blocking your Tokio workers. eBPF-powered, no instrumentation.
 
 ### Program analysis
 

@@ -355,6 +355,7 @@ And modern is here now.
 - [nifty-site-manager/nsm](https://github.com/nifty-site-manager/nsm): Nift - world's fastest cross-platform open source website generator. <https://nift.dev/>
 - [AbstractXan/Mizi](https://github.com/AbstractXan/Mizi): A simple markdown to website generator written in C++. <https://abstractxan.xyz/site/mizi__site_generator>
 - [felipetavares/bake](https://github.com/felipetavares/bake): Bake is a templated blog generator.
+- [avocadoboi/cpp20-http-client](https://github.com/avocadoboi/cpp20-http-client): An HTTP(S) client library for C++20.
 
 ### Cli
 

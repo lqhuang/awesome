@@ -69,6 +69,7 @@
 
 - 🌟 [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep): ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust <https://ast-grep.github.io>
   - [reviewdog/action-ast-grep](https://github.com/reviewdog/action-ast-grep): 🐶 Run ast-grep(sg) with reviewdog
+  - [dannote/sloplint](https://github.com/dannote/sloplint): AST-based multilingual AI slop linter
 - [facebookincubator/Glean](https://github.com/facebookincubator/Glean): System for collecting, deriving and working with facts about source code. <https://glean.software/>
   - [Indexing Hackage: Glean vs. hiedb · Simon Marlow](https://simonmar.github.io/posts/2025-05-22-Glean-Haskell.html)
 - [github/semantic](https://github.com/github/semantic): Parsing, analyzing, and comparing source code across many languages

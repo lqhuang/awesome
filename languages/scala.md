@@ -326,7 +326,6 @@ Do a benchmark (for final size while using Scala Native)?
 - 🌟 [fthomas/refined](https://github.com/fthomas/refined): Refinement types for Scala
 - [Iltotore/iron](https://github.com/Iltotore/iron): Strong type constraints for Scala <https://iltotore.github.io/iron/docs>
 - 🌟 [scalalandio/chimney](https://github.com/scalalandio/chimney): Scala library for boilerplate-free, type-safe data transformations <https://scalalandio.github.io/chimney> 🌟 [softwaremill/quicklens](https://github.com/softwaremill/quicklens): Modify deeply nested case class fields <https://softwaremill.com/open-source/>
-
 - [earldouglas/linear-scala](https://github.com/earldouglas/linear-scala): Linear types in Scala
 - [scala-ts/scala-ts](https://github.com/scala-ts/scala-ts): 🔧 Scala datamodel transpiler <https://scala-ts.github.io/scala-ts>
 - [bishabosha/ops-mirror](https://github.com/bishabosha/ops-mirror): Type class derivation for services, not data
@@ -460,6 +459,7 @@ Tracing and OpenTelemetry
 - [tototoshi/scala-csv](https://github.com/tototoshi/scala-csv): CSV Reader/Writer for Scala
 - [encalmo/xmlwriter](https://github.com/encalmo/xmlwriter): Macro-powered fast XML serialization library for Scala 3. <https://encalmo.github.io/xmlwriter/>
 - [outr/perfolation](https://github.com/outr/perfolation): Performance focused interpolation
+- [jwbargsten/valacc](https://github.com/jwbargsten/valacc): Scala 3 accumulative error validation library
 
 ### Misc
 

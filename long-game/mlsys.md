@@ -148,11 +148,6 @@ General problems
 - [mlpack/ensmallen](https://github.com/mlpack/ensmallen): A header-only C++ library for numerical optimization -- <http://ensmallen.org>
 - [stevengj/nlopt](https://github.com/stevengj/nlopt): library for nonlinear optimization, wrapping many algorithms for global and local, constrained or unconstrained, optimization
 
-### Production-ready network implementation
-
-- [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast): A batched offline inference oriented version of segment-anything
-  - [Accelerating Generative AI with PyTorch: Segment Anything, Fast](https://pytorch.org/blog/accelerating-generative-ai/)
-
 ### Inference engine / large-scale deployment
 
 - [flashlight/flashlight](https://github.com/flashlight/flashlight): A C++ standalone library for machine learning <https://fl.readthedocs.io/en/latest>
@@ -311,6 +306,9 @@ General problems
 - [facebookresearch/flow_matching](https://github.com/facebookresearch/flow_matching): A PyTorch library for implementing flow matching algorithms, featuring continuous and discrete flow matching implementations. It includes practical examples for both text and image modalities. <http://facebookresearch.github.io/flow_matching>
 - [facebookresearch/chai](https://github.com/facebookresearch/chai): CHAI is a library for dynamic pruning of attention heads for efficient LLM inference.
 - [facebookresearch/Lyapunov](https://github.com/facebookresearch/Lyapunov): PyTorch original implementation of "Lyapunov functions a long-standing open problem in mathematics, with symbolic transformers" (NeurIPS 2024).
+- [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast): A batched offline inference oriented version of segment-anything
+  - [Accelerating Generative AI with PyTorch: Segment Anything, Fast](https://pytorch.org/blog/accelerating-generative-ai/)
+- [kornia/kornia](https://github.com/kornia/kornia): 🐍 Geometric Computer Vision Library for Spatial AI <https://kornia.readthedocs.io>
 
 ### Reinforcement Learning
 

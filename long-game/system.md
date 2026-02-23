@@ -68,6 +68,8 @@
 ### Tools
 
 - [ziglang/libc-abi-tools](https://github.com/ziglang/libc-abi-tools): A repository that collects libc ABI files for multiple versions and a tool to combine them into one dataset.
+- [sourceware:libabigail](https://sourceware.org/git/libabigail.git): The Git repository of the Libabigail Project
+  - [libabigail: The ABI Generic Analysis and Instrumentation Library](https://sourceware.org/libabigail/)
 
 ## Memory allocator
 
@@ -125,6 +127,7 @@
 - [foniod/redbpf](https://github.com/foniod/redbpf): Rust library for building and running BPF/eBPF modules
 - [aya-rs/aya](https://github.com/aya-rs/aya): Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. <https://aya-rs.dev/book>
 - [kunai-project/kunai](https://github.com/kunai-project/kunai): Threat-hunting tool for Linux <https://why.kunai.rocks>
+- [DavidVentura/ebpf.party](https://github.com/DavidVentura/ebpf.party): Code for ebpf.party <https://ebpf.party/>
 
 ## Serialization Protocl
 
