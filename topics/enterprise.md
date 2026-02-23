@@ -34,10 +34,6 @@
 - [coroot/coroot](https://github.com/coroot/coroot): A monitoring and troubleshooting tool for microservice architectures. <https://coroot.com/docs/coroot-community-edition>
 - [volatilityfoundation/volatility3](https://github.com/volatilityfoundation/volatility3): Volatility 3.0 development <http://volatilityfoundation.org>
 - [facebook/sapling](https://github.com/facebook/sapling): A Scalable, User-Friendly Source Control System.
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) <https://openapi-generator.tech>
-- [muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock): OpenAPI mock server with random data generation
-- [getezy/ezy](https://github.com/getezy/ezy): 🔥 GUI client for gRPC/gRPC-Web <https://getezy.dev>
-- [biscuit-auth/biscuit](https://github.com/biscuit-auth/biscuit): delegated, decentralized, capabilities based authorization token
 - [tweag/nickel](https://github.com/tweag/nickel): Better configuration for less <https://nickel-lang.org>
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg): A Docker-powered stateless API for PDF files. <https://gotenberg.dev>
 - [RelaxedJS/ReLaXed](https://github.com/RelaxedJS/ReLaXed): Create PDF documents using web technologies
@@ -173,6 +169,7 @@
 - [bluewave-labs/capture](https://github.com/bluewave-labs/capture): An open source hardware monitoring agent for Checkmate <https://pkg.go.dev/github.com/bluewave-labs/capture>
 - [rajnandan1/kener](https://github.com/rajnandan1/kener): Kener is a Modern Self hosted Status Page, batteries included <https://kener.ing/>
 - [henrygd/beszel](https://github.com/henrygd/beszel): Lightweight server monitoring hub with historical data, docker stats, and alerts. <https://beszel.dev>
+- [VrianCao/Uptimer](https://github.com/VrianCao/Uptimer): A Powerful Serverless Uptime Monitoring & Status Page on Cloudflare's Edge Network <https://status.vrian.de/>
 
 ### Observability: Logging / Metrics / APM
 
@@ -278,6 +275,7 @@ Visual stack
 - [intigriti/misconfig-mapper](https://github.com/intigriti/misconfig-mapper): Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets! <https://bugology.intigriti.io/misconfig-mapper-docs>
 - 🌟 [bitorscanner/Bitor](https://github.com/bitorscanner/Bitor): Bitor Scanning Software <https://bitor.dev>
 - [D00Movenok/BounceBack](https://github.com/D00Movenok/BounceBack): ↕️🤫 Stealth redirector for your red team operation security
+- 🌟 [praetorian-inc/brutus](https://github.com/praetorian-inc/brutus): Fast, zero-dependency credential testing tool in Go. Brute force SSH, MySQL, PostgreSQL, Redis, MongoDB, SMB, and 20+ protocols. Hydra alternative with native fingerprintx/naabu pipeline integration.
 
 ## Career
 

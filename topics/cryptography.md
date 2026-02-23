@@ -7,6 +7,7 @@
 ## Services
 
 - [keys.openpgp.org](https://keys.openpgp.org/)
+- [pkic/pqccm](https://github.com/pkic/pqccm): PQC Capabilities Matrix (PQCCM)
 
 ## Tools
 
@@ -32,6 +33,8 @@
 - [ogxd/gxhash](https://github.com/ogxd/gxhash): The fastest hashing algorithm 📈 <https://docs.rs/gxhash>
 - [besser82/libxcrypt](https://github.com/besser82/libxcrypt): Extended crypt library for descrypt, md5crypt, bcrypt, and others
   - support obsolete crypt API for glibc compatibility with musl libc
+- [randombit/botan](https://github.com/randombit/botan): Cryptography Toolkit <https://botan.randombit.net>
+- [jedisct1/libsodium](https://github.com/jedisct1/libsodium): A modern, portable, easy to use crypto library. <https://libsodium.org>
 
 ### TLS
 

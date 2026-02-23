@@ -312,6 +312,9 @@ Terminal / SSH
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash): A self hosted dashboard and organizer for Excalidraw with live collaboration.
 - [BioHazard786/warpdrop](https://github.com/BioHazard786/warpdrop): A simple, secure p2p file sharing tool using WebRTC technology. <https://warpdrop.qzz.io>
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer): A free and open source instant messaging and VoIP platform built for friends, groups, and communities. <https://fluxer.app>
+- [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis): Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers <https://anubis.techaro.lol/>
+- [tiagorangel1/cap](https://github.com/tiagorangel1/cap): Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work <http://capjs.js.org/>
+- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service): No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun "no," or want to simulate being turned down in style. <https://naas.isalman.dev/no>
 
 ### PDF / File tools
 

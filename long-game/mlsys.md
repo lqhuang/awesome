@@ -578,6 +578,7 @@ PGM / Probabilistic programming
 - [Lyken17/pytorch-OpCounter](https://github.com/Lyken17/pytorch-OpCounter): Count the MACs / FLOPs of your PyTorch model.
 - [aikitoria/nanotrace](https://github.com/aikitoria/nanotrace): Low overhead tracing library and trace visualizer for pipelined CUDA kernels
 - [sail-sg/odc](https://github.com/sail-sg/odc): On demand communication
+- [mit-zardini-lab/pyncd](https://github.com/mit-zardini-lab/pyncd): This is a package for formally expressing deep learning models based on Neural Circuit Diagrams, FlashAttention on a Napkin and Spherical Attention. The main goal of this package is to provide a simple and intuitive way to define and visualize deep learning models, while also allowing for formal reasoning about their properties.
 
 ### Benchmark
 

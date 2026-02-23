@@ -62,6 +62,13 @@
 - [radicle:seed.radicle.xyz](https://app.radicle.xyz/nodes/seed.radicle.xyz): Explore the Radicle network
 - [自己动手写 Git](https://wyag-zh.hanyujie.xyz/): 从零开始写 Git（Write Yourself a Git，简称 wyag） 的中文翻译 | Chinese translation of Write Yourself a Git
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue): A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
+- [entireio/cli](https://github.com/entireio/cli): Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning. <https://entire.io>
+- [gitblit-org/gitblit](https://github.com/gitblit-org/gitblit): pure java git solution <http://gitblit.com>
+- [eclipse-jgit/jgit](https://github.com/eclipse-jgit/jgit): JGit, the Java implementation of git <https://projects.eclipse.org/projects/technology.jgit>
+- [gsrc:gerrit/gerrit](https://gerrit.googlesource.com/gerrit/): Gerrit is a code review and project management tool for Git based projects.
+  - [gh:GerritCodeReview/gerrit](https://github.com/GerritCodeReview/gerrit): Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit)
+  - [Gerrit Code Review for Git](https://gerrithub.io/Documentation/index.html)
+  - [gsrc:gerrit/gitiles](https://gerrit.googlesource.com/gitiles/): A simple JGit repository browser
 
 ### Code as Graph
 

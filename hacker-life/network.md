@@ -46,6 +46,7 @@
 ## Tools
 
 - 🌟 [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy): An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers. <https://mitmproxy.org>
+- 🌟 [InterceptSuite/InterceptSuite](https://github.com/InterceptSuite/InterceptSuite): MITM proxy for TCP/TLS/DTLS/UDP traffic, with STARTTLS, IoT, Thick Client and more. <https://interceptsuite.com/>
 - [jeromesegura/fiddleitm](https://github.com/jeromesegura/fiddleitm): Your Swiss Army knife to analyze malicious web traffic based on mitmproxy.- [bettercap/bettercap](https://github.com/bettercap/bettercap): The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks. <https://www.bettercap.org>
 - [dstotijn/hetty](https://github.com/dstotijn/hetty): An HTTP toolkit for security research. <https://hetty.xyz>
 - 🌟 [gojue/ecapture](https://github.com/gojue/ecapture): capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android x86_64/Aarch64. <https://ecapture.cc>
@@ -145,6 +146,7 @@
 - 🌟 [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks): tun2socks - powered by gVisor TCP/IP stack <https://github.com/xjasonlyu/tun2socks/wiki>
 - [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel): Tun2Socks (Linux/Android/BSD/macOS/iOS/Windows) (IPv4/IPv6/TCP/UDP)
 - [doxx/darkflare](https://github.com/doxx/darkflare): DarkFlare Firewall Piercing (TCP over CDN)
+- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge): Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy <https://interceptsuite.com/>
 
 ## DNS
 

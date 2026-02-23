@@ -170,6 +170,7 @@
   - GPL-2.0
 - [osbuild/osbuild](https://github.com/osbuild/osbuild): Build-Pipelines for Operating System Artifacts <https://www.osbuild.org>
   - [osbuild/osbuild-composer](https://github.com/osbuild/osbuild-composer): An HTTP service for building bootable OS images. <https://www.osbuild.org>
+- [kiviktnm/decman](https://github.com/kiviktnm/decman): Declarative package & configuration manager for Arch Linux. <https://aur.archlinux.org/packages/decman>
 
 ### Virtual Machines
 

@@ -95,6 +95,7 @@
 - [chshersh/dr-cabal](https://github.com/chshersh/dr-cabal): 📊 Haskell dependencies build times profiler
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell): Maintainable configuration files <https://dhall-lang.org>
 - [well-typed/haskell-debugger](https://github.com/well-typed/haskell-debugger): A modern step-through debugger for GHC Haskell <https://well-typed.github.io/haskell-debugger>
+- [nalchevanidze/hwm](https://github.com/nalchevanidze/hwm): HWM(Haskell Workspace Manager): is a declarative CLI tool for managing Haskell monorepos.
 
 ## Testing
 
@@ -191,6 +192,7 @@
 - 🌟 [dmjio/miso](https://github.com/dmjio/miso): 🍜 A tasty Haskell front-end framework <https://haskell-miso.org>
 - [kazu-yamamoto/http2](https://github.com/kazu-yamamoto/http2): HTTP/2.0 library including HPACK
 - [kazu-yamamoto/quic](https://github.com/kazu-yamamoto/quic): IETF QUIC library in Haskell
+- [iand675/sofetch](https://github.com/iand675/sofetch): Automatic batching and deduplication of concurrent data fetches for Haskell
 
 ## Clients
 
@@ -200,7 +202,13 @@
 - [well-typed/grapesy](https://github.com/well-typed/grapesy): Native Haskell gRPC client and server based on `http2`
   - [grapesy: industrial strength gRPC library for Haskell](https://well-typed.com/blog/2025/01/grapesy/)
 - [obsidiansystems/gargoyle](https://github.com/obsidiansystems/gargoyle): A framework for managing daemons from Haskell and libraries for use with postgresql and nix
+
+## Bindings
+
 - [Tritlo/duckdb-haskell](https://github.com/Tritlo/duckdb-haskell): Haskell bindings for DuckDB
+- [haskell-cryptography/botan](https://github.com/haskell-cryptography/botan): Haskell bindings for the Botan cryptography library <https://hackage.haskell.org/package/botan-low>
+- [haskell-cryptography/libsodium-bindings](https://github.com/haskell-cryptography/libsodium-bindings): Bindings to libsodium for Haskell
+- [haskell-cryptography/HsOpenSSL](https://github.com/haskell-cryptography/HsOpenSSL): OpenSSL binding for Haskell <http://hackage.haskell.org/package/HsOpenSSL>
 
 ## Other good libs
 
@@ -230,3 +238,4 @@
 - [tweag/monad-bayes](https://github.com/tweag/monad-bayes): A library for probabilistic programming in Haskell.
 - [haskell-tls/hs-tls](https://github.com/haskell-tls/hs-tls): TLS/SSL implementation in haskell
 - [sellout/duoids](https://github.com/sellout/duoids): Unifying parallel and sequential operations
+- [jason-johnson/hodatime](https://github.com/jason-johnson/hodatime): A haskell time library based on Erik Naggum's "Long painful history of time"

@@ -131,6 +131,7 @@
 - [jdagdelen/hyperDB](https://github.com/jdagdelen/hyperDB): A hyper-fast local vector database for use with LLM Agents.
 - [chroma-core/chroma](https://github.com/chroma-core/chroma): the AI-native open-source embedding database <https://www.trychroma.com>
 - [turbopuffer](https://turbopuffer.com/): A serverless vector database built from first principles on object storage: 10-100x cheaper, usage-based pricing, and massive scalability
+- [alibaba/zvec](https://github.com/alibaba/zvec): A lightweight, lightning-fast, in-process vector database <https://zvec.org/en/>
 
 🌟 You may don't need a vector database, just use a vector index library:
 

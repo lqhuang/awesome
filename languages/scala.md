@@ -234,7 +234,7 @@ Do a benchmark (for final size while using Scala Native)?
 
 - [vpavkin/dtc](https://github.com/vpavkin/dtc): Provides type classes for datetime values. Works both on JVM & ScalaJS. <https://vpavkin.github.io/dtc/api>
 - [cquiroz/scala-java-time](https://github.com/cquiroz/scala-java-time): Implementation of the `java.time` API in scala. Especially useful for scala.js <http://cquiroz.github.io/scala-java-time/>
-- [ekrich/sjavatime](https://github.com/ekrich/sjavatime): Implementation of java.time for Scala.js and Scala Native
+- 🌟 [ekrich/sjavatime](https://github.com/ekrich/sjavatime): Implementation of java.time for Scala.js and Scala Native
 
 ### Born for crossing all
 

@@ -141,6 +141,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
 - [awslabs/ssosync](https://github.com/awslabs/ssosync): Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda
 - [authzed/spicedb](https://github.com/authzed/spicedb): Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data <https://authzed.com/docs>
+- [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit):
 
 ## Analytics
 
@@ -203,6 +204,10 @@
 - [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe): A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
 - 🌟 [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate): Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases! <https://buf.build/bufbuild/protovalidate>
 - [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc): Documentation generator plugin for Google Protocol Buffers
+- [grpc/grpc-web](https://github.com/grpc/grpc-web): gRPC for Web Clients <https://grpc.io>
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) <https://openapi-generator.tech>
+- [muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock): OpenAPI mock server with random data generation
+- [getezy/ezy](https://github.com/getezy/ezy): 🔥 GUI client for gRPC/gRPC-Web <https://getezy.dev>
 
 ## Serverless
 
