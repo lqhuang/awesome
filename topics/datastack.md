@@ -33,6 +33,7 @@
 - 🌟 [cwida/FastLanes](https://github.com/cwida/FastLanes): Next-Gen Big Data File Format <https://fastlanes.io/>
   - [spiraldb/fastlanes](https://github.com/spiraldb/fastlanes): Rust implementation of the FastLanes compression library
 - [vortex-data/vortex](https://github.com/vortex-data/vortex): An extensible, state of the art columnar file format. Formerly at @spiraldb, now a Linux Foundation project. <https://vortex.dev>
+- [XiangpengHao/parquet-linter](https://github.com/XiangpengHao/parquet-linter): Unleash the performance potential of your Parquet files.
 
 ### Tools
 

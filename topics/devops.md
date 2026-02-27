@@ -102,6 +102,8 @@
   - [bcr:portable_cc_toolchain](https://registry.bazel.build/modules/portable_cc_toolchain)
 - [cps-org/cps](https://github.com/cps-org/cps): Common Package Specification — A cross-tool mechanism for locating software dependencies <https://cps-org.github.io/cps/>
   - next generation of `pkg-config` 🤔
+- [marler8997/msvcup](https://github.com/marler8997/msvcup): Hermetic install of MSVC/SDK from the CLI
+  - looks great on Windows
 
 ### Monorepo
 

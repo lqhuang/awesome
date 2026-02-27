@@ -122,7 +122,7 @@
 
 ## SDN and network simulation
 
-- [nsnam/ns-3-dev - GitLab](https://gitlab.com/nsnam/ns-3-dev): ns-3 development repository <https://www.nsnam.org/>
+- [gitlab:nsnam/ns-3-dev](https://gitlab.com/nsnam/ns-3-dev): ns-3 development repository <https://www.nsnam.org/>
 - [GNS3/gns3-server](https://github.com/GNS3/gns3-server): GNS3 server <https://gns3.com/>
 - [mininet/mininet](https://github.com/mininet/mininet): Emulator for rapid prototyping of Software Defined Networks <https://mininet.org>
 - [containernet/containernet](https://github.com/containernet/containernet): Mininet fork adding support for container-based (e.g. Docker) emulated hosts. <https://containernet.github.io>
@@ -253,8 +253,8 @@ STUN / TURN / ICE
 - [chadgeary/cloudblock](https://github.com/chadgeary/cloudblock): Cloudblock deploys secure ad-blocking and VPN for all devices. Text and video guides included! 6 supported cloud providers, plus Ubuntu and Raspberry Pi. Cloudblock deploys Wireguard VPN, Pi-Hole DNS Ad-blocking, and DNS over HTTPS in a cloud provider - or locally - using Terraform and Ansible.
 - 🌟 [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy): The easiest way to run WireGuard VPN + Web-based Admin UI.
 - 🌟 [trailofbits/algo](https://github.com/trailofbits/algo): Set up a personal VPN in the cloud <https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/>
-- 🌟 [GitLab · Stormblest/mistborn](https://gitlab.com/cyber5k/mistborn): Mistborn is your own virtual private cloud platform and WebUI that manages self hosted services, and secures them with firewall, Wireguard VPN w/ PiHole-DNSCrypt, and IP filtering. Optional...
-  - [GitLab · Stormblest/mistborn-cli](https://gitlab.com/cyber5k/mistborn-cli): Command-line interface for mistborn
+- 🌟 [gitlab:Stormblest/mistborn](https://gitlab.com/cyber5k/mistborn): Mistborn is your own virtual private cloud platform and WebUI that manages self hosted services, and secures them with firewall, Wireguard VPN w/ PiHole-DNSCrypt, and IP filtering. Optional...
+  - [gitlab:Stormblest/mistborn-cli](https://gitlab.com/cyber5k/mistborn-cli): Command-line interface for mistborn
 - [psyhomb/wireguard-tools](https://github.com/psyhomb/wireguard-tools): Wireguard helper scripts <https://gitlab.com/psyhomb/wireguard-tools>
 - watchdog (for IP)
   - [immortalwrt - wireguard_watchdog](https://github.com/immortalwrt/immortalwrt/blob/master/package/network/utils/wireguard-tools/files/wireguard_watchdog)

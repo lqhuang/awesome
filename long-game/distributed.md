@@ -33,6 +33,7 @@
   - There are parts 2, 3, 4, 5, 6, 7 and 8.
 - [Generalized Consensus: Recap | Multigres](https://multigres.com/blog/generalized-consensus)
   - A full series on Generalized Consensus. Good stuff.
+- 🌟 [aphyr/distsys-class](https://github.com/aphyr/distsys-class): Class materials for a distributed systems lecture series
 
 ### Books
 

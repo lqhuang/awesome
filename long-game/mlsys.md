@@ -180,6 +180,7 @@ General problems
 - [ai-dynamo/dynamo](https://github.com/ai-dynamo/dynamo): A Datacenter Scale Distributed Inference Serving Framework
 - [facebookresearch/fastgen](https://github.com/facebookresearch/fastgen): Simple high-throughput inference library
 - [trymirai/uzu](https://github.com/trymirai/uzu): A high-performance inference engine for AI models <https://trymirai.com>
+- [google-coral/coralnpu](https://github.com/google-coral/coralnpu): A machine learning accelerator core designed for energy-efficient AI at the edge.
 
 ### Distribution kits
 
@@ -556,7 +557,7 @@ PGM / Probabilistic programming
 ### Utils
 
 - [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit): Build and run containers leveraging NVIDIA GPUs
-- [nvidia/container-images/cuda](https://gitlab.com/nvidia/container-images/cuda): Nvidia CUDA Linux Container Image Sources
+- [gitlab:nvidia/container-images/cuda](https://gitlab.com/nvidia/container-images/cuda): Nvidia CUDA Linux Container Image Sources
   - 🌟 [nvidia/cuda](https://hub.docker.com/r/nvidia/cuda): CUDA and cuDNN images from gitlab.com/nvidia/cuda
   - [Optimizing PyTorch Docker images: how to cut size by 60%](https://mveg.es/posts/optimizing-pytorch-docker-images-cut-size-by-60percent/)
 - [aws/deep-learning-containers](https://github.com/aws/deep-learning-containers): AWS Deep Learning Containers (DLCs) are a set of Docker images for training and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet. <https://docs.aws.amazon.com/deep-learning-containers/latest/devguide/deep-learning-containers-images.html>

@@ -238,7 +238,7 @@ Misc
 - [realpython/codetiming](https://github.com/realpython/codetiming): A flexible, customizable timer for your Python code
 - [rsalmei/about-time](https://github.com/rsalmei/about-time): A cool helper for tracking time and throughput of code blocks, with beautiful human friendly renditions.
 - 📝 [njsmith/perpetuo](https://github.com/njsmith/perpetuo): Stall tracking for Python's GIL and Trio tasks
-- [gitlab - mbryant/FunctionTrace](https://gitlab.com/mbryant/functiontrace): A graphical Python profiler that provides a clear view of your application's execution while being both low-overhead and easy to use. <https://functiontrace.com/>
+- [gitlab:mbryant/FunctionTrace](https://gitlab.com/mbryant/functiontrace): A graphical Python profiler that provides a clear view of your application's execution while being both low-overhead and easy to use. <https://functiontrace.com/>
 - [tonybaloney/rich-bench](https://github.com/tonybaloney/rich-bench): A little benchmarking tool for Python
 - [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy): coredumpy saves your crash site for post-mortem debugging
 - [compiler-research/idd](https://github.com/compiler-research/idd): A System for Differential Debugging
@@ -247,6 +247,8 @@ Misc
   - [Cowboy Debugging Python Memory Leaks](https://rtpg.co/2025/01/01/cowboy-coding-memory)
 - 🌟 [brandtbucher/specialist](https://github.com/brandtbucher/specialist): Visualize CPython's specializing, adaptive interpreter. 🔥
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen): An intuitive and low-overhead instrumentation tool for Python <https://dowhen.readthedocs.io/>
+- [adamchainz/tprof](https://github.com/adamchainz/tprof): A targeting profiler.
+  - [Python: introducing tprof, a targeting profiler - Adam Johnson](https://adamj.eu/tech/2026/01/14/python-introducing-tprof/)
 
 ## Functional Programming in Python
 

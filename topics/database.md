@@ -96,17 +96,18 @@
 
 ### Graph
 
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb): A scalable, distributed, collaborative, document-graph database, for the realtime web <https://surrealdb.com>
-- [cozodb/cozo](https://github.com/cozodb/cozo): A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! <https://cozodb.org>
-- [TuGraph-family/tugraph-db](https://github.com/TuGraph-family/tugraph-db): TuGraph is a high performance graph database. <https://tugraph.org>
-- [memgraph/memgraph](https://github.com/memgraph/memgraph): Open-source graph database, built for real-time streaming data, compatible with Neo4j. <https://memgraph.com>
-- [Netflix/atlas](https://github.com/Netflix/atlas): In-memory dimensional time series database.
-- [apache/age](https://github.com/apache/age): Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL. <https://age.apache.org>
-- [puppygraph/puppygraph-query](https://github.com/puppygraph/puppygraph-query): PuppyGraph standalone web server for visualize graph queries.
-- [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph): SPARQL graph database
-- [kuzudb/kuzu](https://github.com/kuzudb/kuzu): Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher. <https://kuzudb.com/>
-- [OneSparse/OneSparse](https://github.com/OneSparse/OneSparse): Accelerated Sparse Linear Algebra with Postgres and SuiteSparse
+- [gh:surrealdb/surrealdb](https://github.com/surrealdb/surrealdb): A scalable, distributed, collaborative, document-graph database, for the realtime web <https://surrealdb.com>
+- [gh:cozodb/cozo](https://github.com/cozodb/cozo): A transactional, relational-graph-vector database that uses Datalog for query. The hippocampus for AI! <https://cozodb.org>
+- [gh:TuGraph-family/tugraph-db](https://github.com/TuGraph-family/tugraph-db): TuGraph is a high performance graph database. <https://tugraph.org>
+- [gh:memgraph/memgraph](https://github.com/memgraph/memgraph): Open-source graph database, built for real-time streaming data, compatible with Neo4j. <https://memgraph.com>
+- [gh:Netflix/atlas](https://github.com/Netflix/atlas): In-memory dimensional time series database.
+- [gh:apache/age](https://github.com/apache/age): Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL. <https://age.apache.org>
+- [gh:puppygraph/puppygraph-query](https://github.com/puppygraph/puppygraph-query): PuppyGraph standalone web server for visualize graph queries.
+- [gh:oxigraph/oxigraph](https://github.com/oxigraph/oxigraph): SPARQL graph database
+- 🪦 [gh:kuzudb/kuzu](https://github.com/kuzudb/kuzu): Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher. <https://kuzudb.com/>
+- [gh:OneSparse/OneSparse](https://github.com/OneSparse/OneSparse): Accelerated Sparse Linear Algebra with Postgres and SuiteSparse
   - [Billions of Edges Per Second with Postgres](https://onesparse.com/blog/2025/07/01/billions-of-edges-per-second-with-postgres.html)
+- 🌟 [gh:LadybugDB/ladybug](https://github.com/LadybugDB/ladybug): LadybugDB a graph database <https://ladybugdb.com/>
 
 ### KV
 

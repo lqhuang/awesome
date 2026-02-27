@@ -128,6 +128,7 @@
 - [aya-rs/aya](https://github.com/aya-rs/aya): Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. <https://aya-rs.dev/book>
 - [kunai-project/kunai](https://github.com/kunai-project/kunai): Threat-hunting tool for Linux <https://why.kunai.rocks>
 - [DavidVentura/ebpf.party](https://github.com/DavidVentura/ebpf.party): Code for ebpf.party <https://ebpf.party/>
+- [tw4452852/zbpf](https://github.com/tw4452852/zbpf): Writing eBPF in Zig
 
 ## Serialization Protocl
 
@@ -166,6 +167,7 @@
 - 🌟 [YS-L/flamelens](https://github.com/YS-L/flamelens): Flamegraph viewer in the terminal
 - [microsoft/SysmonForLinux](https://github.com/microsoft/SysmonForLinux): Sysmon for Linux
 - 🌟 [wolfpld/tracy](https://github.com/wolfpld/tracy): Frame profiler <https://tracy.nereid.pl/>
+- [google/bloaty](https://github.com/google/bloaty): Bloaty: a size profiler for binaries
 
 ## Misc
 

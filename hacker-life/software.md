@@ -202,9 +202,9 @@
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB): GUI Tool To Removes Ads From Various Places Around Windows 11
 - [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager): A GUI to quickly manage your WSL2 instances <https://apps.microsoft.com/store/detail/wsl-manager/9NWS9K95NMJB>
 - [subhra74/xdm](https://github.com/subhra74/xdm): Powerfull download accelerator and video downloader <https://xtremedownloadmanager.com/>
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil): Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+- [gh:ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil): Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI): UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers <https://www.marticliment.com/unigetui/>
-- [meetrevision/playbook](https://github.com/meetrevision/playbook): A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility <https://www.revi.cc>
+- [gh:winapps-org/winapps](https://github.com/winapps-org/winapps):: Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search): Official repository for Fluent Search, use to report issues or ask for a new feature <https://fluentsearch.net>
 - 🌟 [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar): Everything integration for the Windows taskbar.
 - [fairhopeweb/JunkCtrl](https://github.com/fairhopeweb/JunkCtrl): JunkCTRL
@@ -214,13 +214,24 @@
 - 🌟 [File Pilot - Next-gen file explorer](https://filepilot.tech/): File Pilot is a file explorer built from scratch for light-speed performance, with a modern and robust interface.
   - Non-free. But I think it's worth it.
 - 🌟 [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser): Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers. <https://justthebrowser.com/>
+- [Chuyu Team](https://www.chuyu.me/en-US/): DISM++
+- [gh:memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall): Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
+- [gh:memstechtips/Winhance](https://github.com/memstechtips/Winhance): Application designed to optimize, customize and enhance your Windows experience.
+- [gh:ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge): Uninstall Microsoft Edge with an executable or batch script.
+- [gh:zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI): Force Remove Copilot, Recall and More in Windows 11
+- [gh:Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 Distributions
 
 Size: nano11 > AtlasOS ≈ ReviOS > Tiny11 > Win11 LTSC
 
-- [ntdevlabs/nano11](https://github.com/ntdevlabs/nano11): Script to build possibly the most trimmed-down Windows 11 experience.
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas): 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. <https://atlasos.net>
+- [gh:ntdevlabs/tiny11builder](https://github.com/ntdevlabs/tiny11builder): Scripts to build a trimmed-down Windows 11 image.
+  - [gh:kelexine/tiny11-automated](https://github.com/kelexine/tiny11-automated): Automated tools for creating streamlined Windows 11 images with CI/CD support. Builds Tiny11 and Tiny11 Core ISOs with GitHub Actions workflows.
+  - [sourceforge - Tiny 11 Releases Files](https://sourceforge.net/projects/tiny-11-releases/files/)
+- [gh:ntdevlabs/nano11](https://github.com/ntdevlabs/nano11): Script to build possibly the most trimmed-down Windows 11 experience.
+- [gh:meetrevision/playbook](https://github.com/meetrevision/playbook): A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility <https://www.revi.cc>
+- [gh:Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas): 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. <https://atlasos.net>
+- [Windows 11 IoT LTSC 养老指南 | Dejavu's Blog](https://blog.dejavu.moe/posts/windows11-ltsc-guide/): 更适合老年人的「老坛酸菜」，我的 Windows 11 IoT LTSC 优化记录
 
 ## Developer
 
@@ -308,6 +319,7 @@ Terminal / SSH
 - [ZimengXiong/ExcaliDash](https://github.com/ZimengXiong/ExcaliDash): A self hosted dashboard and organizer for Excalidraw with live collaboration.
 - [BioHazard786/warpdrop](https://github.com/BioHazard786/warpdrop): A simple, secure p2p file sharing tool using WebRTC technology. <https://warpdrop.qzz.io>
 - [polius/FileSync](https://github.com/polius/FileSync): Send files from one device to many in real-time. <https://filesync.app>
+- [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb): A web-based tool for acquiring and installing iOS apps outside the App Store. Authenticate with your Apple ID, search for apps, acquire licenses, and install IPAs directly to your device.
 
 ### Git hosting
 

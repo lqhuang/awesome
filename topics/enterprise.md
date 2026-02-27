@@ -161,7 +161,6 @@
 - [keephq/keep](https://github.com/keephq/keep): Open source alerts management platform <https://www.keephq.dev>
 - 🌟 [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus): The open-source status page <https://openstatus.dev>
 - [Uptime Robot](https://uptimerobot.com/)
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit): Cockpit is a web-based graphical interface for servers. <http://www.cockpit-project.org/>
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime): OneUptime is the complete open-source observability platform. <https://oneuptime.com>
 - 🌟 [Hydrozen.io](https://hydrozen.io/): Monitor availability of your websites, Cronjobs, APIs, Domains, SSL etc.
 - [bluewave-labs/bluewave-uptime](https://github.com/bluewave-labs/bluewave-uptime): BlueWave Uptime is an open-source, self-hosted monitoring tool built with React.js, Node.js, and MongoDB, designed to track server uptime, response times, and incidents in real-time with beautiful visualizations. Get powerful insights and proactive alerts to keep your services running smoothly. <https://uptime-demo.bluewavelabs.ca/>
@@ -204,6 +203,7 @@
 - [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub): Universal Metrics Collection for OpenTelemetry <https://metricshub.com>
 - [yandex/perforator](https://github.com/yandex/perforator): Perforator is a cluster-wide continuous profiling tool designed for large data centers <https://perforator.tech>
   - made by Yandex and inspired by Google-Wide Profiling.
+- [subtrace/subtrace](https://github.com/subtrace/subtrace): Network inspector for your backend <https://subtrace.dev>
 
 Exporters
 

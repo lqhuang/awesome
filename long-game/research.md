@@ -10,6 +10,8 @@
 - [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/): A MOOC on convex optimization, CVX101. If you register for it, you can access all the course materials. More material can be found at the web sites for EE364A (Stanford) or EE236B (UCLA), and our own web pages.
 - [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra): Graphic notes on Gilbert Strang's "Linear Algebra for Everyone"
 - [wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1): Methods in Algebra (Volume 1): A Chinese textbook on Algebra
+  - [wenweili/AlJabr-2](https://github.com/wenweili/AlJabr-2): Methods in Algebra (Volume 2): A Chinese textbook on Algebra
+  - [wenweili/Yanqi-Algebra-3](https://github.com/wenweili/Yanqi-Algebra-3): Yanqi Lake Lectures on Algebra, Part III
 - [Visualize-ML/Book3_Fundamentals-of-Mathematics](https://github.com/Visualize-ML/Book3_Fundamentals-of-Mathematics): 《数学要素》，清华社五审五校中；Github 稿件基本稳定，欢迎提意见，会及时修改
 - 🌟 [Linear Algebra Done Right](https://linear.axler.net/): This best-selling textbook for a second course in linear algebra is aimed at undergraduate math majors and graduate students. The novel approach taken here banishes determinants to the end of the book. The text focuses on the central goal of linear algebra: understanding the structure of linear operators on finite-dimensional vector spaces.
 - [stevenhalim/cpbook-code](https://github.com/stevenhalim/cpbook-code): CP4 Free Source Code Project (C++17, Java11, Python3 and OCaml)
@@ -113,6 +115,7 @@
 - [carloskiki/pulldown-latex](https://github.com/carloskiki/pulldown-latex): A pull parser for LaTeX parsing and mathml rendering.
 - 🌟 [blxkex/Latex-Notes-Templates](https://github.com/blxkex/Latex-Notes-Templates): A collection of my latex notes, showcased as templates.
 - [ppresume](https://ppresume.com/): A LaTeX Based Resume Builder. that helps people create beautifully typed resumes in minutes
+- [goblinunde/mathreport](https://github.com/goblinunde/mathreport): HUST report template
 
 ### Typst
 

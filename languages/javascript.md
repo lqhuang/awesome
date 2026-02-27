@@ -382,6 +382,7 @@ Specific
 - [MatthewHerbst/react-to-print](https://github.com/MatthewHerbst/react-to-print): Print React components in the browser <https://www.npmjs.com/package/react-to-print>
 - [lmn1919/dompdf.js](https://github.com/lmn1919/dompdf.js): A JavaScript library that can convert HTML into an editable, non-image-based, printable PDF;一个 js 库，可以将 HTML 转化成可编辑、非图片式、高清晰度、小体积、可打印的 PDF
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer): A PDF viewer that seamlessly integrates with any JavaScript project <https://www.embedpdf.com>
+- [LibPDF-js/core](https://github.com/LibPDF-js/core): A modern PDF library for TypeScript. Parse, modify, and generate PDFs with a clean, intuitive API. <https://libpdf.dev/>
 
 ### Logging
 
@@ -416,6 +417,7 @@ Specific
 - [postalsys/imapflow](https://github.com/postalsys/imapflow): IMAP Client library for EmailEngine Email API (https://emailengine.app) <https://imapflow.com>
 - 🌟 [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit): A type-safe, elegant iMessage SDK for macOS with zero dependencies <https://photon.codes>
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium): Next-gen language engineering / DSL framework <https://langium.org/>
+- [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git): A pure JavaScript implementation of git for node and browsers! <https://isomorphic-git.org/>
 
 ### CLI
 

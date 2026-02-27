@@ -645,6 +645,7 @@ Concrete animations
 - [LegendApp/legend-state](https://github.com/LegendApp/legend-state): Legend-State is a super fast and powerful state library that enables fine-grained reactivity and easy automatic persistence <https://legendapp.com/open-source/state/>
 - [dai-shi/use-context-selector](https://github.com/dai-shi/use-context-selector): React useContextSelector hook in userland <https://www.npmjs.com/package/use-context-selector>
 - [marsbos/fluent-state](https://github.com/marsbos/fluent-state): Fluent, reactive & immutable local state management for React.
+- [mutativejs/travels](https://github.com/mutativejs/travels): A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch
 
 ### Utils
 
@@ -673,6 +674,7 @@ Concrete animations
 - [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js): Sitemap-generating framework for node.js
 - [TanStack/pacer](https://github.com/TanStack/pacer): Utilities for debouncing, throttling, rate limiting, and queueing. Non-async and Async. <https://tanstack.com/pacer>
   - Official note: TanStack Pacer is currently mostly a client-side only library, but it is being designed to be able to potentially be used on the server-side as well.
+- [hamzaydia/verifyfetch](https://github.com/hamzaydia/verifyfetch): Resumable, verified downloads for large browser files. Fail at 3.8GB, resume from 3.8GB. <https://verifyfetch.com/>
 
 ### Dev Tools
 

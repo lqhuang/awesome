@@ -39,6 +39,7 @@
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own second brain and digital garden for free <https://quartz.jzhao.xyz/>
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit): BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an "Awesome Bluetooth Security" way
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis): 🎨 Regex visualizer & editor <https://regex-vis.com>
+- 🌟 [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc): chsrc 全平台通用换源工具与框架. Change Source everywhere for every software <https://chsrc.run/>
 
 ### Git
 
@@ -69,7 +70,7 @@
 - [ivanceras/svgbob](https://github.com/ivanceras/svgbob): Convert your ascii diagram scribbles into happy little SVG <http://ivanceras.github.io/svgbob-editor>
 - [github/cmark-gfm](https://github.com/github/cmark-gfm): GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
 - [jgm/djot](https://github.com/jgm/djot): A light markup language <https://djot.net>
-- [GitLab - antora/antora](https://gitlab.com/antora/antora) A modular documentation site generator that helps you organize and publish content written in AsciiDoc to the web. Ideally suited for users of Asciidoctor.
+- [gitlab:antora/antora](https://gitlab.com/antora/antora): A modular documentation site generator that helps you organize and publish content written in AsciiDoc to the web. Ideally suited for users of Asciidoctor. This repository hosts the core software components and documentation for Antora. <https://antora.org>
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor): 💎 A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats. <https://asciidoctor.org>
   - [asciidoctor/asciidoctor.js](https://github.com/asciidoctor/asciidoctor.js): 📜 A JavaScript port of Asciidoctor, a modern implementation of AsciiDoc <https://asciidoctor.org>
   - [asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf): 📃 Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby. <https://docs.asciidoctor.org/pdf-converter/latest/>
@@ -174,6 +175,16 @@
   - [mother-of-all-self-hosting/ansible-role-valkey](https://github.com/mother-of-all-self-hosting/ansible-role-valkey): A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
   - [mother-of-all-self-hosting/ansible-role-keycloak](https://github.com/mother-of-all-self-hosting/ansible-role-keycloak): An Ansible role for installing the Keycloak open source identity and access management solution
 - [ad4mts/zfdash](https://github.com/ad4mts/zfdash): ZFS Management GUI & Web UI for Linux, macOS and FreeBSD. Provides both Desktop GUI and Web UI interfaces. Simplifies common ZFS administration tasks for pools, datasets, volumes, and snapshots, including creation, destruction, property editing, snapshots, rollback, and encryption management.
+- [gh:cockpit-project/cockpit](https://github.com/cockpit-project/cockpit): Cockpit is a web-based graphical interface for servers. <http://www.cockpit-project.org/>
+  - [gh:chrisjbawden/cockpit-dockermanager](https://github.com/chrisjbawden/cockpit-dockermanager): Cockpit application for managing docker containers <https://chrisjbawden.github.io/cockpit-dockermanager/>
+  - [gh:chrisjbawden/cockpit-dockermanager](https://github.com/chrisjbawden/cockpit-dockermanager): Cockpit application for managing docker containers <https://chrisjbawden.github.io/cockpit-dockermanager/>
+  - [gh:ocristopfer/cockpit-sensors](https://github.com/ocristopfer/cockpit-sensors): Module that displays all data reported by lm-sensors
+  - [gh:45Drives/cockpit-benchmark](https://github.com/45Drives/cockpit-benchmark): A Storage Benchmark Utility for Cockpit.
+  - [gh:45Drives/cockpit-navigator](https://github.com/45Drives/cockpit-navigator): A Featureful File Browser for Cockpit
+  - [gh:45Drives/cockpit-file-sharing](https://github.com/45Drives/cockpit-file-sharing): A Cockpit plugin to easily manage samba and NFS file sharing.
+  - [gh:Scribery/cockpit-session-recording](https://github.com/Scribery/cockpit-session-recording): Everything you need to develop, test and deploy your own cockpit plugin for recording user sessions.
+  - [gh:osbuild/image-builder-frontend](https://github.com/osbuild/image-builder-frontend): Image Builder service for console.redhat.com
+  - [gh:cockpit-project/cockpit-files](https://github.com/cockpit-project/cockpit-files): A Featureful File Browser for Cockpit (Modernized and tested version of https://github.com/45Drives/cockpit-navigator)
 
 ### Virtualization
 
@@ -183,6 +194,7 @@
   - [oVirt/ovirt-engine](https://github.com/oVirt/ovirt-engine): The oVirt Engine virtualization manager
   - [oVirt/ovirt-web-ui](https://github.com/oVirt/ovirt-web-ui): Modern lightweight UI for standard (non-admin) oVirt users <https://www.ovirt.org>
   - [oVirt/ovirt-ansible-collection](https://github.com/oVirt/ovirt-ansible-collection): Ansible collection with official oVirt modules and roles
+- [gh:abbbi/virtnbdbackup](https://github.com/abbbi/virtnbdbackup): Backup utility for Libvirt / qemu / kvm supporting incremental and differential backups + instant recovery (agentless). <http://libvirtbackup.grinser.de/>
 
 ### Monitoring
 
@@ -215,6 +227,7 @@
 - [glanceapp/glance](https://github.com/glanceapp/glance): A self-hosted dashboard that puts all your feeds in one place
 - [hywax/mafl](https://github.com/hywax/mafl): Minimalistic flexible homepage <https://mafl.hywax.space>
 - [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core): A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
+- [refact0r/re-start](https://github.com/refact0r/re-start): a tui-style browser startpage <https://refact0r.github.io/re-start/>
 
 ### Backup
 

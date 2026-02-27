@@ -221,6 +221,7 @@
 - [oracle/visualvm](https://github.com/oracle/visualvm): VisualVM is an All-in-One Java Troubleshooting Tool <https://visualvm.github.io/>
 - [mthmulders/mcs](https://github.com/mthmulders/mcs): Search the Maven Central Repository from your command line! <https://maarten.mulders.it/projects/mcs/>
 - [kordamp/jarviz](https://github.com/kordamp/jarviz): ☕️ JAR file analyzer
+- [ASSERT-KTH/depclean](https://github.com/ASSERT-KTH/depclean): DepClean automatically detects and removes unused dependencies in Maven projects <https://dx.doi.org/10.1007/s10664-020-09914-8>
 
 ## Cross platforms
 
@@ -354,6 +355,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [silvabyte/Chez](https://github.com/silvabyte/Chez): Chez: Type-Safe JSON Schema Ecosystem for Scala 3
 - [snakeyaml/snakeyaml](https://github.com/snakeyaml/snakeyaml): Mirror of https://bitbucket.org/snakeyaml/snakeyaml <https://bitbucket.org/snakeyaml/snakeyaml>
   - JVM only
+- 🌟 [gnieh/diffson](https://github.com/gnieh/diffson): A scala diff/patch library for Json
 
 ### Logging and Observability
 

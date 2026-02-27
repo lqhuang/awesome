@@ -14,6 +14,7 @@
 - [xicilion/BitcoinWhitePaper](https://github.com/xicilion/BitcoinWhitePaper): An intricately designed and formatted single-page version of the bitcoin whitepaper, available for printing as a desktop album or hanging as a wall poster.
 - [PFund-Software-Ltd/pytrade.org](https://github.com/PFund-Software-Ltd/pytrade.org): Pytrade.org is a curated list of Python libraries and resources for algorithmic trading <https://docs.pytrade.org>
 - [Market Structure Primer](https://primer.prooftrading.com/): A Primer on Equity Market Structure by Proof.
+- [LLMQuant/quant-wiki](https://github.com/LLMQuant/quant-wiki): We are committed to the open-sourcing quantitative knowledge, aiming to bridge the information gap between the domestic and international quantitative finance industries. 我们致力于量化知识的开源与汉化，打破国内外量化金融行业信息差。 <http://quant-wiki.com/>
 
 ### Books
 

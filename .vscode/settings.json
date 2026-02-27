@@ -9,5 +9,8 @@
     },
     "editor.wordWrap": "off"
   },
-  "prettier.proseWrap": "never"
+  "prettier.proseWrap": "never",
+  "files.watcherExclude": {
+    "**/target": true
+  }
 }

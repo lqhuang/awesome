@@ -140,6 +140,8 @@
 - [dockur/macos](https://github.com/dockur/macos): macOS inside a Docker container.
 - [mviereck/x11docker](https://github.com/mviereck/x11docker): Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop): Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
+- [qemus/qemu](https://github.com/qemus/qemu): QEMU in a Docker container.
+- [qemus/qemu-arm](https://github.com/qemus/qemu-arm): QEMU for ARM in a Docker container.
 
 #### Container status / Dashboard
 
@@ -203,6 +205,7 @@
   - [How We Integrated Native macOS Workloads with Kubernetes](https://medium.com/agoda-engineering/how-we-integrated-native-macos-workloads-with-kubernetes-b4d3c14881a0)
 - [boxlite-labs/boxlite](https://github.com/boxlite-labs/boxlite): SQLite-like agent runtime: an embeddable micro-VM that stores agent state and runs agent logic safely. <https://boxlite-labs.github.io/website/>
 - [microsoft/litebox](https://github.com/microsoft/litebox): A security-focused library OS supporting kernel- and user-mode execution
+- [earendil-works/gondolin](https://github.com/earendil-works/gondolin): Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox <https://earendil-works.github.io/gondolin>
 
 Type 1 hypervisors
 
@@ -215,6 +218,11 @@ Type 1 hypervisors
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp): Entry point for issues and wiki. Also contains some scripts and sources. <https://xcp-ng.org>
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE): Proxmox VE Helper-Scripts (Community Edition) <https://Helper-Scripts.com>
 - [ccheshirecat/flint](https://github.com/ccheshirecat/flint): Lightweight tool for managing linux virtual machines
+
+#### Tools
+
+- [vmg-dev/docker2vm](https://github.com/vmg-dev/docker2vm): `docker2vm` converts OCI container images (or Dockerfiles via BuildKit) into VM-compatible outputs. Today, the runtime materialization target is Gondolin.
+  - [Docker without Docker · The Fly Blog](https://fly.io/blog/docker-without-docker/): Our users deliver software to us as Docker containers, but we don’t use Docker to run them. We transmogrify container images into Firecracker micro-VMs. Here's how.
 
 ### Storage
 
