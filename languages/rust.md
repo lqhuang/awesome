@@ -506,6 +506,7 @@
   - [junkdog/tachyonfx](https://github.com/junkdog/tachyonfx): Effects and animation library for Ratatui applications
 - [rust-cli/anstyle](https://github.com/rust-cli/anstyle): ANSI text styling <https://docs.rs/anstyle>
 - [sigoden/argc](https://github.com/sigoden/argc): Easily create feature-rich CLIs in bash.
+- [gh:Psy-Fer/kuva](https://github.com/Psy-Fer/kuva): A scientific plotting library in Rust <https://psy-fer.github.io/kuva/>
 
 ### GUI
 

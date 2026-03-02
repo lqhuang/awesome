@@ -46,6 +46,7 @@
 - [coder/pulldash](https://github.com/coder/pulldash): Review pull requests in a high-performance UI, driven by keybinds. <https://pulldash.com>
 - [kainctl/isd](https://github.com/kainctl/isd): isd (interactive systemd) – a better way to work with systemd units <https://kainctl.github.io/isd/>
 - [testingisdocumenting/webtau](https://github.com/testingisdocumenting/webtau): WebTau (web test automation) is a testing API, command line tool and a framework to write unit, integration and end-to-end tests. Test across REST-API, WebSocket, GraphQL, Browser, Database, CLI and Business Logic with a consistent set of matchers and concepts. REPL mode speeds-up tests development. Rich reporting cuts down investigation time. <https://testingisdocumenting.org/webtau/>
+- [gh:neoascetic/rawgithack](https://github.com/neoascetic/rawgithack): Serves files from github, bitbucket and gitlab, but with the correct content types <https://raw.githack.com>
 
 ### Misc linters / formatters
 

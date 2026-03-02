@@ -101,21 +101,23 @@
   - [PatrickMassot/plastexdepgraph](https://github.com/PatrickMassot/plastexdepgraph): Dependency graph plugin for plasTeX
   - [ElifUskuplu/KnowTex](https://github.com/ElifUskuplu/KnowTex): Knowledge Dependency from TeX
 - [juliaferraioli/tex-customizations](https://github.com/juliaferraioli/tex-customizations): Various packages and classes for LaTeX
+- [gh:arcAman07/TexGuardian](https://github.com/arcAman07/TexGuardian): AI-powered terminal assistant for LaTeX academic papers — verifies, fixes, and polishes your paper for conference submission with reviewable diff patches and checkpoint safety.
 
 ### Latex Templates
 
-- [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex): A Tufte-inspired LaTeX class for producing handouts, papers, and books <https://tufte-latex.github.io/tufte-latex/>
-- [roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint): 📝 A nicely formatted LaTeX preprint template
-- [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook): Elegant LaTeX Template for Books
-- [ice1000/multi-school-sop](https://github.com/ice1000/multi-school-sop): A latex template for writing statement-of-purpose for many schools at the same time
-- [Ruzim/NSFC-application-template-latex](https://github.com/Ruzim/NSFC-application-template-latex): 国家自然科学基金申请书正文（面上项目）LaTeX 模板（非官方）
-  - [Readon/NSFC-application-template-latex](https://github.com/Readon/NSFC-application-template-latex): 国家自然科学基金申请书正文（面上项目）模板（非官方）
-- [MCG-NKU/NSFC-LaTex](https://github.com/MCG-NKU/NSFC-LaTex): No description, website, or topics provided.
-- [huangwb8/ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX): 中国科研常用 LaTeX 模板集
-- [carloskiki/pulldown-latex](https://github.com/carloskiki/pulldown-latex): A pull parser for LaTeX parsing and mathml rendering.
-- 🌟 [blxkex/Latex-Notes-Templates](https://github.com/blxkex/Latex-Notes-Templates): A collection of my latex notes, showcased as templates.
+- [gh:Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex): A Tufte-inspired LaTeX class for producing handouts, papers, and books <https://tufte-latex.github.io/tufte-latex/>
+- [gh:roaldarbol/LaPreprint](https://github.com/roaldarbol/LaPreprint): 📝 A nicely formatted LaTeX preprint template
+- [gh:ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook): Elegant LaTeX Template for Books
+- [gh:ice1000/multi-school-sop](https://github.com/ice1000/multi-school-sop): A latex template for writing statement-of-purpose for many schools at the same time
+- [gh:Ruzim/NSFC-application-template-latex](https://github.com/Ruzim/NSFC-application-template-latex): 国家自然科学基金申请书正文（面上项目）LaTeX 模板（非官方）
+  - [gh:Readon/NSFC-application-template-latex](https://github.com/Readon/NSFC-application-template-latex): 国家自然科学基金申请书正文（面上项目）模板（非官方）
+- [gh:MCG-NKU/NSFC-LaTex](https://github.com/MCG-NKU/NSFC-LaTex): No description, website, or topics provided.
+- [gh:fylimas/nsfc](https://github.com/fylimas/nsfc): nsfc - 国家自然科学基金项目LaTeX模版(面地青CBA)
+- [gh:huangwb8/ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX): 中国科研常用 LaTeX 模板集
+- [gh:carloskiki/pulldown-latex](https://github.com/carloskiki/pulldown-latex): A pull parser for LaTeX parsing and mathml rendering.
+- 🌟 [gh:blxkex/Latex-Notes-Templates](https://github.com/blxkex/Latex-Notes-Templates): A collection of my latex notes, showcased as templates.
 - [ppresume](https://ppresume.com/): A LaTeX Based Resume Builder. that helps people create beautifully typed resumes in minutes
-- [goblinunde/mathreport](https://github.com/goblinunde/mathreport): HUST report template
+- [gh:goblinunde/mathreport](https://github.com/goblinunde/mathreport): HUST report template
 
 ### Typst
 

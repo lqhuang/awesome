@@ -544,6 +544,8 @@ Misc
 - [roerohan/react-vnc](https://github.com/roerohan/react-vnc): A React Component to connect to a websockified VNC server using noVNC. <https://npmjs.com/package/react-vnc>
 - [typsusan-zzz/canvas-drawing-editor](https://github.com/typsusan-zzz/canvas-drawing-editor): 强大的 Canvas 画布编辑器 Web Component，零依赖，支持 Vue 2/3、React、Angular 和原生 HTML | A powerful canvas-based drawing editor Web Component - Zero dependencies, works with Vue 2/3, React, Angular, and vanilla HTML <https://typsusan-zzz.github.io/canvas-drawing-editor/>
 - 🌟 [adesignl/Peek](https://github.com/adesignl/Peek): Light Weight "Headroom Style" scroll intent library that hides the site header on scroll down and shows on scroll up
+- [gh:openseadragon/openseadragon](https://github.com/openseadragon/openseadragon): An open-source, web-based viewer for zoomable images, implemented in pure JavaScript. <http://openseadragon.github.io/>
+- 🌟🌟🌟 [gh:arnog/mathlive](https://github.com/arnog/mathlive): Web components for math display and input <https://mathlive.io>
 
 #### Editor
 

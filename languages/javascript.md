@@ -461,6 +461,7 @@ Specific
 
 ### Utils
 
+- [gh:MikeMcl/bignumber.js](https://github.com/MikeMcl/bignumber.js): A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic <http://mikemcl.github.io/bignumber.js>
 - [komodojp/tinyld](https://github.com/komodojp/tinyld): Simple and Performant Language detection library for NodeJS <https://komodojp.github.io/tinyld/>
 - [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics): simple statistics for node & browser javascript <http://simplestatistics.org/>
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>

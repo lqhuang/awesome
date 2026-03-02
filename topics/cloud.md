@@ -206,6 +206,7 @@
 - [boxlite-labs/boxlite](https://github.com/boxlite-labs/boxlite): SQLite-like agent runtime: an embeddable micro-VM that stores agent state and runs agent logic safely. <https://boxlite-labs.github.io/website/>
 - [microsoft/litebox](https://github.com/microsoft/litebox): A security-focused library OS supporting kernel- and user-mode execution
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin): Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox <https://earendil-works.github.io/gondolin>
+- [gh:projecteru2/cocoon](https://github.com/projecteru2/cocoon): Lightweight MicroVM VMM built on Cloud Hypervisor for AI
 
 Type 1 hypervisors
 
