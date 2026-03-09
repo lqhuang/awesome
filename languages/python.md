@@ -220,6 +220,12 @@ Misc
 - [Bobronium/parametrize](https://github.com/Bobronium/parametrize): Drop-in @pytest.mark.parametrize replacement working with unittest.TestCase
 - [DRMacIver/shrinkray](https://github.com/DRMacIver/shrinkray): Shrinkray is a modern multi-format test-case reducer
 - [joke2k/faker](https://github.com/joke2k/faker): Faker is a Python package that generates fake data for you. <https://faker.readthedocs.io>
+- [Better Python tests with inline-snapshot | Pydantic](https://pydantic.dev/articles/inline-snapshot): How Pydantic uses inline-snapshot and dirty-equals for better testing
+  - [gh:15r10nk/inline-snapshot](https://github.com/15r10nk/inline-snapshot): inline-snapshot boosts efficiency when writing tests by generating code with the expected values and simplifies snapshot tests with pytest. <https://15r10nk.github.io/inline-snapshot/>
+  - [gh:pydantic/pytest-examples](https://github.com/pydantic/pytest-examples): Pytest plugin for testing examples in docstrings and markdown files. <https://pypi.org/project/pytest-examples/>
+  - [gh:syrupy-project/syrupy](https://github.com/syrupy-project/syrupy): 🥞 The sweeter pytest snapshot plugin <https://syrupy-project.github.io/syrupy/>
+  - [gh:samuelcolvin/dirty-equals](https://github.com/samuelcolvin/dirty-equals): Doing dirty (but extremely useful) things with equals. <https://dirty-equals.helpmanual.io>
+  - [gh:alexmojaki/executing](https://github.com/alexmojaki/executing): Get information about what a Python frame is currently doing, particularly the AST node being executed
 
 ### Profile / tracing
 

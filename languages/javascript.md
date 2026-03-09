@@ -359,6 +359,7 @@ Specific
   - good idea, but no more active
 - [salsita/node-pg-migrate](https://github.com/salsita/node-pg-migrate): Node.js database migration management for PostgreSQL <https://salsita.github.io/node-pg-migrate>
 - [trpc/trpc](https://github.com/trpc/trpc): 🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy. <https://trpc.io>
+- [gh:nkzw-tech/fate](https://github.com/nkzw-tech/fate): fate is a modern data client for React. <http://fate.technology>
 - [unnoq/orpc](https://github.com/unnoq/orpc): Typesafe APIs Made Simple 🪄 <https://orpc.unnoq.com>
 - [sidequestjs/sidequest](https://github.com/sidequestjs/sidequest): Sidequest is a modern, scalable background job processor for Node.js applications. <https://sidequestjs.com>
 - [tim-smart/sqlfx](https://github.com/tim-smart/sqlfx): A SQL toolkit for Effect-TS <https://tim-smart.github.io/sqlfx/>
@@ -403,6 +404,7 @@ Specific
 - [fetch-kit/ffetch](https://github.com/fetch-kit/ffetch): TypeScript-first fetch wrapper with configurable timeouts, retries, and circuit-breaker baked in.
 - [elbywan/wretch](https://github.com/elbywan/wretch): A tiny wrapper built around fetch with an intuitive syntax. 🍬
 - 🌟 [JCMais/node-libcurl](https://github.com/JCMais/node-libcurl): libcurl bindings for Node.js <https://npmjs.org/package/node-libcurl>
+- [gh:thisiskps/fetch-network-simulator](https://github.com/thisiskps/fetch-network-simulator): fetch-network-simulator <https://www.npmjs.com/package/fetch-network-simulator>
 
 ### Clients
 
@@ -462,6 +464,7 @@ Specific
 ### Utils
 
 - [gh:MikeMcl/bignumber.js](https://github.com/MikeMcl/bignumber.js): A JavaScript library for arbitrary-precision decimal and non-decimal arithmetic <http://mikemcl.github.io/bignumber.js>
+- 🌟 [gh:dinerojs/dinero.js](https://github.com/dinerojs/dinero.js): Create, calculate, and format money in JavaScript and TypeScript <https://dinerojs.com>
 - [komodojp/tinyld](https://github.com/komodojp/tinyld): Simple and Performant Language detection library for NodeJS <https://komodojp.github.io/tinyld/>
 - [simple-statistics/simple-statistics](https://github.com/simple-statistics/simple-statistics): simple statistics for node & browser javascript <http://simplestatistics.org/>
 - [mateogianolio/vectorious](https://github.com/mateogianolio/vectorious): Linear algebra in TypeScript. <https://docs.vectorious.org/vectorious/6.1.12>
@@ -522,6 +525,8 @@ Deep equal
 - [Ray-D-Song/lexe](https://github.com/Ray-D-Song/lexe): Package your Node.js application into a single executable file, but only 10MB.🔥
 - [humanwhocodes/crosspost](https://github.com/humanwhocodes/crosspost): A JavaScript utility for posting across multiple social networks at once
 - [tsoniclang/tsonic](https://github.com/tsoniclang/tsonic): Compile TS to native code via NativeAOT
+- [gh:forwardemail/tangerine](https://github.com/forwardemail/tangerine): Node.js DNS over HTTPS - 🍊 Tangerine is the best drop-in replacement for dns.promises.Resolver using DNS over HTTPS ("DoH") via undici with built-in retries, timeouts, smart server rotation, AbortControllers, and caching support for multiple backends (with TTL and purge support). Made for @forwardemail. <https://forwardemail.net/docs/node-js-dns-over-https>
+- [gh:dupontcyborg/numpy-ts](https://github.com/dupontcyborg/numpy-ts): Full NumPy, in TypeScript/JavaScript (94% coverage) <https://numpyts.dev>
 
 ## Effect system or Type system on Typescript
 

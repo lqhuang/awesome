@@ -271,6 +271,7 @@ And modern is here now.
 - [flanglet/kanzi-cpp](https://github.com/flanglet/kanzi-cpp): Fast lossless data compression in C++
 - [g-truc/glm](https://github.com/g-truc/glm): OpenGL Mathematics (GLM) <https://glm.g-truc.net>
 - [skypjack/entt](https://github.com/skypjack/entt): Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more <https://github.com/skypjack/entt/wiki>
+- [gh:jeremy-rifkin/cpptrace](https://github.com/jeremy-rifkin/cpptrace): Simple, portable, and self-contained stacktrace library for C++11 and newer
 
 ### Data Structures
 

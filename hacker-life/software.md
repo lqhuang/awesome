@@ -291,7 +291,8 @@ Terminal / SSH
 
 - [PikaPods](https://www.pikapods.com/): Instant Open Source App Hosting
 - 🌟 [calcom/cal.com](https://github.com/calcom/cal.com): Scheduling infrastructure for absolutely everyone. <https://cal.com>
-- 🌟 [matrix-org/dendrite](https://github.com/matrix-org/dendrite): Dendrite is a second-generation Matrix homeserver written in Go! <https://matrix-org.github.io/dendrite/>
+- 🌟 [gh:element-hq/dendrite](https://github.com/element-hq/dendrite): Dendrite is a second-generation Matrix homeserver written in Go! <https://element-hq.github.io/dendrite/>
+- [gh:cinnyapp/cinny](https://github.com/cinnyapp/cinny): Yet another matrix client <https://cinny.in>
 - [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent): ⚡️ Streaming torrent client for the web <https://webtorrent.io>
 - [webtor-io/self-hosted](https://github.com/webtor-io/self-hosted): Self-hosted version of webtor.io implemented as an all-in-one Docker image
 - [cppla/ServerStatus](https://github.com/cppla/ServerStatus): 云探针、多服务器探针、云监控、多服务器云监控，演示： <https://tz.cloudcpp.com>
@@ -438,7 +439,7 @@ NextCloud is crazily BIG now, so I will say no here.
 - 🌟 [postalserver/postal](https://github.com/postalserver/postal): 📮 A fully featured open source mail delivery platform for incoming & outgoing e-mail <https://postalserver.io>
   - Support OIDC!
 - [tutao/tutanota](https://github.com/tutao/tutanota): Tuta is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices. <https://tuta.com>
-- 🌟 [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server): Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP) <https://stalw.art>
+- 🌟 [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart): All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). <https://stalw.art>
 - [useplunk/plunk](https://github.com/useplunk/plunk): The Open-Source Email Platform <https://www.useplunk.com>
   - The minimal requirement is AWS SES, if any other SMTP server is possible, it will be greater.
 - [the-djmaze/snappymail](https://github.com/the-djmaze/snappymail): Simple, modern & fast web-based email client <https://snappymail.eu>
@@ -452,7 +453,7 @@ NextCloud is crazily BIG now, so I will say no here.
   - focus on SMTP server!
 - 🌟 [foxcpp/maddy](https://github.com/foxcpp/maddy): ✉️ Composable all-in-one mail server. <https://maddy.email>
 - [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail): BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV <http://www.billionmail.com/>
-- [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart): All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV). <https://stalw.art>
+- [gh:forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net): Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid. <https://forwardemail.net>
 
 Not OSS:
 

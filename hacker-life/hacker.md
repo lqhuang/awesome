@@ -275,6 +275,7 @@
 - [Blankj/awesome-comment](https://github.com/Blankj/awesome-comment): 💥 Funny comments <https://blankj.com/2017/01/11/awesome-comment>
 - [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB): 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github 最有毒的仓库, 中国表情包大集合, 聚欢乐~ <https://v2fy.com/ChineseBQB/>
 - [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md): 更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。 <https://bm.md>
+- [gh:jackwener/wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown): 微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)
 
 ## Branding
 

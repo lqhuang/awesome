@@ -208,6 +208,7 @@
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) <https://openapi-generator.tech>
 - [muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock): OpenAPI mock server with random data generation
 - [getezy/ezy](https://github.com/getezy/ezy): 🔥 GUI client for gRPC/gRPC-Web <https://getezy.dev>
+- [gh:nilslice/protolock](https://github.com/nilslice/protolock): Protocol Buffer companion tool. Track your .proto files and prevent changes to messages and services which impact API compatibility. <https://protolock.dev>
 
 ## Serverless
 

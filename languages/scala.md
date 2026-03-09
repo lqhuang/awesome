@@ -311,6 +311,7 @@ Do a benchmark (for final size while using Scala Native)?
   - [dotty-cps-async/durable-monad](https://github.com/dotty-cps-async/durable-monad): Durable monad for Scala with workflow engine
 - [lampepfl/gears](https://github.com/lampepfl/gears): A strawman for a low-level async library in Scala 3. <https://lampepfl.github.io/gears/>
   - [tanishiking/gears-playground](https://github.com/tanishiking/gears-playground): A kitchen sink for a playground for lampepfl/gears httpss://github.com/lampepfl/gears, a strawman for a low-level async library in Scala 3.
+  - [Introduction to Gears](https://blog.nkagami.me/gears-book/introduction.html): This is a book about Gears, an experimental asynchronous programming library for Scala 3!
 - [sideeffffect/scala-rust-interop](https://github.com/sideeffffect/scala-rust-interop): Scala <-> Rust interop
 - [softwaremill/ox](https://github.com/softwaremill/ox): Developer-friendly structured concurrency library for the JVM <https://softwaremill.community/c/ox/12>
 - [kitlangton/quotidian](https://github.com/kitlangton/quotidian): A menagerie of macro utilities and extensions for Scala 3
@@ -356,6 +357,9 @@ Do a benchmark (for final size while using Scala Native)?
 - [snakeyaml/snakeyaml](https://github.com/snakeyaml/snakeyaml): Mirror of https://bitbucket.org/snakeyaml/snakeyaml <https://bitbucket.org/snakeyaml/snakeyaml>
   - JVM only
 - 🌟 [gnieh/diffson](https://github.com/gnieh/diffson): A scala diff/patch library for Json
+- [gh:aeron-io/aeron](https://github.com/aeron-io/aeron): Efficient reliable UDP unicast, UDP multicast, and IPC message transport <https://aeron.io>
+  - 🌟 [gh:aeron-io/agrona](https://github.com/aeron-io/agrona): High Performance data structures and utility methods for Java
+  - [gh:aeron-io/aeron/wiki/Best-Practices-Guide](https://github.com/aeron-io/aeron/wiki/Best-Practices-Guide)
 
 ### Logging and Observability
 

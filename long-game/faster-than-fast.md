@@ -57,6 +57,8 @@ yyjson
 - [vitaut/zmij](https://github.com/vitaut/zmij): A double-to-string conversion algorithm based on Schubfach
   - [Faster double-to-string conversion](https://vitaut.net/posts/2025/faster-dtoa/)
 - [xjb714/xjb](https://github.com/xjb714/xjb): fast float to string algorithm.
+- [gh:kolemannix/ffc.h](https://github.com/kolemannix/ffc.h): Single-header c99 accelerated float/double parsing. Port of the fast_float library.
+  - Daniel Lemire says it is the fastest float parser nowadays.
 
 ## Speed up Python
 

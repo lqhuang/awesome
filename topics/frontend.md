@@ -53,6 +53,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Snappy UI Optimization with useDeferredValue](https://www.joshwcomeau.com/react/use-deferred-value/)
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react): 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - 🌟 [Design Systems for Developers](https://storybook.js.org/tutorials/design-systems-for-developers/): A guide that teaches professional developers how to transform component libraries into design systems and set up the production infrastructure used by leading frontend teams.
+- [gh:saschb2b/cant-maintain](https://github.com/saschb2b/cant-maintain): A "Can't Unsee"-style training game that teaches junior React/TypeScript developers proper prop naming conventions and JSDoc documentation. <https://cant-maintain.saschb2b.com/>
 
 ### Templates / Starter kit
 
@@ -89,6 +90,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra): Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
 - [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js): A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
+- [gh:synergycodes/ng-diagram](https://github.com/synergycodes/ng-diagram): ngDiagram – An open-source Angular library for creating rich, interactive diagramming experiences. Designed for flexibility and performance, it lets you build everything from simple flows to advanced visual editors with ease <https://www.ngdiagram.dev/docs>
 - [onejs/one](https://github.com/onejs/one): ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. <https://onestack.dev>
 - [nuejs/nue](https://github.com/nuejs/nue): Standards first web framework taking HTML, CSS, JS, and WASM to their peak <https://nuejs.org>
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation): Routing and navigation for React Native and Web apps <https://reactnavigation.org>
@@ -121,6 +123,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [CSS Zen Garden: The Beauty of CSS Design](https://csszengarden.com/): A demonstration of what can be accomplished visually through CSS-based design.
 - 🌟 [Tag archive for CSS – Frontend Masters Blog](https://frontendmasters.com/blog/tag/css/): Frontend Masters Boost is a blog about web development. It's written by the team at Frontend Masters, course instructors from the industry, and curated guest authors. The goal is to help you on your path to becoming a senior developer, or to be an even better one.
 - [keithamus/css-minify-tests](https://github.com/keithamus/css-minify-tests): A correctness test suite for CSS minifiers. <https://www.keithcirkel.co.uk/css-minify-tests/>
+- 🌟 [gh:AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips): ⚡️ A collection of tips to help take your CSS skills pro 🦾
 
 ### CSS Style
 
@@ -346,6 +349,11 @@ Table / Grid
 - [gabrielpetersson/fast-grid](https://github.com/gabrielpetersson/fast-grid): World's most performant DOM-based web table. <https://fast-grid.vercel.app/>
 - 🌟 [glideapps/glide-data-grid](https://github.com/glideapps/glide-data-grid): 🚀 Glide Data Grid is a no compromise, outrageously react fast data grid with rich rendering, first class accessibility, and full TypeScript support. <https://grid.glideapps.com>
 - [bryntum/grid-performance](https://github.com/bryntum/grid-performance): Performance comparison for JavaScript data grid components
+- [gh:hyparam/hightable](https://github.com/hyparam/hightable): A dynamic windowed scrolling table component for react
+  - [Virtual Scrolling for Billions of Rows — Techniques from HighTable](https://rednegra.net/blog/20260212-virtual-scroll/)
+- [gh:svar-widgets/react-grid](https://github.com/svar-widgets/react-grid): Fast, feature-rich React datagrid with sorting, filtering, virtual scrolling, and more <https://svar.dev/react/datagrid/>
+- [gh:svar-widgets/react-gantt](https://github.com/svar-widgets/react-gantt): High-performance React Gantt chart with TypeScript support and flexible timeline configuration. <https://svar.dev/react/gantt/>
+  - [gh:svar-widgets/gantt](https://github.com/svar-widgets/gantt): Svelte Gantt chart component – lightweight, customizable, interactive, and fast. <https://svar.dev/svelte/gantt/>
 
 Interactive Grid
 
@@ -841,6 +849,7 @@ Concrete animations
 - [The Book of Shaders](https://thebookofshaders.com/): Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
   - Cool! And it has a lot of multi-lang translations
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU): Beautiful, open source, WebGPU-based charting library
+- [gh:react-scad/react-scad](https://github.com/react-scad/react-scad): Transpile JSX to SCAD.
 
 ### Engine
 

@@ -181,6 +181,7 @@ General problems
 - [facebookresearch/fastgen](https://github.com/facebookresearch/fastgen): Simple high-throughput inference library
 - [trymirai/uzu](https://github.com/trymirai/uzu): A high-performance inference engine for AI models <https://trymirai.com>
 - [google-coral/coralnpu](https://github.com/google-coral/coralnpu): A machine learning accelerator core designed for energy-efficient AI at the edge.
+- [gh:gpustack/gpustack](https://github.com/gpustack/gpustack): Performance-optimized AI inference on your GPUs. Unlock superior throughput by selecting and tuning engines like vLLM or SGLang. <https://gpustack.ai>
 
 ### Distribution kits
 

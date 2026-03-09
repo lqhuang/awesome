@@ -34,6 +34,7 @@
 - [Generalized Consensus: Recap | Multigres](https://multigres.com/blog/generalized-consensus)
   - A full series on Generalized Consensus. Good stuff.
 - 🌟 [aphyr/distsys-class](https://github.com/aphyr/distsys-class): Class materials for a distributed systems lecture series
+- [gh:emichael/dslabs](https://github.com/emichael/dslabs): Distributed Systems Labs and Framework <https://ellismichael.com/dslabs/>
 
 ### Books
 

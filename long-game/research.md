@@ -102,6 +102,8 @@
   - [ElifUskuplu/KnowTex](https://github.com/ElifUskuplu/KnowTex): Knowledge Dependency from TeX
 - [juliaferraioli/tex-customizations](https://github.com/juliaferraioli/tex-customizations): Various packages and classes for LaTeX
 - [gh:arcAman07/TexGuardian](https://github.com/arcAman07/TexGuardian): AI-powered terminal assistant for LaTeX academic papers — verifies, fixes, and polishes your paper for conference submission with reviewable diff patches and checkpoint safety.
+- 🌟 [gh:tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic): A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. <https://tectonic-typesetting.github.io/>
+- 🌟 [gh:latex-lsp/texlab/wiki/Tectonic](https://github.com/latex-lsp/texlab/wiki/Tectonic): An implementation of the Language Server Protocol for LaTeX
 
 ### Latex Templates
 
@@ -118,6 +120,7 @@
 - 🌟 [gh:blxkex/Latex-Notes-Templates](https://github.com/blxkex/Latex-Notes-Templates): A collection of my latex notes, showcased as templates.
 - [ppresume](https://ppresume.com/): A LaTeX Based Resume Builder. that helps people create beautifully typed resumes in minutes
 - [gh:goblinunde/mathreport](https://github.com/goblinunde/mathreport): HUST report template
+- [gh:johnHostetter/presentations](https://github.com/johnHostetter/presentations): Demo showcasing how my slides are made using manim-slides, manim-beamer, and manim-timeline.
 
 ### Typst
 

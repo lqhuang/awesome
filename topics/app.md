@@ -89,6 +89,7 @@
 - [LovesWorking/rn-better-dev-tools](https://github.com/LovesWorking/rn-better-dev-tools): Beautiful macOS app for debugging React Query in ANY React-based application (Mobile, Web, TV, VR). Monitor queries across devices in real-time with a gorgeous native interface. Features device management, query visualization, state simulation, and automatic production safety. Works with React Native, React Web, Next.js, Expo, and any platform where
 - [WrathChaos/react-native-bounceable](https://github.com/WrathChaos/react-native-bounceable): 🚀 Animate and bounce any component with RNBounceable for React Native <https://freakycoder.com>
 - [bbernag/react-native-date](https://github.com/bbernag/react-native-date): High-performance native date library for React Native, powered by C++ and [Nitro Modules](https://nitro.margelo.com/) <https://bbernag.github.io/react-native-date/>
+- [gh:pioner92/react-native-turbo-base64](https://github.com/pioner92/react-native-turbo-base64): ⚡ The fastest base64 encoding/decoding library for React Native. Up to 10x faster with optimized C++ and JSI bindings.
 
 ### UI
 
