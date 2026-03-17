@@ -22,6 +22,7 @@
   - in Chinese
 - [alex/what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design): Learn how to design systems at scale and prepare for system design interviews <https://leanpub.com/systemdesign>
+- [gh:djiangtw/system-design-architecture-aware-public](https://github.com/djiangtw/system-design-architecture-aware-public): System design framework for modern hardware. 7-Domain approach: Execution, Memory, Caches, Ordering, Faults, Compute, Performance. Bilingual (EN/ZH-TW). CC BY 4.0.
 
 ## Testing
 

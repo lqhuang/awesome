@@ -130,6 +130,7 @@
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder): 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [ProxMox Cluster - Soup-to-Nutz | scyto](https://gist.github.com/scyto/76e94832927a89d977ea989da157e9dc): my proxmox cluster.
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack): Miniature rack builds, for portable or compact Homelabs. <http://mini-rack.jeffgeerling.com/>
+- [Home Network Overview | Aleksey Shipilёv](https://shipilev.net/labs/network-de/): Oh God, That Escalated Quickly
 
 ### Admin
 
@@ -295,6 +296,8 @@
   - [睡眠好，学习好，生活好](https://colerar.github.io/Chinese-Translation-Good-sleep-good-learning-good-life)
 - [keenancrane/LaTweet](https://github.com/keenancrane/LaTweet): Web-based long-form microblog authoring tool with rich text and math support. <https://keenancrane.github.io/LaTweet/>
 - [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib): This GitHub Action creates a GitHub contribution calendar on a 3D profile image.
+- [A system to organise your life • Johnny.Decimal](https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/): Johnny.Decimal is a system to organise your life. Find things, quickly, with more confidence, and less stress. It's free to use and the concepts are the same at home or work.
+  - ???
 
 ## ESL
 

@@ -64,6 +64,8 @@
 - [edgedb/memhive](https://github.com/edgedb/memhive): a highly experimental Python subinterpreters orchestrator with support for structured data sharing.
 - [facebookincubator/ft_utils](https://github.com/facebookincubator/ft_utils): A library of utilities to support efficient, scalable Python development leveraging Free Threaded Python.
 - 🌟 [hugovk/free-threaded-wheels](https://github.com/hugovk/free-threaded-wheels): <https://hugovk.github.io/free-threaded-wheels/>
+- [gh:cemrehancavdar/faster-python-bench](https://github.com/cemrehancavdar/faster-python-bench): Companion repo for The Optimization Ladder. Every benchmark from the blog post — reproduced, verified, and runnable.
+  - [The Optimization Ladder - Cemrehan Çavdar](https://cemrehancavdar.com/2026/03/10/optimization-ladder/)
 
 ## Toolchains
 

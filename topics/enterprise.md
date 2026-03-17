@@ -186,16 +186,17 @@
 - 🌟 [parca-dev/parca](https://github.com/parca-dev/parca): Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability. <https://parca.dev>
 - Grafana Stack
   - [Observability part 1 - building blocks overview](https://softwaremill.com/observability-part-1-building-blocks-overview/)
-  - [grafana/loki](https://github.com/grafana/loki): Like Prometheus, but for logs. <https://grafana.com/loki>
-  - [grafana/tempo](https://github.com/grafana/tempo): Grafana Tempo is a high volume, minimal dependency distributed tracing backend. <https://grafana.com/oss/tempo/>
-  - [grafana/phlare](https://github.com/grafana/phlare): 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
-  - [grafana/pyroscope](https://github.com/grafana/pyroscope): Continuous Profiling Platform. Debug performance issues down to a single line of code <https://grafana.com/oss/pyroscope/>
-  - [grafana/beyla](https://github.com/grafana/beyla): eBPF-based autoinstrumentation of HTTP and HTTPS services
-  - [grafana/k6](https://github.com/grafana/k6): A modern load testing tool, using Go and JavaScript - https://k6.io
-  - [grafana/mimir](https://github.com/grafana/mimir): Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. <https://grafana.com/oss/mimir/>
-  - [softwaremill/meerkat](https://github.com/softwaremill/meerkat): Bootzooka, but for observability
-  - [vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus): A docker-compose stack for Prometheus monitoring
-  - [fhemberger/prometheus-formatter](https://github.com/fhemberger/prometheus-formatter): Browser extension which makes plain Prometheus/OpenMetrics endpoints easier to read
+  - [gh:grafana/loki](https://github.com/grafana/loki): Like Prometheus, but for logs. <https://grafana.com/loki>
+  - [gh:grafana/tempo](https://github.com/grafana/tempo): Grafana Tempo is a high volume, minimal dependency distributed tracing backend. <https://grafana.com/oss/tempo/>
+  - [gh:grafana/phlare](https://github.com/grafana/phlare): 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
+  - [gh:grafana/pyroscope](https://github.com/grafana/pyroscope): Continuous Profiling Platform. Debug performance issues down to a single line of code <https://grafana.com/oss/pyroscope/>
+  - [gh:grafana/beyla](https://github.com/grafana/beyla): eBPF-based autoinstrumentation of HTTP and HTTPS services
+  - [gh:grafana/k6](https://github.com/grafana/k6): A modern load testing tool, using Go and JavaScript - https://k6.io
+  - [gh:grafana/mimir](https://github.com/grafana/mimir): Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. <https://grafana.com/oss/mimir/>
+  - [gh:grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm): OpenTelemetry backend in a Docker image
+  - [gh:softwaremill/meerkat](https://github.com/softwaremill/meerkat): Bootzooka, but for observability
+  - [gh:vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus): A docker-compose stack for Prometheus monitoring
+  - [gh:fhemberger/prometheus-formatter](https://github.com/fhemberger/prometheus-formatter): Browser extension which makes plain Prometheus/OpenMetrics endpoints easier to read
 - [Polar Signals](https://www.polarsignals.com/): Polar Signals Cloud is an always-on, zero-instrumentation continuous profiling product that helps improve performance, understand incidents, and lower infrastructure costs.
 - [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent): The production-scale datacenter profiler
 - [google/mtail](https://github.com/google/mtail): extract internal monitoring data from application logs for collection in a timeseries database

@@ -40,6 +40,7 @@
 - [Memory Management Reference](https://www.memorymanagement.org/): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
 - 🌟 [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook/)
 - [Glibc Heap Internals](https://www.deep-kondah.com/glibc-heap-internals/)
+- [gh:labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney): Courses and lesson content for linuxjourney.com <https://linuxjourney.com/>
 
 ## Compiler
 
@@ -168,6 +169,7 @@
 - [microsoft/SysmonForLinux](https://github.com/microsoft/SysmonForLinux): Sysmon for Linux
 - 🌟 [wolfpld/tracy](https://github.com/wolfpld/tracy): Frame profiler <https://tracy.nereid.pl/>
 - [google/bloaty](https://github.com/google/bloaty): Bloaty: a size profiler for binaries
+- 🌟🌟🌟 [gh:perfwiki/main](https://github.com/perfwiki/main): perf: Linux profiling with performance counters <https://perf.wiki.kernel.org>
 
 ## Misc
 

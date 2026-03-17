@@ -220,12 +220,14 @@ And modern is here now.
 ### Better libc
 
 - [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
-- [rustyrussell/ccan](https://github.com/rustyrussell/ccan): The C Code Archive Network <http://ccodearchive.net/>
-- [apache/apr](https://github.com/apache/apr): Mirror of Apache Portable Runtime
-- [dcreager/libcork](https://github.com/dcreager/libcork): A simple, easily embeddable cross-platform C library <https://libcork.io/>
-- [skarnet/skalibs](https://github.com/skarnet/skalibs): The skarnet.org C system programming library <https://skarnet.org/software/skalibs/>
+- [gh:rustyrussell/ccan](https://github.com/rustyrussell/ccan): The C Code Archive Network <http://ccodearchive.net/>
+- [gh:apache/apr](https://github.com/apache/apr): Mirror of Apache Portable Runtime
+- [gh:dcreager/libcork](https://github.com/dcreager/libcork): A simple, easily embeddable cross-platform C library <https://libcork.io/>
+- [gh:skarnet/skalibs](https://github.com/skarnet/skalibs): The skarnet.org C system programming library <https://skarnet.org/software/skalibs/>
 - [diet libc](https://www.fefe.de/dietlibc/): - a libc optimized for small size
-- [picolibc/picolibc](https://github.com/picolibc/picolibc): picolibc - a C library designed for embedded 32- and 64- bit systems. <https://keithp.com/picolibc>
+- [gh:picolibc/picolibc](https://github.com/picolibc/picolibc): picolibc - a C library designed for embedded 32- and 64- bit systems. <https://keithp.com/picolibc>
+- [gh:jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
+- [gh:nothings/stb](https://github.com/nothings/stb): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
 
 ## Safer CPP
 
@@ -239,18 +241,13 @@ And modern is here now.
 - [google/brotli](https://github.com/google/brotli): Brotli compression format
 - [google/double-conversion](https://github.com/google/double-conversion): Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
 - [madler/pigz](https://github.com/madler/pigz): A parallel implementation of gzip for modern multi-processor, multi-core machines. <http://zlib.net/pigz>
-- [scandum/blitsort](https://github.com/scandum/blitsort): Blitsort is an in-place stable adaptive rotate mergesort / quicksort.
 - [Blosc/c-blosc2](https://github.com/Blosc/c-blosc2): A fast, compressed, persistent binary data store library for C. <https://www.blosc.org>
-- [facebook/CacheLib](https://github.com/facebook/CacheLib): Pluggable in-process caching engine to build and scale high performance services <https://www.cachelib.org>
-- [jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
 - [floooh/sokol](https://github.com/floooh/sokol): minimal cross-platform standalone C headers <https://floooh.github.io/sokol-html5>
-- [nothings/stb](https://github.com/nothings/stb): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
+- [gh:tsoding/nob.h](https://github.com/tsoding/nob.h): Header only library for writing build recipes in C.
+- [gh:tsoding/arena](https://github.com/tsoding/arena): Arena Allocator implementation in pure C as an stb-style single-file library.
 - [libffi/libffi](https://github.com/libffi/libffi): A portable foreign-function interface library. <http://sourceware.org/libffi>
 - [lemire/rollinghashcpp](https://github.com/lemire/rollinghashcpp): Rolling Hash C++ Library
-- [foonathan/lexy](https://github.com/foonathan/lexy): C++ parsing DSL <https://lexy.foonathan.net>
-- [tidwall/pogocache](https://github.com/tidwall/pogocache): Fast caching software with a focus on low latency and cpu efficiency. <https://pogocache.com>
-- [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
 - [manjaroman2/compression_algo_comparision](https://github.com/manjaroman2/compression_algo_comparision): LZTURBO vs ZSTD vs BROTLI vs LZMA vs ZPAQ
 - [inikep/lzbench](https://github.com/inikep/lzbench): lzbench is an in-memory benchmark of open-source compressors
 - [graphitemaster/detour](https://github.com/graphitemaster/detour): A detour through the Linux dynamic linker
@@ -272,9 +269,14 @@ And modern is here now.
 - [g-truc/glm](https://github.com/g-truc/glm): OpenGL Mathematics (GLM) <https://glm.g-truc.net>
 - [skypjack/entt](https://github.com/skypjack/entt): Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more <https://github.com/skypjack/entt/wiki>
 - [gh:jeremy-rifkin/cpptrace](https://github.com/jeremy-rifkin/cpptrace): Simple, portable, and self-contained stacktrace library for C++11 and newer
+- [gh:aous72/OpenJPH](https://github.com/aous72/OpenJPH): Open-source implementation of JPEG2000 Part-15 (or JPH or HTJ2K)
 
 ### Data Structures
 
+- [scandum/blitsort](https://github.com/scandum/blitsort): Blitsort is an in-place stable adaptive rotate mergesort / quicksort.
+- [facebook/CacheLib](https://github.com/facebook/CacheLib): Pluggable in-process caching engine to build and scale high performance services <https://www.cachelib.org>
+- [tidwall/pogocache](https://github.com/tidwall/pogocache): Fast caching software with a focus on low latency and cpu efficiency. <https://pogocache.com>
+- [efficient/libcuckoo](https://github.com/efficient/libcuckoo): A high-performance, concurrent hash table
 - [ryanhaining/cppitertools](https://github.com/ryanhaining/cppitertools): Implementation of python itertools and builtin iteration functions for C++17
 - [MaJerle/lwrb](https://github.com/MaJerle/lwrb): Lightweight generic ring buffer manager library
 - [martinus/unordered_dense](https://github.com/martinus/unordered_dense): A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
@@ -311,6 +313,7 @@ And modern is here now.
 ## Parser
 
 - [taocpp/PEGTL](https://github.com/taocpp/PEGTL): Parsing Expression Grammar Template Library
+- [foonathan/lexy](https://github.com/foonathan/lexy): C++ parsing DSL <https://lexy.foonathan.net>
 
 ## Async / Concurrency
 

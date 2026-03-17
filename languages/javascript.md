@@ -273,7 +273,6 @@ Specific
 - [rictic/jsonriver](https://github.com/rictic/jsonriver): A simple, fast streaming JSON parser built on standards. <https://rictic.github.io/jsonriver/>
 - 🌟 [oozcitak/xmlbuilder2](https://github.com/oozcitak/xmlbuilder2): An XML builder for node.js
 - [querycatai/jaison](https://github.com/querycatai/jaison): A robust, fault-tolerant JSON parser engineered specifically for handling malformed JSON output from AI systems and language models.
-- [Simon-He95/markdown-it-ts](https://github.com/Simon-He95/markdown-it-ts): A modern, type-safe rewrite of markdown-it in TypeScript: pluggable rules, split parse/render, CommonMark-compatible; fast one-shot parsing and even faster streaming/incremental updates. <https://www.npmjs.com/package/markdown-it-ts>
 - [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js): A JSON-LD Processor and API implementation in JavaScript <https://json-ld.org/>
 - 🌟 [jacob-ebey/turbo-stream](https://github.com/jacob-ebey/turbo-stream): A streaming data transport format that aims to support built-in features such as Promises, Dates, RegExps, Maps, Sets and more. <https://turbo-stream.pages.dev/>
 - 🌟 [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify): 2x faster than JSON.stringify() <https://npmjs.com/package/fast-json-stringify>
@@ -292,6 +291,8 @@ Specific
 - [tinyhttp/milliparsec](https://github.com/tinyhttp/milliparsec): 🌌 Tiniest body parser in the universe. Built for modern Node.js <https://npm.im/milliparsec>
 - [tinyhttp/content-type](https://github.com/tinyhttp/content-type): content-type rewrite in TypeScript and ESM
 - [keichi/binary-parser](https://github.com/keichi/binary-parser): A blazing-fast declarative parser builder for binary data
+- [Simon-He95/markdown-it-ts](https://github.com/Simon-He95/markdown-it-ts): A modern, type-safe rewrite of markdown-it in TypeScript: pluggable rules, split parse/render, CommonMark-compatible; fast one-shot parsing and even faster streaming/incremental updates. <https://www.npmjs.com/package/markdown-it-ts>
+- [gh:unjs/md4x](https://github.com/unjs/md4x): 📄 Fast and small markdown parser and renderer <https://md4x.unjs.io/#/playground>
 
 ### format parser / converter
 

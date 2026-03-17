@@ -38,6 +38,7 @@
 - [gitlab:sciter-engine](https://gitlab.com/sciter-engine): Sciter Engine related projects
 - [gh-org:sciter-sdk](https://github.com/sciter-sdk): Sciter SDK bindings
 - [gh:saucer/saucer](https://github.com/saucer/saucer): 🛸 A modern, cross-platform C++ webview library <https://saucer.github.io/>
+- 🌟 [gh:webui-dev/webui](https://github.com/webui-dev/webui): Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library. <https://webui.me>
 
 ## React Native (cross platforms)
 

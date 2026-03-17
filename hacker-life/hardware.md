@@ -4,3 +4,4 @@
 - [canberkdurmus/microlab-2](https://github.com/canberkdurmus/microlab-2): A mini homelab solution that is fully modular, 3D printable and open source.
 - [Clicks Communicator](https://clicksphone.com/communicator): Clicks Communicator is phone purpose-built for taking action and communicating in a noisy world with deeper context, versatile input and greater control in a compact design.
 - [Goods](https://goods.so/): Fewer, better things.
+- [gh:wesbos/awesome-uses](https://github.com/wesbos/awesome-uses): A list of /uses pages detailing developer setups, gear, software and configs. <https://uses.tech>

@@ -554,6 +554,7 @@ Misc
 - 🌟 [adesignl/Peek](https://github.com/adesignl/Peek): Light Weight "Headroom Style" scroll intent library that hides the site header on scroll down and shows on scroll up
 - [gh:openseadragon/openseadragon](https://github.com/openseadragon/openseadragon): An open-source, web-based viewer for zoomable images, implemented in pure JavaScript. <http://openseadragon.github.io/>
 - 🌟🌟🌟 [gh:arnog/mathlive](https://github.com/arnog/mathlive): Web components for math display and input <https://mathlive.io>
+- [gh:thesysdev/openui](https://github.com/thesysdev/openui): The Open Standard for Generative UI <https://www.openui.com>
 
 #### Editor
 
@@ -697,6 +698,8 @@ Concrete animations
 - [jsx-tool/jsx-tool](https://github.com/jsx-tool/jsx-tool): A lightweight development server that bridges your browser and filesystem for real-time React component editing. <https://jsxtool.com>
 - [ultroned/xray-react](https://github.com/ultroned/xray-react): 🩻 React layout debugging tool that lets you open source code in your local IDE by clicking UI elements.
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab): Select context for coding agents directly from your website <https://react-grab.com>
+- [gh:aidenybai/element-source](https://github.com/aidenybai/element-source): Get the source file location of any DOM element. Works with React, Vue, Svelte, Solid <https://element-source.com>
+- [gh:joshcirre/instruckt](https://github.com/joshcirre/instruckt): No description, website, or topics provided.
 
 ### Misc
 
