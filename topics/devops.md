@@ -148,13 +148,18 @@
 - [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator): Determines which Bazel targets were affected between two git commits.
 - [bazeltools/bazelfe](https://github.com/bazeltools/bazelfe): Set of tools to handle errors/work with bazel invocations
 - [bazeltools/bazel-deps](https://github.com/bazeltools/bazel-deps): Generate bazel dependencies for maven artifacts
+- 🌟 [gh:EngFlow/bazel_invocation_analyzer](https://github.com/EngFlow/bazel_invocation_analyzer): A tool that automatically analyzes a Bazel build's profile and offers suggestions on how to make it faster. <https://analyzer.engflow.com>
 
 gazelle
 
 - [alexeagle/gazelle-prebuilt](https://github.com/alexeagle/gazelle-prebuilt): A statically-linked, compiled binary to generate BUILD files using Gazelle
-- [bazelbuild/bazel-gazelle](https://github.com/bazelbuild/bazel-gazelle): Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
+- [gh:bazel-contrib/bazel-gazelle](https://github.com/bazel-contrib/bazel-gazelle): Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.
   - [bcr:gazelle](https://registry.bazel.build/modules/gazelle/0.42.0)
 - [Calsign/gazelle_rust](https://github.com/Calsign/gazelle_rust): Gazelle language plugin for Rust.
+- [gh:foursquare/scala-gazelle](https://github.com/foursquare/scala-gazelle): a Scala code parser and Gazelle plugin for Bazel build file generation
+- [EngFlow/gazelle_cc](https://github.com/EngFlow/gazelle_cc): Public repository for the Gazelle C++ extension
+  - [bcr:gazelle_cc](https://registry.bazel.build/modules/gazelle_cc)
+- [OliverFM/pytorch_with_gazelle](https://github.com/OliverFM/pytorch_with_gazelle): No description, website, or topics provided.
 
 OS
 
@@ -175,8 +180,6 @@ CC
   - [bcr:rules_cc_resources](https://registry.bazel.build/modules/rules_cc_resources)
 - [bazel-contrib/rules_cuda](https://github.com/bazel-contrib/rules_cuda): Starlark implementation of bazel rules for CUDA. <https://bazel-contrib.github.io/rules_cuda/>
   - [bcr:rules_cuda](https://registry.bazel.build/modules/rules_cuda)
-- [EngFlow/gazelle_cc](https://github.com/EngFlow/gazelle_cc): Public repository for the Gazelle C++ extension
-  - [bcr:gazelle_cc](https://registry.bazel.build/modules/gazelle_cc)
 - [hedronvision/bazel-compile-commands-extractor](https://github.com/hedronvision/bazel-compile-commands-extractor): Goal: Enable awesome tooling for Bazel users of the C language family.
 - [wolfd/bazel-compile-commands](https://github.com/wolfd/bazel-compile-commands): Another bazel compile_commands.json extractor.
   - [bcr:wolfd_bazel_compile_commands](https://registry.bazel.build/modules/wolfd_bazel_compile_commands)
@@ -202,7 +205,6 @@ Python
 - [periareon/rules_venv](https://github.com/periareon/rules_venv): Bazel rules for Python. <https://periareon.github.io/rules_venv/>
   - [bcr:rules_venv](https://registry.bazel.build/modules/rules_venv)
 - [bazel-contrib/rules_mypy](https://github.com/bazel-contrib/rules_mypy): a Bazel mypy aspect
-- [OliverFM/pytorch_with_gazelle](https://github.com/OliverFM/pytorch_with_gazelle): No description, website, or topics provided.
 - [abrisco/rules_pyo3](https://github.com/abrisco/rules_pyo3): Bazel rules for PyO3 <https://abrisco.github.io/rules_pyo3/>
   - [liningpan/pyo3-bazel-example](https://github.com/liningpan/pyo3-bazel-example)
 - [nicholasjng/nanobind-bazel](https://github.com/nicholasjng/nanobind-bazel): Bazel defs and rules for building Python projects with nanobind extensions.
@@ -612,6 +614,7 @@ Archived or outdated but still useful
 - 🌟 [github/gh-aw](https://github.com/github/gh-aw): GitHub Agentic Workflows <https://gh.io/gh-aw>
   - [Welcome to Peli's Agent Factory | GitHub Agentic Workflows](https://github.github.com/gh-aw/blog/2026-01-12-welcome-to-pelis-agent-factory/): It's basically a candy shop chocolate factory of agentic workflows.
 - [microsoft/GitHubCopilotLicenseAssignment](https://github.com/microsoft/GitHubCopilotLicenseAssignment): Disclaimer: this GitHub Repository will not assign you a GitHub Copilot License. This repository is a template to enable a self-service solution to automate the process of assigning GitHub Copilot licenses in your GitHub organization. You can check the following repository as an example using this solution: <https://github.com/DevExpGbb/GitHubCopilotLicenseAssignment>
+- [gh:anthropics/claude-code-action](https://github.com/anthropics/claude-code-action): No description, website, or topics provided.
 
 ### GitHub Action Runner
 

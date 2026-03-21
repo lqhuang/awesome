@@ -267,6 +267,7 @@ General problems
 - [mirage-project/mirage](https://github.com/mirage-project/mirage): Mirage: Automatically Generating Fast GPU Kernels without Programming in Triton/CUDA <https://mirage-project.readthedocs.io/>
 - [Relaxed-System-Lab/Flash-Sparse-Attention](https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention): 🚀🚀 Efficient implementations of Native Sparse Attention <https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention>
 - [pytorch/helion](https://github.com/pytorch/helion): A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.
+- [gh:NVlabs/SOLAR](https://github.com/NVlabs/SOLAR): Speed of Light Analysis for ML Model Runtime
 
 ### XLA / MLIR
 

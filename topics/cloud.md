@@ -97,6 +97,9 @@
 - 🌟 [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser): 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails. <https://hub.docker.com/r/klausmeyer/docker-registry-browser/>
 - [Quiq/registry-ui](https://github.com/Quiq/registry-ui): Web UI for Docker Registry
 - [klausmeyer/docker-registry-browser](https://github.com/klausmeyer/docker-registry-browser): 🐳 Web Interface for the Docker Registry HTTP API V2 written in Ruby on Rails. <https://hub.docker.com/r/klausmeyer/docker-registry-browser/>
+- [gh:replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh): An anonymous & ephemeral Docker image registry <https://ttl.sh>
+  - > Push any OCI artifact with a TTL. No auth, no config, no account. It expires automatically. Like magic.
+  - interesting idea 🤔
 
 #### Container ops
 
@@ -125,6 +128,7 @@
 - 🌟 [goodwithtech/dockle](https://github.com/goodwithtech/dockle): Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start <https://containers.goodwith.tech/>
 - [google/go-containerregistry](https://github.com/google/go-containerregistry): Go library and CLIs for working with container registries
   - Provide: `crane`, `gcrane`, `krane`, etc.
+- [gh:windymelt/comport](https://github.com/windymelt/comport): Docker Compose worktree port assigner: randomize port to avoid collision between worktree
 
 #### Filesystem
 

@@ -108,6 +108,7 @@
 - [gh:OneSparse/OneSparse](https://github.com/OneSparse/OneSparse): Accelerated Sparse Linear Algebra with Postgres and SuiteSparse
   - [Billions of Edges Per Second with Postgres](https://onesparse.com/blog/2025/07/01/billions-of-edges-per-second-with-postgres.html)
 - 🌟 [gh:LadybugDB/ladybug](https://github.com/LadybugDB/ladybug): LadybugDB a graph database <https://ladybugdb.com/>
+- [gh:apache/hugegraph](https://github.com/apache/hugegraph): A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends) <https://hugegraph.apache.org>
 
 ### KV
 

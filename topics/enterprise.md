@@ -193,15 +193,12 @@
   - [gh:grafana/beyla](https://github.com/grafana/beyla): eBPF-based autoinstrumentation of HTTP and HTTPS services
   - [gh:grafana/k6](https://github.com/grafana/k6): A modern load testing tool, using Go and JavaScript - https://k6.io
   - [gh:grafana/mimir](https://github.com/grafana/mimir): Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. <https://grafana.com/oss/mimir/>
-  - [gh:grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm): OpenTelemetry backend in a Docker image
   - [gh:softwaremill/meerkat](https://github.com/softwaremill/meerkat): Bootzooka, but for observability
   - [gh:vegasbrianc/prometheus](https://github.com/vegasbrianc/prometheus): A docker-compose stack for Prometheus monitoring
   - [gh:fhemberger/prometheus-formatter](https://github.com/fhemberger/prometheus-formatter): Browser extension which makes plain Prometheus/OpenMetrics endpoints easier to read
 - [Polar Signals](https://www.polarsignals.com/): Polar Signals Cloud is an always-on, zero-instrumentation continuous profiling product that helps improve performance, understand incidents, and lower infrastructure costs.
-- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent): The production-scale datacenter profiler
 - [google/mtail](https://github.com/google/mtail): extract internal monitoring data from application logs for collection in a timeseries database
 - [nyrkio/nyrkio](https://github.com/nyrkio/nyrkio): Nyrkiö is an open source platform for detecting performance changes <https://nyrkio.com>
-- [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub): Universal Metrics Collection for OpenTelemetry <https://metricshub.com>
 - [yandex/perforator](https://github.com/yandex/perforator): Perforator is a cluster-wide continuous profiling tool designed for large data centers <https://perforator.tech>
   - made by Yandex and inspired by Google-Wide Profiling.
 - [subtrace/subtrace](https://github.com/subtrace/subtrace): Network inspector for your backend <https://subtrace.dev>
@@ -224,6 +221,13 @@ Exporters
 - [kasd/texporter](https://github.com/kasd/texporter): texporter is a lightweight, high-performance eBPF-based network traffic exporter for Prometheus.
 - [michael-doubez/filestat_exporter](https://github.com/michael-doubez/filestat_exporter): Prometheus exporter gathering metrics about file size, modification time and other stats
 - [ncabatoff/process-exporter](https://github.com/ncabatoff/process-exporter): Prometheus exporter that mines /proc to report on selected processes
+
+OpenTelemetry
+
+- [elastic/otel-profiling-agent](https://github.com/elastic/otel-profiling-agent): The production-scale datacenter profiler
+- [gh:equinix-labs/otel-cli](https://github.com/equinix-labs/otel-cli): OpenTelemetry command-line tool for sending events from shell scripts & similar environments
+- [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub): Universal Metrics Collection for OpenTelemetry <https://metricshub.com>
+- [gh:grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm): OpenTelemetry backend in a Docker image
 
 Visual stack
 

@@ -84,22 +84,23 @@
   - [How I SBT - III](https://blog.rhetoricalmusings.com/posts/how-i-sbt3/)
   - [How I SBT - IV](https://blog.rhetoricalmusings.com/posts/how-i-sbt4)
   - [How I SBT - V](https://blog.rhetoricalmusings.com/posts/how-i-sbt5)
-- [spray/sbt-revolver](https://github.com/spray/sbt-revolver): An SBT plugin for dangerously fast development turnaround in Scala
+- [gh:sbt/sbt-dynver](https://github.com/sbt/sbt-dynver): An sbt plugin to dynamically set your version from git
+- [gh:sbt/sbt-license-report](https://github.com/sbt/sbt-license-report): Report on licenses used in an sbt project.
+- [gh:sbt/sbt-ci-release](https://github.com/sbt/sbt-ci-release): sbt plugin to automate Sonatype releases from GitHub Actions
+- [gh:sbt/sbt-github-actions](https://github.com/sbt/sbt-github-actions): An sbt plugin which makes it easier to build with GitHub Actions
+- [gh:sbt/sbt-header](https://github.com/sbt/sbt-header): sbt-header is an sbt plugin for creating file headers, e.g. copyright headers
+- [gh:sbt/sbt-unidoc](https://github.com/sbt/sbt-unidoc): sbt plugin to create a unified Scaladoc or Javadoc API document across multiple subprojects.
+- [gh:sbt/sbt-multi-jvm](https://github.com/sbt/sbt-multi-jvm): Multi-JVM testing in sbt
+- [gh:sbt/sbt-buildinfo](https://github.com/sbt/sbt-buildinfo): I know this because build.sbt knows this.
+- 🌟 [gh:sbt/sbt-web](https://github.com/sbt/sbt-web): Library for building sbt plugins for the web
+- [gh:sbt/docker-sbt](https://github.com/sbt/docker-sbt): Official sbt docker images
 - [typelevel/scalac-options](https://github.com/typelevel/scalac-options): A library for configuring scalac options
 - [typelevel/sbt-tpolecat](https://github.com/typelevel/sbt-tpolecat): scalac options for the enlightened
+- [spray/sbt-revolver](https://github.com/spray/sbt-revolver): An SBT plugin for dangerously fast development turnaround in Scala
 - [ghik/zerowaste](https://github.com/ghik/zerowaste): Scala compiler plugin to detect unused expressions
-- [sbt/sbt-dynver](https://github.com/sbt/sbt-dynver): An sbt plugin to dynamically set your version from git
-- [sbt/sbt-license-report](https://github.com/sbt/sbt-license-report): Report on licenses used in an sbt project.
 - [thesamet/sbt-protoc](https://github.com/thesamet/sbt-protoc): SBT plugin for generating code from Protocol Buffer using protoc
-- [sbt/sbt-ci-release](https://github.com/sbt/sbt-ci-release): sbt plugin to automate Sonatype releases from GitHub Actions
-- [sbt/sbt-github-actions](https://github.com/sbt/sbt-github-actions): An sbt plugin which makes it easier to build with GitHub Actions
-- [sbt/sbt-header](https://github.com/sbt/sbt-header): sbt-header is an sbt plugin for creating file headers, e.g. copyright headers
 - [ThoughtWorksInc/sbt-best-practice](https://github.com/ThoughtWorksInc/sbt-best-practice): Configure common build settings for a Scala project
-- [sbt/sbt-unidoc](https://github.com/sbt/sbt-unidoc): sbt plugin to create a unified Scaladoc or Javadoc API document across multiple subprojects.
 - [portable-scala/sbt-crossproject](https://github.com/portable-scala/sbt-crossproject): Cross-platform compilation support for sbt.
-- [sbt/sbt-multi-jvm](https://github.com/sbt/sbt-multi-jvm): Multi-JVM testing in sbt
-- [sbt/sbt-buildinfo](https://github.com/sbt/sbt-buildinfo): I know this because build.sbt knows this.
-- [sbt/docker-sbt](https://github.com/sbt/docker-sbt): Official sbt docker images
 - 🌟 [kitlangton/scala-update](https://github.com/kitlangton/scala-update): Update your Scala dependencies interactively
 - [reibitto/sbt-welcome](https://github.com/reibitto/sbt-welcome): An SBT plugin for displaying a welcome message and commonly used tasks.
 - [guardian/gha-scala-library-release-workflow](https://github.com/guardian/gha-scala-library-release-workflow): Publishing Scala libraries to Maven Central using GitHub Actions
@@ -138,6 +139,7 @@
   - Now, mill (after 1.0) has built-in completions generation
 - [carlosedp/mill-docker-nativeimage](https://github.com/carlosedp/mill-docker-nativeimage): A Scala Mill plugin to build container images with Native Image (GraalVM Binaries) application
 - [vic/mill-docker](https://github.com/vic/mill-docker): Build minimalist distroless docker images for your java applications using Mill
+- [gh:alexarchambault/mill-missinglink](https://github.com/alexarchambault/mill-missinglink): Mill plugin for missinglink
 
 ### Testing
 
@@ -276,6 +278,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [ptrdom/scalajs-vite](https://github.com/ptrdom/scalajs-vite): Bundles Scala.js projects and their npm dependencies with Vite
 - [ptrdom/scalajs-electron-quick-start](https://github.com/ptrdom/scalajs-electron-quick-start): electron-quick-start conversion to Scala.js
 - [linux-root/tauri-scala-desktop-app](https://github.com/linux-root/tauri-scala-desktop-app): No description, website, or topics provided.
+- [gh:reactivecore/kreuzberg](https://github.com/reactivecore/kreuzberg): ScalaJS Component System
 
 ## Featured
 
@@ -407,6 +410,7 @@ Tracing and OpenTelemetry
 - [timbertson/foperator](https://github.com/timbertson/foperator): Functional k8s operator framework, in scala
 - [joan38/kubernetes-client](https://github.com/joan38/kubernetes-client): A Kubernetes client for Scala
 - [bot4s/telegram](https://github.com/bot4s/telegram): Telegram Bot API Wrapper for Scala
+- [gh:FabioPinheiro/scala-did](https://github.com/FabioPinheiro/scala-did): A Scala & Scala.js implementation of DID and DID Comm messaging spec <https://did.fmgp.app/>
 
 ### Parser
 
@@ -424,6 +428,7 @@ Tracing and OpenTelemetry
 - [cornerman/sloth](https://github.com/cornerman/sloth): Type safe RPC in scala
 - [yoohaemin/decrel](https://github.com/yoohaemin/decrel): Composable relations for Scala <https://decrel.yoohaemin.com>
 - [arkida39/baku](https://github.com/arkida39/baku): A Scala Tapir extension to cleanly decouple API definitions from server and security logic.
+- [gh:lolgab/scala-saas-template](https://github.com/lolgab/scala-saas-template): A minimal multi-tenant SaaS template: server-rendered HTTP app with auth, per-user SQLite databases, and optional Stripe subscriptions.
 
 ### CLI
 

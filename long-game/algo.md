@@ -98,6 +98,7 @@
 - [peterparity/symder](https://github.com/peterparity/symder): SymDer: Symbolic Derivative Approach to Discovering Sparse Interpretable Dynamics from Partial Observations <https://doi.org/10.1038/s42005-022-00987-z>
   - [vaibhawvipul/lorenz-attractor-simulation](https://github.com/vaibhawvipul/lorenz-attractor-simulation): A comprehensive implementation of the Lorenz system demonstrating chaos theory through interactive visualizations and animations with extensive customization options.
 - [sail-sg/jrystal](https://github.com/sail-sg/jrystal): A JAX-based Differentiable Density Functional Theory Framework for Materials <https://sail-sg.github.io/jrystal/>
+- [gh:Ceyron/exponax](https://github.com/Ceyron/exponax): Efficient Differentiable n-d PDE Solvers in JAX. <https://fkoehler.site/exponax/>
 
 ## Prob / Bayesian Inference
 
