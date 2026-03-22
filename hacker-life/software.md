@@ -42,6 +42,7 @@
 - [the-ora/browser](https://github.com/the-ora/browser): Less noise, more browsing. <https://orabrowser.com/>
 - 🌟 [KDE/labplot](https://github.com/KDE/labplot): LabPlot is a FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone. <https://invent.kde.org/education/labplot>
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW): A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
+- [gh:Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP): A Patch for GIMP 3+ for Photoshop Users
 
 ### Reader
 

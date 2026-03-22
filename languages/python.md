@@ -409,7 +409,7 @@ Misc
 ### Web
 
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py): Bringing WebSockets, Http/Https High Peformance servers for PyPy3 and Python3
-- [starlite-api/starlite](https://github.com/starlite-api/starlite): Light, Flexible and Extensible ASGI API framework <https://starlite-api.github.io/starlite>
+- [gh:litestar-org/litestar](https://github.com/litestar-org/litestar): Light, flexible and extensible ASGI framework | Built to scale <https://docs.litestar.dev/>
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep): Fast ASGI web framework for Python <https://www.neoteroi.dev/blacksheep>
 - [AliRn76/Panther](https://github.com/AliRn76/Panther): Fast & Friendly Python Web Framework <https://pantherpy.github.io>
 - [sansyrox/robyn](https://github.com/sansyrox/robyn): Robyn is a fast and extensible async python web server with a rust runtime <https://robyn.tech>
@@ -421,10 +421,11 @@ Misc
 - 🌟 [django/asgiref](https://github.com/django/asgiref): ASGI specification and utilities <https://asgi.readthedocs.io/en/latest>
 - [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx): A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
 - [spec-first/connexion](https://github.com/spec-first/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support <https://connexion.readthedocs.io/en/latest>
-- 🌟 [litestar-org/litestar](https://github.com/litestar-org/litestar): Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs <https://litestar.dev/>
-- [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users): Ready-to-use and customizable users management for FastAPI <https://fastapi-users.github.io/fastapi-users/>
-- [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips): FastAPI Tips by The FastAPI Expert!
-- [NRWLDev/fastapi-problem](https://github.com/NRWLDev/fastapi-problem): Problem details for FASTApi.
+- FastAPI
+  - [gh:fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users): Ready-to-use and customizable users management for FastAPI <https://fastapi-users.github.io/fastapi-users/>
+  - [gh:Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips): FastAPI Tips by The FastAPI Expert!
+  - [gh:NRWLDev/fastapi-problem](https://github.com/NRWLDev/fastapi-problem): Problem details for FASTApi.
+  - [gh:lbedner/aegis-stack](https://github.com/lbedner/aegis-stack): A production-ready FastAPI platform with modular components and a built-in control plane. <https://lbedner.github.io/aegis-stack/>
 - [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc): The python library for real-time communication <https://fastrtc.org/>
 - [python-hyper/wsproto](https://github.com/python-hyper/wsproto): Sans-IO WebSocket protocol implementation <https://wsproto.readthedocs.io/>
 - [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto): Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.

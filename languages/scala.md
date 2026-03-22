@@ -112,33 +112,41 @@
 - [47degrees/sbt-microsites](https://github.com/47degrees/sbt-microsites): An sbt plugin to create awesome microsites for your project <https://47degrees.github.io/sbt-microsites/>
 - [tpunder/fm-sbt-s3-resolver](https://github.com/tpunder/fm-sbt-s3-resolver): SBT Plugin that adds support for resolving and publishing using Amazon S3
   - I hope a mill plugin 🤩
+- [gh:scoverage/sbt-scoverage](https://github.com/scoverage/sbt-scoverage): sbt plugin for scoverage
 
 ### Mill
 
 - [Mill as a Direct Style Build Tool :: The Mill Build Tool](https://mill-build.org/blog/12-direct-style-build-tool.html)
-- [lewisjkl/header](https://github.com/lewisjkl/header): Header automation and linting 🎉
-- [sake92/mill-hepek](https://github.com/sake92/mill-hepek): Mill plugin for rendering Scala objects to files
-- [sake92/mill-openapi4s](https://github.com/sake92/mill-openapi4s): Mill plugin for openapi4s
-- [alexarchambault/mill-native-image](https://github.com/alexarchambault/mill-native-image): This is a Mill plugin which allows building executables using GraalVM native-image for your modules.
-- [hoangmaihuy/mill-universal-packager](https://github.com/hoangmaihuy/mill-universal-packager): Universal packaging for Mill
-- [joan38/mill-git](https://github.com/joan38/mill-git): A git version plugin for Mill build tool
-- [joan38/mill-scalafix](https://github.com/joan38/mill-scalafix): A Scalafix plugin for Mill build tool
-- [Avimitin/mill-ivy-fetcher](https://github.com/Avimitin/mill-ivy-fetcher): Scriptlets to convert mill ivy dependencies to Nix expression
-- [DavidGregory084/mill-tpolecat](https://github.com/DavidGregory084/mill-tpolecat): scalac options for the enlightened
-- [lefou/millw](https://github.com/lefou/millw): Mill Wrapper Script
-- [lefou/mill-integrationtest](https://github.com/lefou/mill-integrationtest): Integration testing for mill plugins
-- [lefou/mill-jacoco](https://github.com/lefou/mill-jacoco): Coverage Reporting for Mill
-- [lefou/mill-vcs-version](https://github.com/lefou/mill-vcs-version): Mill plugin to derive a version from (last) git tag and edit state
-- [lolgab/mill-mima](https://github.com/lolgab/mill-mima): MiMa Plugin for Mill <https://lolgab.github.io/mill-mima/>
-- [lolgab/mill-crossplatform](https://github.com/lolgab/mill-crossplatform): Mill Plugin to ease Cross Platform projects <https://lolgab.github.io/mill-crossplatform/>
-- [lolgab/mill-scalablytyped](https://github.com/lolgab/mill-scalablytyped): Scalablytyped Mill Plugin <https://lolgab.github.io/mill-scalablytyped/>
-- [ckipp01/mill-scip](https://github.com/ckipp01/mill-scip): A Mill plugin that generates and SCIP index for your build.
-- [ckipp01/mill-github-dependency-graph](https://github.com/ckipp01/mill-github-dependency-graph): A Mill plugin to submit your dependency graph to the GitHub Dependency Graph API
-- [carlosedp/mill-aliases](https://github.com/carlosedp/mill-aliases): A Scala Mill plugin adding task aliases to the build configuration
-- 🌟 [carlosedp/mill-zsh-completions](https://github.com/carlosedp/mill-zsh-completions): Zsh plugin adding Scala Mill build tool completions and prompt display
+- Mill contrib plugins
+  - [Docker](https://mill-build.org/mill/contrib/docker.html)
+  - [ScalaPB](https://mill-build.org/mill/contrib/scalapblib.html)
+  - [BuildInfo](https://mill-build.org/mill/contrib/buildinfo.html)
+  - [Scoverage](https://mill-build.org/mill/contrib/scoverage.html)
+  - [Software Bill of Materials (SBOM)](https://mill-build.org/mill/contrib/sbom.html)
+  - [Version file](https://mill-build.org/mill/contrib/versionfile.html)
+- [gh:lewisjkl/header](https://github.com/lewisjkl/header): Header automation and linting 🎉
+- [gh:sake92/mill-hepek](https://github.com/sake92/mill-hepek): Mill plugin for rendering Scala objects to files
+- [gh:sake92/mill-openapi4s](https://github.com/sake92/mill-openapi4s): Mill plugin for openapi4s
+- [gh:alexarchambault/mill-native-image](https://github.com/alexarchambault/mill-native-image): This is a Mill plugin which allows building executables using GraalVM native-image for your modules.
+- [gh:hoangmaihuy/mill-universal-packager](https://github.com/hoangmaihuy/mill-universal-packager): Universal packaging for Mill
+- [gh:joan38/mill-git](https://github.com/joan38/mill-git): A git version plugin for Mill build tool
+- [gh:joan38/mill-scalafix](https://github.com/joan38/mill-scalafix): A Scalafix plugin for Mill build tool
+- [gh:Avimitin/mill-ivy-fetcher](https://github.com/Avimitin/mill-ivy-fetcher): Scriptlets to convert mill ivy dependencies to Nix expression
+- [gh:DavidGregory084/mill-tpolecat](https://github.com/DavidGregory084/mill-tpolecat): scalac options for the enlightened
+- [gh:lefou/millw](https://github.com/lefou/millw): Mill Wrapper Script
+- [gh:lefou/mill-integrationtest](https://github.com/lefou/mill-integrationtest): Integration testing for mill plugins
+- [gh:lefou/mill-jacoco](https://github.com/lefou/mill-jacoco): Coverage Reporting for Mill
+- [gh:lefou/mill-vcs-version](https://github.com/lefou/mill-vcs-version): Mill plugin to derive a version from (last) git tag and edit state
+- [gh:lolgab/mill-mima](https://github.com/lolgab/mill-mima): MiMa Plugin for Mill <https://lolgab.github.io/mill-mima/>
+- [gh:lolgab/mill-crossplatform](https://github.com/lolgab/mill-crossplatform): Mill Plugin to ease Cross Platform projects <https://lolgab.github.io/mill-crossplatform/>
+- [gh:lolgab/mill-scalablytyped](https://github.com/lolgab/mill-scalablytyped): Scalablytyped Mill Plugin <https://lolgab.github.io/mill-scalablytyped/>
+- [gh:ckipp01/mill-scip](https://github.com/ckipp01/mill-scip): A Mill plugin that generates and SCIP index for your build.
+- [gh:ckipp01/mill-github-dependency-graph](https://github.com/ckipp01/mill-github-dependency-graph): A Mill plugin to submit your dependency graph to the GitHub Dependency Graph API
+- [gh:carlosedp/mill-aliases](https://github.com/carlosedp/mill-aliases): A Scala Mill plugin adding task aliases to the build configuration
+- 🌟 [gh:carlosedp/mill-zsh-completions](https://github.com/carlosedp/mill-zsh-completions): Zsh plugin adding Scala Mill build tool completions and prompt display
   - Now, mill (after 1.0) has built-in completions generation
-- [carlosedp/mill-docker-nativeimage](https://github.com/carlosedp/mill-docker-nativeimage): A Scala Mill plugin to build container images with Native Image (GraalVM Binaries) application
-- [vic/mill-docker](https://github.com/vic/mill-docker): Build minimalist distroless docker images for your java applications using Mill
+- [gh:carlosedp/mill-docker-nativeimage](https://github.com/carlosedp/mill-docker-nativeimage): A Scala Mill plugin to build container images with Native Image (GraalVM Binaries) application
+- [gh:vic/mill-docker](https://github.com/vic/mill-docker): Build minimalist distroless docker images for your java applications using Mill
 - [gh:alexarchambault/mill-missinglink](https://github.com/alexarchambault/mill-missinglink): Mill plugin for missinglink
 
 ### Testing
@@ -170,6 +178,15 @@
   - [Deterministic Concurrent Testing Using Fray](https://softwaremill.com/deterministic-concurrent-testing-using-fray/): Fray enables writing concurrent tests for the JVM, deterministically simulating various thread interleaving, and if needed, replaying runs that failed, using a standard Java debugger. Let's take a closer look at how Fray can be used and how it works.
   - [JetBrains/lincheck](https://github.com/JetBrains/lincheck): Framework for testing concurrent code on JVM languages
 
+### Compiler plugins
+
+- [com-lihaoyi/acyclic](https://github.com/com-lihaoyi/acyclic): Acyclic is a Scala compiler plugin to let you prohibit circular dependencies between files
+- [lightbend-labs/scala-sculpt](https://github.com/lightbend-labs/scala-sculpt): Dependency extraction for Scala codebases, to aid in modularizing
+  - This is unfinished, unmaintained software. We are releasing it as open source as a public service with the hopes the code will be useful to someone.
+- [edin-dal/scair](https://github.com/edin-dal/scair): ScaIR - Democratizing Compilers <https://edin-dal.github.io/scair/>
+- [ghik/zerowaste](https://github.com/ghik/zerowaste): Scala compiler plugin to detect unused expressions
+- [gh:scoverage/scalac-scoverage-plugin](https://github.com/scoverage/scalac-scoverage-plugin): Scoverage Scala Code Coverage Core Libs <https://github.com/scoverage>
+
 ### Linter
 
 - [scalastyle/scalastyle](https://github.com/scalastyle/scalastyle): scalastyle <http://www.scalastyle.org>
@@ -189,14 +206,8 @@
   - [Scala^Z3: Integration of Scala and Z3](https://lara.epfl.ch/w/scalaz3)
   - [Examples of Using Z3 with Scala](https://lara.epfl.ch/w/jniz3-scala-examples)
 - [scapegoat-scala/scapegoat](https://github.com/scapegoat-scala/scapegoat): Scala compiler plugin for static code analysis
-
-### Compiler plugins
-
-- [com-lihaoyi/acyclic](https://github.com/com-lihaoyi/acyclic): Acyclic is a Scala compiler plugin to let you prohibit circular dependencies between files
-- [lightbend-labs/scala-sculpt](https://github.com/lightbend-labs/scala-sculpt): Dependency extraction for Scala codebases, to aid in modularizing
-  - This is unfinished, unmaintained software. We are releasing it as open source as a public service with the hopes the code will be useful to someone.
-- [edin-dal/scair](https://github.com/edin-dal/scair): ScaIR - Democratizing Compilers <https://edin-dal.github.io/scair/>
-- [ghik/zerowaste](https://github.com/ghik/zerowaste): Scala compiler plugin to detect unused expressions
+- [gh:epfl-lara/scala-smtlib](https://github.com/epfl-lara/scala-smtlib): Scala library for parsing and printing the SMT-LIB format
+  - [gh:cvc5/cvc5](https://github.com/cvc5/cvc5): cvc5 is an open-source automatic theorem prover for Satisfiability Modulo Theories (SMT) problems.
 
 ### CI Actions
 
@@ -416,6 +427,7 @@ Tracing and OpenTelemetry
 
 - [com-lihaoyi/fastparse](https://github.com/com-lihaoyi/fastparse): Writing Fast Parsers Fast in Scala <https://com-lihaoyi.github.io/fastparse>
 - [j-mie6/parsley](https://github.com/j-mie6/parsley): A fast and modern parser combinator library for Scala
+- [gh:epfl-lara/scallion](https://github.com/epfl-lara/scallion): LL(1) parser combinators in Scala
 
 ### Web
 

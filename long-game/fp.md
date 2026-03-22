@@ -87,6 +87,15 @@
 - [AST explorer](https://astexplorer.net/): An online AST explorer.
 - [trailofbits/codeql-queries](https://github.com/trailofbits/codeql-queries): CodeQL queries developed by Trail of Bits
 
+## Theorem Prover
+
+- [gh:Z3Prover/z3](https://github.com/Z3Prover/z3): The Z3 Theorem Prover
+- [gh:cvc5/cvc5](https://github.com/cvc5/cvc5): cvc5 is an open-source automatic theorem prover for Satisfiability Modulo Theories (SMT) problems.
+- Lean
+  - [lean-dojo/LeanDojo](https://github.com/lean-dojo/LeanDojo): Tool for data extraction and interacting with Lean programmatically. <https://leandojo.org>
+  - [ImperialCollegeLondon/group-theory-game](https://github.com/ImperialCollegeLondon/group-theory-game): Building group theory from scratch in Lean
+  - [leanprover/cslib](https://github.com/leanprover/cslib): The Lean Computer Science Library (CSLib) <https://www.cslib.io/>
+
 ## Effect systems
 
 - [ocaml-multicore/eio](https://github.com/ocaml-multicore/eio):Effects-based direct-style IO for multicore OCaml
@@ -105,12 +114,6 @@
 - [inko-lang/inko](https://github.com/inko-lang/inko): A language for building concurrent software with confidence <http://inko-lang.org/>
 - [austral/austral](https://github.com/austral/austral): Systems language with linear types and capability-based security. <https://austral-lang.org/>
 - [diku-dk/futhark](https://github.com/diku-dk/futhark): 💥💻💥 A data-parallel functional programming language <http://futhark-lang.org>
-
-## Lean
-
-- [lean-dojo/LeanDojo](https://github.com/lean-dojo/LeanDojo): Tool for data extraction and interacting with Lean programmatically. <https://leandojo.org>
-- [ImperialCollegeLondon/group-theory-game](https://github.com/ImperialCollegeLondon/group-theory-game): Building group theory from scratch in Lean
-- [leanprover/cslib](https://github.com/leanprover/cslib): The Lean Computer Science Library (CSLib) <https://www.cslib.io/>
 
 ## Misc
 

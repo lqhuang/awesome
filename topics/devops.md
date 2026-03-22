@@ -615,6 +615,7 @@ Archived or outdated but still useful
   - [Welcome to Peli's Agent Factory | GitHub Agentic Workflows](https://github.github.com/gh-aw/blog/2026-01-12-welcome-to-pelis-agent-factory/): It's basically a candy shop chocolate factory of agentic workflows.
 - [microsoft/GitHubCopilotLicenseAssignment](https://github.com/microsoft/GitHubCopilotLicenseAssignment): Disclaimer: this GitHub Repository will not assign you a GitHub Copilot License. This repository is a template to enable a self-service solution to automate the process of assigning GitHub Copilot licenses in your GitHub organization. You can check the following repository as an example using this solution: <https://github.com/DevExpGbb/GitHubCopilotLicenseAssignment>
 - [gh:anthropics/claude-code-action](https://github.com/anthropics/claude-code-action): No description, website, or topics provided.
+- [gh:reproducible-containers/buildkit-cache-dance](https://github.com/reproducible-containers/buildkit-cache-dance): Save `RUN --mount=type=cache` caches on GitHub Actions (Forked from https://github.com/overmindtech/buildkit-cache-dance)
 
 ### GitHub Action Runner
 

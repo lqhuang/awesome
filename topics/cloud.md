@@ -129,6 +129,9 @@
 - [google/go-containerregistry](https://github.com/google/go-containerregistry): Go library and CLIs for working with container registries
   - Provide: `crane`, `gcrane`, `krane`, etc.
 - [gh:windymelt/comport](https://github.com/windymelt/comport): Docker Compose worktree port assigner: randomize port to avoid collision between worktree
+- 🌟 [gh:GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib): 🏗 Build container images for your Java applications.
+  - [gh:GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions)
+- 🌟 [gh:reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci): diff for Docker and OCI container images
 
 #### Filesystem
 

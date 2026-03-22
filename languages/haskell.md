@@ -193,6 +193,7 @@
 - [kazu-yamamoto/http2](https://github.com/kazu-yamamoto/http2): HTTP/2.0 library including HPACK
 - [kazu-yamamoto/quic](https://github.com/kazu-yamamoto/quic): IETF QUIC library in Haskell
 - [iand675/sofetch](https://github.com/iand675/sofetch): Automatic batching and deduplication of concurrent data fetches for Haskell
+- [gh:freizl/hoauth2](https://github.com/freizl/hoauth2): Haskell oauth2 binding
 
 ## Clients
 
