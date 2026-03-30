@@ -316,6 +316,7 @@
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead): Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。 <https://fluent.thinkstu.com>
 - 🌟 [Refactoring English](https://refactoringenglish.com/): Effective writing for software developers
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file): Direct File <https://directfile.irs.gov>
+- 🌟 [技术语境中那些熟悉又陌生的英语动词 - neverland](https://hsu.cy/2025/12/interesting-verbs-in-computing/)
 
 ## Open Source Software: State, Progress and Future
 

@@ -247,6 +247,7 @@ Specific
   - highlight: pattern matching / integrable with `hono`
   - [ArkType Docs: Match](https://arktype.io/docs/match): Optimized runtime validation for TypeScript syntax
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv): The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927) <https://ajv.js.org>
+- 🌟 [gh:ata-core/ata-validator](https://github.com/ata-core/ata-validator): Ultra-fast JSON Schema validator powered by simdjson. 2,067x faster compilation, 793x faster first validation, ReDoS-immune (RE2). Lazy compilation + schema cache. Standard Schema V1. <https://ata-validator.com>
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct): A simple and composable way to validate data in JavaScript (and TypeScript). <https://docs.superstructjs.org/>
 - [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation
 - [tskj/typescript-json-decoder](https://github.com/tskj/typescript-json-decoder): Json Decoder for Typescript

@@ -56,6 +56,7 @@
 - [law-chain-hot/websocket-devtools](https://github.com/law-chain-hot/websocket-devtools): Complete WebSocket Traffic Control with advanced proxy, simulation, and blocking capabilities | 专业的 WebSocket 调试工具，提供监控、消息模拟和流量拦截等功能 <https://websocket-devtools.com>
 - 🌟 [bjesus/pipet](https://github.com/bjesus/pipet): Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [alexvcasillas/curl-runner](https://github.com/alexvcasillas/curl-runner): curl-runner monorepo - CLI tool and documentation <https://curl-runner.com>
+- [HTTP Cats](https://http.cat/): An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
 
 #### Benchmark
 

@@ -456,6 +456,8 @@ Media player
 - https://player.style/
 - 🌟 [cookpete/react-player](https://github.com/cookpete/react-player): A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion <https://cookpete.github.io/react-player>
 - [ibrahimcesar/react-lite-youtube-embed](https://github.com/ibrahimcesar/react-lite-youtube-embed): 📺 < A private by default, faster and cleaner YouTube embed component for React applications /> <https://ibrahimcesar.github.io/react-lite-youtube-embed/>
+- 🌟 [gh:videojs/v10](https://github.com/videojs/v10): [Beta] Video.js v10 - open source media player framework for Web and React. <https://videojs.org>
+  - [Video.js v10 Beta: Hello, World (again) | Blog](https://videojs.org/blog/videojs-v10-beta-hello-world-again)
 
 Spinners
 
@@ -512,6 +514,13 @@ Markdown
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown): ✨ A Markdown Editor <https://github.com/Tencent/cherry-markdown/wiki>
 - [vercel/streamdown](https://github.com/vercel/streamdown): A drop-in replacement for react-markdown, designed for AI-powered streaming. <https://streamdown.ai/>
 
+Email
+
+- [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build and send emails using React <https://react.email>
+  - [inboundemail/react-email-templates](https://github.com/inboundemail/react-email-templates): High quality, reusable email templates build on react-email. <https://react-email-templates-eight.vercel.app>
+  - [arikchakma/maily.to](https://github.com/arikchakma/maily.to): Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. <https://maily.to>
+- [gh:unmta/emailmd](https://github.com/unmta/emailmd): Render markdown into email-safe HTML <https://www.emailmd.dev/>
+
 Misc
 
 - [vercel/satori](https://github.com/vercel/satori): Enlightened library to convert HTML and CSS to SVG <https://og-playground.vercel.app/>
@@ -532,9 +541,6 @@ Misc
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words): React component to highlight words within a larger body of text <https://bvaughn.github.io/react-highlight-words/>
 - [glidejs/glide](https://github.com/glidejs/glide): A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more <https://glidejs.com>
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu): 🍔 An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations <http://negomi.github.io/react-burger-menu/>
-- [resendlabs/react-email](https://github.com/resendlabs/react-email): 💌 Build and send emails using React <https://react.email>
-  - [inboundemail/react-email-templates](https://github.com/inboundemail/react-email-templates): High quality, reusable email templates build on react-email. <https://react-email-templates-eight.vercel.app>
-  - [arikchakma/maily.to](https://github.com/arikchakma/maily.to): Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. <https://maily.to>
 - [wipeautcrafter/jsfontpicker](https://github.com/wipeautcrafter/jsfontpicker): An open source, free (as in beer), versatile, flexible and lightweight Javascript Font Picker Component for System fonts, Google fonts and custom (woff/ttf) fonts. Features dynamic font loading, favourites, keyboard navigation, fuzzy search, advanced metrics filters, property sorting and much more. Available in multiple languages. <https://jsfontpicker.com/>
 - [talyssonoc/react-katex](https://github.com/talyssonoc/react-katex): Display math in TeX with KaTeX and ReactJS
   - great but no longer maintained

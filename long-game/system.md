@@ -137,6 +137,16 @@
 - [google/riegeli](https://github.com/google/riegeli): Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.
 - [evanw/kiwi](https://github.com/evanw/kiwi): A schema-based binary format for efficiently encoding trees of data <http://evanw.github.io/kiwi/>
 
+## Compression
+
+- [google/brotli](https://github.com/google/brotli): Brotli compression format
+- [gh:google/snappy](https://github.com/google/snappy): A fast compressor/decompressor <https://github.com/google/snappy>
+- [madler/pigz](https://github.com/madler/pigz): A parallel implementation of gzip for modern multi-processor, multi-core machines. <http://zlib.net/pigz>
+- [Blosc/c-blosc2](https://github.com/Blosc/c-blosc2): A fast, compressed, persistent binary data store library for C. <https://www.blosc.org>
+- [gh:hellobertrand/zxc](https://github.com/hellobertrand/zxc): High-performance asymmetric lossless compression. 40%+ faster decompression than LZ4 on ARM64 with better compression ratios. Optimized for Game Assets, Firmware & App Bundles.
+- [inikep/lzbench](https://github.com/inikep/lzbench): lzbench is an in-memory benchmark of open-source compressors
+- [manjaroman2/compression_algo_comparision](https://github.com/manjaroman2/compression_algo_comparision): LZTURBO vs ZSTD vs BROTLI vs LZMA vs ZPAQ
+
 ## Performance profile / tracing
 
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool

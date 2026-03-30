@@ -238,18 +238,13 @@ And modern is here now.
 
 ## System programming
 
-- [google/brotli](https://github.com/google/brotli): Brotli compression format
 - [google/double-conversion](https://github.com/google/double-conversion): Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
-- [madler/pigz](https://github.com/madler/pigz): A parallel implementation of gzip for modern multi-processor, multi-core machines. <http://zlib.net/pigz>
-- [Blosc/c-blosc2](https://github.com/Blosc/c-blosc2): A fast, compressed, persistent binary data store library for C. <https://www.blosc.org>
 - [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
 - [floooh/sokol](https://github.com/floooh/sokol): minimal cross-platform standalone C headers <https://floooh.github.io/sokol-html5>
 - [gh:tsoding/nob.h](https://github.com/tsoding/nob.h): Header only library for writing build recipes in C.
 - [gh:tsoding/arena](https://github.com/tsoding/arena): Arena Allocator implementation in pure C as an stb-style single-file library.
 - [libffi/libffi](https://github.com/libffi/libffi): A portable foreign-function interface library. <http://sourceware.org/libffi>
 - [lemire/rollinghashcpp](https://github.com/lemire/rollinghashcpp): Rolling Hash C++ Library
-- [manjaroman2/compression_algo_comparision](https://github.com/manjaroman2/compression_algo_comparision): LZTURBO vs ZSTD vs BROTLI vs LZMA vs ZPAQ
-- [inikep/lzbench](https://github.com/inikep/lzbench): lzbench is an in-memory benchmark of open-source compressors
 - [graphitemaster/detour](https://github.com/graphitemaster/detour): A detour through the Linux dynamic linker
 - [srht:~jprotopopov/kefir](https://sr.ht/~jprotopopov/kefir/): : C17/C23 compiler implementation from scratch
 - z-libs:
@@ -409,6 +404,7 @@ And modern is here now.
 - [halide/Halide](https://github.com/halide/Halide): a language for fast, portable data-parallel computation <https://halide-lang.org>
 - [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS): OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. <http://www.openblas.net>
 - [kokkos/kokkos](https://github.com/kokkos/kokkos): Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction <https://kokkos.org>
+- [gh:jfalcou/eve](https://github.com/jfalcou/eve): Expressive Vector Engine - SIMD in C++ Goes Brrrr <https://jfalcou.github.io/eve/>
 
 ## Compiler beyond default Clang
 

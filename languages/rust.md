@@ -48,6 +48,7 @@
 - [rewrite-bigdata-in-rust/RBIR](https://github.com/rewrite-bigdata-in-rust/RBIR): No description, website, or topics provided.
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies): Analysis of various tricky Rust code
 - 🌟 [Elements of Rust – Core Types and Traits](https://rustcurious.com/elements/): A complete map of the Rust type system
+- [gh:microsoft/RustTraining](https://github.com/microsoft/RustTraining): Beginner, advanced, expert level Rust training material
 
 ## Build
 

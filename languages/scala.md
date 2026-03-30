@@ -30,7 +30,6 @@
 - [Abdullahsab3/scala-native-intro](https://github.com/Abdullahsab3/scala-native-intro): A Gentle Introduction to Scala Native
 - [How to Improve JVM-Based Application Startup Time?](https://softwaremill.com/how-to-improve-jvm-based-application-startup-time/): This blog post compares different approaches to speeding up JVM startup time.
 - [softwaremill/scalatimes](https://github.com/softwaremill/scalatimes): <http://scalatimes.com/>
-- [ckipp01/tooling-talks](https://github.com/ckipp01/tooling-talks): A monthly series of talks about tooling. <https://www.tooling-talks.com>
 - [Recommended Scalac Flags for 2.12](https://tpolecat.github.io/2017/04/25/scalac-flags.html)
   - Updated 10-May-2017
 - [A solid checklist for configuring new Scala projects](https://softwaremill.com/new-scala-project-checklist/): Important settings and practices worth considering to enrich your builds or enhance the development process. Some of these points are a good fit for templates.
@@ -43,6 +42,11 @@
 - [Blog of Red Hat App Services Performance Team](https://redhatperf.github.io/)
 - [Project Amber](https://openjdk.org/projects/amber/)
 - [Tag: Performance – Inside.java](https://inside.java/tag/performance)
+
+### Talks
+
+- [gh:ckipp01/tooling-talks](https://github.com/ckipp01/tooling-talks): A monthly series of talks about tooling. <https://www.tooling-talks.com>
+- [gh:rcardin/scalar-2026](https://github.com/rcardin/scalar-2026): Material for my talk at the Scalar 2026 conference
 
 ### Exercises
 
@@ -235,6 +239,7 @@
 - [mthmulders/mcs](https://github.com/mthmulders/mcs): Search the Maven Central Repository from your command line! <https://maarten.mulders.it/projects/mcs/>
 - [kordamp/jarviz](https://github.com/kordamp/jarviz): ☕️ JAR file analyzer
 - [ASSERT-KTH/depclean](https://github.com/ASSERT-KTH/depclean): DepClean automatically detects and removes unused dependencies in Maven projects <https://dx.doi.org/10.1007/s10664-020-09914-8>
+- [gh:nguyenyou/scalex](https://github.com/nguyenyou/scalex): Scala code intelligence for coding agents. Zero Build Server. Zero Compilation. Just answers. <https://nguyenyou.github.io/scalex/>
 
 ## Cross platforms
 
@@ -266,6 +271,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [indoorvivants/sn-bindgen](https://github.com/indoorvivants/sn-bindgen): Scala 3 native binding generator + libclang facade <https://sn-bindgen.indoorvivants.com>
   - [indoorvivants/sn-bindgen-examples](https://github.com/indoorvivants/sn-bindgen-examples): Examples of using Scala 3 Native to interop with various C libraries using sn-bindgen
   - [indoorvivants/sn-bindgen-web](https://github.com/indoorvivants/sn-bindgen-web): Web interface to sn-bindgen (https://sn-bindgen.indoorvivants.com/) to generate Scala 3 Native bindings to C header files <https://sn-bindgen-web.indoorvivants.com/>
+- [gh:indoorvivants/sn-sizer](https://github.com/indoorvivants/sn-sizer): Break down the size of a Scala Native binary
 
 ### Scala.js
 
@@ -374,6 +380,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [gh:aeron-io/aeron](https://github.com/aeron-io/aeron): Efficient reliable UDP unicast, UDP multicast, and IPC message transport <https://aeron.io>
   - 🌟 [gh:aeron-io/agrona](https://github.com/aeron-io/agrona): High Performance data structures and utility methods for Java
   - [gh:aeron-io/aeron/wiki/Best-Practices-Guide](https://github.com/aeron-io/aeron/wiki/Best-Practices-Guide)
+- [gh:bishabosha/scala-object-notation](https://github.com/bishabosha/scala-object-notation): SCON files use Scala's syntax to format data
 
 ### Logging and Observability
 
