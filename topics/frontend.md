@@ -724,6 +724,10 @@ Concrete animations
   - [Partytown: Optimize Third Party Scripts with Web Workers | DebugBear](https://www.debugbear.com/blog/partytown-web-workers): Third-party resources often weigh down websites and can be tricky to fine-tune for performance. Learn how to use web workers and Partytown to improve your page speed.
 - 🌟 [unjs/ipx](https://github.com/unjs/ipx): 🖼️ High performance, secure and easy-to-use image optimizer.
 - [SukkaW/fooldevs](https://github.com/SukkaW/fooldevs): Trick Wappalyzer into misidentifying web technologies used on your websites
+- [gh:chenglou/pretext](https://github.com/chenglou/pretext)
+  - [gh:razroo/textura](https://github.com/razroo/textura): Pretext x Yoga = Textura. DOM-free layout engine for the web <https://razroo.github.io/textura>
+  - [gh:lucascrespo23/pinch-type](https://github.com/lucascrespo23/pinch-type): Pinch to zoom text, not the page. Built on @chenglou/pretext.
+- [gh:nicbarker/clay](https://github.com/nicbarker/clay): High performance UI layout library in C. <https://nicbarker.com/clay>
 
 ## W3C
 
