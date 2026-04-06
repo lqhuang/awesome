@@ -240,6 +240,8 @@
 - [kordamp/jarviz](https://github.com/kordamp/jarviz): ☕️ JAR file analyzer
 - [ASSERT-KTH/depclean](https://github.com/ASSERT-KTH/depclean): DepClean automatically detects and removes unused dependencies in Maven projects <https://dx.doi.org/10.1007/s10664-020-09914-8>
 - [gh:nguyenyou/scalex](https://github.com/nguyenyou/scalex): Scala code intelligence for coding agents. Zero Build Server. Zero Compilation. Just answers. <https://nguyenyou.github.io/scalex/>
+- [gh:VirtusLab/cellar](https://github.com/VirtusLab/cellar): CLI tool for coding agents and developers to query the public API of any Maven JVM dependency — get symbol signatures, list packages, search by name, and inspect dependency trees. Powered by Coursier and tasty-query.
+  - Could we also support npm and pypi 🤔
 
 ## Cross platforms
 
@@ -296,6 +298,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [ptrdom/scalajs-electron-quick-start](https://github.com/ptrdom/scalajs-electron-quick-start): electron-quick-start conversion to Scala.js
 - [linux-root/tauri-scala-desktop-app](https://github.com/linux-root/tauri-scala-desktop-app): No description, website, or topics provided.
 - [gh:reactivecore/kreuzberg](https://github.com/reactivecore/kreuzberg): ScalaJS Component System
+- [gh:scalajs-io/nodejs](https://github.com/scalajs-io/nodejs): This project provides Scala.js type-safe bindings for Node.js (current) v8.7.0 and LTS v6.11.4 APIs. The platform supports MEAN (MongoDB, Express, AngularJs, NodeJS), Cassandra, MySQL and many other npm projects.
 
 ## Featured
 
@@ -381,6 +384,7 @@ Do a benchmark (for final size while using Scala Native)?
   - 🌟 [gh:aeron-io/agrona](https://github.com/aeron-io/agrona): High Performance data structures and utility methods for Java
   - [gh:aeron-io/aeron/wiki/Best-Practices-Guide](https://github.com/aeron-io/aeron/wiki/Best-Practices-Guide)
 - [gh:bishabosha/scala-object-notation](https://github.com/bishabosha/scala-object-notation): SCON files use Scala's syntax to format data
+- 🌟 [gh:ghostdogpr/proteus](https://github.com/ghostdogpr/proteus): Code-first Protobuf and gRPC library for Scala <https://ghostdogpr.github.io/proteus/>
 
 ### Logging and Observability
 

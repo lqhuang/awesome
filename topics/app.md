@@ -40,6 +40,11 @@
 - [gh:saucer/saucer](https://github.com/saucer/saucer): 🛸 A modern, cross-platform C++ webview library <https://saucer.github.io/>
 - 🌟 [gh:webui-dev/webui](https://github.com/webui-dev/webui): Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library. <https://webui.me>
 
+Direct GUI
+
+- [gh:ocornut/imgui](https://github.com/ocornut/imgui): Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [gh:floooh/dcimgui](https://github.com/floooh/dcimgui): All in one Dear ImGui source distro for C++, C and Zig.
+
 ## React Native (cross platforms)
 
 ### Resources

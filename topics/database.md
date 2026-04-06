@@ -14,6 +14,7 @@
 - [Olshansk/postgres_for_everything](https://github.com/Olshansk/postgres_for_everything): How to reduce complexity and move faster? Just Postgres for everything.
 - [SQLBolt](https://sqlbolt.com/): SQLBolt provides a set of interactive lessons and exercises to help you learn SQL
 - 🌟 [Modern SQL: A lot has changed since SQL-92](https://modern-sql.com/): SQL has evolved. Beyond the relational model. Discover it now.
+- [The absolute beginners guide to databasemaxxing | pthorpe92.dev](https://pthorpe92.dev/databasemaxxing/): A collection of resources for database design, optimization, and best practices.
 
 ### Books
 

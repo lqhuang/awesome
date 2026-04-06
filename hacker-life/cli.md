@@ -180,6 +180,9 @@
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui): Manage your GnuPG keys with ease! 🔐 <https://blog.orhun.dev/introducing-gpg-tui/>
 - 🌟 [pamburus/hl](https://github.com/pamburus/hl): A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
 - [gh:ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil): Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks. <https://christitus.com>
+- [codeberg:dnkl/foot](https://codeberg.org/dnkl/foot): A fast, lightweight and minimalistic Wayland terminal emulator
+  - [gh:neurosnap/footty](https://github.com/neurosnap/footty): foot's wayland ui with libghostty's vt rendering
+- [codeberg:dnkl/fuzzel](https://codeberg.org/dnkl/fuzzel): App launcher and fuzzy finder for Wayland, inspired by rofi(1) and dmenu(1).
 
 ## Monitor
 

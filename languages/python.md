@@ -492,6 +492,7 @@ Misc
 - 🌟 [unum-cloud/ustore](https://github.com/unum-cloud/ustore): Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with NetworkX and Pandas interfaces, and bindings for C 99, C++ 17, Python 3, Java, GoLang 🗄️ <https://unum-cloud.github.io/ustore/>
 - 🌟 [coleifer/pysqlite3](https://github.com/coleifer/pysqlite3): SQLite3 DB-API 2.0 driver from Python 3, packaged separately, with improvements
 - [litements/litequeue](https://github.com/litements/litequeue): Queue built on top of SQLite <https://litements.polyrand.net/queue/>
+- [gh:justrach/turboAPI](https://github.com/justrach/turboAPI): FastAPI-compatible Python framework with Zig HTTP core; 7x faster, free-threading native <https://turboapi.trilok.ai>
 
 ### API clients
 

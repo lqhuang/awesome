@@ -159,6 +159,7 @@ Specific
 - [platformatic/massimo](https://github.com/platformatic/massimo): Massimo is an API SDK client and CLI tool for creating clients for remote OpenAPI or GraphQL APIs <https://massimohttp.dev>
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack): A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations <https://better-t-stack.dev>
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks): 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
+- [gh:npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev): a fast, modern browser for the npm registry <https://npmx.dev>
 
 ### Modernize
 
@@ -407,6 +408,7 @@ Specific
 - [elbywan/wretch](https://github.com/elbywan/wretch): A tiny wrapper built around fetch with an intuitive syntax. 🍬
 - 🌟 [JCMais/node-libcurl](https://github.com/JCMais/node-libcurl): libcurl bindings for Node.js <https://npmjs.org/package/node-libcurl>
 - [gh:thisiskps/fetch-network-simulator](https://github.com/thisiskps/fetch-network-simulator): fetch-network-simulator <https://www.npmjs.com/package/fetch-network-simulator>
+- [gh:Netflix/falcor](https://github.com/Netflix/falcor): A JavaScript library for efficient data fetching <http://netflix.github.io/falcor>
 
 ### Clients
 

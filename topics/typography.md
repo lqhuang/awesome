@@ -20,6 +20,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 ## Fonts
 
 - [rsms/inter](https://github.com/rsms/inter): The Inter font family <https://rsms.me/inter/>
+  - [gh:lauridskern/open-runde](https://github.com/lauridskern/open-runde): A soft, rounded variant of Inter
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka): Versatile typeface for code, from code. <http://be5invis.github.io/Iosevka>
 - [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic): Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 - [iaolo/iA-Fonts](https://github.com/iaolo/iA-Fonts): Free variable writing fonts from iA <https://ia.net>

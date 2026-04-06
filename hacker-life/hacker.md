@@ -329,3 +329,4 @@
 - 🌟 [jonschlinkert/maintainers-guide-to-staying-positive](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive): Don't let the trolls get you down! Use this as a reference to avoid open-source burnout and keep doing what you love: writing code! Contributions and any kind of improvements are very welcome! <https://github.com/jonschlinkert>
 - 🌟 [Building competency is better than therapy](https://world.hey.com/dhh/building-competency-is-better-than-therapy-4622c6b7)
 - [The Inevitability of Mixing Open Source and Money | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2024/10/14/mixing-oss-and-money/): Thoughts on funding maintainers through the pledge
+- [Liberapay](https://liberapay.com/): We help you fund the creators and projects you appreciate.

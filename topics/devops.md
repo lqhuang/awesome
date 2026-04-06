@@ -47,6 +47,7 @@
 - [kainctl/isd](https://github.com/kainctl/isd): isd (interactive systemd) – a better way to work with systemd units <https://kainctl.github.io/isd/>
 - [testingisdocumenting/webtau](https://github.com/testingisdocumenting/webtau): WebTau (web test automation) is a testing API, command line tool and a framework to write unit, integration and end-to-end tests. Test across REST-API, WebSocket, GraphQL, Browser, Database, CLI and Business Logic with a consistent set of matchers and concepts. REPL mode speeds-up tests development. Rich reporting cuts down investigation time. <https://testingisdocumenting.org/webtau/>
 - [gh:neoascetic/rawgithack](https://github.com/neoascetic/rawgithack): Serves files from github, bitbucket and gitlab, but with the correct content types <https://raw.githack.com>
+- [gh:runmedev/runme](https://github.com/runmedev/runme): DevOps Notebooks Built with Markdown <https://runme.dev>
 
 ### Misc linters / formatters
 
@@ -149,6 +150,8 @@
 - [bazeltools/bazelfe](https://github.com/bazeltools/bazelfe): Set of tools to handle errors/work with bazel invocations
 - [bazeltools/bazel-deps](https://github.com/bazeltools/bazel-deps): Generate bazel dependencies for maven artifacts
 - 🌟 [gh:EngFlow/bazel_invocation_analyzer](https://github.com/EngFlow/bazel_invocation_analyzer): A tool that automatically analyzes a Bazel build's profile and offers suggestions on how to make it faster. <https://analyzer.engflow.com>
+- [gh:aspect-build/rules_lint](https://github.com/aspect-build/rules_lint): Run static analysis tools with Bazel <https://registry.bazel.build/docs/aspect_rules_lint>
+  - multiple langs
 
 gazelle
 
@@ -208,6 +211,16 @@ Python
 - [abrisco/rules_pyo3](https://github.com/abrisco/rules_pyo3): Bazel rules for PyO3 <https://abrisco.github.io/rules_pyo3/>
   - [liningpan/pyo3-bazel-example](https://github.com/liningpan/pyo3-bazel-example)
 - [nicholasjng/nanobind-bazel](https://github.com/nicholasjng/nanobind-bazel): Bazel defs and rules for building Python projects with nanobind extensions.
+
+JavaScript / Nodejs
+
+- [gh:bazel-contrib/rules_nodejs](https://github.com/bazel-contrib/rules_nodejs): NodeJS toolchain for Bazel. <https://registry.bazel.build/docs/rules_nodejs>
+  - [bcr:rules_nodejs](https://registry.bazel.build/modules/rules_nodejs/6.7.3)
+- [gh:aspect-build/rules_js](https://github.com/aspect-build/rules_js): High-performance Bazel rules for running Node.js tools and building JavaScript projects <https://docs.aspect.build/bazel/javascript>
+  - based on the pnpm package manager.
+  - [bcr:aspect_rules_js](https://registry.bazel.build/modules/aspect_rules_js)
+- [gh:aspect-build/rules_ts](https://github.com/aspect-build/rules_ts): Bazel rules for the `tsc` compiler from http://typescriptlang.org
+- [gh:aspect-build/rules_swc](https://github.com/aspect-build/rules_swc): Bazel rules for the swc toolchain https://swc.rs/
 
 Scala
 
@@ -616,6 +629,7 @@ Archived or outdated but still useful
 - [microsoft/GitHubCopilotLicenseAssignment](https://github.com/microsoft/GitHubCopilotLicenseAssignment): Disclaimer: this GitHub Repository will not assign you a GitHub Copilot License. This repository is a template to enable a self-service solution to automate the process of assigning GitHub Copilot licenses in your GitHub organization. You can check the following repository as an example using this solution: <https://github.com/DevExpGbb/GitHubCopilotLicenseAssignment>
 - [gh:anthropics/claude-code-action](https://github.com/anthropics/claude-code-action): No description, website, or topics provided.
 - [gh:reproducible-containers/buildkit-cache-dance](https://github.com/reproducible-containers/buildkit-cache-dance): Save `RUN --mount=type=cache` caches on GitHub Actions (Forked from https://github.com/overmindtech/buildkit-cache-dance)
+- [gh:lfreleng-actions/go-httpbin-action](https://github.com/lfreleng-actions/go-httpbin-action): Creates a go-httpbin service within GitHub to act as a local testing endpoint
 
 ### GitHub Action Runner
 

@@ -36,3 +36,4 @@
 - [omg.lol - A lovable web page and email address, just for you](https://home.omg.lol/): Treat yourself to an awesome web address, a devastatingly gorgeous profile page, a stellar email address, and tons more
 - [odoo/odoo](https://github.com/odoo/odoo): Odoo. Open Source Apps To Grow Your Business. <https://www.odoo.com>
 - [Deep-ai-inc/ch.at](https://github.com/Deep-ai-inc/ch.at): Universal Basic Chat
+- [gh:flo-bit/blento](https://github.com/flo-bit/blento): your bento style website with data hosted on your bluesky PDS, svelte/tailwind <https://blento.app>

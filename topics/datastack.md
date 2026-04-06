@@ -63,6 +63,7 @@
 - [xorq-labs/xorq](https://github.com/xorq-labs/xorq): deferred computational framework for multi-engine pipelines <https://docs.xorq.dev>
 - [lakehq/sail](https://github.com/lakehq/sail): LakeSail's computation framework with a mission to unify batch processing, stream processing, and compute-intensive AI workloads. <https://lakesail.com>
 - [snowplow/snowplow](https://github.com/snowplow/snowplow): The leader in Customer Data Infrastructure <https://snowplow.io>
+- [gh:dataflint/spark](https://github.com/dataflint/spark): Drop-in replacement for Apache Spark UI <https://www.dataflint.io>
 
 ## Visualize frontend / BI
 

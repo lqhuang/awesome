@@ -96,6 +96,7 @@
 - [dhall-lang/dhall-haskell](https://github.com/dhall-lang/dhall-haskell): Maintainable configuration files <https://dhall-lang.org>
 - [well-typed/haskell-debugger](https://github.com/well-typed/haskell-debugger): A modern step-through debugger for GHC Haskell <https://well-typed.github.io/haskell-debugger>
 - [nalchevanidze/hwm](https://github.com/nalchevanidze/hwm): HWM(Haskell Workspace Manager): is a declarative CLI tool for managing Haskell monorepos.
+- [gh:tfausak/cabal-gild](https://github.com/tfausak/cabal-gild): 👑 Format Haskell package descriptions. <https://hackage.haskell.org/package/cabal-gild>
 
 ## Testing
 

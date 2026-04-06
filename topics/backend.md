@@ -57,6 +57,7 @@
 - 🌟 [bjesus/pipet](https://github.com/bjesus/pipet): Swiss-army tool for scraping and extracting data from online assets, made for hackers
 - [alexvcasillas/curl-runner](https://github.com/alexvcasillas/curl-runner): curl-runner monorepo - CLI tool and documentation <https://curl-runner.com>
 - [HTTP Cats](https://http.cat/): An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
+- [gh:Redocly/redoc](https://github.com/Redocly/redoc): 📘 OpenAPI/Swagger-generated API Reference Documentation <https://redocly.github.io/redoc/>
 
 #### Benchmark
 
@@ -198,6 +199,12 @@
   - [Baccata/smithy4s-deriving](https://github.com/Baccata/smithy4s-deriving): No description, website, or topics provided.
   - [foldables-io/conductor](https://github.com/foldables-io/conductor): Type-safe middleware for Smithy4s
   - [keynmol/jobby](https://github.com/keynmol/jobby): Smithy4s (Scala + Scala.js) full-stack application <https://blog.indoorvivants.com/tags/series:smithy4s>
+
+## Serialization Protocl
+
+- [gh:capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto serialization/RPC system - core tools and C++ library <https://capnproto.org>
+- [gh:google/riegeli](https://github.com/google/riegeli): Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.
+- [gh:evanw/kiwi](https://github.com/evanw/kiwi): A schema-based binary format for efficiently encoding trees of data <http://evanw.github.io/kiwi/>
 
 ## RPC System
 

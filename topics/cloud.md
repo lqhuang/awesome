@@ -466,6 +466,7 @@ Type 1 hypervisors
 - [anchore/syft](https://github.com/anchore/syft): CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence): Local development against a remote Kubernetes or OpenShift cluster <https://www.telepresence.io>
 - [educates/educates-training-platform](https://github.com/educates/educates-training-platform): A platform for hosting interactive workshop environments in Kubernetes, or on top of a local container runtime. <https://educates.dev>
+- 🌟 [gh:yonahd/kor](https://github.com/yonahd/kor): A Golang Tool to discover unused Kubernetes Resources
 
 ## Hashicorp
 

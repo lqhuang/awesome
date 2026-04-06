@@ -105,6 +105,7 @@
 - 🌟 [gh:tectonic-typesetting/tectonic](https://github.com/tectonic-typesetting/tectonic): A modernized, complete, self-contained TeX/LaTeX engine, powered by XeTeX and TeXLive. <https://tectonic-typesetting.github.io/>
 - 🌟 [gh:latex-lsp/texlab/wiki/Tectonic](https://github.com/latex-lsp/texlab/wiki/Tectonic): An implementation of the Language Server Protocol for LaTeX
 - [gh:domdomegg/gdoc2latex-gui](https://github.com/domdomegg/gdoc2latex-gui): 🌐 🔀 📝 Web interface for gdoc2latex <https://adamjones.me/gdoc2latex-gui/>
+- [gh:ayaka-notes/texlive-full](https://github.com/ayaka-notes/texlive-full): 🐳 TeXLive-Full in Docker (Specially For Overleaf CEP/Pro) <https://overleaf-pro.ayaka.space/texlive>
 
 ### Latex Templates
 

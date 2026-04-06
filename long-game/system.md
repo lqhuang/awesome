@@ -41,6 +41,10 @@
 - 🌟 [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook/)
 - [Glibc Heap Internals](https://www.deep-kondah.com/glibc-heap-internals/)
 - [gh:labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney): Courses and lesson content for linuxjourney.com <https://linuxjourney.com/>
+- ["The Unix-Haters Handbook" WWW Page](https://web.archive.org/web/20210507143515/http://homes.cs.washington.edu/~weise/unix-haters.html)
+  - [Unix 痛恨者手册中文版 | FreeBSD 中文社区](https://book.bsdcn.org/wen-zhang/unix-tong-hen-zhe-shou-ce)
+- 🌟 [Memory Management Reference](https://www.memorymanagement.org/index.html): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
+- [Putting the "You" in CPU](https://cpu.land/): Curious exactly what happens when you run a program on your computer? Learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
 
 ## Compiler
 
@@ -71,6 +75,7 @@
 - [ziglang/libc-abi-tools](https://github.com/ziglang/libc-abi-tools): A repository that collects libc ABI files for multiple versions and a tool to combine them into one dataset.
 - [sourceware:libabigail](https://sourceware.org/git/libabigail.git): The Git repository of the Libabigail Project
   - [libabigail: The ABI Generic Analysis and Instrumentation Library](https://sourceware.org/libabigail/)
+- [PVS‑Studio is a solution to enhance code quality, security (SAST), and safety](https://pvs-studio.com/en/): A static analyzer for C, C++, C#, and Java code. Works on Windows, Linux, and macOS. Analyzes code for 32-bit, 64-bit, and ARM embedded platforms.
 
 ## Memory allocator
 
@@ -131,21 +136,15 @@
 - [DavidVentura/ebpf.party](https://github.com/DavidVentura/ebpf.party): Code for ebpf.party <https://ebpf.party/>
 - [tw4452852/zbpf](https://github.com/tw4452852/zbpf): Writing eBPF in Zig
 
-## Serialization Protocl
-
-- [capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto serialization/RPC system - core tools and C++ library <https://capnproto.org>
-- [google/riegeli](https://github.com/google/riegeli): Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.
-- [evanw/kiwi](https://github.com/evanw/kiwi): A schema-based binary format for efficiently encoding trees of data <http://evanw.github.io/kiwi/>
-
 ## Compression
 
-- [google/brotli](https://github.com/google/brotli): Brotli compression format
+- [gh:google/brotli](https://github.com/google/brotli): Brotli compression format
 - [gh:google/snappy](https://github.com/google/snappy): A fast compressor/decompressor <https://github.com/google/snappy>
-- [madler/pigz](https://github.com/madler/pigz): A parallel implementation of gzip for modern multi-processor, multi-core machines. <http://zlib.net/pigz>
-- [Blosc/c-blosc2](https://github.com/Blosc/c-blosc2): A fast, compressed, persistent binary data store library for C. <https://www.blosc.org>
+- [gh:madler/pigz](https://github.com/madler/pigz): A parallel implementation of gzip for modern multi-processor, multi-core machines. <http://zlib.net/pigz>
+- [gh:Blosc/c-blosc2](https://github.com/Blosc/c-blosc2): A fast, compressed, persistent binary data store library for C. <https://www.blosc.org>
 - [gh:hellobertrand/zxc](https://github.com/hellobertrand/zxc): High-performance asymmetric lossless compression. 40%+ faster decompression than LZ4 on ARM64 with better compression ratios. Optimized for Game Assets, Firmware & App Bundles.
-- [inikep/lzbench](https://github.com/inikep/lzbench): lzbench is an in-memory benchmark of open-source compressors
-- [manjaroman2/compression_algo_comparision](https://github.com/manjaroman2/compression_algo_comparision): LZTURBO vs ZSTD vs BROTLI vs LZMA vs ZPAQ
+- [gh:inikep/lzbench](https://github.com/inikep/lzbench): lzbench is an in-memory benchmark of open-source compressors
+- [gh:manjaroman2/compression_algo_comparision](https://github.com/manjaroman2/compression_algo_comparision): LZTURBO vs ZSTD vs BROTLI vs LZMA vs ZPAQ
 
 ## Performance profile / tracing
 

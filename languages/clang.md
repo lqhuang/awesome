@@ -124,6 +124,8 @@ And modern is here now.
 - [xmake-io/xmake](https://github.com/xmake-io/xmake): 🔥 A cross-platform build utility based on Lua <https://xmake.io>
   - lua as build script language
   - Xmake ≈ Make/Ninja + CMake/Meson + Vcpkg/Conan + distcc + ccache/sccache
+- [gh:floooh/fips](https://github.com/floooh/fips): High-level build system for distributed, multi-platform C/C++ projects.
+- [gh:floooh/fibs](https://github.com/floooh/fibs): Typescript based cmake wrapper and task runner
 
 ### Prebuilts
 
@@ -238,31 +240,33 @@ And modern is here now.
 
 ## System programming
 
-- [google/double-conversion](https://github.com/google/double-conversion): Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
-- [hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
-- [floooh/sokol](https://github.com/floooh/sokol): minimal cross-platform standalone C headers <https://floooh.github.io/sokol-html5>
+- [gh:google/double-conversion](https://github.com/google/double-conversion): Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
+- [gh:hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
+- [gh:floooh/sokol](https://github.com/floooh/sokol): minimal cross-platform standalone C headers <https://floooh.github.io/sokol-html5>
+  - [gh:floooh/sokol-zig](https://github.com/floooh/sokol-zig): Zig bindings for the sokol headers (https://github.com/floooh/sokol)
+  - [gh:floooh/sokol-samples](https://github.com/floooh/sokol-samples): Sample code for https://github.com/floooh/sokol
 - [gh:tsoding/nob.h](https://github.com/tsoding/nob.h): Header only library for writing build recipes in C.
 - [gh:tsoding/arena](https://github.com/tsoding/arena): Arena Allocator implementation in pure C as an stb-style single-file library.
-- [libffi/libffi](https://github.com/libffi/libffi): A portable foreign-function interface library. <http://sourceware.org/libffi>
-- [lemire/rollinghashcpp](https://github.com/lemire/rollinghashcpp): Rolling Hash C++ Library
-- [graphitemaster/detour](https://github.com/graphitemaster/detour): A detour through the Linux dynamic linker
-- [srht:~jprotopopov/kefir](https://sr.ht/~jprotopopov/kefir/): : C17/C23 compiler implementation from scratch
+- [gh:libffi/libffi](https://github.com/libffi/libffi): A portable foreign-function interface library. <http://sourceware.org/libffi>
+- [gh:lemire/rollinghashcpp](https://github.com/lemire/rollinghashcpp): Rolling Hash C++ Library
+- [gh:graphitemaster/detour](https://github.com/graphitemaster/detour): A detour through the Linux dynamic linker
+- [srht:jprotopopov/kefir](https://sr.ht/~jprotopopov/kefir/): : C17/C23 compiler implementation from scratch
 - z-libs:
-  - [z-libs/zrand.h](https://github.com/z-libs/zrand.h): A statistically robust, header-only PCG random number library for C/C++.
-  - [z-libs/zstr.h](https://github.com/z-libs/zstr.h): A modern, header-only string library for C/C++ using Small String Optimization (SSO) and Views.
-  - [z-libs/zlist.h](https://github.com/z-libs/zlist.h): A type-safe, header-only generic doubly linked list library for C/C++ using X-Macros.
-  - [z-libs/zfile.h](https://github.com/z-libs/zfile.h): A cross-platform, header-only file system library for C/C++ that simplifies path manipulation, file I/O, and directory traversal.
+  - [gh:z-libs/zrand.h](https://github.com/z-libs/zrand.h): A statistically robust, header-only PCG random number library for C/C++.
+  - [gh:z-libs/zstr.h](https://github.com/z-libs/zstr.h): A modern, header-only string library for C/C++ using Small String Optimization (SSO) and Views.
+  - [gh:z-libs/zlist.h](https://github.com/z-libs/zlist.h): A type-safe, header-only generic doubly linked list library for C/C++ using X-Macros.
+  - [gh:z-libs/zfile.h](https://github.com/z-libs/zfile.h): A cross-platform, header-only file system library for C/C++ that simplifies path manipulation, file I/O, and directory traversal.
 
 ## Libs
 
-- [KaHIP/KaHIP](https://github.com/KaHIP/KaHIP): KaHIP -- Karlsruhe HIGH Quality Partitioning. <https://kahip.github.io>
-- [hanickadot/shorty](https://github.com/hanickadot/shorty): No description, website, or topics provided.
-- [GNOME/libxml2](https://github.com/GNOME/libxml2): Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2 <https://gitlab.gnome.org/GNOME/libxml2>
-- [microsoft/proxy](https://github.com/microsoft/proxy): Proxy: Next Generation Polymorphism in C++ <https://microsoft.github.io/proxy/docs/specifications.html>
-- [weidai11/cryptopp](https://github.com/weidai11/cryptopp): free C++ class library of cryptographic schemes <https://cryptopp.com>
-- [flanglet/kanzi-cpp](https://github.com/flanglet/kanzi-cpp): Fast lossless data compression in C++
-- [g-truc/glm](https://github.com/g-truc/glm): OpenGL Mathematics (GLM) <https://glm.g-truc.net>
-- [skypjack/entt](https://github.com/skypjack/entt): Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more <https://github.com/skypjack/entt/wiki>
+- [gh:KaHIP/KaHIP](https://github.com/KaHIP/KaHIP): KaHIP -- Karlsruhe HIGH Quality Partitioning. <https://kahip.github.io>
+- [gh:hanickadot/shorty](https://github.com/hanickadot/shorty): No description, website, or topics provided.
+- [gh:GNOME/libxml2](https://github.com/GNOME/libxml2): Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2 <https://gitlab.gnome.org/GNOME/libxml2>
+- [gh:microsoft/proxy](https://github.com/microsoft/proxy): Proxy: Next Generation Polymorphism in C++ <https://microsoft.github.io/proxy/docs/specifications.html>
+- [gh:weidai11/cryptopp](https://github.com/weidai11/cryptopp): free C++ class library of cryptographic schemes <https://cryptopp.com>
+- [gh:flanglet/kanzi-cpp](https://github.com/flanglet/kanzi-cpp): Fast lossless data compression in C++
+- [gh:g-truc/glm](https://github.com/g-truc/glm): OpenGL Mathematics (GLM) <https://glm.g-truc.net>
+- [gh:skypjack/entt](https://github.com/skypjack/entt): Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more <https://github.com/skypjack/entt/wiki>
 - [gh:jeremy-rifkin/cpptrace](https://github.com/jeremy-rifkin/cpptrace): Simple, portable, and self-contained stacktrace library for C++11 and newer
 - [gh:aous72/OpenJPH](https://github.com/aous72/OpenJPH): Open-source implementation of JPEG2000 Part-15 (or JPH or HTJ2K)
 
