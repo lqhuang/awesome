@@ -179,6 +179,8 @@
 - 🌟 [wolfpld/tracy](https://github.com/wolfpld/tracy): Frame profiler <https://tracy.nereid.pl/>
 - [google/bloaty](https://github.com/google/bloaty): Bloaty: a size profiler for binaries
 - 🌟🌟🌟 [gh:perfwiki/main](https://github.com/perfwiki/main): perf: Linux profiling with performance counters <https://perf.wiki.kernel.org>
+- perf c2c
+  - [C2C - False Sharing Detection in Linux Perf](https://joemario.github.io/blog/2016/09/01/c2c-blog/)
 
 ## Misc
 

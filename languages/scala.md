@@ -590,6 +590,9 @@ Tracing and OpenTelemetry
 - [permutive-engineering/prometheus4cats-contrib](https://github.com/permutive-engineering/prometheus4cats-contrib): Prometheus4Cats instumentation for thrid party libaries
 - [cloudmark/cats-actors](https://github.com/cloudmark/cats-actors): Cats Actors framework for building apps which are reactive. Cats actors uses a conceptual actor model as a higher level abstraction for concurrency.
 - [buntec/ff4s](https://github.com/buntec/ff4s): A purely functional web UI library for Scala.js <https://buntec.github.io/ff4s/>
+- [gh:cloudmark/cats-actors](https://github.com/cloudmark/cats-actors): Cats Actors framework for building apps which are reactive. Cats actors uses a conceptual actor model as a higher level abstraction for concurrency.
+  - [Cats-Actors 2.1.0 Goes Cross-Platform](https://cloudmark.github.io/Cats-Actors-Native-And-JS/)
+  - [Typed Actors in Action - Exploring Cats-Actors with Alice and Bob](https://cloudmark.github.io/Cats-Actors-In-The-Wild/)
 
 fs2
 

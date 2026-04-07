@@ -48,6 +48,7 @@
 - [testingisdocumenting/webtau](https://github.com/testingisdocumenting/webtau): WebTau (web test automation) is a testing API, command line tool and a framework to write unit, integration and end-to-end tests. Test across REST-API, WebSocket, GraphQL, Browser, Database, CLI and Business Logic with a consistent set of matchers and concepts. REPL mode speeds-up tests development. Rich reporting cuts down investigation time. <https://testingisdocumenting.org/webtau/>
 - [gh:neoascetic/rawgithack](https://github.com/neoascetic/rawgithack): Serves files from github, bitbucket and gitlab, but with the correct content types <https://raw.githack.com>
 - [gh:runmedev/runme](https://github.com/runmedev/runme): DevOps Notebooks Built with Markdown <https://runme.dev>
+- [Understand: The Software Developer's Multi-Tool](https://scitools.com/): Understand by SciTools is a software development tool that allows you to perform static code analysis, edit and refactor code, view dependency graphs, see useful metrics, and comply with AUTOSAR and MISRA.
 
 ### Misc linters / formatters
 
@@ -57,17 +58,15 @@
 - [textlint/textlint](https://github.com/textlint/textlint): The pluggable natural language linter for text and markdown. <https://textlint.github.io/>
 - [errata-ai/vale](https://github.com/errata-ai/vale): 📝 A markup-aware linter for prose built with speed and extensibility in mind. <https://vale.sh>
 - [amperser/proselint](https://github.com/amperser/proselint): A linter for prose. <http://proselint.com>
-- [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
+- 🌟 [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff): A compact, high-speed SQL linter, engineered with Rust efficiency. <https://quary.dev/>
 - 🌟 [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A modular SQL linter and auto-formatter with support for multiple dialects and templated code. <https://www.sqlfluff.com>
-- [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
 - [chrisbottin/xml-formatter](https://github.com/chrisbottin/xml-formatter): Converts XML into a human readable format (pretty print) while respecting the `xml:space` attribute.
 - 🌟 [elijah-potter/harper](https://github.com/elijah-potter/harper): The Grammar Checker for Developers <https://writewithharper.com>
 - [rrthomas/enchant](https://github.com/rrthomas/enchant): enchant spellchecking library <http://rrthomas.github.io/enchant/>
   - [pyenchant/pyenchant](https://github.com/pyenchant/pyenchant): spellchecking library for python <https://pyenchant.github.io/pyenchant/>
 - 🌟 [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect): A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). <https://huacnlee.github.io/autocorrect>
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint): An extremely fast directory and filename linter - Bring some structure to your project filesystem <https://ls-lint.org>
-- [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
 - [codacy](https://github.com/codacy): Codacy helps to build effortless code quality and security for developers. Build clean, secure code efficiently and fearlessly with Codacy.
 - [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged): 🚫💩 — Run tasks like formatters and linters against staged git files <https://www.npmjs.com/package/lint-staged>
 - [dqbd/ts-math-evaluate](https://github.com/dqbd/ts-math-evaluate): Type-level math expression evaluator for TypeScript. <https://ts-math-evaluate.vercel.app/>
@@ -76,6 +75,7 @@
 - [un-ts/prettier/tree/master/packages/sh](https://github.com/un-ts/prettier/tree/master/packages/sh):
 - [hukkin/mdformat](https://github.com/hukkin/mdformat): CommonMark compliant Markdown formatter <https://mdformat.rtfd.io>
 - [hukkin/mdformat-shfmt](https://github.com/hukkin/mdformat-shfmt): Mdformat plugin to format shell code blocks
+- [gh:rvben/rumdl](https://github.com/rvben/rumdl): Fast Markdown linter and formatter written in Rust
 
 ### Reproducibility
 
@@ -630,6 +630,7 @@ Archived or outdated but still useful
 - [gh:anthropics/claude-code-action](https://github.com/anthropics/claude-code-action): No description, website, or topics provided.
 - [gh:reproducible-containers/buildkit-cache-dance](https://github.com/reproducible-containers/buildkit-cache-dance): Save `RUN --mount=type=cache` caches on GitHub Actions (Forked from https://github.com/overmindtech/buildkit-cache-dance)
 - [gh:lfreleng-actions/go-httpbin-action](https://github.com/lfreleng-actions/go-httpbin-action): Creates a go-httpbin service within GitHub to act as a local testing endpoint
+- [gh:pnpm/action-setup](https://github.com/pnpm/action-setup): Install pnpm package manager <https://github.com/marketplace/actions/setup-pnpm>
 
 ### GitHub Action Runner
 

@@ -95,6 +95,7 @@
   - [Paul Miller — iOS 14, Big Sur and DNS over HTTPS](https://paulmillr.com/posts/encrypted-dns/): Paul Miller. I make projects which help developers to build awesome things
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping): Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [mkirchner/tcping](https://github.com/mkirchner/tcping): Check if a desired port is reachable via TCP
+- [gh:kbandla/dpkt](https://github.com/kbandla/dpkt): fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
 
 ### Analysis
 

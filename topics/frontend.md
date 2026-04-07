@@ -360,6 +360,7 @@ Interactive Grid
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js): Build interactive dashboards in minutes. <https://gridstackjs.com/>
 - [nomcopter/react-mosaic](https://github.com/nomcopter/react-mosaic): A React tiling window manager <https://nomcopter.github.io/react-mosaic/>
 - [glen-cheney/Shuffle](https://github.com/glen-cheney/Shuffle): Categorize, sort, and filter a responsive grid of items <https://shuffle.js.org>
+- [gh:revolist/revogrid](https://github.com/revolist/revogrid): Powerful virtual data table smartsheet with advanced customization. Best features from excel plus incredible performance 🔋 <https://rv-grid.com>
 
 Mention
 
@@ -374,6 +375,7 @@ Rough Notation
   - [linkstrifer/react-rough-notation](https://github.com/linkstrifer/react-rough-notation): React wrapper for rough-notation <https://www.npmjs.com/package/react-rough-notation>
 - [jwilber/roughViz](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. <https://www.jwilber.me/roughviz/>
 - [gh:SarthakRawat-1/sketchbook-ui](https://github.com/SarthakRawat-1/sketchbook-ui): UI library that looks like it was drawn by hand <https://sarthakrawat-1.github.io/sketchbook-ui/>
+- [gh:abhix4/stroke](https://github.com/abhix4/stroke): Create Hand-drawn SVG animations for logos, signatures, and illustrations. <https://stroke.abhii.space>
 
 Image zoom
 
@@ -490,6 +492,7 @@ PDF
 - [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination): A React pagination component which intelligently renders to the available width <https://react-responsive-pagination.elantha.com>
 - [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf): Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. <https://react.onedoclabs.com/>
 - [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick): View and Interact with PDFs in React SolidJS, Svelte and JavaScript apps <https://pdfslick.dev>
+- [gh:cosmiciron/vmprint](https://github.com/cosmiciron/vmprint): An alternative to React-PDF — render multi-page documents anywhere. Preview on canvas and export to PDF/SVG from the same layout — no PDF.js, no React, no server. Pure JS, no dependencies. ~1.7MB. https://cosmiciron.github.io/vmprint/examples/preview/ <https://cosmiciron.github.io/vmprint/>
 
 DateTime related
 
@@ -522,6 +525,10 @@ Email
   - [arikchakma/maily.to](https://github.com/arikchakma/maily.to): Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. <https://maily.to>
 - [gh:unmta/emailmd](https://github.com/unmta/emailmd): Render markdown into email-safe HTML <https://www.emailmd.dev/>
 
+Widgets
+
+- [gh:LeaVerou/bluesky-likes](https://github.com/LeaVerou/bluesky-likes): Flexible components for displaying Bluesky likes <https://projects.verou.me/bluesky-likes/>
+
 Misc
 
 - [vercel/satori](https://github.com/vercel/satori): Enlightened library to convert HTML and CSS to SVG <https://og-playground.vercel.app/>
@@ -538,7 +545,6 @@ Misc
 - [Temzasse/react-modal-sheet](https://github.com/Temzasse/react-modal-sheet): Flexible bottom sheet component built with Framer Motion to provide buttery smooth UX while keeping accessibility in mind 🪐 <https://temzasse.github.io/react-modal-sheet/>
 - [visgl/react-google-maps](https://github.com/visgl/react-google-maps): React components and hooks for the Google Maps JavaScript API <https://visgl.github.io/react-google-maps/>
 - [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js): Easy Parallax Effect for React & JavaScript <https://simpleparallax.com>
-- [silx-kit/h5web](https://github.com/silx-kit/h5web): React components for data visualization and exploration <https://h5web.panosc.eu/>
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words): React component to highlight words within a larger body of text <https://bvaughn.github.io/react-highlight-words/>
 - [glidejs/glide](https://github.com/glidejs/glide): A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more <https://glidejs.com>
 - [negomi/react-burger-menu](https://github.com/negomi/react-burger-menu): 🍔 An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations <http://negomi.github.io/react-burger-menu/>
@@ -563,6 +569,7 @@ Misc
 - 🌟🌟🌟 [gh:arnog/mathlive](https://github.com/arnog/mathlive): Web components for math display and input <https://mathlive.io>
 - [gh:thesysdev/openui](https://github.com/thesysdev/openui): The Open Standard for Generative UI <https://www.openui.com>
 - [gh:joshpuckett/dialkit](https://github.com/joshpuckett/dialkit): A library to help you dial in interface parameters of any kind
+- [gh:darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure): Skeleton library that automatically adapts to your component's runtime structure. Zero layout duplication. Built for modern frameworks. <https://shimmer-from-structure-docs.vercel.app>
 
 #### Editor
 
@@ -730,6 +737,7 @@ Concrete animations
 - [gh:chenglou/pretext](https://github.com/chenglou/pretext)
   - [gh:razroo/textura](https://github.com/razroo/textura): Pretext x Yoga = Textura. DOM-free layout engine for the web <https://razroo.github.io/textura>
   - [gh:lucascrespo23/pinch-type](https://github.com/lucascrespo23/pinch-type): Pinch to zoom text, not the page. Built on @chenglou/pretext.
+  - [Instant Pagination](https://pretext-stuff.solarise.dev/pagination.html)
 - [gh:nicbarker/clay](https://github.com/nicbarker/clay): High performance UI layout library in C. <https://nicbarker.com/clay>
 
 ## W3C
@@ -757,6 +765,7 @@ Concrete animations
 - [processing/p5.js](https://github.com/processing/p5.js): p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs — <http://p5js.org/>
 - [retejs/rete](https://github.com/retejs/rete): JavaScript framework for visual programming <https://retejs.org>
 - [lewhunt/divz](https://github.com/lewhunt/divz): A React component that lets you scroll, swipe & zoom through HTML content on the 3D z-axis. Try out the demos here: https://lewhunt.github.io/divz/ <https://lewhunt.github.io/divz/>
+- [silx-kit/h5web](https://github.com/silx-kit/h5web): React components for data visualization and exploration <https://h5web.panosc.eu/>
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js <https://docs.pmnd.rs/react-three-fiber>
 - [typpo/quickchart](https://github.com/typpo/quickchart): Chart image and QR code web API <https://quickchart.io/>
 - [lepture/github-gist](https://github.com/lepture/github-gist): Web component for GitHub Gist <https://lab.lepture.com/github-gist/>
@@ -769,6 +778,7 @@ Concrete animations
 - [adobe/react-spectrum-charts](https://github.com/adobe/react-spectrum-charts): Build compelling visualizations using declarative react components. <http://opensource.adobe.com/react-spectrum-charts/>
 - [wbkd/awesome-d3](https://github.com/wbkd/awesome-d3): A list of D3 libraries, plugins and utilities <https://d3-discovery.net/>
 - 🌟 [compostjs/compost](https://github.com/compostjs/compost): Composable data visualization library for JavaScript <http://compostjs.github.io/>
+- [gh:nteract/semiotic](https://github.com/nteract/semiotic): React data visualization library for streaming, networks, and AI-assisted development <https://semiotic.nteract.io>
 
 ### Tree / Architecture
 

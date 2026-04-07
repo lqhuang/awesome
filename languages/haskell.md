@@ -20,9 +20,8 @@
 - 🌟 [All About Monads - HaskellWiki](https://wiki.haskell.org/All_About_Monads)
 - [Haskell Poll Results](https://www.stephendiehl.com/posts/poll.html)
 - [/wiki/haskell/learning Links](http://jackkelly.name/wiki/haskell/learning.html)
-- [haskell-perf/checklist](https://github.com/haskell-perf/checklist): The Haskell performance checklist
+- 🌟 [haskell-perf/checklist](https://github.com/haskell-perf/checklist): The Haskell performance checklist
 - [Simple Haskell](https://www.simplehaskell.org/)
-- [haskell-perf/checklist](https://github.com/haskell-perf/checklist): The Haskell performance checklist
 - [Haskell Optimization Handbook](https://haskell.foundation/hs-opt-handbook.github.io/): no description found
 - 🌟 [Flora :: [Package]](https://flora.pm/): A package repository for the Haskell ecosystem
 
@@ -47,6 +46,7 @@
 - [Haskell generics explained](https://markkarpov.com/tutorial/generics)
 - [Exceptions tutorial](https://markkarpov.com/tutorial/exceptions)
 - [Haskell's kind system - a primer · dcastro](https://diogocastro.com/blog/2018/10/17/haskells-kind-system-a-primer/)
+- [Lessons in Managing Haskell Memory](https://www.channable.com/tech/lessons-in-managing-haskell-memory)
 
 ### Courses
 
@@ -76,7 +76,6 @@
   - [passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes): Resources for learning and using recursion schemes.
 - [ndmitchell/uniplate](https://github.com/ndmitchell/uniplate): Haskell library for simple, concise and fast generic operations.
 - [snowleopard/alga](https://github.com/snowleopard/alga): Algebraic graphs
-- [facebook/Haxl](https://github.com/facebook/Haxl): A Haskell library that simplifies access to remote data, such as databases or web-based services.
 - [Bodigrim/bitvec](https://github.com/Bodigrim/bitvec): Bit vectors: 8x less memory, up to 3500x faster than Vector Bool <https://hackage.haskell.org/package/bitvec>
 
 ## Toolchains
@@ -193,7 +192,6 @@
 - 🌟 [dmjio/miso](https://github.com/dmjio/miso): 🍜 A tasty Haskell front-end framework <https://haskell-miso.org>
 - [kazu-yamamoto/http2](https://github.com/kazu-yamamoto/http2): HTTP/2.0 library including HPACK
 - [kazu-yamamoto/quic](https://github.com/kazu-yamamoto/quic): IETF QUIC library in Haskell
-- [iand675/sofetch](https://github.com/iand675/sofetch): Automatic batching and deduplication of concurrent data fetches for Haskell
 - [gh:freizl/hoauth2](https://github.com/freizl/hoauth2): Haskell oauth2 binding
 
 ## Clients
@@ -204,6 +202,11 @@
 - [well-typed/grapesy](https://github.com/well-typed/grapesy): Native Haskell gRPC client and server based on `http2`
   - [grapesy: industrial strength gRPC library for Haskell](https://well-typed.com/blog/2025/01/grapesy/)
 - [obsidiansystems/gargoyle](https://github.com/obsidiansystems/gargoyle): A framework for managing daemons from Haskell and libraries for use with postgresql and nix
+- [gh:facebook/Haxl](https://github.com/facebook/Haxl): A Haskell library that simplifies access to remote data, such as databases or web-based services.
+- [iand675/sofetch](https://github.com/iand675/sofetch): Automatic batching and deduplication of concurrent data fetches for Haskell
+  - [Making Haskell Talk to PostgreSQL Without Suffering - Ian Duncan](https://www.iankduncan.com/engineering/2026-02-20-haskell-postgresql-without-suffering): How to eliminate the three performance taxes that make database queries slow: encoding overhead, round-trip latency, and N+1 query patterns.
+- [gh:nikita-volkov/hasql](https://github.com/nikita-volkov/hasql): The fastest PostgreSQL libpq-based driver for Haskell <http://hackage.haskell.org/package/hasql>
+- [gh:bitemyapp/esqueleto](https://github.com/bitemyapp/esqueleto): New home of Esqueleto, please file issues so we can get things caught up!
 
 ## Bindings
 

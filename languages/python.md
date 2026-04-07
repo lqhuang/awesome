@@ -121,7 +121,6 @@ Templates
 
 ### CI/CD
 
-- [pnpm/action-setup](https://github.com/pnpm/action-setup): Install pnpm package manager <https://github.com/marketplace/actions/setup-pnpm>
 - [mamba-org/setup-micromamba](https://github.com/mamba-org/setup-micromamba): GitHub Action to set up micromamba
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish): The blessed GitHub Action, for publishing your 📦 distribution files to PyPI: https://github.com/marketplace/actions/pypi-publish <https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/>
 - [Quantco/pytest-action](https://github.com/Quantco/pytest-action): GitHub Action to run pytest with GitHub Job Summaries support 🐍 🚀
@@ -298,6 +297,7 @@ Misc
 - [mkorpela/overrides](https://github.com/mkorpela/overrides/): A decorator to automatically detect mismatch when overriding a method
 - [rustedpy/result](https://github.com/rustedpy/result): A simple Rust like Result type for Python 3. Fully type annotated.
 - [rustedpy/maybe](https://github.com/rustedpy/maybe): A simple Rust like Option type for Python 3. Fully type annotated.
+- [gh:jessekrubin/ry](https://github.com/jessekrubin/ry): ry ~ rust-python <http://ryo3.dev/>
 
 ### Free threading
 
@@ -465,6 +465,7 @@ Misc
 - [aio-libs/yarl](https://github.com/aio-libs/yarl): Yet another URL library <https://yarl.readthedocs.io>
 - [python-babel/babel](https://github.com/python-babel/babel): The official repository for Babel, the Python Internationalization Library <http://babel.pocoo.org/>
 - [efe/yesglot](https://github.com/efe/yesglot): LLM-powered Django translations ✨ Just call me "python manage.py translatemessages" <https://pypi.org/project/yesglot/>
+- [gh:ormar-orm/ormar](https://github.com/ormar-orm/ormar): python async orm with fastapi in mind and pydantic validation <https://collerek.github.io/ormar/>
 
 ### DB clients and SQL utils
 

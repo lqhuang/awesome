@@ -147,6 +147,7 @@ Specific
 - [neon-bindings/neon](https://github.com/neon-bindings/neon): Rust bindings for writing safe and fast native Node.js modules. <https://www.neon-bindings.com/>
 - [vercel/turbo](https://github.com/vercel/turbo): Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. <https://turbo.build>
 - [jsr-io/jsr](https://github.com/jsr-io/jsr): The open-source package registry for modern JavaScript and TypeScript <https://jsr.io>
+- [gh:jspm/jspm](https://github.com/jspm/jspm): Import Map Package Manager <https://jspm.org>
 - 🌟 [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc): Documentation generator for TypeScript projects. <https://typedoc.org>
 - [AdiRishi/turborepo-remote-cache-cloudflare](https://github.com/AdiRishi/turborepo-remote-cache-cloudflare): An implementation of the turborepo-remote-cache server custom made for Cloudflare Workers <https://adirishi.github.io/turborepo-remote-cache-cloudflare/>
 - 🌟 [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs <https://openapi-ts.dev>
@@ -160,6 +161,7 @@ Specific
 - [AmanVarshney01/create-better-t-stack](https://github.com/AmanVarshney01/create-better-t-stack): A modern CLI tool for scaffolding end-to-end type-safe TypeScript projects with best practices and customizable configurations <https://better-t-stack.dev>
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks): 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
 - [gh:npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev): a fast, modern browser for the npm registry <https://npmx.dev>
+- 🌟 [gh:google/jsir](https://github.com/google/jsir): Next-generation JavaScript analysis tooling
 
 ### Modernize
 
