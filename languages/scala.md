@@ -42,6 +42,7 @@
 - [Blog of Red Hat App Services Performance Team](https://redhatperf.github.io/)
 - [Project Amber](https://openjdk.org/projects/amber/)
 - [Tag: Performance – Inside.java](https://inside.java/tag/performance)
+- [Common Escape Sequences - Modern Java](https://javabook.mccue.dev/strings/common_escape_sequences): Book teaching how to write modern and effective Java.
 
 ### Talks
 
@@ -263,17 +264,18 @@ Do a benchmark (for final size while using Scala Native)?
 
 ### Scala Native
 
-- [quelgar/scala-uv](https://github.com/quelgar/scala-uv): Scala Native language bindings for libuv
-- [RustFields/scala-native-rust-interoperability-example](https://github.com/RustFields/scala-native-rust-interoperability-example): This example shows how to integrate Rust code in a Scala project thanks to the interoperability of Rust and Scala Native with C. The project is structured in the following way:
-- [indoorvivants/scala-native-binary-template](https://github.com/indoorvivants/scala-native-binary-template): Template to bootstrap Scala Native CLI projects, uploading platform binaries to Github Releases artifacts
-- [rwhaling/native-lambda](https://github.com/rwhaling/native-lambda): AWS Lambda Custom Runtime for Scala Native
-- [spamegg1/modern-systems-scala-native](https://github.com/spamegg1/modern-systems-scala-native): Working through "Modern Systems Programming with Scala Native" by Richard Whaling, in Scala 3 <https://pragprog.com/titles/rwscala/modern-systems-programming-with-scala-native/>
-- [keynmol/scala-native-interop-livecoding-lsug](https://github.com/keynmol/scala-native-interop-livecoding-lsug): Live coding session demonstrating approaches to interop with C, C++, Assembly from Scala 3 Native
-- [openjdk/jextract](https://github.com/openjdk/jextract): https://openjdk.org/projects/code-tools
-- [indoorvivants/sn-bindgen](https://github.com/indoorvivants/sn-bindgen): Scala 3 native binding generator + libclang facade <https://sn-bindgen.indoorvivants.com>
-  - [indoorvivants/sn-bindgen-examples](https://github.com/indoorvivants/sn-bindgen-examples): Examples of using Scala 3 Native to interop with various C libraries using sn-bindgen
-  - [indoorvivants/sn-bindgen-web](https://github.com/indoorvivants/sn-bindgen-web): Web interface to sn-bindgen (https://sn-bindgen.indoorvivants.com/) to generate Scala 3 Native bindings to C header files <https://sn-bindgen-web.indoorvivants.com/>
+- [gh:quelgar/scala-uv](https://github.com/quelgar/scala-uv): Scala Native language bindings for libuv
+- [gh:RustFields/scala-native-rust-interoperability-example](https://github.com/RustFields/scala-native-rust-interoperability-example): This example shows how to integrate Rust code in a Scala project thanks to the interoperability of Rust and Scala Native with C. The project is structured in the following way:
+- [gh:indoorvivants/scala-native-binary-template](https://github.com/indoorvivants/scala-native-binary-template): Template to bootstrap Scala Native CLI projects, uploading platform binaries to Github Releases artifacts
+- [gh:rwhaling/native-lambda](https://github.com/rwhaling/native-lambda): AWS Lambda Custom Runtime for Scala Native
+- [gh:spamegg1/modern-systems-scala-native](https://github.com/spamegg1/modern-systems-scala-native): Working through "Modern Systems Programming with Scala Native" by Richard Whaling, in Scala 3 <https://pragprog.com/titles/rwscala/modern-systems-programming-with-scala-native/>
+- [gh:keynmol/scala-native-interop-livecoding-lsug](https://github.com/keynmol/scala-native-interop-livecoding-lsug): Live coding session demonstrating approaches to interop with C, C++, Assembly from Scala 3 Native
+- [gh:openjdk/jextract](https://github.com/openjdk/jextract): https://openjdk.org/projects/code-tools
+- [gh:indoorvivants/sn-bindgen](https://github.com/indoorvivants/sn-bindgen): Scala 3 native binding generator + libclang facade <https://sn-bindgen.indoorvivants.com>
+  - [gh:indoorvivants/sn-bindgen-examples](https://github.com/indoorvivants/sn-bindgen-examples): Examples of using Scala 3 Native to interop with various C libraries using sn-bindgen
+  - [gh:indoorvivants/sn-bindgen-web](https://github.com/indoorvivants/sn-bindgen-web): Web interface to sn-bindgen (https://sn-bindgen.indoorvivants.com/) to generate Scala 3 Native bindings to C header files <https://sn-bindgen-web.indoorvivants.com/>
 - [gh:indoorvivants/sn-sizer](https://github.com/indoorvivants/sn-sizer): Break down the size of a Scala Native binary
+- [gh:indoorvivants/sn-demangler](https://github.com/indoorvivants/sn-demangler): Scala Native name demangler <https://indoorvivants.github.io/sn-demangler/>
 
 ### Scala.js
 
@@ -452,6 +454,7 @@ Tracing and OpenTelemetry
 - [yoohaemin/decrel](https://github.com/yoohaemin/decrel): Composable relations for Scala <https://decrel.yoohaemin.com>
 - [arkida39/baku](https://github.com/arkida39/baku): A Scala Tapir extension to cleanly decouple API definitions from server and security logic.
 - [gh:lolgab/scala-saas-template](https://github.com/lolgab/scala-saas-template): A minimal multi-tenant SaaS template: server-rendered HTTP app with auth, per-user SQLite databases, and optional Stripe subscriptions.
+- [gh:input-output-hk/armadillo](https://github.com/input-output-hk/armadillo): Declarative, type-safe json-rpc endpoints library
 
 ### CLI
 

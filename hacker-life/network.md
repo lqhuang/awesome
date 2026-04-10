@@ -12,6 +12,7 @@
 - 🌟 [Lord of the io_uring](https://unixism.net/loti/): Welcome to Lord of the io_uring
 - [syncsynchalt/illustrated-quic](https://github.com/syncsynchalt/illustrated-quic): The Illustrated QUIC Connection: Every byte explained <https://quic.xargs.org>
   - [cangSDARM/illustrate](https://github.com/cangSDARM/illustrate): illustrate QUIC, TLS 1.2, TLS 1.3, DTLS 中文翻译 <https://cangsdarm.github.io/illustrate/>
+- 🌟 [gh:SystemsApproach/book](https://github.com/SystemsApproach/book): Computer Networks: A Systems Approach -- Textbook <https://book.systemsapproach.org/>
 
 ### Readings
 

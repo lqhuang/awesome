@@ -645,6 +645,7 @@ Concrete animations
 - [anl331/goey-toast](https://github.com/anl331/goey-toast): A gooey, morphing toast component built on Sonner with Framer Motion animations <https://goey-toast.vercel.app>
 - 🌟 [hiaaryan/sileo](https://github.com/hiaaryan/sileo): An opinionated, physics-based toast component for React. <https://sileo.aaryan.design>
 - [gh:pbakaus/radiant](https://github.com/pbakaus/radiant): A curated collection of generative shader art <https://radiant-shaders.com>
+- [gh:IveTian/dot-anime-react](https://github.com/IveTian/dot-anime-react): A lightweight React dot matrix animation component with zero dependencies <https://dotanime.dev>
 
 ## Functional libraries
 

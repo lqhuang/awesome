@@ -106,6 +106,7 @@
 - 🌟 [gh:latex-lsp/texlab/wiki/Tectonic](https://github.com/latex-lsp/texlab/wiki/Tectonic): An implementation of the Language Server Protocol for LaTeX
 - [gh:domdomegg/gdoc2latex-gui](https://github.com/domdomegg/gdoc2latex-gui): 🌐 🔀 📝 Web interface for gdoc2latex <https://adamjones.me/gdoc2latex-gui/>
 - [gh:ayaka-notes/texlive-full](https://github.com/ayaka-notes/texlive-full): 🐳 TeXLive-Full in Docker (Specially For Overleaf CEP/Pro) <https://overleaf-pro.ayaka.space/texlive>
+- [gh:LucasAschenbach/vscode-unicode-math](https://github.com/LucasAschenbach/vscode-unicode-math): Type LaTeX-like \alpha, \to, \subseteq, etc., and get Unicode math symbols everywhere. <https://marketplace.visualstudio.com/items?itemName=LucasAschenbach.unicode-math-symbols>
 
 ### Latex Templates
 

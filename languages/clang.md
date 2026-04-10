@@ -68,6 +68,7 @@ And modern is here now.
   - [谷歌 C++ 风格指南 | CppGuide 社区](https://cppguide.cn/LatestGoogleCppStyleGuideForCpp17&20/)
 - 🌟 [cppstat](https://cppstat.dev/): C++ Compiler Support Status
 - [Womangling](https://womangling.noratrieb.dev/): This website will teach you C++ Itanium Symbol Name Mangling. Itanium-style mangling is used on a lot of platforms, including Linux. Since C++ mangling (the entire ABI) is considered stable today, you will be able to use this knowledge forever!
+- 🌟 [gh:itanium-cxx-abi/cxx-abi](https://github.com/itanium-cxx-abi/cxx-abi): C++ ABI Summary
 
 ### Books
 
@@ -298,6 +299,7 @@ And modern is here now.
 - [rxi/sj.h](https://github.com/rxi/sj.h): A tiny little JSON parsing library
 - [vincentlaucsb/csv-parser](https://github.com/vincentlaucsb/csv-parser): A high-performance, fully-featured CSV parser and serializer for modern C++.
 - [benhoyt/inih](https://github.com/benhoyt/inih): Simple .INI file parser in C, good for embedded systems
+- 🌟 [gh:stephenberry/glaze](https://github.com/stephenberry/glaze): Extremely fast, in memory, JSON and reflection library for modern C++. BEVE, CBOR, CSV, MessagePack, TOML, YAML, EETF <https://stephenberry.github.io/glaze/>
 
 ### String
 

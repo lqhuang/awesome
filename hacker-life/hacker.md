@@ -40,6 +40,7 @@
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit): BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an "Awesome Bluetooth Security" way
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis): 🎨 Regex visualizer & editor <https://regex-vis.com>
 - 🌟 [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc): chsrc 全平台通用换源工具与框架. Change Source everywhere for every software <https://chsrc.run/>
+- [gh:honkit/honkit](https://github.com/honkit/honkit): 📖 HonKit is building beautiful books using Markdown - Fork of GitBook <https://honkit.netlify.app>
 
 ### Git
 
