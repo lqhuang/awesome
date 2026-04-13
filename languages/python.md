@@ -254,8 +254,10 @@ Misc
   - [Cowboy Debugging Python Memory Leaks](https://rtpg.co/2025/01/01/cowboy-coding-memory)
 - 🌟 [brandtbucher/specialist](https://github.com/brandtbucher/specialist): Visualize CPython's specializing, adaptive interpreter. 🔥
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen): An intuitive and low-overhead instrumentation tool for Python <https://dowhen.readthedocs.io/>
-- [adamchainz/tprof](https://github.com/adamchainz/tprof): A targeting profiler.
+- gh:[adamchainz/tprof](https://github.com/adamchainz/tprof): A targeting profiler.
   - [Python: introducing tprof, a targeting profiler - Adam Johnson](https://adamj.eu/tech/2026/01/14/python-introducing-tprof/)
+- [gh:adamchainz/profiling-explorer](https://github.com/adamchainz/profiling-explorer): Table-based exploration tool for Python profiling data (pstats files).
+  - [Python: introducing profiling-explorer - Adam Johnson](https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/)
 
 ## Functional Programming in Python
 

@@ -63,7 +63,7 @@
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff): A compact, high-speed SQL linter, engineered with Rust efficiency. <https://quary.dev/>
 - 🌟 [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A modular SQL linter and auto-formatter with support for multiple dialects and templated code. <https://www.sqlfluff.com>
 - [chrisbottin/xml-formatter](https://github.com/chrisbottin/xml-formatter): Converts XML into a human readable format (pretty print) while respecting the `xml:space` attribute.
-- 🌟 [elijah-potter/harper](https://github.com/elijah-potter/harper): The Grammar Checker for Developers <https://writewithharper.com>
+- 🌟 [gh:Automattic/harper](https://github.com/Automattic/harper): Offline, privacy-first grammar checker. Fast, open-source, Rust-powered <https://writewithharper.com>
 - [rrthomas/enchant](https://github.com/rrthomas/enchant): enchant spellchecking library <http://rrthomas.github.io/enchant/>
   - [pyenchant/pyenchant](https://github.com/pyenchant/pyenchant): spellchecking library for python <https://pyenchant.github.io/pyenchant/>
 - 🌟 [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect): A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean). <https://huacnlee.github.io/autocorrect>

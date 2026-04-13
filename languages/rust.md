@@ -49,6 +49,7 @@
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies): Analysis of various tricky Rust code
 - 🌟 [Elements of Rust – Core Types and Traits](https://rustcurious.com/elements/): A complete map of the Rust type system
 - [gh:microsoft/RustTraining](https://github.com/microsoft/RustTraining): Beginner, advanced, expert level Rust training material
+- [👋 Introduction - Rust Project Goals](https://rust-lang.github.io/rust-project-goals/index.html): This repo tracks the effort to set and track goals for the Rust project.
 
 ## Build
 

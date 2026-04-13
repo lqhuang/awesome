@@ -646,6 +646,8 @@ Concrete animations
 - 🌟 [hiaaryan/sileo](https://github.com/hiaaryan/sileo): An opinionated, physics-based toast component for React. <https://sileo.aaryan.design>
 - [gh:pbakaus/radiant](https://github.com/pbakaus/radiant): A curated collection of generative shader art <https://radiant-shaders.com>
 - [gh:IveTian/dot-anime-react](https://github.com/IveTian/dot-anime-react): A lightweight React dot matrix animation component with zero dependencies <https://dotanime.dev>
+- 🌟 [gh:darkroomengineering/lenis](https://github.com/darkroomengineering/lenis): Smooth scroll at it should be <https://lenis.dev>
+- [gh:darkroomengineering/tempus](https://github.com/darkroomengineering/tempus): Use only one requestAnimationFrame for your whole app
 
 ## Functional libraries
 
@@ -878,6 +880,7 @@ Concrete animations
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU): Beautiful, open source, WebGPU-based charting library
 - [gh:react-scad/react-scad](https://github.com/react-scad/react-scad): Transpile JSX to SCAD.
 - [gh:nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d): A real-time 3D digital map of Tokyo's public transport system <https://minitokyo3d.com>
+- [gh:WICG/html-in-canvas](https://github.com/WICG/html-in-canvas): This is a proposal for using 2D and 3D `<canvas>` to customize the rendering of HTML content.
 
 ### Engine
 

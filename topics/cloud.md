@@ -37,6 +37,7 @@
 - 🌟 [passt](https://passt.top/passt/about/): Plug A Simple Socket Transport
   - passt and pasta unprivileged (rootless) user-mode networking for VMs and containers, replacement for slirp, slirp4netns, libslirp, integrates with qemu, libvirt, Podman, Kata Containers
 - [containerd/nerdbox](https://github.com/containerd/nerdbox): containerd sandbox runtime using vms
+- [gh:rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit): Linux-native "fake root" for implementing rootless containers
 
 #### Base images
 

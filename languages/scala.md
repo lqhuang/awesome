@@ -169,6 +169,7 @@
   - [scalameta/munit-scalacheck](https://github.com/scalameta/munit-scalacheck): Scalacheck integration for munit
 - [eed3si9n/verify](https://github.com/eed3si9n/verify): Scala Verify is a minimal testing framework for Scala. Trust, but verify.
 - [MartinHH/scalacheck-derived](https://github.com/MartinHH/scalacheck-derived): Automatic derivation of scalacheck Arbitrary instances for Scala 3.
+- [gh:kubuszok/scala-cli-md-spec](https://github.com/kubuszok/scala-cli-md-spec): Turn your markdown docs into test suites running Scala CLI
 
 ### Benchmarking
 
@@ -323,7 +324,7 @@ Do a benchmark (for final size while using Scala Native)?
   - > @StefanZeiger: It's written in Java and uses modern features like the FFM and Vector API.
   - What if we use similar highlights for Scala Native?
 - [arainko/chanterelle](https://github.com/arainko/chanterelle): chanterelle is a library that provides a map-like DSL over named tuples. Scala 3 only. Some chanterelles are scaly.
-- [MateuszKubuszok/hearth](https://github.com/MateuszKubuszok/hearth): The first Scala macros' standard library. <https://scala-hearth.readthedocs.io>
+- [gh:kubuszok/hearth](https://github.com/kubuszok/hearth): The first Scala macros' standard library. <https://scala-hearth.readthedocs.io>
 - [scafi/scafi3](https://github.com/scafi/scafi3): scafi3 is a Scala 3 DSL for Aggregate Programming.
 - [JCTools/JCTools](https://github.com/JCTools/JCTools): <http://jctools.github.io/JCTools/>
   - Java Concurrency Tools for the JVM. This project aims to offer some concurrent data structures currently missing from the JDK:
@@ -387,6 +388,7 @@ Do a benchmark (for final size while using Scala Native)?
   - [gh:aeron-io/aeron/wiki/Best-Practices-Guide](https://github.com/aeron-io/aeron/wiki/Best-Practices-Guide)
 - [gh:bishabosha/scala-object-notation](https://github.com/bishabosha/scala-object-notation): SCON files use Scala's syntax to format data
 - 🌟 [gh:ghostdogpr/proteus](https://github.com/ghostdogpr/proteus): Code-first Protobuf and gRPC library for Scala <https://ghostdogpr.github.io/proteus/>
+- [gh:kubuszok/kindlings](https://github.com/kubuszok/kindlings): Hearth fire starter
 
 ### Logging and Observability
 
@@ -455,6 +457,7 @@ Tracing and OpenTelemetry
 - [arkida39/baku](https://github.com/arkida39/baku): A Scala Tapir extension to cleanly decouple API definitions from server and security logic.
 - [gh:lolgab/scala-saas-template](https://github.com/lolgab/scala-saas-template): A minimal multi-tenant SaaS template: server-rendered HTTP app with auth, per-user SQLite databases, and optional Stripe subscriptions.
 - [gh:input-output-hk/armadillo](https://github.com/input-output-hk/armadillo): Declarative, type-safe json-rpc endpoints library
+- [gh:Algebrazebra/slick-duckdb](https://github.com/Algebrazebra/slick-duckdb): A Slick extension for DuckDB
 
 ### CLI
 

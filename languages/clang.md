@@ -46,6 +46,8 @@ And modern is here now.
 - [CppQuiz.org](https://cppquiz.org/)
 - 🌟 [Clang Hardening Cheat Sheet - Ten Years Later - Quarkslab's blog](https://blog.quarkslab.com/clang-hardening-cheat-sheet-ten-years-later.html): Ten years ago, we published a Clang Hardening Cheat Sheet. Since then, both the threat landscape and the Clang toolchain have evolved significantly. This blog post presents the new mitigations available in Clang to improve the security of your applications.
   - [Clang Hardening Cheat Sheet - Quarkslab's blog](https://blog.quarkslab.com/clang-hardening-cheat-sheet.html): While improving the documentation (d'oh!) of our home grew obfuscator based on LLVM, we wrote a cheat sheet on clang's hardening features, and some of ld ones. It turns out existing hardening guides generally focus on GCC, while Clang also has an interesting set of hardening features. So let's share it in this blog post!
+- 🌟 [gh:itanium-cxx-abi/cxx-abi](https://github.com/itanium-cxx-abi/cxx-abi): C++ ABI Summary
+- [Itanium C++ ABI](https://refspecs.linuxbase.org/cxxabi-1.86.html): no description found
 
 ### References
 
@@ -68,7 +70,6 @@ And modern is here now.
   - [谷歌 C++ 风格指南 | CppGuide 社区](https://cppguide.cn/LatestGoogleCppStyleGuideForCpp17&20/)
 - 🌟 [cppstat](https://cppstat.dev/): C++ Compiler Support Status
 - [Womangling](https://womangling.noratrieb.dev/): This website will teach you C++ Itanium Symbol Name Mangling. Itanium-style mangling is used on a lot of platforms, including Linux. Since C++ mangling (the entire ABI) is considered stable today, you will be able to use this knowledge forever!
-- 🌟 [gh:itanium-cxx-abi/cxx-abi](https://github.com/itanium-cxx-abi/cxx-abi): C++ ABI Summary
 
 ### Books
 

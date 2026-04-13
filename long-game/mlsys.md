@@ -463,6 +463,7 @@ PGM / Probabilistic programming
 - [google-deepmind/uncertain_ground_truth](https://github.com/google-deepmind/uncertain_ground_truth): Dermatology ddx dataset, Jax implementations of Monte Carlo conformal prediction, plausibility regions and statistical annotation aggregation from our recent work on uncertain ground truth (TMLR'23 and ArXiv pre-print). <https://davidstutz.de/projects/monte-carlo-conformal-prediction/>
 - [google-deepmind/meltingpot](https://github.com/google-deepmind/meltingpot): A suite of test scenarios for multi-agent reinforcement learning.
 - [google-deepmind/dm_pix](https://github.com/google-deepmind/dm_pix): PIX is an image processing library in JAX, for JAX. <https://dm-pix.readthedocs.io>
+- 🌟 [gh:google-deepmind/gemma](https://github.com/google-deepmind/gemma): Gemma open-weight LLM library, from Google DeepMind <https://gemma-llm.readthedocs.io>
 
 ### Google specialization
 

@@ -30,6 +30,7 @@ Streaming Systems
 - 📝 [janestreet/incremental](https://github.com/janestreet/incremental): A library for incremental computations
 - 📝 [brurucy/pydbsp](https://github.com/brurucy/pydbsp): This library provides an implementation of the DBSP language for incremental streaming computations.
 - [sequinstream/sequin](https://github.com/sequinstream/sequin): Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more <https://sequinstream.com>
+- [gh:TouK/nussknacker](https://github.com/TouK/nussknacker): Low-code tool for automating actions on real time data | Stream processing for the users. <https://nussknacker.io>
 
 ### DAG
 

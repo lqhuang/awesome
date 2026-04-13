@@ -91,6 +91,8 @@
 - [x-motemen/ghq](https://github.com/x-motemen/ghq): Remote repository management made easy
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr): Why is this running?
 - [binpash/pash](https://github.com/binpash/pash): PaSh: Light-touch Data-Parallel Shell Processing
+- [gh:casey/just](https://github.com/casey/just): 🤖 Just a command runner <https://just.systems>
+  - [gh:fpgmaas/justx](https://github.com/fpgmaas/justx): A TUI command launcher built on top of just. Define recipes once, run them anywhere. <https://fpgmaas.github.io/justx>
 
 ### SSH
 
