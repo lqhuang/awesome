@@ -144,6 +144,7 @@
 - [PORTS](https://ports.alasdairmonk.com/): See What's Running on Your Ports
   - I love this app. But looks like it's still in early development.
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski): 🌈 Convert videos to high-quality GIFs on your Mac <https://sindresorhus.com/gifski>
+- [gh:groundwater/GhostVM](https://github.com/groundwater/GhostVM): Isolated macOS workspaces for agents, projects, and clients
 
 ### Free / Paid
 
@@ -221,6 +222,8 @@
 - [gh:ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge): Uninstall Microsoft Edge with an executable or batch script.
 - [gh:zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI): Force Remove Copilot, Recall and More in Windows 11
 - [gh:Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+- [gh:erazortt/DoViBaker](https://github.com/erazortt/DoViBaker): Bake the DoVi into your clip
+- [gh:balu100/dolby-vision-for-windows](https://github.com/balu100/dolby-vision-for-windows): DVFW (Dolby Vision For Windows)
 
 Distributions
 

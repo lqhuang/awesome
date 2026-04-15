@@ -65,6 +65,7 @@
 - [facebookresearch/nougat](https://github.com/facebookresearch/nougat): Implementation of Nougat Neural Optical Understanding for Academic Documents <https://facebookresearch.github.io/nougat/>
 - [stacks/stacks-project](https://github.com/stacks/stacks-project): Repository for the Stacks Project <http://stacks.math.columbia.edu>
 - [uemurax/morg](https://github.com/uemurax/morg): Organize mathematical thoughts
+- [gh:Oxidane-bot/scihub-cli](https://github.com/Oxidane-bot/scihub-cli): A command-line tool for batch downloading academic papers from Sci-Hub.
 
 ## Tech/Paper writting & Press print
 

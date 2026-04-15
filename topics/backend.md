@@ -23,6 +23,8 @@
 - [alex/what-happens-when](https://github.com/alex/what-happens-when): An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design): Learn how to design systems at scale and prepare for system design interviews <https://leanpub.com/systemdesign>
 - [gh:djiangtw/system-design-architecture-aware-public](https://github.com/djiangtw/system-design-architecture-aware-public): System design framework for modern hardware. 7-Domain approach: Execution, Memory, Caches, Ordering, Faults, Compute, Performance. Bilingual (EN/ZH-TW). CC BY 4.0.
+- [How DNS works. What is DNS? Learn how step by step.](https://howdns.works/): What is DNS? Introduction how DNS works and how DNS server enhances website speed, security, and reliability with our webcomic.
+- [How HTTPS works.](https://howhttps.works/): Follow the adventures of Certificat as she explains why HTTPS is crucial for the future of the internet and how it all works together in a comic.
 
 ## Testing
 

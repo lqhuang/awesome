@@ -45,6 +45,7 @@
   - [Unix 痛恨者手册中文版 | FreeBSD 中文社区](https://book.bsdcn.org/wen-zhang/unix-tong-hen-zhe-shou-ce)
 - 🌟 [Memory Management Reference](https://www.memorymanagement.org/index.html): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
 - [Putting the "You" in CPU](https://cpu.land/): Curious exactly what happens when you run a program on your computer? Learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
+- [gh:corkami/pics](https://github.com/corkami/pics): File formats dissections and more...
 
 ## Compiler
 

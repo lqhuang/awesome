@@ -455,7 +455,6 @@ Misc
 - [tkem/cachetools](https://github.com/tkem/cachetools): Extensible memoizing collections and decorators
 - [heptapod.host/saajns/hermes](https://heptapod.host/saajns/hermes): Python caching library with tag-based invalidation and dogpile effect prevention
   - https://pypi.org/project/HermesCache/
-- 🌟 [python-trio/trustme](https://github.com/python-trio/trustme): #1 quality TLS certs while you wait, for the discerning tester <https://trustme.rtfd.io>
 - [gawel/pyquery](https://github.com/gawel/pyquery): A jquery-like library for python <http://pyquery.rtfd.org/>
 - [facelessuser/soupsieve](https://github.com/facelessuser/soupsieve): A modern CSS selector implementation for BeautifulSoup <https://facelessuser.github.io/soupsieve/>
 - [mikeckennedy/content-types](https://github.com/mikeckennedy/content-types): A Python library to map file extensions to MIME types without accessing the file data. <https://pypi.org/project/content-types/>

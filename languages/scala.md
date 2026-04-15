@@ -43,6 +43,7 @@
 - [Project Amber](https://openjdk.org/projects/amber/)
 - [Tag: Performance – Inside.java](https://inside.java/tag/performance)
 - [Common Escape Sequences - Modern Java](https://javabook.mccue.dev/strings/common_escape_sequences): Book teaching how to write modern and effective Java.
+- [gh:polyvariant/learn-scala](https://github.com/polyvariant/learn-scala): Reference learning material for Scala <https://learn-scala.polyvariant.org/>
 
 ### Talks
 
@@ -351,13 +352,14 @@ Do a benchmark (for final size while using Scala Native)?
 
 ### Types
 
-- 🌟 [fthomas/refined](https://github.com/fthomas/refined): Refinement types for Scala
-- [Iltotore/iron](https://github.com/Iltotore/iron): Strong type constraints for Scala <https://iltotore.github.io/iron/docs>
-- 🌟 [scalalandio/chimney](https://github.com/scalalandio/chimney): Scala library for boilerplate-free, type-safe data transformations <https://scalalandio.github.io/chimney> 🌟 [softwaremill/quicklens](https://github.com/softwaremill/quicklens): Modify deeply nested case class fields <https://softwaremill.com/open-source/>
-- [earldouglas/linear-scala](https://github.com/earldouglas/linear-scala): Linear types in Scala
-- [scala-ts/scala-ts](https://github.com/scala-ts/scala-ts): 🔧 Scala datamodel transpiler <https://scala-ts.github.io/scala-ts>
-- [bishabosha/ops-mirror](https://github.com/bishabosha/ops-mirror): Type class derivation for services, not data
-- [rssh/scala-appcontext](https://github.com/rssh/scala-appcontext): Minimalistic type-driven dependency-injection library
+- 🌟 [gh:fthomas/refined](https://github.com/fthomas/refined): Refinement types for Scala
+- [gh:Iltotore/iron](https://github.com/Iltotore/iron): Strong type constraints for Scala <https://iltotore.github.io/iron/docs>
+- 🌟 [gh:scalalandio/chimney](https://github.com/scalalandio/chimney): Scala library for boilerplate-free, type-safe data transformations <https://scalalandio.github.io/chimney> 🌟 [softwaremill/quicklens](https://github.com/softwaremill/quicklens): Modify deeply nested case class fields <https://softwaremill.com/open-source/>
+- [gh:earldouglas/linear-scala](https://github.com/earldouglas/linear-scala): Linear types in Scala
+- [gh:scala-ts/scala-ts](https://github.com/scala-ts/scala-ts): 🔧 Scala datamodel transpiler <https://scala-ts.github.io/scala-ts>
+- [gh:bishabosha/ops-mirror](https://github.com/bishabosha/ops-mirror): Type class derivation for services, not data
+- [gh:rssh/scala-appcontext](https://github.com/rssh/scala-appcontext): Minimalistic type-driven dependency-injection library
+- [gh:iRevive/union-derivation](https://github.com/iRevive/union-derivation): A micro-library to derive a typeclass for Scala 3 Union types.
 
 ### Formal verification
 
@@ -409,6 +411,8 @@ Tracing and OpenTelemetry
 - [kamon-io/Kamon](https://github.com/kamon-io/Kamon): Distributed Tracing, Metrics and Context Propagation for applications running on the JVM
 - [ScalaConsultants/mesmer](https://github.com/ScalaConsultants/mesmer): Akka extension and agent exposing application telemetry and events via OpenTelemetry interface
 - [typelevel/otel4s](https://github.com/typelevel/otel4s): An OpenTelemetry library for Scala based on Cats-Effect
+  - [Practical observability: foundations with OpenTelemetry | Maksym Ochenashko](https://ochenashko.com/practical-observability-foundation/)
+  - [Practical observability: distributed tracing with otel4s | Maksym Ochenashko](https://ochenashko.com/practical-observability-distributed-tracing/)
 - [deeptshukla/play-observability](https://github.com/deeptshukla/play-observability): Opentelemetry with Scala and Play Framework Example
 - [jodersky/ustats](https://github.com/jodersky/ustats): A simple and intuitive metrics collection library for Prometheus.
 - [microprofile/microprofile-telemetry](https://github.com/microprofile/microprofile-telemetry): microprofile telemetry
@@ -519,6 +523,8 @@ Tracing and OpenTelemetry
 - [alexarchambault/plotly-scala](https://github.com/alexarchambault/plotly-scala): Scala bindings for plotly.js <http://plotly-scala.org>
 - [ramytanios/rendezvous](https://github.com/ramytanios/rendezvous): Implementation of the `Rendezvous Hashing` algorithm with an illustrative GUI 🤓
 - [nivanov/cosplay](https://github.com/nivanov/cosplay): 🕹 2D ASCII Game Engine for Scala3 <https://cosplayengine.com>
+- [gh:polyvariant/better-tostring](https://github.com/polyvariant/better-tostring): (b2s) Scala compiler plugin for a better default toString.
+- [gh:polyvariant/named-functions](https://github.com/polyvariant/named-functions): Micro-library for working with functions with named parameters.
 
 ## Tools
 

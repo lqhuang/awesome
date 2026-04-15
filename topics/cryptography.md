@@ -19,6 +19,7 @@
 - [anchordotdev/cli](https://github.com/anchordotdev/cli): `anchor` provides a command line interface for the Anchor.dev certificate management platform.
 - [FiloSottile/age](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. <https://age-encryption.org>
 - [jedisct1/encpipe](https://github.com/jedisct1/encpipe): The dum^H^H^Hsimplest encryption tool in the world.
+- 🌟 [gh:python-trio/trustme](https://github.com/python-trio/trustme): #1 quality TLS certs while you wait, for the discerning tester <https://trustme.rtfd.io>
 
 ## Libraries
 

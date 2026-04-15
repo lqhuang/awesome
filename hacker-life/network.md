@@ -323,3 +323,4 @@ STUN / TURN / ICE
 - [qvis: tools and visualizations for QUIC and HTTP/3](https://qvis.quictools.info/#/files): no description found
 - [RDAP Whois Query Tool - Domain, IP & ASN Lookup](https://rdap.ss/): Free RDAP-based WHOIS lookup tool for domains, IPv4, IPv6 addresses, and ASN numbers. Fast, accurate, and privacy-focused domain information.
 - [GreyNoise IP Check](https://check.labs.greynoise.io/): Check if your IP address has been observed by GreyNoise sensors. Instantly detect malicious activity, compromised devices, and security threats affecting your network.
+- [Net.Coffee](https://ip.net.coffee/): 查询本机 IP 地址及归属地，测试 VPN 和代理的分流规则是否生效。

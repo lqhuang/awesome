@@ -227,6 +227,8 @@ Type 1 hypervisors
 - [xcp-ng/xcp](https://github.com/xcp-ng/xcp): Entry point for issues and wiki. Also contains some scripts and sources. <https://xcp-ng.org>
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE): Proxmox VE Helper-Scripts (Community Edition) <https://Helper-Scripts.com>
 - [ccheshirecat/flint](https://github.com/ccheshirecat/flint): Lightweight tool for managing linux virtual machines
+- 🌟 [gh:lxc/incus](https://github.com/lxc/incus): Powerful system container and virtual machine manager <https://linuxcontainers.org/incus>
+  - [gh:lxc/lxc](https://github.com/lxc/lxc): LXC - Linux Containers <https://linuxcontainers.org/lxc>
 
 #### Tools
 

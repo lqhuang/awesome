@@ -48,6 +48,7 @@ And modern is here now.
   - [Clang Hardening Cheat Sheet - Quarkslab's blog](https://blog.quarkslab.com/clang-hardening-cheat-sheet.html): While improving the documentation (d'oh!) of our home grew obfuscator based on LLVM, we wrote a cheat sheet on clang's hardening features, and some of ld ones. It turns out existing hardening guides generally focus on GCC, while Clang also has an interesting set of hardening features. So let's share it in this blog post!
 - 🌟 [gh:itanium-cxx-abi/cxx-abi](https://github.com/itanium-cxx-abi/cxx-abi): C++ ABI Summary
 - [Itanium C++ ABI](https://refspecs.linuxbase.org/cxxabi-1.86.html): no description found
+- [C++ Best Practices | Erik Rigtorp](https://rigtorp.se/cpp-best-practices/): Opinionated C++ one page best practices guide. Adapt according to your project’s requirements.
 
 ### References
 

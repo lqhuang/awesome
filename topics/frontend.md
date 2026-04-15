@@ -648,6 +648,7 @@ Concrete animations
 - [gh:IveTian/dot-anime-react](https://github.com/IveTian/dot-anime-react): A lightweight React dot matrix animation component with zero dependencies <https://dotanime.dev>
 - 🌟 [gh:darkroomengineering/lenis](https://github.com/darkroomengineering/lenis): Smooth scroll at it should be <https://lenis.dev>
 - [gh:darkroomengineering/tempus](https://github.com/darkroomengineering/tempus): Use only one requestAnimationFrame for your whole app
+- [gh:KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki): Handwriting animation for any font <http://gkurt.com/tegaki>
 
 ## Functional libraries
 
