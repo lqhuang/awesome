@@ -313,7 +313,6 @@ STUN / TURN / ICE
 - https://iplark.com/
 - [ICE Test by atec-systems](https://icetest.atec-systems.com)
 - [DNS.Surf](https://dns.surf/): Exploring the Fascinating Journey of DNS Resolution Worldwide!
-- [crt.sh](https://crt.sh/): Certificate Search
 - [W.is Whois Lookup](https://w.is)
 - [IPinfo Lite](https://ipinfo.io/lite): Access the most accurate free IP geolocation and ASN data with IPinfo Lite. Use our API or download the full database in a variety of formats.
 - [Ping | Ping.Sx](https://ping.sx/ping): Ping any server from 131 global locations in parallel.

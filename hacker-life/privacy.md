@@ -38,6 +38,8 @@
 - [Twitter / X Accounts Based in China · Chinese Propaganda Accounts](https://basedinchina.com/): Twitter / X accounts that list China as location despite the Great Firewall, sorted by engagement (Followers + Tweets + Likes).
 - [celzero/rethink-app](https://github.com/celzero/rethink-app): DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android. <https://rethinkfirewall.com/>
 - 🌟 [Censys Search](https://search.censys.io/): Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security.
+- [Merklemap](https://www.merklemap.com/): Search, lookup and find subdomains hidden subdomains: Boost your cybersecurity, validate digital assets, and supercharge your pen testing. Find every subdomain linked to any website.
+- [crt.sh](https://crt.sh/): Certificate Search
 
 ### Checker
 

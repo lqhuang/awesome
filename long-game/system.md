@@ -46,6 +46,7 @@
 - 🌟 [Memory Management Reference](https://www.memorymanagement.org/index.html): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
 - [Putting the "You" in CPU](https://cpu.land/): Curious exactly what happens when you run a program on your computer? Learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
 - [gh:corkami/pics](https://github.com/corkami/pics): File formats dissections and more...
+- [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
 
 ## Compiler
 
@@ -208,6 +209,7 @@
 - [topheman/webassembly-component-model-experiments](https://github.com/topheman/webassembly-component-model-experiments): WebAssembly Component Model based REPL with sandboxed multi-language plugin system - unified codebase runs in CLI (Rust) and web (TypeScript) <https://topheman.github.io/webassembly-component-model-experiments/>
 - [bytecodealliance/wizer](https://github.com/bytecodealliance/wizer): The WebAssembly Pre-Initializer
 - [tyoma/micro-profiler](https://github.com/tyoma/micro-profiler): Cross-platform low-footprint realtime C/C++ Profiler <https://visualstudiogallery.msdn.microsoft.com/133d5764-b32b-4ec9-8ee8-5546eca64584>
+- [gh:spinframework/runtime-class-manager](https://github.com/spinframework/runtime-class-manager): A Kubernetes operator to manage Runtime Classes
 
 ### The WebAssembly Component Model
 

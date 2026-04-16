@@ -649,6 +649,7 @@ Concrete animations
 - 🌟 [gh:darkroomengineering/lenis](https://github.com/darkroomengineering/lenis): Smooth scroll at it should be <https://lenis.dev>
 - [gh:darkroomengineering/tempus](https://github.com/darkroomengineering/tempus): Use only one requestAnimationFrame for your whole app
 - [gh:KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki): Handwriting animation for any font <http://gkurt.com/tegaki>
+- 🌟 [gh:Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam): Animated border beam effect for React <http://beam.jakubantalik.com/>
 
 ## Functional libraries
 
