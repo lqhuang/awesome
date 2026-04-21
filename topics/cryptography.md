@@ -46,6 +46,8 @@
 - [gh:pq-code-package/mlkem-native](https://github.com/pq-code-package/mlkem-native): Secure, fast, and portable C90 implementation of ML-KEM / FIPS 203 <https://pq-code-package.github.io/mlkem-native/dev/bench/>
 - [gh:pq-code-package/mldsa-native](https://github.com/pq-code-package/mldsa-native): Secure, fast, and portable C90 implementation of ML-DSA / FIPS 204 <https://pq-code-package.github.io/mldsa-native/dev/bench/>
   - used in AWS-LC
+- [gh:dajiaji/crystals-kyber-js](https://github.com/dajiaji/crystals-kyber-js): The fastest pure TypeScript ML-KEM (NIST FIPS 203) implementation <https://dajiaji.github.io/crystals-kyber-js/docs/main>
+- [gh:dajiaji/hpke-js](https://github.com/dajiaji/hpke-js): A Hybrid Public Key Encryption (HPKE) module built on top of Web Cryptography API. <https://dajiaji.github.io/hpke-js/docs>
 
 ### TLS
 

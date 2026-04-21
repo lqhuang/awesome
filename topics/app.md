@@ -10,6 +10,7 @@
 - [Pre-built iOS Binaries: Reducing React Native Dev Start Time from Minutes to Seconds | Monarch Money](https://www.monarchmoney.com/blog/pre-built-ios-binaries-reducing-react-native-dev-start-time-from-minutes-to): Using pre-built binaries, we reduced our React Native app build time from minutes to seconds.
 - [marioaguzman/toolbar](https://github.com/marioaguzman/toolbar): Programmatically constructing an NSToolbar
 - [Automating the Release Process for a Desktop Application | DoltHub Blog](https://www.dolthub.com/blog/2025-09-11-automating-desktop-release-process/): We recently automated the release process for the Dolt Workbench desktop application using GitHub Actions. This article discusses how we did it.
+- [The Complete Guide to React Native Build Optimization | The Mythical Engineer](https://themythicalengineer.com/the-complete-guide-to-react-native-build-optimization.html): If you’re building React Native apps on Linux or macOS, you’ve probably noticed that release builds for Android take far longer than they should. Open your system’s activity monitor during a build and you’ll likely see the surprising culprit: most build tools are utilizing only a single CPU core, leaving the rest of your powerful machine entirely idle.
 
 ## SwiftUI
 
@@ -64,6 +65,7 @@ Direct GUI
   - React Strict DOM lets you create user interfaces that look and feel right on every platform. Web apps are rendered to HTML and rely on static CSS. Native apps look and feel native because the UI is truly native, not a web view.
   - Strict CSS styling provides a battle-tested, predictable, optimized way to encapsulate component styles on both web and native. On the web this is powered by StyleX.
   - Not mature, but promising.
+- 🌟 [gh:mrousavy/nitro](https://github.com/mrousavy/nitro): 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI <https://nitro.margelo.com>
 
 ### Libs
 

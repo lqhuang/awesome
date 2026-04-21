@@ -6,6 +6,7 @@
 - [quicktype/quicktype](https://github.com/quicktype/quicktype): Generate types and converters from JSON, Schema, and GraphQL <https://app.quicktype.io>
 - 🌟 [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com): ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution. <https://jsoncrack.com>
 - [triggerdotdev/jsonhero-web](https://github.com/triggerdotdev/jsonhero-web): JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team. <https://jsonhero.io/>
+- [gh:wesbos/JSON-Alexander](https://github.com/wesbos/JSON-Alexander): A really good JSON viewer browser Extension
 - [ritz078/transform](https://github.com/ritz078/transform): A polyglot web converter. <https://transform.tools>
 - [hyperupcall/autoenv](https://github.com/hyperupcall/autoenv): Directory-based environments
 - [muety/wakapi](https://github.com/muety/wakapi): 📊 A minimalist, self-hosted WakaTime-compatible backend for coding statistics <https://wakapi.dev>
@@ -119,6 +120,8 @@
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates): 🚢 400+ 1-click Portainer app templates <https://portainer-templates.as93.net>
 - 🌟 [netbootxyz/netboot.xyz](https://github.com/netbootxyz/netboot.xyz): Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE. <https://netboot.xyz>
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server): ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability (Authentication, anti-DDOS, anti-bot) <https://cosmos-cloud.io>
+- [gh:raspberrypi/documentation](https://github.com/raspberrypi/documentation): The official documentation for Raspberry Pi computers and microcontrollers <https://raspberrypi.com/documentation>
+- [gh:algotao/pidoc-site-zhcn](https://github.com/algotao/pidoc-site-zhcn): Raspberry Pi 树莓派中文版文档 <https://pidoc.cn/>
 
 ### Cases / Setup
 
@@ -278,6 +281,7 @@
 - [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB): 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github 最有毒的仓库, 中国表情包大集合, 聚欢乐~ <https://v2fy.com/ChineseBQB/>
 - [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md): 更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。 <https://bm.md>
 - [gh:jackwener/wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown): 微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)
+- [Compare Domain Prices](https://tld-list.com/): Explore a complete TLD list and compare domain prices in one place. Discover popular domain extensions, new top level domains among over 3496 domain name extensions.
 
 ## Branding
 

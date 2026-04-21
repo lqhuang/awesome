@@ -120,3 +120,4 @@
 - 🌟 [tweag/topiary](https://github.com/tweag/topiary): Topiary aims to be a uniform formatter for simple languages, as part of the Tree-sitter ecosystem. <https://topiary.tweag.io/>
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter): An incremental parsing system for programming tools <https://tree-sitter.github.io>
 - [wenkokke/hs-tree-sitter](https://github.com/wenkokke/hs-tree-sitter): No description, website, or topics provided.
+- [gh:bonede/tree-sitter-ng](https://github.com/bonede/tree-sitter-ng): Next generation Tree Sitter Java binding.

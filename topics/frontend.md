@@ -650,6 +650,7 @@ Concrete animations
 - [gh:darkroomengineering/tempus](https://github.com/darkroomengineering/tempus): Use only one requestAnimationFrame for your whole app
 - [gh:KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki): Handwriting animation for any font <http://gkurt.com/tegaki>
 - 🌟 [gh:Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam): Animated border beam effect for React <http://beam.jakubantalik.com/>
+- 🌟 [gh:codse/animata](https://github.com/codse/animata): Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate. <https://animata.design>
 
 ## Functional libraries
 
@@ -887,6 +888,7 @@ Concrete animations
 ### Engine
 
 - [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay): 🦖 A JavaScript/TypeScript Game Library that feels like a game. <https://kaplayjs.com>
+- [gh:phaserjs/phaser](https://github.com/phaserjs/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. <https://phaser.io>
 
 ### PWA
 

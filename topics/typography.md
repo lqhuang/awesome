@@ -56,6 +56,7 @@ Mono
 - [eigilnikolajsen/commit-mono](https://github.com/eigilnikolajsen/commit-mono): Commit Mono is an anonymous and neutral programming typeface. <https://commitmono.com/>
 - [paper-design/paper-mono](https://github.com/paper-design/paper-mono): A beautiful monospace font for design and code by Paper.
 - [gh:0xType/0xProto](https://github.com/0xType/0xProto): A high-legibility programming font engineered to minimize cognitive load.
+- [gh:mishamyrt/Lilex](https://github.com/mishamyrt/Lilex): 🤘Open source programming font <https://lilex.myrt.co>
 
 Math fonts
 

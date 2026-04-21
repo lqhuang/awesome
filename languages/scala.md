@@ -304,6 +304,19 @@ Do a benchmark (for final size while using Scala Native)?
 - [gh:reactivecore/kreuzberg](https://github.com/reactivecore/kreuzberg): ScalaJS Component System
 - [gh:scalajs-io/nodejs](https://github.com/scalajs-io/nodejs): This project provides Scala.js type-safe bindings for Node.js (current) v8.7.0 and LTS v6.11.4 APIs. The platform supports MEAN (MongoDB, Express, AngularJs, NodeJS), Cassandra, MySQL and many other npm projects.
 
+## Stream / Effect systems / Experiments
+
+- [atnos-org/eff](https://github.com/atnos-org/eff): Eff monad for cats <https://atnos-org.github.io/eff>
+- [TomasMikula/libretto](https://github.com/TomasMikula/libretto): Declarative concurrency and stream processing library for Scala
+- [strymonas/strymonas-scala](https://github.com/strymonas/strymonas-scala): Fast streams for Scala 3
+  - So I could make a Python version? 🤔
+  - [PDF: A Practical Unication of Multi-stage Programming and Macros](https://biboudis.github.io/papers/pcp-gpce18.pdf)
+  - [Stream fusion, to completeness | ACM SIGPLAN Notices](https://dl.acm.org/doi/10.1145/3093333.3009880)
+- [getkyo/kyo](https://github.com/getkyo/kyo): Toolkit for Scala Development <https://getkyo.io>
+- [marcinzh/turbolift](https://github.com/marcinzh/turbolift): Algebraic Effects for Scala 3 <https://marcinzh.github.io/turbolift>
+- [rcardin/yaes](https://github.com/rcardin/yaes): An experimental effect system in Scala using capability passing style
+- [lbialy/comparing-effect-systems](https://github.com/lbialy/comparing-effect-systems): No description, website, or topics provided.
+
 ## Featured
 
 - [softwaremill/macwire](https://github.com/softwaremill/macwire): Lightweight and Nonintrusive Scala Dependency Injection Library
@@ -447,6 +460,7 @@ Tracing and OpenTelemetry
 - [com-lihaoyi/fastparse](https://github.com/com-lihaoyi/fastparse): Writing Fast Parsers Fast in Scala <https://com-lihaoyi.github.io/fastparse>
 - [j-mie6/parsley](https://github.com/j-mie6/parsley): A fast and modern parser combinator library for Scala
 - [gh:epfl-lara/scallion](https://github.com/epfl-lara/scallion): LL(1) parser combinators in Scala
+- [gh:halotukozak/alpaca](https://github.com/halotukozak/alpaca): Another Lexer Parser And Compiler Alpaca <https://halotukozak.github.io/alpaca/>
 
 ### Web
 
@@ -462,6 +476,7 @@ Tracing and OpenTelemetry
 - [gh:lolgab/scala-saas-template](https://github.com/lolgab/scala-saas-template): A minimal multi-tenant SaaS template: server-rendered HTTP app with auth, per-user SQLite databases, and optional Stripe subscriptions.
 - [gh:input-output-hk/armadillo](https://github.com/input-output-hk/armadillo): Declarative, type-safe json-rpc endpoints library
 - [gh:Algebrazebra/slick-duckdb](https://github.com/Algebrazebra/slick-duckdb): A Slick extension for DuckDB
+- [gh:lbialy/parlance](https://github.com/lbialy/parlance): High-velocity, opinionated functional ORM inspired by Active Record patterns, laser-focused on productivity
 
 ### CLI
 
@@ -479,6 +494,18 @@ Tracing and OpenTelemetry
 - [mattlianje/layoutz](https://github.com/mattlianje/layoutz): Simple, beautiful CLI output
 - [indoorvivants/decline-derive](https://github.com/indoorvivants/decline-derive): Derive Decline CLIs automatically from your enums and case classes in Scala 3
 - [scallop/scallop](https://github.com/scallop/scallop): a simple Scala CLI parsing library
+
+### JVM
+
+- [gh:OpenHFT/Chronicle-Core](https://github.com/OpenHFT/Chronicle-Core): Low level access to native memory, JVM and OS.
+- [gh:OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue): Micro second messaging that stores everything to disk <http://chronicle.software/products/chronicle-queue/>
+
+### Spark
+
+- [VirtusLab/iskra](https://github.com/VirtusLab/iskra): Typesafe wrapper for Apache Spark DataFrame API <https://virtuslab.github.io/iskra/>
+- [gh:Netflix/wick](https://github.com/Netflix/wick): A zero cost type safe Apache Spark API
+  - [Leveraging Wick To Build Robust Data Pipelines](https://github.com/Netflix/wick/blob/main/doc/Leveraging_Wick_To_Build_Robust_Data_Pipelines.md): No description, website, or topics provided.
+- [awslabs/deequ](https://github.com/awslabs/deequ): Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 
 ### Utils
 
@@ -504,13 +531,13 @@ Tracing and OpenTelemetry
 - [encalmo/xmlwriter](https://github.com/encalmo/xmlwriter): Macro-powered fast XML serialization library for Scala 3. <https://encalmo.github.io/xmlwriter/>
 - [outr/perfolation](https://github.com/outr/perfolation): Performance focused interpolation
 - [jwbargsten/valacc](https://github.com/jwbargsten/valacc): Scala 3 accumulative error validation library
+- [gh:coursier/versions](https://github.com/coursier/versions): No description, website, or topics provided.
 
 ### Misc
 
 - [scalameta/mdoc](https://github.com/scalameta/mdoc): Typechecked markdown documentation for Scala <https://scalameta.org/mdoc>
 - [conduktor/scala-api-template](https://github.com/conduktor/scala-api-template): Example Scala API to bootstrap new projects <https://www.conduktor.io>
 - [ruippeixotog/scala-scraper](https://github.com/ruippeixotog/scala-scraper): A Scala library for scraping content from HTML pages
-- [VirtusLab/iskra](https://github.com/VirtusLab/iskra): Typesafe wrapper for Apache Spark DataFrame API <https://virtuslab.github.io/iskra/>
 - [kcrypt/scala-blake3](https://github.com/kcrypt/scala-blake3): This is a highly optimized blake3 implementation for scala, scala-js and scala-native
 - [kcrypt/scala-sha](https://github.com/kcrypt/scala-sha): SHA and Shake for scala
 - [makingthematrix/signals3](https://github.com/makingthematrix/signals3): A lightweight event streaming library for Scala 3
@@ -542,26 +569,12 @@ Tracing and OpenTelemetry
   - [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>
 - [MagentaJohn/FlicFlac](https://github.com/MagentaJohn/FlicFlac): Preparing for AI on FLY.IO
 - [jpablo/graph-explorer](https://github.com/jpablo/graph-explorer): Explore graphs in a visual way <https://graph-explorer.net>
-- [awslabs/deequ](https://github.com/awslabs/deequ): Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 
 ## Frameworks
 
 - [scalatra/scalatra](https://github.com/scalatra/scalatra): Tiny Scala high-performance, async web framework, inspired by Sinatra
 - [finagle/finch](https://github.com/finagle/finch): Scala combinator library for building Finagle HTTP services
 - [twitter/stitch](https://github.com/twitter/stitch): No description, website, or topics provided.
-
-## Stream / Effect systems / Experiments
-
-- [atnos-org/eff](https://github.com/atnos-org/eff): Eff monad for cats <https://atnos-org.github.io/eff>
-- [TomasMikula/libretto](https://github.com/TomasMikula/libretto): Declarative concurrency and stream processing library for Scala
-- [strymonas/strymonas-scala](https://github.com/strymonas/strymonas-scala): Fast streams for Scala 3
-  - So I could make a Python version? 🤔
-  - [PDF: A Practical Unication of Multi-stage Programming and Macros](https://biboudis.github.io/papers/pcp-gpce18.pdf)
-  - [Stream fusion, to completeness | ACM SIGPLAN Notices](https://dl.acm.org/doi/10.1145/3093333.3009880)
-- [getkyo/kyo](https://github.com/getkyo/kyo): Toolkit for Scala Development <https://getkyo.io>
-- [marcinzh/turbolift](https://github.com/marcinzh/turbolift): Algebraic Effects for Scala 3 <https://marcinzh.github.io/turbolift>
-- [rcardin/yaes](https://github.com/rcardin/yaes): An experimental effect system in Scala using capability passing style
-- [lbialy/comparing-effect-systems](https://github.com/lbialy/comparing-effect-systems): No description, website, or topics provided.
 
 ## Eco systems
 

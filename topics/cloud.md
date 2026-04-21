@@ -215,6 +215,7 @@
 - [microsoft/litebox](https://github.com/microsoft/litebox): A security-focused library OS supporting kernel- and user-mode execution
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin): Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox <https://earendil-works.github.io/gondolin>
 - [gh:projecteru2/cocoon](https://github.com/projecteru2/cocoon): Lightweight MicroVM VMM built on Cloud Hypervisor for AI
+- [gh:containers/libkrun](https://github.com/containers/libkrun): A dynamic library providing Virtualization-based process isolation capabilities
 
 Type 1 hypervisors
 
@@ -252,6 +253,7 @@ Type 1 hypervisors
 - [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs): Finally, a good FUSE FS implementation over S3
 - [tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs): High performance FUSE filesystem for AI workloads with S3 compatible backends
 - [supabase/storage](https://github.com/supabase/storage): S3 compatible object storage service that stores metadata in Postgres <https://supabase.com/docs/guides/storage>
+- [gh:versity/versitygw](https://github.com/versity/versitygw): A simple to deploy but feature rich S3 object storage server for your filesystem <https://www.versity.com/products/versitygw/>
 
 ### Serverless
 
@@ -436,6 +438,7 @@ Type 1 hypervisors
   - [dnaeon/kustomize-dot](https://github.com/dnaeon/kustomize-dot): CLI app and kustomize KRM Function plugin which renders a graph of Kubernetes resources and their origins
 - [helmfile/helmfile](https://github.com/helmfile/helmfile): Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. <https://helmfile.readthedocs.io>
 - [werf/nelm](https://github.com/werf/nelm): Nelm is a Helm 4 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. The Nelm goal is to provide a modern alternative to Helm, with long-standing issues fixed and many new major features introduced.
+- [gh:helm-unittest/helm-unittest](https://github.com/helm-unittest/helm-unittest): BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin.
 
 ### App framework
 

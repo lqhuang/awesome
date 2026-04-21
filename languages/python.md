@@ -445,6 +445,7 @@ Misc
 - [aogier/starlette-authlib](https://github.com/aogier/starlette-authlib): A drop-in replacement for Starlette session middleware, using Authlib's jwt
 - 🌟 [pyca/bcrypt](https://github.com/pyca/bcrypt): Modern(-ish) password hashing for your software and your servers
 - [mpdavis/python-jose](https://github.com/mpdavis/python-jose): A JOSE implementation in Python
+- [gh:jpadilla/pyjwt](https://github.com/jpadilla/pyjwt): JSON Web Token implementation in Python <https://pyjwt.readthedocs.io>
 - 📝 [Lancetnik/Propan](https://github.com/Lancetnik/Propan): Propan is a powerful and easy-to-use Python framework for building asynchronous web services that interact with Any MQ Broker <https://lancetnik.github.io/Propan/>
 - [krptn/krypton](https://github.com/krptn/krypton): Data encryption at rest and IAM for Python <https://www.krptn.dev/>
 - [breuleux/jurigged](https://github.com/breuleux/jurigged): Hot reloading for Python

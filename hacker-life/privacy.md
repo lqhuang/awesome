@@ -23,6 +23,8 @@
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist): A huge blocklist of manually curated sites that contain AI generated content for uBlock Origin & uBlacklist.
   - Deprecate finally ...
   - It also block `openai.com` ...
+- [gh:zachlagden/Pi-hole-Optimized-Blocklists](https://github.com/zachlagden/Pi-hole-Optimized-Blocklists): Pre-optimized, deduplicated Pi-hole blocklists — 1.6M+ domains across advertising, tracking, malware, and more. Updated weekly.
+  - [gh:zachlagden/Zachs-Lists](https://github.com/zachlagden/Zachs-Lists): Self-hosted blocklist aggregator and generator with a Rust-powered processing engine <https://lists.zachlagden.uk>
 - [000pp/Pinkerton](https://github.com/000pp/Pinkerton): 🕵️ Python project to crawl for JavaScript files and search for secrets like API keys, authorization tokens, hardcoded password or related. <https://pinkerton.com>
 - 🌟 [ParetoSecurity/pareto-mac](https://github.com/ParetoSecurity/pareto-mac): Automatically audit your Mac for basic security hygiene. <https://paretosecurity.com>
 - [lanedirt/AliasVault](https://github.com/lanedirt/AliasVault): A self-hostable, end-to-end encrypted password manager with a built-in alias generator and email server. <https://aliasvault.net>

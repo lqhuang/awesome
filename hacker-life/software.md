@@ -43,6 +43,7 @@
 - 🌟 [KDE/labplot](https://github.com/KDE/labplot): LabPlot is a FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone. <https://invent.kde.org/education/labplot>
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW): A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [gh:Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP): A Patch for GIMP 3+ for Photoshop Users
+- [gh:tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme): Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions. <https://www.altsendme.com/>
 
 ### Reader
 
@@ -325,6 +326,9 @@ Terminal / SSH
 - [BioHazard786/warpdrop](https://github.com/BioHazard786/warpdrop): A simple, secure p2p file sharing tool using WebRTC technology. <https://warpdrop.qzz.io>
 - [polius/FileSync](https://github.com/polius/FileSync): Send files from one device to many in real-time. <https://filesync.app>
 - [Lakr233/AssppWeb](https://github.com/Lakr233/AssppWeb): A web-based tool for acquiring and installing iOS apps outside the App Store. Authenticate with your Apple ID, search for apps, acquire licenses, and install IPAs directly to your device.
+- 🌟 [gh:iamcheyan/fudoki](https://github.com/iamcheyan/fudoki): An interactive Japanese text analysis and speech synthesis web app <https://fudoki.iamcheyan.com/>
+- [gh:iamcheyan/kotoba](https://github.com/iamcheyan/kotoba): 概要 ウェブベースの日本語学習ツールです。インタラクティブなインターフェースを通じて、ユーザーが日本語の語彙を練習することができます。学習モードと練習モードの両方をサポートしており、様々なレベルの学習者に適しています。
+- [gh:heyderekj/dinky](https://github.com/heyderekj/dinky): Dinky makes files smaller. <https://dinkyfiles.com>
 
 ### Git hosting
 
