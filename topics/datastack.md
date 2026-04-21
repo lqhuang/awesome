@@ -104,6 +104,7 @@
 - [argilla-io/argilla](https://github.com/argilla-io/argilla): Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency. <https://docs.argilla.io>
 - [doccano/doccano](https://github.com/doccano/doccano): Open source annotation tool for machine learning practitioners.
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine): OpenRefine is a free, open source power tool for working with messy data and improving it <https://openrefine.org/>
+- [gh:posit-dev/pointblank](https://github.com/posit-dev/pointblank): Data validation toolkit for assessing and monitoring data quality. <https://posit-dev.github.io/pointblank/>
 
 ## Data Observability
 
@@ -116,3 +117,4 @@
 - [datapane/datapane](https://github.com/datapane/datapane): Datapane is the easiest way to create data science reports from Python. <https://datapane.com>
 - [finos/perspective](https://github.com/finos/perspective): A data visualization and analytics component, especially well-suited for large and/or streaming datasets. <https://perspective.finos.org>
 - [atomicdata-dev/atomic-server](https://github.com/atomicdata-dev/atomic-server): Create, share, fetch and model Atomic Data! This project consists of a graph database + server, a CLI and a rust library. <https://atomicserver.eu>
+- 🌟 [gh:posit-dev/ggsql](https://github.com/posit-dev/ggsql): A SQL extension for declarative data visualisation based on the Grammar of Graphics. <http://ggsql.org/>

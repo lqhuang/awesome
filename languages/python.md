@@ -800,7 +800,7 @@ pdf
 - [timkpaine/ipydagred3](https://github.com/timkpaine/ipydagred3): ipywidgets library for drawing directed acyclic graphs in jupyterlab using dagre-d3
 - [jrfonseca/xdot.py](https://github.com/jrfonseca/xdot.py): Interactive viewer for graphs written in Graphviz's dot language.
 - matplotlib
-  - [has2k1/plotnine](https://github.com/has2k1/plotnine): A Grammar of Graphics for Python <https://plotnine.org>
+  - 🌟 [has2k1/plotnine](https://github.com/has2k1/plotnine): A Grammar of Graphics for Python <https://plotnine.org>
   - [lgienapp/aquarel](https://github.com/lgienapp/aquarel): Styling matplotlib made easy
   - [lmcinnes/glasbey](https://github.com/lmcinnes/glasbey): Algorithmically create or extend categorical colour palettes
   - [JosephBARBIERDARNAL/pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes): A large (+2500) collection of color maps for Python <https://python-graph-gallery.com/color-palette-finder/>
@@ -844,7 +844,9 @@ pdf
 - [widgetti/reacton](https://github.com/widgetti/reacton): A pure Python port of React for ipywidgets <https://reacton.solara.dev/>
 - 🌟 [posit-dev/great-tables](https://github.com/posit-dev/great-tables): Easily generate information-rich, publication-quality tables from Python <https://posit-dev.github.io/great-tables/>
   - [The Design Philosophy of Great Tables](https://posit-dev.github.io/great-tables/blog/design-philosophy/)
-- [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny): Shiny for Python <https://shiny.posit.co/py/>
+- 🌟 [gh:posit-dev/py-shiny](https://github.com/posit-dev/py-shiny): Shiny for Python <https://shiny.posit.co/py/>
+  - [gh:posit-dev/shinylive](https://github.com/posit-dev/shinylive): Run Shiny on Python and R (compiled to wasm) in the browser <https://shinylive.io/py/examples/>
+  - [gh:posit-dev/shinymedia](https://github.com/posit-dev/shinymedia): shinymedia is a Python and R package that provides Shiny UI controls for recording and playing back media. <https://posit-dev.github.io/shinymedia/>
 - [google/mesop](https://github.com/google/mesop): Build delightful web apps quickly in Python 🚀
 - [TexteaInc/funix](https://github.com/TexteaInc/funix): Building web apps without manually creating widgets <http://funix.io>
 - [rio-labs/rio](https://github.com/rio-labs/rio): WebApps in pure Python. No JavaScript, HTML and CSS needed <https://rio.dev>
