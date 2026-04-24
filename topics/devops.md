@@ -77,6 +77,7 @@
 - [hukkin/mdformat](https://github.com/hukkin/mdformat): CommonMark compliant Markdown formatter <https://mdformat.rtfd.io>
 - [hukkin/mdformat-shfmt](https://github.com/hukkin/mdformat-shfmt): Mdformat plugin to format shell code blocks
 - [gh:rvben/rumdl](https://github.com/rvben/rumdl): Fast Markdown linter and formatter written in Rust
+- [gh:LalitMaganti/syntaqlite](https://github.com/LalitMaganti/syntaqlite): A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer
 
 ### Reproducibility
 

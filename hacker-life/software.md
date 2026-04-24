@@ -196,37 +196,47 @@
 - [Timerge – Smart, Effortless Break Reminder for macOS](https://likang.dev/timerge/): Timerge is a smart, effortless break reminder app for macOS that tracks your real-time activity and gently nudges you to take breaks without disrupting your workflow. Stay productive and refreshed!
 - 🌟 [Notchie - Invisible Mac Teleprompter for Screen Sharing](https://www.notchie.app/): Read scripts naturally during video calls without anyone knowing. Notchie is a Mac teleprompter that hides in your notch and stays invisible during screen sharing on Zoom, Teams, Meet, and OBS.
   - Genius idea!
+- 🌟 [Pica](https://pica.joshpuckett.me/): A MacOS font management app. A better way to manage your fonts
 
 ## Windows
 
-- 🌟 [veler/DevToys](https://github.com/veler/DevToys): A Swiss Army knife for developers. <https://devtoys.app/>
+### Daily
+
 - [hellzerg/optimizer](https://github.com/hellzerg/optimizer): The finest Windows Optimizer
 - 🌟 [files-community/Files](https://github.com/files-community/Files): Building the best file manager experience for Windows <https://files.community>
-- [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB): GUI Tool To Removes Ads From Various Places Around Windows 11
-- [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager): A GUI to quickly manage your WSL2 instances <https://apps.microsoft.com/store/detail/wsl-manager/9NWS9K95NMJB>
-- [subhra74/xdm](https://github.com/subhra74/xdm): Powerfull download accelerator and video downloader <https://xtremedownloadmanager.com/>
-- [gh:ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil): Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI): UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers <https://www.marticliment.com/unigetui/>
-- [gh:winapps-org/winapps](https://github.com/winapps-org/winapps):: Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
+- 🌟 [veler/DevToys](https://github.com/veler/DevToys): A Swiss Army knife for developers. <https://devtoys.app/>
 - [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search): Official repository for Fluent Search, use to report issues or ask for a new feature <https://fluentsearch.net>
+- [subhra74/xdm](https://github.com/subhra74/xdm): Powerfull download accelerator and video downloader <https://xtremedownloadmanager.com/>
+- [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB): GUI Tool To Removes Ads From Various Places Around Windows 11
+- [gh:erazortt/DoViBaker](https://github.com/erazortt/DoViBaker): Bake the DoVi into your clip
+- [gh:balu100/dolby-vision-for-windows](https://github.com/balu100/dolby-vision-for-windows): DVFW (Dolby Vision For Windows)
+- [gh:winapps-org/winapps](https://github.com/winapps-org/winapps):: Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - 🌟 [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar): Everything integration for the Windows taskbar.
 - [fairhopeweb/JunkCtrl](https://github.com/fairhopeweb/JunkCtrl): JunkCTRL
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer): A tool to "Fix" Windows 11
-- [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+- 🌟 [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser): Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers. <https://justthebrowser.com/>
+- [gh:shanselman/PeekDesktop](https://github.com/shanselman/PeekDesktop): Click your desktop to peek at it - just like macOS Sonoma.
+
+Non open source
+
 - [Duplicate Cleaner](https://www.duplicatecleaner.com/): Find and remove duplicate files with Duplicate Cleaner, the premier free and pro solution.
+- [Seer](https://1218.io/seer/): Seer is a file preview tool for Windows that lets you preview PDFs, images, videos, Markdown, archives, and source code instantly with the Spacebar.
 - 🌟 [File Pilot - Next-gen file explorer](https://filepilot.tech/): File Pilot is a file explorer built from scratch for light-speed performance, with a modern and robust interface.
   - Non-free. But I think it's worth it.
-- 🌟 [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser): Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers. <https://justthebrowser.com/>
+
+### Dev
+
 - [Chuyu Team](https://www.chuyu.me/en-US/): DISM++
+- [gh:bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager): A GUI to quickly manage your WSL2 instances <https://apps.microsoft.com/store/detail/wsl-manager/9NWS9K95NMJB>
+- [gh:ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil): Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [gh:memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall): Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 - [gh:memstechtips/Winhance](https://github.com/memstechtips/Winhance): Application designed to optimize, customize and enhance your Windows experience.
 - [gh:ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge): Uninstall Microsoft Edge with an executable or batch script.
 - [gh:zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI): Force Remove Copilot, Recall and More in Windows 11
 - [gh:Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-- [gh:erazortt/DoViBaker](https://github.com/erazortt/DoViBaker): Bake the DoVi into your clip
-- [gh:balu100/dolby-vision-for-windows](https://github.com/balu100/dolby-vision-for-windows): DVFW (Dolby Vision For Windows)
 
-Distributions
+### Distributions
 
 Size: nano11 > AtlasOS ≈ ReviOS > Tiny11 > Win11 LTSC
 
@@ -412,6 +422,7 @@ Terminal / SSH
 - [LeslieLeung/glean](https://github.com/LeslieLeung/glean): A self-hosted RSS reader and personal knowledge management tool.
 - 🌟 [zelestcarlyone/stacks](https://github.com/zelestcarlyone/stacks): Lightweight download manager for Anna's Archive with fast downloads, web UI, and API support.
 - 🌟 [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search <https://karakeep.app>
+- [gh:raphaelsalaja/pond](https://github.com/raphaelsalaja/pond): One inbox for everything you save across Twitter/X, Instagram, Pinterest, Are.na, and Cosmos
 
 ### Cloud Disk
 

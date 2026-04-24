@@ -4,8 +4,9 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 
 ## Guidelines
 
-- [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines): Chinese copywriting guidelines for better written communication／中文文案排版指北
-- [yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide): An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io <https://zh-style-guide.readthedocs.io>
+- 🌟 [The Punctuation Guide](https://www.thepunctuationguide.com/): The web's most comprehensive guide to American punctuation.
+- [gh:sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines/): Chinese copywriting guidelines for better written communication／中文文案排版指北
+- [gh:yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide/): An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io <https://zh-style-guide.readthedocs.io>
 - [Requirements for Chinese Text Layout 中文排版需求](https://www.w3.org/TR/clreq/)
   - [dev draft](https://w3c.github.io/clreq/)
 

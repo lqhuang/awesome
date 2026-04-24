@@ -137,6 +137,7 @@
 - [kunai-project/kunai](https://github.com/kunai-project/kunai): Threat-hunting tool for Linux <https://why.kunai.rocks>
 - [DavidVentura/ebpf.party](https://github.com/DavidVentura/ebpf.party): Code for ebpf.party <https://ebpf.party/>
 - [tw4452852/zbpf](https://github.com/tw4452852/zbpf): Writing eBPF in Zig
+- [gh:pandaadir05/snoop](https://github.com/pandaadir05/snoop): A modern syscall tracer built on eBPF. Think strace, but with a real TUI, smart filters, TLS decryption, and output that's actually readable.
 
 ## Compression
 
@@ -188,6 +189,7 @@
 
 - 🌟 [orhun/binsider](https://github.com/orhun/binsider): Analyze ELF binaries like a boss 😼🕵️‍♂️ <https://binsider.dev/>
 - [google/nsjail](https://github.com/google/nsjail): A lightweight process isolation tool that utilizes Linux namespaces, cgroups, rlimits and seccomp-bpf syscall filters, leveraging the Kafel BPF language for enhanced security. <https://nsjail.dev>
+- [gh:lief-project/LIEF](https://github.com/lief-project/LIEF): LIEF - Library to Instrument Executable Formats (C++, Python, Rust) <https://lief.re>
 
 ## WASM Runtime
 

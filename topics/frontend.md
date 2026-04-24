@@ -608,6 +608,7 @@ Syntax hightlight
 - 🌟 [liabru/matter-js](https://github.com/liabru/matter-js): a 2D rigid body physics engine for the web ▲● ■
 - 🌟 [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas): An React.js component library for beautifully shaded canvas <https://uvcanvas.com>
 - [greensock/GSAP](https://github.com/greensock/GSAP): GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web <https://gsap.com>
+  - [gh:heygen-com/hyperframes](https://github.com/heygen-com/hyperframes): Write HTML. Render video. Built for agents.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css): 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. <https://animate.style/>
 - [galacean/effects-runtime](https://github.com/galacean/effects-runtime): It can load and render cool animation effects <https://www.galacean.com/effects/>
 - [useAnimations/react-useanimations](https://github.com/useAnimations/react-useanimations): React-useanimations is a collection of free animated open source icons for React.js. <http://react.useanimations.com>
@@ -722,6 +723,7 @@ Concrete animations
 - [aidenybai/react-grab](https://github.com/aidenybai/react-grab): Select context for coding agents directly from your website <https://react-grab.com>
 - [gh:aidenybai/element-source](https://github.com/aidenybai/element-source): Get the source file location of any DOM element. Works with React, Vue, Svelte, Solid <https://element-source.com>
 - [gh:joshcirre/instruckt](https://github.com/joshcirre/instruckt): No description, website, or topics provided.
+- [gh:webllm/webblackbox](https://github.com/webllm/webblackbox): A Web Blackbox <https://webllm.github.io/webblackbox/>
 
 ### Misc
 

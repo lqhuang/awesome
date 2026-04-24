@@ -56,6 +56,7 @@
 - [clflushopt/tpchgen-rs](https://github.com/clflushopt/tpchgen-rs): TPC-H benchmark data generation in pure Rust
   - [tpchgen-rs World’s fastest open source TPC-H data generator, written in Rust - Apache DataFusion Blog](https://datafusion.apache.org/blog/2025/04/10/fastest-tpch-generator/)
 - [microsoft/bf-tree](https://github.com/microsoft/bf-tree): Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research.
+- [gh:opendata-oss/opendata](https://github.com/opendata-oss/opendata): OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation. <https://www.opendata.dev>
 
 ### Practices
 
@@ -111,6 +112,7 @@
   - [Billions of Edges Per Second with Postgres](https://onesparse.com/blog/2025/07/01/billions-of-edges-per-second-with-postgres.html)
 - 🌟 [gh:LadybugDB/ladybug](https://github.com/LadybugDB/ladybug): LadybugDB a graph database <https://ladybugdb.com/>
 - [gh:apache/hugegraph](https://github.com/apache/hugegraph): A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends) <https://hugegraph.apache.org>
+- [gh:oxigraph/oxigraph](https://github.com/oxigraph/oxigraph): SPARQL graph database
 
 ### KV
 

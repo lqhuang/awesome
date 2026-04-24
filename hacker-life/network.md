@@ -148,7 +148,7 @@
 - 🌟 [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks): tun2socks - powered by gVisor TCP/IP stack <https://github.com/xjasonlyu/tun2socks/wiki>
 - [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel): Tun2Socks (Linux/Android/BSD/macOS/iOS/Windows) (IPv4/IPv6/TCP/UDP)
 - [doxx/darkflare](https://github.com/doxx/darkflare): DarkFlare Firewall Piercing (TCP over CDN)
-- [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge): Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy <https://interceptsuite.com/>
+- 🌟 [InterceptSuite/ProxyBridge](https://github.com/InterceptSuite/ProxyBridge): Proxifier Alternative to redirect any Windows/MacOS/Linux TCP and UDP traffic to HTTP/Socks5 proxy <https://interceptsuite.com/>
 
 ## DNS
 

@@ -204,21 +204,28 @@
 
 ## Serialization Protocl
 
-- [gh:capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto serialization/RPC system - core tools and C++ library <https://capnproto.org>
+- 🌟 [gh:rkyv/rkyv](https://github.com/rkyv/rkyv): Zero-copy deserialization framework for Rust
 - [gh:google/riegeli](https://github.com/google/riegeli): Riegeli/records is a file format for storing a sequence of string records, typically serialized protocol buffers.
 - [gh:evanw/kiwi](https://github.com/evanw/kiwi): A schema-based binary format for efficiently encoding trees of data <http://evanw.github.io/kiwi/>
+- [gh:deeptir18/cornflakes](https://github.com/deeptir18/cornflakes): A zero-copy serialization library and networking stack.
+- [gh:faasm/faabric](https://github.com/faasm/faabric): Messaging and state layer for distributed serverless applications <https://faabric.readthedocs.io>
+- [gh:capnproto/capnproto](https://github.com/capnproto/capnproto): Cap'n Proto serialization/RPC system - core tools and C++ library <https://capnproto.org>
+  - [gh:capnproto/capnproto-rust](https://github.com/capnproto/capnproto-rust): Cap'n Proto for Rust
+  - [gh:trickstar0301/capnp-ls](https://github.com/trickstar0301/capnp-ls): Cap'n Proto Language Server
+- 🌟 [gh:cloudflare/capnweb](https://github.com/cloudflare/capnweb): JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+  - [Cap'n Web: a new RPC system for browsers and web servers](https://blog.cloudflare.com/capnweb-javascript-rpc-library/): Cap'n Web is a new open source, JavaScript-native RPC protocol for use in browsers and web servers. It provides the expressive power of Cap'n Proto, but with no schemas and no boilerplate.
 
 ## RPC System
 
-- [google/gnxi](https://github.com/google/gnxi): gNXI Tools - gRPC Network Management/Operations Interface Tools
-- 🌟 [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-- [grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe): A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
-- 🌟 [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate): Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases! <https://buf.build/bufbuild/protovalidate>
-- [pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc): Documentation generator plugin for Google Protocol Buffers
-- [grpc/grpc-web](https://github.com/grpc/grpc-web): gRPC for Web Clients <https://grpc.io>
-- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) <https://openapi-generator.tech>
-- [muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock): OpenAPI mock server with random data generation
-- [getezy/ezy](https://github.com/getezy/ezy): 🔥 GUI client for gRPC/gRPC-Web <https://getezy.dev>
+- [gh:google/gnxi](https://github.com/google/gnxi): gNXI Tools - gRPC Network Management/Operations Interface Tools
+- 🌟 [gh:fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl): Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+- [gh:grpc-ecosystem/grpc-health-probe](https://github.com/grpc-ecosystem/grpc-health-probe): A command-line tool to perform health-checks for gRPC applications in Kubernetes and elsewhere
+- 🌟 [gh:bufbuild/protovalidate](https://github.com/bufbuild/protovalidate): Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases! <https://buf.build/bufbuild/protovalidate>
+- [gh:pseudomuto/protoc-gen-doc](https://github.com/pseudomuto/protoc-gen-doc): Documentation generator plugin for Google Protocol Buffers
+- [gh:grpc/grpc-web](https://github.com/grpc/grpc-web): gRPC for Web Clients <https://grpc.io>
+- [gh:OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator): OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3) <https://openapi-generator.tech>
+- [gh:muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock): OpenAPI mock server with random data generation
+- [gh:getezy/ezy](https://github.com/getezy/ezy): 🔥 GUI client for gRPC/gRPC-Web <https://getezy.dev>
 - [gh:nilslice/protolock](https://github.com/nilslice/protolock): Protocol Buffer companion tool. Track your .proto files and prevent changes to messages and services which impact API compatibility. <https://protolock.dev>
 
 ## Serverless

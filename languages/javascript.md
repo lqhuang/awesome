@@ -538,6 +538,7 @@ Deep equal
 - [gh:forwardemail/tangerine](https://github.com/forwardemail/tangerine): Node.js DNS over HTTPS - 🍊 Tangerine is the best drop-in replacement for dns.promises.Resolver using DNS over HTTPS ("DoH") via undici with built-in retries, timeouts, smart server rotation, AbortControllers, and caching support for multiple backends (with TTL and purge support). Made for @forwardemail. <https://forwardemail.net/docs/node-js-dns-over-https>
 - [gh:dupontcyborg/numpy-ts](https://github.com/dupontcyborg/numpy-ts): Full NumPy, in TypeScript/JavaScript (94% coverage) <https://numpyts.dev>
 - [gh:PerryTS/perry](https://github.com/PerryTS/perry): A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM. <https://www.perryts.com>
+- [gh:microsoft/node-api-dotnet](https://github.com/microsoft/node-api-dotnet): Advanced interoperability between .NET and JavaScript in the same process.
 
 ## Effect system or Type system on Typescript
 
