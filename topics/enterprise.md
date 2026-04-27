@@ -46,6 +46,7 @@
 - [nalgeon/redka](https://github.com/nalgeon/redka): Redis re-implemented with SQLite
   - Cool, but only applied on Golang now 🤔
 - [suxess-it/kubriX](https://github.com/suxess-it/kubriX): kubriX is a curated, opinionated, and highly flexible Internal Developer Platform (IDP) for Kubernetes.
+- [gh:legions-developer/invoicely](https://github.com/legions-developer/invoicely): Invoicely is a simple and easy to use invoice generator where you can create beautiful and professional invoices in minutes. ~ Proudly OSS <https://invoicely.gg>
 
 ### Dev environments
 
@@ -281,6 +282,7 @@ Visual stack
 - 🌟 [bitorscanner/Bitor](https://github.com/bitorscanner/Bitor): Bitor Scanning Software <https://bitor.dev>
 - [D00Movenok/BounceBack](https://github.com/D00Movenok/BounceBack): ↕️🤫 Stealth redirector for your red team operation security
 - 🌟 [praetorian-inc/brutus](https://github.com/praetorian-inc/brutus): Fast, zero-dependency credential testing tool in Go. Brute force SSH, MySQL, PostgreSQL, Redis, MongoDB, SMB, and 20+ protocols. Hydra alternative with native fingerprintx/naabu pipeline integration.
+- [gh:infobyte/faraday](https://github.com/infobyte/faraday): Open Source Vulnerability Management Platform <https://www.faradaysec.com>
 
 ## Career
 
@@ -306,6 +308,7 @@ Visual stack
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university): A complete computer science study plan to become a software engineer.
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses): List of Computer Science courses with video lectures.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming): A collection of learning resources for curious software engineers
+- [gh:devops-interviews/devops-interview-questions](https://github.com/devops-interviews/devops-interview-questions): DevOps Interview Questions
 
 ### Open Source & Community
 

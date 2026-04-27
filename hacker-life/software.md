@@ -146,6 +146,7 @@
   - I love this app. But looks like it's still in early development.
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski): 🌈 Convert videos to high-quality GIFs on your Mac <https://sindresorhus.com/gifski>
 - [gh:groundwater/GhostVM](https://github.com/groundwater/GhostVM): Isolated macOS workspaces for agents, projects, and clients
+- [gh:cardisoft/cardinal](https://github.com/cardisoft/cardinal): Fastest file searching tool for macOS
 
 ### Free / Paid
 
@@ -224,6 +225,7 @@ Non open source
 - [Seer](https://1218.io/seer/): Seer is a file preview tool for Windows that lets you preview PDFs, images, videos, Markdown, archives, and source code instantly with the Spacebar.
 - 🌟 [File Pilot - Next-gen file explorer](https://filepilot.tech/): File Pilot is a file explorer built from scratch for light-speed performance, with a modern and robust interface.
   - Non-free. But I think it's worth it.
+- [TreeSize](https://www.jam-software.com/treesize): TreeSize is a disk space analyzer for Windows with customizable file search and several exporting and reporting possibilities.
 
 ### Dev
 
@@ -235,6 +237,7 @@ Non open source
 - [gh:ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge): Uninstall Microsoft Edge with an executable or batch script.
 - [gh:zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI): Force Remove Copilot, Recall and More in Windows 11
 - [gh:Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+- [gh:builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE): Fly through your Windows 11 setup 🐝
 
 ### Distributions
 

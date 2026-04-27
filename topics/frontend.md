@@ -328,10 +328,13 @@ Shadcn UI eco system
 
 Genius!
 
-- 🌟 [emilkowalski/vaul](https://github.com/emilkowalski/vaul): A drawer component for React. <https://vaul.emilkowal.ski>
-- 🌟 [emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React. <https://sonner.emilkowal.ski>
-- 🌟🌟🌟 [pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
-  - [huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
+- 🌟 [gh:emilkowalski/vaul](https://github.com/emilkowalski/vaul): A drawer component for React. <https://vaul.emilkowal.ski>
+- 🌟 [gh:emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React. <https://sonner.emilkowal.ski>
+- 🌟 [gh:pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
+  - [gh:huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
+- 🌟 [gh:pierrecomputer/pierre](https://github.com/pierrecomputer/pierre): pierre’s open source code <https://pierre.computer>
+  - `@pierre/diffs`
+  - `@pierre/trees`
 
 List
 
@@ -468,6 +471,7 @@ Spinners
 - [huozhi/respinner](https://github.com/huozhi/respinner): Pretty and customizable svg spinners for React.js <https://respinner.vercel.app>
 - [loadingio/loading.css](https://github.com/loadingio/loading.css): 40+ Handcrafted CSS animations dedicated for your loaders <https://loading.io/animation/>
 - [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners): A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)
+- [gh:icantcodefyi/dot-matrix-animations](https://github.com/icantcodefyi/dot-matrix-animations): 28 hand-designed 5x5 dot-matrix loader animations as standalone animated SVGs and a React component. ~4KB each, no JS runtime, agent-themed patterns. <https://dot-matrix-animations.vercel.app>
 
 Emoji
 
@@ -652,6 +656,7 @@ Concrete animations
 - [gh:KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki): Handwriting animation for any font <http://gkurt.com/tegaki>
 - 🌟 [gh:Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam): Animated border beam effect for React <http://beam.jakubantalik.com/>
 - 🌟 [gh:codse/animata](https://github.com/codse/animata): Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate. <https://animata.design>
+- [gh:pixel-point/animate-text](https://github.com/pixel-point/animate-text): Crafted text animations
 
 ## Functional libraries
 

@@ -97,6 +97,7 @@
 - [pouriyajamshidi/tcping](https://github.com/pouriyajamshidi/tcping): Ping TCP ports using tcping. Inspired by Linux's ping utility. Written in Go
 - [mkirchner/tcping](https://github.com/mkirchner/tcping): Check if a desired port is reachable via TCP
 - [gh:kbandla/dpkt](https://github.com/kbandla/dpkt): fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
+- [gh:dstotijn/hetty](https://github.com/dstotijn/hetty): An HTTP toolkit for security research. <https://hetty.xyz>
 
 ### Analysis
 
@@ -121,6 +122,7 @@
 - [Orb](https://orb.net/): Understand your Internet Experience. A new app from the creators of Speedtest & Downdetector.
   - not oss project
 - [LibreQoE/LibreQoS](https://github.com/LibreQoE/LibreQoS): A Quality of Experience and Smart Queue Management system for ISPs. Leverage CAKE to improve network responsiveness, enforce bandwidth plans, and reduce bufferbloat. <https://libreqos.io/>
+- [gh:Kookiejarz/Auto_XDP](https://github.com/Kookiejarz/Auto_XDP): Auto-sync listening ports into XDP/nftables, preserve return traffic, keep host protection alive with fallback. Zero-config, maximum protection. <https://liuu.org/posts/ddos/>
 
 ## SDN and network simulation
 

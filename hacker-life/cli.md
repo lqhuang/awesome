@@ -132,14 +132,15 @@
 
 ### Syncing
 
+- 🌟 [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization <https://syncthing.net/>
+  - [gh:pixelspark/sushitrain](https://github.com/pixelspark/sushitrain): Securely synchronize files with your devices on iOS using Syncthing
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen): Fast file synchronization and network forwarding for remote development <https://mutagen.io>
-- [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization <https://syncthing.net/>
 - [n0-computer/iroh](https://github.com/n0-computer/iroh): Sync anywhere <https://iroh.computer>
 - [lsyncd/lsyncd](https://github.com/lsyncd/lsyncd): Lsyncd (Live Syncing Daemon) synchronizes local directories with remote targets
 - [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer): Tools for synching and streaming files from Windows to Linux
   - not maintained anymore
   - still great example to learn from
-- [Kena-Njonge/osync](https://github.com/Kena-Njonge/osync): No description, website, or topics provided.
+- [Kena-Njonge/osync](https://github.com/Kena-Njonge/osync): osync is a small personal project that keeps two directories in sync across machines.
 
 ### Watcher
 

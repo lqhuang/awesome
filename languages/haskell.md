@@ -166,6 +166,10 @@
   - [achirkin/easytensor](https://github.com/achirkin/easytensor): Many-dimensional type-safe numeric ops <https://hackage.haskell.org/package/easytensor>
 - [raehik/type-level-prng](https://github.com/raehik/type-level-prng): Type level pseudorandom number generators
 
+## Stream
+
+- [gh:shinzui/shibuya](https://github.com/shinzui/shibuya): Shibuya provides a unified abstraction over various message queue backends (Kafka, PostgreSQL queues, SQS, Redis) with built-in supervision, backpressure, and composable stream transformations.
+
 ## CLI
 
 - [chshersh/iris](https://github.com/chshersh/iris): 🌈 Haskell CLI Framework supporting Command Line Interface Guidelines

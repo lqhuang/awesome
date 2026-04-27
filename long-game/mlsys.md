@@ -406,6 +406,7 @@ JAX Special
 - [RobertTLange/evosax](https://github.com/RobertTLange/evosax): Evolution Strategies in JAX 🦎
 - [jaxleyverse/jaxley](https://github.com/jaxleyverse/jaxley): Differentiable neuron simulations with biophysical detail on CPU, GPU, or TPU. <https://jaxley.readthedocs.io>
 - [divyamakkar0/JAXformer](https://github.com/divyamakkar0/JAXformer): This is a zero-to-one guide on scaling modern transformers with n-dimensional parallelism. <https://jaxformer.com>
+- [gh:cusp-ai-oss/kUPS](https://github.com/cusp-ai-oss/kUPS): A high-performance toolkit for atomistic simulations in JAX. <https://cusp-ai-oss.github.io/kUPS/>
 
 patrick-kidger
 

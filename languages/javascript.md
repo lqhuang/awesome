@@ -537,7 +537,6 @@ Deep equal
 - [tsoniclang/tsonic](https://github.com/tsoniclang/tsonic): Compile TS to native code via NativeAOT
 - [gh:forwardemail/tangerine](https://github.com/forwardemail/tangerine): Node.js DNS over HTTPS - 🍊 Tangerine is the best drop-in replacement for dns.promises.Resolver using DNS over HTTPS ("DoH") via undici with built-in retries, timeouts, smart server rotation, AbortControllers, and caching support for multiple backends (with TTL and purge support). Made for @forwardemail. <https://forwardemail.net/docs/node-js-dns-over-https>
 - [gh:dupontcyborg/numpy-ts](https://github.com/dupontcyborg/numpy-ts): Full NumPy, in TypeScript/JavaScript (94% coverage) <https://numpyts.dev>
-- [gh:PerryTS/perry](https://github.com/PerryTS/perry): A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM. <https://www.perryts.com>
 - [gh:microsoft/node-api-dotnet](https://github.com/microsoft/node-api-dotnet): Advanced interoperability between .NET and JavaScript in the same process.
 
 ## Effect system or Type system on Typescript
@@ -549,3 +548,8 @@ Deep equal
 - [Snowflyt/tinyeffect](https://github.com/Snowflyt/tinyeffect): A tiny TypeScript library for handling side effects in a unified way using algebraic effects, offering a type-safe approach for async operations, error handling, dependency injection, and more. <https://github.com/Snowflyt/tinyeffect>
 - [thefrontside/effection](https://github.com/thefrontside/effection): Structured concurrency and effects for JavaScript <https://frontside.com/effection>
 - [dqbd/ts-math-evaluate](https://github.com/dqbd/ts-math-evaluate): Type-level math expression evaluator for TypeScript. <https://ts-math-evaluate.vercel.app/>
+
+## JS Compilers
+
+- [gh:PerryTS/perry](https://github.com/PerryTS/perry): A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM. <https://www.perryts.com>
+- [gh:CanadaHonk/porffor](https://github.com/CanadaHonk/porffor): An ahead-of-time JavaScript compiler <https://porffor.dev>
