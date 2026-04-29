@@ -78,6 +78,8 @@
 - [sourceware:libabigail](https://sourceware.org/git/libabigail.git): The Git repository of the Libabigail Project
   - [libabigail: The ABI Generic Analysis and Instrumentation Library](https://sourceware.org/libabigail/)
 - [PVS‑Studio is a solution to enhance code quality, security (SAST), and safety](https://pvs-studio.com/en/): A static analyzer for C, C++, C#, and Java code. Works on Windows, Linux, and macOS. Analyzes code for 32-bit, 64-bit, and ARM embedded platforms.
+- [gh:bootlin/elixir](https://github.com/bootlin/elixir): The Elixir Cross Referencer
+  - an interesting src viewer for low level system libs (e.g.: linux, LLVM, etc)
 
 ## Memory allocator
 

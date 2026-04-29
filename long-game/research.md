@@ -59,6 +59,7 @@
   - [Web: Computational Optimal Transport](https://optimaltransport.github.io)
   - [arXiv: Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
 - [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane): PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Train a quantum computer the same way as a neural network. <https://pennylane.ai>
+- [gh:softwareQinc/qpp](https://github.com/softwareQinc/qpp): Modern C++ quantum computing library <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208073>
 
 ## Misc
 
@@ -126,6 +127,7 @@
 - [gh:goblinunde/mathreport](https://github.com/goblinunde/mathreport): HUST report template
 - [gh:johnHostetter/presentations](https://github.com/johnHostetter/presentations): Demo showcasing how my slides are made using manim-slides, manim-beamer, and manim-timeline.
 - [LaTeX Templates @ TUM](https://sharelatex.tum.de/templates/)
+- 🌟 [gh:jules-leguy/midcenturymodern](https://github.com/jules-leguy/midcenturymodern): A modern beamer template drawing inspiration from mid-century modern aesthetics
 
 ### Typst
 

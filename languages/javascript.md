@@ -161,6 +161,7 @@ Specific
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): A lightweight Node.js private proxy registry <https://www.verdaccio.org/>
 - [gh:npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev): a fast, modern browser for the npm registry <https://npmx.dev>
 - 🌟 [gh:google/jsir](https://github.com/google/jsir): Next-generation JavaScript analysis tooling
+- [gh:pnpm/pacquet](https://github.com/pnpm/pacquet): The official pnpm rewrite in Rust <https://pnpm.io>
 
 ### Modernize
 
@@ -414,7 +415,7 @@ Specific
 - [gh:thisiskps/fetch-network-simulator](https://github.com/thisiskps/fetch-network-simulator): fetch-network-simulator <https://www.npmjs.com/package/fetch-network-simulator>
 - [gh:Netflix/falcor](https://github.com/Netflix/falcor): A JavaScript library for efficient data fetching <http://netflix.github.io/falcor>
 
-### Clients
+### Clients / Bindings
 
 - [discordeno/discordeno](https://github.com/discordeno/discordeno): Discord API library for Node and Deno <https://discordeno.js.org>
 - [platformatic/kafka](https://github.com/platformatic/kafka): A modern, high-performance, pure TypeScript/JavaScript type safe client for Apache Kafka.
@@ -428,6 +429,7 @@ Specific
 - 🌟 [photon-hq/imessage-kit](https://github.com/photon-hq/imessage-kit): A type-safe, elegant iMessage SDK for macOS with zero dependencies <https://photon.codes>
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium): Next-gen language engineering / DSL framework <https://langium.org/>
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git): A pure JavaScript implementation of git for node and browsers! <https://isomorphic-git.org/>
+- [gh:HarperFast/rocksdb-js](https://github.com/HarperFast/rocksdb-js): RocksDB binding for Node.js
 
 ### CLI
 

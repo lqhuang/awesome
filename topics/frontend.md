@@ -913,6 +913,7 @@ Concrete animations
 - [lazarv/react-server](https://github.com/lazarv/react-server): The easiest way to build React apps with server-side rendering <https://react-server.dev>
 - [kitajs/html](https://github.com/kitajs/html): 🏛️ Super fast JSX runtime to generate HTML strings that works everywhere. If it supports string we got you covered. <http://kitajs.org/discord>
 - [ije/mono-jsx](https://github.com/ije/mono-jsx): `<html>` as a `Response`.
+- [gh:docmd-io/docmd](https://github.com/docmd-io/docmd): Build production-ready documentation from Markdown in seconds. No React, no bloat, just content. <https://docmd.io>
 
 ### Headless
 

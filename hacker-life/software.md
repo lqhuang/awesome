@@ -226,6 +226,7 @@ Non open source
 - 🌟 [File Pilot - Next-gen file explorer](https://filepilot.tech/): File Pilot is a file explorer built from scratch for light-speed performance, with a modern and robust interface.
   - Non-free. But I think it's worth it.
 - [TreeSize](https://www.jam-software.com/treesize): TreeSize is a disk space analyzer for Windows with customizable file search and several exporting and reporting possibilities.
+- [Anytxt Searcher](https://anytxt.net/): A Desktop Search Tool with A Powerful Full-Text Search Engine. Best Google Desktop Search Alternative.
 
 ### Dev
 

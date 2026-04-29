@@ -398,6 +398,7 @@ Libs
 ## Testing
 
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden): Define, test, and document APIs like a developer, not a SaaS user. No accounts. No lock-in. No telemetry. Just Markdown, Git, hotkeys, and your damn specs. <https://voiden.md>
+- 🌟 [gh:hegeldev/hegel-core](https://github.com/hegeldev/hegel-core): Universal property-based testing protocol, built on Hypothesis
 
 ### TAP (Test Anything Protocol)
 

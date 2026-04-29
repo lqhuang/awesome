@@ -186,6 +186,8 @@
 - [codeberg:dnkl/foot](https://codeberg.org/dnkl/foot): A fast, lightweight and minimalistic Wayland terminal emulator
   - [gh:neurosnap/footty](https://github.com/neurosnap/footty): foot's wayland ui with libghostty's vt rendering
 - [codeberg:dnkl/fuzzel](https://codeberg.org/dnkl/fuzzel): App launcher and fuzzy finder for Wayland, inspired by rofi(1) and dmenu(1).
+- [gh:control-theory/gonzo](https://github.com/control-theory/gonzo): Gonzo! The Go based TUI log analysis tool <https://www.controltheory.com/gonzo/>
+- 🌟 [gh:logdyhq/logdy-core](https://github.com/logdyhq/logdy-core): Realtime log viewer with web UI, tail -f for logs with a web interface browser. <https://logdy.dev>
 
 ## Monitor
 

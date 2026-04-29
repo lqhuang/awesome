@@ -9,6 +9,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [gh:yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide/): An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io <https://zh-style-guide.readthedocs.io>
 - [Requirements for Chinese Text Layout 中文排版需求](https://www.w3.org/TR/clreq/)
   - [dev draft](https://w3c.github.io/clreq/)
+- [gh:xfq/clreq-quiz](https://github.com/xfq/clreq-quiz):
 
 ### Resources
 

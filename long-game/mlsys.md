@@ -334,6 +334,7 @@ JAX Special
   - [RobertTLange/gymnax-blines](https://github.com/RobertTLange/gymnax-blines): Baselines for gymnax 🤖
 - [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib): One repository is all that is necessary for Multi-agent Reinforcement Learning (MARL) <https://marllib.readthedocs.io>
 - [kscalelabs/ksim](https://github.com/kscalelabs/ksim): RL training library for humanoid locomotion and manipulation. Built on top of MuJoCo and JAX. <https://docs.kscale.dev/docs/ksim>
+- [gh:mujocolab/mjlab](https://github.com/mujocolab/mjlab): Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research <https://mujocolab.github.io/mjlab/>
 
 ### Language Models / Attention
 
@@ -398,7 +399,8 @@ JAX Special
 - [erfanzar/EasyDeL](https://github.com/erfanzar/EasyDeL): Accelerate, Optimize performance with streamlined training and serving options with JAX. <https://easydel.readthedocs.io/en/latest/>
 - [NVIDIA/JAX-Toolbox](https://github.com/NVIDIA/JAX-Toolbox): JAX-Toolbox
 - [deepmodeling/jax-fem](https://github.com/deepmodeling/jax-fem): Differentiable Finite Element Method with JAX
-- [brentyi/jaxlie](https://github.com/brentyi/jaxlie): Rigid transforms + Lie groups in JAX
+- [gh:brentyi/jaxlie](https://github.com/brentyi/jaxlie): Rigid transforms + Lie groups in JAX
+- [gh:brentyi/jaxls](https://github.com/brentyi/jaxls): Sparse nonlinear least squares in JAX <https://brentyi.github.io/jaxls>
 - [pnkraemer/matfree](https://github.com/pnkraemer/matfree): Matrix-free linear algebra in JAX. <https://pnkraemer.github.io/matfree/>
 - [deepmodeling/DMFF](https://github.com/deepmodeling/DMFF): DMFF (Differentiable Molecular Force Field) is a Jax-based python package that provides a full differentiable implementation of molecular force field models.
 - [ZQZCalin/trainit](https://github.com/ZQZCalin/trainit): Trainit is a machine learning training pipeline based on jax. It is also built on optax for optimizers, equinox for models, wandb for logging, and hydra for convenient configuration management.
@@ -407,6 +409,7 @@ JAX Special
 - [jaxleyverse/jaxley](https://github.com/jaxleyverse/jaxley): Differentiable neuron simulations with biophysical detail on CPU, GPU, or TPU. <https://jaxley.readthedocs.io>
 - [divyamakkar0/JAXformer](https://github.com/divyamakkar0/JAXformer): This is a zero-to-one guide on scaling modern transformers with n-dimensional parallelism. <https://jaxformer.com>
 - [gh:cusp-ai-oss/kUPS](https://github.com/cusp-ai-oss/kUPS): A high-performance toolkit for atomistic simulations in JAX. <https://cusp-ai-oss.github.io/kUPS/>
+- [gh:erfanzar/Spectrax](https://github.com/erfanzar/Spectrax): SpecTrax is a JAX-native library for neural networks and graph learning, built for performance, composability and modularity.
 
 patrick-kidger
 

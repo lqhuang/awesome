@@ -23,6 +23,7 @@
 - [Xiang-cd/GPUProcessPoolExecutor](https://github.com/Xiang-cd/GPUProcessPoolExecutor): A implementation of GPUProcessPoolExecutor to perform light weighted GPU parallel tasks.
 - [pablogsal/python-horror-show](https://github.com/pablogsal/python-horror-show): Strange and odd python snippets explained
 - [fstrings.wtf - Python F-String Quiz](https://fstrings.wtf/): Test your knowledge of Python's f-string formatting with this interactive quiz. How well do you know Python's string formatting quirks?
+- [Learn Python object-oriented programming with Raymond Hettinger - death and gravity](https://death.andgravity.com/hettinger)
 
 ### Readings
 
@@ -468,6 +469,7 @@ Misc
 - [python-babel/babel](https://github.com/python-babel/babel): The official repository for Babel, the Python Internationalization Library <http://babel.pocoo.org/>
 - [efe/yesglot](https://github.com/efe/yesglot): LLM-powered Django translations ✨ Just call me "python manage.py translatemessages" <https://pypi.org/project/yesglot/>
 - [gh:ormar-orm/ormar](https://github.com/ormar-orm/ormar): python async orm with fastapi in mind and pydantic validation <https://collerek.github.io/ormar/>
+- 🌟 [gh:TypeError/secure](https://github.com/TypeError/secure): Modern Python library for HTTP security headers with safe defaults, configurable presets, and first-class ASGI/WSGI middleware (FastAPI, Django, Flask, Shiny, and more).
 
 ### DB clients and SQL utils
 
@@ -656,6 +658,8 @@ Misc
 - 🌟 [laike9m/pdir2](https://github.com/laike9m/pdir2): Pretty dir() printing with joy:beer:
 - [patrick-kidger/wadler_lindig](https://github.com/patrick-kidger/wadler_lindig): A Wadler--Lindig pretty printer for Python <https://docs.kidger.site/wadler_lindig/>
 - 🌟 [iterative/shtab](https://github.com/iterative/shtab): ↔️ Automagic shell tab completion for Python CLI applications <https://docs.iterative.ai/shtab>
+- 🌟 [gh:brentyi/tyro](https://github.com/brentyi/tyro): CLI interfaces & config objects, from types <https://brentyi.github.io/tyro>
+- [gh:DanCardin/cappa](https://github.com/DanCardin/cappa): Declarative CLI argument parser <https://cappa.readthedocs.io/en/latest/>
 
 ### Strings
 
@@ -812,6 +816,7 @@ pdf
 - [parrt/dtreeviz](https://github.com/parrt/dtreeviz): A python library for decision tree visualization and model interpretation.
 - [d3blocks/d3blocks](https://github.com/d3blocks/d3blocks): The Python library to create stand-alone and interactive d3 charts.
 - [y-sunflower/dayplot](https://github.com/y-sunflower/dayplot): Calendar heatmaps made super simple and highly customizable <https://y-sunflower.github.io/dayplot/>
+- 🌟 [gh:viser-project/viser](https://github.com/viser-project/viser): Web-based 3D visualization in Python <https://viser.studio/main>
 
 ### TUI
 

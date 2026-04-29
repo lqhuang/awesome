@@ -546,6 +546,7 @@ Type 1 hypervisors
 
 - [servian/aws-auto-cleanup](https://github.com/servian/aws-auto-cleanup): Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings
 - [localstack/localstack](https://github.com/localstack/localstack): 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
+- [gh:ministackorg/ministack](https://github.com/ministackorg/ministack): Ministack: Free, open-source local AWS emulator - 40+ services, Terraform compatible, real databases. Free forever. MIT licensed. <https://ministack.org>
 - [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt): Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules.
 - [snyk/driftctl](https://github.com/snyk/driftctl): Detect, track and alert on infrastructure drift <https://driftctl.com>
 - [someengineering/resoto](https://github.com/someengineering/resoto): Resoto creates an inventory of your cloud, provides deep visibility, and reacts to changes in your infrastructure. ⚡️ <https://resoto.com>

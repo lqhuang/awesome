@@ -206,6 +206,19 @@ And modern is here now.
 
 ## Extra standard libs
 
+### Better libc
+
+- [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
+- [gh:rustyrussell/ccan](https://github.com/rustyrussell/ccan): The C Code Archive Network <http://ccodearchive.net/>
+- [gh:apache/apr](https://github.com/apache/apr): Mirror of Apache Portable Runtime
+- [gh:dcreager/libcork](https://github.com/dcreager/libcork): A simple, easily embeddable cross-platform C library <https://libcork.io/>
+- [gh:skarnet/skalibs](https://github.com/skarnet/skalibs): The skarnet.org C system programming library <https://skarnet.org/software/skalibs/>
+- [diet libc](https://www.fefe.de/dietlibc/): - a libc optimized for small size
+- [gh:picolibc/picolibc](https://github.com/picolibc/picolibc): picolibc - a C library designed for embedded 32- and 64- bit systems. <https://keithp.com/picolibc>
+- [gh:jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
+- [gh:nothings/stb](https://github.com/nothings/stb): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
+- [gh:wbx-github/uclibc-ng](https://github.com/wbx-github/uclibc-ng): Embedded C Library (mirror) <https://uclibc-ng.org>
+
 ### Better STL / libc++
 
 - [JacksonAllan/CC](https://github.com/JacksonAllan/CC): A small, usability-oriented generic container library.
@@ -223,18 +236,6 @@ And modern is here now.
 - [mpark/patterns](https://github.com/mpark/patterns): This is an experimental library that has evolved to P2688 <https://wg21.link/p2688>
 - [nonstd-lite/expected-lite](https://github.com/nonstd-lite/expected-lite): expected lite - C++23 expected objects for C++11 and later in a single-file header-only library
 - [microsoft/GSL](https://github.com/microsoft/GSL): Guidelines Support Library
-
-### Better libc
-
-- [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
-- [gh:rustyrussell/ccan](https://github.com/rustyrussell/ccan): The C Code Archive Network <http://ccodearchive.net/>
-- [gh:apache/apr](https://github.com/apache/apr): Mirror of Apache Portable Runtime
-- [gh:dcreager/libcork](https://github.com/dcreager/libcork): A simple, easily embeddable cross-platform C library <https://libcork.io/>
-- [gh:skarnet/skalibs](https://github.com/skarnet/skalibs): The skarnet.org C system programming library <https://skarnet.org/software/skalibs/>
-- [diet libc](https://www.fefe.de/dietlibc/): - a libc optimized for small size
-- [gh:picolibc/picolibc](https://github.com/picolibc/picolibc): picolibc - a C library designed for embedded 32- and 64- bit systems. <https://keithp.com/picolibc>
-- [gh:jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
-- [gh:nothings/stb](https://github.com/nothings/stb): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
 
 ## Safer CPP
 
@@ -270,7 +271,6 @@ And modern is here now.
 - [gh:microsoft/proxy](https://github.com/microsoft/proxy): Proxy: Next Generation Polymorphism in C++ <https://microsoft.github.io/proxy/docs/specifications.html>
 - [gh:weidai11/cryptopp](https://github.com/weidai11/cryptopp): free C++ class library of cryptographic schemes <https://cryptopp.com>
 - [gh:flanglet/kanzi-cpp](https://github.com/flanglet/kanzi-cpp): Fast lossless data compression in C++
-- [gh:g-truc/glm](https://github.com/g-truc/glm): OpenGL Mathematics (GLM) <https://glm.g-truc.net>
 - [gh:skypjack/entt](https://github.com/skypjack/entt): Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more <https://github.com/skypjack/entt/wiki>
 - [gh:jeremy-rifkin/cpptrace](https://github.com/jeremy-rifkin/cpptrace): Simple, portable, and self-contained stacktrace library for C++11 and newer
 - [gh:aous72/OpenJPH](https://github.com/aous72/OpenJPH): Open-source implementation of JPEG2000 Part-15 (or JPH or HTJ2K)
@@ -315,12 +315,12 @@ And modern is here now.
 - [snowballstem/snowball](https://github.com/snowballstem/snowball): Snowball compiler and stemming algorithms <https://snowballstem.org/>
 - [vitaut/schubfach](https://github.com/vitaut/schubfach): A C++ implementation of the Schubfach algorithm - fast and accurate conversion of IEEE-754 double values to decimal strings
 
-## Parser
+### Parser
 
 - [taocpp/PEGTL](https://github.com/taocpp/PEGTL): Parsing Expression Grammar Template Library
 - [foonathan/lexy](https://github.com/foonathan/lexy): C++ parsing DSL <https://lexy.foonathan.net>
 
-## Async / Concurrency
+### Async / Concurrency / Parallelism
 
 - [google/nsync](https://github.com/google/nsync): nsync is a C library that exports various synchronization primitives, such as mutexes
 - [Amanieu/asyncplusplus](https://github.com/Amanieu/asyncplusplus): Async++ concurrency framework for C++11
@@ -340,6 +340,22 @@ And modern is here now.
 - [cmuparlay/parlaylib](https://github.com/cmuparlay/parlaylib): A Toolkit for Programming Parallel Algorithms on Shared-Memory Multicore Machines
 - [cmuparlay/PAM](https://github.com/cmuparlay/PAM): Parallel Balanced Binary Tree Structures
 - [bshoshany/thread-pool](https://github.com/bshoshany/thread-pool): BS::thread_pool: a fast, lightweight, modern, and easy-to-use C++17 / C++20 / C++23 thread pool library
+- [halide/Halide](https://github.com/halide/Halide): a language for fast, portable data-parallel computation <https://halide-lang.org>
+- [kokkos/kokkos](https://github.com/kokkos/kokkos): Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction <https://kokkos.org>
+
+### Numerical / Math
+
+- [The Netlib](https://www.netlib.org/): Netlib is a collection of mathematical software, papers, and databases.
+  - [gh:Reference-LAPACK/lapack](https://github.com/Reference-LAPACK/lapack): LAPACK development repository
+  - [LAPACK — Linear Algebra PACKage](https://www.netlib.org/lapack/index.html)
+  - [BLAS (Basic Linear Algebra Subprograms)](https://www.netlib.org/blas/index.html)
+- 🌟 [gitlab:libeigen/eigen](https://gitlab.com/libeigen/eigen): Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.
+  - [gh:yixuan/spectra](https://github.com/yixuan/spectra): A header-only C++ library for large scale eigenvalue problems <https://spectralib.org>
+- [gh:beltoforion/muparser](https://github.com/beltoforion/muparser): muparser is a fast math parser library for C/C++ with (optional) OpenMP support. <http://beltoforion.de/en/muparser>
+- 🌟 [flame/blis](https://github.com/flame/blis): BLAS-like Library Instantiation Software Framework
+- [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library <https://dpilger26.github.io/NumCpp>
+- [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS): OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. <http://www.openblas.net>
+- [gh:g-truc/glm](https://github.com/g-truc/glm): OpenGL Mathematics (GLM) <https://glm.g-truc.net>
 
 ### Network / RPC
 
@@ -355,6 +371,7 @@ And modern is here now.
 - [userver-framework/userver](https://github.com/userver-framework/userver): The C++ Asynchronous Framework (beta) <https://userver.tech>
 - [skypjack/uvw](https://github.com/skypjack/uvw): Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library!
 - [mratsim/weave](https://github.com/mratsim/weave): A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead The Curse of Strong Typing
+- [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
 
 ### Web
 
@@ -373,7 +390,7 @@ And modern is here now.
 - [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11): CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface. <https://cliutils.github.io/CLI11/book/>
 - [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts): Lightweight C++ command line option parser
 
-## Utils
+### Utils
 
 - [intel/hyperscan](https://github.com/intel/hyperscan): High-performance regular expression matching library <https://www.hyperscan.io>
 - [TartanLlama/expected](https://github.com/TartanLlama/expected): C++11/14/17 std::expected with functional-style extensions <https://tl.tartanllama.xyz>
@@ -384,7 +401,9 @@ And modern is here now.
 - [soasis/platform](https://github.com/soasis/platform): A library for messing with platfom-dependent configurations and libraries, and sometimes hiding their cores.
 - [p-ranav/tabulate](https://github.com/p-ranav/tabulate): Table Maker for Modern C++
 
-## GPU / CUDA
+## HPC
+
+### GPU / CUDA
 
 - [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire): ArrayFire: a general purpose GPU library. <https://arrayfire.com>
 - [NVIDIA/cccl](https://github.com/NVIDIA/cccl): CUDA Core Compute Libraries <https://nvidia.github.io/cccl/>
@@ -393,7 +412,7 @@ And modern is here now.
 - [NVIDIA/gdrcopy](https://github.com/NVIDIA/gdrcopy): A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology
 - [shader-slang/slang](https://github.com/shader-slang/slang): Making it easier to work with shaders <http://shader-slang.com>
 
-## HPC / SIMD / Vectorization
+## SIMD / Vectorization
 
 - [google/highway](https://github.com/google/highway): Performance-portable, length-agnostic SIMD with runtime dispatch
 - 🌟 [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd): C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE)
@@ -406,14 +425,8 @@ And modern is here now.
   - [SciPy distances... up to 200x faster with AVX-512 & SVE 📏](https://ashvardanian.com/posts/simsimd-faster-scipy/)
   - [Python, C, Assembly - 2'500x Faster Cosine Similarity 📐](https://ashvardanian.com/posts/python-c-assembly-comparison/)
 - [PennyLaneAI/pennylane-lightning](https://github.com/PennyLaneAI/pennylane-lightning): The PennyLane-Lightning plugin provides a fast state-vector simulator written in C++ for use with PennyLane <https://docs.pennylane.ai/projects/lightning>
-- [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
 - [shibatch/sleef](https://github.com/shibatch/sleef): SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT <https://sleef.org>
-- 🌟 [flame/blis](https://github.com/flame/blis): BLAS-like Library Instantiation Software Framework
 - [WojciechMula/sse4-strstr](https://github.com/WojciechMula/sse4-strstr): SIMD (SWAR/SSE/SSE4/AVX2/AVX512F/ARM Neon) of Karp-Rabin algorithm's modification <http://0x80.pl/articles/simd-strfind.html>
-- [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp): C++ implementation of the Python Numpy library <https://dpilger26.github.io/NumCpp>
-- [halide/Halide](https://github.com/halide/Halide): a language for fast, portable data-parallel computation <https://halide-lang.org>
-- [OpenMathLib/OpenBLAS](https://github.com/OpenMathLib/OpenBLAS): OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. <http://www.openblas.net>
-- [kokkos/kokkos](https://github.com/kokkos/kokkos): Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction <https://kokkos.org>
 - [gh:jfalcou/eve](https://github.com/jfalcou/eve): Expressive Vector Engine - SIMD in C++ Goes Brrrr <https://jfalcou.github.io/eve/>
 
 ## Compiler beyond default Clang
