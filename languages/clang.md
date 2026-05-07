@@ -218,6 +218,9 @@ And modern is here now.
 - [gh:jart/cosmopolitan](https://github.com/jart/cosmopolitan): build-once run-anywhere c library
 - [gh:nothings/stb](https://github.com/nothings/stb): stb single-file public domain libraries for C/C++ <https://twitter.com/nothings>
 - [gh:wbx-github/uclibc-ng](https://github.com/wbx-github/uclibc-ng): Embedded C Library (mirror) <https://uclibc-ng.org>
+- [gh:microsoft/lib0xc](https://github.com/microsoft/lib0xc): Safe(ish) C programming library
+  - [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming | Hacker News](https://news.ycombinator.com/item?id=47978834)
+- 🌟 [gh:nemequ/portable-snippets](https://github.com/nemequ/portable-snippets): Collection of miscellaneous portable C snippets.
 
 ### Better STL / libc++
 
@@ -289,6 +292,7 @@ And modern is here now.
 - [lewj85/jessesort](https://github.com/lewj85/jessesort): No description, website, or topics provided.
 - 🌟 [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers. <https://greg7mdp.github.io/parallel-hashmap>
 - [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers): C++ Fixed Containers
+- [codeberg:uecker/noplate](https://codeberg.org/uecker/noplate): experimental generic type-safe container data structures for C
 
 ### Serde
 
@@ -372,6 +376,7 @@ And modern is here now.
 - [skypjack/uvw](https://github.com/skypjack/uvw): Header-only, event based, tiny and easy to use libuv wrapper in modern C++ - now available as also shared/static library!
 - [mratsim/weave](https://github.com/mratsim/weave): A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead The Curse of Strong Typing
 - [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
+- [gh:clice-io/kotatsu](https://github.com/clice-io/kotatsu): `kotatsu` is a C++23 toolkit extracted from the `clice` ecosystem. It started as a coroutine wrapper around libuv, and now also includes compile-time reflection, an attribute-driven codec framework, a typed IPC layer with generated LSP protocol bindings, a lightweight test framework, an LLVM-compatible option parsing library, a declarative CLI layer built on top, and a shared support layer of containers, traits, and string utilities.
 
 ### Web
 

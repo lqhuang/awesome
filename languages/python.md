@@ -723,6 +723,7 @@ Misc
 - [Pylir/Pylir](https://github.com/Pylir/Pylir): An optimizing ahead-of-time Python Compiler <https://pylir.github.io/Pylir/>
   - llvm + mlir
 - [wlav/cppyy](https://github.com/wlav/cppyy): cppyy provides fully automatic, dynamic Python-C++ bindings by leveraging the Cling C++ interpreter and LLVM.
+- [gh:microsoft/bocpy](https://github.com/microsoft/bocpy): Behavior-Oriented Concurrency in Python <https://microsoft.github.io/bocpy/>
 
 ### Parsers
 

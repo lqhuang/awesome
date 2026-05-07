@@ -324,7 +324,7 @@
 
 ### SerDe
 
-- [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark): Benchmarks for rust serialization frameworks
+- 🌟 [djkoloski/rust_serialization_benchmark](https://github.com/djkoloski/rust_serialization_benchmark): Benchmarks for rust serialization frameworks
 - [tokio-rs/prost](https://github.com/tokio-rs/prost): PROST! a Protocol Buffers implementation for the Rust Language
 - [tafia/quick-protobuf](https://github.com/tafia/quick-protobuf): A rust implementation of protobuf parser
 - [serde-rs/json](https://github.com/serde-rs/json): Strongly typed JSON library for Rust

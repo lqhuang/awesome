@@ -140,6 +140,8 @@
 - [DavidVentura/ebpf.party](https://github.com/DavidVentura/ebpf.party): Code for ebpf.party <https://ebpf.party/>
 - [tw4452852/zbpf](https://github.com/tw4452852/zbpf): Writing eBPF in Zig
 - [gh:pandaadir05/snoop](https://github.com/pandaadir05/snoop): A modern syscall tracer built on eBPF. Think strace, but with a real TUI, smart filters, TLS decryption, and output that's actually readable.
+- [gh:immanuwell/pktz](https://github.com/immanuwell/pktz): pktz — eBPF-powered network traffic monitor — per process, per connection, live
+- [gh:jfernandez/bpftop](https://github.com/jfernandez/bpftop): bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. <https://bpftop.sh>
 
 ## Compression
 

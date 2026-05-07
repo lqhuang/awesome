@@ -191,6 +191,8 @@
 - [hyperlight-dev/hyperlight](https://github.com/hyperlight-dev/hyperlight): Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.
 - [hyperlight-dev/hyperlight-wasm](https://github.com/hyperlight-dev/hyperlight-wasm): hyperlight-wasm is a rust library crate that enables Wasm Modules and components to be run inside lightweight Virtual Machine backed Sandbox. It is built on top of Hyperlight.
 - [firecracker-microvm/firecracker-containerd](https://github.com/firecracker-microvm/firecracker-containerd): firecracker-containerd enables containerd to manage containers as Firecracker microVMs
+- [gh-org:slicervm](https://github.com/slicervm): Run Firecracker microVMs with commercial support
+  - [gh:slicervm/docs.slicervm.com](https://github.com/slicervm/docs.slicervm.com): Slicer docs
 - [GitLab · labs/Kwakky](https://gitlab.nic.cz/labs/kwakky): Kwakky runs virtual machines and manages networks between them in a clean and well automatable way.
   - I like the idea of cli provided by the project
   - Create a cluster `flock-sim create <path>`
@@ -416,6 +418,7 @@ Type 1 hypervisors
 - [acrlabs/simkube](https://github.com/acrlabs/simkube): Record-and-replay Kubernetes simulator based on KWOK <https://simkube.dev>
 - [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter): Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [meshery/meshery](https://github.com/meshery/meshery): Meshery, the cloud native manager <https://meshery.io>
+- [gh:agones-dev/agones](https://github.com/agones-dev/agones): Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes <https://agones.dev>
 
 ### Operators
 

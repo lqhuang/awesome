@@ -102,6 +102,7 @@
 - [shell-pool/shpool](https://github.com/shell-pool/shpool): Think tmux, then aim... lower
 - [neurosnap/zmx](https://github.com/neurosnap/zmx): Session persistence for terminal processes
 - 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC <https://manfred.life/quicssh>
+- [gh:trzsz/tsshd](https://github.com/trzsz/tsshd): tsshd is a UDP-based SSH server built for unreliable networks. It supports seamless roaming across networks and IP changes, and works well on high-latency links such as cellular connections and unstable Wi-Fi.
 
 ### Texting
 
@@ -119,6 +120,7 @@
 
 - [tbillington/kondo](https://github.com/tbillington/kondo): Cleans dependencies and build artifacts from your projects.
 - [zyedidia/eget](https://github.com/zyedidia/eget): Easily install prebuilt binaries from GitHub.
+- [gh:marcosnils/bin](https://github.com/marcosnils/bin): Effortless binary manager
 
 ### JSON/YAML transformation
 
@@ -188,6 +190,7 @@
 - [codeberg:dnkl/fuzzel](https://codeberg.org/dnkl/fuzzel): App launcher and fuzzy finder for Wayland, inspired by rofi(1) and dmenu(1).
 - [gh:control-theory/gonzo](https://github.com/control-theory/gonzo): Gonzo! The Go based TUI log analysis tool <https://www.controltheory.com/gonzo/>
 - 🌟 [gh:logdyhq/logdy-core](https://github.com/logdyhq/logdy-core): Realtime log viewer with web UI, tail -f for logs with a web interface browser. <https://logdy.dev>
+- [gh:logbull/logbull](https://github.com/logbull/logbull): Log Bull - simple log collection and view system. Self hosted, zero-config, support of languages (Python, Go, Java, PHP, etc.). Simple alternative to ELK and Loki <https://logbull.com>
 
 ## Monitor
 

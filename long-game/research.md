@@ -169,3 +169,4 @@
 - [xyz2tex/svg2tikz](https://github.com/xyz2tex/svg2tikz): An Inkscape extension for exporting SVG paths as TikZ/PGF paths <http://xyz2tex.github.io/svg2tikz/>
 - [tikzit/tikzit](https://github.com/tikzit/tikzit): pgf/TikZ diagram editor <http://tikzit.github.io>
 - [yishn/tikzcd-editor](https://github.com/yishn/tikzcd-editor): A simple visual editor for creating commutative diagrams. <https://tikzcd.yichuanshen.de/>
+- [gh:erweixin/RaTeX](https://github.com/erweixin/RaTeX): >99.5% KaTeX syntax coverage. LaTeX math renderer in pure Rust. No JavaScript, no WebView, no DOM. One Rust core → iOS, Android, Flutter, Web, PNG. C ABI · WASM · Server-side PNG/SVG. <https://ratex.lites.dev/>

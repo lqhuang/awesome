@@ -147,6 +147,7 @@
 - [sindresorhus/Gifski](https://github.com/sindresorhus/Gifski): 🌈 Convert videos to high-quality GIFs on your Mac <https://sindresorhus.com/gifski>
 - [gh:groundwater/GhostVM](https://github.com/groundwater/GhostVM): Isolated macOS workspaces for agents, projects, and clients
 - [gh:cardisoft/cardinal](https://github.com/cardisoft/cardinal): Fastest file searching tool for macOS
+- [gh:darrylmorley/whatcable](https://github.com/darrylmorley/whatcable): macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do <https://github.com/darrylmorley/whatcable/releases/latest>
 
 ### Free / Paid
 
@@ -343,6 +344,7 @@ Terminal / SSH
 - 🌟 [gh:iamcheyan/fudoki](https://github.com/iamcheyan/fudoki): An interactive Japanese text analysis and speech synthesis web app <https://fudoki.iamcheyan.com/>
 - [gh:iamcheyan/kotoba](https://github.com/iamcheyan/kotoba): 概要 ウェブベースの日本語学習ツールです。インタラクティブなインターフェースを通じて、ユーザーが日本語の語彙を練習することができます。学習モードと練習モードの両方をサポートしており、様々なレベルの学習者に適しています。
 - [gh:heyderekj/dinky](https://github.com/heyderekj/dinky): Dinky makes files smaller. <https://dinkyfiles.com>
+- [gh:zyronon/TypeWords](https://github.com/zyronon/TypeWords): Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； <https://typewords.cc>
 
 ### Git hosting
 
@@ -500,3 +502,9 @@ Not OSS:
 - [twofas/2fas-pass-server](https://github.com/twofas/2fas-pass-server): Source code for 2FAS Pass server
 - [soruly/pasu](https://github.com/soruly/pasu): Self-hosted TOTP authenticator PWA with FIDO2 (WebAuthn) <https://pasu.soruly.moe>
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api): Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! <https://passbolt.com>
+- [gh:iKenndac/Tofu](https://github.com/iKenndac/Tofu): An easy-to-use two-factor authentication app for iOS <https://tofuauth.com>
+
+- [Blip – The fastest way to send files](https://blip.net/): Send big files with no size limits, at full quality, directly to other people
+Send big files with no size limits, at full quality, directly to other people and devices.
+
+

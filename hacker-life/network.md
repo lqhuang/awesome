@@ -327,3 +327,4 @@ STUN / TURN / ICE
 - [RDAP Whois Query Tool - Domain, IP & ASN Lookup](https://rdap.ss/): Free RDAP-based WHOIS lookup tool for domains, IPv4, IPv6 addresses, and ASN numbers. Fast, accurate, and privacy-focused domain information.
 - [GreyNoise IP Check](https://check.labs.greynoise.io/): Check if your IP address has been observed by GreyNoise sensors. Instantly detect malicious activity, compromised devices, and security threats affecting your network.
 - [Net.Coffee](https://ip.net.coffee/): 查询本机 IP 地址及归属地，测试 VPN 和代理的分流规则是否生效。
+- [DNS Gurus](https://dnsgurus.com/): Free DNS lookup tool to check DNS records for any domain. View A, AAAA, MX, TXT, NS, SOA, CNAME records and more. Fast and reliable DNS checker.

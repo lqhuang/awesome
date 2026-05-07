@@ -193,6 +193,7 @@
 - [edin-dal/scair](https://github.com/edin-dal/scair): ScaIR - Democratizing Compilers <https://edin-dal.github.io/scair/>
 - [ghik/zerowaste](https://github.com/ghik/zerowaste): Scala compiler plugin to detect unused expressions
 - [gh:scoverage/scalac-scoverage-plugin](https://github.com/scoverage/scalac-scoverage-plugin): Scoverage Scala Code Coverage Core Libs <https://github.com/scoverage>
+- [gh:xuwei-k/coherence](https://github.com/xuwei-k/coherence): Find duplicate type class instances
 
 ### Linter
 
@@ -696,3 +697,7 @@ http4s
 - [Kotlin/dataframe](https://github.com/Kotlin/dataframe): Structured data processing in Kotlin <https://kotlin.github.io/dataframe/>
 - [SciProgCentre/kmath](https://github.com/SciProgCentre/kmath): Kotlin mathematics extensions library
 - 🌟 [breandan/kotlingrad](https://github.com/breandan/kotlingrad): 🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types <https://breandan.net/public/masters_thesis.pdf#page=49>
+
+
+- [gh:halotukozak/made](https://github.com/halotukozak/made): Mirror Annotations & Default Extraction. A Scala 3 macro library that extends scala.deriving.Mirror with annotation metadata, default values, generated members, and transparent wrapper support. <https://halotukozak.github.io/made/>
+

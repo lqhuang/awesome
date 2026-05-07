@@ -10,6 +10,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [Requirements for Chinese Text Layout 中文排版需求](https://www.w3.org/TR/clreq/)
   - [dev draft](https://w3c.github.io/clreq/)
 - [gh:xfq/clreq-quiz](https://github.com/xfq/clreq-quiz):
+- 🌟 [Collection of Research on Chinese Typography | The Type](https://www.thetype.com/en/product/collection-of-research-on-chinese-typography/)
 
 ### Resources
 
@@ -111,6 +112,7 @@ CJK
 - [max32002/bakudaifont](https://github.com/max32002/bakudaifont): 「莫大毛筆字體」是基於衡山毛筆フォント的開放原始碼中文字型。衡山毛筆字體是來自於日本書法家青柳衡山。 <https://max-everyday.com/2020/03/bakudaifont/>
 - [max32002/naikaifont](https://github.com/max32002/naikaifont): A free font family derived from setofont. 瀨戶字體的繁體中文補字計畫 <https://max-everyday.com/2020/03/naikaifont/>
 - [max32002/nanifont](https://github.com/max32002/nanifont): おつとめフォント字型的補字計畫，可免費商用的日系手寫字體。 <https://max-everyday.com/2020/09/nanifont/>
+- 🌟 [MetroSung | The Type](https://www.thetype.com/en/product/metrosung/)
 
 ## Web
 

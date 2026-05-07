@@ -14,7 +14,7 @@
 - [zealdocs/zeal](https://github.com/zealdocs/zeal): Offline documentation browser inspired by Dash <https://zealdocs.org>
 - 🌟 [wei/socialify](https://github.com/wei/socialify): 💞 Socialify your project. 🌐 Share with the world! <http://socialify.git.ci>
 - [axodotdev/oranda](https://github.com/axodotdev/oranda): 🎁 generate beautiful landing pages for your developer tools <https://opensource.axo.dev/oranda/>
-- [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors): GNU/Linux 一键更换系统软件源脚本 <https://linuxmirrors.cn>
+- [gh:SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors): GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本 <https://linuxmirrors.cn>
 - [chanhx/crabviz](https://github.com/chanhx/crabviz): 🦀 A tool to generate interactive call graphs for multiple languages
 - 🌟🌟🌟 [idank/explainshell](https://github.com/idank/explainshell): match command-line arguments to their help text
 - 🌟 [facebook/watchman](https://github.com/facebook/watchman): Watches files and records, or triggers actions, when they change. <https://facebook.github.io/watchman/>
@@ -39,7 +39,7 @@
 - [gruhn/regex-utils](https://github.com/gruhn/regex-utils): TypeScript library for regex equivalence, intersection, complement and other utilities that go beyond string matching. <https://gruhn.github.io/regex-utils/>
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own second brain and digital garden for free <https://quartz.jzhao.xyz/>
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit): BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an "Awesome Bluetooth Security" way
-- [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis): 🎨 Regex visualizer & editor <https://regex-vis.com>
+- 🌟 [gh:Bowen7/regex-vis](https://github.com/Bowen7/regex-vis): 🎨 Regex visualizer & editor <https://regex-vis.com>
 - 🌟 [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc): chsrc 全平台通用换源工具与框架. Change Source everywhere for every software <https://chsrc.run/>
 - [gh:honkit/honkit](https://github.com/honkit/honkit): 📖 HonKit is building beautiful books using Markdown - Fork of GitBook <https://honkit.netlify.app>
 

@@ -248,6 +248,7 @@
 - [haskell-tls/hs-tls](https://github.com/haskell-tls/hs-tls): TLS/SSL implementation in haskell
 - [sellout/duoids](https://github.com/sellout/duoids): Unifying parallel and sequential operations
 - [jason-johnson/hodatime](https://github.com/jason-johnson/hodatime): A haskell time library based on Erik Naggum's "Long painful history of time"
+- [gh:sellout/yaya](https://github.com/sellout/yaya): Yet another … yet another recursion scheme library for Haskell
 
 ## Haskell meets AI
 

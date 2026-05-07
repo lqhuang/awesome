@@ -76,7 +76,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster): A highly performant e-commerce template using Next.js <https://next-faster.vercel.app>
 - [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter): Admin Dashboard Starter Template with Next.js 16 and Shadcn UI <https://dub.sh/shadcn-dashboard>
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin): Admin Dashboard UI built with Shadcn and Vite. <https://shadcn-admin.netlify.app/>
-- [arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard): Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 <https://next-shadcn-admin-dashboard.vercel.app>
+- [gh:arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard): Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 <https://next-shadcn-admin-dashboard.vercel.app>
+- [gh:arhamkhnz/next-shadcn-admin-dashboard-baseui](https://github.com/arhamkhnz/next-shadcn-admin-dashboard-baseui): Modern Admin Dashboard Template built with Shadcn UI on Base UI and Next.js 16 <https://next-shadcn-admin-dashboard-baseui.vercel.app>
 
 ## Framework
 
@@ -574,6 +575,8 @@ Misc
 - [gh:thesysdev/openui](https://github.com/thesysdev/openui): The Open Standard for Generative UI <https://www.openui.com>
 - [gh:joshpuckett/dialkit](https://github.com/joshpuckett/dialkit): A library to help you dial in interface parameters of any kind
 - [gh:darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure): Skeleton library that automatically adapts to your component's runtime structure. Zero layout duplication. Built for modern frameworks. <https://shimmer-from-structure-docs.vercel.app>
+- 🌟 [gh:raphaelsalaja/audio](https://github.com/raphaelsalaja/audio): Declarative audio synthesis for the web <https://audio.raphaelsalaja.com>
+- [gh:modem-dev/hunk](https://github.com/modem-dev/hunk): Review-first terminal diff viewer for agentic coders
 
 #### Editor
 
@@ -657,6 +660,7 @@ Concrete animations
 - 🌟 [gh:Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam): Animated border beam effect for React <http://beam.jakubantalik.com/>
 - 🌟 [gh:codse/animata](https://github.com/codse/animata): Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate. <https://animata.design>
 - [gh:pixel-point/animate-text](https://github.com/pixel-point/animate-text): Crafted text animations
+- [gh:raphaelsalaja/calligraph](https://github.com/raphaelsalaja/calligraph): Fluid text transitions powered by Motion. <https://calligraph.raphaelsalaja.com>
 
 ## Functional libraries
 
@@ -919,3 +923,5 @@ Concrete animations
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser): Lightpanda: the headless browser designed for AI and automation <https://lightpanda.io>
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
+
+- [gh:remotion-dev/html-in-canvas](https://github.com/remotion-dev/html-in-canvas): Shows the capabilities of HTML-in-canvas and Remotion using the `<HtmlInCanvas>` component. <https://remotion.dev/html-in-canvas>
