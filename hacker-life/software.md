@@ -199,6 +199,8 @@
 - 🌟 [Notchie - Invisible Mac Teleprompter for Screen Sharing](https://www.notchie.app/): Read scripts naturally during video calls without anyone knowing. Notchie is a Mac teleprompter that hides in your notch and stays invisible during screen sharing on Zoom, Teams, Meet, and OBS.
   - Genius idea!
 - 🌟 [Pica](https://pica.joshpuckett.me/): A MacOS font management app. A better way to manage your fonts
+- [AndDrive](https://anddrive.catchingnow.com/): Mount Android in Finder, mirror your screen with low latency, sync clipboard content, and type with native Mac input methods.
+- [Blip – The fastest way to send files](https://blip.net/): Send big files with no size limits, at full quality, directly to other people Send big files with no size limits, at full quality, directly to other people and devices.
 
 ## Windows
 
@@ -503,8 +505,3 @@ Not OSS:
 - [soruly/pasu](https://github.com/soruly/pasu): Self-hosted TOTP authenticator PWA with FIDO2 (WebAuthn) <https://pasu.soruly.moe>
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api): Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! <https://passbolt.com>
 - [gh:iKenndac/Tofu](https://github.com/iKenndac/Tofu): An easy-to-use two-factor authentication app for iOS <https://tofuauth.com>
-
-- [Blip – The fastest way to send files](https://blip.net/): Send big files with no size limits, at full quality, directly to other people
-Send big files with no size limits, at full quality, directly to other people and devices.
-
-

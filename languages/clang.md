@@ -387,6 +387,7 @@ And modern is here now.
 - [AbstractXan/Mizi](https://github.com/AbstractXan/Mizi): A simple markdown to website generator written in C++. <https://abstractxan.xyz/site/mizi__site_generator>
 - [felipetavares/bake](https://github.com/felipetavares/bake): Bake is a templated blog generator.
 - [avocadoboi/cpp20-http-client](https://github.com/avocadoboi/cpp20-http-client): An HTTP(S) client library for C++20.
+- [gh:jeremycw/httpserver.h](https://github.com/jeremycw/httpserver.h): Single header library for writing non-blocking HTTP servers in C
 
 ### Cli
 

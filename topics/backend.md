@@ -227,6 +227,10 @@
 - [gh:muonsoft/openapi-mock](https://github.com/muonsoft/openapi-mock): OpenAPI mock server with random data generation
 - [gh:getezy/ezy](https://github.com/getezy/ezy): 🔥 GUI client for gRPC/gRPC-Web <https://getezy.dev>
 - [gh:nilslice/protolock](https://github.com/nilslice/protolock): Protocol Buffer companion tool. Track your .proto files and prevent changes to messages and services which impact API compatibility. <https://protolock.dev>
+- [gh:sudorandom/fauxrpc](https://github.com/sudorandom/fauxrpc): Easily start a fake gRPC/gRPC-Web/Connect/REST server from protobufs <https://fauxrpc.com>
+- 🌟 [gh:connectrpc/connectrpc.com](https://github.com/connectrpc/connectrpc.com): Docs, governance, and RFCs for Connect: Protobuf RPC that works. <https://connectrpc.com>
+  - [ConnectRPC: Where is it now?](https://kmcd.dev/posts/connectrpc-where-is-it-now/): Reflecting on two years of ConnectRPC: How it evolved from a gRPC alternative to a complete API ecosystem.
+- [gh:anthropics/connect-rust](https://github.com/anthropics/connect-rust): An implementation of the ConnectRPC protocol for Rust
 
 ## Serverless
 

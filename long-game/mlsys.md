@@ -57,7 +57,7 @@
 - [gpu-mode/resource-stream](https://github.com/gpu-mode/resource-stream): GPU programming related news and material links <https://discord.gg/gpumode>
 - [ENCCS/gpu-programming](https://github.com/ENCCS/gpu-programming): Meta-GPU lesson covering general aspects of GPU programming as well as specific frameworks <https://enccs.github.io/gpu-programming/>
 - [leimao/CUTLASS-Examples](https://github.com/leimao/CUTLASS-Examples): CUTLASS and CuTe Examples
-- [NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub): NVIDIA curated collection of educational resources related to general purpose GPU programming.
+- 🌟 [gh:NVIDIA/accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub): NVIDIA curated collection of educational resources related to general purpose GPU programming.
 - [HanGuo97/cutedsl-utilities](https://github.com/HanGuo97/cutedsl-utilities): No description, website, or topics provided.
 - [Cute-DSL – Ian’s Blog](https://ianbarber.blog/2025/07/04/cute-dsl/): In May Nvidia shipped CuTe-DSL, the Python library they teased at GTC earlier in the year that mirrors CUTLASS’s C++ tensor‑layout . Then, at the start of June, the ‑dev label disappeared (so presumably its production ready now). The pitch is simple: Write speed‑of‑light kernels from the comfort of Python. Of course, nothing about CUDA…
 - [flashinfer-ai/cubloaty](https://github.com/flashinfer-ai/cubloaty): a size profiler for cuda binary

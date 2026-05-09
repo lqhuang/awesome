@@ -109,6 +109,8 @@
 - [gh:domdomegg/gdoc2latex-gui](https://github.com/domdomegg/gdoc2latex-gui): 🌐 🔀 📝 Web interface for gdoc2latex <https://adamjones.me/gdoc2latex-gui/>
 - [gh:ayaka-notes/texlive-full](https://github.com/ayaka-notes/texlive-full): 🐳 TeXLive-Full in Docker (Specially For Overleaf CEP/Pro) <https://overleaf-pro.ayaka.space/texlive>
 - [gh:LucasAschenbach/vscode-unicode-math](https://github.com/LucasAschenbach/vscode-unicode-math): Type LaTeX-like \alpha, \to, \subseteq, etc., and get Unicode math symbols everywhere. <https://marketplace.visualstudio.com/items?itemName=LucasAschenbach.unicode-math-symbols>
+- [gh:HirokiHamaguchi/latexlint](https://github.com/HirokiHamaguchi/latexlint): Linter for LaTeX with useful commands for academic writing <https://hirokihamaguchi.github.io/latexlint/>
+  - [gh:dainiak/latexcheck](https://github.com/dainiak/latexcheck): JS LaTeX style checker a la ChkTex
 
 ### Latex Templates
 

@@ -19,6 +19,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [Bunny Fonts | Explore Faster & GDPR friendly Fonts](https://fonts.bunny.net/): Bunny Fonts help make the internet faster, safer and GDPR compliant!
 - [didierverna/etap](https://github.com/didierverna/etap): Experimental Typesetting Algorithms Platform
 - [wangwenho/HanziGen](https://github.com/wangwenho/HanziGen): 基於深度學習的漢字字形補全系統
+- [UNCUT.wtf](https://uncut.wtf/): UNCUT.wtf is a free typeface catalogue, focusing on somewhat contemporary type. There are currently 163 typefaces featured.
 
 ## Fonts
 
@@ -37,6 +38,8 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [Atkinson Hyperlegible Font - Braille Institute](https://www.brailleinstitute.org/freefont/): Read easier with Atkinson Hyperlegible Font, crafted for low-vision readers.
   - designed to improve legibility and readability for individuals with low vision. These carefully crafted fonts feature clear, highly distinctive letters and numbers that make reading easier and more accessible.
 - [github/mona-sans](https://github.com/github/mona-sans): Mona Sans, a variable font from GitHub <http://github.com/mona-sans>
+- [gh:Instrument/instrument-serif](https://github.com/Instrument/instrument-serif): A condensed, display serif designed for the Instrument brand and open-sourced for you.
+- [gh:Instrument/instrument-sans](https://github.com/Instrument/instrument-sans): A variable sans-serif designed for the Instrument brand, and open-sourced for you on google fonts.
 
 Mono
 
@@ -113,6 +116,11 @@ CJK
 - [max32002/naikaifont](https://github.com/max32002/naikaifont): A free font family derived from setofont. 瀨戶字體的繁體中文補字計畫 <https://max-everyday.com/2020/03/naikaifont/>
 - [max32002/nanifont](https://github.com/max32002/nanifont): おつとめフォント字型的補字計畫，可免費商用的日系手寫字體。 <https://max-everyday.com/2020/09/nanifont/>
 - 🌟 [MetroSung | The Type](https://www.thetype.com/en/product/metrosung/)
+- 🌟 [gh:yamatoiizuka/gen-interface-jp](https://github.com/yamatoiizuka/gen-interface-jp): Typeface harmonizing Inter and Noto Sans JP <https://gen.typesetting.jp/>
+
+???
+
+- [gh:franktisellano/datatype](https://github.com/franktisellano/datatype): Datatype is a variable font that turns text into charts.
 
 ## Web
 
@@ -127,3 +135,4 @@ CJK
 - [sofish/typo.css](https://github.com/sofish/typo.css): 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版 <http://typo.sofi.sh>
 - [shanleiguang/vRain](https://github.com/shanleiguang/vRain): 中文古籍刻本風格直排電子書製作工具 Chinese ancient ebook making tool
 - [Monospace Acid Test](https://justine.lol/dox/unicode.html):
+- [gh:opentypejs/opentype.js](https://github.com/opentypejs/opentype.js): Read and write OpenType fonts using JavaScript. <https://opentype.js.org/>

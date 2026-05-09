@@ -895,6 +895,7 @@ Concrete animations
 - [gh:react-scad/react-scad](https://github.com/react-scad/react-scad): Transpile JSX to SCAD.
 - [gh:nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d): A real-time 3D digital map of Tokyo's public transport system <https://minitokyo3d.com>
 - [gh:WICG/html-in-canvas](https://github.com/WICG/html-in-canvas): This is a proposal for using 2D and 3D `<canvas>` to customize the rendering of HTML content.
+- [gh:Jakubantalik/metal-fx](https://github.com/Jakubantalik/metal-fx): Animated WebGL liquid-metal effect for React buttons and UI components <https://metal.jakubantalik.com>
 
 ### Engine
 
