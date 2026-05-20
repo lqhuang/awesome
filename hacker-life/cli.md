@@ -3,6 +3,7 @@
 ## Resources
 
 - 🌟🌟🌟 [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines): A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. <https://clig.dev>
+  - - [命令行界面设计指南](https://clig.onev.dev/): 一份开源指南，旨在帮助你编写更好的命令行程序。以传统 UNIX 原则为基础，并针对现代需求进行了更新。
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line): Master the command line, in one page
 - [awesome-macos-command-line](https://git.herrbischoff.com/awesome-macos-command-line/about/):A curated list of shell commands and tools specific to macOS.
 - [awesome-command-line-apps](https://git.herrbischoff.com/awesome-command-line-apps/about/): A curated list of useful command line apps, in celebration of the TUI.
@@ -103,6 +104,7 @@
 - [neurosnap/zmx](https://github.com/neurosnap/zmx): Session persistence for terminal processes
 - 🌟 [moul/quicssh](https://github.com/moul/quicssh): SSH over QUIC <https://manfred.life/quicssh>
 - [gh:trzsz/tsshd](https://github.com/trzsz/tsshd): tsshd is a UDP-based SSH server built for unreliable networks. It supports seamless roaming across networks and IP changes, and works well on high-latency links such as cellular connections and unstable Wi-Fi.
+- [gh:crazyscot/qcp](https://github.com/crazyscot/qcp): Quick File Copy using QUIC
 
 ### Texting
 

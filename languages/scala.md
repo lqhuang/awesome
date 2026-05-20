@@ -500,6 +500,8 @@ Tracing and OpenTelemetry
 
 - [gh:OpenHFT/Chronicle-Core](https://github.com/OpenHFT/Chronicle-Core): Low level access to native memory, JVM and OS.
 - [gh:OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue): Micro second messaging that stores everything to disk <http://chronicle.software/products/chronicle-queue/>
+- [gh:dynatrace-oss/hash4j](https://github.com/dynatrace-oss/hash4j): Dynatrace hash library for Java
+- [gh:Glavo/weburl-java](https://github.com/Glavo/weburl-java): A modern Java URL library that brings browser-grade WHATWG URL parsing to URI-style APIs. <https://weburl.glavo.site>
 
 ### Spark
 
@@ -533,6 +535,7 @@ Tracing and OpenTelemetry
 - [outr/perfolation](https://github.com/outr/perfolation): Performance focused interpolation
 - [jwbargsten/valacc](https://github.com/jwbargsten/valacc): Scala 3 accumulative error validation library
 - [gh:coursier/versions](https://github.com/coursier/versions): No description, website, or topics provided.
+- [gh:shuwariafrica/version](https://github.com/shuwariafrica/version): Scala toolkit for intent-based versioning
 
 ### Misc
 
@@ -553,6 +556,7 @@ Tracing and OpenTelemetry
 - [nivanov/cosplay](https://github.com/nivanov/cosplay): 🕹 2D ASCII Game Engine for Scala3 <https://cosplayengine.com>
 - [gh:polyvariant/better-tostring](https://github.com/polyvariant/better-tostring): (b2s) Scala compiler plugin for a better default toString.
 - [gh:polyvariant/named-functions](https://github.com/polyvariant/named-functions): Micro-library for working with functions with named parameters.
+- [gh:mattlianje/datomlite](https://github.com/mattlianje/datomlite): Lightweight, immutable database
 
 ## Tools
 
@@ -698,6 +702,6 @@ http4s
 - [SciProgCentre/kmath](https://github.com/SciProgCentre/kmath): Kotlin mathematics extensions library
 - 🌟 [breandan/kotlingrad](https://github.com/breandan/kotlingrad): 🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types <https://breandan.net/public/masters_thesis.pdf#page=49>
 
-
 - [gh:halotukozak/made](https://github.com/halotukozak/made): Mirror Annotations & Default Extraction. A Scala 3 macro library that extends scala.deriving.Mirror with annotation metadata, default values, generated members, and transparent wrapper support. <https://halotukozak.github.io/made/>
 
+- [gh:siriusxm/snapshot4s](https://github.com/siriusxm/snapshot4s): Snapshot testing for Scala made easy 📸 <https://siriusxm.github.io/snapshot4s/>

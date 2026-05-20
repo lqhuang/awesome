@@ -36,10 +36,8 @@
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [QOJ.ac](https://qoj.ac/)
 - 🌟 [AndrewWalsh/openapi-devtools](https://github.com/AndrewWalsh/openapi-devtools): Browser extension that generates API specs for any app or website <https://chrome.google.com/webstore/detail/openapi-devtools/jelghndoknklgabjgaeppjhommkkmdii>
-- [gruhn/regex-utils](https://github.com/gruhn/regex-utils): TypeScript library for regex equivalence, intersection, complement and other utilities that go beyond string matching. <https://gruhn.github.io/regex-utils/>
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz): 🌱 host your own second brain and digital garden for free <https://quartz.jzhao.xyz/>
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit): BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an "Awesome Bluetooth Security" way
-- 🌟 [gh:Bowen7/regex-vis](https://github.com/Bowen7/regex-vis): 🎨 Regex visualizer & editor <https://regex-vis.com>
 - 🌟 [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc): chsrc 全平台通用换源工具与框架. Change Source everywhere for every software <https://chsrc.run/>
 - [gh:honkit/honkit](https://github.com/honkit/honkit): 📖 HonKit is building beautiful books using Markdown - Fork of GitBook <https://honkit.netlify.app>
 
@@ -107,6 +105,7 @@
   - [Who needs Graphviz when you can build it yourself? | SpiderMonkey](https://spidermonkey.dev/blog/2025/10/28/iongraph-web.html): Exploring a new layout algorithm for control flow graphs.
 - [podlite/podlite](https://github.com/podlite/podlite): Implementation of Podlite markup language <https://podlite.org>
 - [eclipse-sprotty/sprotty](https://github.com/eclipse-sprotty/sprotty): A diagramming framework for the web <https://sprotty.org/>
+- [gh:dreampuf/GraphvizOnline](https://github.com/dreampuf/GraphvizOnline): Let's Graphviz it online <https://dreampuf.github.io/GraphvizOnline/>
 
 ## Homelab
 
@@ -286,6 +285,7 @@
 ## Branding
 
 - [nedbat/dinghy](https://github.com/nedbat/dinghy): A GitHub activity digest tool
+- [gh:ehmatthes/gh-profiler](https://github.com/ehmatthes/gh-profiler): Examine a GH user's profile, to help quickly decide how much to invest in their contributions.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats): ⚡ Dynamically generated stats for your github readmes <https://github-readme-stats.vercel.app>
 - [sinaatalay/rendercv](https://github.com/sinaatalay/rendercv): LaTeX CV generator from a YAML/JSON input file. <https://sinaatalay.github.io/rendercv/>
 - 🌟 [BartoszJarocki/cv](https://github.com/BartoszJarocki/cv): Print-friendly, minimalist CV page <https://cv.jarocki.me>

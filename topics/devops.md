@@ -635,7 +635,7 @@ Archived or outdated but still useful
 - [gh:anthropics/claude-code-action](https://github.com/anthropics/claude-code-action): No description, website, or topics provided.
 - [gh:reproducible-containers/buildkit-cache-dance](https://github.com/reproducible-containers/buildkit-cache-dance): Save `RUN --mount=type=cache` caches on GitHub Actions (Forked from https://github.com/overmindtech/buildkit-cache-dance)
 - [gh:lfreleng-actions/go-httpbin-action](https://github.com/lfreleng-actions/go-httpbin-action): Creates a go-httpbin service within GitHub to act as a local testing endpoint
-- [gh:pnpm/action-setup](https://github.com/pnpm/action-setup): Install pnpm package manager <https://github.com/marketplace/actions/setup-pnpm>
+- [gh:zizmorcore/zizmor](https://github.com/zizmorcore/zizmor): Static analysis for GitHub Actions <http://docs.zizmor.sh/>
 
 ### GitHub Action Runner
 

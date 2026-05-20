@@ -99,6 +99,7 @@ Direct GUI
 - [WrathChaos/react-native-bounceable](https://github.com/WrathChaos/react-native-bounceable): 🚀 Animate and bounce any component with RNBounceable for React Native <https://freakycoder.com>
 - [bbernag/react-native-date](https://github.com/bbernag/react-native-date): High-performance native date library for React Native, powered by C++ and [Nitro Modules](https://nitro.margelo.com/) <https://bbernag.github.io/react-native-date/>
 - [gh:pioner92/react-native-turbo-base64](https://github.com/pioner92/react-native-turbo-base64): ⚡ The fastest base64 encoding/decoding library for React Native. Up to 10x faster with optimized C++ and JSI bindings.
+- [gh:maplibre/maplibre-react-native](https://github.com/maplibre/maplibre-react-native): MapLibre React Native – Interactive vector tile maps with MapLibre Native in Expo and React Native supporting Android & iOS. <http://maplibre.org/maplibre-react-native/>
 
 ### UI
 

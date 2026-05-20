@@ -43,6 +43,8 @@
 - [datenlord/open-rdma](https://github.com/datenlord/open-rdma): RoCE v2 hardware and software implementation
 - [Nordix/nfqueue-loadbalancer](https://github.com/Nordix/nfqueue-loadbalancer): A load-balancer based on the NFQUEUE iptables target
 - [mullvad/gotatun](https://github.com/mullvad/gotatun): Userspace WireGuard® Implementation in Rust
+- 🌟 [gh:seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus): PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK, AF_XDP and PF_RING. <https://pcapplusplus.github.io/>
+- [gh:xdp-project/xdp-tools](https://github.com/xdp-project/xdp-tools): Utilities and example programs for use with XDP
 
 ## Tools
 

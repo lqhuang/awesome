@@ -47,6 +47,10 @@
 - [Putting the "You" in CPU](https://cpu.land/): Curious exactly what happens when you run a program on your computer? Learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
 - [gh:corkami/pics](https://github.com/corkami/pics): File formats dissections and more...
 - [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
+- 🌟 [ELF & Dynamic Linking (EN)](https://fmdlc.github.io/tty0/articles/linux-elf-dynamic-linking/Linux_ELF_Dynamic_linking_EN.html)
+  - must read series
+- 🌟 [Modern Microprocessors - A 90-Minute Guide!](https://www.lighterra.com/papers/modernmicroprocessors/): A brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture.
+- [gh:ianw/bottomupcs](https://github.com/ianw/bottomupcs): Bottom Up Computer Science <http://www.bottomupcs.com>
 
 ## Compiler
 
@@ -80,6 +84,12 @@
 - [PVS‑Studio is a solution to enhance code quality, security (SAST), and safety](https://pvs-studio.com/en/): A static analyzer for C, C++, C#, and Java code. Works on Windows, Linux, and macOS. Analyzes code for 32-bit, 64-bit, and ARM embedded platforms.
 - [gh:bootlin/elixir](https://github.com/bootlin/elixir): The Elixir Cross Referencer
   - an interesting src viewer for low level system libs (e.g.: linux, LLVM, etc)
+
+### Regex
+
+- [gruhn/regex-utils](https://github.com/gruhn/regex-utils): TypeScript library for regex equivalence, intersection, complement and other utilities that go beyond string matching. <https://gruhn.github.io/regex-utils/>
+- 🌟 [gh:Bowen7/regex-vis](https://github.com/Bowen7/regex-vis): 🎨 Regex visualizer & editor <https://regex-vis.com>
+- [Under the Hood: Regular Expressions](https://reindeereffect.github.io/2018/06/24/index.html)
 
 ## Memory allocator
 
@@ -121,20 +131,31 @@
 
 ## BPF
 
-- [brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book): Official repository for the BPF Performance Tools book
-- [nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning): learn how to use BPF/eBPF
-- [lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners): The beginner's guide to eBPF
-- [eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial): Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景 <https://tutorial.eunomia.dev/>
-- [DavadDi/bpf_study](https://github.com/DavadDi/bpf_study): bpf 学习仓库
+Tutorials
+
+- [gh:libbpf/libbpf-bootstrap](https://github.com/libbpf/libbpf-bootstrap): Scaffolding for BPF application development with libbpf and BPF CO-RE
+  - [Building BPF applications with libbpf-bootstrap](https://nakryiko.com/posts/libbpf-bootstrap/)
+- [gh:brendangregg/bpf-perf-tools-book](https://github.com/brendangregg/bpf-perf-tools-book): Official repository for the BPF Performance Tools book
+- [gh:nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning): learn how to use BPF/eBPF
+- [gh:lizrice/ebpf-beginners](https://github.com/lizrice/ebpf-beginners): The beginner's guide to eBPF
+- [gh:eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial): Learn eBPF by examples | eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景 <https://tutorial.eunomia.dev/>
+- [gh:DavadDi/bpf_study](https://github.com/DavadDi/bpf_study): bpf 学习仓库
+- [gh:parttimenerd/hello-ebpf](https://github.com/parttimenerd/hello-ebpf): Hello eBPF world! Hello Java world! Let's discover eBPF together and write Java user-land library along the way. <https://mostlynerdless.de/blog/tag/ebpf/>
+- [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial): XDP tutorial
+
+Libraries & Tools
+
 - 🌟 [eunomia-bpf/bpftime](https://github.com/eunomia-bpf/bpftime): Userspace eBPF runtime for fast Uprobe & Syscall hook & Plugins <https://eunomia.dev/bpftime/>
   - [Eunomia - Unlock the potential of eBPF](https://eunomia.dev/)
+- [gh:libbpf/bpftool](https://github.com/libbpf/bpftool): Automated upstream mirror for bpftool stand-alone build.
+- [gh:bpftrace/bpftrace](https://github.com/bpftrace/bpftrace): High-level tracing language for Linux <https://bpftrace.org/>
+  - [`bpftrace` Cheat Sheet | Brendan Gregg](https://www.brendangregg.com/BPF/bpftrace-cheat-sheet.html)
 - [Netflix/bpftop](https://github.com/Netflix/bpftop): bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program.
 - 🌟 [bpfman/bpfman](https://github.com/bpfman/bpfman): An eBPF Manager for Linux and Kubernetes <https://bpfman.io>
-- [xdp-project/xdp-tutorial](https://github.com/xdp-project/xdp-tutorial): XDP tutorial
 - [furkanonder/DnsTrace](https://github.com/furkanonder/DnsTrace): Monitor DNS queries by host processes using eBPF!
 - [bpfsnoop/bpfsnoop](https://github.com/bpfsnoop/bpfsnoop): Modernized kernel functions, kernel tracepoints and bpf progs tracing tool for the bpf era. <https://bpfsnoop.com>
 - [netblue30/firejail](https://github.com/netblue30/firejail): Linux namespaces and seccomp-bpf sandbox <https://firejail.wordpress.com>
-- [foniod/redbpf](https://github.com/foniod/redbpf): Rust library for building and running BPF/eBPF modules
+- 🪦 [foniod/redbpf](https://github.com/foniod/redbpf): Rust library for building and running BPF/eBPF modules
 - [aya-rs/aya](https://github.com/aya-rs/aya): Aya is an eBPF library for the Rust programming language, built with a focus on developer experience and operability. <https://aya-rs.dev/book>
 - [kunai-project/kunai](https://github.com/kunai-project/kunai): Threat-hunting tool for Linux <https://why.kunai.rocks>
 - [DavidVentura/ebpf.party](https://github.com/DavidVentura/ebpf.party): Code for ebpf.party <https://ebpf.party/>
@@ -142,6 +163,7 @@
 - [gh:pandaadir05/snoop](https://github.com/pandaadir05/snoop): A modern syscall tracer built on eBPF. Think strace, but with a real TUI, smart filters, TLS decryption, and output that's actually readable.
 - [gh:immanuwell/pktz](https://github.com/immanuwell/pktz): pktz — eBPF-powered network traffic monitor — per process, per connection, live
 - [gh:jfernandez/bpftop](https://github.com/jfernandez/bpftop): bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. <https://bpftop.sh>
+- [gh:Alan-Jowett/bpf_conformance](https://github.com/Alan-Jowett/bpf_conformance): Measures the conformance of a BPF runtime to the ISA.
 
 ## Compression
 
@@ -152,6 +174,7 @@
 - [gh:hellobertrand/zxc](https://github.com/hellobertrand/zxc): High-performance asymmetric lossless compression. 40%+ faster decompression than LZ4 on ARM64 with better compression ratios. Optimized for Game Assets, Firmware & App Bundles.
 - [gh:inikep/lzbench](https://github.com/inikep/lzbench): lzbench is an in-memory benchmark of open-source compressors
 - [gh:manjaroman2/compression_algo_comparision](https://github.com/manjaroman2/compression_algo_comparision): LZTURBO vs ZSTD vs BROTLI vs LZMA vs ZPAQ
+- [gh:ebiggers/libdeflate](https://github.com/ebiggers/libdeflate): Heavily optimized library for DEFLATE/zlib/gzip compression and decompression
 
 ## Performance profile / tracing
 

@@ -73,8 +73,8 @@
 
 ### Linter / Formatter
 
-- [webpro/knip](https://github.com/webpro/knip): Find unused files, dependencies and exports in your JS/TS project
-- [webpro-nl/knip](https://github.com/webpro-nl/knip): ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! <https://knip.dev>
+- [gh:webpro-nl/knip](https://github.com/webpro-nl/knip): ✂️ Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it! <https://knip.dev>
+- [gh:JamieMason/syncpack](https://github.com/JamieMason/syncpack): Consistent dependency versions in large JavaScript Monorepos. <https://syncpack.dev/>
 - [quick-lint/quick-lint-js](https://github.com/quick-lint/quick-lint-js): quick-lint-js finds bugs in JavaScript programs <https://quick-lint-js.com>
 - [sverweij/dependency-cruiser](https://github.com/sverweij/dependency-cruiser): Validate and visualize dependencies. Your rules. JavaScript, TypeScript, CoffeeScript. ES6, CommonJS, AMD. <https://npmjs.com/dependency-cruiser>
 - [pahen/madge](https://github.com/pahen/madge): Create graphs from your CommonJS, AMD or ES6 module dependencies
@@ -148,20 +148,21 @@ Specific
 
 ### Tools
 
-- [neon-bindings/neon](https://github.com/neon-bindings/neon): Rust bindings for writing safe and fast native Node.js modules. <https://www.neon-bindings.com/>
+- [gh:pnpm/pnpm](https://github.com/pnpm/pnpm): Fast, disk space efficient package manager <https://pnpm.io>
+  - [gh:pnpm/action-setup](https://github.com/pnpm/action-setup): Install pnpm package manager <https://github.com/marketplace/actions/setup-pnpm>
+  - [gh:g-plane/pnpm-shell-completion](https://github.com/g-plane/pnpm-shell-completion): Complete your pnpm command fastly.
 - [vercel/turbo](https://github.com/vercel/turbo): Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo. <https://turbo.build>
-- [jsr-io/jsr](https://github.com/jsr-io/jsr): The open-source package registry for modern JavaScript and TypeScript <https://jsr.io>
-- [gh:jspm/jspm](https://github.com/jspm/jspm): Import Map Package Manager <https://jspm.org>
+  - [AdiRishi/turborepo-remote-cache-cloudflare](https://github.com/AdiRishi/turborepo-remote-cache-cloudflare): An implementation of the turborepo-remote-cache server custom made for Cloudflare Workers <https://adirishi.github.io/turborepo-remote-cache-cloudflare/>
 - 🌟 [TypeStrong/typedoc](https://github.com/TypeStrong/typedoc): Documentation generator for TypeScript projects. <https://typedoc.org>
-- [AdiRishi/turborepo-remote-cache-cloudflare](https://github.com/AdiRishi/turborepo-remote-cache-cloudflare): An implementation of the turborepo-remote-cache server custom made for Cloudflare Workers <https://adirishi.github.io/turborepo-remote-cache-cloudflare/>
+- [gh:jspm/jspm](https://github.com/jspm/jspm): Import Map Package Manager <https://jspm.org>
+- [jsr-io/jsr](https://github.com/jsr-io/jsr): The open-source package registry for modern JavaScript and TypeScript <https://jsr.io>
 - 🌟 [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript): Generate TypeScript types from OpenAPI 3 specs <https://openapi-ts.dev>
 - [vltpkg/vltpkg](https://github.com/vltpkg/vltpkg): the vlt monorepo <https://vlt.sh>
   - awesome built-in vis for deps
-- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates): Find newer versions of package dependencies than what your package.json allows
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio): A lightweight Node.js private proxy registry <https://www.verdaccio.org/>
 - [gh:npmx-dev/npmx.dev](https://github.com/npmx-dev/npmx.dev): a fast, modern browser for the npm registry <https://npmx.dev>
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates): Find newer versions of package dependencies than what your package.json allows
 - 🌟 [gh:google/jsir](https://github.com/google/jsir): Next-generation JavaScript analysis tooling
-- [gh:pnpm/pacquet](https://github.com/pnpm/pacquet): The official pnpm rewrite in Rust <https://pnpm.io>
 
 ### Modernize
 
@@ -217,6 +218,7 @@ Specific
 - [iliasbhal/simple-async-context](https://github.com/iliasbhal/simple-async-context): Polyfill implementing the TC39 proposal for AsyncContext.
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery): Simple and modern async event emitter
 - [run-llama/fluere](https://github.com/run-llama/fluere): 🌊 is a simple, lightweight event-based workflow for JS
+- [gh:lemire/TypedFastBitSet.js](https://github.com/lemire/TypedFastBitSet.js): Speed-optimized BitSet implementation for modern browsers and JavaScript engines, uses typed arrays
 
 ### FP Style
 
@@ -364,6 +366,7 @@ Specific
 - [gh:gajus/slonik](https://github.com/gajus/slonik): A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [Muhammad-Magdi/pgmq-js](https://github.com/Muhammad-Magdi/pgmq-js): Postgres Message Queue (PGMQ) JavaScript Client Library
 - 🌟 [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts): 🚀 The OpenAPI to TypeScript codegen. Generate clients, SDKs, validators, and more. Support: @mrlubos <https://heyapi.dev>
+  - [gh:SukkaW/tayori](https://github.com/SukkaW/tayori): An opinionated React client-side data fetching stack built with Ky, SWR, Zod, and Hey API <https://tayori.skk.moe>
 - [nodeshift/opossum](https://github.com/nodeshift/opossum): Node.js circuit breaker - fails fast ⚡️ <https://nodeshift.dev/opossum/>
 - [WiseLibs/better-sqlite3](https://github.com/WiseLibs/better-sqlite3): The fastest and simplest library for SQLite3 in Node.js.
 - [aerotoad/neboa](https://github.com/aerotoad/neboa): Type-safe NoSQL with Node & SQLite. 🌫️💽 <https://aerotoad.github.io/neboa/>
@@ -382,6 +385,7 @@ Specific
 - [orval-labs/orval](https://github.com/orval-labs/orval): orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺 <https://orval.dev>
 - [platformatic/massimo](https://github.com/platformatic/massimo): Massimo is an API SDK client and CLI tool for creating clients for remote OpenAPI or GraphQL APIs <https://massimohttp.dev>
 - 🌟 [gh:delvedor/find-my-way](https://github.com/delvedor/find-my-way): A crazy fast HTTP router
+- [neon-bindings/neon](https://github.com/neon-bindings/neon): Rust bindings for writing safe and fast native Node.js modules. <https://www.neon-bindings.com/>
 
 ### PDF
 

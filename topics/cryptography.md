@@ -64,10 +64,18 @@
   - [pyca/pyopenssl](https://github.com/pyca/pyopenssl): A Python wrapper around the OpenSSL library <https://pyopenssl.org/>
 - [gh:digicert/trustcore](https://github.com/digicert/trustcore): TrustCore SDK
 
+### OpenPGP / GPG
+
+- [gh:rnpgp/rnp](https://github.com/rnpgp/rnp): RNP: high performance C++ OpenPGP library used by Mozilla Thunderbird <https://www.rnpgp.org>
+  - [gh:rnpgp/py-rnp](https://github.com/rnpgp/py-rnp): Python bindings for librnp <https://www.rnpgp.org>
+- [gh:gpg/gnupg](https://github.com/gpg/gnupg): The GNU Privacy Guard.
+  - [gh:gpg/gpgme](https://github.com/gpg/gpgme): GnuPG Made Easy.
+- [LibrePGP](https://librepgp.org/)
+- [gitlab:sequoia-pgp/sequoia](https://gitlab.com/sequoia-pgp/sequoia): Sequoia is a complete implementation of OpenPGP as defined by RFC 9580 as well as the deprecated OpenPGP as defined by RFC 4880, and various related standards.
+
 ### Misc
 
 - [wbond/certbuilder](https://github.com/wbond/certbuilder): Python library for generating and signing X.509 certificates
-- [gitlab:sequoia-pgp/sequoia](https://gitlab.com/sequoia-pgp/sequoia): Sequoia is a complete implementation of OpenPGP as defined by RFC 9580 as well as the deprecated OpenPGP as defined by RFC 4880, and various related standards.
 
 ## Certificate Management / PKI
 

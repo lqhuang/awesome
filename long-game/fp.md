@@ -95,6 +95,13 @@
   - [lean-dojo/LeanDojo](https://github.com/lean-dojo/LeanDojo): Tool for data extraction and interacting with Lean programmatically. <https://leandojo.org>
   - [ImperialCollegeLondon/group-theory-game](https://github.com/ImperialCollegeLondon/group-theory-game): Building group theory from scratch in Lean
   - [leanprover/cslib](https://github.com/leanprover/cslib): The Lean Computer Science Library (CSLib) <https://www.cslib.io/>
+- EGraphs
+  - [gh:philzook58/awesome-egraphs](https://github.com/philzook58/awesome-egraphs): An awesome list of e-graph resources
+  - 🌟 [egraphs-good/egg](https://github.com/egraphs-good/egg): egg is a flexible, high-performance e-graph library <https://egraphs-good.github.io>
+    - [egraphs-good/egglog](https://github.com/egraphs-good/egglog): egraphs + datalog! <https://egraphs-good.github.io/egglog/>
+      - https://arxiv.org/abs/2304.04332
+    - [metadsl/egglog-python](https://github.com/metadsl/egglog-python): Python bindings for the egg-smol rust library <https://egg-smol-python.readthedocs.io/en/latest/>
+    - [RobinKa/egga](https://github.com/RobinKa/egga): Symbolic Geometric Algebra with E-Graphs
 
 ## Effect systems
 

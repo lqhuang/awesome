@@ -39,6 +39,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Jack Duvall's Blog - All Javascript Keyboard Shortcut Libraries Are Broken](https://blog.duvallj.pw/posts/2025-01-10-all-javascript-keyboard-shortcut-libraries-are-broken.html): Either subtly, or not-so-subtly. There is no way to fix the more subtle variant, and the only solution is to Give Up (on supporting a large subset of keyboard shortcuts).
 - [The History of React Through Code | Playful Programming](https://playfulprogramming.com/posts/react-history-through-code#Continuing-consistency-in-IO-handling): Learn React's history using pragmatic code samples and deep dives. This journey reveals the consistent design in React's APIs stemming from the very beginning.
 - 🌟 [Hardest Problem in Computer Science: Centering Things @ tonsky.me](https://tonsky.me/blog/centering/): Somehow we forgot how to center rectangles and must find our way back
+- [gh:browserengineering/book](https://github.com/browserengineering/book): Web browser engineering (a book) <https://browser.engineering/>
 
 ### Tutorials
 
@@ -98,6 +99,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [vikejs/vike](https://github.com/vikejs/vike): The Modular Framework — Next.js & Nuxt alternative for unprecedented flexibility and stability. <https://vike.dev>
 - [rakkasjs/rakkasjs](https://github.com/rakkasjs/rakkasjs): Bleeding-edge React framework powered by Vite <https://rakkasjs.org>
 - [jurisjs/juris](https://github.com/jurisjs/juris): JURIS is JavaScript Unified Reactive Interface Solution, the first and only Non-Blocking Reactive Object Framework for the web <https://jurisjs.com>
+- [gh:standardagents/arrow-js](https://github.com/standardagents/arrow-js): The first UI framework for the agentic era — tiny, performant, with WASM sandboxes for safe code execution. <https://arrow-js.com>
 
 ## CSS
 
@@ -665,6 +667,7 @@ Concrete animations
 ## Functional libraries
 
 - 🌟 [molefrog/wouter](https://github.com/molefrog/wouter): 🥢 A minimalist-friendly ~2.1KB routing for React and Preact <https://npm.im/wouter>
+- [gh:nkzw-tech/fate](https://github.com/nkzw-tech/fate): fate is a modern data client for React. <http://fate.technology>
 
 ### State management
 
@@ -724,6 +727,7 @@ Concrete animations
 - [shuding/tilg](https://github.com/shuding/tilg): A magical React Hook that helps you debug components.
 - [aidenybai/million](https://github.com/aidenybai/million): Make React Faster. Automatically. <https://million.dev>
 - [millionco/react-doctor](https://github.com/millionco/react-doctor): Let coding agents diagnose and fix your React code <https://react.doctor>
+- [React Review](https://react.review/): Audit your codebase for bad React code.
 - [astahmer/atomic-css-devtools](https://github.com/astahmer/atomic-css-devtools): A devtool panel for debugging Atomic CSS rules as if they were not atomic. Available on chrome & firefox. Works with TailwindCSS, Panda CSS, and any atomic CSS library <https://chromewebstore.google.com/detail/atomic-css-devtools/cbjhfeooiomphlikkblgdageenemhpgc>
 - [darula-hpp/react-source-lens](https://github.com/darula-hpp/react-source-lens): Instantly locate any React component's source code with a single keystroke. Hover + Cmd+Shift+O = your editor opens the exact file and line.
 - [theajack/disable-devtool](https://github.com/theajack/disable-devtool): Disable web developer tools from the f12 button, right-click and browser menu <https://theajack.github.io/disable-devtool/>
@@ -833,6 +837,7 @@ Concrete animations
 - [HeyHuazi/SVGLOGO](https://github.com/HeyHuazi/SVGLOGO): SVG LOGO for China <https://svglogo.top/>
 - [azat-io/eyecons](https://github.com/azat-io/eyecons): 🎨 Advanced VS Code icon theme with adaptive icon colors that match the editor’s color theme <https://eyecons.dev>
 - [Obra-Studio/obra-icons-mr](https://github.com/Obra-Studio/obra-icons-mr): Obra Icons monorepo <https://icons.obra.studio/>
+- [gh:griddy-icons/griddy-icons](https://github.com/griddy-icons/griddy-icons): Lightweight icon library
 
 ### Figma
 
@@ -926,3 +931,8 @@ Concrete animations
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
 
 - [gh:remotion-dev/html-in-canvas](https://github.com/remotion-dev/html-in-canvas): Shows the capabilities of HTML-in-canvas and Remotion using the `<HtmlInCanvas>` component. <https://remotion.dev/html-in-canvas>
+
+- [gh:carbon-design-system/carbon](https://github.com/carbon-design-system/carbon): A design system built by IBM <https://www.carbondesignsystem.com>
+- [gh:carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts): 📊 📈⠀Robust dataviz framework implemented using D3 & typescript <https://charts.carbondesignsystem.com>
+- [gh:carbon-design-system/carbon-ai-chat](https://github.com/carbon-design-system/carbon-ai-chat): Carbon AI chat is a front-end chat framework from the IBM Carbon team. <https://chat.carbondesignsystem.com/tag/latest/docs/documents/Overview.html>
+- [gh:carbon-design-system/carbon-labs](https://github.com/carbon-design-system/carbon-labs): An innovation space for the creation of components leveraging Carbon Design System <http://labs.carbondesignsystem.com/>

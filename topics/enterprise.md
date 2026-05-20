@@ -229,6 +229,7 @@ OpenTelemetry
 - [gh:equinix-labs/otel-cli](https://github.com/equinix-labs/otel-cli): OpenTelemetry command-line tool for sending events from shell scripts & similar environments
 - [sentrysoftware/metricshub](https://github.com/sentrysoftware/metricshub): Universal Metrics Collection for OpenTelemetry <https://metricshub.com>
 - [gh:grafana/docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm): OpenTelemetry backend in a Docker image
+- 🌟 [gh:open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler): The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
 
 Visual stack
 

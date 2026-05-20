@@ -20,6 +20,13 @@ Daniel Lemire is dominating this field 😄.
 ## GOAT
 
 - [google/nsync](https://github.com/google/nsync): nsync is a C library that exports various synchronization primitives, such as mutexes
+- [gh:Cyan4973/xxHash](https://github.com/Cyan4973/xxHash): Extremely fast non-cryptographic hash algorithm <http://www.xxhash.com/>
+  - [gh:desmondyeung/scala-hashing](https://github.com/desmondyeung/scala-hashing): Fast non-cryptographic hash functions for Scala
+  - [gh:pioner92/react-native-xxhash](https://github.com/pioner92/react-native-xxhash): 💪 A high-performance React Native library for generating xxHash hashes using C++ and JSI
+  - [gh:ktrongnhan/xxhash-addon](https://github.com/ktrongnhan/xxhash-addon): Yet another xxhash addon for Node.js which can be x50 times faster than crypto MD5
+  - [gh:OpenHFT/Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing): Zero-allocation hashing for Java
+  - [gh:redspah/xxhash_cpp](https://github.com/redspah/xxhash_cpp): Port of the xxhash library to C++17.
+  - [gh:ifduyue/python-xxhash](https://github.com/ifduyue/python-xxhash): Python Binding for xxHash <https://pypi.org/project/xxhash/>
 
 ## json
 
@@ -68,12 +75,13 @@ yyjson
   - [PyPI: google-re2](https://pypi.org/project/google-re2/)
 - [Ezibenroc/PyRoaringBitMap](https://github.com/Ezibenroc/PyRoaringBitMap): Python library for handling efficiently sorted integer sets.
 - [glitzflitz/pyxorfilter](https://github.com/glitzflitz/pyxorfilter): Python bindings for xorfilter(faster and smaller than bloom and cuckoo filters)
+- [gh:lemire/fastconstmap](https://github.com/lemire/fastconstmap): Fast, immutable, compact map from strings to 64-bit integers — for Python. <https://pypi.org/project/fastconstmap/>
+- [gh:lemire/fastrand](https://github.com/lemire/fastrand): Fast random number generation in an interval in Python: Up to 10x faster than random.randint.
 
 ## Numerical
 
 - 🌟 [fastfloat/fast_float](https://github.com/fastfloat/fast_float): Fast and exact implementation of the C++ from_chars functions for number types: 4x to 10x faster than strtod, part of GCC 12 and WebKit/Safari
   - [aldanor/fast-float-rust](https://github.com/aldanor/fast-float-rust): Super-fast float parser in Rust (now part of Rust core) <https://docs.rs/fast-float>
-- [lemire/fastrand](https://github.com/lemire/fastrand): Fast random number generation in an interval in Python: Up to 10x faster than random.randint.
 - [fast-pack/FastPFOR](https://github.com/fast-pack/FastPFOR): The FastPFOR C++ library: Fast integer compression
 - [fast-pack/JavaFastPFOR](https://github.com/fast-pack/JavaFastPFOR): A simple integer compression library in Java
 

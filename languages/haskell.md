@@ -211,6 +211,7 @@
   - [Making Haskell Talk to PostgreSQL Without Suffering - Ian Duncan](https://www.iankduncan.com/engineering/2026-02-20-haskell-postgresql-without-suffering): How to eliminate the three performance taxes that make database queries slow: encoding overhead, round-trip latency, and N+1 query patterns.
 - [gh:nikita-volkov/hasql](https://github.com/nikita-volkov/hasql): The fastest PostgreSQL libpq-based driver for Haskell <http://hackage.haskell.org/package/hasql>
 - [gh:bitemyapp/esqueleto](https://github.com/bitemyapp/esqueleto): New home of Esqueleto, please file issues so we can get things caught up!
+- [gh:pgenie-io/pgenie](https://github.com/pgenie-io/pgenie): SQL-first, type-safe PostgreSQL client code generator <https://pgenie.io>
 
 ## Bindings
 

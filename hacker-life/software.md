@@ -398,6 +398,7 @@ Terminal / SSH
 - [Afilmory/afilmory](https://github.com/Afilmory/afilmory): Modern photo gallery for photographers, with S3/GitHub sync, EXIF details, maps, and a WebGL viewer. <https://afilmory.art/>
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe): Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map. <https://chronoframe.bh8.ga/>
 - 🌟 [gh:visioncortex/vtracer](https://github.com/visioncortex/vtracer): Raster to Vector Graphics Converter <https://www.visioncortex.org/vtracer/>
+- [gh:snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter): 🦦The open-source image toolkit that makes paid tools nervous. Every image tool you need. Your images stay yours. <https://snapotter.com>
 
 ### Reader / RSS / Bookmarks
 

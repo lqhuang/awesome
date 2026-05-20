@@ -38,7 +38,6 @@
   - passt and pasta unprivileged (rootless) user-mode networking for VMs and containers, replacement for slirp, slirp4netns, libslirp, integrates with qemu, libvirt, Podman, Kata Containers
 - [containerd/nerdbox](https://github.com/containerd/nerdbox): containerd sandbox runtime using vms
 - [gh:rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit): Linux-native "fake root" for implementing rootless containers
-
 #### Base images
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless): 🥑 Language focused docker images, minus the operating system.
@@ -562,6 +561,13 @@ Type 1 hypervisors
 - [finos/compliant-financial-infrastructure](https://github.com/finos/compliant-financial-infrastructure): Compliant Financial Infrastructure accelerates the development, deployment and adoption of services provided for AWS, Azure and Google in a way that meets existing regulatory and internal security controls.
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui): Terraform textual UI
 - 🌟 [tobilg/aws-iam-data](https://github.com/tobilg/aws-iam-data): This repository contains the full dataset of AWS IAM data (services, actions, resource types and conditions keys). It's updated on a daily basis at 4AM UTC. <https://www.awsiamdata.com>
+
+- [gh:28mm/blast-radius](https://github.com/28mm/blast-radius): Interactive visualizations of Terraform dependency graphs using d3.js <https://28mm.github.io/blast-radius-docs/>
+- [gh:hieven/terraform-visual](https://github.com/hieven/terraform-visual): Terraform Visual is an interactive way of visualizing your Terraform plan <https://hieven.github.io/terraform-visual>
+- [gh:cycloidio/inframap](https://github.com/cycloidio/inframap): Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
+- [gh:cycloidio/terracognita](https://github.com/cycloidio/terracognita): Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
+- [gh:im2nguyen/rover](https://github.com/im2nguyen/rover): Interactive Terraform visualization. State and configuration explorer.
+
 
 ### Pricing
 

@@ -426,7 +426,8 @@ And modern is here now.
 - [VcDevel/std-simd](https://github.com/VcDevel/std-simd): std::experimental::simd for GCC [ISO/IEC TS 19570:2018]
 - [mattkretz/wg21-papers](https://github.com/mattkretz/wg21-papers): my papers to WG21 — the C++ committee
 - [simd-everywhere/simde](https://github.com/simd-everywhere/simde): Implementations of SIMD instruction sets for systems which don't natively support them. <https://simd-everywhere.github.io/blog>
-- [Arm Neon](https://developer.arm.com/Architectures/Neon): Arm Neon technology is an advanced Single Instruction Multiple Data (SIMD) architecture extension for the A-profile and R-profile processors.
+- [ARM Neon](https://developer.arm.com/Architectures/Neon): Arm Neon technology is an advanced Single Instruction Multiple Data (SIMD) architecture extension for the A-profile and R-profile processors.
+- ARM SVE
 - [ashvardanian/SimSIMD](https://github.com/ashvardanian/SimSIMD): Vector Similarity Functions 3x-200x Faster than SciPy and NumPy — for Python, JavaScript, and C 11, supporting f64, f32, f16, i8, and binary vectors using SIMD for both x86 AVX2 & AVX-512 and Arm NEON & SVE 📐 <https://ashvardanian.com/posts/simsimd-faster-scipy/>
   - [SciPy distances... up to 200x faster with AVX-512 & SVE 📏](https://ashvardanian.com/posts/simsimd-faster-scipy/)
   - [Python, C, Assembly - 2'500x Faster Cosine Similarity 📐](https://ashvardanian.com/posts/python-c-assembly-comparison/)
@@ -434,6 +435,8 @@ And modern is here now.
 - [shibatch/sleef](https://github.com/shibatch/sleef): SIMD Library for Evaluating Elementary Functions, vectorized libm and DFT <https://sleef.org>
 - [WojciechMula/sse4-strstr](https://github.com/WojciechMula/sse4-strstr): SIMD (SWAR/SSE/SSE4/AVX2/AVX512F/ARM Neon) of Karp-Rabin algorithm's modification <http://0x80.pl/articles/simd-strfind.html>
 - [gh:jfalcou/eve](https://github.com/jfalcou/eve): Expressive Vector Engine - SIMD in C++ Goes Brrrr <https://jfalcou.github.io/eve/>
+- [gh:vectorclass/version2](https://github.com/vectorclass/version2): Vector class library, latest version
+- 🌟 [gh:ispc/ispc](https://github.com/ispc/ispc): Intel® Implicit SPMD Program Compiler
 
 ## Compiler beyond default Clang
 

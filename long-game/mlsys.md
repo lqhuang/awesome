@@ -28,6 +28,8 @@
     - vectorized minibatch (convert for-loop into matrix multiply)
     - vectorized minibatch running on a GPU (use PyTorch to compute on GPU)
 - [vopani/jaxton](https://github.com/vopani/jaxton): 100 exercises to learn JAX
+- 🌟 [Machine Learning in Production: From Models to Products](https://mlip-cmu.github.io/book/index.html)
+  - [gh:mlip-cmu/book](https://github.com/mlip-cmu/book): Sources for the book "Machine Learning in Production" <https://mlip-cmu.github.io/book/>
 
 ### Triton
 
@@ -158,7 +160,8 @@ General problems
 - [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn): Lightning fast C++/CUDA neural network framework
 - 🌟 [pytorch/TensorRT](https://github.com/pytorch/TensorRT): PyTorch/TorchScript/FX compiler for NVIDIA GPUs using TensorRT <https://pytorch.org/TensorRT>
 - [webonnx/wonnx](https://github.com/webonnx/wonnx): A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
-- 🌟 [ggerganov/ggml](https://github.com/ggerganov/ggml): Tensor library for machine learning
+- [gh:ggml-org/ggml](https://github.com/ggml-org/ggml): Tensor library for machine learning
+- [gh:antirez/ds4](https://github.com/antirez/ds4): DeepSeek 4 Flash local inference engine for Metal
 - 📝 [mosecorg/mosec](https://github.com/mosecorg/mosec): A high-performance serving framework for ML models, offers dynamic batching and multi-stage pipeline to fully exploit your compute machine <https://mosecorg.github.io/mosec/>
 - [autonomi-ai/nos](https://github.com/autonomi-ai/nos): ⚡️ Nitrous oxide for your AI infrastructure. <https://docs.nos.run/>
 - [iqiyi/xgboost-serving](https://github.com/iqiyi/xgboost-serving): A flexible, high-performance serving system for machine learning models
