@@ -71,6 +71,8 @@ And modern is here now.
   - [谷歌 C++ 风格指南 | CppGuide 社区](https://cppguide.cn/LatestGoogleCppStyleGuideForCpp17&20/)
 - 🌟 [cppstat](https://cppstat.dev/): C++ Compiler Support Status
 - [Womangling](https://womangling.noratrieb.dev/): This website will teach you C++ Itanium Symbol Name Mangling. Itanium-style mangling is used on a lot of platforms, including Linux. Since C++ mangling (the entire ABI) is considered stable today, you will be able to use this knowledge forever!
+- [gh:sftrabbit/CppPatterns-Patterns](https://github.com/sftrabbit/CppPatterns-Patterns): A repository of modern C++ patterns curated by the community.
+  - [C++ Patterns](https://cpppatterns.com/)
 
 ### Books
 

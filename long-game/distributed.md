@@ -44,6 +44,7 @@
 - [heathermiller/dist-prog-book](https://github.com/heathermiller/dist-prog-book):This is a book about the programming constructs we use to build distributed systems. <http://dist-prog-book.com/chapter/2/futures.html>
 - [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems): 《Patterns of Distributed Systems》中文版
 - [suomela/da2020](https://github.com/suomela/da2020): Juho Hirvonen and Jukka Suomela: Distributed Algorithms 2020 <https://jukkasuomela.fi/da2020/>
+- [gh:handbook-academy/hld-handbook](https://github.com/handbook-academy/hld-handbook): Open-source High-Level Design & System Design handbook. 181 chapters, 727K words, 653 diagrams, CC BY-SA 4.0. <https://hld.handbook.academy>
 
 ## System
 

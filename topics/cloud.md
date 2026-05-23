@@ -38,6 +38,7 @@
   - passt and pasta unprivileged (rootless) user-mode networking for VMs and containers, replacement for slirp, slirp4netns, libslirp, integrates with qemu, libvirt, Podman, Kata Containers
 - [containerd/nerdbox](https://github.com/containerd/nerdbox): containerd sandbox runtime using vms
 - [gh:rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit): Linux-native "fake root" for implementing rootless containers
+
 #### Base images
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless): 🥑 Language focused docker images, minus the operating system.
@@ -267,6 +268,8 @@ Type 1 hypervisors
 - [SukkaW/dashflare](https://github.com/SukkaW/dashflare): An unofficial Cloudflare dashboard built on top of Cloudflare API. <https://dashflare.skk.moe>
 - [DBOS](https://www.dbos.dev/): DBOS is a serverless platform that radically simplifies backend development in Python and TypeScript. Build 10x faster and scale to millions with a single click.
 - 🌟 [unikraft/unikraft](https://github.com/unikraft/unikraft): Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. <http://unikraft.org/>
+- [gh:google/ax](https://github.com/google/ax): Google's open source distributed agent runtime
+- [gh:agent-substrate/substrate](https://github.com/agent-substrate/substrate): Agent Substrate: the core system
 
 ### Durable Functions / FaaS
 
@@ -567,7 +570,6 @@ Type 1 hypervisors
 - [gh:cycloidio/inframap](https://github.com/cycloidio/inframap): Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
 - [gh:cycloidio/terracognita](https://github.com/cycloidio/terracognita): Reads from existing public and private cloud providers (reverse Terraform) and generates your infrastructure as code on Terraform configuration
 - [gh:im2nguyen/rover](https://github.com/im2nguyen/rover): Interactive Terraform visualization. State and configuration explorer.
-
 
 ### Pricing
 

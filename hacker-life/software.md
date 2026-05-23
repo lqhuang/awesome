@@ -365,6 +365,7 @@ Terminal / SSH
   - [gh:GerritCodeReview/gerrit](https://github.com/GerritCodeReview/gerrit): Gerrit Code Review - (mirror of https://gerrit.googlesource.com/gerrit)
   - [Gerrit Code Review for Git](https://gerrithub.io/Documentation/index.html)
   - [gsrc:gerrit/gitiles](https://gerrit.googlesource.com/gitiles/): A simple JGit repository browser
+- 🌟 [gh:thomiceli/opengist](https://github.com/thomiceli/opengist): Self-hosted pastebin powered by Git, open-source alternative to Github Gist. <https://opengist.io>
 
 ### PDF / File tools
 
@@ -399,6 +400,10 @@ Terminal / SSH
 - [HoshinoSuzumi/chronoframe](https://github.com/HoshinoSuzumi/chronoframe): Self-hosted personal gallery application with online photo management and albums, supporting Live/Motion Photos, EXIF parsing, geolocation recognition, and an explore map. <https://chronoframe.bh8.ga/>
 - 🌟 [gh:visioncortex/vtracer](https://github.com/visioncortex/vtracer): Raster to Vector Graphics Converter <https://www.visioncortex.org/vtracer/>
 - [gh:snapotter-hq/SnapOtter](https://github.com/snapotter-hq/SnapOtter): 🦦The open-source image toolkit that makes paid tools nervous. Every image tool you need. Your images stay yours. <https://snapotter.com>
+- [gh:pixelfed/pixelfed](https://github.com/pixelfed/pixelfed): Photo Sharing. For Everyone. <https://pixelfed.org>
+- [Oliver Falk / ivatar · GitLab](https://git.linux-kernel.at/oliver/ivatar/): GitLab Community Edition
+  - https://libravatar.org/: freeing the web one face at a time
+  - The open avatar service: libravatar is a service which delivers your avatar (profile picture) to other websites. If you create an account with us, your photo could start popping up next to forum posts or blog comments on any site where you left your email address.
 
 ### Reader / RSS / Bookmarks
 
@@ -431,6 +436,8 @@ Terminal / SSH
 - [LeslieLeung/glean](https://github.com/LeslieLeung/glean): A self-hosted RSS reader and personal knowledge management tool.
 - 🌟 [zelestcarlyone/stacks](https://github.com/zelestcarlyone/stacks): Lightweight download manager for Anna's Archive with fast downloads, web UI, and API support.
 - 🌟 [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep): A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search <https://karakeep.app>
+- [gh:raphaelsalaja/pond](https://github.com/raphaelsalaja/pond): One inbox for everything you save across Twitter/X, Instagram, Pinterest, Are.na, and Cosmos
+- 🌟 [gh:bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm): Social reading and reviewing, decentralized with ActivityPub <http://joinbookwyrm.com/>
 - [gh:raphaelsalaja/pond](https://github.com/raphaelsalaja/pond): One inbox for everything you save across Twitter/X, Instagram, Pinterest, Are.na, and Cosmos
 
 ### Cloud Disk

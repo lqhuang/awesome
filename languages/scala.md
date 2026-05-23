@@ -44,6 +44,7 @@
 - [Tag: Performance – Inside.java](https://inside.java/tag/performance)
 - [Common Escape Sequences - Modern Java](https://javabook.mccue.dev/strings/common_escape_sequences): Book teaching how to write modern and effective Java.
 - [gh:polyvariant/learn-scala](https://github.com/polyvariant/learn-scala): Reference learning material for Scala <https://learn-scala.polyvariant.org/>
+- [Java Specialists](https://www.javaspecialists.eu/): This advanced Java newsletter will answer all your questions about Java ;-) We also offer Java courses, code reviews and consulting.
 
 ### Talks
 
@@ -304,6 +305,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [linux-root/tauri-scala-desktop-app](https://github.com/linux-root/tauri-scala-desktop-app): No description, website, or topics provided.
 - [gh:reactivecore/kreuzberg](https://github.com/reactivecore/kreuzberg): ScalaJS Component System
 - [gh:scalajs-io/nodejs](https://github.com/scalajs-io/nodejs): This project provides Scala.js type-safe bindings for Node.js (current) v8.7.0 and LTS v6.11.4 APIs. The platform supports MEAN (MongoDB, Express, AngularJs, NodeJS), Cassandra, MySQL and many other npm projects.
+- [gh:stanch/reftree](https://github.com/stanch/reftree): Automatically generated diagrams and animations for Scala data structures <http://stanch.github.io/reftree/>
 
 ## Stream / Effect systems / Experiments
 

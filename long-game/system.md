@@ -66,7 +66,6 @@
 - 🌟 [rui314/mold](https://github.com/rui314/mold): mold: Mold: A Modern Linker 🦠
 - [kubkon/bold](https://github.com/kubkon/bold): bold: the bold linker
 - [davidlattimore/wild](https://github.com/davidlattimore/wild): A very fast linker for Linux
-- [untitaker/hyperlink](https://github.com/untitaker/hyperlink): Very fast link checker for CI.
 
 ### Fuzzing
 

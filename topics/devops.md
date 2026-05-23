@@ -80,6 +80,7 @@
 - [gh:rvben/rumdl](https://github.com/rvben/rumdl): Fast Markdown linter and formatter written in Rust
 - [gh:LalitMaganti/syntaqlite](https://github.com/LalitMaganti/syntaqlite): A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer
 - [gh:microsoft/ghqr](https://github.com/microsoft/ghqr): GitHub Quick Review. Evaluate your enterprise and organizations with GitHub best practices
+- 🌟 [gh:untitaker/hyperlink](https://github.com/untitaker/hyperlink): Very fast link checker for CI.
 
 ### Reproducibility
 

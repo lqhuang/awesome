@@ -38,3 +38,4 @@
 - [Deep-ai-inc/ch.at](https://github.com/Deep-ai-inc/ch.at): Universal Basic Chat
 - [gh:flo-bit/blento](https://github.com/flo-bit/blento): your bento style website with data hosted on your bluesky PDS, svelte/tailwind <https://blento.app>
 - [Colf](https://colf.dev/): Prompt solutions to algorithmic problems with the fewest tokens.
+- 🌟🌟🌟 [DiffsHub, from Pierre](https://diffshub.com/): View code changes from any public GitHub diff or patch URL with a super-freaking-fast, beautiful, and virtualized interface.
