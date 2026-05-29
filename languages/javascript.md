@@ -386,6 +386,8 @@ Specific
 - [platformatic/massimo](https://github.com/platformatic/massimo): Massimo is an API SDK client and CLI tool for creating clients for remote OpenAPI or GraphQL APIs <https://massimohttp.dev>
 - 🌟 [gh:delvedor/find-my-way](https://github.com/delvedor/find-my-way): A crazy fast HTTP router
 - [neon-bindings/neon](https://github.com/neon-bindings/neon): Rust bindings for writing safe and fast native Node.js modules. <https://www.neon-bindings.com/>
+- [gh:kristiandupont/kanel](https://github.com/kristiandupont/kanel): Generate Typescript types from Postgres <https://kristiandupont.github.io/kanel/>
+- [gh:joist-orm/joist-orm](https://github.com/joist-orm/joist-orm): a TypeScript ORM for Postgres <https://joist-orm.io/>
 
 ### PDF
 
@@ -441,6 +443,7 @@ Specific
 - [eclipse-langium/langium](https://github.com/eclipse-langium/langium): Next-gen language engineering / DSL framework <https://langium.org/>
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git): A pure JavaScript implementation of git for node and browsers! <https://isomorphic-git.org/>
 - [gh:HarperFast/rocksdb-js](https://github.com/HarperFast/rocksdb-js): RocksDB binding for Node.js
+- [gh:haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk): A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. <https://files-sdk.dev/>
 
 ### CLI
 
@@ -471,6 +474,7 @@ Specific
 - [teimurjan/blazediff](https://github.com/teimurjan/blazediff): Blazing-fast diff ecosystem for JavaScript applications <https://blazediff.dev>
 - [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff): A very fast SIMD-first image comparison library (with nodejs API)
 - [DoneDeal0/superdiff](https://github.com/DoneDeal0/superdiff): Superdiff provides a rich and readable diff for both arrays and objects. It supports stream and file inputs for handling large datasets efficiently, is battle-tested, has zero dependencies, and offer a top-tier performance. <https://donedeal0.gitbook.io/superdiff>
+- [gh:silvia-odwyer/photon](https://github.com/silvia-odwyer/photon): ⚡ Rust/WebAssembly image processing library <https://silvia-odwyer.github.io/photon>
 
 ### Glob
 

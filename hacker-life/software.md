@@ -148,6 +148,7 @@
 - [gh:groundwater/GhostVM](https://github.com/groundwater/GhostVM): Isolated macOS workspaces for agents, projects, and clients
 - [gh:cardisoft/cardinal](https://github.com/cardisoft/cardinal): Fastest file searching tool for macOS
 - [gh:darrylmorley/whatcable](https://github.com/darrylmorley/whatcable): macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do <https://github.com/darrylmorley/whatcable/releases/latest>
+- [gh:samuelhe52/Teleport](https://github.com/samuelhe52/Teleport): Native, stable iOS location simulation utility app for macOS.
 
 ### Free / Paid
 
@@ -230,6 +231,7 @@ Non open source
   - Non-free. But I think it's worth it.
 - [TreeSize](https://www.jam-software.com/treesize): TreeSize is a disk space analyzer for Windows with customizable file search and several exporting and reporting possibilities.
 - [Anytxt Searcher](https://anytxt.net/): A Desktop Search Tool with A Powerful Full-Text Search Engine. Best Google Desktop Search Alternative.
+- [TaskSlinger - Native Windows Task Manager Replacement](https://taskslinger.net/): TaskSlinger is a native Windows task manager replacement built in C++/Win32 with a custom Direct3D UI, fast startup, process monitoring, performance graphs, services, startup apps, and network connections.
 
 ### Dev
 
@@ -366,6 +368,7 @@ Terminal / SSH
   - [Gerrit Code Review for Git](https://gerrithub.io/Documentation/index.html)
   - [gsrc:gerrit/gitiles](https://gerrit.googlesource.com/gitiles/): A simple JGit repository browser
 - 🌟 [gh:thomiceli/opengist](https://github.com/thomiceli/opengist): Self-hosted pastebin powered by Git, open-source alternative to Github Gist. <https://opengist.io>
+- [gh:xream/EdgeGist](https://github.com/xream/EdgeGist): Minimal GitHub Gist-compatible API service running on Cloudflare's edge network, backed by D1 and packaged for Cloudflare Pages.
 
 ### PDF / File tools
 

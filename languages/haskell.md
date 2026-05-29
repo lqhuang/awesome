@@ -72,6 +72,7 @@
 - [ekmett/machines](https://github.com/ekmett/machines): Networks of composable stream transducers
 - [ChrisPenner/slick](https://github.com/ChrisPenner/slick): Static site generator built on Shake configured in Haskell
 - [haskell-effectful/effectful](https://github.com/haskell-effectful/effectful): An easy to use, fast extensible effects library with seamless integration with the existing Haskell ecosystem.
+  - [gh:joshburgess/effectful-tracing](https://github.com/joshburgess/effectful-tracing): Tracing as a scoped effect for Haskell, built natively on effectful, with OpenTelemetry interop via hs-opentelemetry.
 - [recursion-schemes/recursion-schemes](https://github.com/recursion-schemes/recursion-schemes): Generalized bananas, lenses and barbed wire <http://hackage.haskell.org/package/recursion-schemes>
   - [passy/awesome-recursion-schemes](https://github.com/passy/awesome-recursion-schemes): Resources for learning and using recursion schemes.
 - [ndmitchell/uniplate](https://github.com/ndmitchell/uniplate): Haskell library for simple, concise and fast generic operations.

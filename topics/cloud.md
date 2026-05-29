@@ -218,6 +218,7 @@
 - [earendil-works/gondolin](https://github.com/earendil-works/gondolin): Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox <https://earendil-works.github.io/gondolin>
 - [gh:projecteru2/cocoon](https://github.com/projecteru2/cocoon): Lightweight MicroVM VMM built on Cloud Hypervisor for AI
 - [gh:containers/libkrun](https://github.com/containers/libkrun): A dynamic library providing Virtualization-based process isolation capabilities
+- [gh:nanovms/nanos](https://github.com/nanovms/nanos): A kernel designed to run one and only one application in a virtualized environment <https://nanos.org>
 
 Type 1 hypervisors
 

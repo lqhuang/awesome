@@ -403,6 +403,11 @@ Misc
 - [manzt/anywidget](https://github.com/manzt/anywidget): jupyter widgets made easy <https://anywidget.dev>
 - [notebook-intelligence/notebook-intelligence](https://github.com/notebook-intelligence/notebook-intelligence): AI coding assistant for JupyterLab, powered by GitHub Copilot
 - [vinayak-mehta/ipychat](https://github.com/vinayak-mehta/ipychat): An AI extension for IPython that makes it work like Cursor
+- [gh:deshaw/pyflyby](https://github.com/deshaw/pyflyby): A set of productivity tools for Python. Learn more at https://www.deshaw.com/library/desco-quansight-improving-jupyter-efficiency <https://deshaw.github.io/pyflyby/>
+  - [Pyflyby: Utilities and Extensions for Improving Productivity in Python - The D. E. Shaw Group](https://www.deshaw.com/library/desco-quansight-improving-jupyter-efficiency)
+- 🌟 [gh:man-group/notebooker](https://github.com/man-group/notebooker): Productionise & schedule your Jupyter Notebooks as easily as you wrote them.
+- [gh:man-group/dtale](https://github.com/man-group/dtale): Visualizer for pandas data structures <http://alphatechadmin.pythonanywhere.com>
+- [gh:man-group/PyBloqs](https://github.com/man-group/PyBloqs): A flexible framework for visualizing data and automated creation of "good enough" reports. <https://pybloqs.readthedocs.io/>
 
 ### Prob
 

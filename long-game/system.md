@@ -110,6 +110,7 @@
       - Even though jemalloc development remained completely out in the open (not siloed inside Facebook), the project never grew to retain primary contributors from other organizations.
       - ... but jemalloc needed more than open development to thrive as an independent project.
 - [ivmai/bdwgc](https://github.com/ivmai/bdwgc): The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc) <https://www.hboehm.info/gc/>
+- [gh:plasma-umass/Mesh](https://github.com/plasma-umass/Mesh): A memory allocator that automatically reduces the memory footprint of C/C++ applications.
 
 ## Linux Tuning
 

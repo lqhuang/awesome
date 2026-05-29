@@ -90,7 +90,7 @@ And modern is here now.
 - [xiaoweiChen/Modern-CMake-for-Cpp](https://github.com/xiaoweiChen/Modern-CMake-for-Cpp): 《Modern CMake for C++》的非专业个人翻译
 - [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed): C++11/14/17/20 multithreading, involving operating system principles and concurrent programming technology. <https://downdemo.github.io/Cpp-Concurrency-in-Action-2ed>
 - [Cpp-Club/Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh): Chinese translation of Bjarne Stroustrup's HOPL4 paper
-- [Learn C++](https://www.learncpp.com/): LearnCpp.com is a free website devoted to teaching you how to program in C++.
+- 🌟 [Learn C++](https://learncpp.com/): LearnCpp.com is a free website devoted to teaching you how to program in C++.
 - [lkimuk/the-book-of-modern-cpp](https://github.com/lkimuk/the-book-of-modern-cpp): The Book of Modern C++ (in Chinese)
 - [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese): 《Effective Modern C++》- 完成翻译 <https://cntransgroup.github.io/EffectiveModernCppChinese/>
 - [xiaoweiChen/Learn-LLVM-17](https://github.com/xiaoweiChen/Learn-LLVM-17): 《Learn LLVM 17》的非专业个人翻译
@@ -348,6 +348,7 @@ And modern is here now.
 - [bshoshany/thread-pool](https://github.com/bshoshany/thread-pool): BS::thread_pool: a fast, lightweight, modern, and easy-to-use C++17 / C++20 / C++23 thread pool library
 - [halide/Halide](https://github.com/halide/Halide): a language for fast, portable data-parallel computation <https://halide-lang.org>
 - [kokkos/kokkos](https://github.com/kokkos/kokkos): Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction <https://kokkos.org>
+- [gh:hudson-trading/corral](https://github.com/hudson-trading/corral): Lightweight structured concurrency for C++20
 
 ### Numerical / Math
 

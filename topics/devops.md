@@ -20,6 +20,7 @@
 - 🌟 [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang - Andrew Kelley](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
 - 🌟 [The Package Management Landscape | Andrew Nesbitt](https://nesbitt.io/2026/01/03/the-package-management-landscape.html): A directory of tools, systems, and services that relate to package management.
 - [High Performance Git](https://gitperf.com/): High Performance Git by Ted Nyman, a book about Git internals and large Git repositories.
+- [gh:google/eng-practices](https://github.com/google/eng-practices): Google's Engineering Practices documentation <https://google.github.io/eng-practices/>
 
 ## Tools
 

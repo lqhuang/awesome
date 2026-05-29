@@ -272,6 +272,7 @@ General problems
 - [Relaxed-System-Lab/Flash-Sparse-Attention](https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention): 🚀🚀 Efficient implementations of Native Sparse Attention <https://github.com/Relaxed-System-Lab/Flash-Sparse-Attention>
 - [pytorch/helion](https://github.com/pytorch/helion): A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.
 - [gh:NVlabs/SOLAR](https://github.com/NVlabs/SOLAR): Speed of Light Analysis for ML Model Runtime
+- [gh:anysphere/kernel-optimization-results](https://github.com/anysphere/kernel-optimization-results): Multi-Agent CUDA Kernel Optimizations
 
 ### XLA / MLIR
 

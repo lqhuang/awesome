@@ -476,6 +476,11 @@ Spinners
 - [n3r4zzurr0/svg-spinners](https://github.com/n3r4zzurr0/svg-spinners): A collection of 24 x 24 dp SVG spinners! (CSS & SMIL)
 - [gh:icantcodefyi/dot-matrix-animations](https://github.com/icantcodefyi/dot-matrix-animations): 28 hand-designed 5x5 dot-matrix loader animations as standalone animated SVGs and a React component. ~4KB each, no JS runtime, agent-themed patterns. <https://dot-matrix-animations.vercel.app>
 
+Skeleton
+
+- 🌟 [gh:darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure): Skeleton library that automatically adapts to your component's runtime structure. Zero layout duplication. Built for modern frameworks. <https://shimmer-from-structure-docs.vercel.app>
+- 🌟 [gh:Aejkatappaja/phantom-ui](https://github.com/Aejkatappaja/phantom-ui): Structure-aware skeleton loader. One Web Component, every framework. <https://aejkatappaja.github.io/phantom-ui/demo>
+
 Emoji
 
 - [ferrucc-io/emoji-picker](https://github.com/ferrucc-io/emoji-picker): React Emoji picker component styled with Tailwind <https://emoji.ferrucc.io>
@@ -576,7 +581,6 @@ Misc
 - 🌟🌟🌟 [gh:arnog/mathlive](https://github.com/arnog/mathlive): Web components for math display and input <https://mathlive.io>
 - [gh:thesysdev/openui](https://github.com/thesysdev/openui): The Open Standard for Generative UI <https://www.openui.com>
 - [gh:joshpuckett/dialkit](https://github.com/joshpuckett/dialkit): A library to help you dial in interface parameters of any kind
-- [gh:darula-hpp/shimmer-from-structure](https://github.com/darula-hpp/shimmer-from-structure): Skeleton library that automatically adapts to your component's runtime structure. Zero layout duplication. Built for modern frameworks. <https://shimmer-from-structure-docs.vercel.app>
 - 🌟 [gh:raphaelsalaja/audio](https://github.com/raphaelsalaja/audio): Declarative audio synthesis for the web <https://audio.raphaelsalaja.com>
 - [gh:modem-dev/hunk](https://github.com/modem-dev/hunk): Review-first terminal diff viewer for agentic coders
 
