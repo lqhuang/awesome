@@ -10,6 +10,7 @@
 - [Email Self-Defense](https://emailselfdefense.fsf.org)
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. <https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>
 - 🌟 [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker): A tool for checking the security hardening options of the Linux kernel
+- [gh:juice-shop/juice-shop](https://github.com/juice-shop/juice-shop): OWASP Juice Shop: Probably the most modern and sophisticated insecure web application <https://owasp-juice.shop>
 
 ## Tools
 

@@ -30,14 +30,15 @@ Daniel Lemire is dominating this field 😄.
 
 ## json
 
+simdjson family
+
 > On-Demand parser (DOM based parser)
 >
 > there also another approach called schema-based parser
 
-- simdjson family
-  - [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks <https://simdjson.org>
-  - [simd-lite/simd-json](https://github.com/simd-lite/simd-json): Rust port of simdjson
-  - [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson): Python bindings for the simdjson project. <https://pysimdjson.tkte.ch>
+- [simdjson/simdjson](https://github.com/simdjson/simdjson): Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks <https://simdjson.org>
+- [simd-lite/simd-json](https://github.com/simd-lite/simd-json): Rust port of simdjson
+- [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson): Python bindings for the simdjson project. <https://pysimdjson.tkte.ch>
 - [plokhotnyuk/jsoniter-scala](https://github.com/plokhotnyuk/jsoniter-scala): Scala macros for compile-time generation of safe and ultra-fast JSON codecs
 
 sourcemeta
@@ -50,6 +51,10 @@ yyjson
 
 - [ibireme/yyjson](https://github.com/ibireme/yyjson): The fastest JSON library in C <https://ibireme.github.io/yyjson/doc/doxygen/html/>
   - [TkTech/py_yyjson](https://github.com/TkTech/py_yyjson): Fast and flexible Python JSON parsing (and manipulation!) built on the excellent yyjson project. <http://tkte.ch/py_yyjson/>
+
+???
+
+- [gh:AutomataLab/cuJSON](https://github.com/AutomataLab/cuJSON): cuJSON: A Highly Parallel JSON Parser for GPUs
 
 ## UTF
 

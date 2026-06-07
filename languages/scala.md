@@ -185,6 +185,8 @@
 - [cmu-pasta/fray](https://github.com/cmu-pasta/fray): A controlled concurrency testing framework for the JVM
   - [Deterministic Concurrent Testing Using Fray](https://softwaremill.com/deterministic-concurrent-testing-using-fray/): Fray enables writing concurrent tests for the JVM, deterministically simulating various thread interleaving, and if needed, replaying runs that failed, using a standard Java debugger. Let's take a closer look at how Fray can be used and how it works.
   - [JetBrains/lincheck](https://github.com/JetBrains/lincheck): Framework for testing concurrent code on JVM languages
+- [gh:OWASP-Benchmark/BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava): OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually expl… <https://owasp.org/www-project-benchmark/>
+- [gh:Jaspersoft/jasperreports](https://github.com/Jaspersoft/jasperreports): JasperReports® - Free Java Reporting Library <https://community.jaspersoft.com/downloads/community-edition/>
 
 ### Compiler plugins
 
@@ -625,6 +627,7 @@ Tracing and OpenTelemetry
 - [gh:cloudmark/cats-actors](https://github.com/cloudmark/cats-actors): Cats Actors framework for building apps which are reactive. Cats actors uses a conceptual actor model as a higher level abstraction for concurrency.
   - [Cats-Actors 2.1.0 Goes Cross-Platform](https://cloudmark.github.io/Cats-Actors-Native-And-JS/)
   - [Typed Actors in Action - Exploring Cats-Actors with Alice and Bob](https://cloudmark.github.io/Cats-Actors-In-The-Wild/)
+- [gh:Constructive-Programming/eo](https://github.com/Constructive-Programming/eo): Existential Optics Library for Scala3 based on cats
 
 fs2
 

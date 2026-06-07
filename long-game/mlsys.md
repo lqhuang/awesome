@@ -338,8 +338,6 @@ JAX Special
 - [RobertTLange/gymnax](https://github.com/RobertTLange/gymnax): RL Environments in JAX 🌍
   - [RobertTLange/gymnax-blines](https://github.com/RobertTLange/gymnax-blines): Baselines for gymnax 🤖
 - [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib): One repository is all that is necessary for Multi-agent Reinforcement Learning (MARL) <https://marllib.readthedocs.io>
-- [kscalelabs/ksim](https://github.com/kscalelabs/ksim): RL training library for humanoid locomotion and manipulation. Built on top of MuJoCo and JAX. <https://docs.kscale.dev/docs/ksim>
-- [gh:mujocolab/mjlab](https://github.com/mujocolab/mjlab): Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research <https://mujocolab.github.io/mjlab/>
 
 ### Language Models / Attention
 
@@ -474,6 +472,15 @@ PGM / Probabilistic programming
 - [google-deepmind/dm_pix](https://github.com/google-deepmind/dm_pix): PIX is an image processing library in JAX, for JAX. <https://dm-pix.readthedocs.io>
 - 🌟 [gh:google-deepmind/gemma](https://github.com/google-deepmind/gemma): Gemma open-weight LLM library, from Google DeepMind <https://gemma-llm.readthedocs.io>
 
+mujoco
+
+- [gh:google-deepmind/mujoco](https://github.com/google-deepmind/mujoco): Multi-Joint dynamics with Contact. A general purpose physics simulator. <https://mujoco.org>
+  - [gh:google-deepmind/mujoco_warp](https://github.com/google-deepmind/mujoco_warp): GPU-optimized version of the MuJoCo physics simulator, designed for NVIDIA hardware.
+  - [gh:mujocolab/mjlab](https://github.com/mujocolab/mjlab): Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research <https://mujocolab.github.io/mjlab/>
+- [kscalelabs/ksim](https://github.com/kscalelabs/ksim): RL training library for humanoid locomotion and manipulation. Built on top of MuJoCo and JAX. <https://docs.kscale.dev/docs/ksim>
+- [gh:newton-physics/newton](https://github.com/newton-physics/newton): An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. <https://newton-physics.github.io/newton/stable/>
+  - [gh:NVIDIA/warp](https://github.com/NVIDIA/warp): A Python framework for GPU-accelerated simulation, robotics, and machine learning. <https://nvidia.github.io/warp/stable/>
+
 ### Google specialization
 
 - [google/flax](https://github.com/google/flax): Flax is a neural network library for JAX that is designed for flexibility. <https://flax.readthedocs.io>
@@ -590,6 +597,7 @@ PGM / Probabilistic programming
 - [aikitoria/nanotrace](https://github.com/aikitoria/nanotrace): Low overhead tracing library and trace visualizer for pipelined CUDA kernels
 - [sail-sg/odc](https://github.com/sail-sg/odc): On demand communication
 - [mit-zardini-lab/pyncd](https://github.com/mit-zardini-lab/pyncd): This is a package for formally expressing deep learning models based on Neural Circuit Diagrams, FlashAttention on a Napkin and Spherical Attention. The main goal of this package is to provide a simple and intuitive way to define and visualize deep learning models, while also allowing for formal reasoning about their properties.
+- [gh:ovg-project/GVM](https://github.com/ovg-project/GVM): No description, website, or topics provided.
 
 ### Benchmark
 

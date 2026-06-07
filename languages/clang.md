@@ -80,7 +80,7 @@ And modern is here now.
 - [landerrosette/algs4](https://github.com/landerrosette/algs4): Algorithms, 4th edition textbook code in C++
 - [yuchdev/CppBooks](https://github.com/yuchdev/CppBooks): A comprehensive catalog of modern and classic books on C++ programming language
 - [Learn Modern C++](https://learnmoderncpp.com/): Discover a language matched to today's computing needs
-- [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming): Modern C++ Programming Course (C++03/11/14/17/20/23/26) <https://federico-busato.github.io/Modern-CPP-Programming/>
+- 🌟 [gh:federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming): Modern C++ Programming Course (C++03/11/14/17/20/23/26) <https://federico-busato.github.io/Modern-CPP-Programming/>
 - [A Tour of C++ (Third edition)](https://www.stroustrup.com/tour3.html): a brief tour of the C++ Programming language and its standard library for experienced programmers.
 - [Nekrolm/ubbook](https://github.com/Nekrolm/ubbook): C++ programmer's guide to undefined behavior
   - in Russian
@@ -98,6 +98,8 @@ And modern is here now.
 - [Modern C](https://gustedt.gitlabpages.inria.fr/modern-c/)
 - [MeouSker77/Cpp17](https://github.com/MeouSker77/Cpp17): 本书为《C++17 the complete guide》的个人中文翻译，仅供学习和交流使用，侵删
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial): 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/ <https://changkun.de/modern-cpp/>
+- [gitlab:fbb-git/cppannotations](https://gitlab.com/fbb-git/cppannotations): Extensive tutorial and documentation about C++
+  - [Index: The C++ Annotations](https://fbb-git.gitlab.io/cppannotations/cppannotations/html/index.html)
 
 ### Project templates and starters
 
@@ -171,6 +173,7 @@ And modern is here now.
 - 🌟 [doctest/doctest](https://github.com/doctest/doctest): The fastest feature-rich C++11/14/17/20/23 single-header testing framework <https://bit.ly/doctest-docs>
 - [google/googletest](https://github.com/google/googletest): GoogleTest - Google Testing and Mocking Framework <https://google.github.io/googletest/>
 - [eranpeer/FakeIt](https://github.com/eranpeer/FakeIt): C++ mocking made easy. A simple yet very expressive, headers only library for c++ mocking.
+- 🌟 [gh:mull-project/mull](https://github.com/mull-project/mull): Practical mutation testing and fault injection for C and C++ <https://mull-project.com>
 
 ### Debug
 
@@ -208,7 +211,7 @@ And modern is here now.
 
 ## Extra standard libs
 
-### Better libc
+### (Better) libc
 
 - [Comparison of C/POSIX standard library implementations for Linux](https://www.etalabs.net/compare_libcs.html)
 - [gh:rustyrussell/ccan](https://github.com/rustyrussell/ccan): The C Code Archive Network <http://ccodearchive.net/>
@@ -223,8 +226,10 @@ And modern is here now.
 - [gh:microsoft/lib0xc](https://github.com/microsoft/lib0xc): Safe(ish) C programming library
   - [Lib0xc: A set of C standard library-adjacent APIs for safer systems programming | Hacker News](https://news.ycombinator.com/item?id=47978834)
 - 🌟 [gh:nemequ/portable-snippets](https://github.com/nemequ/portable-snippets): Collection of miscellaneous portable C snippets.
+- [gh:tspader/sp](https://github.com/tspader/sp): A modern C standard library
+  - [sp.h is the standard library that C deserves](https://spader.zone/sp/)
 
-### Better STL / libc++
+### (Better) STL / libc++
 
 - [JacksonAllan/CC](https://github.com/JacksonAllan/CC): A small, usability-oriented generic container library.
 - [stclib/STC](https://github.com/stclib/STC): A modern, user friendly, generic, type-safe and fast C99 container library: String, Vector, Sorted and Unordered Map and Set, Deque, Forward List, Smart Pointers, Bitset and Random numbers.
@@ -295,6 +300,7 @@ And modern is here now.
 - 🌟 [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers. <https://greg7mdp.github.io/parallel-hashmap>
 - [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers): C++ Fixed Containers
 - [codeberg:uecker/noplate](https://codeberg.org/uecker/noplate): experimental generic type-safe container data structures for C
+- [gh:mattreecebentley/plf_colony](https://github.com/mattreecebentley/plf_colony): An unordered C++ data container providing fast iteration/insertion/erasure while maintaining pointer/iterator validity to non-erased elements regardless of insertions/erasures. Provides higher-performance than std:: library containers for high-modification scenarios with unordered data. <https://plflib.org/colony.htm>
 
 ### Serde
 

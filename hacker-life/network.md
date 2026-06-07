@@ -100,6 +100,8 @@
 - [mkirchner/tcping](https://github.com/mkirchner/tcping): Check if a desired port is reachable via TCP
 - [gh:kbandla/dpkt](https://github.com/kbandla/dpkt): fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols
 - [gh:dstotijn/hetty](https://github.com/dstotijn/hetty): An HTTP toolkit for security research. <https://hetty.xyz>
+- [gh:Archeb/peer.as](https://github.com/Archeb/peer.as): PEER.AS — explore global BGP routing, IP prefixes, ASNs, AS_PATH, origins and peering. <https://peer.as>
+- 🌟🌟🌟 [gh:cilium/pwru](https://github.com/cilium/pwru): Packet, where are you? -- eBPF-based Linux kernel networking debugger
 
 ### Analysis
 

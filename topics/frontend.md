@@ -804,6 +804,10 @@ Concrete animations
 - [wbkd/awesome-d3](https://github.com/wbkd/awesome-d3): A list of D3 libraries, plugins and utilities <https://d3-discovery.net/>
 - 🌟 [compostjs/compost](https://github.com/compostjs/compost): Composable data visualization library for JavaScript <http://compostjs.github.io/>
 - [gh:nteract/semiotic](https://github.com/nteract/semiotic): React data visualization library for streaming, networks, and AI-assisted development <https://semiotic.nteract.io>
+- [gh:carbon-design-system/carbon](https://github.com/carbon-design-system/carbon): A design system built by IBM <https://www.carbondesignsystem.com>
+  - [gh:carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts): 📊 📈⠀Robust dataviz framework implemented using D3 & typescript <https://charts.carbondesignsystem.com>
+  - [gh:carbon-design-system/carbon-ai-chat](https://github.com/carbon-design-system/carbon-ai-chat): Carbon AI chat is a front-end chat framework from the IBM Carbon team. <https://chat.carbondesignsystem.com/tag/latest/docs/documents/Overview.html>
+  - [gh:carbon-design-system/carbon-labs](https://github.com/carbon-design-system/carbon-labs): An innovation space for the creation of components leveraging Carbon Design System <http://labs.carbondesignsystem.com/>
 
 ### Tree / Architecture
 
@@ -822,6 +826,7 @@ Concrete animations
 ### SVG utilities
 
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js): The lightweight library for manipulating and animating SVG <https://svgjs.dev>
+- [gh:meodai/heerich](https://github.com/meodai/heerich): Tiny engine for 3D voxel scenes rendered to SVG — boolean ops, oblique/perspective cameras, zero dependencies. Inspired by the geometric cardboard sculptures of Erwin Heerich. <https://meodai.github.io/heerich/>
 
 ### OSS
 
@@ -874,6 +879,7 @@ Concrete animations
 - 🌟 [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons): Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 - [中国大学矢量校徽大全](https://www.urongda.com/): 汇集全国高校的矢量校徽，提供高质量的可缩放 SVG 文件，适合设计师、学生和机构使用。
 - [Logo API - Logo.dev](https://www.logo.dev/): Get company logos via API in seconds. Access millions of verified brand logos in SVG, PNG & WebP. Free tier with generous monthly requests. Start now.
+- [theSVG](https://thesvg.org/): Search, copy, and ship 6,068+ brand SVG icons. Open-source library with npm, React, Vue, Svelte, CLI, CDN, and MCP server support.
 
 ## Further topics
 
@@ -904,7 +910,9 @@ Concrete animations
 - [gh:react-scad/react-scad](https://github.com/react-scad/react-scad): Transpile JSX to SCAD.
 - [gh:nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d): A real-time 3D digital map of Tokyo's public transport system <https://minitokyo3d.com>
 - [gh:WICG/html-in-canvas](https://github.com/WICG/html-in-canvas): This is a proposal for using 2D and 3D `<canvas>` to customize the rendering of HTML content.
+  - [gh:remotion-dev/html-in-canvas](https://github.com/remotion-dev/html-in-canvas): Shows the capabilities of HTML-in-canvas and Remotion using the `<HtmlInCanvas>` component. <https://remotion.dev/html-in-canvas>
 - [gh:Jakubantalik/metal-fx](https://github.com/Jakubantalik/metal-fx): Animated WebGL liquid-metal effect for React buttons and UI components <https://metal.jakubantalik.com>
+- 🌟 [gh:gre/gl-react](https://github.com/gre/gl-react): gl-react – React library to write and compose WebGL shaders <http://gre.github.io/gl-react/>
 
 ### Engine
 
@@ -933,10 +941,3 @@ Concrete animations
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser): Lightpanda: the headless browser designed for AI and automation <https://lightpanda.io>
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
-
-- [gh:remotion-dev/html-in-canvas](https://github.com/remotion-dev/html-in-canvas): Shows the capabilities of HTML-in-canvas and Remotion using the `<HtmlInCanvas>` component. <https://remotion.dev/html-in-canvas>
-
-- [gh:carbon-design-system/carbon](https://github.com/carbon-design-system/carbon): A design system built by IBM <https://www.carbondesignsystem.com>
-- [gh:carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts): 📊 📈⠀Robust dataviz framework implemented using D3 & typescript <https://charts.carbondesignsystem.com>
-- [gh:carbon-design-system/carbon-ai-chat](https://github.com/carbon-design-system/carbon-ai-chat): Carbon AI chat is a front-end chat framework from the IBM Carbon team. <https://chat.carbondesignsystem.com/tag/latest/docs/documents/Overview.html>
-- [gh:carbon-design-system/carbon-labs](https://github.com/carbon-design-system/carbon-labs): An innovation space for the creation of components leveraging Carbon Design System <http://labs.carbondesignsystem.com/>

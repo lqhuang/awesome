@@ -39,3 +39,4 @@
 - [gh:flo-bit/blento](https://github.com/flo-bit/blento): your bento style website with data hosted on your bluesky PDS, svelte/tailwind <https://blento.app>
 - [Colf](https://colf.dev/): Prompt solutions to algorithmic problems with the fewest tokens.
 - 🌟🌟🌟 [DiffsHub, from Pierre](https://diffshub.com/): View code changes from any public GitHub diff or patch URL with a super-freaking-fast, beautiful, and virtualized interface.
+- [gh:medusajs/medusa](https://github.com/medusajs/medusa): The world's most flexible commerce platform. <https://medusajs.com>

@@ -72,6 +72,7 @@
   - [gh:gpg/gpgme](https://github.com/gpg/gpgme): GnuPG Made Easy.
 - [LibrePGP](https://librepgp.org/)
 - [gitlab:sequoia-pgp/sequoia](https://gitlab.com/sequoia-pgp/sequoia): Sequoia is a complete implementation of OpenPGP as defined by RFC 9580 as well as the deprecated OpenPGP as defined by RFC 4880, and various related standards.
+- [gh:spwhitton/git-remote-gcrypt](https://github.com/spwhitton/git-remote-gcrypt): PGP-encrypted git remotes <https://spwhitton.name/tech/code/git-remote-gcrypt/>
 
 ### Misc
 

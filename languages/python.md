@@ -758,7 +758,6 @@ Misc
 - [jazzband/prettytable](https://github.com/jazzband/prettytable): Display tabular data in a visually appealing ASCII table format
 - [wireservice/csvkit](https://github.com/wireservice/csvkit): A suite of utilities for converting to and working with CSV, the king of tabular file formats. <http://csvkit.rtfd.org>
 - 🌟 [fatiando/pooch](https://github.com/fatiando/pooch): A friend to fetch your data files <https://www.fatiando.org/pooch>
-- [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum): Plumbum: Shell Combinators <https://plumbum.readthedocs.io>
 - [beeware/briefcase](https://github.com/beeware/briefcase): Tools to support converting a Python project into a standalone native application. <https://briefcase.readthedocs.io/>
 - [the-real-tokai/grablinks](https://github.com/the-real-tokai/grablinks): A simple and streamlined Python script to extract and filter links from a remote HTML resource.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy): Turns Data and AI algorithms into full web applications in no time. <https://www.taipy.io>

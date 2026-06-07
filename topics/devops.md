@@ -25,7 +25,8 @@
 ## Tools
 
 - [Testcontainers](https://github.com/testcontainers): Testcontainers is an open source framework for providing throwaway, lightweight instances of databases, message brokers, web browsers, or just about anything that can run in a Docker container.
-- [bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with Protocol Buffers. <https://buf.build>
+- [gh:bufbuild/buf](https://github.com/bufbuild/buf): A new way of working with Protocol Buffers. <https://buf.build>
+  - [gh:bufbuild/protocompile](https://github.com/bufbuild/protocompile): A parsing/linking engine for protobuf; the guts for a pure Go replacement of protoc.
 - [apache/buildstream](https://github.com/apache/buildstream): BuildStream, the software integration tool <https://buildstream.build/>
 - [buildbarn/bb-deployments](https://github.com/buildbarn/bb-deployments): Example deployments of Buildbarn on various platforms
 - [astral-sh/ruff-pre-commit](https://github.com/astral-sh/ruff-pre-commit): A pre-commit hook for Ruff.
@@ -52,6 +53,7 @@
 - [gh:runmedev/runme](https://github.com/runmedev/runme): DevOps Notebooks Built with Markdown <https://runme.dev>
 - [Understand: The Software Developer's Multi-Tool](https://scitools.com/): Understand by SciTools is a software development tool that allows you to perform static code analysis, edit and refactor code, view dependency graphs, see useful metrics, and comply with AUTOSAR and MISRA.
 - [gh:google/copybara](https://github.com/google/copybara): Copybara: A tool for transforming and moving code between repositories.
+- 🌟 [gh:tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum): Plumbum: Shell Combinators <https://plumbum.readthedocs.io>
 
 ### Misc linters / formatters
 

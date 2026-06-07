@@ -349,6 +349,7 @@ Terminal / SSH
 - [gh:iamcheyan/kotoba](https://github.com/iamcheyan/kotoba): 概要 ウェブベースの日本語学習ツールです。インタラクティブなインターフェースを通じて、ユーザーが日本語の語彙を練習することができます。学習モードと練習モードの両方をサポートしており、様々なレベルの学習者に適しています。
 - [gh:heyderekj/dinky](https://github.com/heyderekj/dinky): Dinky makes files smaller. <https://dinkyfiles.com>
 - [gh:zyronon/TypeWords](https://github.com/zyronon/TypeWords): Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； <https://typewords.cc>
+- [gh:Paymenter/Paymenter](https://github.com/Paymenter/Paymenter): Free and open-source webshop solution for hostings <https://paymenter.org>
 
 ### Git hosting
 
@@ -361,6 +362,8 @@ Terminal / SSH
 - [radicle:seed.radicle.xyz](https://app.radicle.xyz/nodes/seed.radicle.xyz): Explore the Radicle network
 - [codeberg:sitaramc/gitolite](https://codeberg.org/sitaramc/gitolite): gitolite - Social coding. Without the "social" :-)
 - [zx2c4/cgit](https://git.zx2c4.com/cgit/): A hyperfast web frontend for git repositories written in C.
+- 🌟 [codemadness:stagit](https://codemadness.org/git/stagit): static git page generator
+  - Example: [the kitchen sink](https://sink.krj.st/)
 - [gitblit-org/gitblit](https://github.com/gitblit-org/gitblit): pure java git solution <http://gitblit.com>
 - [eclipse-jgit/jgit](https://github.com/eclipse-jgit/jgit): JGit, the Java implementation of git <https://projects.eclipse.org/projects/technology.jgit>
 - [gsrc:gerrit/gerrit](https://gerrit.googlesource.com/gerrit/): Gerrit is a code review and project management tool for Git based projects.

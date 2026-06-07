@@ -103,6 +103,7 @@
 - [Auth Wiki](https://auth.wiki/): Auth Wiki is a comprehensive collection of resources about authentication, authorization, and identity and access management. Learn about OAuth 2.0, OpenID Connect, SAML.
 - [warrant-dev/awesome-authorization](https://github.com/warrant-dev/awesome-authorization): A curated list of information and resources about authorization. <https://awesome-authorization.warrant.dev/>
 - [casbin/awesome-auth](https://github.com/casbin/awesome-auth): 📊 Software and Libraries for Authentication & Authorization & SSO & IAM
+- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains): a list of disposable and temporary email address domains
 
 ### Libs
 
@@ -116,11 +117,12 @@
 - [Oslo](https://github.com/oslo-project): Simple auth packages for the entire JS ecosystem. <https://oslojs.dev/>
 - [keycloak/keycloak](https://github.com/keycloak/keycloak): Open Source Identity and Access Management For Modern Applications and Services <https://www.keycloak.org>
 - [logto-io/logto](https://github.com/logto-io/logto): 🧑‍🚀 Logto helps you build the sign-in, auth, and user identity within minutes. We provide an OIDC-based identity service and the end-user experience with username, phone number, email, and social sign-in, for web and native apps. <https://logto.io>
-- [boxyhq/jackson](https://github.com/boxyhq/jackson): 🔥 Streamline your web application's authentication with Jackson, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via the SCIM 2.0 protocol for automatic user and group provisioning/de-provisioning. 🤩 <https://boxyhq.com/docs/jackson/overview>
 - Ory
   - [ory/kratos](https://github.com/ory/kratos): Next-gen identity server (think Auth0, Okta, Firebase) with Ory-hardened authentication, MFA, FIDO2, TOTP, WebAuthn, profile management, identity schemas, social sign in, registration, account recovery, passwordless. Golang, headless, API-only - without templating or theming headaches. Available as a cloud service. <https://www.ory.sh/kratos>
   - [ory/hydra](https://github.com/ory/hydra): OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. <https://www.ory.sh/hydra>
   - [ory/oathkeeper](https://github.com/ory/oathkeeper): A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. <https://www.ory.sh/>
+  - [gh:ory/polis](https://github.com/ory/polis): Streamline your web application's authentication with Polis, an SSO service supporting SAML and OpenID Connect protocols. Beyond enterprise-grade Single Sign-On, it also supports Directory Sync via the SCIM 2.0 protocol for automatic user and group provisioning/de-provisioning. <https://www.ory.com/>
+    - formerly boxyhq/jackson
   - ory is good, but no GUI or admin dashboard for community version
 - [casdoor/casdoor](https://github.com/casdoor/casdoor): An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT <https://casdoor.org>
 - [teamhanko/hanko](https://github.com/teamhanko/hanko): A passkey-first approach to authentication that takes you on the journey beyond passwords. For better security, conversion rates, and happier users. <https://hanko.io>
@@ -133,20 +135,18 @@
   - [ory/keto](https://github.com/ory/keto): Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. <https://www.ory.sh>
   - [osohq/oso](https://github.com/osohq/oso): Oso is a batteries-included framework for building authorization in your application. <https://docs.osohq.com>
   - [warrant-dev/warrant](https://github.com/warrant-dev/warrant): Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules. <https://warrant.dev>
-- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains): a list of disposable and temporary email address domains
+  - [authzed/spicedb](https://github.com/authzed/spicedb): Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data <https://authzed.com/docs>
 - [fatihky/pundit-ts](https://github.com/fatihky/pundit-ts): Organize your authorization logic with full type-safety.
 - [pundit-community/pundit.js](https://github.com/pundit-community/pundit.js): [WIP] Minimal authorisation through a plain old JavaScript object. <https://pundit-community.github.io/pundit.js/>
 - [stack-auth/stack](https://github.com/stack-auth/stack): Open-source Auth0/Clerk alternative <https://stack-auth.com>
 - 🌟 [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id): A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. <https://pocket-id.org>
 - [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
-- 🌟 [toolbeam/openauth](https://github.com/toolbeam/openauth): ▦ Universal, standards-based auth provider. <https://openauth.js.org>
 - 🌟 [lastlogin-net/obligator](https://github.com/lastlogin-net/obligator): Simple and opinionated OpenID Connect server designed for self-hosters <https://lastlogin.net/>
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The simplest way to protect your apps with a login screen. <https://tinyauth.app>
 - 🌟 [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. <https://oauth2-proxy.github.io/oauth2-proxy>
 - [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
 - [awslabs/ssosync](https://github.com/awslabs/ssosync): Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda
-- [authzed/spicedb](https://github.com/authzed/spicedb): Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data <https://authzed.com/docs>
-- [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit):
+- [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit): delegated, decentralized, capabilities based authorization token
 
 ## Analytics
 

@@ -246,6 +246,7 @@ Misc
 - [pgmq/pgmq](https://github.com/pgmq/pgmq): A lightweight message queue. Like AWS SQS and RSMQ but on Postgres. <https://pgmq.github.io/pgmq/>
   - [Anatomy of a Postgres extension written in Rust: pgmq](https://tembo.io/blog/postgres-extension-in-rust-pgmq)
   - [dvlkv/prisma-pgmq](https://github.com/dvlkv/prisma-pgmq): A TypeScript library that provides type-safe methods for PostgreSQL Message Queue (PGMQ) operations in your Prisma-based applications.
+- [gh:microsoft/pg_durable](https://github.com/microsoft/pg_durable): PostgreSQL in-database durable execution <https://microsoft.github.io/pg_durable/>
 
 ### SQLite
 

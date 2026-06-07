@@ -219,6 +219,7 @@ Specific
 - [sindresorhus/emittery](https://github.com/sindresorhus/emittery): Simple and modern async event emitter
 - [run-llama/fluere](https://github.com/run-llama/fluere): 🌊 is a simple, lightweight event-based workflow for JS
 - [gh:lemire/TypedFastBitSet.js](https://github.com/lemire/TypedFastBitSet.js): Speed-optimized BitSet implementation for modern browsers and JavaScript engines, uses typed arrays
+  - [gh:bits-and-blooms/bitset](https://github.com/bits-and-blooms/bitset): Go package implementing bitsets <https://bits-and-blooms.github.io/bitset/>
 
 ### FP Style
 

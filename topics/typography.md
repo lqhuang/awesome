@@ -21,6 +21,11 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [wangwenho/HanziGen](https://github.com/wangwenho/HanziGen): 基於深度學習的漢字字形補全系統
 - [UNCUT.wtf](https://uncut.wtf/): UNCUT.wtf is a free typeface catalogue, focusing on somewhat contemporary type. There are currently 163 typefaces featured.
 
+## Tools
+
+- [gh:fonttools/fonttools](https://github.com/fonttools/fonttools): A library to manipulate font files from Python.
+- [gh:javierbyte/brutalita](https://github.com/javierbyte/brutalita): Experimental font and font editor, exports OTF. <https://brutalita.com>
+
 ## Fonts
 
 - [rsms/inter](https://github.com/rsms/inter): The Inter font family <https://rsms.me/inter/>

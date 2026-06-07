@@ -281,6 +281,7 @@
 - [miantiao-me/bm.md](https://github.com/miantiao-me/bm.md): 更好用的 Markdown 排版助手｜一键适配微信公众号、网页与图片。 <https://bm.md>
 - [gh:jackwener/wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown): 微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)
 - [Compare Domain Prices](https://tld-list.com/): Explore a complete TLD list and compare domain prices in one place. Discover popular domain extensions, new top level domains among over 3496 domain name extensions.
+- [gh:itorr/nbnhhsh](https://github.com/itorr/nbnhhsh): 😩「能不能好好说话？」 拼音首字母缩写翻译工具 <https://lab.magiconch.com/nbnhhsh/>
 
 ## Branding
 
