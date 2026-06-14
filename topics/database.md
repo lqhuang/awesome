@@ -170,7 +170,7 @@
 - [chdb-io/chdb](https://github.com/chdb-io/chdb): chDB is an embedded OLAP SQL Engine powered by ClickHouse
 - [duckdb/duckdb](https://github.com/duckdb/duckdb): DuckDB is an in-process SQL OLAP Database Management System <http://www.duckdb.org>
   - [davidgasquez/awesome-duckdb](https://github.com/davidgasquez/awesome-duckdb): 🦆 A curated list of awesome DuckDB resources
-- [slatedb/slatedb](https://github.com/slatedb/slatedb): A cloud native embedded storage engine built on object storage. <https://slatedb.io>
+- 🌟 [slatedb/slatedb](https://github.com/slatedb/slatedb): A cloud native embedded storage engine built on object storage. <https://slatedb.io>
   - embedded kv on object storage
 - [tonbo-io/tonbo](https://github.com/tonbo-io/tonbo): A portable embedded database using Arrow. <https://tonbo.io>
   - embedded OLAP on object storage
@@ -247,6 +247,7 @@ Misc
   - [Anatomy of a Postgres extension written in Rust: pgmq](https://tembo.io/blog/postgres-extension-in-rust-pgmq)
   - [dvlkv/prisma-pgmq](https://github.com/dvlkv/prisma-pgmq): A TypeScript library that provides type-safe methods for PostgreSQL Message Queue (PGMQ) operations in your Prisma-based applications.
 - [gh:microsoft/pg_durable](https://github.com/microsoft/pg_durable): PostgreSQL in-database durable execution <https://microsoft.github.io/pg_durable/>
+- [gh:Snowflake-Labs/pg_lake](https://github.com/Snowflake-Labs/pg_lake): pg_lake: Postgres with Iceberg and data lake access <https://github.com/Snowflake-Labs/pg_lake/blob/main/docs/README.md>
 
 ### SQLite
 

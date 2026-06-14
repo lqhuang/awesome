@@ -11,11 +11,15 @@ And modern is here now.
 
 ## Resources
 
+- [oz123/awesome-c](https://github.com/oz123/awesome-c): A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp): A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff. <http://fffaraz.github.io/awesome-cpp/>
 - 🌟 [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp): A collection of resources on modern C++ <https://awesomecpp.com>
+- [gh:p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp): A curated list of awesome header-only C++ libraries
+- [A list of open-source C++ libraries - cppreference.com](https://en.cppreference.com/cpp/links/libs)
+- [A list of open source C libraries - cppreference.com](https://en.cppreference.com/c/links/libs)
 - 🌟 [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css): Custom CSS theme for doxygen html-documentation with lots of customization parameters. <https://jothepro.github.io/doxygen-awesome-css/>
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs): List of single-file C/C++ libraries.
-- 🌟https://blog.scottlogic.com/2025/11/26/putting-spec-kit-through-its-paces-radical-idea-or-reinvented-waterfall.html [Software optimization resources - Agner](https://www.agner.org/optimize/)
+- 🌟 [Software optimization resources - Agner](https://www.agner.org/optimize/)
 - 🌟 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
   - > People love to hate build systems.
     - my comment: Yes, definitely
@@ -34,7 +38,6 @@ And modern is here now.
 - [Everything I wish I knew when learning C](https://tmewett.com/c-tips/)
 - 🌟 [不可避免的内存安全（Memory Safety）之路](https://hardenedlinux.github.io/system-security/2025/05/07/path-to-memory-safety-inevitable.html)
   - in Chinese
-- [oz123/awesome-c](https://github.com/oz123/awesome-c): A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-... projects out there.
 - [Are We Modules Yet?](https://arewemodulesyet.org/)
 - 🌟 [gitlab:CLIUtils/modern-cmake](https://gitlab.com/CLIUtils/modern-cmake): A book about using CMake for your projects. <https://cliutils.gitlab.io/modern-cmake>
   - [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN): Chinese(simplified) translation of famous cmake tutorial Modern CMake. GitHub Pages : https://modern-cmake-cn.github.io/Modern-CMake-zh_CN/
@@ -162,6 +165,7 @@ And modern is here now.
 - [rizsotto/Bear](https://github.com/rizsotto/Bear): Bear is a tool that generates a compilation database for clang tooling.
 - [gh:Jarod42/ccccc](https://github.com/Jarod42/ccccc): C and C++ Code Counter using Clang. Tool which reports some metrics like LOC (line of code), Mc Cabe Cyclomatic Number or Halstead metrics.
 - [gh:terryyin/lizard](https://github.com/terryyin/lizard): A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
+- [gh:kallisti5/ElectricFence](https://github.com/kallisti5/ElectricFence): A debugger which detects memory access violations
 
 ### CI
 
@@ -415,6 +419,11 @@ And modern is here now.
 - [gflags/gflags](https://github.com/gflags/gflags): The gflags package contains a C++ library that implements commandline flags processing. It includes built-in support for standard types such as string and the ability to define flags in the source file in which they are used. Online documentation available at: <https://gflags.github.io/gflags/>
 - [soasis/platform](https://github.com/soasis/platform): A library for messing with platfom-dependent configurations and libraries, and sometimes hiding their cores.
 - [p-ranav/tabulate](https://github.com/p-ranav/tabulate): Table Maker for Modern C++
+- [gh:serge1/ELFIO](https://github.com/serge1/ELFIO): ELFIO and ARIO are robust, header-only C++ libraries designed to make binary file and archive manipulation effortless, efficient, and portable. Whether you are building compilers, linkers, binary analysis tools, or custom build systems, these libraries provide the foundation you need for working with ELF files and UNIX archives. <http://serge1.github.io/ELFIO>
+- [gh:ochafik/minja](https://github.com/ochafik/minja): A minimalistic C++ Jinja templating engine for LLM chat templates
+  - [gh:google/minja](https://github.com/google/minja): A minimalistic C++ Jinja templating engine for LLM chat templates
+- [gh:jinja2cpp/Jinja2Cpp](https://github.com/jinja2cpp/Jinja2Cpp): Jinja2 C++ (and for C++) almost full-conformance template engine implementation <https://jinja2cpp.github.io>
+- [gh:pantor/inja](https://github.com/pantor/inja): A Template Engine for Modern C++ <https://pantor.github.io/inja/>
 
 ## HPC
 

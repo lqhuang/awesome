@@ -51,6 +51,7 @@
   - must read series
 - 🌟 [Modern Microprocessors - A 90-Minute Guide!](https://www.lighterra.com/papers/modernmicroprocessors/): A brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture.
 - [gh:ianw/bottomupcs](https://github.com/ianw/bottomupcs): Bottom Up Computer Science <http://www.bottomupcs.com>
+- [Dive into Systems](https://diveintosystems.org/): The Dive into Systems project develops and evaluates teaching resources specifically for introductory computer systems, computer organization, and parallel computing courses.
 
 ## Compiler
 
@@ -74,6 +75,7 @@
   - [jwilk/python-afl](https://github.com/jwilk/python-afl): American Fuzzy Lop fork server and instrumentation for pure-Python code <https://jwilk.net/software/python-afl>
 - [libFuzzer – a library for coverage-guided fuzz testing. — LLVM 22.0.0git documentation](https://llvm.org/docs/LibFuzzer.html)
 - [google/oss-fuzz](https://github.com/google/oss-fuzz): OSS-Fuzz - continuous fuzzing for open source software. <https://google.github.io/oss-fuzz>
+- [gh:google/syzkaller](https://github.com/google/syzkaller): syzkaller is an unsupervised coverage-guided kernel fuzzer
 
 ### Tools
 
@@ -164,6 +166,9 @@ Libraries & Tools
 - [gh:immanuwell/pktz](https://github.com/immanuwell/pktz): pktz — eBPF-powered network traffic monitor — per process, per connection, live
 - [gh:jfernandez/bpftop](https://github.com/jfernandez/bpftop): bpftop provides a dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program. <https://bpftop.sh>
 - [gh:Alan-Jowett/bpf_conformance](https://github.com/Alan-Jowett/bpf_conformance): Measures the conformance of a BPF runtime to the ISA.
+- [gh:anakryiko/retsnoop](https://github.com/anakryiko/retsnoop): Investigate kernel error call stacks
+  - [Tracing Linux kernel with retsnoop](https://nakryiko.com/posts/retsnoop-intro/)
+- [gh:aquasecurity/btfhub](https://github.com/aquasecurity/btfhub): BTFhub, in collaboration with the BTFhub Archive repository, supplies BTF files for all published kernels that lack native support for embedded BTF. This joint effort ensures that even kernels without built-in BTF support can effectively leverage the benefits of eBPF programs, promoting compatibility across various kernel versions.
 
 ## Compression
 

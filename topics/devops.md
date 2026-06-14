@@ -84,6 +84,7 @@
 - [gh:LalitMaganti/syntaqlite](https://github.com/LalitMaganti/syntaqlite): A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer
 - [gh:microsoft/ghqr](https://github.com/microsoft/ghqr): GitHub Quick Review. Evaluate your enterprise and organizations with GitHub best practices
 - 🌟 [gh:untitaker/hyperlink](https://github.com/untitaker/hyperlink): Very fast link checker for CI.
+- [gh:OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance. <https://owasp.org/cve-lite-cli/>
 
 ### Reproducibility
 

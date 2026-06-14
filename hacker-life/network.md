@@ -41,6 +41,7 @@
 - [google/quiche](https://github.com/google/quiche): QUICHE stands for QUIC, Http, Etc. It is Google's production-ready implementation of QUIC, HTTP/2, HTTP/3, and related protocols and tools. It powers Google's servers, Chromium, Envoy, and other projects. It is actively developed and maintained.
 - [litespeedtech/lsquic](https://github.com/litespeedtech/lsquic): LiteSpeed QUIC and HTTP/3 Library
 - [datenlord/open-rdma](https://github.com/datenlord/open-rdma): RoCE v2 hardware and software implementation
+- [gh:RDMA-Rust/sideway](https://github.com/RDMA-Rust/sideway): A better wrapper for using RDMA programming APIs in Rust flavor
 - [Nordix/nfqueue-loadbalancer](https://github.com/Nordix/nfqueue-loadbalancer): A load-balancer based on the NFQUEUE iptables target
 - [mullvad/gotatun](https://github.com/mullvad/gotatun): Userspace WireGuard® Implementation in Rust
 - 🌟 [gh:seladb/PcapPlusPlus](https://github.com/seladb/PcapPlusPlus): PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK, AF_XDP and PF_RING. <https://pcapplusplus.github.io/>

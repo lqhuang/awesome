@@ -75,6 +75,7 @@
 - 🌟 [Timemator](https://timemator.com/): Tracks your time while you work. Automatically.
 - 🌟 [Optimage](https://optimage.app/): Advanced image optimization tool Automatically compress images achieving the highest compression ratio at consistent image quality.
 - 🌟 [Antinote: Beautiful Temporary Notes and Calculations](https://antinote.io/): Antinote is a beautiful, fast, and lightweight note-taking macOS app that lets you quickly jot down temporary notes and perform calculations seamlessly.
+- 🌟🌟🌟 [gh:mysk-research/loupe](https://github.com/mysk-research/loupe): A privacy-focused iOS app that raises awareness about what native apps can see
 
 ### Monitor
 

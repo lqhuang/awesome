@@ -22,6 +22,7 @@
 - [CravateRouge/bloodyAD](https://github.com/CravateRouge/bloodyAD): BloodyAD is an Active Directory Privilege Escalation Framework
 - [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure. <https://goteleport.com>
 - 🌟 [warp-tech/warpgate](https://github.com/warp-tech/warpgate): Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software <https://warpgate.null.page>
+- [gh:inthhq/dsar](https://github.com/inthhq/dsar): Open-source standard for handling DSAR requests programmatically. <https://dsar-sdk.com/>
 
 ## Worksuites
 

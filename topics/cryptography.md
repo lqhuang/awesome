@@ -63,6 +63,8 @@
   - [rust-openssl/rust-openssl](https://github.com/rust-openssl/rust-openssl): OpenSSL bindings for Rust
   - [pyca/pyopenssl](https://github.com/pyca/pyopenssl): A Python wrapper around the OpenSSL library <https://pyopenssl.org/>
 - [gh:digicert/trustcore](https://github.com/digicert/trustcore): TrustCore SDK
+- [gh:h2o/picotls](https://github.com/h2o/picotls): TLS 1.3 implementation in C (master supports RFC8446 as well as draft-26, -27, -28)
+- [gh:h2o/quicly](https://github.com/h2o/quicly): A modular QUIC stack designed primarily for H2O
 
 ### OpenPGP / GPG
 

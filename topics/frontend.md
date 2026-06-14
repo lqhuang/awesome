@@ -583,6 +583,7 @@ Misc
 - [gh:joshpuckett/dialkit](https://github.com/joshpuckett/dialkit): A library to help you dial in interface parameters of any kind
 - 🌟 [gh:raphaelsalaja/audio](https://github.com/raphaelsalaja/audio): Declarative audio synthesis for the web <https://audio.raphaelsalaja.com>
 - [gh:modem-dev/hunk](https://github.com/modem-dev/hunk): Review-first terminal diff viewer for agentic coders
+- [gh:c15t/c15t](https://github.com/c15t/c15t): The Developer-First Cookie Banner <https://c15t.com>
 
 #### Editor
 

@@ -55,6 +55,7 @@ yyjson
 ???
 
 - [gh:AutomataLab/cuJSON](https://github.com/AutomataLab/cuJSON): cuJSON: A Highly Parallel JSON Parser for GPUs
+- [gh:Brooooooklyn/metal-json](https://github.com/Brooooooklyn/metal-json): JSON parsing on the Apple Silicon GPU.
 
 ## UTF
 

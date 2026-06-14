@@ -99,6 +99,7 @@
   - [vaibhawvipul/lorenz-attractor-simulation](https://github.com/vaibhawvipul/lorenz-attractor-simulation): A comprehensive implementation of the Lorenz system demonstrating chaos theory through interactive visualizations and animations with extensive customization options.
 - [sail-sg/jrystal](https://github.com/sail-sg/jrystal): A JAX-based Differentiable Density Functional Theory Framework for Materials <https://sail-sg.github.io/jrystal/>
 - [gh:Ceyron/exponax](https://github.com/Ceyron/exponax): Efficient Differentiable n-d PDE Solvers in JAX. <https://fkoehler.site/exponax/>
+- [gh:nv-tlabs/wosx](https://github.com/nv-tlabs/wosx): Grid-Free Monte Carlo Solvers for Physics Simulations Involving Partial Differential Equations
 
 ## Prob / Bayesian Inference
 
