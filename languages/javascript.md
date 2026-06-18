@@ -171,6 +171,7 @@ Specific
 - [unjs/destr](https://github.com/unjs/destr): 🚀 Faster, secure and convenient alternative for JSON.parse
 - 🌟 [slevithan/regex](https://github.com/slevithan/regex): Regex template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices
 - 🌟 [e18e/awesome-e18e](https://github.com/e18e/awesome-e18e): A curated list of awesome e18e-focused packages
+- 🌟 [gh:e18e/replacements.fyi](https://github.com/e18e/replacements.fyi): A web app to render module replacements <https://replacements.fyi>
 - [es-tooling/fd-package-json](https://github.com/es-tooling/fd-package-json): Utilities for finding the closest package.json file
 - 🌟 [es-tooling/module-replacements](https://github.com/es-tooling/module-replacements): A manifest of JS modules and their more modern/active replacements
   - [Module replacements](https://github.com/es-tooling/module-replacements/blob/main/docs/modules/README.md): This is a list of all modules we suggest replacing, along with documentation to suggest alternatives.
@@ -266,6 +267,7 @@ Specific
 - [kriszyp/msgpackr](https://github.com/kriszyp/msgpackr): Ultra-fast MessagePack implementation with extension for record and structural cloning / msgpack.org[JavaScript/NodeJS]
 - [mtth/avsc](https://github.com/mtth/avsc): Avro for JavaScript ⚡
 - [sam-goodwin/zod-class](https://github.com/sam-goodwin/zod-class): Create a Class from a ZodObject schema in one line
+- 🌟 [gh:af/envalid](https://github.com/af/envalid): Environment variable validation for Node, Bun, and other compatible JS runtimes
 
 ### SerDe
 
@@ -445,6 +447,7 @@ Specific
 - [isomorphic-git/isomorphic-git](https://github.com/isomorphic-git/isomorphic-git): A pure JavaScript implementation of git for node and browsers! <https://isomorphic-git.org/>
 - [gh:HarperFast/rocksdb-js](https://github.com/HarperFast/rocksdb-js): RocksDB binding for Node.js
 - [gh:haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk): A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. <https://files-sdk.dev/>
+- 🌟 [gh:seydx/node-av](https://github.com/seydx/node-av): FFmpeg bindings for Node.js. Features both low-level and high-level APIs, full hardware acceleration, TypeScript support, and modern async patterns <https://seydx.github.io/node-av/>
 
 ### CLI
 

@@ -150,6 +150,7 @@
 - [gh:cardisoft/cardinal](https://github.com/cardisoft/cardinal): Fastest file searching tool for macOS
 - [gh:darrylmorley/whatcable](https://github.com/darrylmorley/whatcable): macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do <https://github.com/darrylmorley/whatcable/releases/latest>
 - [gh:samuelhe52/Teleport](https://github.com/samuelhe52/Teleport): Native, stable iOS location simulation utility app for macOS.
+- [gh:loc567/loc567](https://github.com/loc567/loc567): loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com
 
 ### Free / Paid
 

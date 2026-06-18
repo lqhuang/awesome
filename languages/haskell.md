@@ -57,6 +57,8 @@
 - [0rphee/haskellings](https://github.com/0rphee/haskellings): No description, website, or topics provided.
 - [moocfi/haskell-mooc](https://github.com/moocfi/haskell-mooc): Haskell MOOC University of Helsinki
 - [sjakobi/awesome-haskell-tutorial-modules](https://github.com/sjakobi/awesome-haskell-tutorial-modules): A curated list of awesome Haskell tutorial modules
+- [Learning Haskell](https://lexi-lambda.github.io/learning-haskell/index.html)
+  - Alexis King!
 
 ## Best choices
 
@@ -143,6 +145,7 @@
   - inspired by kyo
 - [jhgarner/Theseus](https://github.com/jhgarner/Theseus): An experimental and still heavily in progress Haskell effect system library supporting coroutines and higher order effects.
 - [Theseus: Worry free algebraic and higher order effects - Announcements - Haskell Community](https://discourse.haskell.org/t/theseus-worry-free-algebraic-and-higher-order-effects/13563/2)
+- [gh:tomjaguarpaw/bluefin](https://github.com/tomjaguarpaw/bluefin): Bluefin is an effect system for Haskell which allows you, through value-level capabilities
 
 ## Dependent type
 
@@ -252,6 +255,7 @@
 - [sellout/duoids](https://github.com/sellout/duoids): Unifying parallel and sequential operations
 - [jason-johnson/hodatime](https://github.com/jason-johnson/hodatime): A haskell time library based on Erik Naggum's "Long painful history of time"
 - [gh:sellout/yaya](https://github.com/sellout/yaya): Yet another … yet another recursion scheme library for Haskell
+- [gh:shayne-fletcher/relay](https://github.com/shayne-fletcher/relay): ordered message delivery <https://shayne-fletcher.github.io/relay/>
 
 ## Haskell meets AI
 

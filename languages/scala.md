@@ -172,6 +172,7 @@
 - [eed3si9n/verify](https://github.com/eed3si9n/verify): Scala Verify is a minimal testing framework for Scala. Trust, but verify.
 - [MartinHH/scalacheck-derived](https://github.com/MartinHH/scalacheck-derived): Automatic derivation of scalacheck Arbitrary instances for Scala 3.
 - [gh:kubuszok/scala-cli-md-spec](https://github.com/kubuszok/scala-cli-md-spec): Turn your markdown docs into test suites running Scala CLI
+- [gh:siriusxm/snapshot4s](https://github.com/siriusxm/snapshot4s): Snapshot testing for Scala made easy 📸 <https://siriusxm.github.io/snapshot4s/>
 
 ### Benchmarking
 
@@ -347,6 +348,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [scafi/scafi3](https://github.com/scafi/scafi3): scafi3 is a Scala 3 DSL for Aggregate Programming.
 - [JCTools/JCTools](https://github.com/JCTools/JCTools): <http://jctools.github.io/JCTools/>
   - Java Concurrency Tools for the JVM. This project aims to offer some concurrent data structures currently missing from the JDK:
+- [gh:halotukozak/made](https://github.com/halotukozak/made): Mirror Annotations & Default Extraction. A Scala 3 macro library that extends scala.deriving.Mirror with annotation metadata, default values, generated members, and transparent wrapper support. <https://halotukozak.github.io/made/>
 
 ### Experiments
 
@@ -506,6 +508,7 @@ Tracing and OpenTelemetry
 - [gh:OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue): Micro second messaging that stores everything to disk <http://chronicle.software/products/chronicle-queue/>
 - [gh:dynatrace-oss/hash4j](https://github.com/dynatrace-oss/hash4j): Dynatrace hash library for Java
 - [gh:Glavo/weburl-java](https://github.com/Glavo/weburl-java): A modern Java URL library that brings browser-grade WHATWG URL parsing to URI-style APIs. <https://weburl.glavo.site>
+- [gh:killme2008/aviatorscript](https://github.com/killme2008/aviatorscript): A high performance scripting language hosted on the JVM. <http://fnil.net/aviator/>
 
 ### Spark
 
@@ -706,7 +709,3 @@ http4s
 - [Kotlin/dataframe](https://github.com/Kotlin/dataframe): Structured data processing in Kotlin <https://kotlin.github.io/dataframe/>
 - [SciProgCentre/kmath](https://github.com/SciProgCentre/kmath): Kotlin mathematics extensions library
 - 🌟 [breandan/kotlingrad](https://github.com/breandan/kotlingrad): 🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types <https://breandan.net/public/masters_thesis.pdf#page=49>
-
-- [gh:halotukozak/made](https://github.com/halotukozak/made): Mirror Annotations & Default Extraction. A Scala 3 macro library that extends scala.deriving.Mirror with annotation metadata, default values, generated members, and transparent wrapper support. <https://halotukozak.github.io/made/>
-
-- [gh:siriusxm/snapshot4s](https://github.com/siriusxm/snapshot4s): Snapshot testing for Scala made easy 📸 <https://siriusxm.github.io/snapshot4s/>

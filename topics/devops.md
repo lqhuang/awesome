@@ -198,6 +198,7 @@ CC
 - [kiron1/bazel-compile-commands](https://github.com/kiron1/bazel-compile-commands): Generate a `compile_commands.json` from a Bazel workspace
 - [rizsotto/Bear](https://github.com/rizsotto/Bear): Bear is a tool that generates a compilation database for clang tooling.
 - [keith/bazel-cc-sysroot-generator](https://github.com/keith/bazel-cc-sysroot-generator): Create hermetic CC sysroots for use with bazel
+- [gh:lorenz/winsysroot](https://github.com/lorenz/winsysroot): Automatically assemble Windows Sysroots directly from Microsoft sources
 - [MaterializeInc/toolchains](https://github.com/MaterializeInc/toolchains): Bazel compatible C and Rust toolchains, used for building Materialize
 
 Python
@@ -405,6 +406,8 @@ Libs
 
 - [VoidenHQ/voiden](https://github.com/VoidenHQ/voiden): Define, test, and document APIs like a developer, not a SaaS user. No accounts. No lock-in. No telemetry. Just Markdown, Git, hotkeys, and your damn specs. <https://voiden.md>
 - 🌟 [gh:hegeldev/hegel-core](https://github.com/hegeldev/hegel-core): Universal property-based testing protocol, built on Hypothesis
+- [gh:cucumber](https://github.com/cucumber): Open source tool for running plain-language automated acceptance tests.
+- [gh:Ericsson/codechecker](https://github.com/Ericsson/codechecker): CodeChecker is an analyzer tooling, defect database and viewer extension for static and dynamic analyzer tools. <https://codechecker.readthedocs.io>
 
 ### TAP (Test Anything Protocol)
 

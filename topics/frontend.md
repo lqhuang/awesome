@@ -150,6 +150,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - Interesting!
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons): Functional css for humans <https://tachyons.io>
 - [homebound-team/truss](https://github.com/homebound-team/truss): A TypeScript DSL for writing utility CSS in React/JSX
+- [gh:Automattic/juice](https://github.com/Automattic/juice): Juice inlines CSS stylesheets into your HTML source.
 
 #### CSS in JS
 
@@ -212,6 +213,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟🌟🌟 [aidenybai/react-scan](https://github.com/aidenybai/react-scan): Scan for React performance issues and eliminate slow renders in your app <https://react-scan.million.dev>
 - [welldone-software/why-did-you-render](https://github.com/welldone-software/why-did-you-render): why-did-you-render by Welldone Software monkey patches React to notify you about potentially avoidable re-renders. (Works with React Native as well.) <https://www.npmjs.com/package/@welldone-software/why-did-you-render>
 - [React Explorer](https://react-explorer.com/): Turn your React website into an interactive graph of components
+- [gh:csswizardry/Obs.js](https://github.com/csswizardry/Obs.js): Context-aware web performance for everyone <https://csswizardry.com/Obs.js/demo/>
 
 ## Components library
 
@@ -338,6 +340,7 @@ Genius!
 - 🌟 [gh:pierrecomputer/pierre](https://github.com/pierrecomputer/pierre): pierre’s open source code <https://pierre.computer>
   - `@pierre/diffs`
   - `@pierre/trees`
+- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys): A tiny (~400 B) & modern library for keybindings. <https://jamiebuilds.github.io/tinykeys/>
 
 List
 
@@ -434,6 +437,9 @@ Form
 - [guidone/lets-form](https://github.com/guidone/lets-form): A JSON form generator for React with Material UI / AntDesign / Bootstrap / RSuite / Mantine <https://letsform.dev>
 - [m6io/react-formgen](https://github.com/m6io/react-formgen): Headless, unopinionated, and flexible form generation. <https://react-formgen.vercel.app>
 - [form-atoms/form-atoms](https://github.com/form-atoms/form-atoms): Jotai form atoms <https://codesandbox.io/s/getting-started-with-form-atoms-v2-ddhgq2?file=/src/App.tsx>
+- [gitlab:alistairldavidson/validation-enhancer](https://gitlab.com/alistairldavidson/validation-enhancer): The easiest, most lightweight validation system
+  - [npm:validation-enhancer](https://www.npmjs.com/package/validation-enhancer)
+  - [How building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
 
 Upload
 
@@ -537,6 +543,11 @@ Email
   - [arikchakma/maily.to](https://github.com/arikchakma/maily.to): Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients. <https://maily.to>
 - [gh:unmta/emailmd](https://github.com/unmta/emailmd): Render markdown into email-safe HTML <https://www.emailmd.dev/>
 
+Modal
+
+- [Temzasse/react-modal-sheet](https://github.com/Temzasse/react-modal-sheet): Flexible bottom sheet component built with Framer Motion to provide buttery smooth UX while keeping accessibility in mind 🪐 <https://temzasse.github.io/react-modal-sheet/>
+- [gh:micromodal/Micromodal](https://github.com/micromodal/Micromodal): ⭕ Tiny javascript library for creating accessible modal dialogs <https://micromodal.now.sh/>
+
 Widgets
 
 - [gh:LeaVerou/bluesky-likes](https://github.com/LeaVerou/bluesky-likes): Flexible components for displaying Bluesky likes <https://projects.verou.me/bluesky-likes/>
@@ -544,7 +555,6 @@ Widgets
 Misc
 
 - [vercel/satori](https://github.com/vercel/satori): Enlightened library to convert HTML and CSS to SVG <https://og-playground.vercel.app/>
-- [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys): A tiny (~400 B) & modern library for keybindings. <https://jamiebuilds.github.io/tinykeys/>
 - [DiiiaZoTe/next-route-visualizer](https://github.com/DiiiaZoTe/next-route-visualizer): <https://next-route-visualizer.vercel.app>
 - [Oblosys/react-lifecycle-visualizer](https://github.com/Oblosys/react-lifecycle-visualizer): Real-time visualizer for React lifecycle methods <https://codesandbox.io/s/github/Oblosys/react-lifecycle-visualizer/tree/master/examples/parent-child-demo?file=/src/samples/New.js>
 - [nygardk/react-share](https://github.com/nygardk/react-share): Social media share buttons and share counts for React
@@ -554,7 +564,6 @@ Misc
 - [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit): A lightweight magic-move library for configurable layout transitions
 - [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions): Use CSS View Transitions API in Next.js App Router. <https://next-view-transitions.vercel.app>
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars): A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling. <https://kingsora.github.io/OverlayScrollbars>
-- [Temzasse/react-modal-sheet](https://github.com/Temzasse/react-modal-sheet): Flexible bottom sheet component built with Framer Motion to provide buttery smooth UX while keeping accessibility in mind 🪐 <https://temzasse.github.io/react-modal-sheet/>
 - [visgl/react-google-maps](https://github.com/visgl/react-google-maps): React components and hooks for the Google Maps JavaScript API <https://visgl.github.io/react-google-maps/>
 - [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js): Easy Parallax Effect for React & JavaScript <https://simpleparallax.com>
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words): React component to highlight words within a larger body of text <https://bvaughn.github.io/react-highlight-words/>
@@ -914,6 +923,7 @@ Concrete animations
   - [gh:remotion-dev/html-in-canvas](https://github.com/remotion-dev/html-in-canvas): Shows the capabilities of HTML-in-canvas and Remotion using the `<HtmlInCanvas>` component. <https://remotion.dev/html-in-canvas>
 - [gh:Jakubantalik/metal-fx](https://github.com/Jakubantalik/metal-fx): Animated WebGL liquid-metal effect for React buttons and UI components <https://metal.jakubantalik.com>
 - 🌟 [gh:gre/gl-react](https://github.com/gre/gl-react): gl-react – React library to write and compose WebGL shaders <http://gre.github.io/gl-react/>
+- [gh:HarryStevens/geometric](https://github.com/HarryStevens/geometric): A JavaScript library for doing geometry. <https://www.harryjstevens.com/geometric/>
 
 ### Engine
 

@@ -27,6 +27,7 @@
 - [Linux Network Performance Ultimate Guide | kiennt26](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/): Author: Kien Nguyen <kiennt2609@gmail.com> A minimal Hugo theme with Tailwind CSS
 - 🌟 [The world in which IPv6 was a good design - apenwarr](https://apenwarr.ca/log/20170810)
 - [devanshbatham/Everything-About-DNS](https://github.com/devanshbatham/Everything-About-DNS): DNS Explained : This repo aims to explain the basics of DNS at different levels of complexity for readers with various technical backgrounds.
+- 🌟 [dn42](https://dn42.dev/Home): dn42 can be used to learn networking and to connect private networks, such as hackerspaces or community networks. But above all, experimenting with routing in dn42 is fun!
 
 ## Libraries
 

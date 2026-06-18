@@ -60,6 +60,7 @@
   - [arXiv: Computational Optimal Transport](https://arxiv.org/abs/1803.00567)
 - [PennyLaneAI/pennylane](https://github.com/PennyLaneAI/pennylane): PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Train a quantum computer the same way as a neural network. <https://pennylane.ai>
 - [gh:softwareQinc/qpp](https://github.com/softwareQinc/qpp): Modern C++ quantum computing library <https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0208073>
+- [Optimal Transport for Machine Learners](https://www.gpeyre.com/ot4ml/): OT4ML gathers a book, an interactive web version, figure notebooks, teaching notebooks, course slides, and resources on optimal transport for machine learning.
 
 ## Misc
 

@@ -369,6 +369,7 @@ Type 1 hypervisors
 - 🌟 [kubernetes/dashboard](https://github.com/kubernetes/dashboard): General-purpose web UI for Kubernetes clusters
   - [int128/kauthproxy](https://github.com/int128/kauthproxy): Local authentication proxy for Kubernetes Dashboard (kubectl auth-proxy)
 - [zxh326/kite](https://github.com/zxh326/kite): 🪁 A modern, lightweight Kubernetes dashboard <https://kite-demo.zzde.me/>
+- 🌟 [gh:kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp): A Kubernetes web UI that is fully-featured, user-friendly and extensible <https://headlamp.dev>
 
 ### kubectl plugins
 
@@ -603,7 +604,6 @@ Type 1 hypervisors
 - 🌟 [octodns/octodns](https://github.com/octodns/octodns): Tools for managing DNS across multiple providers
 - [libdns/libdns](https://github.com/libdns/libdns): Core interfaces for universal DNS record manipulation across providers
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns): Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [go-acme/lego](https://github.com/go-acme/lego): Let's Encrypt/ACME client and library written in Go <https://go-acme.github.io/lego/>
 - [rclone/rclone](https://github.com/rclone/rclone): "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files <https://rclone.org>
 - [apache/libcloud](https://github.com/apache/libcloud): Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API. <https://libcloud.apache.org>
 - [apache/openwhisk](https://github.com/apache/openwhisk): Apache OpenWhisk is an open source serverless cloud platform <https://openwhisk.apache.org/>

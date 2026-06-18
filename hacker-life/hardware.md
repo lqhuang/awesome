@@ -5,3 +5,4 @@
 - [Clicks Communicator](https://clicksphone.com/communicator): Clicks Communicator is phone purpose-built for taking action and communicating in a noisy world with deeper context, versatile input and greater control in a compact design.
 - [Goods](https://goods.so/): Fewer, better things.
 - [gh:wesbos/awesome-uses](https://github.com/wesbos/awesome-uses): A list of /uses pages detailing developer setups, gear, software and configs. <https://uses.tech>
+- [gh:cherti/remarkable-cli-tooling](https://github.com/cherti/remarkable-cli-tooling): Tooling for the reMarkable paper tablet.

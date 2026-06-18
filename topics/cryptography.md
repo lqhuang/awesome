@@ -104,3 +104,6 @@
   - [gh:cloudflare/cfssl_trust](https://github.com/cloudflare/cfssl_trust): CFSSL's CA trust store repository
 - [gh:cloudflare/circl](https://github.com/cloudflare/circl): CIRCL: Cloudflare Interoperable Reusable Cryptographic Library <http://blog.cloudflare.com/introducing-circl>
 - [gh:chris2511/xca](https://github.com/chris2511/xca): X Certificate and Key management <http://xca.hohnstaedt.de>
+- [gh:certhub/certhub](https://github.com/certhub/certhub): Centralized certificate management the unix way <https://certhub.io/>
+- [gh:certbot/certbot](https://github.com/certbot/certbot): Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+- [go-acme/lego](https://github.com/go-acme/lego): Let's Encrypt/ACME client and library written in Go <https://go-acme.github.io/lego/>

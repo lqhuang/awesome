@@ -95,6 +95,7 @@
 - [gh:casey/just](https://github.com/casey/just): 🤖 Just a command runner <https://just.systems>
   - [gh:fpgmaas/justx](https://github.com/fpgmaas/justx): A TUI command launcher built on top of just. Define recipes once, run them anywhere. <https://fpgmaas.github.io/justx>
 - 🌟 [gh:microsoft/coreutils](https://github.com/microsoft/coreutils): Coreutils for Windows: Installer & Packaging
+- [gh:chenshuo/txt2png](https://github.com/chenshuo/txt2png): txt2png — Knuth-Plass line-breaking & text-to-PNG renderer
 
 ### SSH
 
@@ -194,6 +195,7 @@
 - [gh:control-theory/gonzo](https://github.com/control-theory/gonzo): Gonzo! The Go based TUI log analysis tool <https://www.controltheory.com/gonzo/>
 - 🌟 [gh:logdyhq/logdy-core](https://github.com/logdyhq/logdy-core): Realtime log viewer with web UI, tail -f for logs with a web interface browser. <https://logdy.dev>
 - [gh:logbull/logbull](https://github.com/logbull/logbull): Log Bull - simple log collection and view system. Self hosted, zero-config, support of languages (Python, Go, Java, PHP, etc.). Simple alternative to ELK and Loki <https://logbull.com>
+- [gh:neomutt/neomutt](https://github.com/neomutt/neomutt): ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat <https://neomutt.org/>
 
 ## Monitor
 
