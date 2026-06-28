@@ -251,6 +251,7 @@ Misc
 
 ### SQLite
 
+- [SQLite FTS5 Extension](https://www.sqlite.org/fts5.html)
 - [lichuang/awesome-sqlite](https://github.com/lichuang/awesome-sqlite): awesome things related to SQLite
 - [nalgeon/sqlean](https://github.com/nalgeon/sqlean): The ultimate set of SQLite extensions
 - [nalgeon/sqlpkg](https://github.com/nalgeon/sqlpkg): SQLite package registry <https://sqlpkg.org>

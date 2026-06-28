@@ -10,6 +10,7 @@ Daniel Lemire is dominating this field 😄.
 - [Performance Speed Limits | Performance Matters](https://travisdowns.github.io/blog/2019/06/11/speed-limits.html): A laundry list of speed limits that your code can’t exceed.
 - [penberg/awesome-low-latency](https://github.com/penberg/awesome-low-latency): Patterns and resources of low latency programming.
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html)
+<!-- - [gh:raygervais/awesome-blazingly-fast](https://github.com/raygervais/awesome-blazingly-fast): A (satire) awesome list which lists all projects which are described as `blazingly fast` -->
 
 ## Algorithmica
 
@@ -72,6 +73,7 @@ yyjson
 - [xjb714/xjb](https://github.com/xjb714/xjb): fast float to string algorithm.
 - [gh:kolemannix/ffc.h](https://github.com/kolemannix/ffc.h): Single-header c99 accelerated float/double parsing. Port of the fast_float library.
   - Daniel Lemire says it is the fastest float parser nowadays.
+- [gh:google/double-conversion](https://github.com/google/double-conversion): Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
 
 ## Speed up Python
 

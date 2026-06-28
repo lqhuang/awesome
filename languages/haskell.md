@@ -107,6 +107,7 @@
 - [NorfairKing/sydtest](https://github.com/NorfairKing/sydtest): A modern testing framework for Haskell with good defaults and advanced testing features.
 - [sol/doctest](https://github.com/sol/doctest): An implementation of Python's doctest for Haskell <https://hackage.haskell.org/package/doctest>
 - [gh:MercuryTechnologies/zizek](https://github.com/MercuryTechnologies/zizek): Property-based testing for Haskell, built on Hypothesis.
+- [gh:puffnfresh/haskell-pprof](https://github.com/puffnfresh/haskell-pprof): Continuous profiling for GHC programs
 
 ## Parser
 

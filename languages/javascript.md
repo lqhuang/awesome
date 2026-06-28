@@ -251,6 +251,7 @@ Specific
   - [LorisSigrist/zocker](https://github.com/LorisSigrist/zocker): Generate realistic mock-data from your `zod` schemas <http://zocker.sigrist.dev/>
   - [soc221b/zod-schema-faker](https://github.com/soc221b/zod-schema-faker): Generate mock data from zod schemas. Powered by @faker-js/faker and randexp.js. <https://stackblitz.com/edit/zod-schema-faker?file=src%2Fmain.ts>
   - [danscan/zod-jsonrpc](https://github.com/danscan/zod-jsonrpc): Create type-safe JSON-RPC API clients and servers in JS/TS using any transport.
+  - [gh:gajus/zod-compiler](https://github.com/gajus/zod-compiler): Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc
 - 🌟 [arktypeio/arktype](https://github.com/arktypeio/arktype): TypeScript's 1:1 validator, optimized from editor to runtime <https://arktype.io/>
   - highlight: pattern matching / integrable with `hono`
   - [ArkType Docs: Match](https://arktype.io/docs/match): Optimized runtime validation for TypeScript syntax
@@ -391,6 +392,9 @@ Specific
 - [neon-bindings/neon](https://github.com/neon-bindings/neon): Rust bindings for writing safe and fast native Node.js modules. <https://www.neon-bindings.com/>
 - [gh:kristiandupont/kanel](https://github.com/kristiandupont/kanel): Generate Typescript types from Postgres <https://kristiandupont.github.io/kanel/>
 - [gh:joist-orm/joist-orm](https://github.com/joist-orm/joist-orm): a TypeScript ORM for Postgres <https://joist-orm.io/>
+- [gh:jshttp/mime-db](https://github.com/jshttp/mime-db): Media Type Database
+- [gh:jshttp/mime-types](https://github.com/jshttp/mime-types): The ultimate javascript content-type utility.
+- [gh:jshttp/media-typer](https://github.com/jshttp/media-typer): Simple RFC 6838 media type parser and formatter
 
 ### PDF
 
@@ -448,6 +452,7 @@ Specific
 - [gh:HarperFast/rocksdb-js](https://github.com/HarperFast/rocksdb-js): RocksDB binding for Node.js
 - [gh:haydenbleasel/files-sdk](https://github.com/haydenbleasel/files-sdk): A unified storage SDK for object and blob backends. One small, honest API. Web-standards I/O. <https://files-sdk.dev/>
 - 🌟 [gh:seydx/node-av](https://github.com/seydx/node-av): FFmpeg bindings for Node.js. Features both low-level and high-level APIs, full hardware acceleration, TypeScript support, and modern async patterns <https://seydx.github.io/node-av/>
+- 🌟 [gh:toss/es-git](https://github.com/toss/es-git): A modern Git library built for Node.js with blazing-fast installation and rock-solid stability, powered by N-API. <https://es-git.dev>
 
 ### CLI
 
@@ -574,3 +579,4 @@ Deep equal
 
 - [gh:PerryTS/perry](https://github.com/PerryTS/perry): A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM. <https://www.perryts.com>
 - [gh:CanadaHonk/porffor](https://github.com/CanadaHonk/porffor): An ahead-of-time JavaScript compiler <https://porffor.dev>
+- [gh:isaac-mason/compilecat](https://github.com/isaac-mason/compilecat): typescript performance compiler <https://isaac-mason.github.io/compilecat/>

@@ -91,6 +91,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [justin-schroeder/arrow-js](https://github.com/justin-schroeder/arrow-js): Reactivity without the framework <https://arrow-js.com>
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra): Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
 - [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
+  - [gh:tisoap/react-flow-smart-edge](https://github.com/tisoap/react-flow-smart-edge): Custom Edge for React Flow that never intersects with other nodes <https://tisoap.github.io/react-flow-smart-edge/>
 - [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js): A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
 - [gh:synergycodes/ng-diagram](https://github.com/synergycodes/ng-diagram): ngDiagram – An open-source Angular library for creating rich, interactive diagramming experiences. Designed for flexibility and performance, it lets you build everything from simple flows to advanced visual editors with ease <https://www.ngdiagram.dev/docs>
 - [onejs/one](https://github.com/onejs/one): ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. <https://onestack.dev>
@@ -521,6 +522,7 @@ DateTime related
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono): 🕑 Modern Timeline Component for React <https://react-chrono.prabhumurthy.com/>
 - [nucleuscloud/neocron](https://github.com/nucleuscloud/neocron): A modern, lightweight cron scheduling react component styled using tailwind css
 - [nhn/tui.calendar](https://github.com/nhn/tui.calendar): 🍞📅A JavaScript calendar that has everything you need. <http://ui.toast.com/tui-calendar>
+- [gh:dayflow-js/calendar](https://github.com/dayflow-js/calendar): A lightweight and elegant React/Vue/Angular/Svelte full calendar(big-calendar) component <https://calendar.dayflow.studio>
 
 Markdown
 
@@ -880,6 +882,8 @@ Concrete animations
 - https://icons8.com/icons/sf-regular
 - [Home | helpy-ui](https://helpy-ui.com/): Find Tools That Cover Your Code
 - [basmilius/weather-icons](https://github.com/basmilius/weather-icons): Free to use animated weather icons. <https://meteocons.com>
+- [gh:humation-labs/humation](https://github.com/humation-labs/humation): Hand-drawn kawaii avatar engine for your app. No AI, no API calls.
+- [gh:cossistantcom/cossistant](https://github.com/cossistantcom/cossistant): Open-source, customer support platform with fully customizable AI support agents for developers / startups shipping SaaS. <https://cossistant.com>
 
 ### Logos / Brand icons
 
@@ -890,6 +894,8 @@ Concrete animations
 - [中国大学矢量校徽大全](https://www.urongda.com/): 汇集全国高校的矢量校徽，提供高质量的可缩放 SVG 文件，适合设计师、学生和机构使用。
 - [Logo API - Logo.dev](https://www.logo.dev/): Get company logos via API in seconds. Access millions of verified brand logos in SVG, PNG & WebP. Free tier with generous monthly requests. Start now.
 - [theSVG](https://thesvg.org/): Search, copy, and ship 6,068+ brand SVG icons. Open-source library with npm, React, Vue, Svelte, CLI, CDN, and MCP server support.
+- [gh:sanity-labs/logo-soup](https://github.com/sanity-labs/logo-soup): normalizes and harmonizes logo visuals <https://logo-soup.sanity.dev/docs>
+  - [The logo soup problem (and how to solve it) | Sanity](https://www.sanity.io/blog/the-logo-soup-problem): A deep dive into the math behind making mismatched brand logos actually look good together. And a tiny React library that does it for you.
 
 ## Further topics
 
@@ -924,6 +930,7 @@ Concrete animations
 - [gh:Jakubantalik/metal-fx](https://github.com/Jakubantalik/metal-fx): Animated WebGL liquid-metal effect for React buttons and UI components <https://metal.jakubantalik.com>
 - 🌟 [gh:gre/gl-react](https://github.com/gre/gl-react): gl-react – React library to write and compose WebGL shaders <http://gre.github.io/gl-react/>
 - [gh:HarryStevens/geometric](https://github.com/HarryStevens/geometric): A JavaScript library for doing geometry. <https://www.harryjstevens.com/geometric/>
+- [gh:LayoutitStudio/polycss](https://github.com/LayoutitStudio/polycss): A CSS 3D engine for the DOM. Renders polygon meshes in HTML by leveraging matrix3d transforms. <https://polycss.com>
 
 ### Engine
 

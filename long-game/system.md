@@ -52,6 +52,7 @@
 - 🌟 [Modern Microprocessors - A 90-Minute Guide!](https://www.lighterra.com/papers/modernmicroprocessors/): A brief, pulls-no-punches, fast-paced introduction to the main design aspects of modern processor microarchitecture.
 - [gh:ianw/bottomupcs](https://github.com/ianw/bottomupcs): Bottom Up Computer Science <http://www.bottomupcs.com>
 - [Dive into Systems](https://diveintosystems.org/): The Dive into Systems project develops and evaluates teaching resources specifically for introductory computer systems, computer organization, and parallel computing courses.
+- [The Garbage Collection Handbook](https://gchandbook.org/index.html)
 
 ## Compiler
 

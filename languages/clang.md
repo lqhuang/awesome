@@ -52,6 +52,7 @@ And modern is here now.
 - 🌟 [gh:itanium-cxx-abi/cxx-abi](https://github.com/itanium-cxx-abi/cxx-abi): C++ ABI Summary
 - [Itanium C++ ABI](https://refspecs.linuxbase.org/cxxabi-1.86.html): no description found
 - [C++ Best Practices | Erik Rigtorp](https://rigtorp.se/cpp-best-practices/): Opinionated C++ one page best practices guide. Adapt according to your project’s requirements.
+- [gh:sandordargo/cpp-resources](https://github.com/sandordargo/cpp-resources): C++ Learning Resources
 
 ### References
 
@@ -103,6 +104,8 @@ And modern is here now.
 - [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial): 📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/ <https://changkun.de/modern-cpp/>
 - [gitlab:fbb-git/cppannotations](https://gitlab.com/fbb-git/cppannotations): Extensive tutorial and documentation about C++
   - [Index: The C++ Annotations](https://fbb-git.gitlab.io/cppannotations/cppannotations/html/index.html)
+- [Safe C++](https://safecpp.org/draft.html)
+- [P3471R4: Standard library hardening](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/p3471r4.html)
 
 ### Project templates and starters
 
@@ -250,6 +253,7 @@ And modern is here now.
 - [mpark/patterns](https://github.com/mpark/patterns): This is an experimental library that has evolved to P2688 <https://wg21.link/p2688>
 - [nonstd-lite/expected-lite](https://github.com/nonstd-lite/expected-lite): expected lite - C++23 expected objects for C++11 and later in a single-file header-only library
 - [microsoft/GSL](https://github.com/microsoft/GSL): Guidelines Support Library
+- [gh:electronicarts/EASTL](https://github.com/electronicarts/EASTL): EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance.
 
 ## Safer CPP
 
@@ -257,10 +261,10 @@ And modern is here now.
 - [rollbear/strong_type](https://github.com/rollbear/strong_type): An additive strong typedef library for C++14/17/20
 - [duneroadrunner/SaferCPlusPlus](https://github.com/duneroadrunner/SaferCPlusPlus): A collection of safe data types that are compatible with, and can substitute for, common unsafe native c++ types
 - [duneroadrunner/scpptool](https://github.com/duneroadrunner/scpptool): scpptool is a command line tool to help enforce a memory and data race safe subset of C++.
+- [gh:ned14/outcome](https://github.com/ned14/outcome): Provides very lightweight `outcome<T>` and `result<T>` (non-Boost edition) <https://ned14.github.io/outcome>
 
 ## System programming
 
-- [gh:google/double-conversion](https://github.com/google/double-conversion): Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
 - [gh:hosseinmoein/DataFrame](https://github.com/hosseinmoein/DataFrame): C++ DataFrame for statistical, Financial, and ML analysis -- in modern C++ using native types and contiguous memory storage
 - [gh:floooh/sokol](https://github.com/floooh/sokol): minimal cross-platform standalone C headers <https://floooh.github.io/sokol-html5>
   - [gh:floooh/sokol-zig](https://github.com/floooh/sokol-zig): Zig bindings for the sokol headers (https://github.com/floooh/sokol)
@@ -288,6 +292,7 @@ And modern is here now.
 - [gh:skypjack/entt](https://github.com/skypjack/entt): Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more <https://github.com/skypjack/entt/wiki>
 - [gh:jeremy-rifkin/cpptrace](https://github.com/jeremy-rifkin/cpptrace): Simple, portable, and self-contained stacktrace library for C++11 and newer
 - [gh:aous72/OpenJPH](https://github.com/aous72/OpenJPH): Open-source implementation of JPEG2000 Part-15 (or JPH or HTJ2K)
+- [gh:ned14/llfio](https://github.com/ned14/llfio): P1031 low level file i/o and filesystem library for the C++ standard <https://ned14.github.io/llfio/>
 
 ### Data Structures
 
@@ -318,6 +323,7 @@ And modern is here now.
 - [vincentlaucsb/csv-parser](https://github.com/vincentlaucsb/csv-parser): A high-performance, fully-featured CSV parser and serializer for modern C++.
 - [benhoyt/inih](https://github.com/benhoyt/inih): Simple .INI file parser in C, good for embedded systems
 - 🌟 [gh:stephenberry/glaze](https://github.com/stephenberry/glaze): Extremely fast, in memory, JSON and reflection library for modern C++. BEVE, CBOR, CSV, MessagePack, TOML, YAML, EETF <https://stephenberry.github.io/glaze/>
+- [gh:yandex/yaff](https://github.com/yandex/yaff): YaFF is a high-performance C++ serialization library that provides a zero-copy wire format for the Protobuf ecosystem.
 
 ### String
 
@@ -390,6 +396,7 @@ And modern is here now.
 - [mratsim/weave](https://github.com/mratsim/weave): A state-of-the-art multithreading runtime: message-passing based, fast, scalable, ultra-low overhead The Curse of Strong Typing
 - [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
 - [gh:clice-io/kotatsu](https://github.com/clice-io/kotatsu): `kotatsu` is a C++23 toolkit extracted from the `clice` ecosystem. It started as a coroutine wrapper around libuv, and now also includes compile-time reflection, an attribute-driven codec framework, a typed IPC layer with generated LSP protocol bindings, a lightweight test framework, an LLVM-compatible option parsing library, a declarative CLI layer built on top, and a shared support layer of containers, traits, and string utilities.
+- 🌟 [gh:ClickHouse/silk](https://github.com/ClickHouse/silk): Fast stackful fibers with a NUMA-aware work-stealing scheduler
 
 ### Web
 

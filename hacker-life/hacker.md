@@ -323,6 +323,7 @@
 - 🌟 [Refactoring English](https://refactoringenglish.com/): Effective writing for software developers
 - [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file): Direct File <https://directfile.irs.gov>
 - 🌟 [技术语境中那些熟悉又陌生的英语动词 - neverland](https://hsu.cy/2025/12/interesting-verbs-in-computing/)
+- [gh:zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide): 美股指南
 
 ## Open Source Software: State, Progress and Future
 

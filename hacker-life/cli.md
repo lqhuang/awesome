@@ -96,6 +96,7 @@
   - [gh:fpgmaas/justx](https://github.com/fpgmaas/justx): A TUI command launcher built on top of just. Define recipes once, run them anywhere. <https://fpgmaas.github.io/justx>
 - 🌟 [gh:microsoft/coreutils](https://github.com/microsoft/coreutils): Coreutils for Windows: Installer & Packaging
 - [gh:chenshuo/txt2png](https://github.com/chenshuo/txt2png): txt2png — Knuth-Plass line-breaking & text-to-PNG renderer
+- 🌟 [gh:schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another 🐊 📦 <https://schollz.com/software/croc6>
 
 ### SSH
 

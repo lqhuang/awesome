@@ -30,7 +30,6 @@
 - [MoserMichael/python-obj-system](https://github.com/MoserMichael/python-obj-system): Tutorials on advanced python topics, and literate programming framework to write them (see README.md)
 - [dabeaz-course/practical-python](https://github.com/dabeaz-course/practical-python): Practical Python Programming (course by @dabeaz) <https://dabeaz-course.github.io/practical-python>
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery): Advanced Python Mastery (course by @dabeaz)
-- [pypackaging-native/pypackaging-native](https://github.com/pypackaging-native/pypackaging-native): A collection of content about key Python packaging topics and issues for projects using native code <https://pypackaging-native.github.io>
 - [Chang-LeHung/dive-into-cpython](https://github.com/Chang-LeHung/dive-into-cpython): dive into cpython source code <https://chang-lehung.github.io/dive-into-cpython/>
 - [zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals): Dive into CPython internals, trying to illustrate every detail of CPython implementation
 - [CPython Internals](https://hai-shi.gitbook.io/cpython-internals): 微软独立研究员 Anthony Shaw 的《CPython Internals》中文翻译
@@ -43,7 +42,7 @@
 - [Scientific Python Library Development Guide](https://learn.scientific-python.org/development/)
   - [scientific-python/cookie](https://github.com/scientific-python/cookie): Scientific Python Library Development Guide and Cookiecutter <https://learn.scientific-python.org/development>
 - [Python extensions should be lazy](https://www.gauge.sh/blog/python-extensions-should-be-lazy)
-- [Reflections on 2 years of CPython’s JIT Compiler: The good, the bad, the ugly | Ken Jin](https://fidget-spinner.github.io/posts/jit-reflections.html)
+- [Reflections on 2 years of CPython's JIT Compiler: The good, the bad, the ugly | Ken Jin](https://fidget-spinner.github.io/posts/jit-reflections.html)
 - [Friendly Python notes](https://gist.github.com/PsiACE/8df7647b9bca2ebb28c418ac946599f6): Friendly Python notes under Frost Ming's "friendly python" tag
   - in Chinese
 
@@ -150,6 +149,8 @@ Templates
 - [A Comprehensive Guide to Python Project Management and Packaging: Concepts Illustrated with uv – Part I – Reinforced Knowledge](https://reinforcedknowledge.com/a-comprehensive-guide-to-python-project-management-and-packaging-concepts-illustrated-with-uv-part-i/)
 - [nascheme/cpython_sanity](https://github.com/nascheme/cpython_sanity): Builds of Python, numpy, scipy with sanitizer compile options enabled
 - [AndydeCleyre/zpy](https://github.com/AndydeCleyre/zpy): Manage Python environments in Zsh, with uv or pip-tools <https://andydecleyre.github.io/zpy/>
+- [gh:wheelnext/wheelnext](https://github.com/wheelnext/wheelnext): WheelNext Website <https://wheelnext.dev/>
+  - [gh:pypackaging-native/pypackaging-native](https://github.com/pypackaging-native/pypackaging-native): A collection of content about key Python packaging topics and issues for projects using native code
 
 ### Docs
 
@@ -496,7 +497,7 @@ Misc
 - [memgraph/gqlalchemy](https://github.com/memgraph/gqlalchemy): GQLAlchemy is a library developed with the purpose of assisting in writing and running queries on Memgraph. GQLAlchemy supports high-level connection to Memgraph as well as modular query builder.
 - 📝 [ponyorm/pony](https://github.com/ponyorm/pony): Pony Object Relational Mapper
   - Learn how Monad style applies in Python
-  - [Python’s "Disappointing" Superpowers # Pony ORM](https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/#pony-orm)
+  - [Python's "Disappointing" Superpowers # Pony ORM](https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/#pony-orm)
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry): A GraphQL library for Python that leverages type annotations 🍓 <https://strawberry.rocks>
 - [ipython/pickleshare](https://github.com/ipython/pickleshare): File system based database that uses python pickles
 - 🌟 [unum-cloud/ustore](https://github.com/unum-cloud/ustore): Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with NetworkX and Pandas interfaces, and bindings for C 99, C++ 17, Python 3, Java, GoLang 🗄️ <https://unum-cloud.github.io/ustore/>
@@ -564,7 +565,7 @@ Misc
   - [lucafaggianelli/plombery](https://github.com/lucafaggianelli/plombery): Python task scheduler with a user-friendly web UI <http://lucafaggianelli.com/plombery/>
     - looks great
 - 🌟 [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever): ⏰ Modern datetime library for Python <https://whenever.rtfd.io>
-  - [Ten Python datetime pitfalls, and what libraries are (not) doing about it | Arie Bovenberg](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/): It’s no secret that the Python datetime library has its quirks. Not only are there probably more than you think; third-party libraries don’t address most of them! I created a new library to explore what a better datetime library could look like.
+  - [Ten Python datetime pitfalls, and what libraries are (not) doing about it | Arie Bovenberg](https://dev.arie.bovenberg.net/blog/python-datetime-pitfalls/): It's no secret that the Python datetime library has its quirks. Not only are there probably more than you think; third-party libraries don't address most of them! I created a new library to explore what a better datetime library could look like.
 - [dateutil/dateutil](https://github.com/dateutil/dateutil): Useful extensions to the standard Python datetime features
 
 ### Configuration
@@ -742,7 +743,7 @@ Misc
 - [mishamsk/pyoak](https://github.com/mishamsk/pyoak): Library for building and working with arbitrary ASTs on top dataclasses
 - [MagicStack/parsing](https://github.com/MagicStack/parsing): A pure-Python module that implements an LR(1) parser generator, as well as CFSM and GLR parser drivers.
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing): Python library for creating PEG parsers
-- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown): A Python implementation of John Gruber’s Markdown with Extension support. <https://python-markdown.github.io/>
+- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown): A Python implementation of John Gruber's Markdown with Extension support. <https://python-markdown.github.io/>
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions): Extensions for Python Markdown <https://facelessuser.github.io/pymdown-extensions/>
 - [idank/bashlex](https://github.com/idank/bashlex): Python parser for bash
 

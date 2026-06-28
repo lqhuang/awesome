@@ -283,6 +283,8 @@ Do a benchmark (for final size while using Scala Native)?
   - [gh:indoorvivants/sn-bindgen-web](https://github.com/indoorvivants/sn-bindgen-web): Web interface to sn-bindgen (https://sn-bindgen.indoorvivants.com/) to generate Scala 3 Native bindings to C header files <https://sn-bindgen-web.indoorvivants.com/>
 - [gh:indoorvivants/sn-sizer](https://github.com/indoorvivants/sn-sizer): Break down the size of a Scala Native binary
 - [gh:indoorvivants/sn-demangler](https://github.com/indoorvivants/sn-demangler): Scala Native name demangler <https://indoorvivants.github.io/sn-demangler/>
+- [gh:FinochioM/S2D](https://github.com/FinochioM/S2D): A 2D game programming library written in and for Scala Native.
+  - [S2D Development Series - Snake, Day 1: Opening a Window.](https://matiasfinochio.substack.com/p/s2d-development-series-snakeday-1)
 
 ### Scala.js
 
@@ -349,6 +351,8 @@ Do a benchmark (for final size while using Scala Native)?
 - [JCTools/JCTools](https://github.com/JCTools/JCTools): <http://jctools.github.io/JCTools/>
   - Java Concurrency Tools for the JVM. This project aims to offer some concurrent data structures currently missing from the JDK:
 - [gh:halotukozak/made](https://github.com/halotukozak/made): Mirror Annotations & Default Extraction. A Scala 3 macro library that extends scala.deriving.Mirror with annotation metadata, default values, generated members, and transparent wrapper support. <https://halotukozak.github.io/made/>
+- 🌟 [gh:morganstanley/optimus-cirrus](https://github.com/morganstanley/optimus-cirrus): This is our open-sourcing of a set of software infrastructure that we use internally to build and run highly-performant and parallelizable applications.
+  - ["Monad I Love You Now Get Out Of My Type System" by Gjeta Gjyshinca (Strange Loop 2022) - YouTube](https://www.youtube.com/watch?v=2PxsyWqZ5dI)
 
 ### Experiments
 
@@ -709,3 +713,5 @@ http4s
 - [Kotlin/dataframe](https://github.com/Kotlin/dataframe): Structured data processing in Kotlin <https://kotlin.github.io/dataframe/>
 - [SciProgCentre/kmath](https://github.com/SciProgCentre/kmath): Kotlin mathematics extensions library
 - 🌟 [breandan/kotlingrad](https://github.com/breandan/kotlingrad): 🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types <https://breandan.net/public/masters_thesis.pdf#page=49>
+
+- [gh:nikita-volkov/haskell-design-system](https://github.com/nikita-volkov/haskell-design-system): My personal, evolving system for writing consistent, well-structured Haskell

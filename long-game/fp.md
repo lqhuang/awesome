@@ -102,6 +102,8 @@
       - https://arxiv.org/abs/2304.04332
     - [metadsl/egglog-python](https://github.com/metadsl/egglog-python): Python bindings for the egg-smol rust library <https://egg-smol-python.readthedocs.io/en/latest/>
     - [RobinKa/egga](https://github.com/RobinKa/egga): Symbolic Geometric Algebra with E-Graphs
+- [gh:lean-forward/logical_verification_2026](https://github.com/lean-forward/logical_verification_2026): The Hitchhiker's Guide to Logical Verification (2026 edition) and associated materials
+  - [gh:Lean-zh/LoVe-zh](https://github.com/Lean-zh/LoVe-zh): 逻辑验证漫游指南
 
 ## Effect systems
 

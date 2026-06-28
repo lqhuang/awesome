@@ -31,6 +31,7 @@
 #### Runtime
 
 - [google/gvisor](https://github.com/google/gvisor): Application Kernel for Containers <https://gvisor.dev>
+- [gh:containers/bubblewrap](https://github.com/containers/bubblewrap): Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - 🌟 [aquasecurity/tracee](https://github.com/aquasecurity/tracee): Linux Runtime Security and Forensics using eBPF <https://aquasecurity.github.io/tracee/latest>
 - [nestybox/sysbox](https://github.com/nestybox/sysbox): An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
@@ -610,3 +611,7 @@ Type 1 hypervisors
   - Scala project 🤔
 - [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter): A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step.
   - The stargz-snapshotter implements a lazy image fetcher based on the eStargz custom image format, and the soci-snapshotter provides one based on the OCI specification for those who can’t or don’t want to convert images to a new format to support lazy distribution.
+
+
+- [gh:socktainer/socktainer](https://github.com/socktainer/socktainer): Docker-compatible REST API on top of Apple container <https://socktainer.github.io>
+

@@ -44,6 +44,7 @@
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW): A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [gh:Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP): A Patch for GIMP 3+ for Photoshop Users
 - [gh:tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme): Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions. <https://www.altsendme.com/>
+- [gh:ruru-m07/gitru](https://github.com/ruru-m07/gitru): A Git Client. <https://gitru.app>
 
 ### Reader
 
@@ -246,6 +247,7 @@ Non open source
 - [gh:zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI): Force Remove Copilot, Recall and More in Windows 11
 - [gh:Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 - [gh:builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE): Fly through your Windows 11 setup 🐝
+- 🌟 [gh:DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer): Power full Task Manager <https://xanasoft.com/>
 
 ### Distributions
 
@@ -447,6 +449,7 @@ Terminal / SSH
 - [gh:raphaelsalaja/pond](https://github.com/raphaelsalaja/pond): One inbox for everything you save across Twitter/X, Instagram, Pinterest, Are.na, and Cosmos
 - 🌟 [gh:bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm): Social reading and reviewing, decentralized with ActivityPub <http://joinbookwyrm.com/>
 - [gh:raphaelsalaja/pond](https://github.com/raphaelsalaja/pond): One inbox for everything you save across Twitter/X, Instagram, Pinterest, Are.na, and Cosmos
+- [gh:jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest): 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
 
 ### Cloud Disk
 

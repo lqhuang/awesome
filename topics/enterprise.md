@@ -204,6 +204,12 @@
 - [yandex/perforator](https://github.com/yandex/perforator): Perforator is a cluster-wide continuous profiling tool designed for large data centers <https://perforator.tech>
   - made by Yandex and inspired by Google-Wide Profiling.
 - [subtrace/subtrace](https://github.com/subtrace/subtrace): Network inspector for your backend <https://subtrace.dev>
+- [gh:performancecopilot/pcp](https://github.com/performancecopilot/pcp): Performance Co-Pilot <https://pcp.io>
+  - [gh:performancecopilot/grafana-pcp](https://github.com/performancecopilot/grafana-pcp): Performance Co-Pilot Grafana Plugin <https://grafana-pcp.readthedocs.io>
+  - [gh:performancecopilot/ansible-pcp](https://github.com/performancecopilot/ansible-pcp): Ansible roles for the Performance Co-Pilot toolkit <https://pcp.io>
+  - [gh:performancecopilot/parfait](https://github.com/performancecopilot/parfait): A Java performance monitoring library, exposing and collecting metrics through a variety of outputs <https://pcp.io>
+  - pcp-pmda-bpf
+  - [gh:myllynen/pcp-bcc-pmda](https://github.com/myllynen/pcp-bcc-pmda): PCP BCC PMDA
 
 Exporters
 

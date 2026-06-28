@@ -35,9 +35,13 @@
 - 🌟 [textstat/textstat](https://github.com/textstat/textstat): 📝 python package to calculate readability statistics of a text object - paragraphs, sentences, articles. <https://textstat.org>
 - [jax-ml/jax-tpu-embedding](https://github.com/jax-ml/jax-tpu-embedding): No description, website, or topics provided.
 - [typesense/typesense](https://github.com/typesense/typesense): Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences <https://typesense.org>
+  - [gh:typesense/typesense-js](https://github.com/typesense/typesense-js): JavaScript / TypeScript client for Typesense <https://typesense.org/docs/api>
   - 🌟 [wooorm/franc](https://github.com/wooorm/franc): Natural language detection <https://wooorm.com/franc/>
   - [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs): Natural language detection library for Rust. Try demo online: https://whatlang.org/
   - [cyb3rk0tik/pyfranc](https://github.com/cyb3rk0tik/pyfranc): Text language detection basic on trigrams.
+  - [gh:algolia/instantsearch](https://github.com/algolia/instantsearch): ⚡️ Libraries for building performant and instant search and and discovery experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue. <https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/>
+  - [gh:typesense/typesense-instantsearch-adapter](https://github.com/typesense/typesense-instantsearch-adapter): A JS adapter library to build rich search interfaces with Typesense and InstantSearch.js
+- [gh:turbopuffer/alyze](https://github.com/turbopuffer/alyze): Tokenization and analysis pipeline for full-text search
 
 ## tokenizer / BPE
 

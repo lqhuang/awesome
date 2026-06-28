@@ -54,6 +54,8 @@
 - [Understand: The Software Developer's Multi-Tool](https://scitools.com/): Understand by SciTools is a software development tool that allows you to perform static code analysis, edit and refactor code, view dependency graphs, see useful metrics, and comply with AUTOSAR and MISRA.
 - [gh:google/copybara](https://github.com/google/copybara): Copybara: A tool for transforming and moving code between repositories.
 - 🌟 [gh:tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum): Plumbum: Shell Combinators <https://plumbum.readthedocs.io>
+- [gh:basecamp/gh-signoff](https://github.com/basecamp/gh-signoff): Local CI. Sign off on your own work.
+  - [We're moving continuous integration back to developer machines](https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611)
 
 ### Misc linters / formatters
 
@@ -85,6 +87,7 @@
 - [gh:microsoft/ghqr](https://github.com/microsoft/ghqr): GitHub Quick Review. Evaluate your enterprise and organizations with GitHub best practices
 - 🌟 [gh:untitaker/hyperlink](https://github.com/untitaker/hyperlink): Very fast link checker for CI.
 - [gh:OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance. <https://owasp.org/cve-lite-cli/>
+- [gh:cloudflare/pint](https://github.com/cloudflare/pint): Prometheus rule linter/validator <https://cloudflare.github.io/pint/>
 
 ### Reproducibility
 
@@ -595,6 +598,8 @@ Archived or outdated but still useful
 - [antfu/changelogithub](https://github.com/antfu/changelogithub): Generate changelog for GitHub
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog): CHANGELOG generator implemented in Go (Golang). <https://godoc.org/github.com/git-chglog/git-chglog>
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview): GitHub CLI extension to preview Markdown looks like GitHub.
+- [gh:fuma-nama/tegami](https://github.com/fuma-nama/tegami): A tool to manage changelogs, versioning, and publishing in monorepos. <https://tegami.fuma-nama.dev>
+- [codeberg:fgaz/changelog-d](https://codeberg.org/fgaz/changelog-d)
 
 ## GitHub Action
 

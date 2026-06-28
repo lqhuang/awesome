@@ -20,11 +20,13 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [didierverna/etap](https://github.com/didierverna/etap): Experimental Typesetting Algorithms Platform
 - [wangwenho/HanziGen](https://github.com/wangwenho/HanziGen): 基於深度學習的漢字字形補全系統
 - [UNCUT.wtf](https://uncut.wtf/): UNCUT.wtf is a free typeface catalogue, focusing on somewhat contemporary type. There are currently 163 typefaces featured.
+- [日本語ふぉんとライブラリ](https://jpfont-library.com/#category)
 
 ## Tools
 
 - [gh:fonttools/fonttools](https://github.com/fonttools/fonttools): A library to manipulate font files from Python.
 - [gh:javierbyte/brutalita](https://github.com/javierbyte/brutalita): Experimental font and font editor, exports OTF. <https://brutalita.com>
+- [gh:123Duo3/Tiqian](https://github.com/123Duo3/Tiqian): 提椠 Tíqiàn is a CJK paragraph composer.
 
 ## Fonts
 
