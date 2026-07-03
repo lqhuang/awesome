@@ -152,6 +152,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons): Functional css for humans <https://tachyons.io>
 - [homebound-team/truss](https://github.com/homebound-team/truss): A TypeScript DSL for writing utility CSS in React/JSX
 - [gh:Automattic/juice](https://github.com/Automattic/juice): Juice inlines CSS stylesheets into your HTML source.
+- 🌟 [gh:argyleink/prop-for-that](https://github.com/argyleink/prop-for-that): what JS knows, now CSS knows <https://prop-for-that.netlify.app/>
 
 #### CSS in JS
 

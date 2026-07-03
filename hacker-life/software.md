@@ -524,3 +524,8 @@ Not OSS:
 - [soruly/pasu](https://github.com/soruly/pasu): Self-hosted TOTP authenticator PWA with FIDO2 (WebAuthn) <https://pasu.soruly.moe>
 - [passbolt/passbolt_api](https://github.com/passbolt/passbolt_api): Passbolt Community Edition (CE) API. The JSON API for the open source password manager for teams! <https://passbolt.com>
 - [gh:iKenndac/Tofu](https://github.com/iKenndac/Tofu): An easy-to-use two-factor authentication app for iOS <https://tofuauth.com>
+
+### AT Protocols
+
+- [gh:singi-labs/barazo-lexicons](https://github.com/singi-labs/barazo-lexicons): Barazo lexicon schemas and TypeScript types <https://barazo.forum>
+- [gh:singi-labs/sifa-lexicons](https://github.com/singi-labs/sifa-lexicons): AT Protocol lexicon schemas for Sifa professional profiles (id.sifa.\*) <https://sifa.id>

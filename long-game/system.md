@@ -53,6 +53,7 @@
 - [gh:ianw/bottomupcs](https://github.com/ianw/bottomupcs): Bottom Up Computer Science <http://www.bottomupcs.com>
 - [Dive into Systems](https://diveintosystems.org/): The Dive into Systems project develops and evaluates teaching resources specifically for introductory computer systems, computer organization, and parallel computing courses.
 - [The Garbage Collection Handbook](https://gchandbook.org/index.html)
+- 🌟 [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/): Collection of best paper awards for 32 computer science conferences since 1996
 
 ## Compiler
 

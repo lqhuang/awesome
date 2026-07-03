@@ -269,6 +269,7 @@ Specific
 - [mtth/avsc](https://github.com/mtth/avsc): Avro for JavaScript ⚡
 - [sam-goodwin/zod-class](https://github.com/sam-goodwin/zod-class): Create a Class from a ZodObject schema in one line
 - 🌟 [gh:af/envalid](https://github.com/af/envalid): Environment variable validation for Node, Bun, and other compatible JS runtimes
+- 🌟 [gh:sinclairzx81/typebox](https://github.com/sinclairzx81/typebox): JSON Schema Type Builder with Static Type Resolution for TypeScript <https://sinclairzx81.github.io/typebox/>  
 
 ### SerDe
 

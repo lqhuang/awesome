@@ -20,6 +20,7 @@
 - [Shouheng88/AwesomeSwift](https://github.com/Shouheng88/AwesomeSwift): ❤️ SwiftUI All In One Example.
 - [Hacking With Swift](https://www.hackingwithswift.com): With more free Swift tutorials than any other site, Hacking with Swift will help you learn app development with UIKit and SwiftUI. Search the site, or choose a learning path below.
 - [unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs): A cheat sheet that helps React developers to quickly start with SwiftUI.
+- [gh:repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce): Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI. <https://repoprompt.com>
 
 ## Apple
 

@@ -1,4 +1,4 @@
-# Control your work flow
+# Control your workflow
 
 ## Dev tools
 
@@ -64,6 +64,7 @@
 
 ### Code as Graph
 
+- [gh:shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming): A curated collection of diagramming tools used by leading software engineering teams
 - [markmap/markmap](https://github.com/markmap/markmap): Visualize your Markdown as mindmaps with Markmap.
 - 🌟 [ASCII Diagrams](https://asciidiagrams.github.io/): This web page catalogs ASCII diagrams extracted from four open source code-bases: Chromium, Linux, LLVM, and TensorFlow. There are 2156 diagrams in total, of which 504 have been annotated with our design framework.
 - [casparwylie/cascii-core](https://github.com/casparwylie/cascii-core): A web-based ASCII and Unicode diagram builder written in vanilla Javascript <https://cascii.app>

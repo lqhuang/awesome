@@ -43,6 +43,7 @@
 - 🌟 [Censys Search](https://search.censys.io/): Censys helps organizations, individuals, and researchers find and monitor every server on the Internet to reduce exposure and improve security.
 - [Merklemap](https://www.merklemap.com/): Search, lookup and find subdomains hidden subdomains: Boost your cybersecurity, validate digital assets, and supercharge your pen testing. Find every subdomain linked to any website.
 - [crt.sh](https://crt.sh/): Certificate Search
+- [gh:yArna/isChinaUser](https://github.com/yArna/isChinaUser): 🇨 Determine current user is a Chinese user. <https://yarna.github.io/isChinaUser/>
 
 ### Checker
 

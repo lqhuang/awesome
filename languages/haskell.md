@@ -24,6 +24,7 @@
 - [Simple Haskell](https://www.simplehaskell.org/)
 - [Haskell Optimization Handbook](https://haskell.foundation/hs-opt-handbook.github.io/): no description found
 - 🌟 [Flora :: [Package]](https://flora.pm/): A package repository for the Haskell ecosystem
+- [gh:nikita-volkov/haskell-design-system](https://github.com/nikita-volkov/haskell-design-system): My personal, evolving system for writing consistent, well-structured Haskell
 
 ### Readings
 

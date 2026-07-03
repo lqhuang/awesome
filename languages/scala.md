@@ -205,11 +205,14 @@
 - [scapegoat-scala/scapegoat](https://github.com/scapegoat-scala/scapegoat): Scala compiler plugin for static code analysis
 - [wartremover/wartremover](https://github.com/wartremover/wartremover): Flexible Scala code linting tool <https://www.wartremover.org/>
 - [tanin47/scalafix-forbidden-symbol](https://github.com/tanin47/scalafix-forbidden-symbol): A Scalafix rule to forbid the usage of specified packages, classes, methods, and enums.
+- [gh:jatcwang/scalafix-named-params](https://github.com/jatcwang/scalafix-named-params): A scalafix rule to apply named parameters
 
 ### Program Analysis
 
 - [lightbend-labs/mima](https://github.com/lightbend-labs/mima): A tool for catching binary incompatibility in Scala
   - [scalacenter/tasty-mima](https://github.com/scalacenter/tasty-mima): TASTy Migration Manager
+  - [Binary Compatibility for library authors | Scala Documentation](https://docs.scala-lang.org/overviews/core/binary-compatibility-for-library-authors.html)
+    - [gh:jatcwang/binary-compatibility-guide](https://github.com/jatcwang/binary-compatibility-guide): Guide + Examples to help you better maintain binary compatibility for your Scala library releases
 - [shardulc/tasty-interpreter](https://github.com/shardulc/tasty-interpreter): Reference interpreter for TASTy, the Scala 3 interchange format
 - [scalacenter/tasty-query](https://github.com/scalacenter/tasty-query): TASTy Query is a compiler-independent library to semantically analyze TASTy - an intermediate representation of Scala 3 code.
 - [epfl-lara/bolts](https://github.com/epfl-lara/bolts): Bolts: Stainless Verified Scala Examples
@@ -384,6 +387,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [gh:bishabosha/ops-mirror](https://github.com/bishabosha/ops-mirror): Type class derivation for services, not data
 - [gh:rssh/scala-appcontext](https://github.com/rssh/scala-appcontext): Minimalistic type-driven dependency-injection library
 - [gh:iRevive/union-derivation](https://github.com/iRevive/union-derivation): A micro-library to derive a typeclass for Scala 3 Union types.
+- [gh:kubuszok/pipez](https://github.com/kubuszok/pipez): Generate type mappers for your own type class
 
 ### Formal verification
 
@@ -547,6 +551,7 @@ Tracing and OpenTelemetry
 - [jwbargsten/valacc](https://github.com/jwbargsten/valacc): Scala 3 accumulative error validation library
 - [gh:coursier/versions](https://github.com/coursier/versions): No description, website, or topics provided.
 - [gh:shuwariafrica/version](https://github.com/shuwariafrica/version): Scala toolkit for intent-based versioning
+- [gh:jatcwang/difflicious](https://github.com/jatcwang/difflicious): Scala library for readable diffs of values
 
 ### Misc
 
@@ -713,5 +718,3 @@ http4s
 - [Kotlin/dataframe](https://github.com/Kotlin/dataframe): Structured data processing in Kotlin <https://kotlin.github.io/dataframe/>
 - [SciProgCentre/kmath](https://github.com/SciProgCentre/kmath): Kotlin mathematics extensions library
 - 🌟 [breandan/kotlingrad](https://github.com/breandan/kotlingrad): 🧩 Shape-Safe Symbolic Differentiation with Algebraic Data Types <https://breandan.net/public/masters_thesis.pdf#page=49>
-
-- [gh:nikita-volkov/haskell-design-system](https://github.com/nikita-volkov/haskell-design-system): My personal, evolving system for writing consistent, well-structured Haskell
