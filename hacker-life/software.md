@@ -450,6 +450,7 @@ Terminal / SSH
 - 🌟 [gh:bookwyrm-social/bookwyrm](https://github.com/bookwyrm-social/bookwyrm): Social reading and reviewing, decentralized with ActivityPub <http://joinbookwyrm.com/>
 - [gh:raphaelsalaja/pond](https://github.com/raphaelsalaja/pond): One inbox for everything you save across Twitter/X, Instagram, Pinterest, Are.na, and Cosmos
 - [gh:jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest): 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
+- [gh:onevcat/Magpie](https://github.com/onevcat/Magpie): A lightweight link collection, displaying and sharing system. Self-host supported. <https://onevcat.link>
 
 ### Cloud Disk
 

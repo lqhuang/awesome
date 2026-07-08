@@ -27,6 +27,7 @@
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg): A shell script to build fancy DMGs
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg): Create a good-looking DMG for your macOS app in seconds
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults): 💾 Swifty and modern UserDefaults <https://swiftpackageindex.com/sindresorhus/Defaults/documentation/defaults>
+- [gh:Kebechet/setup-apple-certificate](https://github.com/Kebechet/setup-apple-certificate): GitHub Action that manages Apple Distribution certificates and provisioning profiles via the App Store Connect API.
 
 ## Electron like
 

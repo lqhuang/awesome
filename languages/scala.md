@@ -590,6 +590,7 @@ Tracing and OpenTelemetry
   - [indoorvivants/smithy4s-besom-aws-comprehend](https://github.com/indoorvivants/smithy4s-besom-aws-comprehend): Scala 3 service built with pure Smithy4s Scala AWS SDK, deployed to AWS with Besom - pure Scala 3 Pulumi SDK <https://blog.indoorvivants.com/2024-04-14-besom-smithy4s-aws>
 - [MagentaJohn/FlicFlac](https://github.com/MagentaJohn/FlicFlac): Preparing for AI on FLY.IO
 - [jpablo/graph-explorer](https://github.com/jpablo/graph-explorer): Explore graphs in a visual way <https://graph-explorer.net>
+- [gh:VirtusLab/orca](https://github.com/VirtusLab/orca): Deterministic, AI-driven development flows.
 
 ## Frameworks
 

@@ -169,7 +169,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [nonzzz/stylex-extend](https://github.com/nonzzz/stylex-extend): An unofficial stylexjs extension <https://nonzzz.github.io/stylex-extend/>
   - [SukkaW/stylex-webpack](https://github.com/SukkaW/stylex-webpack): The another webpack/Next.js Plugin for Facebook StyleX
   - [HorusGoul/vite-plugin-stylex](https://github.com/HorusGoul/vite-plugin-stylex): Vite Plugin for StyleX
-  - [eryue0220/unplugin-stylex](https://github.com/eryue0220/unplugin-stylex): StyleX integration for Vite, esbuild, webpack, rollup and rspack.
+  - 🌟 [eryue0220/unplugin-stylex](https://github.com/eryue0220/unplugin-stylex): StyleX integration for Vite, esbuild, webpack, rollup and rspack.
   - [nmn/tw-to-stylex](https://github.com/nmn/tw-to-stylex): A simpler code translator to convert code using Tailwind to code using StyleX
   - [nonzzz/stylex-extend](https://github.com/nonzzz/stylex-extend): An unofficial stylexjs extension <https://nonzzz.github.io/stylex-extend/>
   - [nedjulius/prettier-plugin-stylex-key-sort](https://github.com/nedjulius/prettier-plugin-stylex-key-sort): Prettier plugin that auto-sorts StyleX keys
@@ -555,6 +555,11 @@ Widgets
 
 - [gh:LeaVerou/bluesky-likes](https://github.com/LeaVerou/bluesky-likes): Flexible components for displaying Bluesky likes <https://projects.verou.me/bluesky-likes/>
 
+QR Code
+
+- 🌟 [bitjson/qr-code](https://github.com/bitjson/qr-code): A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element. <https://qr.bitjson.com/>
+- [gh:educastellano/qr-code](https://github.com/educastellano/qr-code): Web Component for generating QR codes
+
 Misc
 
 - [vercel/satori](https://github.com/vercel/satori): Enlightened library to convert HTML and CSS to SVG <https://og-playground.vercel.app/>
@@ -563,7 +568,6 @@ Misc
 - [nygardk/react-share](https://github.com/nygardk/react-share): Social media share buttons and share counts for React
 - [williamtroup/Heat.js](https://github.com/williamtroup/Heat.js): 🌞 A lightweight JavaScript library that generates customizable heat maps to visualize date-based activity and trends. <https://www.william-troup.com/heat-js>
 - [sakthilkv/react-horizontal-heatmap](https://github.com/sakthilkv/react-horizontal-heatmap): A lightweight React component for rendering a horizontal heatmap. Perfect for timelines, activity charts, or health status indicators. Fully customizable colors, box size, and spacing.
-- 🌟 [bitjson/qr-code](https://github.com/bitjson/qr-code): A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element. <https://qr.bitjson.com/>
 - [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit): A lightweight magic-move library for configurable layout transitions
 - [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions): Use CSS View Transitions API in Next.js App Router. <https://next-view-transitions.vercel.app>
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars): A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling. <https://kingsora.github.io/OverlayScrollbars>

@@ -148,6 +148,7 @@
 - [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
 - [awslabs/ssosync](https://github.com/awslabs/ssosync): Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda
 - [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit): delegated, decentralized, capabilities based authorization token
+- [gh:cesanta/docker_auth](https://github.com/cesanta/docker_auth): Authentication server for Docker Registry 2
 
 ## Analytics
 

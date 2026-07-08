@@ -285,7 +285,6 @@ And modern is here now.
 
 - [gh:KaHIP/KaHIP](https://github.com/KaHIP/KaHIP): KaHIP -- Karlsruhe HIGH Quality Partitioning. <https://kahip.github.io>
 - [gh:hanickadot/shorty](https://github.com/hanickadot/shorty): No description, website, or topics provided.
-- [gh:GNOME/libxml2](https://github.com/GNOME/libxml2): Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2 <https://gitlab.gnome.org/GNOME/libxml2>
 - [gh:microsoft/proxy](https://github.com/microsoft/proxy): Proxy: Next Generation Polymorphism in C++ <https://microsoft.github.io/proxy/docs/specifications.html>
 - [gh:weidai11/cryptopp](https://github.com/weidai11/cryptopp): free C++ class library of cryptographic schemes <https://cryptopp.com>
 - [gh:flanglet/kanzi-cpp](https://github.com/flanglet/kanzi-cpp): Fast lossless data compression in C++
@@ -324,6 +323,8 @@ And modern is here now.
 - [benhoyt/inih](https://github.com/benhoyt/inih): Simple .INI file parser in C, good for embedded systems
 - 🌟 [gh:stephenberry/glaze](https://github.com/stephenberry/glaze): Extremely fast, in memory, JSON and reflection library for modern C++. BEVE, CBOR, CSV, MessagePack, TOML, YAML, EETF <https://stephenberry.github.io/glaze/>
 - [gh:yandex/yaff](https://github.com/yandex/yaff): YaFF is a high-performance C++ serialization library that provides a zero-copy wire format for the Protobuf ecosystem.
+- [gh:GNOME/libxml2](https://github.com/GNOME/libxml2): Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2 <https://gitlab.gnome.org/GNOME/libxml2>
+- [gh:zeux/pugixml](https://github.com/zeux/pugixml): Light-weight, simple and fast XML parser for C++ with XPath support <http://pugixml.org/>
 
 ### String
 

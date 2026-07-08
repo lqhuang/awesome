@@ -92,6 +92,7 @@
 - [pachyderm/pachyderm](https://github.com/pachyderm/pachyderm): Data-Centric Pipelines and Data Versioning <https://www.pachyderm.com/>
 - [shuttle-hq/synth](https://github.com/shuttle-hq/synth): The Declarative Data Generator <https://www.getsynth.com/>
 - [open-metadata/OpenMetadata](https://github.com/open-metadata/OpenMetadata): OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration. <https://open-metadata.org>
+- [gh:data-privacy-stack/presidio](https://github.com/data-privacy-stack/presidio): An open-source framework for detecting, redacting, masking, and anonymizing sensitive data (PII) across text, images, and structured data. Supports NLP, pattern matching, and customizable pipelines. <https://presidio.dataprivacystack.org>
 
 ## Data quality
 

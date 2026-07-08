@@ -6,6 +6,10 @@
 - [gh:f5devcentral/openssl-pqc-stepbystep-lab](https://github.com/f5devcentral/openssl-pqc-stepbystep-lab): A hands-on lab guide for building a quantum-resistant Certificate Authority (CA) infrastructure using OpenSSL 3.0+ with learning paths for NIST FIPS 203/204/205, NSA CNSA 2.0, and alternate oqsprovider supported algorithms (currently HQC, FrodoKEM, BIKE)
 - [gh:IETF-Hackathon/pqc-certificates](https://github.com/IETF-Hackathon/pqc-certificates): Post-quantum cryptography certificates
 - 🌟 [gh:salrashid123/pqc_scratchpad](https://github.com/salrashid123/pqc_scratchpad): Post-Quantum Cryptography (PQC) scratchpad
+- [Cryptography 101 with Alfred Menezes](https://cryptography101.ca/): Video lectures, notes, and exercises in all areas of applied cryptography
+  - [Textbook of Applied Cryptography](https://sites.google.com/view/textbook-appliedcrypto/home)
+  - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
+- [The Joy of Cryptography](https://joyofcryptography.com/): An undergraduate-level textbook introducing students to the fundamentals of provable security
 
 ## Services
 

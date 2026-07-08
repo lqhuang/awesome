@@ -66,6 +66,7 @@
 - [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA): 📚LeetCUDA: Modern CUDA Learn Notes with PyTorch for Beginners🐑, 200+ CUDA Kernels, Tensor Cores, HGEMM, FA-2 MMA.🎉 <https://github.com/xlite-dev/LeetCUDA>
 - 🌟 [modular/mojo-gpu-puzzles](https://github.com/modular/mojo-gpu-puzzles): Learn GPU Programming in Mojo🔥 by Solving Puzzles <https://puzzles.modular.com/>
 - 🌟 [Dao-AILab/quack](https://github.com/Dao-AILab/quack): A Quirky Assortment of CuTe Kernels
+- 🌟 [gh:RightNow-AI/RightNow-GPU-Database](https://github.com/RightNow-AI/RightNow-GPU-Database): Comprehensive GPU specifications database with 2,824 GPUs across NVIDIA, AMD, and Intel
 
 ### TPU
 
@@ -533,6 +534,7 @@ mujoco
 - [huggingface/evaluate](https://github.com/huggingface/evaluate): 🤗 Evaluate: A library for easily evaluating machine learning models and datasets. <https://huggingface.co/docs/evaluate>
 - [mosaicml/streaming](https://github.com/mosaicml/streaming): A Data Streaming Library for Efficient Neural Network Training <https://streaming.docs.mosaicml.com>
 - [rdyro/torch2jax](https://github.com/rdyro/torch2jax): Wraps PyTorch code in a JIT-compatible way for JAX. Supports automatically defining gradients for reverse-mode AutoDiff. <https://rdyro.github.io/torch2jax/>
+- [gh:NVIDIA/nsight-python](https://github.com/NVIDIA/nsight-python): Nsight Python is a Python kernel profiling interface based on NVIDIA Nsight Tools
 
 ### Autodiff
 

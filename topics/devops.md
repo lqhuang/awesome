@@ -599,7 +599,8 @@ Archived or outdated but still useful
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog): CHANGELOG generator implemented in Go (Golang). <https://godoc.org/github.com/git-chglog/git-chglog>
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview): GitHub CLI extension to preview Markdown looks like GitHub.
 - [gh:fuma-nama/tegami](https://github.com/fuma-nama/tegami): A tool to manage changelogs, versioning, and publishing in monorepos. <https://tegami.fuma-nama.dev>
-- [codeberg:fgaz/changelog-d](https://codeberg.org/fgaz/changelog-d)
+- [codeberg:fgaz/changelog-d](https://codeberg.org/fgaz/changelog-d): Generate a changelog file from a directory of changelog entries.
+- [gh:intuit/auto](https://github.com/intuit/auto): Generate releases based on semantic version labels on pull requests. <https://intuit.github.io/auto/>
 
 ## GitHub Action
 
@@ -658,5 +659,6 @@ Archived or outdated but still useful
 - [blacksmith](https://www.blacksmith.sh/): Twice as fast. Half the cost. Speed up your GitHub Actions with a one-line code change, by running them on high-performance gaming CPUs instead of GitHub's older server hardware
 - [Source.dev](https://www.source.dev/): AI-native software tools that accelerate development of next-generation devices. SourceFS the fastest way to build Android.
   - not a runner but can speed up builds
+- [Namespace](https://namespace.so/): Namespace accelerates the development workflow of fast-moving software engineering teams. Best-in-class compute and development-supporting services that lead to 2x-10x faster builds, tests, and more.
 - [telekom-mms/ansible-collection-acme](https://github.com/telekom-mms/ansible-collection-acme): An Ansible collection for issuing certificates via the ACME protocol.
 - [telekom-mms/Automated-Ansible-Role-Documentation](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation): Generate documentation automatically from an Ansible role's metadata

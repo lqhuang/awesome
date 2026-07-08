@@ -168,7 +168,7 @@ Specific
 
 - 🌟 [SukkaW/nolyfill](https://github.com/SukkaW/nolyfill): Speed up your package installation process, reduce your disk usage, and extend the lifespan of your precious SSD.
 - [unjs/mlly](https://github.com/unjs/mlly): 🤝 Missing ECMAScript module utils for Node.js
-- [unjs/destr](https://github.com/unjs/destr): 🚀 Faster, secure and convenient alternative for JSON.parse
+- 🌟 [unjs/destr](https://github.com/unjs/destr): 🚀 Faster, secure and convenient alternative for JSON.parse
 - 🌟 [slevithan/regex](https://github.com/slevithan/regex): Regex template tag for readable, high-performance, native JS regexes, with context-aware interpolation and always-on best practices
 - 🌟 [e18e/awesome-e18e](https://github.com/e18e/awesome-e18e): A curated list of awesome e18e-focused packages
 - 🌟 [gh:e18e/replacements.fyi](https://github.com/e18e/replacements.fyi): A web app to render module replacements <https://replacements.fyi>
@@ -269,25 +269,36 @@ Specific
 - [mtth/avsc](https://github.com/mtth/avsc): Avro for JavaScript ⚡
 - [sam-goodwin/zod-class](https://github.com/sam-goodwin/zod-class): Create a Class from a ZodObject schema in one line
 - 🌟 [gh:af/envalid](https://github.com/af/envalid): Environment variable validation for Node, Bun, and other compatible JS runtimes
-- 🌟 [gh:sinclairzx81/typebox](https://github.com/sinclairzx81/typebox): JSON Schema Type Builder with Static Type Resolution for TypeScript <https://sinclairzx81.github.io/typebox/>  
+- 🌟 [gh:sinclairzx81/typebox](https://github.com/sinclairzx81/typebox): JSON Schema Type Builder with Static Type Resolution for TypeScript <https://sinclairzx81.github.io/typebox/>
 
 ### SerDe
 
-- 🌟 [blitz-js/superjson](https://github.com/blitz-js/superjson): Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+- 🌟 [hyparam/hyparquet](https://github.com/hyparam/hyparquet): parquet file parser for javascript
+- [vercel/bidc](https://github.com/vercel/bidc): Bidirectional Channels for JavaScript
+  - [hyparam/hysnappy](https://github.com/hyparam/hysnappy): Snappy decompression with WebAssembly
+- 🌟 [eemeli/yaml](https://github.com/eemeli/yaml): YAML parser and stringifier for JavaScript <https://eemeli.org/yaml>
+
+protobuf
+
 - 🌟 [bufbuild/protobuf-es](https://github.com/bufbuild/protobuf-es): Protocol Buffers for ECMAScript. The only JavaScript Protobuf library that is fully-compliant with Protobuf conformance tests.
 - ~~[protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js): Protocol Buffers for JavaScript & TypeScript.~~
 - [mapbox/pbf](https://github.com/mapbox/pbf): A low-level, lightweight protocol buffers implementation in JavaScript.
+
+json
+
+- 🌟 [blitz-js/superjson](https://github.com/blitz-js/superjson): Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [elysiajs/json-accelerator](https://github.com/elysiajs/json-accelerator): Accelerate JSON stringification by providing OpenAPI/TypeBox shape <https://www.npmjs.com/package/json-accelerator>
-- 🌟 [hyparam/hyparquet](https://github.com/hyparam/hyparquet): parquet file parser for javascript
-  - [hyparam/hysnappy](https://github.com/hyparam/hysnappy): Snappy decompression with WebAssembly
-- 🌟 [eemeli/yaml](https://github.com/eemeli/yaml): YAML parser and stringifier for JavaScript <https://eemeli.org/yaml>
-- [vercel/bidc](https://github.com/vercel/bidc): Bidirectional Channels for JavaScript
 - [rictic/jsonriver](https://github.com/rictic/jsonriver): A simple, fast streaming JSON parser built on standards. <https://rictic.github.io/jsonriver/>
-- 🌟 [oozcitak/xmlbuilder2](https://github.com/oozcitak/xmlbuilder2): An XML builder for node.js
 - [querycatai/jaison](https://github.com/querycatai/jaison): A robust, fault-tolerant JSON parser engineered specifically for handling malformed JSON output from AI systems and language models.
 - [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js): A JSON-LD Processor and API implementation in JavaScript <https://json-ld.org/>
 - 🌟 [jacob-ebey/turbo-stream](https://github.com/jacob-ebey/turbo-stream): A streaming data transport format that aims to support built-in features such as Promises, Dates, RegExps, Maps, Sets and more. <https://turbo-stream.pages.dev/>
 - 🌟 [fastify/fast-json-stringify](https://github.com/fastify/fast-json-stringify): 2x faster than JSON.stringify() <https://npmjs.com/package/fast-json-stringify>
+
+xml
+
+- 🌟 [oozcitak/xmlbuilder2](https://github.com/oozcitak/xmlbuilder2): An XML builder for node.js
+- [gh:tuananh/camaro](https://github.com/tuananh/camaro): camaro is a Node.js library that transform XML to JSON, using Node.js binding to native XML parser pugixml, one of the fastest XML parser around.
+- [gh:wspringer/cruftless](https://github.com/wspringer/cruftless): Get rid of the cruft of XML processing
 
 ### Parser
 
@@ -553,6 +564,9 @@ Deep equal
 - [tinyhttp/malibu](https://github.com/tinyhttp/malibu): 🏄 Framework-agnostic CSRF middleware for modern Node.js <https://tinyhttp.v1rtl.site/mw/malibu>
 - [cipherstash/protectjs](https://github.com/cipherstash/protectjs): Encrypt and protect data using industry standard algorithms, field level encryption, a unique data key per record, bulk encryption operations, and decryption level identity verification. <https://cipherstash.com>
 - [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible): Atomic counters and rate limiting tools. Limit resource access at any scale.
+- [gh:anycable/anycable-client](https://github.com/anycable/anycable-client): AnyCable / Action Cable JavaScript client for web, Node.js & React Native
+  - [gh:anycable/anycable](https://github.com/anycable/anycable): Realtime server for reliable two-way communication to power-up any backend <https://anycable.io>
+- [gh:uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js): μWebSockets for Node.js back-ends 🤘
 
 ## Misc
 
