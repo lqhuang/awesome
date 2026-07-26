@@ -198,6 +198,7 @@
 - 🌟 [gh:logdyhq/logdy-core](https://github.com/logdyhq/logdy-core): Realtime log viewer with web UI, tail -f for logs with a web interface browser. <https://logdy.dev>
 - [gh:logbull/logbull](https://github.com/logbull/logbull): Log Bull - simple log collection and view system. Self hosted, zero-config, support of languages (Python, Go, Java, PHP, etc.). Simple alternative to ELK and Loki <https://logbull.com>
 - [gh:neomutt/neomutt](https://github.com/neomutt/neomutt): ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat <https://neomutt.org/>
+- 🌟 [gh:dlvhdr/diffnav](https://github.com/dlvhdr/diffnav): A git diff pager based on delta but with a file tree, à la GitHub.
 
 ## Monitor
 

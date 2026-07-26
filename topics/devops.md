@@ -56,6 +56,7 @@
 - 🌟 [gh:tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum): Plumbum: Shell Combinators <https://plumbum.readthedocs.io>
 - [gh:basecamp/gh-signoff](https://github.com/basecamp/gh-signoff): Local CI. Sign off on your own work.
   - [We're moving continuous integration back to developer machines](https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611)
+- [gh:openrewrite/rewrite](https://github.com/openrewrite/rewrite): Automated mass refactoring of source code. <https://docs.openrewrite.org>
 
 ### Misc linters / formatters
 
@@ -454,6 +455,7 @@ Libs
 - [rancher/fleet](https://github.com/rancher/fleet): Deploy workloads from Git to large fleets of Kubernetes clusters <https://fleet.rancher.io/>
 - [buildpacks/pack](https://github.com/buildpacks/pack): CLI for building apps using Cloud Native Buildpacks <https://buildpacks.io>
   - [pivotal/kpack](https://github.com/pivotal/kpack): Kubernetes Native Container Build Service
+  - [gh:paketo-buildpacks/samples](https://github.com/paketo-buildpacks/samples): A collection of samples
 - [agola-io/agola](https://github.com/agola-io/agola): Agola: CI/CD Redefined <https://agola.io>
 - [werf/werf](https://github.com/werf/werf): A solution for implementing efficient and consistent software delivery to Kubernetes facilitating best practices. <https://werf.io>
 
@@ -580,6 +582,7 @@ Security hardening
 
 - [githubixx/ansible-role-harden-linux](https://github.com/githubixx/ansible-role-harden-linux): Ansible role for hardening Linux <https://www.tauceti.blog/post/kubernetes-the-not-so-hard-way-with-ansible-harden-the-instances/>
 - [dhira13/ansible_hardening](https://github.com/dhira13/ansible_hardening): ansible for hardening image
+- 🌟🌟🌟 [gh:konstruktoid/hardening](https://github.com/konstruktoid/hardening): Hardening Ubuntu. Systemd edition.
 
 Archived or outdated but still useful
 

@@ -169,6 +169,11 @@ And modern is here now.
 - [gh:Jarod42/ccccc](https://github.com/Jarod42/ccccc): C and C++ Code Counter using Clang. Tool which reports some metrics like LOC (line of code), Mc Cabe Cyclomatic Number or Halstead metrics.
 - [gh:terryyin/lizard](https://github.com/terryyin/lizard): A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [gh:kallisti5/ElectricFence](https://github.com/kallisti5/ElectricFence): A debugger which detects memory access violations
+- [gh:andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights): C++ Insights - See your source code with the eyes of a compiler <https://cppinsights.io>
+  - > C++ Insights is a Clang-based tool that does a source-to-source transformation.
+- Quick C++ Benchmark <https://quick-bench.com>
+  - [gh:FredTingaud/quick-bench-back-end](https://github.com/FredTingaud/quick-bench-back-end): Back end side of quick-bench
+  - [gh:FredTingaud/bench-runner](https://github.com/FredTingaud/bench-runner): Docker runner for build-bench
 
 ### CI
 

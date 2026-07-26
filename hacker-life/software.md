@@ -152,6 +152,7 @@
 - [gh:darrylmorley/whatcable](https://github.com/darrylmorley/whatcable): macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do <https://github.com/darrylmorley/whatcable/releases/latest>
 - [gh:samuelhe52/Teleport](https://github.com/samuelhe52/Teleport): Native, stable iOS location simulation utility app for macOS.
 - [gh:loc567/loc567](https://github.com/loc567/loc567): loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com
+- [gh:itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck): Free, open-source Windows optimization tool for performance, privacy, and simplicity. <https://optimizerduck.vercel.app/>
 
 ### Free / Paid
 
@@ -197,6 +198,7 @@
 - [iPreview](https://www.ipreview.app/): The Powerful macOS Quick Look Extension App. This App solves the problem that some files cannot be previewed in macOS Quick Look and packed with awesome features.
 - [Titanium Software - Home](https://www.titanium-software.fr/en/index.html): This website contains free operating system utilities for macOS that are developed by Titanium Software: OnyX, Maintenance, Deeper, CalHash, and Access Menu.
   - OnyX is a multifunction utility for macOS that you can use to verify the startup disk and the structure of its system files, perform cleaning and computer maintenance tasks, configure some hidden parameters of many Apple applications, and more.
+  - Deeper is a personalization utility for macOS that you can use to turn on or turn off the hidden functions of the Finder, Dock, Safari, Music, login window, and many Apple applications, and more.
   - Maintenance is an operating system maintenance and cleaning utility for macOS that you can use to perform miscellaneous computer maintenance tasks: rebuild the databases; delete application, font, and system caches; and more.
 - [Revisual](https://revisualapp.com/): HUD replacement app for your Mac. The HUDs your Mac deserves
 - [Timerge – Smart, Effortless Break Reminder for macOS](https://likang.dev/timerge/): Timerge is a smart, effortless break reminder app for macOS that tracks your real-time activity and gently nudges you to take breaks without disrupting your workflow. Stay productive and refreshed!
@@ -261,6 +263,26 @@ Size: nano11 > AtlasOS ≈ ReviOS > Tiny11 > Win11 LTSC
 - [gh:Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas): 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. <https://atlasos.net>
 - [Windows 11 IoT LTSC 养老指南 | Dejavu's Blog](https://blog.dejavu.moe/posts/windows11-ltsc-guide/): 更适合老年人的「老坛酸菜」，我的 Windows 11 IoT LTSC 优化记录
 
+## Linux
+
+### Desktop
+
+- [gh:rcalixte/awesome-wayland](https://github.com/rcalixte/awesome-wayland): A curated list of Wayland resources
+- [gh:CuarzoSoftware/SRM](https://github.com/CuarzoSoftware/SRM): Simple Rendering Manager
+
+Shell
+
+- [gh:noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia): A sleek and minimal desktop shell thoughtfully crafted for Wayland. <https://docs.noctalia.dev>
+
+Compositor
+
+- [gh:niri-wm/niri](https://github.com/niri-wm/niri): A scrollable-tiling Wayland compositor. <https://niri-wm.github.io/niri/>
+- [gh:CuarzoSoftware/Louvre](https://github.com/CuarzoSoftware/Louvre): C++ library for building Wayland compositors.
+- [gh:hyprwm/Hyprland](https://github.com/hyprwm/Hyprland): Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks. <https://hypr.land>
+- [gh:canonical/mir](https://github.com/canonical/mir): The Mir compositor <https://mir-server.io/>
+  - [gh:miracle-wm-org/miracle-wm](https://github.com/miracle-wm-org/miracle-wm): A hackable Wayland window manager 🌠 <https://miracle-wm.org>
+- [codeberg:river/river](https://codeberg.org/river/river): A non-monolithic Wayland compositor <https://isaacfreund.com/software/river/>
+
 ## Developer
 
 - 🌟 [mirego/accent](https://github.com/mirego/accent): The first developer-oriented translation tool. True asynchronous flow between translators and your team. <https://www.accent.reviews>
@@ -300,7 +322,6 @@ Terminal / SSH
 - 🌟 [djyde/notepal](https://github.com/djyde/notepal): A simple tool to import/export your book note <https://notepal.randysoft.org>
   - export WeBook to Readwise
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成 HTML、Word、CSV 文档永久保存，对聊天记录进行分析生成年度聊天报告
-- [lyricat/wechat-format](https://github.com/lyricat/wechat-format): 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML <https://quaily.com/tools/markdown-to-wx/>
 
 ## Services
 
@@ -354,6 +375,8 @@ Terminal / SSH
 - [gh:heyderekj/dinky](https://github.com/heyderekj/dinky): Dinky makes files smaller. <https://dinkyfiles.com>
 - [gh:zyronon/TypeWords](https://github.com/zyronon/TypeWords): Practice English, one strike, one step forward; 练习英语，一次敲击，一点进步； <https://typewords.cc>
 - [gh:Paymenter/Paymenter](https://github.com/Paymenter/Paymenter): Free and open-source webshop solution for hostings <https://paymenter.org>
+- [gh:zakirullin/files.md](https://github.com/zakirullin/files.md): 🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly. <https://files.md>
+- [gh:tianrking/EdgeMirror](https://github.com/tianrking/EdgeMirror): A CDN-style edge mirror gateway for developer sources. Accelerate PyPI, PyTorch, Hugging Face, GitHub, Docker registries, Linux mirrors, npm, Go modules, Maven, crates.io, runtime downloads, and universal file forwarding behind one clean domain.
 
 ### Git hosting
 
@@ -376,6 +399,8 @@ Terminal / SSH
   - [gsrc:gerrit/gitiles](https://gerrit.googlesource.com/gitiles/): A simple JGit repository browser
 - 🌟 [gh:thomiceli/opengist](https://github.com/thomiceli/opengist): Self-hosted pastebin powered by Git, open-source alternative to Github Gist. <https://opengist.io>
 - [gh:xream/EdgeGist](https://github.com/xream/EdgeGist): Minimal GitHub Gist-compatible API service running on Cloudflare's edge network, backed by D1 and packaged for Cloudflare Pages.
+- [shithub:sl/werc](https://shithub.us/sl/werc/HEAD/info.html): werc - a minimalist document management system
+- [orib:git/serve](https://orib.dev/gitserve.html): `Git/serve` is a git server designed to fit into the Plan 9 ecosystem, allowing hosting of, and interacting with, code on a Plan 9 server, while still allowing legacy clients running on Unix to get a copy of the code.
 
 ### PDF / File tools
 

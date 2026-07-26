@@ -67,6 +67,8 @@
 - 🌟 [modular/mojo-gpu-puzzles](https://github.com/modular/mojo-gpu-puzzles): Learn GPU Programming in Mojo🔥 by Solving Puzzles <https://puzzles.modular.com/>
 - 🌟 [Dao-AILab/quack](https://github.com/Dao-AILab/quack): A Quirky Assortment of CuTe Kernels
 - 🌟 [gh:RightNow-AI/RightNow-GPU-Database](https://github.com/RightNow-AI/RightNow-GPU-Database): Comprehensive GPU specifications database with 2,824 GPUs across NVIDIA, AMD, and Intel
+- [gh:ArchaeaSoftware/cudahandbook](https://github.com/ArchaeaSoftware/cudahandbook): Source code that accompanies The CUDA Handbook.
+  - [The CUDA Handbook](https://www.cudahandbook.com/)
 
 ### TPU
 
@@ -252,6 +254,7 @@ General problems
 - 🌟 [NVIDIA/cutile-python](https://github.com/NVIDIA/cutile-python): cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
 - [tile-ai/tilelang](https://github.com/tile-ai/tilelang): Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels <https://tilelang.com/>
 - [tile-ai/tilescale](https://github.com/tile-ai/tilescale): Tile-based language built for AI computation across all scales <https://tilelang.com/>
+- [gh:Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA): Open-source CUDA, Triton and HIP compiler targeting multiple GPU and CPU architectures.
 
 ### Operator and Kernel
 

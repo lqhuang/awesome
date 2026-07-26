@@ -190,6 +190,7 @@
   - [gh:Scribery/cockpit-session-recording](https://github.com/Scribery/cockpit-session-recording): Everything you need to develop, test and deploy your own cockpit plugin for recording user sessions.
   - [gh:osbuild/image-builder-frontend](https://github.com/osbuild/image-builder-frontend): Image Builder service for console.redhat.com
   - [gh:cockpit-project/cockpit-files](https://github.com/cockpit-project/cockpit-files): A Featureful File Browser for Cockpit (Modernized and tested version of https://github.com/45Drives/cockpit-navigator)
+- 🌟 [gh:Pouzor/homelable](https://github.com/Pouzor/homelable): Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring <https://homelable.net>
 
 ### Virtualization
 
@@ -216,6 +217,7 @@
 - [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live): For more information, please see http://smartos.org/ For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics): 🚀 Open source monitoring tool built with Node.js <https://lunalytics.xyz>
 - [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz): Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more! <https://kuvasz-uptime.dev/>
+- [gh:291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan): LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group. <https://291grp.com/open-src/>
 
 ### Docker tools
 

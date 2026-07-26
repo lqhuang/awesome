@@ -104,6 +104,7 @@
     - [RobinKa/egga](https://github.com/RobinKa/egga): Symbolic Geometric Algebra with E-Graphs
 - [gh:lean-forward/logical_verification_2026](https://github.com/lean-forward/logical_verification_2026): The Hitchhiker's Guide to Logical Verification (2026 edition) and associated materials
   - [gh:Lean-zh/LoVe-zh](https://github.com/Lean-zh/LoVe-zh): 逻辑验证漫游指南
+- [gh:vellvm/vellvm](https://github.com/vellvm/vellvm): The Vellvm (Verified LLVM) coq development.
 
 ## Effect systems
 

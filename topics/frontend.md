@@ -32,6 +32,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [Intl Playground](https://intlin.site/): `Intl.DateTimeFormat` playground
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react): Cheatsheets for experienced React developers getting started with TypeScript <https://react-typescript-cheatsheet.netlify.app>
 - [HTTP:COLON](https://httpcolon.dev/): The best tool for HTTP
+- [Supporting the Triptych Project | Django](https://www.djangoproject.com/weblog/2026/jul/15/supporting-the-triptych-project/)
+  - [gh:alexpetros/triptych](https://github.com/alexpetros/triptych): HTTP Buttons, PUT/DELETE Forms, and Partial Page Replacement - three proposals for the HTML standard
+  - [gh:unpoly/unpoly](https://github.com/unpoly/unpoly): Progressive enhancement for HTML
 
 ### Readings
 
@@ -153,6 +156,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [homebound-team/truss](https://github.com/homebound-team/truss): A TypeScript DSL for writing utility CSS in React/JSX
 - [gh:Automattic/juice](https://github.com/Automattic/juice): Juice inlines CSS stylesheets into your HTML source.
 - 🌟 [gh:argyleink/prop-for-that](https://github.com/argyleink/prop-for-that): what JS knows, now CSS knows <https://prop-for-that.netlify.app/>
+- [gh:beercss/beercss](https://github.com/beercss/beercss): Build material design interfaces in record time... without stress for devs... 🍺💛 <https://www.beercss.com>
 
 #### CSS in JS
 
@@ -742,6 +746,8 @@ Concrete animations
 - [TanStack/pacer](https://github.com/TanStack/pacer): Utilities for debouncing, throttling, rate limiting, and queueing. Non-async and Async. <https://tanstack.com/pacer>
   - Official note: TanStack Pacer is currently mostly a client-side only library, but it is being designed to be able to potentially be used on the server-side as well.
 - [hamzaydia/verifyfetch](https://github.com/hamzaydia/verifyfetch): Resumable, verified downloads for large browser files. Fail at 3.8GB, resume from 3.8GB. <https://verifyfetch.com/>
+- 🌟 [gh:kane50613/takumi](https://github.com/kane50613/takumi): Render JSX, HTML, and CSS to SVG or images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement. <https://takumi.kane.tw>
+  - [gh:pi0/shiki-image](https://github.com/pi0/shiki-image): Convert code snippets into images. Powered by shiki and takumi. Super fast 🚀
 
 ### Dev Tools
 
@@ -964,3 +970,5 @@ Concrete animations
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser): Lightpanda: the headless browser designed for AI and automation <https://lightpanda.io>
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
+
+- [Cuelume — interaction sounds for the web](https://cuelume-site.pages.dev/): Cuelume is a tiny, dependency-free library of carefully designed interaction sounds, synthesized live with Web Audio.

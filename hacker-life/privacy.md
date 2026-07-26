@@ -11,6 +11,10 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. <https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>
 - 🌟 [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker): A tool for checking the security hardening options of the Linux kernel
 - [gh:juice-shop/juice-shop](https://github.com/juice-shop/juice-shop): OWASP Juice Shop: Probably the most modern and sophisticated insecure web application <https://owasp-juice.shop>
+- [How To Use URL Parameters To Change Your DuckDuckGo Search Settings - DuckDuckGo Help Pages](https://duckduckgo.com/duckduckgo-help-pages/settings/params): DuckDuckGo doesn't track you. That's the DuckDuckGo privacy policy in a nutshell.
+  - [Preference settings for duckduckgo.com / duck.com](https://gist.github.com/blackrobot/b34a345f22f7fc63e2a08b456e560def): Preference settings for duckduckgo.com / duck.com. GitHub Gist: instantly share code, notes, and snippets.
+  - my parametes: <https://duckduckgo.com/?kl=us-en&kp=-2&kz=1&kc=-1&kn=1&k1=-1&kak=-1&kax=-1&kap=-1&kao=-1>
+- [codeberg:shadow/SpywareWatchdog](https://codeberg.org/shadow/SpywareWatchdog): <https://spyware.neocities.org/>
 
 ## Tools
 
@@ -73,7 +77,7 @@
 - [Octo Browser](https://octobrowser.net/): Octo Browser is a fast anti-detect browser for multi-accounting with maximum protection against browser identification.
 - [Ghost Browser](https://ghostbrowser.com/): Ghost Browser helps you focus on the task at hand and get stuff done in a private clutter free environment.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp): All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 <https://floorp.app>
-- [Iridium Browser | A browser securing your privacy. That’s it.](https://iridiumbrowser.de/): Iridium Browser is based on the Chromium code base. All modifications enhance the privacy of the user and make sure the most secure technologies are used.
+- [Iridium Browser | A browser securing your privacy. That's it.](https://iridiumbrowser.de/): Iridium Browser is based on the Chromium code base. All modifications enhance the privacy of the user and make sure the most secure technologies are used.
 
 ### Browser Extensions
 

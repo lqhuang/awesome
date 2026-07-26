@@ -7,7 +7,7 @@
 
 ## Resources
 
-### Reading
+### Links
 
 - [A practical guide to error handling in Scala Cats and Cats Effect](https://softwaremill.com/practical-guide-to-error-handling-in-scala-cats-and-cats-effect/)
 - [slouc/concurrency-in-scala-with-ce](https://github.com/slouc/concurrency-in-scala-with-ce): Introduction to concepts of asynchronous and concurrent programming in Scala, based on the Cats Effect library.
@@ -45,6 +45,7 @@
 - [Common Escape Sequences - Modern Java](https://javabook.mccue.dev/strings/common_escape_sequences): Book teaching how to write modern and effective Java.
 - [gh:polyvariant/learn-scala](https://github.com/polyvariant/learn-scala): Reference learning material for Scala <https://learn-scala.polyvariant.org/>
 - [Java Specialists](https://www.javaspecialists.eu/): This advanced Java newsletter will answer all your questions about Java ;-) We also offer Java courses, code reviews and consulting.
+- [gh:OlegIlyenko/scala-icon/](https://github.com/OlegIlyenko/scala-icon/): Simple scala icon with shadow
 
 ### Talks
 

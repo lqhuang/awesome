@@ -3,6 +3,7 @@
 ## Modelling
 
 - [imene-swaan/Diachronic-embeddings](https://github.com/imene-swaan/Diachronic-embeddings): Diachronic embeddings for events tracking <https://imene-swaan.github.io/Diachronic-embeddings/>
+- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/information-retrieval-book.html)
 
 ## Libraries
 

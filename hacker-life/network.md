@@ -334,3 +334,4 @@ STUN / TURN / ICE
 - [GreyNoise IP Check](https://check.labs.greynoise.io/): Check if your IP address has been observed by GreyNoise sensors. Instantly detect malicious activity, compromised devices, and security threats affecting your network.
 - [Net.Coffee](https://ip.net.coffee/): 查询本机 IP 地址及归属地，测试 VPN 和代理的分流规则是否生效。
 - [DNS Gurus](https://dnsgurus.com/): Free DNS lookup tool to check DNS records for any domain. View A, AAAA, MX, TXT, NS, SOA, CNAME records and more. Fast and reliable DNS checker.
+- [Network Test · 网络延迟与速度测试](https://nt.u1.pw/): 一个用于测试网络延迟与下载速度的前端工具。

@@ -36,10 +36,13 @@
 - [nestybox/sysbox](https://github.com/nestybox/sysbox): An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.
 - [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
   - [apple/containerization](https://github.com/apple/containerization): Containerization is a Swift package for running Linux containers on macOS.
+  - [gh:socktainer/socktainer](https://github.com/socktainer/socktainer): Docker-compatible REST API on top of Apple container <https://socktainer.github.io>
 - 🌟 [passt](https://passt.top/passt/about/): Plug A Simple Socket Transport
   - passt and pasta unprivileged (rootless) user-mode networking for VMs and containers, replacement for slirp, slirp4netns, libslirp, integrates with qemu, libvirt, Podman, Kata Containers
 - [containerd/nerdbox](https://github.com/containerd/nerdbox): containerd sandbox runtime using vms
 - [gh:rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit): Linux-native "fake root" for implementing rootless containers
+- [gh:apptainer/apptainer](https://github.com/apptainer/apptainer): Apptainer: Application containers for Linux <https://apptainer.org>
+  - [gh:DFiantWorks/Scalapptainer](https://github.com/DFiantWorks/Scalapptainer): Scalapptainer: A cross-platform Scala wrapper around Apptainer
 
 #### Base images
 
@@ -259,6 +262,8 @@ Type 1 hypervisors
 - [tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs): High performance FUSE filesystem for AI workloads with S3 compatible backends
 - [supabase/storage](https://github.com/supabase/storage): S3 compatible object storage service that stores metadata in Postgres <https://supabase.com/docs/guides/storage>
 - [gh:versity/versitygw](https://github.com/versity/versitygw): A simple to deploy but feature rich S3 object storage server for your filesystem <https://www.versity.com/products/versitygw/>
+- [gh:Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3): Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest. <https://www.vaults3.com>
+- [gh:Barre/ZeroFS](https://github.com/Barre/ZeroFS): ZeroFS: A log-structured filesystem for S3. ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD. <https://www.zerofs.net/>
 
 ### Serverless
 
@@ -611,7 +616,3 @@ Type 1 hypervisors
   - Scala project 🤔
 - [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter): A containerd snapshotter plugin which enables standard OCI images to be lazily loaded without requiring a build-time conversion step.
   - The stargz-snapshotter implements a lazy image fetcher based on the eStargz custom image format, and the soci-snapshotter provides one based on the OCI specification for those who can’t or don’t want to convert images to a new format to support lazy distribution.
-
-
-- [gh:socktainer/socktainer](https://github.com/socktainer/socktainer): Docker-compatible REST API on top of Apple container <https://socktainer.github.io>
-

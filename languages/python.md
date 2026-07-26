@@ -151,6 +151,7 @@ Templates
 - [AndydeCleyre/zpy](https://github.com/AndydeCleyre/zpy): Manage Python environments in Zsh, with uv or pip-tools <https://andydecleyre.github.io/zpy/>
 - [gh:wheelnext/wheelnext](https://github.com/wheelnext/wheelnext): WheelNext Website <https://wheelnext.dev/>
   - [gh:pypackaging-native/pypackaging-native](https://github.com/pypackaging-native/pypackaging-native): A collection of content about key Python packaging topics and issues for projects using native code
+- [gh:beeware/briefcase](https://github.com/beeware/briefcase): Tools to support converting a Python project into a standalone native application. <https://briefcase.beeware.org/>
 
 ### Docs
 
@@ -759,7 +760,6 @@ Misc
 - [jazzband/prettytable](https://github.com/jazzband/prettytable): Display tabular data in a visually appealing ASCII table format
 - [wireservice/csvkit](https://github.com/wireservice/csvkit): A suite of utilities for converting to and working with CSV, the king of tabular file formats. <http://csvkit.rtfd.org>
 - 🌟 [fatiando/pooch](https://github.com/fatiando/pooch): A friend to fetch your data files <https://www.fatiando.org/pooch>
-- [beeware/briefcase](https://github.com/beeware/briefcase): Tools to support converting a Python project into a standalone native application. <https://briefcase.readthedocs.io/>
 - [the-real-tokai/grablinks](https://github.com/the-real-tokai/grablinks): A simple and streamlined Python script to extract and filter links from a remote HTML resource.
 - [Avaiga/taipy](https://github.com/Avaiga/taipy): Turns Data and AI algorithms into full web applications in no time. <https://www.taipy.io>
 - [jiisanda/docflow](https://github.com/jiisanda/docflow): DocFlow is a powerful Document Management API designed to streamline document handling, including seamless uploading, downloading, organization, versioning, sharing, and more. <https://documenter.getpostman.com/view/20984268/2s9YRGxUcp>
@@ -837,7 +837,7 @@ pdf
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer): An easy and fast way to create a Python GUI 🐍
 - [zhiyiYo/PyQt-Fluent-Widgets](https://github.com/zhiyiYo/PyQt-Fluent-Widgets): A fluent design widgets library based on PyQt5
 - [rerun-io/rerun](https://github.com/rerun-io/rerun): Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui <https://rerun.io>
-- [beeware/toga](https://github.com/beeware/toga): A Python native, OS native GUI toolkit. <https://toga.readthedocs.io/en/latest/>
+- [gh:beeware/toga](https://github.com/beeware/toga): A Python native, OS native GUI toolkit. <https://toga.beeware.org/>
 - [pyloid/pyloid](https://github.com/pyloid/pyloid): Pyloid is the Python backend version of Electron and Tauri, providing an open-source project that allows you to easily utilize various Python integration features. With Pyloid, developing desktop applications becomes simple, enabling you to build apps by integrating Python's powerful capabilities. <https://docs.pyloid.com/>
 - [r0x0r/pywebview](https://github.com/r0x0r/pywebview): Build GUI for your Python program with JavaScript, HTML, and CSS <https://pywebview.flowrl.com>
 
