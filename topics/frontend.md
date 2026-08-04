@@ -347,6 +347,7 @@ Genius!
   - `@pierre/diffs`
   - `@pierre/trees`
 - [jamiebuilds/tinykeys](https://github.com/jamiebuilds/tinykeys): A tiny (~400 B) & modern library for keybindings. <https://jamiebuilds.github.io/tinykeys/>
+- [Drawesome](https://benji.org/drawesome): Drawing toolbar for React
 
 List
 
@@ -479,6 +480,8 @@ Media player
 - [ibrahimcesar/react-lite-youtube-embed](https://github.com/ibrahimcesar/react-lite-youtube-embed): 📺 < A private by default, faster and cleaner YouTube embed component for React applications /> <https://ibrahimcesar.github.io/react-lite-youtube-embed/>
 - 🌟 [gh:videojs/v10](https://github.com/videojs/v10): [Beta] Video.js v10 - open source media player framework for Web and React. <https://videojs.org>
   - [Video.js v10 Beta: Hello, World (again) | Blog](https://videojs.org/blog/videojs-v10-beta-hello-world-again)
+- [gh:Danilaa1/cuelume](https://github.com/Danilaa1/cuelume): Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute, call bind(), done. <https://cuelume.dev/>
+  - [Cuelume](https://cuelume-site.pages.dev/): Cuelume is a tiny, dependency-free library of carefully designed interaction sounds, synthesized live with Web Audio.
 
 Spinners
 
@@ -564,6 +567,16 @@ QR Code
 - 🌟 [bitjson/qr-code](https://github.com/bitjson/qr-code): A no-framework, no-dependencies, customizable, animate-able, SVG-based <qr-code> HTML element. <https://qr.bitjson.com/>
 - [gh:educastellano/qr-code](https://github.com/educastellano/qr-code): Web Component for generating QR codes
 
+Color picker
+
+- [gh:emilwidlund/harmony](https://github.com/emilwidlund/harmony): A new kind of color picker for React <https://harmony.sh>
+- [gh:omgovich/react-colorful](https://github.com/omgovich/react-colorful): 🎨 A tiny (2,8 KB) color picker component for React and Preact apps <https://omgovich.github.io/react-colorful>
+
+Geolocation
+
+- [visgl/react-google-maps](https://github.com/visgl/react-google-maps): React components and hooks for the Google Maps JavaScript API <https://visgl.github.io/react-google-maps/>
+- [gh:maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js/): MapLibre GL JS - Interactive vector tile maps in the browser <https://maplibre.org/maplibre-gl-js/docs/>
+
 Misc
 
 - [vercel/satori](https://github.com/vercel/satori): Enlightened library to convert HTML and CSS to SVG <https://og-playground.vercel.app/>
@@ -575,7 +588,6 @@ Misc
 - [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit): A lightweight magic-move library for configurable layout transitions
 - [shuding/next-view-transitions](https://github.com/shuding/next-view-transitions): Use CSS View Transitions API in Next.js App Router. <https://next-view-transitions.vercel.app>
 - [KingSora/OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars): A javascript scrollbar plugin that hides native scrollbars, provides custom styleable overlay scrollbars and keeps the native functionality and feeling. <https://kingsora.github.io/OverlayScrollbars>
-- [visgl/react-google-maps](https://github.com/visgl/react-google-maps): React components and hooks for the Google Maps JavaScript API <https://visgl.github.io/react-google-maps/>
 - [geosigno/simpleParallax.js](https://github.com/geosigno/simpleParallax.js): Easy Parallax Effect for React & JavaScript <https://simpleparallax.com>
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words): React component to highlight words within a larger body of text <https://bvaughn.github.io/react-highlight-words/>
 - [glidejs/glide](https://github.com/glidejs/glide): A dependency-free JavaScript ES6 slider and carousel. It’s lightweight, flexible and fast. Designed to slide. No less, no more <https://glidejs.com>
@@ -589,7 +601,6 @@ Misc
 - [zachleat/line-numbers](https://github.com/zachleat/line-numbers): A web component to add line numbers next to various HTML elements <https://zachleat.github.io/line-numbers/demo.html>
 - [maximux13/waveform-renderer](https://github.com/maximux13/waveform-renderer):
 - [codeberg:chrisn/peaks.js](https://codeberg.org/chrisn/peaks.js): JavaScript UI component for interacting with audio waveforms
-- [emilwidlund/harmony](https://github.com/emilwidlund/harmony): A new kind of color picker for React <https://harmony.sh>
 - [georgedoescode/garden-jamstack-posters](https://github.com/georgedoescode/garden-jamstack-posters): A peculiar little website that uses Eleventy + Netlify + Puppeteer to create generative poster designs <https://garden.georgefrancis.dev>
 - 🌟 [rpearce/react-medium-image-zoom](https://github.com/rpearce/react-medium-image-zoom): 🔎 🏞 The original medium.com-inspired image zooming library for React (since 2016) <https://rpearce.github.io/react-medium-image-zoom/>
 - [bryntum/chronograph](https://github.com/bryntum/chronograph): A reactive state management system with novel and unique properties <https://bryntum.github.io/chronograph/docs/>
@@ -688,6 +699,7 @@ Concrete animations
 - 🌟 [gh:codse/animata](https://github.com/codse/animata): Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate. <https://animata.design>
 - [gh:pixel-point/animate-text](https://github.com/pixel-point/animate-text): Crafted text animations
 - [gh:raphaelsalaja/calligraph](https://github.com/raphaelsalaja/calligraph): Fluid text transitions powered by Motion. <https://calligraph.raphaelsalaja.com>
+- [gh:takuyajodai/edge-aura](https://github.com/takuyajodai/edge-aura): An organic glow that hugs the edge of your screen — zero-dependency Canvas 2D engine + React adapter <https://edge-aura-xi.vercel.app/>
 
 ## Functional libraries
 
@@ -742,7 +754,7 @@ Concrete animations
 - [kane50613/takumi](https://github.com/kane50613/takumi): Render your React components to images. Available for Rust, Node.js, and WebAssembly. <https://takumi.kane.tw>
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot): 📸 Quickly generate image from DOM node using HTML5 canvas and SVG. <https://toolpkg.com/html-to-image>
 - 🌟 [zumerlab/snapdom](https://github.com/zumerlab/snapdom): snapDOM captures HTML elements to images with exceptional speed and accuracy. <https://snapdom.dev>
-- [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js): Sitemap-generating framework for node.js
+- 🌟 [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js): Sitemap-generating framework for node.js
 - [TanStack/pacer](https://github.com/TanStack/pacer): Utilities for debouncing, throttling, rate limiting, and queueing. Non-async and Async. <https://tanstack.com/pacer>
   - Official note: TanStack Pacer is currently mostly a client-side only library, but it is being designed to be able to potentially be used on the server-side as well.
 - [hamzaydia/verifyfetch](https://github.com/hamzaydia/verifyfetch): Resumable, verified downloads for large browser files. Fail at 3.8GB, resume from 3.8GB. <https://verifyfetch.com/>
@@ -831,6 +843,7 @@ Concrete animations
   - [gh:carbon-design-system/carbon-charts](https://github.com/carbon-design-system/carbon-charts): 📊 📈⠀Robust dataviz framework implemented using D3 & typescript <https://charts.carbondesignsystem.com>
   - [gh:carbon-design-system/carbon-ai-chat](https://github.com/carbon-design-system/carbon-ai-chat): Carbon AI chat is a front-end chat framework from the IBM Carbon team. <https://chat.carbondesignsystem.com/tag/latest/docs/documents/Overview.html>
   - [gh:carbon-design-system/carbon-labs](https://github.com/carbon-design-system/carbon-labs): An innovation space for the creation of components leveraging Carbon Design System <http://labs.carbondesignsystem.com/>
+- [gh:microsoft/flint-chart](https://github.com/microsoft/flint-chart): 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs. <https://microsoft.github.io/flint-chart/>
 
 ### Tree / Architecture
 
@@ -891,7 +904,6 @@ Concrete animations
 - [Symbols](https://www.symbols.dev/): Open source SF symbols for the web.
 - [Hugeicons](https://hugeicons.com/): Explore the world's most complete icon library: 40,000+ icons, 9 unique styles, and 59 categories. Perfect for UI/UX designers, developers, and creators using Figma, React, Flutter, and more.
 - https://icons8.com/icons/sf-regular
-- [Home | helpy-ui](https://helpy-ui.com/): Find Tools That Cover Your Code
 - [basmilius/weather-icons](https://github.com/basmilius/weather-icons): Free to use animated weather icons. <https://meteocons.com>
 - [gh:humation-labs/humation](https://github.com/humation-labs/humation): Hand-drawn kawaii avatar engine for your app. No AI, no API calls.
 - [gh:cossistantcom/cossistant](https://github.com/cossistantcom/cossistant): Open-source, customer support platform with fully customizable AI support agents for developers / startups shipping SaaS. <https://cossistant.com>
@@ -970,5 +982,3 @@ Concrete animations
 
 - [lightpanda-io/browser](https://github.com/lightpanda-io/browser): Lightpanda: the headless browser designed for AI and automation <https://lightpanda.io>
 - [elilambnz/react-py](https://github.com/elilambnz/react-py): Effortlessly run Python code in your React apps. <https://elilambnz.github.io/react-py>
-
-- [Cuelume — interaction sounds for the web](https://cuelume-site.pages.dev/): Cuelume is a tiny, dependency-free library of carefully designed interaction sounds, synthesized live with Web Audio.
