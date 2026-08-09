@@ -370,6 +370,7 @@ Migrations
 - [eradman/ephemeralpg](https://github.com/eradman/ephemeralpg): Quickly spin up a temporary PostgreSQL test databases <http://eradman.com/ephemeralpg/>
   - [ugtar/pg_temp](https://github.com/ugtar/pg_temp): create a temporary, disposable, userland pg database
 - [allaboutapps/integresql](https://github.com/allaboutapps/integresql): IntegreSQL manages isolated PostgreSQL databases for your integration tests.
+- 🌟 [jepsen-io/generator](https://github.com/jepsen-io/generator) : Functional, composable, generators of random operations for database testing
 
 ## Benchmark
 

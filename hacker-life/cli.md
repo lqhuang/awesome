@@ -199,6 +199,7 @@
 - [gh:logbull/logbull](https://github.com/logbull/logbull): Log Bull - simple log collection and view system. Self hosted, zero-config, support of languages (Python, Go, Java, PHP, etc.). Simple alternative to ELK and Loki <https://logbull.com>
 - [gh:neomutt/neomutt](https://github.com/neomutt/neomutt): ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat <https://neomutt.org/>
 - 🌟 [gh:dlvhdr/diffnav](https://github.com/dlvhdr/diffnav): A git diff pager based on delta but with a file tree, à la GitHub.
+- 🌟 [gh:gnomeria/usbtree](https://github.com/gnomeria/usbtree): Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows. <https://gnomeria.github.io/usbtree/>
 
 ## Monitor
 

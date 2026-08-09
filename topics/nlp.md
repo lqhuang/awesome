@@ -54,6 +54,7 @@
 - [huggingface/tokenizers](https://github.com/huggingface/tokenizers): 💥 Fast State-of-the-Art Tokenizers optimized for Research and Production <https://huggingface.co/docs/tokenizers>
 - [google/sentencepiece](https://github.com/google/sentencepiece): Unsupervised text tokenizer for Neural Network-based text generation.
 - [MinishLab/model2vec](https://github.com/MinishLab/model2vec): Fast State-of-the-Art Static Embeddings <https://minishlab.github.io/>
+- 🌟 [gh:soycaporal/ternlight](https://github.com/soycaporal/ternlight): Lightning-fast semantic embeddings in a 5-7 MB WebAssembly bundle. <https://ternlight.dev>
 
 ### String search or operations
 

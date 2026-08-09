@@ -36,6 +36,10 @@
 
 - [zigtools/zls](https://github.com/zigtools/zls): A Zig language server supporting Zig developers with features like autocomplete and goto definition <https://zigtools.org/zls/>
 
+### Helpers
+
+- [gh:marler8997/zigup](https://github.com/marler8997/zigup): Download and manage zig compilers.
+
 ## Libraries
 
 ### Data structure & Algorithm
@@ -81,6 +85,8 @@
 - [lun-4/zigdig](https://github.com/lun-4/zigdig): naive dns client library in zig
 
 ## Domain Specific
+
+- [gh:jazzzooo/buz](https://github.com/jazzzooo/buz): A fork of Bun based on modern Zig
 
 ### Database
 

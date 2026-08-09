@@ -244,6 +244,7 @@ Visual stack
 - [monitoring-mixins/website](https://github.com/monitoring-mixins/website): Prometheus monitoring mixins <https://monitoring.mixins.dev>
 - 🌟 [perses/perses](https://github.com/perses/perses): The CNCF sandbox for observability visualisation. Already supports Prometheus, Tempo, Loki and Pyroscope - more data sources to come! <https://perses.dev>
 - [openobserve/openobserve](https://github.com/openobserve/openobserve): 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). <https://openobserve.ai>
+- [gh:FrigadeHQ/trench](https://github.com/FrigadeHQ/trench): Trench — Open-Source Analytics Infrastructure. A single production-ready Docker image built on ClickHouse, Kafka, and Node.js for tracking events. Easily build product analytics dashboards, LLM RAGs, observability platforms, or any other analytics product. <https://trench.dev>
 
 ### Logging viewer / Logging search
 
@@ -291,6 +292,7 @@ Visual stack
 - [D00Movenok/BounceBack](https://github.com/D00Movenok/BounceBack): ↕️🤫 Stealth redirector for your red team operation security
 - 🌟 [praetorian-inc/brutus](https://github.com/praetorian-inc/brutus): Fast, zero-dependency credential testing tool in Go. Brute force SSH, MySQL, PostgreSQL, Redis, MongoDB, SMB, and 20+ protocols. Hydra alternative with native fingerprintx/naabu pipeline integration.
 - [gh:infobyte/faraday](https://github.com/infobyte/faraday): Open Source Vulnerability Management Platform <https://www.faradaysec.com>
+- [gh:CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike): Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,300+ models, 7,600+ Ed25519-signed attack skills, 56+ built-in tools, 176+ MCP tools. MITRE ATT&CK, OWASP WSTG, CIS Benchmarks. Post-exploit: Linux/Windows/macOS/AWS/Azure/K8s/CI-CD. Web UI + Cloudflare Tunnel. Your AI red team. <https://cyberstrike.io>
 
 ## Career
 

@@ -212,6 +212,7 @@
 - [gh:VirtusLab/sandcat](https://github.com/VirtusLab/sandcat): A Docker & dev container setup for securely running AI agents in `--dangerous` mode. All container traffic is routed through a transparent mitmproxy, enforcing network access rules and injecting secrets.
 - [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock): Matchlock secures AI agent workloads with a Linux-based sandbox.
 - [gh:vercel-labs/portless](https://github.com/vercel-labs/portless): Replace port numbers with stable, named .localhost URLs. For humans and agents. <https://port1355.dev>
+- [gh:NodePassProject/Nowhere](https://github.com/NodePassProject/Nowhere): Split-direction TLS / QUIC relay in Rust <https://nowhere.stdco.de>
 
 ### Warp
 
@@ -219,6 +220,7 @@
 - [ViRb3/wgcf](https://github.com/ViRb3/wgcf): 🚤 Cross-platform, unofficial CLI for Cloudflare Warp
 - [distillium/warp-native](https://github.com/distillium/warp-native): This script installs Cloudflare WARP in native mode via WireGuard as an interface, without using warp-cli
 - [gh:ccbkkb/MicroWARP](https://github.com/ccbkkb/MicroWARP): 🚀 An 800KB RAM ultra-lightweight Cloudflare WARP SOCKS5 proxy in Docker. 仅需 800KB 内存的纯内核态 Cloudflare WARP 代理 - Docker
+- [gh:Diniboy1123/usque](https://github.com/Diniboy1123/usque): Open-source reimplementation of the Cloudflare WARP client's MASQUE protocol.
 
 ### Mesh network
 

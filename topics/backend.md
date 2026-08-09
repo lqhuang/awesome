@@ -241,3 +241,5 @@
 - 🌟 [upstash/ratelimit-js](https://github.com/upstash/ratelimit-js): Rate limiting library for serverless runtimes <https://ratelimit-with-upstash.vercel.app/>
 - [middyjs/middy](https://github.com/middyjs/middy): 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵 <https://middy.js.org>
 - 🌟 [Build your application easily and efficiently with serverless containers | Nathan Peck](https://nathanpeck.com/build-your-application-easily-efficiently-serverless-containers/): I delivered this talk at AWS re:Invent 2022, as part of the serverless containers track. It compares the ease and efficiency of AWS Lambda, AWS App Runner, and AWS Fargate, with a particular focus on the built-in features of each compute model, and how it scales as you receive large amounts of concurrent web traffic.
+- [gh:denoland/celld](https://github.com/denoland/celld): self-hosted, distributed Durable Objects <https://celld.dev>
+  - celld = V8 + S3 + SQLite + LTX+ Tokio

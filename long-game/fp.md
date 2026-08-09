@@ -105,6 +105,8 @@
 - [gh:lean-forward/logical_verification_2026](https://github.com/lean-forward/logical_verification_2026): The Hitchhiker's Guide to Logical Verification (2026 edition) and associated materials
   - [gh:Lean-zh/LoVe-zh](https://github.com/Lean-zh/LoVe-zh): 逻辑验证漫游指南
 - [gh:vellvm/vellvm](https://github.com/vellvm/vellvm): The Vellvm (Verified LLVM) coq development.
+- [gh:AlloyTools/org.alloytools.alloy](https://github.com/AlloyTools/org.alloytools.alloy): Alloy is a language for describing structures and a tool for exploring them. It has been used in a wide range of applications from finding holes in security mechanisms to designing telephone switching networks. This repository contains the code for the tool.
+- [gh:AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas): A verification toolchain for Rust programs <https://aeneasverif.github.io/>
 
 ## Effect systems
 
@@ -124,6 +126,9 @@
 - [inko-lang/inko](https://github.com/inko-lang/inko): A language for building concurrent software with confidence <http://inko-lang.org/>
 - [austral/austral](https://github.com/austral/austral): Systems language with linear types and capability-based security. <https://austral-lang.org/>
 - [diku-dk/futhark](https://github.com/diku-dk/futhark): 💥💻💥 A data-parallel functional programming language <http://futhark-lang.org>
+- [gh:verselang/book](https://github.com/verselang/book): This documentation provides an in-depth look at the Verse programming language, its philosophy, and core concepts.
+  - SPJ!
+- [gh:janet-lang/janet](https://github.com/janet-lang/janet): A dynamic language and bytecode vm <https://janet-lang.org>
 
 ## Misc
 

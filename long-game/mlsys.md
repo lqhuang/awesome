@@ -189,6 +189,7 @@ General problems
 - [google-coral/coralnpu](https://github.com/google-coral/coralnpu): A machine learning accelerator core designed for energy-efficient AI at the edge.
 - [gh:gpustack/gpustack](https://github.com/gpustack/gpustack): Performance-optimized AI inference on your GPUs. Unlock superior throughput by selecting and tuning engines like vLLM or SGLang. <https://gpustack.ai>
 - 🌟 [gh:perplexityai/pplx-garden](https://github.com/perplexityai/pplx-garden): Perplexity open source garden for inference technology
+- [gh:meta-pytorch/autoparallel: An experimental implementation of compiler-driven automatic sharding of models across a given device mesh.](https://github.com/meta-pytorch/autoparallel)
 
 ### Distribution kits
 
@@ -255,6 +256,8 @@ General problems
 - [tile-ai/tilelang](https://github.com/tile-ai/tilelang): Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels <https://tilelang.com/>
 - [tile-ai/tilescale](https://github.com/tile-ai/tilescale): Tile-based language built for AI computation across all scales <https://tilelang.com/>
 - [gh:Zaneham/BarraCUDA](https://github.com/Zaneham/BarraCUDA): Open-source CUDA, Triton and HIP compiler targeting multiple GPU and CPU architectures.
+- [gh:gpu-mode/kernelbot](https://github.com/gpu-mode/kernelbot): Write a fast kernel and see how you compare against the best humans and AI on gpumode.com <https://www.gpumode.com/>
+- [gh:meta-pytorch/MSLK](https://github.com/meta-pytorch/MSLK): MSLK (Meta Superintelligence Labs Kernels) is a collection of PyTorch GPU operator libraries that are designed and optimized for GenAI training and inference, such as FP8 row-wise quantization and collective communications.
 
 ### Operator and Kernel
 
@@ -417,6 +420,8 @@ JAX Special
 - [divyamakkar0/JAXformer](https://github.com/divyamakkar0/JAXformer): This is a zero-to-one guide on scaling modern transformers with n-dimensional parallelism. <https://jaxformer.com>
 - [gh:cusp-ai-oss/kUPS](https://github.com/cusp-ai-oss/kUPS): A high-performance toolkit for atomistic simulations in JAX. <https://cusp-ai-oss.github.io/kUPS/>
 - [gh:erfanzar/Spectrax](https://github.com/erfanzar/Spectrax): SpecTrax is a JAX-native library for neural networks and graph learning, built for performance, composability and modularity.
+- [gh:pmocz/noether](https://github.com/pmocz/noether): Automatically prove mathematical statements about your jax code in lean
+  - ???!!!
 
 patrick-kidger
 
@@ -541,7 +546,7 @@ mujoco
 
 ### Autodiff
 
-- [facebookresearch/shumai](https://github.com/facebookresearch/shumai): Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
+- 🌟 [facebookresearch/shumai](https://github.com/facebookresearch/shumai): Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [google/tangent](https://github.com/google/tangent): Source-to-Source Debuggable Derivatives in Pure Python
   - [srush/tangent](https://github.com/srush/tangent): Source-to-Source Debuggable Derivatives in Pure Python
   - [srush/triton-autodiff](https://github.com/srush/triton-autodiff): Experiment of using Tangent to autodiff triton
@@ -658,3 +663,4 @@ mujoco
 - [Lancern/mini-qwen-py](https://github.com/Lancern/mini-qwen-py): A toy implementation of Qwen3 inference
 - [pierrot-lc/jax-gnn](https://github.com/pierrot-lc/jax-gnn): GNN implemented using JAX and Equinox <https://pierrot-lc.dev/posts/2024-09-02_jax-gnn/>
 - [karpathy/nanochat](https://github.com/karpathy/nanochat): The best ChatGPT that $100 can buy.
+- [gh:karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero): Neural Networks: Zero to Hero

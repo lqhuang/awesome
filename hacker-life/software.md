@@ -153,6 +153,9 @@
 - [gh:samuelhe52/Teleport](https://github.com/samuelhe52/Teleport): Native, stable iOS location simulation utility app for macOS.
 - [gh:loc567/loc567](https://github.com/loc567/loc567): loc567 是一款完全开源免费的纯网页端iOS模拟定位工具。在线体验地址：https://loc567.com
 - [gh:itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck): Free, open-source Windows optimization tool for performance, privacy, and simplicity. <https://optimizerduck.vercel.app/>
+- [gh:wutongyuonce/RepoMirror](https://github.com/wutongyuonce/RepoMirror): 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
+- 🌟 [gh:iAmCorey/birth](https://github.com/iAmCorey/birth): 一目了然地管理你的电脑启动项 | 开源 macOS 启动项管理器
+- [gh:Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll): Dynamic Island for macOS <https://getatoll.app>
 
 ### Free / Paid
 
@@ -237,6 +240,7 @@ Non open source
 - [TreeSize](https://www.jam-software.com/treesize): TreeSize is a disk space analyzer for Windows with customizable file search and several exporting and reporting possibilities.
 - [Anytxt Searcher](https://anytxt.net/): A Desktop Search Tool with A Powerful Full-Text Search Engine. Best Google Desktop Search Alternative.
 - [TaskSlinger - Native Windows Task Manager Replacement](https://taskslinger.net/): TaskSlinger is a native Windows task manager replacement built in C++/Win32 with a custom Direct3D UI, fast startup, process monitoring, performance graphs, services, startup apps, and network connections.
+- [TMOG — Native Task Manager for macOS and Windows](https://tmog.org/): TMOG is a fast, native task manager for macOS and Windows. See CPU, GPU, memory, storage, network, energy, thermals, processes, and hardware in one precise interface.
 
 ### Dev
 
@@ -310,6 +314,7 @@ Terminal / SSH
 - [MisterTea/EternalTerminal](https://github.com/MisterTea/EternalTerminal): Re-Connectable secure remote shell <https://mistertea.github.io/EternalTerminal/>
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm): A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal. <https://kingtoolbox.github.io>
 - [google/werm](https://github.com/google/werm): Tab-friendly terminal multiplexer via Chrome
+- [gh:l0ng-ai/tty7](https://github.com/l0ng-ai/tty7): A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty. <https://github.com/l0ng-ai/tty7/releases/latest>
 
 ## CN Related
 
@@ -386,6 +391,7 @@ Terminal / SSH
   - [gitea/awesome-gitea: A curated list of awesome projects related to Gitea and its soft-fork instances - awesome-gitea - Gitea: Git with a cup of tea](https://gitea.com/gitea/awesome-gitea/): awesome-gitea - A curated list of awesome projects related to Gitea and its soft-fork instances
 - [codeberg:forgejo/forgejo](https://codeberg.org/forgejo/forgejo): forgejo - Beyond coding. We forge. <https://forgejo.org/>
   - [codeberg:ForgeFed/ForgeFed](https://codeberg.org/ForgeFed/ForgeFed): ForgeFed - ActivityPub-based forge federation protocol <https://forgefed.org/>
+  - [gh:svalabs/terraform-provider-forgejo](https://github.com/svalabs/terraform-provider-forgejo): Terraform and OpenTofu provider for Forgejo <https://registry.terraform.io/providers/svalabs/forgejo/latest/docs>
 - [radicle:seed.radicle.xyz](https://app.radicle.xyz/nodes/seed.radicle.xyz): Explore the Radicle network
 - [codeberg:sitaramc/gitolite](https://codeberg.org/sitaramc/gitolite): gitolite - Social coding. Without the "social" :-)
 - [zx2c4/cgit](https://git.zx2c4.com/cgit/): A hyperfast web frontend for git repositories written in C.
@@ -399,6 +405,7 @@ Terminal / SSH
   - [gsrc:gerrit/gitiles](https://gerrit.googlesource.com/gitiles/): A simple JGit repository browser
 - 🌟 [gh:thomiceli/opengist](https://github.com/thomiceli/opengist): Self-hosted pastebin powered by Git, open-source alternative to Github Gist. <https://opengist.io>
 - [gh:xream/EdgeGist](https://github.com/xream/EdgeGist): Minimal GitHub Gist-compatible API service running on Cloudflare's edge network, backed by D1 and packaged for Cloudflare Pages.
+- [gh:linuz90/gists.sh](https://github.com/linuz90/gists.sh): <https://gists.sh/>
 - [shithub:sl/werc](https://shithub.us/sl/werc/HEAD/info.html): werc - a minimalist document management system
 - [orib:git/serve](https://orib.dev/gitserve.html): `Git/serve` is a git server designed to fit into the Plan 9 ecosystem, allowing hosting of, and interacting with, code on a Plan 9 server, while still allowing legacy clients running on Unix to get a copy of the code.
 
@@ -496,6 +503,8 @@ NextCloud is crazily BIG now, so I will say no here.
 - [bolcom/unFTP](https://github.com/bolcom/unFTP): A FTP(S) server with a couple of twists written in Rust. Follow and talk to us on https://t.me/unftp. Docs on https://unftp.rs
 - [git.deuxfleurs.fr:Deuxfleurs/garage](https://git.deuxfleurs.fr/Deuxfleurs/garage): garage - S3-compatible object store for small self-hosted geo-distributed deployments
 - [linagora/twake-drive](https://github.com/linagora/twake-drive): Twake Drive Web App <https://twake-drive.com>
+- 🌟 [gh:vikiboss/r2-web](https://github.com/vikiboss/r2-web): 📁 轻盈优雅的 Web 原生 Cloudflare R2 桶文件管理器，一切皆在浏览器中完成。 | 📁 A lightweight, elegant, pure-browser Cloudflare R2 file manager. Everything happens right in your browser. <https://r2.viki.moe>
+- [gh:jR4dh3y/BoxBox](https://github.com/jR4dh3y/BoxBox): A modern, self-hosted web based file manager for your homelab. Built in SvelteKit & Go <https://boxbox.radhey.dev>
 
 ### Email
 

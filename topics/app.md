@@ -11,6 +11,7 @@
 - [marioaguzman/toolbar](https://github.com/marioaguzman/toolbar): Programmatically constructing an NSToolbar
 - [Automating the Release Process for a Desktop Application | DoltHub Blog](https://www.dolthub.com/blog/2025-09-11-automating-desktop-release-process/): We recently automated the release process for the Dolt Workbench desktop application using GitHub Actions. This article discusses how we did it.
 - [The Complete Guide to React Native Build Optimization | The Mythical Engineer](https://themythicalengineer.com/the-complete-guide-to-react-native-build-optimization.html): If you’re building React Native apps on Linux or macOS, you’ve probably noticed that release builds for Android take far longer than they should. Open your system’s activity monitor during a build and you’ll likely see the surprising culprit: most build tools are utilizing only a single CPU core, leaving the rest of your powerful machine entirely idle.
+- [Which React Native Animation Library Should You Use for Performance? • Andrei Calazans](https://andrei-calazans.com/posts/2026-07-15-which-react-native-animation-library/): I benchmarked Animated (native driver), Reanimated 4, and react-native-ease across four animation types on Android — measuring UI + JS frame drops, per-thread CPU, and memory. The winner depends on whether a gesture is involved — plus what Worklets Bundle Mode does to Reanimated's memory.
 
 ## SwiftUI
 
@@ -111,6 +112,7 @@ Direct GUI
 - 🌟 [jpudysz/react-native-unistyles](https://github.com/jpudysz/react-native-unistyles): Level up your React Native StyleSheet <https://unistyl.es>
 - [Unistyles-OSS/uniwind](https://github.com/Unistyles-OSS/uniwind): From the creators of Unistyles: The fastest Tailwind bindings for React Native <https://docs.uniwind.dev>
 - [Shopify/restyle](https://github.com/Shopify/restyle): A type-enforced system for building UI components in React Native with TypeScript. <https://shopify.github.io/restyle/>
+- [gh:margelo/react-native-graph](https://github.com/margelo/react-native-graph): 📈 Beautiful, high-performance Graphs and Charts for React Native built with Skia <https://margelo.com/>
 
 ### Examples
 

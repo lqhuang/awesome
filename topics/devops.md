@@ -57,6 +57,8 @@
 - [gh:basecamp/gh-signoff](https://github.com/basecamp/gh-signoff): Local CI. Sign off on your own work.
   - [We're moving continuous integration back to developer machines](https://world.hey.com/dhh/we-re-moving-continuous-integration-back-to-developer-machines-3ac6c611)
 - [gh:openrewrite/rewrite](https://github.com/openrewrite/rewrite): Automated mass refactoring of source code. <https://docs.openrewrite.org>
+- [gh:scarf005/pkgi](https://github.com/scarf005/pkgi): Find package-manager commands for shared libraries and build dependencies.
+  - Yeah. It would be extremely useful to find shared libraries!
 
 ### Misc linters / formatters
 
@@ -119,6 +121,7 @@
   - next generation of `pkg-config` 🤔
 - [marler8997/msvcup](https://github.com/marler8997/msvcup): Hermetic install of MSVC/SDK from the CLI
   - looks great on Windows
+- [gh:fastbuild/fastbuild](https://github.com/fastbuild/fastbuild): High performance build system for Windows, OSX and Linux. Supporting caching, network distribution and more. <https://fastbuild.org/>
 
 ### Monorepo
 

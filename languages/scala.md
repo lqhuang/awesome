@@ -156,6 +156,7 @@
 - [gh:carlosedp/mill-docker-nativeimage](https://github.com/carlosedp/mill-docker-nativeimage): A Scala Mill plugin to build container images with Native Image (GraalVM Binaries) application
 - [gh:vic/mill-docker](https://github.com/vic/mill-docker): Build minimalist distroless docker images for your java applications using Mill
 - [gh:alexarchambault/mill-missinglink](https://github.com/alexarchambault/mill-missinglink): Mill plugin for missinglink
+- [gh:sake92/codeps](https://github.com/sake92/codeps): Code package dependency analyzer <https://sake92.github.io/codeps/>
 
 ### Testing
 
@@ -224,6 +225,7 @@
 - [scapegoat-scala/scapegoat](https://github.com/scapegoat-scala/scapegoat): Scala compiler plugin for static code analysis
 - [gh:epfl-lara/scala-smtlib](https://github.com/epfl-lara/scala-smtlib): Scala library for parsing and printing the SMT-LIB format
   - [gh:cvc5/cvc5](https://github.com/cvc5/cvc5): cvc5 is an open-source automatic theorem prover for Satisfiability Modulo Theories (SMT) problems.
+- [gitlab:asm/asm](https://gitlab.ow2.org/asm/asm): ASM is an all purpose Java bytecode manipulation and analysis framework. F
 
 ### CI Actions
 
@@ -510,11 +512,13 @@ Tracing and OpenTelemetry
 - [mattlianje/layoutz](https://github.com/mattlianje/layoutz): Simple, beautiful CLI output
 - [indoorvivants/decline-derive](https://github.com/indoorvivants/decline-derive): Derive Decline CLIs automatically from your enums and case classes in Scala 3
 - [scallop/scallop](https://github.com/scallop/scallop): a simple Scala CLI parsing library
+- [gh:tonsky/jure](https://github.com/tonsky/jure): Alternative Clojure CLI that follows shell calling conventions
 
 ### JVM
 
 - [gh:OpenHFT/Chronicle-Core](https://github.com/OpenHFT/Chronicle-Core): Low level access to native memory, JVM and OS.
 - [gh:OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue): Micro second messaging that stores everything to disk <http://chronicle.software/products/chronicle-queue/>
+- [gh:OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity): Bind a java thread to a given core <http://chronicle.software/products/thread-affinity/>
 - [gh:dynatrace-oss/hash4j](https://github.com/dynatrace-oss/hash4j): Dynatrace hash library for Java
 - [gh:Glavo/weburl-java](https://github.com/Glavo/weburl-java): A modern Java URL library that brings browser-grade WHATWG URL parsing to URI-style APIs. <https://weburl.glavo.site>
 - [gh:killme2008/aviatorscript](https://github.com/killme2008/aviatorscript): A high performance scripting language hosted on the JVM. <http://fnil.net/aviator/>

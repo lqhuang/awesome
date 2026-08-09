@@ -446,6 +446,7 @@
 - [rustwasm/gloo](https://github.com/rustwasm/gloo): A modular toolkit for building fast, reliable Web applications and libraries with Rust and WASM <https://gloo-rs.web.app>
 - [BiagioFesta/wtransport](https://github.com/BiagioFesta/wtransport): Async-friendly WebTransport implementation in Rust
 - [loco-rs/loco](https://github.com/loco-rs/loco): 🚂 🦀 The one-person framework for Rust for side-projects and startups <https://loco.rs>
+- [gh:tokio-rs/topcoat](https://github.com/tokio-rs/topcoat): A batteries-included framework for building web apps
 
 ### Numerical analysis
 

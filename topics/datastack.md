@@ -106,6 +106,7 @@
 - [doccano/doccano](https://github.com/doccano/doccano): Open source annotation tool for machine learning practitioners.
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine): OpenRefine is a free, open source power tool for working with messy data and improving it <https://openrefine.org/>
 - [gh:posit-dev/pointblank](https://github.com/posit-dev/pointblank): Data validation toolkit for assessing and monitoring data quality. <https://posit-dev.github.io/pointblank/>
+- [MaterializeInc/datagen](https://github.com/MaterializeInc/datagen): Generate authentic looking mock data based on a SQL, JSON or Avro schema and produce to Kafka in JSON or Avro format.
 
 ## Data Observability
 

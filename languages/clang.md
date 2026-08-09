@@ -19,7 +19,6 @@ And modern is here now.
 - [A list of open source C libraries - cppreference.com](https://en.cppreference.com/c/links/libs)
 - 🌟 [jothepro/doxygen-awesome-css](https://github.com/jothepro/doxygen-awesome-css): Custom CSS theme for doxygen html-documentation with lots of customization parameters. <https://jothepro.github.io/doxygen-awesome-css/>
 - [nothings/single_file_libs](https://github.com/nothings/single_file_libs): List of single-file C/C++ libraries.
-- 🌟 [Software optimization resources - Agner](https://www.agner.org/optimize/)
 - 🌟 [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
   - > People love to hate build systems.
     - my comment: Yes, definitely
@@ -59,6 +58,7 @@ And modern is here now.
 - [Clang Compiler User's Manual](https://clang.llvm.org/docs/UsersManual.html)
 - [Clang command line argument reference](https://clang.llvm.org/docs/ClangCommandLineReference.html)
 - [C++ reference](https://en.cppreference.com/w/)
+  - [Feature testing (since C++20)](https://cppreference.com/cpp/feature_test)
 - [C reference](https://en.cppreference.com/w/c)
 - 🌟 [The C programming language](https://www.c-language.org/)
 - [Clang documentation](https://clang.llvm.org/docs/)
@@ -77,6 +77,7 @@ And modern is here now.
 - [Womangling](https://womangling.noratrieb.dev/): This website will teach you C++ Itanium Symbol Name Mangling. Itanium-style mangling is used on a lot of platforms, including Linux. Since C++ mangling (the entire ABI) is considered stable today, you will be able to use this knowledge forever!
 - [gh:sftrabbit/CppPatterns-Patterns](https://github.com/sftrabbit/CppPatterns-Patterns): A repository of modern C++ patterns curated by the community.
   - [C++ Patterns](https://cpppatterns.com/)
+- [C++ Dashboard — what matters in C++ right now](https://cppdashboard.dev/): What matters in C++ right now — a curated dashboard of C++ articles, videos, events, books, and standard tracking.
 
 ### Books
 
@@ -144,6 +145,8 @@ And modern is here now.
 
 - [rsms/llvmbox](https://github.com/rsms/llvmbox): Self contained, fully static llvm tools & libs
 - [Mandi-Sa/clang](https://github.com/Mandi-Sa/clang): Clang/LLVM/Binutils prebuilts with Full LTO, PGO and BOLT optimization.
+- [gh:mstorsjo/llvm-mingw](https://github.com/mstorsjo/llvm-mingw): An LLVM/Clang/LLD based mingw-w64 toolchain
+- [gh:vovkos/llvm-package-windows](https://github.com/vovkos/llvm-package-windows): Provides LLVM binary packages for an (almost) complete Windows build matrix. Built and packaged on GitHub Actions.
 
 ### Analyzer
 
@@ -309,7 +312,7 @@ And modern is here now.
 - [martinus/unordered_dense](https://github.com/martinus/unordered_dense): A fast & densely stored hashmap and hashset based on robin-hood backward shift deletion
 - [ktprime/emhash](https://github.com/ktprime/emhash): Fast and memory efficient c++ flat hash map/set
 - [lemire/EWAHBoolArray](https://github.com/lemire/EWAHBoolArray): A compressed bitmap class in C++. <http://lemire.github.io/EWAHBoolArray/>
-- [lewj85/jessesort](https://github.com/lewj85/jessesort): No description, website, or topics provided.
+- [lewj85/jessesort](https://github.com/lewj85/jessesort): JesseSort is a new sorting algorithm that introduces dual Patience--one game with descending piles and one game with ascending piles--as a core insertion strategy.
 - 🌟 [greg7mdp/parallel-hashmap](https://github.com/greg7mdp/parallel-hashmap): A family of header-only, very fast and memory-friendly hashmap and btree containers. <https://greg7mdp.github.io/parallel-hashmap>
 - [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers): C++ Fixed Containers
 - [codeberg:uecker/noplate](https://codeberg.org/uecker/noplate): experimental generic type-safe container data structures for C
@@ -337,7 +340,6 @@ And modern is here now.
 - [soasis/text](https://github.com/soasis/text): A spicy text library for C++ that has the explicit goal of enabling the entire ecosystem to share in proper forward progress towards a bright Unicode future. <https://ztdtext.readthedocs.io/en/latest/>
 - [unicode-org/icu4x](https://github.com/unicode-org/icu4x): Solving i18n for client-side and resource-constrained environments. <https://icu4x.unicode.org>
 - [openucx/ucx](https://github.com/openucx/ucx): Unified Communication X (mailing list - https://elist.ornl.gov/mailman/listinfo/ucx-group) <http://www.openucx.org>
-- [pantor/inja](https://github.com/pantor/inja): A Template Engine for Modern C++ <https://pantor.github.io/inja/>
 - [nemtrif/utfcpp](https://github.com/nemtrif/utfcpp): UTF-8 with C++ in a Portable Way
 - [EmberEmu/Hexi](https://github.com/EmberEmu/Hexi): Header-only, lightweight C++ library for binary streaming. Network data handling made easy peasy!
 - [snowballstem/snowball](https://github.com/snowballstem/snowball): Snowball compiler and stemming algorithms <https://snowballstem.org/>
@@ -436,7 +438,9 @@ And modern is here now.
 - [gh:ochafik/minja](https://github.com/ochafik/minja): A minimalistic C++ Jinja templating engine for LLM chat templates
   - [gh:google/minja](https://github.com/google/minja): A minimalistic C++ Jinja templating engine for LLM chat templates
 - [gh:jinja2cpp/Jinja2Cpp](https://github.com/jinja2cpp/Jinja2Cpp): Jinja2 C++ (and for C++) almost full-conformance template engine implementation <https://jinja2cpp.github.io>
-- [gh:pantor/inja](https://github.com/pantor/inja): A Template Engine for Modern C++ <https://pantor.github.io/inja/>
+- 🌟 [gh:jfalcou/spy](https://github.com/jfalcou/spy): SPY - C++ Information Broker <https://jfalcou.github.io/spy/>
+  - [I SPY with my little eye](https://docs.google.com/presentation/d/1nSBhU4pr5EWznni0MYsyDkMCr3O3q2XS-KQdz2_BRRI/edit?slide=id.g634a7b8019_0_0#slide=id.g634a7b8019_0_0)
+- [gh:TerensTare/detector](https://github.com/TerensTare/detector): A header-only C++ library for checking the host os/compiler in a modern way.
 
 ## HPC
 

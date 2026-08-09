@@ -251,7 +251,7 @@ Specific
   - [LorisSigrist/zocker](https://github.com/LorisSigrist/zocker): Generate realistic mock-data from your `zod` schemas <http://zocker.sigrist.dev/>
   - [soc221b/zod-schema-faker](https://github.com/soc221b/zod-schema-faker): Generate mock data from zod schemas. Powered by @faker-js/faker and randexp.js. <https://stackblitz.com/edit/zod-schema-faker?file=src%2Fmain.ts>
   - [danscan/zod-jsonrpc](https://github.com/danscan/zod-jsonrpc): Create type-safe JSON-RPC API clients and servers in JS/TS using any transport.
-  - [gh:gajus/zod-compiler](https://github.com/gajus/zod-compiler): Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc
+  - 🌟 [gh:gajus/zod-compiler](https://github.com/gajus/zod-compiler): Compile Zod schemas into zero-overhead validation functions at build time. Works with Vite, webpack, esbuild, Rollup, etc
 - 🌟 [arktypeio/arktype](https://github.com/arktypeio/arktype): TypeScript's 1:1 validator, optimized from editor to runtime <https://arktype.io/>
   - highlight: pattern matching / integrable with `hono`
   - [ArkType Docs: Match](https://arktype.io/docs/match): Optimized runtime validation for TypeScript syntax
@@ -431,11 +431,13 @@ xml
 - [winstonjs/winston](https://github.com/winstonjs/winston): A logger for just about everything. <http://github.com/winstonjs/winston>
 - [dahlia/logtape](https://github.com/dahlia/logtape): Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions <http://logtape.org/>
 - [fullstack-build/tslog](https://github.com/fullstack-build/tslog): 📝 tslog - Universal Logger for TypeScript and JavaScript <https://tslog.js.org>
+  - https://tslog.js.org/#comparison-with-other-loggers
 - 🌟 [errsole/errsole.js](https://github.com/errsole/errsole.js): Collect, Store, and Visualize Logs with a Single Module
 
 ### fetch
 
 - [sindresorhus/ky](https://github.com/sindresorhus/ky): 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
+- 🌟 [gh:sindresorhus/got](https://github.com/sindresorhus/got): 🌐 Human-friendly and powerful HTTP request library for Node.js
 - 🌟 [nodejs/undici](https://github.com/nodejs/undici): An HTTP/1.1 client, written from scratch for Node.js <https://nodejs.github.io/undici>
 - [unjs/ofetch](https://github.com/unjs/ofetch): 😱 A better fetch API. Works on node, browser and workers.
 - [epicweb-dev/cachified](https://github.com/epicweb-dev/cachified): 🤑 wrap virtually everything that can store by key to act as cache with ttl/max-age, stale-while-validate, parallel fetch protection and type-safety support
@@ -548,6 +550,7 @@ xml
 - [poppinss/string](https://github.com/poppinss/string): A collection of helpers to perform operations on/related to a string value
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift): A JavaScript codemod toolkit. <https://jscodeshift.com>
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks): 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
+- [gh:WebReflection/utils](https://github.com/WebReflection/utils): A collection of utility functions. <https://webreflection.github.io/utils/>
 
 Deep equal
 

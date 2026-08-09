@@ -279,6 +279,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui): A JavaScript library to position floating elements and create interactions for them. <https://floating-ui.com>
 - [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz. <https://radix-ui.com>
   - [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
+- [gh:swiftuijs/ui](https://github.com/swiftuijs/ui): an attempt to implement SwiftUI in Javascript(base on React) <https://swiftuijs.evecalm.com>
 
 #### React Aria eco system
 
@@ -844,6 +845,9 @@ Concrete animations
   - [gh:carbon-design-system/carbon-ai-chat](https://github.com/carbon-design-system/carbon-ai-chat): Carbon AI chat is a front-end chat framework from the IBM Carbon team. <https://chat.carbondesignsystem.com/tag/latest/docs/documents/Overview.html>
   - [gh:carbon-design-system/carbon-labs](https://github.com/carbon-design-system/carbon-labs): An innovation space for the creation of components leveraging Carbon Design System <http://labs.carbondesignsystem.com/>
 - [gh:microsoft/flint-chart](https://github.com/microsoft/flint-chart): 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs. <https://microsoft.github.io/flint-chart/>
+- [gh:TanStack/charts](https://github.com/TanStack/charts): A tiny TypeScript visualization grammar for responsive, accessible, server-rendered charts—powered by granular D3 primitives. <https://tanstack.com/charts>
+  - a small, framework-agnostic chart grammar for TypeScript and JavaScript.
+  - builds on the grammar-of-graphics tradition established by Leland Wilkinson and developed through projects such as ggplot2, Vega-Lite, and Observable Plot.
 
 ### Tree / Architecture
 

@@ -161,7 +161,3 @@ cli
 - 📝 [Adapton/adapton.rust](https://github.com/Adapton/adapton.rust): General-purpose abstractions for incremental computing, in Rust <http://adapton.org>
 - [tradewelltech/beavers](https://github.com/tradewelltech/beavers): Python stream processing
 - 📝 [jamii/dida](https://github.com/jamii/dida): Differential dataflow for mere mortals
-
-## Testing
-
-- [MaterializeInc/datagen](https://github.com/MaterializeInc/datagen): Generate authentic looking mock data based on a SQL, JSON or Avro schema and produce to Kafka in JSON or Avro format.

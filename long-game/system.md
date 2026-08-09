@@ -5,7 +5,17 @@
   <img alt="linux,debian" src="https://skillicons.dev/icons?theme=light&i=linux,debian">
 </picture>
 
-## Readings
+## Resources
+
+### Links
+
+- [gh:domargan/awesome-numa](https://github.com/domargan/awesome-numa): A community-oriented list of useful NUMA-related libraries, tools, and other resources
+- [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design): A curated list of data oriented design resources.
+- [System and Service Manager](https://systemd.io/): systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.
+- [gh:labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney): Courses and lesson content for linuxjourney.com <https://linuxjourney.com/>
+- 🌟 [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/): Collection of best paper awards for 32 computer science conferences since 1996
+
+### Readings
 
 - [0xAX/linux-insides](https://github.com/0xAX/linux-insides): A little bit about a linux kernel <https://0xax.gitbooks.io/linux-insides/content/index.html>
 - [brazzy/floating-point-gui.de](https://github.com/brazzy/floating-point-gui.de): Website that provides concise answers to common questions about floating-point numbers. <http://floating-point-gui.de>
@@ -22,7 +32,6 @@
 - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree/)
 - 🌟 [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing/)
 - 🌟 [Book: An Introduction to libuv](https://nikhilm.github.io/uvbook/index.html)
-- [System and Service Manager](https://systemd.io/): systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.
 - 🌟 [A Universal I/O Abstraction for C++ | cor3ntin](https://cor3ntin.github.io/posts/iouring/)
   - P2052 - Making modern C++ i/o a consistent API experience from bottom to top.
   - > Sender-Receiver is genius in my opinion. It’s so damn simple people can’t see just how game changing it is: it makes possible fully deterministic, ultra high performance, extensible, composable, asynchronous standard i/o. That’s huge. No other contemporary systems programming language would have that: not Rust, not Go, not even Erlang.
@@ -36,14 +45,11 @@
   - [心中的内核 - 在阅读内核代码之前先理解内核](https://cppguide.cn/pages/the-kernel-in-the-mind-contents/)
 - [Latency, Throughput, and Port Usage Information](https://uops.info/index.html): This website provides more than 700,000 pages with detailed latency, throughput, and port usage data for most instructions on many recent x86 microarchitectures.
 - [Memory, Cache, CPU optimization resources.md](https://gist.github.com/ocornut/cb980ea183e848685a36)
-- [dbartolini/data-oriented-design](https://github.com/dbartolini/data-oriented-design): A curated list of data oriented design resources.
-- [Memory Management Reference](https://www.memorymanagement.org/): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
+- 🌟 [Memory Management Reference](https://www.memorymanagement.org/): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
 - 🌟 [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook/)
 - [Glibc Heap Internals](https://www.deep-kondah.com/glibc-heap-internals/)
-- [gh:labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney): Courses and lesson content for linuxjourney.com <https://linuxjourney.com/>
 - ["The Unix-Haters Handbook" WWW Page](https://web.archive.org/web/20210507143515/http://homes.cs.washington.edu/~weise/unix-haters.html)
   - [Unix 痛恨者手册中文版 | FreeBSD 中文社区](https://book.bsdcn.org/wen-zhang/unix-tong-hen-zhe-shou-ce)
-- 🌟 [Memory Management Reference](https://www.memorymanagement.org/index.html): This is a resource for programmers and computer scientists interested in memory management and garbage collection.
 - [Putting the "You" in CPU](https://cpu.land/): Curious exactly what happens when you run a program on your computer? Learn how multiprocessing works, what system calls really are, how computers manage memory with hardware interrupts, and how Linux loads executables.
 - [gh:corkami/pics](https://github.com/corkami/pics): File formats dissections and more...
 - [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html)
@@ -53,7 +59,8 @@
 - [gh:ianw/bottomupcs](https://github.com/ianw/bottomupcs): Bottom Up Computer Science <http://www.bottomupcs.com>
 - [Dive into Systems](https://diveintosystems.org/): The Dive into Systems project develops and evaluates teaching resources specifically for introductory computer systems, computer organization, and parallel computing courses.
 - [The Garbage Collection Handbook](https://gchandbook.org/index.html)
-- 🌟 [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/): Collection of best paper awards for 32 computer science conferences since 1996
+- 🌟 [Software optimization resources - Agner](https://www.agner.org/optimize/)
+- [gh:ibogosavljevic/johnysswlab](https://github.com/ibogosavljevic/johnysswlab)
 
 ## Compiler
 
@@ -115,6 +122,44 @@
       - ... but jemalloc needed more than open development to thrive as an independent project.
 - [ivmai/bdwgc](https://github.com/ivmai/bdwgc): The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc) <https://www.hboehm.info/gc/>
 - [gh:plasma-umass/Mesh](https://github.com/plasma-umass/Mesh): A memory allocator that automatically reduces the memory footprint of C/C++ applications.
+
+## Performance profile / tracing
+
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool
+- 🌟 [andrewrk/poop](https://github.com/andrewrk/poop): Performance Optimizer Observation Platform
+- [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
+- 🌟 [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget): The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts. <https://www.inspektor-gadget.io>
+- [koute/bytehound](https://github.com/koute/bytehound): A memory profiler for Linux.
+- [rubrikinc/wachy](https://github.com/rubrikinc/wachy): A UI for eBPF-based performance debugging
+- [janestreet/magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects and displays high-resolution traces of what a process is doing <https://magic-trace.org>
+- [Intel® VTune™ Profile](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html): Use advanced sampling and profiling methods to quickly analyze code, isolate issues, and deliver performance insight on modern CPUs, GPUs, and FPGAs.
+- [intel/perfmon](https://github.com/intel/perfmon): Intel Performance Monitoring Units (PMUs) <https://perfmon-events.intel.com/>
+  - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools): Intel PMU profiling tools
+- [KDAB/hotspot](https://github.com/KDAB/hotspot): The Linux perf GUI for performance analysis.
+- [twitter/rezolus](https://github.com/twitter/rezolus): Systems performance telemetry
+- [google/perfetto](https://github.com/google/perfetto): Production-grade client-side tracing, profiling, and analysis for complex software systems. <https://www.perfetto.dev>
+- 🌟 [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math): Techniques and numbers for estimating system's performance from first-principles <https://www.youtube.com/watch?v=IxkSlnrRFqc>
+- 🌟 [namhyung/uftrace](https://github.com/namhyung/uftrace): Function graph tracer for C/C++/Rust <https://uftrace.github.io/slide>
+- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
+- 🌟 [jlfwong/speedscope](https://github.com/jlfwong/speedscope): 🔬 A fast, interactive web-based viewer for performance profiles. <https://www.speedscope.app>
+- [mstange/samply](https://github.com/mstange/samply): Command-line sampling profiler for macOS and Linux
+- [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng): This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. <https://github.com/ColinIanKing/stress-ng>
+- [bsc-mem/PROFET](https://github.com/bsc-mem/PROFET): Analytical model that quantifies the impact of the main memory on application performance and system power and energy consumption.
+- [intel/pcm](https://github.com/intel/pcm): Intel® Performance Counter Monitor (Intel® PCM)
+- [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
+- [davidmarkclements/0x](https://github.com/davidmarkclements/0x): 🔥 single-command flamegraph profiling 🔥
+- [HewlettPackard/LinuxKI](https://github.com/HewlettPackard/LinuxKI): LinuxKI Toolset (Trace-based performance analysis tool)
+- [indragiek/uniprof](https://github.com/indragiek/uniprof): Universal CPU profiler designed for humans and AI agents <https://uniprof.sh>
+- 🌟 [YS-L/flamelens](https://github.com/YS-L/flamelens): Flamegraph viewer in the terminal
+- [microsoft/SysmonForLinux](https://github.com/microsoft/SysmonForLinux): Sysmon for Linux
+- 🌟 [wolfpld/tracy](https://github.com/wolfpld/tracy): Frame profiler <https://tracy.nereid.pl/>
+- 🌟 [gh:google/bloaty](https://github.com/google/bloaty): Bloaty: a size profiler for binaries
+- 🌟🌟🌟 [gh:perfwiki/main](https://github.com/perfwiki/main): perf: Linux profiling with performance counters <https://perf.wiki.kernel.org>
+- perf c2c
+  - [C2C - False Sharing Detection in Linux Perf](https://joemario.github.io/blog/2016/09/01/c2c-blog/)
+- [gh:RRZE-HPC/likwid](https://github.com/RRZE-HPC/likwid): Performance monitoring and benchmarking suite <https://hpc.fau.de/research/tools/likwid/>
+- [gh:jakebailey/pprof-it](https://github.com/jakebailey/pprof-it): A handy pprof wrapper for Node.js
 
 ## Linux Tuning
 
@@ -182,42 +227,6 @@ Libraries & Tools
 - [gh:inikep/lzbench](https://github.com/inikep/lzbench): lzbench is an in-memory benchmark of open-source compressors
 - [gh:manjaroman2/compression_algo_comparision](https://github.com/manjaroman2/compression_algo_comparision): LZTURBO vs ZSTD vs BROTLI vs LZMA vs ZPAQ
 - [gh:ebiggers/libdeflate](https://github.com/ebiggers/libdeflate): Heavily optimized library for DEFLATE/zlib/gzip compression and decompression
-
-## Performance profile / tracing
-
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool
-- 🌟 [andrewrk/poop](https://github.com/andrewrk/poop): Performance Optimizer Observation Platform
-- [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools): Performance analysis tools based on Linux perf_events (aka perf) and ftrace
-- 🌟 [iovisor/bcc](https://github.com/iovisor/bcc): BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
-- [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget): The eBPF tool and systems inspection framework for Kubernetes, containers and Linux hosts. <https://www.inspektor-gadget.io>
-- [koute/bytehound](https://github.com/koute/bytehound): A memory profiler for Linux.
-- [rubrikinc/wachy](https://github.com/rubrikinc/wachy): A UI for eBPF-based performance debugging
-- [janestreet/magic-trace](https://github.com/janestreet/magic-trace): magic-trace collects and displays high-resolution traces of what a process is doing <https://magic-trace.org>
-- [Intel® VTune™ Profile](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html): Use advanced sampling and profiling methods to quickly analyze code, isolate issues, and deliver performance insight on modern CPUs, GPUs, and FPGAs.
-- [intel/perfmon](https://github.com/intel/perfmon): Intel Performance Monitoring Units (PMUs) <https://perfmon-events.intel.com/>
-  - [andikleen/pmu-tools](https://github.com/andikleen/pmu-tools): Intel PMU profiling tools
-- [KDAB/hotspot](https://github.com/KDAB/hotspot): The Linux perf GUI for performance analysis.
-- [twitter/rezolus](https://github.com/twitter/rezolus): Systems performance telemetry
-- [google/perfetto](https://github.com/google/perfetto): Production-grade client-side tracing, profiling, and analysis for complex software systems. <https://www.perfetto.dev>
-- 🌟 [sirupsen/napkin-math](https://github.com/sirupsen/napkin-math): Techniques and numbers for estimating system's performance from first-principles <https://www.youtube.com/watch?v=IxkSlnrRFqc>
-- 🌟 [namhyung/uftrace](https://github.com/namhyung/uftrace): Function graph tracer for C/C++/Rust <https://uftrace.github.io/slide>
-- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script): YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
-- 🌟 [jlfwong/speedscope](https://github.com/jlfwong/speedscope): 🔬 A fast, interactive web-based viewer for performance profiles. <https://www.speedscope.app>
-- [mstange/samply](https://github.com/mstange/samply): Command-line sampling profiler for macOS and Linux
-- [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng): This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. <https://github.com/ColinIanKing/stress-ng>
-- [bsc-mem/PROFET](https://github.com/bsc-mem/PROFET): Analytical model that quantifies the impact of the main memory on application performance and system power and energy consumption.
-- [intel/pcm](https://github.com/intel/pcm): Intel® Performance Counter Monitor (Intel® PCM)
-- [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
-- [davidmarkclements/0x](https://github.com/davidmarkclements/0x): 🔥 single-command flamegraph profiling 🔥
-- [HewlettPackard/LinuxKI](https://github.com/HewlettPackard/LinuxKI): LinuxKI Toolset (Trace-based performance analysis tool)
-- [indragiek/uniprof](https://github.com/indragiek/uniprof): Universal CPU profiler designed for humans and AI agents <https://uniprof.sh>
-- 🌟 [YS-L/flamelens](https://github.com/YS-L/flamelens): Flamegraph viewer in the terminal
-- [microsoft/SysmonForLinux](https://github.com/microsoft/SysmonForLinux): Sysmon for Linux
-- 🌟 [wolfpld/tracy](https://github.com/wolfpld/tracy): Frame profiler <https://tracy.nereid.pl/>
-- 🌟 [gh:google/bloaty](https://github.com/google/bloaty): Bloaty: a size profiler for binaries
-- 🌟🌟🌟 [gh:perfwiki/main](https://github.com/perfwiki/main): perf: Linux profiling with performance counters <https://perf.wiki.kernel.org>
-- perf c2c
-  - [C2C - False Sharing Detection in Linux Perf](https://joemario.github.io/blog/2016/09/01/c2c-blog/)
 
 ## Misc
 

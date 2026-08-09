@@ -632,6 +632,7 @@ Misc
 - [keleshev/schema](https://github.com/keleshev/schema): Schema validation just got Pythonic
 - [drivendataorg/erdantic](https://github.com/drivendataorg/erdantic): Entity relationship diagrams for Python data model classes like Pydantic <https://erdantic.drivendata.org/>
 - 🌟 [trailofbits/fickling](https://github.com/trailofbits/fickling): A Python pickling decompiler and static analyzer
+- [gh:mitsuhiko/sloppy-xml-py](https://github.com/mitsuhiko/sloppy-xml-py): A Python library to parse malformed XML
 
 ### Logging
 

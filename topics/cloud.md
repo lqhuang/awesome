@@ -37,12 +37,14 @@
 - [apple/container](https://github.com/apple/container): A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
   - [apple/containerization](https://github.com/apple/containerization): Containerization is a Swift package for running Linux containers on macOS.
   - [gh:socktainer/socktainer](https://github.com/socktainer/socktainer): Docker-compatible REST API on top of Apple container <https://socktainer.github.io>
+  - [gh:wouterdebie/davit](https://github.com/wouterdebie/davit): A native macOS UI for Apple's platform
 - 🌟 [passt](https://passt.top/passt/about/): Plug A Simple Socket Transport
   - passt and pasta unprivileged (rootless) user-mode networking for VMs and containers, replacement for slirp, slirp4netns, libslirp, integrates with qemu, libvirt, Podman, Kata Containers
 - [containerd/nerdbox](https://github.com/containerd/nerdbox): containerd sandbox runtime using vms
 - [gh:rootless-containers/rootlesskit](https://github.com/rootless-containers/rootlesskit): Linux-native "fake root" for implementing rootless containers
 - [gh:apptainer/apptainer](https://github.com/apptainer/apptainer): Apptainer: Application containers for Linux <https://apptainer.org>
   - [gh:DFiantWorks/Scalapptainer](https://github.com/DFiantWorks/Scalapptainer): Scalapptainer: A cross-platform Scala wrapper around Apptainer
+- [gh:NVIDIA/enroot](https://github.com/NVIDIA/enroot): A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
 
 #### Base images
 

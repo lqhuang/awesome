@@ -48,6 +48,7 @@
 - [Merklemap](https://www.merklemap.com/): Search, lookup and find subdomains hidden subdomains: Boost your cybersecurity, validate digital assets, and supercharge your pen testing. Find every subdomain linked to any website.
 - [crt.sh](https://crt.sh/): Certificate Search
 - [gh:yArna/isChinaUser](https://github.com/yArna/isChinaUser): 🇨 Determine current user is a Chinese user. <https://yarna.github.io/isChinaUser/>
+- [Don't kill my app!](https://dontkillmyapp.com/): Hey Android vendors, don't kill my app!
 
 ### Checker
 
@@ -110,3 +111,7 @@ Firefox Only
 Chrome Only
 
 - [Fingerprint Spoofer](https://chromewebstore.google.com/detail/Fingerprint%20Spoofer/facgnnelgcipeopfbjcajpaibhhdjgcp)
+- [Location Guard (V3)](https://chromewebstore.google.com/detail/location-guard-v3/hhnhplojcganfmfimkeboiipphklcbih): Hide your geographic location from websites.
+- [Cloaq - Location Guard & Locale Switcher](https://chromewebstore.google.com/detail/cloaq-location-guard-loca/fcalilbnpkfikdppppppchmkdipibalb): Spoof time zone, geolocation & locale. Match your location data to your VPN's IP address.
+  - [gh:www1z4rd/cloaq](https://github.com/www1z4rd/cloaq): Browser extension to spoof time zone, geolocation & locale.
+- [Spoof Geolocation](https://chromewebstore.google.com/detail/spoof-geolocation/ihdobppgelceaoeojmhpmbnaljhhmhlc): Rewrites the browser's geolocation coordinates (latitude and longitude) to custom values.
