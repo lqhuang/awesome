@@ -616,6 +616,8 @@ Misc
 - 🌟 [gh:raphaelsalaja/audio](https://github.com/raphaelsalaja/audio): Declarative audio synthesis for the web <https://audio.raphaelsalaja.com>
 - [gh:modem-dev/hunk](https://github.com/modem-dev/hunk): Review-first terminal diff viewer for agentic coders
 - [gh:c15t/c15t](https://github.com/c15t/c15t): The Developer-First Cookie Banner <https://c15t.com>
+- [gh:iyiolacak/mood-wheel](https://github.com/iyiolacak/mood-wheel): Tactile five-stop mood wheel and agent question reel extracted from Muzluk <https://www.npmjs.com/package/@muzluk/agent-questions>
+  - Awesome if you don't mind the dependency on pixi.js
 
 #### Editor
 
@@ -648,6 +650,7 @@ Syntax hightlight
 - [Tencent/libpag](https://github.com/Tencent/libpag): The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms. <https://pag.art>
 - [rive-app/rive-react](https://github.com/rive-app/rive-react): React runtime for Rive <https://rive-app.github.io/rive-react>
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web): Render After Effects animations natively on Web, Android and iOS, and React Native. <http://airbnb.io/lottie>
+- [gh:cometkim/ulottie](https://github.com/cometkim/ulottie): AOT compiler to target lightweight Lottie animation for Web <https://ulottie.cometkim.dev>
 - [formkit/auto-animate](https://github.com/formkit/auto-animate): A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. <https://auto-animate.formkit.com>
 - [barbajs/barba](https://github.com/barbajs/barba): Create badass, fluid and smooth transitions between your website’s pages. <https://barba.js.org/>
 - 🌟 [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion): react-magic-motion is a react.js library that ✨ magically animates your components. <https://react-magic-motion.com>
@@ -701,6 +704,8 @@ Concrete animations
 - [gh:pixel-point/animate-text](https://github.com/pixel-point/animate-text): Crafted text animations
 - [gh:raphaelsalaja/calligraph](https://github.com/raphaelsalaja/calligraph): Fluid text transitions powered by Motion. <https://calligraph.raphaelsalaja.com>
 - [gh:takuyajodai/edge-aura](https://github.com/takuyajodai/edge-aura): An organic glow that hugs the edge of your screen — zero-dependency Canvas 2D engine + React adapter <https://edge-aura-xi.vercel.app/>
+- [Softle - Physics native design tool](https://softle.app/): Bend, squish and collide organic shapes for real, instead of faking it by hand with the pen tool. A design tool that does the physics. Coming soon.
+- [gh:Jakubantalik/Libraries](https://github.com/Jakubantalik/Libraries): Collection of effects for React: Border beam, Liquid Gooey <https://beam.jakubantalik.com/>
 
 ## Functional libraries
 
@@ -731,6 +736,11 @@ Concrete animations
 - [marsbos/fluent-state](https://github.com/marsbos/fluent-state): Fluent, reactive & immutable local state management for React.
 - [mutativejs/travels](https://github.com/mutativejs/travels): A fast, framework-agnostic undo/redo core powered by Mutative JSON Patch
 
+### Internationalization (i18n)
+
+- [QuiiBz/next-international](https://github.com/QuiiBz/next-international): Type-safe internationalization (i18n) for Next.js <https://next-international.vercel.app>
+- [gh:aymericzip/intlayer](https://github.com/aymericzip/intlayer): Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually. <https://intlayer.org>
+
 ### Utils
 
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js): A Minimalistic Wrapper for IndexedDB <https://dexie.org>
@@ -740,7 +750,6 @@ Concrete animations
 - [streamich/react-use](https://github.com/streamich/react-use): React Hooks — 👍 <http://streamich.github.io/react-use>
 - 🌟 [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done right. For Browser, SSR, and React Server Components. <https://foxact.skk.moe>
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks): A collection of modern, server-safe React hooks – from the ui.dev team <https://usehooks.com>
-- [QuiiBz/next-international](https://github.com/QuiiBz/next-international): Type-safe internationalization (i18n) for Next.js <https://next-international.vercel.app>
 - [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string. <https://nuqs.47ng.com>
 - [maslianok/react-resize-detector](https://github.com/maslianok/react-resize-detector): A Cross-Browser, Event-based, Element Resize Detection for React <http://maslianok.github.io/react-resize-detector/>
 - [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware): ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes <https://fezvrasta.github.io/react-resize-aware>
@@ -848,6 +857,8 @@ Concrete animations
 - [gh:TanStack/charts](https://github.com/TanStack/charts): A tiny TypeScript visualization grammar for responsive, accessible, server-rendered charts—powered by granular D3 primitives. <https://tanstack.com/charts>
   - a small, framework-agnostic chart grammar for TypeScript and JavaScript.
   - builds on the grammar-of-graphics tradition established by Leland Wilkinson and developed through projects such as ggplot2, Vega-Lite, and Observable Plot.
+- [gh:ganapativs/microcharts](https://github.com/ganapativs/microcharts): Word-sized charts for React, made for LLMs and humans — 106 chart types, zero runtime dependencies, accessible by default, RSC-safe. <https://microcharts.dev>
+  - It might be slop or a one-off project, but the idea is good. Need to keep an eye on this from a broader time frame.
 
 ### Tree / Architecture
 

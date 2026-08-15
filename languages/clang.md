@@ -52,6 +52,7 @@ And modern is here now.
 - [Itanium C++ ABI](https://refspecs.linuxbase.org/cxxabi-1.86.html): no description found
 - [C++ Best Practices | Erik Rigtorp](https://rigtorp.se/cpp-best-practices/): Opinionated C++ one page best practices guide. Adapt according to your project’s requirements.
 - [gh:sandordargo/cpp-resources](https://github.com/sandordargo/cpp-resources): C++ Learning Resources
+- [Table of Content – MC++ BLOG](https://www.modernescpp.com/index.php/table-of-content/): Modernes C++ was created by Rainer Grimm, a renowned C++ expert, author, and instructor. Sadly, Rainer passed away on October 6, 2025. The blog is now maintained by a collective of C++ experts who were close friends of Rainer Grimm and is administratively supported by the Grimm family. Through their efforts, Rainer’s legacy continues, offering a valuable resource for developers and enthusiasts of modern C++. 
 
 ### References
 
@@ -333,6 +334,8 @@ And modern is here now.
 - [gh:yandex/yaff](https://github.com/yandex/yaff): YaFF is a high-performance C++ serialization library that provides a zero-copy wire format for the Protobuf ecosystem.
 - [gh:GNOME/libxml2](https://github.com/GNOME/libxml2): Read-only mirror of https://gitlab.gnome.org/GNOME/libxml2 <https://gitlab.gnome.org/GNOME/libxml2>
 - [gh:zeux/pugixml](https://github.com/zeux/pugixml): Light-weight, simple and fast XML parser for C++ with XPath support <http://pugixml.org/>
+- [gh:libexpat/libexpat](https://github.com/libexpat/libexpat): 🌿 Fast streaming XML parser written in C99 with >90% test coverage; moved from SourceForge to GitHub <https://libexpat.github.io/>
+  - [`libexpat` now funded by the City of Munich for up to 6 months | Hartwork Blog](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
 
 ### String
 

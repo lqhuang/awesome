@@ -92,6 +92,7 @@
 - [adnanh/webhook](https://github.com/adnanh/webhook): webhook is a lightweight incoming webhook server to run shell commands
 - [triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev): ✨ Trigger.dev is an open-source platform that makes it easy for developers to create event-driven background tasks directly in their code. <https://trigger.dev>
 - [backstage/backstage](https://github.com/backstage/backstage): Backstage is an open platform for building developer portals <https://backstage.io>
+  - [Spotify for Backstage | Supercharged developer portals](https://backstage.spotify.com/): Boost developer productivity with Spotify developer tools built for Backstage.io, the open source platform for internal developer portals.
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest): Tracetest - Generate end-to-end tests automatically from your traces. For QA, Dev, & Ops. <https://tracetest.io/>
 - [documenso/documenso](https://github.com/documenso/documenso): Document Signing as it should be - open and shaped by its community. <https://documenso.com>
 - 🌟 [docusealco/docuseal](https://github.com/docusealco/docuseal): Open source DocuSign alternative. Create, fill, and sign digital documents ✍️ <http://www.docuseal.co>
@@ -108,31 +109,6 @@
 - [ConfigCat](https://configcat.com/): ConfigCat is a feature flag service for teams with unlimited seats, awesome support, and a reasonable price tag that takes 10 mins to learn.
 - [Gemfury: Private RubyGems, npm, PyPI, NuGet, Composer & more](https://gemfury.com/): Gemfury is a hosted repository for your public and private packages, where they are safe and within reach.
 - [Cloudsmith: Cloud-Native Artifact Management Platform](https://cloudsmith.com/): A fully-managed, enterprise-scale solution to control, secure, and distribute software packages and containers.
-
-### Pipelines / Workflow
-
-- [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline): A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
-- [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines): A curated list of awesome open source workflow engines
-- [orchest/orchest](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️ <https://orchest.io>
-- 🌟 [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services. <https://n8n.io>
-  - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows): all of the workflows of n8n i could find (also from the site itself)
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): The easiest way to automate your data <https://prefect.io>
-- 🌟 [dagster-io/dagster](https://github.com/dagster-io/dagster): An orchestration platform for the development, production, and observation of data assets. <https://dagster.io>
-- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai): 🧙 A modern replacement for Airflow. <https://www.mage.ai>
-- [temporalio/temporal](https://github.com/temporalio/temporal): Temporal service <https://docs.temporal.io>
-- [ploomber/ploomber](https://github.com/ploomber/ploomber): The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️ <https://ploomber.io>
-- lightweight
-  - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle): A simple, distributed task scheduler and runner with a web based UI. <http://.net>
-  - [dagu-dev/dagu](https://github.com/dagu-dev/dagu): Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. <https://dagu.readthedocs.io>
-- 🌟 [windmill-labs/windmill](https://github.com/windmill-labs/windmill): Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool. <https://windmill.dev>
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet): A distributed, fault-tolerant task queue <https://hatchet.run>
-- [encoredev/encore](https://github.com/encoredev/encore): Encore is the Backend Development Platform for building distributed systems and event-driven applications. <https://encore.dev>
-- [Netflix/maestro](https://github.com/Netflix/maestro): Maestro: Netflix’s Workflow Orchestrator
-- [kestra-io/kestra](https://github.com/kestra-io/kestra): ⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... <https://kestra.io>
-- [activepieces/activepieces](https://github.com/activepieces/activepieces): Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative <https://www.activepieces.com>
-- [inngest/inngest](https://github.com/inngest/inngest): The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge. <https://www.inngest.com/docs>
-- [flyteorg/flyte](https://github.com/flyteorg/flyte): Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. <https://flyte.org>
-  - from uber
 
 ### HPC Cluster manager / Job Scheduler
 
@@ -254,6 +230,7 @@ Visual stack
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit): Cloud-native search engine for log management & analytics <https://quickwit.io>
 - [paradedb/paradedb](https://github.com/paradedb/paradedb): Postgres for Search and Analytics <https://paradedb.com>
 - [logdyhq/logdy-core](https://github.com/logdyhq/logdy-core): Web based real-time log viewer. Stream ANY content to a web UI with autogenerated filters. Parse any format with TypeScript. <https://logdy.dev>
+- [gh:mr-karan/logchef](https://github.com/mr-karan/logchef): Lightweight, single-binary log analytics interface for ClickHouse, focused on high-performance querying and visualization <https://logchef.app/>
 
 ## Short links
 
@@ -332,3 +309,4 @@ Visual stack
 - [getlago/lago](https://github.com/getlago/lago): Open Source Metering and Usage Based Billing <https://www.getlago.com>
 - [midday-ai/midday](https://github.com/midday-ai/midday): Run your business smarter 🪄 <https://midday.ai>
   - [midday-ai/v1](https://github.com/midday-ai/v1): An open-source starter kit based on Midday. <https://v1.run>
+- [gh:OpenBankProject/OBP-API](https://github.com/OpenBankProject/OBP-API): An open source RESTful API platform for banks that supports Open Banking, XS2A, PSD2 and Open Finance through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of internal banking and management APIs. <https://www.openbankproject.com/>

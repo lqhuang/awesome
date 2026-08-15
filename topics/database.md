@@ -265,6 +265,7 @@ Misc
 - [oldmoe/heistogram_sqlite](https://github.com/oldmoe/heistogram_sqlite): The Heistogram quantile approximation library as a SQLite extension
 - [oldmoe/roaringlite](https://github.com/oldmoe/roaringlite): Roaring Bitmaps extension for SQLite
 - [vectorlitedb/vectorlitedb](https://github.com/vectorlitedb/vectorlitedb): The SQLite for vector embeddings — A simple, embedded vector database that stores everything in a single file.
+- [gh:phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd): Transparent dictionary-based row-level compression for SQLite
 
 ### DuckDB
 

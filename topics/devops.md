@@ -656,6 +656,7 @@ Archived or outdated but still useful
 - [gh:reproducible-containers/buildkit-cache-dance](https://github.com/reproducible-containers/buildkit-cache-dance): Save `RUN --mount=type=cache` caches on GitHub Actions (Forked from https://github.com/overmindtech/buildkit-cache-dance)
 - [gh:lfreleng-actions/go-httpbin-action](https://github.com/lfreleng-actions/go-httpbin-action): Creates a go-httpbin service within GitHub to act as a local testing endpoint
 - [gh:zizmorcore/zizmor](https://github.com/zizmorcore/zizmor): Static analysis for GitHub Actions <http://docs.zizmor.sh/>
+- [gh:tcnksm/ghr](https://github.com/tcnksm/ghr): Upload multiple artifacts to GitHub Release in parallel <http://tcnksm.github.io/ghr/>
 
 ### GitHub Action Runner
 

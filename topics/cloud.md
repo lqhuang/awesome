@@ -45,6 +45,8 @@
 - [gh:apptainer/apptainer](https://github.com/apptainer/apptainer): Apptainer: Application containers for Linux <https://apptainer.org>
   - [gh:DFiantWorks/Scalapptainer](https://github.com/DFiantWorks/Scalapptainer): Scalapptainer: A cross-platform Scala wrapper around Apptainer
 - [gh:NVIDIA/enroot](https://github.com/NVIDIA/enroot): A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.
+- [Docker Sandboxes | Sandboxes for Coding Agents | Docker](https://www.docker.com/products/docker-sandboxes/): Secure sandboxes for Claude Code, Gemini, Codex, and Kiro. Run coding agents with microVM-based isolation.
+  - not open source yet?
 
 #### Base images
 

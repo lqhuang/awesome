@@ -181,6 +181,9 @@ Specific
   - [tinylibs/tinypool](https://github.com/tinylibs/tinypool): 🧵 A minimal and tiny Node.js Worker Thread Pool implementation (38KB) <https://npmjs.com/package/tinypool>
   - [tinylibs/tinyexec](https://github.com/tinylibs/tinyexec): 📟 A tiny, higher level interface around child_process
 - [lukeed/empathic](https://github.com/lukeed/empathic): A set of small Node.js utilities to understand your pathing needs.
+- [gh:sveltejs/devalue](https://github.com/sveltejs/devalue): Gets the job done when JSON.stringify can't <https://svelte.dev/repl/138d70def7a748ce9eda736ef1c71239>
+- 🌟 [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff): A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
+  - [How I Built the Fastest JavaScript Data Differ | Jacob](https://byteofdev.com/posts/microdiff/): How I built Microdiff and how it is faster than most other object and array diffing libraries
 
 ### Parser
 
@@ -537,7 +540,6 @@ xml
 - [sindresorhus/pretty-ms](https://github.com/sindresorhus/pretty-ms): Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`
 - [sindresorhus/pretty-bytes](https://github.com/sindresorhus/pretty-bytes): Convert bytes to a human readable string: 1337 → 1.34 kB
 - [kpdecker/jsdiff](https://github.com/kpdecker/jsdiff): A javascript text differencing implementation.
-- [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff): A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - 🌟 [image-js/iobuffer](https://github.com/image-js/iobuffer): Read and write binary data in ArrayBuffers <https://image-js.github.io/iobuffer/>
 - [josdejong/mathjs](https://github.com/josdejong/mathjs): An extensive math library for JavaScript and Node.js <https://mathjs.org>
 - [shuding/legid](https://github.com/shuding/legid): A library for generating safe, legit and random URL-compat IDs.

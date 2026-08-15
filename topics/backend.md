@@ -68,6 +68,32 @@
 - [lnx-search/rewrk](https://github.com/lnx-search/rewrk): A more modern http framework benchmarker supporting HTTP/1 and HTTP/2 benchmarks.
 - [hatoo/oha](https://github.com/hatoo/oha): Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 
+### Pipelines / Workflow
+
+- [pditommaso/awesome-pipeline](https://github.com/pditommaso/awesome-pipeline): A curated list of awesome pipeline toolkits inspired by Awesome Sysadmin
+- [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines): A curated list of awesome open source workflow engines
+- [orchest/orchest](https://github.com/orchest/orchest): Build data pipelines, the easy way 🛠️ <https://orchest.io>
+- 🌟 [n8n-io/n8n](https://github.com/n8n-io/n8n): Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services. <https://n8n.io>
+  - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows): all of the workflows of n8n i could find (also from the site itself)
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect): The easiest way to automate your data <https://prefect.io>
+- 🌟 [dagster-io/dagster](https://github.com/dagster-io/dagster): An orchestration platform for the development, production, and observation of data assets. <https://dagster.io>
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai): 🧙 A modern replacement for Airflow. <https://www.mage.ai>
+- [temporalio/temporal](https://github.com/temporalio/temporal): Temporal service <https://docs.temporal.io>
+- [ploomber/ploomber](https://github.com/ploomber/ploomber): The fastest ⚡️ way to build data pipelines. Develop iteratively, deploy anywhere. ☁️ <https://ploomber.io>
+- lightweight
+  - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle): A simple, distributed task scheduler and runner with a web based UI. <http://.net>
+  - [dagu-dev/dagu](https://github.com/dagu-dev/dagu): Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. <https://dagu.readthedocs.io>
+- 🌟 [windmill-labs/windmill](https://github.com/windmill-labs/windmill): Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool. <https://windmill.dev>
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet): A distributed, fault-tolerant task queue <https://hatchet.run>
+- [encoredev/encore](https://github.com/encoredev/encore): Encore is the Backend Development Platform for building distributed systems and event-driven applications. <https://encore.dev>
+- [Netflix/maestro](https://github.com/Netflix/maestro): Maestro: Netflix’s Workflow Orchestrator
+- [kestra-io/kestra](https://github.com/kestra-io/kestra): ⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow... <https://kestra.io>
+- [activepieces/activepieces](https://github.com/activepieces/activepieces): Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative <https://www.activepieces.com>
+- [inngest/inngest](https://github.com/inngest/inngest): The leading workflow orchestration platform. Run stateful step functions and AI workflows on serverless, servers, or the edge. <https://www.inngest.com/docs>
+- [flyteorg/flyte](https://github.com/flyteorg/flyte): Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. <https://flyte.org>
+  - from uber
+- [gh:uber/submitqueue](https://github.com/uber/submitqueue): SubmitQueue is a high-performance speculative merge queue that keeps your trunk consistently green at scale.
+
 ## Middleware
 
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike): ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer <https://chiselstrike.com/>

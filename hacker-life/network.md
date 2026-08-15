@@ -213,6 +213,7 @@
 - [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock): Matchlock secures AI agent workloads with a Linux-based sandbox.
 - [gh:vercel-labs/portless](https://github.com/vercel-labs/portless): Replace port numbers with stable, named .localhost URLs. For humans and agents. <https://port1355.dev>
 - [gh:NodePassProject/Nowhere](https://github.com/NodePassProject/Nowhere): Split-direction TLS / QUIC relay in Rust <https://nowhere.stdco.de>
+- [gh:hrimfaxi/tutuicmptunnel](https://github.com/hrimfaxi/tutuicmptunnel): A BPF-based, zero-MTU-overhead UDP-to-ICMP protocol morpher for hostile networks that discriminate against UDP.
 
 ### Warp
 
@@ -337,3 +338,6 @@ STUN / TURN / ICE
 - [Net.Coffee](https://ip.net.coffee/): 查询本机 IP 地址及归属地，测试 VPN 和代理的分流规则是否生效。
 - [DNS Gurus](https://dnsgurus.com/): Free DNS lookup tool to check DNS records for any domain. View A, AAAA, MX, TXT, NS, SOA, CNAME records and more. Fast and reliable DNS checker.
 - [Network Test · 网络延迟与速度测试](https://nt.u1.pw/): 一个用于测试网络延迟与下载速度的前端工具。
+- snippets with speed.cloudfalre.com
+  - `curl -o /dev/null https://speed.cloudflare.com/__down\?bytes=100000000000000 -e speed.cloudflare.com`
+  - `curl.exe https://speed.cloudflare.com/__down\?bytes=100000000000000 -e speed.cloudflare.com`

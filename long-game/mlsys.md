@@ -280,6 +280,9 @@ General problems
 - [pytorch/helion](https://github.com/pytorch/helion): A Python-embedded DSL that makes it easy to write fast, scalable ML kernels with minimal boilerplate.
 - [gh:NVlabs/SOLAR](https://github.com/NVlabs/SOLAR): Speed of Light Analysis for ML Model Runtime
 - [gh:anysphere/kernel-optimization-results](https://github.com/anysphere/kernel-optimization-results): Multi-Agent CUDA Kernel Optimizations
+- [gh:tilde-research/popcorn](https://github.com/tilde-research/popcorn): A high performance development and dispatch library for high-performance machine learning kernels. <https://tilde-research.github.io/popcorn/>
+- [gh:cursor/mixture-of-kittens](https://github.com/cursor/mixture-of-kittens): Mixture-of-experts (MoE) training megakernel for NVL72s <https://cursor.com/blog/mixture-of-kittens>
+- [gh:google/tpu-raiden](https://github.com/google/tpu-raiden)
 
 ### XLA / MLIR
 

@@ -28,6 +28,7 @@
 - [gh:FiloSottile/age](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. <https://age-encryption.org>
 - [gh:jedisct1/encpipe](https://github.com/jedisct1/encpipe): The dum^H^H^Hsimplest encryption tool in the world.
 - 🌟 [gh:python-trio/trustme](https://github.com/python-trio/trustme): #1 quality TLS certs while you wait, for the discerning tester <https://trustme.rtfd.io>
+- [gh:veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt): Disk encryption with strong security based on TrueCrypt <https://veracrypt.jp>
 
 ## Libraries
 

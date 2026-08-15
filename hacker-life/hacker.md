@@ -237,6 +237,7 @@
 - [hywax/mafl](https://github.com/hywax/mafl): Minimalistic flexible homepage <https://mafl.hywax.space>
 - [mult1v4c/hestia-core](https://github.com/mult1v4c/hestia-core): A grid-based, modular dashboard built entirely from HTML, CSS, and JS with the ability to create your custom API integrations.
 - [refact0r/re-start](https://github.com/refact0r/re-start): a tui-style browser startpage <https://refact0r.github.io/re-start/>
+- [gh:kodehat/portkey](https://github.com/kodehat/portkey): A simple web portal that can act as startup page and shows a collection of links/urls. Also supports adding custom pages. Everything with one config file. <https://demo.portkey.page>
 
 ### Backup
 

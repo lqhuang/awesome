@@ -97,6 +97,10 @@
 - 🌟 [gh:microsoft/coreutils](https://github.com/microsoft/coreutils): Coreutils for Windows: Installer & Packaging
 - [gh:chenshuo/txt2png](https://github.com/chenshuo/txt2png): txt2png — Knuth-Plass line-breaking & text-to-PNG renderer
 - 🌟 [gh:schollz/croc](https://github.com/schollz/croc): Easily and securely send things from one computer to another 🐊 📦 <https://schollz.com/software/croc6>
+  - [croc — fast, simple, secure file transfer](https://getcroc.com/)
+  - 🌟 [36 Ways to Send a File: croc and 35 Alternatives](https://getcroc.com/blog/compare-file-transfer-tools)
+- [gh:schollz/e2ecp](https://github.com/schollz/e2ecp): End-to-end encrypted copy file tool <https://e2ecp.com>
+  - [e2ecp](https://e2ecp.com/)
 - 🌟 [gh:ctxrs/ctx](https://github.com/ctxrs/ctx): Search the coding agent history already on your machine <https://ctx.rs>
 
 ### SSH

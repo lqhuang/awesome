@@ -508,6 +508,7 @@ NextCloud is crazily BIG now, so I will say no here.
 
 ### Email
 
+- [You should self-host your mail server](https://blog.haschek.at/2026/you-should-selfhost-your-mail.html)
 - [srht:bitfehler/m2dir](https://sr.ht/~bitfehler/m2dir/): M2dir aims to provide a standardized way to store a collection of email messages as files. It is similar to Maildir/Maildir++, but aims to be simpler and more thoroughly specified.
   - [M2dir: treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized): mailcow: dockerized - 🐮 + 🐋 = 💕 <https://mailcow.email/>
