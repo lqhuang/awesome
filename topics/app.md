@@ -68,6 +68,8 @@ Direct GUI
   - Strict CSS styling provides a battle-tested, predictable, optimized way to encapsulate component styles on both web and native. On the web this is powered by StyleX.
   - Not mature, but promising.
 - 🌟 [gh:mrousavy/nitro](https://github.com/mrousavy/nitro): 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI <https://nitro.margelo.com>
+- [Dactyl — build a real app by describing it](https://dactyl.dev/): Describe an app, watch it build live in your browser, then install it on your iPhone, iPad, or Android phone. Ship to TestFlight and the App Store. No Mac, no Xcode.
+  - I hope to know could I download the whole project to local 🤔
 
 ### Libs
 

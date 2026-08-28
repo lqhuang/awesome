@@ -131,6 +131,8 @@
   - not oss project
 - [LibreQoE/LibreQoS](https://github.com/LibreQoE/LibreQoS): A Quality of Experience and Smart Queue Management system for ISPs. Leverage CAKE to improve network responsiveness, enforce bandwidth plans, and reduce bufferbloat. <https://libreqos.io/>
 - [gh:Kookiejarz/Auto_XDP](https://github.com/Kookiejarz/Auto_XDP): Auto-sync listening ports into XDP/nftables, preserve return traffic, keep host protection alive with fallback. Zero-config, maximum protection. <https://liuu.org/posts/ddos/>
+- 📖 [gh:foru17/neko-master](https://github.com/foru17/neko-master): A modern and elegant dashboard for network traffic visualization and analysis.
+  - good to learn
 
 ## SDN and network simulation
 
@@ -341,3 +343,4 @@ STUN / TURN / ICE
 - snippets with speed.cloudfalre.com
   - `curl -o /dev/null https://speed.cloudflare.com/__down\?bytes=100000000000000 -e speed.cloudflare.com`
   - `curl.exe https://speed.cloudflare.com/__down\?bytes=100000000000000 -e speed.cloudflare.com`
+- [Instant Domain Reputation Lookup | Identify Risky Domains](https://www.ipqualityscore.com/domain-reputation/): Perform a free domain reputation test to detect suspicious or compromised domains and access powerful risk insights with IPQS domain reputation API.

@@ -104,7 +104,6 @@
 - 🌟 [ninja-build/ninja](https://github.com/ninja-build/ninja): a small build system with a focus on speed <https://ninja-build.org>
   - [buntec/ninja-so-fancy](https://github.com/buntec/ninja-so-fancy): ninja build output for humans
 - [michaelforney/samurai](https://github.com/michaelforney/samurai): ninja-compatible build tool written in C
-- [tweag/jupyenv](https://github.com/tweag/jupyenv): Declarative and reproducible Jupyter environments - powered by Nix <https://jupyenv.io>
 - [gn/gn](https://gn.googlesource.com/gn/): GN is a meta-build system that generates build files for Ninja.
   - [GN Quick Start Guide](https://gn.googlesource.com/gn/+/main/docs/quick_start.md)
   - [Using GN build -- Artisanal metabuild](https://docs.google.com/presentation/d/15Zwb53JcncHfEwHpnG_PoIbbzQ3GQi_cpujYwbpcbZo/)
@@ -144,30 +143,19 @@
 
 - [bazelbuild/bazel](https://github.com/bazelbuild/bazel): a fast, scalable, multi-language and extensible build system <https://bazel.build>
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk): A user-friendly launcher for Bazel.
+- [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib): Common useful functions and rules for Bazel <https://bazel.build/>
+  - [bcr:bazel_skylib](https://registry.bazel.build/modules/bazel_skylib)
 - [bazelbuild/bazel-central-registry](https://github.com/bazelbuild/bazel-central-registry): The central registry of Bazel modules for the Bzlmod external dependency system. <https://registry.bazel.build>
-- [bazelbuild/rules_nodejs](https://github.com/bazelbuild/rules_nodejs): NodeJS toolchain for Bazel. <https://bazelbuild.github.io/rules_nodejs/>
-  - [bcr:rules_nodejs](https://registry.bazel.build/modules/rules_nodejs)
-- [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust): Rust rules for Bazel <https://bazelbuild.github.io/rules_rust/>
-- [bazelbuild/rules_proto](https://github.com/bazelbuild/rules_proto): Protocol buffer rules for Bazel
-- [aspect-build/toolchains_protoc](https://github.com/aspect-build/toolchains_protoc): EXPERIMENTAL: Pre-built protoc binary toolchain for Bazel, fetched from official protobuf releases
-- [tweag/rules_haskell](https://github.com/tweag/rules_haskell): Haskell rules for Bazel. <https://haskell.build>
-  - [bcr:rules_haskell](https://registry.bazel.build/modules/rules_haskell)
-  - [Adventures in uncertainty: Bazel, Haskell, and Build-System Joy ](https://blog.sumtypeofway.com/posts/bazel-haskell-build-system-joy.html)
-- [tweag/rules_nixpkgs](https://github.com/tweag/rules_nixpkgs): Rules for importing Nixpkgs packages into Bazel. <https://nix-bazel.build/>
-  - [Bazel and Nix: A Migration Experience](https://www.tweag.io/blog/2022-12-15-bazel-nix-migration-experience/)
-- [tweag/credential-helper](https://github.com/tweag/credential-helper): A credential-helper framework and agent for Bazel and similar tools implementing the credential-helper spec. <https://registry.bazel.build/modules/tweag-credential-helper>
+- [bazel-contrib/supply-chain](https://github.com/bazel-contrib/supply-chain): This repository contains Bazel modules for injecting and collecting supply-chain metadata into builds.
+  - [bcr:supply-chain-go](https://registry.bazel.build/modules/supply-chain-go)
+- [bazel-contrib/bazelrc-preset.bzl](https://github.com/bazel-contrib/bazelrc-preset.bzl): Convenience for setting groups of related Bazel flags
 - [JetBrains/hirschgarten](https://github.com/JetBrains/hirschgarten): A new approach to Bazel support for IntelliJ IDEA <https://youtrack.jetbrains.com/issues/BAZEL>
 - 🌟 [scasagrande/bazel-examples](https://github.com/scasagrande/bazel-examples): A collection of code examples related to the Bazel ecosystem
 - [NVIDIA/bluebazel](https://github.com/NVIDIA/bluebazel): Blue Bazel: A vscode extension for bazel building, running, and testing with UI
 - [salesforce-misc/bazelrc-lsp](https://github.com/salesforce-misc/bazelrc-lsp): bazelrc Language Server
-- [bazel-contrib/bazelrc-preset.bzl](https://github.com/bazel-contrib/bazelrc-preset.bzl): Convenience for setting groups of related Bazel flags
-- [Tinder/bazel-diff](https://github.com/Tinder/bazel-diff): Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
-- [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator): Determines which Bazel targets were affected between two git commits.
-- [bazeltools/bazelfe](https://github.com/bazeltools/bazelfe): Set of tools to handle errors/work with bazel invocations
-- [bazeltools/bazel-deps](https://github.com/bazeltools/bazel-deps): Generate bazel dependencies for maven artifacts
-- 🌟 [gh:EngFlow/bazel_invocation_analyzer](https://github.com/EngFlow/bazel_invocation_analyzer): A tool that automatically analyzes a Bazel build's profile and offers suggestions on how to make it faster. <https://analyzer.engflow.com>
-- [gh:aspect-build/rules_lint](https://github.com/aspect-build/rules_lint): Run static analysis tools with Bazel <https://registry.bazel.build/docs/aspect_rules_lint>
-  - multiple langs
+- [gh:trunk-io/bazel-action](https://github.com/trunk-io/bazel-action): A GitHub Action for computing, uploading, and testing bazel impacted targets
+
+#### Rules
 
 gazelle
 
@@ -179,9 +167,11 @@ gazelle
 - [EngFlow/gazelle_cc](https://github.com/EngFlow/gazelle_cc): Public repository for the Gazelle C++ extension
   - [bcr:gazelle_cc](https://registry.bazel.build/modules/gazelle_cc)
 - [OliverFM/pytorch_with_gazelle](https://github.com/OliverFM/pytorch_with_gazelle): No description, website, or topics provided.
+- [gh:hermeticbuild/gazelle_ts](https://github.com/hermeticbuild/gazelle_ts): Bazel build setup, a Gazelle TypeScript language extension, and the Rust import-extractor that powers it (linked in via cgo).
 
 OS
 
+- [gh:hermeticbuild/linux.bzl](https://github.com/hermeticbuild/linux.bzl): Customize Linux kernel builds, from source.
 - [lukasoyen/bazel_linux_packages](https://github.com/lukasoyen/bazel_linux_packages): Bazel Extension for downloading and extracting Debian/Ubuntu packages.
 - [shabanzd/debian_dependency_bazelizer](https://github.com/shabanzd/debian_dependency_bazelizer): A tool to turn the debian dependency graph into bazel modules
 - [tweag/rules_sh](https://github.com/tweag/rules_sh): Shell rules for Bazel
@@ -204,7 +194,7 @@ CC
   - [bcr:wolfd_bazel_compile_commands](https://registry.bazel.build/modules/wolfd_bazel_compile_commands)
 - [kiron1/bazel-compile-commands](https://github.com/kiron1/bazel-compile-commands): Generate a `compile_commands.json` from a Bazel workspace
 - [rizsotto/Bear](https://github.com/rizsotto/Bear): Bear is a tool that generates a compilation database for clang tooling.
-- [keith/bazel-cc-sysroot-generator](https://github.com/keith/bazel-cc-sysroot-generator): Create hermetic CC sysroots for use with bazel
+- [gh:keith/bazel-cc-sysroot-generator](https://github.com/keith/bazel-cc-sysroot-generator): Create hermetic CC sysroots for use with bazel
 - [gh:lorenz/winsysroot](https://github.com/lorenz/winsysroot): Automatically assemble Windows Sysroots directly from Microsoft sources
 - [MaterializeInc/toolchains](https://github.com/MaterializeInc/toolchains): Bazel compatible C and Rust toolchains, used for building Materialize
 
@@ -227,7 +217,8 @@ Python
 - [bazel-contrib/rules_mypy](https://github.com/bazel-contrib/rules_mypy): a Bazel mypy aspect
 - [abrisco/rules_pyo3](https://github.com/abrisco/rules_pyo3): Bazel rules for PyO3 <https://abrisco.github.io/rules_pyo3/>
   - [liningpan/pyo3-bazel-example](https://github.com/liningpan/pyo3-bazel-example)
-- [nicholasjng/nanobind-bazel](https://github.com/nicholasjng/nanobind-bazel): Bazel defs and rules for building Python projects with nanobind extensions.
+- [gh:nicholasjng/nanobind-bazel](https://github.com/nicholasjng/nanobind-bazel): Bazel defs and rules for building Python projects with nanobind extensions.
+- [gh:jvolkman/rules_pycross](https://github.com/jvolkman/rules_pycross): Bazel + Python rules for cross-platform external dependencies
 
 JavaScript / Nodejs
 
@@ -257,6 +248,7 @@ Toolchains
 - [bcr:llvm-project](https://registry.bazel.build/modules/llvm-project)
 - [bazel-contrib/toolchains_llvm](https://github.com/bazel-contrib/toolchains_llvm): LLVM toolchain for bazel
   - [bcr:toolchains_llvm](https://registry.bazel.build/modules/toolchains_llvm)
+- [gh:bazel-contrib/musl-toolchain](https://github.com/bazel-contrib/musl-toolchain): `musl_toolchain` provides a `cc_toolchain` implementation for Bazel.
 - [gitlab.arm.com/bazel/toolchain_utils](https://gitlab.arm.com/bazel/toolchain_utils): A Bazel ruleset to enable concise toolchain registration.
   - [bcr:toolchain_utils](https://registry.bazel.build/modules/toolchain_utils)
 - [bazel-contrib/musl-toolchain](https://github.com/bazel-contrib/musl-toolchain): No description, website, or topics provided.
@@ -269,6 +261,12 @@ Toolchains
 - [CACI-International/cpp-toolchain](https://github.com/CACI-International/cpp-toolchain): A portable C++ (cross-)compiler toolchain
   - [bcr:portable_cc_toolchain](https://registry.bazel.build/modules/portable_cc_toolchain): no description found
 - [dzbarsky/static-clang](https://github.com/dzbarsky/static-clang): Statically-linked clang distribution. Uses musl libc on Linux and only depends on libSystem on OSX
+- [bazelbuild/rules_rust](https://github.com/bazelbuild/rules_rust): Rust rules for Bazel <https://bazelbuild.github.io/rules_rust/>
+- [bazelbuild/rules_proto](https://github.com/bazelbuild/rules_proto): Protocol buffer rules for Bazel
+- [aspect-build/toolchains_protoc](https://github.com/aspect-build/toolchains_protoc): EXPERIMENTAL: Pre-built protoc binary toolchain for Bazel, fetched from official protobuf releases
+- [gh:hermeticbuild/hermetic-llvm](https://github.com/hermeticbuild/hermetic-llvm): A zero sysroot, fully hermetic C/C++ cross compilation toolchain for Bazel based on LLVM.
+- [gh:hermeticbuild/rust-redist](https://github.com/hermeticbuild/rust-redist): Official Rust toolchain archives redistributed with maximum Zstandard compression
+- [gh:hermeticbuild/cuda-toolkit](https://github.com/hermeticbuild/cuda-toolkit): Hermetic CUDA Toolkit using Bazel
 
 Cloud
 
@@ -282,22 +280,15 @@ Cloud
   - [bcr:rules_wasm](https://registry.bazel.build/modules/rules_wasm)
 - [ekhabarov/bazel-k8s-envoy](https://github.com/ekhabarov/bazel-k8s-envoy): Demo: build gRPC micoservices with Bazel and deploy them to k8s <https://ekhabarov.com/envoy>
 
-Build cache
+Misc
 
-- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink): NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and specialized hardware. <https://nativelink.com>
-
-Utils
-
-- [bazel-contrib/supply-chain](https://github.com/bazel-contrib/supply-chain): This repository contains Bazel modules for injecting and collecting supply-chain metadata into builds.
-  - [bcr:supply-chain-go](https://registry.bazel.build/modules/supply-chain-go)
-- [bazelbuild/bazel-skylib](https://github.com/bazelbuild/bazel-skylib): Common useful functions and rules for Bazel <https://bazel.build/>
-  - [bcr:bazel_skylib](https://registry.bazel.build/modules/bazel_skylib)
-- [buildbuddy-io/bazel_env.bzl](https://github.com/buildbuddy-io/bazel_env.bzl): A virtual environment for Bazel-managed tools and toolchains.
-  - [bcr:bazel_env.bzl](https://registry.bazel.build/modules/bazel_env.bzl)
-- [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts): Lightweight C++ command line option parser
-  - [bcr:cxxopts](https://registry.bazel.build/modules/cxxopts)
-- [bazel-contrib/bazel_features](https://github.com/bazel-contrib/bazel_features): Support Bazel "feature detection" from starlark <https://docs.google.com/document/d/1HJf3gMYIrzmTRqbD4nWXH2eJRHXjLrOU0mmIeZplUzY/edit#heading=h.5mcn15i0e1ch> Others
-  - [bcr:bazel_features](https://registry.bazel.build/modules/bazel_features)
+- [tweag/rules_haskell](https://github.com/tweag/rules_haskell): Haskell rules for Bazel. <https://haskell.build>
+  - [bcr:rules_haskell](https://registry.bazel.build/modules/rules_haskell)
+  - [Adventures in uncertainty: Bazel, Haskell, and Build-System Joy ](https://blog.sumtypeofway.com/posts/bazel-haskell-build-system-joy.html)
+- [tweag/rules_nixpkgs](https://github.com/tweag/rules_nixpkgs): Rules for importing Nixpkgs packages into Bazel. <https://nix-bazel.build/>
+  - [Bazel and Nix: A Migration Experience](https://www.tweag.io/blog/2022-12-15-bazel-nix-migration-experience/)
+- [gh:aspect-build/rules_lint](https://github.com/aspect-build/rules_lint): Run static analysis tools with Bazel <https://registry.bazel.build/docs/aspect_rules_lint>
+  - multiple langs
 - [gitlab.arm.com/bazel/rules_curl](https://gitlab.arm.com/bazel/rules_curl): A Bazel ruleset for performing operations with cURL
   - [bcr:rules_curl](https://registry.bazel.build/modules/rules_curl)
 - [bazel-contrib/rules_fuzzing](https://github.com/bazel-contrib/rules_fuzzing): Bazel Starlark extensions for defining fuzz tests in Bazel projects
@@ -306,12 +297,6 @@ Utils
   - [bcr:rules_jsonnet](https://registry.bazel.build/modules/rules_jsonnet)
 - [aignas/rules_shellcheck](https://github.com/aignas/rules_shellcheck): Run shellcheck as part of your bazel tests.
   - [bcr:rules_shellcheck](https://registry.bazel.build/modules/rules_shellcheck)
-- [bazel-contrib/tar.bzl](https://github.com/bazel-contrib/tar.bzl): Bazel rule wrapping the BSD tar executable from libarchive <https://registry.build/github/bazel-contrib/tar.bzl>
-  - [bcr:tar.bzl](https://registry.bazel.build/modules/tar.bzl)
-- [zaucy/bzlws](https://github.com/zaucy/bzlws): Bazel rules for interacting with bazel build artifacts and bringing them into your workspace
-  - [bcr:bzlws](https://registry.bazel.build/modules/bzlws)
-- 🌟 [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy): BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. <https://buildbuddy.io>
-- [tweag/skyscope](https://github.com/tweag/skyscope): A tool for visualising and exploring Bazel Skyframe graphs.
 
 Fastlink for my own projects
 
@@ -337,6 +322,30 @@ Fastlink for my own projects
 - [bcr:tcmalloc](https://registry.bazel.build/modules/tcmalloc)
 - [bcr:z3](https://registry.bazel.build/modules/z3).
 - [bcr:zstd](https://registry.bazel.build/modules/zstd)
+
+#### Tools
+
+- 🌟 [gh:EngFlow/bazel_invocation_analyzer](https://github.com/EngFlow/bazel_invocation_analyzer): A tool that automatically analyzes a Bazel build's profile and offers suggestions on how to make it faster. <https://analyzer.engflow.com>
+- [bazel-contrib/target-determinator](https://github.com/bazel-contrib/target-determinator): Determines which Bazel targets were affected between two git commits.
+- [bazeltools/bazelfe](https://github.com/bazeltools/bazelfe): Set of tools to handle errors/work with bazel invocations
+- [bazeltools/bazel-deps](https://github.com/bazeltools/bazel-deps): Generate bazel dependencies for maven artifacts
+- [Tinder/bazel-diff](https://github.com/Tinder/bazel-diff): Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
+- [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts): Lightweight C++ command line option parser
+  - [bcr:cxxopts](https://registry.bazel.build/modules/cxxopts)
+- [bazel-contrib/bazel_features](https://github.com/bazel-contrib/bazel_features): Support Bazel "feature detection" from starlark <https://docs.google.com/document/d/1HJf3gMYIrzmTRqbD4nWXH2eJRHXjLrOU0mmIeZplUzY/edit#heading=h.5mcn15i0e1ch> Others
+  - [bcr:bazel_features](https://registry.bazel.build/modules/bazel_features)
+- [bazel-contrib/tar.bzl](https://github.com/bazel-contrib/tar.bzl): Bazel rule wrapping the BSD tar executable from libarchive <https://registry.build/github/bazel-contrib/tar.bzl>
+  - [bcr:tar.bzl](https://registry.bazel.build/modules/tar.bzl)
+- [zaucy/bzlws](https://github.com/zaucy/bzlws): Bazel rules for interacting with bazel build artifacts and bringing them into your workspace
+  - [bcr:bzlws](https://registry.bazel.build/modules/bzlws)
+- 🌟 [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy): BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. <https://buildbuddy.io>
+- [buildbuddy-io/bazel_env.bzl](https://github.com/buildbuddy-io/bazel_env.bzl): A virtual environment for Bazel-managed tools and toolchains.
+  - [bcr:bazel_env.bzl](https://registry.bazel.build/modules/bazel_env.bzl)
+- [gh:tweag/skyscope](https://github.com/tweag/skyscope): A tool for visualising and exploring Bazel Skyframe graphs.
+- [gh:tweag/credential-helper](https://github.com/tweag/credential-helper): A credential-helper framework and agent for Bazel and similar tools implementing the credential-helper spec. <https://registry.bazel.build/modules/tweag-credential-helper>
+- [gh:mrkkrp/ahab](https://github.com/mrkkrp/ahab): Advanced hermeticity analyzer for Bazel
+- [gh:buchgr/bazel-remote](https://github.com/buchgr/bazel-remote): A remote cache for Bazel <https://bazel.build>
+- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink): NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and specialized hardware. <https://nativelink.com>
 
 ### Nix
 

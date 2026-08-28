@@ -87,6 +87,13 @@
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice): Powerful menu bar manager for macOS <https://icemenubar.app>
 - iStatistica
 
+### Physical Display Monitor
+
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more! <https://betterdisplay.pro>
+- [alin23/Lunar](https://github.com/alin23/Lunar): Intelligent adaptive brightness for your external monitors <https://lunar.fyi>
+- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl): 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. <https://monitorcontrol.app/>
+- [gh:didriksg/Crisp](https://github.com/didriksg/Crisp): Free, open-source external monitor control for macOS: a lightweight menu bar app with sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness, presets, and virtual displays. A free alternative to BetterDisplay and Lunar, including features they charge for. <http://crispmac.app/>
+
 ### Open Source
 
 - [dsully/macos-defaults](https://github.com/dsully/macos-defaults): A tool for managing macOS defaults declaratively via YAML files.
@@ -96,7 +103,6 @@
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos): Windows alt-tab on macOS <https://alt-tab-macos.netlify.app>
 - [RobotsAndPencils/XcodesApp](https://github.com/RobotsAndPencils/XcodesApp): The easiest way to install and switch between multiple versions of Xcode - with a mouse click.
 - [thebaselab/codeapp](https://github.com/thebaselab/codeapp): Building a full-fledged code editor for iPad <https://code.thebaselab.com>
-- [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl): 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. <https://monitorcontrol.app/>
 - [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS <https://maccy.app>
 - [sicreative/BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow): View MacOS and IOS battery Information
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth): Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. <https://sveinbjorn.org/sloth>
@@ -156,6 +162,7 @@
 - [gh:wutongyuonce/RepoMirror](https://github.com/wutongyuonce/RepoMirror): 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
 - 🌟 [gh:iAmCorey/birth](https://github.com/iAmCorey/birth): 一目了然地管理你的电脑启动项 | 开源 macOS 启动项管理器
 - [gh:Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll): Dynamic Island for macOS <https://getatoll.app>
+- [gh:vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils): Free and open-source macOS menu bar toolkit. <https://vorssaint.com>
 
 ### Free / Paid
 
@@ -164,8 +171,6 @@
 - [CleanShot X](https://cleanshot.com): Capture your Mac’s screen like a pro.
 - 🌟 [Shottr](https://shottr.cc): Shottr is a small, fast, human-sized screenshot app built for those who care about pixels. It was crafted with Swift, optimized for M1, and is distributed for free.
 - [Skim](https://skim-app.sourceforge.io): Skim is a PDF reader and note-taker for OS X. It is designed to help you read and annotate scientific papers in PDF, but is also great for viewing any PDF file.
-- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more! <https://betterdisplay.pro>
-- [alin23/Lunar](https://github.com/alin23/Lunar): Intelligent adaptive brightness for your external monitors <https://lunar.fyi>
 - [NTFS Disk by Omi](https://omiapps.com/product/1585757563): Best NTFS Disk Manager on Mac App Store
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve): DaVinci Resolve is the world’s only solution that combines editing, color correction, visual effects, motion graphics and audio post production all in one software tool!
 - [Aiko](https://sindresorhus.com/aiko): AI-powered audio transcription
@@ -210,6 +215,8 @@
 - 🌟 [Pica](https://pica.joshpuckett.me/): A MacOS font management app. A better way to manage your fonts
 - [AndDrive](https://anddrive.catchingnow.com/): Mount Android in Finder, mirror your screen with low latency, sync clipboard content, and type with native Mac input methods.
 - [Blip – The fastest way to send files](https://blip.net/): Send big files with no size limits, at full quality, directly to other people Send big files with no size limits, at full quality, directly to other people and devices.
+- [Graker - 菜单栏里的英文语法检查与翻译](https://graker.fehey.com/zh): 选中句子按快捷键：语法改好、译文出来，格式不丢。用你自己的 API Key，文本直达模型服务商。免费，macOS 13+
+- [Screenflare — Create screen recordings people want to watch.](https://screenflare.app/): Screenflare records your Mac and makes it look good — zooming in on every click, smoothing out your cursor and setting it all on a backdrop worth showing. Screenshots get the same treatment, marks and blur included. Nothing is locked in until you export.
 
 ## Windows
 

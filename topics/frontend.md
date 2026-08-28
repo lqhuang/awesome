@@ -859,6 +859,7 @@ Concrete animations
   - builds on the grammar-of-graphics tradition established by Leland Wilkinson and developed through projects such as ggplot2, Vega-Lite, and Observable Plot.
 - [gh:ganapativs/microcharts](https://github.com/ganapativs/microcharts): Word-sized charts for React, made for LLMs and humans — 106 chart types, zero runtime dependencies, accessible by default, RSC-safe. <https://microcharts.dev>
   - It might be slop or a one-off project, but the idea is good. Need to keep an eye on this from a broader time frame.
+- [gh:techniq/layerchart](https://github.com/techniq/layerchart): Composable Svelte chart components to build a large variety of visualizations <https://www.layerchart.com>
 
 ### Tree / Architecture
 
@@ -898,6 +899,7 @@ Concrete animations
 - [azat-io/eyecons](https://github.com/azat-io/eyecons): 🎨 Advanced VS Code icon theme with adaptive icon colors that match the editor’s color theme <https://eyecons.dev>
 - [Obra-Studio/obra-icons-mr](https://github.com/Obra-Studio/obra-icons-mr): Obra Icons monorepo <https://icons.obra.studio/>
 - [gh:griddy-icons/griddy-icons](https://github.com/griddy-icons/griddy-icons): Lightweight icon library
+- [The Making of Cursor's Icons – Minor Adventures](https://www.minoradventures.co/blog/the-making-of-cursors-icons): A year of drawing, testing, and shipping a complete icon system for the world's favourite coding agent.
 
 ### Figma
 
@@ -922,6 +924,7 @@ Concrete animations
 - [basmilius/weather-icons](https://github.com/basmilius/weather-icons): Free to use animated weather icons. <https://meteocons.com>
 - [gh:humation-labs/humation](https://github.com/humation-labs/humation): Hand-drawn kawaii avatar engine for your app. No AI, no API calls.
 - [gh:cossistantcom/cossistant](https://github.com/cossistantcom/cossistant): Open-source, customer support platform with fully customizable AI support agents for developers / startups shipping SaaS. <https://cossistant.com>
+- [The Noun Project](https://thenounproject.com/): Free Icons and Stock Photos, Made by Humans
 
 ### Logos / Brand icons
 
@@ -934,6 +937,8 @@ Concrete animations
 - [theSVG](https://thesvg.org/): Search, copy, and ship 6,068+ brand SVG icons. Open-source library with npm, React, Vue, Svelte, CLI, CDN, and MCP server support.
 - [gh:sanity-labs/logo-soup](https://github.com/sanity-labs/logo-soup): normalizes and harmonizes logo visuals <https://logo-soup.sanity.dev/docs>
   - [The logo soup problem (and how to solve it) | Sanity](https://www.sanity.io/blog/the-logo-soup-problem): A deep dive into the math behind making mismatched brand logos actually look good together. And a tiny React library that does it for you.
+- [gh:enesozturk/thinking-logos](https://github.com/enesozturk/thinking-logos): Your logo, as your agent's loading animation. Bake any SVG into a dot cloud and play it as seven AI loading states. <https://thinking-logos.ozturkenes.com>
+  - [Thinking Logos — your logo as the loading state](https://thinking-logos.ozturkenes.com/): Bake any SVG into a dot cloud and play it as seven distinct agent loading states. Auto dark/light, no rasteriser at runtime.
 
 ## Further topics
 

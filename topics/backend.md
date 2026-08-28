@@ -93,12 +93,18 @@
 - [flyteorg/flyte](https://github.com/flyteorg/flyte): Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks. <https://flyte.org>
   - from uber
 - [gh:uber/submitqueue](https://github.com/uber/submitqueue): SubmitQueue is a high-performance speculative merge queue that keeps your trunk consistently green at scale.
+- [gh:cronitorio/cronitor-cli](https://github.com/cronitorio/cronitor-cli): Command line tools for Cronitor.io <https://cronitor.io/docs/using-cronitor-cli>
 
 ## Middleware
 
 - [chiselstrike/chiselstrike](https://github.com/chiselstrike/chiselstrike): ChiselStrike abstracts common backends components like databases and message queues, and let you drive them from a convenient TypeScript business logic layer <https://chiselstrike.com/>
 - [cylexVEVO/turso-dashboard](https://github.com/cylexVEVO/turso-dashboard): Simple dashboard for managing your Turso databases.
 - [gh:HdrHistogram/HdrHistogram](https://github.com/HdrHistogram/HdrHistogram): A High Dynamic Range (HDR) Histogram <http://hdrhistogram.github.io/HdrHistogram/>
+
+## Script languages / Embeddable languages
+
+- [gh:janet-lang/janet](https://github.com/janet-lang/janet): A dynamic language and bytecode vm <https://janet-lang.org>
+- [gh:Rikitav/ShardScript](https://github.com/Rikitav/ShardScript): Embeddable, scripting, compiled, programming language with strict static typing
 
 ## low-code / no-code
 

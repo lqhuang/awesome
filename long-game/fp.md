@@ -128,7 +128,6 @@
 - [diku-dk/futhark](https://github.com/diku-dk/futhark): 💥💻💥 A data-parallel functional programming language <http://futhark-lang.org>
 - [gh:verselang/book](https://github.com/verselang/book): This documentation provides an in-depth look at the Verse programming language, its philosophy, and core concepts.
   - SPJ!
-- [gh:janet-lang/janet](https://github.com/janet-lang/janet): A dynamic language and bytecode vm <https://janet-lang.org>
 
 ## Misc
 

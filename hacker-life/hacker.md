@@ -40,6 +40,8 @@
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit): BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research, penetration testing and bluetooth hacking. We also collected and classified Bluetooth vulnerabilities in an "Awesome Bluetooth Security" way
 - 🌟 [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc): chsrc 全平台通用换源工具与框架. Change Source everywhere for every software <https://chsrc.run/>
 - [gh:honkit/honkit](https://github.com/honkit/honkit): 📖 HonKit is building beautiful books using Markdown - Fork of GitBook <https://honkit.netlify.app>
+- [gh:bryllim/workout-guide](https://github.com/bryllim/workout-guide): 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim <https://bryllim.github.io/workout-guide/>
+  - yeah. This absolutely belongs here.
 
 ### Git
 
@@ -61,6 +63,8 @@
 - [自己动手写 Git](https://wyag-zh.hanyujie.xyz/): 从零开始写 Git（Write Yourself a Git，简称 wyag） 的中文翻译 | Chinese translation of Write Yourself a Git
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue): A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [entireio/cli](https://github.com/entireio/cli): Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning. <https://entire.io>
+- [gh:littledivy/dgit](https://github.com/littledivy/dgit): Git forge on Durable Objects <https://git.littledivy.com>
+- [gh:tobi/walgit](https://github.com/tobi/walgit): a git server that is one binary in front of an object store
 
 ### Code as Graph
 

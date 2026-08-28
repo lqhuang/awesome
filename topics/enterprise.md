@@ -270,6 +270,7 @@ Visual stack
 - 🌟 [praetorian-inc/brutus](https://github.com/praetorian-inc/brutus): Fast, zero-dependency credential testing tool in Go. Brute force SSH, MySQL, PostgreSQL, Redis, MongoDB, SMB, and 20+ protocols. Hydra alternative with native fingerprintx/naabu pipeline integration.
 - [gh:infobyte/faraday](https://github.com/infobyte/faraday): Open Source Vulnerability Management Platform <https://www.faradaysec.com>
 - [gh:CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike): Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,300+ models, 7,600+ Ed25519-signed attack skills, 56+ built-in tools, 176+ MCP tools. MITRE ATT&CK, OWASP WSTG, CIS Benchmarks. Post-exploit: Linux/Windows/macOS/AWS/Azure/K8s/CI-CD. Web UI + Cloudflare Tunnel. Your AI red team. <https://cyberstrike.io>
+- [gh:mimecast/sbom-graph](https://github.com/mimecast/sbom-graph): A tool to analyse your SBOM data at the organization level, graphing your entire ecosystem, not just by project
 
 ## Career
 

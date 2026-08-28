@@ -375,7 +375,8 @@ xml
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm): TypeScript ORM that feels like writing SQL <https://orm.drizzle.team>
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm): TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases. <https://mikro-orm.io>
 - 🌟 [gh:knex/knex](https://github.com/knex/knex): A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use. <https://knexjs.org/>
-- [gh:kysely-org/kysely](https://github.com/kysely-org/kysely): A type-safe TypeScript SQL query builder <https://kysely.dev>
+- 🌟 [gh:kysely-org/kysely](https://github.com/kysely-org/kysely): A type-safe TypeScript SQL query builder <https://kysely.dev>
+  - [gh:kysely-org/awesome-kysely](https://github.com/kysely-org/awesome-kysely): A curated list of Kysely resources, tools, utilities and applications. <https://kysely.dev>
   - [gh:kysely-org/kysely-ctl](https://github.com/kysely-org/kysely-ctl): Command-line tool for Kysely, Knex-compatible, works in Node.js, Deno, Bun, etc. <https://kysely.dev>
   - [gh:kysely-org/kysely-neon](https://github.com/kysely-org/kysely-neon): Kysely dialect for Neon's serverless driver over HTTP. <https://kysely.dev>
   - [gh:kysely-org/kysely-postgres-js](https://github.com/kysely-org/kysely-postgres-js): Kysely dialect for PostgreSQL that supports the Postgres.js client and Bun's SQL native binding.
@@ -553,6 +554,7 @@ xml
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift): A JavaScript codemod toolkit. <https://jscodeshift.com>
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks): 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
 - [gh:WebReflection/utils](https://github.com/WebReflection/utils): A collection of utility functions. <https://webreflection.github.io/utils/>
+- [gh:sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation): System Information Library for Node.JS
 
 Deep equal
 

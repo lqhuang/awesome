@@ -61,6 +61,9 @@
 - [The Garbage Collection Handbook](https://gchandbook.org/index.html)
 - 🌟 [Software optimization resources - Agner](https://www.agner.org/optimize/)
 - [gh:ibogosavljevic/johnysswlab](https://github.com/ibogosavljevic/johnysswlab)
+- 🌟 [Your executable is a SQLite database | Farid Zakaria's Blog](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
+  - Fun but full of insights
+- [gh:yangwenbo99/csapp-global-errata](https://github.com/yangwenbo99/csapp-global-errata): Unofficial errata for the global edition of Computer System: A Programmer's Perspective.
 
 ## Compiler
 
@@ -160,6 +163,7 @@
   - [C2C - False Sharing Detection in Linux Perf](https://joemario.github.io/blog/2016/09/01/c2c-blog/)
 - [gh:RRZE-HPC/likwid](https://github.com/RRZE-HPC/likwid): Performance monitoring and benchmarking suite <https://hpc.fau.de/research/tools/likwid/>
 - [gh:jakebailey/pprof-it](https://github.com/jakebailey/pprof-it): A handy pprof wrapper for Node.js
+- [gh:jdx/tak](https://github.com/jdx/tak): Experimental: benchmark CLIs and track performance over time. Do not use.
 
 ## Linux Tuning
 

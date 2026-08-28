@@ -143,3 +143,5 @@ CJK
 - [shanleiguang/vRain](https://github.com/shanleiguang/vRain): 中文古籍刻本風格直排電子書製作工具 Chinese ancient ebook making tool
 - [Monospace Acid Test](https://justine.lol/dox/unicode.html):
 - [gh:opentypejs/opentype.js](https://github.com/opentypejs/opentype.js): Read and write OpenType fonts using JavaScript. <https://opentype.js.org/>
+- [CJK Web Font Align Tool](https://drift.roriri.one/)
+  - source: https://t.me/im_RORIRI/34385

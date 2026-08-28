@@ -539,6 +539,7 @@ Type 1 hypervisors
   - k8s in the backend
 - [czhu12/canine](https://github.com/czhu12/canine): Power of Kubernetes, Simplicity of Heroku <https://canine.sh>
   - k8s in the backend
+- [gh:floci-io/floci](https://github.com/floci-io/floci): Light, fluffy, and always free - The AWS Local Emulator alternative <https://floci.io/floci/>
 
 ## Cloud Foundry
 
