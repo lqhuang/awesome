@@ -45,6 +45,8 @@
 - [gh:Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP): A Patch for GIMP 3+ for Photoshop Users
 - [gh:tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme): Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions. <https://www.altsendme.com/>
 - [gh:ruru-m07/gitru](https://github.com/ruru-m07/gitru): A Git Client. <https://gitru.app>
+- 🌟 [gh:DetachHead/rebased](https://github.com/DetachHead/rebased): A git client based on the IntelliJ platform
+- 🌟 [gh:zackb/tether](https://github.com/zackb/tether): Linux + iPhone Continuity / iMessage / SMS
 
 ### Reader
 
@@ -85,7 +87,8 @@
 - [Sensei](https://cindori.com/sensei): Sensei is the ultimate app for optimizing your Mac. Featuring a wide range of advanced cleaning and monitoring features, it's never been easier to maximize your Mac performance.
   - ⛔ memory leaks in my daily use
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice): Powerful menu bar manager for macOS <https://icemenubar.app>
-- iStatistica
+- [iStatistica](https://www.imagetasks.com/istatistica/): System Monitor for macOS. CPU, Memory, Network and Temperature monitoring
+- [gh:byrencheema/airstats](https://github.com/byrencheema/airstats): A menu bar system monitor for macOS. CPU, memory, GPU, network, disk, battery and thermals at 0.046% CPU. <https://airstats.app>
 
 ### Physical Display Monitor
 
@@ -237,6 +240,7 @@
 - [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer): A tool to "Fix" Windows 11
 - 🌟 [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser): Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers. <https://justthebrowser.com/>
 - [gh:shanselman/PeekDesktop](https://github.com/shanselman/PeekDesktop): Click your desktop to peek at it - just like macOS Sonoma.
+- [SignPath](https://signpath.org/): Free Code Signing for Open Source software
 
 Non open source
 
@@ -275,6 +279,9 @@ Size: nano11 > AtlasOS ≈ ReviOS > Tiny11 > Win11 LTSC
 - [Windows 11 IoT LTSC 养老指南 | Dejavu's Blog](https://blog.dejavu.moe/posts/windows11-ltsc-guide/): 更适合老年人的「老坛酸菜」，我的 Windows 11 IoT LTSC 优化记录
 
 ## Linux
+
+- [gh:kem-a/AppManager](https://github.com/kem-a/AppManager): MacOS style AppImage installer and management application
+- [gh:VHSgunzo/uruntime](https://github.com/VHSgunzo/uruntime): Universal RunImage and AppImage runtime with SquashFS and DwarFS supports
 
 ### Desktop
 
@@ -334,13 +341,7 @@ Terminal / SSH
 - 🌟 [djyde/notepal](https://github.com/djyde/notepal): A simple tool to import/export your book note <https://notepal.randysoft.org>
   - export WeBook to Readwise
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成 HTML、Word、CSV 文档永久保存，对聊天记录进行分析生成年度聊天报告
-
-## Services
-
-- 🌟 [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. :octocat: 💬 💎 <https://giscus.app>
-- [djyde/cusdis](https://github.com/djyde/cusdis): lightweight, privacy-friendly alternative to Disqus. <https://cusdis.com>
-- [XPoet/picx](https://github.com/XPoet/picx): 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。 <https://picx.xpoet.cn>
-- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk): 🌌 自托管评论系统 | Your self-hosted comment system <https://artalk.js.org>
+- [gh:fxyadela/write-then-publish](https://github.com/fxyadela/write-then-publish): 本地优先的中文内容排版工具：把 Markdown 转成小红书图文卡片、公众号长文和可下载图片，并支持 Obsidian 工作流。 <https://fawen.fun>
 
 ## Self-hosted services
 
@@ -389,6 +390,9 @@ Terminal / SSH
 - [gh:Paymenter/Paymenter](https://github.com/Paymenter/Paymenter): Free and open-source webshop solution for hostings <https://paymenter.org>
 - [gh:zakirullin/files.md](https://github.com/zakirullin/files.md): 🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly. <https://files.md>
 - [gh:tianrking/EdgeMirror](https://github.com/tianrking/EdgeMirror): A CDN-style edge mirror gateway for developer sources. Accelerate PyPI, PyTorch, Hugging Face, GitHub, Docker registries, Linux mirrors, npm, Go modules, Maven, crates.io, runtime downloads, and universal file forwarding behind one clean domain.
+- 🌟 [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. :octocat: 💬 💎 <https://giscus.app>
+- [djyde/cusdis](https://github.com/djyde/cusdis): lightweight, privacy-friendly alternative to Disqus. <https://cusdis.com>
+- [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk): 🌌 自托管评论系统 | Your self-hosted comment system <https://artalk.js.org>
 
 ### Git hosting
 
@@ -415,6 +419,8 @@ Terminal / SSH
 - [gh:linuz90/gists.sh](https://github.com/linuz90/gists.sh): <https://gists.sh/>
 - [shithub:sl/werc](https://shithub.us/sl/werc/HEAD/info.html): werc - a minimalist document management system
 - [orib:git/serve](https://orib.dev/gitserve.html): `Git/serve` is a git server designed to fit into the Plan 9 ecosystem, allowing hosting of, and interacting with, code on a Plan 9 server, while still allowing legacy clients running on Unix to get a copy of the code.
+- [The best way to review code on GitHub.](https://www.reviewable.io/): Seamless multi-round GitHub code reviews let your teams push higher quality code faster than ever.
+- [gh:runetes/maiao](https://github.com/runetes/maiao): Seamless GitHub PR management from the command-line
 
 ### PDF / File tools
 
@@ -436,6 +442,7 @@ Terminal / SSH
 - [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr): fork of overseerr for jellyfin support
 - [koush/scrypted](https://github.com/koush/scrypted): Scrypted is a high performance video integration and automation platform <https://scrypted.app>
 - [kerberos-io/agent](https://github.com/kerberos-io/agent): An open and scalable video surveillance system for anyone making this world a better and more peaceful place. <https://kerberos.io>
+- [XPoet/picx](https://github.com/XPoet/picx): 🏞️ PicX 是一款基于 GitHub API 开发的图床工具，提供图片上传托管、生成图片链接和常用图片工具箱服务。 <https://picx.xpoet.cn>
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT): The next-generation file converter. Open source, fully local\* and free forever. <https://vert.sh>
   - [VERT-sh/vertd](https://github.com/VERT-sh/vertd): VERT's solution to crappy video conversion services. <https://vert.sh>
 - [bitmagnet-io/bitmagnet](https://github.com/bitmagnet-io/bitmagnet): A self-hosted BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. <https://bitmagnet.io/>
@@ -453,6 +460,7 @@ Terminal / SSH
 - [Oliver Falk / ivatar · GitLab](https://git.linux-kernel.at/oliver/ivatar/): GitLab Community Edition
   - https://libravatar.org/: freeing the web one face at a time
   - The open avatar service: libravatar is a service which delivers your avatar (profile picture) to other websites. If you create an account with us, your photo could start popping up next to forum posts or blog comments on any site where you left your email address.
+- [gh:agalwood/Motrix](https://github.com/agalwood/Motrix): A full-featured download manager. <https://motrix.app>
 
 ### Reader / RSS / Bookmarks
 
@@ -490,6 +498,9 @@ Terminal / SSH
 - [gh:raphaelsalaja/pond](https://github.com/raphaelsalaja/pond): One inbox for everything you save across Twitter/X, Instagram, Pinterest, Are.na, and Cosmos
 - [gh:jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest): 欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。
 - [gh:onevcat/Magpie](https://github.com/onevcat/Magpie): A lightweight link collection, displaying and sharing system. Self-host supported. <https://onevcat.link>
+- [gh:404KSG/roam-nautilus-log](https://github.com/404KSG/roam-nautilus-log): Nautilus Log — a transparent dynamic day planner for Roam Research
+- [gh:404KSG/morden-roam-css](https://github.com/404KSG/morden-roam-css): A quiet, Linear-inspired Roam Research theme for writing and block-based work.
+- [gh:forrestchang/roam-logbook](https://github.com/forrestchang/roam-logbook): org-mode style clock tracking (LOGBOOK / CLOCK) for Roam Research TODOs
 
 ### Cloud Disk
 

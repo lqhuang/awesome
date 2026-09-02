@@ -42,3 +42,4 @@
 - [gh:medusajs/medusa](https://github.com/medusajs/medusa): The world's most flexible commerce platform. <https://medusajs.com>
 - [Chinese Rock Database](https://www.yaogun.com/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
 - 🌟🌟🌟 [PDF24 Tools](https://tools.pdf24.org/en/): Free online PDF tools to merge, compress, create, edit and convert PDFs.
+- [Web Performance And Core Web Vitals Monitoring | DebugBear](https://www.debugbear.com/): Monitor website performance and Google Core Web Vitals with synthetic tests and real user monitoring (RUM). Get detailed page speed insights to make your website faster.

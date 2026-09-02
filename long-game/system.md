@@ -182,6 +182,11 @@
 - [dev-sec/linux-baseline](https://github.com/dev-sec/linux-baseline): DevSec Linux Baseline - InSpec Profile <https://dev-sec.io/baselines/linux/>
 - [zampierilucas/scx_horoscope](https://github.com/zampierilucas/scx_horoscope): Astrological CPU Scheduler
 
+## Filesystem
+
+- [gh:erofs](https://github.com/erofs): EROFS filesystem project.
+- [gh:mhx/dwarfs](https://github.com/mhx/dwarfs): A fast high-compression read-only file system for Linux, FreeBSD, macOS and Windows
+
 ## BPF
 
 Tutorials

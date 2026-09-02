@@ -15,6 +15,7 @@
 - 🌟 [The Big LLM Architecture Comparison](https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison): From DeepSeek-V3 to Kimi K2: A Look At Modern LLM Architecture Design
 - [tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps): An awesome & curated list of best LLMOps tools for developers
 - [gh:Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms): 《动手学大模型Dive into LLMs》系列编程实践教程
+- [gh:lbh0830/TW-Hokkien-LLM](https://github.com/lbh0830/TW-Hokkien-LLM): 台灣閩南語大型語言模型 (Taiwanese Hokkien LLMs)
 
 ## Research
 

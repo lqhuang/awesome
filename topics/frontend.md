@@ -177,6 +177,9 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - [nmn/tw-to-stylex](https://github.com/nmn/tw-to-stylex): A simpler code translator to convert code using Tailwind to code using StyleX
   - [nonzzz/stylex-extend](https://github.com/nonzzz/stylex-extend): An unofficial stylexjs extension <https://nonzzz.github.io/stylex-extend/>
   - [nedjulius/prettier-plugin-stylex-key-sort](https://github.com/nedjulius/prettier-plugin-stylex-key-sort): Prettier plugin that auto-sorts StyleX keys
+  - [gh:aidenybai/tailwind-stylex](https://github.com/aidenybai/tailwind-stylex): Bring Tailwind design system to StyleX
+  - [gh:AlshehriAli0/tw2stylex](https://github.com/AlshehriAli0/tw2stylex): Tailwind → StyleX Agent-driven codemod. Converts what it can prove, reports what it can't.
+  - [StyleX DevTools – Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/stylex-devtools/)
 - [chakra-ui/panda](https://github.com/chakra-ui/panda): 🐼 Universal, Type-Safe, CSS-in-JS Framework for Product Teams ⚡️ <https://panda-css.com>
   - [muijf/pandacss-preset-typography](https://github.com/muijf/pandacss-preset-typography): Typography preset for PandaCSS, inspired by TailwindCSS Typography, for beautiful and consistent text styling. <https://docs.muijf.com/pandacss-preset-typography>
   - [YannBirba/pandacss-preset-react-aria-components](https://github.com/YannBirba/pandacss-preset-react-aria-components): A 🐼 PandaCSS preset for React aria components
@@ -393,6 +396,7 @@ Rough Notation
 - [jwilber/roughViz](https://github.com/jwilber/roughViz): Reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser. <https://www.jwilber.me/roughviz/>
 - [gh:SarthakRawat-1/sketchbook-ui](https://github.com/SarthakRawat-1/sketchbook-ui): UI library that looks like it was drawn by hand <https://sarthakrawat-1.github.io/sketchbook-ui/>
 - [gh:abhix4/stroke](https://github.com/abhix4/stroke): Create Hand-drawn SVG animations for logos, signatures, and illustrations. <https://stroke.abhii.space>
+- [gh:Danilaa1/drawably](https://github.com/Danilaa1/drawably): Hand-drawn UI controls. Every mount generates a fresh pen sketch from seeded randomness, and the stroke boils like an animated doodle. Zero dependencies, 4 KB of JS and one stylesheet.
 
 Image zoom
 
@@ -974,6 +978,7 @@ Concrete animations
 - 🌟 [gh:gre/gl-react](https://github.com/gre/gl-react): gl-react – React library to write and compose WebGL shaders <http://gre.github.io/gl-react/>
 - [gh:HarryStevens/geometric](https://github.com/HarryStevens/geometric): A JavaScript library for doing geometry. <https://www.harryjstevens.com/geometric/>
 - [gh:LayoutitStudio/polycss](https://github.com/LayoutitStudio/polycss): A CSS 3D engine for the DOM. Renders polygon meshes in HTML by leveraging matrix3d transforms. <https://polycss.com>
+- [gh:vercel-labs/vgpu](https://github.com/vercel-labs/vgpu): Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz <https://vgpu.labs.vercel.dev>
 
 ### Engine
 

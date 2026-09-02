@@ -10,6 +10,8 @@
   - [Textbook of Applied Cryptography](https://sites.google.com/view/textbook-appliedcrypto/home)
   - [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
 - [The Joy of Cryptography](https://joyofcryptography.com/): An undergraduate-level textbook introducing students to the fundamentals of provable security
+- [Easily Identify Malicious Servers on the Internet with JARM - Salesforce Engineering BlogBack ButtonFilter Button](https://engineering.salesforce.com/easily-identify-malicious-servers-on-the-internet-with-jarm-e095edac525a/): JARM is an active Transport Layer Security server fingerprinting tool that provides the ability to identify and group malicious servers.
+  - [gh:salesforce/jarm](https://github.com/salesforce/jarm): JARM is an active Transport Layer Security (TLS) server fingerprinting tool.
 
 ## Services
 

@@ -220,6 +220,7 @@ And modern is here now.
 - [MengRao/fmtlog](https://github.com/MengRao/fmtlog): fmtlog is a performant fmtlib-style logging library with latency in nanoseconds.
   - aim to lower runtime latency than NanoLog and higher throughput than spdlog
 - [odygrd/quill](https://github.com/odygrd/quill): Asynchronous Low Latency C++ Logging Library
+- [gh:choll/xtr](https://github.com/choll/xtr): A Fast and Convenient C++ Logging Library for Low-latency or Real-time Environments <https://choll.github.io/xtr/>
 
 ## OS level
 

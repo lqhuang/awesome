@@ -429,6 +429,7 @@ Misc
 - 📝 [falconry/falcon](https://github.com/falconry/falcon): The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale. <https://falcon.readthedocs.io/en/stable/>
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall): Remote Procedure Calls - 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & 🔜 REST over io_uring and SIMDJSON ☎️ <https://unum-cloud.github.io/ucall/>
 - 🌟 [django/asgiref](https://github.com/django/asgiref): ASGI specification and utilities <https://asgi.readthedocs.io/en/latest>
+- [gh:oxpull/django-ox](https://github.com/oxpull/django-ox): Database-backed worker for Django's Tasks framework. Transactional enqueue, retries, recurring schedules, no broker to run. <https://oxpull.com/django-ox/>
 - [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx): A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
 - [spec-first/connexion](https://github.com/spec-first/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support <https://connexion.readthedocs.io/en/latest>
 - FastAPI
@@ -738,7 +739,7 @@ Misc
 - [Instagram/LibCST](https://github.com/Instagram/LibCST): A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree
 - [lepture/mistune](https://github.com/lepture/mistune): A fast yet powerful Python Markdown parser with renderers and plugins. <http://mistune.readthedocs.io>
 - [dabeaz/sly](https://github.com/dabeaz/sly): Sly Lex Yacc
-- [lark-parser/lark](https://github.com/lark-parser/lark): Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
+- 🌟 [lark-parser/lark](https://github.com/lark-parser/lark): Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [executablebooks/MyST-Parser](https://github.com/executablebooks/MyST-Parser): An extended commonmark compliant parser, with bridges to docutils/sphinx <https://myst-parser.readthedocs.io>
 - 🌟 [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py): Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python! <https://markdown-it-py.readthedocs.io/>
 - 🌟 [xdslproject/xdsl](https://github.com/xdslproject/xdsl): A Python Compiler Design Toolkit

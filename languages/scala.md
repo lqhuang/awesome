@@ -256,6 +256,7 @@
 - [gh:nguyenyou/scalex](https://github.com/nguyenyou/scalex): Scala code intelligence for coding agents. Zero Build Server. Zero Compilation. Just answers. <https://nguyenyou.github.io/scalex/>
 - [gh:VirtusLab/cellar](https://github.com/VirtusLab/cellar): CLI tool for coding agents and developers to query the public API of any Maven JVM dependency — get symbol signatures, list packages, search by name, and inspect dependency trees. Powered by Coursier and tasty-query.
   - Could we also support npm and pypi 🤔
+- [gh:elide-dev/madura](https://github.com/elide-dev/madura): smol universal java toolchain
 
 ## Cross platforms
 
@@ -529,6 +530,7 @@ Tracing and OpenTelemetry
 - [gh:Netflix/wick](https://github.com/Netflix/wick): A zero cost type safe Apache Spark API
   - [Leveraging Wick To Build Robust Data Pipelines](https://github.com/Netflix/wick/blob/main/doc/Leveraging_Wick_To_Build_Robust_Data_Pipelines.md): No description, website, or topics provided.
 - [awslabs/deequ](https://github.com/awslabs/deequ): Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+- [gh:unum-io/tyda](https://github.com/unum-io/tyda): Typed Dataset api for Scala 3
 
 ### Utils
 

@@ -16,6 +16,7 @@
 - [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices): How to stay safe from NPM supply chain attacks
 - [JavaScript engines zoo](https://zoo.js.org/)
 - [Depx | Dependency analysis](https://depx.co/): Analyse your dependencies, get the full picture before you install.
+- 🌟 [gh:kurtextrem/awesome-performance-patches](https://github.com/kurtextrem/awesome-performance-patches): 🚀⚡ Awesome list about performance related patches/PRs.
 
 ### Books
 

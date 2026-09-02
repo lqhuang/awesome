@@ -69,6 +69,7 @@
 - 🌟 [gh:RightNow-AI/RightNow-GPU-Database](https://github.com/RightNow-AI/RightNow-GPU-Database): Comprehensive GPU specifications database with 2,824 GPUs across NVIDIA, AMD, and Intel
 - [gh:ArchaeaSoftware/cudahandbook](https://github.com/ArchaeaSoftware/cudahandbook): Source code that accompanies The CUDA Handbook.
   - [The CUDA Handbook](https://www.cudahandbook.com/)
+- [gh:NVIDIA/nccl-extensions](https://github.com/NVIDIA/nccl-extensions): Communication patterns for AI, built on top of NCCL device and host APIs
 
 ### TPU
 
@@ -492,6 +493,7 @@ mujoco
 - [kscalelabs/ksim](https://github.com/kscalelabs/ksim): RL training library for humanoid locomotion and manipulation. Built on top of MuJoCo and JAX. <https://docs.kscale.dev/docs/ksim>
 - [gh:newton-physics/newton](https://github.com/newton-physics/newton): An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. <https://newton-physics.github.io/newton/stable/>
   - [gh:NVIDIA/warp](https://github.com/NVIDIA/warp): A Python framework for GPU-accelerated simulation, robotics, and machine learning. <https://nvidia.github.io/warp/stable/>
+- [gh:pollen-robotics/microduck](https://github.com/pollen-robotics/microduck): A Tiny biped duck robot 🦆 <https://pollen-robotics.com/microduck>
 
 ### Google specialization
 

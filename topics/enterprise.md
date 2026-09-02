@@ -82,6 +82,7 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx): A community-supported supercharged version of paperless: scan, index and archive all your physical documents <https://docs.paperless-ngx.com>
 - [eikek/docspell](https://github.com/eikek/docspell): Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort. <https://docspell.org>
 - 🌟 [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate): Web based localization tool with tight version control integration. <https://weblate.org/>
+- [gh:google/docsy](https://github.com/google/docsy): Hugo theme for open source documentation <https://docsy.dev>
 
 ### DevOps
 
