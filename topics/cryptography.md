@@ -28,9 +28,12 @@
 - 🌟 [gh:jedisct1/minisign](https://github.com/jedisct1/minisign): A dead simple tool to sign files and verify digital signatures. <https://jedisct1.github.io/minisign/>
 - [gh:anchordotdev/cli](https://github.com/anchordotdev/cli): `anchor` provides a command line interface for the Anchor.dev certificate management platform.
 - [gh:FiloSottile/age](https://github.com/FiloSottile/age): A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability. <https://age-encryption.org>
+- [gh:slok/agebox](https://github.com/slok/agebox): Age based repository file encryption gitops tool
 - [gh:jedisct1/encpipe](https://github.com/jedisct1/encpipe): The dum^H^H^Hsimplest encryption tool in the world.
 - 🌟 [gh:python-trio/trustme](https://github.com/python-trio/trustme): #1 quality TLS certs while you wait, for the discerning tester <https://trustme.rtfd.io>
 - [gh:veracrypt/VeraCrypt](https://github.com/veracrypt/VeraCrypt): Disk encryption with strong security based on TrueCrypt <https://veracrypt.jp>
+- [gh:jedisct1/turbocrypt](https://github.com/jedisct1/turbocrypt): A fast, easy-to-use, and secure command-line tool for encrypting and decrypting files , git repositories and directory trees.
+  - [Semi-public Git repositories - Frank DENIS random thoughts.](https://00f.net/2026/09/09/semi-public-git-repositories/): Okay, maybe I’m just messy, but I’m sure the story below will resonate with a lot of developers.
 
 ## Libraries
 

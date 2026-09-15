@@ -349,6 +349,7 @@ JAX Special
 - [RobertTLange/gymnax](https://github.com/RobertTLange/gymnax): RL Environments in JAX 🌍
   - [RobertTLange/gymnax-blines](https://github.com/RobertTLange/gymnax-blines): Baselines for gymnax 🤖
 - [Replicable-MARL/MARLlib](https://github.com/Replicable-MARL/MARLlib): One repository is all that is necessary for Multi-agent Reinforcement Learning (MARL) <https://marllib.readthedocs.io>
+- [gh:adityamakkar000/AsyncRL](https://github.com/adityamakkar000/AsyncRL): A Pure JAX AsyncRL stack <https://adityamakkar000.github.io/posts/async-rl-jax.html>
 
 ### Language Models / Attention
 

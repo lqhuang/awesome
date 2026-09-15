@@ -265,6 +265,7 @@ Non open source
 - [gh:Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 - [gh:builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE): Fly through your Windows 11 setup 🐝
 - 🌟 [gh:DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer): Power full Task Manager <https://xanasoft.com/>
+- 🌟 [gh:microsoft/WindowsDeveloperConfig](https://github.com/microsoft/WindowsDeveloperConfig): Automate the setup and configuration of your Windows development environment.
 
 ### Distributions
 
@@ -421,6 +422,7 @@ Terminal / SSH
 - [orib:git/serve](https://orib.dev/gitserve.html): `Git/serve` is a git server designed to fit into the Plan 9 ecosystem, allowing hosting of, and interacting with, code on a Plan 9 server, while still allowing legacy clients running on Unix to get a copy of the code.
 - [The best way to review code on GitHub.](https://www.reviewable.io/): Seamless multi-round GitHub code reviews let your teams push higher quality code faster than ever.
 - [gh:runetes/maiao](https://github.com/runetes/maiao): Seamless GitHub PR management from the command-line
+- 🌟 [gh:shizunge/endlessh-go](https://github.com/shizunge/endlessh-go): A golang implementation of endlessh (SSH tarpit) exporting Prometheus metrics, visualized by a Grafana dashboard.
 
 ### PDF / File tools
 

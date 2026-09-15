@@ -49,6 +49,8 @@
 - [crt.sh](https://crt.sh/): Certificate Search
 - [gh:yArna/isChinaUser](https://github.com/yArna/isChinaUser): 🇨 Determine current user is a Chinese user. <https://yarna.github.io/isChinaUser/>
 - [Don't kill my app!](https://dontkillmyapp.com/): Hey Android vendors, don't kill my app!
+- [gh:DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers): Lists of public DNSCrypt / DoH DNS servers and DNS relays - Actively maintained since 2011. <https://dnscrypt.info>
+  - [Free Public DNSCrypt & DoH Servers List | DNSCrypt](https://dnscrypt.info/public-servers/): Comprehensive list of free public DNSCrypt and DNS-over-HTTPS (DoH) servers with DNSSEC support, no-logging policies, and global locations. Updated regularly.
 
 ### Checker
 

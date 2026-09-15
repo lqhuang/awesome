@@ -105,6 +105,7 @@
 
 - [gh:janet-lang/janet](https://github.com/janet-lang/janet): A dynamic language and bytecode vm <https://janet-lang.org>
 - [gh:Rikitav/ShardScript](https://github.com/Rikitav/ShardScript): Embeddable, scripting, compiled, programming language with strict static typing
+- [gh:wren-lang/wren](https://github.com/wren-lang/wren): The Wren Programming Language. Wren is a small, fast, class-based concurrent scripting language. <http://wren.io>
 
 ## low-code / no-code
 
@@ -173,6 +174,7 @@
 - [pundit-community/pundit.js](https://github.com/pundit-community/pundit.js): [WIP] Minimal authorisation through a plain old JavaScript object. <https://pundit-community.github.io/pundit.js/>
 - [stack-auth/stack](https://github.com/stack-auth/stack): Open-source Auth0/Clerk alternative <https://stack-auth.com>
 - 🌟 [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id): A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. <https://pocket-id.org>
+- [gh:tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth): The tiniest OpenID Certified™ authorization and authentication server you have ever seen. <https://tinyauth.app>
 - [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
 - 🌟 [lastlogin-net/obligator](https://github.com/lastlogin-net/obligator): Simple and opinionated OpenID Connect server designed for self-hosters <https://lastlogin.net/>
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The simplest way to protect your apps with a login screen. <https://tinyauth.app>

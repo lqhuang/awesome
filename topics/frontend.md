@@ -397,6 +397,7 @@ Rough Notation
 - [gh:SarthakRawat-1/sketchbook-ui](https://github.com/SarthakRawat-1/sketchbook-ui): UI library that looks like it was drawn by hand <https://sarthakrawat-1.github.io/sketchbook-ui/>
 - [gh:abhix4/stroke](https://github.com/abhix4/stroke): Create Hand-drawn SVG animations for logos, signatures, and illustrations. <https://stroke.abhii.space>
 - [gh:Danilaa1/drawably](https://github.com/Danilaa1/drawably): Hand-drawn UI controls. Every mount generates a fresh pen sketch from seeded randomness, and the stroke boils like an animated doodle. Zero dependencies, 4 KB of JS and one stylesheet.
+- [gh:syabro/neat-annotations](https://github.com/syabro/neat-annotations): Hand-drawn CSS annotations for inline content
 
 Image zoom
 

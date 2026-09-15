@@ -91,6 +91,10 @@
 - 🌟 [gh:untitaker/hyperlink](https://github.com/untitaker/hyperlink): Very fast link checker for CI.
 - [gh:OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance. <https://owasp.org/cve-lite-cli/>
 - [gh:cloudflare/pint](https://github.com/cloudflare/pint): Prometheus rule linter/validator <https://cloudflare.github.io/pint/>
+- [gh:pua2/sqlalign](https://github.com/pua2/sqlalign): A SQL formatter that cannot change what your SQL means. Postgres, Redshift, SQL Server. <https://pua2.github.io/sqlalign/>
+  - supports columnar alignment
+  - supports templated SQL (dbt / Jinja)
+- [gh:sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter): A whitespace formatter for different query languages <https://sql-formatter-org.github.io/sql-formatter/>
 
 ### Reproducibility
 

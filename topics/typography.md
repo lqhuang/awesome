@@ -27,6 +27,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [gh:fonttools/fonttools](https://github.com/fonttools/fonttools): A library to manipulate font files from Python.
 - [gh:javierbyte/brutalita](https://github.com/javierbyte/brutalita): Experimental font and font editor, exports OTF. <https://brutalita.com>
 - [gh:123Duo3/Tiqian](https://github.com/123Duo3/Tiqian): 提椠 Tíqiàn is a CJK paragraph composer.
+- [gh:andy-portmen/font-finder](https://github.com/andy-portmen/font-finder): FontFinder is created for designers, developers and typographers. It allows a user to analyze the font information of any element on a page <https://webextension.org/listing/font-finder.html>
 
 ## Fonts
 
@@ -47,6 +48,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [github/mona-sans](https://github.com/github/mona-sans): Mona Sans, a variable font from GitHub <http://github.com/mona-sans>
 - [gh:Instrument/instrument-serif](https://github.com/Instrument/instrument-serif): A condensed, display serif designed for the Instrument brand and open-sourced for you.
 - [gh:Instrument/instrument-sans](https://github.com/Instrument/instrument-sans): A variable sans-serif designed for the Instrument brand, and open-sourced for you on google fonts.
+- [gh:BlackFoundryCom/InriaFonts](https://github.com/BlackFoundryCom/InriaFonts): Fonts and UFO Masters of Inria Serif and Inria Sans Typeface <https://black-foundry.com/work/inria/>
 
 Mono
 
@@ -124,6 +126,7 @@ CJK
 - [max32002/nanifont](https://github.com/max32002/nanifont): おつとめフォント字型的補字計畫，可免費商用的日系手寫字體。 <https://max-everyday.com/2020/09/nanifont/>
 - 🌟 [MetroSung | The Type](https://www.thetype.com/en/product/metrosung/)
 - 🌟 [gh:yamatoiizuka/gen-interface-jp](https://github.com/yamatoiizuka/gen-interface-jp): Typeface harmonizing Inter and Noto Sans JP <https://gen.typesetting.jp/>
+- [络纬](https://luowei.atelier-anchor.com/): 亦黑亦宋的中文可变字体超级家族，正在开发中
 
 ???
 

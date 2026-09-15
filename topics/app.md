@@ -22,6 +22,7 @@
 - [SKIP.tools](https://skip.tools/): Build native apps for iPhone and Android with Skip. Skip brings Swift app development to Android.
 - [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui): Build SwiftUI-style apps that run in the browser <https://elementary.codes>
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle): A software update framework for macOS <https://sparkle-project.org>
+- [gh:pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview): A simple Markdown viewer for reading .md files <http://markdownpreview.app>
 
 ### Utils
 

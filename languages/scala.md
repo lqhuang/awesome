@@ -292,6 +292,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [gh:indoorvivants/sn-demangler](https://github.com/indoorvivants/sn-demangler): Scala Native name demangler <https://indoorvivants.github.io/sn-demangler/>
 - [gh:FinochioM/S2D](https://github.com/FinochioM/S2D): A 2D game programming library written in and for Scala Native.
   - [S2D Development Series - Snake, Day 1: Opening a Window.](https://matiasfinochio.substack.com/p/s2d-development-series-snakeday-1)
+- 🌟 [gh:lolgab/scalino](https://github.com/lolgab/scalino): Scala Native toolchain without the JVM
 
 ### Scala.js
 
@@ -318,6 +319,17 @@ Do a benchmark (for final size while using Scala Native)?
 - [gh:reactivecore/kreuzberg](https://github.com/reactivecore/kreuzberg): ScalaJS Component System
 - [gh:scalajs-io/nodejs](https://github.com/scalajs-io/nodejs): This project provides Scala.js type-safe bindings for Node.js (current) v8.7.0 and LTS v6.11.4 APIs. The platform supports MEAN (MongoDB, Express, AngularJs, NodeJS), Cassandra, MySQL and many other npm projects.
 - [gh:stanch/reftree](https://github.com/stanch/reftree): Automatically generated diagrams and animations for Scala data structures <http://stanch.github.io/reftree/>
+
+### JVM
+
+- [gh:OpenHFT/Chronicle-Core](https://github.com/OpenHFT/Chronicle-Core): Low level access to native memory, JVM and OS.
+- [gh:OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue): Micro second messaging that stores everything to disk <http://chronicle.software/products/chronicle-queue/>
+- [gh:OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity): Bind a java thread to a given core <http://chronicle.software/products/thread-affinity/>
+- [gh:dynatrace-oss/hash4j](https://github.com/dynatrace-oss/hash4j): Dynatrace hash library for Java
+- [gh:Glavo/weburl-java](https://github.com/Glavo/weburl-java): A modern Java URL library that brings browser-grade WHATWG URL parsing to URI-style APIs. <https://weburl.glavo.site>
+- [gh:killme2008/aviatorscript](https://github.com/killme2008/aviatorscript): A high performance scripting language hosted on the JVM. <http://fnil.net/aviator/>
+- [gh:Hyperfoil/jjq](https://github.com/Hyperfoil/jjq): High-performance pure Java jq implementation with a bytecode-compiled VM, deferred string parsing, and zero-allocation query execution on large documents.
+- [gh:VirtusLab/sloth](https://github.com/VirtusLab/sloth): Sloth converts Scala 3.0-3.7 lazy vals to Scala 3.8 lazy vals
 
 ## Stream / Effect systems / Experiments
 
@@ -514,15 +526,6 @@ Tracing and OpenTelemetry
 - [indoorvivants/decline-derive](https://github.com/indoorvivants/decline-derive): Derive Decline CLIs automatically from your enums and case classes in Scala 3
 - [scallop/scallop](https://github.com/scallop/scallop): a simple Scala CLI parsing library
 - [gh:tonsky/jure](https://github.com/tonsky/jure): Alternative Clojure CLI that follows shell calling conventions
-
-### JVM
-
-- [gh:OpenHFT/Chronicle-Core](https://github.com/OpenHFT/Chronicle-Core): Low level access to native memory, JVM and OS.
-- [gh:OpenHFT/Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue): Micro second messaging that stores everything to disk <http://chronicle.software/products/chronicle-queue/>
-- [gh:OpenHFT/Java-Thread-Affinity](https://github.com/OpenHFT/Java-Thread-Affinity): Bind a java thread to a given core <http://chronicle.software/products/thread-affinity/>
-- [gh:dynatrace-oss/hash4j](https://github.com/dynatrace-oss/hash4j): Dynatrace hash library for Java
-- [gh:Glavo/weburl-java](https://github.com/Glavo/weburl-java): A modern Java URL library that brings browser-grade WHATWG URL parsing to URI-style APIs. <https://weburl.glavo.site>
-- [gh:killme2008/aviatorscript](https://github.com/killme2008/aviatorscript): A high performance scripting language hosted on the JVM. <http://fnil.net/aviator/>
 
 ### Spark
 

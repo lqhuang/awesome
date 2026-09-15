@@ -131,6 +131,7 @@
 - [gh:johnHostetter/presentations](https://github.com/johnHostetter/presentations): Demo showcasing how my slides are made using manim-slides, manim-beamer, and manim-timeline.
 - [LaTeX Templates @ TUM](https://sharelatex.tum.de/templates/)
 - 🌟 [gh:jules-leguy/midcenturymodern](https://github.com/jules-leguy/midcenturymodern): A modern beamer template drawing inspiration from mid-century modern aesthetics
+- [gh:jemmybutton/fiziko](https://github.com/jemmybutton/fiziko): MetaPost library initially written to automate some elements of black and white illustrations for a physics textbook
 
 ### Typst
 
@@ -155,6 +156,7 @@
 - 🌟 [vsheg/tufted](https://github.com/vsheg/tufted): Responsive web layout with wide margins, elegant sidenotes, and restrained typography <https://tufted.vsheg.com/>
   - [Yousa-Mirage/Tufted-Blog-Template](https://github.com/Yousa-Mirage/Tufted-Blog-Template): 基于 Typst 的 Tufte 风格博客网站模板。A beautiful blog template using the Tufte style, powered by Typst. <https://little-yousa-mirage.github.io/>
 - [GiggleLiu/ptable-amat](https://github.com/GiggleLiu/ptable-amat): A Typst package for rendering periodic tables of elements
+- [gh:kodama-community/kodama](https://github.com/kodama-community/kodama): A Typst-friendly static Zettelkästen site generator. <https://kodama-community.github.io>
 
 ### Bib
 

@@ -321,14 +321,11 @@ xml
 - [keichi/binary-parser](https://github.com/keichi/binary-parser): A blazing-fast declarative parser builder for binary data
 - [Simon-He95/markdown-it-ts](https://github.com/Simon-He95/markdown-it-ts): A modern, type-safe rewrite of markdown-it in TypeScript: pluggable rules, split parse/render, CommonMark-compatible; fast one-shot parsing and even faster streaming/incremental updates. <https://www.npmjs.com/package/markdown-it-ts>
 - [gh:unjs/md4x](https://github.com/unjs/md4x): 📄 Fast and small markdown parser and renderer <https://md4x.unjs.io/#/playground>
+- [gh:comarkdown/comark](https://github.com/comarkdown/comark): A high-performance Markdown parser and renderer for Angular, React, Svelte, Vue, HTML and ANSI. <https://comark.dev>
+  - [Comark vs MDX: Components in Markdown Without a Build Step | Comark](https://comark.dev/compare/comark-vs-mdx): Comark parses component syntax at runtime with no build step, while MDX compiles Markdown to JSX at build time. Compare syntax, architecture, framework support, and streaming.
 
 ### format parser / converter
 
-- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
-- [thejoshwolfe/yazl](https://github.com/thejoshwolfe/yazl): yet another zip library for node
-- [thejoshwolfe/yauzl](https://github.com/thejoshwolfe/yauzl): yet another unzip library for node
-- [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
-- [mholt/PapaParse](https://github.com/mholt/PapaParse): Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input <http://PapaParse.com>
 - [dolanmiu/docx](https://github.com/dolanmiu/docx): Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser. <https://docx.js.org/>
 - [rgrove/parse-xml](https://github.com/rgrove/parse-xml): A fast, safe, compliant XML parser for Node.js and browsers. <https://rgrove.github.io/parse-xml>
 - [html-to-text/node-html-to-text](https://github.com/html-to-text/node-html-to-text): Advanced html to text converter
@@ -337,9 +334,21 @@ xml
 - [NPM: @smoores/epub](https://www.npmjs.com/package/@smoores/epub)
   - [Announcing: @smoores/epub](https://smoores.dev/post/announcing_smoores_epub/)
 - [jmaister/excellentexport](https://github.com/jmaister/excellentexport): Javascript export to Excel
-- [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver): a streaming interface for archive generation <https://www.archiverjs.com>
-- [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV): https://hellocsv.github.io/HelloCSV/
 - [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS): Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more. <https://gitbrent.github.io/PptxGenJS/>
+
+Archive
+
+- [gildas-lormeau/zip.js](https://github.com/gildas-lormeau/zip.js): JavaScript library to zip and unzip files supporting multi-core compression, compression streams, zip64, split files and encryption. <https://gildas-lormeau.github.io/zip.js>
+- [thejoshwolfe/yazl](https://github.com/thejoshwolfe/yazl): yet another zip library for node
+- [thejoshwolfe/yauzl](https://github.com/thejoshwolfe/yauzl): yet another unzip library for node
+- [archiverjs/node-archiver](https://github.com/archiverjs/node-archiver): a streaming interface for archive generation <https://www.archiverjs.com>
+
+CSV
+
+- [C2FO/fast-csv](https://github.com/C2FO/fast-csv): CSV parser and formatter for node <http://c2fo.github.io/fast-csv>
+- [mholt/PapaParse](https://github.com/mholt/PapaParse): Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input <http://PapaParse.com>
+- [gh:adaltas/node-csv](https://github.com/adaltas/node-csv): Full featured CSV parser with simple api and tested against large datasets. <https://csv.js.org>
+- [HelloCSV/HelloCSV](https://github.com/HelloCSV/HelloCSV): https://hellocsv.github.io/HelloCSV/
 
 ### Date
 
@@ -556,6 +565,8 @@ xml
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks): 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
 - [gh:WebReflection/utils](https://github.com/WebReflection/utils): A collection of utility functions. <https://webreflection.github.io/utils/>
 - [gh:sebhildebrandt/systeminformation](https://github.com/sebhildebrandt/systeminformation): System Information Library for Node.JS
+- [gh:soatok/constant-time-js](https://github.com/soatok/constant-time-js): Constant-time JavaScript functions <https://soatok.blog/2020/08/27/soatoks-guide-to-side-channel-attacks/>
+  - [The V8 JavaScript Runtime Undermined My Constant-Time JavaScript Library - Dhole Moments](https://soatok.blog/2026/09/12/the-v8-javascript-runtime-undermined-my-constant-time-javascript-library/)
 
 Deep equal
 

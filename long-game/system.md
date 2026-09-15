@@ -64,6 +64,7 @@
 - 🌟 [Your executable is a SQLite database | Farid Zakaria's Blog](https://fzakaria.com/2026/08/23/your-executable-is-a-sqlite-database)
   - Fun but full of insights
 - [gh:yangwenbo99/csapp-global-errata](https://github.com/yangwenbo99/csapp-global-errata): Unofficial errata for the global edition of Computer System: A Programmer's Perspective.
+- [The Deadlock Empire](https://deadlockempire.github.io/): Slay dragons, learn concurrency! Play the cunning Scheduler, exploit flawed programs and defeat the armies of the Parallel Wizard.
 
 ## Compiler
 

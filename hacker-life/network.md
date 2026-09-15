@@ -133,6 +133,7 @@
 - [gh:Kookiejarz/Auto_XDP](https://github.com/Kookiejarz/Auto_XDP): Auto-sync listening ports into XDP/nftables, preserve return traffic, keep host protection alive with fallback. Zero-config, maximum protection. <https://liuu.org/posts/ddos/>
 - 📖 [gh:foru17/neko-master](https://github.com/foru17/neko-master): A modern and elegant dashboard for network traffic visualization and analysis.
   - good to learn
+- [gh:ntop/nDPI](https://github.com/ntop/nDPI): Open Source Deep Packet Inspection Software Toolkit <http://www.ntop.org>
 
 ## SDN and network simulation
 
@@ -344,3 +345,5 @@ STUN / TURN / ICE
   - `curl -o /dev/null https://speed.cloudflare.com/__down\?bytes=100000000000000 -e speed.cloudflare.com`
   - `curl.exe https://speed.cloudflare.com/__down\?bytes=100000000000000 -e speed.cloudflare.com`
 - [Instant Domain Reputation Lookup | Identify Risky Domains](https://www.ipqualityscore.com/domain-reputation/): Perform a free domain reputation test to detect suspicious or compromised domains and access powerful risk insights with IPQS domain reputation API.
+
+- [Ping, mtr, dig, TCP port check and real time BGP looking glass from multiple locations](https://ping.pe/): The Best Ping+MTR combination Ever, plus TCP port checker and DNS diagnostics with dig, plus real time BGP looking glass from multiple locations.

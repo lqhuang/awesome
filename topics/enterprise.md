@@ -272,6 +272,7 @@ Visual stack
 - [gh:infobyte/faraday](https://github.com/infobyte/faraday): Open Source Vulnerability Management Platform <https://www.faradaysec.com>
 - [gh:CyberStrikeus/CyberStrike](https://github.com/CyberStrikeus/CyberStrike): Open-source AI-augmented offensive security harness. 13+ autonomous agents, 150+ LLM providers, 5,300+ models, 7,600+ Ed25519-signed attack skills, 56+ built-in tools, 176+ MCP tools. MITRE ATT&CK, OWASP WSTG, CIS Benchmarks. Post-exploit: Linux/Windows/macOS/AWS/Azure/K8s/CI-CD. Web UI + Cloudflare Tunnel. Your AI red team. <https://cyberstrike.io>
 - [gh:mimecast/sbom-graph](https://github.com/mimecast/sbom-graph): A tool to analyse your SBOM data at the organization level, graphing your entire ecosystem, not just by project
+- [gh:Swival/security-audits](https://github.com/Swival/security-audits): Reports from automated security audits made by Swival. <https://swival.dev>
 
 ## Career
 
