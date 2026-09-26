@@ -4,6 +4,7 @@
 
 - [React Native 中文网](https://reactnative.cn/)
 - [React Native](https://reactnative.dev/)
+- [AirBuild, Your idea.](https://air.build/): Your idea, your AI team, and a working iOS app. AirBuild builds, submits, responds, fixes, and resubmits.
 
 ### Readings
 
@@ -12,6 +13,7 @@
 - [Automating the Release Process for a Desktop Application | DoltHub Blog](https://www.dolthub.com/blog/2025-09-11-automating-desktop-release-process/): We recently automated the release process for the Dolt Workbench desktop application using GitHub Actions. This article discusses how we did it.
 - [The Complete Guide to React Native Build Optimization | The Mythical Engineer](https://themythicalengineer.com/the-complete-guide-to-react-native-build-optimization.html): If you’re building React Native apps on Linux or macOS, you’ve probably noticed that release builds for Android take far longer than they should. Open your system’s activity monitor during a build and you’ll likely see the surprising culprit: most build tools are utilizing only a single CPU core, leaving the rest of your powerful machine entirely idle.
 - [Which React Native Animation Library Should You Use for Performance? • Andrei Calazans](https://andrei-calazans.com/posts/2026-07-15-which-react-native-animation-library/): I benchmarked Animated (native driver), Reanimated 4, and react-native-ease across four animation types on Android — measuring UI + JS frame drops, per-thread CPU, and memory. The winner depends on whether a gesture is involved — plus what Worklets Bundle Mode does to Reanimated's memory.
+- [From pbxproj to xcproj - Xcode Project Configuration Gets a JSON Format](https://fatbobman.com/en/posts/from-pbxproj-to-xcproj/): Xcode 27.2 replaces the pbxproj build graph with JSON via project.xcproj. What really changes, how to migrate, and what it means for Tuist and XcodeGen.
 
 ## SwiftUI
 

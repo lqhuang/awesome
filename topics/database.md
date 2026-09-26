@@ -187,35 +187,21 @@ HA
 
 Sharding
 
-- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer): lightweight connection pooler for PostgreSQL <https://www.pgbouncer.org/>
-- [levkk/pgcat](https://github.com/levkk/pgcat): PostgreSQL pooler with sharding, load balancing and failover support.
-- [yandex/odyssey](https://github.com/yandex/odyssey): Scalable PostgreSQL connection pooler
-- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog): PostgreSQL connection pooler, load balancer and database sharder. <https://pgdog.dev>
-
-Performance
-
-- [ankane/pghero](https://github.com/ankane/pghero): A performance dashboard for Postgres
-- [aiven/pgtracer](https://github.com/aiven/pgtracer): Tracing tools for PostgreSQL, using eBPF
-- [percona/pg_stat_monitor](https://github.com/percona/pg_stat_monitor): Query Performance Monitoring Tool for PostgreSQL <https://docs.percona.com/pg-stat-monitor/>
-- [pgexporter/pgexporter](https://github.com/pgexporter/pgexporter): Prometheus exporter for PostgreSQL <https://pgexporter.github.io>
-- [pgsty/pg_exporter](https://github.com/pgsty/pg_exporter): Advanced PostgreSQL & Pgbouncer Metrics Exporter for Prometheus <https://pigsty.io>
-- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter): A PostgreSQL metric exporter for Prometheus
-
-Backup
-
-- 🌟 [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest): Reliable PostgreSQL Backup & Restore <https://pgbackrest.org>
-- 🌟 [ankane/pgsync](https://github.com/ankane/pgsync): Sync data from one Postgres database to another
-- [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman): Barman - Backup and Recovery Manager for PostgreSQL <https://www.pgbarman.org>
+- [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman): Partition management extension for PostgreSQL
 
 Migrations
 
 - [eradman/pg-safeupdate](https://github.com/eradman/pg-safeupdate): A simple extension to PostgreSQL that requires criteria for UPDATE and DELETE
 
+Search
+
+- [Introducing TIN: full-text search for Postgres — PlanetScale](https://planetscale.com/blog/introducing-tin): TIN is a fast, full-featured, full-text search index for Postgres
+  - [gh:planetscale/lead](https://github.com/planetscale/lead): A non-production Postgres text-search extension for exercising TIN-compatible application SQL in development, test, CI, and staging environments
+
 Misc
 
 - 🌟 [reorg/pg_repack](https://github.com/reorg/pg_repack): Reorganize tables in PostgreSQL databases with minimal locks
 - [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema): PostgreSQL extension providing JSON Schema validation
-- [pgpartman/pg_partman](https://github.com/pgpartman/pg_partman): Partition management extension for PostgreSQL
 - [postgrespro/aqo](https://github.com/postgrespro/aqo): Adaptive query optimization for PostgreSQL
 - [ChenHuajun/pg_roaringbitmap](https://github.com/ChenHuajun/pg_roaringbitmap): RoaringBitmap extension for PostgreSQL
 - [citusdata/pg_cron](https://github.com/citusdata/pg_cron): Run periodic jobs in PostgreSQL
@@ -304,9 +290,6 @@ Misc
 
 ### PG
 
-- [pgsty/pigsty](https://github.com/pgsty/pigsty): Free RDS for PostgreSQL — Pigsty <https://pgsty.com>
-- [vitabaks/autobase](https://github.com/vitabaks/autobase): Automated database platform for PostgreSQL® - Your own DBaaS. <https://autobase.tech>
-- [supabase/postgres](https://github.com/supabase/postgres): Unmodified Postgres with some useful plugins
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
 - 🌟 [supabase/dbdev](https://github.com/supabase/dbdev): Database Package Registry for Postgres <https://database.dev>
 - [supabase/postgres-meta](https://github.com/supabase/postgres-meta): A RESTful API for managing your Postgres. Fetch tables, add roles, and run queries <https://supabase.com>
@@ -314,19 +297,47 @@ Misc
 - [pgadmin-org/pgadmin4](https://github.com/pgadmin-org/pgadmin4): pgAdmin is the most popular and feature rich Open Source administration and development platform for PostgreSQL, the most advanced Open Source database in the world. <https://www.pgadmin.org>
 - [supabase/postgres_lsp](https://github.com/supabase/postgres_lsp): A Language Server for Postgres <https://supabase.com>
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask): PostgreSQL database anonymization and synthetic data generation tool <https://greenmask.io>
-- [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant): PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.
 - [ardentperf/dsef](https://github.com/ardentperf/dsef): DiffStats and ExplainFull: detailed SQL reports for third party help & support
-- [omnigres/omnigres](https://github.com/omnigres/omnigres): Postgres as a Platform
 - [bensheldon/good_job](https://github.com/bensheldon/good_job): Multithreaded, Postgres-based, Active Job backend for Ruby on Rails. <https://goodjob-demo.herokuapp.com/>
-- 🌟 [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus): PostgreSQL monitoring and backups (with UI and self hosted) <https://postgresus.com>
 - [pgEdge/spock](https://github.com/pgEdge/spock): Logical multi-master PostgreSQL replication <https://www.pgedge.com/get-started/>
 - [darold/pgbadger](https://github.com/darold/pgbadger): A fast PostgreSQL Log Analyzer <http://pgbadger.darold.net/>
-- [pgpool/pgpool2](https://github.com/pgpool/pgpool2): This is the official mirror of git://git.postgresql.org/git/pgpool2.git. Note that this is just a _mirror_ - we don't work with pull requests on github. Please subscribe to pgpool-hackers mailing list from our website and submit your patch to this mailing list. <https://www.pgpool.net>
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg): CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance <https://cloudnative-pg.io>
 - [xataio/pgstream](https://github.com/xataio/pgstream): PostgreSQL replication with DDL changes <https://xata.io/documentation/opensource/pgstream/overview>
 - [eulerto/wal2json](https://github.com/eulerto/wal2json): JSON output plugin for changeset extraction
 - [supabase/etl](https://github.com/supabase/etl): Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines. <https://supabase.github.io/etl/>
 - [supabase/splinter](https://github.com/supabase/splinter): Supabase Postgres Linter: Performance and Security Advisors <https://supabase.github.io/splinter/>
+
+Distribution
+
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg): CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance <https://cloudnative-pg.io>
+- [pgsty/pigsty](https://github.com/pgsty/pigsty): Free RDS for PostgreSQL — Pigsty <https://pgsty.com>
+- [omnigres/omnigres](https://github.com/omnigres/omnigres): Postgres as a Platform
+- [vitabaks/autobase](https://github.com/vitabaks/autobase): Automated database platform for PostgreSQL® - Your own DBaaS. <https://autobase.tech>
+- [supabase/postgres](https://github.com/supabase/postgres): Unmodified Postgres with some useful plugins
+
+Backup
+
+- 🌟 [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus): PostgreSQL monitoring and backups (with UI and self hosted) <https://postgresus.com>
+- 🌟 [pgbackrest/pgbackrest](https://github.com/pgbackrest/pgbackrest): Reliable PostgreSQL Backup & Restore <https://pgbackrest.org>
+- 🌟 [ankane/pgsync](https://github.com/ankane/pgsync): Sync data from one Postgres database to another
+- [EnterpriseDB/barman](https://github.com/EnterpriseDB/barman): Barman - Backup and Recovery Manager for PostgreSQL <https://www.pgbarman.org>
+
+Pooling
+
+- [pgbouncer/pgbouncer](https://github.com/pgbouncer/pgbouncer): lightweight connection pooler for PostgreSQL <https://www.pgbouncer.org/>
+- [levkk/pgcat](https://github.com/levkk/pgcat): PostgreSQL pooler with sharding, load balancing and failover support.
+- [yandex/odyssey](https://github.com/yandex/odyssey): Scalable PostgreSQL connection pooler
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog): PostgreSQL connection pooler, load balancer and database sharder. <https://pgdog.dev>
+- [pgpool/pgpool2](https://github.com/pgpool/pgpool2): This is the official mirror of git://git.postgresql.org/git/pgpool2.git. Note that this is just a _mirror_ - we don't work with pull requests on github. Please subscribe to pgpool-hackers mailing list from our website and submit your patch to this mailing list. <https://www.pgpool.net>
+
+Performance
+
+- [aiven/pgtracer](https://github.com/aiven/pgtracer): Tracing tools for PostgreSQL, using eBPF
+- [percona/pg_stat_monitor](https://github.com/percona/pg_stat_monitor): Query Performance Monitoring Tool for PostgreSQL <https://docs.percona.com/pg-stat-monitor/>
+- [nexsol-technologies/pgassistant](https://github.com/nexsol-technologies/pgassistant): PgAssistant is an open-source tool designed to help developers understand and optimize their PostgreSQL database performance.
+- [pgexporter/pgexporter](https://github.com/pgexporter/pgexporter): Prometheus exporter for PostgreSQL <https://pgexporter.github.io>
+- [pgsty/pg_exporter](https://github.com/pgsty/pg_exporter): Advanced PostgreSQL & Pgbouncer Metrics Exporter for Prometheus <https://pigsty.io>
+- [prometheus-community/postgres_exporter](https://github.com/prometheus-community/postgres_exporter): A PostgreSQL metric exporter for Prometheus
+- [ankane/pghero](https://github.com/ankane/pghero): A performance dashboard for Postgres
 
 Migrations
 

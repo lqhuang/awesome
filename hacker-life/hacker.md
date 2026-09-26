@@ -112,6 +112,10 @@
 - [eclipse-sprotty/sprotty](https://github.com/eclipse-sprotty/sprotty): A diagramming framework for the web <https://sprotty.org/>
 - [gh:dreampuf/GraphvizOnline](https://github.com/dreampuf/GraphvizOnline): Let's Graphviz it online <https://dreampuf.github.io/GraphvizOnline/>
 - [gh:sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs): Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents. <https://deepwiki.netlify.app/>
+- [gh:lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid): Render Mermaid diagrams as beautiful SVGs or ASCII art
+  - [Beautiful Mermaid by Craft](https://agents.craft.do/mermaid):
+- [gh:AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii): Render Mermaid graphs inside your terminal <https://mermaid-ascii.art/>
+- 🌟 [gh:rsms/graphviz](https://github.com/rsms/graphviz): Graphviz web app <https://rsms.me/graphviz/>
 
 ## Homelab
 
@@ -224,6 +228,7 @@
 - [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz): Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more! <https://kuvasz-uptime.dev/>
 - [gh:291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan): LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group. <https://291grp.com/open-src/>
 - [gh:Dyneteq/reconya](https://github.com/Dyneteq/reconya): Network reconnaissance and asset discovery tool <https://reconya.com/>
+- [gh:X4Applegate/caddyui](https://github.com/X4Applegate/caddyui): A modern, self-hosted web UI for Caddy — manage proxy hosts, redirections, SSL certificates, and advanced routes through a clean interface, without touching config files. <https://richardapplegate.io/static/case-studies/Caddui.html>
 
 ### Docker tools
 

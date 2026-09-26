@@ -100,6 +100,7 @@
 - [well-typed/haskell-debugger](https://github.com/well-typed/haskell-debugger): A modern step-through debugger for GHC Haskell <https://well-typed.github.io/haskell-debugger>
 - [nalchevanidze/hwm](https://github.com/nalchevanidze/hwm): HWM(Haskell Workspace Manager): is a declarative CLI tool for managing Haskell monorepos.
 - [gh:tfausak/cabal-gild](https://github.com/tfausak/cabal-gild): 👑 Format Haskell package descriptions. <https://hackage.haskell.org/package/cabal-gild>
+- [gh:mrkkrp/ghc-syntax-highlighter](https://github.com/mrkkrp/ghc-syntax-highlighter): Syntax highlighter for Haskell using the lexer of GHC
 
 ## Testing
 
@@ -119,7 +120,7 @@
 - [tweag/capability](https://github.com/tweag/capability): Extensional capabilities and deriving combinators
 - [raehik/symparsec](https://github.com/raehik/symparsec): Type level string parser combinators
 - [haskell/attoparsec](https://github.com/haskell/attoparsec): A fast Haskell library for parsing ByteStrings <http://hackage.haskell.org/package/attoparsec>
-- [mrkkrp/megaparsec](https://github.com/mrkkrp/megaparsec): Industrial-strength monadic parser combinator library
+- [gh:mrkkrp/megaparsec](https://github.com/mrkkrp/megaparsec): Industrial-strength monadic parser combinator library
   - [Megaparsec tutorial](https://markkarpov.com/tutorial/megaparsec.html)
 
 ## Logging and tracing
@@ -185,6 +186,7 @@
 - [jaspervdj/patat](https://github.com/jaspervdj/patat): Terminal-based presentations using Pandoc
 - [biegunka/terminal-size](https://github.com/biegunka/terminal-size): Get terminal window width and height <http://biegunka.github.io/terminal-size>
 - [kowainik/shellmet](https://github.com/kowainik/shellmet): 🐚 Out of the shell solution for scripting in Haskell <https://kowainik.github.io/projects/shellmet>
+- [gh:mrkkrp/setup-tilia](https://github.com/mrkkrp/setup-tilia): GitHub action that provisions Tilia
 
 ## Web
 

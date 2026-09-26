@@ -28,6 +28,10 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [gh:javierbyte/brutalita](https://github.com/javierbyte/brutalita): Experimental font and font editor, exports OTF. <https://brutalita.com>
 - [gh:123Duo3/Tiqian](https://github.com/123Duo3/Tiqian): 提椠 Tíqiàn is a CJK paragraph composer.
 - [gh:andy-portmen/font-finder](https://github.com/andy-portmen/font-finder): FontFinder is created for designers, developers and typographers. It allows a user to analyze the font information of any element on a page <https://webextension.org/listing/font-finder.html>
+- [FontDrop!](https://fontdrop.info/): Simple and easy way to view the content of font files.
+- [gh:opentypejs/opentype.js](https://github.com/opentypejs/opentype.js): Read and write OpenType fonts using JavaScript. <https://opentype.js.org/>
+- [CJK Web Font Align Tool](https://drift.roriri.one/)
+  - source: https://t.me/im_RORIRI/34385
 
 ## Fonts
 
@@ -49,6 +53,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [gh:Instrument/instrument-serif](https://github.com/Instrument/instrument-serif): A condensed, display serif designed for the Instrument brand and open-sourced for you.
 - [gh:Instrument/instrument-sans](https://github.com/Instrument/instrument-sans): A variable sans-serif designed for the Instrument brand, and open-sourced for you on google fonts.
 - [gh:BlackFoundryCom/InriaFonts](https://github.com/BlackFoundryCom/InriaFonts): Fonts and UFO Masters of Inria Serif and Inria Sans Typeface <https://black-foundry.com/work/inria/>
+- [Charitable Serif](https://www.mixfont.com/experiments/charitable-serif): A high-contrast didone typeface with sharp details and elegant proportions. Perfect for editorial headlines and expressive titles.
 
 Mono
 
@@ -131,6 +136,8 @@ CJK
 ???
 
 - [gh:franktisellano/datatype](https://github.com/franktisellano/datatype): Datatype is a variable font that turns text into charts.
+- [Decoy Font](https://www.mixfont.com/experiments/decoy-font): A TTF font that hides what you're typing from AI. Type a message where each letter contains a decoy.
+- [Ghost Font](https://www.mixfont.com/ghost-font): An anti-AI font that can be read by humans but not leading AI models. Type your text below, then download and share the video clip containing your message.
 
 ## Web
 
@@ -145,6 +152,3 @@ CJK
 - [sofish/typo.css](https://github.com/sofish/typo.css): 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版 <http://typo.sofi.sh>
 - [shanleiguang/vRain](https://github.com/shanleiguang/vRain): 中文古籍刻本風格直排電子書製作工具 Chinese ancient ebook making tool
 - [Monospace Acid Test](https://justine.lol/dox/unicode.html):
-- [gh:opentypejs/opentype.js](https://github.com/opentypejs/opentype.js): Read and write OpenType fonts using JavaScript. <https://opentype.js.org/>
-- [CJK Web Font Align Tool](https://drift.roriri.one/)
-  - source: https://t.me/im_RORIRI/34385

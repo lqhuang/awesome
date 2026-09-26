@@ -77,7 +77,8 @@
 
 ### Linker
 
-- 🌟 [rui314/mold](https://github.com/rui314/mold): mold: Mold: A Modern Linker 🦠
+- [Benchmarking Wild vs Mold | David Lattimore](https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html)
+- [rui314/mold](https://github.com/rui314/mold): mold: Mold: A Modern Linker 🦠
 - [kubkon/bold](https://github.com/kubkon/bold): bold: the bold linker
 - [davidlattimore/wild](https://github.com/davidlattimore/wild): A very fast linker for Linux
 
@@ -98,6 +99,8 @@
 - [PVS‑Studio is a solution to enhance code quality, security (SAST), and safety](https://pvs-studio.com/en/): A static analyzer for C, C++, C#, and Java code. Works on Windows, Linux, and macOS. Analyzes code for 32-bit, 64-bit, and ARM embedded platforms.
 - [gh:bootlin/elixir](https://github.com/bootlin/elixir): The Elixir Cross Referencer
   - an interesting src viewer for low level system libs (e.g.: linux, LLVM, etc)
+- 🌟 [gh:pkgconf/pkgconf](https://github.com/pkgconf/pkgconf): package compiler and linker metadata toolkit
+  - [Guide to pkg-config](https://people.freedesktop.org/~dbn/pkg-config-guide.html)
 
 ### Regex
 

@@ -30,6 +30,7 @@
 - [vopani/jaxton](https://github.com/vopani/jaxton): 100 exercises to learn JAX
 - 🌟 [Machine Learning in Production: From Models to Products](https://mlip-cmu.github.io/book/index.html)
   - [gh:mlip-cmu/book](https://github.com/mlip-cmu/book): Sources for the book "Machine Learning in Production" <https://mlip-cmu.github.io/book/>
+- [gh:bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book): 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验 <https://bojieli.github.io/ai-infra-book/>
 
 ### Triton
 
@@ -191,6 +192,7 @@ General problems
 - [gh:gpustack/gpustack](https://github.com/gpustack/gpustack): Performance-optimized AI inference on your GPUs. Unlock superior throughput by selecting and tuning engines like vLLM or SGLang. <https://gpustack.ai>
 - 🌟 [gh:perplexityai/pplx-garden](https://github.com/perplexityai/pplx-garden): Perplexity open source garden for inference technology
 - [gh:meta-pytorch/autoparallel: An experimental implementation of compiler-driven automatic sharding of models across a given device mesh.](https://github.com/meta-pytorch/autoparallel)
+- [gh:incoai/splash](https://github.com/incoai/splash): A local inference engine for Apple silicon, built around the model. <https://inco.ai/blog/splash/>
 
 ### Distribution kits
 
@@ -284,6 +286,8 @@ General problems
 - [gh:tilde-research/popcorn](https://github.com/tilde-research/popcorn): A high performance development and dispatch library for high-performance machine learning kernels. <https://tilde-research.github.io/popcorn/>
 - [gh:cursor/mixture-of-kittens](https://github.com/cursor/mixture-of-kittens): Mixture-of-experts (MoE) training megakernel for NVL72s <https://cursor.com/blog/mixture-of-kittens>
 - [gh:google/tpu-raiden](https://github.com/google/tpu-raiden)
+- [gh:deepseek-ai/DeepJIT](https://github.com/deepseek-ai/DeepJIT): A lightweight library for xPU kernel JIT compilation
+- 🌟 [gh:LancerLab/croqtile](https://github.com/LancerLab/croqtile): A Next-Gen AI-native Kernel programming DSL for Maximizing Productivity <https://lancerlab.github.io/croqtile-website/en/>
 
 ### XLA / MLIR
 

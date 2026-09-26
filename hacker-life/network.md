@@ -122,10 +122,12 @@
 - [batfish/batfish](https://github.com/batfish/batfish): Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches. <http://www.batfish.org>
 - [ivre/ivre](https://github.com/ivre/ivre): Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more! <>
 - [ntop/ntopng](https://github.com/ntop/ntopng): Web-based Traffic and Security Network Traffic Monitoring <http://www.ntop.org>
+- [gh:ntop/nDPI](https://github.com/ntop/nDPI): Open Source Deep Packet Inspection Software Toolkit <http://www.ntop.org>
 - 🌟 [akvorado/akvorado](https://github.com/akvorado/akvorado): Flow collector, enricher and visualizer <https://demo.akvorado.net>
 - [oetiker/SmokePing](https://github.com/oetiker/SmokePing): The Active Monitoring System <http://www.smokeping.org>
 - [zeek/zeek](https://github.com/zeek/zeek): Zeek is a powerful network analysis framework that is much different from the typical IDS you may know. <https://www.zeek.org>
-- [Suricata](https://suricata.io/): Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
+- [gh:OISF/suricata](https://github.com/OISF/suricata): Suricata is a network Intrusion Detection System, Intrusion Prevention System and Network Security Monitoring engine developed by the OISF and the Suricata community. <https://suricata.io>
+  - [Suricata](https://suricata.io/): Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
 - [mdlayher/corerad](https://github.com/mdlayher/corerad): CoreRAD is an extensible and observable IPv6 Neighbor Discovery Protocol router advertisement daemon. Apache 2.0 Licensed. <https://corerad.net>
 - [Orb](https://orb.net/): Understand your Internet Experience. A new app from the creators of Speedtest & Downdetector.
   - not oss project
@@ -133,7 +135,6 @@
 - [gh:Kookiejarz/Auto_XDP](https://github.com/Kookiejarz/Auto_XDP): Auto-sync listening ports into XDP/nftables, preserve return traffic, keep host protection alive with fallback. Zero-config, maximum protection. <https://liuu.org/posts/ddos/>
 - 📖 [gh:foru17/neko-master](https://github.com/foru17/neko-master): A modern and elegant dashboard for network traffic visualization and analysis.
   - good to learn
-- [gh:ntop/nDPI](https://github.com/ntop/nDPI): Open Source Deep Packet Inspection Software Toolkit <http://www.ntop.org>
 
 ## SDN and network simulation
 

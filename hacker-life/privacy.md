@@ -11,10 +11,12 @@
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists): SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. <https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project>
 - 🌟 [a13xp0p0v/kernel-hardening-checker](https://github.com/a13xp0p0v/kernel-hardening-checker): A tool for checking the security hardening options of the Linux kernel
 - [gh:juice-shop/juice-shop](https://github.com/juice-shop/juice-shop): OWASP Juice Shop: Probably the most modern and sophisticated insecure web application <https://owasp-juice.shop>
-- [How To Use URL Parameters To Change Your DuckDuckGo Search Settings - DuckDuckGo Help Pages](https://duckduckgo.com/duckduckgo-help-pages/settings/params): DuckDuckGo doesn't track you. That's the DuckDuckGo privacy policy in a nutshell.
+- [How To Use URL Paramete`rs To Change Your DuckDuckGo Search Settings - DuckDuckGo Help Pages](https://duckduckgo.com/duckduckgo-help-pages/settings/params): DuckDuckGo doesn't track you. That's the DuckDuckGo privacy policy in a nutshell.
   - [Preference settings for duckduckgo.com / duck.com](https://gist.github.com/blackrobot/b34a345f22f7fc63e2a08b456e560def): Preference settings for duckduckgo.com / duck.com. GitHub Gist: instantly share code, notes, and snippets.
   - my parametes: <https://duckduckgo.com/?kl=us-en&kp=-2&kz=1&kc=-1&kn=1&k1=-1&kak=-1&kax=-1&kap=-1&kao=-1>
 - [codeberg:shadow/SpywareWatchdog](https://codeberg.org/shadow/SpywareWatchdog): <https://spyware.neocities.org/>
+- [ZuckOff | Camera glasses detector](https://zuckoff.app/): ZuckOff listens for the Bluetooth advertisements camera glasses emit and tells you when a lens is in the room. Everything stays on your phone.
+  - > Camera glasses announce themselves over Bluetooth. ZuckOff listens for that and tells you when Ray-Ban Meta, Oakley Meta, Snap Spectacles or similar hardware is nearby. Nothing leaves your phone and there is no account.
 
 ## Tools
 
@@ -117,3 +119,8 @@ Chrome Only
 - [Cloaq - Location Guard & Locale Switcher](https://chromewebstore.google.com/detail/cloaq-location-guard-loca/fcalilbnpkfikdppppppchmkdipibalb): Spoof time zone, geolocation & locale. Match your location data to your VPN's IP address.
   - [gh:www1z4rd/cloaq](https://github.com/www1z4rd/cloaq): Browser extension to spoof time zone, geolocation & locale.
 - [Spoof Geolocation](https://chromewebstore.google.com/detail/spoof-geolocation/ihdobppgelceaoeojmhpmbnaljhhmhlc): Rewrites the browser's geolocation coordinates (latitude and longitude) to custom values.
+
+- [How to Rename Firefox's Profile Path | K4YT3X](https://k4yt3x.com/how-to-rename-firefoxs-profile-path/): I have recently ran into issues trying to rename Firefox’s profile path for synchronization and automation purposes. In this article I’m going to show you how to make it work.
+- [2020 Firefox 安全、隐私、实用扩展指南 | K4YT3X](https://k4yt3x.com/2020-firefox-%E5%AE%89%E5%85%A8%E9%9A%90%E7%A7%81%E5%AE%9E%E7%94%A8%E6%89%A9%E5%B1%95%E6%8C%87%E5%8D%97/): 本篇文章将会介绍一些我目前使用的安全、隐私和实用相关的 Firefox 扩展。
+- [Firefox 启用隐藏功能 Letterboxing 以避免身份追踪 | K4YT3X](https://k4yt3x.com/firefox-%E5%90%AF%E7%94%A8%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD-letterboxing-%E4%BB%A5%E9%81%BF%E5%85%8D%E8%BA%AB%E4%BB%BD%E8%BF%BD%E8%B8%AA/): 当用户使用非标准窗口尺寸的浏览器进行网页浏览时，浏览器的独特尺寸可以让网站有效追踪用户身份，即使用户已经禁用了 JavaScript 和 Cookie 等传统身份追踪（Fingerprinting）手段的媒介。这篇文章将教您如何在 Firefox 中启用 Letterboxing 功能来预防此种身份追踪手段。
+- [在 Windows 和 Linux 系统上禁用 LLMNR 以及 NetBIOS | K4YT3X](https://k4yt3x.com/%E5%9C%A8-windows-%E5%92%8C-linux-%E7%B3%BB%E7%BB%9F%E4%B8%8A%E7%A6%81%E7%94%A8-llmnr-%E4%BB%A5%E5%8F%8A-netbios/): LLMNR 和 NetBIOS 都可以解析本地其它设备的名称解析请求，但是都不验证其回复合法性。这两个服务容易被利用进行 MITM 攻击。此篇文章将会讲解如何在 Linux 和 Windows 系统上关闭 LLMNR 和 NetBIOS。

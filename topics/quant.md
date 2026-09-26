@@ -101,6 +101,7 @@
 - [cuemacro/findatapy](https://github.com/cuemacro/findatapy): Python library to download market data via Bloomberg, Eikon, Quandl, Yahoo etc.
 - [JerBouma/FinanceToolkit](https://github.com/JerBouma/FinanceToolkit): Transparent and Efficient Financial Analysis <https://www.jeroenbouma.com/>
 - [d60/twikit](https://github.com/d60/twikit): Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot <https://twikit.readthedocs.io/en/latest/twikit.html>
+- [gh:gnzsnz/ib-gateway-docker](https://github.com/gnzsnz/ib-gateway-docker): Docker image with IB Gateway/TWS and IBC
 
 ## Low level library
 

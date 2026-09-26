@@ -79,6 +79,7 @@
 - [allyourcodebase/zlib](https://github.com/allyourcodebase/zlib): zlib ported to the zig build system
 - [gsquire/zig-snappy](https://github.com/gsquire/zig-snappy): Snappy compression for Zig
 - [Codeberg - atman/zg](https://codeberg.org/atman/zg): zg provides Unicode text processing for Zig projects.
+- [gh:peymanmortazavi/csv-zero](https://github.com/peymanmortazavi/csv-zero): Zero Allocation, SIMD-accelerated CSV iterator and emitter in Zig
 
 ### Tools
 

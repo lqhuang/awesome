@@ -261,14 +261,16 @@ Type 1 hypervisors
 - [XTXMarkets/ternfs](https://github.com/XTXMarkets/ternfs): A distributed file system
 - [cxl-micron-reskit/famfs](https://github.com/cxl-micron-reskit/famfs): This is the user space repo for famfs, the fabric-attached memory file system
 - [scality/Zenko](https://github.com/scality/Zenko): Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud. <https://www.zenko.io>
-- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs): SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. <https://seaweedfs.com>
-- [yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs): Finally, a good FUSE FS implementation over S3
-- [tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs): High performance FUSE filesystem for AI workloads with S3 compatible backends
-- [supabase/storage](https://github.com/supabase/storage): S3 compatible object storage service that stores metadata in Postgres <https://supabase.com/docs/guides/storage>
+- [gh:seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs): SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. <https://seaweedfs.com>
+- [gh:yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs): Finally, a good FUSE FS implementation over S3
+- [gh:tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs): High performance FUSE filesystem for AI workloads with S3 compatible backends
+- [gh:supabase/storage](https://github.com/supabase/storage): S3 compatible object storage service that stores metadata in Postgres <https://supabase.com/docs/guides/storage>
 - [gh:versity/versitygw](https://github.com/versity/versitygw): A simple to deploy but feature rich S3 object storage server for your filesystem <https://www.versity.com/products/versitygw/>
 - [gh:Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3): Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest. <https://www.vaults3.com>
 - [gh:Barre/ZeroFS](https://github.com/Barre/ZeroFS): ZeroFS: A log-structured filesystem for S3. ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD. <https://www.zerofs.net/>
 - [gh:tigrisdata/tag](https://github.com/tigrisdata/tag): Tigris Acceleration Gateway
+- [gh:gaul/s3proxy](https://github.com/gaul/s3proxy): Access other storage backends via the S3 API
+- [gh:deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage): (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage <https://git.deuxfleurs.fr/Deuxfleurs/garage>
 
 ### Serverless
 
@@ -281,7 +283,7 @@ Type 1 hypervisors
 - [SukkaW/dashflare](https://github.com/SukkaW/dashflare): An unofficial Cloudflare dashboard built on top of Cloudflare API. <https://dashflare.skk.moe>
 - [DBOS](https://www.dbos.dev/): DBOS is a serverless platform that radically simplifies backend development in Python and TypeScript. Build 10x faster and scale to millions with a single click.
 - 🌟 [unikraft/unikraft](https://github.com/unikraft/unikraft): Unikraft is an automated system for building specialized OSes known as unikernels. Unikraft can be configured to be POSIX-compliant. <http://unikraft.org/>
-- [gh:google/ax](https://github.com/google/ax): Google's open source distributed agent runtime
+- [gh:google/ax](https://github.com/google/ax): Google's open agentic orchestrator <https://agentexecutor.io>
 - [gh:agent-substrate/substrate](https://github.com/agent-substrate/substrate): Agent Substrate: the core system
 
 ### Durable Functions / FaaS
@@ -492,6 +494,7 @@ Type 1 hypervisors
 - [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence): Local development against a remote Kubernetes or OpenShift cluster <https://www.telepresence.io>
 - [educates/educates-training-platform](https://github.com/educates/educates-training-platform): A platform for hosting interactive workshop environments in Kubernetes, or on top of a local container runtime. <https://educates.dev>
 - 🌟 [gh:yonahd/kor](https://github.com/yonahd/kor): A Golang Tool to discover unused Kubernetes Resources
+- 🌟 [gh:kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin): A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 
 ## Hashicorp
 
@@ -594,6 +597,8 @@ Type 1 hypervisors
 - [The Duckbill Group](https://www.duckbillgroup.com/): If your AWS bill keeps rising — and your blood pressure is doing the same — then you should be working with our team of cloud cost management experts.
 - [opencost/opencost](https://github.com/opencost/opencost): Cost monitoring for Kubernetes workloads and cloud costs <http://opencost.io>
 - [Vantage](https://www.vantage.sh/): Understand cloud costs and automate savings. See how much Vantage can reduce your bill by connecting accounts.
+- [gh:computesdk/computesdk](https://github.com/computesdk/computesdk): A free and open-source toolkit for running other people's code in your applications. <https://computesdk.com>
+  - [gh:computesdk/benchmarks](https://github.com/computesdk/benchmarks): Compare performance across sandbox, storage, browsers, and ai gateway providers. <https://www.computesdk.com/benchmarks/>
 
 ## Infra Security and Audit
 

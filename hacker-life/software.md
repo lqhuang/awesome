@@ -2,8 +2,6 @@
 
 ## Software
 
-- [qarmin/czkawka](https://github.com/qarmin/czkawka): Multi functional app to find duplicates, empty folders, similar images etc.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive): Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [elkowar/eww](https://github.com/elkowar/eww): ElKowars wacky widgets <https://elkowar.github.io/eww>
 - 🌟 [LanguageTool](https://languagetool.org): Instantly Enhance Your Writing
 - [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake): HandBrake is a open-source tool, built by volunteers, for converting video from nearly any format to a selection of modern, widely supported codecs. <https://handbrake.fr>
@@ -48,6 +46,12 @@
 - 🌟 [gh:DetachHead/rebased](https://github.com/DetachHead/rebased): A git client based on the IntelliJ platform
 - 🌟 [gh:zackb/tether](https://github.com/zackb/tether): Linux + iPhone Continuity / iMessage / SMS
 
+### Drive / Cloud Storage
+
+- [qarmin/czkawka](https://github.com/qarmin/czkawka): Multi functional app to find duplicates, empty folders, similar images etc.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive): Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
+- [Cloud storage manager | CloudMounter for Mac & Win](https://cloudmounter.net/): Connect to Dropbox, Google Drive, OneDrive, Amazon S3, and other cloud services from Finder via CloudMounter - a handy tool for cloud data management.
+
 ### Reader
 
 - [ahrm/sioyek](https://github.com/ahrm/sioyek): Sioyek is a PDF viewer designed for reading research papers and technical books. <https://sioyek.info>
@@ -68,6 +72,13 @@
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes): Notes manager for macOS/iOS <https://fsnot.es>
 - [foambubble/foam](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode <https://foambubble.github.io/>
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook): A fully open source & end-to-end encrypted note taking alternative to Evernote. <https://notesnook.com/>
+
+### Launchers
+
+Raycast is good, but ... when it comes to AI, it becomes a bit of less effective ...
+
+- [gh:abue-ammar/tinycast](https://github.com/abue-ammar/tinycast): Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. <https://tinycast.dev>
+- [gh:vicinaehq/vicinae](https://github.com/vicinaehq/vicinae): A focused launcher for your desktop - native, fast, extensible <https://vicinae.com>
 
 ## macOS / iPadOS
 
@@ -116,7 +127,7 @@
 - [godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion): Run Stable Diffusion on Mac natively
 - 🌟 [objective-see/LuLu](https://github.com/objective-see/LuLu): LuLu is the free macOS firewall
 - [superhighfives/pika](https://github.com/superhighfives/pika): An open-source colour picker app for macOS <https://superhighfives.com/pika>
-- [dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons <https://d.foundation/opensource>
+- [gh:dwarvesf/hidden](https://github.com/dwarvesf/hidden): An ultra-light MacOS utility that helps hide menu bar icons <https://d.foundation/opensource>
 - [MacPass/MacPass](https://github.com/MacPass/MacPass): A native macOS KeePass client <https://macpassapp.org>
 - [actuallymentor/battery](https://github.com/actuallymentor/battery): CLI for managing the battery charging status for M1 Macs
 - [coteditor/CotEditor](https://github.com/coteditor/CotEditor): Lightweight Plain-Text Editor for macOS <https://coteditor.com>
@@ -166,12 +177,14 @@
 - 🌟 [gh:iAmCorey/birth](https://github.com/iAmCorey/birth): 一目了然地管理你的电脑启动项 | 开源 macOS 启动项管理器
 - [gh:Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll): Dynamic Island for macOS <https://getatoll.app>
 - [gh:vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils): Free and open-source macOS menu bar toolkit. <https://vorssaint.com>
+- [gh:duongductrong/Snapzy](https://github.com/duongductrong/Snapzy): An open-source native macOS screenshot and screen recording app. A CleanShot X alternative. <https://snapzy.app>
 
 ### Free / Paid
 
 - [Mac Torrents](https://www.torrentmac.net/): Torrents for Mac. Free Apps, Games & Plugins. Apple Final Cut Pro & Logic Pro X, Adobe Photoshop, Microsoft Office, Pixel Film Studios, ...
 - 🌟 [TopNotch](https://topnotch.app): Makes the notch disappear like a 🥷
-- [CleanShot X](https://cleanshot.com): Capture your Mac’s screen like a pro.
+- 🌟 [CleanShot](https://cleanshot.com): There are average capture apps. And there's CleanShot.
+  - Now supports Studio Mode since Version 5.0, Sep 1, 2026.
 - 🌟 [Shottr](https://shottr.cc): Shottr is a small, fast, human-sized screenshot app built for those who care about pixels. It was crafted with Swift, optimized for M1, and is distributed for free.
 - [Skim](https://skim-app.sourceforge.io): Skim is a PDF reader and note-taker for OS X. It is designed to help you read and annotate scientific papers in PDF, but is also great for viewing any PDF file.
 - [NTFS Disk by Omi](https://omiapps.com/product/1585757563): Best NTFS Disk Manager on Mac App Store
@@ -217,6 +230,8 @@
   - Genius idea!
 - 🌟 [Pica](https://pica.joshpuckett.me/): A MacOS font management app. A better way to manage your fonts
 - [AndDrive](https://anddrive.catchingnow.com/): Mount Android in Finder, mirror your screen with low latency, sync clipboard content, and type with native Mac input methods.
+- 🌟 [AndroMeld](https://andromeld.catchingnow.com/): Android file transfer, apps, and calls on Mac
+  - > Use Android apps on your Mac, manage files in Finder, and take calls at your desk. Download free, get Pro in the app
 - [Blip – The fastest way to send files](https://blip.net/): Send big files with no size limits, at full quality, directly to other people Send big files with no size limits, at full quality, directly to other people and devices.
 - [Graker - 菜单栏里的英文语法检查与翻译](https://graker.fehey.com/zh): 选中句子按快捷键：语法改好、译文出来，格式不丢。用你自己的 API Key，文本直达模型服务商。免费，macOS 13+
 - [Screenflare — Create screen recordings people want to watch.](https://screenflare.app/): Screenflare records your Mac and makes it look good — zooming in on every click, smoothing out your cursor and setting it all on a backdrop worth showing. Screenshots get the same treatment, marks and blur included. Nothing is locked in until you export.
@@ -343,6 +358,7 @@ Terminal / SSH
   - export WeBook to Readwise
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成 HTML、Word、CSV 文档永久保存，对聊天记录进行分析生成年度聊天报告
 - [gh:fxyadela/write-then-publish](https://github.com/fxyadela/write-then-publish): 本地优先的中文内容排版工具：把 Markdown 转成小红书图文卡片、公众号长文和可下载图片，并支持 Obsidian 工作流。 <https://fawen.fun>
+- [gh:whyubel1eve/Mars-Editor-APP](https://github.com/whyubel1eve/Mars-Editor-APP): Markdown 写作，一键转成公众号排版，可直接推送到草稿箱。macOS / Windows / Linux 桌面应用 <https://mars-editor.cc>
 
 ## Self-hosted services
 

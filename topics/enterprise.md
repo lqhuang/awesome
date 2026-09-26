@@ -23,6 +23,7 @@
 - [gravitational/teleport](https://github.com/gravitational/teleport): The easiest, and most secure way to access and protect all of your infrastructure. <https://goteleport.com>
 - 🌟 [warp-tech/warpgate](https://github.com/warp-tech/warpgate): Fully transparent SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software <https://warpgate.null.page>
 - [gh:inthhq/dsar](https://github.com/inthhq/dsar): Open-source standard for handling DSAR requests programmatically. <https://dsar-sdk.com/>
+- [gh:dopbase/dopbase](https://github.com/dopbase/dopbase): DevOps secrets base: lightweight, self-hosted secrets manager in a single file <https://dopbase.com>
 
 ## Worksuites
 
@@ -306,6 +307,7 @@ Visual stack
 - [polarsource/polar](https://github.com/polarsource/polar): Polar gives open source maintainers a better and funded backlog based on what drives the most impact within their community. <https://polar.sh>
 - [ossf/scorecard](https://github.com/ossf/scorecard): OpenSSF Scorecard - Security health metrics for Open Source <https://scorecard.dev>
 - [GitHub Docs - About GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
+- 🌟 [Alpha Omega](https://alpha-omega.dev/): Alpha-Omega’s mission is to protect society by catalyzing sustainable security improvements across open source, from the largest global projects to the smallest but essential components maintained by individuals.
 
 ## Billing
 

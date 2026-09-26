@@ -136,7 +136,7 @@
 - [pantsbuild/pants](https://github.com/pantsbuild/pants): The Pantsbuild developer workflow system <https://www.pantsbuild.org>
 - [thought-machine/please](https://github.com/thought-machine/please): High-performance extensible build system for reproducible multi-language builds. <https://please.build>
 - [mesonbuild/meson](https://github.com/mesonbuild/meson): The Meson Build System <http://mesonbuild.com/>
-- [muon-build/muon](https://github.com/muon-build/muon): An implementation of the meson build system in c99 <https://muon.build>
+- 🌟 [muon-build/muon](https://github.com/muon-build/muon): An implementation of the meson build system in c99 <https://muon.build>
 - [moonrepo/moon](https://github.com/moonrepo/moon): A task runner and repo management tool for the web ecosystem, written in Rust. <https://moonrepo.dev/>
 - [earthly/earthly](https://github.com/earthly/earthly): Super simple build framework with fast, repeatable builds and an instantly familiar syntax – like Dockerfile and Makefile had a baby. <https://earthly.dev>
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink): NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware. <https://nativelink.com>
@@ -347,9 +347,10 @@ Fastlink for my own projects
   - [bcr:bazel_env.bzl](https://registry.bazel.build/modules/bazel_env.bzl)
 - [gh:tweag/skyscope](https://github.com/tweag/skyscope): A tool for visualising and exploring Bazel Skyframe graphs.
 - [gh:tweag/credential-helper](https://github.com/tweag/credential-helper): A credential-helper framework and agent for Bazel and similar tools implementing the credential-helper spec. <https://registry.bazel.build/modules/tweag-credential-helper>
-- [gh:mrkkrp/ahab](https://github.com/mrkkrp/ahab): Advanced hermeticity analyzer for Bazel
+- 🌟 [gh:mrkkrp/ahab](https://github.com/mrkkrp/ahab): Advanced hermeticity analyzer for Bazel
 - [gh:buchgr/bazel-remote](https://github.com/buchgr/bazel-remote): A remote cache for Bazel <https://bazel.build>
 - [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink): NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and specialized hardware. <https://nativelink.com>
+- 🌟 [gh:bazelbuild/continuous-integration](https://github.com/bazelbuild/continuous-integration): Bazel's Continuous Integration Setup <https://buildkite.com>
 
 ### Nix
 

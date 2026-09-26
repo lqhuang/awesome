@@ -490,13 +490,13 @@ CSV
 - [open-cli-tools/concurrently](https://github.com/open-cli-tools/concurrently): Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better. <https://www.npmjs.com/package/concurrently>
 - [webdiscus/ansis](https://github.com/webdiscus/ansis): CJS/ESM ANSI color library for CI, terminals and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
 - [bloomberg/stricli](https://github.com/bloomberg/stricli): Build complex CLIs with type safety and no dependencies <https://bloomberg.github.io/stricli>
-- [dahlia/optique](https://github.com/dahlia/optique): Type-safe combinatorial CLI parser for TypeScript <http://optique.dev/>
 - [privatenumber/cleye](https://github.com/privatenumber/cleye): 👁‍🗨 Strongly typed CLI development for Node.js
 - [privatenumber/type-flag](https://github.com/privatenumber/type-flag): ⛳️ Typed command-line arguments parser for Node.js
 - [privatenumber/tasuku](https://github.com/privatenumber/tasuku): ✅ タスク — The minimal task visualizer for Node.js
 - [infinitered/gluegun](https://github.com/infinitered/gluegun): A delightful toolkit for building TypeScript-powered command-line apps.
 - [tinylibs/picospinner](https://github.com/tinylibs/picospinner): A lightweight, no dependency, pluggable CLI spinner library.
 - [larswaechter/voici.js](https://github.com/larswaechter/voici.js): A Node.js library for pretty printing your data on the terminal🎨 <https://voici.larswaechter.dev>
+- [gh:unjs/citty](https://github.com/unjs/citty): 🌆 Elegant CLI Builder
 
 ### Image
 

@@ -281,7 +281,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [reshaped-ui/reshaped](https://github.com/reshaped-ui/reshaped): Professionally crafted React & Figma components for building beautiful products or starting your own design system
 - 🌟 [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui): A JavaScript library to position floating elements and create interactions for them. <https://floating-ui.com>
 - [radix-ui/primitives](https://github.com/radix-ui/primitives): An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz. <https://radix-ui.com>
-  - [shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
 - [gh:swiftuijs/ui](https://github.com/swiftuijs/ui): an attempt to implement SwiftUI in Javascript(base on React) <https://swiftuijs.evecalm.com>
 
 #### React Aria eco system
@@ -301,6 +300,8 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 Shadcn UI eco system
 
+- [gh:shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
+- [gh:shadcn-ui/lint](https://github.com/shadcn-ui/lint): An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui. <https://awesome-shadcn-ui.vercel.app/>
 - [bytefer/awesome-shadcn-ui](https://github.com/bytefer/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui.
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table): A shadcn table component with server-side sorting, filtering, and pagination. <https://table.sadmn.com>

@@ -25,6 +25,9 @@
 - 🌟 [mitmath/computational-thinking](https://github.com/mitmath/computational-thinking): Course 18.S191 at MIT, Fall 2022 - Introduction to computational thinking with Julia <https://computationalthinking.mit.edu/>
 - [mathematical-tours/mathematical-tours.github.io](https://github.com/mathematical-tours/mathematical-tours.github.io): Site web of the Mathematical Tours
 - [the-akira/Computer-Science-Resources](https://github.com/the-akira/Computer-Science-Resources): A list of resources in different fields of Computer Science
+- [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/): : Human-Centered AI, Deep Learning Interpretation & Visualization, Cybersecurity, Large Graph Visualization and Mining
+  - > We create scalable, interactive, and interpretable tools that amplify human's ability to understand and interact with billion-scale data and machine learning models. Our current research thrusts: human-centered AI (safe, interpretable, trustworthy AI; adversarial ML; inclusive AI); large graph visualization and mining; cybersecurity; and social good (health, energy).
+  - Found lots of interesting illustrations and examples in their research projects.
 
 ## Numerical Analysis
 
@@ -112,6 +115,7 @@
 - [gh:LucasAschenbach/vscode-unicode-math](https://github.com/LucasAschenbach/vscode-unicode-math): Type LaTeX-like \alpha, \to, \subseteq, etc., and get Unicode math symbols everywhere. <https://marketplace.visualstudio.com/items?itemName=LucasAschenbach.unicode-math-symbols>
 - [gh:HirokiHamaguchi/latexlint](https://github.com/HirokiHamaguchi/latexlint): Linter for LaTeX with useful commands for academic writing <https://hirokihamaguchi.github.io/latexlint/>
   - [gh:dainiak/latexcheck](https://github.com/dainiak/latexcheck): JS LaTeX style checker a la ChkTex
+- [gh:LionSR/tenkz](https://github.com/LionSR/tenkz): Tensor-network diagrams from a description of the network
 
 ### Latex Templates
 
