@@ -37,6 +37,15 @@
 - [gaul/java-httpbin](https://github.com/gaul/java-httpbin): A Java-based HTTP server that lets you locally test your HTTP client, retry logic, streaming behavior, timeouts, etc. with the endpoints of httpbin.org
 - [jaredwray/mockhttp](https://github.com/jaredwray/mockhttp): A simple HTTP server that can be used to mock HTTP responses for testing purposes. Inspired by httpbin and built using nodejs and fastify with the idea of running it via https://mockhttp.org, via docker jaredwray/mockhttp, or nodejs npm install jaredwray/mockhttp. <https://mockhttp.org>
 
+### Chaos Engineering
+
+- [gh:dastergon/awesome-chaos-engineering](https://github.com/dastergon/awesome-chaos-engineering): A curated list of Chaos Engineering resources.
+- [gh:Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey): Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+  - [gh:chaos-eng/chaos-eng.github.io](https://github.com/chaos-eng/chaos-eng.github.io): Principles of Chaos Engineering <http://principlesofchaos.org>
+- [gh:chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade): An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具） <https://chaosblade.io>
+- [gh:chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh): A Chaos Engineering Platform for Kubernetes. <https://chaos-mesh.org>
+- [gh:chaostoolkit/chaostoolkit](https://github.com/chaostoolkit/chaostoolkit): Chaos Engineering Toolkit & Orchestration for Developers <https://chaostoolkit.org>
+
 ### API Test
 
 - [usebruno/bruno](https://github.com/usebruno/bruno): Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia) <https://www.usebruno.com/>
@@ -125,7 +134,6 @@
 - [apitable/apitable](https://github.com/apitable/apitable): 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. <https://aitable.ai>
 - [dream-num/univer](https://github.com/dream-num/univer): Univer is an open-source alternative to Google Sheets, Slides, and Docs <https://univer.ai>
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase): A blazingly fast, single-file, and open-source server for your application with type-safe restful APIs, auth, admin dashboard, and more. <https://trailbase.io>
-- [legions-developer/invoicely](https://github.com/legions-developer/invoicely): Invoicely is a simple and easy to use invoice generator where you can create beautiful and professional invoices in minutes. ~ Proudly OSS <https://invoicely.gg>
 
 ## Auth
 
@@ -183,6 +191,7 @@
 - [awslabs/ssosync](https://github.com/awslabs/ssosync): Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda
 - [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit): delegated, decentralized, capabilities based authorization token
 - [gh:cesanta/docker_auth](https://github.com/cesanta/docker_auth): Authentication server for Docker Registry 2
+- [gh:authgear/authgear-server](https://github.com/authgear/authgear-server): Open source Auth0/Keycloak alternative. Passkeys, SSO, MFA, passwordless, biometric login. Self-hosted or cloud. Enterprise-ready for SaaS & mobile apps <https://www.authgear.com>
 
 ## Analytics
 
@@ -228,6 +237,11 @@
 - [jamsocket/plane](https://github.com/jamsocket/plane): A distributed system for running WebSocket services at scale. <https://plane.dev>
 - [electric-sql/electric](https://github.com/electric-sql/electric): Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres. <https://electric-sql.com>
 
+## SDK
+
+- [gh:cloudflare/forge](https://github.com/cloudflare/forge): Forge is a schema-first OpenAPI code generation and surface tooling framework.
+  - [Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more | Cloudflare Blog](https://blog.cloudflare.com/forge-open-source-generation-pipeline/): Forge is a pluggable, open-source pipeline that runs in CI to generate SDKs, CLIs, and documentation directly from API definitions.
+
 ## Interface Definition Language
 
 - [google/gnostic](https://github.com/google/gnostic): A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
@@ -267,6 +281,7 @@
 - 🌟 [gh:connectrpc/connectrpc.com](https://github.com/connectrpc/connectrpc.com): Docs, governance, and RFCs for Connect: Protobuf RPC that works. <https://connectrpc.com>
   - [ConnectRPC: Where is it now?](https://kmcd.dev/posts/connectrpc-where-is-it-now/): Reflecting on two years of ConnectRPC: How it evolved from a gRPC alternative to a complete API ecosystem.
 - [gh:anthropics/connect-rust](https://github.com/anthropics/connect-rust): An implementation of the ConnectRPC protocol for Rust
+- [gh:LesnyRumcajs/grpc_bench](https://github.com/LesnyRumcajs/grpc_bench): Various gRPC benchmarks
 
 ## Serverless
 

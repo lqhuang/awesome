@@ -114,19 +114,15 @@
 - [mochajs/mocha](https://github.com/mochajs/mocha): ☕️ simple, flexible, fun javascript test framework for node.js & the browser <https://mochajs.org>
 - [enzymejs/enzyme](https://github.com/enzymejs/enzyme): JavaScript Testing utilities for React <https://enzymejs.github.io/enzyme/>
 - [chaijs/chai](https://github.com/chaijs/chai): BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework. <https://chaijs.github.io>
-- [sinonjs/sinon](https://github.com/sinonjs/sinon): Test spies, stubs and mocks for JavaScript. <https://sinonjs.org/>
 - vitest
 - [Chromatic](https://www.chromatic.com/): Ship UIs faster by automating grunt work. Chromatic automates visual & interaction tests for Storybook. Connect CI/CD and Figma workflows to streamline stakeholder sign-off. Generate versioned component docs.
 - [nightwatchjs/nightwatch](https://github.com/nightwatchjs/nightwatch): Integrated end-to-end testing framework written in Node.js and using W3C Webdriver API. Developed at @browserstack <https://nightwatchjs.org>
-- 🌟 [mswjs/msw](https://github.com/mswjs/msw): Industry standard API mocking for JavaScript. <https://mswjs.io>
 - [fastify/light-my-request](https://github.com/fastify/light-my-request): Fake HTTP injection library
-- 🌟 [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem): An in memory postgres DB instance for your unit tests
 - [avajs/ava](https://github.com/avajs/ava): Node.js test runner that lets you develop with confidence 🚀
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench): 🔎 A simple, tiny and lightweight benchmarking library!
 - [ladjs/supertest](https://github.com/ladjs/supertest): 🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API. Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.
 - [goldbergyoni/nodejs-testing-best-practices](https://github.com/goldbergyoni/nodejs-testing-best-practices): Beyond the basics of Node.js testing. Including a super-comprehensive best practices list and an example app (April 2025)
 - [wheresrhys/fetch-mock](https://github.com/wheresrhys/fetch-mock): Mock http requests made using fetch <http://www.wheresrhys.co.uk/fetch-mock/>
-- [nock/nock](https://github.com/nock/nock): HTTP server mocking and expectations library for Node.js
 - [tstyche/tstyche](https://github.com/tstyche/tstyche): Everything You Need for Type Testing. <https://tstyche.org>
 - [sinonjs/sinon](https://github.com/sinonjs/sinon): Test spies, stubs and mocks for JavaScript. <https://sinonjs.org/>
 - [sinonjs/fake-timers](https://github.com/sinonjs/fake-timers): Fake setTimeout and friends (collectively known as "timers"). Useful in your JavaScript tests. Extracted from Sinon.JS
@@ -137,6 +133,11 @@ Fake Data
 - [snaplet/copycat](https://github.com/snaplet/copycat): Generate deterministic fake values: The same input will always generate the same fake-output. <https://www.snaplet.dev>
 - [json-schema-faker/json-schema-faker](https://github.com/json-schema-faker/json-schema-faker): JSON-Schema + fake data generators <http://json-schema-faker.js.org/>
 - 🌟 [poppinss/file-generator](https://github.com/poppinss/file-generator): Generate fake in-memory files for varying sizes
+
+Mocking
+
+- 🌟 [mswjs/msw](https://github.com/mswjs/msw): Industry standard API mocking for JavaScript. <https://mswjs.io>
+- [gh:nock/nock](https://github.com/nock/nock): HTTP server mocking and expectations library for Node.js
 
 Specific
 
@@ -261,6 +262,7 @@ Specific
   - [ArkType Docs: Match](https://arktype.io/docs/match): Optimized runtime validation for TypeScript syntax
 - [ajv-validator/ajv](https://github.com/ajv-validator/ajv): The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927) <https://ajv.js.org>
 - 🌟 [gh:ata-core/ata-validator](https://github.com/ata-core/ata-validator): Ultra-fast JSON Schema validator powered by simdjson. 2,067x faster compilation, 793x faster first validation, ReDoS-immune (RE2). Lazy compilation + schema cache. Standard Schema V1. <https://ata-validator.com>
+  - [Dain Lemire says it's quite possibly the fastest JSON Schema validator](https://x.com/lemire/status/2105361118197625152)
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct): A simple and composable way to validate data in JavaScript (and TypeScript). <https://docs.superstructjs.org/>
 - [jquense/yup](https://github.com/jquense/yup): Dead simple Object schema validation
 - [tskj/typescript-json-decoder](https://github.com/tskj/typescript-json-decoder): Json Decoder for Typescript

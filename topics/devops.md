@@ -21,6 +21,7 @@
 - 🌟 [The Package Management Landscape | Andrew Nesbitt](https://nesbitt.io/2026/01/03/the-package-management-landscape.html): A directory of tools, systems, and services that relate to package management.
 - [High Performance Git](https://gitperf.com/): High Performance Git by Ted Nyman, a book about Git internals and large Git repositories.
 - [gh:google/eng-practices](https://github.com/google/eng-practices): Google's Engineering Practices documentation <https://google.github.io/eng-practices/>
+- 🌟 [Securing CI/CD for an open source project: lessons from Cilium](https://cilium.io/blog/2026/05/06/securing-cicd-open-source-lessons-from-cilium/): A case study of how Cilium secures its CI/CD pipeline end to end.
 
 ## Tools
 
@@ -327,6 +328,15 @@ Fastlink for my own projects
 - [bcr:z3](https://registry.bazel.build/modules/z3).
 - [bcr:zstd](https://registry.bazel.build/modules/zstd)
 
+#### Remote Caching and Execution
+
+- [gh:bazelbuild/remote-apis](https://github.com/bazelbuild/remote-apis): An API for caching and execution of actions on a remote system.
+- 🌟 [gh:buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy): BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. <https://buildbuddy.io>
+- [gh:buildfarm/buildfarm](https://github.com/buildfarm/buildfarm): Bazel remote caching and execution service <https://buildfarm.github.io/buildfarm/>
+- [gitlab:BuildGrid/buildgrid](https://gitlab.com/BuildGrid/buildgrid): A remote execution service, implementing Google's REAPI and RWAPI.
+- [gh:buchgr/bazel-remote](https://github.com/buchgr/bazel-remote): A remote cache for Bazel <https://bazel.build>
+- [gh:TraceMachina/nativelink](https://github.com/TraceMachina/nativelink): NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and specialized hardware. <https://nativelink.com>
+
 #### Tools
 
 - 🌟 [gh:EngFlow/bazel_invocation_analyzer](https://github.com/EngFlow/bazel_invocation_analyzer): A tool that automatically analyzes a Bazel build's profile and offers suggestions on how to make it faster. <https://analyzer.engflow.com>
@@ -342,14 +352,11 @@ Fastlink for my own projects
   - [bcr:tar.bzl](https://registry.bazel.build/modules/tar.bzl)
 - [zaucy/bzlws](https://github.com/zaucy/bzlws): Bazel rules for interacting with bazel build artifacts and bringing them into your workspace
   - [bcr:bzlws](https://registry.bazel.build/modules/bzlws)
-- 🌟 [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy): BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform. <https://buildbuddy.io>
 - [buildbuddy-io/bazel_env.bzl](https://github.com/buildbuddy-io/bazel_env.bzl): A virtual environment for Bazel-managed tools and toolchains.
   - [bcr:bazel_env.bzl](https://registry.bazel.build/modules/bazel_env.bzl)
 - [gh:tweag/skyscope](https://github.com/tweag/skyscope): A tool for visualising and exploring Bazel Skyframe graphs.
 - [gh:tweag/credential-helper](https://github.com/tweag/credential-helper): A credential-helper framework and agent for Bazel and similar tools implementing the credential-helper spec. <https://registry.bazel.build/modules/tweag-credential-helper>
 - 🌟 [gh:mrkkrp/ahab](https://github.com/mrkkrp/ahab): Advanced hermeticity analyzer for Bazel
-- [gh:buchgr/bazel-remote](https://github.com/buchgr/bazel-remote): A remote cache for Bazel <https://bazel.build>
-- [TraceMachina/nativelink](https://github.com/TraceMachina/nativelink): NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and specialized hardware. <https://nativelink.com>
 - 🌟 [gh:bazelbuild/continuous-integration](https://github.com/bazelbuild/continuous-integration): Bazel's Continuous Integration Setup <https://buildkite.com>
 
 ### Nix
@@ -363,15 +370,15 @@ Readings
 
 Libs
 
-- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] <https://nix-community.github.io/awesome-nix/>
-- [nix-community/noogle](https://github.com/nix-community/noogle): https://noogle.dev - nix function exploring. [maintainer=@hsjobeki] <https://noogle.dev>
-- [nix-community/pyproject.nix](https://github.com/nix-community/pyproject.nix): A collection of Nix utilities to work with Python projects [maintainer=@adisbladis]
+- [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix): 😎 A curated list of the best resources in the Nix community \[maintainer=@cyntheticfox\] <https://nix-community.github.io/awesome-nix/>
+- [nix-community/noogle](https://github.com/nix-community/noogle): https://noogle.dev - nix function exploring. \[maintainer=@hsjobeki\] <https://noogle.dev>
+- [nix-community/pyproject.nix](https://github.com/nix-community/pyproject.nix): A collection of Nix utilities to work with Python projects \[maintainer=@adisbladis\]
   - [adisbladis/uv2nix](https://github.com/adisbladis/uv2nix): Uv2nix - Ingest uv workspaces using Nix
   - [TyberiusPrime/uv2nix_hammer_overrides](https://github.com/TyberiusPrime/uv2nix_hammer_overrides): Override collection for uv2nix
-- [nix-community/disko](https://github.com/nix-community/disko): Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
+- [nix-community/disko](https://github.com/nix-community/disko): Declarative disk partitioning and formatting using nix \[maintainer=@Lassulus\]
   - [nix-community/disko-templates](https://github.com/nix-community/disko-templates): Best practice templates for disko - maintainer=@Lassulus
-- [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators): Collection of image builders [maintainer=@Lassulus]
-- [nix-community/nixvim](https://github.com/nix-community/nixvim): Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman] <https://nix-community.github.io/nixvim>
+- [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators): Collection of image builders \[maintainer=@Lassulus\]
+- [nix-community/nixvim](https://github.com/nix-community/nixvim): Configure Neovim with Nix! \[maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman\] <https://nix-community.github.io/nixvim>
 - [DeterminateSystems/determinate](https://github.com/DeterminateSystems/determinate): Determinate is Nix for the enterprise. An end-to-end experience of using Nix, from installation to collaboration to deployment.
 - [DeterminateSystems/zero-to-nix](https://github.com/DeterminateSystems/zero-to-nix): An unofficial, opinionated, gentle introduction to Nix (@NixOS) from Determinate Systems <https://zero-to-nix.com>
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer): Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 2 million installs.
@@ -422,6 +429,11 @@ Libs
 - 🌟 [sigstore/cosign](https://github.com/sigstore/cosign): Code signing and transparency for containers and binaries
 - [sigstore/rekor](https://github.com/sigstore/rekor): Software Supply Chain Transparency Log <https://sigstore.dev>
 - [slsa-framework/slsa](https://github.com/slsa-framework/slsa): Supply-chain Levels for Software Artifacts <https://slsa.dev>
+- [gh:carabiner-dev/ampel](https://github.com/carabiner-dev/ampel): 🔴🟡🟢 The Amazing Multipurpose Policy Engine (and L)
+- [gh:carabiner-dev/bnd](https://github.com/carabiner-dev/bnd): Sign and package attestations in sigstore bundles
+- [gh:carabiner-dev/unpack](https://github.com/carabiner-dev/unpack): A collection of dependency analysis libraries
+- [gh:carabiner-dev/snappy](https://github.com/carabiner-dev/snappy): An easy API snapshot tool.
+- [gh:carabiner-dev/actions](https://github.com/carabiner-dev/actions): GiitHub actions for various tools in the Carabiner ecosystems
 
 ## Testing
 
@@ -646,7 +658,7 @@ Archived or outdated but still useful
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages): GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly. <https://github.com/marketplace/actions/github-pages-action>
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark): GitHub Action for continuous benchmarking to keep performance <https://benchmark-action.github.io/github-action-benchmark/dev/bench/>
 - [falcondev-oss/github-actions-cache-server](https://github.com/falcondev-oss/github-actions-cache-server): Self-hosted GitHub Actions cache server implementation. Compatible with official 'actions/cache' action <https://gha-cache-server.falcondev.io>
-- [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions): A library to turn Nix Flake attribute sets into Github Actions matrices [maintainer=@adisbladis]
+- [nix-community/nix-github-actions](https://github.com/nix-community/nix-github-actions): A library to turn Nix Flake attribute sets into Github Actions matrices \[maintainer=@adisbladis\]
 - [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action): Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case.
 - [jlumbroso/free-disk-space](https://github.com/jlumbroso/free-disk-space): ⚙️🗑️ A GitHub Action to free disk space on an Ubuntu runner.
 - [hendrikmuhs/ccache-action](https://github.com/hendrikmuhs/ccache-action): github action to speedup building using ccache

@@ -33,6 +33,7 @@
 - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 - [Collection of insane and fun facts about SQLite - blag](https://avi.im/blag/2024/sqlite-facts/): Some of the interesting and insane facts I learned about SQLite
 - [gh:DBatUTuebingen/DiDi](https://github.com/DBatUTuebingen/DiDi): Dissecting the Duck's Innards — A DuckDB-based course on the Design and Implementation of Database System Internals
+- [Introduction - How Query Engines Work](https://howqueryengineswork.com/00-introduction.html)
 
 ### Talks
 
@@ -107,12 +108,18 @@
 - [gh:apache/age](https://github.com/apache/age): Graph database optimized for fast analysis and real-time data processing. It is provided as an extension to PostgreSQL. <https://age.apache.org>
 - [gh:puppygraph/puppygraph-query](https://github.com/puppygraph/puppygraph-query): PuppyGraph standalone web server for visualize graph queries.
 - [gh:oxigraph/oxigraph](https://github.com/oxigraph/oxigraph): SPARQL graph database
+- 🪦 [unum-cloud/ustore](https://github.com/unum-cloud/ustore): Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with NetworkX and Pandas interfaces, and bindings for C 99, C++ 17, Python 3, Java, GoLang 🗄️ <https://unum-cloud.github.io/ustore/>
 - 🪦 [gh:kuzudb/kuzu](https://github.com/kuzudb/kuzu): Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher. <https://kuzudb.com/>
 - [gh:OneSparse/OneSparse](https://github.com/OneSparse/OneSparse): Accelerated Sparse Linear Algebra with Postgres and SuiteSparse
   - [Billions of Edges Per Second with Postgres](https://onesparse.com/blog/2025/07/01/billions-of-edges-per-second-with-postgres.html)
 - 🌟 [gh:LadybugDB/ladybug](https://github.com/LadybugDB/ladybug): LadybugDB a graph database <https://ladybugdb.com/>
 - [gh:apache/hugegraph](https://github.com/apache/hugegraph): A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends) <https://hugegraph.apache.org>
-- [gh:oxigraph/oxigraph](https://github.com/oxigraph/oxigraph): SPARQL graph database
+- [gh:HelixDB/helix-db](https://github.com/HelixDB/helix-db): HelixDB is an OLTP graph database with native vector and full-text search built in Rust on Object Storage. <https://helix-db.com>
+
+Graph on SQLite
+
+- 🌟 [gh:colliery-io/graphqlite](https://github.com/colliery-io/graphqlite): A SQLite extension that adds graph database capabilities with Cypher query language support and built-in graph algorithms. <https://colliery-io.github.io/graphqlite/>
+- [gh:dpapathanasiou/simple-graph](https://github.com/dpapathanasiou/simple-graph): This is a simple graph database in SQLite, inspired by "SQLite as a document database"
 
 ### KV
 
@@ -313,6 +320,7 @@ Distribution
 - [omnigres/omnigres](https://github.com/omnigres/omnigres): Postgres as a Platform
 - [vitabaks/autobase](https://github.com/vitabaks/autobase): Automated database platform for PostgreSQL® - Your own DBaaS. <https://autobase.tech>
 - [supabase/postgres](https://github.com/supabase/postgres): Unmodified Postgres with some useful plugins
+- [gh:vectorize-io/pg0](https://github.com/vectorize-io/pg0): pg0 - Zero-config PostgreSQL with pgvector
 
 Backup
 
@@ -376,6 +384,11 @@ Migrations
 - [WebDB-App/app](https://github.com/WebDB-App/app): Efficient Database IDE <https://webdb.app>
 - [lana-k/sqliteviz](https://github.com/lana-k/sqliteviz): Instant offline SQL-powered data visualisation in your browser <https://sqliteviz.com>
 - [invisal/sqlite-internal](https://github.com/invisal/sqlite-internal): Playaround with SQLite internal
+- [gh:t8y2/dbx](https://github.com/t8y2/dbx): 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker.
+- [gh:OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB): Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support. <https://chat2db.ai>
+- [gh:royalbhati/sqltoerdiagram](https://github.com/royalbhati/sqltoerdiagram): ER diagram generator. Paste CREATE TABLE statements and get a clean, interactive ERD — runs 100% in your browser, nothing uploaded <https://sqltoerdiagram.com.>
+- [dbdiagram.io](https://dbdiagram.io/home): Database Relationship Diagrams Design Tool
+  - > Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL language.
 
 ## Testing
 

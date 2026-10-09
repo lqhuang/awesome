@@ -12,6 +12,7 @@
 - [The Joy of Cryptography](https://joyofcryptography.com/): An undergraduate-level textbook introducing students to the fundamentals of provable security
 - [Easily Identify Malicious Servers on the Internet with JARM - Salesforce Engineering BlogBack ButtonFilter Button](https://engineering.salesforce.com/easily-identify-malicious-servers-on-the-internet-with-jarm-e095edac525a/): JARM is an active Transport Layer Security server fingerprinting tool that provides the ability to identify and group malicious servers.
   - [gh:salesforce/jarm](https://github.com/salesforce/jarm): JARM is an active Transport Layer Security (TLS) server fingerprinting tool.
+- [gh:claucece/Practical-Cryptography](https://github.com/claucece/Practical-Cryptography):
 
 ## Services
 
@@ -60,6 +61,8 @@
   - used in AWS-LC
 - [gh:dajiaji/crystals-kyber-js](https://github.com/dajiaji/crystals-kyber-js): The fastest pure TypeScript ML-KEM (NIST FIPS 203) implementation <https://dajiaji.github.io/crystals-kyber-js/docs/main>
 - [gh:dajiaji/hpke-js](https://github.com/dajiaji/hpke-js): A Hybrid Public Key Encryption (HPKE) module built on top of Web Cryptography API. <https://dajiaji.github.io/hpke-js/docs>
+- [codeberg:Valloric/philbin](https://codeberg.org/Valloric/philbin): The safest (and fastest) AEGIS implementation
+  - [Philbin: the safest (and fastest) AEGIS library - Val Markovic](https://val.markovic.io/articles/philbin-the-safest-and-fastest-aegis-library)
 
 ### TLS
 

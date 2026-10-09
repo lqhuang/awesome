@@ -21,6 +21,8 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [wangwenho/HanziGen](https://github.com/wangwenho/HanziGen): 基於深度學習的漢字字形補全系統
 - [UNCUT.wtf](https://uncut.wtf/): UNCUT.wtf is a free typeface catalogue, focusing on somewhat contemporary type. There are currently 163 typefaces featured.
 - [日本語ふぉんとライブラリ](https://jpfont-library.com/#category)
+- [Font library - Typography | Microsoft Learn](https://learn.microsoft.com/en-us/typography/font-list/)
+  - [Font List Windows 11 - Typography | Microsoft Learn](https://learn.microsoft.com/en-us/typography/fonts/windows_11_font_list): List of fonts present in Windows 11 and their information.
 
 ## Tools
 
@@ -32,6 +34,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [gh:opentypejs/opentype.js](https://github.com/opentypejs/opentype.js): Read and write OpenType fonts using JavaScript. <https://opentype.js.org/>
 - [CJK Web Font Align Tool](https://drift.roriri.one/)
   - source: https://t.me/im_RORIRI/34385
+- [gh:pmndrs/glyph](https://github.com/pmndrs/glyph): ♠️ A typography engine for web graphics.
 
 ## Fonts
 
@@ -77,6 +80,7 @@ Mono
 - [paper-design/paper-mono](https://github.com/paper-design/paper-mono): A beautiful monospace font for design and code by Paper.
 - [gh:0xType/0xProto](https://github.com/0xType/0xProto): A high-legibility programming font engineered to minimize cognitive load.
 - [gh:mishamyrt/Lilex](https://github.com/mishamyrt/Lilex): 🤘Open source programming font <https://lilex.myrt.co>
+- [gh:paper-design/paper-mono](https://github.com/paper-design/paper-mono): A beautiful monospace font for design and code by Paper.
 
 Math fonts
 

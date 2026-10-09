@@ -63,7 +63,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app): The best way to start a full-stack, typesafe Next.js app <https://create.t3.gg>
 - [steven-tey/precedent](https://github.com/steven-tey/precedent): An opinionated collection of components, hooks, and utilities for your Next.js project. <https://precedent.dev>
-- [shadcn/taxonomy](https://github.com/shadcn/taxonomy): An open source application built using the new router, server components and everything new in Next.js 13. <https://tx.shadcn.com>
 - [Blazity/next-enterprise](https://github.com/Blazity/next-enterprise): 💼 An enterprise-grade Next.js boilerplate for high-performance, maintainable apps. Packed with features like Tailwind CSS, TypeScript, ESLint, Prettier, testing tools, and more to accelerate your development. <https://next-enterprise.vercel.app>
 - [akd-io/create-next-stack](https://github.com/akd-io/create-next-stack): Create Next Stack is a website and CLI tool used to easily set up the boilerplate of new Next.js apps. <https://www.create-next-stack.com>
 - [timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog): This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs. <https://tailwind-nextjs-starter-blog.vercel.app/>
@@ -73,15 +72,10 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [leerob/next-saas-starter](https://github.com/leerob/next-saas-starter): Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. <https://next-saas-start.vercel.app>
 - [michaelshimeles/nextjs-starter-kit](https://github.com/michaelshimeles/nextjs-starter-kit): The Ulimate Nextjs Starter Kit. Build your next SAAS product of your dreams. Batteries included. <https://starter.rasmic.xyz/>
 - [jpedroschmitz/typescript-nextjs-starter](https://github.com/jpedroschmitz/typescript-nextjs-starter): Non-opinionated TypeScript starter for Next.js 15. All the tools you need to build your next project ⚡️ <https://next-ts.joaopedro.dev>
-- [al1abb/invoify](https://github.com/al1abb/invoify): An invoice generator app built using Next.js, Typescript, and Shadcn <https://invoify.vercel.app>
 - [nextjs/saas-starter](https://github.com/nextjs/saas-starter): Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui. <https://next-saas-start.vercel.app>
 - [upstash/jstack](https://github.com/upstash/jstack): Build seriously fast, lightweight and end-to-end typesafe Next.js apps <https://jstack.app/>
 - [ifindev/fullstack-next-cloudflare](https://github.com/ifindev/fullstack-next-cloudflare): 🚀 Full-stack Next.js 15 + Cloudflare Workers template with D1 database, R2 storage, Better Auth, and Server Actions. Production-ready with automated CI/CD and generous free tiers. <https://deepwiki.com/ifindev/fullstack-next-cloudflare>
 - [ethanniser/NextFaster](https://github.com/ethanniser/NextFaster): A highly performant e-commerce template using Next.js <https://next-faster.vercel.app>
-- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter): Admin Dashboard Starter Template with Next.js 16 and Shadcn UI <https://dub.sh/shadcn-dashboard>
-- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin): Admin Dashboard UI built with Shadcn and Vite. <https://shadcn-admin.netlify.app/>
-- [gh:arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard): Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 <https://next-shadcn-admin-dashboard.vercel.app>
-- [gh:arhamkhnz/next-shadcn-admin-dashboard-baseui](https://github.com/arhamkhnz/next-shadcn-admin-dashboard-baseui): Modern Admin Dashboard Template built with Shadcn UI on Base UI and Next.js 16 <https://next-shadcn-admin-dashboard-baseui.vercel.app>
 
 ## Framework
 
@@ -298,11 +292,16 @@ Major in React ecosystem, but also include other frameworks and libraries.
   - in shadcn/ui style
 - [ecklf/tailwindcss-radix](https://github.com/ecklf/tailwindcss-radix): Utilities and variants for styling Radix state <https://tailwindcss-radix.vercel.app>
 
-Shadcn UI eco system
+#### Shadcn UI eco system
 
 - [gh:shadcn/ui](https://github.com/shadcn/ui): Beautifully designed components built with Radix UI and Tailwind CSS. <https://ui.shadcn.com>
 - [gh:shadcn-ui/lint](https://github.com/shadcn-ui/lint): An agent-first linter for Tailwind design systems. Write design system rules that agents can verify.
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui. <https://awesome-shadcn-ui.vercel.app/>
+- [shadcn/taxonomy](https://github.com/shadcn/taxonomy): An open source application built using the new router, server components and everything new in Next.js 13. <https://tx.shadcn.com>
+- [Kiranism/next-shadcn-dashboard-starter](https://github.com/Kiranism/next-shadcn-dashboard-starter): Admin Dashboard Starter Template with Next.js 16 and Shadcn UI <https://dub.sh/shadcn-dashboard>
+- [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin): Admin Dashboard UI built with Shadcn and Vite. <https://shadcn-admin.netlify.app/>
+- [gh:arhamkhnz/next-shadcn-admin-dashboard](https://github.com/arhamkhnz/next-shadcn-admin-dashboard): Modern Admin Dashboard Template built with Shadcn UI and Next.js 16 <https://next-shadcn-admin-dashboard.vercel.app>
+- [gh:arhamkhnz/next-shadcn-admin-dashboard-baseui](https://github.com/arhamkhnz/next-shadcn-admin-dashboard-baseui): Modern Admin Dashboard Template built with Shadcn UI on Base UI and Next.js 16 <https://next-shadcn-admin-dashboard-baseui.vercel.app>
 - [bytefer/awesome-shadcn-ui](https://github.com/bytefer/awesome-shadcn-ui): A curated list of awesome things related to shadcn/ui.
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table): A shadcn table component with server-side sorting, filtering, and pagination. <https://table.sadmn.com>
 - [damianricobelli/shadcn-stepper](https://github.com/damianricobelli/shadcn-stepper): <https://shadcn-stepper.vercel.app/>
@@ -324,6 +323,10 @@ Shadcn UI eco system
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components): A collection of neobrutalism-styled Tailwind components. <https://neobrutalism.dev>
 - [FranciscoMoretti/shadcn-lazy-tooltip](https://github.com/FranciscoMoretti/shadcn-lazy-tooltip): 8x faster Shadcn Tooltip by lazy loading
 - [ephraimduncan/blocks](https://github.com/ephraimduncan/blocks): An open-source library of UI blocks. Built with React, Tailwind and shadcn/ui <https://blocks.so>
+- [gh:shadcn-labs/ogimagecn](https://github.com/shadcn-labs/ogimagecn): Beautiful Open Graph image components, built on Satori. 100% Free, Zero config, one command setup. <https://ogimagecn.com>
+- [gh:shadcn-labs/startercn](https://github.com/shadcn-labs/startercn): A shadcn/ui registry template with built-in landing page, docs, AI agent ready, and baked-in web haptics, audio, and animations. <https://startercn.vercel.app>
+- [gh:shadcn-labs/emailcn](https://github.com/shadcn-labs/emailcn): Beautiful email components, built on React Email, MJML React and JSX Email. 100% Free, Zero config, one command setup. <https://emailcn.run>
+- [gh:shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn): Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup. <https://pdfcn.dev>
 
 #### Base-ui eco system
 
@@ -485,7 +488,7 @@ Media player
 - https://player.style/
 - 🌟 [cookpete/react-player](https://github.com/cookpete/react-player): A React component for playing a variety of URLs, including file paths, YouTube, Facebook, Twitch, SoundCloud, Streamable, Vimeo, Wistia and DailyMotion <https://cookpete.github.io/react-player>
 - [ibrahimcesar/react-lite-youtube-embed](https://github.com/ibrahimcesar/react-lite-youtube-embed): 📺 < A private by default, faster and cleaner YouTube embed component for React applications /> <https://ibrahimcesar.github.io/react-lite-youtube-embed/>
-- 🌟 [gh:videojs/v10](https://github.com/videojs/v10): [Beta] Video.js v10 - open source media player framework for Web and React. <https://videojs.org>
+- 🌟 [gh:videojs/v10](https://github.com/videojs/v10): \[Beta\] Video.js v10 - open source media player framework for Web and React. <https://videojs.org>
   - [Video.js v10 Beta: Hello, World (again) | Blog](https://videojs.org/blog/videojs-v10-beta-hello-world-again)
 - [gh:Danilaa1/cuelume](https://github.com/Danilaa1/cuelume): Cuelume is a curated sound palette, not an audio engine. It gives buttons, links, toggles, and completed actions clear feedback without asking developers to design sounds themselves. Add an attribute, call bind(), done. <https://cuelume.dev/>
   - [Cuelume](https://cuelume-site.pages.dev/): Cuelume is a tiny, dependency-free library of carefully designed interaction sounds, synthesized live with Web Audio.
@@ -685,18 +688,15 @@ Concrete animations
 - [ui-layouts/uilayouts](https://github.com/ui-layouts/uilayouts): 🔥100+ Free beautifull interactive react/nextjs component based on tailwindcss, framer-motion, gsap etc <https://www.ui-layouts.com>
 - [ui-layouts/cursify](https://github.com/ui-layouts/cursify): Cursor Animation Library for React & Next.js <https://cursify.vercel.app>
 - 🌟 [jonathanleane/partycles](https://github.com/jonathanleane/partycles): A lightweight, performant React library for adding delightful animation effects to your applications. Perfect for celebrating user achievements, form submissions, or any moment worth highlighting.
-- 🌟 [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react): Apple's Liquid Glass effect for React
 - [maxwellito/vivus](https://github.com/maxwellito/vivus): JavaScript library to make drawing animation on SVG
 - [HelloQingGuo/react-vivus](https://github.com/HelloQingGuo/react-vivus): ✨ React wrapper for vivus.js ✨ <https://helloqingguo.github.io/react-vivus/>
 - [awesome-reveal/react-awesome-reveal](https://github.com/awesome-reveal/react-awesome-reveal): React components to add reveal animations using the Intersection Observer API and CSS Animations. <https://react-awesome-reveal.morello.dev>
-- [Liquid Glass in the Browser](https://kube.io/blog/liquid-glass-css-svg): Explore how to recreate Apple's stunning Liquid Glass effect using CSS, SVG Displacement Maps, and refraction calculations.
 - [AmanShakya0018/forgeui](https://github.com/AmanShakya0018/forgeui): ForgeUI is a customizable, developer-friendly React component library, enabling rapid UI development with modern design, seamless integration, and reusable components tailored for modern web projects. <https://forgeui.in>
 - [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers): Tasty CSS-animated Hamburgers <https://jonsuh.com/hamburgers>
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake): CSS classes to move your DOM! <https://elrumordelaluz.github.io/csshake/>
 - 🌟 [paper-design/shaders](https://github.com/paper-design/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper <https://paper.design>
 - [shaders.com](https://shaders.com/): shader magic ✨ for frontend frameworks
 - [shajidhasan/spoilerjs](https://github.com/shajidhasan/spoilerjs): A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations. <https://spoilerjs.sh4jid.me>
-- [Liquid Glass in the Browser: Refraction with CSS and SVG — kube.io](https://kube.io/blog/liquid-glass-css-svg/): Explore how to recreate Apple's stunning Liquid Glass effect using CSS, SVG Displacement Maps, and refraction calculations.
 - [winterx/color4bg.js](https://github.com/winterx/color4bg.js): Cool colorful backgrounds, generated by JS
 - [anl331/goey-toast](https://github.com/anl331/goey-toast): A gooey, morphing toast component built on Sonner with Framer Motion animations <https://goey-toast.vercel.app>
 - 🌟 [hiaaryan/sileo](https://github.com/hiaaryan/sileo): An opinionated, physics-based toast component for React. <https://sileo.aaryan.design>
@@ -712,6 +712,12 @@ Concrete animations
 - [gh:takuyajodai/edge-aura](https://github.com/takuyajodai/edge-aura): An organic glow that hugs the edge of your screen — zero-dependency Canvas 2D engine + React adapter <https://edge-aura-xi.vercel.app/>
 - [Softle - Physics native design tool](https://softle.app/): Bend, squish and collide organic shapes for real, instead of faking it by hand with the pen tool. A design tool that does the physics. Coming soon.
 - [gh:Jakubantalik/Libraries](https://github.com/Jakubantalik/Libraries): Collection of effects for React: Border beam, Liquid Gooey <https://beam.jakubantalik.com/>
+
+Liquid Glass
+
+- 🌟 [gh:huozhi/vaso](https://github.com/huozhi/vaso): Liquid Glass effect for React <https://vasooo.vercel.app>
+- 🌟 [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react): Apple's Liquid Glass effect for React
+- [Liquid Glass in the Browser](https://kube.io/blog/liquid-glass-css-svg): Explore how to recreate Apple's stunning Liquid Glass effect using CSS, SVG Displacement Maps, and refraction calculations.
 
 ## Functional libraries
 
@@ -969,6 +975,7 @@ Concrete animations
 - [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl): React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React. <https://react-unity-webgl.dev>
 - [StateLayer](https://statelayer.com/): A declarative 3D component framework!
 - [pmndrs/triplex](https://github.com/pmndrs/triplex): The open source visual workspace for React / Three Fiber. Build the 2D and 3D web. <https://triplex.dev>
+- [gh:shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders): WebGPU components for React, Vue, Svelte, Solid, JS & Framer <https://shaders.com>
 - [The Book of Shaders](https://thebookofshaders.com/): Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
   - Cool! And it has a lot of multi-lang translations
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU): Beautiful, open source, WebGPU-based charting library

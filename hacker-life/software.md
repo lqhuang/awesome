@@ -37,7 +37,6 @@
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis): A free, secure and open source app for Android to manage your 2-step verification tokens. <https://getaegis.app>
 - [TibixDev/winboat](https://github.com/TibixDev/winboat): Run Windows apps on 🐧 Linux with ✨ seamless integration <https://www.winboat.app/>
   - Interesting, I also thought about this idea before, RDP is a missing piece in Windows ecosystem
-- [the-ora/browser](https://github.com/the-ora/browser): Less noise, more browsing. <https://orabrowser.com/>
 - 🌟 [KDE/labplot](https://github.com/KDE/labplot): LabPlot is a FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone. <https://invent.kde.org/education/labplot>
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW): A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [gh:Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP): A Patch for GIMP 3+ for Photoshop Users
@@ -90,6 +89,7 @@ Raycast is good, but ... when it comes to AI, it becomes a bit of less effective
 - 🌟 [Optimage](https://optimage.app/): Advanced image optimization tool Automatically compress images achieving the highest compression ratio at consistent image quality.
 - 🌟 [Antinote: Beautiful Temporary Notes and Calculations](https://antinote.io/): Antinote is a beautiful, fast, and lightweight note-taking macOS app that lets you quickly jot down temporary notes and perform calculations seamlessly.
 - 🌟🌟🌟 [gh:mysk-research/loupe](https://github.com/mysk-research/loupe): A privacy-focused iOS app that raises awareness about what native apps can see
+- 🌟 [gh:omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI): Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. <https://omlahore.github.io/RemoveMacAI/>
 
 ### Monitor
 
@@ -178,6 +178,11 @@ Raycast is good, but ... when it comes to AI, it becomes a bit of less effective
 - [gh:Ebullioscopic/Atoll](https://github.com/Ebullioscopic/Atoll): Dynamic Island for macOS <https://getatoll.app>
 - [gh:vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils): Free and open-source macOS menu bar toolkit. <https://vorssaint.com>
 - [gh:duongductrong/Snapzy](https://github.com/duongductrong/Snapzy): An open-source native macOS screenshot and screen recording app. A CleanShot X alternative. <https://snapzy.app>
+- 🌟 [gh:tonsky/unquarantine](https://github.com/tonsky/unquarantine): A menubar app that automatically removes quarantine flag from all your downloads
+- [gh:antonyshakirov/hop](https://github.com/antonyshakirov/hop): Free, open-source menu bar toolkit for macOS. Eighteen tools in one panel: Pomodoro timer, time tracker, keep-awake, system monitor, clipboard history, file converter, window manager, torrents, archives, OCR, screenshots, draw on screen, color picker, VPN switcher, app launcher, uninstaller, keyboard lock, speed test. SwiftUI, no telemetry, MIT. <https://hop.tools>
+- [gh:Dimillian/GithubMonitor](https://github.com/Dimillian/GithubMonitor): A menu bar app to monitor your Github situation
+- [gh:onevcat/Prowl](https://github.com/onevcat/Prowl): native macOS codings agent orchestrator <https://prowl.cat/>
+- [gh:the-ora/browser](https://github.com/the-ora/browser): Less noise, more browsing. <https://orabrowser.com/>
 
 ### Free / Paid
 
@@ -235,6 +240,12 @@ Raycast is good, but ... when it comes to AI, it becomes a bit of less effective
 - [Blip – The fastest way to send files](https://blip.net/): Send big files with no size limits, at full quality, directly to other people Send big files with no size limits, at full quality, directly to other people and devices.
 - [Graker - 菜单栏里的英文语法检查与翻译](https://graker.fehey.com/zh): 选中句子按快捷键：语法改好、译文出来，格式不丢。用你自己的 API Key，文本直达模型服务商。免费，macOS 13+
 - [Screenflare — Create screen recordings people want to watch.](https://screenflare.app/): Screenflare records your Mac and makes it look good — zooming in on every click, smoothing out your cursor and setting it all on a backdrop worth showing. Screenshots get the same treatment, marks and blur included. Nothing is locked in until you export.
+
+### Good ideas. watching and waiting to see their long-term sustainability, rather than it being just another AI vibe project.
+
+- [gh:qiyang77/duckdisk](https://github.com/qiyang77/duckdisk): A fast macOS disk usage analyzer inspired by WizTree. <https://duckdisk.com/>
+- [gh:moonbai-studio/tungsten-edge](https://github.com/moonbai-studio/tungsten-edge): A per-window taskbar for macOS — a Dock replacement that organizes by window, not app. <https://tungstenedge.app>
+- [gh:saragordic/rooms](https://github.com/saragordic/rooms): Switch between projects on your Mac. Every project is a room: its windows, laid out, one shortcut away.
 
 ## Windows
 
@@ -479,6 +490,7 @@ Terminal / SSH
   - https://libravatar.org/: freeing the web one face at a time
   - The open avatar service: libravatar is a service which delivers your avatar (profile picture) to other websites. If you create an account with us, your photo could start popping up next to forum posts or blog comments on any site where you left your email address.
 - [gh:agalwood/Motrix](https://github.com/agalwood/Motrix): A full-featured download manager. <https://motrix.app>
+- [gh:voxivoid/recipe-lab-sony-pmca](https://github.com/voxivoid/recipe-lab-sony-pmca): Film simulations and camera looks for the Sony A6000, stored in the camera itself.
 
 ### Reader / RSS / Bookmarks
 
@@ -573,13 +585,21 @@ NextCloud is crazily BIG now, so I will say no here.
 - 🌟 [foxcpp/maddy](https://github.com/foxcpp/maddy): ✉️ Composable all-in-one mail server. <https://maddy.email>
 - [aaPanel/BillionMail](https://github.com/aaPanel/BillionMail): BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV <http://www.billionmail.com/>
 - [gh:forwardemail/forwardemail.net](https://github.com/forwardemail/forwardemail.net): Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid. <https://forwardemail.net>
+- [gh:HQBase/hqbase](https://github.com/HQBase/hqbase): AI native email workspace for teams. In your Cloudflare account. <https://hqbase.io>
+- [gh:maillab/cloud-mail](https://github.com/maillab/cloud-mail): A Cloudflare-based email service | 基于 Cloudflare 的邮箱服务 | Cloudflare Email 邮箱 Mail <https://skymail.ink>
+- [gh:wong2/cf-mailroom](https://github.com/wong2/cf-mailroom): Self-hosted email for humans and AI agents, on Cloudflare
+- [gh:Billionmail/BillionMail](https://github.com/Billionmail/BillionMail): BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr <https://discord.gg/asfXzBUhZr>
+- [gh:hieunc229/mailflare](https://github.com/hieunc229/mailflare): Email for professionals and teams <https://mailflare.co>
 
 Not OSS:
 
 - [Dovecot](https://www.dovecot.org/): The Secure IMAP server
 - [poste.io](https://poste.io): SMTP + IMAP + POP3 + Antispam + Antivirus with Web administration + Web email ... on your server in ~5 minutes <https://hub.docker.com/r/analogic/poste.io>
 - [Skiff Mail](https://skiff.com/mail): Skiff Mail protects your inbox by keeping your messages end-to-end encrypted. That means that no one but you has access to your data.
-- [CraneMail - Email Hosting & Cloud Storage Productivity Suite](https://namecrane.com/cranemail-email-hosting): Professional email hosting and cloud storage for your own domain.
+- [CraneMail](https://namecrane.com/cranemail-email-hosting): Email Hosting & Cloud Storage Productivity Suite
+  - > Professional email hosting and cloud storage for your own domain.
+- [SMTP2GO](https://www.smtp2go.com/): Reliable & Scalable Email Delivery Service & API |
+  - > SMTP2GO is the scalable, reliable email deliverability solution. Worldwide servers, a robust API, and powerful reporting set us apart.
 
 ### Vault / Passwords
 

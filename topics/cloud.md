@@ -142,6 +142,7 @@
 - 🌟 [gh:GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib): 🏗 Build container images for your Java applications.
   - [gh:GoogleContainerTools/jib-extensions](https://github.com/GoogleContainerTools/jib-extensions)
 - 🌟 [gh:reproducible-containers/diffoci](https://github.com/reproducible-containers/diffoci): diff for Docker and OCI container images
+- 🌟 [gh:lenra-io/dofigen](https://github.com/lenra-io/dofigen): Dofigen is a Dockerfile generator using a simplified description in YAML or JSON format
 
 #### Filesystem
 
@@ -228,6 +229,7 @@
 - [gh:projecteru2/cocoon](https://github.com/projecteru2/cocoon): Lightweight MicroVM VMM built on Cloud Hypervisor for AI
 - [gh:containers/libkrun](https://github.com/containers/libkrun): A dynamic library providing Virtualization-based process isolation capabilities
 - [gh:nanovms/nanos](https://github.com/nanovms/nanos): A kernel designed to run one and only one application in a virtualized environment <https://nanos.org>
+- [gh:smol-machines/smolvm](https://github.com/smol-machines/smolvm): An embeddable, portable, branchable virtual machine to safely run Agents locally. <https://smolmachines.com>
 
 Type 1 hypervisors
 
@@ -264,11 +266,11 @@ Type 1 hypervisors
 - [gh:seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs): SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com. <https://seaweedfs.com>
 - [gh:yandex-cloud/geesefs](https://github.com/yandex-cloud/geesefs): Finally, a good FUSE FS implementation over S3
 - [gh:tigrisdata/tigrisfs](https://github.com/tigrisdata/tigrisfs): High performance FUSE filesystem for AI workloads with S3 compatible backends
+  - [gh:tigrisdata/tag](https://github.com/tigrisdata/tag): Tigris Acceleration Gateway
 - [gh:supabase/storage](https://github.com/supabase/storage): S3 compatible object storage service that stores metadata in Postgres <https://supabase.com/docs/guides/storage>
 - [gh:versity/versitygw](https://github.com/versity/versitygw): A simple to deploy but feature rich S3 object storage server for your filesystem <https://www.versity.com/products/versitygw/>
 - [gh:Kodiqa-Solutions/VaultS3](https://github.com/Kodiqa-Solutions/VaultS3): Lightweight, S3-compatible object storage server with built-in web dashboard. Single binary, low memory, encryption at rest. <https://www.vaults3.com>
 - [gh:Barre/ZeroFS](https://github.com/Barre/ZeroFS): ZeroFS: A log-structured filesystem for S3. ZeroFS serves S3-compatible buckets as POSIX filesystems over NFS and 9P, or as raw block devices over NBD. <https://www.zerofs.net/>
-- [gh:tigrisdata/tag](https://github.com/tigrisdata/tag): Tigris Acceleration Gateway
 - [gh:gaul/s3proxy](https://github.com/gaul/s3proxy): Access other storage backends via the S3 API
 - [gh:deuxfleurs-org/garage](https://github.com/deuxfleurs-org/garage): (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage <https://git.deuxfleurs.fr/Deuxfleurs/garage>
 
@@ -450,6 +452,7 @@ Type 1 hypervisors
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager): A management framework for extending Kubernetes with Operators <https://olm.operatorframework.io>
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus): Use Prometheus to monitor Kubernetes and applications running on Kubernetes <https://prometheus-operator.dev/>
 - [sgl-project/ome](https://github.com/sgl-project/ome): OME is a Kubernetes operator for enterprise-grade management and serving of Large Language Models (LLMs) <http://docs.sglang.ai/ome/>
+- [gh:Tight-Line/ballast](https://github.com/Tight-Line/ballast): Automated Kubernetes workload resource tracking and adjustment
 
 ### Templates
 
@@ -495,6 +498,7 @@ Type 1 hypervisors
 - [educates/educates-training-platform](https://github.com/educates/educates-training-platform): A platform for hosting interactive workshop environments in Kubernetes, or on top of a local container runtime. <https://educates.dev>
 - 🌟 [gh:yonahd/kor](https://github.com/yonahd/kor): A Golang Tool to discover unused Kubernetes Resources
 - 🌟 [gh:kubernetes-sigs/kubernetes-mixin](https://github.com/kubernetes-sigs/kubernetes-mixin): A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+- [gh:asobti/kube-monkey](https://github.com/asobti/kube-monkey): An implementation of Netflix's Chaos Monkey for Kubernetes clusters
 
 ## Hashicorp
 
@@ -512,6 +516,8 @@ Type 1 hypervisors
 - 🌟 [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer): CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [tenable/terrascan](https://github.com/tenable/terrascan): Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure. <https://runterrascan.io>
 - [mr-karan/nomcfg](https://github.com/mr-karan/nomcfg): https://nomcfg.mrkaran.dev/
+- 🌟 [gh:stategraph/stategraph](https://github.com/stategraph/stategraph): Terraform without the state file bottleneck <https://stategraph.com>
+  - > Stategraph runs Terraform and OpenTofu from pull requests, and can store your state as a graph in PostgreSQL instead of a state file.
 
 ## Bare-metal Infra / OpenStack
 
@@ -543,7 +549,6 @@ Type 1 hypervisors
   - k8s in the backend
 - [czhu12/canine](https://github.com/czhu12/canine): Power of Kubernetes, Simplicity of Heroku <https://canine.sh>
   - k8s in the backend
-- [gh:floci-io/floci](https://github.com/floci-io/floci): Light, fluffy, and always free - The AWS Local Emulator alternative <https://floci.io/floci/>
 
 ## Cloud Foundry
 
@@ -567,6 +572,10 @@ Type 1 hypervisors
 
 ### Utils
 
+- 🌟 [gh:floci-io/floci](https://github.com/floci-io/floci): Light, fluffy, and always free - The AWS Local Emulator alternative <https://floci.io/floci/>
+  - [gh:floci-io/floci-ui](https://github.com/floci-io/floci-ui): Any Cloud. Locally - Web Console for the local Cloud (AWS, Azure and GCP) <https://floci.io>
+  - [gh:floci-io/floci-gcp](https://github.com/floci-io/floci-gcp): Light, fluffy, and always free - GCP Local Emulator <https://floci.io/floci-gcp/>
+  - [gh:floci-io/floci-az](https://github.com/floci-io/floci-az): Light, fluffy, and always free - Local Azure Emulator <https://floci.io/floci-az/>
 - [servian/aws-auto-cleanup](https://github.com/servian/aws-auto-cleanup): Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings
 - [localstack/localstack](https://github.com/localstack/localstack): 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [gh:ministackorg/ministack](https://github.com/ministackorg/ministack): Ministack: Free, open-source local AWS emulator - 40+ services, Terraform compatible, real databases. Free forever. MIT licensed. <https://ministack.org>
@@ -582,7 +591,6 @@ Type 1 hypervisors
 - [finos/compliant-financial-infrastructure](https://github.com/finos/compliant-financial-infrastructure): Compliant Financial Infrastructure accelerates the development, deployment and adoption of services provided for AWS, Azure and Google in a way that meets existing regulatory and internal security controls.
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui): Terraform textual UI
 - 🌟 [tobilg/aws-iam-data](https://github.com/tobilg/aws-iam-data): This repository contains the full dataset of AWS IAM data (services, actions, resource types and conditions keys). It's updated on a daily basis at 4AM UTC. <https://www.awsiamdata.com>
-
 - [gh:28mm/blast-radius](https://github.com/28mm/blast-radius): Interactive visualizations of Terraform dependency graphs using d3.js <https://28mm.github.io/blast-radius-docs/>
 - [gh:hieven/terraform-visual](https://github.com/hieven/terraform-visual): Terraform Visual is an interactive way of visualizing your Terraform plan <https://hieven.github.io/terraform-visual>
 - [gh:cycloidio/inframap](https://github.com/cycloidio/inframap): Read your tfstate or HCL to generate a graph specific for each provider, showing only the resources that are most important/relevant.
@@ -607,7 +615,7 @@ Type 1 hypervisors
 - 🌟 [aquasecurity/trivy](https://github.com/aquasecurity/trivy): Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more <https://trivy.dev>
 - [Runtime-Radar/runtime-radar](https://github.com/Runtime-Radar/runtime-radar): Runtime Radar is an open-source solution for monitoring runtime security events and responding to incidents in containerized environments.
 - [someengineering/fixinventory](https://github.com/someengineering/fixinventory): Fix Inventory helps you identify and remove the most critical risks in AWS, GCP, Azure and Kubernetes. <https://fixinventory.org>
-- [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security): [ALL IN ONE] Everything that I shared to public about Cloud Security is here.
+- [Esonhugh/My-Cloud-Security](https://github.com/Esonhugh/My-Cloud-Security): \[ALL IN ONE\] Everything that I shared to public about Cloud Security is here.
 - [falcosecurity/falco](https://github.com/falcosecurity/falco): Cloud Native Runtime Security <https://falco.org>
 - 🌟 [FogSecurity/yes3-scanner](https://github.com/FogSecurity/yes3-scanner): YES3 Scanner: S3 Security Scanner for Access and Ransomware Protection <http://fogsecurity.io>
 - 🌟 [Checkmarx/kics](https://github.com/Checkmarx/kics): Find security vulnerabilities, compliance issues, and infrastructure misconfigurations early in the development cycle of your infrastructure-as-code with KICS by Checkmarx. <https://kics.io>
@@ -615,7 +623,7 @@ Type 1 hypervisors
 - [OperantAI/woodpecker](https://github.com/OperantAI/woodpecker): Red Teaming for AI and Cloud <https://operant.ai>
 - [buildsec/frsca](https://github.com/buildsec/frsca): Factory for Repeatable Secure Creation of Artifacts (aka FRSCA pronounced Fresca) aims to help secure the supply chain by securing build pipelines. <https://buildsec.github.io/frsca>
 
-## Utils
+## Misc
 
 - [skyplane-project/skyplane](https://github.com/skyplane-project/skyplane): 🔥 Blazing fast bulk data transfers between any cloud 🔥 <https://skyplane.org>
 - 🌟 [octodns/octodns](https://github.com/octodns/octodns): Tools for managing DNS across multiple providers

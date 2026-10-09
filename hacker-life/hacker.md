@@ -65,6 +65,7 @@
 - [entireio/cli](https://github.com/entireio/cli): Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning. <https://entire.io>
 - [gh:littledivy/dgit](https://github.com/littledivy/dgit): Git forge on Durable Objects <https://git.littledivy.com>
 - [gh:tobi/walgit](https://github.com/tobi/walgit): a git server that is one binary in front of an object store
+- 🌟 [gh:git-bug/git-bug](https://github.com/git-bug/git-bug): Distributed, offline-first bug tracker integrated in git
 
 ### Code as Graph
 
@@ -116,6 +117,7 @@
   - [Beautiful Mermaid by Craft](https://agents.craft.do/mermaid):
 - [gh:AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii): Render Mermaid graphs inside your terminal <https://mermaid-ascii.art/>
 - 🌟 [gh:rsms/graphviz](https://github.com/rsms/graphviz): Graphviz web app <https://rsms.me/graphviz/>
+- [gh:clientIO/joint](https://github.com/clientIO/joint): A proven SVG-based JavaScript diagramming library powering exceptional UIs <https://jointjs.com>
 
 ## Homelab
 
@@ -144,6 +146,7 @@
 - [ProxMox Cluster - Soup-to-Nutz | scyto](https://gist.github.com/scyto/76e94832927a89d977ea989da157e9dc): my proxmox cluster.
 - [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack): Miniature rack builds, for portable or compact Homelabs. <http://mini-rack.jeffgeerling.com/>
 - [Home Network Overview | Aleksey Shipilёv](https://shipilev.net/labs/network-de/): Oh God, That Escalated Quickly
+- [gh:theepicsaxguy/homelab](https://github.com/theepicsaxguy/homelab): Over-Engineered GitOps Homelab
 
 ### Admin
 
@@ -225,10 +228,11 @@
 - [gnmyt/myspeed](https://github.com/gnmyt/myspeed): A speed test analysis software that shows your internet speed for up to 30 days <https://myspeed.dev>
 - [TritonDataCenter/smartos-live](https://github.com/TritonDataCenter/smartos-live): For more information, please see http://smartos.org/ For any questions that aren't answered there, please join the SmartOS discussion list: https://smartos.topicbox.com/groups/smartos-discuss
 - [KSJaay/Lunalytics](https://github.com/KSJaay/Lunalytics): 🚀 Open source monitoring tool built with Node.js <https://lunalytics.xyz>
-- [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz): Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more! <https://kuvasz-uptime.dev/>
+- [kuvasz-uptime/kuvasz](https://github.com/kuvasz-uptime/kuvasz): Kuvasz (pronounce as \[ˈkuvɒs\]) is an open-source uptime and SSL monitoring service, with multiple notification channels, status pages, IAC support via YAML, Prometheus integration, a complete REST API and many more! <https://kuvasz-uptime.dev/>
 - [gh:291-Group/LAN-Orangutan](https://github.com/291-Group/LAN-Orangutan): LAN Orangutan is a lightweight network scanner with persistent device labeling, multi-network support, and Tailscale integration. Built by 291 Group. <https://291grp.com/open-src/>
 - [gh:Dyneteq/reconya](https://github.com/Dyneteq/reconya): Network reconnaissance and asset discovery tool <https://reconya.com/>
 - [gh:X4Applegate/caddyui](https://github.com/X4Applegate/caddyui): A modern, self-hosted web UI for Caddy — manage proxy hosts, redirections, SSL certificates, and advanced routes through a clean interface, without touching config files. <https://richardapplegate.io/static/case-studies/Caddui.html>
+- [gh:lyc8503/UptimeFlare](https://github.com/lyc8503/UptimeFlare): ✔ Free and serverless uptime monitoring / status page on Cloudflare Workers, with Geo-specific checks
 
 ### Docker tools
 
@@ -278,6 +282,8 @@
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws)
 - [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC): 🥢 像老乡鸡 🐔 那样做饭。主要部分于 2024 年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. <https://cooklikehoc.soilzhu.su>
 - [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook): 人教版小学到大学数学
+- [中国华文教育网 / 华文教材](https://www.hwjyw.com/hwjc.html): 《中文》（试用版和修订版）教材是中华人民共和国国务院侨务办公室委托暨南大学华文学院为欧美地区周末制中文学校的华裔小学生学习中文而编写的。
+- [全球華文網 / 電子書城](https://www.huayuworld.org/Ebook): 電子書城收集僑務委員會編輯出版之各式華語文教材， 提供外語教材、第二語言教材、國別化教材、拼音教材、 文化輔助類及母語教材等分類。可瀏覽電子書與下載 PDF 檔案， 僅供個人非營利使用。
 - [public-apis/public-apis](https://github.com/public-apis/public-apis): A collective list of free APIs <http://public-apis.org>
 - [ruanyf/weekly](https://github.com/ruanyf/weekly): 科技爱好者周刊，每周五发布
 - [facebookresearch/personal-timeline](https://github.com/facebookresearch/personal-timeline): A public release of TimelineBuilder for building personal digital data timelines.
@@ -288,6 +294,7 @@
 - [metowolf/vCards](https://github.com/metowolf/vCards): 📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验
 - [lvwzhen/medicine](https://github.com/lvwzhen/medicine): 原研药列表 <https://medicine.lvwzhen.com>
 - [iptv-org/iptv](https://github.com/iptv-org/iptv): Collection of publicly available IPTV channels from all over the world <https://iptv-org.github.io>
+- https://xixitv.live/
 - [ngo5/IPTV](https://github.com/ngo5/IPTV): IPV4/IPV6 TVBOX 电视直播点播源收集
 - [Public IPTV](https://publiciptv.com/): Collection of Publicly & Free IPTV Channels , Available in the United States.
 - [MoonTechLab/Selene](https://github.com/MoonTechLab/Selene): 一个以 MoonTV v100 版本为后端的 Android/iOS 客户端，针对移动端体验优化
@@ -297,6 +304,8 @@
 - [gh:jackwener/wechat-article-to-markdown](https://github.com/jackwener/wechat-article-to-markdown): 微信公众号文章抓取 & Markdown 转换工具 (cheerio + axios + turndown)
 - [Compare Domain Prices](https://tld-list.com/): Explore a complete TLD list and compare domain prices in one place. Discover popular domain extensions, new top level domains among over 3496 domain name extensions.
 - [gh:itorr/nbnhhsh](https://github.com/itorr/nbnhhsh): 😩「能不能好好说话？」 拼音首字母缩写翻译工具 <https://lab.magiconch.com/nbnhhsh/>
+- [gh:eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter): 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 <https://eternity4719.github.io/HowToLiveBetter/>
+  - too hard to live
 
 ## Branding
 
@@ -327,7 +336,7 @@
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation): 中国程序员容易发音错误的单词 <https://cpwp.netlify.app>
 - [yujiangshui/A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English): 专为程序员编写的英语学习指南 v1.2 <https://a-programmers-guide-to-english.harryyu.me>
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks): 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持 epub、mobi、pdf 格式, 每周更新
-- [2ndLA/English](https://github.com/2ndLA/English): 🚧 [WIP] 全面、渐进、碎片化的英语自学指引。 <https://english.highlight.ink>
+- [2ndLA/English](https://github.com/2ndLA/English): 🚧 \[WIP\] 全面、渐进、碎片化的英语自学指引。 <https://english.highlight.ink>
 - [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english): 人人都能用英语
 - [FaYin](https://fayin.love/): 练习发音的好助手, 支持美式音标、英式音标，以及字母表的发音
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm): Learning English through the method of constructing sentences with conjunctions <https://earthworm.cuixueshe.com>

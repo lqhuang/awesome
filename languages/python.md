@@ -362,6 +362,7 @@ Misc
 - [bgunebakan/puhu](https://github.com/bgunebakan/puhu): A modern, high-performance image processing library for Python, powered by Rust.
 - [MAIF/shapash](https://github.com/MAIF/shapash): 🔅 Shapash: User-friendly Explainability and Interpretability to Develop Reliable and Transparent Machine Learning Models <https://maif.github.io/shapash/>
 - 🌟 [symbolica-dev/symbolica](https://github.com/symbolica-dev/symbolica): A modern computer algebra library for Python and Rust. <https://symbolica.io>
+- [gh:ashvardanian/NetworkXternal](https://github.com/ashvardanian/NetworkXternal): NetworkX-like Python experience for Postgres, SQLite, MongoDB, and Neo4J <https://www.unum.cloud/blog/2020-11-12-graphs>
 
 ### Pandas Ecosystem / DataFrame orient
 
@@ -502,7 +503,6 @@ Misc
   - [Python's "Disappointing" Superpowers # Pony ORM](https://lukeplant.me.uk/blog/posts/pythons-disappointing-superpowers/#pony-orm)
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry): A GraphQL library for Python that leverages type annotations 🍓 <https://strawberry.rocks>
 - [ipython/pickleshare](https://github.com/ipython/pickleshare): File system based database that uses python pickles
-- 🌟 [unum-cloud/ustore](https://github.com/unum-cloud/ustore): Multi-Modal Database replacing MongoDB, Neo4J, and Elastic with 1 faster ACID solution, with NetworkX and Pandas interfaces, and bindings for C 99, C++ 17, Python 3, Java, GoLang 🗄️ <https://unum-cloud.github.io/ustore/>
 - 🌟 [coleifer/pysqlite3](https://github.com/coleifer/pysqlite3): SQLite3 DB-API 2.0 driver from Python 3, packaged separately, with improvements
 - [litements/litequeue](https://github.com/litements/litequeue): Queue built on top of SQLite <https://litements.polyrand.net/queue/>
 - [gh:justrach/turboAPI](https://github.com/justrach/turboAPI): FastAPI-compatible Python framework with Zig HTTP core; 7x faster, free-threading native <https://turboapi.trilok.ai>

@@ -6,3 +6,4 @@
 - [Goods](https://goods.so/): Fewer, better things.
 - [gh:wesbos/awesome-uses](https://github.com/wesbos/awesome-uses): A list of /uses pages detailing developer setups, gear, software and configs. <https://uses.tech>
 - [gh:cherti/remarkable-cli-tooling](https://github.com/cherti/remarkable-cli-tooling): Tooling for the reMarkable paper tablet.
+- [Sudo by New Matter — For the love of listening.](https://sudo.music/): A delightful home for the music you love. Your library, offline and in your pocket.

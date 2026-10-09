@@ -157,6 +157,7 @@
 - [gh:vic/mill-docker](https://github.com/vic/mill-docker): Build minimalist distroless docker images for your java applications using Mill
 - [gh:alexarchambault/mill-missinglink](https://github.com/alexarchambault/mill-missinglink): Mill plugin for missinglink
 - [gh:sake92/codeps](https://github.com/sake92/codeps): Code package dependency analyzer <https://sake92.github.io/codeps/>
+- [gh:com-lihaoyi/mill-moduledefs](https://github.com/com-lihaoyi/mill-moduledefs): Scalac compiler plugin to support Mill modules
 
 ### Testing
 
@@ -190,6 +191,7 @@
   - [JetBrains/lincheck](https://github.com/JetBrains/lincheck): Framework for testing concurrent code on JVM languages
 - [gh:OWASP-Benchmark/BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava): OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually expl… <https://owasp.org/www-project-benchmark/>
 - [gh:Jaspersoft/jasperreports](https://github.com/Jaspersoft/jasperreports): JasperReports® - Free Java Reporting Library <https://community.jaspersoft.com/downloads/community-edition/>
+- [gh:lampepfl/scala3-benchmarks](https://github.com/lampepfl/scala3-benchmarks): <https://lampepfl.github.io/scala3-benchmarks/>
 
 ### Compiler plugins
 
@@ -208,6 +210,7 @@
 - [wartremover/wartremover](https://github.com/wartremover/wartremover): Flexible Scala code linting tool <https://www.wartremover.org/>
 - [tanin47/scalafix-forbidden-symbol](https://github.com/tanin47/scalafix-forbidden-symbol): A Scalafix rule to forbid the usage of specified packages, classes, methods, and enums.
 - [gh:jatcwang/scalafix-named-params](https://github.com/jatcwang/scalafix-named-params): A scalafix rule to apply named parameters
+- [gh:scala-garden/scala-rewrites](https://github.com/scala-garden/scala-rewrites): Scalafix Rewrites for Scala
 
 ### Program Analysis
 
@@ -330,6 +333,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [gh:killme2008/aviatorscript](https://github.com/killme2008/aviatorscript): A high performance scripting language hosted on the JVM. <http://fnil.net/aviator/>
 - [gh:Hyperfoil/jjq](https://github.com/Hyperfoil/jjq): High-performance pure Java jq implementation with a bytecode-compiled VM, deferred string parsing, and zero-allocation query execution on large documents.
 - [gh:VirtusLab/sloth](https://github.com/VirtusLab/sloth): Sloth converts Scala 3.0-3.7 lazy vals to Scala 3.8 lazy vals
+- [gh:JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime): Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
 
 ## Stream / Effect systems / Experiments
 

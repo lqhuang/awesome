@@ -81,6 +81,8 @@
 - [ndmitchell/uniplate](https://github.com/ndmitchell/uniplate): Haskell library for simple, concise and fast generic operations.
 - [snowleopard/alga](https://github.com/snowleopard/alga): Algebraic graphs
 - [Bodigrim/bitvec](https://github.com/Bodigrim/bitvec): Bit vectors: 8x less memory, up to 3500x faster than Vector Bool <https://hackage.haskell.org/package/bitvec>
+- [gh:kazu-yamamoto/crypton](https://github.com/kazu-yamamoto/crypton): lowlevel set of cryptographic primitives for haskell
+  - [Releasing crypton v2.0.0 - あどけない話](https://kazu-yamamoto.hatenablog.jp/entry/2026/09/25/110313): crypton is a cryptographic library widely used in the Haskell community. However, the library had several issues: It did not utilize hardware acceleration at all on ARM. Although it utilized hardware acceleration on x86, it was slower than standard OpenSSL. There were concerns regarding its security…
 
 ## Toolchains
 

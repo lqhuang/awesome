@@ -14,10 +14,13 @@
 - [The Complete Guide to React Native Build Optimization | The Mythical Engineer](https://themythicalengineer.com/the-complete-guide-to-react-native-build-optimization.html): If you’re building React Native apps on Linux or macOS, you’ve probably noticed that release builds for Android take far longer than they should. Open your system’s activity monitor during a build and you’ll likely see the surprising culprit: most build tools are utilizing only a single CPU core, leaving the rest of your powerful machine entirely idle.
 - [Which React Native Animation Library Should You Use for Performance? • Andrei Calazans](https://andrei-calazans.com/posts/2026-07-15-which-react-native-animation-library/): I benchmarked Animated (native driver), Reanimated 4, and react-native-ease across four animation types on Android — measuring UI + JS frame drops, per-thread CPU, and memory. The winner depends on whether a gesture is involved — plus what Worklets Bundle Mode does to Reanimated's memory.
 - [From pbxproj to xcproj - Xcode Project Configuration Gets a JSON Format](https://fatbobman.com/en/posts/from-pbxproj-to-xcproj/): Xcode 27.2 replaces the pbxproj build graph with JSON via project.xcproj. What really changes, how to migrate, and what it means for Tuist and XcodeGen.
+- [Exposing SwiftUI Views to React Native: An Integration Guide](https://www.callstack.com/blog/exposing-swiftui-views-to-react-native-an-integration-guide): Learn how to seamlessly integrate SwiftUI views in React Native and enhance your app’s iOS capabilities with SwiftUI superpowers.
+- [Performance Overview | React Native](https://reactnative.dev/docs/performance)
 
 ## SwiftUI
 
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
+- [gh:unixzii/swiftui-for-react-devs](https://github.com/unixzii/swiftui-for-react-devs): A cheat sheet that helps React developers to quickly start with SwiftUI.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane): 🚀 The easiest way to automate building and releasing your iOS and Android apps <https://fastlane.tools>
 - [bitrise-io/bitrise](https://github.com/bitrise-io/bitrise): Bitrise runner CLI - run your automations on your Mac or Linux machine - <https://www.bitrise.io/cli>
 - [gingerbeardman/apple-human-interface-guidelines](https://github.com/gingerbeardman/apple-human-interface-guidelines): Apple Human Interface Guidelines, et al.
@@ -25,6 +28,8 @@
 - [elementary-swift/elementary-ui](https://github.com/elementary-swift/elementary-ui): Build SwiftUI-style apps that run in the browser <https://elementary.codes>
 - [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle): A software update framework for macOS <https://sparkle-project.org>
 - [gh:pluk-inc/markdown-preview](https://github.com/pluk-inc/markdown-preview): A simple Markdown viewer for reading .md files <http://markdownpreview.app>
+- [gh:Lakr233/FlowDown](https://github.com/Lakr233/FlowDown): https://flowdown.ai/ <https://flowdown.ai/>
+- [gh:Saivion/SwiftPieces](https://github.com/Saivion/SwiftPieces): Swift Pieces provides a library of designed SwiftUI components featuring integrated motion, haptics, and states. Developers can easily integrate these elements via a single Swift file, CLI tool, or AI-assisted installation. <https://swiftpieces.com>
 
 ### Utils
 
@@ -32,6 +37,8 @@
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg): Create a good-looking DMG for your macOS app in seconds
 - [sindresorhus/Defaults](https://github.com/sindresorhus/Defaults): 💾 Swifty and modern UserDefaults <https://swiftpackageindex.com/sindresorhus/Defaults/documentation/defaults>
 - [gh:Kebechet/setup-apple-certificate](https://github.com/Kebechet/setup-apple-certificate): GitHub Action that manages Apple Distribution certificates and provisioning profiles via the App Store Connect API.
+- [gh:tddworks/baguette](https://github.com/tddworks/baguette): Headless control for Apple's Simulators — 3D models, taps, swipes, multi-finger gestures, 60 fps streaming, and a multi-device farm <https://tddworks.github.io/baguette/>
+- [gh:mgcrea/react-native-swiftui](https://github.com/mgcrea/react-native-swiftui): SwiftUI components for React Native <https://mgcrea.github.io/react-native-swiftui/>
 
 ## Electron like
 
@@ -61,15 +68,15 @@ Direct GUI
 
 - 🌟 [expo/expo](https://github.com/expo/expo): An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. <https://docs.expo.dev>
 - 🌟 [nandorojo/solito](https://github.com/nandorojo/solito): 🧍‍♂️ React Native + Next.js, unified. <https://solito.dev>
-- [necolas/react-native-web](https://github.com/necolas/react-native-web): Cross-platform React UI packages <https://necolas.github.io/react-native-web>
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Next-generation HTML renderer for apps and games <https://ultralig.ht>
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows): A framework for building native Windows apps with React. <https://microsoft.github.io/react-native-windows/>
 - [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos): A framework for building native macOS apps with React. <https://microsoft.github.io/react-native-windows/>
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi): Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity. <https://discord.gg/uJyNEeYX2U>
-- [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom): React Strict DOM (RSD) standardizes the development of styled React components for web and native. <https://facebook.github.io/react-strict-dom>
+- [gh:react/react-strict-dom](https://github.com/react/react-strict-dom): React Strict DOM (RSD) standardizes the development of styled React components for web and native. <https://react.github.io/react-strict-dom>
   - React Strict DOM lets you create user interfaces that look and feel right on every platform. Web apps are rendered to HTML and rely on static CSS. Native apps look and feel native because the UI is truly native, not a web view.
   - Strict CSS styling provides a battle-tested, predictable, optimized way to encapsulate component styles on both web and native. On the web this is powered by StyleX.
   - Not mature, but promising.
+- [gh:react/react-native-web](https://github.com/necolas/react-native-web): Cross-platform React UI packages <https://necolas.github.io/react-native-web>
 - 🌟 [gh:mrousavy/nitro](https://github.com/mrousavy/nitro): 🔥 Insanely fast native C++, Swift or Kotlin modules with a statically compiled binding layer to JSI <https://nitro.margelo.com>
 - [Dactyl — build a real app by describing it](https://dactyl.dev/): Describe an app, watch it build live in your browser, then install it on your iPhone, iPad, or Android phone. Ship to TestFlight and the App Store. No Mac, no Xcode.
   - I hope to know could I download the whole project to local 🤔

@@ -79,6 +79,8 @@ And modern is here now.
 - [gh:sftrabbit/CppPatterns-Patterns](https://github.com/sftrabbit/CppPatterns-Patterns): A repository of modern C++ patterns curated by the community.
   - [C++ Patterns](https://cpppatterns.com/)
 - [C++ Dashboard — what matters in C++ right now](https://cppdashboard.dev/): What matters in C++ right now — a curated dashboard of C++ articles, videos, events, books, and standard tracking.
+- [gh:edgcpp/compiler](https://github.com/edgcpp/compiler): Welcome to the open source EDG C/C++ compiler project!
+  - > The EDG C/C++ front end is the primary focus of this repository. The EDG front end is known for: its excellent parsing compatibility and bug emulation, to make sure source that compiles with Clang, GCC, and MSVC compiles with EDG
 
 ### Books
 
@@ -410,6 +412,7 @@ And modern is here now.
 - [STEllAR-GROUP/hpx](https://github.com/STEllAR-GROUP/hpx): The C++ Standard Library for Parallelism and Concurrency <https://hpx.stellar-group.org>
 - [gh:clice-io/kotatsu](https://github.com/clice-io/kotatsu): `kotatsu` is a C++23 toolkit extracted from the `clice` ecosystem. It started as a coroutine wrapper around libuv, and now also includes compile-time reflection, an attribute-driven codec framework, a typed IPC layer with generated LSP protocol bindings, a lightweight test framework, an LLVM-compatible option parsing library, a declarative CLI layer built on top, and a shared support layer of containers, traits, and string utilities.
 - 🌟 [gh:ClickHouse/silk](https://github.com/ClickHouse/silk): Fast stackful fibers with a NUMA-aware work-stealing scheduler
+- [gh:pigweed-project/pigweed](https://github.com/pigweed-project/pigweed): Modern software development for embedded systems <https://pigweed.dev>
 
 ### Web
 
@@ -456,7 +459,8 @@ And modern is here now.
 - [lights0123/hipscript](https://github.com/lights0123/hipscript): Online compiler for HIP and NVIDIA® CUDA® code to WebGPU <https://hipscript.lights0123.com/>
 - [NVIDIA/MatX](https://github.com/NVIDIA/MatX): An efficient C++17 GPU numerical computing library with Python-like syntax <https://nvidia.github.io/MatX>
 - [NVIDIA/gdrcopy](https://github.com/NVIDIA/gdrcopy): A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology
-- [shader-slang/slang](https://github.com/shader-slang/slang): Making it easier to work with shaders <http://shader-slang.com>
+- [gh:bkaradzic/bgfx](https://github.com/bkaradzic/bgfx): Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library. <https://bkaradzic.github.io/bgfx/overview.html>
+- [gh:shader-slang/slang](https://github.com/shader-slang/slang): Making it easier to work with shaders <http://shader-slang.com>
 
 ## SIMD / Vectorization
 

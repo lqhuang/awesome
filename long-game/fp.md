@@ -107,6 +107,7 @@
 - [gh:vellvm/vellvm](https://github.com/vellvm/vellvm): The Vellvm (Verified LLVM) coq development.
 - [gh:AlloyTools/org.alloytools.alloy](https://github.com/AlloyTools/org.alloytools.alloy): Alloy is a language for describing structures and a tool for exploring them. It has been used in a wide range of applications from finding holes in security mechanisms to designing telephone switching networks. This repository contains the code for the tool.
 - [gh:AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas): A verification toolchain for Rust programs <https://aeneasverif.github.io/>
+- [A Reference of Formal Verification Tools](https://quint.sh/guides/formal-verification-tools): Compare TLA+, Quint, Lean, Rocq, Agda, Dafny, Verus, Kani, Certora, Alloy, PRISM, AI provers, and more. Choose the right formal method for design, proofs, or code.
 
 ## Effect systems
 

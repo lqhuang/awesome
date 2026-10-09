@@ -252,7 +252,7 @@ Libraries & Tools
 - [WebAssembly: Yes, but for What? - ACM Queue](https://queue.acm.org/detail.cfm?id=3746171): The keys to a successful Wasm deployment
   - Review article for WebAssembly in the first 10 years
 - [wasm3/wasm3](https://github.com/wasm3/wasm3): 🚀 The fastest WebAssembly interpreter, and the most universal runtime
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime): Standalone JIT-style runtime for WebAssembly, using Cranelift
+- 🌟 [gh:bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime): Standalone JIT-style runtime for WebAssembly, using Cranelift
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer): 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [wasmerio/wasmer-python](https://github.com/wasmerio/wasmer-python): 🐍🕸 WebAssembly runtime for Python
 - [pyodide/pyodide](https://github.com/pyodide/pyodide): Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
@@ -273,6 +273,12 @@ Libraries & Tools
 
 Spec: [WebAssembly/component-model](https://github.com/WebAssembly/component-model): Repository for design and specification of the Component Model
 
-- [bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen): A language binding generator for WebAssembly interface types
-- [bytecodealliance/jco](https://github.com/bytecodealliance/jco): JavaScript toolchain for working with WebAssembly Components <https://bytecodealliance.github.io/jco/>
-- [bytecodealliance/componentize-py](https://github.com/bytecodealliance/componentize-py): No description, website, or topics provided.
+- [gh:bytecodealliance/wit-bindgen](https://github.com/bytecodealliance/wit-bindgen): A language binding generator for WebAssembly interface types
+- [gh:bytecodealliance/componentize-py](https://github.com/bytecodealliance/componentize-py): No description, website, or topics provided.
+- [gh:yoshuawuyts/awesome-wasm-components](https://github.com/yoshuawuyts/awesome-wasm-components): A curated list of WebAssembly Component tooling and ready-to-use components.
+
+### Languages
+
+- [gh:WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk): WASI-enabled WebAssembly C/C++ toolchain
+- [gh:bytecodealliance/jco](https://github.com/bytecodealliance/jco): JavaScript toolchain for working with WebAssembly Components <https://bytecodealliance.github.io/jco/>
+- [gh:andreiltd/componentize-qjs](https://github.com/andreiltd/componentize-qjs): Convert JavaScript to WebAssembly components using QuickJS
