@@ -13,6 +13,9 @@
 - [Easily Identify Malicious Servers on the Internet with JARM - Salesforce Engineering BlogBack ButtonFilter Button](https://engineering.salesforce.com/easily-identify-malicious-servers-on-the-internet-with-jarm-e095edac525a/): JARM is an active Transport Layer Security server fingerprinting tool that provides the ability to identify and group malicious servers.
   - [gh:salesforce/jarm](https://github.com/salesforce/jarm): JARM is an active Transport Layer Security (TLS) server fingerprinting tool.
 - [gh:claucece/Practical-Cryptography](https://github.com/claucece/Practical-Cryptography):
+- [MIKE - PQ NIKE](https://mike.isogeni.es/): a fast and compact post-quantum NIKE
+  - > MIKE (Module Isogeny Key-Exchange) is a fast and compact post-quantum non-interactive key exchange, based on isogeny assumptions (like the SQIsign signature). MIKE boasts the smallest public (and secret) keys amongst a large range of post-quantum KEMs.
+  - [gh:tensor-MIKE/mike_c](https://github.com/tensor-MIKE/mike_c): Official public C implementation of MIKE (Module Isogeny Key Exchange).
 
 ## Services
 

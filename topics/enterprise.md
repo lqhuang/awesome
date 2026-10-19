@@ -287,6 +287,7 @@ Visual stack
 - [gh:Swival/security-audits](https://github.com/Swival/security-audits): Reports from automated security audits made by Swival. <https://swival.dev>
 - [CSF Tools – The Cybersecurity Framework for Humans](https://csf.tools/)
 - 🌟 [gh:OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries): The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. <https://cheatsheetseries.owasp.org>
+- [gh:anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): OSS Scanner is a service by Anthropic to scan critical open-source repositories for security vulnerabilities.
 
 ## Career
 

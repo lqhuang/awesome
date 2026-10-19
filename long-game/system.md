@@ -65,6 +65,7 @@
   - Fun but full of insights
 - [gh:yangwenbo99/csapp-global-errata](https://github.com/yangwenbo99/csapp-global-errata): Unofficial errata for the global edition of Computer System: A Programmer's Perspective.
 - [The Deadlock Empire](https://deadlockempire.github.io/): Slay dragons, learn concurrency! Play the cunning Scheduler, exploit flawed programs and defeat the armies of the Parallel Wizard.
+- [Data Compression Explained](https://mattmahoney.net/dc/dce.html): This book is for the reader who wants to understand how data compression works, or who wants to write data compression software.
 
 ## Compiler
 

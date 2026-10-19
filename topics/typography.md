@@ -35,6 +35,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [CJK Web Font Align Tool](https://drift.roriri.one/)
   - source: https://t.me/im_RORIRI/34385
 - [gh:pmndrs/glyph](https://github.com/pmndrs/glyph): ♠️ A typography engine for web graphics.
+- [gh:alexszczurek/typehug](https://github.com/alexszczurek/typehug): Keep words together. Modular typography helpers for Polish and English text, HTML, and rich text.
 
 ## Fonts
 
@@ -135,6 +136,7 @@ CJK
 - [max32002/nanifont](https://github.com/max32002/nanifont): おつとめフォント字型的補字計畫，可免費商用的日系手寫字體。 <https://max-everyday.com/2020/09/nanifont/>
 - 🌟 [MetroSung | The Type](https://www.thetype.com/en/product/metrosung/)
 - 🌟 [gh:yamatoiizuka/gen-interface-jp](https://github.com/yamatoiizuka/gen-interface-jp): Typeface harmonizing Inter and Noto Sans JP <https://gen.typesetting.jp/>
+- [gh:antfu/furifont](https://github.com/antfu/furifont): A Japanese font that shows furigana by itself. <https://furifont.antfu.me/>
 - [络纬](https://luowei.atelier-anchor.com/): 亦黑亦宋的中文可变字体超级家族，正在开发中
 
 ???
@@ -156,3 +158,6 @@ CJK
 - [sofish/typo.css](https://github.com/sofish/typo.css): 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版 <http://typo.sofi.sh>
 - [shanleiguang/vRain](https://github.com/shanleiguang/vRain): 中文古籍刻本風格直排電子書製作工具 Chinese ancient ebook making tool
 - [Monospace Acid Test](https://justine.lol/dox/unicode.html):
+- [gh:Skywt2003/chinese-web-typography](https://github.com/Skywt2003/chinese-web-typography): A skill for thoughtful Chinese web typography, with interactive before-and-after demos.
+- [gh:charlie5188/css-composite-font](https://github.com/charlie5188/css-composite-font): Composite fonts in pure CSS: separate fonts and sizes for CJK, kana and Latin (@font-face + unicode-range + size-adjust). 复合字体 / 合成フォント <https://charlie5188.github.io/css-composite-font/>
+- [Typefree - Free Font Library](https://www.typefree.org/): TypeFree is a free font library for your projects.

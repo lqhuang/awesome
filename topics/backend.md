@@ -204,6 +204,7 @@
 - [benvinegar/counterscale](https://github.com/benvinegar/counterscale): Scalable web analytics you run yourself on Cloudflare <https://counterscale.dev>
 - [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel): Openpanel is an open-source web and product analytics platform that combines the power of Mixpanel with the ease of Plausible and one of the best Google Analytics replacements. <https://openpanel.dev>
 - [rybbit-io/rybbit](https://github.com/rybbit-io/rybbit): 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive. <https://rybbit.com>
+- [gh:matomo-org/matomo](https://github.com/matomo-org/matomo): Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites & apps. Star us on GitHub ⭐️ – Pull Requests welcome! <https://matomo.org/jobs>
 
 ## CMS
 

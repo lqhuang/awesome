@@ -22,6 +22,7 @@
 - [Introducing the Server Side Cloud Swift SDK | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/introducing-the-server-side-cloud-swift-sdk/)
 - [gh:Dimillian/FoundationChat](https://github.com/Dimillian/FoundationChat): A chat app with iOS 26 Foundation Models
 - [Foundation Models | Apple Developer Documentation](https://developer.apple.com/documentation/foundationmodels): Perform tasks with models that specialize in language understanding, structured output, and tool calling.
+- [Apple Framework Dependency Map — iOS, macOS, visionOS | MiniSwift](https://miniswift.run/apple-framework-dependencies/): Interactive map of 350 Apple frameworks and 1,775 import dependencies from the Xcode 27.0 SDKs for iOS, macOS, tvOS, watchOS and visionOS.
 
 ## Apple
 
@@ -53,6 +54,7 @@
 - [MakeAWishFoundation/SwiftyMocky](https://github.com/MakeAWishFoundation/SwiftyMocky): Framework for automatic mock generation. Adds a set of handy methods, simplifying testing. One of the best and most complete solutions, including generics support and much more.
 - [nicklockwood/SwiftFormat](https://github.com/nicklockwood/SwiftFormat): A command-line tool and Xcode Extension for formatting Swift code
 - [beeware/Python-Apple-support](https://github.com/beeware/Python-Apple-support): A meta-package for building a version of Python that can be embedded into a macOS, iOS, tvOS or watchOS project.
+- [gh:xtool-org/xtool](https://github.com/xtool-org/xtool): Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS. <https://xtool.sh>
 
 ## SwiftUI
 
@@ -110,3 +112,5 @@
 - [gh:pointfreeco/swift-identified-collections](https://github.com/pointfreeco/swift-identified-collections): A library of data structures for working with collections of identifiable elements in an ergonomic, performant way.
 - [gh:ajevans99/swift-json-schema](https://github.com/ajevans99/swift-json-schema): Generate, parse, and validate JSON Schema in Swift <https://swiftpackageindex.com/ajevans99/swift-json-schema>
 - [gh:jpsim/Yams](https://github.com/jpsim/Yams): A Sweet and Swifty YAML parser. <https://jpsim.com/Yams>
+- [gh:vivekgalatage/filament-swift](https://github.com/vivekgalatage/filament-swift): Cross-platform Swift 6 bindings and host views for Google Filament (v1.77.3) with first-class glTF 2.0 / .glb support, PBR rendering, and native alpha transparency.
+- [gh:2389-research/MermaidKit](https://github.com/2389-research/MermaidKit): Native Mermaid diagrams in Swift — all 30 types, on Apple, Linux, Android, Windows, Flutter and WebAssembly from one layout core. No JavaScript, no WebView, zero dependencies. <https://2389.ai/research/products/mermaidkit/>

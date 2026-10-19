@@ -53,6 +53,7 @@
 - [Don't kill my app!](https://dontkillmyapp.com/): Hey Android vendors, don't kill my app!
 - [gh:DNSCrypt/dnscrypt-resolvers](https://github.com/DNSCrypt/dnscrypt-resolvers): Lists of public DNSCrypt / DoH DNS servers and DNS relays - Actively maintained since 2011. <https://dnscrypt.info>
   - [Free Public DNSCrypt & DoH Servers List | DNSCrypt](https://dnscrypt.info/public-servers/): Comprehensive list of free public DNSCrypt and DNS-over-HTTPS (DoH) servers with DNSSEC support, no-logging policies, and global locations. Updated regularly.
+- [&udm=14 | the search engine Konami code](https://udm14.org/): A quick way to get an AI-free search without any extra work.
 
 ### Checker
 

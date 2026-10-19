@@ -355,6 +355,7 @@ And modern is here now.
 
 - [taocpp/PEGTL](https://github.com/taocpp/PEGTL): Parsing Expression Grammar Template Library
 - [foonathan/lexy](https://github.com/foonathan/lexy): C++ parsing DSL <https://lexy.foonathan.net>
+- [gh:MaskRay/edgls](https://github.com/MaskRay/edgls): ccls fork, based on the EDG C/C++ front end
 
 ### Async / Concurrency / Parallelism
 
@@ -449,6 +450,7 @@ And modern is here now.
 - 🌟 [gh:jfalcou/spy](https://github.com/jfalcou/spy): SPY - C++ Information Broker <https://jfalcou.github.io/spy/>
   - [I SPY with my little eye](https://docs.google.com/presentation/d/1nSBhU4pr5EWznni0MYsyDkMCr3O3q2XS-KQdz2_BRRI/edit?slide=id.g634a7b8019_0_0#slide=id.g634a7b8019_0_0)
 - [gh:TerensTare/detector](https://github.com/TerensTare/detector): A header-only C++ library for checking the host os/compiler in a modern way.
+- [gh:ConstexprCore/useful_abstractions](https://github.com/ConstexprCore/useful_abstractions): Collection of useful helpers for writing C++ immediate functions (constexpr/consteval) <https://constexprcore.github.io/useful_abstractions/>
 
 ## HPC
 

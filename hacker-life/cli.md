@@ -204,6 +204,7 @@
 - [gh:neomutt/neomutt](https://github.com/neomutt/neomutt): ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat <https://neomutt.org/>
 - 🌟 [gh:dlvhdr/diffnav](https://github.com/dlvhdr/diffnav): A git diff pager based on delta but with a file tree, à la GitHub.
 - 🌟 [gh:gnomeria/usbtree](https://github.com/gnomeria/usbtree): Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows. <https://gnomeria.github.io/usbtree/>
+- [gh:lgse/strata](https://github.com/lgse/strata): A fast, keyboard-first file manager for Linux <https://stratafiles.io/>
 
 ## Monitor
 

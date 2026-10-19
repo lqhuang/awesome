@@ -42,6 +42,7 @@
 - [gh:honkit/honkit](https://github.com/honkit/honkit): 📖 HonKit is building beautiful books using Markdown - Fork of GitBook <https://honkit.netlify.app>
 - [gh:bryllim/workout-guide](https://github.com/bryllim/workout-guide): 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim <https://bryllim.github.io/workout-guide/>
   - yeah. This absolutely belongs here.
+- [gh:ircv3/ircv3-specifications](https://github.com/ircv3/ircv3-specifications): IRCv3 specifications | Roadmap: https://git.io/IRCv3-Roadmap | Code of conduct: http://ircv3.net/conduct.html <https://git.io/IRCv3-Roadmap>
 
 ### Git
 
@@ -118,6 +119,7 @@
 - [gh:AlexanderGrooff/mermaid-ascii](https://github.com/AlexanderGrooff/mermaid-ascii): Render Mermaid graphs inside your terminal <https://mermaid-ascii.art/>
 - 🌟 [gh:rsms/graphviz](https://github.com/rsms/graphviz): Graphviz web app <https://rsms.me/graphviz/>
 - [gh:clientIO/joint](https://github.com/clientIO/joint): A proven SVG-based JavaScript diagramming library powering exceptional UIs <https://jointjs.com>
+- 🌟 [gh:obsidianmd/pele](https://github.com/obsidianmd/pele): Renders Mermaid diagrams faster than you'd run from a volcano! 🌋 <https://pele.run>
 
 ## Homelab
 
@@ -258,7 +260,7 @@
 - [zrepl/zrepl](https://github.com/zrepl/zrepl): One-stop ZFS backup & replication solution <https://zrepl.github.io>
 - [duplicati/duplicati](https://github.com/duplicati/duplicati): Store securely encrypted backups in the cloud!
 - [borgbackup/borg](https://github.com/borgbackup/borg): Deduplicating archiver with compression and authenticated encryption. <https://www.borgbackup.org>
-- [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program <https://restic.net>
+- 🌟 [restic/restic](https://github.com/restic/restic): Fast, secure, efficient backup program <https://restic.net>
 - 🌟 [syncthing/syncthing](https://github.com/syncthing/syncthing): Open Source Continuous File Synchronization <https://forum.syncthing.net>
 - [AkashRajpurohit/git-sync](https://github.com/AkashRajpurohit/git-sync): 🔄 A simple tool to backup and sync your git repositories <https://github.com/AkashRajpurohit/git-sync/wiki>
 

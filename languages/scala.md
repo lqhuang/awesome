@@ -46,6 +46,7 @@
 - [gh:polyvariant/learn-scala](https://github.com/polyvariant/learn-scala): Reference learning material for Scala <https://learn-scala.polyvariant.org/>
 - [Java Specialists](https://www.javaspecialists.eu/): This advanced Java newsletter will answer all your questions about Java ;-) We also offer Java courses, code reviews and consulting.
 - [gh:OlegIlyenko/scala-icon/](https://github.com/OlegIlyenko/scala-icon/): Simple scala icon with shadow
+- [VirtusLab Scala Stack (VSS)](https://vss.virtuslab.com/): Direct-style Scala: type-safe code that is easy to comprehend and generate.
 
 ### Talks
 
@@ -334,6 +335,8 @@ Do a benchmark (for final size while using Scala Native)?
 - [gh:Hyperfoil/jjq](https://github.com/Hyperfoil/jjq): High-performance pure Java jq implementation with a bytecode-compiled VM, deferred string parsing, and zero-allocation query execution on large documents.
 - [gh:VirtusLab/sloth](https://github.com/VirtusLab/sloth): Sloth converts Scala 3.0-3.7 lazy vals to Scala 3.8 lazy vals
 - [gh:JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime): Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
+- [gh:retronym/jvm-heap-paths](https://github.com/retronym/jvm-heap-paths): Command-line GC root paths and field-path histograms for .hprof heap dumps (NetBeans heap library)
+- [gh:retronym/jvm-perf-lab](https://github.com/retronym/jvm-perf-lab): JMH profilers, paired A/B within a fork, Apple Silicon hardware counters and caller audits for JVM benchmarks
 
 ## Stream / Effect systems / Experiments
 
@@ -408,6 +411,7 @@ Do a benchmark (for final size while using Scala Native)?
 - [gh:rssh/scala-appcontext](https://github.com/rssh/scala-appcontext): Minimalistic type-driven dependency-injection library
 - [gh:iRevive/union-derivation](https://github.com/iRevive/union-derivation): A micro-library to derive a typeclass for Scala 3 Union types.
 - [gh:kubuszok/pipez](https://github.com/kubuszok/pipez): Generate type mappers for your own type class
+- [gh:Katrix/perspective](https://github.com/Katrix/perspective): Higher kinded data in Scala <https://perspective.katsstuff.net/>
 
 ### Formal verification
 
@@ -512,6 +516,7 @@ Tracing and OpenTelemetry
 - [gh:input-output-hk/armadillo](https://github.com/input-output-hk/armadillo): Declarative, type-safe json-rpc endpoints library
 - [gh:Algebrazebra/slick-duckdb](https://github.com/Algebrazebra/slick-duckdb): A Slick extension for DuckDB
 - [gh:lbialy/parlance](https://github.com/lbialy/parlance): High-velocity, opinionated functional ORM inspired by Active Record patterns, laser-focused on productivity
+- [gh:Eezo-framework/eezo](https://github.com/Eezo-framework/eezo): A Scala 3 web framework. Direct-style. The case class is the source of truth. Deploy with one command. <https://eezo.io/>
 
 ### CLI
 

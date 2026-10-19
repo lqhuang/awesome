@@ -16,6 +16,9 @@
 - [From pbxproj to xcproj - Xcode Project Configuration Gets a JSON Format](https://fatbobman.com/en/posts/from-pbxproj-to-xcproj/): Xcode 27.2 replaces the pbxproj build graph with JSON via project.xcproj. What really changes, how to migrate, and what it means for Tuist and XcodeGen.
 - [Exposing SwiftUI Views to React Native: An Integration Guide](https://www.callstack.com/blog/exposing-swiftui-views-to-react-native-an-integration-guide): Learn how to seamlessly integrate SwiftUI views in React Native and enhance your app’s iOS capabilities with SwiftUI superpowers.
 - [Performance Overview | React Native](https://reactnative.dev/docs/performance)
+- [gh:LegendApp/framework-benchmarks](https://github.com/LegendApp/framework-benchmarks)
+  - > Two release-mode macOS workloads compare desktop frameworks: a minimal Hello World app and a Chat History browser with Markdown and syntax highlighting.
+  - > Implementations cover React Native, Electron, Tauri, Deno Desktop (WebView and CEF), Flutter, GPUI, Compose Multiplatform, SwiftUI, and AppKit. Each benchmark owns its apps, harness, charts, and latest results.
 
 ## SwiftUI
 

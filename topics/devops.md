@@ -96,6 +96,7 @@
   - supports columnar alignment
   - supports templated SQL (dbt / Jinja)
 - [gh:sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter): A whitespace formatter for different query languages <https://sql-formatter-org.github.io/sql-formatter/>
+- [gh:jdx/jactionlint](https://github.com/jdx/jactionlint): Static checker for GitHub Actions workflow files <https://jactionlint.jdx.dev>
 
 ### Reproducibility
 

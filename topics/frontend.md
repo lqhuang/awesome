@@ -35,6 +35,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [Supporting the Triptych Project | Django](https://www.djangoproject.com/weblog/2026/jul/15/supporting-the-triptych-project/)
   - [gh:alexpetros/triptych](https://github.com/alexpetros/triptych): HTTP Buttons, PUT/DELETE Forms, and Partial Page Replacement - three proposals for the HTML standard
   - [gh:unpoly/unpoly](https://github.com/unpoly/unpoly): Progressive enhancement for HTML
+- [Detail · Where craft lives](https://detail.design/): A curated reference of small design decisions that shape better interfaces. For designers and engineers who care about the details.
 
 ### Readings
 
@@ -206,6 +207,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [mobile-dev-inc/Maestro](https://github.com/mobile-dev-inc/Maestro): Painless E2E Automation for Mobile and Web <https://maestro.dev>
 - [nut-tree/nut.js](https://github.com/nut-tree/nut.js): Native UI testing / controlling with node <https://nutjs.dev>
 - [astahmer/atomic-css-devtools](https://github.com/astahmer/atomic-css-devtools): A devtool panel for debugging Atomic CSS rules as if they were not atomic. Available on chrome & firefox. Works with TailwindCSS, Panda CSS, and any atomic CSS library <https://chromewebstore.google.com/detail/atomic-css-devtools/cbjhfeooiomphlikkblgdageenemhpgc>
+- [gh:tester-army/e2e](https://github.com/tester-army/e2e): Next generation e2e testing framework for web and mobile apps. <https://tester.army/e2e>
 
 ### Performance Profiles
 
@@ -450,7 +452,8 @@ Form
 - 🌟 [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form): 📋 React Hooks for form state management and validation (Web + React Native) <https://react-hook-form.com>
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik): Build forms in React, without the tears 😭 <https://formik.org>
 - [bhch/react-json-form](https://github.com/bhch/react-json-form): JSON editing made easy using form inputs. <https://bhch.github.io/react-json-form>
-- [edmundhung/conform](https://github.com/edmundhung/conform): A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js. <https://conform.guide>
+- 🌟 [edmundhung/conform](https://github.com/edmundhung/conform): A type-safe form validation library utilizing web fundamentals to progressively enhance HTML Forms with full support for server frameworks like Remix and Next.js. <https://conform.guide>
+  - Progressive web standards and aria first
 - [guidone/lets-form](https://github.com/guidone/lets-form): A JSON form generator for React with Material UI / AntDesign / Bootstrap / RSuite / Mantine <https://letsform.dev>
 - [m6io/react-formgen](https://github.com/m6io/react-formgen): Headless, unopinionated, and flexible form generation. <https://react-formgen.vercel.app>
 - [form-atoms/form-atoms](https://github.com/form-atoms/form-atoms): Jotai form atoms <https://codesandbox.io/s/getting-started-with-form-atoms-v2-ddhgq2?file=/src/App.tsx>
@@ -712,6 +715,13 @@ Concrete animations
 - [gh:takuyajodai/edge-aura](https://github.com/takuyajodai/edge-aura): An organic glow that hugs the edge of your screen — zero-dependency Canvas 2D engine + React adapter <https://edge-aura-xi.vercel.app/>
 - [Softle - Physics native design tool](https://softle.app/): Bend, squish and collide organic shapes for real, instead of faking it by hand with the pen tool. A design tool that does the physics. Coming soon.
 - [gh:Jakubantalik/Libraries](https://github.com/Jakubantalik/Libraries): Collection of effects for React: Border beam, Liquid Gooey <https://beam.jakubantalik.com/>
+- [gh:ruucm/shadergradient](https://github.com/ruucm/shadergradient): Create beautiful moving gradients on Framer, Figma and React <https://shadergradient.co>
+- [gh:danielwh2/cube-motion](https://github.com/danielwh2/cube-motion): Four motions, no dials. Every duration, curve and distance is already decided, so the only thing left to choose is which element moves. <https://www.cube-motion.dev/>
+
+Text
+
+- [gh:JaceThings/Scritto/tree/main/packages/core](https://github.com/JaceThings/Scritto/tree/main/packages/core): <https://scrit.to>
+- [gh:lochie/torph](https://github.com/lochie/torph): Dependency-free animated text component. <https://torph.lochie.me>
 
 Liquid Glass
 
@@ -1011,6 +1021,12 @@ Liquid Glass
 - [kitajs/html](https://github.com/kitajs/html): 🏛️ Super fast JSX runtime to generate HTML strings that works everywhere. If it supports string we got you covered. <http://kitajs.org/discord>
 - [ije/mono-jsx](https://github.com/ije/mono-jsx): `<html>` as a `Response`.
 - [gh:docmd-io/docmd](https://github.com/docmd-io/docmd): Build production-ready documentation from Markdown in seconds. No React, no bloat, just content. <https://docmd.io>
+
+## Experiments for React
+
+- [gh:nmn/solenoid](https://github.com/nmn/solenoid): Prototype resumable framework that encodes signal graphs in HTML
+- [gh:nmn/react-concurrent-jotai](https://github.com/nmn/react-concurrent-jotai): Jotai-like atoms backed by concurrent-safe React store snapshots
+- [gh:nmn/react-concurrent-signals](https://github.com/nmn/react-concurrent-signals): Signal functions backed by concurrent-safe React store snapshots
 
 ### Headless
 

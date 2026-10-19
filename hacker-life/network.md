@@ -346,5 +346,5 @@ STUN / TURN / ICE
   - `curl -o /dev/null https://speed.cloudflare.com/__down\?bytes=100000000000000 -e speed.cloudflare.com`
   - `curl.exe https://speed.cloudflare.com/__down\?bytes=100000000000000 -e speed.cloudflare.com`
 - [Instant Domain Reputation Lookup | Identify Risky Domains](https://www.ipqualityscore.com/domain-reputation/): Perform a free domain reputation test to detect suspicious or compromised domains and access powerful risk insights with IPQS domain reputation API.
-
 - [Ping, mtr, dig, TCP port check and real time BGP looking glass from multiple locations](https://ping.pe/): The Best Ping+MTR combination Ever, plus TCP port checker and DNS diagnostics with dig, plus real time BGP looking glass from multiple locations.
+- 🌟 [NetworksDB IP Intelligence, Company to IP, IP address owners, Reverse Whois + DNS, free tools & API](https://networksdb.io/): The free tools below allow to find IP addresses and domains owned by companies and organisations. Mass reverse DNS, reverse Whois, lists of registered domains.

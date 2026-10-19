@@ -14,8 +14,6 @@
 - [input-leap/input-leap](https://github.com/input-leap/input-leap): Open-source KVM (switch) software
 - [fireyy/caricare](https://github.com/fireyy/caricare): A simple cross-platform desktop application for S3-Compatible Object Storage. Built in Rust using egui.
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box): server status & toolbox app using Flutter
-- [waydroid/waydroid](https://github.com/waydroid/waydroid): Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu. <https://waydro.id>
-  - 🌟 [Waydroid](https://waydro.id/): A container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - 🌟 [Blend OS](https://blendos.co/): The only operating system you'll ever need. A seamless blend of all Linux distributions, Android apps and web apps.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl): 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy. <https://upscayl.org>
 - [darktable-org/darktable](https://github.com/darktable-org/darktable): darktable is an open source photography workflow application and raw developer <https://www.darktable.org>
@@ -34,7 +32,6 @@
 - [Tools | Cloudinary](https://cloudinary.com/tools): Format converters and compressors for images and videos.
 - 🌟 [deskflow/deskflow](https://github.com/deskflow/deskflow): Share a single keyboard and mouse between multiple computers. <https://deskflow.org>
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite): An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing <https://graphite.rs>
-- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis): A free, secure and open source app for Android to manage your 2-step verification tokens. <https://getaegis.app>
 - [TibixDev/winboat](https://github.com/TibixDev/winboat): Run Windows apps on 🐧 Linux with ✨ seamless integration <https://www.winboat.app/>
   - Interesting, I also thought about this idea before, RDP is a missing piece in Windows ecosystem
 - 🌟 [KDE/labplot](https://github.com/KDE/labplot): LabPlot is a FREE, open source and cross-platform Data Visualization and Analysis software accessible to everyone. <https://invent.kde.org/education/labplot>
@@ -90,6 +87,7 @@ Raycast is good, but ... when it comes to AI, it becomes a bit of less effective
 - 🌟 [Antinote: Beautiful Temporary Notes and Calculations](https://antinote.io/): Antinote is a beautiful, fast, and lightweight note-taking macOS app that lets you quickly jot down temporary notes and perform calculations seamlessly.
 - 🌟🌟🌟 [gh:mysk-research/loupe](https://github.com/mysk-research/loupe): A privacy-focused iOS app that raises awareness about what native apps can see
 - 🌟 [gh:omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI): Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. <https://omlahore.github.io/RemoveMacAI/>
+- 🌟 [gh:philocalyst/infat](https://github.com/philocalyst/infat): A command line tool to set default openers for file formats and url schemes on macos
 
 ### Monitor
 
@@ -251,20 +249,14 @@ Raycast is good, but ... when it comes to AI, it becomes a bit of less effective
 
 ### Daily
 
-- [hellzerg/optimizer](https://github.com/hellzerg/optimizer): The finest Windows Optimizer
 - 🌟 [files-community/Files](https://github.com/files-community/Files): Building the best file manager experience for Windows <https://files.community>
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI): UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers <https://www.marticliment.com/unigetui/>
-- 🌟 [veler/DevToys](https://github.com/veler/DevToys): A Swiss Army knife for developers. <https://devtoys.app/>
 - [adirh3/Fluent-Search](https://github.com/adirh3/Fluent-Search): Official repository for Fluent Search, use to report issues or ask for a new feature <https://fluentsearch.net>
 - [subhra74/xdm](https://github.com/subhra74/xdm): Powerfull download accelerator and video downloader <https://xtremedownloadmanager.com/>
-- [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB): GUI Tool To Removes Ads From Various Places Around Windows 11
 - [gh:erazortt/DoViBaker](https://github.com/erazortt/DoViBaker): Bake the DoVi into your clip
 - [gh:balu100/dolby-vision-for-windows](https://github.com/balu100/dolby-vision-for-windows): DVFW (Dolby Vision For Windows)
 - [gh:winapps-org/winapps](https://github.com/winapps-org/winapps):: Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.
 - 🌟 [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar): Everything integration for the Windows taskbar.
-- [fairhopeweb/JunkCtrl](https://github.com/fairhopeweb/JunkCtrl): JunkCTRL
-- [99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer): A tool to "Fix" Windows 11
-- 🌟 [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser): Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers. <https://justthebrowser.com/>
 - [gh:shanselman/PeekDesktop](https://github.com/shanselman/PeekDesktop): Click your desktop to peek at it - just like macOS Sonoma.
 - [SignPath](https://signpath.org/): Free Code Signing for Open Source software
 
@@ -282,16 +274,22 @@ Non open source
 ### Dev
 
 - [Chuyu Team](https://www.chuyu.me/en-US/): DISM++
+- [gh:massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting. <https://massgrave.dev>
 - [gh:bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager): A GUI to quickly manage your WSL2 instances <https://apps.microsoft.com/store/detail/wsl-manager/9NWS9K95NMJB>
 - [gh:ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil): Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [gh:memstechtips/UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall): Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 - [gh:memstechtips/Winhance](https://github.com/memstechtips/Winhance): Application designed to optimize, customize and enhance your Windows experience.
+- [hellzerg/optimizerNXT](https://github.com/hellzerg/optimizerNXT): The finest Windows Optimizer CLI
+  - ~~[hellzerg/optimizer](https://github.com/hellzerg/optimizer): The finest Windows Optimizer~~
+- 🌟 [veler/DevToys](https://github.com/veler/DevToys): A Swiss Army knife for developers. <https://devtoys.app/>
+- 🌟 [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser): Remove AI features, telemetry data reporting, sponsored content, product integrations, and other annoyances from web browsers. <https://justthebrowser.com/>
 - [gh:ShadowWhisperer/Remove-MS-Edge](https://github.com/ShadowWhisperer/Remove-MS-Edge): Uninstall Microsoft Edge with an executable or batch script.
 - [gh:zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI): Force Remove Copilot, Recall and More in Windows 11
 - [gh:Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat): A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 - [gh:builtbybel/FlyOOBE](https://github.com/builtbybel/FlyOOBE): Fly through your Windows 11 setup 🐝
 - 🌟 [gh:DavidXanatos/TaskExplorer](https://github.com/DavidXanatos/TaskExplorer): Power full Task Manager <https://xanasoft.com/>
 - 🌟 [gh:microsoft/WindowsDeveloperConfig](https://github.com/microsoft/WindowsDeveloperConfig): Automate the setup and configuration of your Windows development environment.
+- [WSL containers is now generally available | Windows Developer Blog](https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/): WSL is central to our commitment to making Windows the best place to build, run and manage Linux workloads. As AI, cloud-native development, containers, and open-source ecosystems continue to converge on Linux, more developers are choosing to perform
 
 ### Distributions
 
@@ -304,6 +302,12 @@ Size: nano11 > AtlasOS ≈ ReviOS > Tiny11 > Win11 LTSC
 - [gh:meetrevision/playbook](https://github.com/meetrevision/playbook): A lightweight, stable, and performance-focused customized version of Windows that enhances privacy and compatibility <https://www.revi.cc>
 - [gh:Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas): 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. <https://atlasos.net>
 - [Windows 11 IoT LTSC 养老指南 | Dejavu's Blog](https://blog.dejavu.moe/posts/windows11-ltsc-guide/): 更适合老年人的「老坛酸菜」，我的 Windows 11 IoT LTSC 优化记录
+
+### Outdated
+
+- ~~[fairhopeweb/JunkCtrl](https://github.com/fairhopeweb/JunkCtrl): JunkCTRL~~
+- ~~[xM4ddy/OFGB](https://github.com/xM4ddy/OFGB): GUI Tool To Removes Ads From Various Places Around Windows 11~~
+- ~~[99natmar99/Windows-11-Fixer](https://github.com/99natmar99/Windows-11-Fixer): A tool to "Fix" Windows 11~~
 
 ## Linux
 
@@ -327,6 +331,13 @@ Compositor
 - [gh:canonical/mir](https://github.com/canonical/mir): The Mir compositor <https://mir-server.io/>
   - [gh:miracle-wm-org/miracle-wm](https://github.com/miracle-wm-org/miracle-wm): A hackable Wayland window manager 🌠 <https://miracle-wm.org>
 - [codeberg:river/river](https://codeberg.org/river/river): A non-monolithic Wayland compositor <https://isaacfreund.com/software/river/>
+
+## Android
+
+- [waydroid/waydroid](https://github.com/waydroid/waydroid): Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu. <https://waydro.id>
+  - 🌟 [Waydroid](https://waydro.id/): A container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+- [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis): A free, secure and open source app for Android to manage your 2-step verification tokens. <https://getaegis.app>
+- [gh:Droid-Deck/DroidDeck](https://github.com/Droid-Deck/DroidDeck): DroidDeck brings the SteamOS experience to Android
 
 ## Developer
 
@@ -357,7 +368,7 @@ Terminal / SSH
 - [google/werm](https://github.com/google/werm): Tab-friendly terminal multiplexer via Chrome
 - [gh:l0ng-ai/tty7](https://github.com/l0ng-ai/tty7): A terminal workbench in pure Rust: shells, persistent sessions, SSH, coding agents. GPU-rendered on Zed's gpui, VT core from Alacritty. <https://github.com/l0ng-ai/tty7/releases/latest>
 
-## CN Related
+## zh Related
 
 - [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss): 免费、开源的微信公众号订阅方式，支持私有化部署、微信公众号 RSS 生成。(前端重构中)
 - [doocs/md](https://github.com/doocs/md): ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性 <https://doocs.github.io/md/>
@@ -389,7 +400,6 @@ Terminal / SSH
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust): ✨ Rust 版 ServerStatus 探针、威力加强版 <https://ssr.rs/>
 - [rwv/lookscanned.io](https://github.com/rwv/lookscanned.io): 📚 LookScanned.io - Make your PDFs look scanned <https://lookscanned.io>
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances <https://maybe.co>
-- 🌟 [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts): A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. <https://massgrave.dev>
 - [ellite/Wallos](https://github.com/ellite/Wallos): Wallos: Open-Source Personal Subscription Tracker
 - [premieroctet/screen-guru](https://github.com/premieroctet/screen-guru): 🔮 Screen Guru takes clean screenshot of any websites <https://screen.guru>
 - [txstc55/ugly-avatar](https://github.com/txstc55/ugly-avatar): No description, website, or topics provided.
@@ -459,6 +469,7 @@ Terminal / SSH
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools): Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser! <https://omnitools.app>
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools): Collection of handy online tools for developers, with great UX. <https://it-tools.tech>
 - [mfts/papermark](https://github.com/mfts/papermark): Papermark is the open-source DocSend alternative with built-in analytics and custom domains. <https://papermark.io>
+- [gh:cryptpad/cryptpad](https://github.com/cryptpad/cryptpad): Collaborative office suite, end-to-end encrypted and open-source. <https://cryptpad.org>
 
 ### Media
 
@@ -503,14 +514,14 @@ Terminal / SSH
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden): Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles. <https://linkwarden.app>
 - [Mozzo1000/booklogr](https://github.com/Mozzo1000/booklogr): A simple, self-hosted service to keep track of your personal library 📚 <https://demo.booklogr.app>
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus): ☁️ Sync your bookmarks privately across browsers and devices <https://floccus.org>
-- [hectorqin/reader](https://github.com/hectorqin/reader): 阅读 3 服务器版，桌面端，iOS 可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点 star，关注一下公众号【假装大佬】❗️ Demo 服务器由于未备案已被关停，建议自行搭建
+- [hectorqin/reader](https://github.com/hectorqin/reader): 把书籍、电影、剧集、音乐和有声书，放进自己的阅读与影音空间。
 - [gedoor/legado](https://github.com/gedoor/legado): Legado 3.0 Book Reader with powerful controls & full functions❤️ 阅读 3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - 🌟 [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader): A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web <https://koodoreader.com>
 - 🌟 [readest/readest](https://github.com/readest/readest): Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience. <https://readest.com>
   - Built as a modern rewrite of Foliate
 - [Kareadita/Kavita](https://github.com/Kareadita/Kavita): Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family. <http://www.kavitareader.com>
 - [Storyteller Docs | Storyteller](https://smoores.gitlab.io/storyteller/): A self-hosted platform for automatically aligning ebooks and audiobooks.
-- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): RSS reader for macOS and iOS. <https://netnewswire.com/>
+- 🌟 [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire): RSS reader for macOS and iOS. <https://netnewswire.com/>
 - [Lighthouse - The feed reader for finding actionable content](https://lighthouseapp.io/blog/feed-reader-deep-dive): A reimagined RSS feed reader, optimized for people who are serious, intentional, and proactive about their content consumption.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo): 🧡 Follow everything in one place <https://folo.is>
 - [bookfere/Ebook-Translator-Calibre-Plugin](https://github.com/bookfere/Ebook-Translator-Calibre-Plugin): A Calibre plugin to translate ebook into a specified language. <https://bookfere.com/post/1057.html>
@@ -531,6 +542,7 @@ Terminal / SSH
 - [gh:404KSG/roam-nautilus-log](https://github.com/404KSG/roam-nautilus-log): Nautilus Log — a transparent dynamic day planner for Roam Research
 - [gh:404KSG/morden-roam-css](https://github.com/404KSG/morden-roam-css): A quiet, Linear-inspired Roam Research theme for writing and block-based work.
 - [gh:forrestchang/roam-logbook](https://github.com/forrestchang/roam-logbook): org-mode style clock tracking (LOGBOOK / CLOCK) for Roam Research TODOs
+- [gh:konabe-studio/konode](https://github.com/konabe-studio/konode): Sync your browser to storage you own. No middleman, no account, no tracking
 
 ### Cloud Disk
 
@@ -590,6 +602,7 @@ NextCloud is crazily BIG now, so I will say no here.
 - [gh:wong2/cf-mailroom](https://github.com/wong2/cf-mailroom): Self-hosted email for humans and AI agents, on Cloudflare
 - [gh:Billionmail/BillionMail](https://github.com/Billionmail/BillionMail): BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr <https://discord.gg/asfXzBUhZr>
 - [gh:hieunc229/mailflare](https://github.com/hieunc229/mailflare): Email for professionals and teams <https://mailflare.co>
+- [gh:mailez-hq/mailez](https://github.com/mailez-hq/mailez): Self-hosted mail server for your own domain: SMTP/IMAP/POP3, CardDAV/CalDAV, React webmail and admin console, one-command Docker Compose. <https://mailez.net>
 
 Not OSS:
 
