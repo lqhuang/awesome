@@ -680,6 +680,7 @@ Misc
   - [nol13/fuzzball.js](https://github.com/nol13/fuzzball.js): Easy to use and powerful fuzzy string matching, port of fuzzywuzzy.
 - [carpedm20/emoji](https://github.com/carpedm20/emoji): emoji terminal output for Python
 - [cpburnz/python-pathspec](https://github.com/cpburnz/python-pathspec): Utility library for gitignore style pattern matching of file paths.
+- [gh:t-strings/tdom](https://github.com/t-strings/tdom): A 🤘 rockin' t-string HTML templating system for Python 3.14. <https://t-strings.github.io/tdom/>
 
 ### Utils
 

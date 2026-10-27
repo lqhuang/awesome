@@ -155,6 +155,7 @@
 - [bazel-contrib/supply-chain](https://github.com/bazel-contrib/supply-chain): This repository contains Bazel modules for injecting and collecting supply-chain metadata into builds.
   - [bcr:supply-chain-go](https://registry.bazel.build/modules/supply-chain-go)
 - [bazel-contrib/bazelrc-preset.bzl](https://github.com/bazel-contrib/bazelrc-preset.bzl): Convenience for setting groups of related Bazel flags
+- [gh:bazel-contrib/buildtools](https://github.com/bazel-contrib/buildtools): A bazel BUILD file formatter and editor
 - [JetBrains/hirschgarten](https://github.com/JetBrains/hirschgarten): A new approach to Bazel support for IntelliJ IDEA <https://youtrack.jetbrains.com/issues/BAZEL>
 - 🌟 [scasagrande/bazel-examples](https://github.com/scasagrande/bazel-examples): A collection of code examples related to the Bazel ecosystem
 - [NVIDIA/bluebazel](https://github.com/NVIDIA/bluebazel): Blue Bazel: A vscode extension for bazel building, running, and testing with UI

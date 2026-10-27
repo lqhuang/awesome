@@ -275,6 +275,7 @@
 - [smartHomeHub/SmartIR](https://github.com/smartHomeHub/SmartIR): Home Assistant integration to manage climate systems, TVs, fans and lights using IR/RF controllers. Compatible with Broadlink, Xiaomi, MQTT, LOOKin and ESPHome
 - [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys): A privacy-first, open-source home assistant <https://gladysassistant.com>
 - [MichaIng/DietPi](https://github.com/MichaIng/DietPi): Lightweight justice for your single-board computer! <https://dietpi.com/>
+- [gh:blakeblackshear/frigate](https://github.com/blakeblackshear/frigate): NVR with realtime local object detection for IP cameras <https://frigate.video>
 
 ## Misc
 

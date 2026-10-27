@@ -134,6 +134,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable): 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives. <https://aitable.ai>
 - [dream-num/univer](https://github.com/dream-num/univer): Univer is an open-source alternative to Google Sheets, Slides, and Docs <https://univer.ai>
 - [trailbaseio/trailbase](https://github.com/trailbaseio/trailbase): A blazingly fast, single-file, and open-source server for your application with type-safe restful APIs, auth, admin dashboard, and more. <https://trailbase.io>
+- [gh:pocketbase/pocketbase](https://github.com/pocketbase/pocketbase): Open Source realtime backend in 1 file <https://pocketbase.io>
 
 ## Auth
 
@@ -182,10 +183,9 @@
 - [pundit-community/pundit.js](https://github.com/pundit-community/pundit.js): [WIP] Minimal authorisation through a plain old JavaScript object. <https://pundit-community.github.io/pundit.js/>
 - [stack-auth/stack](https://github.com/stack-auth/stack): Open-source Auth0/Clerk alternative <https://stack-auth.com>
 - 🌟 [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id): A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. <https://pocket-id.org>
-- [gh:tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth): The tiniest OpenID Certified™ authorization and authentication server you have ever seen. <https://tinyauth.app>
+- 🌟 [gh:tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth): The tiniest OpenID Certified™ authorization and authentication server you have ever seen. <https://tinyauth.app>
 - [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
 - 🌟 [lastlogin-net/obligator](https://github.com/lastlogin-net/obligator): Simple and opinionated OpenID Connect server designed for self-hosters <https://lastlogin.net/>
-- [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth): The simplest way to protect your apps with a login screen. <https://tinyauth.app>
 - 🌟 [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. <https://oauth2-proxy.github.io/oauth2-proxy>
 - [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
 - [awslabs/ssosync](https://github.com/awslabs/ssosync): Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda

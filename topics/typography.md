@@ -23,6 +23,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [日本語ふぉんとライブラリ](https://jpfont-library.com/#category)
 - [Font library - Typography | Microsoft Learn](https://learn.microsoft.com/en-us/typography/font-list/)
   - [Font List Windows 11 - Typography | Microsoft Learn](https://learn.microsoft.com/en-us/typography/fonts/windows_11_font_list): List of fonts present in Windows 11 and their information.
+- [Good type against all odds – Unsung](https://unsung.aresluna.org/good-type-against-all-odds/): A blog about software craft and quality
 
 ## Tools
 

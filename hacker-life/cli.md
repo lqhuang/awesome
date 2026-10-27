@@ -205,6 +205,9 @@
 - 🌟 [gh:dlvhdr/diffnav](https://github.com/dlvhdr/diffnav): A git diff pager based on delta but with a file tree, à la GitHub.
 - 🌟 [gh:gnomeria/usbtree](https://github.com/gnomeria/usbtree): Live USB device tree in your terminal. Rust TUI, no root, no libusb. Full activity metrics on Linux; device tree on macOS/Windows. <https://gnomeria.github.io/usbtree/>
 - [gh:lgse/strata](https://github.com/lgse/strata): A fast, keyboard-first file manager for Linux <https://stratafiles.io/>
+- `@zenbu-labs/pixel`: A library for building graphical applications in the terminal
+  - [gh:zenbu-labs/terminal-browser](https://github.com/zenbu-labs/terminal-browser): A real browser inside your terminal <https://terminal-browser.com>
+  - [gh:zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code): VS Code in the terminal <https://terminal-code.com>
 
 ## Monitor
 

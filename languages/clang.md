@@ -321,6 +321,8 @@ And modern is here now.
 - [teslamotors/fixed-containers](https://github.com/teslamotors/fixed-containers): C++ Fixed Containers
 - [codeberg:uecker/noplate](https://codeberg.org/uecker/noplate): experimental generic type-safe container data structures for C
 - [gh:mattreecebentley/plf_colony](https://github.com/mattreecebentley/plf_colony): An unordered C++ data container providing fast iteration/insertion/erasure while maintaining pointer/iterator validity to non-erased elements regardless of insertions/erasures. Provides higher-performance than std:: library containers for high-modification scenarios with unordered data. <https://plflib.org/colony.htm>
+- [gh:GLMap/earstrip](https://github.com/GLMap/earstrip): Fast polygon triangulation into triangle strips: ear clipping with a constrained Delaunay fallback for broken rings. Header-only C++17 and WebAssembly, with an earcut-compatible JavaScript call. <https://www.npmjs.com/package/earstrip>
+  - [Faster than earcut: triangulating 3.7M map polygons in 489 ms | GLOBUS](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
 
 ### Serde
 

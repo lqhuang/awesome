@@ -28,6 +28,7 @@ Daniel Lemire is dominating this field 😄.
   - [gh:OpenHFT/Zero-Allocation-Hashing](https://github.com/OpenHFT/Zero-Allocation-Hashing): Zero-allocation hashing for Java
   - [gh:redspah/xxhash_cpp](https://github.com/redspah/xxhash_cpp): Port of the xxhash library to C++17.
   - [gh:ifduyue/python-xxhash](https://github.com/ifduyue/python-xxhash): Python Binding for xxHash <https://pypi.org/project/xxhash/>
+- [gh:XiangpengHao/bbtree](https://github.com/XiangpengHao/bbtree): Fastest concurrent ordered map <https://bbtree.xiangpeng.systems>
 
 ## json
 

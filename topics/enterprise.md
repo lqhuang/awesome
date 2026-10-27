@@ -271,7 +271,7 @@ Visual stack
 - [greenbone/docs](https://github.com/greenbone/docs): Documentation for the Greenbone Community Edition <https://greenbone.github.io/docs/>
 - [TheHive-Project/Cortex](https://github.com/TheHive-Project/Cortex): Cortex: a Powerful Observable Analysis and Active Response Engine <https://strangebee.com/cortex/>
 - [Thinkst Canary](https://canary.tools/): Most companies discover they've been breached way too late. Thinkst Canary fixes this: just 2 minutes of setup; nearly 0 false positives, no ongoing overhead, and you can detect attackers long before they dig in.
-  - [Canarytokens](https://canarytokens.org/nest/): Canarytokens is a free tool that helps you discover you’ve been breached by having attackers announce themselves.
+  - [Canarytokens](https://canarytokens.org/nest/): Canarytokens is a free tool that helps you discover you've been breached by having attackers announce themselves.
 - [blacklanternsecurity/baddns](https://github.com/blacklanternsecurity/baddns): Check subdomains for subdomain takeovers and other DNS tomfoolery
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz): "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [commixproject/commix](https://github.com/commixproject/commix): Automated All-in-One OS Command Injection Exploitation Tool. <https://commixproject.com>
@@ -288,6 +288,8 @@ Visual stack
 - [CSF Tools – The Cybersecurity Framework for Humans](https://csf.tools/)
 - 🌟 [gh:OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries): The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. <https://cheatsheetseries.owasp.org>
 - [gh:anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): OSS Scanner is a service by Anthropic to scan critical open-source repositories for security vulnerabilities.
+- [Canarytokens](https://canarytokens.org/nest/): Know. Before it matters
+  - > Canarytokens is a free tool that helps you discover you've been breached by having attackers announce themselves.
 
 ## Career
 
@@ -321,4 +323,4 @@ Visual stack
 - [polarsource/polar](https://github.com/polarsource/polar): Polar gives open source maintainers a better and funded backlog based on what drives the most impact within their community. <https://polar.sh>
 - [ossf/scorecard](https://github.com/ossf/scorecard): OpenSSF Scorecard - Security health metrics for Open Source <https://scorecard.dev>
 - [GitHub Docs - About GitHub Advanced Security](https://docs.github.com/en/get-started/learning-about-github/about-github-advanced-security)
-- 🌟 [Alpha Omega](https://alpha-omega.dev/): Alpha-Omega’s mission is to protect society by catalyzing sustainable security improvements across open source, from the largest global projects to the smallest but essential components maintained by individuals.
+- 🌟 [Alpha Omega](https://alpha-omega.dev/): Alpha-Omega's mission is to protect society by catalyzing sustainable security improvements across open source, from the largest global projects to the smallest but essential components maintained by individuals.

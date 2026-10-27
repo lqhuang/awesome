@@ -193,6 +193,8 @@ General problems
 - 🌟 [gh:perplexityai/pplx-garden](https://github.com/perplexityai/pplx-garden): Perplexity open source garden for inference technology
 - [gh:meta-pytorch/autoparallel: An experimental implementation of compiler-driven automatic sharding of models across a given device mesh.](https://github.com/meta-pytorch/autoparallel)
 - [gh:incoai/splash](https://github.com/incoai/splash): A local inference engine for Apple silicon, built around the model. <https://inco.ai/blog/splash/>
+- 🌟 [gh:ekzhang/resin](https://github.com/ekzhang/resin): 🧱 Experimental library for building inference engines
+  - You should never miss what Eric Zhang brings you. LoL
 
 ### Distribution kits
 
@@ -674,3 +676,5 @@ mujoco
 - [pierrot-lc/jax-gnn](https://github.com/pierrot-lc/jax-gnn): GNN implemented using JAX and Equinox <https://pierrot-lc.dev/posts/2024-09-02_jax-gnn/>
 - [karpathy/nanochat](https://github.com/karpathy/nanochat): The best ChatGPT that $100 can buy.
 - [gh:karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero): Neural Networks: Zero to Hero
+
+- [gh:jla-org/jax-linear-attention](https://github.com/jla-org/jax-linear-attention): Fast linear-attention, SSM and attention kernels (Pallas Mosaic GPU) and a training stack for JAX on NVIDIA Hopper <https://pypi.org/project/jax-linear-attention/>

@@ -159,6 +159,7 @@
 - [gh:alexarchambault/mill-missinglink](https://github.com/alexarchambault/mill-missinglink): Mill plugin for missinglink
 - [gh:sake92/codeps](https://github.com/sake92/codeps): Code package dependency analyzer <https://sake92.github.io/codeps/>
 - [gh:com-lihaoyi/mill-moduledefs](https://github.com/com-lihaoyi/mill-moduledefs): Scalac compiler plugin to support Mill modules
+- [gh:nguyenyou/mill-strict-deps](https://github.com/nguyenyou/mill-strict-deps): Bazel-style strict dependency checks for Mill JVM modules: find unused direct deps and missing direct deps.
 
 ### Testing
 

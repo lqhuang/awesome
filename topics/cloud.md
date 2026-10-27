@@ -110,6 +110,7 @@
 - [gh:replicatedhq/ttl.sh](https://github.com/replicatedhq/ttl.sh): An anonymous & ephemeral Docker image registry <https://ttl.sh>
   - > Push any OCI artifact with a TTL. No auth, no config, no account. It expires automatically. Like magic.
   - interesting idea 🤔
+- [gh:cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry): A container registry backed by Workers and R2.
 
 #### Container ops
 
@@ -230,6 +231,8 @@
 - [gh:containers/libkrun](https://github.com/containers/libkrun): A dynamic library providing Virtualization-based process isolation capabilities
 - [gh:nanovms/nanos](https://github.com/nanovms/nanos): A kernel designed to run one and only one application in a virtualized environment <https://nanos.org>
 - [gh:smol-machines/smolvm](https://github.com/smol-machines/smolvm): An embeddable, portable, branchable virtual machine to safely run Agents locally. <https://smolmachines.com>
+- [VirtFusion](https://virtfusion.com/): Modern virtualization control panel for hosting providers
+  - > VirtFusion is a modern, high-performance virtualization control panel for hosting providers and MSPs. Deploy VMs, automate billing, manage networking, storage, clusters, backups, disaster recovery and more from a unified platform.
 
 Type 1 hypervisors
 

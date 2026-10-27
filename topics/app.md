@@ -42,6 +42,7 @@
 - [gh:Kebechet/setup-apple-certificate](https://github.com/Kebechet/setup-apple-certificate): GitHub Action that manages Apple Distribution certificates and provisioning profiles via the App Store Connect API.
 - [gh:tddworks/baguette](https://github.com/tddworks/baguette): Headless control for Apple's Simulators — 3D models, taps, swipes, multi-finger gestures, 60 fps streaming, and a multi-device farm <https://tddworks.github.io/baguette/>
 - [gh:mgcrea/react-native-swiftui](https://github.com/mgcrea/react-native-swiftui): SwiftUI components for React Native <https://mgcrea.github.io/react-native-swiftui/>
+- [gh:DrWhax/unfairplay](https://github.com/DrWhax/unfairplay): Decrypt IPA's on MacOS
 
 ## Electron like
 
@@ -71,6 +72,7 @@ Direct GUI
 
 - 🌟 [expo/expo](https://github.com/expo/expo): An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web. <https://docs.expo.dev>
 - 🌟 [nandorojo/solito](https://github.com/nandorojo/solito): 🧍‍♂️ React Native + Next.js, unified. <https://solito.dev>
+  - [gh:shirakaba/expo-desktop](https://github.com/shirakaba/expo-desktop): Userland support for using Expo with out-of-tree platforms <https://expo-desktop-docs.vercel.app>
 - [ultralight-ux/Ultralight](https://github.com/ultralight-ux/Ultralight): Next-generation HTML renderer for apps and games <https://ultralig.ht>
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows): A framework for building native Windows apps with React. <https://microsoft.github.io/react-native-windows/>
 - [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos): A framework for building native macOS apps with React. <https://microsoft.github.io/react-native-windows/>

@@ -263,6 +263,10 @@
 - [gh:sellout/yaya](https://github.com/sellout/yaya): Yet another … yet another recursion scheme library for Haskell
 - [gh:shayne-fletcher/relay](https://github.com/shayne-fletcher/relay): ordered message delivery <https://shayne-fletcher.github.io/relay/>
 
+## Misc
+
+- [codeberg:telorum/kalesvolgh](https://codeberg.org/telorum/kalesvolgh): A structural text editor, tailored specifically to my workflow, for haskell.
+
 ## Haskell meets AI
 
 - [cofree-coffee/cofree-bot](https://github.com/cofree-coffee/cofree-bot): A library for building bots compositionally.

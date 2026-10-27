@@ -41,6 +41,7 @@
 - [gh:ruru-m07/gitru](https://github.com/ruru-m07/gitru): A Git Client. <https://gitru.app>
 - 🌟 [gh:DetachHead/rebased](https://github.com/DetachHead/rebased): A git client based on the IntelliJ platform
 - 🌟 [gh:zackb/tether](https://github.com/zackb/tether): Linux + iPhone Continuity / iMessage / SMS
+- [gh:heldercorreia/speedcrunch](https://github.com/heldercorreia/speedcrunch): Official home for the SpeedCrunch scientific calculator <https://speedcrunch.org/>
 
 ### Drive / Cloud Storage
 
@@ -75,6 +76,7 @@ Raycast is good, but ... when it comes to AI, it becomes a bit of less effective
 
 - [gh:abue-ammar/tinycast](https://github.com/abue-ammar/tinycast): Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. <https://tinycast.dev>
 - [gh:vicinaehq/vicinae](https://github.com/vicinaehq/vicinae): A focused launcher for your desktop - native, fast, extensible <https://vicinae.com>
+- [LaunchBar - Unleashed productivity.](https://obdev.at/products/launchbar/index.html): Start with a single keyboard shortcut to access and control every corner of your Mac.
 
 ## macOS / iPadOS
 
@@ -88,6 +90,7 @@ Raycast is good, but ... when it comes to AI, it becomes a bit of less effective
 - 🌟🌟🌟 [gh:mysk-research/loupe](https://github.com/mysk-research/loupe): A privacy-focused iOS app that raises awareness about what native apps can see
 - 🌟 [gh:omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI): Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone. <https://omlahore.github.io/RemoveMacAI/>
 - 🌟 [gh:philocalyst/infat](https://github.com/philocalyst/infat): A command line tool to set default openers for file formats and url schemes on macos
+- 🌟 [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive): Store SSH keys in the Secure Enclave
 
 ### Monitor
 
@@ -118,7 +121,6 @@ Raycast is good, but ... when it comes to AI, it becomes a bit of less effective
 - [p0deje/Maccy](https://github.com/p0deje/Maccy): Lightweight clipboard manager for macOS <https://maccy.app>
 - [sicreative/BatteryStatusShow](https://github.com/sicreative/BatteryStatusShow): View MacOS and IOS battery Information
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth): Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof. <https://sveinbjorn.org/sloth>
-- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive): Store SSH keys in the Secure Enclave
 - [altstoreio/AltStore](https://github.com/altstoreio/AltStore): AltStore is an alternative app store for non-jailbroken iOS devices. <https://altstore.io>
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz): Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle): Move and resize windows on macOS with keyboard shortcuts and snap areas <https://rectangleapp.com>
@@ -429,8 +431,9 @@ Terminal / SSH
 - [gh:zakirullin/files.md](https://github.com/zakirullin/files.md): 🌱 Private, quiet space for thinking. Simple app for .md files. AI-friendly. <https://files.md>
 - [gh:tianrking/EdgeMirror](https://github.com/tianrking/EdgeMirror): A CDN-style edge mirror gateway for developer sources. Accelerate PyPI, PyTorch, Hugging Face, GitHub, Docker registries, Linux mirrors, npm, Go modules, Maven, crates.io, runtime downloads, and universal file forwarding behind one clean domain.
 - 🌟 [giscus/giscus](https://github.com/giscus/giscus): A comment system powered by GitHub Discussions. :octocat: 💬 💎 <https://giscus.app>
-- [djyde/cusdis](https://github.com/djyde/cusdis): lightweight, privacy-friendly alternative to Disqus. <https://cusdis.com>
 - [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk): 🌌 自托管评论系统 | Your self-hosted comment system <https://artalk.js.org>
+- 🪦 [djyde/cusdis](https://github.com/djyde/cusdis): lightweight, privacy-friendly alternative to Disqus. <https://cusdis.com>
+- 🪦 [gh:utterance/utterances](https://github.com/utterance/utterances): 🔮 A lightweight comments widget built on GitHub issues <https://utteranc.es>
 
 ### Git hosting
 
@@ -543,6 +546,7 @@ Terminal / SSH
 - [gh:404KSG/morden-roam-css](https://github.com/404KSG/morden-roam-css): A quiet, Linear-inspired Roam Research theme for writing and block-based work.
 - [gh:forrestchang/roam-logbook](https://github.com/forrestchang/roam-logbook): org-mode style clock tracking (LOGBOOK / CLOCK) for Roam Research TODOs
 - [gh:konabe-studio/konode](https://github.com/konabe-studio/konode): Sync your browser to storage you own. No middleman, no account, no tracking
+- 🌟🌟 [codeberg:readeck/readeck](https://codeberg.org/readeck/readeck): Readeck is a simple web application that lets you save the precious readable content of web pages you like and want to keep forever. <https://readeck.org/>
 
 ### Cloud Disk
 

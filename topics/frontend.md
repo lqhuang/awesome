@@ -153,7 +153,11 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - 🌟 [gh:argyleink/prop-for-that](https://github.com/argyleink/prop-for-that): what JS knows, now CSS knows <https://prop-for-that.netlify.app/>
 - [gh:beercss/beercss](https://github.com/beercss/beercss): Build material design interfaces in record time... without stress for devs... 🍺💛 <https://www.beercss.com>
 
-#### CSS in JS
+### CSS Libraries
+
+- [gh:postcss/postcss-safe-parser](https://github.com/postcss/postcss-safe-parser): Fault tolerant CSS parser for PostCSS
+
+### CSS in JS
 
 - [andreipfeiffer/css-in-js](https://github.com/andreipfeiffer/css-in-js): A thorough analysis of all the current CSS-in-JS solutions with SSR & TypeScript support for Next.js
 - [macaron-css/macaron](https://github.com/macaron-css/macaron): Typesafe CSS-in-JS with zero runtime, colocation, maximum safety and productivity <https://macaron.js.org>
@@ -530,7 +534,7 @@ PDF
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf): 📄 Create PDF files using React <https://react-pdf.org>
   - **CREATE** pdf
 - [jonelantha/react-responsive-pagination](https://github.com/jonelantha/react-responsive-pagination): A React pagination component which intelligently renders to the available width <https://react-responsive-pagination.elantha.com>
-- [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf): Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. <https://react.onedoclabs.com/>
+- 🪦 [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf): Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. <https://react.onedoclabs.com/>
 - [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick): View and Interact with PDFs in React SolidJS, Svelte and JavaScript apps <https://pdfslick.dev>
 - [gh:cosmiciron/vmprint](https://github.com/cosmiciron/vmprint): An alternative to React-PDF — render multi-page documents anywhere. Preview on canvas and export to PDF/SVG from the same layout — no PDF.js, no React, no server. Pure JS, no dependencies. ~1.7MB. https://cosmiciron.github.io/vmprint/examples/preview/ <https://cosmiciron.github.io/vmprint/>
 
@@ -549,6 +553,8 @@ Markdown
 
 - 🌟 [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown): Markdown component for React <https://remarkjs.github.io/react-markdown>
 - [remarkjs/remark](https://github.com/remarkjs/remark): markdown processor powered by plugins part of the @unifiedjs collective <https://remark.js.org>
+  - [gh:remcohaszing/remark-mdx-frontmatter](https://github.com/remcohaszing/remark-mdx-frontmatter): A remark plugin for converting frontmatter metadata into MDX exports
+  - [gh:remcohaszing/rehype-mermaid](https://github.com/remcohaszing/rehype-mermaid): A rehype plugin to render mermaid diagrams
 - [micromark/micromark](https://github.com/micromark/micromark): small, safe, and great commonmark (optionally gfm) compliant markdown parser <https://unifiedjs.com>
   - [micromark/micromark-extension-mdxjs-esm](https://github.com/micromark/micromark-extension-mdxjs-esm): micromark extension to support MDX JS import/exports <https://unifiedjs.com>
 - [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx): 🏭 The most lightweight, customizable React markdown component. <https://markdown-to-jsx.quantizor.dev/>
@@ -558,6 +564,7 @@ Markdown
   - [antfu/markdown-it-async](https://github.com/antfu/markdown-it-async): Enhance markdown-it to support async highlight function.
 - [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown): ✨ A Markdown Editor <https://github.com/Tencent/cherry-markdown/wiki>
 - [vercel/streamdown](https://github.com/vercel/streamdown): A drop-in replacement for react-markdown, designed for AI-powered streaming. <https://streamdown.ai/>
+- [gh:mdx-js/mdx-analyzer](https://github.com/mdx-js/mdx-analyzer): MDX extension for Visual Studio Code <https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx>
 
 Email
 
@@ -630,6 +637,7 @@ Misc
 - [gh:c15t/c15t](https://github.com/c15t/c15t): The Developer-First Cookie Banner <https://c15t.com>
 - [gh:iyiolacak/mood-wheel](https://github.com/iyiolacak/mood-wheel): Tactile five-stop mood wheel and agent question reel extracted from Muzluk <https://www.npmjs.com/package/@muzluk/agent-questions>
   - Awesome if you don't mind the dependency on pixi.js
+- [gh:JaceThings/Highlighters](https://github.com/JaceThings/Highlighters): Realistic, deeply customizable highlighter-pen marks for web text. From a single word to a whole page: multiline, deterministic, and SSR-safe. <https://highlighte.rs>
 
 #### Editor
 
@@ -717,10 +725,11 @@ Concrete animations
 - [gh:Jakubantalik/Libraries](https://github.com/Jakubantalik/Libraries): Collection of effects for React: Border beam, Liquid Gooey <https://beam.jakubantalik.com/>
 - [gh:ruucm/shadergradient](https://github.com/ruucm/shadergradient): Create beautiful moving gradients on Framer, Figma and React <https://shadergradient.co>
 - [gh:danielwh2/cube-motion](https://github.com/danielwh2/cube-motion): Four motions, no dials. Every duration, curve and distance is already decided, so the only thing left to choose is which element moves. <https://www.cube-motion.dev/>
+- [gh:JaceThings/Lisse](https://github.com/JaceThings/Lisse): Smooth-corner SVG primitives for React, Vue, Svelte, and Octane. Pixel-perfect Figma squircles + three other corner curves. <https://corne.rs>
 
 Text
 
-- [gh:JaceThings/Scritto/tree/main/packages/core](https://github.com/JaceThings/Scritto/tree/main/packages/core): <https://scrit.to>
+- [gh:JaceThings/Scritto](https://github.com/JaceThings/Scritto): SwiftUI's numeric text transition, on the web. <https://scrit.to>
 - [gh:lochie/torph](https://github.com/lochie/torph): Dependency-free animated text component. <https://torph.lochie.me>
 
 Liquid Glass
@@ -947,6 +956,7 @@ Liquid Glass
 - [gh:humation-labs/humation](https://github.com/humation-labs/humation): Hand-drawn kawaii avatar engine for your app. No AI, no API calls.
 - [gh:cossistantcom/cossistant](https://github.com/cossistantcom/cossistant): Open-source, customer support platform with fully customizable AI support agents for developers / startups shipping SaaS. <https://cossistant.com>
 - [The Noun Project](https://thenounproject.com/): Free Icons and Stock Photos, Made by Humans
+- [gh:SanKyu-Lab/circle-flags-ui](https://github.com/SanKyu-Lab/circle-flags-ui): 📦 400+ circular SVG flags for React, Vue 3, and Solid.js — tree-shakeable, TypeScript-ready, SSR-friendly. <https://react-circle-flags.js.org/>
 
 ### Logos / Brand icons
 
@@ -993,6 +1003,7 @@ Liquid Glass
 - [gh:nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d): A real-time 3D digital map of Tokyo's public transport system <https://minitokyo3d.com>
 - [gh:WICG/html-in-canvas](https://github.com/WICG/html-in-canvas): This is a proposal for using 2D and 3D `<canvas>` to customize the rendering of HTML content.
   - [gh:remotion-dev/html-in-canvas](https://github.com/remotion-dev/html-in-canvas): Shows the capabilities of HTML-in-canvas and Remotion using the `<HtmlInCanvas>` component. <https://remotion.dev/html-in-canvas>
+- [gh:devdotfast/whiteboard](https://github.com/devdotfast/whiteboard): open-source canvas for thoughtful software design <https://whiteboard.dev.fast/>
 - [gh:Jakubantalik/metal-fx](https://github.com/Jakubantalik/metal-fx): Animated WebGL liquid-metal effect for React buttons and UI components <https://metal.jakubantalik.com>
 - 🌟 [gh:gre/gl-react](https://github.com/gre/gl-react): gl-react – React library to write and compose WebGL shaders <http://gre.github.io/gl-react/>
 - [gh:HarryStevens/geometric](https://github.com/HarryStevens/geometric): A JavaScript library for doing geometry. <https://www.harryjstevens.com/geometric/>

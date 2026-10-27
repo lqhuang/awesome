@@ -131,6 +131,11 @@
 - [ivmai/bdwgc](https://github.com/ivmai/bdwgc): The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc) <https://www.hboehm.info/gc/>
 - [gh:plasma-umass/Mesh](https://github.com/plasma-umass/Mesh): A memory allocator that automatically reduces the memory footprint of C/C++ applications.
 
+## Debugger
+
+- [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
+- [gh:pwndbg/pwndbg](https://github.com/pwndbg/pwndbg): Exploit Development and Reverse Engineering with GDB & LLDB Made Easy <https://pwndbg.re/>
+
 ## Performance profile / tracing
 
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine): A command-line benchmarking tool
@@ -155,7 +160,6 @@
 - [ColinIanKing/stress-ng](https://github.com/ColinIanKing/stress-ng): This is the stress-ng upstream project git repository. stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. <https://github.com/ColinIanKing/stress-ng>
 - [bsc-mem/PROFET](https://github.com/bsc-mem/PROFET): Analytical model that quantifies the impact of the main memory on application performance and system power and energy consumption.
 - [intel/pcm](https://github.com/intel/pcm): Intel® Performance Counter Monitor (Intel® PCM)
-- [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 - [davidmarkclements/0x](https://github.com/davidmarkclements/0x): 🔥 single-command flamegraph profiling 🔥
 - [HewlettPackard/LinuxKI](https://github.com/HewlettPackard/LinuxKI): LinuxKI Toolset (Trace-based performance analysis tool)
 - [indragiek/uniprof](https://github.com/indragiek/uniprof): Universal CPU profiler designed for humans and AI agents <https://uniprof.sh>
