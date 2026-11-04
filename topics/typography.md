@@ -139,6 +139,7 @@ CJK
 - 🌟 [gh:yamatoiizuka/gen-interface-jp](https://github.com/yamatoiizuka/gen-interface-jp): Typeface harmonizing Inter and Noto Sans JP <https://gen.typesetting.jp/>
 - [gh:antfu/furifont](https://github.com/antfu/furifont): A Japanese font that shows furigana by itself. <https://furifont.antfu.me/>
 - [络纬](https://luowei.atelier-anchor.com/): 亦黑亦宋的中文可变字体超级家族，正在开发中
+- [Futura 100 Chinese Font Family | TypeTogether](https://www.typetogether.com/fonts/futura-100-chinese)
 
 ???
 
@@ -162,3 +163,4 @@ CJK
 - [gh:Skywt2003/chinese-web-typography](https://github.com/Skywt2003/chinese-web-typography): A skill for thoughtful Chinese web typography, with interactive before-and-after demos.
 - [gh:charlie5188/css-composite-font](https://github.com/charlie5188/css-composite-font): Composite fonts in pure CSS: separate fonts and sizes for CJK, kana and Latin (@font-face + unicode-range + size-adjust). 复合字体 / 合成フォント <https://charlie5188.github.io/css-composite-font/>
 - [Typefree - Free Font Library](https://www.typefree.org/): TypeFree is a free font library for your projects.
+- [Anyway.Fonts · 中文字体预览、缺字检测与字体对比工具](https://anyway.fm/fonts/): 使用 Anyway.Fonts 在线预览电脑里安装的中文字体，检测生僻字、繁体字是否缺字，通过标题、正文等样张查看排版效果，并排、逐行或叠加比较不同字体。免费使用，无需安装

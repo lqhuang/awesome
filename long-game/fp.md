@@ -91,10 +91,8 @@
 
 - [gh:Z3Prover/z3](https://github.com/Z3Prover/z3): The Z3 Theorem Prover
 - [gh:cvc5/cvc5](https://github.com/cvc5/cvc5): cvc5 is an open-source automatic theorem prover for Satisfiability Modulo Theories (SMT) problems.
-- Lean
-  - [lean-dojo/LeanDojo](https://github.com/lean-dojo/LeanDojo): Tool for data extraction and interacting with Lean programmatically. <https://leandojo.org>
-  - [ImperialCollegeLondon/group-theory-game](https://github.com/ImperialCollegeLondon/group-theory-game): Building group theory from scratch in Lean
-  - [leanprover/cslib](https://github.com/leanprover/cslib): The Lean Computer Science Library (CSLib) <https://www.cslib.io/>
+- [gh:lean-forward/logical_verification_2026](https://github.com/lean-forward/logical_verification_2026): The Hitchhiker's Guide to Logical Verification (2026 edition) and associated materials
+  - [gh:Lean-zh/LoVe-zh](https://github.com/Lean-zh/LoVe-zh): 逻辑验证漫游指南
 - EGraphs
   - [gh:philzook58/awesome-egraphs](https://github.com/philzook58/awesome-egraphs): An awesome list of e-graph resources
   - 🌟 [egraphs-good/egg](https://github.com/egraphs-good/egg): egg is a flexible, high-performance e-graph library <https://egraphs-good.github.io>
@@ -102,8 +100,6 @@
       - https://arxiv.org/abs/2304.04332
     - [metadsl/egglog-python](https://github.com/metadsl/egglog-python): Python bindings for the egg-smol rust library <https://egg-smol-python.readthedocs.io/en/latest/>
     - [RobinKa/egga](https://github.com/RobinKa/egga): Symbolic Geometric Algebra with E-Graphs
-- [gh:lean-forward/logical_verification_2026](https://github.com/lean-forward/logical_verification_2026): The Hitchhiker's Guide to Logical Verification (2026 edition) and associated materials
-  - [gh:Lean-zh/LoVe-zh](https://github.com/Lean-zh/LoVe-zh): 逻辑验证漫游指南
 - [gh:vellvm/vellvm](https://github.com/vellvm/vellvm): The Vellvm (Verified LLVM) coq development.
 - [gh:AlloyTools/org.alloytools.alloy](https://github.com/AlloyTools/org.alloytools.alloy): Alloy is a language for describing structures and a tool for exploring them. It has been used in a wide range of applications from finding holes in security mechanisms to designing telephone switching networks. This repository contains the code for the tool.
 - [gh:AeneasVerif/aeneas](https://github.com/AeneasVerif/aeneas): A verification toolchain for Rust programs <https://aeneasverif.github.io/>

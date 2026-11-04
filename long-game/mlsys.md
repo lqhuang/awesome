@@ -501,6 +501,7 @@ mujoco
 - [gh:newton-physics/newton](https://github.com/newton-physics/newton): An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers. <https://newton-physics.github.io/newton/stable/>
   - [gh:NVIDIA/warp](https://github.com/NVIDIA/warp): A Python framework for GPU-accelerated simulation, robotics, and machine learning. <https://nvidia.github.io/warp/stable/>
 - [gh:pollen-robotics/microduck](https://github.com/pollen-robotics/microduck): A Tiny biped duck robot 🦆 <https://pollen-robotics.com/microduck>
+- [gh:iit-DLSLab/mpx](https://github.com/iit-DLSLab/mpx): Model Predictive Control in JAX
 
 ### Google specialization
 

@@ -116,6 +116,7 @@
 - [gh:HirokiHamaguchi/latexlint](https://github.com/HirokiHamaguchi/latexlint): Linter for LaTeX with useful commands for academic writing <https://hirokihamaguchi.github.io/latexlint/>
   - [gh:dainiak/latexcheck](https://github.com/dainiak/latexcheck): JS LaTeX style checker a la ChkTex
 - [gh:LionSR/tenkz](https://github.com/LionSR/tenkz): Tensor-network diagrams from a description of the network
+- [gh:kevinraymond/florilegium](https://github.com/kevinraymond/florilegium): Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua <https://kevinraymond.github.io/florilegium/>
 
 ### Latex Templates
 

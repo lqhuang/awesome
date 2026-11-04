@@ -104,6 +104,7 @@
 - [gh:dstotijn/hetty](https://github.com/dstotijn/hetty): An HTTP toolkit for security research. <https://hetty.xyz>
 - [gh:Archeb/peer.as](https://github.com/Archeb/peer.as): PEER.AS — explore global BGP routing, IP prefixes, ASNs, AS_PATH, origins and peering. <https://peer.as>
 - 🌟🌟🌟 [gh:cilium/pwru](https://github.com/cilium/pwru): Packet, where are you? -- eBPF-based Linux kernel networking debugger
+- [gh:Alice39s/xmtr](https://github.com/Alice39s/xmtr): Meet xmtr, a better alternative to mtr. Run probes against multiple targets in parallel and export clean, easy-to-read MTR visualizations in one-click.
 
 ### Analysis
 
@@ -188,6 +189,7 @@
 - [mullvad/dns-blocklists](https://github.com/mullvad/dns-blocklists): Lists and configuration for our DNS blocking service
 - [unfrl/dug](https://github.com/unfrl/dug): A global DNS propagation checker that gives pretty output. Written in dotnet core
 - [gh:AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy): Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+- [gh:DNSCrypt/EtchDNS](https://github.com/DNSCrypt/EtchDNS): A new DNS proxy designed for simplicity, security and extensibility with WebAssembly plugins. <https://etchdns.dnscrypt.info>
 
 ## Tunnel
 

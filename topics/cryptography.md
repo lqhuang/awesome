@@ -66,6 +66,7 @@
 - [gh:dajiaji/hpke-js](https://github.com/dajiaji/hpke-js): A Hybrid Public Key Encryption (HPKE) module built on top of Web Cryptography API. <https://dajiaji.github.io/hpke-js/docs>
 - [codeberg:Valloric/philbin](https://codeberg.org/Valloric/philbin): The safest (and fastest) AEGIS implementation
   - [Philbin: the safest (and fastest) AEGIS library - Val Markovic](https://val.markovic.io/articles/philbin-the-safest-and-fastest-aegis-library)
+- [gh:smuellerDD/jitterentropy-library](https://github.com/smuellerDD/jitterentropy-library): Jitterentropy Library <http://www.chronox.de/jent>
 
 ### TLS
 

@@ -55,3 +55,4 @@
 - [Filebase](https://filebase.com/): Fast S3-Compatible Object Storage with Free Egress
   - > Store and deliver data with fast S3-compatible object storage, free egress, and predictable pricing. Use standard AWS SDKs and a built-in CDN.
 - [HTTP Forever — A reliably insecure connection](http://httpforever.com/): HTTP Forever is a plain-HTTP page that helps you trigger captive portal login screens on public WiFi — on trains, in hotels, bars and on flights.
+- [How to Draw: Easy Step-by-Step Drawing Tutorials for Beginners](https://www.howtodraw.ai/): Learn how to draw with free, easy step-by-step tutorials for beginners and kids. Follow simple shapes to draw animals, people, food and more — no experience needed.

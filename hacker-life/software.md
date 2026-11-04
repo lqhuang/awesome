@@ -183,6 +183,7 @@ Raycast is good, but ... when it comes to AI, it becomes a bit of less effective
 - [gh:Dimillian/GithubMonitor](https://github.com/Dimillian/GithubMonitor): A menu bar app to monitor your Github situation
 - [gh:onevcat/Prowl](https://github.com/onevcat/Prowl): native macOS codings agent orchestrator <https://prowl.cat/>
 - [gh:the-ora/browser](https://github.com/the-ora/browser): Less noise, more browsing. <https://orabrowser.com/>
+- [gh:vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils): Free and open-source macOS menu bar toolkit. <https://vorssaint.com>
 
 ### Free / Paid
 

@@ -9,6 +9,7 @@
 - [yueliu1999/Awesome-Deep-Graph-Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering): Awesome Deep Graph Clustering is a collection of SOTA, novel deep graph clustering methods (papers, codes, and datasets).
 - [timothewt/AdvancedGraphClustering](https://github.com/timothewt/AdvancedGraphClustering): Advanced Graph Clustering method documentation and implementation (From Spectral Clustering to Deep Graph Clustering) <https://timothewt.github.io/AdvancedGraphClustering/>
 - [aws/graph-notebook](https://github.com/aws/graph-notebook): Library extending Jupyter notebooks to integrate with Apache TinkerPop, openCypher, and RDF SPARQL. <https://github.com/aws/graph-notebook>
+- 🌟 [Start Doing Graph Theory](https://vertex.degree/): An introductory textbook about using graph theory to solve puzzles, prove theorems, and everything in between.
 
 ## Framework
 

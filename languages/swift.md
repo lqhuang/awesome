@@ -23,6 +23,8 @@
 - [gh:Dimillian/FoundationChat](https://github.com/Dimillian/FoundationChat): A chat app with iOS 26 Foundation Models
 - [Foundation Models | Apple Developer Documentation](https://developer.apple.com/documentation/foundationmodels): Perform tasks with models that specialize in language understanding, structured output, and tool calling.
 - [Apple Framework Dependency Map — iOS, macOS, visionOS | MiniSwift](https://miniswift.run/apple-framework-dependencies/): Interactive map of 350 Apple frameworks and 1,775 import dependencies from the Xcode 27.0 SDKs for iOS, macOS, tvOS, watchOS and visionOS.
+- [Private Cloud Compute Security Guide | DocumentationApple Security Research](https://security.apple.com/documentation/private-cloud-compute/): A new frontier for AI privacy in the cloud.
+  - [gh:apple/security-pcc](https://github.com/apple/security-pcc): Private Cloud Compute (PCC) <https://security.apple.com/documentation/private-cloud-compute/>
 
 ## Apple
 

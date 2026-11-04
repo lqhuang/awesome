@@ -213,6 +213,7 @@
 - [tanin47/scalafix-forbidden-symbol](https://github.com/tanin47/scalafix-forbidden-symbol): A Scalafix rule to forbid the usage of specified packages, classes, methods, and enums.
 - [gh:jatcwang/scalafix-named-params](https://github.com/jatcwang/scalafix-named-params): A scalafix rule to apply named parameters
 - [gh:scala-garden/scala-rewrites](https://github.com/scala-garden/scala-rewrites): Scalafix Rewrites for Scala
+- [gh:eed3si9n/scruff](https://github.com/eed3si9n/scruff): a fast and normalizing Scala code formatter, written in Rust
 
 ### Program Analysis
 
@@ -262,6 +263,7 @@
 - [gh:VirtusLab/cellar](https://github.com/VirtusLab/cellar): CLI tool for coding agents and developers to query the public API of any Maven JVM dependency — get symbol signatures, list packages, search by name, and inspect dependency trees. Powered by Coursier and tasty-query.
   - Could we also support npm and pypi 🤔
 - [gh:elide-dev/madura](https://github.com/elide-dev/madura): smol universal java toolchain
+- [gh:retronym/scala-analyzer-compat-demo](https://github.com/retronym/scala-analyzer-compat-demo): Source/binary compat of Analyzer interactions across scala/scala#11306 variants
 
 ## Cross platforms
 
@@ -593,6 +595,8 @@ Tracing and OpenTelemetry
 - [gh:polyvariant/better-tostring](https://github.com/polyvariant/better-tostring): (b2s) Scala compiler plugin for a better default toString.
 - [gh:polyvariant/named-functions](https://github.com/polyvariant/named-functions): Micro-library for working with functions with named parameters.
 - [gh:mattlianje/datomlite](https://github.com/mattlianje/datomlite): Lightweight, immutable database
+- [gh:lampepfl/atc](https://github.com/lampepfl/atc): A Safe Agent With Tracked Capabilities <https://dl.acm.org/doi/10.1145/3786335.3813127>
+- [gh:antfu/furifont](https://github.com/antfu/furifont): A Japanese font that shows furigana by itself. <https://furifont.antfu.me/>
 
 ## Tools
 

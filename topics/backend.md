@@ -25,6 +25,8 @@
 - [gh:djiangtw/system-design-architecture-aware-public](https://github.com/djiangtw/system-design-architecture-aware-public): System design framework for modern hardware. 7-Domain approach: Execution, Memory, Caches, Ordering, Faults, Compute, Performance. Bilingual (EN/ZH-TW). CC BY 4.0.
 - [How DNS works. What is DNS? Learn how step by step.](https://howdns.works/): What is DNS? Introduction how DNS works and how DNS server enhances website speed, security, and reliability with our webcomic.
 - [How HTTPS works.](https://howhttps.works/): Follow the adventures of Certificat as she explains why HTTPS is crucial for the future of the internet and how it all works together in a comic.
+- [SystemDesign.io](https://systemdesign.io/): Curated System Design Interview Questions & Solutions
+  - Whatever for interviewing or not, still a valuable resource for learning system design concepts and best practices.
 
 ## Testing
 

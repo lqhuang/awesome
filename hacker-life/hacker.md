@@ -309,6 +309,7 @@
 - [gh:itorr/nbnhhsh](https://github.com/itorr/nbnhhsh): 😩「能不能好好说话？」 拼音首字母缩写翻译工具 <https://lab.magiconch.com/nbnhhsh/>
 - [gh:eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter): 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 <https://eternity4719.github.io/HowToLiveBetter/>
   - too hard to live
+- [gh:lexifina/global-law](https://github.com/lexifina/global-law): Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect
 
 ## Branding
 
