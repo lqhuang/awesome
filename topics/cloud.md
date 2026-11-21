@@ -352,6 +352,7 @@ Type 1 hypervisors
 - [mrusme/planor](https://github.com/mrusme/planor): The Cloud Aviator: TUI client for cloud services (AWS, Vultr, Heroku, Render.com, Fleek, ...) <https://xn--gckvb8fzb.com>
 - [dokku/dokku](https://github.com/dokku/dokku): A docker-powered PaaS that helps you build and manage the lifecycle of applications <https://dokku.com>
 - [biersoeckli/QuickStack](https://github.com/biersoeckli/QuickStack): Build, run and monitor your apps on any server from a single, easy-to-use UI. <https://quickstack.dev>
+- [gh:zeabur-oss/zeabur](https://github.com/zeabur-oss/zeabur): Self-hosted PaaS on your own Kubernetes. <https://oss.zeabur.com/zeabur>
 
 ## K8S
 
@@ -442,6 +443,7 @@ Type 1 hypervisors
 - [kubernetes-sigs/karpenter](https://github.com/kubernetes-sigs/karpenter): Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [meshery/meshery](https://github.com/meshery/meshery): Meshery, the cloud native manager <https://meshery.io>
 - [gh:agones-dev/agones](https://github.com/agones-dev/agones): Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes <https://agones.dev>
+- [gh:Azure/unbounded](https://github.com/Azure/unbounded): Kubernetes Without Boundaries <https://unbounded-cloud.io>
 
 ### Operators
 
@@ -579,6 +581,7 @@ Type 1 hypervisors
   - [gh:floci-io/floci-ui](https://github.com/floci-io/floci-ui): Any Cloud. Locally - Web Console for the local Cloud (AWS, Azure and GCP) <https://floci.io>
   - [gh:floci-io/floci-gcp](https://github.com/floci-io/floci-gcp): Light, fluffy, and always free - GCP Local Emulator <https://floci.io/floci-gcp/>
   - [gh:floci-io/floci-az](https://github.com/floci-io/floci-az): Light, fluffy, and always free - Local Azure Emulator <https://floci.io/floci-az/>
+- [gh:aws/aws-emulator](https://github.com/aws/aws-emulator): AWS Emulator is a local emulator of the AWS APIs. <https://docs.aws.amazon.com/emulator/latest/userguide/what-is-service.html>
 - [servian/aws-auto-cleanup](https://github.com/servian/aws-auto-cleanup): Programmatically delete AWS resources based on an allowlist and time to live (TTL) settings
 - [localstack/localstack](https://github.com/localstack/localstack): 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [gh:ministackorg/ministack](https://github.com/ministackorg/ministack): Ministack: Free, open-source local AWS emulator - 40+ services, Terraform compatible, real databases. Free forever. MIT licensed. <https://ministack.org>

@@ -28,6 +28,8 @@
 - [Polo Club of Data Science @ Georgia Tech](https://poloclub.github.io/): : Human-Centered AI, Deep Learning Interpretation & Visualization, Cybersecurity, Large Graph Visualization and Mining
   - > We create scalable, interactive, and interpretable tools that amplify human's ability to understand and interact with billion-scale data and machine learning models. Our current research thrusts: human-centered AI (safe, interpretable, trustworthy AI; adversarial ML; inclusive AI); large graph visualization and mining; cybersecurity; and social good (health, energy).
   - Found lots of interesting illustrations and examples in their research projects.
+- [Alisa Liu's Math Notes](https://alisawuffles.notion.site/math-notes)
+- [Alisa's book of LLMs](https://alisawuffles.notion.site/alisa-s-book-of-llms)
 
 ## Numerical Analysis
 

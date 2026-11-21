@@ -37,6 +37,7 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
   - source: https://t.me/im_RORIRI/34385
 - [gh:pmndrs/glyph](https://github.com/pmndrs/glyph): ♠️ A typography engine for web graphics.
 - [gh:alexszczurek/typehug](https://github.com/alexszczurek/typehug): Keep words together. Modular typography helpers for Polish and English text, HTML, and rich text.
+- [FontLab](https://www.fontlab.com/): Apps to create, edit and convert fonts on Mac and Windows.
 
 ## Fonts
 
@@ -59,6 +60,13 @@ Major is my collections on typography resources in CJK (Chinese, Japanese, and K
 - [gh:Instrument/instrument-sans](https://github.com/Instrument/instrument-sans): A variable sans-serif designed for the Instrument brand, and open-sourced for you on google fonts.
 - [gh:BlackFoundryCom/InriaFonts](https://github.com/BlackFoundryCom/InriaFonts): Fonts and UFO Masters of Inria Serif and Inria Sans Typeface <https://black-foundry.com/work/inria/>
 - [Charitable Serif](https://www.mixfont.com/experiments/charitable-serif): A high-contrast didone typeface with sharp details and elegant proportions. Perfect for editorial headlines and expressive titles.
+- [Manhattan: a precise neo-grotesk, tuned for interfaces](https://manhattan.dev/): Manhattan is a free, open-source variable neo-grotesk tuned for interfaces. Two axes: weight and slant. SIL Open Font License 1.1.
+  - Source on GitHub (coming soon)
+- [gh:joshpuckett/allo](https://github.com/joshpuckett/allo): Allo is your friendly neighborhood typeface, free and open source <https://allo.joshpuckett.me/>
+  - > Allo is a free, friendly open source font family with full variable weights, roundness axis, optical size, real obliques, icons, contextual and stylistic alternatives, and support for 50+ languages.
+- [Areal by Dinamo Typefaces](https://abcdinamo.com/typefaces/areal)
+  - > We initially designed Areal as a bespoke typeface for [Are.na](https://www.are.na/), to replace Arial, the typeface they had been using for almost 15 years.
+  - > Areal, a "revival" of Arial, is based on the first version of Arial that was used on the internet (v2.82). It's entirely redrawn and rebuilt from the ground up. Most revivals draw on analog artefacts like antique books, record covers, posters, etc. But Arial has always been a digital typeface, born in the computer age, which means its earliest traces existed only as a software running on hardware that barely exists anymore. So to access specific versions of Arial, we worked with computer tech archivists to get access to some of the first personal computers and operating systems still capable of running it. Once we managed to do all the archeological work, we screenshotted the exact version of Arial that was present when the doors of the internet opened to the general public (the web-era Arial!) and those screenshots became our virtual blueprint: we digitally traced the sample characters we now had access to in the most faithful way, and that became the basis for Areal. Areal is made for today’s day and age. The typeface keeps Arial’s familiar silhouette but rebuilds the outlines throughout: stem thicknesses have been streamlined, missing characters filled in, and the overall design consistency has been improved across weights. We added a Medium weight and also ligatures the original never included. And not to forget, Areal goes beyond Arial’s own design space by breaching into Mono and Semi Mono territory. All of this is packaged as a very-able Variable Font, for light weight file size and full control over all design parameters. Darkmode optimization was another thing we took seriously. The variable font version of Areal carries a darkmode axis that kicks in automatically depending on whether you love it light or enjoy the darker of modes. Put simply, it corrects the performance of white text on dark background, making everything easier to read for the human eye. Areal, of course, isn’t to be confused with Arial, though the goal is that you hardly notice the difference. Looking at Arial and Areal should feel like refreshing a browser page, or waking up on new years day. It’s the same, but it isn’t. Lastly, we wanted to make ABC Areal publicly available, for free, for everybody. We hope you enjoy this project and using the fonts.
 
 Mono
 
@@ -140,6 +148,8 @@ CJK
 - [gh:antfu/furifont](https://github.com/antfu/furifont): A Japanese font that shows furigana by itself. <https://furifont.antfu.me/>
 - [络纬](https://luowei.atelier-anchor.com/): 亦黑亦宋的中文可变字体超级家族，正在开发中
 - [Futura 100 Chinese Font Family | TypeTogether](https://www.typetogether.com/fonts/futura-100-chinese)
+- [gh:Warren2060/ChillDIN-ChillDINGothic](https://github.com/Warren2060/ChillDIN-ChillDINGothic): ChillDIN与寒蝉德黑体。源于德国工业标准字体“DIN”，基于D-DIN的修缮。中文字体的搭配从来源寒蝉端黑体（思源黑体），修改了参数和标点融合。"ChillDIN" is derived from the German industrial standard font 'DIN', based on refinements of D-DIN. The Chinese font pairing originates from ChillDuanSans (Source Han Sans), with modified parameters and integrated punctuation."
+- [gh:lihbr/kuronuri](https://github.com/lihbr/kuronuri): redaction, with japanese support, and more <https://kuronuri.lihbr.com>
 
 ???
 
@@ -164,3 +174,5 @@ CJK
 - [gh:charlie5188/css-composite-font](https://github.com/charlie5188/css-composite-font): Composite fonts in pure CSS: separate fonts and sizes for CJK, kana and Latin (@font-face + unicode-range + size-adjust). 复合字体 / 合成フォント <https://charlie5188.github.io/css-composite-font/>
 - [Typefree - Free Font Library](https://www.typefree.org/): TypeFree is a free font library for your projects.
 - [Anyway.Fonts · 中文字体预览、缺字检测与字体对比工具](https://anyway.fm/fonts/): 使用 Anyway.Fonts 在线预览电脑里安装的中文字体，检测生僻字、繁体字是否缺字，通过标题、正文等样张查看排版效果，并排、逐行或叠加比较不同字体。免费使用，无需安装
+- [Type Case — A free font manager for macOS](https://typecase.app/): Type Case is a free font manager for macOS. Add source folders, activate fonts, and organize collections.
+- [gh:sxzz/hanji](https://github.com/sxzz/hanji): 一字之間，照見五地字形 <https://hanji.sxzz.moe>

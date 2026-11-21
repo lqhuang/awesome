@@ -71,6 +71,8 @@
 - [alexvcasillas/curl-runner](https://github.com/alexvcasillas/curl-runner): curl-runner monorepo - CLI tool and documentation <https://curl-runner.com>
 - [HTTP Cats](https://http.cat/): An API for the awesome HTTP Cats! Use it in your website to show funny error messages.
 - [gh:Redocly/redoc](https://github.com/Redocly/redoc): 📘 OpenAPI/Swagger-generated API Reference Documentation <https://redocly.github.io/redoc/>
+- 🌟🌟🌟 [gh:stoplightio/spectral](https://github.com/stoplightio/spectral): A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x. <https://stoplight.io/spectral>
+- [gh:Kong/httpsnippet](https://github.com/Kong/httpsnippet): HTTP Request snippet generator for many languages & libraries
 
 #### Benchmark
 
@@ -175,25 +177,32 @@
 - [goauthentik/authentik](https://github.com/goauthentik/authentik): The authentication glue you need. <https://goauthentik.io>
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core): Open source alternative to Auth0 / Firebase Auth / AWS Cognito <https://supertokens.com>
 - [kanidm/kanidm](https://github.com/kanidm/kanidm): Kanidm: A simple, secure and fast identity management platform
+- [stack-auth/stack](https://github.com/stack-auth/stack): Open-source Auth0/Clerk alternative <https://stack-auth.com>
+- 🌟 [lastlogin-net/obligator](https://github.com/lastlogin-net/obligator): Simple and opinionated OpenID Connect server designed for self-hosters <https://lastlogin.net/>
+- 🌟 [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. <https://oauth2-proxy.github.io/oauth2-proxy>
+- [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
+- [awslabs/ssosync](https://github.com/awslabs/ssosync): Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda
+- [gh:cesanta/docker_auth](https://github.com/cesanta/docker_auth): Authentication server for Docker Registry 2
+- [gh:authgear/authgear-server](https://github.com/authgear/authgear-server): Open source Auth0/Keycloak alternative. Passkeys, SSO, MFA, passwordless, biometric login. Self-hosted or cloud. Enterprise-ready for SaaS & mobile apps <https://www.authgear.com>
+
+### Authorization != Authentication
+
 - [zanzibar](https://zanzibar.academy/): A Globally Distributed Authorization System
   - [openfga/openfga](https://github.com/openfga/openfga): A high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar <https://openfga.dev>
   - [ory/keto](https://github.com/ory/keto): Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models. <https://www.ory.sh>
   - [osohq/oso](https://github.com/osohq/oso): Oso is a batteries-included framework for building authorization in your application. <https://docs.osohq.com>
   - [warrant-dev/warrant](https://github.com/warrant-dev/warrant): Warrant is a highly scalable, centralized authorization service based on Google Zanzibar, used for defining, querying, and auditing application authorization models and access control rules. <https://warrant.dev>
   - [authzed/spicedb](https://github.com/authzed/spicedb): Open Source, Google Zanzibar-inspired database for scalably storing and querying fine-grained authorization data <https://authzed.com/docs>
+- [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit): delegated, decentralized, capabilities based authorization token
 - [fatihky/pundit-ts](https://github.com/fatihky/pundit-ts): Organize your authorization logic with full type-safety.
 - [pundit-community/pundit.js](https://github.com/pundit-community/pundit.js): [WIP] Minimal authorisation through a plain old JavaScript object. <https://pundit-community.github.io/pundit.js/>
-- [stack-auth/stack](https://github.com/stack-auth/stack): Open-source Auth0/Clerk alternative <https://stack-auth.com>
+- [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
+
+### Small but lean and interesting
+
 - 🌟 [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id): A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. <https://pocket-id.org>
 - 🌟 [gh:tinyauthapp/tinyauth](https://github.com/tinyauthapp/tinyauth): The tiniest OpenID Certified™ authorization and authentication server you have ever seen. <https://tinyauth.app>
-- [cerbos/cerbos](https://github.com/cerbos/cerbos): Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control policies for your application resources. <https://cerbos.dev>
-- 🌟 [lastlogin-net/obligator](https://github.com/lastlogin-net/obligator): Simple and opinionated OpenID Connect server designed for self-hosters <https://lastlogin.net/>
-- 🌟 [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy): A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers. <https://oauth2-proxy.github.io/oauth2-proxy>
-- [dexidp/dex](https://github.com/dexidp/dex): OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors <https://dexidp.io>
-- [awslabs/ssosync](https://github.com/awslabs/ssosync): Populate AWS SSO directly with your G Suite users and groups using either a CLI or AWS Lambda
-- [eclipse-biscuit/biscuit](https://github.com/eclipse-biscuit/biscuit): delegated, decentralized, capabilities based authorization token
-- [gh:cesanta/docker_auth](https://github.com/cesanta/docker_auth): Authentication server for Docker Registry 2
-- [gh:authgear/authgear-server](https://github.com/authgear/authgear-server): Open source Auth0/Keycloak alternative. Passkeys, SSO, MFA, passwordless, biometric login. Self-hosted or cloud. Enterprise-ready for SaaS & mobile apps <https://www.authgear.com>
+- [gh:voidauth/voidauth](https://github.com/voidauth/voidauth): Single Sign-On for Your Self-Hosted Universe <http://voidauth.app>
 
 ## Analytics
 

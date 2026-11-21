@@ -63,9 +63,10 @@
 - https://coveryourtracks.eff.org/
 - https://browserleaks.com/canvas
 
-### Self hosted
+### Selfhosted
 
 - [simple-login/app](https://github.com/simple-login/app): The SimpleLogin back-end <https://simplelogin.io>
+- [gh:WLojek/DocCloak](https://github.com/WLojek/DocCloak): A browser-based document anonymizer that strips PII before sharing with AI services and restores original names in responses. No server, no API calls - everything runs locally via WebAssembly.
 
 ### Fingerprint Browser
 
@@ -84,6 +85,13 @@
 - [Ghost Browser](https://ghostbrowser.com/): Ghost Browser helps you focus on the task at hand and get stuff done in a private clutter free environment.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp): All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊 <https://floorp.app>
 - [Iridium Browser | A browser securing your privacy. That's it.](https://iridiumbrowser.de/): Iridium Browser is based on the Chromium code base. All modifications enhance the privacy of the user and make sure the most secure technologies are used.
+
+Just improve current browser
+
+- [How to Rename Firefox's Profile Path | K4YT3X](https://k4yt3x.com/how-to-rename-firefoxs-profile-path/): I have recently ran into issues trying to rename Firefox’s profile path for synchronization and automation purposes. In this article I’m going to show you how to make it work.
+- [2020 Firefox 安全、隐私、实用扩展指南 | K4YT3X](https://k4yt3x.com/2020-firefox-%E5%AE%89%E5%85%A8%E9%9A%90%E7%A7%81%E5%AE%9E%E7%94%A8%E6%89%A9%E5%B1%95%E6%8C%87%E5%8D%97/): 本篇文章将会介绍一些我目前使用的安全、隐私和实用相关的 Firefox 扩展。
+- [Firefox 启用隐藏功能 Letterboxing 以避免身份追踪 | K4YT3X](https://k4yt3x.com/firefox-%E5%90%AF%E7%94%A8%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD-letterboxing-%E4%BB%A5%E9%81%BF%E5%85%8D%E8%BA%AB%E4%BB%BD%E8%BF%BD%E8%B8%AA/): 当用户使用非标准窗口尺寸的浏览器进行网页浏览时，浏览器的独特尺寸可以让网站有效追踪用户身份，即使用户已经禁用了 JavaScript 和 Cookie 等传统身份追踪（Fingerprinting）手段的媒介。这篇文章将教您如何在 Firefox 中启用 Letterboxing 功能来预防此种身份追踪手段。
+- [在 Windows 和 Linux 系统上禁用 LLMNR 以及 NetBIOS | K4YT3X](https://k4yt3x.com/%E5%9C%A8-windows-%E5%92%8C-linux-%E7%B3%BB%E7%BB%9F%E4%B8%8A%E7%A6%81%E7%94%A8-llmnr-%E4%BB%A5%E5%8F%8A-netbios/): LLMNR 和 NetBIOS 都可以解析本地其它设备的名称解析请求，但是都不验证其回复合法性。这两个服务容易被利用进行 MITM 攻击。此篇文章将会讲解如何在 Linux 和 Windows 系统上关闭 LLMNR 和 NetBIOS。
 
 ### Browser Extensions
 
@@ -120,8 +128,3 @@ Chrome Only
 - [Cloaq - Location Guard & Locale Switcher](https://chromewebstore.google.com/detail/cloaq-location-guard-loca/fcalilbnpkfikdppppppchmkdipibalb): Spoof time zone, geolocation & locale. Match your location data to your VPN's IP address.
   - [gh:www1z4rd/cloaq](https://github.com/www1z4rd/cloaq): Browser extension to spoof time zone, geolocation & locale.
 - [Spoof Geolocation](https://chromewebstore.google.com/detail/spoof-geolocation/ihdobppgelceaoeojmhpmbnaljhhmhlc): Rewrites the browser's geolocation coordinates (latitude and longitude) to custom values.
-
-- [How to Rename Firefox's Profile Path | K4YT3X](https://k4yt3x.com/how-to-rename-firefoxs-profile-path/): I have recently ran into issues trying to rename Firefox’s profile path for synchronization and automation purposes. In this article I’m going to show you how to make it work.
-- [2020 Firefox 安全、隐私、实用扩展指南 | K4YT3X](https://k4yt3x.com/2020-firefox-%E5%AE%89%E5%85%A8%E9%9A%90%E7%A7%81%E5%AE%9E%E7%94%A8%E6%89%A9%E5%B1%95%E6%8C%87%E5%8D%97/): 本篇文章将会介绍一些我目前使用的安全、隐私和实用相关的 Firefox 扩展。
-- [Firefox 启用隐藏功能 Letterboxing 以避免身份追踪 | K4YT3X](https://k4yt3x.com/firefox-%E5%90%AF%E7%94%A8%E9%9A%90%E8%97%8F%E5%8A%9F%E8%83%BD-letterboxing-%E4%BB%A5%E9%81%BF%E5%85%8D%E8%BA%AB%E4%BB%BD%E8%BF%BD%E8%B8%AA/): 当用户使用非标准窗口尺寸的浏览器进行网页浏览时，浏览器的独特尺寸可以让网站有效追踪用户身份，即使用户已经禁用了 JavaScript 和 Cookie 等传统身份追踪（Fingerprinting）手段的媒介。这篇文章将教您如何在 Firefox 中启用 Letterboxing 功能来预防此种身份追踪手段。
-- [在 Windows 和 Linux 系统上禁用 LLMNR 以及 NetBIOS | K4YT3X](https://k4yt3x.com/%E5%9C%A8-windows-%E5%92%8C-linux-%E7%B3%BB%E7%BB%9F%E4%B8%8A%E7%A6%81%E7%94%A8-llmnr-%E4%BB%A5%E5%8F%8A-netbios/): LLMNR 和 NetBIOS 都可以解析本地其它设备的名称解析请求，但是都不验证其回复合法性。这两个服务容易被利用进行 MITM 攻击。此篇文章将会讲解如何在 Linux 和 Windows 系统上关闭 LLMNR 和 NetBIOS。

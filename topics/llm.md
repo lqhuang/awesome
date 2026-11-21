@@ -149,7 +149,7 @@
 
 ### Multi Modal
 
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities. <https://llava.hliu.cc>
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA): \[NeurIPS'23 Oral\] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities. <https://llava.hliu.cc>
 - [apple/ml-ferret](https://github.com/apple/ml-ferret): An End-to-End MLLM that Accept Any-Form Referring and Ground Anything in Response.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi): Moshi: a speech-text foundation model for real time dialogue
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper): Faster Whisper transcription with CTranslate2
@@ -222,7 +222,7 @@
 - [ai-boost/Awesome-GPTs](https://github.com/ai-boost/Awesome-GPTs): Curated list of awesome GPTs 👍. <https://github.com/ai-boost/awesome-gpts>
 - [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming—not prompting—foundation models <https://dspy-docs.vercel.app/>
 - [zou-group/textgrad](https://github.com/zou-group/textgrad): Automatic ''Differentiation'' via Text -- using large language models to backpropagate textual gradients. <http://textgrad.com/>
-- [noahshinn/reflexion](https://github.com/noahshinn/reflexion): [NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning
+- [noahshinn/reflexion](https://github.com/noahshinn/reflexion): \[NeurIPS 2023\] Reflexion: Language Agents with Verbal Reinforcement Learning
 - [MadcowD/ell](https://github.com/MadcowD/ell): A language model programming framework.
 - [JetBrains/junie-guidelines](https://github.com/JetBrains/junie-guidelines): No description, website, or topics provided.
 - [webgptorg/promptbook](https://github.com/webgptorg/promptbook): It's time for a paradigm shift! The future of software is in plain English ✨ <https://ptbk.io>

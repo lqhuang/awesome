@@ -21,7 +21,7 @@
 - [Causality, Probability, and Time](http://www.skleinberg.org/causality_book/index.html): Simulated financial time series -> <http://www.skleinberg.org/data.html>
 - [chrisconlan/algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python): Source code for Algorithmic Trading with Python (2020) by Chris Conlan
 - [stefan-jansen/machine-learning-for-trading](https://github.com/stefan-jansen/machine-learning-for-trading): Code for Machine Learning for Algorithmic Trading, 2nd edition. <https://ml4trading.io>
-- 🌟 [BlackArbsCEO/Adv_Fin_ML_Exercises](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises): Experimental solutions to selected exercises from the book [Advances in Financial Machine Learning by Marcos Lopez De Prado]
+- 🌟 [BlackArbsCEO/Adv_Fin_ML_Exercises](https://github.com/BlackArbsCEO/Adv_Fin_ML_Exercises): Experimental solutions to selected exercises from the book \[Advances in Financial Machine Learning by Marcos Lopez De Prado\]
 
 ## Frameworks
 

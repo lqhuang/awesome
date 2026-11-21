@@ -20,6 +20,8 @@ Streaming Systems
   - cute animations for backpressure LoL
 - [Event Pipelines (Part 2): Observing and Optimising | by Tim Cuthbertson | Zendesk Engineering](https://zendesk.engineering/event-processing-pipelines-observing-and-optimising-part-2-8cf044ae754b)
   - I guess streaming algorithms like sketches or reservoir sampling may help a lot here?
+- [gh:filipemartinsdev/kafka-streams](https://github.com/filipemartinsdev/kafka-streams): Pocket guide for Kafka Streams
+- [Kafka Streams State Store Simulation | Kafka Streams Field Guide Book](https://kafkastreamsfieldguide.com/tools/state-store-simulation): Interactive simulation demonstrating Kafka Streams state store mechanics, changelog topic synchronization, and restoration processes. Understand the relationship between state stores, changelog topics, and tasks.
 
 ## Streamify
 

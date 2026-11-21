@@ -72,6 +72,7 @@
 - 🌟 [secretlint/secretlint](https://github.com/secretlint/secretlint): Pluggable linting tool to prevent committing credential.
 - [quarylabs/sqruff](https://github.com/quarylabs/sqruff): A compact, high-speed SQL linter, engineered with Rust efficiency. <https://quary.dev/>
 - 🌟 [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff): A modular SQL linter and auto-formatter with support for multiple dialects and templated code. <https://www.sqlfluff.com>
+  - [Extension in VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=dorzey.vscode-sqlfluff)
 - [chrisbottin/xml-formatter](https://github.com/chrisbottin/xml-formatter): Converts XML into a human readable format (pretty print) while respecting the `xml:space` attribute.
 - 🌟 [gh:Automattic/harper](https://github.com/Automattic/harper): Offline, privacy-first grammar checker. Fast, open-source, Rust-powered <https://writewithharper.com>
 - [rrthomas/enchant](https://github.com/rrthomas/enchant): enchant spellchecking library <http://rrthomas.github.io/enchant/>
@@ -87,7 +88,9 @@
 - [hukkin/mdformat](https://github.com/hukkin/mdformat): CommonMark compliant Markdown formatter <https://mdformat.rtfd.io>
 - [hukkin/mdformat-shfmt](https://github.com/hukkin/mdformat-shfmt): Mdformat plugin to format shell code blocks
 - [gh:rvben/rumdl](https://github.com/rvben/rumdl): Fast Markdown linter and formatter written in Rust
-- [gh:LalitMaganti/syntaqlite](https://github.com/LalitMaganti/syntaqlite): A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer
+- 🌟 [gh:LalitMaganti/syntaqlite](https://github.com/LalitMaganti/syntaqlite): A parser, formatter, validator, and language server for SQLite SQL. Built on SQLite's own grammar and tokenizer
+  - [syntaqlite: high-fidelity devtools that SQLite deserves](https://lalitm.com/post/syntaqlite/): Most SQL tools treat SQLite as a “flavor” of a generic SQL parser. They approximate the language, which means they break on SQLite-exclusive features like virtual tables, miss syntax like UPSERT, and …
+  - [Extension in VS Code marketplace](https://marketplace.visualstudio.com/items?itemName=syntaqlite.syntaqlite)
 - [gh:microsoft/ghqr](https://github.com/microsoft/ghqr): GitHub Quick Review. Evaluate your enterprise and organizations with GitHub best practices
 - 🌟 [gh:untitaker/hyperlink](https://github.com/untitaker/hyperlink): Very fast link checker for CI.
 - [gh:OWASP/cve-lite-cli](https://github.com/OWASP/cve-lite-cli): Fast, developer-friendly JS/TS dependency vulnerability scanner with local lockfile scanning, OSV matching, direct vs transitive visibility, --fix, JSON output, and practical remediation guidance. <https://owasp.org/cve-lite-cli/>
@@ -698,3 +701,5 @@ Archived or outdated but still useful
 - [Namespace](https://namespace.so/): Namespace accelerates the development workflow of fast-moving software engineering teams. Best-in-class compute and development-supporting services that lead to 2x-10x faster builds, tests, and more.
 - [telekom-mms/ansible-collection-acme](https://github.com/telekom-mms/ansible-collection-acme): An Ansible collection for issuing certificates via the ACME protocol.
 - [telekom-mms/Automated-Ansible-Role-Documentation](https://github.com/telekom-mms/Automated-Ansible-Role-Documentation): Generate documentation automatically from an Ansible role's metadata
+- [Depot](https://depot.dev/): Software Delivery built for machine scale
+  - > Depot provides fast source control, builds, CI runners, sandboxes, caches, and registries to ship reliable software at machine scale.

@@ -69,14 +69,7 @@
 - [glushchenko/fsnotes](https://github.com/glushchenko/fsnotes): Notes manager for macOS/iOS <https://fsnot.es>
 - [foambubble/foam](https://github.com/foambubble/foam): A personal knowledge management and sharing system for VSCode <https://foambubble.github.io/>
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook): A fully open source & end-to-end encrypted note taking alternative to Evernote. <https://notesnook.com/>
-
-### Launchers
-
-Raycast is good, but ... when it comes to AI, it becomes a bit of less effective ...
-
-- [gh:abue-ammar/tinycast](https://github.com/abue-ammar/tinycast): Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. <https://tinycast.dev>
-- [gh:vicinaehq/vicinae](https://github.com/vicinaehq/vicinae): A focused launcher for your desktop - native, fast, extensible <https://vicinae.com>
-- [LaunchBar - Unleashed productivity.](https://obdev.at/products/launchbar/index.html): Start with a single keyboard shortcut to access and control every corner of your Mac.
+- [gh:erictli/scratch](https://github.com/erictli/scratch): A minimalist, offline-first markdown note-taking app
 
 ## macOS / iPadOS
 
@@ -92,6 +85,14 @@ Raycast is good, but ... when it comes to AI, it becomes a bit of less effective
 - 🌟 [gh:philocalyst/infat](https://github.com/philocalyst/infat): A command line tool to set default openers for file formats and url schemes on macos
 - 🌟 [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive): Store SSH keys in the Secure Enclave
 
+### Launchers
+
+Raycast is good, but ... when it comes to AI, it becomes a bit of less effective ...
+
+- [gh:abue-ammar/tinycast](https://github.com/abue-ammar/tinycast): Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. <https://tinycast.dev>
+- [gh:vicinaehq/vicinae](https://github.com/vicinaehq/vicinae): A focused launcher for your desktop - native, fast, extensible <https://vicinae.com>
+- [LaunchBar - Unleashed productivity.](https://obdev.at/products/launchbar/index.html): Start with a single keyboard shortcut to access and control every corner of your Mac.
+
 ### Monitor
 
 - [exelban/stats](https://github.com/exelban/stats): macOS system monitor in your menu bar
@@ -101,6 +102,10 @@ Raycast is good, but ... when it comes to AI, it becomes a bit of less effective
 - [jordanbaird/Ice](https://github.com/jordanbaird/Ice): Powerful menu bar manager for macOS <https://icemenubar.app>
 - [iStatistica](https://www.imagetasks.com/istatistica/): System Monitor for macOS. CPU, Memory, Network and Temperature monitoring
 - [gh:byrencheema/airstats](https://github.com/byrencheema/airstats): A menu bar system monitor for macOS. CPU, memory, GPU, network, disk, battery and thermals at 0.046% CPU. <https://airstats.app>
+
+Update: Nov, 2026
+
+I use [Vitals](https://vitalsmac.com/) now.
 
 ### Physical Display Monitor
 
@@ -183,7 +188,8 @@ Raycast is good, but ... when it comes to AI, it becomes a bit of less effective
 - [gh:Dimillian/GithubMonitor](https://github.com/Dimillian/GithubMonitor): A menu bar app to monitor your Github situation
 - [gh:onevcat/Prowl](https://github.com/onevcat/Prowl): native macOS codings agent orchestrator <https://prowl.cat/>
 - [gh:the-ora/browser](https://github.com/the-ora/browser): Less noise, more browsing. <https://orabrowser.com/>
-- [gh:vorssaint/vorssaint-utils](https://github.com/vorssaint/vorssaint-utils): Free and open-source macOS menu bar toolkit. <https://vorssaint.com>
+- [gh:ResistanceTo/MiniWatts](https://github.com/ResistanceTo/MiniWatts): An iPhone battery, charging and thermal instrument built on private iOS APIs — real charger watts, what actually reaches the cell, all 30 temperature sensors, and the USB-PD handshake.
+- [gh:fif7y/dimble](https://github.com/fif7y/dimble): A calm menu bar, done the native way. Hides the icons you don't need until you do. <https://dimble.fif7y.com>
 
 ### Free / Paid
 
@@ -570,6 +576,7 @@ NextCloud is crazily BIG now, so I will say no here.
 - [linagora/twake-drive](https://github.com/linagora/twake-drive): Twake Drive Web App <https://twake-drive.com>
 - 🌟 [gh:vikiboss/r2-web](https://github.com/vikiboss/r2-web): 📁 轻盈优雅的 Web 原生 Cloudflare R2 桶文件管理器，一切皆在浏览器中完成。 | 📁 A lightweight, elegant, pure-browser Cloudflare R2 file manager. Everything happens right in your browser. <https://r2.viki.moe>
 - [gh:jR4dh3y/BoxBox](https://github.com/jR4dh3y/BoxBox): A modern, self-hosted web based file manager for your homelab. Built in SvelteKit & Go <https://boxbox.radhey.dev>
+- [gh:OpenListTeam/OpenList-Worker](https://github.com/OpenListTeam/OpenList-Worker): Service Worker for OpenList
 
 ### Email
 

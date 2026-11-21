@@ -28,6 +28,7 @@
 - 🌟 [The world in which IPv6 was a good design - apenwarr](https://apenwarr.ca/log/20170810)
 - [devanshbatham/Everything-About-DNS](https://github.com/devanshbatham/Everything-About-DNS): DNS Explained : This repo aims to explain the basics of DNS at different levels of complexity for readers with various technical backgrounds.
 - 🌟 [dn42](https://dn42.dev/Home): dn42 can be used to learn networking and to connect private networks, such as hackerspaces or community networks. But above all, experimenting with routing in dn42 is fun!
+- [Experimenting with TCP Congestion control – Dip Singh – Network Engineer](https://dipsingh.github.io/TCP-Congestion-Experiment/): Introduction I have always found TCP congestion control algorithms fascinating, and at the same time, I know very little about them. As an engineer working on the roads, it’s essential to understand the traffic requirement and service levels. Similarly, It’s good to understand the transport behavior riding our networks. Once in a while, I will feel guilty about it and spend time on the topic with the hope of gaining some new insights.
 
 ## Libraries
 
@@ -105,12 +106,13 @@
 - [gh:Archeb/peer.as](https://github.com/Archeb/peer.as): PEER.AS — explore global BGP routing, IP prefixes, ASNs, AS_PATH, origins and peering. <https://peer.as>
 - 🌟🌟🌟 [gh:cilium/pwru](https://github.com/cilium/pwru): Packet, where are you? -- eBPF-based Linux kernel networking debugger
 - [gh:Alice39s/xmtr](https://github.com/Alice39s/xmtr): Meet xmtr, a better alternative to mtr. Run probes against multiple targets in parallel and export clean, easy-to-read MTR visualizations in one-click.
+- 🌟 [RIR Transfer Monitor](https://db.fo/): Search IPv4, IPv6 and AS number transfers, holder history and delegation changes across AFRINIC, APNIC, ARIN, LACNIC and RIPE NCC.
 
 ### Analysis
 
 - [nfstream/nfstream](https://github.com/nfstream/nfstream): NFStream: a Flexible Network Data Analysis Framework. <https://www.nfstream.org>
 - [jpr5/ngrep](https://github.com/jpr5/ngrep): ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF f… <https://github.com/jpr5/ngrep>
-- [pmacct/pmacct](https://github.com/pmacct/pmacct): pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry]. <http://www.pmacct.net>
+- [pmacct/pmacct](https://github.com/pmacct/pmacct): pmacct is a small set of multi-purpose passive network monitoring tools \[NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry\]. <http://www.pmacct.net>
 - [coder/httpjail](https://github.com/coder/httpjail): Monitor and restrict HTTP/HTTPS requests from processes
   - PoC project. Quite interesting.
 - 🌟 [gh:karol-broda/snitch](https://github.com/karol-broda/snitch): a prettier way to inspect network connections

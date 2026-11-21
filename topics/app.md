@@ -55,12 +55,15 @@
 - [gitlab:sciter-engine](https://gitlab.com/sciter-engine): Sciter Engine related projects
 - [gh-org:sciter-sdk](https://github.com/sciter-sdk): Sciter SDK bindings
 - [gh:saucer/saucer](https://github.com/saucer/saucer): 🛸 A modern, cross-platform C++ webview library <https://saucer.github.io/>
-- 🌟 [gh:webui-dev/webui](https://github.com/webui-dev/webui): Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library. <https://webui.me>
 
 Direct GUI
 
+- 🌟 [gh:webui-dev/webui](https://github.com/webui-dev/webui): Use any web browser or WebView as GUI, with your preferred language in the backend and modern web technologies in the frontend, all in a lightweight portable library. <https://webui.me>
 - [gh:ocornut/imgui](https://github.com/ocornut/imgui): Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [gh:floooh/dcimgui](https://github.com/floooh/dcimgui): All in one Dear ImGui source distro for C++, C and Zig.
+- [gh:ppmpreetham/BUI](https://github.com/ppmpreetham/BUI): Blender's GPU Accelerated UI, Decoupled from it's original codebase. Supports Rust, Python, JS, React, C & C++. Twice as good as GPUI <https://bui.preetham.top>
+- [gh:litehtml/litehtml](https://github.com/litehtml/litehtml): Fast and lightweight HTML/CSS rendering engine <http://www.litehtml.com/>
+- [gh:TelegramMessenger/twidget](https://github.com/TelegramMessenger/twidget): Native renderers for Telegram's HTML widgets, built on a heavily optimized fork of litehtml.
 
 ## React Native (cross platforms)
 

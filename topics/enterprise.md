@@ -95,6 +95,7 @@
 - [eikek/docspell](https://github.com/eikek/docspell): Assist in organizing your piles of documents, resulting from scanners, e-mails and other sources with miminal effort. <https://docspell.org>
 - 🌟 [WeblateOrg/weblate](https://github.com/WeblateOrg/weblate): Web based localization tool with tight version control integration. <https://weblate.org/>
 - [gh:google/docsy](https://github.com/google/docsy): Hugo theme for open source documentation <https://docsy.dev>
+- [gh:cloudflare/nimbus](https://github.com/cloudflare/nimbus): Docs for humans and agents, built on Astro
 
 ### DevOps
 
@@ -290,6 +291,7 @@ Visual stack
 - [gh:anthropics/oss-scanner](https://github.com/anthropics/oss-scanner): OSS Scanner is a service by Anthropic to scan critical open-source repositories for security vulnerabilities.
 - [Canarytokens](https://canarytokens.org/nest/): Know. Before it matters
   - > Canarytokens is a free tool that helps you discover you've been breached by having attackers announce themselves.
+- [gh:perplexityai/bumblebee](https://github.com/perplexityai/bumblebee): Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises.
 
 ## Career
 

@@ -27,6 +27,7 @@
 - [dspivak/dependent-types](https://github.com/dspivak/dependent-types): dependent-types
 - [Programming Languages: Application and Interpretation](https://www.plai.org/): This is the Web site for Programming Languages: Application and Interpretation, often referred to by its initials as PLAI (pronounce it like "play"). Over the years well over fifty academic institutions (that I know of) have used PLAI.
 - [pfalcon/ssabook](https://github.com/pfalcon/ssabook): Mirror of InriaForge SSABook repository: https://gforge.inria.fr/projects/ssabook/ (was scheduled for retirement at the end of 2020, was still online as of 2021-03, but then gone by 2021-09). <https://pfalcon.github.io/ssabook/latest/>
+- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/): This is a free online textbook. The textbook and materials have been developed by Prof. Douglas Thain as part of the CSE 40243 compilers class at the University of Notre Dame.
 
 ### Readings
 

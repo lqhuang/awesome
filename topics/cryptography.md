@@ -67,6 +67,8 @@
 - [codeberg:Valloric/philbin](https://codeberg.org/Valloric/philbin): The safest (and fastest) AEGIS implementation
   - [Philbin: the safest (and fastest) AEGIS library - Val Markovic](https://val.markovic.io/articles/philbin-the-safest-and-fastest-aegis-library)
 - [gh:smuellerDD/jitterentropy-library](https://github.com/smuellerDD/jitterentropy-library): Jitterentropy Library <http://www.chronox.de/jent>
+- [gh:jedisct1/flightdeck-deckbo](https://github.com/jedisct1/flightdeck-deckbo): FlightDeck-DeckBO: Parallelizable, session-supporting, nonce-misuse resistant and committing authenticated encryption. <https://eprint.iacr.org/2026/2801.pdf>
+- [gh:jedisct1/rust-flightdeck](https://github.com/jedisct1/rust-flightdeck): FlightDeck deck cipher and Deck-BO authenticated encryption (TurboSHAKE-BO, SHAKE-BO).
 
 ### TLS
 

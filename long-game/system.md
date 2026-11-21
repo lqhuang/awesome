@@ -14,6 +14,8 @@
 - [System and Service Manager](https://systemd.io/): systemd is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.
 - [gh:labex-labs/linuxjourney](https://github.com/labex-labs/linuxjourney): Courses and lesson content for linuxjourney.com <https://linuxjourney.com/>
 - 🌟 [Best Paper Awards in Computer Science](https://jeffhuang.com/best_paper_awards/): Collection of best paper awards for 32 computer science conferences since 1996
+- 🌟 [Linux System Call Tables by Architecture · syscall.sh](https://syscall.sh/): The Linux syscall table for 27 architectures: every system call number, argument and register, with a table per architecture, from Linux 3.3 to 7.3.
+- [LLVM Weekly](https://llvmweekly.org/): a weekly newsletter covering developments in LLVM, Clang and more
 
 ### Readings
 
@@ -66,6 +68,7 @@
 - [gh:yangwenbo99/csapp-global-errata](https://github.com/yangwenbo99/csapp-global-errata): Unofficial errata for the global edition of Computer System: A Programmer's Perspective.
 - [The Deadlock Empire](https://deadlockempire.github.io/): Slay dragons, learn concurrency! Play the cunning Scheduler, exploit flawed programs and defeat the armies of the Parallel Wizard.
 - [Data Compression Explained](https://mattmahoney.net/dc/dce.html): This book is for the reader who wants to understand how data compression works, or who wants to write data compression software.
+- [TCP Congestion Control: A Systems Approach](https://tcpcc.systemsapproach.org/): A book by Peterson, Brakmo, and Davie
 
 ## Compiler
 
@@ -195,6 +198,7 @@
 
 - [gh:erofs](https://github.com/erofs): EROFS filesystem project.
 - [gh:mhx/dwarfs](https://github.com/mhx/dwarfs): A fast high-compression read-only file system for Linux, FreeBSD, macOS and Windows
+- [gh:multikernel/daxfs](https://github.com/multikernel/daxfs): Disaggregated filesystem for CXL and multikernel shared memory
 
 ## BPF
 

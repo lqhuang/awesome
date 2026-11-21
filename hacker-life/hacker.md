@@ -310,6 +310,7 @@
 - [gh:eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter): 按性价比排序的循证生活指南：长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。 <https://eternity4719.github.io/HowToLiveBetter/>
   - too hard to live
 - [gh:lexifina/global-law](https://github.com/lexifina/global-law): Git for Global Law: the law of every country as one git history, each country's record a submodule, every commit one law taking effect
+- 🌟 [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file): Direct File <https://directfile.irs.gov>
 
 ## Branding
 
@@ -349,7 +350,6 @@
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator): A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本) <https://github.com/fishjar/kiss-translator>
 - [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead): Open Immersive Translate. A revolutionary open-source browser translation plugin that enables everyone to have a native-like reading experience. 开源的沉浸式翻译，一款革命性的浏览器翻译插件，让所有人都能够拥有母语般的阅读体验。 <https://fluent.thinkstu.com>
 - 🌟 [Refactoring English](https://refactoringenglish.com/): Effective writing for software developers
-- [IRS-Public/direct-file](https://github.com/IRS-Public/direct-file): Direct File <https://directfile.irs.gov>
 - 🌟 [技术语境中那些熟悉又陌生的英语动词 - neverland](https://hsu.cy/2025/12/interesting-verbs-in-computing/)
 - [gh:zgwl/chinese-buy-us-stock-guide](https://github.com/zgwl/chinese-buy-us-stock-guide): 美股指南
 

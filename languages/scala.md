@@ -194,6 +194,8 @@
 - [gh:OWASP-Benchmark/BenchmarkJava](https://github.com/OWASP-Benchmark/BenchmarkJava): OWASP Benchmark is a test suite designed to verify the speed and accuracy of software vulnerability detection tools. A fully runnable web app written in Java, it supports analysis by Static (SAST), Dynamic (DAST), and Runtime (IAST) tools that support Java. The idea is that since it is fully runnable and all the vulnerabilities are actually expl… <https://owasp.org/www-project-benchmark/>
 - [gh:Jaspersoft/jasperreports](https://github.com/Jaspersoft/jasperreports): JasperReports® - Free Java Reporting Library <https://community.jaspersoft.com/downloads/community-edition/>
 - [gh:lampepfl/scala3-benchmarks](https://github.com/lampepfl/scala3-benchmarks): <https://lampepfl.github.io/scala3-benchmarks/>
+- [gh:mlangc/jmh-visualizer](https://github.com/mlangc/jmh-visualizer): Visually explore your JMH Benchmarks <https://mlangc.github.io/jmh-visualizer/>
+  - AGPL-3.0
 
 ### Compiler plugins
 
@@ -214,6 +216,7 @@
 - [gh:jatcwang/scalafix-named-params](https://github.com/jatcwang/scalafix-named-params): A scalafix rule to apply named parameters
 - [gh:scala-garden/scala-rewrites](https://github.com/scala-garden/scala-rewrites): Scalafix Rewrites for Scala
 - [gh:eed3si9n/scruff](https://github.com/eed3si9n/scruff): a fast and normalizing Scala code formatter, written in Rust
+  - [scruff, a Scala code formatter · eed3si9n](https://eed3si9n.com/scruff-scala-code-formatter/)
 
 ### Program Analysis
 
@@ -340,6 +343,8 @@ Do a benchmark (for final size while using Scala Native)?
 - [gh:JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime): Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
 - [gh:retronym/jvm-heap-paths](https://github.com/retronym/jvm-heap-paths): Command-line GC root paths and field-path histograms for .hprof heap dumps (NetBeans heap library)
 - [gh:retronym/jvm-perf-lab](https://github.com/retronym/jvm-perf-lab): JMH profilers, paired A/B within a fork, Apple Silicon hardware counters and caller audits for JVM benchmarks
+- [gh:krzysztofslusarski/jvm-performance-toolkit](https://github.com/krzysztofslusarski/jvm-performance-toolkit)
+  - Viewer for collapsed stack and JFR outputs of profiles. Dedicated to Async-profiler, but works also with JDK Flight Recorder. It also contains the GC logs analyzer - analyzer of the JVM unified logs (GC, safepoints, class loading, threads, JIT compilation).
 
 ## Stream / Effect systems / Experiments
 
@@ -585,6 +590,7 @@ Tracing and OpenTelemetry
 - [makingthematrix/signals3](https://github.com/makingthematrix/signals3): A lightweight event streaming library for Scala 3
 - [propensive/contextual](https://github.com/propensive/contextual): Statically-checked string interpolation in Scala <https://propensive.com/contextual/>
 - [andyglow/scala-jsonschema](https://github.com/andyglow/scala-jsonschema): Scala JSON Schema
+- [gh:jam01/json-schema](https://github.com/jam01/json-schema): A push-style validator for JSON-like structures, built on upickle's `Visitor` framework.
 - [dataunitylab/jsonoid-discovery](https://github.com/dataunitylab/jsonoid-discovery): Distributed JSON schema discovery <https://dataunitylab.github.io/jsonoid-discovery/>
 - [aherlihy/carac](https://github.com/aherlihy/carac): A Datalog execution engine for Scala
 - [joernio/joern](https://github.com/joernio/joern): Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc <https://joern.io/>

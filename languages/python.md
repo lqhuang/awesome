@@ -429,20 +429,27 @@ Misc
   - Try to learn how to cooperate rust code with python `asyncio` module.
 - 📝 [falconry/falcon](https://github.com/falconry/falcon): The no-magic web data plane API and microservices framework for Python developers, with a focus on reliability, correctness, and performance at scale. <https://falcon.readthedocs.io/en/stable/>
 - [unum-cloud/ucall](https://github.com/unum-cloud/ucall): Remote Procedure Calls - 50x lower latency and 70x higher bandwidth than FastAPI, implementing JSON-RPC & 🔜 REST over io_uring and SIMDJSON ☎️ <https://unum-cloud.github.io/ucall/>
-- 🌟 [django/asgiref](https://github.com/django/asgiref): ASGI specification and utilities <https://asgi.readthedocs.io/en/latest>
-- [gh:oxpull/django-ox](https://github.com/oxpull/django-ox): Database-backed worker for Django's Tasks framework. Transactional enqueue, retries, recurring schedules, no broker to run. <https://oxpull.com/django-ox/>
-- [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx): A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
 - [spec-first/connexion](https://github.com/spec-first/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation & OAuth2 support <https://connexion.readthedocs.io/en/latest>
-- FastAPI
-  - [gh:fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users): Ready-to-use and customizable users management for FastAPI <https://fastapi-users.github.io/fastapi-users/>
-  - [gh:Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips): FastAPI Tips by The FastAPI Expert!
-  - [gh:NRWLDev/fastapi-problem](https://github.com/NRWLDev/fastapi-problem): Problem details for FASTApi.
-  - [gh:lbedner/aegis-stack](https://github.com/lbedner/aegis-stack): A production-ready FastAPI platform with modular components and a built-in control plane. <https://lbedner.github.io/aegis-stack/>
+- [gh:lbedner/aegis-stack](https://github.com/lbedner/aegis-stack): A production-ready FastAPI platform with modular components and a built-in control plane. <https://lbedner.github.io/aegis-stack/>
 - [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc): The python library for real-time communication <https://fastrtc.org/>
 - [python-hyper/wsproto](https://github.com/python-hyper/wsproto): Sans-IO WebSocket protocol implementation <https://wsproto.readthedocs.io/>
 - [squeaky-pl/japronto](https://github.com/squeaky-pl/japronto): Screaming-fast Python 3.5+ HTTP toolkit integrated with pipelining HTTP server based on uvloop and picohttpparser.
   - [h2o/picohttpparser](https://github.com/h2o/picohttpparser): tiny HTTP parser written in C (used in HTTP::Parser::XS et al.)
   - [h2o/h2o](https://github.com/h2o/h2o): H2O - the optimized HTTP/1, HTTP/2, HTTP/3 server <https://h2o.examp1e.net>
+
+Django
+
+- 🌟 [django/asgiref](https://github.com/django/asgiref): ASGI specification and utilities <https://asgi.readthedocs.io/en/latest>
+- [gh:oxpull/django-ox](https://github.com/oxpull/django-ox): Database-backed worker for Django's Tasks framework. Transactional enqueue, retries, recurring schedules, no broker to run. <https://oxpull.com/django-ox/>
+- [gh:kitware-resonant/django-s3-file-field](https://github.com/kitware-resonant/django-s3-file-field): A Django FileField whose uploads send file content straight from the client to AWS S3 or MinIO, never through the Django server.
+- [huynguyengl99/chanx](https://github.com/huynguyengl99/chanx): A batteries-included WebSocket framework for Django Channels, FastAPI, and ASGI-based applications.
+- [efe/yesglot](https://github.com/efe/yesglot): LLM-powered Django translations ✨ Just call me "python manage.py translatemessages" <https://pypi.org/project/yesglot/>
+
+FastAPI
+
+- [gh:fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users): Ready-to-use and customizable users management for FastAPI <https://fastapi-users.github.io/fastapi-users/>
+- [gh:Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips): FastAPI Tips by The FastAPI Expert!
+- [gh:NRWLDev/fastapi-problem](https://github.com/NRWLDev/fastapi-problem): Problem details for FASTApi.
 
 #### Web utils
 
@@ -476,7 +483,6 @@ Misc
 - [abersheeran/asgi-ratelimit](https://github.com/abersheeran/asgi-ratelimit): A ASGI Middleware to rate limit
 - [aio-libs/yarl](https://github.com/aio-libs/yarl): Yet another URL library <https://yarl.readthedocs.io>
 - [python-babel/babel](https://github.com/python-babel/babel): The official repository for Babel, the Python Internationalization Library <http://babel.pocoo.org/>
-- [efe/yesglot](https://github.com/efe/yesglot): LLM-powered Django translations ✨ Just call me "python manage.py translatemessages" <https://pypi.org/project/yesglot/>
 - [gh:ormar-orm/ormar](https://github.com/ormar-orm/ormar): python async orm with fastapi in mind and pydantic validation <https://collerek.github.io/ormar/>
 - 🌟 [gh:TypeError/secure](https://github.com/TypeError/secure): Modern Python library for HTTP security headers with safe defaults, configurable presets, and first-class ASGI/WSGI middleware (FastAPI, Django, Flask, Shiny, and more).
 

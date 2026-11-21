@@ -90,7 +90,6 @@ Major in React ecosystem, but also include other frameworks and libraries.
 - [exhibitionist-digital/ultra](https://github.com/exhibitionist-digital/ultra): Zero-Legacy Deno/React Suspense SSR Framework <https://ultrajs.dev>
 - [xyflow/xyflow](https://github.com/xyflow/xyflow): React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable. <https://xyflow.com>
   - [gh:tisoap/react-flow-smart-edge](https://github.com/tisoap/react-flow-smart-edge): Custom Edge for React Flow that never intersects with other nodes <https://tisoap.github.io/react-flow-smart-edge/>
-- [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js): A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
 - [gh:synergycodes/ng-diagram](https://github.com/synergycodes/ng-diagram): ngDiagram – An open-source Angular library for creating rich, interactive diagramming experiences. Designed for flexibility and performance, it lets you build everything from simple flows to advanced visual editors with ease <https://www.ngdiagram.dev/docs>
 - [onejs/one](https://github.com/onejs/one): ❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite. <https://onestack.dev>
 - [nuejs/nue](https://github.com/nuejs/nue): Standards first web framework taking HTML, CSS, JS, and WASM to their peak <https://nuejs.org>
@@ -156,6 +155,7 @@ Major in React ecosystem, but also include other frameworks and libraries.
 ### CSS Libraries
 
 - [gh:postcss/postcss-safe-parser](https://github.com/postcss/postcss-safe-parser): Fault tolerant CSS parser for PostCSS
+- [addyosmani/critical](https://github.com/addyosmani/critical): Extract & Inline Critical-path CSS in HTML pages
 
 ### CSS in JS
 
@@ -355,7 +355,7 @@ Genius!
 
 - 🌟 [gh:emilkowalski/vaul](https://github.com/emilkowalski/vaul): A drawer component for React. <https://vaul.emilkowal.ski>
 - 🌟 [gh:emilkowalski/sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React. <https://sonner.emilkowal.ski>
-- 🌟 [gh:pacocoursey/cmdk](https://github.com/pacocoursey/cmdk): Fast, unstyled command menu React component. <https://cmdk.paco.me>
+- 🌟 [gh:dip/cmdk](https://github.com/dip/cmdk): Fast, unstyled command menu React component.
   - [gh:huntabyte/cmdk-sv](https://github.com/huntabyte/cmdk-sv): cmdk, but for Svelte ✨ <https://cmdk-sv.com>
 - 🌟 [gh:pierrecomputer/pierre](https://github.com/pierrecomputer/pierre): pierre’s open source code <https://pierre.computer>
   - `@pierre/diffs`
@@ -384,6 +384,7 @@ Table / Grid
 - [gh:svar-widgets/react-grid](https://github.com/svar-widgets/react-grid): Fast, feature-rich React datagrid with sorting, filtering, virtual scrolling, and more <https://svar.dev/react/datagrid/>
 - [gh:svar-widgets/react-gantt](https://github.com/svar-widgets/react-gantt): High-performance React Gantt chart with TypeScript support and flexible timeline configuration. <https://svar.dev/react/gantt/>
   - [gh:svar-widgets/gantt](https://github.com/svar-widgets/gantt): Svelte Gantt chart component – lightweight, customizable, interactive, and fast. <https://svar.dev/svelte/gantt/>
+- [gh:6pac/SlickGrid](https://github.com/6pac/SlickGrid): A lightning fast JavaScript grid/spreadsheet <http://6pac.github.io/SlickGrid/>
 
 Interactive Grid
 
@@ -537,6 +538,7 @@ PDF
 - 🪦 [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf): Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. <https://react.onedoclabs.com/>
 - [pdfslick/pdfslick](https://github.com/pdfslick/pdfslick): View and Interact with PDFs in React SolidJS, Svelte and JavaScript apps <https://pdfslick.dev>
 - [gh:cosmiciron/vmprint](https://github.com/cosmiciron/vmprint): An alternative to React-PDF — render multi-page documents anywhere. Preview on canvas and export to PDF/SVG from the same layout — no PDF.js, no React, no server. Pure JS, no dependencies. ~1.7MB. https://cosmiciron.github.io/vmprint/examples/preview/ <https://cosmiciron.github.io/vmprint/>
+- [gh:flyfish-dev/file-viewer](https://github.com/flyfish-dev/file-viewer): Preview 275+ file formats in the browser: Office, PDF, OFD, CAD, 3D, archives. Pure frontend, no server conversion. Vue / React / Svelte / Web Components. <https://file-viewer.app>
 
 DateTime related
 
@@ -597,6 +599,10 @@ Geolocation
 - [visgl/react-google-maps](https://github.com/visgl/react-google-maps): React components and hooks for the Google Maps JavaScript API <https://visgl.github.io/react-google-maps/>
 - [gh:maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js/): MapLibre GL JS - Interactive vector tile maps in the browser <https://maplibre.org/maplibre-gl-js/docs/>
 
+Scroll behaviors
+
+- 🌟 [gh:darkroomengineering/lenis](https://github.com/darkroomengineering/lenis): Smooth scroll at it should be <https://lenis.dev>
+
 Misc
 
 - [vercel/satori](https://github.com/vercel/satori): Enlightened library to convert HTML and CSS to SVG <https://og-playground.vercel.app/>
@@ -626,7 +632,6 @@ Misc
 - [bryntum/chronograph](https://github.com/bryntum/chronograph): A reactive state management system with novel and unique properties <https://bryntum.github.io/chronograph/docs/>
 - [wigggle-ui/ui](https://github.com/wigggle-ui/ui): A beautiful collection of copy-and-paste widgets for your next project. <https://wigggle-ui.vercel.app>
 - [roerohan/react-vnc](https://github.com/roerohan/react-vnc): A React Component to connect to a websockified VNC server using noVNC. <https://npmjs.com/package/react-vnc>
-- [typsusan-zzz/canvas-drawing-editor](https://github.com/typsusan-zzz/canvas-drawing-editor): 强大的 Canvas 画布编辑器 Web Component，零依赖，支持 Vue 2/3、React、Angular 和原生 HTML | A powerful canvas-based drawing editor Web Component - Zero dependencies, works with Vue 2/3, React, Angular, and vanilla HTML <https://typsusan-zzz.github.io/canvas-drawing-editor/>
 - 🌟 [adesignl/Peek](https://github.com/adesignl/Peek): Light Weight "Headroom Style" scroll intent library that hides the site header on scroll down and shows on scroll up
 - [gh:openseadragon/openseadragon](https://github.com/openseadragon/openseadragon): An open-source, web-based viewer for zoomable images, implemented in pure JavaScript. <http://openseadragon.github.io/>
 - 🌟🌟🌟 [gh:arnog/mathlive](https://github.com/arnog/mathlive): Web components for math display and input <https://mathlive.io>
@@ -636,7 +641,7 @@ Misc
 - [gh:modem-dev/hunk](https://github.com/modem-dev/hunk): Review-first terminal diff viewer for agentic coders
 - [gh:c15t/c15t](https://github.com/c15t/c15t): The Developer-First Cookie Banner <https://c15t.com>
 - [gh:iyiolacak/mood-wheel](https://github.com/iyiolacak/mood-wheel): Tactile five-stop mood wheel and agent question reel extracted from Muzluk <https://www.npmjs.com/package/@muzluk/agent-questions>
-  - Awesome if you don't mind the dependency on pixi.js
+  - Awesome if you don't mind the dependency on pixijs
 - [gh:JaceThings/Highlighters](https://github.com/JaceThings/Highlighters): Realistic, deeply customizable highlighter-pen marks for web text. From a single word to a whole page: multiline, deterministic, and SSR-safe. <https://highlighte.rs>
 
 #### Editor
@@ -661,6 +666,8 @@ Syntax hightlight
 - [blenderskool/react-code-block](https://github.com/blenderskool/react-code-block): 🧩 Set of unstyled UI components to build powerful code blocks in React. <https://react-code-block.netlify.app>
 - [andreruffert/syntax-highlight-element](https://github.com/andreruffert/syntax-highlight-element): 👓 Syntax Highlighting using the CSS Custom Highlight API <https://andreruffert.github.io/syntax-highlight-element/>
 - [huozhi/sugar-high](https://github.com/huozhi/sugar-high): ✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped <https://sugar-high.vercel.app>
+- [gh:slorber/gpu-lexer-textarea](https://github.com/slorber/gpu-lexer-textarea): Demo of using gpu-lexer with the new OpaqueRange web API (Chrome 152+) to create a universal syntax highlighter within an editable textarea <https://gpu-lexer-textarea.netlify.app/>
+- 🌟🌟🌟 [gh:pierrecomputer/pierre](https://github.com/pierrecomputer/pierre): pierre’s open source code <https://pierre.computer>
 
 #### Animation
 
@@ -674,8 +681,6 @@ Syntax hightlight
 - [formkit/auto-animate](https://github.com/formkit/auto-animate): A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application. <https://auto-animate.formkit.com>
 - [barbajs/barba](https://github.com/barbajs/barba): Create badass, fluid and smooth transitions between your website’s pages. <https://barba.js.org/>
 - 🌟 [Etesam913/react-magic-motion](https://github.com/Etesam913/react-magic-motion): react-magic-motion is a react.js library that ✨ magically animates your components. <https://react-magic-motion.com>
-- 🌟 [liabru/matter-js](https://github.com/liabru/matter-js): a 2D rigid body physics engine for the web ▲● ■
-- 🌟 [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas): An React.js component library for beautifully shaded canvas <https://uvcanvas.com>
 - [greensock/GSAP](https://github.com/greensock/GSAP): GSAP (GreenSock Animation Platform), a JavaScript animation library for the modern web <https://gsap.com>
   - [gh:heygen-com/hyperframes](https://github.com/heygen-com/hyperframes): Write HTML. Render video. Built for agents.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css): 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing. <https://animate.style/>
@@ -705,26 +710,20 @@ Concrete animations
 - [AmanShakya0018/forgeui](https://github.com/AmanShakya0018/forgeui): ForgeUI is a customizable, developer-friendly React component library, enabling rapid UI development with modern design, seamless integration, and reusable components tailored for modern web projects. <https://forgeui.in>
 - [jonsuh/hamburgers](https://github.com/jonsuh/hamburgers): Tasty CSS-animated Hamburgers <https://jonsuh.com/hamburgers>
 - [elrumordelaluz/csshake](https://github.com/elrumordelaluz/csshake): CSS classes to move your DOM! <https://elrumordelaluz.github.io/csshake/>
-- 🌟 [paper-design/shaders](https://github.com/paper-design/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper <https://paper.design>
-- [shaders.com](https://shaders.com/): shader magic ✨ for frontend frameworks
-- [gh:DavidHDev/canvas-ui](https://github.com/DavidHDev/canvas-ui): A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla. <https://canvasui.dev/>
 - [shajidhasan/spoilerjs](https://github.com/shajidhasan/spoilerjs): A framework-agnostic web component for creating beautiful spoiler effects with Telegram-inspired particle animations. <https://spoilerjs.sh4jid.me>
 - [winterx/color4bg.js](https://github.com/winterx/color4bg.js): Cool colorful backgrounds, generated by JS
 - [anl331/goey-toast](https://github.com/anl331/goey-toast): A gooey, morphing toast component built on Sonner with Framer Motion animations <https://goey-toast.vercel.app>
 - 🌟 [hiaaryan/sileo](https://github.com/hiaaryan/sileo): An opinionated, physics-based toast component for React. <https://sileo.aaryan.design>
 - [gh:pbakaus/radiant](https://github.com/pbakaus/radiant): A curated collection of generative shader art <https://radiant-shaders.com>
 - [gh:IveTian/dot-anime-react](https://github.com/IveTian/dot-anime-react): A lightweight React dot matrix animation component with zero dependencies <https://dotanime.dev>
-- 🌟 [gh:darkroomengineering/lenis](https://github.com/darkroomengineering/lenis): Smooth scroll at it should be <https://lenis.dev>
 - [gh:darkroomengineering/tempus](https://github.com/darkroomengineering/tempus): Use only one requestAnimationFrame for your whole app
 - [gh:KurtGokhan/tegaki](https://github.com/KurtGokhan/tegaki): Handwriting animation for any font <http://gkurt.com/tegaki>
-- 🌟 [gh:Jakubantalik/border-beam](https://github.com/Jakubantalik/border-beam): Animated border beam effect for React <http://beam.jakubantalik.com/>
 - 🌟 [gh:codse/animata](https://github.com/codse/animata): Bring your site to life with easy to use animation & interaction code. Copy. Paste. Animate. <https://animata.design>
 - [gh:pixel-point/animate-text](https://github.com/pixel-point/animate-text): Crafted text animations
 - [gh:raphaelsalaja/calligraph](https://github.com/raphaelsalaja/calligraph): Fluid text transitions powered by Motion. <https://calligraph.raphaelsalaja.com>
-- [gh:takuyajodai/edge-aura](https://github.com/takuyajodai/edge-aura): An organic glow that hugs the edge of your screen — zero-dependency Canvas 2D engine + React adapter <https://edge-aura-xi.vercel.app/>
 - [Softle - Physics native design tool](https://softle.app/): Bend, squish and collide organic shapes for real, instead of faking it by hand with the pen tool. A design tool that does the physics. Coming soon.
 - [gh:Jakubantalik/Libraries](https://github.com/Jakubantalik/Libraries): Collection of effects for React: Border beam, Liquid Gooey <https://beam.jakubantalik.com/>
-- [gh:ruucm/shadergradient](https://github.com/ruucm/shadergradient): Create beautiful moving gradients on Framer, Figma and React <https://shadergradient.co>
+- [gh:Jakubantalik/metal-fx](https://github.com/Jakubantalik/metal-fx): Animated WebGL liquid-metal effect for React buttons and UI components <https://metal.jakubantalik.com>
 - [gh:danielwh2/cube-motion](https://github.com/danielwh2/cube-motion): Four motions, no dials. Every duration, curve and distance is already decided, so the only thing left to choose is which element moves. <https://www.cube-motion.dev/>
 - [gh:JaceThings/Lisse](https://github.com/JaceThings/Lisse): Smooth-corner SVG primitives for React, Vue, Svelte, and Octane. Pixel-perfect Figma squircles + three other corner curves. <https://corne.rs>
 - [gh:raphaelsalaja/motion-blur](https://github.com/raphaelsalaja/motion-blur): Motion blur for moving DOM elements, sized from speed, frame time and shutter angle. <https://raphaelsalaja.com/work/motion-blur>
@@ -739,6 +738,7 @@ Liquid Glass
 - 🌟 [gh:huozhi/vaso](https://github.com/huozhi/vaso): Liquid Glass effect for React <https://vasooo.vercel.app>
 - 🌟 [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react): Apple's Liquid Glass effect for React
 - [Liquid Glass in the Browser](https://kube.io/blog/liquid-glass-css-svg): Explore how to recreate Apple's stunning Liquid Glass effect using CSS, SVG Displacement Maps, and refraction calculations.
+- [gh:nkzw-tech/liquid-glass](https://github.com/nkzw-tech/liquid-glass): Apple's Liquid Glass effect for React
 
 ## Functional libraries
 
@@ -761,6 +761,7 @@ Liquid Glass
   - [jotaijs/jotai-scheduler](https://github.com/jotaijs/jotai-scheduler): A Jōtai utility package for better performance and user experience.
   - [jotaijs/jotai-transaction](https://github.com/jotaijs/jotai-transaction): Utility package for executing atomic transactions in Jotai.
   - [form-atoms/form-atoms](https://github.com/form-atoms/form-atoms): Jotai form atoms <https://codesandbox.io/s/getting-started-with-form-atoms-v2-ddhgq2?file=/src/App.tsx>
+- [gh:pmndrs/koota](https://github.com/pmndrs/koota): 🌎 Performant real-time state management for React and TypeScript
 - [statelyai/xstate](https://github.com/statelyai/xstate):State machines and statecharts for the modern web. <https://xstate.js.org/docs>
 - 🌟 [immerjs/immer](https://github.com/immerjs/immer): Create the next immutable state by mutating the current one <https://immerjs.github.io/immer>
 - [unadlib/mutative](https://github.com/unadlib/mutative): Efficient immutable updates, 2-6x faster than naive handcrafted reducer, and more than 10x faster than Immer. <http://mutative.js.org/>
@@ -773,6 +774,20 @@ Liquid Glass
 
 - [QuiiBz/next-international](https://github.com/QuiiBz/next-international): Type-safe internationalization (i18n) for Next.js <https://next-international.vercel.app>
 - [gh:aymericzip/intlayer](https://github.com/aymericzip/intlayer): Per-component Internationalisation solution for JS application. Type-Safe. Translate with AI. Edit Visually. <https://intlayer.org>
+- [gh:x18n-dev/x18n](https://github.com/x18n-dev/x18n): Universal toolkits for linting, viewing and managing i18n for any frameworks. <https://x18n.dev>
+- [gh:nkzw-tech/fbtee](https://github.com/nkzw-tech/fbtee): The JavaScript & React Internationalization Framework. <https://fbtee.dev>
+
+### React Hooks
+
+- [streamich/react-use](https://github.com/streamich/react-use): React Hooks — 👍 <http://streamich.github.io/react-use>
+- 🌟 [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done right. For Browser, SSR, and React Server Components. <https://foxact.skk.moe>
+- 🌟 [gh:darkroomengineering/hamo](https://github.com/darkroomengineering/hamo): Hamo means hook, do the math.
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks): A collection of modern, server-safe React hooks – from the ui.dev team <https://usehooks.com>
+- [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string. <https://nuqs.47ng.com>
+- 🌟 [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action): Type safe and validated Server Actions in your Next.js project. <https://next-safe-action.dev>
+- 🌟 [amrlabib/react-timer-hook](https://github.com/amrlabib/react-timer-hook): React timer hook <https://www.npmjs.com/package/react-timer-hook>
+- [hypershiphq/react-cookie-manager](https://github.com/hypershiphq/react-cookie-manager): A powerful, customizable React component for cookie consent management with built-in tracking prevention. This component provides a modern, user-friendly way to obtain and manage cookie consent from your website visitors.
+- [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware): ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes <https://fezvrasta.github.io/react-resize-aware>
 
 ### Utils
 
@@ -780,29 +795,20 @@ Liquid Glass
 - [OpenGeoscience/geojs](https://github.com/OpenGeoscience/geojs): High-performance visualization and interactive data exploration of scientific and geospatial location aware datasets <https://opengeoscience.github.io/geojs>
 - [sindresorhus/clipboardy](https://github.com/sindresorhus/clipboardy): Access the system clipboard (copy/paste)
 - [github/clipboard-copy-element](https://github.com/github/clipboard-copy-element): Copy element text content or input values to the clipboard. <https://github.github.io/clipboard-copy-element/examples/>
-- [streamich/react-use](https://github.com/streamich/react-use): React Hooks — 👍 <http://streamich.github.io/react-use>
-- 🌟 [SukkaW/foxact](https://github.com/SukkaW/foxact): React Hooks/Utils done right. For Browser, SSR, and React Server Components. <https://foxact.skk.moe>
-- [uidotdev/usehooks](https://github.com/uidotdev/usehooks): A collection of modern, server-safe React hooks – from the ui.dev team <https://usehooks.com>
-- [47ng/nuqs](https://github.com/47ng/nuqs): Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string. <https://nuqs.47ng.com>
 - [maslianok/react-resize-detector](https://github.com/maslianok/react-resize-detector): A Cross-Browser, Event-based, Element Resize Detection for React <http://maslianok.github.io/react-resize-detector/>
-- [FezVrasta/react-resize-aware](https://github.com/FezVrasta/react-resize-aware): ⇲👁 A simple React Hook which allows to listen the resize event of any target element when it changes sizes <https://fezvrasta.github.io/react-resize-aware>
 - 🌟 [hoppergee/heic-to](https://github.com/hoppergee/heic-to): Convert HEIC/HEIF images to JPEG, PNG in browser
-- 🌟 [TheEdoRan/next-safe-action](https://github.com/TheEdoRan/next-safe-action): Type safe and validated Server Actions in your Next.js project. <https://next-safe-action.dev>
-- 🌟 [amrlabib/react-timer-hook](https://github.com/amrlabib/react-timer-hook): React timer hook <https://www.npmjs.com/package/react-timer-hook>
-- [hypershiphq/react-cookie-manager](https://github.com/hypershiphq/react-cookie-manager): A powerful, customizable React component for cookie consent management with built-in tracking prevention. This component provides a modern, user-friendly way to obtain and manage cookie consent from your website visitors.
 - [svg/svgo](https://github.com/svg/svgo): ⚙️ Node.js tool for optimizing SVG files <https://svgo.dev/>
 - 🌟 [SukkaW/fast-escape-html](https://github.com/SukkaW/fast-escape-html): Fastest, plain JavaScript-based, HTML escaping library for JavaScript, works in both Node.js and browser. Even faster than a Rust-based one in real world HTMLs!
 - 🌟 [Assortment/darkmodejs](https://github.com/Assortment/darkmodejs): Utility package for managing Dark Mode on the web <https://darkmodejs-demo.netlify.com/>
   - small and clean, you can even just in-tree it
-- [kane50613/takumi](https://github.com/kane50613/takumi): Render your React components to images. Available for Rust, Node.js, and WebAssembly. <https://takumi.kane.tw>
+- 🌟 [gh:kane50613/takumi](https://github.com/kane50613/takumi): Render JSX, HTML, and CSS to SVG or images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement. <https://takumi.kane.tw>
+  - [gh:pi0/shiki-image](https://github.com/pi0/shiki-image): Convert code snippets into images. Powered by shiki and takumi. Super fast 🚀
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot): 📸 Quickly generate image from DOM node using HTML5 canvas and SVG. <https://toolpkg.com/html-to-image>
 - 🌟 [zumerlab/snapdom](https://github.com/zumerlab/snapdom): snapDOM captures HTML elements to images with exceptional speed and accuracy. <https://snapdom.dev>
 - 🌟 [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js): Sitemap-generating framework for node.js
 - [TanStack/pacer](https://github.com/TanStack/pacer): Utilities for debouncing, throttling, rate limiting, and queueing. Non-async and Async. <https://tanstack.com/pacer>
   - Official note: TanStack Pacer is currently mostly a client-side only library, but it is being designed to be able to potentially be used on the server-side as well.
 - [hamzaydia/verifyfetch](https://github.com/hamzaydia/verifyfetch): Resumable, verified downloads for large browser files. Fail at 3.8GB, resume from 3.8GB. <https://verifyfetch.com/>
-- 🌟 [gh:kane50613/takumi](https://github.com/kane50613/takumi): Render JSX, HTML, and CSS to SVG or images without a headless browser. OG cards, animated GIFs, and video frames from Node.js, edge runtimes, browsers, or Rust. Drop-in next/og replacement. <https://takumi.kane.tw>
-  - [gh:pi0/shiki-image](https://github.com/pi0/shiki-image): Convert code snippets into images. Powered by shiki and takumi. Super fast 🚀
 
 ### Dev Tools
 
@@ -874,7 +880,6 @@ Liquid Glass
 - [lepture/github-gist](https://github.com/lepture/github-gist): Web component for GitHub Gist <https://lab.lepture.com/github-gist/>
 - [toomuchdesign/react-minimal-pie-chart](https://github.com/toomuchdesign/react-minimal-pie-chart): 🍰 Lightweight but versatile SVG pie/donut charts for React. < 2kB gzipped. <https://toomuchdesign.github.io/react-minimal-pie-chart/index.html>
 - [tradingview/lightweight-charts](https://github.com/tradingview/lightweight-charts): Performant financial charts built with HTML5 canvas <https://www.tradingview.com/lightweight-charts/>
-- [konvajs/konva](https://github.com/konvajs/konva): Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. <http://konvajs.org/>
 - [naver/billboard.js](https://github.com/naver/billboard.js): 📊 Re-usable, easy interface JavaScript chart library based on D3.js <https://naver.github.io/billboard.js/>
 - [recharts/recharts](https://github.com/recharts/recharts): Redefined chart library built with React and D3 <http://recharts.org>
 - [legions-developer/evilcharts](https://github.com/legions-developer/evilcharts): A Beautiful & Animated Chart UI Website built on top of shadcn & recharts. <https://evilcharts.com>
@@ -959,6 +964,7 @@ Liquid Glass
 - [gh:cossistantcom/cossistant](https://github.com/cossistantcom/cossistant): Open-source, customer support platform with fully customizable AI support agents for developers / startups shipping SaaS. <https://cossistant.com>
 - [The Noun Project](https://thenounproject.com/): Free Icons and Stock Photos, Made by Humans
 - [gh:SanKyu-Lab/circle-flags-ui](https://github.com/SanKyu-Lab/circle-flags-ui): 📦 400+ circular SVG flags for React, Vue 3, and Solid.js — tree-shakeable, TypeScript-ready, SSR-friendly. <https://react-circle-flags.js.org/>
+- [gh:pierrecomputer/icons](https://github.com/pierrecomputer/icons)
 
 ### Logos / Brand icons
 
@@ -974,6 +980,12 @@ Liquid Glass
 - [gh:enesozturk/thinking-logos](https://github.com/enesozturk/thinking-logos): Your logo, as your agent's loading animation. Bake any SVG into a dot cloud and play it as seven AI loading states. <https://thinking-logos.ozturkenes.com>
   - [Thinking Logos — your logo as the loading state](https://thinking-logos.ozturkenes.com/): Bake any SVG into a dot cloud and play it as seven distinct agent loading states. Auto dark/light, no rasteriser at runtime.
 
+## Website Auditing
+
+- [gh:GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse): Automated auditing, performance metrics, and best practices for the web. <https://developer.chrome.com/docs/lighthouse/overview/>
+  - [gh:GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci): Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
+- [gh:GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals): Essential metrics for a healthy site. <https://web.dev/vitals>
+
 ## Further topics
 
 ### WebAssembly
@@ -983,6 +995,8 @@ Liquid Glass
 
 ### WebGPU / Web3D
 
+Libraries
+
 - [Orillusion/orillusion](https://github.com/Orillusion/orillusion): Orillusion is a pure Web3D rendering engine which is fully developed based on the WebGPU standard. <https://www.orillusion.com>
 - [google/model-viewer](https://github.com/google/model-viewer): Easily display interactive 3D models on the web and in AR! <https://modelviewer.dev>
 - [Scthe/nanite-webgpu](https://github.com/Scthe/nanite-webgpu): UE5's Nanite implementation using WebGPU. Includes the meshlet LOD hierarchy, software rasterizer and billboard impostors. Culling on both per-instance and per-meshlet basis. <https://scthe.github.io/nanite-webgpu/>
@@ -991,37 +1005,61 @@ Liquid Glass
   - lightweight three.js alternative
 - [Kitware/vtk-js](https://github.com/Kitware/vtk-js): Visualization Toolkit for the Web <https://kitware.github.io/vtk-js/>
 - 🌟 [compute-toys/compute.toys](https://github.com/compute-toys/compute.toys): Shadertoy for WebGPU compute shaders. <https://compute.toys>
-- [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js <https://docs.pmnd.rs/react-three-fiber>
-- [pmndrs/timeline](https://github.com/pmndrs/timeline): → Write composable 3D behaviors like a story. <https://pmndrs.github.io/timeline/>
-  - By generators 🤔
 - [jeffreylanters/react-unity-webgl](https://github.com/jeffreylanters/react-unity-webgl): React Unity WebGL provides a modern solution for embedding Unity WebGL builds in your React Application while providing advanced APIs for two way communication and interaction between Unity and React. <https://react-unity-webgl.dev>
 - [StateLayer](https://statelayer.com/): A declarative 3D component framework!
-- [pmndrs/triplex](https://github.com/pmndrs/triplex): The open source visual workspace for React / Three Fiber. Build the 2D and 3D web. <https://triplex.dev>
-- [gh:shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders): WebGPU components for React, Vue, Svelte, Solid, JS & Framer <https://shaders.com>
-- [The Book of Shaders](https://thebookofshaders.com/): Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
-  - Cool! And it has a lot of multi-lang translations
+- [gh:pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber): 🇨🇭 A React renderer for Three.js <https://docs.pmnd.rs/react-three-fiber>
+- [gh:pmndrs/timeline](https://github.com/pmndrs/timeline): → Write composable 3D behaviors like a story. <https://pmndrs.github.io/timeline/>
+  - By generators 🤔
+- [gh:pmndrs/triplex](https://github.com/pmndrs/triplex): The open source visual workspace for React / Three Fiber. Build the 2D and 3D web. <https://triplex.dev>
+- [gh:pmndrs/math](https://github.com/pmndrs/math): 🧮 The playful web's math engine <https://pmndrs.github.io/math/>
 - [ChartGPU/ChartGPU](https://github.com/ChartGPU/ChartGPU): Beautiful, open source, WebGPU-based charting library
 - [gh:react-scad/react-scad](https://github.com/react-scad/react-scad): Transpile JSX to SCAD.
-- [gh:nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d): A real-time 3D digital map of Tokyo's public transport system <https://minitokyo3d.com>
-- [gh:WICG/html-in-canvas](https://github.com/WICG/html-in-canvas): This is a proposal for using 2D and 3D `<canvas>` to customize the rendering of HTML content.
-  - [gh:remotion-dev/html-in-canvas](https://github.com/remotion-dev/html-in-canvas): Shows the capabilities of HTML-in-canvas and Remotion using the `<HtmlInCanvas>` component. <https://remotion.dev/html-in-canvas>
-- [gh:devdotfast/whiteboard](https://github.com/devdotfast/whiteboard): open-source canvas for thoughtful software design <https://whiteboard.dev.fast/>
-- [gh:Jakubantalik/metal-fx](https://github.com/Jakubantalik/metal-fx): Animated WebGL liquid-metal effect for React buttons and UI components <https://metal.jakubantalik.com>
 - 🌟 [gh:gre/gl-react](https://github.com/gre/gl-react): gl-react – React library to write and compose WebGL shaders <http://gre.github.io/gl-react/>
 - [gh:HarryStevens/geometric](https://github.com/HarryStevens/geometric): A JavaScript library for doing geometry. <https://www.harryjstevens.com/geometric/>
 - [gh:LayoutitStudio/polycss](https://github.com/LayoutitStudio/polycss): A CSS 3D engine for the DOM. Renders polygon meshes in HTML by leveraging matrix3d transforms. <https://polycss.com>
 - [gh:vercel-labs/vgpu](https://github.com/vercel-labs/vgpu): Modular cross-runtime WebGPU library for shaders, 3D scenes, GPU tensors, neural networks, and math viz <https://vgpu.labs.vercel.dev>
+- [gh:meshy-dev/ThreeRT](https://github.com/meshy-dev/ThreeRT): Hardware ray-traced three.js: a real-time path tracer behind a three.js-style API. Rust + wgpu engine, TypeScript scene and gameplay packages. <https://threert.dev>
 - [Sketchfab - The best 3D viewer on the web](https://sketchfab.com/): With a community of over one million creators, we are the world’s largest platform to publish, share, and discover 3D content on web, mobile, AR, and VR.
+
+Shaders
+
+- [gh:shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders): WebGPU components for React, Vue, Svelte, Solid, JS & Framer <https://shaders.com>
+  - [shaders.com](https://shaders.com/): shader magic ✨ for frontend frameworks
+- [The Book of Shaders](https://thebookofshaders.com/): Gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+  - Cool! And it has a lot of multi-lang translations
+- [gh:ruucm/shadergradient](https://github.com/ruucm/shadergradient): Create beautiful moving gradients on Framer, Figma and React <https://shadergradient.co>
+- [paper-design/shaders](https://github.com/paper-design/shaders): Zero-dependency canvas shaders that can be installed from npm or designed in Paper <https://paper.design>
+- [Pryzm](https://pryzm.design/): Background & Visual Studio for Designers
+  - > Pryzm is a visual studio for designers. Create original backgrounds and textures for your websites, templates, and designs in seconds, right in your browser.
+
+Study cases
+
+- [gh:nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d): A real-time 3D digital map of Tokyo's public transport system <https://minitokyo3d.com>
+
+### Canvas
+
+- [gh:WICG/html-in-canvas](https://github.com/WICG/html-in-canvas): This is a proposal for using 2D and 3D `<canvas>` to customize the rendering of HTML content.
+  - [gh:remotion-dev/html-in-canvas](https://github.com/remotion-dev/html-in-canvas): Shows the capabilities of HTML-in-canvas and Remotion using the `<HtmlInCanvas>` component. <https://remotion.dev/html-in-canvas>
+- [gh:devdotfast/whiteboard](https://github.com/devdotfast/whiteboard): open-source canvas for thoughtful software design <https://whiteboard.dev.fast/>
+- [jagenjo/litegraph.js](https://github.com/jagenjo/litegraph.js): A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.
+- [typsusan-zzz/canvas-drawing-editor](https://github.com/typsusan-zzz/canvas-drawing-editor): 强大的 Canvas 画布编辑器 Web Component，零依赖，支持 Vue 2/3、React、Angular 和原生 HTML | A powerful canvas-based drawing editor Web Component - Zero dependencies, works with Vue 2/3, React, Angular, and vanilla HTML <https://typsusan-zzz.github.io/canvas-drawing-editor/>
+- [gh:DavidHDev/canvas-ui](https://github.com/DavidHDev/canvas-ui): A library of creative canvas components. Real HTML with WebGL effects running over it. React, Vue, Svelte, vanilla. <https://canvasui.dev/>
+- [gh:takuyajodai/edge-aura](https://github.com/takuyajodai/edge-aura): An organic glow that hugs the edge of your screen — zero-dependency Canvas 2D engine + React adapter <https://edge-aura-xi.vercel.app/>
+- 🌟 [latentcat/uvcanvas](https://github.com/latentcat/uvcanvas): An React.js component library for beautifully shaded canvas <https://uvcanvas.com>
+- 🌟 [konvajs/konva](https://github.com/konvajs/konva): Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. <http://konvajs.org/>
 
 ### Engine
 
-- [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay): 🦖 A JavaScript/TypeScript Game Library that feels like a game. <https://kaplayjs.com>
+- [gh:pixijs/pixijs](https://github.com/pixijs/pixijs): The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer. <http://pixijs.com>
+- [gh:kaplayjs/kaplay](https://github.com/kaplayjs/kaplay): 🦖 A JavaScript/TypeScript Game Library that feels like a game. <https://kaplayjs.com>
 - [gh:phaserjs/phaser](https://github.com/phaserjs/phaser): Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering. <https://phaser.io>
+- [gh:darkroomengineering/elastica](https://github.com/darkroomengineering/elastica): Physics engine for 2D rigid body collisions with React bindings. <https://elastica.darkroom.engineering>
+- 🌟 [liabru/matter-js](https://github.com/liabru/matter-js): a 2D rigid body physics engine for the web ▲● ■
 
 ### PWA
 
 - [What PWA can do](https://whatpwacando.today/): A Progressive Web App (PWA) is a website that can be installed on your device and provide an app-like experience
-- [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox): 📦 Workbox: JavaScript libraries for Progressive Web Apps <https://developers.google.com/web/tools/workbox/>
+- 🌟 [GoogleChrome/workbox](https://github.com/GoogleChrome/workbox): 📦 Workbox: JavaScript libraries for Progressive Web Apps <https://developers.google.com/web/tools/workbox/>
 - [airbnb/goji-js](https://github.com/airbnb/goji-js): React ❤️ Mini Program <https://goji.js.org>
   - [airbnb/eslint-plugin-miniprogram](https://github.com/airbnb/eslint-plugin-miniprogram): No description, website, or topics provided.
 - [Optimizing PWAs For Different Display Modes — Smashing MagazineClear SearchBack to top](https://www.smashingmagazine.com/2025/08/optimizing-pwas-different-display-modes/)

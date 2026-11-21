@@ -100,6 +100,7 @@
 - [sail-sg/jrystal](https://github.com/sail-sg/jrystal): A JAX-based Differentiable Density Functional Theory Framework for Materials <https://sail-sg.github.io/jrystal/>
 - [gh:Ceyron/exponax](https://github.com/Ceyron/exponax): Efficient Differentiable n-d PDE Solvers in JAX. <https://fkoehler.site/exponax/>
 - [gh:nv-tlabs/wosx](https://github.com/nv-tlabs/wosx): Grid-Free Monte Carlo Solvers for Physics Simulations Involving Partial Differential Equations
+- [gh:pmocz/differentiable-voronoi-fluids](https://github.com/pmocz/differentiable-voronoi-fluids): Reverse-mode auto-differentiable moving-mesh (Voronoi) fluid solver in JAX
 
 ## Prob / Bayesian Inference
 
